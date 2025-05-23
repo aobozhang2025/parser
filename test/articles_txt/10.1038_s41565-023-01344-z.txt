@@ -1,0 +1,1791 @@
+Designing single-site alloy catalysts using a degree-of-isolation descriptor | Nature Nanotechnology
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature nanotechnology
+articles
+article
+Designing single-site alloy catalysts using a degree-of-isolation descriptor
+Download PDF
+Article
+Published:
+27 March 2023
+Designing single-site alloy catalysts using a degree-of-isolation descriptor
+Xin Chang
+ORCID:
+orcid.org/0000-0003-0841-0322
+1
+,
+2
+na1
+,
+Zhi-Jian Zhao
+ORCID:
+orcid.org/0000-0002-8856-5078
+1
+,
+2
+,
+3
+,
+4
+,
+5
+na1
+,
+Zhenpu Lu
+1
+,
+2
+,
+Sai Chen
+1
+,
+2
+,
+Ran Luo
+5
+,
+Shenjun Zha
+1
+,
+2
+nAff6
+,
+Lulu Li
+1
+,
+2
+,
+Guodong Sun
+1
+,
+2
+,
+Chunlei Pei
+1
+,
+2
+&
+…
+Jinlong Gong
+ORCID:
+orcid.org/0000-0001-7263-318X
+1
+,
+2
+,
+3
+,
+4
+,
+5
+Show authors
+Nature Nanotechnology
+volume
+18
+,
+pages
+611–616 (
+2023
+)
+Cite this article
+11k
+Accesses
+25
+Altmetric
+Metrics
+details
+Subjects
+Heterogeneous catalysis
+Materials for energy and catalysis
+Abstract
+Geometrically isolated metal atoms in alloy catalysts can target efficient and selective catalysis. However, the geometric and electronic disturbance between the active atom and its neighbouring atoms, that is, diverse microenvironments, makes the active site ambiguous. Herein, we demonstrate a methodology to describe the microenvironment and determine the effectiveness of active sites in single-site alloys. A simple descriptor, degree-of-isolation, is proposed, considering both electronic regulation and geometric modulation within a PtM ensemble (M = transition metal). The catalytic performance of PtM single-site alloy is examined thoroughly using this descriptor for an industrially important reaction, propane dehydrogenation. The volcano-shaped isolation–selectivity plot reveals a Sabatier-type principle for designing selective single-site alloys. Specifically, for a single-site alloy with a high degree-of-isolation, alternation of the active centre has a great impact on tuning selectivity, validated by the outstanding consistency between experimental propylene selectivity and the computational descriptor.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Directing reaction pathways via in situ control of active site geometries in PdAu single-atom alloy catalysts
+Article
+Open access
+09 March 2021
+Electronic descriptors for designing high-entropy alloy electrocatalysts by leveraging local chemical environments
+Article
+Open access
+01 February 2025
+Atomic control of active-site ensembles in ordered alloys to enhance hydrogenation selectivity
+Article
+03 February 2022
+Main
+The regulation of electronic properties and geometric features on extended solid surfaces is indispensable in the pursuit of advanced catalysts. A landmark example is isolated metal atom geometries as a strategy
+1
+, which typically plays its role via suppressing undesired structure-sensitive reactions or promoting the desorption of target products
+2
+,
+3
+,
+4
+,
+5
+,
+6
+,
+7
+. Using this strategy, single-atom alloys (SAAs) and intermetallic alloys (IMAs), both classes of single-site catalysts, are becoming a thriving research field because they access unprecedented catalytic behaviour in a variety of chemical reactions
+6
+,
+7
+,
+8
+,
+9
+,
+10
+,
+11
+,
+12
+,
+13
+. Specifically, for the highly active Pt-based catalysts used in propane dehydrogenation (PDH), breaking large Pt ensembles into isolated Pt sites to regulate the adsorption configuration and the subsequent reaction is critical to enhance the selectivity of the target product propylene
+3
+,
+5
+,
+13
+. However, different interactions between the active atom and its neighbouring atoms result in diverse microenvironments of active sites, which makes the geometrically isolated site not necessarily effective or efficient
+14
+,
+15
+. The importance of rationally adjusting microenvironments of active sites can be clearly seen in previous works that report Au-, Ag- and Cu-alloyed Pd single-atom catalysts for semi-hydrogenation of acetylene, showing great distinction in the selectivity of ethylene (25%, 80% and 85%, respectively)
+16
+,
+17
+,
+18
+. Therefore, to legibly describe and manipulate the microenvironment of active sites, rather than merely focusing on the isolated atom geometries, is of vital importance, especially for stepping across trial-and-error approaches to rational catalyst design.
+Herein, we introduce a methodology to describe the microenvironment and determine the effectiveness of active sites in a Pt-based alloy catalyst for the industrially important PDH reaction, whose target product propylene has been experiencing steady demand growth over recent decades
+19
+,
+20
+,
+21
+. Using density functional theory (DFT) calculations, we construct specific models to separately identify the electronic regulation and geometric modulation of the Pt site within the PtM ensemble, and thereby define a simple descriptor,
+ϕ
+. It depicts the degree of Pt–C repulsion, corresponding to a kind of isolation effect, and is thus called degree-of-isolation. Manifesting a moderate degree-of-isolation, PtZn IMA is the optimal catalyst, which reveals a Sabatier-type principle for designing selective single-site alloys, and the superior experimental performance of PtZn IMA has been reported recently
+13
+,
+22
+,
+23
+,
+24
+. Typically, for IMAs with a high degree-of-isolation, alternation of the active centre has a great impact on tuning selectivity, validated by the synthesized PtMn IMA catalyst that exhibits more than 93% selectivity of propylene at the propane conversion of ~49% at 600 °C.
+Electronic regulation of Pt site
+The mutual influence between electronic and geometric structures restricts the comprehension of electronic regulation and geometric modulation for the active site in PDH. To investigate the electronic regulation of the Pt site, the geometric effect is minimized. Here, three group VIII metals (Fe, Co and Ni), which have similar atomic radii, were selected as alloying elements. The close-packed surfaces (110) of PtFe, PtCo and PtNi with body-centred tetragonal phase (
+P
+4/
+mmm
+), and (111) of Pt
+3
+Fe, Pt
+3
+Co and Pt
+3
+Ni with face-centred cubic phase (
+Fm
+\({\bar{3}}\)
+m
+), were chosen, for which the difference in Pt–Pt interatomic distance is within 0.15 Å (Fig.
+1a
+and Extended Data Fig.
+1a
+). Our calculations show that the
+d-
+band centre
+25
+,
+26
+of Pt becomes more negative when more electrons transfer from M to Pt (Fig.
+1b,c
+). Moreover, both properties can present a linear correlation with the electronegativity difference (Δ
+χ
+) between Pt and M (Fig.
+1c
+). Consistently, Miedema
+27
+has proposed a similar correlation between the electron transfer and Δ
+χ
+.
+Fig. 1: Electronic regulation of Pt site.
+a
+, The close-packed surfaces, Pt
+3
+M(111) and PtM(110), as representatives for DFT calculation. The local ensemble is annotated. Green, Pt; purple, M.
+b
+, Schematic diagram of electron transfer from M to Pt and the downshift of the Pt
+d
+-band centre that leads to more antibonding occupation when interacting with adsorbate. The consequent interaction between the Pt site and C atom is shown by crystal orbital Hamilton population (COHP) using PtFe and PtNi with π-adsorbed C
+3
+H
+6
+as an example. The Fermi level is at 0 eV.
+c
+, Electron transfer from M to Pt and the
+d
+-band centre of Pt as a function of the Δ
+χ
+between Pt and M. Δ
+χ
+is defined as (
+χ
+Pt
+−
+χ
+M
+).
+d
+, The relationship between Δ
+χ
+and the integrated COHP (ICOHP) of the Pt–C bond and the relationship between Δ
+χ
+and the adsorption energy (
+E
+ads
+) of C
+3
+H
+6
+. Insets: π (on PtM) and di-σ (on Pt
+3
+M) adsorbed C
+3
+H
+6
+.
+e
+, The relationship between Δ
+χ
+and the antibonding occupation of the Pt–C bond for top-adsorbed CH
+3
+on Pt
+3
+M(111) and PtM(110). M = Fe, Co and Ni. Inset: the Pt–C antibonding orbital (σ*).
+f
+, The relationship between (
+r
+M
+/
+r
+Pt
+)Δ
+χ
+and electron transfer from M to Pt for Pt(111), Pt
+3
+M(111) and PtM(110). M = 3
+d
+transition metal.
+k
+=
+c
+M
+/
+c
+Pt
+is introduced as a constant term to differentiate alloy composition.
+g
+, The relationship between (
+r
+M
+/
+r
+Pt
+)Δ
+χ
+and antibonding occupation of the Pt–C bond for top-adsorbed CH
+3
+on Pt(111), Pt
+3
+M(111) and PtM(110).
+Source data
+Full size image
+In the PDH reaction, the difference between propylene desorption energy and its further dehydrogenation energy barrier can be used to estimate the selectivity
+28
+,
+29
+,
+30
+. As Δ
+χ
+increases, the additional electrons on Pt populate the antibonding orbital of the Pt–C bond, leading to a gradual weakening of the bond and more unstable adsorption for both di-σ and π adsorbed propylene (C
+3
+H
+6
+) (Fig.
+1b,d
+and Extended Data Fig.
+1b
+). Likewise, previous studies
+29
+,
+30
+,
+31
+,
+32
+show that enriching the electron density or downshifting the
+d
+-band centre of the active site can weaken the adsorption of adsorbates and benefit selectivity. This circumstance could be easily understood because C
+3
+H
+6
+is an electron-donating group: nucleophilic sites on the catalyst will repel its adsorption and vice versa. When taking an electron-donating group, methyl (CH
+3
+), as a detector
+33
+, we find that a larger Δ
+χ
+leads to more antibonding states of the Pt–C bond, demonstrating Δ
+χ
+to be a useful tool to quantify Pt–C repulsion (Fig.
+1e
+). However, the atomic radius of M can differ greatly among a series of alloys with diverse microenvironments, and this possibly causes a tensile or compressive strain, which can fine-tune the electronic properties of alloys
+34
+. To gain further evidence, we then elucidate the impact of radii among 3
+d
+transition metals. The mole ratio (
+k
+=
+c
+M
+/
+c
+Pt
+) is introduced as a constant term to differentiate alloy composition. Unsurprisingly, Δ
+χ
+shows a linear relationship with the electron transfer from M to Pt, and relates to the antibonding occupancy of the Pt–C bond (Extended Data Fig.
+1c
+). After multiplying Δ
+χ
+by the normalized radius (
+r
+M
+/
+r
+Pt
+) the electronic regulation of the Pt site is described more accurately, and a larger value of (
+r
+M
+/
+r
+Pt
+)Δ
+χ
+corresponds to stronger Pt–C repulsion (Fig.
+1f,g
+). Therefore, we could use the (
+r
+M
+/
+r
+Pt
+)Δ
+χ
+directly obtained from physical chemistry handbooks to describe the electronic interaction between Pt and M in an alloy and predict how the Pt site is regulated.
+Geometric modulation of Pt site
+To investigate geometric modulation of the Pt site quantitatively, the disturbance of electronic structure is preferably eliminated. Thus, two slab models, PtZn(110) and PtZn(101) with various geometric structures but a similar electronic environment, were established (Extended Data Fig.
+2
+). Figure
+2a
+shows that the activation energy of the undesired side reaction, C
+3
+H
+6
+dehydrogenation, increases linearly with elongating interatomic distance of the nearest neighbour of Pt (Δ
+d
+). By contrast, the distance cannot strongly affect the activation energy of propane (C
+3
+H
+8
+) or propyl (C
+3
+H
+7
+). Namely, the first (8–7) or the second (7–6) C–H bond cleavage of propane as the rate-determining step
+29
+is insensitive to the geometric structure, while the C
+3
+H
+6
+dehydrogenation step (6–5) is structure-sensitive. Accordingly, the transition state (H–C
+3
+H
+5
+) of the C
+3
+H
+6
+dehydrogenation step maintains a distance of ~1.66 Å between the detached H atom and the C atom (Fig.
+2b
+). For this elementary step, we further study how Δ
+d
+influences the activation energy from the viewpoint of bonding. This shows that the elongation of Δ
+d
+is the key to weakening the Pt–C bond in the transition state, which signifies that Δ
+d
+, a geometric feature, can be utilized to measure Pt–C repulsion, and thereby evaluate the ability to suppress the undesired dehydrogenation of C
+3
+H
+6
+(Fig.
+2b
+).
+Fig. 2: Geometric modulation of Pt site.
+a
+, The relationship between Pt–Pt interatomic distance and activation energies of the first (8–7), second (7–6) and third (6–5) dehydrogenation steps on PtZn(101) and PtZn(110).
+b
+, The relationship between Δ
+d
+and the integrated COHP of the Pt–C bond in the 6–5 transition state. Insets: transition states (H–C
+3
+H
+5
+) for the third (6–5) dehydrogenation step. The blue double-headed arrow indicates the distance between the C atom and detached H atom (unit: Å). Blue, Pt; purple, Zn; orange, C; white, H.
+Source data
+Full size image
+Volcano-shaped isolation–selectivity plot
+Investigation of the electronic regulation and geometric modulation of the Pt site illustrates that (
+r
+M
+/
+r
+Pt
+)Δ
+χ
+and Δ
+d
+can quantify Pt–C repulsion from the electronic and geometric viewpoints, respectively. By altering the degree of Pt–C repulsion, the interaction between adsorbates and surfaces will be varied. Considering that the repulsion is a kind of isolation effect, a descriptor, called degree-of-isolation, is proposed. Given that the alloying elements involve M from 3
+d
+to 5
+d
+, the number of electron shells of M is also included in this descriptor. Therefore, degree-of-isolation for the single-site alloy is defined as follows:
+$$\phi = (r_{\mathrm{M}}/r_{\mathrm{Pt}})\Delta \chi \, \Delta d/n$$
+(1)
+where
+n
+is the number of electron shells of M.
+On the basis of the definition, the larger
+ϕ
+is, the more strongly the Pt site repulses adsorbates. The volcano-shaped isolation–selectivity plot reveals a Sabatier-type principle for designing selective single-site alloys, underscoring that moderate Pt–C interaction contributes to the optimal performance (Fig.
+3a
+). It provides a direct approach and more intrinsic insight to evaluate selectivity, which is complex to determine using two variables in competition, regarding the desorption and the further dehydrogenation of propylene. Here, these two variables are replaced by a single variable, degree-of-isolation. Representatively, PtZn IMA, manifesting a moderate
+ϕ
+(~0.5), is predicted to possess superior performance in PDH, which has been reported experimentally
+13
+,
+22
+,
+23
+,
+24
+. It is also in line with common sense that elements in group IB/IIB boost selective catalysis. Moreover, Fig.
+3a
+clearly indicates that geometrically isolated sites may not be catalytically effective, as single-site alloys with diverse microenvironments possibly lead to Pt–C repulsion that is either too strong or too weak.
+Fig. 3: Volcano-shaped isolation–selectivity plot.
+a
+, The relationship between
+ϕ
+and (Δ
+G
+dehydro-further
+‒ Δ
+G
+des
+) of PtM IMAs. M = 3
+d
+, 4
+d
+and 5
+d
+transition metals. Inset: the competition between C
+3
+H
+6
+desorption and further dehydrogenation over PtM single-site alloy. The adsorption geometries of C
+3
+H
+5
+are used to classify these alloys, and alloys comprising Pt as the active centre are discussed. PtHf and PtZr (
+ϕ
+at 0.6–0.8) are not shown due to severe surface reconstruction. The close-packed surface PtM(110) is calculated as representative. Blue, Pt; orange, M; grey, C; white, H.
+b
+, The antibonding occupancy of the M–C bond for top-adsorbed CH
+3
+on the most close-packed surface of M. Group IIB elements (Zn, Cd) are not shown due to severe surface reconstruction. Orange, M; grey, C; white, H.
+Source data
+Full size image
+A fundamental understanding of why the volcano-shaped curve appears is also established. For simplification, we classify these single-site alloys according to the adsorption geometry of propenyl (C
+3
+H
+5
+), which is a model precursor of coke formation in the PDH reaction and sensitive to the microenvironment of active sites
+3
+,
+29
+. The influence of
+ϕ
+is found to be clearly embodied in the transformation of the most stable adsorption configurations of C
+3
+H
+5
+on PtM (Fig.
+3a
+and Extended Data Fig.
+3
+). Note that the M on the right of the periodic table (for example, group IB elements) are more inert than those in groups IIIB to VIII, giving rise to fairly strong M–C repulsion (Fig.
+3b
+). Meanwhile, these elements form PtM alloys on the left slope of the volcano, with a relatively moderate Pt–C interaction, making C
+3
+H
+5
+interact with the surface via a single Pt–C bond. By contrast, rather weak Pt–C and M–C repulsion coexist in other alloys on the left slope of the volcano, permitting C
+3
+H
+5
+to be stabilized at a bridge site consisting of Pt and M atoms. At this stage, the selectivity gradually increases as
+ϕ
+becomes larger.
+When further looking at PtM alloys on the right slope of the volcano, it is found that they exactly contain those M on the left and middle of the periodic table (group IIIB to VIIB). For M belonging to groups IIIB–VIB, C
+3
+H
+5
+is prone to contacts with M atoms because of both strong Pt–C repulsion and weak M–C repulsion. As a result, C
+3
+H
+5
+is stabilized at a more stable hollow site (two M atoms and one Pt atom) and generates a downshift of selectivity with increasing ϕ, except for M in group IIIB bringing about a total transformation of the active centre from Pt to M (Extended Data Fig.
+3
+). Here, we only focus on alloys comprising Pt as the active centre, so M in group IIIB is not discussed thoroughly. Group VIIB metal, in the middle of the periodic table, which refers only to Mn, is not particularly inclined to act as an adsorption site, and consequently C
+3
+H
+5
+contacts with a single Pt atom. Such alternation of the active centre has a strong impact on tuning selectivity, indicating PtMn as a selective catalyst.
+Experimental synthesis, characterization and PDH performance
+To validate the screening result, SiO
+2
+-supported Pt and PtMn IMAs are synthesized. The formation energy of PtMn IMA is calculated to be −0.91 eV, implying its favourable synthesis. A set of diffraction peaks (40.5° and 45.5°) correspond well to the standard powder X-ray diffraction patterns of intermetallic PtMn (
+P
+4
+/mmm
+, body-centred tetragonal) (PDF 04-001-2842)
+35
+after 600 °C reduction (Fig.
+4a,c
+). Aberration-corrected high-angle annular dark-field scanning transmission electron microscope (AC-HAADF-STEM) imaging further reveals the presence of geometry-isolated Pt atoms in the structurally ordered [PtMn
+4
+] motifs (rectangle-framed motifs), featuring the alternating bright Pt column and darker Mn column contrast on [110] planes (Fig.
+4f,g
+). The fast Fourier transform shows superlattice diffraction patterns, which implies the formation of ordered PtMn IMA (Supplementary Fig.
+1m
+). The two atomic plane distances are measured as 0.208 and 0.227 nm, in agreement with the lattice spacing of intermetallic PtMn along the [110] and [101] directions. The comparison of surface energies for low-index surfaces, which includes (100), (110) and (111), also shows that the (110) surface is the most stable with the lowest surface energy (Supplementary Fig.
+2
+and Supplementary Table
+2
+). Energy dispersive spectrometry elemental mappings of PtMn nanoparticles are also obtained (Supplementary Fig.
+1g–k
+), showing a homogeneous distribution of Pt and Mn. These results clearly demonstrate the formation of structure-ordered PtMn IMA after H
+2
+reduction. After its synthesis, the structure of PtMn also tends to be maintained owing to the high segregation energy of either Pt or Mn to the surface (Fig.
+4b
+and Extended Data Fig.
+4
+). We also conduct ab initio molecular dynamics (AIMD) simulations at 873 K within the
+NVT
+ensemble using both slab and particle models, further validating the stability of PtMn (Extended Data Figs.
+5
+and
+6
+). Comparatively, without Mn addition, Pt (
+Fm
+\(\bar 3\)
+m
+, face-centred cubic) (PDF 04-0802)
+36
+is formed, as shown in the X-ray diffraction patterns (Fig.
+4a,c
+) and the AC-HAADF-STEM imaging (Fig.
+4d,e
+). The two atomic plane distances are measured as 0.229 and 0.199 nm, consistent with the lattice spacing along the [111] and [200] directions.
+Fig. 4: Experimental synthesis, characterization and PDH performance.
+a
+, Bulk models of Pt and PtMn IMA.
+b
+, Segregation energy of Pt and Mn to the surface in PtMn IMA.
+c
+, X-ray diffraction patterns of Pt/SiO
+2
+and PtMn IMA/SiO
+2
+. a.u., arbitrary units.
+d
+,
+e
+, AC-HAADF-STEM images of Pt/SiO
+2
+. Inset: distribution of Pt atoms.
+f
+,
+g
+, AC-HAADF-STEM images of PtMn IMA/SiO
+2
+. Inset: distribution of Pt and Mn atoms.
+h
+, In situ X-ray photoelectron spectra of Pt 4f in Pt/SiO
+2
+and PtMn IMA/SiO
+2
+.
+i
+, Propane conversion and propylene selectivity as a function of reaction time over the prepared Pt/SiO
+2
+and PtMn IMA/SiO
+2
+at 600 °C. Catalytic conditions: atmospheric pressure, C
+3
+H
+8
+/H
+2
+= 1/1, with balance N
+2
+for total flow rate of 50 ml min
+−1
+, weight hourly space velocity (WHSV) of propane = 4 h
+−1
+and 250 mg of sample.
+j
+, The volcano-shaped relationship between
+ϕ
+and theoretical/experimental C
+3
+H
+6
+selectivity. The theoretical C
+3
+H
+6
+selectivity is estimated using (Δ
+G
+dehydro-further
+‒ Δ
+G
+des
+). The experimental C
+3
+H
+6
+selectivity is tested under the same conditions in both this Article and ref.
+13
+.
+Source data
+Full size image
+The electronic states of this PtMn ensemble are further monitored using in situ X-ray photoelectron spectroscopy. After H
+2
+reduction, Pt is reduced to metallic Pt
+0
+for PtMn/SiO
+2
+and Pt/SiO
+2
+. In comparison, for PtMn/SiO
+2
+, the binding energy of Pt
+0
+in the Pt 4f
+7/2
+peak is 70.4 eV, lower than that over Pt/SiO
+2
+(70.7 eV). This indicates the electron transfers from Mn to the 5
+d
+band of Pt and the formation of electron-rich Pt in the PtMn ensemble
+37
+, which is consistent with the theoretical prediction (Figs.
+1f
+and
+4h
+and Supplementary Fig.
+3
+).
+During reaction, the propylene selectivity of PtMn IMA (93%) for PDH is markedly improved when compared with pure Pt (73%) (Fig.
+4i
+). The distribution of side product is also thoroughly investigated, which shows that the C3-to-C2 path way surpasses the C3-to-C2-and-C1 pathway over PtMn, leading to a higher ethane selectivity when compared with methane (Supplementary Figs.
+4–9
+). High-resolution transmission electron microscopy and AC-HAADF-STEM images show that the structure of PtMn IMA is maintained after reaction, which is consistent with the result of AIMD simulations (Supplementary Fig.
+10
+and Extended Data Figs.
+5
+and
+6
+). Raman spectra of the spent catalysts further indicate that the coke amount and graphitization degree (the calculated ratio of the intensity of the D peak and G peak (
+I
+D
+/
+I
+G
+) that ascribed to coke D (disorder) and G (graphite) modes, respectively) of PtMn/SiO
+2
+is substantially lower than that over Pt/SiO
+2
+(Supplementary Fig.
+11
+). Note that PtMn IMA, displaying remarkable initial performance, deactivates gradually in the long-term test, while PtZn IMA
+13
+has the lowest deactivation rate in a list of representative Pt-based catalysts (Supplementary Fig.
+12
+and Supplementary Table
+3
+). As they show similar structural stabilities (Extended Data Figs.
+4
+–
+6
+and Supplementary Figs.
+13
+and
+14
+), this can be attributed to the superior selectivity of PtZn, which has a moderate
+ϕ
+, demonstrated by the volcano-shaped relationship between
+ϕ
+and propylene selectivity, both theoretical and experimental, among a series of PtM single-site alloys (Figs.
+3a
+and
+4j
+, Extended Data Fig.
+7
+and Supplementary Fig.
+15
+). Consequently, PtZn preferentially avoids side reactions such as coking, and contributes to a stable performance during reaction when compared with PtMn, which emphasizes the Sabatier-type principle for designing selective single-site alloys. The reason for the deactivation of PtMn is also investigated. It is found that low-coordination sites (for example edge and corner sites) facilitate coke formation and contribute to the deactivation at the initial stage of catalysis (Extended Data Fig.
+8
+). Moreover, HAADF-STEM images of the catalysts before and after 50 h reaction indicate that the particle size of PtMn grows from 1.1 ± 0.3 nm to 1.8 ± 0.5 nm, which may be the main reason for catalyst deactivation at the later stage (Supplementary Fig.
+16
+).
+Extension and applicability of degree-of-isolation
+The degree-of-isolation, defined as (
+r
+M
+/
+r
+Pt
+)Δ
+χ
+Δ
+d
+/
+n
+, can be divided into two terms. One is electron dependent, named
+ϕ
+e
+, and is the product of
+r
+M
+/
+r
+Pt
+, Δ
+χ
+and 1/
+n
+. Another is a geometric feature, Δ
+d
+. We can easily envision that the selectivity of alloys with similar geometric features will depend on
+ϕ
+e
+itself. A remarkable example is SAA catalyst, with active metals highly dispersed in more inert host metals, whose geometric feature can be identified as a constant. Moreover, adsorbates are not inclined to contact with the inert host metal, which manifests strong M–C repulsion, corresponding to the left-hand side of the volcano-shaped curve. As
+ϕ
+e
+increases, the selectivity should improve. A good linear relationship between
+ϕ
+e
+and experimental ethylene selectivity does exist for Au-, Ag- and Cu-alloyed Pd SAA catalyst in the semi-hydrogenation of acetylene
+16
+,
+17
+,
+18
+, indicating that the concept of degree-of-isolation has the potential to be applied in other catalytic systems (Extended Data Fig.
+9a
+). The experimental selectivity of propylene in PDH presents a similar relationship with
+ϕ
+e
+for subsurface alloys, which have the same Pt-skin structure, and Fe, Co or Ni as alloying elements in subsurface regions
+38
+(Extended Data Fig.
+9b
+).
+Conclusions
+Designing efficient catalysts is paramount to the development of selective catalytic processes. Here, taking PDH as a model reaction, the electronic regulation and geometric modulation of the Pt site are separately investigated to extract fundamental principles for catalyst design. By defining a simple descriptor called degree-of-isolation, the microenvironments of the geometrically isolated sites are clearly described, indicating whether the active site in single-site alloys is catalytically effective. The established volcano-shaped isolation–selectivity plot highlights the Sabatier-type principle for designing selective single-site alloys, predicting PtZn, with moderate Pt–C repulsion, as the most promising catalyst, whose superior experimental performance is validated by previous research. Moreover, the active centre obviously changes from the left side to the right side of the volcano-shaped curve, stressing the great impact on selectivity via alternation of the adsorption configuration, which is confirmed by the successful construction of a selective Pt site in PtMn IMA. The concept of degree-of-isolation also has potential to be used in other catalytic systems and alloys. This work sheds light on advancing the field of catalyst engineering from trial and error to rational design and specifically calls for more emphasis on the description and manipulation of the catalytic microenvironment.
+Methods
+Computational methods and models
+The calculations were performed with the Vienna Ab initio Simulation Package
+39
+using the projector augmented wave method
+40
+and the generalized gradient approximation
+41
+in the form of the Bayesian error estimation functional with van der Waals corrections
+42
+. The planewave basis sets were converged at a kinetic energy cutoff of 400 eV for each slab model, of which the bottom two layers were fixed. The close-packed surfaces are chosen for calculation. For magnetic elements or alloys, spin-polarized DFT calculations were specially employed. An atomic force convergence criterion of 0.02 eV Å
+−1
+was used to identify optimized geometries. For PtM(110), a (2 × 2) supercell with five layers was used. A (5 × 3 × 1)
+k
+-point grid was applied to PtSc(110) and PtZr(110). A (4 × 3 × 1)
+k
+-point grid was applied to PtY(110) and PtHf(110). A (3 × 3 × 1)
+k
+-point grid was used for other IMAs. For PtMn(101), PtFe(101), PtCo(101), PtNi(101), PtAg(101) and PtPd(101), a (2 × 3) supercell with five layers was used, along with a (3 × 3 × 1)
+k
+-point grid. For PtZn(101), a (2 × 3) supercell with five layers was used, along with a (4 × 4 × 1)
+k
+-point grid. For Pt
+3
+M(111), a (4 × 4) supercell with four layers was used, along with a (3 × 3 × 1)
+k
+-point grid. For 5
+d
+metals, a (3 × 3 × 1)
+k
+-point grid was used. A (4 × 4) supercell with four layers was used for Hf(001), Re(001), Os(111), Ir(111), Pt(111) and Au(111). A (3 × 2) supercell with five layers was used for Ta(110) and W(110). For 4
+d
+metals, a (4 × 4) supercell with four layers, corresponding to a (3 × 3 × 1)
+k
+-point grid, was used, except for Nb(110), which used a (2 × 2) supercell with five layers and a (5 × 3 × 1)
+k
+-point grid. For 3
+d
+metals, Sc(001) and Ti(001) were modelled by a (3 × 3) supercell with six layers, corresponding to a (5 × 5 × 1)
+k
+-point grid. For V(110) and Cr(110) a (2 × 2) supercell was used, while a (2 × 3) supercell was used to model Fe(110). The thickness for these was five layers, and a (5 × 5 × 1)
+k
+-point grid was applied. A (4 × 4) supercell with four layers was used to model Mn(111), Co(111), Ni(111) and Cu(111), corresponding to a (3 × 3 × 1)
+k
+-point grid. Transition states were determined with the climbing-image nudged elastic band method and the dimer method
+43
+,
+44
+. For all energy diagrams, the energy of C
+3
+H
+8
+in the gas phase is taken as reference and the energies of intermediates are corrected with H
+2
+in the gas phase. The adsorption energy of C
+3
+H
+6
+is defined as (
+E
+total
+−
+E
+slab
+−
+E
+C3H6
+), where
+E
+total
+is the total energy of the slab with C
+3
+H
+6
+adsorbed and
+E
+slab
+is the energy of the clean slab, while
+E
+C3H6
+refers to the energy of C
+3
+H
+6
+in the gas phase. The alloy formation energy is evaluated using the bulk energy of the alloy and pure metal. Entropic contributions were calculated according to Campbell’s method
+45
+, accompanied by the calculation of zero-point energy, to convert potential energy into Gibbs free energy. All the kinetic and thermodynamic analyses were carried out at 873 K with 0.28, 0.15 and 0.04 atm partial pressures for H
+2
+, C
+3
+H
+8
+and C
+3
+H
+6
+, respectively. Atomic charges were computed using Bader charge analysis
+46
+. COHP analysis was performed with the LOBSTER 3.2.0 package
+47
+,
+48
+. The periodic natural bond orbital formalism developed by Dunnington and Schmidt
+49
+was applied using Vienna Ab Initio Simulation Package software to analyse surface chemical bonding via natural bond orbitals.
+Catalytic testing
+Catalytic tests were performed in a quartz fixed-bed reactor with 8 mm inner diameter and 24 cm length at atmospheric pressure. 250 mg catalyst with particle size of 20 to 40 meshes was packed inside the quartz tubular reactor. The sample was first heated to 600 °C at a rate of 10 °C min
+−1
+and maintained at 600 °C for 1.5 h in flowing 18 vol.% H
+2
+/N
+2
+. Afterwards, a mixture of C
+3
+H
+8
+, H
+2
+and N
+2
+(16:16:68 vol.%) was fed at a rate of 50 ml min
+−1
+. The WHSV of propane was around 4 h
+−1
+. The gas products were analysed using an online gas chromatograph (2060) equipped with a flame ionization detector (Chromosorb 102 column) and a thermal conductivity detector (Al
+2
+O
+3
+PLOT column). The propane conversion and selectivity for propylene were calculated from equations (
+2
+) and (
+3
+) respectively:
+$${\mathrm{Con.}}\left( \% \right) = 100 \times \left( {\left[ {{\mathrm{F}}_{\mathrm{C3H8}}} \right]_{\mathrm{inlet}} - \left[ {{\mathrm{F}}_{\mathrm{C3H8}}} \right]_{\mathrm{outlet}} }\right)/\left[ {{\mathrm{F}}_{\mathrm{C3H8}}} \right]_{\mathrm{inlet}}$$
+(2)
+$${\mathrm{Sel.}}\left( \% \right) = 100 \times \left[ {{\mathrm{F}}_{\mathrm{C3H6}}} \right]_{\mathrm{outlet}}/\left( {\left[ {{\mathrm{F}}_{\mathrm{C3H8}}} \right]_{\mathrm{inlet}} - \left. {{\mathrm{F}}_{\mathrm{C3H8}}} \right]_{\mathrm{outlet}}} \right).$$
+(3)
+Structural characterization
+The X-ray diffraction measurements were performed on a Bruker D8 diffractometer operating at 200 mA and 40 kV, employing graphite-filtered Cu Kα as the radiation source. The data points were collected by step scanning with a rate of 6° min
+−1
+from 2
+θ
+= 10 to 80°. The crystallite size (
+d
+) of copper was calculated with the X-ray broadening technique using the Scherrer equation:
+$$d = 0.89\lambda /\left( {B\,\cos \theta } \right).$$
+(4)
+Here,
+λ
+is the wavelength of the radiation source (0.15418 nm),
+B
+is the half-width of the strongest diffraction peak in radians and
+θ
+is its diffraction angle.
+The AC-STEM images were characterized on a JEOL JEM-ARM200F at the School of Materials Science and Engineering at Tianjin University and an FEI Titan Cubed Themis G2 300 at Tianjin University of Technology. The sample powder was ultrasonically dispersed in deionized water and deposited on a cooper grid coated with an ultrathin holey carbon film.
+In situ X-ray photoelectron spectroscopy analysis was performed in a Thermo Fisher ESCALAB 250Xi photoelectron spectrometer using monochromated X-ray irradiation Al Kα (
+hν
+= 1,486.6 eV) and a 180° double focusing hemispherical analyser with a six-channel detector. The binding energy of the photoemission spectra was calibrated to the Si 2
+p
+peak with binding energy 103.5 eV. After this calibration the low-intensity adventitious carbon peak was in the range 284.0–284.8 eV. Reduction of samples was performed in an ultrahigh-vacuum-connected high-pressure gas cell. The samples were heated in 10% hydrogen diluted in Ar (5 ml min
+−1
+H
+2
+and 45 ml min
+−1
+Ar, total pressure 1 bar) flow from room temperature to 600 °C with a change rate of 10 °C min
+−1
+and then left for 60 min for reduction. The photoelectron spectra were recorded after ultrahigh-vacuum transfer of the samples to an analyser chamber without contact with the atmosphere.
+Data availability
+The data that support the findings of this study are available within this Article and its Supplementary Information files or from the corresponding author upon reasonable request.
+Source data
+are provided with this paper.
+References
+Kyriakou, G. et al. Isolated metal atom geometries as a strategy for selective heterogeneous hydrogenations.
+Science
+335
+, 1209–1212 (2012).
+Article
+CAS
+Google Scholar
+Feng, Q. et al. Isolated single-atom Pd sites in intermetallic nanostructures: high catalytic selectivity for semihydrogenation of alkynes.
+J. Am. Chem. Soc.
+139
+, 7294–7301 (2017).
+Article
+CAS
+Google Scholar
+Sun, G. et al. Breaking the scaling relationship via thermally stable Pt/Cu single atom alloys for catalytic dehydrogenation.
+Nat. Commun.
+9
+, 4454 (2018).
+Article
+Google Scholar
+Childers, D. J. et al. Modifying structure-sensitive reactions by addition of Zn to Pd.
+J. Catal.
+318
+, 75–84 (2014).
+Article
+CAS
+Google Scholar
+Nakaya, Y., Hirayama, J., Yamazoe, S., Shimizu, K. I. & Furukawa, S. Single-atom Pt in intermetallics as an ultrastable and selective catalyst for propane dehydrogenation.
+Nat. Commun.
+11
+, 2838 (2020).
+Article
+CAS
+Google Scholar
+Marcinkowski, M. D. et al. Pt/Cu single-atom alloys as coke-resistant catalysts for efficient C–H activation.
+Nat. Chem.
+10
+, 325–332 (2018).
+Article
+CAS
+Google Scholar
+Ryan, T. H. et al. First-principles design of a single-atom-alloy propane dehydrogenation catalyst.
+Science
+372
+, 1444–1447 (2021).
+Article
+Google Scholar
+Thomas, J. M. The concept, reality and utility of single-site heterogeneous catalysts (SSHCs).
+Phys. Chem. Chem. Phys.
+16
+, 7647–7661 (2014).
+Article
+CAS
+Google Scholar
+Karamad, M., Tripkovic, V. & Rossmeisl, J. Intermetallic alloys as CO electroreduction catalysts—role of isolated active sites.
+ACS Catal.
+4
+, 2268–2273 (2014).
+Article
+CAS
+Google Scholar
+Zhang, L., Zhou, M., Wang, A. & Zhang, T. Selective hydrogenation over supported metal catalysts: from nanoparticles to single atoms.
+Chem. Rev.
+120
+, 683–733 (2019).
+Article
+Google Scholar
+Han, A. et al. Isolating contiguous Pt atoms and forming Pt–Zn intermetallic nanoparticles to regulate selectivity in 4-nitrophenylacetylene hydrogenation.
+Nat. Commun.
+10
+, 3787 (2019).
+Article
+Google Scholar
+Hannagan, R. T., Giannakakis, G., Flytzani-Stephanopoulos, M. & Sykes, E. C. H. Single-atom alloy catalysis.
+Chem. Rev.
+120
+, 12044–12088 (2020).
+Article
+CAS
+Google Scholar
+Chen, S. et al. Propane dehydrogenation on single-site [PtZn
+4
+] intermetallic catalysts.
+Chem
+7
+, 387–405 (2020).
+Article
+Google Scholar
+Li, X. et al. Microenvironment modulation of single-atom catalysts and their roles in electrochemical energy conversion.
+Sci. Adv.
+6
+, eabb6833 (2020).
+Article
+CAS
+Google Scholar
+Qin, R., Liu, K., Wu, Q. & Zheng, N. Surface coordination chemistry of atomically dispersed metal catalysts.
+Chem. Rev.
+120
+, 11810–11899 (2020).
+Article
+CAS
+Google Scholar
+Pei, G. X. et al. Promotional effect of Pd single atoms on Au nanoparticles supported on silica for the selective hydrogenation of acetylene in excess ethylene.
+New J. Chem.
+38
+, 2043–2051 (2014).
+Article
+CAS
+Google Scholar
+Pei, G. X. et al. Ag alloyed Pd single-atom catalysts for efficient selective hydrogenation of acetylene to ethylene in excess ethylene.
+ACS Catal.
+5
+, 3717–3725 (2015).
+Article
+CAS
+Google Scholar
+Pei, G. X. et al. Performance of Cu-alloyed Pd single-atom catalyst for semihydrogenation of acetylene under simulated front-end conditions.
+ACS Catal.
+7
+, 1491–1500 (2017).
+Article
+CAS
+Google Scholar
+Sattler, J. J., Ruiz-Martinez, J., Santillan-Jimenez, E. & Weckhuysen, B. M. Catalytic dehydrogenation of light alkanes on metals and metal oxides.
+Chem. Rev.
+114
+, 10613–10653 (2014).
+Article
+CAS
+Google Scholar
+Wang, Y., Hu, P., Yang, J., Zhu, Y. A. & Chen, D. C–H bond activation in light alkanes: a theoretical perspective.
+Chem. Soc. Rev.
+50
+, 4299–4358 (2021).
+Article
+CAS
+Google Scholar
+Chen, S. et al. Propane dehydrogenation: catalyst development, new chemistry, and emerging technologies.
+Chem. Soc. Rev.
+50
+, 3315–3354 (2021).
+Article
+CAS
+Google Scholar
+Wang, Y., Hu, Z.-P., Lv, X., Chen, L. & Yuan, Z.-Y. Ultrasmall PtZn bimetallic nanoclusters encapsulated in silicalite-1 zeolite with superior performance for propane dehydrogenation.
+J. Catal.
+385
+, 61–69 (2020).
+Article
+CAS
+Google Scholar
+Sun, Q. et al. Subnanometer bimetallic platinum–zinc clusters in zeolites for propane dehydrogenation.
+Angew. Chem. Int. Ed.
+59
+, 19450–19459 (2020).
+Article
+CAS
+Google Scholar
+Rochlitz, L. et al. Silica-supported, narrowly distributed, subnanometric Pt–Zn particles from single sites with high propane dehydrogenation performance.
+Chem. Sci.
+11
+, 1549–1555 (2020).
+Article
+CAS
+Google Scholar
+Hammer, B. & Nørskov, J. K. Why gold is the noblest of all the metals.
+Nature
+376
+, 238–240 (1995).
+Article
+CAS
+Google Scholar
+Zhao, Z.-J. et al. Theory-guided design of catalytic materials using scaling relationships and reactivity descriptors.
+Nat. Rev. Mater.
+4
+, 792–804 (2019).
+Article
+Google Scholar
+Miedema, A. R. The electronegativity parameter for transition metals: heat of formation and charge transfer in alloys.
+J. Less-Common Met.
+32
+, 117–136 (1973).
+Article
+CAS
+Google Scholar
+Nykänen, L. & Honkala, K. Selectivity in propene dehydrogenation on Pt and Pt
+3
+Sn surfaces from first principles.
+ACS Catal.
+3
+, 3026–3030 (2013).
+Article
+Google Scholar
+Zha, S. et al. Identification of Pt-based catalysts for propane dehydrogenation via a probability analysis.
+Chem. Sci.
+9
+, 3925–3931 (2018).
+Article
+CAS
+Google Scholar
+Yang, M.-L., Zhu, Y.-A., Zhou, X.-G., Sui, Z.-J. & Chen, D. First-principles calculations of propane dehydrogenation over PtSn catalysts.
+ACS Catal.
+2
+, 1247–1258 (2012).
+Article
+CAS
+Google Scholar
+Purdy, S. C. et al. Origin of electronic modification of platinum in a Pt
+3
+V alloy and its consequences for propane dehydrogenation catalysis.
+ACS Appl. Energy Mater.
+3
+, 1410–1422 (2020).
+Article
+CAS
+Google Scholar
+Hammer, B. & Nørskov, J. K. Theoretical surface science and catalysis—calculations and concepts.
+Adv. Catal.
+45
+, 71–129 (2000).
+CAS
+Google Scholar
+Studt, F. et al. Identification of non-precious metal alloy catalysts for selective hydrogenation of acetylene.
+Science
+320
+, 1320–1322 (2008).
+Article
+CAS
+Google Scholar
+Mavrikakis, M., Hammer, B. & Nørskov, J. K. Effect of strain on the reactivity of metal surfaces.
+Phys. Rev. Lett.
+81
+, 2819–2822 (1998).
+Article
+Google Scholar
+Raub, E. & Mahler, W. Alloys of manganese with platinum, iridium, rhodium, and ruthenium.
+Z. Metallkde
+46
+, 282–290 (1955).
+CAS
+Google Scholar
+Elezovic, N. R. et al. Synthesis and characterization Pt nanocatalysts on tungsten based supports for oxygen reduction reaction.
+Appl. Catal. B
+125
+, 390–397 (2012).
+Article
+CAS
+Google Scholar
+Wu, Z. et al. Changes in catalytic and adsorptive properties of 2 nm Pt
+3
+Mn nanoparticles by subsurface atoms.
+J. Am. Chem. Soc.
+140
+, 14870–14877 (2018).
+Article
+CAS
+Google Scholar
+Cai, W. et al. Subsurface catalysis-mediated selectivity of dehydrogenation reaction.
+Sci. Adv.
+4
+, eaar5418 (2018).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+Google Scholar
+Wellendorff, J. et al. Density functionals for surface science: exchange–correlation model development with Bayesian error estimation.
+Phys. Rev. B
+85
+, 235149 (2012).
+Article
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+Article
+CAS
+Google Scholar
+Henkelman, G. & Jónsson, H. A dimer method for finding saddle points on high dimensional potential surfaces using only first derivatives.
+J. Chem. Phys.
+111
+, 7010–7022 (1999).
+Article
+CAS
+Google Scholar
+Campbell, C. T., Arnadottir, L. & Sellers, J. R. V. Kinetic prefactors of reactions on solid surfaces.
+Z. Phys. Chem.
+227
+, 1435–1454 (2013).
+Article
+CAS
+Google Scholar
+Bader, R. F. W. A quantum theory of molecular structure and its applications.
+Chem. Rev.
+91
+, 893–928 (1991).
+Article
+CAS
+Google Scholar
+Maintz, S., Deringer, V. L., Tchougreeff, A. L. & Dronskowski, R. LOBSTER: a tool to extract chemical bonding from plane-wave based DFT.
+J. Comput. Chem.
+37
+, 1030–1035 (2016).
+Article
+CAS
+Google Scholar
+Dronskowski, R. & Bloechl, P. E. Crystal orbital Hamilton populations (COHP): energy-resolved visualization of chemical bonding in solids based on density-functional calculations.
+J. Phys. Chem.
+97
+, 8617–8624 (1993).
+Article
+CAS
+Google Scholar
+Dunnington, B. D. & Schmidt, J. R. Generalization of natural bond orbital analysis to periodic systems: applications to solids and surfaces via plane-wave density functional theory.
+J. Chem. Theory Comput.
+8
+, 1902–1911 (2012).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+We acknowledge the National Key R&D Program of China (2021YFA1500704), the National Natural Science Foundation of China (22121004, U22A20409, U1862207), the Haihe Laboratory of Sustainable Chemical Transformations, the Program of Introducing Talents of Discipline to Universities (BP0618007) and the XPLORER PRIZE for financial support. We also acknowledge generous computing resources at the High Performance Computing Center of Tianjin University.
+Author information
+Author notes
+Shenjun Zha
+Present address: Institute of Catalysis Research and Technology, Karlsruhe Institute of Technology, Eggenstein-Leopoldshafen, Germany
+These authors contributed equally: Xin Chang, Zhi-Jian Zhao.
+Authors and Affiliations
+School of Chemical Engineering & Technology, Key Laboratory for Green Chemical Technology of Ministry of Education, Tianjin University, Tianjin, China
+Xin Chang, Zhi-Jian Zhao, Zhenpu Lu, Sai Chen, Shenjun Zha, Lulu Li, Guodong Sun, Chunlei Pei & Jinlong Gong
+Collaborative Innovation Center for Chemical Science & Engineering (Tianjin), Tianjin, China
+Xin Chang, Zhi-Jian Zhao, Zhenpu Lu, Sai Chen, Shenjun Zha, Lulu Li, Guodong Sun, Chunlei Pei & Jinlong Gong
+Haihe Laboratory of Sustainable Chemical Transformations, Tianjin, China
+Zhi-Jian Zhao & Jinlong Gong
+National Industry–Education Platform of Energy Storage, Tianjin University, Tianjin, China
+Zhi-Jian Zhao & Jinlong Gong
+Joint School of National University of Singapore and Tianjin University, Fuzhou, China
+Zhi-Jian Zhao, Ran Luo & Jinlong Gong
+Authors
+Xin Chang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhi-Jian Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhenpu Lu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sai Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ran Luo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shenjun Zha
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lulu Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Guodong Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chunlei Pei
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jinlong Gong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+J.G. conceived and coordinated the research. X.C. and Z.-J.Z. designed and performed the DFT calculations. R.L., S.Z. and L.L. assisted with the DFT calculations. Z.L., S.C., G.S., X.C. and C.P. contributed to the experiments. All authors wrote the manuscript and have reviewed, discussed and approved the results and conclusions of this Article.
+Corresponding author
+Correspondence to
+Jinlong Gong
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Nanotechnology
+thanks Sharon Mitchell and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data
+Extended Data Fig. 1 Electronic regulation of Pt site.
+a
+, The surface structure of PtNi(110), PtCo(110), PtFe(110), Pt
+3
+Ni(111), Pt
+3
+Co(111) and Pt
+3
+Fe(111). Color: Pt-blue, Ni-green, Co-red, Fe-yellow. The interatomic distance of Pt–Pt is annotated (unit: Å).
+b
+, Crystal orbital Hamilton populations (COHP) between Pt atom and C atom for π or di-σ adsorbed C
+3
+H
+6
+. The fermi level is at 0 eV.
+c
+, The relationship between Δχ and electron transfer from M to Pt for Pt(111), Pt
+3
+M(111) and PtM(110). The relationship between Δχ and antibonding occupation of Pt–C bond for top-adsorbed CH
+3
+on Pt(111), Pt
+3
+M(111) and PtM(110). M = 3
+d
+transition metals. The mole ratio (k =
+c
+M
+/
+c
+Pt
+) is introduced as a constant term to differentiate alloy composition.
+Source data
+Extended Data Fig. 2 PtZn intermetallic alloy with the atom colored with charge density (unit: |e|).
+a
+, The surface structure of PtZn(110).
+b
+, The surface structure of PtZn(101). The interatomic distance of Pt–Pt is annotated (unit: Å). The elementary steps of PDH are investigated along two directions consisting of the closest Pt atoms. The red arrow indicates electron transfer from M to Pt. The ordered arrangement of constituent atoms in intermetallic alloy brings about homogeneous geometric and electronic structures.
+Source data
+Extended Data Fig. 3 The transformation of the most stable adsorption configurations of C3H5 on the close-packed surface of PtM.
+a
+, The alternation of active center for alloys with different ϕ and different alloying elements.
+b
+, A schematic diagram to illustrate the change of active center. The most stable adsorption manner on PtHf and PtZr are calculated using a constrained structure to avoid surface reconstruction. PtAu and PtW with a negative ϕ are not discussed in the main text as they are directly excluded due to unfavorable electronic structure (a negative Δχ) for designing selective catalyst.
+Source data
+Extended Data Fig. 4 Segregation energy of Pt and Mn to the surface.
+a
+, Optimized geometries of PtMn particle.
+b
+, The segregation energy of Pt and Mn to the surface of PtMn particle. The lowest segregation energy is used.
+c
+, Different number of segregation atom to the surface is calculated. The insets show the structure after optimization. For a certain number of atoms that segregates to the surface, the structure with lower energy is used. Color: Pt-blue, Mn-orange.
+Source data
+Extended Data Fig. 5 AIMD simulations of PtMn particle.
+a
+, Temperature and energy profiles of AIMD simulation for PtMn particle, which is modelled by 32 Pt atom and 31 Mn atom.
+b
+, Radius distribution functions (RDFs) between Pt and Mn atoms of PtMn particle. The last 8 ps and every 2 ps are used to perform RDFs to compare the equilibrium. The trends of four times RDFs are the same, which means the system is in an equilibrium state.
+c-f
+, The snapshots (top and side view) at 22, 24, 26, and 28 ps. The structure of PtMn particle is maintained despite of slight movement. Color: Pt-blue, Mn-orange.
+Source data
+Extended Data Fig. 6 AIMD simulations at 873 K of PtMn(110).
+a
+, Temperature and energy profiles of AIMD simulation for PtMn(110), which is modelled by (4 × 4) supercell with five layers. The inset shows the structure of PtMn(110) before simulation.
+b
+, Radius distribution functions (RDFs) between Pt and Mn atoms of PtMn(110). The last 8 ps and every 2 ps are used to perform RDFs to compare the equilibrium. The trends of four times RDFs are the same, which means the system is in an equilibrium state.
+c-f
+, The snapshots (top and side view) at 42, 62, 72, and 82 ps. The structure of PtMn is maintained despite of slight movement. The bonding with bond length below 3 Å is shown. Color: Pt-blue, Mn-orange.
+Source data
+Extended Data Fig. 7 The volcano-shaped relationship between ϕ and experimental C
+3
+H
+6
+selectivity.
+a
+, Experimental test under different reaction temperature and WHSV of propane (823 K, WHSV of propane = 8.5 h
+−1
+, C
+3
+H
+8
+:H
+2
+=1:1, with N
+2
+balance).
+b
+, Experimental test under a higher propane partial pressure and WHSV of propane (873 K, WHSV of propane = 8.5 h
+−1
+, C
+3
+H
+8
+:H
+2
+=2:1, without N
+2
+balance). The data of PtZn is a quote of reference
+13
+. The experimental selectivity of C
+3
+H
+6
+under different reaction conditions maintains a similar volcanic relationship with the descriptor (ϕ), further enhancing the reliability of ϕ.
+Source data
+Extended Data Fig. 8 The comparison of dehydrogenation behavior over PtMn(110), Pt(111), and PtMn particle.
+The potential diagram of propylene dehydrogenation at
+a
+, edge site of PtMn particle, and
+b
+, corner site of PtMn particle. The insets show the geometries of the adsorbed C
+3
+H
+6
+, the transition state (TS) of C
+3
+H
+6
+dehydrogenation, and the adsorbed C
+3
+H
+5
+over PtMn particle. Color: Pt-blue, Mn-orange.
+c
+,
+d
+, The selectivity comparison between PtMn(110), Pt(111), and PtMn particle. Pt(111) is taken as the reference. The potential diagram shows that the adsorption strength of C
+3
+H
+6
+at edge or corner site of PtMn particle becomes stronger than PtMn(110). Especially, the corner site exhibits stronger adsorption of the coke precursor (C
+3
+H
+5
+) compared with PtMn(110). Moreover, the transition states of C
+3
+H
+6
+dehydrogenation are more stable over the low-coordinated sites than PtMn(110). This leads to a decreased selectivity, which can facilitate coke formation and contribute to the deactivation at the initial stage of catalysis.
+Source data
+Extended Data Fig. 9 Extension and applicability of ‘degree-of-isolation’.
+a
+, The relationship between ϕ
+e
+and experimental ethylene selectivity for Au-, Ag-, and Cu-alloyed Pd SAA catalyst in the semi-hydrogenation of acetylene. The experimental data is a quote from references
+16
+,
+17
+,
+18
+.
+b
+, The relationship between ϕ
+e
+and experimental propylene selectivity for subsurface alloy with Pt-skin structure, and Fe, Co, or Ni as alloying elements in subsurface regions. The experimental data is a quote from reference
+38
+.
+Source data
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–16 and Tables 1–3.
+Source data
+Source Data Fig. 1
+Statistical source data.
+Source Data Fig. 2
+Statistical source data.
+Source Data Fig. 3
+Statistical source data.
+Source Data Fig. 4
+Statistical source data.
+Source Data Extended Data Fig. 1
+Statistical source data.
+Source Data Extended Data Fig 2
+Statistical source data.
+Source Data Extended Data Fig. 3
+Statistical source data.
+Source Data Extended Data Fig. 4
+Statistical source data.
+Source Data Extended Data Fig. 5
+Statistical source data.
+Source Data Extended Data Fig. 6
+Statistical source data.
+Source Data Extended Data Fig. 7
+Statistical source data.
+Source Data Extended Data Fig. 8
+Statistical source data.
+Source Data Extended Data Fig. 9
+Statistical source data.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Chang, X., Zhao, ZJ., Lu, Z.
+et al.
+Designing single-site alloy catalysts using a degree-of-isolation descriptor.
+Nat. Nanotechnol.
+18
+, 611–616 (2023). https://doi.org/10.1038/s41565-023-01344-z
+Download citation
+Received
+:
+27 April 2021
+Accepted
+:
+09 February 2023
+Published
+:
+27 March 2023
+Issue Date
+:
+June 2023
+DOI
+:
+https://doi.org/10.1038/s41565-023-01344-z
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Behind the Paper
+The real story behind the research, from conception to publication, the highs and the lows
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Advisory Panel
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Nanotechnology
+(
+Nat. Nanotechnol.
+)
+ISSN
+1748-3395
+(online)
+ISSN
+1748-3387
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

@@ -1,0 +1,1581 @@
+Tuning of catalytic sites in Pt/TiO2 catalysts for the chemoselective hydrogenation of 3-nitrostyrene | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Tuning of catalytic sites in Pt/TiO
+2
+catalysts for the chemoselective hydrogenation of 3-nitrostyrene
+Download PDF
+Article
+Published:
+16 September 2019
+Tuning of catalytic sites in Pt/TiO
+2
+catalysts for the chemoselective hydrogenation of 3-nitrostyrene
+Margherita Macino
+ORCID:
+orcid.org/0000-0002-7628-9125
+1
+,
+Alexandra J. Barnes
+1
+,
+Sultan M. Althahban
+2
+,
+3
+,
+Ruiyang Qu
+ORCID:
+orcid.org/0000-0003-4029-1263
+4
+,
+5
+,
+Emma K. Gibson
+ORCID:
+orcid.org/0000-0002-7839-3786
+6
+,
+David J Morgan
+ORCID:
+orcid.org/0000-0002-6571-5731
+1
+,
+Simon J. Freakley
+1
+,
+Nikolaos Dimitratos
+1
+,
+7
+,
+Christopher J. Kiely
+1
+,
+2
+,
+Xiang Gao
+4
+,
+5
+,
+Andrew M. Beale
+ORCID:
+orcid.org/0000-0002-0923-1433
+8
+,
+9
+,
+Donald Bethell
+10
+,
+Qian He
+1
+,
+Meenakshisundaram Sankar
+1
+&
+…
+Graham J. Hutchings
+ORCID:
+orcid.org/0000-0001-8885-1560
+1
+Show authors
+Nature Catalysis
+volume
+2
+,
+pages
+873–881 (
+2019
+)
+Cite this article
+13k
+Accesses
+244
+Citations
+40
+Altmetric
+Metrics
+details
+Subjects
+Heterogeneous catalysis
+Materials for energy and catalysis
+Nanoparticles
+An
+Author Correction
+to this article was published on 03 August 2020
+An
+Author Correction
+to this article was published on 11 November 2019
+This article has been
+updated
+Abstract
+The catalytic activities of supported metal nanoparticles can be tuned by appropriate design of synthesis strategies. Each step in a catalyst synthesis method can play an important role in preparing the most efficient catalyst. Here we report the careful manipulation of the post-synthetic heat treatment procedure—together with control over the metal loading—to prepare a highly efficient 0.2 wt% Pt/TiO
+2
+catalyst for the chemoselective hydrogenation of 3-nitrostyrene. For Pt/TiO
+2
+catalysts with 0.2 and 0.5 wt% loading levels, reduction at 450 °C induces the coverage of TiO
+x
+over Pt nanoparticles through a strong metal–support interaction, which is detrimental to their catalytic activities. However, this can be avoided by following calcination treatment with reduction (both at 450 °C), allowing us to prepare an exceptionally active catalyst. Detailed characterization has revealed that the peripheral sites at the Pt/TiO
+2
+interface are the most likely active sites for this hydrogenation reaction.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Dual-atom Pt heterogeneous catalyst with excellent catalytic performances for the selective hydrogenation and epoxidation
+Article
+Open access
+26 May 2021
+Simultaneously activating molecular oxygen and surface lattice oxygen on Pt/TiO
+2
+for low-temperature CO oxidation
+Article
+Open access
+09 August 2024
+Electron donation of non-oxide supports boosts O
+2
+activation on nano-platinum catalysts
+Article
+Open access
+12 May 2021
+Main
+Supported metal nanocatalysts play a crucial role in our endeavour to develop new technologies for energy and environmental applications, including the production of fine chemicals and fuels from renewable and sustainable feedstocks while at the same time achieving reduced emission targets
+1
+,
+2
+. Selective hydrogenation reactions that are catalysed by supported metal nanoparticles are one of the most widely studied in academia and industry
+3
+. One typical example is the hydrogenation of nitroarenes to produce functionalized anilines that are commonly used in the production of a number of fine and bulk chemicals, including polymers, fertilizers, pharmaceuticals, dyes and biologically active compounds
+4
+,
+5
+. Recently, researchers have focused on the chemoselective hydrogenation of nitroaromatics to form anilines (especially in the presence of other reducible groups such as C=C, C=O, C≡C and C≡N) because of their high synthetic value
+6
+,
+7
+. Many reduction processes in industry still make use of stoichiometric reducing agents such as sodium hydrosulphite, iron in acidic media (the Bechamp process), stannous chloride, samarium iodide or zinc in ammonium hydroxide
+8
+,
+9
+,
+10
+. These methods are not only unselective, but they also generate huge amounts of unwanted waste. Catalytic reduction that uses molecular H
+2
+is highly desirable because of its economics and availability. Moleular H
+2
+is cheaper and readily available compared with other hydrogen donors and it is also environmentally benign as water is the only by-product
+3
+,
+7
+,
+11
+,
+12
+. However, achieving high chemoselectivity in this reaction without adding any homogeneous additives is still challenging. When hydrogen donors such as hydrazine
+13
+,
+14
+, formic acid
+15
+or sodium borohydride
+16
+,
+17
+are used, high chemoselectivities for nitro group reduction can be achieved. Recent advances in controlling the structure and properties of supported metal nanoparticles have renewed interest in the development of better catalysts for chemoselective hydrogenation reactions that use molecular H
+2
+(ref.
+3
+). For Pt/TiO
+2
+catalysts, alloying with a second metal (for example, Au, Ni or Zn) has also been reported to increase the chemoselectivity
+11
+. Corma et al. showed that monometallic Au nanoparticles (<5 nm) that are supported on Fe
+2
+O
+3
+could increase the selectivity (up to 99%) towards nitro group reduction during the hydrogenation of nitrostyrene
+18
+. Zhang et al. reported that atomic dispersions of Pt on FeO
+x
+were very active catalysts for the chemoselective hydrogenation of nitrostyrene
+19
+; furthermore, they found that adding alkali metals to high loading Pt/FeO
+x
+catalysts—where nanoparticles are also present—increased the chemoselectivity dramatically
+20
+.
+Every step in the catalyst synthesis process plays an important role in tuning the structural characteristics of the catalyst and in turn its activity, selectivity and stability. We have reported that the addition of an excess of chloride ions during wet impregnation helps control the particle size and composition of supported AuPd nanoparticles
+21
+. Heat treatment procedures are similarly critical in controlling metal particle size, morphology
+22
+and alloy formation
+21
+, as well as the removal of organic ligands or poisons
+23
+, thereby dramatically affecting catalytic performance
+21
+,
+24
+,
+25
+. Typical heat treatments employed for hydrogenation catalysts are as follows: the as-synthesized samples are usually calcined first to decompose the metal precursors on the support surface, which is followed by a gas-phase reduction (either in situ or ex situ) to reduce the metal ions to form the metal nanoparticles
+11
+,
+19
+. Corma et al. controlled the particle size and morphology of Pt nanoparticles supported on TiO
+2
+by choosing an appropriate activation temperature to tune the chemoselectivity during the hydrogenation of nitrostyrene
+11
+. Studies on the inter-relationship between metal loading and heat treatment are highly important because of the current drive to reduce the metal loading to efficiently use scarce and expensive noble metals
+19
+.
+Here we report the catalytic performance of 0.05 wt%, 0.08 wt%, 0.2 wt% and 0.5 wt% Pt on TiO
+2
+for the chemoselective hydrogenation of 3-nitrostyrene (3-NS) to 3-vinylaniline (3-VA) (Fig.
+1
+). This substrate was selected as there are two potentially reducible groups, making it a widely used model substrate for chemoselective hydrogenation reactions. The active sites have been fine tuned by optimizing the post-synthesis heat treatment protocol through systematically applying different high-temperature heat treatments (that is, either ‘red.’ (reduction only), ‘calc’ (calcination only) or ‘calc. + red.’ (calcination followed by reduction)) to all of these catalysts and we report the high catalytic activity exhibited by the 0.2 wt% Pt/TiO
+2
+‘calc. + red.’ sample. All of these catalyst variants were characterized by X-ray photoelectron spectroscopy (XPS), scanning transmission electron microscopy (STEM), extended X-ray absorption fine structure (EXAFS) and X-ray absorption near edge structure (XANES) as well as carbon monoxide diffuse reflectance infrared Fourier transform spectroscopy (CO DRIFTS). This has allowed us to explore the complex interplay between the Pt loading level, heat treatment procedure and strong metal support interactions (SMSIs). We deduce that the extent of formation of exposed Pt peripheral sites with the TiO
+2
+support directly correlates with the activity of these Pt/TiO
+2
+catalysts.
+Fig. 1: The hydrogenation pathways of 3-NS.
+The desired chemoselective hydrogenation of 3-NS to form 3-VA, and the associated side products 3-ENB and 3-EA.
+Full size image
+Results
+Hydrogenation of 3-NS
+Initially, a 0.2 wt% Pt/TiO
+2
+catalyst reduced at 450 °C was tested for the liquid phase hydrogenation of 3-NS at 40 °C under 3 bar H
+2
+pressure with toluene as the solvent. 3-Nitrostyrene was rapidly and selectively converted into 3-VA; plots of 3-NS concentration versus time were linear up to about 25% conversion (Supplementary Fig.
+1
+), giving an initial conversion rate of 1.55 × 10
+−3
+mol
+3-NS
+l
+−1
+min
+−1
+with greater than 99% selectivity towards 3-VA (Fig.
+2a
+). Initial rates with different starting concentrations of 3-NS were used to confirm that reactions are zero order with respect to 3-NS (Supplementary Figs.
+2
+and
+3
+) for both 0.2 wt% Pt/TiO
+2
+and 0.08 wt% Pt/TiO
+2
+. Other potential products such as 3-ethylnitrobenzene (3-ENB), which is formed by the selective hydrogenation of C=C, and 3-ethylaniline (3-EA), which is formed by the complete hydrogenation of both the nitro and C=C groups, were either not detected or were present only in trace quantities. In line with many other reports, the fully hydrogenated 3-ethyl-1-cyclohexylamine product was not detected under our reaction conditions; hence, it is not included in the discussion (Supplementary Fig.
+4
+). Inspired by the work of Corma et al.
+11
+, one portion of the dried-only 0.2 wt% Pt/TiO
+2
+sample (see Methods) was calcined in static air at 450 °C for 4 h (calc.) and a second portion was calcined at 450 °C for 4 h and subsequently reduced using 5% H
+2
+/Ar at 450 °C for 4 h (calc. + red.) and tested for the hydrogenation of 3-NS under identical reaction conditions. The 0.2 wt% Pt/TiO
+2
+‘calc. + red.’ catalyst was found to be much more active (with an initial rate of 6.04 × 10
+−3
+mol
+3-NS
+l
+−1
+min
+−1
+) compared with the 0.2 wt% Pt/TiO
+2
+‘red.’ catalyst. However, the selectivity to 3-VA for the ‘calc. + red.’ catalyst was slightly lower (~96%) in comparison with the ‘red.’ catalyst because of the generation of the fully hydrogenated product 3-EA (4%, Supplementary Fig.
+4
+). Corma et al.
+11
+reported that a 0.2 wt% Pt/TiO
+2
+catalyst reduced at 450 °C displayed growth of a TiO
+2
+layer over the Pt nanoparticles, resulting in higher selectivity to 3-VA (~90%). However, this same material reduced at 200 °C did not show any evidence of TiO
+x
+overgrowth on the Pt nanoparticles and displayed a much lower selectivity for 3-VA (~42%), with 3-EA (~52%) being the main product
+11
+. In the present study, the 0.2% Pt/TiO
+2
+‘red.’ and 0.2% Pt/TiO
+2
+‘calc. + red.’ materials (treated at 450 °C) only showed a difference in their catalytic activities (Fig.
+2
+) and not in their selectivities. To rationalize this observation, we prepared a series of Pt/TiO
+2
+catalysts with higher (0.5 wt%) and lower (0.05 and 0.08 wt%) Pt loadings (the initial rates for all of these catalysts are presented in Fig.
+2a
+). For all of the Pt loadings, the ‘calc.’ samples were found to be completely inactive and hence, for clarity, the data for these catalysts are not presented in Fig.
+2
+. For higher Pt loading catalysts (that is, 0.2 and 0.5 wt%), the reaction rates of the ‘red.’ catalysts were found to be lower (1.55 × 10
+−3
+mol
+3-NS
+l
+−1
+min
+−1
+and 2.84 × 10
+−3
+mol
+3-NS
+l
+−1
+min
+−1
+, respectively) compared with their counterpart ‘calc. + red.’ catalysts (6.04 × 10
+−3
+mol
+3-NS
+l
+−1
+min
+−1
+and 1.11 × 10
+−2
+mol
+3-NS
+l
+−1
+min
+−1
+, respectively). Interestingly, for the 0.05 wt% Pt/TiO
+2
+catalyst, the opposite trend was observed whereby the ‘red.’ catalyst was found to be much more active (8.35 × 10
+−4
+mol
+3-NS
+l
+−1
+min
+−1
+) compared with the ‘calc. + red.’ catalyst (1.59 × 10
+−4
+mol
+3-NS
+l
+−1
+min
+−1
+) under identical conditions. However, for the 0.08 wt% Pt/TiO
+2
+catalyst, the ‘red.’ and the ‘calc. + red.’ samples displayed similar activity levels (that is, 1.75 × 10
+−3
+mol
+3-NS
+l
+−1
+min
+−1
+and 1.78 × 10
+−3
+mol
+3-NS
+l
+−1
+min
+−1
+, respectively). It is important to highlight that, irrespective of Pt loading or heat treatment protocol, the selectivity to 3-VA remained very high (>90%) for all of the catalysts. It should also be noted that the catalysts with higher Pt loadings (0.2 and 0.5 wt%) subjected to the ‘calc. + red.’ treatment showed slightly lower selectivity (because of the production of some 3-EA, which is a product of overhydrogenation) compared with the corresponding ‘red.’ samples (see 3-VA selectivity versus the 3-NS conversion plot, Supplementary Fig.
+4
+). These results demonstrate that the post-synthesis heat treatment protocols, combined with Pt loading. modulate the active sites for this chemoselective hydrogenation reaction. The initial rate data of all the ‘red.’ and ‘calc. + red.’ Pt/TiO
+2
+samples with different metal loadings are reported in Supplementary Fig.
+1
+.
+Fig. 2: The effect of heat treatment on activity.
+The effect of different heat treatments (that is, ‘red.’ versus ‘calc. + red.’) on the activity of Pt/TiO
+2
+catalysts with different Pt loadings.
+a
+, Initial 3-NS conversion rates.
+b
+, Turnover frequencies (TOFs) based on the initial rates that were obtained during the selective hydrogenation of 3-NS. Reaction conditions: 3-NS, 0.2 ml; toluene, 8 ml; pH
+2
+, 3 bar; catalyst, 50 mg; temperature, 40 °C. The s.d. values were calculated from three sets of catalytic data under identical reaction conditions and were used to produce the error bars.
+Full size image
+As the catalysts have different Pt loadings, their conversion rates were normalized to allow for a meaningful comparison of their catalytic activities. The resultant TOFs (Fig.
+2b
+) show exceptional intrinsic activity for the 0.2 wt% Pt/TiO
+2
+‘calc. + red.’ catalyst (5,650 mol
+3-NS
+mol
+Pt
+−1
+h
+−1
+). Supplementary Table
+1
+lists reported catalytic activities of similar supported metal catalysts for this liquid phase reaction for comparison purpose. It should be noted that much higher TOFs have been reported under harsher reaction conditions (that is, higher temperatures, greater H
+2
+pressure and higher metal loadings)
+26
+,
+27
+. In an effort to unravel the relationship between metal loading, heat treatment protocol and the nanostructural properties of these catalysts, all of these materials were comprehensively characterized using a complementary set of state-of-the-art microscopic and spectroscopic methods.
+Electron microscopy studies
+Figure
+3
+shows some representative high-angle annular dark-field–STEM (HAADF–STEM) images of ‘red.’ and ‘calc. + red.’ samples of Pt/TiO
+2
+catalysts with different Pt loadings (0.05, 0.08, 0.2 and 0.5 wt%). The corresponding images of the ‘calc.’ series of samples are presented in Supplementary Fig.
+5
+. This study allowed us to follow how the size and structure of the Pt nanoparticles change according to the heat treatment applied for each Pt loading level. For all of the ‘calc.’ samples, the vast majority of the Pt species are subnanometre clusters and highly dispersed single Pt atoms that are distributed over the support (Supplementary Fig.
+5
+). For the 0.05 wt% Pt/TiO
+2
+catalyst (Fig.
+3a,b
+), the Pt particles found in both the ‘red.’ and the ‘calc. + red.’ samples were ultrasmall clusters; however, single Pt atoms were not detected. The ‘red.’ sample had a more uniform particle size distribution compared with the ‘calc. + red.’ catalyst, which correlates well with the observed catalytic activity trend. In the case of the 0.08 wt% Pt/TiO
+2
+material (Fig.
+3c,d
+), both ‘red.’ and ‘calc. + red.’ samples possess a very similar nanostructure with a uniformly small mean Pt particle size (1–2 nm) and reasonably similar particle size distributions. This observation again correlates well with the very similar catalytic activities noted for the ‘red.’ and ‘calc. + red.’ samples of the 0.08 wt% Pt/TiO
+2
+catalyst (Fig.
+2
+). In the case of the 0.2 wt% Pt/TiO
+2
+catalyst (Fig.
+3e,f
+), the ‘calc. + red.’ sample showed many small Pt particles (1–2 nm) that were uniformly distributed over the TiO
+2
+support. However, the corresponding ‘red.’ sample showed a wider distribution of Pt particle sizes (1–4 nm) with a larger mean particle diameter (1.6 nm). In the case of the 0.5 wt% Pt/TiO
+2
+catalyst (Fig.
+3g,h
+), the ‘red.’ sample showed a mixture of smaller (~1–2 nm) and larger particles (>5 nm), whereas in the corresponding ‘calc. + red.’ variant, uniform particles are homogeneously distributed over the TiO
+2
+surface. The possibility of improving the metal dispersion in favour of small Pt particles by performing consecutive calcination and reduction treatments has been observed before
+28
+,
+29
+. Our microstructural observations correlate very well with the measured catalytic activites for these various Pt/TiO
+2
+catalysts, indicating that smaller Pt particles with high dispersion and narrow size distribution lead to higher overall catalytic activity. Analysis of the particle size distribution data for all of the samples in this study (Fig.
+3
+) reveals that those Pt/TiO
+2
+catalysts with the largest population of ~1 nm particles and the narrowest size distribution (that is, 0.08 wt% Pt/TiO
+2
+‘red.’, 0.08 wt% Pt/TiO
+2
+‘calc. + red.’ and 0.2 wt% Pt/TiO
+2
+‘calc. + red.’) also show the highest catalytic activity in terms of TOF values (Fig.
+2b
+).
+Fig. 3: Representative HAADF–STEM images and the derived particle size distributions of the unused Pt/TiO
+2
+catalysts, binned according to the Mackay model.
+a
+–
+h
+, 0.05 wt% Pt/TiO
+2
+‘calc. + red.’ (
+a
+) and ‘red.’ (
+b
+); 0.08 wt% Pt/TiO
+2
+‘calc. + red.’ (
+c
+) and ‘red.’ (
+d
+); 0.2 wt% Pt/TiO
+2
+‘calc. + red.’ (
+e
+) and ‘red.’ (
+f
+); and 0.5 wt% Pt/TiO
+2
+‘calc. + red.’ (
+g
+) and ‘red.’ (
+h
+). See Supplementary Table
+4
+for further details on the binning method.
+Full size image
+XPS studies
+All of the Pt/TiO
+2
+catalysts with different loadings and heat treatment protocols were characterized by XPS and the results are shown in Fig.
+4
+. It should be noted that the samples with very low loading levels (<0.1 wt%) gave noisy spectra even after an unusually large number of scans (>100). This signal-to-noise ratio problem was compounded by the presence of an overlapping Ti loss peak at ~75 eV, which made quantification of these particular spectra challenging
+30
+.
+Fig. 4: XPS data.
+a–d
+, Pt/TiO
+2
+catalysts with Pt loading levels of 0.05 wt% (
+a
+), 0.08 wt% (
+b
+), 0.2 wt% (
+c
+) and 0.5 wt% (
+d
+) for dried only (i), ‘calc.’ (ii), ‘red.’ (iii) and ‘calc.+ red.’ (iv).
+Full size image
+Regardless of Pt loading, the XPS data were generally quite similar; thus, for conciseness of discussion. we will focus initially on the data acquired from the 0.5 wt% Pt/TiO
+2
+catalysts.
+For the dried-only sample, a Pt(4
+f
+7/2
+) binding energy of 72.2 eV was measured, which is indicative of a Pt(
+ii
+) species and is presumably associated with residual chlorine as detected by XPS, although the presence of Pt oxides cannot be excluded
+26
+,
+27
+. Calcination of this highest loading sample revealed two distinct Pt environments: the first, again, with a binding energy of 72.2 eV and the second with a binding energy of 74.4 eV. Considering the calcination temperature employed (450 °C), the small concentration of Cl detected (~0.2–0.25 at%, see Supplementary Table
+2
+) and the nominal Pt concentration (~0.2 at%, see Supplementary Table
+2
+), a bulk PtCl
+2
+species is not the cause of the 72.2 eV signal; thus, this is probably a PtO
+x
+phase. The higher binding energy component at 74.4 eV can be assigned as PtO
+2
+or Pt hydroxide
+31
+. Both ‘red.’ and ‘calc. + red.’ catalysts exhibit Pt(0), as indicated by the asymmetric peak shape and a binding energy of 70.6–70.8 eV (ref.
+32
+). Representative HAADF–STEM lattice images of 0.5 wt% Pt/TiO
+2
+‘red.’ (presented in Supplementary Fig.
+6
+) confirm the presence of a metallic Pt(0) structure in larger particles.
+Depending on the heat treatments, the Pt(4
+f
+) signal strength could be very weak for the low Pt loading catalysts (0.08 and 0.05 wt%), especially for those materials that had undergone reductive treatments. This is attributed to changes in the particle size.
+X-ray absorption spectroscopy studies
+XAFS measurements were performed for the 0.05, 0.08, 0.2 and 0.5 wt% Pt/TiO
+2
+(‘red.’ and ‘calc. + red.’) samples. Analysis of the XAFS data included interpretation of both XANES and EXAFS. The Pt L
+3
+-edge XANES spectrum is dominated by the dipole-allowed 2
+p
+3/2
+to 5
+d
+5/2
+transition of a core electron, which is known to be sensitive to the oxidation and coordination state of platinum
+33
+,
+34
+,
+35
+,
+36
+. In Fig.
+5a,b
+, the XANES plots show a comparison of samples with different metal loadings that underwent the same heat treatment: namely ‘red.’ (Fig.
+5a
+) or ‘calc. + red.’ (Fig.
+5b
+). Supplementary Fig.
+7
+also contains a plot of the XANES for the 0.05 wt% Pt/TiO
+2
+samples and the PtO
+2
+reference material. It is already possible from this overview to notice the variety of Pt species and environments present in these samples.
+Fig. 5: XANES spectra.
+a
+–
+d
+, Pt L
+3
+-edge XANES (
+a
+,
+b
+) and the magnitude component of the k
+3
+weighted Fourier Transform of the EXAFS data (
+c
+,
+d
+) recorded on Pt/TiO
+2
+samples after ‘red.’ (
+a
+,
+c
+) and ‘calc. + red.’ (
+b
+,
+d
+). The dashed arrows indicate the decrease in edge position with increased loading. The solid arrows indicate the increased rising absorption edge. Labels above the peaks indicate the scattering pairs that give rise to that contribution.
+Full size image
+The XANES spectra in Fig.
+5a
+seem almost identical for the three lowest Pt loadings (0.05, 0.08 and 0.2 wt%), with a maximum in the normalised absorbance µ(
+E
+) trace seen at ~11,568 eV. It is noticeable, however, that the maximum of the rising absorption edge of the samples and the edge position is lower (red-shifted) compared with that of the reference PtO
+2
+phase (Supplementary Fig.
+7
+). The sample with 0.5 wt% Pt loading is especially red-shifted and its rising absorption edge possesses the lowest overall intensity, particularly at 11,568 eV. Previously it has been shown that such changes indicate differences in the extent of reduction/oxidation, with all of the samples possessing an average Pt oxidation state of less than +4, with the 0.5 wt% sample being more reduced than all of the samples with lower loadings, which are seen to be the most oxidized
+37
+. These observations are entirely consistent with the XPS and HAADF–STEM data shown in Fig.
+4
+and Supplementary Fig.
+6
+, respectively.
+A similar situation can be seen for the ‘calc. + red.’ samples shown in Fig.
+5b
+, although, based on the intensity of the rising absorption edge, all samples (except those that contain 0.08 wt% Pt) seem more oxidized than after simple reduction (with the 0.08 wt% sample seeming to stay the same). To verify and even extract further information from these samples, the EXAFS FT data are plotted in Fig.
+5c,d
+. Focusing on Fig.
+5c
+(the ‘red.’ samples), it is clear that all except the 0.5 wt% Pt/TiO
+2
+‘red.’ sample contain a strong peak at ~2.0 Å, which is assignable to a Pt–O distance typical of PtO
+2
+species (see Supplementary Fig.
+8a
+, which illustrates the similarities of the Pt–O distances in these samples compared to that of PtO
+2
+; refs.
+38
+,
+39
+). The intensity of the Pt–O contribution is much smaller in all of the reduced samples with respect to the reference PtO
+2
+and suggests that the Pt–O environments are more disordered. This can be rationalized as being a result of the static disorder caused by the high dispersion of PtO
+2
+species across the TiO
+2
+support and, according to the XANES, a partial reduction of Pt
+4+
+to Pt
+2+
+. Note that as a PtO reference is not readily available, it is not possible to unambiguously identify its presence nor rule out its absence. The 0.5 wt% Pt/TiO
+2
+‘red.’ sample also contains a broad peak with a maximum intensity at ~2.73 Å, which is typical of Pt metal. Analysis of the EXAFS data (see Supplementary Fig.
+9
+and Supplementary Table
+3
+) for this sample suggests the existence of Pt nanoparticles that are ~1 nm in diameter
+40
+. For the 0.05 and 0.2 wt% Pt/TiO
+2
+‘red.’ samples, weak peaks at 2.87 and 2.81 Å may also suggest the presence of a small amount of Pt metal in these samples, as well as a greater contribution from Pt-oxide.
+Figure
+5d
+contains the FT data of the corresponding ‘calc. + red.’ samples, which are characterized by the presence of a strong Pt–O contribution in all of the samples, although the intensity of this contribution is inversely proportional to the amount of Pt present (see Supplementary Fig.
+8b
+, which illustrates the similarities of the Pt–O distances in the samples to that of the reference PtO
+2
+material). This is again consistent with the XANES data, which suggest the presence of more Pt
+4+
+in the samples after the ‘calc. + red.’ treatment; the 0.05 wt% Pt/TiO
+2
+‘calc. + red.’ sample in particular contains Pt–Pt scattering contributions consistent with PtO
+2
+, indicating that some PtO
+2
+nanocrystallites may have evolved in this sample. For the 0.5 wt% Pt/TiO
+2
+‘calc. + red.’ sample, the Pt–O peak possesses a skew and kurtosis towards higher Pt–O distances and—when considered along with the weaker absorption edge intensity—suggests the presence of more Pt
+2+
+. No real evidence for metallic Pt species could be seen on visual inspection, nor when attempts were made to fit the data.
+CO DRIFTS analysis
+CO DRIFTS analysis was performed on all of the Pt/TiO
+2
+catalysts to gain an accurate measure of the degree of Pt metal exposure on the surface of the catalysts. For all of the samples, a broad asymmetric band was observed between 2,050 and 2,060 cm
+−1
+, and for all of the ‘calc. + red.’ samples, a sharp band at ~2,089 cm
+−1
+was also present (Fig.
+6
+). It has been reported that the band at ~2,050–2,060 cm
+−1
+corresponds to CO molecules that are linearly adsorbed on low-coordination Pt-edge and -corner sites
+11
+,
+41
+,
+42
+,
+43
+,
+44
+. This infrared band is quite sensitive to a number of factors, including Pt dispersion, Pt microstructure (that is, steps, crystal faces and so on) and charge transfer in the vicinity of the Pt adsorption site. The band at ~2,089 cm
+−1
+corresponds to CO molecules that are adsorbed on the Pt(111) terrace sites with a coordination number of nine
+11
+,
+43
+,
+44
+,
+45
+. The Pt/TiO
+2
+system has also been widely reported to display an SMSI, especially when reduced at temperatures higher than 400 °C, which typically results in much lower uptake or adsorption of CO (ref.
+46
+). The 0.5 wt% Pt/TiO
+2
+‘red.’ and 0.2 wt% Pt/TiO
+2
+‘red.’ samples exhibit substantially lower CO adsorption, confirming the presence of an SMSI effect in these samples. The SMSI could be associated with the formation of bonds between the Pt metal and cationic or atomic Ti species, or by coverage of the Pt particle by a layer of TiO
+x
+as a result of hydrogen spillover. Corma et al. has reported TiO
+2
+coverage over Pt particles for a 0.2 wt% Pt/TiO
+2
+sample reduced at 450 °C (ref.
+11
+). Following the combination of our CO DRIFTS data with reported interpretations, we consider that the Pt nanoparticles are covered by TiO
+x
+for the 0.5 wt% Pt/TiO
+2
+‘red.’ and 0.2 wt% Pt/TiO
+2
+‘red.’ samples, even though this layer was not resolved by STEM. Following analysis of the TOF values of these two samples from Fig.
+2
+, it is clear that their activities are much lower than all of the other samples tested (1,060 mol
+3-NS
+mol
+Pt
+−1
+h
+−1
+and 1,450 mol
+3-NS
+mol
+Pt
+−1
+h
+−1
+, respectively). Although some SMSI effects can be beneficial for increasing the chemoselectivity in this reaction, an excessive TiO
+x
+overlayer on Pt can be detrimental to the overall catalytic activity through complete site blocking. For the 0.5 wt% Pt/TiO
+2
+and 0.2 wt% Pt/TiO
+2
+catalysts that were subjected to the ‘calc. + red.’ treatment, the Pt particles were not completely covered by TiO
+2
+, leaving some Pt sites exposed for catalytic turnover. Although we could not directly visualize the surface coverage of Pt nanoparticles by TiO
+x
+, CO DRIFTS data provide convincing evidence for some TiO
+x
+coverage of Pt particles in the 0.5 wt% Pt/TiO
+2
+and 0.2 wt% Pt/TiO
+2
+‘red.’ samples.
+Fig. 6: CO DRIFTS spectra.
+a
+,
+b
+,
+c
+,
+d
+, 0.05 wt% (
+a
+), 0.08 wt% (
+b
+), 0.2 wt% (
+c
+) and 0.5 wt% (
+d
+) Pt/TiO
+2
+catalysts in the ‘red.’ (i) and ‘calc. + red.’ (ii) states.
+Full size image
+It has previously been reported that peripheral sites at the Pt/TiO
+2
+interface are important for some selective hydrogenation reactions such as the hydrogenation of crotonaldehyde and furfuraldehyde
+47
+,
+48
+. Following this observation, the total number of peripheral sites for all of the Pt/TiO
+2
+catalysts examined were estimated by assuming that all of the Pt particles are half-‘sphere’ Mackay icosahedra (see Supplementary Table
+4
+), which is on the basis of the particle size distributions that were derived from the HAADF–STEM images. The total number of Pt peripheral sites (expressed as a weight percentage of the total catalyst mass) for the various Pt/TiO
+2
+materials are plotted in Fig.
+7a
+together with the 3-NS initial conversion rate.
+Fig. 7: The correlation between peripheral Pt sites and catalytic activity.
+a
+, The correlation between the 3-NS initial conversion rate and the total amount of Pt present in peripheral sites;
+R
+2
+= 0.89 and
+p
+< 0.001.
+b
+, The correlation between the 3-NS initial conversion rate and total exposed surface Pt atoms for the different Pt/TiO
+2
+catalysts as estimated from analysis of HAADF–STEM images;
+R
+2
+= 0.71 and
+p
+< 0.02. The s.d. values for the initial rates were calculated from three sets of catalytic data under identical reaction conditions and were used to produce the error bars.
+Full size image
+A significant positive correlation is observed between the number of peripheral Pt sites and the catalytic activity (Fig.
+7a
+), which supports the proposition of Boronat et al. that the peripheral sites created where the Pt nanoparticles make contact with the TiO
+2
+support are very important for the selective hydrogenation of nitro groups
+49
+. A poorer correlation is observed when the same initial rate data were plotted against the total number of exposed surface Pt atoms (Fig.
+7a
+). The Pt surface area determined through CO chemisorption was plotted against the initial rate (Supplementary Fig.
+11
+), also giving a poor correlation. These data from two different methods indicate that the Pt surface atoms may not be the active sites. Post-synthetic heat treatment plays an important role in inducing SMSI effects in Pt/TiO
+2
+catalysts, which in turn has a profound impact on their resultant catalytic activities. High-temperature reduction induces coverage of Pt sites by TiO
+x
+. This problem can be eliminated, however, by employing a sequential calcination step followed by a reduction step. We propose performing the calcination step before the reduction treatment to more effectively anchor the Pt particles to the support and thus limit their subsequent mobility during the reduction treatment. From the particle size distribution data (Fig.
+3
+), it is evident that, among all of the catalysts tested, only 0.5 and 0.2 wt% Pt/TiO
+2
+‘red.’ samples have metal particles that are larger than 2–3 nm. From the CO DRIFTS data (Fig.
+6
+), only these two samples show signs of TiO
+x
+coverage over Pt particles. This suggest a possible size-dependant TiO
+x
+coverage phenomenon that needs further detailed investigation. With the current data, we conclude that for samples with higher Pt loadings, a ‘calc. + red.’ treatment results in more active catalysts when compared with ‘red.’ catalysts. In the case of lower Pt loadings, due to high dispersion and relative scarcity of nearby Pt neighbours, even with a reduction-only treatment, there is little agglomeration of the Pt nanoparticles in spite of Pt mobility. Hence, the calcination pre-step is not necessary for samples with low Pt loadings. The collective electron microscopy and spectroscopic data obtained from all of the Pt/TiO
+2
+samples suggest that those materials with very small Pt particles (~1 nm) and without any significant TiO
+x
+surface coverage display exceptional catalytic performance.
+Conclusion
+Platinum nanoparticles supported on TiO
+2
+with different Pt loadings were found to be remarkably active and selective for the chemoselective hydrogenation of 3-NS to 3-VA. Among all of the catalysts tested, the 0.2 wt% Pt/TiO
+2
+‘calc. + red.’ material was found to be the most active. It was also the catalyst with the highest number of peripheral active sites generated as a result of the combination of ultrasmall Pt nanoparticles (~1 nm) with a tight particle size distribution in which the Pt particles were not covered by TiO
+x
+. This nanostructure was achieved by combining a calcination treatment at 450 °C with a subsequent reduction of this catalyst at 450 °C, thereby preventing any TiO
+x
+coverage of the Pt active sites. For the same 0.2 wt% level of Pt loading, a reduction treatment alone at 450 °C induces an SMSI effect that results in the partial coverage of active Pt sites and a less active catalyst.
+Methods
+Catalyst preparation
+Supported Pt catalysts with different Pt loadings (0.05, 0.08, 0.2 and 0.5 wt%) were synthesized using the wet-impregnation method. The dried materials were then heat treated in a number of ways and tested for the chemoselective hydrogenation of 3-NS. For a typical catalyst preparation (2 g), the requisite amount of aqueous hydrogen hexachloroplatinic acid solution (9.6 mg Pt ml
+–1
+, assay 30.21% H
+2
+PtCl
+6
+, Johnson Matthey) was diluted to 16 ml using deionized water, and heated in an oil bath to 60 °C with vigorous stirring (800 r.p.m.) before the addition of the requisite amount of support (TiO
+2
+, Evonik P25). The temperature was subsequently increased to 95 °C for 16 h to dry the slurry in air. The resultant material was then ground thoroughly (referred to as the ‘fresh dried-only’ sample). A portion (500 mg) of the dried-only sample was either calcined in static air or reduced under a steady flow of 5% H
+2
+/Ar. Heat treatments were carried out at 450 °C for 4 h with a heating rate of 10 °C min
+−1
+. All of these materials were tested as catalysts without any further treatment unless stated otherwise.
+Hydrogenation of 3-NS
+Liquid phase chemoselective hydrogenation of 3-NS was performed in a 50 ml round-bottomed glass Colaver reactor. In a typical reaction, 3-NS (0.2 ml), toluene (8 ml) and catalyst (50 mg) were charged in the reactor that was then purged with N
+2
+to remove traces of air before being immersed in an oil bath set at 40 °C. After purging the reactor three times with 3 bar H
+2
+while stirring, the reaction was commenced. After a pre-determined reaction time, the reactor was cooled to <5 °C using ice, after which aliquots of the reaction mixture were collected and centrifuged to remove the solid catalyst. The liquid reaction mixture (1 ml) was added to a gas chromatography vial together with a fixed amount of external standard
+o
+-xylene (0.1 ml) for further quantitative analysis. The determination of the conversion was performed using a Varian 450-GC gas chromatograph equipped with a HP-5ms boiling-point column, a flame ionization detector and a CP8400 Autosampler. Conversion of the substrate and product selectivity were calculated using suitable calibration plots and response factors.
+Catalyst characterization
+XPS
+X-ray photoelectron spectroscopy was performed using two systems; the first was a Kratos Axis Ultra delay-line detector spectrometer using monochromatic Al Kα radiation (with a source power of 140 W). An analyser pass energy of 160 eV was used for survey scans, and 40 eV for detailed acquisition of individual elemental regions. The second system was a Thermo Scientific K-Alpha
++
+spectrometer that uses microsfocused monochromatic Al Kα radiation (with a source power of 72 W), with analyser pass energies of 40 and 150 eV. The data were analysed with computer-aided surface analysis for XPS, using escape depth-corrected sensitivity factors supplied by the instrument manufacturers.
+STEM
+Samples for examination by STEM were prepared by dry dispersion of the catalyst powder onto a holey carbon film that is supported by a 300 mesh copper TEM grid. Bright-field and HAADF–STEM images were taken using an aberration corrected JEM-ARM-200CF microscope operating at 200 kV. This instrument was also equipped with a Centurio silicon drift detector for X-ray energy-dispersive spectroscopy (JEOL). The particle size distribution analysis was performed from analysis of HAADF electron micrographs using the ImageJ v.1.52i software package
+50
+.
+X-ray absorption spectroscopy
+XAFS spectroscopy measurements were performed on stations B18 and I20 at the Diamond Light Source (Oxon), operating at 3 GeV in multibunch mode with a current of 200 mA. Both stations are equipped with a Si(111) double-crystal monochromator, ion chambers for measuring incident and transmitted beam intensities and/or a multi-element Ge (fluorescence) detector for recording X-ray absorption spectra. The measurements were carried out in air on self-supporting wafers (approximately 100 mg) at the Pt L
+3
+-edge, and a 10-µm-thick Pt foil was used as a calibration sample for the monochromator. The measurements were performed at room temperature. To improve the signal-to-noise ratio, multiple scans were taken. All data were subjected to background correction using Athena
+51
+(that is, an IFEFFIT software package for pre- and post-edge background subtraction and data normalization). The XAFS spectra were normalized from 30 to 150 eV above the edge energy, although the EXAFS spectra were normalized from 150 eV to the last data point using the Autobk algorithm. Normalization was performed between
+μ
+(
+E
+) and
+μ
+0
+(
+E
+) by a line regression through the data in the region below the edge and subtracted from the data. A quadratic polynomial was then regressed to the data above the edge and extrapolated back to the threshold energy (
+E
+0
+). The extrapolated value of the post-edge polynomial at
+E
+0
+was used as the normalization constant;
+E
+0
+is normally determined using either the maximum in the first derivative (approximately 50% of the rising absorption edge) or immediately after any pre-edge or shoulder features. The isolated EXAFS spectra were analysed using the DL-EXCURV
+52
+. The data were analysed using a least-squares single- or dual shell-EXAFS fitting analysis that was performed on data that had been phase corrected using muffin-tin potentials. An amplitude reduction factor (
+S
+o
+2
+) of 0.94 (obtained from fitting a Pt metal foil) was also used in the analysis.
+CO DRIFTS
+For the CO DRIFTS analysis, samples were loaded in a DRIFT Tensor 27 spectrometer and flushed with N
+2
+for 30 min to record a baseline. The sample was then exposed to 20% CO/Ar until complete saturation of the Pt sites was achieved. The system was then flushed with pure N
+2
+until there was no presence of atmospheric CO before the spectra were recorded.
+Data availability
+Information on the data supporting the results presented here, including how to access them, can be found in the Cardiff University data catalogue at
+https://doi.org/10.17035/d.2019.0079744472
+.
+Change history
+11 November 2019
+An amendment to this paper has been published and can be accessed via a link at the top of the paper.
+03 August 2020
+A Correction to this paper has been published:
+https://doi.org/10.1038/s41929-020-00500-1
+References
+Wang, L. et al. Single-site catalyst promoters accelerate metal-catalyzed nitroarene hydrogenation.
+Nat. Commun.
+9
+, 1362 (2018).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Therrien, A. J. et al. An atomic-scale view of single-site Pt catalysis for low-temperature CO oxidation.
+Nat. Catal.
+1
+, 192–198 (2018).
+CAS
+Google Scholar
+Vile, G., Albani, D., Almora-Barrios, N., Lopez, N. & Perez-Ramirez, J. Advances in the design of nanostructured catalysts for selective hydrogenation.
+Chem. Cat. Chem.
+8
+, 21–33 (2016).
+CAS
+Google Scholar
+Blaser, H. U., Steiner, H. & Studer, M. Selective catalytic hydrogenation of functionalized nitroarenes: an update.
+Chem. Cat. Chem.
+1
+, 210–221 (2009).
+CAS
+Google Scholar
+Song, J. J. et al. Review on selective hydrogenation of nitroarene by catalytic, photocatalytic and electrocatalytic reactions.
+Appl. Catal. B
+227
+, 386–408 (2018).
+CAS
+Google Scholar
+Rylander, P. N.
+Hydrogenation Methods
+(Academic Press, London, 1990).
+Nishimura, S.
+Handbook of Heterogeneous Catalytic Hydrogenation for Organic Synthesis
+(Wiley-VCH, New York, 2001).
+Bellamy, F. D. & Ou, K. Selective reduction of aromatic nitro-compounds with stannous chloride in non-acidic and non-aqueous medium.
+Tetrahedron Lett.
+25
+, 839–842 (1984).
+CAS
+Google Scholar
+Basu, M. K., Becker, F. F. & Banik, B. K. Ultrasound-promoted highly efficient reduction of aromatic nitro compounds to the aromatic amines by samarium/ammonium chloride.
+Tetrahedron Lett.
+41
+, 5603–5606 (2000).
+CAS
+Google Scholar
+Burawoy, A. & Critchley, J. P. Electronic spectra of organic molecules and their interpretation-V: effect of terminal groups containing multiple bonds on the K-bands of conjugated systems.
+Tetrahedron
+5
+, 340–351 (1959).
+CAS
+Google Scholar
+Corma, A., Serna, P., Concepcion, P. & Calvino, J. J. Transforming non-selective into chemoselective metal catalysts for the hydrogenation of substituted nitroaromatics.
+J. Am. Chem. Soc.
+130
+, 8748–8753 (2008).
+CAS
+PubMed
+Google Scholar
+Arnold, H., Döbert, F. & Gaube, J. In
+Handbook of Heterogeneous Catalysis
+(eds G., Ertl, Knözinger, H., Schüth, F. and Weitkamp, J.) (Wiley-VCH, 2008).
+Shi, Q. X., Lu, R. W., Jin, K., Zhang, Z. X. & Zhao, D. F. Simple and eco-friendly reduction of nitroarenes to the corresponding aromatic amines using polymer-supported hydrazine hydrate over iron oxide hydroxide catalyst.
+Green. Chem.
+8
+, 868–870 (2006).
+CAS
+Google Scholar
+Shi, Q., Lu, R., Lu, L., Fu, X. & Zhao, D. Efficient reduction of nitroarenes over nickel-iron mixed oxide catalyst prepared from a nickel-iron hydrotalcite precursor.
+Adv. Synth. Catal.
+349
+, 1877–1881 (2007).
+CAS
+Google Scholar
+Wang, X. K. et al. Heterogeneous catalytic transfer partial-hydrogenation with formic acid as hydrogen source over the Schiff-base modified gold nano-catalyst.
+Catal. Lett.
+147
+, 517–524 (2017).
+CAS
+Google Scholar
+Pogorelic, I. et al. Rapid, efficient and selective reduction of aromatic nitro compounds with sodium borohydride and Raney nickel.
+J. Mol. Catal. A
+274
+, 202–207 (2007).
+CAS
+Google Scholar
+Rahman, A. & Jonnalagadda, S. B. Swift and selective reduction of nitroaromatics to aromatic amines with Ni–boride–silica catalysts system at low temperature.
+Catal. Lett.
+123
+, 264–268 (2008).
+CAS
+Google Scholar
+Corma, A. & Serna, P. Chemoselective hydrogenation of nitro compounds with supported gold catalysts.
+Science
+313
+, 332–334 (2006).
+CAS
+PubMed
+Google Scholar
+Wei, H. et al. FeO
+x
+-supported platinum single-atom and pseudo-single-atom catalysts for chemoselective hydrogenation of functionalized nitroarenes.
+Nat. Commun.
+5
+, 5634–5642 (2014).
+CAS
+PubMed
+Google Scholar
+Wei, H. et al. Remarkable effect of alkalis on the chemoselective hydrogenation of functionalized nitroarenes over high-loading Pt/FeO
+x
+catalysts.
+Chem. Sci.
+8
+, 5126–5131 (2017).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Sankar, M. et al. Synthesis of stable ligand-free gold-palladium nanoparticles using a simple excess anion method.
+ACS Nano
+6
+, 6600–6613 (2012).
+CAS
+PubMed
+Google Scholar
+Zanella, R., Louis, C., Giorgio, S. & Touroude, R. Crotonaldehyde hydrogenation by gold supported on TiO
+2
+: structure sensitivity and mechanism.
+J. Catal.
+223
+, 328–339 (2004).
+CAS
+Google Scholar
+Cargnello, M. et al. Efficient removal of organic ligands from supported nanocrystals by fast thermal annealing enables catalytic studies on well-defined active phases.
+J. Am. Chem. Soc.
+137
+, 6906–6911 (2015).
+CAS
+PubMed
+Google Scholar
+Freakley, S. J. et al. Palladium–tin catalysts for the direct synthesis of H
+2
+O
+2
+with high selectivity.
+Science
+351
+, 965–968 (2016).
+CAS
+PubMed
+Google Scholar
+Chen, C., Cao, J. J., Cargnello, M., Fornasiero, P. & Gorte, R. J. High-temperature calcination improves the catalytic properties of alumina-supported Pd@ceria prepared by self assembly.
+J. Catal.
+306
+, 109–115 (2013).
+CAS
+Google Scholar
+Riggs, W. M. X-ray photoelectron spectrometry of platinum compounds.
+Anal. Chem.
+44
+, 830–832 (1972).
+CAS
+PubMed
+Google Scholar
+Moulder, J. F., Stickle, W. F., Sobol, P. E. & Bomben, K. D.
+Handbook of X-ray Photoelectron Spectroscopy
+(Perkin-Elmer Corporation, 1992).
+Matos, J. et al. In situ coarsening study of inverse micelle-prepared Pt nanoparticles supported on gamma-Al
+2
+O
+3
+: pre-treatment and environmental effects.
+Phys. Chem. Chem. Phys.
+14
+, 11457–11467 (2012).
+CAS
+PubMed
+Google Scholar
+Kim, G. J., Kwon, D. W. & Hong, S. C. Effect of Pt particle size and valence state on the performance of Pt/TiO
+2
+catalysts for CO oxidation at room temperature.
+J. Phys. Chem. C
+120
+, 17996–18004 (2016).
+CAS
+Google Scholar
+Zimmermann, R. et al. Electronic structure of 3D-transition-metal oxides: on-site Coulomb repulsion versus covalency.
+J. Phys. Condens. Matter
+11
+, 1657–1682 (1999).
+CAS
+Google Scholar
+Naumkin, A. V., Kraut-Vass, A., Gaarenstroom, S. W. & Powell, C. J.
+NIST X-ray Photoelectron Spectroscopy Database 20, Version 4.1
+(National Institute of Standards and Technology, 2017);
+http://srdata.nist.gov/xps/
+Janin, E. et al. Hydrogen adsorption on the Pt(111)(3 × 3)R30° Sn surface alloy studied by high resolution core level photoelectron spectroscopy.
+Appl. Surf. Sci.
+99
+, 371–378 (1996).
+CAS
+Google Scholar
+Brown, M., Peierls, R. E. & Stern, E. A. White lines in X-ray absorption.
+Phys. Rev. B
+15
+, 738–744 (1977).
+CAS
+Google Scholar
+Koningsberger, D. & Prins, R.
+X-ray Absorption: Principles, Applications, Techniques of EXAFS, SEXAFS, and XANES
+(Wiley, 1988).
+Penner-Hahn, J. E. X-ray absorption spectroscopy in coordination chemistry.
+Coord. Chem. Rev.
+190
+, 1101–1123 (1999).
+Google Scholar
+de Groot, F. High-resolution X-ray emission and X-ray absorption spectroscopy.
+Chem. Rev.
+101
+, 1779–1808 (2001).
+PubMed
+Google Scholar
+Yoshida, H., Nonoyama, S., Yazawa, Y. & Hattori, T. Quantitative determination of platinum oxidation state by XANES analysis.
+Phys. Scr.
+T115
+, 813–815 (2005).
+CAS
+Google Scholar
+Hyde, T. I. et al. X-ray absorption spectroscopic studies of platinum speciation in fresh and road aged light-duty diesel vehicle emission control catalysts.
+Platin. Met. Rev.
+55
+, 233–245 (2011).
+CAS
+Google Scholar
+Kim, M. Y., You, Y. S., Han, H. S. & Seo, G. Preparation of highly dispersed platinum catalysts impregnated on titania-incorporated silica support.
+Catal. Lett.
+120
+, 40–47 (2008).
+CAS
+Google Scholar
+Beale, A. M. & Weckhuysen, B. M. EXAFS as a tool to interrogate the size and shape of mono and bimetallic catalyst nanoparticles.
+Phys. Chem. Chem. Phys.
+12
+, 5562–5574 (2010).
+CAS
+PubMed
+Google Scholar
+Raskó, J. CO-induced surface structural changes of Pt on oxide-supported Pt catalysts studied by DRIFTS.
+J. Catal.
+217
+, 478–486 (2003).
+Google Scholar
+Zafeiratos, S., Papakonstantinou, G., Jacksic, M. M. & Neophytides, S. G. The effect of Mo oxides and TiO
+2
+support on the chemisorption features of linearly adsorbed CO on Pt crystallites: an infrared and photoelectron spectroscopy study.
+J. Catal.
+232
+, 127–136 (2005).
+CAS
+Google Scholar
+DeRita, L. et al. Catalyst architecture for stable single atom dispersion enables site-specific spectroscopic and reactivity measurements of CO adsorbed to Pt atoms, oxidized Pt clusters, and metallic Pt clusters on TiO
+2
+.
+J. Am. Chem. Soc.
+139
+, 14150–14165 (2017).
+CAS
+PubMed
+Google Scholar
+Thang, H. V., Pacchioni, G., DeRita, L. & Christopher, P. Nature of stable single atom Pt catalysts dispersed on anatase TiO
+2
+.
+J. Catal.
+367
+, 104–114 (2018).
+CAS
+Google Scholar
+Stakheev, A. Y., Shpiro, E. S., Tkachenko, O. P., Jaeger, N. I. & Schulz-Ekloff, G. Evidence for monatomic platinum species in H-ZSM-5 from FTIR spectroscopy of chemisorbed CO.
+J. Catal.
+169
+, 382–388 (1997).
+CAS
+Google Scholar
+Tauster, S. J., Fung, S. C. & Garten, R. L. Strong metal–support interactions. Group 8 noble metals supported on Titanium Dioxide.
+J. Am. Chem. Soc.
+100
+, 170–175 (1978).
+CAS
+Google Scholar
+Vannice, M. A. & Sen, B. Metal support effects on the intramolecular selectivity of crotonaldehyde hydrogenation over platinum.
+J. Catal.
+115
+, 65–78 (1989).
+CAS
+Google Scholar
+Baker, L. R. et al. Furfuraldehyde hydrogenation on titanium oxide-supported platinum nanoparticles studied by sum frequency generation vibrational spectroscopy: acid–base catalysis explains the molecular origin of strong metal–support interactions.
+J. Am. Chem. Soc.
+134
+, 14208–14216 (2012).
+CAS
+PubMed
+Google Scholar
+Boronat, M. & Corma, A. Origin of the different activity and selectivity toward hydrogenation of single metal Au and Pt on TiO
+2
+and bimetallic Au-Pt/TiO
+2
+catalysts.
+Langmuir
+26
+, 16607–16614 (2010).
+CAS
+PubMed
+Google Scholar
+Schneider, C. A., Rasband, W. S. & Eliceiri, K. W. NIH Image to ImageJ: 25 years of image analysis.
+Nat. Methods
+9
+, 671–675 (2012).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+CAS
+PubMed
+Google Scholar
+EXCURV98 (CCLRC Daresbury Laboratory, 1998).
+Download references
+Acknowledgements
+M.M. and A.J.B. acknowledge MAXNET Energy consortium for funding. A.J.B. also acknowledges the EPRSC Centre for Doctoral Training in Catalysis (grant no. EP/L016443/1). M.S. and Q.H. thank Cardiff University for their respective University Research Fellowships and RQ acknowledges Chinese Scholarship Council (CSC) funding for his stay at Cardiff University. C.J.K. gratefully acknowledges funding from the National Science Foundation Major Research Instrumentation programme (grant no. MRI/DMR-1040229). S.M.A. thanks the Saudi Arabian government for his PhD scholarship. The authors thank the UK Catalysis Hub for allocating beamtime slots through the UK Catalysis Hub BAG allocation for X-ray acquisition of the absorption spectroscopic data at the Diamond synchrotron facility (sp15151). We are also indebted to P. Wells for acquisition of the X-ray absorption spectroscopic data at the Diamond synchrotron facility. We thank Y. Odarchenko for his assistance during CO chemisorption measurements. The authors thank the Diamond Light Source for access to the electron Physical Science Imaging Centre (ePSIC instrument E01 and proposal no. MG22776), which contributed to the results presented here.
+Author information
+Authors and Affiliations
+Cardiff Catalysis Institute, School of Chemistry, Cardiff University, Cardiff, UK
+Margherita Macino, Alexandra J. Barnes, David J Morgan, Simon J. Freakley, Nikolaos Dimitratos, Christopher J. Kiely, Qian He, Meenakshisundaram Sankar & Graham J. Hutchings
+Department of Materials Science and Engineering, Lehigh University, Bethlehem, PA, USA
+Sultan M. Althahban & Christopher J. Kiely
+Department of Mechanical Engineering, Jazan University, Jazan, Saudi Arabia
+Sultan M. Althahban
+State Key Laboratory of Clean Energy Utilization, College of Energy Engineering, Zhejiang University, Hangzhou, China
+Ruiyang Qu & Xiang Gao
+Institute for Thermal Power Engineering, Zhejiang University, Hangzhou, China
+Ruiyang Qu & Xiang Gao
+School of Chemistry, University of Glasgow, Glasgow, UK
+Emma K. Gibson
+Department of Industrial Chemistry “Toso Montanari”, Alma Mater Studiorum–University of Bologna, Bologna, Italy
+Nikolaos Dimitratos
+UK Catalysis Hub, Research Complex at Harwell (RCaH), Rutherford Appleton Laboratory, Harwell Oxon, UK
+Andrew M. Beale
+Department of Chemistry, University College London, London, UK
+Andrew M. Beale
+Department of Chemistry, University of Liverpool, Liverpool, UK
+Donald Bethell
+Authors
+Margherita Macino
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Alexandra J. Barnes
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sultan M. Althahban
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ruiyang Qu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Emma K. Gibson
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+David J Morgan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Simon J. Freakley
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Nikolaos Dimitratos
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Christopher J. Kiely
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiang Gao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Andrew M. Beale
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Donald Bethell
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qian He
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Meenakshisundaram Sankar
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Graham J. Hutchings
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+M.M., A.J.B. and R.Q. performed the catalyst preparation and catalyst testing under the supervision of M.S., N.D., S.F. and X.G. S.M.A., Q.H. and C.J.K. carried out electron microscopy studies of the catalyst. D.J.M. performed the XPS characterization of the catalysts. E.G. and A.M.B. analysed the X-ray absorption spcectroscopy data. D.B. suggested the kinetics experiments presented in this article. M.S. conceived this idea and supervised the project. G.J.H. directed this project. All authors contributed to the data analysis and drafting of this manuscript.
+Corresponding authors
+Correspondence to
+Meenakshisundaram Sankar
+or
+Graham J. Hutchings
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Figs. 1–11, Tables 1–4 and references
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Macino, M., Barnes, A.J., Althahban, S.M.
+et al.
+Tuning of catalytic sites in Pt/TiO
+2
+catalysts for the chemoselective hydrogenation of 3-nitrostyrene.
+Nat Catal
+2
+, 873–881 (2019). https://doi.org/10.1038/s41929-019-0334-3
+Download citation
+Received
+:
+09 July 2018
+Accepted
+:
+25 July 2019
+Published
+:
+16 September 2019
+Issue Date
+:
+October 2019
+DOI
+:
+https://doi.org/10.1038/s41929-019-0334-3
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

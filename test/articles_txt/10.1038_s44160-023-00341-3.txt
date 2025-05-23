@@ -1,0 +1,1693 @@
+Light-driven C–O coupling of carboxylic acids and alkyl halides over a Ni single-atom catalyst | Nature Synthesis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature synthesis
+articles
+article
+Light-driven C–O coupling of carboxylic acids and alkyl halides over a Ni single-atom catalyst
+Download PDF
+Article
+Published:
+15 June 2023
+Light-driven C–O coupling of carboxylic acids and alkyl halides over a Ni single-atom catalyst
+Mark A. Bajada
+ORCID:
+orcid.org/0000-0001-8176-7067
+1
+,
+Giovanni Di Liberto
+ORCID:
+orcid.org/0000-0003-4289-2732
+2
+,
+Sergio Tosoni
+ORCID:
+orcid.org/0000-0001-5700-4086
+2
+,
+Vincenzo Ruta
+ORCID:
+orcid.org/0000-0003-3044-7519
+1
+,
+Lorenzo Mino
+ORCID:
+orcid.org/0000-0002-9882-8361
+3
+,
+Nicolò Allasia
+ORCID:
+orcid.org/0000-0001-9671-0987
+3
+,
+Alessandra Sivo
+ORCID:
+orcid.org/0000-0002-6844-8018
+1
+,
+Gianfranco Pacchioni
+ORCID:
+orcid.org/0000-0002-4749-0751
+2
+&
+…
+Gianvito Vilé
+ORCID:
+orcid.org/0000-0003-0641-8590
+1
+Show authors
+Nature Synthesis
+volume
+2
+,
+pages
+1092–1103 (
+2023
+)
+Cite this article
+3514
+Accesses
+56
+Altmetric
+Metrics
+details
+Subjects
+Synthetic chemistry methodology
+Photocatalysis
+Abstract
+Although visible-light-driven dual photoredox catalysis, a method that combines photoabsorbers and transition metals, has become a powerful tool to conduct coupling reactions, resource economical and scalability issues persist, owing to the use of catalysts and light absorbers that exploit critical raw materials (such as iridium complexes), and are homogeneous in nature. Here we report the merger of metallic single-atom and photoredox catalysis, in the form of a Ni atom-supported carbon nitride material, for the C–O coupling of carboxylic acids and alkyl halides. This operationally straightforward system, composed of only earth-abundant components, exhibits a wide functional group tolerance. Additionally, short reaction times, facile recovery and high catalyst stability make this method highly attractive for industrial applications.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Photoelectrochemical Ni-catalyzed cross-coupling of aryl bromides with amine at ultra-low potential
+Article
+Open access
+12 August 2024
+Overcoming limitations in dual photoredox/nickel-catalysed C–N cross-couplings due to catalyst deactivation
+Article
+06 July 2020
+Reductive dearomative arylcarboxylation of indoles with CO
+2
+via visible-light photoredox catalysis
+Article
+Open access
+29 June 2020
+Main
+Within the pharmaceutical, agrochemical and academic sectors, transition-metal-catalysed cross-coupling reactions are important synthetic tools that allow chemists to assemble complex molecular frameworks of diversified interests
+1
+,
+2
+. In this context, the construction of a C–O bond has been historically hampered by the utilization of traditional thermal condensation reactions, which typically feature harsh conditions and homogeneous catalytic systems (Fig.
+1a
+)
+3
+,
+4
+. Among these routes, it is worth mentioning the thermal cross-dehydrogenative C–O coupling protocol, in which the presence of a specific functional group (for example, amides, amines and aldehydes, among others) is required to activate the respective C–H bond (Fig.
+1b
+)
+5
+,
+6
+,
+7
+. The emergence of visible-light-mediated (metalla)photoredox catalysis for synthetic organic chemistry has opened up new avenues for alternative C–O cross-coupling reactions
+8
+,
+9
+, mainly through oxidative esterification of aldehydes (Fig.
+1c
+)
+10
+, and coupling of carboxylic acids and halide substrates (Fig.
+1d
+) featuring a multi-component homogeneous or semi-heterogeneous catalytic system
+11
+,
+12
+,
+13
+,
+14
+,
+15
+,
+16
+. The renewed interest in this photo-based methodology is owed to the mild reaction conditions employed, the robust functional group tolerance and the possibility to access redox-neutral reaction routes unattainable with classical ionic chemistry triggered by thermal activation
+17
+,
+18
+. Besides, the use of visible light is seen as an ideal driving force for catalytic transformations
+19
+,
+20
+,
+21
+,
+22
+,
+23
+,
+24
+,
+25
+, to establish a greener chemical industry within the forthcoming decarbonization of our economy
+26
+.
+Fig. 1: Established and current catalytic work on the formation of C–O cross-coupled products.
+a
+,
+b
+, Most of the early procedures involved harsh conditions (such as high temperatures) and homogeneous catalytic systems, as illustrated by the thermal condensation pathway (
+a
+) and thermal cross-dehydrogenative coupling (
+b
+).
+c
+,
+d
+, The recent advances in multi-component metallaphotoredox homogeneous and semi-heterogeneous catalysis have opened new avenues for mild C–O coupling, exemplified by the oxidative esterification of aldehydes (
+c
+) and the metallaphotocatalytic coupling strategy (
+d
+).
+e
+, The study herein points to a synthetic approach based on heterogeneous single-atom catalysis. Note: PC
+Het
+in
+d
+denotes a ‘heterogeneous photocatalyst’.
+Full size image
+Despite the novelty of the approach, the method relies on the use of Ir- or Ru-containing photocatalysts (chiefly, Ir[dF(CF
+3
+)ppy]
+2
+(dtbbpy)PF
+6
+or Ru[dF(CF
+3
+)ppy]
+2
+(dtbbpy)PF
+6
+, where (dF(CF
+3
+)ppy = 2-(2,4-difluorophenyl)-5-(trifluoromethyl)pyridine, and dtbbpy = 4,4′-di-tert-butyl-2,2’-bipyridine)), homogeneous Ni co-catalysts and additional bipyridyl compounds for ligating the Ni centres, as illustrated in Fig.
+1
+. Although research efforts have begun to invoke the use of alternative, heterogeneous and low-cost photocatalysts (primarily based on carbon nitride materials)
+27
+,
+28
+,
+29
+,
+30
+,
+31
+,
+32
+, in many cases the metal catalyst is still present as a homogeneous entity. This introduces two major disadvantages; firstly, the two catalytic components are at all times separated from one another, and hence, electron transfer phenomena are limited by the diffusive (and convective) aspects of the system. Secondly, having solubilized catalysts complicates downstream processing of the post-reaction mixture, since additional treatment is required to recover the metal component.
+In the past few years, our group (together with others) has been active in the design of heterogeneous single-atom catalysts (SACs)
+33
+,
+34
+,
+35
+,
+36
+,
+37
+. These materials, which are characterized by the presence of individual metal atoms anchored on appropriate heterogeneous supports, have been hailed as the bridging concept between heterogeneous and homogeneous catalysis, due to: (1) the optimal use of the metal phase (as a result of its atomic dispersion)
+38
+, (2) exceptionally high activity and selectivity stemming from distinct electronic structures and unsaturated coordination centres
+39
+,
+40
+, (3) relatively interpretable reaction mechanistic pathways as a result of the single-atom nature of the reactive sites
+41
+,
+42
+,
+43
+and (4) an ideal platform to deduce structure–performance correlations based on the atomic-level structures of SACs
+44
+,
+45
+.
+So far, the majority of reports in the area of single-atom photocatalysts have focused on several well-known fuel-related reactions, for example, hydrogen evolution reaction
+46
+, N
+2
+fixation
+47
+and CO
+2
+reduction
+48
+, with fewer works on emerging organic synthetic reactions
+49
+,
+50
+,
+51
+. In particular, within the context of ‘integrated’ Ni metallaphotoredoxcatalytic systems, only a few reports have been published concerning C–O/N/S bond formation strategies
+30
+,
+31
+,
+52
+,
+53
+,
+54
+,
+55
+, but the reason behind the incorporation of certain additives, or exact description and characterization of the postulated active site (whether single-atom-, nanocluster- or nanoparticle-based) is not always clear. For instance, one such report required imidazole as an auxiliary ligand for activating the Ni catalysis cycle and quinuclidine as a sacrificial electron donor
+30
+, which further complicated the post-reaction treatment. Thus, thorough studies that delve into the tailored SAC design and fabrication for targeted metallaphotocatalysed cross-coupling transformations are indeed an area of research still in its infancy within the related communities.
+In this Article, we demonstrate the combination of metallic SAC and photoredox catalysis, in the form of a nickel single-atom-supported nanosheet carbon nitride material (herein denoted as Ni
+SA
+–nCN
+x
+), targeted towards applications in C–O cross-coupling chemistry (Fig.
+1e
+). Specifically, by using this metallaphotoredox SAC approach, we have achieved direct C–O cross-coupling of bench-stable and commercially available carboxylic acids and alkyl or aryl halides. The use of our precious metal-free system composed solely of earth-abundant components, in which the photo- and Ni-catalytic cycles are combined within a single material, highlights key improvements compared with the reference metallaphotocatalytic procedure (Fig.
+1d
+) in terms of sustainability, catalyst re-use and recyclability. The experimental observations are supported by an in-depth density functional theory (DFT) study, which highlights key structural and mechanistic findings about the behaviour of the single-atom system under visible-light irradiation.
+Results and discussion
+Ni
+SA
+–nCN
+x
+was synthesized following a modified procedure reported in the literature
+56
+, by first preparing CN
+x
+nanosheets followed by the addition of a Ni(II) salt (which functioned as the source of the single atoms). This was followed by a reduction–heat treatment step (for details, see
+Methods
+and the ‘Materials and methods’ section in
+Supplementary Information
+). Before catalytic evaluation, characterization of the prepared material was afforded through a combination of techniques, principally N
+2
+physisorption, X-ray powder diffraction, X-ray photoelectron spectroscopy (XPS) and X-ray absorption spectroscopy (XAS) (Fig.
+2
+, Table
+1
+, Supplementary Table
+1
+and Supplementary Figs.
+1
+and
+2
+). N
+2
+sorption measurements (Supplementary Table
+1
+) demonstrate the larger Brunauer–Emmett–Teller surface area of nCN
+x
+(27.9 m
+2
+g
+−1
+) in comparison with that of bulk graphitic carbon nitride (gCN
+x
+, 11.8 m
+2
+g
+−1
+). The measurements also demonstrate that the reduction–heat step, carried out to form the Ni single-atom material, is not accompanied by any notable morphological changes to the nCN
+x
+support (Brunauer–Emmett–Teller area of Ni
+SA
+–nCN
+x
+= 29.7 m
+2
+g
+−1
+).
+Fig. 2: Catalyst characterization.
+a
+, Ni K-edge XANES spectra of Ni
+SA
+–nCN
+x
+and of reference Ni foil, NiO and Ni phthalocyanine. Note that on the y axis we report the normalized absorption coefficient of the sample as a function of the incoming X-ray photon energy.
+b
+, Magnitude and imaginary parts of the
+k
+2
+-weighted phase-uncorrected FT-EXAFS extracted in the 2.4–11.5 Å
+−1
+k
+range of Ni
+SA
+–nCN
+x
+(solid lines) and corresponding best fits (for further details, see ‘Materials and methods’ section in
+Supplementary Information
+) in
+R
+-space in the range 1.0–3.0 Å (dashed lines).
+c
+, DFT-based ball-and-stick models of the optimized Ni
+SA
+–nCN
+x
+structure, depicting an isolated Ni atom entrapped within the heptazinic pore of the nCN
+x
+framework.
+d
+, HRTEM micrograph of Ni
+SA
+–nCN
+x
+at a magnification of 50 nm (top), high-resolution HAADF-STEM of a portion of the same catalyst (middle) and energy-dispersive X-ray Ni mapping showing the presence and the individual contribution of Ni on Ni
+SA
+–nCN
+x
+(bottom).
+Source data
+Full size image
+Table 1 Structural information derived from EXAFS analysis of the Ni SAC
+Full size table
+On the X-ray powder diffraction patterns (Supplementary Fig.
+1
+), two distinct diffraction peaks at 2
+θ
+equal to 12.75° and 27.50° were identified, corresponding to the (100) and (002) planes, respectively, of the graphite-like carbon nitride system. The sharp diffraction peak at 27.50° is indicative of the typical interplanar stacking of aromatic structures, and the weak peak at 12.75° corresponds to an in-planar structural packing motif (trigonal N linkage of the tri-
+s
+-triazine units)
+57
+. The C 1
+s
+XPS spectrum (Supplementary Fig.
+2a
+) contains a peak at 284.44 eV that is ascribed to graphitic carbon (adventitious carbon, energy calibration
+sp
+2
+-hybridized carbon), a second peak at 285.20 eV that corresponds to
+sp
+3
+-hybridized C–C bonds, and a peak at 287.93 eV that is assigned to
+sp
+2
+-hybridized N–C=N bonds in the aromatic skeleton of the carbon nitride. On the high-resolution N 1
+s
+XPS spectrum (Supplementary Fig.
+2b
+), the deconvoluted peak at 399.80 eV, ascribable to either pyridinic-N or pyrrolic-N, is in line with previous results, and indicates the anchoring of the Ni single atoms to the lone pair of the N atom
+56
+,
+58
+,
+59
+. This evaluation is further supported by Ni 2
+p
+XPS (Supplementary Fig.
+2c
+), where the four major deconvolutions with binding energies of Ni at 857.30, 855.70, 873.30 and 874.90 eV, correspond to the Ni 2
+p
+3/2
+and Ni 2
+p
+1/2
+peaks of Ni
+2+
+. The shifts are in accordance with the formation of Ni–N
+x
+active sites, in which the nickel is present in cationic 2+ state
+60
+,
+61
+. If metallic Ni active sites were present, a Ni 2
+p
+3/2
+contribution at 852.6 eV, corresponding to subsurface Ni
+0
+species, is expected, which is absent in our case
+56
+,
+61
+.
+Synchrotron XAS was employed to determine the electronic properties and local coordination of the single-atomic sites in the fabricated catalyst
+62
+. Figure
+2a
+shows a comparison of the Ni
+SA
+–nCN
+x
+sample alongside various Ni-containing reference materials, in the X-ray absorption near-edge structure (XANES) region. For Ni
+SA
+–nCN
+x
+, the position of the edge that is correlated to the Ni oxidation state
+63
+,
+64
+is clearly shifted to higher energies with respect to the Ni metal foil, thus confirming the XPS results about the presence of cationic Ni
+2+
+species. However, the shape of the pre-edge and white line spectral features is remarkably different from NiO, while it looks very similar to a Ni phthalocyanine homogeneous organometallic compound. In particular, the Ni
+SA
+–nCN
+x
+and Ni phthalocyanine samples share a characteristic peak at ~8,339 eV, arising from a 1
+s
+→ 4
+p
+transition
+64
+,
+65
+, which is broader and weaker in Ni
+SA
+–nCN
+x
+. This observation suggests that our catalyst shows a local atomic environment similar to that of Ni phthalocyanine, but with a more distorted and heterogeneous structure. Figure
+2b
+reports the analysis of the extended X-ray absorption fine structure (EXAFS) region: considering the results of the fit (Table
+1
+) we can see a first shell contribution of around 1.9 Å, characteristic of Ni atoms coordinated to N sites in the nCN
+x
+cavities
+56
+. The absence of Ni–Ni scattering contributions confirms the single-site nature of the catalyst. The high values of both the fitted Debye–Waller factors and of the average coordination numbers for the two first shells are indeed related to structural heterogeneity, as already highlighted when presenting the XANES analysis. Moreover, we can note the presence of a small contribution at 2.4 Å, between the first two main coordination shells, which could be associated to Ni in interstitial or interplanar nCN
+x
+layers.
+To complement experimental observations, we modelled the adsorption of a single Ni atom on a corrugated graphitic CN
+x
+layer using DFT calculations. The impregnation of carbonaceous materials with dispersed metal species often leads to various structures, and the local coordination of the SAC was proven to remarkably influence its reactivity
+66
+. In this work, we adopted, as a model structure, a single Ni atom coordinated in the heptazinic pore of nCN
+x
+, but we cannot rule out the existence of other stable anchoring sites displaying a different local coordination. However, a first relevant finding is that, even within the heptazinic pore, several stable isomers exist, where the Ni atom occupies various sites at the borders of the pore, in close contact with the N atoms. In particular, upon a systematic scan, four isomers have been found to lie within a rather small energy range (
+∼
+200 meV). Another possible configuration envisages the adsorption of Ni on top of a nitrogen atom, which is however much less stable by 1.8 eV. The most stable configuration is characterized by the Ni adatom adsorbed in a planar configuration at the side of a heptazine pore, with two first N neighbours at a distance of 1.88 Å and two second neighbours at 2.60 Å (Fig.
+2c
+). An alternative (stable, but less studied) model structure envisages the Ni atom surrounded by four N atoms in a square planar coordination, within a di-carbon vacancy of carbon nitride (Supplementary Fig.
+3
+). For simplicity, this symmetric motif was not considered for DFT simulations. The metal atom is anchored quite strongly in the heptazine pore, as evidenced from the calculated binding energy of −3.57 eV. However, given the small difference in energy between the various isomers, one can expect that, at room temperature, the Ni atoms will display a dynamical behaviour within the pore, and the interatomic distances obtained from the EXAFS spectra are an average among various bonding configurations of the Ni atom in (and outside) the heptazine pore and, thus, correspond quite well with DFT projections. This rationale also accounts for the high value of the fitted Debye–Waller factor for the first coordination shell. It must be pointed out, however, that the formal oxidation state attributed to the Ni atom based on the DFT calculations is closer to Ni(I) than to Ni(II), at variance from the X-ray measurements. We attribute this to state mixing and reciprocal polarization at the Ni–nCN
+x
+interface. The extra charge donated by the metal is delocalized over the conduction band of carbon nitride rather than residing on specific N atoms. It must be said that the localization and delocalization of charge is an issue in DFT, because it depends on the adopted functional. Therefore, an intermediate picture could be closer to reality.
+High-resolution transmission electron microscopy (HRTEM) further demonstrates the absence of any nickel-based nanoparticles on the Ni
+SA
+–nCN
+x
+surface (Fig.
+2d
+, top and middle). In addition, the energy-dispersive X-ray Ni map obtained during high-angle annular dark-field detector (HAADF) scanning transmission electron microscopy (STEM) image (Fig.
+2d
+, bottom) highlights the homogeneous distribution of the metal phase and the atomic dispersion of the Ni atoms over the nCN
+x
+support.
+Our investigation into C–O coupling using the characterized Ni
+SA
+–nCN
+x
+material began with the coupling of
+N
+-Boc-
+l
+-proline (Boc,
+t
+-butyloxycarbonyl) and 1-bromo-3-phenylpropane, with potassium carbonate as a base and acetone as solvent (Table
+2
+). The reaction was conducted using the PhotoCube
+TM
+reactor (Supplementary Fig.
+4
+), which is the first multi-wavelength instrument available for advanced photochemical applications. The coupling product
+1
+, (the corresponding ester) was obtained with a yield of 31% when a reaction time of 2 h was adopted, and when using visible-light irradiation from white light-emitting diodes (LEDs) present within the photoreactor. Upon increasing the reaction time to 8 h, keeping all other factors constant, the yield of the product ester increased to 76%, and a corresponding reaction rate of 0.07 mmol g
+cat
+−1
+min
+−1
+(Table
+2
+, entry 1) was achieved. As shown in Table
+2
+, a series of control experiments in which key components were omitted from the reaction mixture or environment highlight the importance of the light and the base (Table
+2
+, entries 2 and 3, respectively) for promoting the C–O coupling reaction. Without degassing the chemical system, a slightly higher rate was reported (Table
+2
+, entry 4). The importance of this result is such that the single-atom catalytic system is tolerable to the presence of oxygen and is not inhibited by this species, thereby improving the versatility of the system for more commercial applications.
+Table 2 Model C–O coupling reaction with corresponding control experiments
+a
+Full size table
+To investigate the effect of the light source on the rate of the reaction, a wavelength dependence study of the metallaphotocatalytic coupling by Ni
+SA
+–nCN
+x
+was examined using the same reactor, which has the in-built option to select a variety of different wavelengths, or combinations of such. As depicted in Fig.
+3
+, when considering monochromatic light sources, the optimal rate for the consumption of the aforementioned starting alkyl halide (1-bromo-3-phenylpropane) was achieved using
+λ
+= 457 nm (blue) light. However, when broadband white light was used, the rate increased further. Due to the maximal rate achieved under this type of irradiation, further studies were always performed using white light. The importance of this finding is that a common fluorescent white lightbulb, or solar light itself, can be used to drive the reaction under investigation, further expanding the applicability of our designed system. Solvent optimization was also probed, with dioxane, acetonitrile and dimethylformamide (DMF) selected as additional solvents for this study (Fig.
+3b
+). The least polar solvent, dioxane, performed most poorly. Highest rates were recorded with DMF as the solvent, while acetonitrile and acetone produced similar results.
+Fig. 3: Metallaphotocatalytic optimization, recyclability tests and system comparison studies.
+a
+, Light-dependent rate for the C–O coupling reaction by Ni
+SA
+–nCN
+x
+using acetone as solvent.
+b
+, Solvent screening for the same reaction in the presence of either blue or white light irradiation.
+c
+, Recycling experiment performed under standard conditions for four 8 h catalytic cycles, in the presence of acetone as solvent and white light irradiation.
+d
+, Comparison of the C–O coupling behaviour of different catalytic systems, in the presence of DMF as solvent and white light irradiation. General conditions: alkyl halide concentration 100 mM, reaction time 8 h, temperature 45 °C (see also ‘Materials and methods’ section in
+Supplementary Information
+for a more complete description of the reactions).
+Source data
+Full size image
+Other catalyst combinations were explored (employing the same model starting material, 1-bromo-3-phenylpropane) to demonstrate the beneficial aspects of having a fully integrated single-atom metallaphotoredox catalyst. Chiefly, the fully homogeneous system including the photocatalyst Ir[dF(CF
+3
+)ppy]
+2
+(dtbbpy)PF
+6
+and the metallacatalyst combination featuring NiCl
+2
+•glyme and the ligand 4,4′-dOMe-bpy (4,4′-dimethoxy-2,2′-bipyridine) was first tested
+11
+,
+67
+. A lower conversion relative to the optimized SAC system was recorded (Fig.
+3d
+). The Ir photocatalyst was then substituted for gCN
+x
+, while maintaining the same nickel catalyst and ligating agent. This provided a means to compare a fully integrated photoredox- and metallacatalytic cycle, as in the case of Ni
+SA
+–nCN
+x
+, with two individual and decoupled catalytic entities, as in the case of the mixture of gCN
+x
+and the homogeneous nickel catalyst within the same reaction vial. In this instance, the SAC not only outperformed the ‘gCN
+x
+and homogeneous nickel catalyst’ combination (Fig.
+3d
+, conversion of 100% versus 89%, respectively) but also provided a facile route for recovery and reutilization, which is in stark contrast to the reaction mixture featuring the solubilized nickel catalyst. The other entries in Fig.
+3d
+correspond to the cases when only gCN
+x
+was used, and when the homogeneous Ni catalyst was adopted. These instances show minimal alkyl halide conversion, thus highlighting the importance of the interplay between both the photoredox- and metallacatalytic cycles in order for the C–O coupling reaction to proceed. To complement such measurements, the rate of reaction per gram of Ni was also deduced and was found to be maximal for Ni
+SA
+–nCN
+x
+, in comparison with the other catalytic systems employed (Fig.
+3d
+, right-hand axis). This result can firstly be ascribed to the low Ni content within the SAC (5 mg of SAC were utilized, in which the Ni content was measured to be around 7.5 wt.% by inductively coupled plasma-optical emission spectrometry). Additionally, one must consider the intrinsic coupling between the photoactive support and the Ni single atoms that leads to enhanced utilization of the metallic sites present (as a result of the atomic dispersion of the Ni). The mass of soluble Ni catalyst used for the other entries in Fig.
+3d
+was based on the literature value for analogous metallaphotoredox systems
+11
+,
+67
+.
+To derive a molecular-level understanding into the reaction mechanism, we simulated (at the DFT level) the reaction on a supercell sporting an isolated Ni atom on a corrugated CN
+x
+single-layer nanosheet. We adopted the pyrrolidine-2-carboxylic acid (referred to herein as RCOOH) and the simplest alkyl bromide (methyl bromide) as model molecules for the reactants in the simulated case. At variance from the experiments, in the simulations we have omitted the Boc protecting group bound to the N atom in the heterocycle. Internal test calculations showed that the neglection of Boc does not imply sizeable changes to the energy profile of the coupling reaction. Following the catalytic cycle shown in Fig.
+4
+, we first adsorbed the RCOOH on Ni
+SA
+–nCN
+x
+, yielding an adsorption free energy of −1.81 eV. The heterocyclic ring binds to Ni via its N atom at a distance of 1.95 Å, and the Ni adatom is re-arranged to a distorted planar trigonal geometry (Supplementary Fig.
+5a
+).
+Fig. 4: DFT-calculated metallaphotocatalytic C–O coupling cycle.
+The cycle involves Ni
+SA
+–nCN
+x
+and visible-light irradiation. The inset shows the structure of each intermediate. Free energy variations are reported in eV for each step.
+Source data
+Full size image
+To obtain experimental confirmation of the DFT results concerning the RCOOH interaction with the catalyst, a preliminary diffuse reflectance infra-red Fourier transform spectroscopy study of pyrrolidine-2-carboxylic acid adsorption from aqueous solution was performed. The measurements are challenging because the adsorbate signals are weak and superimposed with the strong IR bands of the nCN
+x
+support. Supplementary Fig.
+6
+depicts the diffuse reflectance infra-red Fourier transform spectroscopy spectra of the RCOOH molecule adsorbed on Ni
+SA
+–nCN
+x
+and on the bare nCN
+x
+support, after subtraction of the spectrum of the same material contacted only with water. We can recognize the typical stretching modes of the pyrrolidine ring in the 1,200–900 cm
+−1
+spectral region and the ν(C–O) and δ(C–H) modes in the 1,400–1,200 cm
+−1
+range
+68
+,
+69
+. Interestingly, the broad signal between 1,600 and 1,500 cm
+−1
+, which contains a contribution from the N–H bending mode
+69
+, shows a bathochromic shift in the Ni
+SA
+–nCN
+x
+spectrum with respect to the nCN
+x
+one. This spectroscopic evidence suggests that, for the Ni
+SA
+–nCN
+x
+material, the RCOOH is experiencing an appreciable interaction with the Ni sites through the N atom, supporting the structure predicted by DFT calculations.
+In the DFT simulation, we focused on one plausible structure for the Ni SAC, namely the one where the Ni single atom is coordinated in the heptazinic pore on the CN
+x
+support (Fig.
+2c
+). It must be stated that the relative energies of the reaction intermediates may change only slightly by considering the alternative, stable metal atom coordination motif (the symmetric motif, as previously introduced, and discussed in the literature
+37
+). We hypothesize a catalytic cycle where, at first, the carboxylic acid is non-dissociatively adsorbed on Ni
+SA
+–nCN
+x
+with an adsorption free energy of −1.81 eV. The location of the RCOOH frontier orbitals with respect to the band edges of CN
+x
+is displayed in the projected density of states plot reported in Supplementary Fig.
+7
+. One can appreciate that the CN
+x
+conduction band is populated, due to the ionization of the Ni single atoms. Next, an acid–base reaction takes place, and a proton is transferred from the adsorbed carboxylic acid to the CN
+x
+sheet. This step is thermodynamically unfavourable, with a free energy penalty of 0.66 eV. In fact, a base, namely K
+2
+CO
+3
+, is present in the reaction environment, and it is thus reasonable to assume that the deprotonated carboxylate species will be directly adsorbed on the Ni single atom with no need to overcome any barrier. In the computational model, however, the implicit inclusion of the H
++
+counterion is necessary to ensure the neutrality of the supercell. Notably, the carboxylate ion displays a completely different coordination on Ni with respect to the carboxylic acid: the RCOOH species is singly coordinated via a Ni–N bond, while the RCOO
+−
+ion is attached to Ni with an
+η
+2
+coordination via the carboxylate group (Supplementary Fig.
+5
+).
+Next, the methyl bromide molecule (R′Br in Fig.
+4
+) is co-adsorbed on the Ni catalytic centre, (Supplementary Fig.
+5c
+). The adsorption of methyl bromide has a dissociative nature, and a further re-arrangement of the pyrrolidine-carboxylate ion heterocycle takes place (now a monodentate O–Ni bond mode is envisaged). A positive Δ
+G
+is associated with this step (+0.70 eV), resulting from the balance between two bond breakages (C–Br in R′Br and O–Ni in the adsorbed carboxylate) and two bond formations (Ni–C and Ni–Br). The reaction product, methyl pyrrolidine-2-carboxylate (RCOOR′ in Fig.
+4
+), is formed on the Ni
+SA
+site, overcoming a thermodynamic barrier of 0.68 eV. The RCOOR′ ester is bound via the N atom on Ni (Supplementary Fig.
+5
+). Finally, the catalyst is regenerated by the subsequent desorption of the RCOOR′ reaction product (+1.15 eV) and loss of a H
++
+and Br
+−
+species (+0.61 eV). Overall, the reaction is remarkably endergonic (Δ
+G
+= +0.78 eV, Fig.
+4
+). The relaxed structures of all the reaction intermediates are reported in Supplementary Fig.
+5
+. It is worth noting how the Ni atom changes its coordination to the CN
+x
+support in a broad range, between 2 and 5, upon binding of the reactants, thus enhancing the stabilization and the activation of the reactive species. Notably, the Ni single atom does not change oxidation state in the simulated reaction cycle.
+The experimental observation that irradiation is important for the C–O coupling reaction to proceed, and the endergonic character of the reaction assessed by DFT calculations, seems to complement previous experimental studies on homogeneous
+11
+, or semi-heterogeneous
+13
+, organometallic catalytic systems. In these publications, the enabling role of the photosensitizer in the coupling reaction on the Ni-based metallacatalyst was attributed to an energy transfer process, alternative to the more traditional excited-state redox chemistry displayed by such metallaphotocatalytic systems
+11
+. The role of carbon nitride is of paramount relevance in this context, as a viable alternative to the use of photosensitizers that contain critically rare metals. Thorough modelling of the excited-state dynamics of this system is beyond feasibility, but we hereby provide a direct proof of the endothermic nature of the C–O cross-coupling reaction, which strongly indicates that the role of light is to trigger the energy transfer process leading to the metallaphotocatalytic production of the ester.
+With optimal metallaphotoredoxcatalytic conditions in hand, and a better understanding of the reaction mechanism through DFT, we probed the generality of this process testing differently decorated carboxylic acids, alkyl halides, and aryl halides (Table
+3
+). The model reaction was also tested using the corresponding alkyl iodide and alkyl chloride, affording the base product
+1
+in excellent yields in all cases, thus demonstrating the flexibility of our protocol towards all alkyl halides. We evidenced a trend in the reactivity, where I > Br > Cl, consistent with the halide trend already reported for cross-coupling reactions
+70
+. Good to excellent yields were reported for both linear aliphatic alkyl bromides (
+1
+–
+5
+,
+10
+and
+11
+, 45–94% yield), and benzylic substrates (
+6
+–
+8
+, 60–68% yield). Systems experiencing enhanced conjugation were also successfully coupled to the carboxylic acid via this method (
+9
+, 84% yield). The substrate scope was expanded further to include aryl halides possessing an electron-withdrawing group in the
+para
+position, which also provided the desired ester product in excellent yield (
+12
+–
+15
+, 76–90% yield).
+Table 3 Alkyl halide, aryl halide and carboxylic acid scope for the Ni
+SA
+–nCN
+x
+metallaphotocatalysed C–O coupling protocol
+Full size table
+Subsequently, we explored the reactivity of the nucleophilic carboxylic acid moiety. The expansion or reduction of the proline
+N
+-bearing ring in substrates
+16
+(71% yield) and
+17
+(92% yield) led to a good system performance, particularly in the case of the four-membered ring, in which the major ring strain results in the aforementioned improved reactivity. Variation in the α-heteroatom, with the introduction of an oxygen instead of a nitrogen atom in the cyclic carboxylic acid substituent, led to the formation of the C–O coupled product in optimal yield (
+19
+, 71% yield). Moreover, the system reacts smoothly even when shifting the heteroatom from the α-position (substrates
+18
+and
+20
+, 99% and 84% yield, respectively). The reactivity of a carbocyclic substituent, with the elimination of the heteroatom, resulted in a relatively lower performance (
+22
+, 52% yield), thus underlining the importance of the heteroatom (independent of its position in the ring) for our single-atom metallaphotocatalyic protocol. Then, we decided to test the reactivity of carboxylic acids with smaller substituents, to probe the versatility of our C–O coupling protocol. Using a different
+N
+-Boc natural amino acid as the nucleophile,
+N
+-Boc alanine, the reaction performed with excellent yield (
+21
+, 87% yield), due to the similarity of the substrate with the model
+N
+-Boc proline initially utilized. The implementation of even smaller substituents resulted in an overall lower system performance (substrates
+23
+–
+25
+, 10–25% yield), and is related to both the negligible electronic effects of the substituents and the lack of stabilization of the resultant intermediates. This is particularly evident for the carboxylic acid featuring an electron-withdrawing CF
+3
+group (substrate
+25
+, 10% yield). This confirms the importance of the presence of a heteroatom within the acid substrate, to ensure a high and efficient system reactivity, as was previously discussed for the cyclic substituents. Finally, we tested substituted or condensed derivatives of the
+N
+-Boc proline substructure, which all functioned as efficient coupling partners (substrates
+26
+–
+28
+, 88–97% yield), thus confirming the importance and optimal reactivity of heteroatom-containing cyclic carboxylic acids, independent of the substitution pattern on the cyclic moiety.
+The robustness and longer-term stability of the Ni
+SA
+–nCN
+x
+catalyst was then demonstrated by means of a recyclability test. The metallaphotocatalytic material, being present in powder form, allowed for simple recovery and re-use in a new reaction (Fig.
+3c
+). After completion of the initial 8 h C–O coupling reaction between
+N
+-Boc-
+l
+-proline and 1-bromo-3-phenylpropane (see Table
+2
+, but with the solvent being DMF), the catalyst was filtered, rinsed, recovered and re-used in a similar 8 h experiment. This process was repeated for a total of four cycles, in which no notable variation in the rate was observed, suggesting that the catalytic properties of the material were preserved during the photoinduced reaction. Post-catalysis characterization of the recovered SAC (after the fourth run) also complemented the consistent catalytic rates reported in Fig.
+3c
+. Comparing the XAS results for pristine and used Ni
+SA
+–nCN
+x
+, we can note that in the XANES region (Supplementary Fig.
+8a
+), the characteristic peak at ~8,339 eV is slightly broadened in the used catalyst relative to the analogous freshly prepared material. Additionally, in the EXAFS region (Supplementary Fig.
+8b
+), the intensity of the signal between the first two main coordination shells is increasing. These spectral variations seem to suggest that the material structural heterogeneity is marginally enhanced after the catalytic reaction.
+Conclusion
+We have successfully prepared a nanosheet carbon nitride supported Ni single-atom material and demonstrated its applicability for C–O coupling chemistry, particularly through the reaction between carboxylic acids and alkyl/aryl halides, thereby leading to the corresponding ester product. The benign nature of the reaction environment has been exemplified by the breadth of functional groups amenable to this organic transformation, and the high yields recorded in the relatively short reaction time imposed (compared with more classical methods) are testament to the abilities of this earth-abundant, readily fabricated SAC. We additionally demonstrated the recovery and re-usability of the SAC for four consecutive metallaphotocatalytic cycles, showing negligible signs of deactivation throughout the study. DFT simulations have shed light on the mechanistic role of the Ni single atoms within the system, and the key interplay between the CN
+x
+photocycle and the Ni metallacycle. This method of engineering atomically dispersed Ni metal sites at the carbon nitride surface is a viable strategy to improve the activity and recyclability of the metallaphotoredoxcatalytic system and will play a critical role in the next generation of sustainable and green synthetic methodologies for the preparation of pharmaceutically relevant compounds and other fine chemicals.
+Methods
+Catalyst synthesis, and general experimental setup of the metallaphotocatalytic C−O coupling protocol
+Ni
+SA
+–nCN
+x
+was synthesized through a combined thermal polymerization-metal impregnation procedure, first featuring the polymerization of dicyanamide (by heating 10 g, under air, at 550 °C for 3 h, at a heating rate of 10 °C min
+−1
+) yielded gCN
+x
+, and the resultant yellow powder then subjected to another heating step in air, in which 750 mg of gCN
+x
+was calcined at 520 °C for 4.5 h, using a heating rate of 2 °C min
+−1
+, to afford the nCN
+x
+scaffold. The following step involved the impregnation of the photoactive nanosheet support with the nickel single atoms; Ni(NO
+3
+)
+2
+·6H
+2
+O in water (140 mg, 14 ml) was added to nCN
+x
+(350 mg), followed by sonication, addition of NaBH
+4
+(1.05 g dissolved in 5 ml of Millipore water), stirring, heating (12 h at 80 °C) and rapid microwave heating. The resulting solid was filtered, washed and dried to obtain Ni
+SA
+–nCN
+x
+.
+Ni
+SA
+–nCN
+x
+(5 mg),
+N
+-Boc-
+l
+-proline (0.45 mmol, 1.5 eq.), K
+2
+CO
+3
+(0.6 mmol, 2.0 eq.), solvent (3 ml) and a magnetic stirrer bar were transferred into a 4 ml vial equipped with a screw-cap rubber septum, which in turn functioned as the batch photoreactor. The reaction mixture was degassed with N
+2
+for 15 min, and 1-bromo-3-phenylpropane (0.30 mmol, 1.0 eq.) was then added dropwise. Photocatalytic batch experiments were irradiated for 8 h using a PhotoCube
+TM
+reactor, and product analysis was conducted using
+1
+H and
+13
+C NMR spectroscopy. During system optimization, quantitative analytical data on the conversion and product selectivity of the reaction mixture were obtained by taking a 30 µl aliquot, diluting it with MeCN, filtering it and subsequently analysing it using high-performance liquid chromatography (HPLC). Further details concerning catalyst synthesis and characterization, the experimental setups employed and the overall metallaphotocatalytic protocol can be found in ‘Materials and methods’ section in
+Supplementary Information
+.
+Data availability
+All the data supporting the findings of this study are available within the article and its
+supplementary information
+and also from the corresponding authors upon reasonable request.
+References
+Boström, J., Brown, D. G., Young, R. J. & Keserü, G. M. Expanding the medicinal chemistry synthetic toolbox.
+Nat. Rev. Drug Discov.
+17
+, 709–727 (2018).
+Article
+PubMed
+Google Scholar
+Crisenza, G. E. M., Faraone, A., Gandolfo, E., Mazzarella, D. & Melchiorre, P. Catalytic asymmetric C–C cross-couplings enabled by photoexcitation.
+Nat. Chem.
+13
+, 575–580 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Hie, L. et al. Nickel-catalyzed esterification of aliphatic amides.
+Angew. Chem. Int. Ed.
+55
+, 15129–15132 (2016).
+Article
+CAS
+Google Scholar
+Bourne-Branchu, Y., Gosmini, C. & Danoun, G. Cobalt-catalyzed esterification of amides.
+Chem. Eur. J.
+23
+, 10043–10047 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, F. et al. Copper-catalyzed direct acyloxylation of C(
+sp
+2
+)-H bonds in aromatic amides.
+Org. Lett.
+19
+, 3636–3639 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Ueno, R., Natsui, S. & Chatani, N. Cobalt(II)-catalyzed acyloxylation of C–H bonds in aromatic amides with carboxylic acids.
+Org. Lett.
+20
+, 1062–1065 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Lin, C., Chen, Z., Liu, Z. & Zhang, Y. Direct ortho-acyloxylation of arenes and alkenes by cobalt catalysis.
+Adv. Synth. Catal.
+360
+, 519–532 (2018).
+Article
+CAS
+Google Scholar
+Twilton, J. et al. The merger of transition metal and photocatalysis.
+Nat. Rev. Chem.
+1
+, 0052 (2017).
+Article
+CAS
+Google Scholar
+Chan, A. Y. et al. Metallaphotoredox: the merger of photoredox and transition metal catalysis.
+Chem. Rev.
+122
+, 1485–1542 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Pandey, G., Koley, S., Talukdar, R. & Sahani, P. K. Cross-dehydrogenating coupling of aldehydes with amines/R-OTBS ethers by visible-light photoredox catalysis: synthesis of amides, esters, and ureas.
+Org. Lett.
+20
+, 5861–5865 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Welin, E. R., Le, C., Arias-Rotondo, D. M., McCusker, J. K. & MacMillan, D. W. C. Photosensitized, energy transfer-mediated organometallic catalysis through electronically excited nickel(II).
+Science
+355
+, 380–385 (2017).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Lu, J. et al. Donor–acceptor fluorophores for energy-transfer-mediated photocatalysis.
+J. Am. Chem. Soc.
+140
+, 13719–13725 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Pieber, B. et al. Semi-heterogeneous dual nickel/photocatalysis using carbon nitrides: esterification of carboxylic acids with aryl halides.
+Angew. Chem. Int. Ed.
+58
+, 9575–9580 (2019).
+Article
+CAS
+Google Scholar
+Zu, W., Day, C., Wei, L., Jia, X. & Xu, L. Dual aminoquinolate diarylboron and nickel catalysed metallaphotoredox platform for carbon-oxygen bond construction.
+Chem. Commun.
+56
+, 8273–8276 (2020).
+Article
+CAS
+Google Scholar
+Reischauer, S., Strauss, V. & Pieber, B. Modular, self-assembling metallaphotocatalyst for cross-couplings using the full visible-light spectrum.
+ACS Catal.
+10
+, 13269–13274 (2020).
+Article
+CAS
+Google Scholar
+Cavedon, C. et al. Intraligand charge transfer enables visible‐light‐mediated nickel‐catalyzed cross‐coupling reactions.
+Angew. Chem. Int. Ed.
+61
+, e202211433 (2022).
+Article
+CAS
+Google Scholar
+Shaw, M. H., Twilton, J. & MacMillan, D. W. C. Photoredox catalysis in organic chemistry.
+J. Org. Chem.
+81
+, 6898–6926 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Crisenza, G. E. M. & Melchiorre, P. Chemistry glows green with photoredox catalysis.
+Nat. Commun.
+11
+, 803 (2020).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Ackerman, L. K. G., Martinez Alvarado, J. I. & Doyle, A. G. Direct C–C bond formation from alkanes using Ni-photoredox catalysis.
+J. Am. Chem. Soc.
+140
+, 14059–14063 (2018).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Schwarz, J. L., Schäfers, F., Tlahuext-Aca, A., Lückemeier, L. & Glorius, F. Diastereoselective allylation of aldehydes by dual photoredox and chromium catalysis.
+J. Am. Chem. Soc.
+140
+, 12705–12709 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Vilé, G., Richard-Bildstein, S., Lhuillery, A. & Rueedi, G. Electrophile, substrate functionality, and catalyst effects in the synthesis of α-mono and di-substituted benzylamines via visible-light photoredox catalysis in flow.
+ChemCatChem
+10
+, 3786–3794 (2018).
+Article
+Google Scholar
+Korvorapun, K. et al. Photo-induced ruthenium-catalyzed C−H arylations at ambient temperature.
+Angew. Chem. Int. Ed.
+59
+, 18103–18109 (2020).
+Article
+CAS
+Google Scholar
+Alandini, N. et al. Amide synthesis by nickel/photoredox-catalyzed direct carbamoylation of (hetero)aryl bromides.
+Angew. Chem. Int. Ed.
+59
+, 5248–5253 (2020).
+Article
+CAS
+Google Scholar
+Wang, S., Wang, H. & König, B. Light-induced single-electron transfer processes involving sulfur anions as catalysts.
+J. Am. Chem. Soc.
+143
+, 15530–15537 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Zhao, H., Caldora, H. P., Turner, O., Douglas, J. J. & Leonori, D. A desaturative approach for aromatic aldehyde synthesis via synergistic enamine, photoredox and cobalt triple catalysis.
+Angew. Chem. Int. Ed.
+61
+, e202201870 (2022).
+Article
+CAS
+Google Scholar
+Kümmerer, K., Clark, J. H. & Zuin, V. G. Rethinking chemistry for a circular economy.
+Science
+367
+, 369–370 (2020).
+Article
+PubMed
+Google Scholar
+Wang, X., Cuny, G. D. & Noël, T. A mild, one-pot stadler-ziegler synthesis of arylsulfides facilitated by photoredox catalysis in batch and continuous-flow.
+Angew. Chem. Int. Ed.
+52
+, 7860–7864 (2013).
+Article
+CAS
+Google Scholar
+Knorn, M., Rawner, T., Czerwieniec, R. & Reiser, O. [Copper(phenanthroline)(bisisonitrile)]
++
+-complexes for the visible-light-mediated atom transfer radical addition and allylation reactions.
+ACS Catal.
+5
+, 5186–5193 (2015).
+Article
+CAS
+Google Scholar
+Khamrai, J., Ghosh, I., Savateev, A., Antonietti, M. & König, B. Photo-Ni-dual-catalytic C(
+sp
+2
+)-C(
+sp
+3
+) cross-coupling reactions with mesoporous graphitic carbon nitride as a heterogeneous organic semiconductor photocatalyst.
+ACS Catal.
+10
+, 3526–3532 (2020).
+Article
+CAS
+Google Scholar
+Zhao, X. et al. Nickel-coordinated carbon nitride as a metallaphotoredox platform for the cross-coupling of aryl halides with alcohols.
+ACS Catal.
+10
+, 15178–15185 (2020).
+Article
+CAS
+Google Scholar
+Vijeta, A., Casadevall, C., Roy, S. & Reisner, E. Visible‐light promoted C–O bond formation with an integrated carbon nitride–nickel heterogeneous photocatalyst.
+Angew. Chem. Int. Ed.
+60
+, 8494–8499 (2021).
+Article
+CAS
+Google Scholar
+Das, S. et al. Photocatalytic (het)arylation of C(
+sp
+3
+)-H bonds with carbon nitride.
+ACS Catal.
+11
+, 1593–1603 (2021).
+Article
+CAS
+Google Scholar
+Bajada, M. A. et al. Interfacing single-atom catalysis with continuous-flow organic electrosynthesis.
+Chem. Soc. Rev.
+51
+, 3898–3925 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Vilé, G. et al. A stable single-site palladium catalyst for hydrogenations.
+Angew. Chem. Int. Ed.
+54
+, 11265–11269 (2015).
+Article
+Google Scholar
+Chen, Z. et al. A heterogeneous single-atom palladium catalyst surpassing homogeneous systems for Suzuki coupling.
+Nat. Nanotechnol.
+13
+, 702–707 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, J. et al. Highly-dispersed zinc species on zeolites for the continuous and selective dehydrogenation of ethane with CO
+2
+as a soft oxidant.
+ACS Catal.
+11
+, 2819–2830 (2021).
+Article
+CAS
+Google Scholar
+Vilé, G. et al. Azide-alkyne click chemistry over a heterogeneous copper-based single-atom catalyst.
+ACS Catal.
+12
+, 2947–2958 (2022).
+Article
+Google Scholar
+Gawande, M. B., Fornasiero, P. & Zbořil, R. Carbon-based single-atom catalysts for advanced applications.
+ACS Catal.
+10
+, 2231–2259 (2020).
+Article
+CAS
+Google Scholar
+Hannagan, R. T. et al. Combining STM, RAIRS and TPD to decipher the dispersion and interactions between active sites in RhCu single-atom alloys.
+ChemCatChem
+12
+, 488–493 (2020).
+Article
+CAS
+Google Scholar
+Li, X. et al. Cobalt single-atom catalysts with high stability for selective dehydrogenation of formic acid.
+Angew. Chem. Int. Ed.
+59
+, 15849–15854 (2020).
+Article
+CAS
+Google Scholar
+Cui, X., Li, W., Ryabchuk, P., Junge, K. & Beller, M. Bridging homogeneous and heterogeneous catalysis by heterogeneous single-metal-site catalysts.
+Nat. Catal.
+1
+, 385–397 (2018).
+Article
+CAS
+Google Scholar
+DeRita, L. et al. Structural evolution of atomically dispersed Pt catalysts dictates reactivity.
+Nat. Mater.
+18
+, 746–751 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Navarro, J. J. et al. Growth of N‐heterocyclic carbene assemblies on Cu(100) and Cu(111): from single molecules to magic‐number islands.
+Angew. Chem. Int. Ed.
+61
+, e202202127 (2022).
+Article
+CAS
+Google Scholar
+Zhang, H., Lu, X. F., Wu, Z. P. & Lou, X. W. D. Emerging multifunctional single-atom catalysts/nanozymes.
+ACS Cent. Sci.
+6
+, 1288–1301 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Xia, B., Zhang, Y., Ran, J., Jaroniec, M. & Qiao, S. Z. Single-atom photocatalysts for emerging reactions.
+ACS Cent. Sci.
+7
+, 39–54 (2021).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Cao, Y. et al. Atomic-level insight into optimizing the hydrogen evolution pathway over a Co
+1
+-N
+4
+single-site photocatalyst.
+Angew. Chem. Int. Ed.
+56
+, 12191–12196 (2017).
+Article
+CAS
+Google Scholar
+Li, J. et al. Single-atom Pt-N
+3
+sites on the stable covalent triazine framework nanosheets for photocatalytic N
+2
+fixation.
+ACS Catal.
+10
+, 2431–2442 (2020).
+Article
+CAS
+Google Scholar
+Zhang, H. et al. Efficient visible-light-driven carbon dioxide reduction by a single-atom implanted metal–organic framework.
+Angew. Chem. Int. Ed.
+55
+, 14310–14314 (2016).
+Article
+CAS
+Google Scholar
+Zheng, Y. W. et al. Photocatalytic hydrogen-evolution cross-couplings: benzene C–H amination and hydroxylation.
+J. Am. Chem. Soc.
+138
+, 10080–10083 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, N. et al. Oxide defect engineering enables to couple solar energy into oxygen activation.
+J. Am. Chem. Soc.
+138
+, 8928–8935 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Wen, J. et al. Biomimetic photocatalytic sulfonation of alkenes to access β-ketosulfones with single-atom iron site.
+Green Chem.
+22
+, 230–237 (2020).
+Article
+CAS
+Google Scholar
+Vijeta, A., Casadevall, C. & Reisner, E. An integrated carbon nitride‐nickel photocatalyst for the amination of aryl halides using sodium azide.
+Angew. Chem. Int. Ed.
+61
+, e2022031 (2022).
+Article
+Google Scholar
+Kwak, M. et al. Ni single atoms on carbon nitride for visible-light-promoted full heterogeneous dual catalysis.
+Chem. Sci.
+13
+, 8536–8542 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Li, Z. et al. Engineering single-atom active sites anchored covalent organic frameworks for efficient metallaphotoredox C–N cross-coupling reactions.
+Sci. Bull.
+67
+, 1971–1981 (2022).
+Article
+CAS
+Google Scholar
+Li, Z. et al. Integrated nickel/polymer dual catalytic system for visible-light-driven sulfonamidation between aryl halides and aryl sulfonamides.
+Chem Catal.
+2
+, 3546–3558 (2022).
+Article
+CAS
+Google Scholar
+Vilé, G. et al. An earth‐abundant Ni‐based single‐atom catalyst for selective photodegradation of pollutants.
+Sol. RRL
+5
+, 2100176 (2021).
+Article
+Google Scholar
+Fina, F., Callear, S. K., Carins, G. M. & Irvine, J. T. S. Structural investigation of graphitic carbon nitride via XRD and neutron diffraction.
+Chem. Mater.
+27
+, 2612–2618 (2015).
+Article
+CAS
+Google Scholar
+Chen, J. et al. Dual single-atomic Ni-N
+4
+and Fe-N
+4
+sites constructing Janus hollow graphene for selective oxygen electrocatalysis.
+Adv. Mater.
+32
+, e2003134 (2020).
+Article
+PubMed
+Google Scholar
+Yang, H. et al. Carbon dioxide electroreduction on single-atom nickel decorated carbon membranes with industry compatible current densities.
+Nat. Commun.
+11
+, 593 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Jiang, K. et al. Isolated Ni single atoms in graphene nanosheets for high-performance CO
+2
+reduction.
+Energy Environ. Sci.
+11
+, 893–903 (2018).
+Article
+CAS
+Google Scholar
+Zheng, T. et al. Large-scale and highly selective CO
+2
+electrocatalytic reduction on nickel single-atom catalyst.
+Joule
+3
+, 265–278 (2019).
+Article
+CAS
+Google Scholar
+Mino, L. et al. Low-dimensional systems investigated by x-ray absorption spectroscopy: a selection of 2D, 1D and 0D cases.
+J. Phys. D
+46
+, 423001 (2013).
+Article
+Google Scholar
+Mansour, A. N. & Melendres, C. A. Analysis of X-ray absorption spectra of some nickel oxycompounds using theoretical standards.
+J. Phys. Chem. A
+102
+, 65–81 (1998).
+Article
+CAS
+Google Scholar
+Mino, L. et al. EXAFS and XANES investigation of (Li, Ni) codoped ZnO thin films grown by pulsed laser deposition.
+J. Phys. Condens. Matter
+25
+, 385402 (2013).
+Article
+PubMed
+Google Scholar
+Yang, H. et al. Atomically dispersed Ni(I) as the active site for electrochemical CO
+2
+reduction.
+Nat. Energy
+3
+, 140–147 (2018).
+Article
+CAS
+Google Scholar
+Di Liberto, G., Cipriano, L. A. & Pacchioni, G. Universal principles for the rational design of single atom electrocatalysts? Handle with care.
+ACS Catal.
+12
+, 5846–5856 (2022).
+Article
+Google Scholar
+Johnston, C. P., Smith, R. T., Allmendinger, S. & MacMillan, D. W. C. Metallaphotoredox-catalysed
+sp
+3
+–
+sp
+3
+cross-coupling of carboxylic acids with alkyl halides.
+Nature
+536
+, 322–325 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Stepanian, S. G., Reva, I. D., Radchenko, E. D. & Adamowicz, L. Conformers of nonionized proline. Matrix-isolation infrared and post-Hartree–Fock ab initio study.
+J. Phys. Chem. A
+105
+, 10664–10672 (2001).
+Article
+CAS
+Google Scholar
+Mary, Y. S., Ushakumari, L., Harikumar, B., Varghese, H. T. & Panicker, C. Y. FT-IR, FT-Raman and SERS spectra of
+l
+-proline.
+J. Iran. Chem. Soc.
+6
+, 138–144 (2009).
+Article
+CAS
+Google Scholar
+Reeves, E. K., Entz, E. D. & Neufeldt, S. R. Chemodivergence between electrophiles in cross-coupling reactions.
+Chemistry
+27
+, 6161–6177 (2021).
+Article
+PubMed
+Google Scholar
+Download references
+Acknowledgements
+This work was supported by the European Commission through a Marie Skłodowska-Curie Fellowship (101031710, M.A.B.) and Horizon Europe fund for societal challenges (101057430, G.V.), by the Italian Ministry of Education, University and Research (MIUR) through the PRIN Project 20179337R7 (G.D.L., S.T. and G.P.), and by the COST (European Cooperation in Science and Technology) Action 18234 (G.D.L., S.T. and G.P.). E. Vittorio Pasini, P. Piscioneri and C. Basano, from Politecnico di Milano, are greatly thanked for help during catalytic experiments. The authors acknowledge S. Agnoli from the University of Padua (XPS studies), G. Divitini from the Italian Institute of Technology (HRTEM analyses) and J. Liu at the Dalian University of Technology for their respective input on the paper. L.M. thanks E. Borfecchia from Università di Torino for useful discussion about the XAS data.
+Author information
+Authors and Affiliations
+Department of Chemistry, Materials, and Chemical Engineering ‘Giulio Natta’, Politecnico di Milano, Milan, Italy
+Mark A. Bajada, Vincenzo Ruta, Alessandra Sivo & Gianvito Vilé
+Department of Materials Science, Università di Milano Bicocca, Milan, Italy
+Giovanni Di Liberto, Sergio Tosoni & Gianfranco Pacchioni
+Department of Chemistry and Interdepartmental Centre NIS, Università di Torino, Turin, Italy
+Lorenzo Mino & Nicolò Allasia
+Authors
+Mark A. Bajada
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Giovanni Di Liberto
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sergio Tosoni
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Vincenzo Ruta
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lorenzo Mino
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Nicolò Allasia
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Alessandra Sivo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Gianfranco Pacchioni
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Gianvito Vilé
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+G.V. and M.A.B. conceived the project and devised the experiments. M.A.B. synthesized and characterized the catalysts. M.A.B. and V.R. conducted the metallaphotocatalytic tests and analysed the data, with assistance from A.S. V.R. purified, isolated, and characterized all compounds in the substrate scope. G.D.L., S.T., and G.P. performed DFT calculations. L.M. assisted during analysis of the X-ray spectra, while N.A. and L.M. conducted IR experiments and analysed the data. M.A.B. and G.V. wrote the paper with contributions and discussions from all co-authors.
+Corresponding authors
+Correspondence to
+Sergio Tosoni
+or
+Gianvito Vilé
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Synthesis
+thanks anonymous reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Materials and methods and experimental details, Table 1 and Figs. 1–9.
+Source data
+Source Data Fig. 2
+XANES and EXAFS data used to compile the spectra portrayed in Fig. 2a,b.
+Source Data Fig. 3
+Processed catalytic data for system optimization, recyclability test and alternative catalyst screening.
+Source Data Fig. 4
+Zip folder enclosing a .txt file reporting the relative energies of all structures displayed in the reaction cycle and .cif files for all the computed structures.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Bajada, M.A., Di Liberto, G., Tosoni, S.
+et al.
+Light-driven C–O coupling of carboxylic acids and alkyl halides over a Ni single-atom catalyst.
+Nat. Synth
+2
+, 1092–1103 (2023). https://doi.org/10.1038/s44160-023-00341-3
+Download citation
+Received
+:
+21 June 2022
+Accepted
+:
+04 May 2023
+Published
+:
+15 June 2023
+Issue Date
+:
+November 2023
+DOI
+:
+https://doi.org/10.1038/s44160-023-00341-3
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+Our publishing models
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Synthesis
+(
+Nat. Synth
+)
+ISSN
+2731-0582
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

@@ -1,0 +1,2874 @@
+Intermetallic synergy in platinum–cobalt electrocatalysts for selective C–O bond cleavage | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Intermetallic synergy in platinum–cobalt electrocatalysts for selective C–O bond cleavage
+Download PDF
+Article
+Published:
+28 May 2024
+Intermetallic synergy in platinum–cobalt electrocatalysts for selective C–O bond cleavage
+Ruizhi Wu
+ORCID:
+orcid.org/0000-0003-0344-2501
+1
+,
+2
+,
+Qinglei Meng
+ORCID:
+orcid.org/0000-0002-7958-3776
+1
+,
+Jiang Yan
+ORCID:
+orcid.org/0000-0002-3341-4491
+1
+,
+Zhanrong Zhang
+ORCID:
+orcid.org/0000-0002-1334-9637
+1
+,
+Bingfeng Chen
+ORCID:
+orcid.org/0000-0002-9519-2521
+1
+,
+Huizhen Liu
+ORCID:
+orcid.org/0000-0002-6801-7816
+1
+,
+2
+,
+Jing Tai
+3
+,
+Guikai Zhang
+4
+,
+Lirong Zheng
+4
+,
+Jing Zhang
+4
+&
+…
+Buxing Han
+ORCID:
+orcid.org/0000-0003-0440-809X
+1
+,
+2
+,
+5
+Show authors
+Nature Catalysis
+volume
+7
+,
+pages
+702–718 (
+2024
+)
+Cite this article
+10k
+Accesses
+15
+Altmetric
+Metrics
+details
+Subjects
+Electrocatalysis
+Green chemistry
+Heterogeneous catalysis
+Abstract
+Catalysts with tailored structures are crucial to determine the selectivity of chemical reactions. However, the design of catalyst structures for the selective cleavage of hydroxylic C–O(H) bonds while retaining etheric C–O(R) bonds remains a challenge and needs to be comprehensively explored. Here we report a series of mesoporous-carbon-supported platinum–cobalt (Pt–Co) bimetallic electrocatalysts in which different intermetallic interactions between Pt and Co species result in different hydrodeoxygenation and hydrogenation routes. Notably, Pt nanoparticles decorated with Co single atoms afford the selective cleavage of the C–O(H) bond in guaiacol and other lignin derivatives adjacent to an etheric C–O(R) bond with ether selectivities of >72.1%, and also work extensively for various other substrates with different substituents. This work highlights that a thorough understanding of the structure–performance relationship is crucial to rationally design and construct suitable catalysts with tailored sites for desired catalytic reactions.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Metal–support cooperation in Al(PO
+3
+)
+3
+-supported platinum nanoparticles for the selective hydrogenolysis of phenols to arenes
+Article
+19 April 2021
+Supramolecular tuning of supported metal phthalocyanine catalysts for hydrogen peroxide electrosynthesis
+Article
+13 March 2023
+Modulating Pt-O-Pt atomic clusters with isolated cobalt atoms for enhanced hydrogen evolution catalysis
+Article
+Open access
+04 May 2022
+Main
+The current over-reliance on petroleum has raised global concerns related to energy security, the economy and the environment
+1
+,
+2
+. Recent studies have demonstrated that biomass conversion can deliver petroleum-based chemicals and fuels by efficiently cleaving the ubiquitous carbon–oxygen (C–O) bonds within feedstock molecules
+3
+,
+4
+,
+5
+. As a main constituent of lignocellulosic biomass, lignin is an abundant renewable source composed of aromatic ether units, which can place a premium on strategies for pursuing value-added ethers that are excellent energy-carrying chemicals. Ethers, such as methoxycyclohexane or dimethoxycyclohexane, are also important solvents and intermediates for the production of valuable chemicals widely used in synthetic fibres, fuel additives and the pharmaceutical and perfume industries, as well as other chemical specialties
+6
+,
+7
+,
+8
+. They are currently produced from fossil sources in industry via multistep and indirect syntheses with several disadvantages, such as complicated and harsh conditions, high consumption of energy and raw feedstocks, and serious environmental pollution
+9
+,
+10
+,
+11
+. However, in lignin or its derivatives (such as guaiacol and syringol), the etheric C–O(R) bonds are often accompanied with hydroxylic C–O(H) bonds that should be cleaved instead. It is well-known that hydrodeoxygenation (HDO) is among the most optimal C–O bond cleavage methods
+3
+,
+5
+,
+12
+. However, despite the benefits of well-established HDO processes for lignin, in thermocatalysis, usually the C–O bonds are cleaved in the order of the bond dissociation energy from low (etheric C–O(R), 409 kJ mol
+–1
+) to high (hydroxylic C–O(H), 466 kJ mol
+–1
+)
+13
+,
+14
+,
+15
+, making it difficult to pursue ether chemicals. In this context, exploring efficient catalytic methods to cleave the hydroxylic C–O(H) bond but retain the etheric C–O(R) bond is of great importance but also challenging.
+As a promising technology, electrocatalysis enables the specific interaction between reactant and catalytic site by directly varying the chemical potential of the catalyst surface, which facilitates the targeted chemical transformation
+16
+,
+17
+,
+18
+,
+19
+. However, as a principal step in biorefineries, the HDO reaction in electrocatalytic biomass conversion still needs further investigation, especially related to catalyst design. Generally, conventional nanoparticles (NPs) often expose a wide range of active sites, on which the reactants or intermediates can adsorb and react according to the thermodynamic and kinetic requirements of each site
+20
+. The fabrication of suitable catalytic sites is crucial for the reaction performance, which can lead to selective reactions for desired products. For example, Deng and coworkers proposed a synergistic catalyst system that consisted of a polyoxometalate acid (SiW
+12
+) with a low redox potential and Pt NPs, in which the SiW
+12
+superacid enhanced the transfer of both the electrons and H
++
+ions to form active hydrogen on the surface of the Pt NPs and decreased the reaction barrier for the C–O bond splitting, realizing an efficient electrocatalytic HDO of biomass-derived phenolics into hydrocarbons with high selectivity
+3
+. Roman-Leshkov and coworkers discovered that suitable surface oxygen concentration on the surface of the oxycarbidic phase of Mo
+2
+C NPs is critical to the control of the anisole reactivity in HDO and benzene selectivity; however, too much surface oxygen resulted in the production of alkylation side products
+15
+. In this context, surface engineering of NPs is gradually becoming a promising strategy for designing catalytic HDO sites, especially through coupling other suitable atoms with the NPs, because the local environment of the coupled sites, such as the coordination geometry, electronic affinity, vicinal atoms and/or defects, can be tailored to meet the requirements of specific reactions
+21
+,
+22
+,
+23
+,
+24
+,
+25
+,
+26
+,
+27
+,
+28
+,
+29
+,
+30
+,
+31
+,
+32
+,
+33
+. Tsang and coworkers decorated MoS
+2
+monolayer sheets with isolated Co atoms that bonded covalently to sulfur vacancies on the basal planes, and the Co–S–Mo interfacial sites exhibited superior activity, selectivity and stability for the HDO of 4-methylphenol to toluene
+32
+. Wang and coworkers successfully tailored the electronic properties of PtNi NPs via boron doping, and the optimized surface structure of the PtNiB catalyst promoted the adsorption of the substrate and intermediate, which exhibited a remarkable electrocatalytic reduction reactivity of guaiacol and higher selectivity to KA oil (ketone–alcohol oil, a mixture of cyclohexanol and cyclohexanone), as compared with the PtNi NPs
+33
+. With the catalyst designs reported in the above HDO reactions, however, selective cleavage of the C–O(H) bond leaving the etheric C–O(R) bond unreacted has not yet been realized.
+Here we present an electrocatalytic protocol for regulating HDO performance by design and construction of catalytic sites, which allows efficient hydrogenation of the aromatic ring and selective cleavage of C–O bonds by controlling the intermetallic interaction and combination between the Pt and Co species. We find that Pt NPs decorated with Co single atom sites (SASs) on mesoporous carbon (MC; PtCo
+1
+/MC) as a species is very efficient for the desirable cleavage of the C–O(H) bond with the etheric C–O(R) bond being retained. The reaction mechanism is studied by the combination of in situ characterization and theoretical calculations, which demonstrate the synergy between Pt NPs and Co SASs to catalyse the reaction. Pt NPs promote the hydrogenation of the aromatic ring and Co SASs exhibit a strong interaction with the hydroxyl-derived O (O(H)–C) atom, which help the cleavage of the C–O(H) bond and retention of the C–O(R) bond. This electrocatalytic HDO strategy is potentially suitable for the precise conversion of highly oxygenous biomass feedstock into valuable chemicals.
+Results
+Design and structural characterization of Pt–Co catalysts
+As discussed above, heterogeneous catalytic reactions often require active sites with more than one metal species; this has been demonstrated in our recent work, in which the intermetallic interaction in an alloyed PtNi catalyst is favourable for the selective electrocatalytic hydrogenation of phenol
+34
+. For the HDO of guaiacol into methoxycyclohexane in this study, we focused on the aromatic ring hydrogenation and C–O(H) bond cleavage by designing intermetallic active sites of Pt and Co, which are commonly used metals for hydrogenation and hydrogenolysis reactions
+35
+,
+36
+,
+37
+. To study the interfacial characteristics of the metal–metal active sites, the intermetallic interaction in the MC-supported Pt–Co catalysts (Supplementary Fig.
+1
+), such as PtCo
+1
+/MC and its reference catalysts (Pt
+1
++ Co
+1
+/MC, Pt + Co
+1
+/MC, PtCo/MC and Pt
+1
+Co/MC, with the subscript 1 indicating a SAS), was adjusted by varying the aggregation states of the Pt and Co metals in the form of NPs and SASs, through a two-step calcination method (Supplementary Fig.
+2
+).
+Figure
+1
+and Supplementary Figs.
+3
+–
+8
+summarize the morphologies for the bimetallic PtCo
+1
+/MC and its reference Pt–Co catalysts, as well as the monometallic Pt/MC and Co/MC catalysts. By calcining the precursors of Pt and Co metals together, we constructed PtCo
+1
+/MC catalyst with Co SASs decorated on the Pt NPs, which retained the PtCo
+1
+NPs with a particle size distribution of 1.0–2.8 nm after the etching procedure (Supplementary Fig.
+4
+), as confirmed in aberration-corrected high-angle annular dark-field scanning transmission electron microscopy (AC-HAADF-STEM) images at different magnifications (Fig.
+1a,b
+). The selected area electron diffraction (SAED) pattern analysis showed typical halation (Fig.
+1a
+, inset) corresponding to the (111), (200) and (220) crystal faces, among which the (111) diffraction was strongest, indicating that the Pt(111) plane was dominant in the PtCo
+1
+NPs with a crystal face spacing of 0.23 nm (Fig.
+1b
+)
+38
+. With the introduction of the Co SASs, the PtCo
+1
+/MC catalyst consisted entirely of the single-atom alloy (SAA) sites, in which the Pt and Co sets of spots with different brightnesses also can be discriminated by their significant
+Z
+-contrast differences in AC-HAADF-STEM images (Fig.
+1b
+). In light of the well-discerned darker spots on the brighter ones, as shown in the AC-HAADF-STEM images and their imagery negatives and three-dimensional (3D) fitting maps (Fig.
+1b
+), the alloyed PtCo
+1
+configurations were verified, in which the isolated Co single atoms directly overlaid on the surface of Pt NPs, which was strikingly distinguished from the monometallic Pt/MC catalyst (Supplementary Fig.
+5
+). The intensity profiles along lines a–c in Fig.
+1b
+and the energy dispersive X-ray spectroscopy (EDS) elemental mapping analysis highlighted again the homogeneous distribution of the Co SASs on the surface of Pt NPs (Fig.
+1c,d
+). Moreover, the corresponding EDS line scan across two PtCo
+1
+NPs with a particle size of 2.5 nm in Fig.
+1d
+also demonstrated a well-alloyed dispersion of the anchored Co atoms on Pt NPs, as shown in Fig.
+1e
+. As for Pt + Co
+1
+/MC catalyst, an AC-HAADF-STEM image at relatively low magnification (Fig.
+1f
+) indicates the presence of Pt NPs with a similar particle size distribution to those in the PtCo
+1
+/MC catalyst (Supplementary Fig.
+6
+). However, differing from the PtCo
+1
+/MC catalyst, isolated Co atoms were spotted anchoring on the carbon support together with the Pt NPs, as shown by the higher-magnification AC-HAADF-STEM image and corresponding 3D fitting map (Fig.
+1g,h
+). In particular, no Co SAS was observed in the Pt NPs (Fig.
+1i
+), corroborating the separate dispersions of the Pt NPs and Co SASs on the MC. In good agreement with these results, EDS elemental mapping and intensity profiles along line d in Fig.
+1g
+also confirm that both Pt NPs and their adjacent Co SASs were uniformly distributed on the support (Fig.
+1j,k
+). To strengthen the intermetallic interaction of Pt and Co, the bimetallic alloy of PtCo NPs was built and anchored on the support (PtCo/MC), with a particle size distribution of 1.0–2.8 nm (Supplementary Fig.
+7
+), which can be observed from high-resolution transmission electron microscopy (HRTEM) images (Fig.
+1l,m
+). The HRTEM images coupled with EDS elemental mapping revealed the homogeneous distribution of Pt and Co across the analysed zone (Fig.
+1n
+), and additionally, the HRTEM–EDS line scan across the PtCo NPs with a particle size of 2.3 nm suggested that Pt and Co atoms were equally well alloyed (Fig.
+1o
+). The AC-HAADF-STEM images of Pt
+1
++ Co
+1
+/MC catalyst and its imagery negative (Supplementary Fig.
+8a,b
+) confirm that single Pt and Co atoms were evenly and separately dispersed on the MC support. A corresponding 3D atom-overlapping Gaussian-function fitting map (Supplementary Fig.
+8c
+, marked by 3D fitting area in Supplementary Fig.
+8a
+) and intensity profile of Pt–Pt and Pt–Co dual sites (Supplementary Fig.
+8d
+, marked by lines a and b in Supplementary Fig.
+8a
+) further demonstrated the atomically dispersed feature of the Pt and Co metallic sites.
+Fig. 1: Electron microscopic characterization.
+a
+, AC-HAADF-STEM images of PtCo
+1
+/MC catalyst (3.0 wt% Pt, 0.8 wt% Co). The inset shows the corresponding SAED pattern. The yellow dashed lines represent diffraction rings of different crystal faces.
+b
+, AC-HAADF-STEM images of PtCo
+1
+/MC catalyst at high magnification, with the corresponding imagery negatives in the middle and 3D fitting maps on their right.
+c
+, Brightness intensity profiles of lines a–c marked in the AC-HAADF-STEM images in
+b
+.
+d
+, AC-HAADF-STEM image and the corresponding EDS elemental mapping of PtCo
+1
+/MC catalyst.
+e
+, HRTEM–EDS line scan profiles of Pt (orange) and Co (green) in the PtCo
+1
+/MC catalyst recorded along the arrow shown in the HRTEM image in
+d
+.
+f
+,
+g
+, AC-HAADF-STEM images of Pt + Co
+1
+/MC catalyst (3.0 wt% Pt, 0.8 wt% Co) at low and higher magnification. The green circles are Co SASs.
+h
+, A 3D fitting map of the red dashed area in
+g
+with a top view and side view.
+i
+, AC-HAADF-STEM images (top) and their 3D fitting maps (bottom) of Pt + Co
+1
+/MC catalyst at high magnification.
+j
+, AC-HAADF-STEM image and the corresponding EDS elemental mapping of Pt + Co
+1
+/MC catalyst.
+k
+, Intensity profiles of line d marked in the AC-HAADF-STEM image in
+g
+.
+l
+,
+m
+, HRTEM images of PtCo/MC catalyst (3.0 wt% Pt, 1.8 wt% Co) at low and higher magnifications.
+n
+, HRTEM image and the corresponding EDS elemental mapping of PtCo/MC catalyst.
+o
+, HRTEM–EDS line scan profiles (bottom) of Pt (orange) and Co (green) in the PtCo/MC catalyst recorded along the arrow shown in the top HRTEM image. The schematics at the left show the catalysts. The orange and green spheres represent Pt and Co atoms, respectively. The connecting lines represent carbon support.
+Full size image
+To gain insight into the structural features of the Pt–Co metallic sites, the refined structures of the as-synthesized Pt–Co/MC catalysts were systematically characterized by typical X-ray spectroscopy techniques. X-ray diffraction (XRD) patterns of the Pt
+1
++ Co
+1
+/MC, Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts together with the MC support are presented in Fig.
+2a
+. As compared with the pattern of the MC support, no Pt or Co characteristic peaks were observed for Pt
+1
++ Co
+1
+/MC catalyst, indicating its poor crystallinity of the Pt and Co metals. In accordance with the electron microscopic analysis (Fig.
+1
+), the XRD pattern of Pt + Co
+1
+/MC catalyst exhibited the well-defined diffraction peak of Pt metal that can be ascribed to the (111) plane of the Pt NPs, which was accompanied by the distinct and successive shifts towards higher diffraction angles in the PtCo
+1
+/MC and PtCo/MC catalysts, indicating the enhancement of the Pt–Co intermetallic interaction along with the incremental exposure of Pt and Co metals to each other. Accordingly, X-ray photoelectron spectroscopy (XPS) analysis of these catalysts also unveiled their electronic structures, as shown in Fig.
+2b,c
+and Supplementary Fig.
+9
+. The XPS peaks that appeared at ~71.6 and 74.9 eV (Pt 4
+f
+; Supplementary Fig.
+9a
+) and ~780.0 and 796.1 eV (Co 2
+p
+; Supplementary Fig.
+9b
+) correspond to the orbitals of the Pt and Co species in the catalysts
+39
+. Evidently, the Pt 4
+f
+binding energy showed a negative shift compared to the monometallic Pt/MC catalyst (Fig.
+2b
+and Supplementary Fig.
+9a
+), as the alloyed Pt–Co interaction increased, which should be ascribed to the higher electronegativity of Pt that results in the electron transfer from Co to Pt (ref.
+40
+). An opposite tendency was observed for the Co 2
+p
+orbital peak, which shifted to a higher binding energy than that of the monometallic Co/MC catalyst (Fig.
+2c
+and Supplementary Fig.
+9b
+), also correspondingly supporting the well-alloyed structure of Pt and Co species in the PtCo
+1
+/MC and PtCo/MC catalysts, while the higher binding energy shifts of the Co 2
+p
+orbital peaks for the independently dispersed Co single atoms in the Pt
+1
++ Co
+1
+/MC and Pt + Co
+1
+/MC catalysts should be attributed to the electron transfer from Co to its coordinated oxygen atoms, which originated from the precursor of the catalyst
+41
+. This interaction between Pt and Co atoms is also shown by the white line intensity and absorption threshold value in the Pt L
+3
+-edge and Co K-edge X-ray absorption near-edge structure (XANES) curves of the bimetallic catalysts (Fig.
+2d,e
+). As compared with Pt + Co
+1
+/MC catalyst, the PtCo
+1
+and PtCo NPs displayed lower white line intensities and higher absorption threshold values, further revealing the electron transfer from Co to Pt in the alloy structures
+42
+.
+Fig. 2: X-ray spectroscopy characterization.
+a
+, XRD patterns of MC support (black), Pt
+1
++ Co
+1
+/MC (gold), Pt + Co
+1
+/MC (blue), PtCo
+1
+/MC (purple) and PtCo/MC (red) catalysts. Standard patterns of Co and Pt from the International Centre for Diffraction Data Powder Diffraction File (ICDD PDF) cards (97-062-2439 for Co, 04-001-0112 for Pt and 97-062-4781 for PtCo alloy) are shown at the bottom. 2
+θ
+, the angle between the incident beam and reflected beam.
+b
+,
+c
+, Heatmaps of XPS spectra for Pt 4
+f
+and Co 2
+p
+regions, respectively. The colour bars represent normalized intensity (a.u.).
+d
+, XANES spectra at the Pt L
+3
+edge, of Pt foil, PtO
+2
+, Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts. The black diamonds labelled ‘white line’ represent the ‘white line peaks’, which is a special term in XANES analysis.
+e
+, XANES spectra at the Co K-edge of Co foil, CoO, Co
+2
+O
+3
+, Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts. The insets in
+d
+and
+e
+show a zoomed-in view.
+f
+,
+g
+, Fourier-transformed EXAFS
+k
+2
+-weighted
+χ
+(
+k
+) function spectra of the Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts and references (solid lines) and the corresponding EXAFS
+R
+-space fitting curves (circles) for the Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts. χ is defined phenomenologically as the normalized, oscillatory part of the X-ray absorption above a given absorption edge.
+k
+is defined as the photoelectron wave vector.
+h
+, Calculated Pt valence states from the difference in XANES (ΔXANES) spectra of the Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts in
+d
+. The inset shows a zoomed-in view. The
+x
+axis is calculated by the normalization of the white line intensity differences of the Pt species in
+d
+, and we defined the white line intensities of Pt
+0
+and Pt
+4+
+as 0 and 1 in this normalization.
+i
+, The fitted average oxidation states of Co species in the Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts. The fitting curve is derived from the relation between the oxidation states of the references and the K-edge absorption energies (
+E
+0
+) of the XANES spectra in
+e
+.
+R
+2
+is the variance of the fitting line.
+j
+, Heatmap of normalized Co Kβ
+1,3
+XES spectra from the absorption edge for Pt
+1
++ Co
+1
+/MC, Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts with corresponding references.
+Full size image
+The results of the extended X-ray absorption fine structure (EXAFS) analysis further supported the intermetallic interaction between the Pt and Co species (Fig.
+2f,g
+, Supplementary Figs.
+10
+and
+11
+and Supplementary Table
+1
+). The Pt L
+3
+-edge and Co K-edge EXAFS fitting curves of R space for the Pt + Co
+1
+/MC catalyst exhibited a dominant Pt–Pt coordination at 4.44 Å (Fig.
+2f
+), and no Pt–Co, Co–Co and Co–Pt characteristic peaks could be detected (Fig.
+2f,g
+), again showing the separate dispersions of the Pt NPs and Co SASs on the carbon, in line with the AC-HAADF-STEM analyses (Fig.
+1f–h
+). Along with the emergence and strengthening of the intermetallic interaction, new coordination environments of the Pt and Co metals were recorded from the quantitative EXAFS curve fittings, where Pt–Co coordination was present with a respective coordination number of 0.53 and 1.79 in the PtCo
+1
+/MC and PtCo/MC catalysts, while Co coordinated on average with 1.10 and 3.55 Pt atoms (Fig.
+2f
+and Supplementary Table
+1
+). However, besides the absence of the Co–Co coordination, the coordinated C atoms around Co were also hard to detect in the PtCo
+1
+/MC catalyst. Such a difference from the Pt + Co
+1
+/MC catalyst further underpinned the conclusion that the Co atoms are atomically dispersed and anchored on the Pt NPs, agreeing well with the AC-HAADF-STEM analysis (Fig.
+1a–e
+). Notably, the low intensity of the Pt–Co coordination peak of the PtCo
+1
+/MC catalyst (coordination number = 0.53; Supplementary Table
+1
+) probably occurs because the comparative number of the dispersed Co single atoms in the Pt coordination environment is far lower than those of Pt and other atoms
+43
+. Furthermore, some coordinated O atoms around Pt atoms in the Pt + Co
+1
+/MC catalyst were replaced by different amounts of Co atoms, with their lower electronegativity in the alloyed PtCo
+1
+and PtCo structures, resulting in the lower oxidation valences of the Pt atoms, which can be validated by the accurate estimation of valence states from the XANES analysis (Fig.
+2h
+; +0.13 in PtCo/MC, +0.15 in PtCo
+1
+/MC and +0.45 in Pt + Co
+1
+/MC). In a similar manner, the coordinated Pt atoms in the alloyed environment of the PtCo
+1
+and PtCo NPs also helped the Co atoms to afford the capture of electrons by O atoms, albeit with some degree of transfer of the electrons to Pt atoms. As a consequence, the Co atoms in the PtCo
+1
+/MC and PtCo/MC catalysts were present in lower oxidation states than those in Pt + Co
+1
+/MC catalyst (Fig.
+2i
+) by +1.56 and +1.45, respectively, which matched well with the XPS analysis (Fig.
+2c
+and Supplementary Fig.
+9b
+). Moreover, X-ray emission spectroscopy (XES) analyses with regard to the Kβ emission lines (3
+p
+→ 1
+s
+), which are the main Kβ
+1,3
+lines that are sensitive to the 3
+d
+spin state of the emitting atom, were conducted for the Pt
+1
++ Co
+1
+/MC, Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts, and the Co Kβ
+1,3
+XES spectra further strengthened the significant influence of the intermetallic interaction on the charge distribution between Pt and Co atoms (Fig.
+2j
+).
+Electrocatalytic performance
+The electrocatalytic HDO performances of the PtCo
+1
+/MC catalyst and its reference catalysts were evaluated systematically, using a typical reactant of guaiacol which is not only a well-known platform chemical easily produced from lignin
+44
+,
+45
+,
+46
+and an important feedstock for valuable chemicals and fuels
+35
+,
+47
+,
+48
+,
+49
+, but also helpful for simplifying the mechanism study because of its lignin-mimetic phenoxy structure ((CH
+3
+O)Ph(OH)) with only one phenolic hydroxyl group (C
+sp
+2
+–OH) and one adjacent etheric group (C
+sp
+2
+–OCH
+3
+) substituted on the benzene ring. We began the electrocatalytic reactions by screening the conditions, such as pH value, working potential, electrolyte and so on, using the monometallic Pt/MC as the catalyst (Supplementary Table
+2
+and Supplementary Fig.
+12
+). Given the reaction rate and in situ characterization convenience of the electrocatalytic HDO process, H
+2
+SO
+4
+solution was selected as the electrolyte in the reaction
+34
+, and the guaiacol substrate was experimentally loaded into the electrocatalytic system with a feasible amount that could be dissolved in the H
+2
+SO
+4
+/H
+2
+O electrolyte
+50
+. With the optimized conditions established, we proceeded to study the HDO reactions of guaiacol over the PtCo
+1
+/MC and its reference catalysts, which exhibited different electrocatalytic performances, as shown in Table
+1
+and Fig.
+3
+. PtCo
+1
+/MC catalyst clearly gave an efficient hydrogenation of the aromatic ring and afforded the desired cleavage of the C–O(H) bond with most of the C–O(CH
+3
+) bond retained, and the selectivity of methoxycyclohexane could be up to 72.1% (Table
+1
+, entry 1 and Supplementary Fig.
+13
+). As expected, the conversion of guaiacol did not occur over the MC support without any metal sites (Table
+1
+, entry 2), suggesting that PtCo
+1
+was the key catalytic site for this reaction. We believed that the concrete Pt–Co coordination derived from the decoration of Co SASs on the Pt NPs (Figs.
+1a–e
+and
+2f,g
+and Supplementary Table
+1
+) in the PtCo
+1
+/MC catalyst has suitable Pt–Co interaction that favoured the adsorption and activation of the C–O(H) bond on the PtCo
+1
+sites, which consequently retained the C–O(CH
+3
+) bond during the HDO process. To confirm our conjecture, the monometallic Co and Pt catalysts in the forms of NPs and SASs were used in the reaction (Table
+1
+, entries 3–6). Obviously, guaiacol was unreactive over the Co and Pt SAS catalysts, as well as the Co NP catalyst with a potential at −70 mV versus a reversible hydrogen electrode (RHE) at room temperature (Table
+1
+, entries 3–5); and only Pt NP catalyst (Supplementary Fig.
+14
+) showed a HDO activity with cyclohexanol and 2-methoxy-cyclohexanol as the main and second products (Table
+1
+, entry 6 and Supplementary Fig.
+15
+). These results demonstrated the superiority of Pt metal for this HDO reaction but with a Pt–Pt coordinated structure as the necessary catalytic sites, and verified the importance of the synergistic effect derived from the combination of the Pt NPs and Co SASs in the bimetallic PtCo
+1
+catalyst for the cleavage of the C–O(H) bond and retention of the C–O(CH
+3
+) bond (Table
+1
+, entry 1).
+Table 1 Electrocatalytic reduction of guaiacol
+Full size table
+Fig. 3: Electrochemical analysis.
+a
+, The FE of products on Pt/MC, Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts under different current densities.
+b
+–
+e
+, The yield rate of products on Pt/MC (
+b
+), Pt + Co
+1
+/MC (
+c
+), PtCo
+1
+/MC (
+d
+) and PtCo/MC (
+e
+) catalysts under different potentials.
+f
+, Linear sweep voltammetry curves while feeding 8 mM guaiacol as the substrate (solid lines) or not (dashed lines). The potential was
+iR
+corrected by the uncompensated resistance.
+i
+is the current flowing through the electrolyte and
+R
+is the resistance of the electrolyte solution.
+g
+–
+i
+, Tafel slopes of Pt/MC, Pt + Co
+1
+/MC (
+g
+), PtCo
+1
+/MC (
+h
+) and PtCo/MC (
+i
+) catalysts calculated from
+f
+. MC
+guaiacol
+, reaction systems containing 8 mM guaiacol;
+j
+, current density.
+j
+,
+k
+, The double-layer capacitance of Pt–Co catalysts at different potential scan rates (
+j
+), and the corresponding relative electrochemically active surface area (ECSA;
+k
+). The double-layer capacitance was determined by measuring the capacitive current associated with double-layer charging from the scan-rate dependence of cyclic voltammetric stripping in Supplementary Fig.
+21
+. Error bars in
+a
+–
+e
+represent s.d. from at least three independent measurements, and the centre value for the error bar is the average of the three independent measurements.
+Full size image
+Although it has been proven that bimetallic catalysts exhibit a unique catalytic performance compared with the corresponding monometallic counterparts
+51
+, the Pt–Co catalysts with other catalytic structures and intermetallic interactions could not catalyse the desired HDO reaction of guaiacol into methoxycyclohexane (Table
+1
+, entries 7–15). For example, when the Co SAS was introduced independently around the Pt SAS (Supplementary Fig.
+16
+), the Pt
+1
++ Co
+1
+/MC catalyst exhibited no catalytic activity for the reaction (Table
+1
+, entry 7), in agreement with the Pt
+1
+/MC and Co
+1
+/MC catalysts (Table
+1
+, entries 3 and 5). With the Pt SASs replaced by Pt NPs, the Pt + Co
+1
+/MC catalyst could afford the reaction of guaiacol efficiently with a higher turnover frequency (TOF; 139.3 h
+−1
+; Table
+1
+, entry 8) than that of the Pt/MC catalyst (Table
+1
+, entry 6). However, the presence of the Co SASs altered the catalytic performance of the Pt NPs from HDO (methoxycyclohexane, Table
+1
+, entry 1) to a hydrogenation orientation, with 2-methoxy-cyclohexanol as the main product (Table
+1
+, entry 8 and Supplementary Fig.
+17
+), which indicated that the dispersion of Co SASs around the Pt NPs (Figs.
+1f–k
+and
+2f,g
+and Supplementary Table
+1
+) could promote only the hydrogenation of the aromatic ring. Such a hydrogenation orientation could be shifted gradually back to the HDO trend when the Pt–Pt interaction was enhanced by increasing only the Pt content in the
+x
+Pt + Co
+1
+/MC catalysts (Table
+1
+, entries 8–13), but the cyclohexanol was the main product, indicating that the synergy between the Pt NPs and Co SASs in the Pt + Co
+1
+/MC catalyst could not support the cleavage tendency of the C–O(H) bond in guaiacol. Likewise, the PtCo/MC catalyst could promote only the reaction to cyclohexanol, albeit with a higher TOF of 191.0 h
+−1
+(Table
+1
+, entry 14 and Supplementary Fig.
+18
+), which suggested that the stronger cooperation of Pt and Co atoms in the alloyed PtCo NPs (Figs.
+1l–o
+and
+2f,g
+and Supplementary Table
+1
+) was also unsuitable for the cleavage of the C–O(H) bond and retention of the C–O(CH
+3
+) bond. In addition, when the Pt SASs were conversely decorated on the Co NPs (Supplementary Fig.
+19
+), the Pt
+1
+Co/MC catalyst was inactive in the reaction of guaiacol (Table
+1
+, entry 15).
+The influence of the manner in which the Pt and Co species combine on the reaction was also studied by electrochemical characterizations of these catalysts under different current densities (Fig.
+3a
+) and working potentials (Fig.
+3b–e
+). The PtCo
+1
+/MC catalyst with a loading of 1 mg cm
+−2
+delivered a high faradaic efficiency (FE) of 49.4% for methoxycyclohexane and a low hydrogen evolution reaction (HER) FE of 29.2% at a current density of 7 mA cm
+−2
+(Fig.
+3a
+). The increase of catalyst loading went against the improvement of the FE relating to the methoxycyclohexane product (Supplementary Fig.
+20
+), which should be ascribed to the obstruction of mass transfer and electron transport in the catalyst layer on the electrode
+52
+, albeit in an almost unchanged selectivity of methoxycyclohexane on the catalyst with a larger loading. By comparison, the Pt + Co
+1
+/MC and PtCo/MC catalysts showed their highest FEs of 38.9% and 56.9%, respectively, for the 2-methoxy-cyclohexanol and cyclohexanol products at 7 mA cm
+−2
+(Fig.
+3a
+). Moreover, the Pt/MC catalyst produces only cyclohexanol with a FE of 20.5% under a current density of 5 mA cm
+−2
+, and its H
+2
+FE (55.3%) was much higher than that over the PtCo
+1
+/MC catalyst (Fig.
+3a
+). The galvanostatic electrolysis demonstrated that the decoration of Co SASs on the Pt NPs not only favoured the cleavage of the C–O(H) bond, but also effectively suppressed HER performance. Additionally, we used an H-type cell to focus on the effects of the composition and structure of the catalysts on their catalytic performance at a low current density. Higher current densities have been reached in other reactions using flow cells or stirred slurry electrochemical reactors
+35
+,
+47
+,
+48
+,
+49
+. As a demonstration of the electrocatalytic performances of these Pt–Co catalysts, we also considered the yield rate of the product/working-potential relationship (Fig.
+3b–e
+), which further studied the effect of the catalyst structure on the reaction tendency. Under the working potential of −70 mV (versus RHE), the PtCo
+1
+/MC catalyst afforded a maximum methoxycyclohexane yield rate of 19.3 mmol h
+−1
+g
+cat
+−1
+, which was respectively 48.3, 14.5 and 66.6 times higher than those over the Pt/MC, Pt + Co
+1
+/MC and PtCo/MC catalysts (Fig.
+3b–e
+; g
+cat
+, grams of catalyst), agreeing well with the galvanostatic electrolysis on the highly efficient cleavage of the C–O(H) bond. To further study the structure–performance relationship and the synergy of Pt and Co species, the Tafel slope and electrochemically active surface area were determined by a series of electrochemical experiments (Fig.
+3f–k
+and Supplementary Fig.
+21
+). With the presence of guaiacol in the electrocatalytic system (Fig.
+3f
+), the cathodic potentials of the Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts exhibited larger shifts to negative values relative to the HER (solid lines), indicating the preferred adsorption and reaction of guaiacol on the Pt–Co coordinated catalytic sites, as compared to the monometallic Pt/MC catalyst. Among the three, the cathodic potentials of the PtCo
+1
+/MC and PtCo/MC catalysts were more positive than that of the Pt + Co
+1
+/MC catalyst (solid lines), which was likely because their stronger Pt–Co interactions facilitated the reaction of guaiacol on the electrode. And this could also be reflected by the Tafel slopes (Fig.
+3g–i
+), in which only the PtCo
+1
+/MC catalyst exhibited a decreased Tafel slope (76.5 mV dec
+−1
+) in comparison to the reaction system without guaiacol (Fig.
+3h
+), implying that the reaction of guaiacol is kinetically more favourable than the HER
+53
+. This fast kinetics may make the decoration of Co SASs on the Pt NPs a promising coordination method of Pt and Co species for the electrocatalytic HDO reaction of guaiacol, which echoes galvanostatic electrolysis in terms of the suppressed HER performance (Fig.
+3a
+). In addition, all the Pt + Co
+1
+/MC, PtCo
+1
+/MC and PtCo/MC catalysts exhibited larger double-layer capacitances (
+C
+dl
+) than that of the monometallic Pt/MC catalyst (Fig.
+3j,k
+), corresponding to the higher electrochemically active surface area and intrinsic electrocatalytic activity of these catalysts, which further confirmed that Pt–Co combination is crucial for promoting the eletrocatalytic reaction of guaiacol (Table
+1
+and Fig.
+3a–e
+).
+As the references, monometallic Ni and Fe SAS and NP catalysts, as well as their bimetallic catalysts with Pt metal, were additionally tested (Table
+1
+, entries 16–25), because Ni and Fe are also commonly used metal catalysts for HDO reactions
+54
+. Likewise, guaiacol was unreactive over the monometallic Ni and Fe catalysts (Table
+1
+, entries 16–19). Moreover, methoxycyclohexane was still hard to obtain over the Pt–Ni and Pt–Fe bimetallic catalysts (Table
+1
+, entries 20–25), despite the reaction of guaiacol. Based on the above electrocatalytic performances, the desirable HDO reaction of guaiacol to methoxycyclohexane can rest on the suitable intermetallic interaction and catalytic structure of the Pt and Co species. Aside from the electrocatalytic properties, the PtCo
+1
+/MC catalyst exhibited excellent durability in the HDO reaction of guaiacol, which was confirmed by conducting the long-period scale-up experiment and characterizing the used catalyst with XRD and transmission electron microscopy (TEM) techniques (Supplementary Figs.
+22
+–
+24
+). The activity and selectivity of the reaction and the FE of methoxycyclohexane were excellently maintained without a marked decrease after 80 h (Supplementary Fig.
+22
+), and the XRD and TEM analyses of the used catalyst showed no obvious change in the crystal structure and dispersion of the PtCo
+1
+NPs after the reactions (Supplementary Figs.
+23
+and
+24
+). The structural stability of the PtCo
+1
+/MC catalyst during the electrocatalysis process should originate from its stable Pt–Co intermetallic interactions that prevented the migration and aggregation of the metal species, especially for the Co SASs dispersed on the Pt NPs. In addition, after the extraction of the organic chemicals from the reaction system, the ether product can be separated from the reactant and by-products through a distillation method that is commonly used for the product separation in industry
+55
+,
+56
+, given their different boiling points.
+Mechanistic exploration
+To fully understand the structure–performance relationship of the PtCo
+1
+/MC and its reference catalysts, we monitored the electrocatalytic reaction of guaiacol by in situ Raman spectroscopy under the optimum conditions to gain mechanism information of the reaction process (Supplementary Fig.
+25
+). As shown in the Raman spectra (Fig.
+4
+), the power-off reaction systems (labelled OFF) exhibited similar peaks at 980 cm
+−1
+, 1,049 cm
+−1
+, ~1,330 cm
+−1
+and ~1,610 cm
+−1
+that can be assigned to the SO
+4
+2−
+anion, S–O–H stretching of bisulfate and G band (
+sp
+2
+hybridized carbon) and D band (disordered and defected carbons) vibrations of the MC support (Fig.
+4a–f
+), respectively. After the power is turned on (labelled ON), the S–O–H stretching peak weakens and the OH–C=C–OCH
+3
+asymmetric/symmetric stretching vibrations of the reactant are enhanced (Fig.
+4a–d
+; ON_5 min, red lines), which suggested that the HSO
+4
+−
+anions on the catalytic active sites were replaced by the guaiacol molecules, coinciding well with the electrochemical analysis (Fig.
+3f–i
+). As the reaction went on, HSO
+4
+−
+anion and H
+2
+O-derived protons were respectively involved in the activation and hydrogenation of the aromatic ring
+34
+, which was shown by the evident switch of the relative intensities of the peaks associated with SO
+4
+2−
+and HSO
+4
+−
+anions, and the concurrent redshift (from 983 to 977 cm
+−1
+) of the SO
+4
+2−
+signals with the enhanced intensity due to the electrostatic interaction from the above working protons (Fig.
+4a–d
+; ON_5 min, red lines; ON_30 min, blue lines), as well as the isotope labelling tests of guaiacol in the dideuterosulfuric acid/H
+2
+O (D
+2
+SO
+4
+/H
+2
+O) and H
+2
+SO
+4
+/deuterium oxide (H
+2
+SO
+4
+/D
+2
+O) electrolytes (Supplementary Fig.
+26
+). Experimentally, these typical Raman signals with regard to the working protons were not detected without the catalyst on the electrode (Supplementary Fig.
+27a
+), or when the power was switched off during the reaction (Supplementary Fig.
+27b
+), suggesting the electrocatalytic characteristics of the reaction process of guaiacol over the catalysts. Such intensity variation and redshift of the HSO
+4
+−
+and SO
+4
+2−
+signals were not observed over the Pt
+1
++ Co
+1
+/MC and Pt
+1
+/MC catalysts (Fig.
+4e,f
+), which verified the inactivity of these catalysts, closely matching their electrocatalytic results (Table
+1
+, entries 7 and 5). The Pt
+1
++ Co
+1
+/MC catalyst still exhibited distinct C–O(H) (1,198 cm
+−1
+), (C)O–H (1,390 cm
+−1
+) and C–O(CH
+3
+) (1,235 cm
+−1
+) signals, which were not collected over the Pt
+1
+/MC catalysts (Fig.
+4e,f
+), albeit with no reaction of guaiacol (Table
+1
+, entry 7), illustrating that the introduction of Co SASs around Pt adjusted the adsorption method of the reactant on the catalytic sites during the electrocatalytic process. Taking advantage of this adjustment, stretching vibrations of the C–O(H) (1,193 cm
+−1
+) and aromatic
+π
+bonds (~1,633 cm
+−1
+) were apparently strengthened under the function of the PtCo
+1
+-derived Pt–Co interaction (Figs.
+1a–e
+and
+2f,g
+and Supplementary Table
+1
+), while the adsorption of the C–O(CH
+3
+) bond (1,235 cm
+−1
+) was eventually weakened on the PtCo
+1
+/MC catalyst (Fig.
+4a
+), corresponding to an efficient HDO reaction of guaiacol with the C–O(H) bond cleaved (Table
+1
+, entry 1), as compared with the randomly and weakly adsorbed C–O(H), C–O(CH
+3
+) and aromatic
+π
+bonds over the monometallic Pt/MC catalyst (Fig.
+4d
+). In addition, the above electrocatalytic deoxygenation was dominantly supported by the H
+2
+O-derived protons, in the same way as that of the hydrogenation step of the aromatic ring, which could also be confirmed by the deuterated methoxycyclohexane (D-methoxycyclohexane, molecular weight = 121) product in H
+2
+SO
+4
+/D
+2
+O and the methoxycyclohexane (H-methoxycyclohexane, molecular weight = 114) product in D
+2
+SO
+4
+/H
+2
+O (Supplementary Fig.
+26
+). Subsequently, the PtCo alloy NPs (Figs.
+1l–o
+and
+2f,g
+and Supplementary Table
+1
+) can adsorb the aromatic ring strongly, and meanwhile showed a strong C–O(CH
+3
+) adsorption peak (Fig.
+4b
+), which coincided well with the demethoxygenation-oriented production of cyclohexanol (Table
+1
+, entry 14). With individually dispersed Pt NPs and Co SASs on the MC support (Figs.
+1f–k
+and
+2f,g
+and Supplementary Table
+1
+), the Pt + Co
+1
+/MC catalyst (Fig.
+4c
+) showed similar adsorption signals of the aromatic
+π
+bonds and C–O(H)/C–O(CH
+3
+) bonds to those collected on the PtCo
+1
+/MC and Pt
+1
++ Co
+1
+/MC catalysts, which suggested that the adsorption of aromatic
+π
+bonds and C–O(H)/C–O(CH
+3
+) were respectively related to the Pt NPs and Co SASs (Fig.
+4d,e
+), corresponding to the production of 2-methoxy-cyclohexanol with both the C–O(H) and C–O(CH
+3
+) bonds retained (Table
+1
+, entry 8). Comparison of the above Raman signals of the adsorbed molecules over the PtCo
+1
+/MC and its reference catalysts provided insight into the magnitude of the structure–performance relationship, where the cleavage priority of the C–O(H) and C–O(CH
+3
+) bonds could be tuned by Pt–Co intermetallic cooperation (Supplementary Fig.
+28
+).
+Fig. 4: In situ Raman study.
+Raman spectra.
+a
+, PtCo
+1
+/MC (3.0 wt% Pt, 0.8 wt% Co).
+b
+, PtCo/MC (3.0 wt% Pt, 1.8 wt% Co).
+c
+, Pt + Co
+1
+/MC (3.0 wt% Pt, 0.8 wt% Co).
+d
+, Pt/MC (3.0 wt% Pt).
+e
+, Pt
+1
++ Co
+1
+/MC (0.8 wt% Pt, 0.8 wt% Co).
+f
+, Pt
+1
+/MC (0.8 wt% Pt). OFF (black line), ON_5 min (red line) and ON_30 min (blue line), respectively, represent the spectra collected when the power of the system is off, on (after 5 min) and on (after 30 min).
+g
+, The proposed adsorption methods of guaiacol and intermediates on the catalysts. Reaction conditions are catalyst (1.0 mg), −70 mV (versus RHE), 25 °C and N
+2
+(30 ml min
+−1
+).
+δ
+indicates bending vibration;
+ν
+indicates stretching vibration; s indicates symmetric; as indicates asymmetric; conjugated indicates a conjugated C=C bond; unconjugated indicates an unconjugated C=C bond.
+Full size image
+Guided by the in situ Raman study of the bimetallic Pt–Co catalysts, we performed density functional theory (DFT) calculations to study the electrocatalytic HDO reaction pathway of guaiacol, and compared the reaction energetics and adsorption methods of the PtCo
+1
+/MC catalyst to those of monometallic Pt/MC and another two bimetallic Pt–Co catalysts (Pt + Co
+1
+/MC and PtCo/MC; Fig.
+5
+and Supplementary Figs.
+29
+–
+33
+and
+38
+–
+41
+). The electrocatalytic pathway for the HDO reaction of guaiacol includes the adsorption of guaiacol (R), hydrogenation on the aromatic ring, cleavage of the C–O(CH
+3
+) or C–O(H) bonds and hydrogenation on the OH–C=C or C=C–OCH
+3
+species. Aligning well with the HDO performance (Table
+1
+, entry 1), DFT calculations verify that methoxycyclohexane formation from the cleavage of the C–O(H) bond and retention of the C–O(CH
+3
+) bond is the most favourable HDO reaction pathway at the PtCo
+1
+site (Fig.
+1a–e
+) on the PtCo
+1
+/MC catalyst (Fig.
+5a
+). Hydrogenation of the aromatic ring first proceeded using four electrons and four protons, and the unsaturated OH–C=C–OCH
+3
+structure was formed in the intermediate of 2-methoxycyclohex-1-enol (M4; Fig.
+5a
+). After that, the C–O(H) bond in M4 was effectively activated with a lower barrier of 0.89 eV (TS5) as compared with the ethylene bond hydrogenation and C–O(CH
+3
+) bond cleavage (Fig.
+5b
+), and the OH–C=C–OCH
+3
+structure was cleaved into the C=C–OCH
+3
+geometry (M5; Fig.
+5a
+) and H
+2
+O species. Subsequently, the electron and proton were transferred to the hydroxyl C atom with 1-methoxycyclohex-1-ene (M6; Fig.
+5a
+) generated, which was then followed by the hydrogenation of the ethylene bond in M6 with another two electrons and two protons, ultimately giving the methoxycyclohexane product. Although the OH–C=C–OCH
+3
+structure in 2-methoxycyclohex-1-enol could also be adsorbed in another mode of M4-1, M4-2 and M4-3 with higher energies (Fig.
+5c
+), the hydroxyl-derived O (O(H)–C) atom and ethylene-bond-derived C atoms were more favourably coordinated with the Co SAS and its adjacent Pt sites (M4; Fig.
+5a,c
+), illustrating that the highly dispersed Co single atoms on the Pt NPs activated the C–O(H) bond and restricted the adsorption of the C–O(CH
+3
+) bond. The Bader charge analysis reveals that the Co single atom carried more electrons when 2-methoxycyclohex-1-enol was adsorbed on the PtCo
+1
+site (Fig.
+5d
+), which was in excellent accordance with the differential charge distribution of PtCo
+1
+and adsorbed OH–C=C–OCH
+3
+structure (M4; Fig.
+5a,c
+), disclosing the electron redistribution from the C–O(H) bond to the Co–O(H) coordination and strong interaction between the hydroxyl-derived O (O(H)–C) atom and Co SAS (Fig.
+5d
+). By contrast, the activity of the electron derived from the C–O(CH
+3
+) bond was very low and insensitive to the Co SAS (Fig.
+5d
+), confirming the key role of the Co SAS in weakening the C–O(H) bond again, which helped the cleavage of the C–O(H) bond and retention of the C–O(CH
+3
+) bond under the function of the suitable Pt–Co interaction (Table
+1
+, entry 1). Figure
+5e
+shows the overall pathway for the HDO reaction of guaiacol on the monometallic Pt active sites. The aromatic ring of guaiacol was also first adsorbed onto the Pt sites and analogously hydrogenated stepwise into 2-methoxycyclohex-1-enol (M4; Fig.
+5e
+) as well as with four electrons and four protons
+34
+, which was then followed by the thermodynamically favoured deoxygenation with an activation barrier of 1.16 eV, namely cleavage of the C–O(CH
+3
+) bond, and hydrogenation of the cyclohex-1-enol (M6; Fig.
+5e
+), finally affording the cyclohexanol product (Table
+1
+, entry 6). As a comparison, the scission of the C–O(H) bond was also calculated on the monometallic Pt surface; however, the activation barrier was higher than that of the C–OCH
+3
+bond (Supplementary Fig.
+33
+), which suggested the favoured cleavage of the C–OCH
+3
+bond and coincided well with the product distribution (Table
+1
+, entry 6). While the OH–C=C–OCH
+3
+structure in 2-methoxycyclohex-1-enol could also be comparably adsorbed in the pattern of M4-1 (Fig.
+5f
+), it only allowed the ethylene bond to be hydrogenated in the second-highest selectivity (Table
+1
+, entry 6), without the cleavage of the C–O bond.
+Fig. 5: Mechanism study.
+a
+, DFT calculations of the HDO pathway for the reaction of guaiacol on PtCo
+1
+catalyst. The insets show images of some of the states.
+b
+, DFT calculations of the C–OCH
+3
+bond cleavage and ethylene bond (hydroxyl and methoxyl C atom) hydrogenation in the OH–C=C–OCH
+3
+structure on PtCo
+1
+catalyst. The activation barriers are 1.10 eV, 0.96 eV and 1.50 eV, respectively.
+c
+, The prevalent adsorption of the OH–C=C–OCH
+3
+structure on PtCo
+1
+catalyst. The free energy of M4 in
+a
+was set as 0 eV.
+d
+, Bader charge and differential charge density analyses for the adsorption of the OH–C=C–OCH
+3
+structure on PtCo
+1
+catalyst, and the proposed electron flow in the coordination environment of the (C)=C–PtCo
+1
+–O(H)–C configuration. Yellow and cyan isosurfaces show the accumulation and depletion of electron densities, respectively.
+e
+, DFT calculations of the HDO pathway for the reaction of guaiacol on Pt catalyst.
+f
+, The comparable adsorption methods of the OH–C=C–OCH
+3
+structures on Pt catalyst. The adsorption energy of M4 in
+e
+was set as 0 eV.
+g
+, DFT calculations of the HDO pathway for the reaction of guaiacol on Pt + Co
+1
+catalyst.
+h
+, DFT calculations of the HDO pathway for the reaction of guaiacol on PtCo catalyst. R, M, TS and P respectively represent the reactant, intermediate, transition state and product in the system.
+Full size image
+In support of the pivotal OH–C=C–OCH
+3
+structure in the adsorbed intermediate (M4; Fig.
+5a,c
+), we also explored the reaction of 2-methoxy-cyclohexanol over the Pt/MC and PtCo
+1
+/MC catalysts in the same conditions, and no cyclohexanol/methoxycyclohexane (or any other product) was detected (Supplementary Figs.
+34
+and
+35
+), demonstrating that OH–C=C–OCH
+3
+was the decisive structure to drive the C–O cleavage in different ways. To further discover the electrocatalytic process of the guaiacol reaction, we also carried out in situ Raman measurements over the PtCo
+1
+/MC catalyst using H
+2
+or NaBH
+4
+as the reductant under the power-off condition of the reaction system (Supplementary Fig.
+36
+), and the spectra displayed no representative signals, excluding the thermocatalytic mechanism of the reaction. Furthermore, the performance of the catalytic system was independent of the reaction temperature (Supplementary Fig.
+37
+), which experimentally proved the essential electrocatalytic nature of the reaction again.
+In addition, we also conducted DFT calculations for the reaction pathways of guaiacol on the Pt + Co
+1
+/MC and PtCo/MC catalysts (Fig.
+5g,h
+). While the dispersed Co SASs surrounded the Pt NPs only in the Pt + Co
+1
+/MC catalyst, its Pt–Co cooperation still affected the adsorption manner of guaiacol and its intermediates in the reaction (Fig.
+5g
+). After the partial hydrogenation of the aromatic ring, the calculations showed that the adsorption of the 2-methoxycyclohex-1-enol intermediate (M4) had migrated from the surface of Pt NPs to the Co SASs (Fig.
+5g
+). However, the hydrogenation of the ethylene bond finally dominated the reaction tendency, with 2-methoxy-cyclohexanol as the main product (Table
+1
+, entry 8), which indicated that the isolated Co SAS on the carbon could not cleave the C–O bond in the adsorbed HO–C=C–OCH
+3
+geometry. Unlike the PtCo
+1
+/MC catalyst, highly alloyed Pt and Co atoms could endow only the PtCo/MC catalyst with thermodynamically favoured cleavage of the C–O(CH
+3
+) bond with a lower barrier of 0.94 eV (Fig.
+5h
+) and higher selectivity of cyclohexanol (Table
+1
+, entry 14), as compared with the values of the monometallic Pt/MC catalyst (Fig.
+5e
+and Table
+1
+, entry 6). Despite the coordination of Co species with the hydroxylic O (O(H)–C) atom in the adsorption of the 2-methoxycyclohex-1-enol intermediate, the activation barrier of the C–O(H) bond was still higher than that of the C–O(CH
+3
+) bond (Supplementary Fig.
+38
+), suggesting the inadequate activation effect of the Co species for the C–O(H) bond on the PtCo/MC catalyst.
+Applying this computational chemistry to the aforementioned characterizations could uncover the origin of the diversity of the ways in which the reaction occurs over the bimetallic PtCo/MC and monometallic Pt/MC catalysts (Supplementary Fig.
+39
+). As mentioned above, the intermediate of 2-methoxycyclohex-1-enol was favourably adsorbed on the PtCo
+1
+NPs with the hydroxyl-derived O (O(H)–C) atom and ethylene-bond-derived C atoms coordinated with the Co SAS and its adjacent Pt sites (Figs.
+4a
+and
+5a
+), which enriched the electrons on the Pt sites and spontaneously fed some electrons back to the Co SAS (Fig.
+5d
+). This electron feedback enhanced the coordination of the positively charged Co SAS (Fig.
+2c,i
+) with the hydroxyl-derived O (O(H)–C) atom in the unsaturated OH–C=C–OCH
+3
+structure, and electron transfer in the coordination environment of the (C)=C–PtCo
+1
+–O(H)–C configuration lengthened the C–O(H) bond and lowered its activation energy (Fig.
+5a–d
+), which facilitated the preferential cleavage of the C–O(H) bond over the Pt NP sites (Table
+1
+, entry 1). The Pt and Co species in the PtCo/MC catalyst, by contrast, were alloyed into the united catalytic sites with more Co atoms around Pt (Fig.
+2g
+), and the aforementioned electrons were fed back to several adjacent Co atoms instead of an isolated Co SAS during the adsorption of the OH–C=C–OCH
+3
+structure in the 2-methoxycyclohex-1-enol intermediate (Supplementary Fig.
+40
+), which weakened the specific activation effect of the Co species for the C–O(H) bond (Fig.
+4b
+), in spite of the coordination environment between Co and O(H) in the (C)=C–PtCo–O(H)–C geometry. Under such circumstances, the C–OH bond that was coordinated by the electron-deficient Co species could attract the electrons only from the ethylene-bond-derived C atoms for balancing the electron distribution of the (C)=C–PtCo–O(H)–C geometry, and then more electrons of the methyl C atom were devoted to the methoxyl O atom as compared with the PtCo
+1
+catalyst (Supplementary Fig.
+40
+and Fig.
+5d
+), which facilitated the lengthening and activation of the C–O(CH
+3
+) bond (Fig.
+5h
+), accordingly delivering a preferential and efficient cleavage of the C–O(CH
+3
+) bond with a lower bond dissociation energy (Table
+1
+, entry 14). Chemically, the monometallic Pt NPs exhibited a similar dominant cleavage of the C–O(CH
+3
+) bond but with a higher barrier (Table
+1
+, entry 6 and Fig.
+5e,h
+), and this also reasonably demonstrated that the involvement of more Co atoms in the coordination of the hydroxylic O atom inversely improved the activation of the C–OCH
+3
+bond. Although Pt NPs and Co SASs were physically separate on the MC support, the Pt and Co species in the Pt + Co
+1
+/MC catalyst still worked cooperatively in the reaction, with the aromatic-ring-derived C atoms and OH–C=C–OCH
+3
+-structure-derived C/O atoms coordinated with the Pt NPs and Co SASs (Figs.
+4c
+and
+5g
+). However, the Co SAS was more electropositive as compared to those in the PtCo
+1
+/MC catalyst (Fig.
+2c,i
+), and the electron was hard to transfer from the separated Pt NPs to the (C)=C–Co
+1
+–O(H/CH
+3
+) coordination (Supplementary Fig.
+41
+), which made the activation of the C–O(CH
+3
+) and C–O(H) bonds difficult, consequently affording a complete hydrogenation of guaiacol without the cleavage of the C–O bond (Table
+1
+, entry 8). Overall, the intermetallic interaction and catalytic structure of the Pt and Co species play a key role in the selectivity switch observed in our envisioned HDO reactions, and the Co SASs and Pt NPs in the PtCo
+1
+/MC catalyst can work synergistically to achieve the hydrogenation of the aromatic ring and selective cleavage of the C–O bond.
+Generality study
+To further characterize the hydrogenation and deoxygenation behaviour of the PtCo
+1
+/MC catalyst, we next explored the substrate scope for HDO reactions, including electron-donating and electron-withdrawing groups, such as alkyl, alkenyl, hydroxymethyl, acyl, carboxyl, ester, cyano, amino, nitryl and halogeno groups; substituted guaiacols; dimethoxyphenols; and 2-ethoxyphenol (Fig.
+6
+). Considering the low solubility of some substrates in the H
+2
+SO
+4
+/H
+2
+O electrolyte, the water-miscible organic cosolvent was experimentally employed for these substrates to dispel the solubility limitation from their reactivities
+19
+. As shown in Fig.
+6
+, when alkyl- and alkenyl-substituted guaiacols (
+1a
+–
+3a
+) that can be obtained from lignin
+57
+were subjected to our electrocatalytic system, the corresponding alkyl ether products (
+1b
+–
+3b
+) could be readily obtained with selectivities of >69.9% and a TOF range of 132.1–144.6 h
+−1
+. On the basis of these experiments, we sought to explore the reactivity of guaiacols with hydroxymethyl, acyl, carboxyl and ester groups substituted (
+4a
+–
+12a
+), among which 4-(hydroxymethyl)-2-methoxyphenol (
+4a
+), 4-hydroxy-3-methoxybenzaldehyde (
+5a
+), 1-(4-hydroxy-3-methoxyphenyl)ethanone (
+9a
+), 4-hydroxy-3-methoxybenzoic acid (
+10a
+) and methyl 4-hydroxy-3-methoxybenzoate (
+12a
+) can be obtained from lignin transfromation
+58
+. Under the optimized reaction conditions, their corresponding ether products (
+4b
+–
+12b
+) were mainly afforded in a selectivity range of 67.5–77.4%, and the HDO reactions proceeded with a high TOF of 111.2–164.2 h
+−1
+for the cleavage of the C–O(H) bond. When a cyano group was substituted on the ring, the C–O(H) bond in 4-hydroxy-3-methoxybenzonitrile (
+13a
+) was still efficiently cleaved with a TOF of 112.8 h
+−1
+, and (3-methoxycyclohexyl)methanamine (
+13b
+) was selectively obtained with the C–O(CH
+3
+) bond retained on the ring. In the cases of the amino and nitryl aromatics, 4-amino-2-methoxyphenol (
+14a
+), 2-amino-6-methoxyphenol (
+15a
+) and 2-methoxy-4-nitrophenol (
+16a
+) were all converted to methoxycyclohexanamine (
+14b
+–
+16b
+) at selectivities of 65.5–75.7% with a TOF range of 128.2–144.5 h
+−1
+. Halogeno-substituted guaiacols, such as 4-fluoro-2-methoxyphenol (
+17a
+), 4-chloro-2-methoxyphenol (
+18a
+), 2-chloro-6-methoxyphenol (
+19a
+), 4-bromo-2-methoxyphenol (
+20a
+) and 4-iodo-2-methoxyphenol (
+21a
+), underwent the efficient HDO process but provided the methoxycyclohexane product (
+17b
+–
+21b
+) with selectivities around 70.0% under the function of dehalogenation. With two methoxyl groups substituted on the ring, both syringol and its isomers (
+22a
+–
+25a
+) exhibited favourable reactivities with a TOF range of 126.1–141.5 h
+−1
+, and dimethoxycyclohexanes (
+22b
+–
+25b
+) were obtained with selectivities larger than 70.3%, suggesting again that the etheric C–O(CH
+3
+) bond could be retained efficiently during the deoxygenation process of the hydroxyl C–O(H) bond. When the methoxyl was replaced by the ethoxyl group, 2-ethoxyphenol (
+26a
+) was also reactive, with efficient electrocatalytic cleavage of the C–O(H) bond, and then ethoxycyclohexane (
+26b
+) was yielded with a high selectivity. The high selectivity of the ether products observed in the above reactions, with high TOF values, excluded the impacts of the electronic property (electron-donating or electron-withdrawing) and position of the substituents on the HDO reactivity of the aromatics, which verified the excellent compatibility and high efficiency of the PtCo
+1
+/MC catalyst in the cleavage of the C–O(H) bond and retention of the C–O(CH
+3
+) bond. In addition, a lignin-derived bio-oil mixture of guaiacol and syringol monomers, obtained from eucalyptus wood (
+27a
+; Supplementary Fig.
+42
+), was also predominantly hydrodeoxygenated into the ether products, methoxycyclohexane and 1,3-dimethoxycyclohexane (
+27b
+), with high selectivities of 73.1% and 70.5%, respectively.
+Fig. 6: Substrate scope.
+The whole figure and the diagram across the top shows the electrocatalytic cleavage of the C–O(H) bond in various substrates with different substituents on the PtCo1/MC catalyst. Reaction results are the averages of three experiments conducted in parallel. Sel, selectivity. Reaction conditions are as follows: substrate (0.2 mmol), PtCo
+1
+/MC catalyst (1.0 mg), 0.5 M H
+2
+SO
+4
+solution (25.0 ml), −70 mV (versus RHE), 25 °C, 5 h, N
+2
+(30 ml min
+−1
+), 400 rpm. In addition, for
+1a
+, −90 mV (versus RHE), water/methanol (22.5:2.5 ml); for
+2a
+and
+3a
+, −110 mV (versus RHE), water/methanol (20.0:5.0 ml); for
+4a
+–
+9a
+and
+12a
+, −100 mV (versus RHE), water/methanol (22.5:2.5 ml); for
+22a
+, −160 mV (versus RHE), water/methanol (17.5:7.5 ml); for
+23a
+–
+25a
+, −140 mV (versus RHE), water/methanol (17.5:7.5 ml); for
+26a
+, −80 mV (versus RHE), water/methanol (22.5:2.5 ml); for
+27a
+, substrates (2.00 g, obtained from the conversion of eucalyptus lignin as shown in the main text and Supplementary Fig.
+42
+), −140 mV (versus RHE), water/methanol (20.0:5.0 ml).
+Full size image
+Conclusions
+In summary, we designed a series of bimetallic Pt–Co catalysts, in which the Pt and Co species were supported on MC material in separate or alloyed dispersions of their NPs and SASs. The influence of catalyst structure on the electrocatalytic reduction of lignin-derived guaiacol and its derivatives, including aromatic ring hydrogenation and C–O bond cleavage, was studied systematically. We found that the electrocatalytic performance depends on the intermetallic interaction and combination between the Pt and Co species, and in particular, PtCo
+1
+/MC showed outstanding performance for a large substrate scope. The detailed in situ characterization and DFT calculations indicated that Pt NPs and Co SASs had excellent synergistic effects for realizing the efficient hydrogenation of an aromatic ring and cleavage of the C–O(H) bond while retaining the C–O(R) bond. This work opens the way for the production of ether chemicals from renewable lignocellulosic biomass feedstock. We believe that the thorough understanding of the relationship between the catalyst structure and reaction performance provided by our study is important for the rational design of suitable catalyst sites and can guide the exploration of some other reactions.
+Methods
+Synthesis of MC material
+MC was prepared by the metal-assisted carbonization method, in which catechol was used as a typical host for the encapsulation of sublimable Zn species to form the corresponding catalyst precursor. Catechol (1.3 g, 12.0 mmol), nano-fumed SiO
+2
+(2.0 g), Zn(NO
+3
+)
+2
+·6H
+2
+O (2.1 g, 7.0 mmol) and tetrahydrofuran (150 ml) were loaded in a round-bottom flask (500 ml) and stirred for 6 h at room temperature. After the removal of the solvent by rotary evaporation, the remaining powder was dried overnight at 80 °C and then carbonized at 1,000 °C for 2 h with a heating rate of 5 °C min
+−1
+under an Ar atmosphere. After that, the carbide was immersed in HF (40 wt%) solution for 72 h to remove the soluble species and impurities. Finally, the solid was collected by filtration, washed with deionized water five times and then dried at 80 °C under vacuum for 12 h. The resulting sample was labelled as the MC material.
+Synthesis of Pt/MC, Co/MC, Ni/MC and Fe/MC catalysts
+MC-supported metal NPs were prepared using a wet impregnation method
+59
+. Typically, MC (97 mg) and deionized water (20 ml) were mixed in a round-bottom flask (100 ml) and sonicated for 30 min. After the introduction of H
+2
+PtCl
+6
+aqueous solution (8.0 mg H
+2
+PtCl
+6
+·6H
+2
+O in 5 ml H
+2
+O), the mixture was dispersed by an ultrasonic treatment for another 1 h and stirred vigorously for 12 h. After the removal of water by rotary evaporation, the remaining powder was dried overnight at 80 °C and then calcined at 500 °C for 3 h with a heating rate of 5 °C min
+−1
+under a H
+2
+/Ar (10 vol% H
+2
+) atmosphere. Finally, the solid was washed with deionized water and ethanol five times and then dried at 80 °C under vacuum for 12 h. The resulting sample was labelled as the Pt/MC catalyst. For the Co/MC, Ni/MC and Fe/MC catalysts, Co(NO
+3
+)
+2
+·6H
+2
+O (14.8 mg, 0.051 mmol), Ni(NO
+3
+)
+2
+·6H
+2
+O (14.9 mg, 0.051 mmol) and Fe(NO
+3
+)
+3
+·9H
+2
+O (21.7 mg, 0.054 mmol) were used instead of H
+2
+PtCl
+6
+·6H
+2
+O, respectively.
+Synthesis of
+x
+Pt + Co
+1
+/MC, Pt + Ni
+1
+/MC and Pt + Cu
+1
+/MC catalysts
+Catalysts with Pt NPs and Co SASs separately dispersed were prepared following the same procedures as those of the Pt
+1
++ Co
+1
+/MC catalyst (
+Supplementary Methods
+), in which 97 mg Co
+1
+/MC was used instead of the MC support. The resulting sample was labelled as
+x
+Pt + Co
+1
+/MC catalyst (
+x
+= 1, 2, 3, 4, 5 and 10, which represents the weight content of Pt NPs). In the preparation of the
+x
+Pt + Co
+1
+/MC catalysts, 90–99 mg Co
+1
+/MC was used as the support, with the amount increasing with
+x
+. In addition, 2.7–26.5 mg H
+2
+PtCl
+6
+·6H
+2
+O was dissolved in 5 ml H
+2
+O, again depending on
+x
+, and then the H
+2
+PtCl
+6
+aqueous solutions were added into the mixture. For the Pt + Ni
+1
+/MC and Pt + Cu
+1
+/MC catalysts, the same procedures were employed as those for the
+x
+Pt + Co
+1
+/MC catalysts, and 97 mg of Ni
+1
+/MC and Fe
+1
+/MC were used as the supports instead of Co
+1
+/MC, respectively.
+Synthesis of PtCo
+1
+/MC, PtNi
+1
+/MC and PtFe
+1
+/MC catalysts
+SAS-decorated Pt NPs were synthesized following a polymer carbonization method. Typically, catechol (1.3 g, 12.0 mmol), nano-fumed SiO
+2
+(2.0 g), H
+2
+PtCl
+6
+·6H
+2
+O (51.8 mg, 0.1 mmol), Co(NO
+3
+)
+2
+·6H
+2
+O (2.0 g, 7.0 mmol) and tetrahydrofuran (150 ml) were loaded in a round-bottom flask (500 ml) and stirred for 6 h at room temperature. After the removal of the solvent by rotary evaporation, the remaining powder was dried overnight at 80 °C and then carbonized at 900 °C for 2 h with a heating rate of 5 °C min
+−1
+under an Ar atmosphere. After that, the carbide was immersed in HF (40 wt%) solution at 60 °C for 72 h to remove the soluble species and impurities. Then, the solid was collected by filtration, washed with deionized water five times, dried at 80 °C under vacuum for 12 h and finally treated at 500 °C for 3 h with a heating rate of 5 °C min
+−1
+under a H
+2
+/Ar (10 vol% H
+2
+) atmosphere. The resulting sample was labelled as the PtCo
+1
+/MC catalyst. For the PtNi
+1
+/MC and PtFe
+1
+/MC catalysts, Ni(NO
+3
+)
+2
+·6H
+2
+O (9.9 mg, 0.034 mmol) and Fe(NO
+3
+)
+3
+·9H
+2
+O (13.7 mg, 0.034 mmol) were used instead of Co(NO
+3
+)
+2
+·6H
+2
+O, respectively.
+Synthesis of PtCo/MC, PtNi/MC and PtFe/MC catalysts
+MC-supported Pt-based alloy catalysts were prepared following the same procedures as those of the Pt/MC catalyst, in which Co(NO
+3
+)
+2
+·6H
+2
+O (9.9 mg, 0.034 mmol) was additionally introduced into the mixture of H
+2
+PtCl
+6
+·6H
+2
+O aqueous solution (8.0 mg in 5 ml H
+2
+O), deionized water (20 ml) and MC (95 mg). The resulting sample was labelled as the PtCo/MC catalyst. For the PtNi/MC and PtFe/MC catalysts, Ni(NO
+3
+)
+2
+·6H
+2
+O (9.9 mg, 0.034 mmol) and Fe(NO
+3
+)
+3
+·9H
+2
+O (13.7 mg, 0.034 mmol) were used instead of Co(NO
+3
+)
+2
+·6H
+2
+O, respectively.
+Electrode preparation
+The method for the preparation of the cathodic electrode was similar to our previous work
+60
+. Typically, the catalyst (1.0 mg) was suspended in 1 ml acetone with 20 μl Nafion D-521 dispersion (5.0 wt%) to form a homogeneous ink. After that, the resulting ink was spread onto the carbon paper (CP) (1 × 1 cm
+2
+) surface using a micropipette, and then dried in air at room temperature. Before the experiment, all the auxiliary electrodes were sonicated and washed with ethanol and water, and then dried in a N
+2
+atmosphere.
+Electrochemical measurements
+All the electrochemical experiments were conducted on the electrochemical workstation (CHI 660E). All potentials in this work were referenced to Ag/AgCl (refs.
+61
+,
+62
+). The electrolysis experiments were conducted at 25 °C in an H-type cell with a working cathode, a counter anode (platinum mesh) and a reference electrode Ag/AgCl (3.0 M KCl), similar to that used previously
+63
+,
+64
+. All potentials (
+E
+) were converted to the RHE scale via the following equation:
+$$E({\mathrm{RHE}})=E({\mathrm{Ag/AgCl}})+0.20+0.059\times {\mathrm{pH}}.$$
+(1)
+The linear sweep voltammetry curves were measured in the previously mentioned H-type cell. To form a N
+2
+-saturated solution, the electrolyte was bubbled with N
+2
+for 30 min. The electrochemical experiments were performed in the potential range of 0.02 V to −0.20 V (versus RHE) at a desired sweep rate (20 mV s
+−1
+). In these experiments, a Nafion-117 membrane was employed as the proton exchange membrane that separated the cathode and anode compartments, and 25 ml of H
+2
+SO
+4
+aqueous solution (0.5 M) was used as the electrolyte. The proton could be transferred from the anode to the cathode compartment through the Nafion-117 membrane.
+The electrocatalytic reactions were performed in the same experimental system as that mentioned previously. Before the reaction, the electrolyte was also bubbled with N
+2
+for 30 min with stirring. After that, guaiacol (0.2 mmol) was added into the cathodic half-cell. Then the reaction was carried out with a steady stream of N
+2
+(30 ml min
+−1
+) and a stirring speed of 400 rpm at room temperature. Different potentials, electrolytes and electrocatalysts were studied for the establishment of the optimal reaction conditions.
+In situ Raman measurements
+In situ Raman measurements were carried out using a Horiba LabRAM HR Evolution Raman microscope in a modified flow cell (purchased from Gaossunion Technology). The test system of the in situ Raman spectroscopy measurement consisted of an electrolytic cell, an electrochemical workstation, an electrolyte circulation system, a gas carrier system, a peristaltic pump and a signal output device (computer), as shown in Supplementary Fig.
+21
+. An optical microscope was used to accurately locate the catalyst-rich region on the electrode surface. The cathode and anode were separated by an activated Nafion-117 proton exchange membrane. A H
+2
+SO
+4
+aqueous solution (0.5 M) was used as the electrolyte. The glassy carbon and Ag/AgCl electrodes (3.0 M KCl aqueous solution) were employed as the counter and reference electrodes, respectively. The working electrode was a conductive carbon paper covered with the electrocatalyst. Prior to the reaction, the catalyst was activated at a current density of −30 mA cm
+−2
+for 30 min, which could ensure the stability of the surface structure of the catalyst during the test. During the experiment, the in situ Raman system was operated with 30 ml min
+−1
+of carrier gas (N
+2
+or N
+2
+/H
+2
+, 10 vol% H
+2
+) and 30 ml min
+−1
+of electrolyte circulation, on a potential of −0.07 V versus RHE. A 633 nm laser was used, and the signals were recorded using a 30 s integration and by averaging two scans. Then, a Raman spectrometer and computer were used to collect and transmit the Raman signals. In the in situ Raman tests, time-resolved experiments, experiments with power-on/power-off during the reaction, experiments with/without catalysts and other controlled experiments were all studied for the reaction.
+DFT calculation
+All calculations in this work were carried out using the Vienna Ab initio Simulation Package
+65
+, within the generalized gradient approximation, with the exchange–correlation functional of the Perdew–Burke–Ernzerhof functional
+66
+augmented with the dispersion correction D3 proposed by Grimme et al.
+67
+. The interaction between ionic cores and valence electrons was described by the projector augmented-wave method, and a cut-off energy of 400 eV was chosen for the plane-wave expansion. A 3 × 3 × 1 Monkhorst–Pack k-point grid was used for sampling the Brillouin zone. The criterion of energy convergence and force in the system was 10
+−5
+eV and 0.02 eV Å
+–1
+, respectively.
+The optimized lattice constant for bulk Pt was 3.92 Å. The surface slab model of Pt(111) was p(4 × 4). The adsorbates and the two uppermost layers were allowed to relax freely, and the bottom two layers were fixed. A vacuum region of 20 Å was constructed to separate the periodic slab along the
+c
+axis. The model of Pt(111)Co
+1
+is constructed by the substitution of surface Pt atoms by one Co atom on the surface Pt atoms. All possible adsorption configurations of adsorbates on Pt(111) and Pt(111)Co
+1
+were considered in our calculation. The surface of PtCo alloy is represented with the most stable (111) surface of ordered face-centred tetragonal PtCo structures, where the Pt/Co ratio agrees with the experiments. The calculated lattice constant of PtCo face-centred tetragonal bulk using the Perdew–Burke–Ernzerhof functional is 3.75 Å for
+a
+and 3.67 Å for
+c
+, which is very consistent with the experimental
+a
+and
+c
+lattice parameters, which are 3.78 and 3.71 Å (ref.
+68
+), respectively. The surface slab model of PtCo(111) is p(2 × 2) with a vacuum layer of 20 Å along the
+c
+axis. The adsorbates and two uppermost layers were allowed to relax freely, and the bottom two layers were fixed. In addition, a Pt
+38
+cluster on the p(9 × 9) graphene layers, along with a Co single atom on the defective sites, were constructed to represent the active sites on the Pt + Co
+1
+catalyst. To convert the calculated electronic energy of each adsorbate into free energies, we added free-energy corrections for adsorbates, which include the zero-point energy (ZPE), enthalpy and entropy (
+S
+) at 298 K, using the harmonic oscillator approximation. The Gibbs free energy (
+G
+) of adsorbates is given by the following formula:
+G
+=
+E
++ ZPE −
+TS
+. Here,
+E
+is the formation energy of intermediates that can be obtained from DFT calculations; ZPE is the correction of zero-point energy; and
+TS
+is the entropic term at a temperature
+T
+of 298.15 K, which can be calculated based on the vibrational frequencies. Transition states and energy barriers are calculated using the dimer method
+69
+, and each transition state is confirmed to have only one imaginary (negative) vibrational mode. The activation energy (
+E
+a
+) was calculated using the following formula:
+E
+a
+=
+E
+(TS) −
+E
+(IS). Here,
+E
+(TS) and
+E
+(IS) are the calculated energies of the transition state (TS) and initial state (IS) of each elementary step, respectively.
+We used the implicit solvation model to investigate the solvation effect on guaiacol hydrogenation and C–O scission, on the surfaces of Pt(111), PtCo(111), Pt(111)Co
+1
+and Pt + Co
+1
+. For the implicit solvation calculation, we used VASPsol (ref.
+70
+), which is a software package that incorporates a self-consistent continuous solvation model to the Vienna Ab initio Simulation Package. VASPsol has been implemented in electrochemical and heterogeneous catalysis systems
+71
+. VASPsol with default parameter settings and a dielectric constant set to that of water (
+ε
+= 78.4) was used in this work. The calculation for the Gibbs free energy with the applied potential and given pH value in the proton-coupled electron transfer steps was similar to that in previous literature
+35
+, in which the simultaneous addition of hydrogen pairs generates more physical results and a more favourable overall energy landscape. Therefore, we consider 2e
+−
++ 2H
++
+(where e
+–
+is an electron) in the proton-coupled electron transfer steps (for example, R + 2e
+−
++ 2H
++
+= M1). As the potential is applied, the chemical potential of two electrons with an energy shift of −2
+eU
+elec
+is corrected in the Gibbs free energy of each proton-coupled electron transfer step, where
+e
+and
+U
+elec
+are elementary charge and electrode potential, respectively. The pH value in our system is zero, and the influence of pH on the Gibbs free energy can be neglected
+72
+.
+Data availability
+All data supporting the findings of this study are available from the authors on request. The atomic coordinates of the computational models are given in Supplementary Data
+1
+.
+References
+Liao, Y. et al. A sustainable wood biorefinery for low-carbon footprint chemicals production.
+Science
+367
+, 1385–1390 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Sun, Z. et al. Complete lignocellulose conversion with integrated catalyst recycling yielding valuable aromatics and fuels.
+Nat. Catal.
+1
+, 82–92 (2018).
+Article
+CAS
+Google Scholar
+Liu, W. et al. Ambient-pressure and low-temperature upgrading of lignin bio-oil to hydrocarbons using a hydrogen buffer catalytic system.
+Nat. Energy
+5
+, 759–767 (2020).
+Article
+CAS
+Google Scholar
+Bender, T. A., Dabrowski, J. A. & Gagne, M. R. Homogeneous catalysis for the production of low-volume, high-value chemicals from biomass.
+Nat. Rev. Chem.
+2
+, 35–46 (2018).
+Article
+CAS
+Google Scholar
+Qiu, Z. & Li, C. J. Transformations of less-activated phenols and phenol derivatives via C–O cleavage.
+Chem. Rev.
+120
+, 10454–10515 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Jordan, A., Hall, C. G. S., Thorp, L. R. & Sneddon, H. F. Replacement of less-preferred dipolar aprotic and ethereal solvents in synthetic organic chemistry with more sustainable alternatives.
+Chem. Rev.
+122
+, 6749–6794 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Simon, M. O., Girard, S. A. & Li, C. J. Catalytic aerobic synthesis of aromatic ethers from non-aromatic precursors.
+Angew. Chem. Int. Ed.
+51
+, 7537–7540 (2012).
+Article
+CAS
+Google Scholar
+Zhang, Z., Butt, N. A. & Zhang, W. Asymmetric hydrogenation of nonaromatic cyclic substrates.
+Chem. Rev.
+116
+, 14769–14827 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Allen, M. C. et al. Highly selective cross-etherification of 5‑hydroxymethylfurfural with ethanol.
+ACS Catal.
+10
+, 6771–6785 (2020).
+Article
+CAS
+Google Scholar
+Gołąbek, K. et al. Adsorption and catalytic study of cyclopentyl methyl ether formation: structure-activity interplay in medium-pore zeolites.
+Appl. Mater. Today
+28
+, 101505 (2022).
+Article
+Google Scholar
+Yee, K. F., Mohamed, A. R. & Tan, S. H. A review on the evolution of ethyl
+tert
+-butyl ether (ETBE) and its future prospects.
+Renew. Sust. Energ. Rev.
+22
+, 604–620 (2013).
+Article
+CAS
+Google Scholar
+Zhang, K. et al. Selective hydrodeoxygenation of aromatics to cyclohexanols over Ru single atoms supported on CeO
+2
+.
+J. Am. Chem. Soc.
+144
+, 20834–20846 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Luo, Z. et al. Hydrothermally stable Ru/HZSM-5-catalysed selective hydrogenolysis of lignin-derived substituted phenols to bio-arenes in water.
+Green Chem.
+18
+, 5845–5858 (2016).
+Article
+CAS
+Google Scholar
+Jin, X. et al. Metal–support cooperation in Al(PO
+3
+)
+3
+-supported platinum nanoparticles for the selective hydrogenolysis of phenols to arenes.
+Nat. Catal.
+4
+, 312–321 (2021).
+Article
+CAS
+Google Scholar
+Murugappan, K. et al. Operando NAP-XPS unveils differences in MoO
+3
+and Mo
+2
+C during hydrodeoxygenation.
+Nat. Catal.
+1
+, 960–967 (2018).
+Article
+CAS
+Google Scholar
+Fu, N., Sauer, G. S., Saha, A., Loo, A. & Lin, S. Metal-catalyzed electrochemical diazidation of alkenes.
+Science
+357
+, 575–579 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Horn, E. J., Rosen, B. R. & Baran, P. S. Synthetic organic electrochemistry: an enabling and innately sustainable method.
+ACS Cent. Sci.
+2
+, 302–308 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Choi, C. et al. Efficient electrocatalytic valorization of chlorinated organic water pollutant to ethylene.
+Nat. Nanotechnol.
+18
+, 160–167 (2022).
+Article
+PubMed
+Google Scholar
+Akhade, S. A. et al. Electrocatalytic hydrogenation of biomass-derived organics: a review.
+Chem. Rev.
+120
+, 11370–11419 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Sankar, M. et al. Designing bimetallic catalysts for a green and sustainable future.
+Chem. Soc. Rev.
+41
+, 8099–8139 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Du, P. et al. Single-atom-driven dynamic carburization over Pd
+1
+–FeO
+x
+catalyst boosting CO
+2
+conversion.
+Chem
+8
+, 3252–3262 (2022).
+Article
+CAS
+Google Scholar
+Marcella, N. et al. Decoding reactive structures in dilute alloy catalysts.
+Nat. Commun.
+13
+, 832 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Hannagan, R. T., Giannakakis, G., Flytzani-Stephanopoulos, M. & Sykes, E. C. H. Single-atom alloy catalysis.
+Chem. Rev.
+120
+, 12044–12088 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Poerwoprajitno, A. R. et al. A single-Pt-atom-on-Ru-nanoparticle electrocatalyst for CO-resilient methanol oxidation.
+Nat. Catal.
+5
+, 231–237 (2022).
+Article
+CAS
+Google Scholar
+Li, Z. et al. Well-defined materials for heterogeneous catalysis: from nanoparticles to isolated single-atom sites.
+Chem. Rev.
+120
+, 623–682 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Hutchings, G. J. & Kiely, C. J. Strategies for the synthesis of supported gold palladium nanoparticles with controlled morphology and composition.
+Acc. Chem. Res.
+46
+, 1759–1772 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Xie, C. et al. Surface and interface control in nanoparticle catalysis.
+Chem. Rev.
+120
+, 1184–1249 (2019).
+Article
+PubMed
+Google Scholar
+Liu, L. & Corma, A. Metal catalysts for heterogeneous catalysis: from single atoms to nanoclusters and nanoparticles.
+Chem. Rev.
+118
+, 4981–5079 (2018).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zheng, T. et al. Copper-catalysed exclusive CO
+2
+to pure formic acid conversion via single-atom alloying.
+Nat. Nanotechnol.
+16
+, 1386–1393 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Ro, I. et al. Bifunctional hydroformylation on heterogeneous Rh-WO
+x
+pair site catalysts.
+Nature
+609
+, 287–292 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Guo, Y. et al. Ensemble effect for single-atom, small cluster and nanoparticle catalysts.
+Nat. Catal.
+5
+, 766–776 (2022).
+Article
+CAS
+Google Scholar
+Liu, G. et al. MoS
+2
+monolayer catalyst doped with isolated Co atoms for the hydrodeoxygenation reaction.
+Nat. Chem.
+9
+, 810–816 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Zhou, Y. L. et al. Electrocatalytic upgrading of lignin-derived bio-oil based on surface-engineered PtNiB nanostructure.
+Adv. Funct. Mater.
+29
+, 1807651 (2019).
+Article
+Google Scholar
+Wu, R. et al. Electrochemical strategy for the simultaneous production of cyclohexanone and benzoquinone by reaction of phenol and water.
+J. Am. Chem. Soc.
+144
+, 1556–1571 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Peng, T. et al. Ternary alloys enable efficient production of methoxylated chemicals via selective electrocatalytic hydrogenation of lignin monomers.
+J. Am. Chem. Soc.
+143
+, 17226–17235 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, G. H. et al. Nitrogen-doped ordered mesoporous carbon supported bimetallic PtCo nanoparticles for upgrading of biophenolics.
+Angew. Chem. Int. Ed.
+55
+, 8850–8855 (2016).
+Article
+CAS
+Google Scholar
+Resasco, J. et al. Relationship between atomic scale structure and reactivity of Pt catalysts: hydrodeoxygenation of
+m
+-cresol over isolated Pt cations and clusters.
+ACS Catal.
+10
+, 595–603 (2019).
+Article
+Google Scholar
+Li, M. F. et al. Single-atom tailoring of platinum nanocatalysts for high-performance multifunctional electrocatalysis.
+Nat. Catal.
+2
+, 495–503 (2019).
+Article
+CAS
+Google Scholar
+Lee, H. et al. Boosting hot electron flux and catalytic activity at metal–oxide interfaces of PtCo bimetallic nanoparticles.
+Nat. Commun.
+9
+, 2235 (2018).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Hu, G., Shang, L., Sheng, T., Chen, Y. & Wang, L. PtCo@NCs with short heteroatom active site distance for enhanced catalytic properties.
+Adv. Funct. Mater.
+30
+, 2002281 (2020).
+Article
+CAS
+Google Scholar
+Zhang, J. et al. Novel (Pt-O
+x
+)-(Co-O
+y
+) nonbonding active structures on defective carbon from oxygen-rich coal tar pitch for efficient HER and ORR.
+Adv. Mater.
+34
+, 2206960 (2022).
+Article
+CAS
+Google Scholar
+Zhao, Y. et al. Modulating Pt-O-Pt atomic clusters with isolated cobalt atoms for enhanced hydrogen evolution catalysis.
+Nat. Commun.
+13
+, 2430 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Yang, W. Tuning the cobalt–platinum alloy regulating single-atom platinum for highly efficient hydrogen evolution reaction.
+Adv. Funct. Mater.
+32
+, 2205920 (2022).
+Article
+CAS
+Google Scholar
+Shen, X. J. et al. Selective catalytic transformation of lignin with guaiacol as the only liquid product.
+Chem. Sci.
+11
+, 1347–1352 (2020).
+Article
+CAS
+Google Scholar
+Wijaya, Y. P. et al. Electrocatalytic hydrogenation and depolymerization pathways for lignin valorization: toward mild synthesis of chemicals and fuels from biomass.
+Green Chem.
+22
+, 7233–7264 (2020).
+Article
+CAS
+Google Scholar
+Wang, M. et al. Electrocatalytic hydrogenation of lignin monomer to methoxy-cyclohexanes with high faradaic efficiency.
+Green Chem.
+24
+, 142–146 (2022).
+Article
+CAS
+Google Scholar
+Wijaya, Y. P. et al. Hydrodeoxygenation of lignin related phenolic monomers in polar organic electrolyte
+via
+electrocatalysis in a stirred slurry catalytic reactor.
+Green Chem.
+24
+, 7469–7480 (2022).
+Article
+CAS
+Google Scholar
+Wijaya, Y. P. et al. Guaiacol hydrogenation in methanesulfonic acid using a stirred slurry electrocatalytic reactor: mass transport and reaction kinetics aspects.
+ACS Sustain. Chem. Eng.
+9
+, 13164–13175 (2021).
+Article
+CAS
+Google Scholar
+Wijaya, Y. P. et al. Synergistic effects between electrocatalyst and electrolyte in the electrocatalytic reduction of lignin model compounds in a stirred slurry reactor.
+J. Appl. Electrochem.
+51
+, 51–63 (2021).
+Article
+CAS
+Google Scholar
+Wijaya, Y. P. et al. Electrocatalytic hydrogenation of guaiacol in diverse electrolytes using a stirred slurry reactor.
+ChemSusChem
+13
+, 629–639 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Tao, F., Zhang, S., Nguyen, L. & Zhang, X. Action of bimetallic nanocatalysts under reaction conditions and during catalysis: evolution of chemistry from high vacuum conditions to reaction conditions.
+Chem. Soc. Rev.
+41
+, 7980–7993 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Nagasawa, K. et al. Effect of the cathode catalyst loading on mass transfer in toluene direct electrohydrogenation.
+J. Electroanal. Chem.
+938
+, 117431 (2023).
+Article
+CAS
+Google Scholar
+Li, L. G. et al. Metallic nanostructures with low dimensionality for electrochemical water splitting.
+Chem. Soc. Rev.
+49
+, 3072–3106 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Mondelli, C., Gozaydin, G., Yan, N. & Perez-Ramirez, J. Biomass valorisation over metal-based solid catalysts from nanoparticles to single atoms.
+Chem. Soc. Rev.
+49
+, 3764–3782 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Herington, E. F. G. Vapour-liquid equilibrium relationships in extractive distillation.
+Nature
+170
+, 935 (1952).
+Article
+CAS
+Google Scholar
+Luo, H. T. et al. Comparison of pressure-swing distillation and extractive distillation methods for isopropyl alcohol/diisopropyl ether separation.
+Ind. Eng. Chem. Res.
+53
+, 15167–15182 (2014).
+Article
+CAS
+Google Scholar
+Sudarsanam, P. et al. Advances in porous and nanoscale catalysts for viable biomass conversion.
+Chem. Soc. Rev.
+48
+, 2366–2421 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Ragauskas, A. J. et al. Lignin valorization: improving lignin processing in the biorefinery.
+Science
+344
+, 1246843 (2014).
+Article
+PubMed
+Google Scholar
+Zhang, J. et al. Cation vacancy stabilization of single-atomic-site Pt
+1
+/Ni(OH)
+x
+catalyst for diboration of alkynes and alkenes.
+Nat. Commun.
+9
+, 1002 (2018).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Yang, D. et al. Electrosynthesis of a defective indium selenide with 3D structure on a substrate for tunable CO
+2
+electroreduction to syngas.
+Angew. Chem. Int. Ed.
+59
+, 2354–2359 (2020).
+Article
+CAS
+Google Scholar
+Huang, J. et al. CO
+2
+electrolysis to multicarbon products in strong acid.
+Science
+372
+, 1074–1078 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Oener, S. Z., Foster, M. J. & Boettcher, S. W. Accelerating water dissociation in bipolar membranes and for electrocatalysis.
+Science
+369
+, 1099–1103 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, D. et al. Atomically dispersed platinum supported on curved carbon supports for efficient electrocatalytic hydrogen evolution.
+Nat. Energy
+4
+, 512–518 (2019).
+Article
+CAS
+Google Scholar
+Liu, J. et al. Selective epitaxial growth of Rh nanorods on 2H/
+fcc
+heterophase Au nanosheets to form 1D/2D Rh–Au heterostructures for highly efficient hydrogen evolution.
+J. Am. Chem. Soc.
+143
+, 4387–4396 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for
+ab initio
+total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865 (1996).
+Article
+CAS
+PubMed
+Google Scholar
+Grimme, S., Antony, J., Ehrlich, S. & Krieg, H. A consistent and accurate
+ab initio
+parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu.
+J. Chem. Phys.
+132
+, 154104 (2010).
+Article
+PubMed
+Google Scholar
+Xiong, L. & Manthiram, A. Effect of atomic ordering on the catalytic activity of carbon supported PtM (M = Fe, Co, Ni, and Cu) alloys for oxygen reduction in PEMFCs.
+J. Electrochem. Soc.
+152
+, A697–A703 (2005).
+Article
+CAS
+Google Scholar
+Olsen, R. A., Kroes, G. J., Henkelman, G., Arnaldsson, A. & Jonsson, H. Comparison of methods for finding saddle points without knowledge of the final states.
+J. Chem. Phys.
+121
+, 9776–9792 (2004).
+Article
+CAS
+PubMed
+Google Scholar
+Mathew, K., Sundararaman, R., Letchworth-Weaver, K., Arias, T. A. & Hennig, R. G. Implicit solvation model for density-functional study of nanocrystal surfaces and reaction pathways.
+J. Chem. Phys.
+140
+, 084106 (2014).
+Article
+PubMed
+Google Scholar
+Gauthier, J. A., Dickens, C. F., Chen, L. D., Doyle, A. D. & Nørskov, J. K. Solvation effects for oxygen evolution reaction catalysis on IrO
+2
+(110).
+J. Phys. Chem. C
+121
+, 11455–11463 (2017).
+Article
+CAS
+Google Scholar
+Koper, M. T. M. Theory of multiple proton–electron transfer reactions and its implications for electrocatalysis.
+Chem. Sci.
+4
+, 2710–2723 (2013).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This work was supported financially by the National Key Research and Development Program of China (2022YFA1504903) and the National Natural Science Foundation of China (22222814, 22073105, 22293015, 21972146, 22293012 and 22121002). We thank the Beijing Synchrotron Radiation Facility (BSRF) for the EXAFS measurements.
+Author information
+Authors and Affiliations
+Beijing National Laboratory for Molecular Sciences, CAS Laboratory of Colloid and Interface and Thermodynamics, CAS Research/Education Center for Excellence in Molecular Sciences, Center for Carbon Neutral Chemistry, Institute of Chemistry, Chinese Academy of Sciences, Beijing, China
+Ruizhi Wu, Qinglei Meng, Jiang Yan, Zhanrong Zhang, Bingfeng Chen, Huizhen Liu & Buxing Han
+School of Chemical Science, University of Chinese Academy of Sciences, Beijing, China
+Ruizhi Wu, Huizhen Liu & Buxing Han
+Center for Physicochemical Analysis and Measurement, Chinese Academy of Sciences, Beijing, China
+Jing Tai
+Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China
+Guikai Zhang, Lirong Zheng & Jing Zhang
+Shanghai Key Laboratory of Green Chemistry and Chemical Processes, State Key Laboratory of Petroleum Molecular & Process Engineering, School of Chemistry and Molecular Engineering, East China Normal University, Shanghai, China
+Buxing Han
+Authors
+Ruizhi Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qinglei Meng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiang Yan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhanrong Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bingfeng Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Huizhen Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jing Tai
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Guikai Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lirong Zheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jing Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Buxing Han
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Q.M. and B.H. conceived and coordinated all stages of this research. R.W., Q.M. and B.H. wrote the manuscript. R.W. and Q.M. conducted all of the experimental work. J.Y., Z.Z., B.C., H.L., J.T., G.Z., L.Z. and J.Z. assisted with XRD, scanning electron microscopy, NMR, TEM and EXAFS measurements. All authors discussed the results and contributed to the final manuscript.
+Corresponding authors
+Correspondence to
+Qinglei Meng
+or
+Buxing Han
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks Elod Gyenge Ziyun Wang and Wu Lan for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–42, Tables 1 and 2 and Methods.
+Supplementary Data 1
+Atomic coordinates of the initial and final configurations in the DFT calculations.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Wu, R., Meng, Q., Yan, J.
+et al.
+Intermetallic synergy in platinum–cobalt electrocatalysts for selective C–O bond cleavage.
+Nat Catal
+7
+, 702–718 (2024). https://doi.org/10.1038/s41929-024-01165-w
+Download citation
+Received
+:
+27 May 2023
+Accepted
+:
+19 April 2024
+Published
+:
+28 May 2024
+Issue Date
+:
+June 2024
+DOI
+:
+https://doi.org/10.1038/s41929-024-01165-w
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

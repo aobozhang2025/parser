@@ -1,0 +1,53 @@
+Catalyst preparation
+The Au
+1
+–O
+x
+–Na
+9
+–(OH)
+y
+/TiO
+2
+catalysts were made by IWI of a solution prepared as detailed below. Gold loadings of 0.5, 1.0 and 1.5 wt% were prepared by a single-step IWI of the designed amount of the gold solution. To prepare the solution, the proper amount of Au(OH)
+3
+powder was suspended in 30 ml of H
+2
+O with O
+2
+sparging and heated to 80 °C. NaOH powder (atomic ratio of Au:Na = 1:9) was added into the slurry at the same temperature. The mixture was refluxed at 80 °C overnight to obtain a transparent solution (colourless at lower concentrations to light yellow at higher concentrations). The Au
+1
+–O
+x
+–Na
+9
+–(OH)
+y
+/TiO
+2
+catalysts were prepared by IWI of the gold solution at RT in air. The solution was concentrated by heating followed by drying at 200 °C with N
+2
+protection, and then the sample was further dried in vacuum overnight at 80 °C.
+Catalytic tests
+The dynamic temperature-programmed and the steady-state activity tests of the non-oxidative methanol self-coupling were carried out in a fixed-bed quartz microreactor (6 mm outer diameter, 4 mm inner diameter) at atmospheric pressure. CH
+3
+OH (10 vol%) balanced with He was used as the reactant gas with 20 ml min
+–1
+flow rate to pass through the catalyst bed, which consisted of 200 mg of catalyst and 400 mg of quartz, with a 5 °C min
+–1
+ramping rate. For the kinetic study, the conversion of methanol was controlled in the range 10–18 %. As MF has fragments of
+m
+/
+z
+= 32, 31, 29 and 28, the same as the cracking pattern of methanol in mass spectrometry,
+m
+/
+z
+= 60 was used as the distinct signal of MF.
+DFT calculations
+AIMD simulations were carried out in two stages, cooking and quenching. Cooking was simulated with the canonical ensemble using a Nosé–Hoover thermostat
+11
+,
+12
+, a time step of 1 fs and 2,000 ionic steps for a total duration of 2 ps and at a temperature of 500 K. The quench stage allowed for the decrease of kinetic energy by decreasing the temperature according to the following equation: temperature = beginning temperature + (ending temperature – beginning temperature) × (number of the current step)/(total number of ionic steps). Our beginning temperature was 500 K (to simulate the reaction temperature) and our ending temperature was 300 K (RT). In each step, a microcanonical ensemble was simulated. Similar to the cooking stage, the quench stage employed a time step of 1 fs with 2,000 ionic steps to give a total duration of 2 ps. This theoretical set-up allowed us to sample a vast variety of structures along simulation trajectories that were able to surpass energy barriers between local minima of energy. The configurations that corresponded to energy minima from the quench stage were used as the input for standard DFT energy minimization calculations, and occasionally they equilibrated into more stable structures than the starting configurations fed to the AIMD simulation stages.
+Data availability

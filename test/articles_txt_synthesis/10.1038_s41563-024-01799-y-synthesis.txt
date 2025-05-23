@@ -1,0 +1,92 @@
+synthesis of high-performance ADCs. We show that light irradiation on reducible oxides leads to the accumulation of negative surface charges under the photocatalytic hydrogen evolution reaction (HER) condition, which induce the migration of bulk V
+O
+s to form reactive surface sites (namely, Ti
+3+
+–V
+O
+pairs), subsequently enabling the selective coordination and reductive deposition of metal atoms through specific interactions. The developed method for tuning photochemical surface defects can produce diverse dynamically stabilized atomic (DSA) catalysts with various supports, including various reducible oxides such as TiO
+2
+, ZnO and CeO
+2
+, and catalytically active transition metals including Pt, Ir and Cu. The utility of our synthesis method is further manifested by the optimized Pt atom catalyst on TiO
+2
+(Pt-DSA/TiO
+2
+), which exhibits unparalleled reactivity for the photocatalytic H
+2
+evolution of 164 mmol g
+−1
+h
+−1
+as well as the photoreforming of non-recyclable plastic (poly(ethylene terephthalate) (PET)) with an extraordinary total conversion of 98%.
+Computational study of Pt-DSA/TiO
+2
+formation process
+At the outset of this study, we examined the mechanistic feasibility of the photochemical-defect-tuning strategy. We chose anatase TiO
+2
+as a model oxide system and investigated its defect dynamics on the synthesis of corresponding ADCs using density functional theory (DFT) calculations (Fig.
+1
+). The computational results suggest that after light irradiation, the migration of bulk V
+O
+s to the surface is accompanied by a change in the oxidation states of adjacent Ti sites, which is expected to be thermodynamically favourable and kinetically competent (Fig.
+1a
+, left). The spin density calculation also predicts the generation of a four-coordinated Ti
+3+
+site (4cTi) next to the migrated V
+O
+s, featured by its high spin density with the corresponding magnetic moment (0.71
+μ
+B
+) (Fig.
+1a
+, middle). The induced 4cTi site can then function as a reactive centre for the adsorption of a Pt
+4+
+precursor followed by surface reconstruction (Fig.
+1a
+, right). The incorporation of Pt on the 4cTi site is expected to be highly favourable (−1.96 eV), showing its strong thermodynamic preference to other Pt incorporation events on different sites with the same surface V
+O
+s (Fig.
+1b
+). Considering the cohesion energy of a bulk Pt
+0
+state from a Pt
+4+
+ion (+1.52 eV), the formation of the Pt-DSA state on the 4cTi site should outcompete the agglomeration of Pt atoms. On the basis of these theoretical guideposts, we propose a simplified mechanistic scheme for the photoinduced synthesis of ADCs on TiO
+2
+. After light irradiation, excessive photoexcited electrons can be trapped at the surface sites under the photocatalytic HER condition, inducing the migration of bulk V
+O
+s to form surface Ti
+3+
+–V
+O
+pairs. These Ti
+3+
+–V
+O
+pairs would be highly reactive for the selective binding of metal atoms through specific metal atom–support interactions, where the localized electrons would drive surface reconstruction for formulating stable ADCs.
+Fig. 1: DFT simulation of Ti
+3+
+formation at V
+O
+.
+a
+, Thermodynamics of the migration of V
+O
+s to the surface and Pt adsorption by the reorganization of surface Ti ions (changes in Gibbs free energy from the leftmost structure, in electronvolts). The corresponding structures with spin density plots (yellow) and V
+O
+sites (blue circles) (bottom).
+b
+, Formation energy of Pt-DSA, namely,
+E
+f
+(Pt-DSA/TiO
+2
+), at various sites shown in the top, compared with bulk Pt
+0
+cohesion from precursor Pt
+4+
+ions. Three possible adsorption sites (bridge, hollow and 4cTi) are considered after the formation of surface V
+O
+s (the first structure, top). Methods provides more information on the calculation. Colour legends: blue, Ti; red, O; grey, Pt.
+Full size image
+EPR study and

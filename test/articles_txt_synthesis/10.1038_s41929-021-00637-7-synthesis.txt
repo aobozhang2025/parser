@@ -1,0 +1,144 @@
+Catalyst preparation
+A solution of Zn(NO
+3
+)
+2
+·6H
+2
+O (5.58 g) in 150 ml methanol was added to a solution of 2-methylimidazole (6.16 g) in 150 ml methanol. After stirring at room temperature for 24 h, the obtained ZIF-8 precipitates were collected by centrifugation and dried in vacuum at 80 °C. Subsequently, the obtained ZIF-8 (600 mg) powder was dispersed in 100 ml methanol to which was added a methanol solution of iridium(
+iv
+) chloride (1 mg ml
+−1
+, 7.08 ml). To this iridium-containing solution was added a mixture of 4,4′-sulfonyldiphenol (800 mg) and phosphonitrilic chloride trimer (375 mg) in 250 ml methanol. After vigorous stirring for 15 min, 3 ml triethylamine was added. The resulting mixture was stirred for 15 h, and the as-obtained ZIF-8/Ir@PZS precipitates were separated by centrifugation and dried in vacuum at 80 °C. The as-obtained ZIF-8/Ir@PZS was placed in a quartz boat and then maintained at 950 °C for 3 h in a tube furnace with a heating rate of 5 °C min
+−1
+under a flowing argon atmosphere. After allowing it to cool to room temperature, the as-prepared sample of Ir-SA was collected and used without further treatment.
+XAFS data analysis details
+The acquired EXAFS data were processed according to the standard procedure using the ATHENA module implemented in the IIRFFIT software packages. The EXAFS spectra were collected by subtracting the post-edge background from the overall absorption and then normalizing with respect to the edge-jump step. Then, the
+χ
+(
+k
+) data of the Ir L
+3
+-edge were Fourier transformed to real (R) space using a Hanning window (
+dk
+= 1.0 Å
+−1
+) to separate the EXAFS contributions from different coordination shells. To obtain the quantitative structural parameters around central atoms
+60
+, we performed least-squares curve parameter fitting by using the ARTEMIS module of the IIRFFIT software packages. The following EXAFS equation was used:
+$$\begin{array}{l}\chi \left( k \right) = \mathop {\sum}\limits_j {\frac{{N_jS_0^2F_j\left( k \right)}}{{k\,R_j^2}}} \exp \left[ { - 2\,k^2\sigma _j^2} \right]\exp \left[ {\frac{{ - 2\,R_j}}{{\lambda \left( k \right)}}} \right]\\ \sin \left[ {2k\,R_j + \phi _j\left( k \right)} \right]\end{array}$$
+(1)
+In equation (
+1
+)
+\(S_0^2\)
+is the amplitude reduction factor,
+F
+j
+(
+k
+)
+is
+the effective curved-wave backscattering amplitude,
+N
+j
+is the number of neighbours in the
+j
+th atomic shell,
+R
+j
+is the distance between the X-ray absorbing central atom and the atoms in the
+j
+th atomic shell (backscatterer),
+λ
+is the mean free path in Å,
+σ
+j
+is the Debye–Waller parameter of the
+j
+th atomic shell (variation of distances around the average
+R
+j
+) and
+ϕ
+j
+(
+k
+) is the phase shift (including the phase shift for each shell and the total central atom phase shift). The functions
+F
+j
+(
+k
+),
+λ
+and
+ϕ
+j
+(
+k
+) were calculated with the ab initio code FEFF8.2
+61
+.
+General procedure for selective O–H carbenoid insertion
+In a glovebox, diazo ester
+1X
+(0.10 mmol, 2.0 equiv.) and alcohol
+2Y
+(0.05 mmol, 1.0 equiv.) were added sequentially to a suspension of Ir-SA (0.50 mol%) in 1,2-dichloroethane (0.50 ml) in a two-dram vial. The reaction vial was sealed and stirred at 60 °C for 20 h. After cooling to room temperature, the volatiles were removed by rotary evaporation and the obtained crude mixture was purified by silica gel flash chromatography using petroleum ether and EtOAc as eluents. The molar ratio of products was determined by
+1
+H-NMR spectroscopy.
+Computational methods
+DFT calculations were conducted using the Vienna Ab initio Simulation Package with the revised Perdew–Burke–Ernzerhof
+62
+performing the generalized gradient approximation. A 8 × 8 single-layer graphene with 15 Å vacuum space was built to describe the model of Ir-SA, where the Ir atom was stabilized by four N atoms and the surface was also doped with S and P atoms (Supplementary Fig.
+32a
+). A Monkhorst–Pack
+k
+-point 2 × 2 × 1 was used in all the calculations for Ir-SA. The reaction over Ir(ttp)COCl catalyst was calculated in a large supercell with a lattice of 20 × 20 × 20 Å
+3
+to avoid interactions in the periodic calculations, where a Monkhorst–Pack
+k
+-point 1 × 1 × 1 was used (Supplementary Fig.
+32b
+). Ir–porphyrin (Supplementary Fig.
+33a
+) was employed in DFT studies of the catalytic reaction using Ir(ttp)COCl (Supplementary Fig.
+33b
+) due to the large computational costs. The calculated adsorption energy of carbene (C
+6
+H
+5
+CCOOCH
+3
+) to these two structures displayed only a small difference (0.07 eV), which supports the reliability of the model constructed using Ir–porphyrin (Supplementary Table
+5
+). A 400 eV cut-off energy was set for the plane-wave basis set. Structure optimizations were performed with the convergence force of 0.05 eV Å
+−1
+, and all the transition states were obtained using the climbing image nudged elastic band method
+63
+with the convergence force smaller than 0.1 eV Å
+−
+1
+.
+Free energy corrections
+Free energy corrections were conducted in this work to simulate the reaction conditions at 333 K (ref.
+64
+). Standard free energy corrections were performed by the equation:
+$${\Delta}{{G = }}{\Delta}{{E}}_{{\mathrm{DFT}}} + {\Delta}{{E}}_{{\mathrm{ZPE}}} + {\Delta}{{E}}_{\mathrm{U}} - {{T}}{\Delta}{{S}}$$
+(2)
+where Δ
+E
+DFT
+refers to the electronic energy from DFT calculations. Δ
+E
+ZPE
+, Δ
+E
+U
+and Δ
+S
+are the corrections for zero-point energy, inner energy and entropy, respectively. Only vibrational motion was considered for adsorbates on the surface of catalysts, while translational, rotational and vibrational motions were all considered for gas molecules. The detail of the correction, including adsorbates, transition states and gas molecules, is displayed in Supplementary Table
+6
+.
+Data availability
+Data relating to the

@@ -1,0 +1,2186 @@
+Surface molecular imprinting over supported metal catalysts for size-dependent selective hydrogenation reactions | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Surface molecular imprinting over supported metal catalysts for size-dependent selective hydrogenation reactions
+Download PDF
+Article
+Published:
+15 July 2021
+Surface molecular imprinting over supported metal catalysts for size-dependent selective hydrogenation reactions
+Dan Wu
+1
+,
+2
+,
+Walid Baaziz
+ORCID:
+orcid.org/0000-0002-3749-6105
+3
+,
+Bang Gu
+2
+,
+Maya Marinova
+4
+,
+Willinton Y. Hernández
+1
+,
+Wenjuan Zhou
+1
+,
+Evgeny I. Vovk
+5
+,
+Ovidiu Ersen
+ORCID:
+orcid.org/0000-0002-1553-0915
+3
+,
+Olga V. Safonova
+ORCID:
+orcid.org/0000-0002-6772-1414
+6
+,
+Ahmed Addad
+4
+,
+Nicolas Nuns
+4
+,
+Andrei Y. Khodakov
+ORCID:
+orcid.org/0000-0003-4599-3969
+2
+&
+…
+Vitaly V. Ordomsky
+ORCID:
+orcid.org/0000-0002-4814-5052
+2
+Show authors
+Nature Catalysis
+volume
+4
+,
+pages
+595–606 (
+2021
+)
+Cite this article
+6658
+Accesses
+20
+Altmetric
+Metrics
+details
+Subjects
+Heterogeneous catalysis
+Nanoparticles
+Surface assembly
+Abstract
+Molecular imprinting of polymer matrices enables the creation of template-shaped cavities with high affinity for molecules of given shape and size. Here we introduce a surface molecular imprinting strategy to control the hydrogenation selectivity of various aromatic molecules over a supported palladium catalyst. This strategy involves the sequential adsorption over the metal surface of an aromatic template molecule followed by poisoners, resulting in the formation of non-poisoned active islands of predetermined shape and size. Because of steric constraints, these active islands exhibit high selectivity in the chemical conversion of aromatic molecules that correspond in size and shape to the templates. The elaborated strategy enables a practical application relevant to selective hydrogenation and removal of carcinogenic benzene from mixtures of aromatics.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Harnessing strong metal–support interactions via a reverse route
+Article
+Open access
+16 June 2020
+Immobilization of molecular catalysts on electrode surfaces using host–guest interactions
+Article
+25 March 2021
+Electronic modulation of metal-support interactions improves polypropylene hydrogenolysis over ruthenium catalysts
+Article
+Open access
+03 September 2022
+Main
+In heterogeneous catalysis one of the main challenges is insufficient selectivity of target products, which requires additional energy consumption for separation and processing of the by-products, and increases the cost of the product
+1
+,
+2
+. Limited selectivity can result from low specificity in the interaction between the active site and reagent, leading to undesirable side reactions
+3
+.
+Several approaches have been proposed to improve the selectivity of heterogeneous catalytic reactions. Zeolite materials with well-defined pore structures represent a well-known example
+4
+,
+5
+. The uniform and rigid pores and cavities within the zeolite lattice enable shape-selectivity effects for both reactants and products. In addition to zeolites, metal–organic frameworks have also attracted a lot of interest in heterogeneous catalysis due to their unique pore structure
+6
+. Although porous materials can address some of the selectivity problems by optimization of the pore architecture, limits exist on the tunability of this class of materials. The variation in micropore sizes has only been achieved in a narrow range (0.2–2 nm). Control of selectivity via pore shape is therefore not suitable for all classes of molecules. In addition, the catalyst porous structure introduces diffusion limitations and increases the residence time for the intermediates and products, thereby favouring unwanted secondary reactions
+7
+.
+Recently, bulk molecular imprinting techniques have emerged as a powerful strategy for the development of sensors, adsorbents and new catalysts
+8
+,
+9
+. For example, molecularly imprinted polymers with predetermined recognition sites in polymeric matrices have been developed by using template molecules and functional monomers that can polymerize around them
+10
+. After removing the template molecules, the resultant molecularly imprinted polymers create predetermined cavities (pockets) in a polymer matrix with specific sizes and shapes corresponding to the template molecules. However, similar to porous materials, molecularly imprinted polymer catalysts with recognition cavities inside the organic or inorganic matrix suffer from diffusion problems.
+Surface molecular imprinting is one of the solutions to enhance the diffusion rate
+11
+,
+12
+. It was reported recently that molecularly imprinted sieve-layers could be produced on the surface of TiO
+2
+by atomic layer deposition. This imprinted TiO
+2
+catalyst showed a size-dependent reactivity towards less hindered reactants in photocatalytic oxidations and transfer hydrogenation reactions
+12
+.
+Metal-supported heterogeneous catalysts are the most widely used materials in the chemical industry for hydrogenation, dehydrogenation, oxidation and amination reactions due to their high catalytic activity, easy separation from the products and relatively low cost
+13
+. The creation of surface recognition active islands via molecular imprinting over the surface of metal catalysts could be seen as an efficient strategy to enhance selectivity
+11
+. The key challenge for adapting molecular imprinting strategies for metal catalysts relates to the uncontrolled distribution of poisoners on the metallic surface
+14
+,
+15
+,
+16
+. Pang et al. have reported the modification of palladium metal surface with different organic thiols (1-octadecanethiol and 1-adamantanethiol). The density of the self-assembled thiol monolayers was controlled by bulk organic tail ligands
+17
+. The selectivity in the furfural hydrogenation reactions was strongly affected by the pretreatment. Liu et al. have modified platinum nanoparticles with Co
+3
+O
+4
+by area-selective atomic layer deposition
+18
+. By using 1-octadecanethiol as the sacrificial blocking agent (poisoner), Co
+3
+O
+4
+nanotraps were produced on the surface of the platinum nanoparticles. The resulting catalysts have shown high activity and sintering resistance during CO oxidation. Although several methods have been proposed to control the distribution of blocking agents on the metal surface, the creation of recognition areas remains a challenge.
+The key step in molecular imprinting over the metal surface is the selective poisoning process. An optimal poisoner should have strong coordination with metal, low mobility and provide steric hindrance to prevent the adsorption of reactant molecules on the poisoned surface. Additionally, the poisoner should have a low or moderate influence on the electronic properties of metal nanoparticles and should not infiltrate into the metal lattice. Although non-metallic poisoners such as iodine and sulfur interact strongly with metals, they change the electronic properties of metal nanoparticles
+14
+,
+19
+,
+20
+. Also, sulfur has been reported to migrate and infiltrate into metal nanoparticles, resulting in the generation of bulk metal sulfide
+19
+.
+In this article we propose a surface molecular imprinting strategy that enhances greatly the selectivity of heterogeneously catalysed chemical reactions. Imprinted palladium catalysts on which active islands were created have been produced by a sequential adsorption over the palladium surface of an aromatic template molecule followed by poisoners. These active islands are reactive for the transformation of aromatic molecules that have structures similar to those of the template molecules. The imprinted palladium catalysts with benzene as a template show a clear preference for benzene hydrogenation compared with other aromatics, indicating potential application relevant to the selective hydrogenation of carcinogenic benzene in a mixture of aromatics. This molecular imprinting strategy on the metal surface opens a way for the preparation of a smart catalytic surface for numerous selective processes.
+Results
+Poisoning of the supported Pd/SiO
+2
+catalysts by dimethylaminopropylamine
+The strategy of molecular imprinting is illustrated by several selective hydrogenation reactions occurring over supported palladium catalysts. The proposed concept is shown in Fig.
+1
+. Dimethylaminopropylamine (DMAPA), which has high basicity and the ability to coordinate with palladium nanoparticles via nitrogen, was used as a poisoner
+21
+,
+22
+. The carbon tails of DMAPA create steric hindrances on the poisoned surface and suppress the interaction of the molecules with the metal surface
+23
+. After the first step of cleaning and reduction, the surface of the palladium catalyst is subjected to the adsorption of a template molecule (for example, benzene). The residual palladium surface still available after template adsorption is deactivated by interaction with DMAPA, which strongly coordinates on the palladium surface. During this step, the palladium sites covered by the template are protected and therefore are not expected to react with the poisoner. After deactivation, the adsorbed templates will be removed from the surface, creating active islands, whereas the DMAPA poisoner remains on the surface. Finally, an imprinted palladium catalyst on which active islands are created is produced.
+Fig. 1: Illustration of the molecular imprinting strategy over a palladium surface.
+A non-selective palladium surface is programmed by a molecular imprinting strategy that involves the sequential adsorption over the metal surface of an aromatic template molecule followed by poisoning with DMAPA. The resultant imprinted palladium surface contains non-poisoned active islands with predetermined shape and size and exhibits high reactivity in the hydrogenation of aromatic molecules that correspond to the templates in terms of size and shape.
+Full size image
+First, to investigate the poisoning effect of DMAPA, a Pd/SiO
+2
+(10 wt% Pd loading) catalyst was reduced in hydrogen at 200 °C and then treated with DMAPA vapour at 80 °C in a fixed-bed reactor (Supplementary Fig.
+1
+). The catalytic properties of the poisoned palladium catalyst were examined by performing liquid-phase hydrogenation of toluene in a batch reactor. The activity of the poisoned catalyst (D-Pd/SiO
+2
+) towards toluene hydrogenation was completely suppressed by DMAPA (Fig.
+2a
+)
+24
+. Notably, no leaching and decomposition of DMAPA was observed under the reaction conditions (Supplementary Fig.
+2
+). Figure
+2b
+shows the H
+2
+chemisorption on the initial Pd/SiO
+2
+and DMAPA-poisoned D-Pd/SiO
+2
+catalysts. The H
+2
+uptake over Pd/SiO
+2
+is 0.077 mmol g
+−1
+, which corresponds to 0.154 mmol of surface palladium per gram of catalyst, assuming a H:Pd ratio equal to 1 (Supplementary Table
+1
+and Fig.
+2
+). However, after poisoning with DMAPA, D-Pd/SiO
+2
+shows no H
+2
+uptake, indicating total poisoning of Pd by DMAPA in agreement with the catalytic results. Fourier transform infrared (FTIR) spectroscopy also shows no CO adsorption over the D-Pd/SiO
+2
+catalyst (Fig.
+3f
+).
+Fig. 2: Catalytic performance and characterizations.
+a
+, Toluene hydrogenation over Pd/SiO
+2
+and D-Pd/SiO
+2
+.
+b
+, H
+2
+pulse. TCD, thermal conductivity detector.
+c
+, N 1
+s
+XPS analysis.
+d
+, FTIR spectra for Pd/SiO
+2
+and D-Pd/SiO
+2
+catalysts.
+e
+, Solid-state NMR.
+f
+, ToF-SIMS for D-Pd/SiO
+2
+catalyst. Reaction conditions: 50 mg Pd/SiO
+2
+catalyst, 100 mg toluene, 5 g
+n
+-decane, 20 bar H
+2
+, 120 °C, 1 h. Catalytic reactions were performed three times. The error bars represent the s.d. The relative s.d. is within 5%. DMAPA demonstrates strong deactivation of palladium by dehydrogenation of DMAPA and bonding between the imine group and Pd atoms.
+Source data
+Full size image
+Fig. 3: FTIR studies of the imprinted Pd/SiO
+2
+catalyst.
+a
+–
+d
+, Illustration of the preparation procedure, showing adsorption of toluene (
+a
+), poisoning by DMAPA (
+b
+), removal of toluene (
+c
+) and removal of hydrogen (
+d
+).
+e
+, In situ FTIR studies of the preparation of the imprinted Pd/SiO
+2
+catalyst. The imprinting process was followed by FTIR spectroscopy with idenficiation of adsorbed toluene and DMAPA.
+f
+, CO FTIR spectra of the studied catalysts. CO FTIR demonstrates the increase in the ratio of linear to multiple CO adsorption (the numbers over the curves) with the decrease in the size of the imprinted areas.
+Full size image
+The stability of DMAPA on Pd/SiO
+2
+was studied by thermogravimetric analysis (TGA) (Supplementary Fig.
+3a
+). Adsorbed DMAPA starts to desorb at 165 °C and removal is complete by 350 °C. The weight loss corresponds to 0.16 mmol of DMAPA adsorbed over 1 g of Pd/SiO
+2
+catalyst (Supplementary Table
+1
+). The amount of desorbed DMAPA is almost equal to the number of surface Pd atoms. This suggests that the stoichiometric molar ratio between surface Pd atoms and adsorbed DMAPA molecules is about 1. The hydrogenation of toluene over D-Pd/SiO
+2
+was conducted in three consecutive cycles with no activity. This demonstrates the high stability of the DMAPA coverage on the palladium surface (Supplementary Fig.
+3b
+). However, calcination at 350 °C for 3 h recovers the activity of the catalyst (Supplementary Fig.
+3b
+). The regeneration of the DMAPA-poisoned Pd/SiO
+2
+catalyst by treatment at 350 °C therefore means that DMAPA adsorption for modification of the surface in these palladium catalysts can be performed multiple times.
+The peaks observed in the X-ray photoelectron spectroscopy (XPS) N 1s spectrum of D-Pd/SiO
+2
+confirm the presence of DMAPA on the catalyst surface (Fig.
+2c
+). The N 1s spectrum can be deconvoluted into two peaks with binding energies of 400.2 and 401.4 eV associated with N=C and N–C species, respectively, which are attributed to the adsorbed DMAPA molecules on the palladium surface. The presence of C=N on the D-Pd/SiO
+2
+sample indicates partial dehydrogenation of C–N to C=N on the palladium surface
+25
+. The dehydrogenation of DMAPA on the palladium surface has been further demonstrated by FTIR (Fig.
+2d
+). The FTIR absorption peak at 1,695 cm
+−1
+corresponds to the imine groups on the surface of the D-Pd/SiO
+2
+catalyst
+26
+. The other FTIR peaks at 2,800–3,000 and 1,500 cm
+−
+1
+were assigned to the stretching and bending vibrations of C–H bonds in DMAPA
+27
+. It is worth mentioning that spontaneous dehydrogenation of amines on the palladium surface has previously been reported
+25
+.
+The poisoning of the palladium surface with DMAPA was further investigated. Temperature-programmed reaction combined with mass spectroscopy (TPR-MS) analysis confirms DMAPA desorption (fragment of
+m
+/
+z
+= 58 of C
+3
+H
+8
+N
+−
+, Supplementary Fig.
+4
+) and decomposition at 185 °C with generation of dimethylamine (fragment of
+m
+/
+z
+= 44 of C
+2
+H
+6
+N
+−
+, Supplementary Fig.
+4
+). Notably, no decomposition of DMAPA was observed when the Pd/SiO
+2
+catalyst was pretreated with DMAPA in cyclohexane in a batch reactor under a nitrogen atmosphere at 80 °C (Supplementary Fig.
+5
+). Moreover, solid-state NMR analysis (
+15
+N,
+1
+H,
+13
+C) of D-Pd/SiO
+2
+confirmed the presence of DMAPA species on the palladium surface (Fig.
+2e
+). The
+13
+C NMR spectrum has broad resonance peaks with maxima at approximately 25, 60 and 150 ppm, which can be attributed to the internal methylene CH
+2
+group, close to the methylated N and C atoms in the imine group. The additional narrow peak at 42.1 ppm corresponds to methyl groups and is less affected by interaction with the support
+28
+. The
+15
+N cross-polarization magic angle spinning (CPMAS) NMR spectrum exhibits a resonance peak at ~61.8 ppm, which can be assigned to the methylated amine group in DMAPA
+29
+. The nitrogen peak of the imine group is very broad due to the strong interaction with palladium. The
+1
+H NMR shows a broad peak between 1.3 and 5 ppm and a peak at ~6.8 ppm that could be ascribed to H linked to C and N atoms in DMAPA, respectively
+28
+. Interaction of DMAPA with palladium was additionally studied by time-of-flight secondary ion mass spectrometry (ToF-SIMS). The positive ToF-SIMS spectrum of D-Pd/SiO
+2
+(Fig.
+2f
+) contains the peaks attributed to the fragmentation of adsorbed DMAPA producing the C
+3
+H
+8
+N
++
+ion (58.1 u, where u is 1/12 of the mass of a carbon-12 atom) as the main signal. It is interesting to note that the negative ToF-SIMS spectrum shows an isotopic pattern attributed to PdCN
+−
+, indicating chemical bonding of the C–N group with Pd (Fig.
+2f
+). Thus, DMAPA adsorbs molecularly on the palladium surface during the imprinting procedure.
+The concept of imprinting implies the preservation of the morphology and electronic properties of the palladium nanoparticles after poisoning by DMAPA. Figure
+4
+summarizes the X-ray diffraction, transmission electron microscopy (TEM) and XPS (Pd 3d) data of the Pd/SiO
+2
+and D-Pd/SiO
+2
+catalysts. Three well-resolved XRD peaks observed on both D-Pd/SiO
+2
+and Pd/SiO
+2
+catalysts correspond to Pd (111), Pd (200) and Pd (220) planes, respectively
+30
+. The D-Pd/SiO
+2
+catalyst has the same X-ray diffraction pattern as the parent Pd/SiO
+2
+, indicating the palladium phase has similar crystallographic properties before and after poisoning
+31
+. Similar palladium morphology and particle size were also confirmed by TEM analysis (Fig.
+4c,d
+). Low-temperature N
+2
+adsorption also shows similar textural properties of the catalyst before and after poisoning (Supplementary Fig.
+6
+). The XPS Pd 3d core-level spectra of both Pd/SiO
+2
+and D-Pd/SiO
+2
+samples show a dominating doublet with Pd 3d
+5/2
+binding energy of 335.3 eV, corresponding to the metallic state of palladium (Fig.
+4b
+). A small doublet with a Pd 3d
+5/2
+peak at 337.1 eV for Pd/SiO
+2
+catalyst is assigned to Pd
+2+
+, indicating partial oxidation of the palladium surface under air
+32
+. In the spectrum of D-Pd/SiO
+2
+, the Pd
+2+
+-related doublet is shifted to lower Pd 3d
+5/2
+binding energies of 336.6 eV. This shift could be attributed to the effect of interaction between Pd and DMAPA. The DMAPA nitrogen species with a lone pair of electrons will donate electrons to Pd, leading to Pd sites with a higher electronic density and which exhibit a lower XPS binding energy
+33
+. Although the electronic properties of surface Pd have changed, most of the Pd in the nanoparticles is still in the same metallic electronic state as in the parent Pd/SiO
+2
+catalyst.
+Fig. 4: Characterization of the imprinted catalysts.
+a
+, XRD patterns of Pd/SiO
+2
+and D-Pd/SiO
+2
+.
+b
+, Pd 3d XPS analysis of Pd/SiO
+2
+and D-Pd/SiO
+2
+.
+c
+,
+d
+, TEM images of Pd/SiO
+2
+(
+c
+) and D-Pd/SiO
+2
+(
+d
+), showing no difference in the size and nature of the palladium catalyst after DMAPA poisoning.
+Full size image
+Thus, characterization and catalytic tests of Pd/SiO
+2
+and D-Pd/SiO
+2
+suggest that DMAPA could effectively poison the palladium surface.
+Catalyst design by molecular imprinting
+To investigate the possibility of molecular imprinting on Pd/SiO
+2
+, toluene was selected as a template, while DMAPA was used as a poisoner. In situ FTIR analysis was used to monitor the imprinting process (Fig.
+3a–e
+). The adsorption of toluene over Pd/SiO
+2
+(Fig.
+3e
+) demonstrates a set of noticeable adsorption peaks at 1,603 and 1,496 cm
+−1
+corresponding to the breathing vibrations of the phenyl ring
+34
+. According to the literature, toluene can be horizontally adsorbed over a palladium surface via the interaction between the conjugated phenyl ring and palladium planes
+35
+. Next, the sample was subjected to DMAPA. Similar to the D-Pd/SiO
+2
+catalyst, a new infrared peak at 1,695 cm
+−
+1
+, which is attributed to the C=N stretching in imine, appeared immediately after adding DMAPA. However, the peaks of toluene (1,603 and 1,496 cm
+−
+1
+) were still visible, confirming the simultaneous presence of DMAPA and toluene on the palladium surface. The co-presence of toluene and DMAPA on the palladium surface demonstrates that toluene can protect at least some of the palladium active sites during DMAPA poisoning and thus can create active islands after toluene desorption, as illustrated in Fig.
+3b
+(ref.
+36
+). It is worth noting that when heating the sample in the presence of hydrogen at 120 °C, the intensity of the peak at 1,695 cm
+−
+1
+decreases substantially, whereas the peaks at 1,500 and 2,800–3000 cm
+−
+1
+were unaffected. This suggests that the imine groups were hydrogenated back to amine, which remains, however, still adsorbed on the palladium surface (Fig.
+3c
+). Hydrogen evacuation leads to the reappearance of the imine infrared peak at 1,695 cm
+−
+1
+due to the amine dehydrogenation back to imine groups on the palladium surface (Fig.
+3d
+). Notably, heating at 120 °C in the presence of H
+2
+results in the disappearance of the peaks at 1,603 and 1,496 cm
+−
+1
+, indicating the desorption of the template molecules.
+The imprinted Pd/SiO
+2
+catalysts were also prepared using molecular templates larger than toluene (TL-Print-Pd/SiO
+2
+), such as mesitylene (ML-Print-Pd/SiO
+2
+) and 1,3,5-triisopropylbenzene (TPB-Print-Pd/SiO
+2
+). To distinguish the effects of imprinting and partial deactivation, partially deactivated Pd/SiO
+2
+(Partial-D-Pd/SiO
+2
+) was prepared as a reference material. CO FTIR was used to analyse the active sites on palladium (Fig.
+3f
+). The CO adsorption on the parent Pd/SiO
+2
+results in several infrared peaks at 2,074, 1,965 and 1,920 cm
+−
+1
+, which correspond respectively, to linear, bridged and three-fold bonded CO (ref.
+37
+). The last two types of sites are mainly present over the crystal planes, while linear CO adsorption occurs mainly over isolated sites. Thus, over the initial Pd/SiO
+2
+catalyst containing large palladium nanoparticles, the peak ratio of linear to multiply bonded CO (L/M) is only 0.06. The catalyst prepared by imprinting with a large template molecule (TPB-Print-Pd/SiO
+2
+) has a notably higher contribution of linearly adsorbed CO in comparison with initial Pd/SiO
+2
+. This L/M ratio increases further for the smaller template molecules in the order TPB (0.17) < ML (0.2) < TL (0.22), which could be explained by the decrease in the area of the active palladium zones. The highest ratio is observed over Partial-D-Pd/SiO
+2
+, where only Pd atoms isolated between adsorbed DMAPA are available. The infrared peaks of CO adsorption over the DMAPA-treated catalysts have shifted to lower wavenumbers in comparison with parent Pd/SiO
+2
+. This red shift further confirms the XPS results, which suggest electron donation from N to Pd
+38
+.
+High-angular annular dark-field (HAADF) imaging in scanning TEM (STEM) mode was used for further analysis of the imprinted Pd/SiO
+2
+catalyst (Fig.
+5
+). To identify the active islands, platinum was deposited on the imprinted areas. Platinum has a much higher atomic number than palladium (78 versus 46) and HAADF intensity is proportional to ~
+Z
+1.7
+, where
+Z
+is the atomic number. Therefore, Pt atoms would appear brighter on the surface of palladium particles. This contrast between the Pt and Pd atoms in HAADF images makes it possible to a certain extent to highlight the imprinted areas
+39
+,
+40
+. TPB ~0.85 nm in size was selected as a template for the preparation of the molecularly imprinted Pd/SiO
+2
+catalyst for the STEM analysis
+41
+. The deposition of Pt atoms was performed by mild reduction of Pt(acac)
+2
+solution on the initial Pd/SiO
+2
+, D-Pd/SiO
+2
+, TPB-Print-Pd/SiO
+2
+and Partial-D-Pd/SiO
+2
+catalysts in the presence of H
+2
+. Due to the strong hydrogen activation by palladium, the Pt atoms should be selectively reduced on the imprinted areas. No platinum reduction is expected on the DMAPA-poisoned palladium surface, where all surface Pd atoms are covered by the poisoner (Fig.
+5a
+). The STEM energy-dispersive spectroscopy (EDS) mapping images of initial Pd/SiO
+2
+with deposited Pt atoms indicate the formation of a core–shell structure with a Pd core and Pt shell of 1.4–3 nm (Fig.
+5b–d
+). The formation of uniform platinum shells around palladium nanoparticles demonstrates the high activity of the palladium surface toward platinum reduction. Note that completely deactivated Pd/SiO
+2
+has a very low number of Pt atoms on the palladium surface (Fig.
+5e–g
+), confirming that the palladium surface has been poisoned by DMAPA. Interestingly, molecular imprinting with TPB as a template shows no platinum shell on the palladium surface (Fig.
+5h–j
+). EDS mapping clearly shows isolated platinum clusters over the palladium surface. Partial deactivation of the catalyst by DMAPA without template deposition shows uniform coverage of platinum over palladium nanoparticles without the formation of distinct platinum islands (Fig.
+5k–m
+).
+Fig. 5: TEM analysis for various samples.
+a
+, Illustration of Pt deposition over an imprinted palladium surface.
+b
+-
+p
+, HAADF images and corresponding STEM-EDS elemental maps of Pd/SiO
+2
+catalyst (
+b
+–
+d
+), D-Pd/SiO
+2
+(
+e
+–
+g
+), TPB-Print-Pd/SiO
+2
+(
+h
+–
+j
+), Partial-D-Pd/SiO
+2
+(
+k
+–
+m
+) and Used-TPB-Print-Pd/SiO
+2
+(
+n
+–
+p
+).
+q
+–
+t
+, HAADF images of TPB-Print-Pd/SiO
+2
+(
+q
+) and Used-Print-Pd/SiO
+2
+(
+s
+) and corresponding size histograms of the Pt islands (
+r
+,
+t
+). Deposition of Pt over the palladium surface shows the presence of imprinted areas. The white squares highlight Pt islands on the Pd surface.
+Full size image
+The HAADF images of the imprinted areas are shown in Fig.
+5q
+. The platinum islands (showing bright) range in size from 0.6 to 1.1 nm (average, 0.8 nm). The size of the platinum islands therefore agrees with the dimensions of the TPB template molecule (Fig.
+5r
+and Supplementary Fig.
+7a–c
+). The detection of platinum islands on the imprinted palladium surface provides, at least qualitatively, some additional proof for preparation of the imprinted zones of predetermined size on the palladium surface. HAADF images of Partial-D-Pd/SiO
+2
+show a random distribution of DMAPA on the palladium surface with the generation of small, non-uniform Pt clusters. Notably, single Pt atoms have been frequently observed on the Partial-D-Pd/SiO
+2
+catalyst (Supplementary Fig.
+8
+).
+To further confirm the differences in the sizes of the platinum islands, the samples were studied by Pt L
+3
+edge X-ray absorption spectroscopy (XAS)
+42
+. The X-ray absorption near-edge structure (XANES) spectra confirm that platinum is mostly metallic after reduction over palladium nanoparticles (Supplementary Fig.
+9a
+). Supplementary Fig.
+9b
+shows the Fourier transform extended X-ray absorption fine structure (EXAFS) moduli of the samples (without phase shift). The fitted interatomic distances are given in Supplementary Table
+2
+. In agreement with the literature, the peaks at 2.7 Å are assigned to Pt–Pt coordination. EXAFS indicates that the Pt atoms are coordinated by both Pt and Pd atoms in the parent catalyst, while the number of the Pt–Pt bonds decreases both in the imprinted (TPB-Print-Pd/SiO
+2
+) and in the partially deactivated catalysts (Partial-D-Pd/SiO
+2
+). The decrease in the Pt–Pt coordination number is consistent with the presence of platinum islands on the imprinted catalyst and homogeneously distributed isolated Pt atoms over the partially deactivated sample (Supplementary Table
+2
+).
+Model reactions over the imprinted Pd/SiO
+2
+catalyst
+The prepared TL-Print-Pd/SiO
+2
+, ML-Print-Pd/SiO
+2
+and TPB-Print-Pd/SiO
+2
+were tested in several model catalytic reactions. The size of each resulting imprinted area should decrease in the following sequence TPB-Print-Pd/SiO
+2
+> ML-Print-Pd/SiO
+2
+> TL-Print-Pd/SiO
+2
+in agreement with the decrease in the sizes of the template molecules.
+As has been reported earlier
+43
+,
+44
+, hydrogenation of aromatic rings requires flat adsorption of the molecules over the metal surface. If the molecule is larger than the imprinted area, it cannot be hydrogenated because of steric hindrance during adsorption.
+The amount of adsorbed DMAPA molecules over the studied catalysts was determined by TGA. As shown in Supplementary Fig.
+10
+, the weight losses over Partial-D-Pd/SiO
+2
+, TL-Print-Pd/SiO
+2
+, ML-Print-Pd/SiO
+2
+and TPB-Print-Pd/SiO
+2
+were 1.09%, 0.98%, 1.02% and 1.38%, corresponding to 0.11, 0.096, 0.1 and 0.14 mmol g
+−1
+of DMAPA, respectively. The active sites in the imprinted catalysts were measured by H
+2
+-pulse chemisorption. As summarized in Supplementary Table
+1
+, the cumulative H
+2
+uptakes were 0.048, 0.06, 0.051 and 0.035 mmol g
+−1
+over the Partial-D-Pd/SiO
+2
+, TL-Print-Pd/SiO
+2
+, ML-Print-Pd/SiO
+2
+and TPB-Print-Pd/SiO
+2
+catalysts, respectively. The H
+2
+-pulse chemisorption correlates well with the TGA. Note that higher DMAPA adsorption correlates with lower H
+2
+uptake over the imprinted or deactivated catalysts (Fig.
+6
+). The slightly higher amount of bare Pd atoms calculated from H
+2
+chemisorption over the imprinted catalyst could be explained by the electronic effect of DMAPA on Pd, which can increase the stoichiometric ratio of H to Pd
+38
+. In addition to the H
+2
+adsorption, we have performed pulse adsorption of toluene (Supplementary Fig.
+11
+). The parent Pd/SiO
+2
+catalyst demonstrates high toluene adsorption (0.028 mmol g
+−1
+), whereas no adsorption occurs over completely poisoned D-Pd/SiO
+2
+. Interestingly, TL-Print-Pd/SiO
+2
+shows adsorption of toluene by refilling the imprinting areas (0.005 mmol g
+−1
+). An increase in the size of imprinted zones in TPB-Print-Pd/SiO
+2
+leads to higher adsorption of toluene (0.008 mmol g
+−1
+).
+Fig. 6: Correlation between bare and poisoned Pd.
+The amount of bare Pd atoms was determined by H
+2
+-pulse chemistry, and the amount of DMAPA adsorption was determined by TGA. Note that higher DMAPA adsorption correlates with lower H
+2
+uptake over the imprinted or deactivated catalysts.
+Full size image
+The turnover frequencies (TOFs) over the studied catalysts were calculated based on the H
+2
+-pulse chemisorption results assuming the same intrinsic activity of all available bare Pd atoms in the hydrogenation reactions (Fig.
+7a
+). The TOFs of hydrogenation of toluene, mesitylene and TPB over parent Pd/SiO
+2
+in the batch reactor were 88.94, 34.04 and 53.39 h
+−1
+, respectively. The complete poisoning of the Pd catalysts with DMAPA results in a complete loss of activity, and therefore TOFs of zero for hydrogenation of all studied aromatic molecules.
+Fig. 7: Hydrogenation of aromatics over the studied catalysts.
+a
+, Liquid-phase hydrogenation of toluene, mesitylene and TPB over initial and imprinted Pd/SiO
+2
+catalysts in the batch reactor. Reaction conditions: 50 mg catalyst, 100 mg aromatics, 5 g
+n
+-decane, 120 °C, 20 bar H
+2
+, 0.25–6 h.
+b
+, Gas-phase hydrogenation of toluene, mesitylene and TPB over initial and imprinted Pd/SiO
+2
+catalysts in the fixed-bed reactor. Reaction conditions: 5 mg initial Pd/SiO
+2
+or 20 mg poisoned Pd/SiO
+2
+catalyst, 0.1 mmol h
+−1
+feed rate, 10 ml min
+−1
+N
+2
+, 10 ml min
+−1
+H
+2
+, 120 °C, atmospheric pressure, weight hourly space velocity (WHSV) = 0.46–4.08 h
+−1
+.
+c
+, Gas-phase hydrogenation of toluene, mesitylene and TPB in fixed-bed reactor over ML-Print-Pd/SiO
+2
+. Reaction conditions: 20 mg catalyst, 0.1 mmol h
+−1
+feed rate, 10 ml min
+−1
+N
+2
+, 10 ml min
+−1
+H
+2
+, 120 °C, atmospheric pressure, WHSV = 0.46–1.02 h
+−1
+.
+d
+, Gas-phase hydrogenation of toluene, mesitylene and TPB in the fixed-bed reactor over initial and imprinted palladium sponge. Reaction conditions: 30 mg catalyst, 0.1 mmol h
+−1
+feed rate, 10 ml min
+−1
+N
+2
+, 10 ml min
+−1
+H
+2
+, 120 °C, atmosphere pressure, WHSV = 0.15–0.68 h
+−1
+. TOF measurements were performed three times for each case. The error bars represent the s.d. The relative s.d. is within 5%. The catalytic results in batch and fixed-bed reactors demonstrate suppression of hydrogenation of aromatic molecules larger in size than the template molecules in imprinted catalysts.
+Source data
+Full size image
+Surprisingly, the toluene-imprinted Pd/SiO
+2
+(TL-Print-Pd/SiO
+2
+) catalyst still shows a high TOF for toluene (1.96 h
+−1
+), but extremely low TOFs for the hydrogenation of mesitylene (0.08 h
+−1
+) and TPB (0.03 h
+−1
+). This phenomenon can be explained by the presence of active islands over the palladium surface created by preadsorbed toluene. In this case, the active islands on the palladium surface with the shape and size of the toluene molecule can hinder the adsorption of larger molecules such as mesitylene and TPB. This explanation has been further supported by using mesitylene as a template. ML-Print-Pd/SiO
+2
+exhibits higher TOFs for both toluene and mesitylene (2.51 and 0.44 h
+−1
+) but a low TOF for TPB (0.03 h
+−1
+). Furthermore, Pd/SiO
+2
+imprinted by TPB has demonstrated high TOFs for hydrogenation of toluene (4.24 h
+−1
+), mesitylene (0.82 h
+−1
+) and TPB (0.95 h
+−1
+). The increase in the size of template molecules results therefore in the expansion of active islands and hydrogenation of larger molecules. It is worth noting that the partially deactivated Pd/SiO
+2
+catalyst (Partial-D-Pd/SiO
+2
+) exhibits different catalytic behaviour compared with the imprinted catalysts. The TOFs for toluene, mesitylene and TPB over Partial-D-Pd/SiO
+2
+catalyst are 0.79, 0.28 and 0.32 h
+−1
+, respectively. In comparison with the imprinted counterparts, the activity is comparable for all molecules over Partial-D-Pd/SiO
+2
+, indicating the indiscriminating distribution of DMAPA on the palladium surface without the generation of any specific islands for the adsorption of aromatic rings. Indeed, the random coverage of the catalyst surface with DMAPA could have a positive effect on the selective and preferential hydrogenation of small molecules at higher coverage of DMAPA, when the probability of finding adjacent sites goes down. To check this effect, hydrogenation of toluene, mesitylene and TPB were performed over Pd/SiO
+2
+in the presence of different concentrations of DMAPA (Supplementary Fig.
+12
+). Although higher hydrogenation activity was observed for toluene, we did not observe any clear size-dependent effect of DMAPA poisoning for larger molecules (Supplementary Fig.
+12
+). Thus, the size-dependent reactivity was indeed introduced by the imprinting process and is not a consequence of the electronic or poisoning effects of adsorbed DMAPA.
+The effect of imprinting on the studied Pd/SiO
+2
+catalysts was further confirmed by performing gas-phase catalytic reactions in a fixed-bed reactor to exclude the possibility of a competitive adsorption effect of desorbed DMAPA in the liquid phase on the catalytic performance (Fig.
+7b
+). In agreement with the liquid-phase reactions, a remarkable imprinting effect was observed over imprinted Pd/SiO
+2
+catalyst. It should be noted that no imprinting effect was observed over the Partial-D-Pd/SiO
+2
+catalyst.
+Stability of the catalyst is one of the most important issues in catalysis. Migration of DMAPA on the palladium surface could cause these imprinted catalysts to lose selectivity. It is worth noting that adsorbates on the metal surface have often been found to be mobile under reaction conditions
+45
+. Importantly, the imprinted ML-Print-Pd/SiO
+2
+catalyst demonstrates stable activity in three consecutive cycles of the hydrogenation of toluene, mesitylene and TPB (Supplementary Fig.
+13
+). Furthermore, ML-Print-Pd/SiO
+2
+exhibits stable conversion for 10 h in the fixed-bed reactor in the gas-phase hydrogenation of toluene, mesitylene and TPB (Fig.
+7c
+). This suggests the lack of mobility of DMAPA over the palladium surface, although other possibilities—for instance, the formation of dynamic voids—cannot be excluded at this stage. In general, DMAPA adsorption over palladium leads to irreversible deactivation of the metal catalysts due to the generation of metal–N bonds
+46
+,
+47
+.
+The stability of the imprinting areas was further confirmed by characterization of the imprinted Used-TPB-Print-Pd/SiO
+2
+catalyst by CO FTIR, TEM and XAS. CO FTIR of the Used-TPB-Print-Pd/SiO
+2
+exhibited a similar L/M ratio as the fresh catalyst (0.16 versus 0.17, Supplementary Fig.
+14
+), indicating the active palladium zones on both samples were of similar size. After platinum deposition, the same platinum islands with an average size of 0.8 nm were observed on the Used-TPB-Print-Pd/SiO
+2
+and fresh TPB-Print-Pd/SiO
+2
+catalysts (Fig.
+5n–p,s,t
+and Supplementary Fig.
+7d–f
+) by TEM. The Pt L
+3
+edge XANES and EXAFS of Used-TPB-Print-Pd/SiO
+2
+and fresh TPB-Print-Pd/SiO
+2
+were also very similar (Supplementary Fig.
+9
+and Supplementary Table
+2
+). All these characterizations indicate high stability of the imprinted areas on the TPB-Print-Pd/SiO
+2
+catalyst.
+If the molecular imprinting introduces a size-dependent effect for the hydrogenation of aromatic rings, the intrinsic catalytic activity for hydrogenation of small size C=C alkene groups, for example, in styrene, should be comparable. Analysis of styrene hydrogenation in the batch reactor shows high activity of initial Pd/SiO
+2
+(TOF, 1,491 h
+−1
+) and comparable TOFs for the imprinted catalysts (883–1,053 h
+−1
+), confirming that hydrogenation of the C=C group in styrene is independent of the size of template molecule and imprinted zones (Supplementary Fig.
+15
+).
+The substantial decrease in the intrinsic activities for hydrogenation of all molecules after imprinting could be explained by the electronic effects of DMAPA over surface palladium sites. Adsorbed DMAPA donates electron density to the surface Pd atoms and decreases the intrinsic activity. The electronic effect could result in an increase in the activation energy for the hydrogenation of molecules in the imprinted areas. Indeed, measuring toluene hydrogenation at different temperatures over the Pd/SiO
+2
+and TL-Print-Pd/SiO
+2
+catalysts shows an increase in the apparent activation energy from 38.2 to 67.0 kJ mol
+−1
+after the imprinting (Supplementary Fig.
+16
+). The presence of electronic effects is also consistent with the decrease in the intrinsic activity for styrene hydrogenation after DMAPA poisoning (Supplementary Fig.
+15
+)
+48
+. It has been reported
+49
+that the effect of electronic donors is less important over large metal particles. To test this assumption, palladium sponge with low surface area and dispersion (0.58%, determined by CO-pulse adsorption) was used for imprinting instead of the Pd/SiO
+2
+catalyst. The TOFs of toluene, mesitylene and TPB hydrogenation over the parent sponge were 25.67, 14.26 and 9.79 h
+−1
+, respectively, which is about three times lower than with the Pd/SiO
+2
+catalyst and could be explained by higher activity of defect palladium sites present in smaller palladium nanoparticles used for hydrogenation
+50
+. Different from imprinted Pd/SiO
+2
+, the TOFs over imprinted palladium sponge were calculated on the basis of the total number of palladium surface sites, including those that had been poisoned by DMAPA (Fig.
+7d
+).
+Imprinting of palladium sponge by toluene results in a high TOF of toluene hydrogenation (15.86 h
+−1
+), but negligibly low intrinsic activities for mesitylene (0.79 h
+−1
+) and TPB (0.70 h
+−1
+) hydrogenation. The same effect was observed over ML-Print-Pd sponge, which resulted in high activity for hydrogenation of toluene (18.26 h
+−1
+) and mesitylene (3.82 h
+−1
+) but a low TOF for hydrogenation of TPB (1.28 h
+−1
+). Imprinting by TPB demonstrates high activity: 20.10, 6.01 and 4.65 h
+−1
+for toluene, mesitylene and TPB, respectively. Thus, the imprinting phenomena, which introduce size and shape-selective hydrogenation, are similar on both palladium sponge and imprinted Pd/SiO
+2
+. Palladium sponge possesses higher numbers of terrace sites and fewer edges and corners than Pd/SiO
+2
+. It should result in higher amounts of adsorbed template molecules over continuous sites and higher quality of imprinted zones. Based on the total number of surface palladium sites, the overall activity (measured by TOF) is reduced less after DMAPA poisoning of the metal surface of the sponge in comparison with Pd/SiO
+2
+(Supplementary Table
+3
+). This effect can be explained by both the lower electronic effect and the higher proportion of continuous palladium sites on the sponge in comparison with highly dispersed supported palladium catalysts.
+Selective hydrogenation of benzene in the mixture
+Our results suggest that this molecular imprinting methodology can be efficiently used for selective catalytic reactions. Control of selectivity is achieved by creating an active island on the metallic surface via adsorption–desorption of the template molecules and poisoning. We demonstrate further that this concept opens perspectives for practical applications; for example, for selective removal of benzene from a mixture of aromatics. Benzene is a carcinogenic compound and its content has to be reduced to less than 1% in gasoline
+51
+. Traditionally, benzene is removed by adsorption, catalytic hydrogenation and catalytic alkylation
+52
+,
+53
+. The adsorption process for benzene removal suffers from the limitation of the adsorption volume of adsorbents (for example, activated carbon). Catalytic alkylation consumes a large number of expensive olefins. Thus, catalytic hydrogenation could be considered a promising methodology
+53
+. However, hydrogenation of the mixture of aromatics not only hydrogenates benzene but also hydrogenates other molecules. Therefore, a smart catalyst that could selectively hydrogenate benzene in a complex mixture of aromatics would be highly desirable.
+The imprinted Pd/SiO
+2
+catalyst was prepared by using benzene as a template and named Ben-Print-Pd/SiO
+2
+. The amount of DMAPA over the Ben-Print-Pd/SiO
+2
+catalyst was 0.145 mmol g
+−1
+determined by TGA, while the amount of bare palladium sites determined by H
+2
+adsorption was 0.054 mmol g
+−1
+(Supplementary Table
+1
+and Supplementary Fig.
+17
+). The TOFs for hydrogenation of various aromatics, such as benzene, toluene,
+p
+-xylene and mesitylene, were measured for initial Pd/SiO
+2
+and Ben-Print-Pd/SiO
+2
+. As shown in Fig.
+8a
+, after imprinting with benzene, the TOF for benzene hydrogenation decreased from 125.54 to 7.97 h
+−1
+. Importantly, the TOFs for hydrogenation of toluene,
+p
+-xylene and mesitylene decreased several times more compared to benzene. These results show that Ben-Print-Pd/SiO
+2
+demonstrates preferential behaviour for hydrogenation of benzene in comparison with other aromatic molecules.
+Fig. 8: Catalytic results for hydrogenation of aromatics over Pd/SiO
+2
+and Ben-Print-Pd/SiO
+2
+.
+a
+, TOF for hydrogenation of various aromatics. The left and right
+y
+-axis show TOF numbers for hydrogenation over Pd/SiO
+2
+and Ben-Print-Pd/SiO
+2
+, respectively.
+b
+–
+d
+, Selective hydrogenation of benzene mixed with toluene (
+b
+),
+p
+-xylene (
+c
+) or mesitylene (
+d
+). Reaction conditions: 50–100 mg catalyst, 100 mg benzene mixed with 100 mg toluene,
+p
+-xylene or mesitylene, 5 g
+n
+-decane, 120 °C, 20 bar H
+2
+, 0.25–48 h. TOF measurements were performed three times in each case. The error bars represent the s.d. The relative s.d. is within 5%. Benzene can be selectively hydrogenated in a mixture with other aromatic molecules over catalysts prepared by imprinting benzene as a template.
+Source data
+Full size image
+Subsequently, we performed hydrogenation of benzene in a mixture with other aromatic molecules (benzene/toluene, benzene/
+p
+-xylene and benzene/mesitylene). As shown in Fig.
+8b–d
+, the selectivity of benzene hydrogenation over Ben-Print-Pd/SiO
+2
+catalyst was spectacularly enhanced in comparison with hydrogenation over Pd/SiO
+2
+. The hydrogenation selectivity depends on the size of the aromatic molecule. For example, due to the comparable sizes of benzene and toluene, the selectivity of benzene hydrogenation in the mixture with toluene demonstrates only about 10% difference (62.6% versus 73.4%) at full benzene conversion and aromatic conversions of 85.0% and 70.2% for Pd/SiO
+2
+and Ben-Print-Pd/SiO
+2
+, respectively. At the same time, the selectivity of benzene hydrogenation compared to
+p
+-xylene hydrogenation already notably increases for Ben-Print-Pd/SiO
+2
+(90.1%) compared with Pd/SiO
+2
+(73.4%). The difference in the selectivity increases much further for the benzene/mesitylene mixture from 75.8% for Pd/SiO
+2
+to almost 98.4% for Ben-Print-Pd/SiO
+2
+. The selectivity of benzene hydrogenation in a mixture with different aromatics is, therefore, a function of their molecular size.
+Selective hydrogenation of other molecules of similar molecular size to benzene has also been tried. For example, hydrogenation of pyridine mixed with mesitylene has been performed over both initial Pd/SiO
+2
+and Ben-Print-Pd/SiO
+2
+catalysts. However, due to the strong interaction between pyridine and palladium, both catalysts (Pd/SiO
+2
+and Ben-Pd/SiO
+2
+) exhibited 100% selectivity for the pyridine hydrogenation, whereas mesitylene hydrogenation was almost completely suppressed (Supplementary Fig.
+18b
+). This could be explained by the higher basicity of pyridine in comparison with other aromatic molecules. Note that both initial Pd/SiO
+2
+and Ben-Print-Pd/SiO
+2
+catalysts show similar intrinsic catalytic activity for pyridine hydrogenation (134 versus 139 h
+−1
+, Supplementary Fig.
+18a
+).
+The concentration effect of benzene in the mixture with aromatics was further investigated. The weight ratio of benzene to other aromatics decreased from 1 to 0.5 and then to 0.1 (Supplementary Fig.
+19
+). The imprinted Ben-Print-Pd/SiO
+2
+catalyst exhibited high selectivity for benzene hydrogenation even at the lowest benzene concentration (Supplementary Fig.
+19b,d,f
+). These results demonstrate the potential application of these imprinted palladium catalysts for selective benzene removal from mixtures of different aromatics.
+Conclusions
+We have demonstrated a molecular imprinting strategy for enhancing the selectivity of chemical reactions catalysed by heterogeneous palladium metal catalysts. By using DMAPA as a poisoner and various aromatic molecules of different sizes, including toluene, mesitylene and TPB, as templates, we successfully prepared a series of imprinted palladium catalysts. The catalytic results demonstrate that these imprinted palladium catalysts have a size-dependent reactivity for the hydrogenation of aromatic molecules. Moreover, the imprinted palladium catalysts prepared with benzene as a template exhibited preferential hydrogenation of benzene in a mixture of aromatics. Our results prove the potential application of imprinted catalysts for selective removal of carcinogenic benzene from reformate gasoline. The molecular imprinting strategy that we describe not only provides a powerful way to design a selective catalytic surface but also offers an additional understanding of the phenomena occurring during adsorption and catalytic reactions on the metal surfaces.
+Methods
+Materials
+Palladium chloride (PdCl
+2
+, >99.9%), toluene anhydrous (C
+7
+H
+8
+, >99.5%), mesitylene (C
+9
+H
+12
+, >99.5%), TPB (C
+15
+H
+24
+, >95%), DMAPA (C
+5
+H
+14
+N
+2
+, >99%), biphenyl (C
+12
+H
+10
+, >99%), styrene (C
+8
+H
+8
+, >99%), pyridine (C
+5
+H
+5
+N, 99.8%), cyclohexane (C
+6
+H
+12
+, 99.5%) and
+n
+-decane (C
+10
+H
+22
+, >99.5%) were supplied by Sigma-Aldrich. Silicon dioxide (SiO
+2
+, >99%) was purchased from Sasol. Air, nitrogen and hydrogen were supplied by Air Liquide, and were used in the imprinting process and catalytic reactions. All chemicals are of analytic quality and used without treatment.
+Preparation
+Pd/SiO
+2
+catalyst
+The Pd (10 wt%)/SiO
+2
+catalyst was prepared by incipient wetness impregnation. Typically, 2 g of SiO
+2
+was impregnated with 0.34 g PdCl
+2
+in aqueous solution. The prepared sample was aged at room temperature overnight and then dried in an oven at 80 °C for 12 h. Finally, the catalyst was calcined at 550 °C for 6 h.
+Imprinting over the Pd/SiO
+2
+catalyst
+Pd/SiO
+2
+catalyst (200 mg) was first reduced with H
+2
+(10 ml min
+−1
+, all gas volumes at STP) at 200 °C for 3 h in a homemade fixed-bed reactor, and then cooled down to 80 °C for template adsorption and DMAPA poisoning. Template (benzene, toluene, mesitylene, TPB) was injected by syringe pump at 10 ml min
+−1
+into the N
+2
+flow under atmospheric pressure. Nitrogen was used as carrier gas. Then, the template-adsorbed palladium catalyst was poisoned by bubbling DMAPA liquid under 30 °C and atmospheric pressure with 1 ml min
+−1
+N
+2
+flow. Finally, the resulting catalyst was heated up to 150 °C in the H
+2
+flow (10 ml min
+−1
+) for 1 h to remove the template from the catalyst. The imprinted palladium catalysts were named Ben-Print-Pd/SiO
+2
+, TL-Print-Pd/SiO
+2
+, ML-Print-Pd/SiO
+2
+and TPB-Print-Pd/SiO
+2
+, representing benzene-, toluene-, mesitylene- and TPB-imprinted Pd/SiO
+2
+, respectively. To study the poisoning behaviour, Partial-D-Pd/SiO
+2
+and D-Pd/SiO
+2
+catalysts were prepared by poisoning with DMAPA in the same manner without adsorption of the template. While D-Pd/SiO
+2
+was poisoned for 30 min, Partial-D-Pd/SiO
+2
+was poisoned for 10 min in order to get a similar amount of DMAPA on the catalyst in comparison to the imprinted Pd/SiO
+2
+.
+Regeneration of the palladium catalyst
+Imprinted Pd/SiO
+2
+catalyst was regenerated by heating at 350 °C with air (10 ml min
+−1
+) for 3 h and then reduced with H
+2
+(10 ml min
+−1
+) at 200 °C for 1 h. The resultant catalyst was named C350-D-Pd/SiO
+2
+.
+Deposition of Pt atoms on the palladium catalysts
+To graft Pt atoms on the palladium surface for STEM analysis, typically, 15 mg of Pt(acac)
+2
+was dissolved in 5 ml of toluene and placed in a 25 ml batch-reactor. Then, 50 mg of palladium catalyst was added to the reactor and pressurized with 5 bar of H
+2
+. The reactor was heated at 60 °C for 1 h with continuous stirring. After the reaction, the catalyst was washed with toluene three times and then dried in an oven at 60 °C overnight. Before STEM analysis, the platinum-grafted palladium catalysts were calcined under air flow (10 ml min
+−1
+) at 200 °C for 3 h to remove the DMAPA molecules from the palladium surface.
+Characterization
+The X-ray diffraction patterns
+54
+were recorded on a PANalytical Empyrean X-ray diffractometer in Bragg–Brentano configuration with a 0.02° step size and 1 s step time. Cu K
+α
+radiation (40 kV and 30 mA) was used as the X-ray source. The crystalline phases were identified by comparing the diffraction patterns with those of the standard powder X-ray diffraction files (JCPDS). The average crystal size was calculated using the Debye–Scherrer equation.
+TEM
+14
+,
+16
+,
+20
+analysis was carried out on a JEOL 2100 FEG S/TEM microscope operated at 200 kV and equipped with a spherical aberration probe corrector. Before analysis, the samples were dispersed in ethanol and deposited on a holey carbon-coated TEM grid. In STEM, the images were recorded using an HAADF detector with inner and outer diameters of about 73 and 194 mrad. EDS analyses allowing the elemental mapping of Pd and Pt were performed in the S/TEM using a JEOL Silicon Drift Detector (DrySD60GV, sensor size 60 mm
+2
+) with a solid angle of approximately 0.6 srad.
+TGA was performed under air flow (10 ml min
+−1
+) and nitrogen flow (10 ml min
+−1
+) in the temperature range 50–500 °C with a heating rate of 5 °C min
+−1
+on a Mettler Toledo SMP/PF7458/MET/600W instrument.
+XPS
+14
+,
+16
+,
+20
+analysis was performed in a Thermo Fisher ESCALAB 250Xi photoelectron spectrometer using monochromatic Al K
+α
+(1,486.7 eV) X-ray irradiation and a 180° double-focusing hemispherical analyser with a six-channel detector. The binding energy of the photoemission spectra was calibrated to adventitious carbon C 1s peak with a binding energy of 284.8 eV.
+H
+2
+-pulse adsorption
+14
+,
+16
+,
+20
+was measured on an AutoChem II 2920 apparatus (Micromeritics). Each sample (50 mg) was loaded in a quartz reactor, reduced in a flow of 5% H
+2
+/He (60 ml min
+−1
+) at a heating rate of 10 °C min
+−1
+at 100 °C for 1 h, and then heated at 100 °C with He (30 ml min
+−1
+) for 30 min. Finally, the sample was cooled down to 45 °C. The catalyst was treated by H
+2
+pulses in a He flow until full saturation. Toluene-pulse adsorption was performed on the same equipment. Sample (100 mg) was reduced in a flow of 5% H
+2
+/He (60 ml min
+−1
+) at a heating rate of 10 °C min
+−1
+at 120 °C for 1 h, and then heated at 120 °C with He (30 ml min
+−1
+) for 30 min. Finally, the sample was cooled down to 45 °C. The catalyst was treated by toluene vapour pulses in a He flow until full saturation.
+FTIR
+14
+,
+16
+,
+20
+spectra were recorded using a Thermo Fisher Scientific Nicolet 6700 FTIR (32 scans at a resolution of 4 cm
+−1
+) equipped with a mercury cadmium telluride detector. A self-supported wafer of palladium catalyst (diameter, 13 mm, 50 mg catalyst) was reduced under pure H
+2
+at 200 °C for 1 h, evacuated for 15 h (<10
+−5
+torr) and subsequently cooled to 80 °C for adsorption of template and DMAPA.
+The Pt L
+3
+-edge XAS
+20
+was performed at the SuperXAS beamline at the Swiss Light Source (Villigen, Switzerland). The incident beam was provided by a 2.9 T super-bent source. The beam was collimated by a rhodium-coated mirror at 2.5 mrad. Energy was selected by a Si(111) channel-cut monochromator working in step-by-step mode. Focusing down to 200 × 500 μm was done by a toroidal rhodium-coated mirror at 2.5 mrad. Monochromator energy was calibrated for each sample using platinum foil (11.564 keV) measured simultaneously with each sample. The catalysts were loaded in quartz capillaries in a glovebox. The fluorescence signal was measured with a five-element silicon drift detector. The PtO
+2
+reference was measured in transmission mode as a pellet diluted with cellulose. Three 15-cm-long ionization chambers filled with N
+2
+at 2 bar were used to monitor the incident beam intensity, transmission through the sample and the reference platinum foil. All XAS data were further analysed using Demeter software. The
+k
+3
+-weighted EXAFS spectra were fitted in
+R
+space in the
+k
+range of 3–13.2 Å and
+R
+range of 1–3.5 Å. The amplitude reduction factor of 0.89 was determined by fitting the EXAFS spectrum of platinum foil. The scattering paths for the fitting were produced using known crystallographic structures of Pt, PtO
+2
+and Pt
+0.1
+Pd
+0.9
+alloy. The results of the EXAFS fits for the catalysts used are summarized in Supplementary Table
+2
+, where Δ
+E
+is edge energy shift and
+R
+eff
+corresponds to the initial length of each scattering path used for the refinement.
+The solid-state
+1
+H,
+13
+C and
+15
+N NMR spectra were measured at 9.4 T on a Bruker Avance 400 spectrometer with a 4 mm probe. A double air-bearing probe and a zirconium oxide rotor were used. The acquisition was performed with a standard CP pulse sequence. The spinning speeds were 12.5 kHz for
+13
+C CPMAS, 5 kHz for
+15
+N CPMAS and 12.5 kHz for
+1
+H MAS.
+ToF-SIMS data were acquired using a ToF-SIMS spectrometer (ION-TOF) equipped with a bismuth liquid metal ion gun. The samples were bombarded with a pulsed Bi
+3
++
+primary ion beam (25 keV, 0.25 pA) rastered over a 100 mm × 100 mm surface area. Charge effects were compensated by means of a 20 eV pulsed electron flood gun. Data were collected over a mass range
+m
+/
+z
+= 0–800 for both positive and negative secondary ions. According to these parameters, mass resolution
+m
+/∆
+m
+was about 5,000 at
+m
+/
+z
+= 106 for Pd
++
+. The fragments were identified by their exact mass, coupled with the appropriate intensities for the expected isotope pattern.
+Liquid-phase hydrogenation reactions
+Hydrogenation of individual molecules
+Pd/SiO
+2
+(50 mg) or imprinted Pd/SiO
+2
+catalysts (50 mg), 5 g
+n
+-decane and 100 mg reactant (toluene, mesitylene or TPB) were put in a 25 ml batch reactor. The reactor was then flushed with H
+2
+three times and pressurized to 20 bar H
+2
+. After heating at 120 °C for 1–6 h with continuous stirring, the catalyst was separated and the liquid phase was analysed by gas chromatography with biphenyl as the internal standard.
+The TOF was defined as:
+$${\mathrm{TOF}} = \frac{{N_{\mathrm{p}}}}{{t \times N_{{\mathrm{active}}\,{\mathrm{sites}}}}}$$
+(1)
+where
+N
+p
+represents the converted mole number of aromatics,
+N
+active sites
+represents the mole number of active sites measured by H
+2
+-pulse chemistry and
+t
+represents the reaction time (h).
+Hydrogenation of benzene in mixed-aromatics
+Catalyst (50–100 mg), 5 g
+n
+-decane, 100 mg benzene and 100 mg other aromatics (toluene, mesitylene or TPB) were put in a 25 ml batch reactor. The reactor was then flushed with H
+2
+three times and pressurized to 20 bar H
+2
+. After heating at 120 °C for 0.25–48 h, the catalyst was separated and the liquid phase was analysed by gas chromatography with biphenyl as the internal standard.
+The selectivity to benzene was defined as:
+$${\mathrm{selectivity}}\,{\mathrm{to}}\,{\mathrm{benzene}} = \frac{{N_{\mathrm{benzene}}}}{{N_{\mathrm{aromatics}}}}$$
+(2)
+where
+N
+benzene
+represents the converted mole number of benzene in the mixed aromatics and
+N
+aromatics
+represents the converted mole number of all aromatics.
+The conversion of aromatics was defined as:
+$${\mathrm{conversion}}\,{\mathrm{of}}\,{\mathrm{aromatics}} = \frac{{N_{\mathrm{aromatics}}}}{{N_0}}$$
+(3)
+where
+N
+0
+represents the initial mole number of all aromatics in the mixture.
+Gas-phase hydrogenation reactions
+Pd sponge (30 mg) was first reduced with H
+2
+(10 ml min
+−1
+) at 200 °C for 3 h in a fixed-bed reactor (1 mm inner diameter), and then cooled down to 80 °C for template adsorption and DMAPA poisoning. Template (toluene, mesitylene, TPB) for adsorption was supplied by injection with a syringe pump in a 10 ml min
+−1
+N
+2
+flow as carrier gas for several hours until saturated. Next, the template-adsorbed palladium catalyst was poisoned by bubbling DMAPA liquid at 30 °C under atmospheric pressure with 1 ml min
+−1
+N
+2
+flow for 10 min. Finally, the resulting catalyst was heated at 120 °C in the H
+2
+flow (10 ml min
+−1
+) for 30 min to remove the template from the catalyst. The imprinted palladium catalyst was named as TL-Print-Pd sponge, ML-Print-Pd sponge and TPB-Print-Pd sponge, respectively. Similarly, the palladium sponge poisoned with DMAPA in the same manner without adsorption of template was denoted as D-Pd sponge.
+After the imprinting process, the imprinted catalysts were used directly in the same reactor for gas-phase hydrogenation reactions. All the reactants (toluene, mesitylene and TPB) were fed by syringe pump at a rate of 0.1 mmol h
+−1
+. To avoid condensation of reactants, the whole fixed-bed system was kept at 200 °C. The reaction was carried out at 120 °C with 10 ml min
+−1
+N
+2
+as carrier gas and 10 ml min
+−1
+H
+2
+as a reducing agent under atmospheric pressure. Before reaction, the reactant flow first went through a bypass until stabilization. All the reactions were performed for 60 min, with continuous data collection by online gas chromatography.
+Gas-phase reactions over Pd/SiO
+2
+were performed in the same setup. First, 5 mg initial Pd/SiO
+2
+or 20 mg DMAPA-poisoned Pd/SiO
+2
+catalysts were loaded in the fixed-bed reactor. All the reactants (toluene, mesitylene and TPB) were fed by syringe pump at a rate of 0.1 mmol h
+−1
+. The whole fixed-bed system was kept at 200 °C. The reaction was carried out at 120 °C with 10 ml min
+−1
+N
+2
+as carrier gas and 10 ml min
+−1
+H
+2
+as a reducing agent under atmospheric pressure. Before the reaction, the reactant flow first went through a bypass until stabilization. All the reactions were performed for at least 3 h, with continuous data collection by online gas chromatography.
+Data availability
+All data are available from the authors upon reasonable request. Source data for all relevant catalytic runs are provided and are also available via the NextCloud repository of Lille University (
+https://nextcloud.univ-lille.fr/index.php/s/nEfMjomadjapRWM
+).
+References
+van Deelen, T. W., Hernández Mejía, C. & de Jong, K. P. Control of metal–support interactions in heterogeneous catalysts to enhance activity and selectivity.
+Nat. Catal.
+2
+, 955–970 (2019).
+Article
+CAS
+Google Scholar
+Kang, J. et al. Single-pass transformation of syngas into ethanol with high selectivity by triple tandem catalysis.
+Nat. Commun.
+11
+, 827 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Liu, P., Qin, R., Fu, G. & Zheng, N. Surface coordination chemistry of metal nanomaterials.
+J. Am. Chem. Soc.
+139
+, 2122–2131 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, C. et al. Maximizing sinusoidal channels of HZSM-5 for high shape-selectivity to
+p
+-xylene.
+Nat. Commun.
+10
+, 4348 (2019).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Cui, T. L. et al. Encapsulating palladium nanoparticles inside mesoporous MFI zeolite nanocrystals for shape-selective catalysis.
+Angew. Chem. Int. Ed.
+55
+, 9178–9182 (2016).
+Article
+CAS
+Google Scholar
+Howarth, A. J. et al. Chemical, thermal and mechanical stabilities of metal–organic frameworks.
+Nat. Rev. Mater.
+1
+, 15018 (2016).
+Article
+CAS
+Google Scholar
+Bai, R., Song, Y., Li, Y. & Yu, J. Creating hierarchical pores in zeolite catalysts.
+Trends Chem.
+1
+, 601–611 (2019).
+Article
+CAS
+Google Scholar
+Katz, A. & Davis, M. E. Molecular imprinting of bulk, microporous silica.
+Nature
+403
+, 286–289 (2000).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, L., Wang, X., Lu, W., Wu, X. & Li, J. Molecular imprinting: perspectives and applications.
+Chem. Soc. Rev.
+45
+, 2137–2211 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Mahon, C. S. & Fulton, D. A. Mimicking nature with synthetic macromolecules capable of recognition.
+Nat. Chem.
+6
+, 665–672 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Vladimir, M., Mirsky, T. H., Piletsky, S. A. & Wolfbeis, O. S. A spreader-bar approach to molecular architecture: formation of stable artificial chemoreceptors.
+Angew. Chem. Int. Ed.
+38
+, 1108–1110 (1999).
+Article
+Google Scholar
+Canlas, C. P. et al. Shape-selective sieving layers on an oxide catalyst surface.
+Nat. Chem.
+4
+, 1030–1036 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Li, Z. et al. Well-defined materials for heterogeneous catalysis: from nanoparticles to isolated single-atom sites.
+Chem. Rev.
+120
+, 623–682 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Wu, D. et al. In-situ generation of Brønsted acidity in the Pd-I bifunctional catalysts for selective reductive etherification of carbonyl compounds under mild conditions.
+ACS Catal.
+9
+, 2940–2948 (2019).
+Article
+CAS
+Google Scholar
+Marshall, S. T. et al. Controlled selectivity for palladium catalysts using self-assembled monolayers.
+Nat. Mater.
+9
+, 853–858 (2010).
+Article
+CAS
+PubMed
+Google Scholar
+Wu, D. et al. Dual metal–acid Pd–Br catalyst for selective hydrodeoxygenation of 5-hydroxymethylfurfural (HMF) to 2,5-dimethylfuran at ambient temperature.
+ACS Catal.
+11
+, 19–30 (2020).
+Article
+CAS
+Google Scholar
+Pang, S. H., Schoenbaum, C. A., Schwartz, D. K. & Medlin, J. W. Directing reaction pathways by catalyst active-site selection using self-assembled monolayers.
+Nat. Commun.
+4
+, 2448 (2013).
+Article
+PubMed
+CAS
+Google Scholar
+Liu, X. et al. Oxide-nanotrap-anchored platinum nanoparticles with high activity and sintering resistance by area-se lective atomic layer deposition.
+Angew. Chem. Int. Ed.
+56
+, 1648–1652 (2017).
+Article
+CAS
+Google Scholar
+Zhao, X. et al. Thiol treatment creates selective palladium catalysts for semihydrogenation of internal alkynes.
+Chem
+4
+, 1080–1091 (2018).
+Article
+CAS
+Google Scholar
+Wu, D. et al. Lignin compounds to monoaromatics: selective cleavage of C–O bonds over brominated ruthenium catalyst.
+Angew. Chem. Int. Ed.
+60
+, 12513–12523 (2021).
+Article
+CAS
+Google Scholar
+Xian, J., Hua, Q., Jiang, Z., Ma, Y. & Huang, W. Size-dependent interaction of the poly(
+N
+-vinyl-2-pyrrolidone) capping ligand with Pd nanocrystals.
+Langmuir
+28
+, 6736–6741 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Arrigo, R. et al. Nature of the N–Pd interaction in nitrogen-doped carbon nanotube catalysts.
+ACS Catal.
+5
+, 2740–2753 (2015).
+Article
+CAS
+Google Scholar
+Wu, B., Huang, H., Yang, J., Zheng, N. & Fu, G. Selective hydrogenation of α,β-unsaturated aldehydes catalyzed by amine-capped platinum–cobalt nanocrystals.
+Angew. Chem. Int. Ed.
+51
+, 3440–3443 (2012).
+Article
+CAS
+Google Scholar
+Du, Y., Chen, H., Chen, R. & Xu, N. Poisoning effect of some nitrogen compounds on nano-sized nickel catalysts in
+p
+-nitrophenol hydrogenation.
+Chem. Eng. J.
+125
+, 9–14 (2006).
+Article
+CAS
+Google Scholar
+Chen, J. J. & Winograd, N. The adsorption and decomposition of methylamine on Pd (111).
+Surf. Sci.
+326
+, 285–300 (1995).
+Article
+CAS
+Google Scholar
+Ding, S. Y. et al. Construction of covalent organic framework for catalysis: Pd/COF-LZU1 in Suzuki–Miyaura coupling reaction.
+J. Am. Chem. Soc.
+133
+, 19816–19822 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Vogt, L., Schulte, E., Collins, S. & Quaino, P. Theoretical and FTIR investigations of the acetonitrile hydrogenation pathways on platinum.
+Top. Catal.
+62
+, 1076–1085 (2019).
+Article
+CAS
+Google Scholar
+He, Q., Kusumi, R., Kimura, S., Kim, U. J. & Wada, M. Cationic hydrogels prepared from regioselectively azidated (1-3)-α-
+d
+-glucan via crosslinking and amination: physical and adsorption properties.
+Carbohydr. Polym.
+245
+, 116543 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Thorn, K. A. & Kennedy, K. R.
+15
+N NMR investigation of the covalent binding of reduced TNT amines to soil humic acid, model compounds, and lignocellulose.
+Environ. Sci. Technol.
+36
+, 3787–3796 (2002).
+Article
+CAS
+PubMed
+Google Scholar
+Yu, Y., Zhao, Y., Huang, T. & Liu, H. Shape-controlled synthesis of palladium nanocrystals by microwave irradiation.
+Pure Appl. Chem.
+81
+, 2377–2385 (2009).
+Article
+CAS
+Google Scholar
+Rahaman, M., Dutta, A. & Broekmann, P. Size-dependent activity of palladium nanoparticles: efficient conversion of CO
+2
+into formate at low overpotentials.
+ChemSusChem
+10
+, 1733–1741 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Rao, R. G. et al. Interfacial charge distributions in carbon-supported palladium catalysts.
+Nat. Commun.
+8
+, 340 (2017).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Chen, G. et al. Interfacial electronic effects control the reaction selectivity of platinum catalysts.
+Nat. Mater.
+15
+, 564–569 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Bachiller-Baeza, B. & Anderson, J. A. FTIR and reaction studies of styrene and toluene over silica–zirconia-supported heteropoly acid catalysts.
+J. Catal.
+212
+, 231–239 (2002).
+Article
+CAS
+Google Scholar
+Hamm, G. et al. The adsorption of benzene on Pd(111) and ordered Sn/Pd(111) surface alloys.
+Surf. Sci.
+562
+, 170–182 (2004).
+Article
+CAS
+Google Scholar
+Ioannides, T. & Verykios, X. E. The interaction of benzene and toluene with Rh dispersed on SiO
+2
+, Al
+2
+O
+3
+, and TiO
+2
+carriers.
+J. Catal.
+143
+, 175–186 (1993).
+Article
+CAS
+Google Scholar
+Campisi, S. et al. Selectivity control in palladium-catalyzed alcohol oxidation through selective blocking of active sites.
+J. Phys. Chem. C.
+120
+, 14027–14033 (2016).
+Article
+CAS
+Google Scholar
+Komanoya, T., Kinemura, T., Kita, Y., Kamata, K. & Hara, M. Electronic effect of ruthenium nanoparticles on efficient reductive amination of carbonyl compounds.
+J. Am. Chem. Soc.
+139
+, 11493–11499 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Lu, J. et al. Toward atomically-precise synthesis of supported bimetallic nanoparticles using atomic layer deposition.
+Nat. Commun.
+5
+, 3264 (2014).
+Article
+PubMed
+CAS
+Google Scholar
+Wang, X. et al. Palladium–platinum core–shell icosahedra with substantially enhanced activity and durability towards oxygen reduction.
+Nat. Commun.
+6
+, 7594 (2015).
+Article
+PubMed
+Google Scholar
+Tait, S. L. et al. One-dimensional self-assembled molecular chains on Cu(100): interplay between surface-assisted coordination chemistry and substrate commensurability.
+J. Phys. Chem. C.
+111
+, 10982–10987 (2007).
+Article
+CAS
+Google Scholar
+Abdala, P. M. et al. Scientific opportunities for heterogeneous catalysis research at the SuperXAS and SNBL beam lines.
+Chim. (Aarau)
+66
+, 699–705 (2012).
+Article
+CAS
+Google Scholar
+Vasiurrahaman, M. The hydrogenation of toluene and
+o
+-,
+m
+-, and
+p
+-xylene over palladium
+ii
+. Reaction model.
+J. Catal.
+127
+, 267–275 (1991).
+Article
+Google Scholar
+Poondi, D. & Albert Vannice, M. Competitive hydrogenation of benzene and toluene on palladium and platinum catalysts.
+J. Catal.
+161
+, 742–751 (1996).
+Article
+CAS
+Google Scholar
+Stolbov, S. & Rahman, T. S. First-principles study of some factors controlling the rate of ammonia decomposition on Ni and Pd surfaces.
+J. Chem. Phys.
+123
+, 204716 (2005).
+Article
+PubMed
+CAS
+Google Scholar
+Hoft, R. C., Ford, M. J., McDonagh, A. M. & Cortie, M. B. Adsorption of amine compounds on the Au(111) surface: a density functional study.
+J. Phys. Chem. C.
+111
+, 13886–13891 (2007).
+Article
+CAS
+Google Scholar
+Dai, C. et al. Deactivation study of Pd/Al
+2
+O
+3
+catalyst for hydrogenation of benzonitrile in fixed-bed reactor.
+Appl. Catal. A Gen.
+538
+, 199–206 (2017).
+Article
+CAS
+Google Scholar
+Guo, M. et al. Improving catalytic hydrogenation performance of Pd nanoparticles by electronic modulation using phosphine ligands.
+ACS Catal.
+8
+, 6476–6485 (2018).
+Article
+CAS
+Google Scholar
+Tsunoyama, H., Ichikuni, N., Sakurai, H. & Tsukuda, T. Effect of electronic structures of Au clusters stabilized by poly(
+N
+-vinyl-2-pyrrolidone) on aerobic oxidation catalysis.
+J. Am. Chem. Soc.
+131
+, 7086–7093 (2009).
+Article
+CAS
+PubMed
+Google Scholar
+Pushkarev, V. V., An, K., Alayoglu, S., Beaumont, S. K. & Somorjai, G. A. Hydrogenation of benzene and toluene over size controlled Pt/SBA-15 catalysts: elucidation of the Pt particle size effect on reaction kinetics.
+J. Catal.
+292
+, 64–72 (2012).
+Article
+CAS
+Google Scholar
+Verma, D. K. & des Tombe, K. Benzene in gasoline and crude oil: occupational and environmental implications.
+AIHA J.
+63
+, 225–230 (2002).
+Article
+CAS
+Google Scholar
+Galadima, A. & Muraza, O. Role of zeolite catalysts for benzene removal from gasoline via alkylation: A review.
+Microporous Mesoporous Mater.
+213
+, 169–180 (2015).
+Article
+CAS
+Google Scholar
+Savva, P. G. et al. Benzene hydrogenation over Ni/Al
+2
+O
+3
+catalysts prepared by conventional and sol–gel techniques.
+Appl. Catal. B
+79
+, 199–207 (2008).
+Article
+CAS
+Google Scholar
+Wang, Q. et al. Solid micellar Ru single-atom catalysts for the water-free hydrogenation of CO
+2
+to formic acid.
+Appl. Catal. B
+290
+, 120036 (2021).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+The authors thank Solvay and the University of Lille for a stipend for the PhD research of D.W. and financial support of this work. The authors thank the Chevreul Institute (FR 2638) for its help in the development of this work. The authors thank O. Gardoll, B. Revel and M. Capron for characterizations of the catalysts. The Chevreul Institute and the Microscopy Platform in Lille are supported by the Ministère de l’Enseignement Supérieur et de la Recherche et de l’Innovation, the CNRS, the Région Hauts-de-France, the Métropole Européenne de Lille and the Fonds Européen de Développement des Régions.
+Author information
+Authors and Affiliations
+Eco-Efficient Products and Processes Laboratory (E2P2L), UMI 3464 CNRS-Solvay, Shanghai, People’s Republic of China
+Dan Wu, Willinton Y. Hernández & Wenjuan Zhou
+UCCS–Unité de Catalyse et Chimie du Solide, Université de Lille, CNRS, Centrale Lille, ENSCL, Université d’Artois, UMR 8181, Lille, France
+Dan Wu, Bang Gu, Andrei Y. Khodakov & Vitaly V. Ordomsky
+Institut de Physique et Chimie des Matériaux de Strasbourg (IPCMS), UMR 7504 CNRS, Université de Strasbourg, Strasbourg, France
+Walid Baaziz & Ovidiu Ersen
+UMET–Institut Michel-Eugène Chevreul, Université de Lille, CNRS, INRAE, Centrale Lille, Université d’Artois, FR 2638, Lille, France
+Maya Marinova, Ahmed Addad & Nicolas Nuns
+School of Physical Science and Technology, Shanghai Tech University, Shanghai, People’s Republic of China
+Evgeny I. Vovk
+Paul Scherrer Institute, Villigen, Switzerland
+Olga V. Safonova
+Authors
+Dan Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Walid Baaziz
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bang Gu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Maya Marinova
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Willinton Y. Hernández
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wenjuan Zhou
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Evgeny I. Vovk
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ovidiu Ersen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Olga V. Safonova
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ahmed Addad
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Nicolas Nuns
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Andrei Y. Khodakov
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Vitaly V. Ordomsky
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+V.V.O., A.Y.K. and D.W. conceived the idea for this work. All authors contributed to the design of the experimental setup and experimental procedures. D.W. performed most of the experiments with the help of B.G. and W.Y.H. TEM analysis was performed by A.A., W.B., M.M. and O.E. XPS analysis was performed by E.I.V. O.V.S performed the XAS analysis, and N.N. performed the ToF-SIMS measurements. The project was directed by A.Y.K., V.V.O and W.Z. The manuscript was written through contributions of all authors. All authors have given approval to the final version of the manuscript.
+Corresponding authors
+Correspondence to
+Andrei Y. Khodakov
+or
+Vitaly V. Ordomsky
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Catalysis
+thanks the anonymous reviewers for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–19, Tables 1–3 and references.
+Source data
+Source Data Fig. 2
+Raw data for Fig. 2
+Source Data Fig. 7
+Raw data for Fig. 7
+Source Data Fig. 8
+Raw data for Fig. 8
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Wu, D., Baaziz, W., Gu, B.
+et al.
+Surface molecular imprinting over supported metal catalysts for size-dependent selective hydrogenation reactions.
+Nat Catal
+4
+, 595–606 (2021). https://doi.org/10.1038/s41929-021-00649-3
+Download citation
+Received
+:
+12 November 2020
+Accepted
+:
+08 June 2021
+Published
+:
+15 July 2021
+Issue Date
+:
+July 2021
+DOI
+:
+https://doi.org/10.1038/s41929-021-00649-3
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

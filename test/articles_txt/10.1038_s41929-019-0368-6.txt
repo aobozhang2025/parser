@@ -1,0 +1,2318 @@
+Molecular nitrogen promotes catalytic hydrodeoxygenation | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Molecular nitrogen promotes catalytic hydrodeoxygenation
+Download PDF
+Article
+Published:
+28 October 2019
+Molecular nitrogen promotes catalytic hydrodeoxygenation
+Haohong Duan
+1
+,
+2
+,
+3
+na1
+,
+Jin-Cheng Liu
+ORCID:
+orcid.org/0000-0001-7215-8307
+4
+na1
+,
+Ming Xu
+5
+na1
+,
+Yufei Zhao
+ORCID:
+orcid.org/0000-0002-5325-8991
+2
+,
+6
+,
+Xue-Lu Ma
+4
+,
+Juncai Dong
+ORCID:
+orcid.org/0000-0001-8860-093X
+7
+,
+Xusheng Zheng
+8
+,
+Jianwei Zheng
+2
+,
+Christopher S. Allen
+ORCID:
+orcid.org/0000-0002-6353-6000
+9
+,
+10
+,
+Mohsen Danaie
+ORCID:
+orcid.org/0000-0002-9325-7571
+9
+,
+10
+,
+Yung-Kang Peng
+11
+,
+Titipong Issariyakul
+12
+,
+Dongliang Chen
+7
+,
+Angus I. Kirkland
+ORCID:
+orcid.org/0000-0001-8068-1990
+9
+,
+10
+,
+Jean-Charles Buffet
+ORCID:
+orcid.org/0000-0003-2062-9546
+1
+,
+Jun Li
+ORCID:
+orcid.org/0000-0002-8456-3980
+4
+,
+13
+,
+Shik Chi Edman Tsang
+ORCID:
+orcid.org/0000-0002-8796-3146
+2
+&
+…
+Dermot O’Hare
+ORCID:
+orcid.org/0000-0001-8054-8751
+1
+Show authors
+Nature Catalysis
+volume
+2
+,
+pages
+1078–1087 (
+2019
+)
+Cite this article
+10k
+Accesses
+19
+Altmetric
+Metrics
+details
+Subjects
+Catalytic mechanisms
+Heterogeneous catalysis
+Porous materials
+Abstract
+Although molecular dinitrogen (N
+2
+) is widely used as a carrier or inert gas for many catalytic reactions, it is rarely considered as a catalytic promoter. Here, we report that N
+2
+could be used to reduce the activation energy for catalytic hydrodeoxygenation over ruthenium-based catalysts. Specifically, we report a 4.3-fold activity increase in the catalytic hydrodeoxygenation of
+p
+-cresol to toluene over a titanium oxide supported ruthenium catalyst (Ru/TiO
+2
+) by simply introducing 6 bar N
+2
+under batch conditions at 160 °C and 1 bar hydrogen. Detailed investigations indicate that N
+2
+can be adsorbed and activated on the metallic ruthenium surface to form hydrogenated nitrogen species, which offer protic hydrogen to lower the activation energy of direct carbon
+aromatic
+–oxygen bond scission and the hydrogenation of hydroxy groups. Thus, by employing different ruthenium catalysts, including Ru/TiO
+2
+, Ru/Al
+2
+O
+3
+, Ru/ZrO
+2
+and Ru/C, we demonstrate that N
+2
+promotion of hydrodeoxygenation can be regarded as a general strategy.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Oxophilic Ce single atoms-triggered active sites reverse for superior alkaline hydrogen evolution
+Article
+Open access
+10 January 2024
+Alkali ions secure hydrides for catalytic hydrogenation
+Article
+13 July 2020
+An air- and moisture-stable ruthenium precatalyst for diverse reactivity
+Article
+Open access
+03 April 2024
+Main
+Molecular nitrogen (N
+2
+) is widely used as a carrier or protective gas for many catalytic reactions because it is cheap, easy to produce from liquefaction of air and more importantly, considered as inert due to the strength of the N
+2
+triple bond
+1
+. In some special cases, N
+2
+participates in reactions and is catalytically converted into ammonia
+2
+or high-value nitrogen compounds such as N-heterocycles
+3
+and amines
+4
+. A typical heterogeneous catalytic reaction consists of two or three phases, including a solid-phase catalyst, gas-phase reactant (for example, N
+2
+and H
+2
+for ammonia synthesis
+5
+,
+6
+, CO and H
+2
+for Fischer–Tropsch synthesis
+7
+) and/or liquid-phase reactant and solvent (for example, sugars or phenols in organic or aqueous solvent for biomass upgrading
+8
+). Solid-phase catalysts are the primary target for development due to their ability to accelerate reactions. However, as catalysis occurs at interfacial sites, species from the other two phases may also affect the catalytic properties. For example, tuning the composition of solvent mixtures in the liquid phase has been shown to enhance the rate and selectivity of acid-catalysed dehydration reactions by altering the extent of solvation of the reagents and transition states
+9
+. However, in heterogeneous catalysis, N
+2
+from the gaseous phase has rarely been recognized as a promoter or an active component to enhance catalytic performance.
+Lignocellulosic biomass is a promising renewable carbon carrier that could contribute to reducing our dependence on fossil resources; lignin is one of the important constituents of lignocellulosic biomass and consists of cross-linked phenolic polymers
+8
+,
+10
+. Hydrodeoxygenation (HDO) is considered a critical reaction to upgrade pyrolysed lignin, known as bio-oil, to hydrocarbon fuels and high-added-value chemicals (such as benzene, toluene and other aromatics)
+11
+,
+12
+. HDO reactions are typically performed in the presence of a solid-phase catalyst, a liquid-phase phenol substrate and gas-phase molecular hydrogen (H
+2
+). In an attempt to enhance the performance of the HDO reaction, intensive efforts have been devoted to designing solid-phase catalysts with high efficiency for the cleavage of the C
+aromatic
+–OH bond, which features a high dissociation enthalpy (465 kJ mol
+–1
+)
+13
+,
+14
+,
+15
+,
+16
+.
+Herein, we report the use of N
+2
+to promote the catalytic activity of ruthenium-based catalysts in HDO reactions. In converting
+p
+-cresol into toluene (see Table
+1
+) over a titanium oxide supported ruthenium catalyst (Ru/TiO
+2
+), we observed a 4.3-fold activity increase at 160 °C and 1 bar H
+2
+in the presence of an additional 6 bar N
+2
+. Ru/TiO
+2
+was selected due to the strong hydrogenolysis and weak hydrogenation abilities of Ru (ref.
+17
+) in combination with the C
+aromatic
+–O bond-weakening ability of TiO
+2
+(ref.
+18
+).
+p
+-Cresol was selected as the substrate because it is a good representative compound of the components found in lignin-derived pyrolysis bio-oil
+16
+. Our detailed investigations indicate that N
+2
+can be activated on the ruthenium metallic surface to form hydrogenated nitrogen species (N
+2
+H
+x
+,
+x
+= 1, 2) with N–H bonds that may then offer a protic hydrogen to assist the removal of –OH groups adsorbed on the catalyst surface. As a consequence, the rate-determining step for the HDO of
+p
+-cresol is shifted from –OH hydrogenation (1.63 eV) to N
+2
+hydrogenation (1.21 eV), and thus the overall activation energy of the HDO process is significantly decreased. At the same time, N
+2
+may also help to prevent hydrogen poisoning of the ruthenium surface, thereby making more metal sites available for the HDO reaction. Finally, the promoting effect of N
+2
+is shown to be valid for a variety of ruthenium catalysts on different supports (TiO
+2
+, Al
+2
+O
+3
+, ZrO
+2
+and active carbon). Our results indicate that the incorporation of N
+2
+in HDO reactions could become a general approach for other high-performance HDO ruthenium-based catalysts.
+Table 1 Comparison of HDO activity for the conversion of 4-methylphenol into toluene by using Ru/TiO
+2
+catalysts with and without N
+2
+and state-of-the-art HDO catalysts from the literature
+Full size table
+Results
+Catalyst characterization of the Ru/TiO
+2
+catalyst
+The Ru/TiO
+2
+catalyst was prepared using a wet-impregnation method (see
+Methods
+and Supplementary Fig.
+1
+for preparation details). TiO
+2
+was impregnated with an aqueous solution of RuCl
+3
+with rapid stirring, followed by drying and reduction in H
+2
+at 400 °C. The high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) images revealed that ruthenium particles are well dispersed on the TiO
+2
+support (Fig.
+1a,b
+and Supplementary Fig.
+2
+) with an average diameter of 1.2 nm (Fig.
+1c
+). The composition of Ru/TiO
+2
+was determined by energy-dispersive X-ray spectroscopy (EDS) analysis in STEM mode (Fig.
+1d
+), and the loading of ruthenium was determined to be 0.74 wt% by using inductively coupled plasma atomic emission spectroscopy (ICP-AES) analysis (Supplementary Table
+1
+). Powder X-ray diffraction (PXRD) analysis (Fig.
+1e
+) revealed a mixed rutile and anatase phase of TiO
+2
+. There is no clear difference in the reflection at 2
+θ
+= 44° for the TiO
+2
+and Ru/TiO
+2
+samples. The predicted Bragg reflection (210) of rutile TiO
+2
+at 2
+θ
+= 44.054° coincides with the Bragg reflection (101) for ruthenium at 2
+θ
+= 44.005° for (101). Therefore we conclude that this reflection contains very little contribution from ruthenium due to the small size of the metal nanoparticles, which agrees with the TEM results. The Lewis acidity of Ru/TiO
+2
+was confirmed (Supplementary Fig.
+3
+), which is consistent with the deoxygenation ability TiO
+2
+18
+.
+Fig. 1: Structural characterization of the Ru/TiO
+2
+catalyst.
+a
+,
+b
+, High-angle annular dark-field scanning transmission electron microscopy images of a representative region (
+a
+) and an individual particle (
+b
+) of the Ru/TiO
+2
+catalyst corresponding to the arrow in
+a
+. Scale bars: 2 nm (
+a
+); 1 nm (
+b
+).
+c
+, Size distribution of the ruthenium particles.
+d
+, STEM-EDS elemental mapping results for Ru/TiO
+2
+. Scale bars, 10 nm.
+e
+, Powder X-ray diffraction patterns of the Ru/TiO
+2
+catalyst and TiO
+2
+. The inset highlights the reflection at around 2
+θ
+= 44°.
+Full size image
+Catalytic performance of Ru/TiO
+2
+in the presence of N
+2
+The catalytic performance of Ru/TiO
+2
+was evaluated for the HDO of
+p
+-cresol in a batch reactor (for details, see
+Methods
+). The results are presented in Table
+1
+along with the catalytic performances of state-of-the-art HDO catalysts for the conversion of
+p
+-cresol or other phenols into aromatics for comparison. Most of the HDO reactions with ruthenium-based catalysts reported in the literature
+13
+,
+14
+,
+17
+were studied at a temperature higher than 200 °C (entries 1–3 in Table
+1
+). A higher activity was observed for isolated cobalt atoms doped into MoS
+2
+monolayers
+16
+(Co-
+S
+MoS
+2
+, entry 4), but the H
+2
+pressure required was 30 bar. Although extremely mild conditions were used for ruthenium catalysts modified by a C,N matrix (entry 5), alicyclic compounds rather than aromatics were the main products
+19
+,
+20
+. As seen in entry 6, our Ru/TiO
+2
+catalyst showed similar toluene selectivity at a similar temperature and lower H
+2
+pressure. Remarkably, if 6 bar N
+2
+was added to the gas mixture as a complementary gas, the conversion increased as well as the toluene selectivity (entry 7). N
+2
+was used as a complementary gas in a previous study (entry 2)
+21
+, but its catalytic effect was not studied. Because N
+2
+is widely considered to be inert in the HDO reaction, we have devoted considerable efforts to trying to unravel the origin of the N
+2
+promoting effect.
+To identify catalytic trends inherent to the Ru/TiO
+2
+catalyst, HDO of
+p
+-cresol was conducted under conditions that produce a low and constant conversion of 10% in a region free of external (Supplementary Fig.
+4
+) and internal (Supplementary Note
+1
+) mass transport limitations. As shown in the left-hand columns in Fig.
+2a
+(the data are presented in Supplementary Table
+2
+), a 1.5-fold higher toluene selectivity and 4.3-fold increase in HDO activity were observed in the presence of N
+2
+. The promoting effect of N
+2
+in the HDO reaction was also verified at a constant conversion of 21% (two right-hand columns in Fig.
+2a
+). The production of toluene follows a direct deoxygenation pathway with the formation of methylcyclohexane as an over-hydrogenation product of toluene and 4-methylcyclohexanone and 4-methylcyclohexanol as hydrogenation products of
+p
+-cresol (Supplementary Fig.
+5
+), which is in agreement with a previous report
+16
+.
+Fig. 2: Catalytic performance promoted by N
+2
+in the hydrodeoxygenation of
+p
+-cresol using the Ru/TiO
+2
+catalyst.
+Comparison of the conversion and selectivity with or without N
+2
+in the batch reaction.
+a
+, Comparison at two different conversions, reaction conditions:
+p
+-cresol (0.195 mmol), Ru/TiO
+2
+catalyst (25, 10, 25 and 25 mg from left to right columns), decalin (8 ml), 160 °C, reaction time (1, 1, 4 and 1 hour from the left to right columns), system pressure of 1 bar H
+2
+and 6 bar He (or 1 bar H
+2
+and 6 bar N
+2
+), mixture stirred at 600 r.p.m.
+b
+, Comparison at various H
+2
+pressures, reaction conditions:
+p
+-cresol (0.195 mmol), Ru/TiO
+2
+catalyst (25 mg), decalin (8 ml), 160 °C, 1 hour, system pressure of 1–6 bar H
+2
+and 6 bar He (or 1–6 bar H
+2
+and 6 bar N
+2
+), mixture stirred at 600 r.p.m.
+c
+, Comparison at various N
+2
+pressures, reaction conditions:
+p
+-cresol (0.195 mmol), Ru/TiO
+2
+catalyst (25 mg), decalin (8 ml), 160 °C, 1 hour, system pressure of 1 bar H
+2
+, 6 bar He and 0–6 bar N
+2
+, mixture stirred at 600 r.p.m.
+d
+, Comparison of the conversion and selectivity with or without N
+2
+in the fixed-bed reaction. Reaction conditions:
+p
+-cresol (concentration of 1.12 mg ml
+–1
+with decalin as solvent, flow rate of 0.2 ml min
+−1
+), Ru/TiO
+2
+(100 mg), 180 °C, system pressure of 1 bar H
+2
+and 6 bar He (or 1 bar H
+2
+and 6 bar N
+2
+), H
+2
+flow rate of 5 cm
+3
+(STP) min
+–1
+, N
+2
+(or He) flow rate of 30 cm
+3
+(STP) min
+–1
+, weight hourly space velocity (0.134 h
+–1
+).
+Full size image
+Catalytic HDO in the presence of N
+2
+Surface oxygen might affect the reaction mechanism. In our work we observed that the ruthenium was oxidized before it was loaded into the batch reactor (Supplementary Fig.
+6a
+), therefore ruthenium oxidation, its reducibility and the effect on HDO activity were considered worthy of further investigation. Ru/TiO
+2
+catalyst unexposed to air was prepared (Supplementary Fig.
+7
+) and compared with the catalyst exposed to air (3 hours and 3 days) in the HDO of
+p
+-cresol. The catalytic results show that there is no obvious difference between the catalyst not exposed to air and that exposed to air (Supplementary Fig.
+8
+), suggesting that the oxidized ruthenium can be reduced at the reaction temperature, as demonstrated by temperature-programmed reduction (TPR, Supplementary Fig.
+9
+) and in situ X-ray photoelectron spectroscopy (XPS, Supplementary Fig.
+6b
+)
+22
+. Thus, these results suggest that the surface oxygen on ruthenium had an insignificant effect on the reaction mechanism during the reduction time. After the effect of ruthenium oxidation was excluded, the contribution of water was studied for its promoting effect in the HDO reaction
+23
+. The catalytic reaction with different amounts of water showed no obvious difference (Supplementary Fig.
+10
+), which is probably due to the non-polar solvent (decalin) inhibiting the effect of water.
+The promoting effect of N
+2
+in the HDO reaction was investigated under various H
+2
+and N
+2
+pressures. With increased H
+2
+pressure, the toluene selectivity (Fig.
+2b
+) as well as its yield (Supplementary Fig.
+11
+) promoted by N
+2
+became less pronounced. The reaction order for H
+2
+over the Ru/TiO
+2
+catalyst was measured to be –0.57 in the presence of 1–3 bar H
+2
+(Supplementary Fig.
+12
+). The negative value could be attributed to hydrogen adatoms on the ruthenium surface from hydrogenolysis suppressing the adsorption of N
+2
+and thus inhibiting the N
+2
+promoting effect, which is consistent with the hydrogen poisoning effect observed in ammonia synthesis
+5
+. The preferential adsorption of H
+2
+was also confirmed by the observation of the higher selectivity for hydrogenation products under higher H
+2
+pressure. With increased N
+2
+pressure from 0 to 4 bar, the conversion increased gradually and the toluene selectivity increased from 66.0 to 88.1% (Fig.
+2c
+). It is known that the reaction order for N
+2
+is between 0.8 and 1.0 for ammonia synthesis over conventional ruthenium-loaded catalysts and is smaller for a catalyst with stronger N
+2
+dissociation ability
+5
+. In this work, the HDO reaction order for N
+2
+was estimated to be in the range of 0.38–0.98 (Supplementary Fig.
+13
+), although strictly it is inappropriate to call it the ‘HDO reaction order’ because nitrogen is not incorporated into the reaction products. This result implies that N
+2
+is activated on Ru/TiO
+2
+with the formation of active species that provide a lower activation barrier for the overall HDO reaction. The nature of the active species and proposed mechanism for the N
+2
+activation is discussed later. Interestingly, the conversion and toluene selectivity started to decrease when the N
+2
+pressure was further increased. The reaction rate is a function of the concentration of all surface species, which include N
+2
+, H
+2
+,
+p
+-cresol and toluene. So the decrease in rate could be due to a higher surface coverage of N
+2
+compared with
+p
+-cresol.
+Besides the N
+2
+promoting effect in the batch reaction, we also investigated the N
+2
+promoting effect in a fixed-bed reaction. The reaction was carried out at constant total pressure (7 bar) and constant H
+2
+partial pressure (1 bar), while the complementary gas was changed between 6 bar N
+2
+and 6 bar He for three successive cycles. As shown in Fig.
+2d
+, a higher toluene selectivity (1.2-fold higher for the first cycle) and conversion were observed in the presence of N
+2
+, whereas the selectivity of the other products did not change significantly. The results of the fixed-bed reaction show the efficiency of N
+2
+in promoting the HDO reaction. Although the catalytic results for the batch and fixed-bed reactions are difficult to compare directly, mainly due to a different contact time (Supplementary Note
+2
+), both of the reaction systems show higher toluene selectivity in the HDO of
+p
+-cresol with N
+2
+. The Ru/TiO
+2
+retained its particle size after reaction, as revealed by STEM imaging (Supplementary Fig.
+14
+). The long-term stability of the N
+2
+promoting effect still remains to be investigated from an industrial perspective.
+Understanding N
+2
+promotion of the catalytic HDO reaction
+To clarify the origin of the N
+2
+promoting effect in catalytic HDO, the kinetics of the HDO reaction with and without N
+2
+were studied. The catalytic results were obtained at conversions below 20%; the observed product distribution at this low conversion level could fingerprint the intrinsic reaction kinetics. Arrhenius plots were obtained by least-squares linear fitting of ln(rate of toluene production) versus 1/
+RT
+(Fig.
+3a
+). In the absence of N
+2
+, Ru/TiO
+2
+exhibited an apparent activation energy (
+E
+a
+) of ~0.97 eV for the HDO of
+p
+-cresol, in good agreement with the reported results
+24
+. Remarkably, in the presence of N
+2
+, the
+E
+a
+was reduced significantly to ~0.58 eV. This finding suggests that the adsorption of N
+2
+with the formation of active species on Ru/TiO
+2
+decreases the activation energy and thus promotes the catalytic activity for the HDO reaction.
+Fig. 3: Understanding the promotion of HDO by N
+2
+.
+a
+, Arrhenius plots of Ru/TiO
+2
+with and without N
+2
+. Reaction conditions for the batch reaction:
+p
+-cresol (0.195 mmol), Ru/TiO
+2
+(10 mg), 160–190 °C, 1 bar H
+2
+and 6 bar He (or 1 bar H
+2
+and 6 bar N
+2
+), 1 hour, decalin (8 ml), mixture stirred at 600 r.p.m. Error bars represent the standard deviation from three independent measurements.
+b
+, In situ N XANES spectra of Ru/TiO
+2
+on exposure to N
+2
+/H
+2
+(v/v, 3:1) at 120, 180 and 240 °C.
+c
+,
+d
+, In situ FTIR spectra of the Ru/TiO
+2
+catalyst in the presence of N
+2
+and H
+2
+recorded in the ranges (
+c
+) 3,800−3,000 cm
+−1
+and
+(d
+) 1,800−1,400 cm
+−1
+at a pressure of 7 bar with a stoichiometric N
+2
+/H
+2
+ratio of 6:1 at 160, 180 and 200 °C.
+e
+,
+f
+, In situ time-resolved FTIR spectra of the Ru/TiO
+2
+catalyst on exposure to
+p
+-cresol at 160 °C at 7 bar recorded in the ranges (
+e
+) 3,750−2,750 cm
+−1
+and (
+f
+) 1,700−1,100 cm
+−1
+at a pressure of 7 bar with a stoichiometric N
+2
+/H
+2
+ratio of 6:1. From bottom to top, a−l: 0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300 and 330 s.
+Full size image
+To study the formation of active species associated with N
+2
+adsorption, in situ X-ray absorption near edge structure (XANES) and in situ Fourier-transform infrared (FTIR) spectroscopy measurements were carried out and the results show that N
+x
+H
+y
+species (
+x
+= 1, 2,
+y
+= 1, 2) were formed on the surface of Ru/TiO
+2
+under the reaction conditions. The in situ XANES results are shown in Fig.
+3b
+. The existence of N
+x
+H
+y
+species on the surface of Ru/TiO
+2
+under the reaction conditions is shown by the presence of absorptions (centred at 398.1 and 401.0 eV) arising from transitions from the K shell (N 1
+s
+) to the unoccupied
+π
+* orbital, and absorptions (centred at 405.5 and 413.0 eV) from transitions into the
+σ
+* orbital
+25
+. The intensities of the absorption peaks centred at 401.0, 405.5 and 413.0 eV decrease with temperature, which is presumably associated with the desorption of molecular N
+2
+at increased temperature. By contrast, the absorption peak at 398.1 eV, which can be ascribed to the =N– group in the N
+2
+H
+x
+species, exhibits an intensity enhancement with temperature. This indicates a dominance of an asymmetric species such as N
+2
+H
+1
+, which is in good agreement with the density functional theory (DFT) calculations reported below, which showed that it is kinetically more favourable for N
+2
+H
+1
+to form on the Ru/TiO
+2
+surface than a symmetric species such as N
+2
+H
+2
+.
+The in situ FTIR results are shown in Fig.
+3c–f
+. In the presence of N
+2
+and H
+2
+on Ru/TiO
+2
+(Fig.
+3c,d
+), the IR bands at 3,375 and 3,478 cm
+−1
+could be assigned to the ν(N–H) stretching vibrations of N
+x
+H
+y
+species, and the primary IR band at 1,623 cm
+−1
+could be tentatively attributed to the ν(N=N) stretching of N
+2
+H
+x
+species
+26
+, whereas no IR band was observed at atmosphere pressure (Supplementary Fig.
+15
+). Moreover, the intensity of the ν(N=N) IR band at 1,623 cm
+−1
+increased gradually with elevated temperature, which is consistent with the results from in situ nitrogen XANES measurements. It is generally accepted that the O−H deformation vibration of surface hydroxy groups is located at 1,630 to 1,660 cm
+−1
+. To exclude the possibility that the IR band at 1,623 cm
+−1
+originates from the vibration of O−H, a set of experiments were executed, including (1) introducing only H
+2
+(Supplementary Fig.
+16
+) into the reaction system, (2) H
+2
+O chemisorption (Supplementary Fig.
+17
+) and (3) D
+2
+O chemisorption (Supplementary Fig.
+18
+) over a fresh Ru/TiO
+2
+catalyst, (4) D
+2
+isotope-exchange experiments (Supplementary Fig.
+19
+) and (5) N
+2
+isotope-exchange experiments (Supplementary Fig.
+20
+). According to the variation of vibrations associated with N
+x
+H
+y
+and O−H species, the results of the above experiments suggest that the IR vibration band at 1,623 cm
+−1
+does not derive from the deformation vibration of the O−H bond, but can probably be attributed to N
+2
+H
+x
+species.
+To study the role of N
+2
+H
+x
+species in the HDO reaction, in situ FTIR experiments were carried out on Ru/TiO
+2
+in the presence of the catalytic reaction substrate (
+p
+-cresol). As shown in Fig.
+3e,f
+, with the introduction of
+p
+-cresol vapour at 160 °C at 7 bar, three different types of variation were observed. (1) The bands of surface hydrogenated nitrogen species (N
+2
+H
+x
+) at
+∼
+1,623 cm
+−1
+disappeared and the IR band at
+∼
+3,614 cm
+−1
+showed a small change. (2) A series of new bands were observed at
+∼
+3,020,
+∼
+2,919,
+∼
+2,862,
+∼
+1,431 and
+∼
+1,357 cm
+−1
+assigned to ν(C–H) of the phenyl ring, asymmetric ν
+as
+(CH
+3
+) stretching vibration, symmetric ν
+s
+(CH
+3
+) stretching vibration, asymmetric δ
+as
+(CH
+3
+) and symmetric δ
+s
+(CH
+3
+) bending vibration, respectively; moreover, ν(C–C) vibrations of the phenyl ring were also observed at
+∼
+1,611,
+∼
+1,598,
+∼
+1,507 and
+∼
+1,462 cm
+−1
+. (3) The IR bands at
+∼
+3,279 and
+∼
+1,227 cm
+−1
+, which relate to the stretching vibration of the O–H and C–O bonds of
+p
+-cresol, respectively, were not detected 30 seconds after the introduction of
+p
+-cresol, indicating that only toluene was adsorbed on the surface of the Ru/TiO
+2
+catalyst. Afterwards, the IR bands at 3,279 and 1,227 cm
+−1
+gradually increased, as shown in Fig.
+3e
+(b–l),f(b–l), owing to the surface N
+2
+H
+x
+species being consumed accompanied by the adsorption of
+p
+-cresol over the surface of the Ru/TiO
+2
+catalyst with time. The above results suggest that the adsorbed N
+2
+H
+x
+species on the surface of ruthenium react with
+p
+-cresol to produce toluene (the surface hydrogenated nitrogen species directly participate in the C–O hydrogenolysis reaction). Notably, the IR ν(Ti–OH) band at
+∼
+3,614 cm
+−1
+shows inconspicuous change, indicating that surface hydroxy groups do not react efficiently to form H
+2
+O under the reaction conditions. Furthermore, in contrast to the small change in the IR band at
+∼
+3,614 cm
+−1
+, the IR band at
+∼
+1,623 cm
+−1
+disappeared after the introduction of
+p
+-cresol. This also demonstrates that the vibration at
+∼
+1,623 cm
+−1
+does not correspond to the deformation vibration of the O–H bond.
+In addition, it has been reported that small molecules with amine groups, such as ethylenediamine
+27
+and 4-aminobenzylamine
+28
+, adsorbed on metal catalyst surfaces could influence the electronic structure of the metal surface by electron donation and thus control the catalytic properties. To investigate whether the formation of N
+2
+H
+x
+species changed the electron structure of the ruthenium surface, in situ XPS measurements were conducted (Supplementary Fig.
+21
+). The photoemission features of ruthenium showed no shift after the adsorption of N
+2
+at elevated temperature. A previous study
+29
+also revealed no change in the ruthenium chemical shifts following N
+2
+adsorption. These studies indicate that the electronic structure of surface ruthenium is not influenced by the formation of N
+2
+H
+x
+species. The experimental data suggest that the main role of N
+2
+H
+x
+species in promoting HDO is not to tune the electron structure of Ru/TiO
+2
+, but possibly to chemically interact with the reactants or intermediates during the HDO reaction.
+First-principle calculations
+DFT calculations were performed in an effort to illustrate the role of N
+2
+and deduce the possible reaction mechanism. A Ru
+19
+cluster on an anatase TiO
+2
+(101) slab was adopted as the computational model (Supplementary Data
+1
+). A Ru
+19
+moiety was selected because it has two layers of atoms 0.8 nm in diameter (Supplementary Fig.
+22
+)
+30
+, which is a good model to represent the structure of Ru/TiO
+2
+observed in the TEM image. Anatase TiO
+2
+(101) was selected on the basis of the structural results of the XRD analysis [Fig.
+1e
+shows the (101) peak at 2
+θ
+= 25.3°] and the HAADF-STEM images, the structure of which was well studied
+31
+. All the charge transfer from the Ru
+19
+cluster to the TiO
+2
+interface led to partial oxidation of the ruthenium atoms; the charge on the Ru
+19
+cluster increased to +1.8 |
+e
+| on the basis of a Bader charge analysis, which promotes the π–
+d
+type adsorption of
+p
+-cresol to –1.61 eV upon charge transfer with a strong metal–support interaction. Previous work demonstrated that there is no so-called B5 site on the surface of small ruthenium clusters (<2 nm), which is where dissociative adsorption occurs
+32
+. As shown in Fig.
+4a,b
+, the N
+2
+dissociative barrier is as high as 1.48 eV on the Ru
+19
+cluster, but the barrier for associative hydrogenation of N
+2
+to N
+2
+H
+1
+is only 0.79 eV, which is possible under the reaction conditions. This result agrees well with the
+15
+N
+2
+isotope results, which showed that dissociative adsorption of N
+2
+was not favourable over Ru/TiO
+2
+under the reaction conditions (Supplementary Fig.
+23
+). In addition, side-on adsorption is important to activate N
+2
+by back donation of an electron from the 3
+d
+orbital of the metal to the
+π
+* orbital of N
+2
+, which could reduce the bond order of the triple bond of N
+2
+(ref.
+32
+). Further hydrogenation of N
+2
+H
+1
+to HNNH has a barrier of 1.21 eV with an endothermic energy of 0.20 eV. Such an endothermic process has also been observed in other hydrogenation reactions
+32
+. The N–N bond length is elongated from 1.34 Å in N
+2
+H
+1
+to 1.39 Å in N
+2
+H
+2
+, and the net charge of dinitrogen decreases from –1.88 to –2.69 |
+e
+|. For comparison, the pathway for the hydrogenation of N
+2
+H
+1
+to NNH
+2
+is more difficult, with a barrier of 1.91 eV. Further hydrogenation of N
+2
+H
+2
+to N
+2
+H
+3
+needs to overcome a barrier of 1.38 eV with an endothermic energy of 0.42 eV, which is more difficult under the HDO reaction conditions (Supplementary Fig.
+24
+). Thus, the calculations show that the reduction of N
+2
+does not follow a dissociative pathway but an associative one, with the most probable product being N
+2
+H
+1
+.
+Fig. 4: DFT calculations of the HDO reaction.
+a
+,
+b
+, Reaction energy profiles and the corresponding structures for N
+2
+dissociation (red curve), hydrogenation on Ru
+19
+/TiO
+2
+to NNH
+2
+(blue curve) or to HNNH (black curve).
+c
+, Illustration of the proposed reaction mechanism for N
+2
+activation and the HDO reaction. Colour code of the spheres: Ru (light orange), Ti (light grey), O (red), N (blue), C (dark grey) and H (white).
+Full size image
+The formation of N–H bonds in N
+2
+H
+x
+species provides a different reaction pathway for the HDO process in addition to simple hydrogenation with H
+2
+. We therefore can compare the reaction mechanism with and without N
+2
+H
+x
+species (Fig.
+4c
+and Supplementary Fig.
+25
+). Low-coordinated ruthenium atoms are plentiful at the corner sites of small ruthenium clusters, where
+p
+-cresol binds with the ruthenium atoms through π→
+d
+donation with an adsorption energy of around –1.61 eV. The dissociation barrier for a C
+aromatic
+–O bond is 0.88 eV with the OH group migrating to an adjacent ruthenium site. The energy change for this step is about –0.98 eV, so the formed OH group is relatively stable on the ruthenium cluster and it is difficult for the hydride (H
+δ
+–
+) atoms on ruthenium, which derive from H
+2
+dissociative adsorption, to remove the OH group. The calculated barrier for the step OH + H → H
+2
+O on the ruthenium cluster is as high as 1.63 eV because of unfavourable repulsion between the negatively charged OH groups (–1.52 |
+e
+|) and hydride (–0.26 |
+e
+|). For comparison, in the step involving removal of the OH group, when N
+2
+H
+x
+is introduced into this system, it provides extra protic hydrogen (H
+δ
++
+, Bader charge of +1.00 |
+e
+|) to eliminate the OH groups from the ruthenium surface by overcoming a much lower barrier. The reaction between *OH and *NNH has a low barrier of 0.42 eV and an exothermic reaction energy of −0.04 eV, and the reaction between *OH and *HNNH also has a low barrier of 0.41 eV and an exothermic reaction energy of –0.16 eV. Finally, the C
+aromatics
+obtained by capture of another H from the ruthenium surface to form toluene has a barrier of 0.68 eV. The rate-determining step for the HDO process without N
+2
+assistance is the hydrogenation of the OH group with a barrier of 1.63 eV, whereas with N
+2
+assistance and N
+2
+H
+1
+formation, the barrier for OH hydrogenation is decreased significantly, leading to N
+2
+hydrogenation as the rate-determining step. It is worth mentioning that the formed N
+2
+H
+1
+can reversibly convert into N
+2
+and H
+2
+on the ruthenium surface due to the low value of
+E
+a
+, with an equilibrium being established. In the presence of
+p
+-cresol, it is plausible that the produced N
+2
+H
+1
+could be largely consumed, which promotes N
+2
+H
+1
+formation. Note that at the Ru/TiO
+2
+interface, H
+2
+O and the OH group could also accelerate C–OH dissociation. The activation barrier is only 0.33 eV, but the regeneration of such interface H
+2
+O is a strongly endothermic step of about 0.96 eV (Supplementary Table.
+3
+), which is similar to the values reported previously
+24
+. We also considered the migration of the OH group from ruthenium to TiO
+2
+. The calculated barrier for the diffusion of OH from ruthenium to a bare Ti site at the interface is only about 0.60 eV, but the regeneration of the interface titanium site by H
+2
+O formation needs to overcome a much higher barrier of about 1.41 eV (Supplementary Fig.
+26
+). The original catalytic activity without N
+2
+could be attributed to interface reactions. The origin of the N
+2
+promoting effect of the catalytic activity in the HDO reaction is proposed in Fig.
+4c
+, in which N
+2
+H
+x
+species are produced by N
+2
+activation (left part in Fig.
+4c
+), which provide protic hydrogen to hydrodeoxygenate
+p
+-cresol (right part in Fig.
+4c
+).
+Discussion
+We have investigated whether the N
+2
+promoting effect is a generalized phenomenon for other ruthenium-based catalysts with different supports (Ru/TiO
+2
+, Ru/Al
+2
+O
+3
+, Ru/ZrO
+2
+and Ru/C). All the catalysts were synthesized by the wet-impregnation method (see
+Methods
+) except Ru/C, which was supplied by Alfa Aesar. The loading of ruthenium was determined by ICP-AES analysis (Supplementary Table
+1
+) and the ruthenium particles were determined to be in the nano-size regime (Supplementary Fig.
+27
+). An increase in HDO activity in the presence of N
+2
+was observed over these catalysts with various supports (Supplementary Fig.
+28
+), with TiO
+2
+exhibiting a higher selectivity and conversion promoted by N
+2
+.
+Our experimental and theoretical studies have shown that associative N
+2
+reduction by reaction with H-containing species provide N
+2
+H
+x
+species that help to promote the conversion of
+p
+-cresol into toluene over a series of ruthenium catalysts supported on various metal oxides or carbon. In our work, the proposed mechanism of N
+2
+reduction is different from the mechanism of ammonia production over supported ruthenium nanoparticles, which has been widely studied. The optimal size of ruthenium (~2 nm) on MgAl
+2
+O
+4
+in a typical ammonia synthesis contains the maximum B5 site (3D step sites)
+33
+. By contrast, the ruthenium (~1 nm) on TiO
+2
+used for the HDO reaction of
+p
+-cresol in this work and the corresponding Ru
+19
+cluster model, with a similar size, are apparently smaller, and contain no B5 sites
+32
+. Larger particles with B5 sites may also exist in the catalyst, but their fraction is estimated to be low and thus they might exert an insignificant effect on the HDO reaction. In addition, we are not working on ammonia synthesis (typically performed at 400–500 °C), but the HDO of
+p
+-cresol at a considerably lower temperature (160 °C), thus the temperatures applied in this work are sufficiently low that little N
+2
+dissociation occurs. Also, this work is confined to special ruthenium catalysts containing small ruthenium clusters tested at low temperature to give a lower barrier for N
+2
+hydrogenation than for N
+2
+dissociation on the surface of the ruthenium cluster to form N
+2
+H
+x
+species for the HDO reaction. The associative reduction of N
+2
+has also been demonstrated on other supported small metal clusters and is effective under mild conditions
+34
+,
+35
+. The activation of N
+2
+by an associative pathway rather than by a dissociative one is reminiscent of the activation of O
+2
+, in which the facile formation of OOH by an associative pathway plays a critical role
+36
+,
+37
+. This low-barrier associative pathway for N
+2
+reduction may explain why the inert N
+2
+can have such an unexpected promoting role. In addition, competition for the same ruthenium site between H, N
+2
+,
+p
+-cresol and toluene may also exist under the reaction conditions and contribute to the activity enhancement in the presence of N
+2
+. Hydrogen poisoning commonly takes place on ruthenium above 200 °C (ref.
+5
+), and any surface species, for example, N
+2
+in our case, that can remove H and vacate the ruthenium site will facilitate faster adsorption of
+p
+-cresol and hence a higher rate.
+In conclusion, we have discovered an efficient strategy for promoting HDO activity over ruthenium-based catalysts by introducing N
+2
+into the reaction. These experimental and theoretical studies suggest that N
+2
+may be converted into N
+2
+H
+x
+species, which provide protic hydrogen to assist the hydrogenation of the hydroxy group on
+p
+-cresol with a lower activation energy than direct deoxygenation by H
+2
+. The key steps of the proposed mechanism are illustrated in Fig.
+5
+highlighting the combination of N
+2
+activation and HDO reaction by using N
+2
+as a hydrogen carrier. At the same time, N
+2
+may remove H, vacate the ruthenium site and facilitate faster adsorption of
+p
+-cresol and hence a higher rate. Our data suggest that N
+2
+should no longer be considered as a simple inert carrier gas.
+Fig. 5: Illustration of the combination of N
+2
+activation and HDO reaction over Ru/TiO
+2
+.
+N
+2
+is converted into NNH and HNNH over Ru/TiO
+2
+, offering protic hydrogen for converting
+p
+-cresol into toluene over the same catalyst. Colour code of the spheres: Ru (light orange), Ti (light grey), O (red), N (blue), C (dark grey) and H (white).
+Full size image
+Methods
+General information
+Unless otherwise noted, all chemicals were purchased and used without further purification.
+Sample preparation
+For the synthesis of the Ru/TiO
+2
+catalyst, RuCl
+3
+(0.03 mmol) was dissolved in deionized water (3 ml). The mixture was stirred for 1 h and then added dropwise to TiO
+2
+(0.24 g). In the wet-impregnation method for preparing the catalyst, the water volume used was larger than that needed to saturate the TiO
+2
+surface, so a suspension liquid (Supplementary Fig.
+1
+) rather than a glue-like sample was formed. The formation of the suspension liquid allowed the mixtures to be stirred vigorously for 2 h and then the sample was dried overnight in an oven at 120 °C and subsequently reduced in H
+2
+at a flow rate of 20 ml min
+–1
+and a heating rate of 2 °C min
+–1
+to 400 °C, with the target temperature held for 3 h. The sample was subsequently cooled to room temperature and protected under N
+2
+for 1 h prior to removal from the tube reactor for the catalytic reactions or other tests. The other ruthenium catalysts, including Ru/Al
+2
+O
+3
+and Ru/ZrO
+2
+, were synthesized according to similar recipes, except the support. RuCl
+3
+, Ru/C, TiO
+2
+, Al
+2
+O
+3
+and ZrO
+2
+were purchased from Sigma-Aldrich.
+High-angle annular dark-field scanning transmission electron microscopy
+An aberration-corrected JEOL ARM300 CF microscope operated at 300 kV in STEM mode was used for characterization of the microstructure. The convergence angle of the probe was 26 mrad (30 μm condenser aperture) with imaging performed at a camera length of 9 cm. The scattered electrons between 77 and 210 mrad [annular dark-field (ADF) signal] and between 13 and 28 mrad [annular bright field (ABF) signal] were collected by using this configuration. Energy-dispersive X-ray elemental maps and spectra were collected by using a windowless Oxford Instruments XMAX 100 TLE silicon drift detector. For STEM imaging, the probe current used was around 25 pA. The probe current was increased to around 500 pA for EDX elemental mapping.
+Powder X-ray diffraction
+Powder X-ray diffraction (PXRD) data were obtained on a PANAnalytical X’Pert Pro diffractometer in reflection mode at 40 kV and 40 mA by using Cu Kα radiation.
+Fourier-transform infrared spectra of pyridine adsorption
+FTIR spectra of pyridine adsorption were collected on a Bruker Tensor 27 spectrometer. A self-supporting pellet prepared with a 200 mg sample (20 wt% Ru/TiO
+2
+was mixed with KBr) was placed in the flow cell and evacuated at 673 K for 2 h. After cooling the sample temperature to 150 °C, the background spectrum of the sample was recorded. Pyridine vapour was adsorbed on the sample for 30 min at 150 °C followed by desorption at 150, 175, 200 and 250 °C for 30 min, respectively, and the spectrum of the sample was recorded between each temperature ramp. The spectral bands at 1,605 and 1,450 cm
+−1
+were used to identify the Lewis acid site.
+Catalysis testing in the batch reaction
+Using the hydrodeoxygenation of
+p
+-cresol over Ru/TiO
+2
+with the incorporation of N
+2
+as an example,
+p
+-cresol (0.195 mmol) was loaded into a stainless-steel Parr autoclave (reactor volume, 50 ml) with decalin (8 ml) and Ru/TiO
+2
+(2.5–50 mg). After the autoclave was sealed, it was cleaned with N
+2
+three times and purged with 6 bar N
+2
+and then 1 bar H
+2
+at room temperature. The reaction was carried out at 60–240 °C for 1–24 h with stirring at 600 r.p.m. After completion of the reaction and cooling to room temperature, the products were collected and qualitatively analysed by gas chromatograph–mass spectrometry (GC–MS) and quantitatively analysed by a flame ionization detector (GC–FID) using an external standard method. The composition and pressure of the gases maybe changed depending on the reaction.
+Catalysis testing in the fixed-bed reaction
+The fixed-bed reactions were performed in a reactor in FlowCAT mode supplied by HEL (HEL is a company that specializes in research and pre-pilot scale chemical reactors and systems). The Ru/TiO
+2
+catalyst (100 mg) was located in the middle of the tubular reactor with quartz wool plugs on both sides. The liquid feed (
+p
+-cresol dissolved in decalin at a concentration of 1.12 mg ml
+–1
+) was fed into the reactor by using a HPLC pump at a constant flow rate of 0.2 ml min
+−1
+. The N
+2
+/H
+2
+mixed gas and H
+2
+gas were alternately passed through the reactor in the downward direction at a velocity controlled by mass-flow controllers, with N
+2
+and H
+2
+flow rates of 10 and 30 cm
+3
+(STP) min
+–1
+, respectively, and a total pressure of 8 bar mixed gas (2 bar H
+2
++ 6 bar N
+2
+) or 2 bar H
+2
+, respectively. The flow rates were calibrated by using a soap film bubble flowmeter. The weight hourly space velocity was maintained at 0.134 h
+–1
+. The reaction was carried out at 180 °C. The products were collected and qualitatively analysed by GC–MS and quantitatively analysed by GC–FID using an external standard method.
+Gas chromatograph analysis
+Gas chromatograph-mass spectrometry (GC–MS) and gas chromatograph-flame ionization detector (GC–FID) analyses were conducted simultaneously by using an Agilent gas chromatograph equipped with an Agilent 19091N-133 column of mode HP-INNOWax with high polarity, 30 m×250 μm×0.25 μm connected column splitter that connects to the mass spectrometer and FID. The GC oven was programmed as follows: hold at the initial temperature of 313 K for 5 min, ramp at 15 K min
+–1
+to 523 K and hold at 523 K for 5 min. The peaks were analysed by comparing the spectra with the corresponding spectra of the NIST 2011 MS library.
+X-ray photoelectron spectroscopy measurements
+XPS measurements for investigation of the degree of oxidation of Ru/TiO
+2
+and its reduction ability at increased temperature were performed by using an Axis Ultra Imaging Photoelectron Spectrometer (Kratos). The Ru/TiO
+2
+catalyst was made into a small tablet (6.0 mm diameter) and placed on the sample holder. The catalyst tablet was reduced in H
+2
+in the pre-treatment chamber of the XPS spectrometer at 100, 160 and 220 °C, respectively, for 0.5 h. The sample was then introduced into the ultra-high vacuum chamber for XPS measurement at room temperature. XPS measurements for the study of the adsorption of the N
+2
+/H
+2
+gas mixture on Ru/TiO
+2
+at increased temperature were performed at the photoemission end-station at beamline BL10B at the National Synchrotron Radiation Laboratory (NSRL) in Hefei, China. Briefly, the beamline is connected to a bending magnet and covers photon energies from 100 to 1,000 eV with a resolving power (
+E
+/Δ
+E
+) better than 1,000. The end-station is composed of four chambers, that is, the analysis chamber, preparation chamber, quick-sample load-lock chamber and high-pressure reactor. The analysis chamber, with a base pressure of <5 × 10
+−10
+torr, is connected to the beamline and equipped with a VG Scienta R3000 electron energy analyser and a twin anode X-ray source. The high-pressure reactor houses a reaction cell in which the samples can be treated with different gases up to 20 bar and simultaneously heated up to 650 °C. After sample treatment, the reactor can be pumped to high vacuum (<10
+–8
+torr) for sample transfer. In the current work, the sample was treated with H
+2
+at 400 °C for 3 h in the high-pressure reactor and then treated with a gas mixture of N
+2
+/H
+2
+(v/v, 3:1) at 120, 180 and 240 °C for 1 h, respectively, after which it was transferred to the analysis chamber for XPS measurement without exposure to air.
+In situ X-ray absorption near edge structure measurements
+In situ nitrogen K-edge XANES spectra of the N
+2
+/H
+2
+mixed gas adsorption at increased temperature were measured at the photoemission end-station at beamline BL10B at the National Synchrotron Radiation Laboratory (NSRL) in Hefei, China. A bending magnet is connected to the beamline, which is equipped with three gratings covering photon energies from 100 to 1,000 eV. In this experiment, the samples were kept in total electron yield mode under an ultra-high vacuum of 5 × 10
+–10
+mbar. The resolving power of the grating was typically
+E
+/Δ
+E
+= 1000, and the photon flux was 1 × 10
+–10
+photons s
+–1
+. Spectra were collected at energies from 386.8 to 440.2 eV in steps of 0.2 eV.
+The sample was initially treated with H
+2
+gas at 400 °C for 3 h, and then was treated with a mixed gas of N
+2
+/H
+2
+(v/v, 3:1) at 120, 180 and 240 °C for 1 h, respectively, after which it was transferred to the analysis chamber for XANES measurement (without being exposed to air). The raw XANES data were normalized by a procedure consisting of the following steps. The photon energy was calibrated using the 4
+f
+spectral peak of a freshly sputtered gold wafer, and then the spectra were normalized to yield an edge jump of one.
+In situ Fourier-transform infrared spectroscopy measurements
+In situ FTIR measurements were carried out in a modified in situ transmission reaction cell on a VERTEX 70 spectrometer equipped with a MCT narrow-band detector at a resolution of 4 cm
+−1
+. The experiments were carried out over the Ru/TiO
+2
+catalyst with a stoichiometric N
+2
+/H
+2
+ratio of 6:1 at a flow rate of 30 ml min
+–1
+at different temperatures and pressures. In a typical process, a fresh powdered Ru/TiO
+2
+sample (20 mg) was pressed into a sheet and activated in 10%H
+2
+/He at 200 °C for 30 min. When the temperature had cooled to 160 °C, a mixed gas with a stoichiometric N
+2
+/H
+2
+ratio of 6:1 at a flow of 30 ml min
+–1
+was introduced into the reactor, and the pressure was increased to 7 bar. After allowing the reaction to attain equilibrium over 30 min, the in situ FTIR spectra were recorded in the ranges 3,800−3,000 cm
+−1
+and 1,800−1,400 cm
+−1
+. For the treatment H
+2
+, after attaining the reaction equilibrium over 30 min, 10%H
+2
+/He was introduced into the reactor at a flow rate of 30 ml min
+–1
+. For the H
+2
+O chemisorption, after pre-reduction of the Ru/TiO
+2
+catalyst in 10%H
+2
+/He at 200 °C for 30 min followed by flushing with He for 30 min, water vapour was bubbled into the reactor with a flow of He at a rate of 30 ml min
+–1
+followed by flushing with He for 30 min. A similar experimental procedure was used for D
+2
+O chemisorption. For the D
+2
+isotope-exchange experiment, after achieving reaction equilibrium over 30 min, N
+2
+and D
+2
+were introduced into the reactor at a flow rate of 30 and 5 ml min
+–1
+, respectively. For the N
+2
+isotope-exchange experiment, after attaining reaction equilibrium over 30 min,
+15
+N
+2
+and H
+2
+were introduced into the reactor at a flow rate of 30 and 5 ml min
+–1
+, respectively.
+To explore the hydrodeoxygenation of
+p
+-cresol with N
+2
+H
+x
+species, in situ FTIR measurements were carried out on Ru/TiO
+2
+in the presence of the catalytic reaction substrate (
+p
+-cresol). In a typical process, a fresh powdered Ru/TiO
+2
+sample (20 mg) was pressed into a sheet and activated in 10%H
+2
+/He at 200 °C for 30 min. When the temperature had cooled to 160 °C, a mixed gas with a stoichiometric N
+2
+/H
+2
+ratio of 6:1 at a flow of 30 ml min
+–1
+was introduced into the reactor, and the pressure was increased to 7 bar. After allowing the reaction to attain equilibrium over 30 min, in situ FTIR spectra were recorded in the ranges 3,750−2,750 and 1,700−1,100 cm
+−1
+, as shown in Fig.
+3e
+(a),f(a). Subsequently,
+p
+-cresol was introduced into the reactor system and in situ time-resolved FTIR spectra were recorded of the Ru/TiO
+2
+catalyst on exposure to
+p
+-cresol at 160 °C at 7 bar, as shown in Fig.
+3e
+(b−l),f(b−l). Notably, the
+p
+-cresol was placed in a high-pressure stainless-steel reactor and heated to 120 °C at 7.5 bar under a He atmosphere.
+Density functional theory parameters
+DFT was used to theoretically analyse the energetics and reaction mechanism. To account for the strong on-site coulombic interaction of localized
+d
+electrons, the DFT+U method was used with an additional Hubbard-like term (U) added to the DFT terms. All the DFT+U calculations were performed by using the spin-polarized Kohn–Sham formalism with the generalized gradient approximation (GGA) of Perdew–Burke–Ernzerhof (PBE), as implemented in the VASP 5.4.4 code
+38
+,
+39
+,
+40
+. From previous works, the value of the intra-atomic coulomb term minus the exchange term (
+U
+−
+J
+) was chosen to be 4.0 eV to reproduce the correct strongly correlated systems
+41
+,
+42
+. The valence electronic states of all atoms were expanded in a plane-wave basis set with a cut-off energy of 400 eV, and gamma points were used for Brillouin zone integration. Atomic positions were optimized by using a conjugate gradient algorithm until the forces were less than 0.03 eV Å
+−1
+for all intermediates and transition states. Vibrational analysis was performed to test the imaginary frequency and vibration modes to confirm the climbing image-nudged elastic band (CI-NEB) results
+43
+.
+Computational models
+The anatase TiO
+2
+(101) slab was represented as a p(3×4) slab with two O–Ti–O layers with the bottom one fixed. It has been shown that such a large model is enough to accommodate a Ru
+19
+cluster and reduce the interactions between neighbouring adsorbed ruthenium clusters
+31
+. Ru
+19
+is a size-matched multilayer ruthenium cluster that contains the
+hcp
+(0001) facet, which would be the most abundant exposed surface for small ruthenium nanoparticles and accommodate N
+2
+and H
+2
+simultaneously. The adsorption energy of Ru
+19
+on TiO
+2
+(101) is as high as –5.88 eV according to the following equation:
+E
+ads
+=
+E
+(Ru
+19
+/TiO
+2
+(101)) –
+E
+(TiO
+2
+(101)) –
+E
+(Ru
+19
+). This indicates that Ru
+19
+can be stably anchored. So we chose Ru
+19
+/TiO
+2
+to model the catalytic process. It should be noted that the Ru
+19
+cluster was used as a model to simulate the ruthenium nanoparticles on TiO
+2
+. However, the calculated values may be affected by this small flat cluster with a significant influence from the edge sites. The IDIPOL tag was set to three to switch on dipole corrections to the total energy along the
+z
+direction. All the supercell slabs were repeated periodically with a 15 Å vacuum layer between the images in the direction of the surface normal. All the atomic coordinates of the optimized computational models are provided in Supplementary Data
+1
+.
+Data Availability
+The data that support the plots within this paper and other findings of this study are available from the corresponding author uon reasonable request.
+References
+Shaver, M. P. & Fryzuk, M. D. Activation of molecular nitrogen: coordination, cleavage and functionalization of N
+2
+mediated by metal complexes.
+Adv. Synth. Catal.
+345
+, 1061–1076 (2003).
+CAS
+Google Scholar
+Erisman, J. W., Sutton, M. A., Galloway, J., Klimont, Z. & Winiwarter, W. How a century of ammonia synthesis changed the world.
+Nat. Geosci.
+1
+, 636–639 (2008).
+CAS
+Google Scholar
+Hori, M. & Mori, M. Synthesis of heterocycles utilizing N
+2
+-TiCI
+4
+-Li-TMSCI.
+J. Org. Chem.
+60
+, 1480–1481 (1995).
+CAS
+Google Scholar
+Vol’pin, M. E., Shur, V. B. & Berkovich, E. G. Transformations of molecular nitrogen into aromatic amines under the action of titanium compounds.
+Inorg. Chim. Acta
+280
+, 264–274 (1998).
+Google Scholar
+Kitano, M. et al. Ammonia synthesis using a stable electride as an electron donor and reversible hydrogen store.
+Nat. Chem.
+4
+, 934–940 (2012).
+CAS
+PubMed
+Google Scholar
+Aika, K., Hori, H. & Ozaki, A. Activation of nitrogen by alkali metal promoted transition metal I. ammonia synthesis over ruthenium promoted by alkali metal.
+J. Catal.
+27
+, 424–431 (1972).
+CAS
+Google Scholar
+Schulz, H. Short history and present trends of Fischer–Tropsch synthesis.
+Appl. Catal. A
+186
+, 3–12 (1999).
+CAS
+Google Scholar
+Kunkes, E. L. et al. Catalytic conversion of biomass to monofunctional hydrocarbons and targeted liquid-fuel classes.
+Science
+322
+, 417–421 (2008).
+CAS
+PubMed
+Google Scholar
+Mellmer, M. A. et al. Solvent-enabled control of reactivity for liquid-phase reactions of biomass-derived compounds.
+Nat. Catal.
+1
+, 199–207 (2018).
+CAS
+Google Scholar
+Vispute, T. P., Zhang, H., Sanna, A., Xiao, R. & Huber, G. W. Renewable chemical commodity feedstocks from integrated catalytic processing of pyrolysis oils.
+Science
+330
+, 1222–1227 (2010).
+CAS
+PubMed
+Google Scholar
+Xu, C., Arancon, R. A., Labidi, J. & Luque, R. Lignin depolymerisation strategies: towards valuable chemicals and fuels.
+Chem. Soc. Rev.
+43
+, 7485–7500 (2014).
+CAS
+PubMed
+Google Scholar
+Li, C., Zhao, X., Wang, A., Huber, G. W. & Zhang, T. Catalytic transformation of lignin for the production of chemicals and fuels.
+Chem. Rev.
+115
+, 11559–11624 (2015).
+CAS
+PubMed
+Google Scholar
+Luo, Z., Wang, Y., He, M. & Zhao, C. Precise oxygen scission of lignin derived aryl ethers to quantitatively produce aromatic hydrocarbons in water.
+Green. Chem.
+18
+, 433–441 (2016).
+CAS
+Google Scholar
+Shao, Y. et al. Selective production of arenes via direct lignin upgrading over a niobium-based catalyst.
+Nat. Commun.
+8
+, 16104 (2017).
+PubMed
+PubMed Central
+Google Scholar
+Omotoso, T., Boonyasuwat, S. & Crossley, S. P. Understanding the role of TiO
+2
+crystal structure on the enhanced activity and stability of Ru/TiO
+2
+catalysts for the conversion of lignin-derived oxygenates.
+Green. Chem.
+16
+, 645–652 (2014).
+CAS
+Google Scholar
+Liu, G. et al. MoS
+2
+monolayer catalyst doped with isolated Co atoms for the hydrodeoxygenation reaction.
+Nat. Chem.
+9
+, 810–816 (2017).
+CAS
+PubMed
+Google Scholar
+Huang, Y.-B., Yan, L., Chen, M.-Y., Guo, Q.-X. & Fu, Y. Selective hydrogenolysis of phenols and phenyl ethers to arenes through direct C–O cleavage over ruthenium–tungsten bifunctional catalysts.
+Green. Chem.
+17
+, 3010–3017 (2015).
+CAS
+Google Scholar
+Newman, C. et al. Effects of support identity and metal dispersion in supported ruthenium hydrodeoxygenation catalysts.
+Appl. Catal. A
+477
+, 64–74 (2014).
+CAS
+Google Scholar
+Cui, X. et al. Highly selective hydrogenation of arenes using nanostructured ruthenium catalysts modified with a carbon-nitrogen matrix.
+Nat. Commun.
+7
+, 11326 (2016).
+PubMed
+PubMed Central
+Google Scholar
+Li, Z., Assary, R. S., Atesin, A. C., Curtiss, L. A. & Marks, T. J. Rapid ether and alcohol C-O bond hydrogenolysis catalyzed by tandem high-valent metal triflate + supported Pd catalysts.
+J. Am. Chem. Soc.
+136
+, 104–107 (2014).
+CAS
+PubMed
+Google Scholar
+Bergem, H., Xu, R., Brown, R. C. & Huber, G. W. Low temperature aqueous phase hydrogenation of the light oxygenate fraction of bio-oil over supported ruthenium catalysts.
+Green. Chem.
+19
+, 3252–3262 (2017).
+CAS
+Google Scholar
+Gilkey, M. J., Brady, C., Vlachos, D. G. & Xu, B. Characterization of oxidation states in metal/metal oxide catalysts in liquid-phase hydrodeoxygenation reactions with a trickle bed reactor.
+Ind. Eng. Chem. Res.
+57
+, 5591–5598 (2018).
+CAS
+Google Scholar
+Omotoso, T. O., Baek, B., Grabow, L. C. & Crossley, S. P. Experimental and first-principles evidence for interfacial activity of Ru/TiO
+2
+to toluene.
+ChemCatChem
+9
+, 2642–2651 (2017).
+CAS
+Google Scholar
+Nelson, R. C. et al. Experimental and theoretical insights into the hydrogen-efficient direct hydrodeoxygenation mechanism of phenol over Ru/TiO
+2
+.
+ACS Catal.
+5
+, 6509–6523 (2015).
+CAS
+Google Scholar
+Jiménez, I., Gago, R. & Albella, J. M. Spectroscopy of π bonding in hard graphitic carbon nitride films: superstructure of basal planes and hardening mechanisms.
+Phys. Rev. B
+62
+, 4262–4264 (2000).
+Google Scholar
+Kalescky, R., Kraka, E. & Cremer, D. Identification of the strongest bonds in chemistry.
+J. Phys. Chem. A
+117
+, 8981–8995 (2013).
+CAS
+PubMed
+Google Scholar
+Chen, G. et al. Interfacial electronic effects control the reaction selectivity of platinum catalysts.
+Nat. Mater.
+15
+, 564–569 (2016).
+CAS
+PubMed
+Google Scholar
+Luksirikul, P., Tedsree, K., Moloney, M. G., Green, M. L. & Tsang, S. C. Electron promotion by surface functional groups of single wall carbon nanotubes to overlying metal particles in a fuel-cell catalyst.
+Angew. Chem. Int. Ed.
+51
+, 6998–7001 (2012).
+CAS
+Google Scholar
+Elmasides, C., Kondarides, D. I., Grünert, W. & Verykios, X. E. XPS and FTIR study of Ru/Al
+2
+O
+3
+and Ru/TiO
+2
+catalysts: reduction characteristics and interaction with a methane-oxygen mixture.
+J. Phys. Chem. B
+103
+, 5227–5239 (1999).
+CAS
+Google Scholar
+Li, H.-J., Yeh, C.-H. & Ho, J.-J. The catalytic adsorption and dissociation of carbon dioxide on a double icosahedral Ru
+19
+nanocluster—A theoretical study.
+Chem. Phys. Lett.
+585
+, 149–152 (2013).
+CAS
+Google Scholar
+Zhang, S.-T. et al. Density functional theory study on the metal–support interaction between Ru cluster and anatase TiO
+2
+(101) surface.
+J. Phys. Chem. C.
+118
+, 3514–3522 (2014).
+CAS
+Google Scholar
+Honkala, K. et al. Ammonia synthesis from first-principles calculations.
+Science
+307
+, 555–558 (2005).
+CAS
+PubMed
+Google Scholar
+Jacobsen, C. J. H. et al. Structure sensitivity of supported ruthenium catalysts for ammonia synthesis.
+J. Mol. Catal. A
+163
+, 19–26 (2000).
+CAS
+Google Scholar
+Ma, X. L., Liu, J. C., Xiao, H. & Li, J. Surface single-cluster catalyst for N
+2
+-to-NH
+3
+thermal conversion.
+J. Am. Chem. Soc.
+140
+, 46–49 (2018).
+CAS
+PubMed
+Google Scholar
+Liu, J. C. et al. Heterogeneous Fe
+3
+single-cluster catalyst for ammonia synthesis via an associative mechanism.
+Nat. Commun.
+9
+, 1610 (2018).
+PubMed
+PubMed Central
+Google Scholar
+Chang, C.-R., Wang, Y.-G. & Li, J. Theoretical investigations of the catalytic role of water in propene epoxidation on gold nanoclusters: A hydroperoxyl-mediated pathway.
+Nano Res
+4
+, 131–142 (2010).
+Google Scholar
+Chang, C.-R., Huang, Z.-Q. & Li, J. The promotional role of water in heterogeneous catalysis: mechanism insights from computational modeling.
+WiREs Comput. Mol. Sci.
+6
+, 679–693 (2016).
+CAS
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1991).
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+CAS
+PubMed
+Google Scholar
+Anisimov, V. I., Aryasetiawan, F. & Lichtenstein, A. First-principles calculations of the electronic structure and spectra of strongly correlated systems: dynamical mean-field theory.
+J. Phys. Condens. Matter
+9
+, 7359–7367 (1997).
+CAS
+Google Scholar
+Tang, Y., Zhao, S., Long, B., Liu, J.-C. & Li, J. On the nature of support effects of metal dioxides MO
+2
+(M = Ti, Zr, Hf, Ce, Th) in single-atom gold catalysts: importance of quantum primogenic effect.
+J. Phys. Chem. C.
+120
+, 17514–17526 (2016).
+CAS
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+CAS
+Google Scholar
+Download references
+Acknowledgements
+H.D. thanks SCG Chemicals, SCG Packaging (Thailand) and the National Natural Science Foundation of China (Grant No. 21978147). Y.Z. thanks the National Natural Science Foundation of China (Grant No. 21878008) and the Fundamental Research Funds for the Central Universities (BUCTRC201807). X.M. thanks the National Natural Science Foundation of China (21902182) and the Fundamental Research Funds for the Central Universities (2019QH01). J.D. acknowledges support from the Youth Innovation Promotion Association CAS. X.Z. thanks the National Natural Science Foundation of China (Grant No. 11875258). J.-C.B. thanks SCG Chemicals (Thailand) for funding. We also thank the Hefei Light Source and Shanghai Light Source for use of instruments and the Diamond Light Source for access and support in the use of the electron Physical Science Imaging Centre (EM16969, 17397), which contributed to the results presented here. J.L. thanks the National Natural Science Foundation of China (Grand Nos. 21433005, 91645203 and 21590792). The calculations were performed using the supercomputers at Tsinghua National Laboratory for Information Science and Technology. We also thank Y. Li for providing characterization resources and S. Ji for performing ICP analysis. We thank C. Chen for performing TPR measurement, W.-C. Lin for helping with the fixed-bed reactions and Y. Yang for assisting with the FTIR measurements.
+Author information
+Author notes
+These authors contributed equally: Haohong Duan, Jin-Cheng Liu, Ming Xu.
+Authors and Affiliations
+Chemistry Research Laboratory, Department of Chemistry, University of Oxford, Oxford, UK
+Haohong Duan, Jean-Charles Buffet & Dermot O’Hare
+The Wolfson Catalysis Centre, Department of Chemistry, University of Oxford, Oxford, UK
+Haohong Duan, Yufei Zhao, Jianwei Zheng & Shik Chi Edman Tsang
+Department of Chemistry, Tsinghua University, Beijing Shi, China
+Haohong Duan
+Department of Chemistry and Key Laboratory of Organic Optoelectronics & Molecular Engineering of Ministry of Education, Tsinghua University, Beijing, China
+Jin-Cheng Liu, Xue-Lu Ma & Jun Li
+Beijing National Laboratory for Molecular Engineering, College of Chemistry and Molecular Engineering and College of Engineering, BIC-ESAT, Peking University, Beijing, China
+Ming Xu
+State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing, China
+Yufei Zhao
+Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China
+Juncai Dong & Dongliang Chen
+National Synchrotron Radiation Laboratory, University of Science and Technology of China, Hefei, Anhui, China
+Xusheng Zheng
+Department of Materials, University of Oxford, Oxford, UK
+Christopher S. Allen, Mohsen Danaie & Angus I. Kirkland
+Electron Physical Sciences Imaging Centre (ePSIC), Diamond Light Source, Oxford, UK
+Christopher S. Allen, Mohsen Danaie & Angus I. Kirkland
+Department of Chemistry, City University of Hong Kong, Yeung Kin Man Academic Building, Hong Kong, China
+Yung-Kang Peng
+Product & Technology Development Center, SCG Packaging Public Company Limited, ThaPha BanPong Ratchaburi, BanPong, Thailand
+Titipong Issariyakul
+Department of Chemistry, Southern University of Science and Technology, Shenzhen, China
+Jun Li
+Authors
+Haohong Duan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jin-Cheng Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ming Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yufei Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xue-Lu Ma
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Juncai Dong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xusheng Zheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jianwei Zheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Christopher S. Allen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mohsen Danaie
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yung-Kang Peng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Titipong Issariyakul
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dongliang Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Angus I. Kirkland
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jean-Charles Buffet
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jun Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shik Chi Edman Tsang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dermot O’Hare
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+H.D. conceived the idea, designed and carried out the synthesis, characterizations and catalytic reactions, analysed the data and wrote the manuscript. J.L. and X.M. performed DFT calculations and wrote the manuscript. Y.Z. carried out catalytic reactions and analysed the data. M.X. performed the in situ XPS and FTIR measurements and analysed the data. J.D, X.Z. and D.C. performed the in situ XPS measurements and data analysis. J.Z. helped design the experiments and analysed the data. C.A., M.D. and A.K. performed the TEM and STEM measurements. Y.-K.P. performed acidity analysis. T.I. conceived the idea and anticipated discussion. J.-C.B. regulated the experiments and anticipated discussion. J.L., S.C.E.T. and D.O.H. supervised the project, helped design the experiments, analysed the data and wrote the manuscript. All the authors commented on the manuscript and have given approval to the final version of the manuscript.
+Corresponding authors
+Correspondence to
+Jun Li
+,
+Shik Chi Edman Tsang
+or
+Dermot O’Hare
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figures 1–28, Tables 1–3, Notes 1 and 2 and References.
+Supplementary Data 1
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Duan, H., Liu, JC., Xu, M.
+et al.
+Molecular nitrogen promotes catalytic hydrodeoxygenation.
+Nat Catal
+2
+, 1078–1087 (2019). https://doi.org/10.1038/s41929-019-0368-6
+Download citation
+Received
+:
+18 October 2018
+Accepted
+:
+18 September 2019
+Published
+:
+28 October 2019
+Issue Date
+:
+December 2019
+DOI
+:
+https://doi.org/10.1038/s41929-019-0368-6
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+N
+2
+-promoted hydrodeoxygenation
+Thomas J. Schwartz
+Nature Catalysis
+News & Views
+12 Dec 2019
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

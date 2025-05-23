@@ -1,0 +1,2599 @@
+Stabilizing supported atom-precise low-nuclearity platinum cluster catalysts by nanoscale confinement | Nature Chemical Engineering
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature chemical engineering
+articles
+article
+Stabilizing supported atom-precise low-nuclearity platinum cluster catalysts by nanoscale confinement
+Download PDF
+Article
+Published:
+17 January 2025
+Stabilizing supported atom-precise low-nuclearity platinum cluster catalysts by nanoscale confinement
+Yizhen Chen
+ORCID:
+orcid.org/0000-0002-8499-2013
+1
+na1
+,
+Jiankang Zhao
+2
+,
+3
+na1
+,
+Xiao Zhao
+ORCID:
+orcid.org/0000-0003-1079-664X
+4
+,
+5
+,
+Di Wu
+2
+,
+Nan Zhang
+3
+,
+Junjie Du
+ORCID:
+orcid.org/0009-0000-3203-8706
+3
+,
+Jie Zeng
+ORCID:
+orcid.org/0000-0002-8812-0298
+3
+,
+Xu Li
+ORCID:
+orcid.org/0000-0001-7577-4957
+2
+,
+Miquel Salmeron
+ORCID:
+orcid.org/0000-0002-2887-8128
+4
+,
+5
+,
+Jingyue Liu
+ORCID:
+orcid.org/0000-0002-2267-1433
+6
+&
+…
+Bruce C. Gates
+ORCID:
+orcid.org/0000-0003-0274-4882
+1
+Show authors
+Nature Chemical Engineering
+volume
+2
+,
+pages
+38–49 (
+2025
+)
+Cite this article
+6175
+Accesses
+34
+Altmetric
+Metrics
+details
+Subjects
+Chemical engineering
+Chemistry
+Engineering
+Abstract
+Supported noble metal cluster catalysts provide the advantages of high atom efficiency and size-dependent properties, but their stabilization remains a major challenge for industrial applications. Now we report an approach for the stabilization of nuclearity-controlled platinum nanoclusters with a typical diameter of ~0.7 nm (Pt
+7−14
+) confined on CeO
+x
+nanoislands on a porous silica support. The clusters were synthesized by the reduction of platinum single atoms on the islands in H
+2
+at 400 °C. Redox cycles led to cluster formation and breakup at hundreds of degrees Celsius, with platinum remaining confined to the respective islands. The clusters maintained their nuclearity and were resistant to sintering in H
+2
+at temperatures of ≤600 °C and atmospheric pressure. Experimental catalyst performance data bolstered by computational results demonstrate that these platinum clusters are more active than mononuclear platinum, also exhibiting higher steady-state activity than larger and smaller platinum clusters for ethylene hydrogenation.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Confining isolated atoms and clusters in crystalline porous materials for catalysis
+Article
+23 October 2020
+Templated encapsulation of platinum-based catalysts promotes high-temperature stability to 1,100 °C
+Article
+24 October 2022
+Atomically precise control in the design of low-nuclearity supported metal catalysts
+Article
+10 September 2021
+Main
+Chemical engineers have long been fascinated by catalyst design, the subject of an earlier book
+1
+addressing design criteria including structure and bonding in supported metals and the roles of kinetics and transport and the concepts of shape-selective catalysis by zeolites. Another book
+2
+addresses the distributions of metals in porous catalyst supports, presenting criteria for optimizing catalytic activity and selectivity when intrapore transport resistances markedly affect catalyst performance. Examples include core–shell catalysts, a topic of intense current interest for a wide range of potential applications
+3
+,
+4
+. A recent perspective addressed ‘nested’ metal catalysts consisting of nanostructures on supports designed to keep the metals dispersed and accessible to reactants
+5
+. Less widely discussed, however, are designs for optimizing supported metals for catalyst stability.
+We now report a design strategy for stabilizing metal clusters by nesting on supports, applied to noble metals for catalytic hydrogenation. Supported noble metals are applied in many processes involving hydrogen activation, often at high pressure. Hydrogen is activated on surfaces having neighboring metal centers, typically in metal nanoparticles
+6
+. These metals are expensive, providing motivation for using them in highly dispersed forms—as few-atom clusters that expose almost all the metal atoms
+7
+,
+8
+,
+9
+,
+10
+,
+11
+,
+12
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+,
+18
+. These clusters have properties distinct from those of typical nanoparticles, determined by the metal oxidation state, cluster nuclearity and local bonding environment, including metal–support interactions, all of which influence their interactions with reactants and reaction intermediates
+7
+,
+13
+.
+Noble metal clusters on typical supports are unstable, prone to sintering, especially under reducing conditions, with the loss of accessible sites and catalytic activity
+19
+,
+20
+,
+21
+. This limitation has motivated researchers to design catalysts that stabilize the clusters by supporting them on reducible metal oxides
+11
+, metal carbides
+12
+and defective carbons
+14
+. These supports may hinder metal sintering under mild conditions, but they do not prevent it under harsh industrial hydrogenation conditions.
+Here we propose a nesting strategy for preparing few-atom noble metal clusters that have nuclearities controlled by the metal loading and that are robust and stabilized in their nests but still accessible to reactants, under forcing hydrogenation conditions. The clusters are synthesized on cerium oxide (CeO
+x
+) nanoislands on a commercial high-area porous silica support
+22
+. Each nested metal cluster is, thus, isolated in a nanoreactor in which the metal atoms are confined during pretreatments and catalytic operation.
+Because of its catalytic importance, we chose platinum as the active metal. We report how atom-precise low-nuclearity (Pt
+7−14
+) clusters are synthesized from platinum single atoms in the nests and show that the clusters resist sintering, maintaining their nuclearity under harsh reaction conditions in H
+2
+atmospheres. To compare the catalytic properties of the platinum clusters with those of atomically dispersed platinum (from which the clusters are formed), we used ethylene hydrogenation as a test reaction
+9
+,
+13
+. The data show that CeO
+x
+-island-stabilized Pt
+7–14
+clusters operated with no evident deactivation in a flow reactor for 176 h, being more active than the atomically dispersed platinum as well as exhibiting higher steady-state catalytic activity than larger and smaller platinum clusters
+15
+. The nested clusters resisted sintering even in H
+2
+at 600 °C, and we posit that they constitute a step toward industrial applications of low-nuclearity metal cluster catalysts.
+Results
+Synthesis and structural characterization of catalysts
+Atomically dispersed platinum on CeO
+x
+islands on SiO
+2
+powder was synthesized as before
+22
+. Low-magnification high-angle annular dark-field (HAADF) scanning transmission electron microscopy (STEM) images give evidence of the CeO
+x
+islands having nearly 2 nm diameters dispersed on SiO
+2
+(Supplementary Fig.
+1
+)
+22
+. Platinum loading, determined by inductively coupled plasma mass spectrometry, was 0.5 wt%. Cl 2
+p
+X-ray photoelectron spectra (XPS) of the initial catalyst, namely, Pt/CeO
+x
+/SiO
+2
+(Supplementary Fig.
+2
+), show that water washing and calcination removed essentially all of the chlorine that was introduced with the platinum salt precursor
+22
+,
+23
+,
+24
+. Broad X-ray diffraction (XRD) patterns indicate small CeO
+x
+crystallites of the cubic fluorite structure (Supplementary Fig.
+3
+)
+22
+, and give no evidence of platinum, consistent with its high dispersion.
+The platinum species in the samples were investigated with HAADF-STEM, and the as-synthesized Pt/CeO
+x
+/SiO
+2
+samples were subjected to reduction in H
+2
+at 400 °C (giving Pt/CeO
+x
+/SiO
+2
+-RED) followed by oxidation in air at 600 °C (giving Pt/CeO
+x
+/SiO
+2
+-OX). Although isolated platinum atoms distributed on bulk CeO
+2
+supports with flat local facets can be imaged using HAADF-STEM
+25
+, those on our defective CeO
+x
+nanoislands could not be imaged (Fig.
+1a
+and Supplementary Fig.
+4a
+), because the nanoislands lack many facets comparable to those on bulk CeO
+2
+, and they are highly sensitive to an electron beam
+22
+. Nonetheless, we observed the larger species, namely, platinum clusters, in Pt/CeO
+x
+/SiO
+2
+-RED, by using double-aberration-corrected HAADF-STEM (Fig.
+1b,d–i
+and Supplementary Fig.
+4b,d–i
+). The images show that the clusters had a typical diameter of about 0.7 nm; importantly, the images show that they were restricted to the CeO
+x
+islands. Because these ultrasmall clusters are highly fluxional, we were not able to resolve their atomic structures or discern how they interacted with the CeO
+x
+nanoislands. The images of the sample oxidized at 600 °C, Pt/CeO
+x
+/SiO
+2
+-OX (Fig.
+1c
+and Supplementary Fig.
+4c
+), show CeO
+x
+islands without the evidence of platinum clusters on them (or on the neighboring SiO
+2
+), indicating that the clusters broke up by oxidation at 600 °C and demonstrating the reversibility of the aggregation/fragmentation process, with the platinum confined during the changes by the nanoislands. No notable changes in the CeO
+x
+islands after these reversible transformations were observed in the STEM and XRD experiments (Supplementary Figs.
+1
+and
+3
+).
+Fig. 1: Microscopic characterization of Pt/CeO
+x
+/SiO
+2
+, Pt/CeO
+x
+/SiO
+2
+-RED and Pt/CeO
+x
+/SiO
+2
+-OX.
+a
+–
+c
+, HAADF-STEM images characterizing Pt/CeO
+x
+/SiO
+2
+(
+a
+), Pt/CeO
+x
+/SiO
+2
+-RED (
+b
+) and Pt/CeO
+x
+/SiO
+2
+-OX (
+c
+).
+d
+–
+i
+, High-magnification HAADF-STEM images characterizing Pt/CeO
+x
+/SiO
+2
+-RED (
+d
+–
+f
+) and the corresponding intensity profiles (
+g
+–
+i
+) along the
+x
+–
+y
+axis.
+Source data
+Full size image
+X-ray absorption near-edge structure (XANES) spectroscopy provided evidence of the electronic structure and oxidation state of platinum
+23
+. The platinum L
+3
+-edge XANES data (Fig.
+2a
+) match the reported results
+22
+, showing that the oxidation state of platinum in the as-synthesized Pt/CeO
+x
+/SiO
+2
+is close to that of Pt
+4+
+in the reference compound PtO
+2
+and markedly different from that of Pt
+2+
+in the reference compound Pt(acac)
+2
+(acac, acetylacetonato) and Pt
+0
+in platinum foil. In contrast, the oxidation state of the H
+2
+-reduced platinum present as clusters is close to that of Pt
+0
+in a platinum foil reference. The local structures of platinum were further investigated by extended X-ray absorption fine structure (EXAFS) spectroscopy (Fig.
+2b,c
+, Supplementary Figs.
+5
+and
+6
+and Supplementary Tables
+1
+and
+2
+). The best-fit model characterizing Pt/CeO
+x
+/SiO
+2
+includes a Pt–O scattering path with a coordination number (CN) of 6.1 ± 0.5 and a bonding distance of 1.99 ± 0.01 Å, consistent with site-isolated platinum on a metal oxide
+26
+and implying that Pt
+4+
+was present in six-coordinate octahedral geometry, with no evidence of a Pt–Pt scattering path, consistent with the absence of metallic platinum (Fig.
+2b
+, Supplementary Fig.
+6a
+and Supplementary Table
+2
+). In contrast, the sample reduced in flowing H
+2
+at 400 °C for 1 h was characterized by a Pt–Pt scattering path with a CN of 4.6 ± 0.5 and a Pt–Pt bonding distance of 2.64 ± 0.01 Å (without evidence of a Pt–O scattering path), indicating that low-nuclearity metallic platinum clusters formed (Fig.
+2c
+, Supplementary Fig.
+6b
+and Supplementary Table
+2
+) in the reduction, consistent with the STEM images
+27
+. This conclusion was confirmed by the XPS results (Fig.
+2d,e
+)
+28
+. The XANES, EXAFS and XPS data characterizing Pt/CeO
+x
+/SiO
+2
+-OX demonstrate the reversibility of the aggregation/fragmentation cycle (Supplementary Fig.
+7
+and Supplementary Table
+2
+)
+29
+.
+Fig. 2: Local bonding environments and electronic states of Pt/CeO
+x
+/SiO
+2
+and Pt/CeO
+x
+/SiO
+2
+-RED.
+a
+, XANES data at the platinum L
+3
+edge characterizing Pt/CeO
+x
+/SiO
+2
+and Pt/CeO
+x
+/SiO
+2
+-RED, the reference materials PtO
+2
+, Pt(acac)
+2
+and platinum foil.
+b
+,
+c
+, Magnitude (solid) and imaginary component (dashed) of the
+k
+3
+-weighted Fourier transform (FT) of the EXAFS data and the results of EXAFS modeling characterizing Pt/CeO
+x
+/SiO
+2
+(
+b
+) and Pt/CeO
+x
+/SiO
+2
+-RED (
+c
+). The data and fits are shown in black and red (blue), respectively. The XANES and EXAFS data characterizing Pt/CeO
+x
+/SiO
+2
+and Pt/CeO
+x
+/SiO
+2
+-RED were collected with the samples at room temperature in flowing helium. The XANES data characterizing PtO
+2
+, Pt(acac)
+2
+and platinum foil were obtained at room temperature under static conditions.
+d
+,
+e
+, Pt 4
+f
+XPS data characterizing Pt/CeO
+x
+/SiO
+2
+(
+d
+) and Pt/CeO
+x
+/SiO
+2
+-RED (
+e
+).
+f
+, CO adsorption DRIFTS in the ν
+CO
+region recorded after the sample was in contact with flowing 10% CO in helium for 30 min at room temperature, followed by a purge of the DRIFTS cell with helium for 30 min, with the data characterizing Pt/CeO
+x
+/SiO
+2
+and Pt/CeO
+x
+/SiO
+2
+-RED.
+Source data
+Full size image
+Consistent with these results, diffuse reflectance infrared Fourier-transform spectra (DRIFTS) of the as-synthesized Pt/CeO
+x
+/SiO
+2
+, after CO adsorption, include a single ν
+CO
+band near 2,102 cm
+–
+1
+, with a full-width at half-maximum of 13.5 cm
+–1
+, assigned to CO on single-site cationic platinum in nearly uniform surroundings (Fig.
+2f
+and Supplementary Table
+3
+)
+22
+,
+30
+,
+31
+. The spectrum characterizing the initially reduced Pt/CeO
+x
+/SiO
+2
+-RED includes a broad ν
+CO
+band at 2,074 cm
+–1
+, indicating CO adsorbed on metallic platinum clusters (Fig.
+2f
+)
+31
+. The spectra recorded during three redox cycles confirm the reversibility of cluster formation/breakup (Fig.
+2f
+, Supplementary Fig.
+8
+and Supplementary Table
+3
+). Experiments conducted with
+13
+CO instead of
+12
+CO verified the assignments (Supplementary Fig.
+9
+and Supplementary Table
+4
+)
+24
+,
+30
+.
+Structural evolution characterized by spectroscopy and density functional theory
+In situ high-energy-resolution fluorescence detection (HERFD)-XANES (providing higher energy resolution than conventional XANES), as well as conventional X-ray absorption spectroscopy (XAS), was used to track the transformation of site-isolated platinum into clusters when Pt/CeO
+x
+/SiO
+2
+was exposed to 10% H
+2
+in helium at various temperatures (Fig.
+3a
+, Supplementary Figs.
+10
+–
+12
+and Supplementary Table
+5
+)
+32
+. The HERFD-XANES data recorded at increasing temperatures (Fig.
+3a
+) indicate a markedly decreasing white-line intensity, confirming platinum reduction. Correspondingly, the conventional in situ XANES data show that the platinum white-line intensity decreased during reduction at 100 °C, approaching a value close to that of Pt
+2+
+in Pt(acac)
+2
+(Supplementary Fig.
+10
+)
+33
+. The oxidation state of platinum decreased as the reduction temperature increased to 200 °C, 300 °C and then 400 °C, as the platinum white-line intensity approached that of Pt
+0
+in platinum foil
+27
+,
+32
+. The corresponding in situ EXAFS data correspondingly demonstrate the transformation of site-isolated platinum into clusters (Supplementary Figs.
+11
+and
+12
+and Supplementary Table
+5
+)
+33
+, a result confirmed by DRIFTS of adsorbed CO (Supplementary Fig.
+13
+).
+Fig. 3: Evidence from XAS and theory representing structural evolution from platinum single atoms into platinum clusters.
+a
+, In situ HERFD-XANES spectra recorded at the platinum L
+3
+edge characterizing Pt/CeO
+x
+/SiO
+2
+(~40 mg) at 100 °C, 200 °C, 300 °C and 400 °C in 10% H
+2
+in helium flowing at a rate of 20 ml (NTP) min
+–1
+, representing platinum cluster formation taking place during reduction.
+b
+, DFT-optimized CeO
+2
+(111)-slab-supported platinum single-atom structures having Pt
+1
+O
+6
+and Pt
+1
+O
+5
+H configurations.
+c
+, DFT-optimized CeO
+2
+(111) slab supporting platinum clusters modeled with a single-, double- and triple-platinum-atom layer (Pt
+3
+to Pt
+14
+models with the lowest cohesive energy in each nuclearity taken as an example; other possible models are shown in Supplementary Fig.
+15
+).
+d
+, Decreasing cohesive energy
+E
+coh
+(orange) and increasing Pt–Pt CN (purple) for cluster nuclearities increasing from 2 to 20. Colors, cerium (yellow); oxygen (red); platinum (blue); newly added platinum atoms (light blue).
+Source data
+Full size image
+Further insight into the coordination environments of the isolated platinum atoms and clusters was determined using density functional theory (DFT) calculations. On the basis of the EXAFS results, the site-isolated platinum in the initially formed Pt/CeO
+x
+/SiO
+2
+was at first approximated as having a six-coordinate octahedral geometry, a Pt
+1
+O
+6
+configuration, on a CeO
+2
+(111) slab (Fig.
+3b
+)
+34
+,
+35
+. The oxidation state of isolated platinum in this configuration determined from a Bader charge analysis (
+q
+Bader
+= +1.36|
+e
+|; Supplementary Table
+6
+)
+35
+is close to that of Pt
+4+
+, consistent with the XANES data. The EXAFS CN (CN
+Pt–O
+= 5.1 ± 0.4), XANES and Bader charges imply that Pt
+1
+O
+5
+H with Pt
+2+
+coordinated to four support oxygen atoms and one hydroxyl group (Fig.
+3b
+;
+q
+Bader
+= +1.07|
+e
+|)
+35
+is the one structure that agrees closely with the experimental results characterizing the mildly reduced sample (that exposed to H
+2
+at 100 °C; Supplementary Fig.
+14
+and Supplementary Table
+6
+).
+To formulate the plausible structures of the platinum clusters in Pt/CeO
+x
+/SiO
+2
+-RED, we built a comprehensive library of clusters having nuclearities ranging from 2 to 20 on the support, again represented as CeO
+2
+(111)—including more than 100 structures (Fig.
+3c
+, Supplementary Fig.
+15
+and Supplementary Table
+7
+)
+36
+. We screened the candidate clusters in a multidimensional probability analysis (Fig.
+3c,d
+and Supplementary Fig.
+15
+). The most important screening criteria were CN
+Pt–Pt
+and the stability measured by cohesion energy (
+E
+coh
+) of the clusters with a given nuclearity.
+E
+coh
+indicates the thermodynamic tendency for the conversion of isolated platinum atoms in the gas phase into platinum clusters on CeO
+2
+. The results exclude platinum clusters with nuclearities in the range of 2–6, because the values of CN
+Pt–Pt
+are <3.5, regardless of their configuration. Correspondingly, the STEM images show that the platinum clusters have three-dimensional shapes and not raftlike or monolayer structures. Furthermore, the CN
+Pt–Pt
+values do not agree with the other experimental results. Moreover, the relatively high
+E
+coh
+values (for example, approximately –4.2 eV for Pt
+3
+) demonstrate that these clusters are less stable on CeO
+2
+than platinum clusters with higher nuclearity (Fig.
+3d
+and Supplementary Fig.
+15
+). An essential result is that the platinum clusters with nuclearities of 7–14, with the predicted CN
+Pt–Pt
+values of 4.0–5.1 (Fig.
+3d
+), are consistent with the EXAFS-determined CN
+Pt–Pt
+and the diameters determined by the HAADF-STEM images. With cluster nuclearities of >14, the
+E
+coh
+values were found to decrease gradually with increasing nuclearity, with slightly increasing cluster stability, but the values of CN
+Pt–Pt
+became >5.6 (that is, greater than the EXAFS values). They were, therefore, not considered further.
+In summary, the computational results characterizing the Pt
+7−14
+clusters with relatively low
+E
+coh
+values agree well with all the experimental results characterizing Pt/CeO
+x
+/SiO
+2
+-RED.
+Catalyst performance in ethylene hydrogenation
+The catalytic performance of the sample initially present as as-synthesized Pt/CeO
+x
+/SiO
+2
+(with platinum initially present as isolated Pt
+4+
+) was compared with that of Pt/CeO
+x
+/SiO
+2
+-RED (incorporating the clusters). The experiments were performed with a once-through plug-flow reactor. The feed partial pressures (in mbar) were 100 (for H
+2
+), 100 (for ethylene) and 800 (for helium). The catalyst mass was 12 mg, and the total feed flow rate was 40 ml (normal temperature and pressure (NTP)) min
+–1
+.
+The support CeO
+x
+/SiO
+2
+alone lacked measurable activity under our conditions, independent of whether it had been exposed to H
+2
+under the conditions used for Pt/CeO
+x
+/SiO
+2
+-RED (Supplementary Fig.
+16
+). The platinum-containing samples were catalytically active, with ethane being the only observed product. Initially, the conversion observed with each catalyst changed during a break-in period, corresponding to changes in the ligands on platinum and/or its oxidation state as the catalyst adjusted to the reactant composition. The Pt/CeO
+x
+/SiO
+2
+and Pt/CeO
+x
+/SiO
+2
+-RED catalysts approached steady-state operation after roughly 50 h on stream, at 70 °C and at 40 °C, respectively, showing no significant deactivation at longer times on stream (176 h; Supplementary Fig.
+17
+). The conversions were chosen to be low (<5%) and differential (Supplementary Fig.
+18
+), determining steady-state turnover frequency (TOF) values—rates per exposed platinum atom. The average fraction of platinum atoms exposed by clusters with nuclearities of 7–14 was approximately 0.97, as determined from the DFT models (Supplementary Table
+7
+). No measurable ethylene conversion was detected with atomically dispersed platinum at 40 °C, and, therefore, the experiments were done at 70 °C—a temperature low enough to prevent detectable changes in activity with time on stream after the break-in period.
+The steady-state TOF characterizing the catalyst initially present as Pt/CeO
+x
+/SiO
+2
+at 70 °C was 0.096 ± 0.004 s
+−1
+, and that characterizing Pt/CeO
+x
+/SiO
+2
+-RED at 40 °C was 0.13 ± 0.01 s
+−1
+(Fig.
+4a,b
+). The sample with platinum redispersed by oxidative cluster fragmentation, Pt/CeO
+x
+/SiO
+2
+-OX, was tested in separate experiments at 70 °C for 176 h, establishing stable operation with the abovementioned feed. The TOF of 0.091 ± 0.007 s
+–
+1
+matches the value for the as-synthesized Pt/CeO
+x
+/SiO
+2
+and confirms the reversibility of the redox cycle (Supplementary Fig.
+19
+).
+Fig. 4: Evaluation of catalytic performance and in operando XAS characterization of ethylene hydrogenation on Pt/CeO
+x
+/SiO
+2
+and Pt/CeO
+x
+/SiO
+2
+-RED.
+a
+,
+b
+, Comparison of near-steady-state TOF values characterizing ethylene hydrogenation in a reactor operated at various temperatures characterizing Pt/CeO
+x
+/SiO
+2
+(
+a
+) and Pt/CeO
+x
+/SiO
+2
+-RED (
+b
+).
+c
+, Arrhenius plots characterizing Pt/CeO
+x
+/SiO
+2
+and Pt/CeO
+x
+/SiO
+2
+-RED. The catalysis experiments were performed at atmospheric pressure with a steadily flowing reactant gas consisting of H
+2
+at 4.0 ml (NTP) min
+–1
+, ethylene at 4.0 ml (NTP) min
+–1
+and helium at 32 ml (NTP) min
+–1
+; the catalyst mass was 12 mg, and the catalyst particles were mixed with 500 mg of inert, non-porous α-Al
+2
+O
+3
+particles. The error bars on the TOF values represent standard deviations determined from three independent measurements.
+d
+, In operando XANES data characterizing Pt/CeO
+x
+/SiO
+2
+and Pt/CeO
+x
+/SiO
+2
+-RED (approximately 40 mg) at room temperature in helium flowing at 20 ml (NTP) min
+–1
+and at 70 °C and 40 °C in a mixture of H
+2
+flowing at 2.0 ml (NTP) min
+–1
++ ethylene flowing at 2.0 ml (NTP) min
+–1
++ helium flowing at 16 ml (NTP) min
+–1
+, respectively (data characterizing the reference compounds PtO
+2
+, Pt(acac)
+2
+and platinum foil were obtained at room temperature and under static conditions). The inset shows the region of the spectra from 11,560 eV to 11,580 eV.
+e
+, Magnitude (solid) and imaginary component (dashed) of the
+k
+3
+-weighted Fourier transform of the EXAFS data and the results of EXAFS modeling characterizing Pt/CeO
+x
+/SiO
+2
+at 70 °C in a mixture of H
+2
+flowing at 2.0 ml (NTP) min
+–1
++ C
+2
+H
+4
+flowing at 2.0 ml (NTP) min
+–1
++ helium flowing at 16 ml (NTP) min
+–1
+.
+f
+, Magnitude (solid) and imaginary component (dashed) of the
+k
+3
+-weighted Fourier transform of the EXAFS data and the results of EXAFS modeling characterizing Pt/CeO
+x
+/SiO
+2
+-RED at 40 °C in a mixture of H
+2
+flowing at 2.0 ml (NTP) min
+–1
++ C
+2
+H
+4
+flowing at 2.0 ml (NTP) min
+–1
++ helium flowing at 16 ml (NTP) min
+–1
+. The data and fits are shown in black and red (blue), respectively.
+Source data
+Full size image
+Further evidence of the stability of the catalytic species was determined in experiments at various temperatures (Fig.
+4a–c
+). To provide more insight into the active species and a further check of the catalyst stabilities, we made XAS measurements of the working catalysts in a flow reactor/cell (Fig.
+4d–f
+, Supplementary Fig.
+20
+and Supplementary Table
+8
+)
+24
+,
+33
+. The XANES data characterizing the catalyst initially present as Pt/CeO
+x
+/SiO
+2
+, recorded as the cell was fed with H
+2
+/ethylene/helium at 70 °C, were recorded during the break-in period, continuing until the spectra remained essentially unchanged. The white-line intensity characterizing the working catalyst at 70 °C attained a value close to that of Pt
+2+
+(in Pt(acac)
+2
+) and much less than that of Pt
+4+
+(in PtO
+2
+), becoming markedly less than that of the fresh sample and indicating the reduction of platinum by the reactants (Fig.
+4d
+). Correspondingly, the EXAFS results characterizing the working catalyst under the same conditions include only a Pt–O scattering path, with a CN of 5.1 ± 0.4 and a bonding distance of 2.00 ± 0.01 Å—without measurable platinum sintering, as shown by the lack of a Pt–Pt scattering path (Fig.
+4e
+, Supplementary Fig.
+20a
+and Supplementary Table
+8
+). These results show that reaction with ethylene + H
+2
+led to the removal of oxygen-containing ligands from platinum, reducing the CN of the Pt–O scattering path and opening sites for the bonding of reactants and the onset of catalysis
+37
+. These results agree with the configuration of the DFT-optimized model Pt
+1
+O
+5
+H (Fig.
+3b
+) and point to reduced site-isolated platinum, predominantly in the form of Pt
+2+
+species, as the catalytically active sites—a conclusion bolstered by CO adsorption DRIFTS data characterizing the used Pt/CeO
+x
+/SiO
+2
+catalyst (Supplementary Fig.
+21
+)
+31
+.
+Contrasting data were obtained, as expected, when the catalyst initially contained Pt
+7−14
+clusters. The XANES data collected before and during catalysis at 40 °C with the abovementioned feed (Fig.
+4d
+) show that the oxidation state of platinum remained unchanged. The results are in line with the EXAFS data characterizing this sample during catalysis at 40 °C, which are represented by one Pt–Pt scattering path, with a CN of 4.9 ± 0.7 at a bonding distance of 2.65 ± 0.01 Å. These values are close to those of the initial sample before catalysis and show that the clusters were stable, resisting agglomeration, and indicating that they were the catalytically active species for ethylene hydrogenation (Fig.
+4d,f
+, Supplementary Fig.
+20b
+and Supplementary Table
+8
+).
+The differences in platinum structure and oxidation state in the two forms of catalyst are reflected in the performance data (Fig.
+4a–c
+); they differ markedly in terms of both TOF and apparent activation energy of the reaction (Fig.
+4c
+). The apparent activation energy characterizing the platinum clusters was found to be 85 ± 6 kJ mol
+−1
+and that characterizing the site-isolated platinum was 106 ± 2 kJ mol
+−1
+. Extrapolating the data for the former on the Arrhenius plot to 25 °C, we see that the TOF characterizing the platinum clusters is approximately 70 times that characterizing the site-isolated platinum.
+Ethylene hydrogenation mechanism
+We performed DFT calculations to elucidate the mechanism of ethylene hydrogenation catalyzed by CeO
+2
+-supported platinum with various nuclearities (Fig.
+5
+and Supplementary Figs.
+22
+–
+24
+and
+26
+–
+31
+). The H
+2
+dissociation on CeO
+2
+-supported platinum catalysts was considered first (Fig.
+5a
+). Molecular hydrogen is weakly adsorbed on Pt
+1
+O
+5
+H (
+E
+ads
+=
+-
+0.01 eV) and dissociated to give one hydrogen on platinum and another on a nearby lattice oxygen atom through heterolytic cleavage, with an activation barrier of 0.19 eV (Fig.
+5a
+and Supplementary Fig.
+22
+)
+6
+,
+38
+,
+39
+. On representative Pt
+7−14
+clusters, H
+2
+is preferentially dissociated homolytically and spontaneously with much more negative dissociative adsorption energies (
+E
+ads
+= –1.01 to –1.77 eV; Fig.
+5a
+and Supplementary Fig.
+24
+). In the calculations, we chose the corner or edge sites in the second or third layer of the clusters as the likely active sites, as hydrogen is most stably adsorbed on the low-coordinated and nearly neutral sites, consistent with the phenomena characterizing other subnanometer clusters (for example, Au
+13
+/TiO
+2
+and Ru
+10
+/TiO
+2
+)
+40
+,
+41
+. The more energetically favorable path of H
+2
+activation on supported platinum clusters was confirmed by the results of hydrogen–deuterium exchange experiments in the reaction of H
+2
+with D
+2
+(Supplementary Fig.
+25
+)
+42
+. HD formation involving hydrogen adsorption and dissociation was observed only at a higher temperature, namely, 70 °C, on the Pt/CeO
+x
+/SiO
+2
+catalyst, whereas it occurred at markedly lower temperatures (25 °C and 40 °C) on Pt/CeO
+x
+/SiO
+2
+-RED.
+Fig. 5: Theoretical characterization of ethylene hydrogenation mechanism.
+a
+, Adsorption energies of ethylene and the hydrogen dissociative adsorption energies on Pt
+1
+O
+5
+H, Pt
+3
+, Pt
+10
+and Pt
+18
+supported on CeO
+2
+(111), with platinum(111) as the reference.
+b
+, Free energy diagram for ethylene hydrogenation on Pt
+1
+O
+5
+H and on Pt
+10
+at 25 °C.
+c
+, Projected density of states (DOS) curve of Pt
+1
+O
+5
+H, Pt
+3
+, Pt
+10
+and Pt
+18
+supported on CeO
+2
+(111), with platinum(111) as the reference. The
+d
+-band center is marked with dash–dot lines. The Pt
+3
+, Pt
+10
+and Pt
+18
+models with the lowest cohesive energy for each platinum nuclearity were chosen. Colors, cerium (yellow), oxygen (red), platinum (blue), hydrogen (white) and carbon (gray). TS1 and TS2 represent the transition states of the first and second steps in ethylene hydrogenation, respectively; (
+g
+) and * represent the gaseous and adsorbed states of the species shown, respectively;
+E
+F
+is the Fermi energy.
+Source data
+Full size image
+In the hydrogenation catalyzed by Pt
+1
+O
+5
+H, ethylene is weakly adsorbed on Pt
+1
+(Fig.
+5a
+;
+E
+ads
+= –0.44 eV) and interacts with the adsorbed hydrogen on lattice oxygen adjacent to platinum, with an activation barrier of 1.03 eV (Fig.
+5b
+). The resultant ethyl intermediate (*C
+2
+H
+5
+) is further hydrogenated by the co-adsorbed H* on platinum to produce *C
+2
+H
+6
+with a much higher activation barrier of 1.65 eV (Fig.
+5b
+)
+38
+. In contrast, on Pt
+10
+(a representative example of the clusters), ethylene is preferentially and strongly adsorbed by π-bonding on a non-oxidized and low-coordinated platinum edge site with an adsorption energy of –1.60 eV, which is much lower than that on Pt
+1
+O
+5
+H (Fig.
+5a
+). Then, the first and second hydrogenation steps of adsorbed ethylene on Pt
+10
+occur sequentially, with activation barriers of 0.85 eV and 0.89 eV, respectively, indicating the higher catalytic activity of Pt
+10
+than that of Pt
+1
+O
+5
+H, consistent with experiment (Fig.
+5b
+). Thus, the results show that, affected by the various types of dissociated hydrogen (H*) and C
+2
+H
+4
+* species, the hydrogenation pathways of ethylene on Pt
+1
+O
+5
+H and Pt
+7−14
+are markedly different from each other.
+Moreover, the relatively low- and high-nuclearity clusters Pt
+3
+and Pt
+18
+, as well as the platinum(111) surface (Supplementary Figs.
+26
+–
+28
+), were evaluated for ethylene hydrogenation. Although the strength of adsorption of ethylene is enhanced on Pt
+3
+(CN
+Pt–Pt
+= 2 and
+E
+ads
+= –2.30 eV; Fig.
+5a
+), the activation barriers increase to 1.23 eV for the first hydrogenation step and to 1.21 eV for the second (Supplementary Fig.
+26
+). The adsorption strength of C
+2
+H
+5
+* also decreases the C–C bond dissociation barrier from 1.45 eV on Pt
+10
+to 1.05 eV on Pt
+3
+(Supplementary Fig.
+29
+), implying that these lower-nuclearity clusters might cause side reactions such as the deposition of carbonaceous material. Further, on Pt
+18
+(CN
+Pt–Pt
+= 6), ethylene prefers di-σ adsorption on platinum pair sites, with the adsorption energy of –1.24 eV (Fig.
+5a
+), and the activation barriers increase to 1.06 eV and 0.94 eV (Supplementary Fig.
+27
+). On platinum(111), the adsorption energy of C
+2
+H
+4
+is only –1.12 eV (Fig.
+5a
+), and the activation barriers of hydrogenation are 0.76 eV and 0.82 eV (Supplementary Fig.
+28
+), slightly lower than that on Pt
+10
+. The results indicate that the adsorption characterizing the reactants on Pt
+10
+facilitates the highest hydrogenation activity among the clusters investigated. The adsorption energies of the reactants on other platinum clusters (with nuclearities in the range of 7–14) were also evaluated, with the results indicating approximate agreement with those determined for Pt
+10
+(Supplementary Fig.
+24
+).
+Further, to focus on the effect of the size of the supported subnanometer platinum clusters on the intrinsic hydrogenation activity, DFT calculations were performed to take into account only two adsorbed H atoms, corresponding to a low hydrogen-coverage regime. The influence of surface hydrogen coverage on the abnormal hydrogen adsorption and spillover from supported small metal clusters to metal oxide sites and the resulting oxygen vacancies were reported in earlier studies
+41
+,
+43
+,
+44
+. Therefore, at a low hydrogen coverage, combining the atom utilization of platinum and the calculated apparent energy barriers, it is reasonable to expect that Pt/CeO
+x
+/SiO
+2
+-RED containing Pt
+7−14
+clusters with intermediate coordination and high atom utilization (~97%) exhibits high ethylene hydrogenation activity
+15
+.
+To further explore the electronic properties of the catalysts, we calculated the projected density of states (Fig.
+5c
+and Supplementary Fig.
+31
+). As the adsorption and activation of ethylene require that the π* antibonding orbital of the C=C bond accepts an electron from the platinum
+d
+orbital, the double bond is more easily weakened when the
+d
+-band center is closer to the Fermi level
+45
+,
+46
+. In the Pt
+1
+O
+5
+H configuration
+47
+,
+48
+, the
+d
+-orbital center of a single platinum atom is about –1.9 eV. However, owing to the five surrounding oxygen atoms, the
+d
+orbital of the original metallic platinum is mainly split into two parts: the left is the bonding area associated with
+p
+–
+d
+hybridization between platinum and oxygen, and the right includes the corresponding antibonding state (Fig.
+5c
+)
+46
+. Thus, there are no
+d
+electrons for the efficient adsorption of reactants. Conversely, the
+d
+bands of the supported platinum clusters are broad, without evident energy splitting (Fig.
+5c
+). The
+d
+-band center of Pt
+10
+is calculated to be –2.2 eV, indicating the stronger adsorption of reactants and intermediates on Pt
+10
+than on Pt
+18
+(–2.3 eV) and metallic platinum(111) (–2.4 eV), consistent with the calculated adsorption energies and abovementioned pathways (Fig.
+5a,b
+and Supplementary Figs.
+27
+and
+28
+). The
+d
+-band center characterizing Pt
+3
+is calculated to be –1.9 eV, closer to the Fermi level than that of Pt
+7−14
+(Supplementary Fig.
+31
+), suggesting the much stronger adsorption of intermediates that might cause side reactions (for example, resulting in carbonaceous species), matching the conclusion stated above (Supplementary Fig.
+29
+)
+45
+,
+46
+,
+49
+.
+To provide an experimental check on the prediction of the relationship between cluster nuclearity and activity in ethylene hydrogenation, catalysis experiments were conducted with CeO
+x
+/SiO
+2
+-supported platinum clusters that were relatively small (approximately Pt
+4
+, on average) and those that were relatively large (approximately Pt
+17
+, on average)—synthesized by tuning the platinum loadings (Supplementary Figs.
+32
+–
+34
+). Under the same reaction conditions, the catalyst with clusters of intermediate nuclearity, namely, Pt/CeO
+x
+/SiO
+2
+-RED (Pt
+7−14
+), was found to have the highest steady-state TOF value among the three catalysts, consistent with the results of the DFT calculations (Supplementary Fig.
+35
+).
+Testing for limits of catalyst stability
+To assess the potential of our catalyst for industrial hydrogenation reactions under harsh conditions, we evaluated the structural stability of the confined platinum clusters under various reductive reaction conditions (Supplementary Table
+9
+and Supplementary Figs.
+36
+–
+40
+) in a flow reactor. When the temperature was <600 °C and at atmospheric pressure with the catalyst in flowing H
+2
+, the average nuclearity of the platinum clusters remained unchanged within the uncertainty of our HAADF-STEM images and CO adsorption DRIFTS data; that is, the Pt
+7−14
+clusters remained intact, with a typical diameter of about 0.7 nm (Supplementary Figs.
+37a
+and
+38
+). Equivalent results were obtained with the catalyst at 400 °C in the presence of 2.0 MPa of 10% H
+2
+/helium (Supplementary Fig.
+37c
+).
+As a further stability check, the catalyst was used in a batch slurry reactor for
+n
+-hexadecane hydrocracking at 260 °C with a H
+2
+partial pressure of 3.0 MPa; the reaction time was 6 h (Supplementary Fig.
+41
+). Because platinum alone is not a good hydrocracking catalyst, it was used in a mixture with acidic particles, namely, HY zeolite. The catalyst performance data are shown in Supplementary Fig.
+41
+, and the used catalyst particles were characterized by DRIFTS with CO as a probe and by STEM imaging, with the results giving no evidence of platinum sintering under these typical hydrocracking conditions (Supplementary Fig.
+42
+).
+To still further test the stability limits of the catalyst, reduction experiments were done at atmospheric pressure at 700 °C and 800 °C, as well as at 600 °C in the presence of 2.0 MPa of 10% H
+2
+/helium. The results show that under these harsher reductive conditions, the CeO
+x
+nanoislands on silica lost integrity, and—without their nests—the platinum clusters sintered to form larger platinum particles (diameter, >1 nm; Supplementary Figs.
+37b
+,
+39
+and
+40
+). These results demonstrate the stability limits of the supported metal cluster catalyst and identify the structural limitation—when the CeO
+x
+nanoislands collapse, the catalyst reaches its demise.
+Conclusions
+By tuning the platinum loading on CeO
+x
+nanoisland nests on silica, the nuclearity of the platinum clusters in these nests was controlled, with diameters ranging from 0.5 to 0.9 nm. The experimental and computational results show that the conversion of platinum single atoms into 7–14-atom clusters on CeO
+x
+nanoislands on SiO
+2
+gives an ethylene hydrogenation catalyst that is more active than the isolated platinum cations. Further, the Pt
+7−14
+clusters have higher steady-state activity than larger and smaller clusters. When the isolated platinum ions and clusters were reversibly interconverted in redox cycles, the metal remained confined in the nests. To investigate the potential of the nested cluster catalyst for industrial hydrogenation reactions under harsh conditions, its structural stability was investigated under harsh conditions in flowing H
+2
+, with the results showing that the average cluster nuclearity remained unchanged when the temperature was below 600 °C at atmospheric pressure.
+Methods
+Synthesis of Pt/CeO
+x
+/SiO
+2
+CeO
+x
+/SiO
+2
+: the procedure for synthesizing CeO
+x
+islands on SiO
+2
+was reported previously
+22
+. SiO
+2
+powder (360 mg) was sonicated in 100 ml deionized water to produce a nearly homogeneous slurry. Then, 0.4 mmol Ce(NO
+3
+)
+3
+∙6H
+2
+O was added and dissolved in the solution, followed by the rapid injection of 0.8 ml NH
+3
+∙H
+2
+O (2M) under stirring for 3 min before vacuum filtration. The resulting solid particles were separated and air-dried overnight at room temperature. The dried powders were ground into finer particles and subsequently calcined in a muffle furnace at 500 °C (with an initial temperature ramp of 5 °C min
+–1
+) for 12 h.
+Pt/CeO
+x
+/SiO
+2
+was prepared by first dispersing 500 mg CeO
+x
+/SiO
+2
+in 120 ml deionized water
+22
+. The pH value of the solution was adjusted by adding HCl (0.15 mmol); separately, 51 μmol H
+2
+PtCl
+6
+and 0.075 mmol HCl were added in 50 ml deionized water. With the slurry magnetically stirred for 5 h, the platinum-containing precursor solution was slowly added into the CeO
+x
+/SiO
+2
+slurry. After stirring for another 2 h, the mixture was separated by vacuum filtration to give platinum-containing solid particles, which were then washed several times with deionized water. The resultant powder was calcined at 600 °C for 12 h to form the as-synthesized catalyst. Pt/CeO
+x
+/SiO
+2
+was reduced in flowing 10% H
+2
+/helium at 400 °C for 1 h to produce the Pt/CeO
+x
+/SiO
+2
+-RED samples containing platinum clusters. To prepare the oxidized sample (Pt/CeO
+x
+/SiO
+2
+-OX), the reduced Pt/CeO
+x
+/SiO
+2
+-RED sample was recalcined in a muffle furnace at 600 °C for 2 h.
+The 0.3 wt% Pt/CeO
+x
+/SiO
+2
+sample was prepared by first dispersing 500 mg CeO
+x
+/SiO
+2
+in 120 ml deionized water. The pH of the solution was adjusted by adding HCl (0.15 mmol); separately, 26 μmol H
+2
+PtCl
+6
+and 0.075 mmol HCl were added in 50 ml deionized water. The adsorption, calcination and reduction steps were the same as those stated above to produce the as-synthesized 0.3 wt% Pt/CeO
+x
+/SiO
+2
+catalyst and 0.3 wt% Pt/CeO
+x
+/SiO
+2
+-RED samples containing platinum clusters. The 0.8 wt% Pt/CeO
+x
+/SiO
+2
+sample was prepared by first dispersing 500 mg as-synthesized Pt/CeO
+x
+/SiO
+2
+(0.5 wt%, calcined at 500 °C for 12 h) in 120 ml deionized water. The pH of the solution was adjusted by adding HCl (0.15 mmol); separately, 26 μmol H
+2
+PtCl
+6
+and 0.075 mmol HCl were added in 50 ml deionized water. The adsorption, calcination and reduction were done as stated above to produce the as-synthesized 0.8 wt% Pt/CeO
+x
+/SiO
+2
+catalyst and 0.8 wt% Pt/CeO
+x
+/SiO
+2
+-RED samples containing platinum clusters. The 1.2 wt% Pt/CeO
+x
+/SiO
+2
+sample was prepared by first dispersing 500 mg as-synthesized Pt/CeO
+x
+/SiO
+2
+(0.5 wt%, calcined at 500 °C for 12 h) in 120 ml deionized water. The pH of the solution was adjusted by adding HCl (0.15 mmol); separately, 51 μmol H
+2
+PtCl
+6
+and 0.075 mmol HCl were added in 50 ml deionized water. The adsorption, calcination and reduction were done as stated above to produce the as-synthesized 1.2 wt% Pt/CeO
+x
+/SiO
+2
+catalyst and 1.2 wt% Pt/CeO
+x
+/SiO
+2
+-RED samples containing platinum clusters.
+XAS
+XAS was performed at beamlines 4-1 and 15-2 of the Stanford Synchrotron Radiation Lightsource. Conventional data were collected at beamline 4-1; this is a side station on a 20-pole wiggler beamline. The ring (SPEAR3) was operated in the top-off mode; the storage ring energy was 3 GeV and the stored current was 500 mA. To minimize harmonics at the platinum L
+3
+edge, the double-crystal Si(220) monochromator was detuned by 20%–30% of the maximum intensity. Ex situ spectra were collected in the fluorescence yield mode with a 30-element germanium solid-state detector array. The samples were pressed into pellets and mounted on a plate, and the data were recorded at room temperature. In operando XAS experiments were done with approximately 40 mg samples loaded in a tubular flow-through quartz cell (inside diameter, 2.8 mm) through which the treatment gases flowed
+24
+.
+HERFD-XANES experiments were performed at beamline 15-2, which is equipped with a 56-pole, 0.9 T wiggler and a liquid-nitrogen-cooled double-crystal Si(311) monochromator for selection of the incident-beam energy. A Rowland circle spectrometer having a radius of 1 m and equipped with three spherically bent Si(800) analyzers and a silicon drift detector were used to select the platinum L
+α
+emission line
+50
+. In each HERFD-XANES experiment, an approximately 40 mg sample was loaded in the flow-through cell that was fed with the treatment gas.
+ATHENA and ARTEMIS software
+51
+were used to analyze the EXAFS data. Data alignment, edge calibration, deglitching, normalization and background subtraction were performed with ATHENA. The platinum L
+3
+edge energy was determined by the first inflection point of the absorption edge data characterizing a platinum-foil reference, calibrated to the reported energy of 11,564.0 eV. Data fitting was performed considering
+k
+1
+,
+k
+2
+and
+k
+3
+weightings. The fitting ranges in
+k
+space and
+R
+space in the data analysis for each sample were determined by the data quality. These values were used with the Nyquist theorem for the estimation of the justified number of fitting parameters, which was not exceeded in the reported fits. The amplitude reduction factor,
+S
+0
+2
+, was determined by fitting the experimental platinum-foil data, and then fixed for further analysis of the data characterizing the various samples (Supplementary Fig.
+5
+and Supplementary Table
+1
+). The parameters characterizing the local structure environment including the CN, scattering path distance between the absorber and backscattering atoms (
+R
+), mean square relative displacement (Δ
+σ
+2
+, disorder term) and inner potential correction (Δ
+E
+0
+) were allowed to vary in the fitting. Various plausible models were considered in the fitting. The quality of fit was determined by the minimization of the R factor.
+Standard procedures were used in the analysis of the XANES data
+51
+.
+STEM
+HAADF-STEM imaging was performed with an aberration-corrected JEOL ARM-200F microscope at an accelerating voltage of 200 kV and an image resolution of 0.08 nm in the HAADF imaging mode and, separately, with a double-aberration-corrected Themis Z microscope at an accelerating voltage of 300 kV and an image resolution of 0.06 nm. The catalyst powders were loaded on lacey-carbon-coated copper transmission electron microscopy grids, and low electron probe currents were used to reduce the electron-beam-induced effects.
+Infrared spectroscopy
+A Bruker IFS 66v spectrometer (equipped with a liquid-nitrogen-cooled HgCdTe (MCT) detector) and a Thermo Scientific Nicolet iS50 FTIR spectrometer (equipped with a liquid-nitrogen-cooled HgCdTe (MCT-A) detector) were used to collect the DRIFTS data characterizing the powder samples. The spectral resolution was 4 cm
+−1
+. The cell was partly filled with approximately 50 mg of inert KBr powder, followed by adding approximately 10 mg of catalyst packed onto the KBr. The cell was connected into a flow system that allowed the recording of spectra as the reactant gases (CO (10% in helium, Airgas), helium (Praxair, UHP grade),
+13
+CO (Cambridge Isotope Laboratories, 99.5%), ethylene (Airgas, UHP grade) and/or H
+2
+(Airgas, UHP grade)) flowed through the cell at the desired temperature. The background spectra were recorded at room temperature for the as-synthesized Pt/CeO
+x
+/SiO
+2
+and Pt/CeO
+x
+/SiO
+2
+-OX samples in the presence of flowing helium (40 ml (NTP) min
+–1
+). CO adsorption was conducted by flowing 40 ml (NTP) min
+–1
+of 10% CO/helium for 30 min. The CO desorption spectra were recorded following a helium purge at a flow rate of 40 ml (NTP) min
+–1
+to remove gas-phase CO from the cell. To prepare and characterize the reduced catalyst, namely, Pt/CeO
+x
+/SiO
+2
+-RED, H
+2
+reduction treatments were conducted with the sample in the cell before CO adsorption. The cell was heated in 10% H
+2
+/helium flowing at 40 ml (NTP) min
+–1
+as the temperature was ramped from room temperature to 400 °C at a rate of 10 °C min
+–1
+followed by a dwell time of 1 h at 400 °C. Then, the cell was cooled to room temperature, and the gas feed was switched to a helium flow at 40 ml (NTP) min
+–1
+. The background spectra were recorded at room temperature with the sample in helium flowing at a rate of 40 ml (NTP) min
+–1
+. Thereafter, CO adsorption experiments were conducted by flowing 40 ml (NTP) min
+–1
+of 10% CO/helium for 30 min. The CO desorption spectra were recorded during a helium purge at a flow rate of 40 ml (NTP) min
+–1
+.
+In
+13
+CO adsorption experiments, the background spectra were recorded at room temperature with helium flowing through the cell at a rate of 40 ml (NTP) min
+–1
+.
+13
+CO adsorption was conducted by flowing 40 ml (NTP) min
+–1
+of 25%
+13
+CO/helium for 20 min.
+13
+CO desorption spectra were recorded during the flow of helium purge gas at a rate of 40 ml (NTP) min
+–1
+; this treatment removed gas-phase
+13
+CO from the cell.
+To characterize the performance of the used Pt/CeO
+x
+/SiO
+2
+sample, the catalytic reaction was carried out with the sample in the DRIFTS cell in a mixture of H
+2
+flowing at 4.0 ml (NTP) min
+–1
++ ethylene flowing at 4.0 ml (NTP) min
+–1
++ helium flowing at 32 ml (NTP) min
+–1
+at 70 °C; the pressure was atmospheric, and the run continued for 176 h. Then, the cell was cooled to room temperature, and the gas feed was switched to helium flowing at 40 ml (NTP) min
+–1
+. The background spectra were recorded at room temperature with helium flowing through the cell at a rate of 40 ml (NTP) min
+–1
+. Thereafter, CO adsorption was investigated by flowing 40 ml (NTP) min
+–1
+of 10% CO/helium for 30 min. CO desorption spectra were recorded during a helium purge at a flow rate of 40 ml (NTP) min
+–1
+to remove gas-phase CO from the cell.
+Inductively coupled plasma mass spectrometry
+The platinum loading of each catalyst sample was determined by inductively coupled plasma mass spectrometry, performed using a Thermo Scientific XSERIES 2 instrument.
+XPS measurements
+The XPS measurements were performed with a K-Alpha Plus XPS/UPS analyzer (Thermo Fisher Scientific) equipped with a monochromatic Al Kα X-ray source (1,486.6 eV) with the samples placed in an ultrahigh-vacuum chamber. The system reached a stable pressure, typically in the mid 10
+−10
+torr range, after ~12 h without the sample, or in the 10
+−8
+torr range with the sample present. Samples were mounted on conductive silver tape. A vacuum transfer module was used to transfer samples directly from a glove box to the XPS chamber without air exposure. A flood gun was used during the measurements to dynamically compensate for sample charging. A step size of 0.1 eV and a pass energy of 50 eV were used for each spectrum. The spectra were calibrated by setting the Si 2
+p
+signal of SiO
+2
+to 103.4 eV (ref.
+52
+). CasaXPS software version 2.3.25 was used for further data calibration and processing.
+XRD crystallography
+XRD patterns of the catalysts were obtained with a Philips X’Pert Pro Super diffractometer, equipped with a monochromatized Cu Kα radiation source at a wavelength of 0.1542 nm.
+Ethylene hydrogenation catalysis in a conventional flow reactor
+Ethylene hydrogenation catalysis experiments were done with a once-through temperature-controlled tubular plug-flow reactor (inside diameter, 4 mm) at various temperatures and atmospheric pressure. The products were analyzed with an online Agilent 6890 gas chromatograph equipped with a 50 m × 0.53 mm PLOT Alumina ‘M’ capillary column. Samples of the catalyst (Pt/CeO
+x
+/SiO
+2
+and Pt/CeO
+x
+/SiO
+2
+-RED) powder (12 mg) mixed with 500 mg of inert non-porous α-Al
+2
+O
+3
+particles were loaded into the reactor, with the upstream and downstream sections packed with quartz wool. The catalyst masses were 12 mg and 6 mg for 0.3 wt% Pt/CeO
+x
+/SiO
+2
+-RED and 1.2 wt% Pt/CeO
+x
+/SiO
+2
+-RED, respectively, and the catalyst powders were mixed with 500 mg of inert non-porous α-Al
+2
+O
+3
+powders. In these catalysis experiments, the feed was a mixture of H
+2
+flowing at 4.0 ml (NTP) min
+–1
++ ethylene flowing at 4.0 ml (NTP) min
+–1
++ helium flowing at 32 ml (NTP) min
+–1
+. The values of near-steady-state TOF were determined directly from the conversions of ethylene, which were <5.0% and shown to be differential
+53
+. After each catalyst reached steady-state operation, no substantial deactivation was observed at longer times on stream (176 h). Thereafter, the catalytic reaction experiments were carried out at various temperatures with the same feed gas to provide near-steady-state conversions at various temperatures. Each reported catalytic reaction rate (TOF) at each temperature is based on data from approximately 8 h of near-steady-state operation.
+n
+-Hexadecane hydrocracking
+n
+-Hexadecane hydrocracking was carried out in a stirred 50 ml Hastelloy slurry reactor at 260 °C for 6 h. In a typical test, the reactor was flushed with H
+2
+ten times to remove any residual air after the addition of 200 mg of catalyst (100 mg Pt/CeO
+x
+/SiO
+2
+-RED + 100 mg HY zeolite (Si:Al = 40, atomic)) and 2.00 g of
+n
+-hexadecane. HY zeolite was pretreated by calcination at 500 °C for 5 h. The reactor was pressurized with 3.0 MPa of H
+2
+at room temperature and heated and held at 260 °C for 6 h. The gas phase and products dissolved in
+n
+-hexadecane were analyzed by gas chromatography (Shimadzu, GC-2014).
+Computational methods
+Spin-polarized periodic DFT calculations were performed using the Vienna ab initio simulation package code at the generalized gradient approximation level within the projector augmented wave/Perdew–Burke–Ernzerhof formalism
+54
+,
+55
+. Hubbard
+U
+(
+U
+eff
+= 5.0 eV) with effective on-site Coulomb interaction correction was used for the strongly correlated 4
+f
+electrons of cerium
+56
+. A CeO
+2
+(111) slab model (11.5 Å × 13.3 Å) with three triatomic layers was adopted to investigate the evolution of interfacial structures from that incorporating isolated single Pt
+1
+O
+x
+species to Pt
+n
+clusters. The total energy calculations were performed using a 2 × 2 × 1 grid and a plane-wave cut-off energy of 400 eV. A vacuum space greater than 15 Å was added in the
+z
+direction to avoid interaction with each slab. Atoms in the bottom triatomic layer of a catalyst model were fixed, and all the other atoms, including adsorbates, were allowed to relax until the force on each ion was less than 0.02 eV Å
+–1
+. The cohesive energy (
+E
+coh
+) is defined as
+E
+coh
+=
+E
+clusters+slab
+–
+E
+slab
+–
+n
+*
+E
+Pt1
+, where
+E
+clusters+slab
+,
+E
+slab
+,
+n
+and
+E
+Pt1
+are the Gibbs free energy of optimized Pt
+n
+/CeO
+2
+(111) and Gibbs free energy of optimized CeO
+2
+(111), the nuclearity of the platinum clusters and the energy of an isolated single platinum atom, respectively. To check the stability of the candidate cluster structures under the experimental conditions, ab initio molecular dynamics (AIMD) simulations were performed. The selected structures after the standard structure optimization calculations were used to run the AIMD simulations for a period of 3 ps at 400 °C by setting the canonical ensemble (
+NVT
+) with a Nose–Hoover thermostat. Then, the generated configurations were further optimized using standard DFT calculations to demonstrate the stability. The optimal adsorption configurations of the reactants (C
+2
+H
+4
+and H
+2
+) on the selective Pt
+1
+O
+5
+H and Pt
+n
+clusters were searched. The adsorption energy (
+E
+ads
+) is defined as
+E
+ads
+=
+E
+adsorb/surf
+–
+E
+surf
+–
+E
+adsorb
+, where
+E
+adsorb/surf
+,
+E
+surf
+and
+E
+adsorb
+represent the total energies of the slab with adsorbate(s), the clean slab and the isolated adsorbate, respectively. For each elementary step in C
+2
+H
+4
+hydrogenation, the initial and final states were first optimized. The transition states were then searched using both the climbing image nudged elastic band method and the complete linear/quadratic synchronous transit method
+57
+,
+58
+. The accuracy of the transition states was confirmed by analyzing the vibrational frequencies. The Gibbs free energy change is defined as Δ
+G
+= Δ
+E
++ ΔZPE –
+T
+Δ
+S
+, where Δ
+E
+is obtained from DFT calculations and ΔZPE is the correction in zero-point energies. All the atomic coordinates of the optimized models including the single atoms, platinum clusters, AIMD stability, hydrogenation pathways and side-reaction steps are provided in Supplementary Data
+1
+–
+5
+.
+Data availability
+All the data supporting this investigation are available in the article and its
+Supplementary Information
+.
+Source data
+are provided with this paper, including the atomic coordinates of the optimized computational models.
+References
+Hegedus, L. L. (ed.)
+Catalyst Design: Progress and Perspectives
+(John Wiley & Sons, 1987).
+Morbidelli, M., Gavriilidis, A. & Varma, A.
+Catalyst Design: Optimal Distribution of Catalyst in Pellets, Reactors, and Membranes
+(Cambridge Univ. Press, 2001).
+van der Hoeven, J. E. S. et al. Unlocking synergy in bimetallic catalysts by core–shell design.
+Nat. Mater.
+20
+, 1216–1220 (2021).
+PubMed
+Google Scholar
+Das, S. et al. Core−shell structured catalysts for thermocatalytic, photocatalytic, and electrocatalytic conversion of CO
+2
+.
+Chem. Soc. Rev.
+49
+, 2937–3004 (2020).
+CAS
+PubMed
+Google Scholar
+Gates, B. C., Katz, A. & Liu, J. Nested metal catalysts: metal atoms and clusters stabilized by confinement with accessibility on supports.
+Precis. Chem.
+1
+, 3–13 (2023).
+CAS
+PubMed
+Google Scholar
+Aireddy, D. R. & Ding, K. Heterolytic dissociation of H
+2
+in heterogeneous catalysis.
+ACS Catal.
+12
+, 4707–4723 (2022).
+CAS
+Google Scholar
+Gu, J., Xu, Y. & Lu, J. Atom-precise low-nuclearity cluster catalysis: opportunities and challenges.
+ACS Catal.
+13
+, 5609–5634 (2023).
+CAS
+Google Scholar
+Hai, X. et al. Geminal-atom catalysis for cross-coupling.
+Nature
+622
+, 754–760 (2023).
+CAS
+PubMed
+Google Scholar
+Kuo, C.-T., Lu, Y., Kovarik, L., Engelhard, M. & Karim, A. M. Structure sensitivity of acetylene semi-hydrogenation on Pt single atoms and subnanometer clusters.
+ACS Catal.
+9
+, 11030–11041 (2019).
+CAS
+Google Scholar
+Wang, H. et al. Surpassing the single-atom catalytic activity limit through paired Pt−O−Pt ensemble built from isolated Pt
+1
+atoms.
+Nat. Commun.
+10
+, 3808 (2019).
+PubMed
+PubMed Central
+Google Scholar
+Liu, X. et al. Activation of subnanometric Pt on Cu-modified CeO
+2
+via redox coupled atomic layer deposition for CO oxidation.
+Nat. Commun.
+11
+, 4240 (2020).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zhang, X. et al. A stable low-temperature H
+2
+-production catalyst by crowding Pt on α-MoC.
+Nature
+589
+, 396–401 (2021).
+CAS
+PubMed
+Google Scholar
+Liu, L. & Corma, A. Metal catalysts for heterogeneous catalysis: from single atoms to nanoclusters and nanoparticles.
+Chem. Rev.
+118
+, 4981–5079 (2018).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Dong, C. et al. Fully exposed palladium cluster catalysts enable hydrogen production from nitrogen heterocycles.
+Nat. Catal.
+5
+, 485–493 (2022).
+CAS
+Google Scholar
+Vajda, S. et al. Subnanometre platinum clusters as highly active and selective catalysts for the oxidative dehydrogenation of propane.
+Nat. Mater.
+8
+, 213–216 (2009).
+CAS
+PubMed
+Google Scholar
+Liu, L. et al. Generation of subnanometric platinum with high stability during transformation of a 2D zeolite into 3D.
+Nat. Mater.
+16
+, 132–138 (2017).
+CAS
+PubMed
+Google Scholar
+Rong, H., Ji, S., Zhang, J., Wang, D. & Li, Y. Synthetic strategies of supported atomic clusters for heterogeneous catalysis.
+Nat. Commun.
+11
+, 5884 (2020).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Goel, S., Zones, S. I. & Iglesia, E. Encapsulation of metal clusters within MFI via interzeolite transformations and direct hydrothermal syntheses and catalytic consequences of their confinement.
+J. Am. Chem. Soc.
+136
+, 15280–15290 (2014).
+CAS
+PubMed
+Google Scholar
+Martín, A. J., Mitchell, S., Mondelli, C., Jaydev, S. & Pérez-Ramírez, J. Unifying views on catalyst deactivation.
+Nat. Catal.
+5
+, 854–866 (2022).
+Google Scholar
+Campbell, C. T., Parker, S. C. & Starr, D. E. The effect of size-dependent nanoparticle energetics on catalyst sintering.
+Science
+298
+, 811–814 (2002).
+CAS
+PubMed
+Google Scholar
+Valden, M., Lai, X. & Goodman, D. W. Onset of catalytic activity of gold clusters on titania with the appearance of nonmetallic properties.
+Science
+281
+, 1647–1650 (1998).
+CAS
+PubMed
+Google Scholar
+Li, X. et al. Functional CeO
+x
+nanoglues for robust atomically dispersed catalysts.
+Nature
+611
+, 284–288 (2022).
+CAS
+PubMed
+Google Scholar
+Chen, Y. et al. A theory-guided X-ray absorption spectroscopy approach for identifying active sites in atomically dispersed transition-metal catalysts.
+J. Am. Chem. Soc.
+143
+, 20144–20156 (2021).
+CAS
+PubMed
+Google Scholar
+Chen, Y. et al. Atomically dispersed platinum in surface and subsurface sites on MgO have contrasting catalytic properties for CO oxidation.
+J. Phys. Chem. Lett.
+13
+, 3896–3903 (2022).
+CAS
+PubMed
+Google Scholar
+Resasco, J. et al. Uniformity is key in defining structure–function relationships for atomically dispersed metal catalysts: the case of Pt/CeO
+2
+.
+J. Am. Chem. Soc.
+142
+, 169–184 (2020).
+CAS
+PubMed
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+CAS
+PubMed
+Google Scholar
+Sanchez, S. I. et al. The emergence of nonbulk properties in supported metal clusters: negative thermal expansion and atomic disorder in Pt nanoclusters supported on γ-Al
+2
+O
+3
+.
+J. Am. Chem. Soc.
+131
+, 7040–7054 (2009).
+CAS
+PubMed
+Google Scholar
+Wan, W. et al. Highly stable and reactive platinum single atoms on oxygen plasma‐functionalized CeO
+2
+surfaces: nanostructuring and peroxo effects.
+Angew. Chem. Int. Ed.
+61
+, e202112640 (2022).
+CAS
+Google Scholar
+Moliner, M. et al. Reversible transformation of Pt nanoparticles into single atoms inside high-silica chabazite zeolite.
+J. Am. Chem. Soc.
+138
+, 15743–15750 (2016).
+CAS
+PubMed
+Google Scholar
+Chen, Y., Sun, H. & Gates, B. C. Prototype atomically dispersed supported metal catalysts: iridium and platinum.
+Small
+17
+, 2004665 (2021).
+CAS
+Google Scholar
+DeRita, L. et al. Catalyst architecture for stable single atom dispersion enables site-specific spectroscopic and reactivity measurements of CO adsorbed to Pt atoms, oxidized Pt clusters, and metallic Pt clusters on TiO
+2
+.
+J. Am. Chem. Soc.
+139
+, 14150–14165 (2017).
+CAS
+PubMed
+Google Scholar
+Frenkel, A. I. et al. An in situ study of bond strains in 1 nm Pt catalysts and their sensitivities to cluster–support and cluster–adsorbate interactions.
+J. Phys. Chem. C
+117
+, 23286–23294 (2013).
+CAS
+Google Scholar
+Leo, D. et al. Structural evolution of atomically dispersed Pt catalysts dictates reactivity.
+Nat. Mater.
+18
+, 746–751 (2019).
+Google Scholar
+Su, Y.-Q. et al. Theoretical approach to predict the stability of supported single-atom catalysts.
+ACS Catal.
+9
+, 3289–3297 (2019).
+CAS
+Google Scholar
+Tang, Y., Wang, Y.-G. & Li, J. Theoretical investigations of Pt
+1
+@CeO
+2
+single-atom catalyst for CO oxidation.
+J. Phys. Chem. C
+121
+, 11281–11289 (2017).
+CAS
+Google Scholar
+Wang, D., Liu, Z.-P. & Yang, W.-M. Revealing the size effect of platinum cocatalyst for photocatalytic hydrogen evolution on TiO
+2
+support: a DFT study.
+ACS Catal.
+8
+, 7270–7278 (2018).
+CAS
+Google Scholar
+Vennewald, M. et al. Dynamics of palladium single-atoms on graphitic carbon nitride during ethylene hydrogenation.
+J. Catal.
+421
+, 134–144 (2023).
+CAS
+Google Scholar
+Gu, J. et al. Synergizing metal–support interactions and spatial confinement boosts dynamics of atomic nickel for hydrogenations.
+Nat. Nanotechnol.
+16
+, 1141–1149 (2021).
+CAS
+PubMed
+Google Scholar
+Chen, Y. et al. Optimizing reaction paths for methanol synthesis from CO
+2
+hydrogenation via metal-ligand cooperativity.
+Nat. Commun.
+10
+, 1885 (2019).
+PubMed
+PubMed Central
+Google Scholar
+Boronat, M., Illas, F. & Corma, A. Active sites for H
+2
+adsorption and activation in Au/TiO
+2
+and the role of the support.
+J. Phys. Chem. A
+113
+, 3750–3757 (2009).
+CAS
+PubMed
+Google Scholar
+Chen, H. Y. T., Tosoni, S. & Pacchioni, G. Hydrogen adsorption, dissociation, and spillover on Ru
+10
+clusters supported on anatase TiO
+2
+and tetragonal ZrO
+2
+(101) surfaces.
+ACS Catal.
+5
+, 5486–5495 (2015).
+CAS
+Google Scholar
+Guan, E. et al. MgO-supported iridium metal pair-site catalysts are more active and resistant to CO poisoning than analogous single-site catalysts for ethylene hydrogenation and hydrogen–deuterium exchange.
+ACS Catal.
+9
+, 9545–9553 (2019).
+CAS
+Google Scholar
+Cox, D. M., Fayet, P., Brickman, R., Hahn, M. Y. & Kaldor, A. Abnormally large deuterium uptake on small transition metal clusters.
+Catal. Lett.
+4
+, 271–278 (1990).
+CAS
+Google Scholar
+Wan, W., Nie, X., Janik, M. J., Song, C. & Guo, X. Adsorption, dissociation, and spillover of hydrogen over Au/TiO
+2
+catalysts: the effects of cluster size and metal−support interaction from DFT.
+J. Phys. Chem. C
+122
+, 17895–17916 (2018).
+CAS
+Google Scholar
+Pallassana, V. & Neurock, M. Electronic factors governing ethylene hydrogenation and dehydrogenation activity of pseudomorphic PdML/Re(0001), PdML/Ru(0001), Pd(111), and PdML/Au(111) surfaces.
+J. Catal.
+191
+, 301–317 (2000).
+CAS
+Google Scholar
+Hammer, B. & Nørskov, J. K. Electronic factors determining the reactivity of metal surfaces.
+Surf. Sci.
+343
+, 211–220 (1995).
+CAS
+Google Scholar
+Tang, H. V., Pacchioni, G., DeRita, L. & Christopher, P. Nature of stable single atom Pt catalysts dispersed on anatase TiO
+2
+.
+J. Catal.
+367
+, 104–114 (2018).
+Google Scholar
+Cao, S. et al. High-loading single Pt atom sites [Pt–O(OH)
+x
+] catalyze the CO PROX reaction with high activity and selectivity at mild conditions.
+Sci. Adv.
+6
+, 3809–3826 (2020).
+Google Scholar
+Crampton, A. S. et al. Ethylene hydrogenation on supported Ni, Pd and Pt nanoparticles: catalyst activity, deactivation and the
+d
+-band model.
+J. Catal.
+333
+, 51–58 (2016).
+CAS
+Google Scholar
+Hoffman, A. S. et al. High‐energy‐resolution X‐ray absorption spectroscopy for identification of reactive surface species on supported single‐site iridium catalysts.
+Chem. Eur. J.
+23
+, 14760–14768 (2017).
+CAS
+PubMed
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X‐ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+CAS
+PubMed
+Google Scholar
+Verdaguer, A. et al. Growth and structure of water on SiO
+2
+films on Si investigated by Kelvin probe microscopy and in situ X-ray spectroscopies.
+Langmuir
+23
+, 9699–9703 (2007).
+CAS
+PubMed
+Google Scholar
+Perez-Aguilar, J. E., Chen, C.-Y., Hughes, J. T., Fang, C.-Y. & Gates, B. C. Isostructural atomically dispersed rhodium catalysts supported on SAPO-37 and on HY zeolite.
+J. Am. Chem. Soc.
+142
+, 11474–11485 (2020).
+CAS
+PubMed
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+CAS
+PubMed
+Google Scholar
+Nolan, M. S. et al. Density functional theory studies of the structure and electronic structure of pure and defective low index surfaces of ceria.
+Surf. Sci.
+576
+, 217–229 (2005).
+CAS
+Google Scholar
+Govind, N., Petersen, M., Fitzgerald, G., King-Smith, D. & Andzelm, J. A generalized synchronous transit method for transition state location.
+Comput. Mater. Sci.
+28
+, 250–258 (2003).
+CAS
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+CAS
+Google Scholar
+Download references
+Acknowledgements
+Y.C. and B.C.G. were supported by the US Department of Energy (DOE), Office of Science, Basic Energy Sciences (BES), via grant no. DE-FG02-04ER15513. X.L. and D.W. were supported by the National Natural Science Foundation of China (NSFC) (grant nos. 22201272 and 22475030), the Central Government Funds of Guiding Local Scientific and Technological Development for Sichuan Province (grant no. 2024ZYD0152) and the Sichuan Science and Technology Program (grant no. 2024NSFSC1107). J. Zhao, N.Z., J.D. and J. Zeng were supported by the Chinese National Science Fund for Distinguished Young Scholars (grant no. 21925204), NSFC (grant no. 22250007) and the International Partnership Program of the Chinese Academy of Sciences (grant no. 123GJHZ2022101GC). X.Z. and M.S. were supported by the US National Science Foundation (NSF) via grant no. 1906014. J.L. was supported by NSF grant nos. 1955474 (CHE-1955474) and 2247571 (CHE-2247571). Synchrotron experiments were performed at Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, which is supported by the DOE, BES, under contract no. DE-AC02-76SF00515. Additional support by the Consortium for Operando and Advanced Catalyst Characterization via Electronic Spectroscopy and Structure (Co-ACCESS) at SLAC is acknowledged; Co-ACCESS is supported by the DOE, BES, Chemical Sciences, Geosciences, and Biosciences, under contract no. DE-AC02-76SF00515. XPS characterizations were performed at the Molecular Foundry supported by the DOE under contract no. DE-AC02-05CH11231. We thank S. R. Bare, A. S. Hoffman and J. E. Perez-Aguilar for help with synchrotron data collection.
+Author information
+Author notes
+These authors contributed equally: Yizhen Chen, Jiankang Zhao.
+Authors and Affiliations
+Department of Chemical Engineering, University of California, Davis, Davis, CA, USA
+Yizhen Chen & Bruce C. Gates
+School of Materials and Energy, University of Electronic Science and Technology of China, Chengdu, People’s Republic of China
+Jiankang Zhao, Di Wu & Xu Li
+Hefei National Research Center for Physical Sciences at the Microscale, Key Laboratory of Strongly-Coupled Quantum Matter Physics of Chinese Academy of Sciences, Key Laboratory of Surface and Interface Chemistry and Energy Catalysis of Anhui Higher Education Institutes, Department of Chemical Physics, University of Science and Technology of China, Hefei, People’s Republic of China
+Jiankang Zhao, Nan Zhang, Junjie Du & Jie Zeng
+Materials Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
+Xiao Zhao & Miquel Salmeron
+Department of Materials Science and Engineering, University of California, Berkeley, Berkeley, CA, USA
+Xiao Zhao & Miquel Salmeron
+Department of Physics, Arizona State University, Tempe, AZ, USA
+Jingyue Liu
+Authors
+Yizhen Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiankang Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiao Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Di Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Nan Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Junjie Du
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jie Zeng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xu Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Miquel Salmeron
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jingyue Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bruce C. Gates
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+B.C.G. supervised this project. Y.C. performed the catalytic reaction, DRIFTS and XAS experiments, and analyzed the XANES and EXAFS data. J. Zhao performed the DFT calculations. X.L., N.Z., J.D., D.W. and J. Zeng performed the synthesis, STEM and
+n
+-hexadecane hydrocracking experiments. Y.C., X.Z. and M.S. performed the XPS experiments and analyzed the data. Y.C., J. Zhao and B.C.G. wrote the paper. B.C.G., J.L., M.S. and X.L. revised the paper, and all authors discussed the results and commented on the paper.
+Corresponding authors
+Correspondence to
+Jie Zeng
+,
+Xu Li
+,
+Jingyue Liu
+or
+Bruce C. Gates
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Chemical Engineering
+thanks Aiqin Wang and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–43 and Tables 1–9.
+Supplementary Data 1
+Optimized atomic coordinates for platinum single atoms.
+Supplementary Data 2
+Optimized atomic coordinates for platinum clusters.
+Supplementary Data 3
+Optimized atomic coordinates for AIMD stability.
+Supplementary Data 4
+Optimized atomic coordinates for hydrogenation pathways.
+Supplementary Data 5
+Optimized atomic coordinates for side-reaction steps.
+Source data
+Source Data Fig. 1
+Statistical source data.
+Source Data Fig. 2
+Statistical source data.
+Source Data Fig. 3
+Statistical source data.
+Source Data Fig. 4
+Statistical source data.
+Source Data Fig. 5
+Statistical source data.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Chen, Y., Zhao, J., Zhao, X.
+et al.
+Stabilizing supported atom-precise low-nuclearity platinum cluster catalysts by nanoscale confinement.
+Nat Chem Eng
+2
+, 38–49 (2025). https://doi.org/10.1038/s44286-024-00162-x
+Download citation
+Received
+:
+05 December 2023
+Accepted
+:
+09 December 2024
+Published
+:
+17 January 2025
+Issue Date
+:
+January 2025
+DOI
+:
+https://doi.org/10.1038/s44286-024-00162-x
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Focus
+Reaction Engineering
+Nanoscale confinement strategy for the stabilization of few-atom platinum cluster catalysts
+Nature Chemical Engineering
+Research Briefing
+23 Jan 2025
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Our publishing models
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Chemical Engineering
+(
+Nat Chem Eng
+)
+ISSN
+2948-1198
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

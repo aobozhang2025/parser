@@ -1,0 +1,2472 @@
+Reaction product-driven restructuring and assisted stabilization of a highly dispersed Rh-on-ceria catalyst | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Reaction product-driven restructuring and assisted stabilization of a highly dispersed Rh-on-ceria catalyst
+Download PDF
+Article
+Published:
+24 February 2022
+Reaction product-driven restructuring and assisted stabilization of a highly dispersed Rh-on-ceria catalyst
+George Yan
+1
+na1
+,
+Yu Tang
+ORCID:
+orcid.org/0000-0001-9435-9310
+2
+na1
+,
+Yuting Li
+2
+,
+3
+na1
+,
+Yixiao Li
+2
+,
+Luan Nguyen
+2
+,
+Tomohiro Sakata
+4
+,
+Kotaro Higashi
+4
+,
+Franklin Feng Tao
+2
+&
+…
+Philippe Sautet
+ORCID:
+orcid.org/0000-0002-8444-3348
+1
+,
+5
+,
+6
+Show authors
+Nature Catalysis
+volume
+5
+,
+pages
+119–127 (
+2022
+)
+Cite this article
+5947
+Accesses
+4
+Altmetric
+Metrics
+details
+Subjects
+Heterogeneous catalysis
+Structure prediction
+Abstract
+Understanding the structural dynamics of a catalyst under reaction conditions is challenging but crucial regarding catalyst design. Here, by a combination of in situ/operando characterization and first-principles modelling, we show that supported rhodium (Rh) catalysts undergo restructuring at the atomic scale in response to carbon monoxide (CO), a gaseous product formed during steam reforming of methane. Despite transformation of the initially prepared single-Rh-cation catalyst into Rh nanoparticles during hydrogen pretreatment, the formed Rh nanoparticles redispersed to low-nuclearity, CO-liganded Rh clusters (Rh
+m
+(CO)
+n
+(
+m
+= 1–3,
+n
+= 2–4)) under catalytic conditions. Theoretical simulations under reaction conditions suggest that the pressure of the CO product stabilizes Rh
+m
+(CO)
+n
+sites, while in situ/operando spectroscopy revealed a reversible restructuring between Rh
+3
+(CO)
+3
+clusters and CO-ligand-free Rh clusters driven by CO pressure. Our findings demonstrate the importance of including product molecules in the atomic-scale understanding of catalytic active sites and mechanisms.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Dynamic control and quantification of active sites on ceria for CO activation and hydrogenation
+Article
+Open access
+07 November 2024
+Isolated Rh atoms in dehydrogenation catalysis
+Article
+Open access
+17 March 2023
+Bifunctional hydroformylation on heterogeneous Rh-WO
+x
+pair site catalysts
+Article
+07 September 2022
+Main
+Heterogeneous catalysts, commonly formed by nanoparticles of active metals deposited on a high-surface-area support, are of central importance for chemical production and energy transformation. Controlling the structure of the active sites of a heterogeneous catalyst is critical to maintaining its activity
+1
+,
+2
+. The surface composition and morphology of a catalyst can be strongly affected by the reaction environment, such as change in the reducing or oxidizing capability of a reactant gas, or of the temperature
+3
+,
+4
+,
+5
+. At high temperatures, oxide-supported metal nanoparticles (NPs) can sinter
+6
+,
+7
+and even the oxide support can undergo phase transition
+8
+. At the atomic scale, a catalytic reaction event typically occurs on a specific site, consisting of one or more atoms of the metal particle and potentially involving atoms of the support at the metal particle’s periphery, at a given temperature in the gaseous environment. To optimize the use of precious metals, considerable efforts have been made recently to create highly dispersed supported catalysts, in the form of small clusters
+1
+. Downsizing to the single-atom extreme has largely benefited structurally insensitive catalytic reactions that occur on large metal particles;
+1
+,
+2
+,
+9
+,
+10
+however, these catalysts can be strongly susceptible to sintering during reaction
+11
+. Therefore, understanding the structural dynamics of a highly dispersed supported catalyst under a specific catalytic environment, and determining the factors that maintain high dispersion, are crucial to the rational design of efficient and robust heterogeneous catalysts.
+Here we report the evolution of the coordination and chemical environments of initially prepared, singly dispersed rhodium (Rh) atoms anchored on CeO
+2
+(Rh
+1
+/CeO
+2
+), driven first by the reduction pretreatment step of the catalyst and then by the catalytic conditions, to demonstrate the predominant impact of the partial pressure of a product gas on the formation and preservation of highly dispersed Rh
+m
+(
+m
+= 1–3) cluster active sites during catalysis. We find that although freshly prepared Rh
+1
+single atoms anchored on CeO
+2
+(Rh
+1
+/CeO
+2
+) transform into Rh NP/CeO
+2
+after H
+2
+reduction pretreatment, the carbon monoxide (CO) generated by the steam reforming of methane (SRM) reaction (
+\({\mathrm{{CH}_{4} + {H}_{2}{O} \to CO + {3H}_{2}}}\)
+) breaks down Rh NPs into highly dispersed, subnanometer, CO-liganded Rh sites (Rh
+m
+(CO)
+n
+(
+m
+= 1–3,
+n
+= 2–4)). The restructuring of this catalyst is uncovered by a combination of in situ/operando studies and first-principles modelling, addressing the hidden evolution of catalytic sites at the atomic scale driven by the pressure of product gases.
+Results
+Structural evolution of the Rh/CeO
+2
+catalyst
+Transmission electron microscopy (TEM) and X-ray diffraction studies confirmed crystallization of CeO
+2
+in the as-synthesized 0.17 wt% Rh/CeO
+2
+catalyst (Supplementary Figs.
+1
+and
+2
+) The studies show that neither metallic Rh nor Rh
+2
+O
+3
+NPs formed in the as-synthesized catalyst. Coordination and chemical environments of Rh atoms of the as-synthesized catalyst were examined by X-ray absorption near-edge spectroscopy (XANES), extended X-ray absorption fine structure (EXAFS), ambient-pressure X-ray photoemission spectroscopy (AP-XPS) and diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS). The energy position of the Rh K-edge of the as-synthesized catalyst in XANES (black line in Supplementary Fig.
+3a
+) resembles that of the Rh
+2
+O
+3
+reference (blue line in Supplementary Fig.
+3a
+), suggesting that the Rh atoms of the as-synthesized catalyst are cationic. The Fourier-transformed
+r
+-space EXAFS spectrum at the Rh K-edge for the as-synthesized catalyst indicates that Rh atoms are singly dispersed (Fig.
+1a
+). There is only one major peak, at 2.03 Å, observed in the range 0–4 Å. All distances or bond lengths in this Article are values after phase correction of EXAFS. On average, 6.73 ± 0.4 oxygen atoms in the first coordination shell of a Rh atom contributed to the peak at 2.03 Å (Supplementary Table
+1
+). The black dashed line in Fig.
+1a
+marks the distance between two Rh atoms in the second shell (Rh-(O)-Rh) of Rh
+2
+O
+3
+(2.87 Å). The absence of a second shell of Rh atoms in Fig.
+1a
+further demonstrates the absence of Rh
+2
+O
+3
+NPs in the as-synthesized catalyst. Hence, the
+r
+-space spectrum of Rh K-edge of the as-synthesized catalyst suggests that Rh atoms are singly dispersed Rh cations. The high Rh-O coordination number indicates that Rh
+1
+cations are substituted for Ce cations in the surface lattice of CeO
+2
+. The single-atomic dispersion of Rh
+1
+cations is further supported by DRIFTS with CO as a chemical probe. The observed peaks at 2,085 and 2,017 cm
+−1
+(Supplementary Fig.
+4
+) are assigned to symmetric and asymmetric vibration of geminal Rh
+1
+(CO)
+2
+, respectively
+12
+,
+13
+. The lack of bridge-adsorbed CO in the window 1,850–1,900 cm
+−1
+excludes the existence of Rh-Rh metallic bonds, in line with the formation of singly dispersed Rh
+1
+cations
+14
+,
+15
+,
+16
+. Thus, in the following section, both 0.17 wt% Rh/CeO
+2
+and Rh
+1
+/CeO
+2
+will be interchangeably used to denote the as-synthesized catalyst.
+Fig. 1: Evolution of the coordination environment of Rh.
+a
+–
+c
+, Fourier-transformed
+k
+2
+-weighted
+r
+-space spectra as the function of the radial distance (
+R
+) for as-synthesized 0.17 wt% Rh/CeO
+2
+in air (
+a
+) and catalyst at 500 °C in 5% H
+2
+(20 ml min
+–1
+) (
+b
+), and in situ study of 0.17 wt% Rh/CeO
+2
+under catalytic condition at 500 °C (2.5 ml min
+–1
+CH
+4
+, 22.5 ml min
+–1
+He and water vapour) (
+c
+). Although the height of the Rh-Rh peak grows after H
+2
+pretreatment, it decreases during the SRM reaction.
+Full size image
+During pretreatment, Rh
+1
+/CeO
+2
+was treated in 5% H
+2
+at 500 °C. The surface chemistry of this catalyst during this pretreatment was tracked with AP-XPS (Fig.
+2a,b
+). The deconvolutions of Ce 3d and O 1s spectra are described in Supplementary Notes
+2
+and
+3
+. Observation of the peak at 532.0 eV in the O 1s spectrum assigned to the O* atom of H′-O*-Ce
+3+
+-O (Fig.
+2b
+) implies that Rh atoms catalyse the dissociation of molecular H
+2
+to atomic H′ (′: guest), which reduces Ce
+4+
+to Ce
+3+
+by bonding to O
+surf
+* atoms on the CeO
+2
+surface to form H′-O*-Ce
+3+
+-O.
+Fig. 2: Surface chemistry of Ce and O during H
+2
+reduction and catalysis.
+a
+–
+d
+, AP-XPS studies of the 0.17 wt% Rh/CeO
+2
+catalyst reduced by 0.5 Torr H
+2
+at 500 °C (Ce 3d (
+a
+), O 1s (
+b
+)) and during SRM (
+\(P_{{\mathrm{CH}_{4}}}\)
+= 0.5 Torr and
+\(P_{{\mathrm{{H}_{2}{O}}}}\)
+= 1.0 Torr) at 500 °C (Ce 3d (
+c
+), O 1s (
+d
+)). The Ce 3d spectra (
+a,c
+) and O 1s spectra (
+b
+,
+d
+) are deconvoluted. Peak positions of deconvoluted peaks are listed in Supplementary Table
+2
+. The peak at 535.4 eV is the O 1s peak contributed from CO or/and H
+2
+O in gas phase. The surface of the Rh/CeO
+2
+catalyst under H
+2
+pretreatment and catalytic conditions is reduced.
+Full size image
+Reduction of the catalyst by H
+2
+markedly changed the coordination environment of Rh atoms in Rh
+1
+/CeO
+2
+. Following reduction, a new peak at 2.66 Å formed in the Fourier-transformed
+k
+2
+-weighted
+r
+-space EXAFS spectrum while the Rh-O peak at 2.05 Å weakened. This new peak was assigned to Rh-Rh metal bonds (Fig.
+1b
+; see also XANES spectra in Supplementary Fig.
+5b
+). On average, 5.7 ± 0.7 Rh atoms in the first shell of a Rh atom contributed to the peak at 2.66 Å (Supplementary Table
+1
+). The approximate size of these Rh NPs is 1.0 nm, based on the reported dependence of average Rh-Rh coordination number on the size of a Rh NP
+17
+.
+After H
+2
+reduction, the Rh NP/CeO
+2
+catalyst again markedly restructured under SRM conditions at 500 °C in a feed stream of a mixture of 2.5 ml min
+–1
+CH
+4
+and 22.5 ml min
+–1
+He, bubbled through water at 25 °C. The catalytic performance of the Rh
+1
+/CeO
+2
+catalyst is shown in Supplementary Fig.
+6
+. Compared to the
+r
+-space spectrum of Rh NPs formed by H
+2
+reduction (Fig.
+1b
+), the spectrum seen during catalysis exhibited distinctly different features (Fig.
+1c
+; see also Supplementary Fig.
+7
+for Rh and Rh
+2
+O
+3
+reference spectra). This spectrum consisted of a primary peak at 2.04 Å assigned to Rh-O bonds and a relatively weak peak at 2.57 Å assigned to Rh-Rh bonds (Supplementary Table
+1
+). Compared to the spectrum under reduction conditions (Fig.
+1b
+), the intensity of the peak of Rh-Rh bonds during catalysis (Fig.
+1c
+) was largely weakened while that of the Rh-O peak was simultaneously increased. The coordination numbers (CN) of Rh to Rh (CN(Rh-Rh)) and those of O to Rh (CN(Rh-O)) under the catalytic environment were 1.4 and 5.3, respectively (Supplementary Table
+1
+). The ratio of CN(Rh-Rh) to CN(O-Rh), 1.4/5.3, during catalysis at 500 ˚C, is only 0.04 of the ratio (5.7/0.87) of the catalyst under 5% H
+2
+at 500 °C. The distinct differences between CN(Rh-Rh) and CN(O-Rh) show that Rh NPs formed under H
+2
+reduction are redistributed in the catalytic environment. Notably, the average CN(Rh-Rh) during catalysis at 500 °C was 1.4 (Supplementary Table
+1
+), suggesting the formation of Rh
+2
+dimers whose CN(Rh-Rh) is 1.0 and/or Rh
+3
+triangular clusters whose CN(Rh-Rh) is 2.0. The pronounced change in Rh atoms coordination environment following switching from reduction to catalysis conditions is supported by the wavelet transformation of the EXAFS Rh K-edge spectra (WT–EXAFS) of the catalyst. For the reduced catalyst (Supplementary Fig.
+8a
+), a major maximum in the WT–EXAFS plot was found at R = 2.30 Å (distance before phase correction), which is assigned to the metallic Rh-Rh coordination of Rh metal NPs based on the reference sample of a metallic Rh foil (Supplementary Fig.
+8d
+). However, the maximum in the WT–EXAFS plot of the catalyst during catalysis (Supplementary Fig.
+8b
+) was different from that of either the Rh-O coordination in Rh
+2
+O
+3
+NPs (Supplementary Fig.
+8c
+) or Rh-Rh coordination of Rh metal NPs (Supplementary Fig.
+8a
+), suggesting that the coordination environment of Rh during catalysis is different from either Rh
+2
+O
+3
+or Rh metal NPs. Clearly, the chemical and coordination environments of Rh atoms indicate a second restructuring, in which the Rh NPs redisperse into smaller Rh clusters that represent the steady-state active sites of the catalyst.
+Along with the redispersion of 1.0 nm of Rh NPs to Rh
+2
+dimer/Rh
+3
+trimer structures under catalytic conditions, the surface chemistry of the CeO
+2
+support of this catalyst also underwent an obvious change, with the formation of surface hydroxyl groups and reduction of surface Ce
+4+
+cations. During catalysis (
+\(P_{\mathrm{{CH}_{4}}}\)
+= 0.5 Torr and
+\(P_{\mathrm{{{H}_{2}{O}}}}\)
+= 1.0 Torr), a peak at ~531 eV was seen after deconvolution in the O 1s XPS spectrum (blue peak in Fig.
+2d
+and Supplementary Table
+2
+), assigned to surface OH groups, while the blue peak was absent under reduction at 500 °C (Fig.
+2b
+). Such H′O′-Ce
+3+
+-O hydroxyl groups (blue peak in Fig.
+2d
+) are readily formed through dissociation of reactant H
+2
+O in the environment of the SRM reaction. This is consistent with our thermodynamics calculations based on density functional theory (DFT), which suggest that CeO
+2
+(111) is hydroxylated during catalysis and that the topmost Ce
+4+
+cations of the CeO
+2
+surface are reduced to Ce
+3+
+under the realistic H
+2
+and H
+2
+O pressures undergone by the catalyst during steady-state SRM at 500 °C (Fig.
+3
+). CeO
+2
+(111) was chosen as the facet to build the structural models for computational studies because the (111) facet is the main surface exposed on CeO
+2
+NPs (Supplementary Fig.
+1b
+). The insensitivity of the predicted surface structure to the choice of the effective Hubbard
+U
+value (
+U
+eff
+), as well as DFT-based spectroscopic calculations, further support the presence of surface hydroxyls on the CeO
+2
+support under catalytic conditions (Supplementary Note
+11
+and Supplementary Figs.
+10
+–
+25
+).
+Fig. 3: Structure and stability of the CeO
+2
+(111) surface under gas pressure of H
+2
+and H
+2
+O vapour.
+a
+, Surface structures formed in a gas environment of H
+2
+and H
+2
+O at different chemical potentials.
+b
+,
+c
+, Top (
+b
+) and side (
+c
+) view of CeO
+2
+(111) passivated with OH groups, corresponding to zone 1C in
+a
+.
+a
+, Three main phases are shown: (1) beige: solely hydroxylated regions (densities of OH of 1A, 1B, 1C are 2.54, 5.09, 7.63 OH nm
+–2
+, respectively; coverage of 4.24 O/ nm
+–2
+is stable in a narrow region between 1A and 1B); (2) magenta: OH/O
+vac
+mixed regions (2A: 0.85 O
+vac
+nm
+–2
+and 1.70 OH nm
+–2
+; 2B: 0.85 O
+vac
+nm
+–2
+and 2.54 OH nm
+–2
+; 2C: 3.39 O
+vac
+nm
+–2
+and 0.85 OH nm
+–2
+); and (3) cyan: solely O
+vac
+-containing regions (3A: 1.91 O
+vac
+nm
+–2
+; 3B: 3.39 O
+vac
+nm
+–2
+). The olive-coloured hatched region is associated with potential pressure under which SRM could be performed, from
+P
+i
+~ 10
+−2
+bar to
+P
+i
+~ 10
+1
+bar; the steady-state SRM gas environment at 500 °C is marked as a red dot (
+\({\Delta \mu}_{{\mathrm{H}}_2}\)
+= –1.17 eV,
+\({\Delta \mu}_{{\mathrm{H}}_2{\mathrm{O}}}\)
+= –1.65 eV, calculated using translational and rotational contributions and assuming
+\(P_{{\mathrm{H}}_2}\)
+= 0.14 bar and
+\(P_{{\mathrm{H}}_2{\mathrm{O}}}\)
+= 0.11 bar). The reaction condition falls within the region where the CeO
+2
+(111) surface is hydroxylated.
+Full size image
+Understanding active site stabilization at the atomic scale
+The experimentally observed structural evolution at the atomic scale of Rh-based catalytic sites during catalysis is explained by our atomistic modelling. Using DFT calculations we computed the structures of Rh
+1
+, Rh
+2
+and Rh
+3
+active sites, with H, OH and CO as potential ligands generated during catalysis. We considered a large number of liganded cluster structures (>500) on the hydroxylated CeO
+2
+(111) surface, including structures with an O vacancy surrounding the Rh site; we found the formation of such an O vacancy to be exergonic in the presence of Rh. By holding the chemical potentials of H
+2
+and H
+2
+O constant, the influences of CO pressure (
+P
+CO
+) and temperature on the structure and composition of clusters were explored through atomistic thermodynamics (Fig.
+4
+).
+Fig. 4: Structure and stability of Rh active sites.
+a
+,
+b
+, Theoretical modelling of the evolution of the Rh active site under catalytic conditions as a function of catalysis temperature (
+T
+) and CO pressure (
+P
+CO
+) by holding the chemical potentials of gas phase H
+2
+and H
+2
+O constant as those during SRM at 500 °C (Fig.
+3
+).
+a
+, Theoretically proposed stable Rh species; the SRM condition at 500 °C (
+P
+CO
+= 0.045 bar) is denoted by a green dot, with bars representing potential variation in
+T
+and
+P
+CO
+. As
+P
+CO
+decreases, Rh
+3
+(CO)
+3
+is transformed to Rh
+3
+(CO)
+2
+and then Rh
+3
+H
+1
+.
+b
+, Gibbs free energy of formation (∆
+G
+form
+) of the most stable Rh-based sites as a function of catalysis
+T
+and
+P
+CO
+; solid black line denotes transition between supported Rh NPs and highly dispersed Rh
+m
+(CO)
+n
+clusters, below which Rh
+m
+(CO)
+n
+species are more stable than Rh NPs. We found the Rh
+3
+(CO)
+3
+cluster to be close to Rh NPs in stability under catalytic conditions. For reference, stability of the Rh
+3
+(CO)
+3
+site is shown in Supplementary Fig.
+26
+.
+c
+–
+g
+, Atomic-scale geometries of Rh sites present in
+a
+: Rh
+3
+H
+1
+(
+c
+), Rh
+3
+(CO)
+2
+(
+d
+), Rh
+3
+(CO)
+3
+(
+e
+), Rh
+3
+(CO)
+4
+(
+f
+) and Rh
+1
+(CO)
+2
+(
+g
+).
+Full size image
+Under steady-state catalytic conditions at 500 °C (Fig.
+4a
+) we found that ensembles of distinct CO-liganded Rh clusters were generated, including low-energy metastable examples (Fig.
+5
+and Supplementary Note
+12
+)
+18
+. Rh
+3
+(CO)
+3
+is the most stable, and hence most probable, cluster based on our calculations of Gibbs free energy of formation (∆
+G
+form
+). In the ensemble of Rh active site structures, Rh
+3
+(CO)
+3
+sites are more stable than either Rh
+2
+(CO)
+3
+or Rh
+1
+(CO)
+2
+(Fig.
+5
+) and thus Rh trimers probably comprise the majority of active sites. Consistent with the reaction-driven redispersion of Rh NPs uncovered experimentally, thermodynamic calculations suggest that small Rh
+2
+/Rh
+3
+clusters can be stabilized by interaction with CO, a product of SRM. When comparing the stability of these small trimers to larger Rh NPs, we found that the SRM reaction condition at 500 °C (marked with a green cursor) lies next to the phase boundary between the stability domain of Rh NPs and CO-liganded Rh sites, Rh
+m
+(CO)
+n
+(Fig.
+4b
+).
+Fig. 5: Relative stability of Rh
+m
+(CO)
+n
+sites in the reaction environment.
+The ensemble of Rh sites generated during the SRM reaction at 500 °C (Fig.
+4
+), ordered by Gibbs free energy of formation relative to the most stable Rh
+3
+(CO)
+3
++
+site (line colour/site type: grey, Rh
+3
+; blue, Rh
+2
+; red, Rh
+1
+). A 3
+k
+B
+T
+region is shaded in green to indicate thermally accessible structures. Rh
+3
+(CO)
+3
+clusters are more stable than either Rh
+2
+(CO)
+3
+or Rh
+1
+(CO)
+2
+sites in the reaction environment.
+Full size image
+Although our thermodynamic analyses identified that reaction-generated CO is crucial for the stabilization of small Rh clusters, the influence of CeO
+2
+support cannot be understated. Numerous studies have shown that the nature of the catalyst support surface in a reactive environment strongly affects the structure of supported metal atoms and NPs
+16
+,
+19
+,
+20
+,
+21
+. To assess the role of the support, we calculated the reaction internal energy required to form Rh
+3
+(CO)
+3
+from a free Rh
+3
+cluster and three CO molecules on one hydroxylated surface containing 5.09 OH nm
+–2
+without O
+vac
+(region 1B in Fig.
+3a
+; also Supplementary Fig.
+27a
+), and one containing 5.09 OH nm
+–2
+with 0.85 O
+vac
+nm
+–2
+(Supplementary Fig.
+27b
+). Reaction energies required for the formation of Rh
+3
+(CO)
+3
+were found to be –10.58 and –10.90 eV, respectively. This difference suggests that the presence of an O vacancy renders the reaction energy for the formation of Rh
+3
+(CO)
+3
+slightly more favourable, by 0.11 eV Rh
+–1
+. We further compared the interaction energy between the Rh
+3
+(CO)
+3
+cluster and the support CeO
+2
+(111) surface (Supplementary Fig.
+27c
+), which was found to be –8.03 eV, to the interaction energy between the Rh
+3
+(CO)
+3
+cluster and the support CeO
+2
+(111) surface with an O vacancy in the vicinity of Rh
+3
+(CO)
+3
+(Supplementary Fig.
+27d
+), which was found to be –6.63 eV. These interaction energies were calculated by detaching the cluster from the surface with no structural relaxation of the obtained fragments. The existence of an O vacancy in contrast, therefore, had weakened the interaction energy by 0.47 eV Rh
+–1
+atom, but allowed the cluster and surrounding support atoms to adopt a less deformed, intrinsically more stable, configuration. As a net result, the oxygen vacancies of CeO
+2
+surface can cooperate with CO ligands to slightly stabilize the formation of small Rh
+3
+(CO)
+3
+clusters.
+Pressure-dependent formation of Rh
+m
+(CO)
+n
+clusters
+The formation of Rh
+m
+(CO)
+n
+clusters was also observed in two operando DRIFTS experiments (Fig.
+6b
+and Supplementary Fig.
+9b
+). Figure
+6b
+includes three series of experiments. In series 1 (Fig.
+6b
+), a pulse of CH
+4
+was added to flowing Ar carrying water vapour while the prereduced catalyst was held at 500 °C in the mixture of Ar and water vapour. During the pulse, the feed stream consisted of ~1% CH
+4
+and ~3% H
+2
+O. The CO produced from the steam reforming of CH
+4
+, in terms of the reaction between the CH
+4
+pulse and flowing H
+2
+O vapour, formed Rh
+3
+(CO)
+3
+. In the first 60 s after introduction of the CH
+4
+pulse to the DRIFTS cell, there were no vibrational features in the region 2,050–1,900 cm
+−1
+because the SRM had just started to produce CO (Supplementary Fig.
+9b
+). Vibrational features at 2,012 and 1,930 cm
+−1
+in the region 2,050–1,900 cm
+−1
+were promptly observed 2 min after the pulse, showing the formation of Rh
+m
+(CO)
+n
+species (Fig.
+6b
+and Supplementary Fig.
+9b
+). These observed vibrational features are in good agreement with the two highest CO stretching frequencies, at 1,982 and 1,939 cm
+−1
+, for Rh
+3
+(CO)
+3
+calculated by DFT (Supplementary Fig.
+28
+). Because no external source of CO was introduced to the operando DRIFTS experiment (Fig.
+6b
+and Supplementary Fig.
+9b
+), the formation of Rh
+m
+(CO)
+n
+must have been driven by the CO product from SRM at 500 °C.
+Fig. 6: Reversible restructuring of Rh active sites.
+a
+,
+b
+, CO product pressure-driven restructuring of Rh catalytic sites.
+a
+, Three series of variations of CO pressure at 500 °C marked on the theoretical
+P
+CO
+-
+T
+phase diagram (upper portion adopted from Fig.
+4a
+).
+b
+, DRIFTS spectra at 500 °C under SRM catalytic condition (b1–9) and under other conditions (b10–20). Series 1: b1–9, a transient pulse of CH
+4
+reactant (equivalent to 0.1 ml CH
+4
+, at 25 °C, 1 atm) composed of 1% CH
+4
+and 99% Ar, was introduced to the catalyst by mixing the pulse with flowing water vapour formed by flowing Ar (99.999%) through water at 25 °C. No external CO source was introduced before and during series 1. Series 2: b10–14, spectra in a flow of CO (1%) balanced with Ar. Series 3: spectra (b15–20) being purged with Ar as a function of time. The background spectrum for the DRIFTS study was collected on the catalyst surface under Ar and water vapour flow at 500 °C. In series 1, 20 ml min
+–1
+water vapour containing 3% vapour was continuously flowed through the reaction cell; CH
+4
+gas (1% CH
+4
+in Ar) was pulsed to mix with water vapour. DRIFTS spectra were taken as a function of time without CH
+4
+in the flow. At
+t
+= 2 min (b1), the vibrational features in the 2,050–1,850 cm
+−1
+region, assigned to Rh
+3
+(CO)
+3
+, were clearly observed because CO was generated from SRM at 500 °C. These experiments overall show the formation of Rh
+3
+(CO)
+3
+to be reversible. a.u., arbitrary units.
+Full size image
+Thermodynamic stability calculations of the Rh active site show that its ligand structure is sensitive to CO chemical potential. Starting from the steady-state catalytic environment (Fig.
+4a,b
+) with Rh
+3
+(CO)
+3
+as the most stable species (Fig.
+4e
+), two ligand-restructuring events (labelled 1 and 2 and marked with arrows in Fig.
+4a
+) may occur when
+P
+CO
+is decreased while the temperature is held constant at 500 °C. In these two events at 500 °C, the active site loses CO ligands. In event 1, one CO ligand is lost when
+P
+CO
+falls <10
+−3
+bar, forming Rh
+3
+(CO)
+2
+(Fig.
+4d
+). Event 2 occurs when
+P
+CO
+falls <10
+−5
+bar, where the Rh
+3
+(CO)
+2
+site loses its remaining CO ligands to form the Rh
+3
+H
+1
+site (Fig.
+4c
+). If the pressure of CO is increased starting from steady-state condition, one additional CO is predicted to attach to the Rh
+3
+(CO)
+3
+site when
+P
+CO
+rises >10
+−1
+bar, forming the Rh
+3
+(CO)
+4
+site (Fig.
+4f
+). Importantly, both the Rh
+3
+(CO)
+2
+and Rh
+3
+H
+1
+sites are metastable compared to the Rh NP, while Rh
+3
+(CO)
+3
+and Rh
+3
+(CO)
+4
+are similarly stable (Fig.
+4b
+). This difference among thermodynamic stabilities in Fig.
+4a
+underlines the key role of CO in the stability of the Rh active site. The predicted
+P
+CO
+-dependent restructuring is consistent with a theoretically predicted decreasing trend in the frequency of the principal CO stretching mode, in the order of Rh
+3
+(CO)
+4
+> Rh
+3
+(CO)
+3
+> Rh
+3
+(CO)
+2
+(Supplementary Note
+13
+and Supplementary Fig.
+28
+).
+The predicted
+P
+CO
+-dependent restructuring of the catalytic sites at 500 °C was also experimentally observed by operando DRIFTS studies, where CO was produced by the reaction between flowing H
+2
+O vapour and pulsed CH
+4
+at 500 °C. In series 1 of Fig.
+6b
+, CH
+4
+was provided through a pulse only and thus no further CO was continuously produced after the pulse. Since water vapour was continuously flowed through the catalyst, the partial pressure of CO (and the chemical potential of CO) around the catalyst progressively decreased. Time-dependent vibrational signatures show that the Rh
+3
+(CO)
+3
+clusters progressively restructured to CO-ligand-free Rh clusters, as illustrated in Fig.
+6a
+(series 1). The transformation of Rh
+3
+(CO)
+3
+to a CO-ligand-free Rh cluster was evidenced by the evolution of the CO vibrational feature. The CO stretching frequencies of Rh
+3
+(CO)
+3
+obviously shifted to lower values, and their intensities decreased corresponding to decreased CO pressure (Fig.
+6b
+), as denoted by the red arrows in Fig.
+6b
+(Supplementary Fig.
+9
+).
+The key role of CO in maintaining the highly dispersed Rh
+3
+(CO)
+3
+catalytic sites was further confirmed by reversible restructuring of the Rh site observed in two additional series of experiments shown in Fig.
+6b
+. Following the disappearance of
+ν
+(CO) peaks in the range 2,050–1,850 cm
+−1
+at 500 °C (Fig.
+6b
+), CO-ligand-free Rh clusters formed at the end of series 1. Once CO was introduced to the catalyst as a steady flow (at the 31st minute, 1% CO), CO-ligand-free Rh clusters immediately restructured to Rh
+3
+(CO)
+3
+(spectrum b10 in series 2 of Fig.
+6b
+). This restructuring was evidenced by the immediate reappearance of
+v
+(CO) peaks at 2,010 and 1,920 cm
+−1
+in series 2 (Fig.
+6b
+). The structure thus produced underwent almost no change providing that CO was continuously flowed through the catalyst (Fig.
+6b
+). Notably, these CO vibrational frequencies are distinct from chemisorbed CO on the (100) or (111) surfaces of Rh metal
+22
+. At the end of series 2 (the 21st minute of series 2 in Fig.
+6b
+), flowing CO was replaced with flowing He; the progressive decrease in CO concentration in series 3 resulted in the restructuring of Rh
+3
+(CO)
+3
+to CO-ligand-free Rh clusters. Series 1 (under non-steady-state catalytic condition) and series 3 (under the same temperature and
+P
+CO
+as DFT modelling) exhibited the same evolution of CO vibrational features, suggesting that
+P
+CO
+is the main driving force regardless of CO produced from CH
+4
+reforming or from the external environment. Overall, the formation and restructuring of the active sites, Rh
+3
+(CO)
+n
+can be reversed by changing the chemical potential of CO surrounding the catalytic site.
+In conclusion, this work demonstrated that evolution of the structure of Rh nanoclusters supported on CeO
+2
+is dependent on the partial pressure of product CO in the gas environment to which the catalyst is subjected. Beyond the Rh/CeO
+2
+catalyst studied in our work, the restructuring capability of CO on metal model catalysts has been shown in systems where CO was a reactant
+3
+,
+4
+,
+5
+,
+23
+. CO has been found to induce the restructuring of stepped Pt surfaces to CO-covered Pt clusters with a size of 2.1–2.2 nm
+4
+. For Cu, a metal with weaker cohesive energy than Pt, CO can even fragment the close-packed Cu(111) surface into nanometre-sized, CO-covered clusters that can activate H
+2
+O
+23
+. In our system, singly dispersed Rh cations in the as-prepared catalyst were transformed to Rh NPs after reduction by H
+2
+but CO, a product formed from SRM, can redisperse Rh atoms of Rh NPs into catalytically active CO-liganded Rh
+3
+clusters during catalysis. As evidenced by first-principles atomistic thermodynamic calculations and in situ/operando spectroscopy, the CO product gas produced by the SRM plays a crucial role in induction and maintenance of the highly dispersed active sites, Rh
+3
+(CO)
+n
+of this Rh/CeO
+2
+catalyst. This work demonstrates the necessity of including product molecules as a factor in identifying active sites under catalytic conditions.
+Methods
+Catalyst synthesis
+CeO
+2
+nanorods were synthesized by a hydrothermal method as reported previously
+24
+,
+25
+,
+26
+. In a typical synthesis, 1.736 g of Ce(NO
+3
+)
+3
+·6H
+2
+O (Aldrich, 99.99%) was dissolved in 10 ml of deionized water then added dropwise to a concentrated NaOH solution, forming a mixed solution of Ce(NO
+3
+)
+3
+. The concentrated NaOH solution was prepared by dissolving 19.2 g of NaOH (Aldrich, >98%) in 70 ml of deionized water. Then, the mixed solution of Ce(NO
+3
+)
+3
+was maintained under vigorous stirring for 30 min before being transferred to a Teflon-lined, stainless steel autoclave for hydrothermal treatment at 100 °C for 24 h. Following hydrothermal synthesis, the autoclave was cooled to room temperature. The yellow powder thus obtained was washed with deionized water until its pH became neutral. Finally, the powder was dried at 60 °C in air for 10 h. This sample of CeO
+2
+nanorod was used as a support in the following preparation of the Rh
+1
+/CeO
+2
+catalyst.
+The Rh
+1
+/CeO
+2
+catalyst was prepared by the deposition–precipitation method
+27
+. In a typical synthesis, 1.0 g of CeO
+2
+nanorods was dispersed in 50 ml of deionized water. The mixture was sonicated for 10 min and stirred at 400 r.p.m. for 1 h; at this stage it is termed CeO
+2
+aqueous dispersion. Then, 5.6 mg of Rh (III) nitrate hydrate (Aldrich, ~36% Rh basis), which provided ~2.0 mg of Rh metal, was weighed and dissolved in 20 ml of deionized water. The prepared Rh salt solution was slowly introduced into the prepared CeO
+2
+aqueous dispersion by syringe pump at a flow rate of 0.2 ml min
+–1
+while the aqueous solution was being stirred, creating an aqueous mixture containing both Rh
+3+
+and CeO
+2
+nanorods. This aqueous mixture of Rh
+3+
+and ceria nanorods was continuously stirred for an additional 3 h. The pH of the mixture was carefully adjusted to 9.5 by gradual introduction of ammonium hydroxide solution (Aldrich, 28%) while the aqueous mixture was being stirred, followed by continuous stirring for an additional 5 h. The aqueous mixture was then centrifuged at 3,000 r.p.m. for 5 min, after which the upper layer was decanted. The solid product thus obtained was dried at 60 °C in an oven overnight and calcined in a muffle furnace at 250 °C for 2 h to obtain the as-synthesized Rh
+1
+/CeO
+2
+catalyst. The actual loading of Rh on CeO
+2
+nanorods of the as-synthesized catalyst was measured by inductively coupled plasma–optical emission spectrometry, and was found to be 0.17 wt%. Thus, either 0.17 wt% Rh/CeO
+2
+or Rh
+1
+/CeO
+2
+is used interchangeably to denote the as-synthesized catalyst in the following sections.
+Catalytic tests
+The catalyst (50 mg) was mixed with 300 mg of quartz for SRM. The catalytic performance of the Rh
+1
+/CeO
+2
+catalyst was evaluated in a fixed-bed flow reactor in the temperature range 350–600 °C. A K-type thermal couple was inserted into the catalyst bed to monitor the reaction temperature, which was controlled by a proportional integral derivative controller. The catalyst was pretreated in H
+2
+(5% in Ar, 20 ml min
+–1
+) at 500 °C for 1 h before catalysis. Water was introduced by syringe pump, in the form of vapour formed in a vaporization chamber held at 120 °C, before entering the reactor. Water vapour flow rate was kept at twice that of CH
+4
+(10% in Ar, 20 ml min
+–1
+), which was premixed with water vapour before being flowed into the reactor. To ensure that water vapour could be fully delivered to the catalyst bed, all stainless steel tubing and valves between the vaporization chamber and reactor were heated and maintained at 120 °C during evaluation of catalytic performance. The products were analysed by an online gas chromatograph equipped with a Hayasep-D column and thermal conductivity detector. The conversion of CH
+4
+and yield to H
+2
+was evaluated as follows, with
+\([{{\mathrm{CH}}}_{4}]_{{\mathrm{in}}}\)
+,
+\([{{\mathrm{CH}}}_{4}]_{{\mathrm{out}}}\)
+and
+\([{{\mathrm{H}}}_{2}]_{{\mathrm{out}}}\)
+representing CH
+4
+concentration at the reactor inlet and CH
+4
+and H
+2
+concentrations at the reactor outlet, respectively.
+$${\mathrm{Conversion}}\left( {\rm{CH}_{4}} \right) = \frac{{[{\rm{CH}_{4}}]_{in} - [{\rm{CH}_{4}}]_{out}}}{{[{\rm{CH}_{4}}]_{in}}} \times 100{{{\mathrm{\% }}}}$$
+(1)
+$${\rm{Yield}}\left( {{\rm{H}_{2}}} \right) = \frac{{\frac{1}{3}[{\rm{H}_{2}}]_{out}}}{{[{\rm{CH}_{4}}]_{in}}} \times 100{{{\mathrm{\% }}}}$$
+(2)
+Catalyst characterization
+In situ X-ray absorption spectroscopy experiments were mainly performed on beamline BL36XU at SPring-8. The Rh K-edge signal was collected under fluorescence mode by a Ge detector. Data were calibrated, merged and analysed using Athena and Artemis software packages with the standard protocol
+28
+. For in situ experiments, the catalyst powder was loaded in a capillary quartz tube cell
+29
+. The gas was then introduced into the cell, with flow rate controlled by mass flow controllers. In terms of reduction, 20 ml min
+–1
+5% H
+2
+was introduced to the reactor. In regard to catalysis, the composition of the SRM reactant mixture was CH
+4
+(2.5 ml min
+–1
+), He (22.5 ml min
+–1
+) and water vapour. The cell was heated, then maintained at the desired temperature for 30 min in a flow of 5% H
+2
+in He for the reduction or in a flow of the reactant mixture for SRM, then the Rh K-edge spectrum was collected in situ in the flowing gas at about 150 °C. For the fitting of Fourier-transformed EXAFS data, CN, distance (Å) and Debye–Waller factor (
+σ
+2
+) were set as variables. WT analysis of EXAFS data was performed with the HAMA Fortran package from the ERSF website. Parameters used in these analyses were the Morlet function,
+σ
+= 1 and
+κ
+= 5 (Supplementary Note
+1
+).
+Surface chemistry of the catalyst under reduction and catalysis conditions was tracked with a commercial AP-XPS system
+30
+. A reaction cell was assembled with a monochromatic Al Kα X-ray source and an energy analyser with precise geometry. The mixture of reactant gases at Torr pressure, with the ratio of partial pressure of CH
+4
+and H
+2
+O vapour at 1:2, was introduced to the reaction cell through a gas manifold maintained at a 120–150 °C for delivery of water vapour to the reaction cell. The partial pressures of CH
+4
+and H
+2
+O (vapour) were 0.5 and 1.0 Torr, respectively. The total flow rate of gas mixture entering the in situ reaction cell was ~4 ml min
+–1
+(ref.
+30
+). The total pressure of reactant gases in the reaction cell was the average value of those measured by one capacitance gauge located between the gas manifold and tubing to the entrance port of the reaction cell, and by another placed between the exit port tubing of the reaction cell. XPS data were analysed using CasaXPS software. All spectrum peaks were calibrated by the Au 4
+f
+7/2
+peak to 84.0 eV. Ce 3d spectra were deconvoluted into ten components, whereas six peaks at 882.6, 889.0, 898.6, 900.9, 907.7 and 916.9 eV are assigned to v, vʺ, vʹʺ, u, uʺ and uʹʺ of Ce
+4+
+, respectively while four at 880.6, 885.2, 899.2 and 904.0 eV were assigned to v
+o
+, vʹ, u
+o
+and uʹ of Ce
+3+
+, respectively
+31
+.
+DRIFTS spectra of CO molecules absorbed on the catalyst using guest CO source were collected on a Thermo-Fisher Nicolet iS50 FTIR spectrometer using an MCT/A detector with a spectrum resolution of 4 cm
+−1
+and integrated with a diffuse reflectance reaction cell (Praying Mantis high-temperature reaction cell) at our collaborators’ laboratories at Fuzhou University (FZU). A home-made gas inlet system, including a six-way valve, was used to perform transient studies. Here, we describe this as an ex situ study to distinguish it from the operando studies described below. The purpose of this ex situ study was to identify the chemical state and dispersion of Rh atoms of the as-synthesized catalyst, 0.17 wt%Rh/CeO
+2
+. In this ex situ study, the catalyst was mounted in the cell without dilution and was pretreated in a helium flow (99.999%) to remove surface adsorbates before the experiment. Different from these ex situ DRIFTS studies, operando DRIFTS experiments were performed to identify the CO stretching frequency of active sites of the catalyst formed during SRM catalysis and whether these active sites could restructure under different CO partial pressures. The experimental protocol is summarized in Supplementary Note
+4
+.
+The morphology, size and distribution of single atoms of as-prepared 0.17 wt%Rh/CeO
+2
+samples and samples with different pretreatment or after catalysis were examined with advanced TEM instruments at our collaborators’ laboratories, including FZU (Supplementary Note
+5
+). In a typical sample preparation, 10 mg of catalyst powder was dispersed in 50 ml of anhydrous ethanol and sonicated for 5 min. Then, 50 μl of the liquid suspension was dropcast on a copper mesh (300-mesh) with carbon nanofilm. Copper mesh and sample were dried overnight before loading on the sample stage for TEM. The morphology and lattice fringes of ceria were then characterized.
+DFT calculations
+Periodic DFT calculations were performed with the Vienna ab initio simulation package (VASP) v.5.4.1 (refs.
+32
+,
+33
+,
+34
+). Exchange correlation energy was calculated using the Perdew–Burke–Ernzerhof (PDE) functional
+35
+. Spin polarization was used in all calculations. A dipole correction in the
+z
+direction was used for surface calculations. The projector-augmented wave method was used to describe core electrons
+36
+,
+37
+. Kohn–Sham orbitals were expanded using a set of plane waves with kinetic energy of up to 600 eV. The electronic structure was considered converged when the electronic energy difference between consecutive self-consistent field (SCF) steps fell <10
+−6
+eV. Surface and molecular structures were considered converged when Hellmann–Feynman forces on atoms fell <0.02 eV Å
+–1
+. To correct for the self-interaction error of Ce 4
+f
+electrons, a Hubbard-like on-site repulsion term was added using the approach of Dudarev et al. (DFT +
+U
+), with an effective Hubbard
+U
+value (
+U
+eff
+) of 4.5 eV
+38
+,
+39
+. Using a parabolic equation of state, the lattice parameter of CeO
+2
+was found to be 5.502 Å, close to reported values
+40
+.
+In total, (2 × 2), (√7 × √7), (3 × 3), (3 × √7) and (4 × 4) unit cells of CeO
+2
+(111) containing three O-Ce-O tri-layers were used in the calculations
+40
+,
+41
+,
+42
+. For these periodicities, the Brillouin zone was sampled using (3 × 3 × 1), (3 × 3 × 1), (2 × 2 × 1), (2 × 2 × 1) and (2 × 2 × 1) gamma-point-centred
+k
+-meshes, respectively
+43
+. The sensitivity of stable surface structures regarding the choice of
+U
+eff
+was assessed by calculations using a different
+U
+eff
+value (3.67 eV) benchmarked against single-point calculations with the HSE06 hybrid functional
+44
+,
+45
+. Single-point HSE06 calculations were performed from converged PBE +
+U
+(
+U
+eff
+= 4.5 eV) geometries. The Brillouin zone was sampled using a twofold-reduced (VASP commands: NKREDX = 2, NKREDY = 2), gamma-point-centred (2 × 2 × 1) mesh
+46
+. The (3 × 3) cell was used to simulate Rh active sites. The bottom tri-layer was constrained to bulk positions in structural optimizations.
+Vibrational modes were calculated using the finite difference method with a step size of 0.015 Å. Factors of 0.9828 and 1.0086 were multiplied with OH and CO stretching modes, respectively, when comparing calculated vibrational frequencies to experimental values. Core-level shift (CLS) calculations were performed using both the initial state approximation (ISA) and final state approximation (FSA). In the ISA, the vacuum-aligned Rh 3d eigen energies are directly compared to each other. Lowering Rh 3d eigen energy results in a positive CLS. In the FSA, one 3d electron is assumed to be excited by absorption of the incident photon. The core electron binding energy (
+E
+CL
+) is defined as
+E
+CL
+=
+E
+(N – 1) –
+E
+(N), where
+E
+(N – 1) is the energy of the assessed structure after excitation and
+E
+(N) is that before excitation
+47
+. The final state CLS is computed by taking the difference between the
+E
+CL
+of the assessed structure and that of a Rh atom in the third layer below the surface of a seven-layer (3 × 3) Rh(111) slab. For reference, according to FSA the CLS of a bulk-like Rh
+3+
+ion below the Rh
+2
+O
+3
+(0001) surface is 0.99 eV.
+Modelling the ceria surface and Rh active sites
+The most stable CeO
+2
+(111) surface structure under reaction conditions was determined by minimization of surface free energy under the reaction gas environment (Fig.
+3
+and Supplementary Fig.
+24
+)
+48
+,
+49
+. The Ce
+3+
+:Ce
+4+
+ratio was limited to 1:1 in the two outermost CeO
+2
+tri-layers, to simulate surface reduction. Surface and subsurface O
+vac
+and adsorbed H on surface O were included as potential surface motifs. Bulk CeO
+2
+and gases H
+2
+and H
+2
+O were used as Ce, H and O reservoirs, respectively, in calculation of surface free energy (Supplementary Note
+6
+). Simulated Rh active sites were compared to each other by their Gibbs free energy of formation, normalized by each site’s Rh nuclearity
+50
+,
+51
+. For a given Rh site, the hydroxylated CeO
+2
+(111) surface, H
+2
+gas, H
+2
+O gas, CO gas and hypothetical supported Rh
+13
+clusters were chosen as the Ce, H, O, C and Rh reservoirs, respectively (Supplementary Note
+6
+).
+The thermodynamically controlled assumption of the CeO
+2
+(111) surface structure was made based on reported experimental observations and reported reaction barriers of elementary redox processes
+52
+,
+53
+,
+54
+. Reduced CeO
+2
+(111) surfaces in (3 × 3) periodicity were searched based on the following five rules developed from observations in the literature and patterns found for representative surfaces
+40
+,
+41
+,
+42
+,
+55
+,
+56
+,
+57
+,
+58
+,
+59
+,
+60
+,
+61
+. First, using the
+s-xyz-w
+notation of Murgida et al.
+40
+, the most stable O
+vac
+-containing surfaces should contain minimal
+x
++
+y
++
+z
+and
+w
+. Second, when OH groups and O
+vac
+coexist, the two prefer to segregate. Third, when multiple vacancies are present, Ce
+3+
+ions prefer to cluster near a single vacancy. Fourth, Ce
+3+
+ions prefer to localize near OH groups. Fifth, Ce
+3+
+ions near an O
+vac
+prefer to stay out of the O
+vac
+first coordination shell.
+For a given stoichiometry, all structure combinations were first generated without considering the arrangement of Ce
+3+
+ions, sorted by rules 1 and 2 and optimized without specification of initial magnetic moments. The most stable structures found using this method were selected, and favourable Ce
+3+
+localization patterns were generated and optimized using rules 3, 4 and 5. In this set of calculations, a set of plane waves with kinetic energy up to 400 eV was used, the Brillouin zone was sampled using only the gamma point, the electronic energy difference between consecutive SCF steps was converged to 10
+−5
+eV and forces on atoms were converged to <0.05 eV Å
+–1
+.
+The Rh active sites were searched by first computing the ligand-free Rh single-atom or cluster-binding sites on the fully hydroxylated surface, then checking potential CO/H ligand configurations on the stable Rh sites. A small representative set of OH-liganded Rh
+1
+, Rh
+2
+and Rh
+3
+structures were also optimized, but we did not find them to be as stable as CO- or H-liganded Rh single atoms and clusters. In this set of calculations, a set of plane waves with kinetic energy up to 450 eV was used, the electronic energy difference between consecutive SCF steps was converged to 10
+−6
+eV and forces on atoms were converged to <0.05 eV Å
+–1
+.
+The surface energy or Gibbs free energy of formation of each structure consists of the translational and rotational components of their gas constituents, their vibrational components and that of corresponding surface motifs (Supplementary Note
+7
+and Supplementary Figs.
+10
+–
+16
+). For supported Rh sites, the configurational entropy of Rh (Supplementary Note
+8
+and Supplementary Fig.
+17
+), the chemical potential of Rh atoms (Supplementary Note
+9
+and Supplementary Figs.
+18
+and
+19
+) and a back-bonding-based penalty for the adsorption energy of CO (Supplementary Note
+10
+and Supplementary Figs.
+20
+and
+21
+) were also included.
+Vibrational contributions to Gibbs free energy were computed in two ways (Supplementary Note
+7
+). In the screening of CeO
+2
+surface structures and supported Rh sites, and the construction of Figs.
+3
+and
+5
+, vibrational contributions were estimated based on the formation of six types of motif: surface and subsurface O vacancies, H adsorbed on surface O, H adsorbed on Rh and CO adsorbed on Rh pointing towards or away from the surface. The average margin of error of this approach was up to
+k
+B
+T
+per motif based on harmonic oscillator approximation (Supplementary Fig.
+16
+). To construct the final
+T
+/
+P
+CO
+stability diagram of Rh sites (Fig.
+4
+), harmonic oscillator approximation was used instead.
+Rh
+13
+was chosen as the Rh chemical potential reference due its resemblance to the Rh coordination environment determined by EXAFS after H
+2
+pretreatment
+62
+. Rh chemical potential was computed based on the cohesive energy of the Rh
+13
+cluster, its Gibbs free energy of adsorption and the configurational entropy of Rh
+13
+clusters (Supplementary Note
+9
+).
+It is well known that the PBE functional overpredicts the strength of transition metal d-state-CO 2π* orbital back bonding
+63
+. Many methods have been employed to correct this problem
+64
+,
+65
+,
+66
+. Here, the singlet-triplet transition energy (Δ
+E
+ST
+)-based method of Sumaria et al.
+67
+was developed and employed for Rh active sites, where a linear trendline was fitted between CO adsorption energy correction and relaxed C-O bond length (Supplementary Note
+10
+)
+67
+. CO adsorption energy correction brings values closer to those obtained from higher-level calculations
+68
+.
+Data availability
+The atomic structures of CeO
+2
+(111) surfaces in Fig.
+3a
+and CeO
+2
+(111)-supported Rh clusters used to construct Fig.
+4a
+are available in
+Supplementary data
+. Other data that support the findings within this paper and of this study are available from the corresponding author(s) on reasonable request. Information requests regarding experimental and theoretical data should be addressed to F.T. and P.S., respectively.
+References
+Liu, L. & Corma, A. Metal catalysts for heterogeneous catalysis: from single atoms to nanoclusters and nanoparticles.
+Chem. Rev.
+118
+, 4981–5079 (2018).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wang, A., Li, J. & Zhang, T. Heterogeneous single-atom catalysis.
+Nat. Rev. Chem.
+2
+, 65–81 (2018).
+Article
+CAS
+Google Scholar
+Tao, F. et al. Reaction-driven restructuring of Rh-Pd and Pt-Pd core-shell nanoparticles.
+Science
+322
+, 932–934 (2008).
+Article
+CAS
+PubMed
+Google Scholar
+Tao, F. et al. Break-up of stepped platinum catalyst surfaces by high CO coverage.
+Science
+327
+, 850–853 (2010).
+Article
+CAS
+PubMed
+Google Scholar
+Tao, F. F. & Salmeron, M. In situ studies of chemistry and structure of materials in reactive environments.
+Science
+331
+, 171–175 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Ouyang, R., Liu, J.-X. & Li, W.-X. Atomistic theory of ostwald ripening and disintegration of supported metal particles under reaction conditions.
+J. Am. Chem. Soc.
+135
+, 1760–1771 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, J. C., Wang, Y. G. & Li, J. Toward rational design of oxide-supported single-atom catalysts: atomic dispersion of gold on ceria.
+J. Am. Chem. Soc.
+139
+, 6190–6199 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, S. et al. Restructuring transition metal oxide nanorods for 100% selectivity in reduction of nitric oxide with carbon monoxide.
+Nano Lett.
+13
+, 3310–3314 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Resasco, J. et al. Uniformity is key in defining structure-function relationships for atomically dispersed metal catalysts: the case of Pt/CeO
+2
+.
+J. Am. Chem. Soc.
+142
+, 169–184 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Van Santen, R. A. Complementary structure sensitive and insensitive catalytic relationships.
+Acc. Chem. Res.
+42
+, 57–66 (2008).
+Article
+CAS
+Google Scholar
+Liu, L. et al. Determination of the evolution of heterogeneous single metal atoms and nanoclusters under reaction conditions: which are the working catalytic sites?
+ACS Catal.
+9
+, 10626–10639 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Yang, A. C. & Garland, C. W. Infrared studies of carbon monoxide chemisorbed on rhodium.
+J. Phys. Chem.
+61
+, 1504–1512 (1957).
+Article
+Google Scholar
+Yates, J. T. Jr., Duncan, T. M., Worley, S. D. & Vaughan, R. W. Infrared spectra of chemisorbed CO on Rh.
+J. Chem. Phys.
+70
+, 1219–1224 (1979).
+Article
+CAS
+Google Scholar
+Matsubu, J. C., Yang, V. N. & Christopher, P. Isolated metal active site concentration and stability control catalytic CO
+2
+reduction selectivity.
+J. Am. Chem. Soc.
+137
+, 3076–3084 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Matsubu, J. C. et al. Adsorbate-mediated strong metal-support interactions in oxide-supported Rh catalysts.
+Nat. Chem.
+9
+, 120–127 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Tang, Y. et al. Rh single atoms on TiO
+2
+dynamically respond to reaction conditions by adapting their site.
+Nat. Commun
+.
+10
+, 4488 (2019).
+Ligthart, D. A. J. M., van Santen, R. A. & Hensen, E. J. M. Influence of particle size on the activity and stability in steam methane reforming of supported Rh nanoparticles.
+J. Catal.
+280
+, 206–220 (2011).
+Article
+CAS
+Google Scholar
+Sun, G. & Sautet, P. Metastable structures in cluster catalysis from first-principles: structural ensemble in reaction conditions and metastability triggered reactivity.
+J. Am. Chem. Soc.
+140
+, 2812–2820 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+DeRita, L. et al. Structural evolution of atomically dispersed Pt catalysts dictates reactivity.
+Nat. Mater.
+18
+, 746–751 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Farmer, J. A. & Campbell, C. T. Ceria maintains smaller metal catalyst particles by strong metal-support bonding.
+Science
+329
+, 933–936 (2010).
+Article
+CAS
+PubMed
+Google Scholar
+Campbell, C. T. & Mao, Z. Chemical potential of metal atoms in supported nanoparticles: dependence upon particle size and support.
+ACS Catal.
+7
+, 8460–8466 (2017).
+Article
+CAS
+Google Scholar
+Leung, L. W. H., He, J. W. & Goodman, D. W. Adsorption of CO on Rh (100) studied by infrared reflection–absorption spectroscopy.
+J. Chem. Phys.
+93
+, 8328–8336 (1990).
+Article
+CAS
+Google Scholar
+Eren, B. et al. Activation of Cu (111) surface by decomposition into nanoclusters driven by CO adsorption.
+Science
+351
+, 475–478 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Mai, H.-X. et al. Shape-selective synthesis and oxygen storage behavior of ceria nanopolyhedra, nanorods, and nanocubes.
+J. Phys. Chem. B
+109
+, 24380–24385 (2005).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, S. et al. High catalytic activity and chemoselectivity of sub-nanometric Pd clusters on porous nanorods of CeO
+2
+for hydrogenation of nitroarenes.
+J. Am. Chem. Soc.
+138
+, 2629–2637 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Tang, Y. et al. Synergy of single-atom Ni
+1
+and Ru
+1
+sites on CeO
+2
+for dry reforming of CH
+4
+.
+J. Am. Chem. Soc.
+141
+, 7283–7293 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, S. et al. Catalysis on singly dispersed bimetallic sites.
+Nat. Commun.
+6
+, 7938 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+Article
+CAS
+PubMed
+Google Scholar
+Nguyen, L. & Tao, F. Reactor for tracking catalyst nanoparticles in liquid at high temperature under a high-pressure gas phase with X-ray absorption spectroscopy.
+Rev. Sci. Instrum.
+89
+, 024102 (2018).
+Article
+PubMed
+CAS
+Google Scholar
+Nguyen, L. & Tao, F. Development of a reaction cell for in-situ/operando studies of surface of a catalyst under a reaction condition and during catalysis.
+Rev. Sci. Instrum.
+87
+, 064101 (2016).
+Article
+PubMed
+CAS
+Google Scholar
+Mullins, D. R. The surface chemistry of cerium oxide.
+Surf. Sci. Rep.
+70
+, 42–85 (2015).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Hafner, J. Ab initio molecular dynamics for liquid metals.
+Phys. Rev. B
+47
+, 558–561 (1993).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+PubMed
+Google Scholar
+Blöchl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953–17979 (1994).
+Article
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+CAS
+Google Scholar
+Dudarev, S. L., Botton, G. A., Savrasov, S. Y., Humphreys, C. J. & Sutton, A. P. Electron-energy-loss spectra and the structural stability of nickel oxide: an LSDA+
+U
+study.
+Phys. Rev. B
+57
+, 1505–1509 (1999).
+Article
+Google Scholar
+Cococcioni, M. & de Gironcoli, S. Linear response approach to the calculation of the effective interaction parameters in the LDA+
+U
+method.
+Phys. Rev. B
+71
+, 035105 (2005).
+Article
+CAS
+Google Scholar
+Murgida, G. E., Ferrari, V., Llois, A. M. & Ganduglia-Pirovano, M. V. Reduced CeO
+2
+(111) ordered phases as bulk terminations: introducing the structure of Ce
+3
+O
+5
+.
+Phys. Rev. Mater.
+2
+, 083609 (2018).
+Article
+Google Scholar
+Olbrich, R. et al. Surface stabilizes ceria in unexpected stoichiometry.
+J. Phys. Chem. C
+121
+, 6844–6851 (2017).
+Article
+CAS
+Google Scholar
+Murgida, G. E. & Ganduglia-Pirovano, M. V. Evidence for subsurface ordering of oxygen vacancies on the reduced CeO
+2
+(111) surface using density-functional and statistical calculations.
+Phys. Rev. Lett.
+110
+, 246101 (2013).
+Article
+PubMed
+CAS
+Google Scholar
+Monkhorst, H. J. & Pack, J. D. Special points for Brillouin-zone integrations.
+Phys. Rev. B
+13
+, 5188–5192 (1976).
+Article
+Google Scholar
+Heyd, J., Scuseria, G. E. & Ernzerhof, M. Hybrid functionals based on a screened Coulomb potential.
+J. Chem. Phys.
+118
+, 8207–8215 (2003).
+Article
+CAS
+Google Scholar
+Heyd, J., Scuseria, G. E. & Ernzerhof, M. Erratum: “Hybrid functionals based on a screened Coulomb potential” [J. Chem. Phys. 118, 8207 (2003)].
+J. Chem. Phys.
+124
+, 219906 (2006).
+Article
+CAS
+Google Scholar
+Paier, J. et al. Screened hybrid density functionals applied to solids.
+J. Chem. Phys.
+124
+, 154709 (2006).
+Article
+CAS
+PubMed
+Google Scholar
+Köhler, L. & Kresse, G. Density functional study of CO on Rh(111).
+Phys. Rev. B
+70
+, 165405 (2004).
+Article
+CAS
+Google Scholar
+Reuter, K. & Scheffler, M. Composition, structure, and stability of RuO
+2
+(110) as a function of oxygen pressure.
+Phys. Rev. B
+65
+, 035406 (2001).
+Article
+CAS
+Google Scholar
+Reuter, K. & Scheffler, M. Composition and structure of the RuO
+2
+(110) surface in an O
+2
+and CO environment: implications for the catalytic formation of CO
+2
+.
+Phys. Rev. B
+68
+, 045407 (2003).
+Article
+CAS
+Google Scholar
+Mayernick, A. D. & Janik, M. J. Ab initio thermodynamic evaluation of Pd atom interaction with CeO
+2
+surfaces.
+J. Chem. Phys.
+131
+, 084701 (2009).
+Article
+PubMed
+CAS
+Google Scholar
+Senftle, T. P., van Duin, A. C. T. & Janik, M. J. Role of site stability in methane activation on Pd
+x
+Ce
+1–
+x
+O
+δ
+surfaces.
+ACS Catal.
+5
+, 6187–6199 (2015).
+Article
+CAS
+Google Scholar
+Werner, K. et al. Toward an understanding of selective alkyne hydrogenation on ceria: on the impact of O vacancies on H
+2
+interaction with CeO
+2
+(111).
+J. Am. Chem. Soc.
+139
+, 17608–17616 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Wu, Z. et al. Direct neutron spectroscopy observation of cerium hydride species on a cerium oxide catalyst.
+J. Am. Chem. Soc.
+139
+, 9721–9727 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Mullins, D. R. et al. Water dissociation on CeO
+2
+(100) and CeO
+2
+(111) thin films.
+J. Phys. Chem. C
+116
+, 19419–19428 (2012).
+Article
+CAS
+Google Scholar
+Jerratsch, J.-F. et al. Electron localization in defective ceria films: a study with scanning-tunneling microscopy and density-functional theory.
+Phys. Rev. Lett.
+106
+, 246801 (2011).
+Article
+PubMed
+CAS
+Google Scholar
+Fernandez-Torre, D., Carrasco, J., Ganduglia-Pirovano, M. V. & Perez, R. Hydrogen activation, diffusion, and clustering on CeO
+2
+(111): a DFT+
+U
+study.
+J. Chem. Phys.
+141
+, 014703 (2014).
+Article
+PubMed
+CAS
+Google Scholar
+Murgida, G. E., Ferrari, V., Ganduglia-Pirovano, M. V. & Llois, A. M. Ordering of oxygen vacancies and excess charge localization in bulk ceria: a DFT+
+U
+study.
+Phys. Rev. B
+90
+, 115120 (2014).
+Article
+CAS
+Google Scholar
+Wu, X. P., Gong, X. Q. & Lu, G. Z. Role of oxygen vacancies in the surface evolution of H at CeO
+2
+(111): a charge modification effect.
+Phys. Chem. Chem. Phys.
+17
+, 3544–3549 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Wu, X. P. & Gong, X. Q. Clustering of oxygen vacancies at CeO
+2
+(111): critical role of hydroxyls.
+Phys. Rev. Lett.
+116
+, 086102 (2016).
+Article
+PubMed
+CAS
+Google Scholar
+Wolf, M. J., Kullgren, J. & Hermansson, K. Comment on “clustering of oxygen vacancies at CeO
+2
+(111): critical role of hydroxyls”.
+Phys. Rev. Lett.
+117
+, 279601 (2016).
+Article
+PubMed
+Google Scholar
+Wu, X. P. & Gong, X. Q. Wu and Gong reply.
+Phys. Rev. Lett.
+117
+, 279602 (2016).
+Article
+PubMed
+Google Scholar
+Piotrowski, M. J., Piquini, P. & Da Silva, J. L. Density functional theory investigation of 3d, 4d, and 5d 13-atom metal clusters.
+Phys. Rev. B
+81
+, 155446 (2010).
+Article
+CAS
+Google Scholar
+Feibelman, P. J. et al. The CO/Pt (111) Puzzle.
+J. Phys. Chem. B
+105
+, 4018–4025 (2001).
+Article
+CAS
+Google Scholar
+Kresse, G., Gil, A. & Sautet, P. Significance of single-electron energies for the description of CO on Pt(111).
+Phys. Rev. B
+68
+, 073401 (2003).
+Article
+CAS
+Google Scholar
+Mason, S. E., Grinberg, I. & Rappe, A. M. First-principles extrapolation method for accurate CO adsorption energies on metal surfaces.
+Phys. Rev. B
+69
+, 161401 (2004).
+Article
+CAS
+Google Scholar
+Schimka, L. et al. Accurate surface and adsorption energies from many-body perturbation theory.
+Nat. Mater.
+9
+, 741–744 (2010).
+Article
+CAS
+PubMed
+Google Scholar
+Sumaria, V., Nguyen, L. T., Tao, F. F. & Sautet, P. Optimal packing of CO at high coverage on Pt(100) and Pt(111) surfaces.
+ACS Catal.
+10
+, 9533–9544 (2020).
+Article
+CAS
+Google Scholar
+Fang, C.-Y. et al. Reversible metal aggregation and redispersion driven by the catalytic water gas shift half-reactions: interconversion of single-site rhodium complexes and tetrarhodium clusters in zeolite HY.
+ACS Catal.
+9
+, 3311–3321 (2019).
+Article
+CAS
+Google Scholar
+Towns, J. et al. XSEDE: accelerating scientific discovery.
+Comput. Sci. Eng.
+16
+, 62–74 (2014).
+Article
+CAS
+Google Scholar
+Nystrom, N. A., Levine, M. J., Roskies, R. Z. & Scott, J. R. In
+Proc. 2015 XSEDE Conference: Scientific Advancements Enabled by Enhanced Cyberinfrastructure
+1–8 (2015).
+Download references
+Acknowledgements
+The experimental part of this study was supported by the Chemical Sciences, Geosciences and Biosciences Division, Office of Basic Energy Sciences, Office of Science, US Department of Energy under grant no. DE-SC0014561, and by US National Science Foundation under grant no. NSF-CHE-1462121 and NSF-CHE-1800577; the computational part (P.S. and G.Y.) was supported by the NSF Award no. NSF-CHE-1800601. Yuting Li was partially supported by the National Science Foundation under grant no. NSF-OIA-1539105. We thank Fuzhou University (FZU) for the large amount of machine time and assistance provided in performing various TEM studies and spectroscopic studies for characterizations of samples. The calculations in this work used computational and storage services associated with the Hoffman2 shared computational cluster located at University of California Los Angeles. This work also used the Extreme Science and Engineering Discovery Environment, which is supported by National Science Foundation grant no. ACI-1548562 (ref.
+69
+). Specifically, the systems Bridges, Bridges-2 and Comet were used. The Bridges system is supported by NSF award no. ACI-1445606, at the Pittsburgh Supercomputing Center
+70
+. The offer of valuable beam time from Y. Iwasawa, Director of the Innovation Research Center for Fuel Cells at The University of Electro-Communications in Tokyo, Japan is highly appreciated.
+Author information
+Author notes
+These authors contributed equally: George Yan, Yu Tang, Yuting Li.
+Authors and Affiliations
+Department of Chemical and Biomolecular Engineering, University of California, Los Angeles, CA, USA
+George Yan & Philippe Sautet
+Department of Chemical and Petroleum Engineering, University of Kansas, Lawrence, KS, USA
+Yu Tang, Yuting Li, Yixiao Li, Luan Nguyen & Franklin Feng Tao
+Center for Environmentally Beneficial Catalysis, University of Kansas, Lawrence, KS, USA
+Yuting Li
+Innovation Research Center for Fuel Cells and Graduate School of Informatics and Engineering, The University of Electro-Communications, Tokyo, Japan
+Tomohiro Sakata & Kotaro Higashi
+Department of Chemistry and Biochemistry, University of California, Los Angeles, CA, USA
+Philippe Sautet
+California NanoSystems Institute, Los Angeles, CA, USA
+Philippe Sautet
+Authors
+George Yan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yu Tang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yuting Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yixiao Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Luan Nguyen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tomohiro Sakata
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kotaro Higashi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Franklin Feng Tao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Philippe Sautet
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+P.S. and F.T. conceptualized and supervised the work. G.Y. performed computational studies. Y.T., Yuting Li, Yixiao Li and L.N. performed experiments. Y.T., L.N., T.S. and K.H. contributed to EXAFS experiments. F.T. guided experimental studies. The draft was prepared and edited by G.Y., Y.T., F.T. and P.S.
+Corresponding authors
+Correspondence to
+Franklin Feng Tao
+or
+Philippe Sautet
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks Mie Andersen, Christoph Rameshan and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Notes 1–13, Figs. 1–29, Tables 1–11 and references.
+Supplementary Data
+Atomic positions of structures in Fig. 3a and structures used to construct Fig. 4.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Yan, G., Tang, Y., Li, Y.
+et al.
+Reaction product-driven restructuring and assisted stabilization of a highly dispersed Rh-on-ceria catalyst.
+Nat Catal
+5
+, 119–127 (2022). https://doi.org/10.1038/s41929-022-00741-2
+Download citation
+Received
+:
+27 July 2021
+Accepted
+:
+01 January 2022
+Published
+:
+24 February 2022
+Issue Date
+:
+February 2022
+DOI
+:
+https://doi.org/10.1038/s41929-022-00741-2
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

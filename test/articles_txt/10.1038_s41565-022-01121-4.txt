@@ -1,0 +1,2316 @@
+Efficient conversion of low-concentration nitrate sources into ammonia on a Ru-dispersed Cu nanowire electrocatalyst | Nature Nanotechnology
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature nanotechnology
+articles
+article
+Efficient conversion of low-concentration nitrate sources into ammonia on a Ru-dispersed Cu nanowire electrocatalyst
+Download PDF
+Article
+Published:
+02 May 2022
+Efficient conversion of low-concentration nitrate sources into ammonia on a Ru-dispersed Cu nanowire electrocatalyst
+Feng-Yang Chen
+ORCID:
+orcid.org/0000-0002-3113-383X
+1
+na1
+,
+Zhen-Yu Wu
+ORCID:
+orcid.org/0000-0001-9198-003X
+1
+na1
+,
+Srishti Gupta
+ORCID:
+orcid.org/0000-0002-5860-9658
+2
+na1
+,
+Daniel J. Rivera
+ORCID:
+orcid.org/0000-0002-3458-5372
+2
+,
+Sten V. Lambeets
+ORCID:
+orcid.org/0000-0003-2131-8475
+3
+,
+Stephanie Pecaut
+ORCID:
+orcid.org/0000-0002-4629-1849
+1
+,
+Jung Yoon Timothy Kim
+ORCID:
+orcid.org/0000-0002-6812-2763
+1
+,
+Peng Zhu
+ORCID:
+orcid.org/0000-0002-8855-0335
+1
+,
+Y. Zou Finfrock
+4
+,
+Debora Motta Meira
+5
+,
+Graham King
+ORCID:
+orcid.org/0000-0003-1886-7254
+5
+,
+Guanhui Gao
+6
+,
+Wenqian Xu
+7
+,
+David A. Cullen
+ORCID:
+orcid.org/0000-0002-2593-7866
+8
+,
+Hua Zhou
+ORCID:
+orcid.org/0000-0001-9642-8674
+7
+,
+Yimo Han
+9
+,
+Daniel E. Perea
+ORCID:
+orcid.org/0000-0003-3789-4039
+10
+,
+Christopher L. Muhich
+2
+,
+11
+&
+…
+Haotian Wang
+ORCID:
+orcid.org/0000-0002-3552-8978
+1
+,
+9
+,
+12
+Show authors
+Nature Nanotechnology
+volume
+17
+,
+pages
+759–767 (
+2022
+)
+Cite this article
+41k
+Accesses
+179
+Altmetric
+Metrics
+details
+Subjects
+Chemical engineering
+Electrocatalysis
+Abstract
+Electrochemically converting nitrate ions, a widely distributed nitrogen source in industrial wastewater and polluted groundwater, into ammonia represents a sustainable route for both wastewater treatment and ammonia generation. However, it is currently hindered by low catalytic activities, especially under low nitrate concentrations. Here we report a high-performance Ru-dispersed Cu nanowire catalyst that delivers an industrial-relevant nitrate reduction current of 1 A cm
+–2
+while maintaining a high NH
+3
+Faradaic efficiency of 93%. More importantly, this high nitrate-reduction catalytic activity enables over a 99% nitrate conversion into ammonia, from an industrial wastewater level of 2,000 ppm to a drinkable water level <50 ppm, while still maintaining an over 90% Faradaic efficiency. Coupling the nitrate reduction effluent stream with an air stripping process, we successfully obtained high purity solid NH
+4
+Cl and liquid NH
+3
+solution products, which suggests a practical approach to convert wastewater nitrate into valuable ammonia products. Density functional theory calculations reveal that the highly dispersed Ru atoms provide active nitrate reduction sites and the surrounding Cu sites can suppress the main side reaction, the hydrogen evolution reaction.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Gradient-concentration RuCo electrocatalyst for efficient and stable electroreduction of nitrate into ammonia
+Article
+Open access
+25 July 2024
+Defect-induced triple synergistic modulation in copper for superior electrochemical ammonia production across broad nitrate concentrations
+Article
+Open access
+01 April 2024
+Construction of Zn-doped RuO
+2
+nanowires for efficient and stable water oxidation in acidic media
+Article
+Open access
+02 May 2023
+Main
+Ammonia (NH
+3
+) is a versatile and foundational compound in modern society, used in everything from chemical synthesis and fertilizers to fuels and clean energy carriers
+1
+,
+2
+,
+3
+,
+4
+. Today, global ammonia demand exceeds 150 million tons per year
+5
+,
+6
+, and consumes 2% of the world’s energy and releases 1.4% of global carbon dioxide emissions
+6
+,
+7
+,
+8
+. This is mainly due to the energy-intensive Haber–Bosch ammonia synthesis process that currently dominates production worldwide. In the Haber–Bosch process, steam-reformed hydrogen (H
+2
+) reacts with nitrogen (N
+2
+) under elevated temperatures (~500 °C) and pressures (>100 atm), which not only contributes a considerable carbon footprint, but also requires a large infrastructure
+9
+,
+10
+,
+11
+. Recently, electrocatalytic methods have emerged as a clean energy route for decentralized ammonia production at room temperature, at a variety of infrastructure scales, and potentially driven by locally generated renewable energy
+12
+,
+13
+,
+14
+,
+15
+. Although the traditional ammonia production route is highly likely to persist in the near future given the gigantic global demand, electrochemical synthesis could substantially contribute to decarbonizing ammonia production.
+The electrochemical N
+2
+reduction reaction for ammonia synthesis has been extensively studied for the past decade
+16
+,
+17
+,
+18
+,
+19
+,
+20
+. However, the current NH
+3
+production rate, or NH
+3
+partial current density, through this reduction reaction is extremely low (~0.1 mA cm
+–2
+) due to the sluggish dissociation step of the highly stable N≡N bond
+15
+,
+18
+,
+21
+. This low production rate is far from industrial requirements and may even make experimental quantifications unreliable due to trace impurities
+21
+,
+22
+,
+23
+. Conversely, the electrochemical nitrate reduction reaction (NO
+3
+RR) does not require the dissociation of high-energy bonds, and thus achieves faster reaction rates for NH
+3
+production
+3
+,
+23
+,
+24
+,
+25
+. Moreover, nitrate (NO
+3
+–
+) is an abundant nitrogen source, particularly in industrial wastewater and polluted groundwater, that contributes to the global nitrogen cycle imbalance
+26
+,
+27
+,
+28
+. Therefore, NO
+3
+RR not only stands out as a promising pathway for renewable NH
+3
+production, but simultaneously facilitates the denitrification of wastewater and balances the perturbed nitrogen cycle
+23
+,
+29
+,
+30
+.
+Developing an efficient electrocatalysts for nitrate reduction is a prerequisite. Commonly, NO
+3
+RR is directed through the half-cell reaction:
+$$\begin{array}{*{20}{c}} {{{{\mathrm{NO}}}}_3^ - + 6{{{\mathrm{H}}}}_2{\mathrm{O}} + 8{{{\mathrm{e}}}}^ - \to {{{\mathrm{NH}}}}_3 + 9{{{\mathrm{OH}}}}^ - } \end{array}$$
+(1)
+where the thermodynamic potential is 0.69 V versus the reversible hydrogen electrode (RHE). The goal of the catalysts here is to direct reduction all the way to ammonia, while minimizing the side products from different NO
+3
+RR pathways and H
+2
+from the hydrogen evolution reaction (HER), to achieve high NH
+3
+Faradaic efficiencies (FEs). Previous studies demonstrated different catalysts for selective NO
+3
+–
+-to-NH
+3
+conversion
+31
+,
+32
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+,
+40
+, but most were evaluated under relatively high nitrate concentrations in which the competing reactions can be minimized. However, many practical nitrate resources, such as industrial wastewater, have low concentrations, which range from hundreds to thousands of ppm
+29
+,
+30
+. To date, it is still challenging to achieve both high current densities (>100 mA cm
+–2
+) and high ammonia FEs (>90%) under low nitrate concentrations due to the vigorous HER competition.
+Here we developed a NO
+3
+RR electrocatalyst by dispersing Ru atoms into a Cu nanowire matrix (Ru-CuNW) for highly selective and active ammonia generation under low nitrate concentrations. Our Ru-CuNW catalyst organically combines Ru’s low nitrate activation barrier and Cu’s inert HER activity. As a result, our Ru-CuNW delivers an industrial-relevant NH
+3
+production rate of ~1 A cm
+–2
+while maintaining a high NH
+3
+FE of 96% when operating at NO
+3
+–
+concentrations of typical industrial wastewater (2,000 ppm), very competitive with previously reported catalysts
+31
+,
+32
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+,
+40
+. More importantly, this high NO
+3
+RR activity enables an over 99% nitrate conversion into ammonia from an industrial wastewater level to a drinkable water level. By coupling electrochemical NO
+3
+RR with air stripping, we demonstrate a full conversion process from low-concentration nitrate sources to high-purity ammonia products for direct downstream applications. Our density functional theory (DFT) study revealed that the high nitrate-to-ammonia performance arises from the highly dispersed Ru active site and that the supporting Cu sites suppress the parasitic side reactions.
+Catalyst synthesis and morphology characterizations
+The Ru-CuNW catalyst was synthesized through a cation exchange method on a Cu nanowire (CuNW) matrix (Fig.
+1a
+; see Methods). CuNW and Ru nanoparticle (RuNP) control samples were also synthesized and characterized to compare the catalytic performances (Supplementary Figs.
+1a
+and
+2
+). Other control samples, which included different Ru doping levels and different noble metal dopants, such as Rh, Os and Ir, proposed by previous simulation studies to be active N
+2
+reduction reaction candidates
+16
+,
+17
+,
+41
+, were also prepared, characterized and evaluated (Supplementary Figs.
+1b–d
+and
+3
+–
+5
+).
+Fig. 1: Synthesis and characterizations of Ru-CuNW.
+a
+, Schematic of the Ru-CuNW synthesis process. Cu foam was first oxidized into Cu(OH)
+2
+NW and then submerged in a Ru-ion containing solution (RuCl
+3
+), which drives the exchange of Ru and Cu, and results in Ru atoms doped into the Cu matrix. The resulting material was then annealed in Ar at 200 °C to produce Ru-CuONW. The final Ru-CuNW catalyst was produced by the in-situ electrochemical reduction of Ru-CuONW.
+b
+–
+d
+, HAADF-STEM images of Cu(OH)
+2
+NW (
+b
+), Ru-CuONW (
+c
+) and Ru-CuNW (
+d
+).
+e
+,
+f
+, High-resolution HAADF-STEM images of the Ru-CuNW surface structure (
+e
+) and its corresponding crystal structure and lattice spacing (
+f
+). The spacings of 0.208 and 0.184 nm correspond to the Cu(111) and Cu(200) facets, respectively.
+g
+, EDS mapping images of Ru-CuNW demonstrate uniformly dispersed Ru atoms.
+Full size image
+Scanning electron microscope (SEM) images (Supplementary Fig.
+6
+) showed the morphology changes from copper hydroxide nanowire (Cu(OH)
+2
+NW) to Ru-doped CuO nanowire (Ru-CuONW); Transmission electron microscopy (TEM) (Supplementary Figs.
+7
+–
+9
+) and high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) (Fig.
+1b–d
+and Supplementary Fig.
+10
+) further revealed their morphology differences. The diameter of the nanowire expanded from ~50 nm (Fig.
+1b
+) to ~100 nm after the Ru-ion exchange process (Fig.
+1c,d
+), and became ultraporous with a fivefold increase in its electrochemically active surface area (ECSA); the ECSA results are discussed in detail later. Interestingly, we observed a hollow nanowire structure (Fig.
+1c
+) in Ru-CuONW, which can be attributed to the Kirkendall effect
+42
+,
+43
+,
+44
+. This implies the lattice Cu atoms diffuse outward and exchange with the Ru ions during the synthesis. Notably, the hollow core was filled again after the electrochemical prereduction process, which reduced the surface oxide to metal and rearranged the lattice while maintaining the high-surface-area porous structure (Fig.
+1d
+). We performed high-resolution HAADF-STEM and confirmed that the lattices in Ru-CuNW correspond to those of metallic Cu (Fig.
+1e,f
+and Supplementary Fig.
+11
+). Energy dispersive spectroscopic (EDS) elemental mapping revealed a uniform dispersion of Ru dopants in the CuNW matrix in our catalysts (Fig.
+1g
+and Supplementary Figs.
+12
+–
+14
+), with a Ru:Cu atomic ratio of approximately 1:9 (Supplementary Fig.
+15
+).
+Electrocatalytic NO
+3
+RR performance
+The electrochemical NO
+3
+RR performance of the Ru-CuNW catalyst was investigated under ambient temperature and pressure in a standard three-electrode H-type cell (Methods). In this study, NH
+3
+, NO
+2
+–
+and NO
+3
+–
+were quantified by ultraviolet–visible (UV–vis) spectrophotometry with calibration curves (Supplementary Figs.
+16
+–
+18
+; see Methods). An industrial wastewater-relevant nitrate concentration of 2,000 ppm (refs.
+29
+,
+30
+) was used in our electrolyte for the standard electrochemical characterizations of the catalysts. A continuous electrolyte flow system was employed to avoid the impacts of a decreased nitrate concentration on the measured catalytic performances (Supplementary Note
+1
+). The two major control samples, CuNW and RuNP, presented distinct electrocatalytic behaviours compared with that of Ru-CuNW (Fig.
+2a,b
+). RuNP showed an early onset of ammonia generation with an about 80% FE at 0.2 V, which suggests facile NO
+3
+RR kinetics on the Ru sites. However, under higher overpotentials, particularly those more negative than the HER thermodynamic potential (0 V), the ammonia FE started to drop dramatically due to the strong HER competition (Supplementary Fig.
+19c
+). This is unsurprising given that Ru is a widely recognized HER-active catalyst. In a sharp contrast, CuNW presented a sluggish ammonia onset. It required large overpotentials to reach a high ammonia FE, which also indicated the Cu’s inertness to HER (Supplementary Fig.
+19b
+).
+Fig. 2: Electrocatalytic NO
+3
+RR performance.
+a
+,
+b
+,
+I
+–
+V
+plots (
+a
+) and the corresponding NH
+3
+FEs (
+b
+) of Ru-CuNW, CuNW and RuNP in a 1 M KOH with 2,000 ppm NO
+3
+–
+electrolyte at different potentials. Measurements were taken at least three times and the average FE values are presented with the standard deviation as error bars.
+c
+, The corresponding NH
+3
+production rate and partial current density of Ru-CuNW.
+d
+,
+1
+H NMR spectra before and after NO
+3
+RR using
+15
+NO
+3
+–
+and
+14
+NO
+3
+–
+electrolytes. Without the electrochemical reactions, neither the
+14
+NO
+3
+–
+nor the
+15
+NO
+3
+–
+electrolyte showed NH
+4
++
+signals. After electrocatalytic NO
+3
+RR using Ru-CuNW with
+14
+NO
+3
+–
+, three peaks corresponding to
+14
+NH
+4
++
+production were observed. When performing NO
+3
+RR with
+15
+NO
+3
+–
+, the two peaks of
+15
+NH
+4
++
+were detected, which confirmed that all our NH
+3
+products were generated by electrochemical NO
+3
+RR rather than contaminants.
+e
+, NH
+3
+FE of Ru-CuNW in a 1 M KOH electrolyte with different concentrations of NO
+3
+–
+.
+f
+, Complete nitrate removal using Ru-CuNW with an initial 1 M KOH with 2,000 ppm NO
+3
+–
+(equals 451.6 μg ml
+–1
+NO
+3
+–
+–N) electrolyte at 0 V versus RHE. After 1 h of electrolysis, only 1.7 μg ml
+–1
+of NO
+3
+–
+–N and 0.03 μg ml
+–1
+of NO
+2
+–
+–N remained, both significantly below the WHO regulations for drinking water (NO
+3
+–
+–N < 11.3 μg ml
+–1
+and NO
+2
+–
+–N < 0.91 μg ml
+–1
+), with NH
+3
+FE maintained at over 90%. a.u., arbitrary units.
+Full size image
+Our Ru-CuNW catalyst organically integrates the favourable catalytic properties in Ru and Cu catalysts to deliver high-performance ammonia generation. Overall, Ru-CuNW not only showed a good onset potential, but also suppressed HER and the undesired NO
+2
+–
+by-products at high current densities and negative potentials (Supplementary Figs.
+19
+–
+21
+). The
+I
+–
+V
+plot (Fig.
+2a
+) of Ru-CuNW shows an impressive 1 A cm
+−2
+current at only –0.13 V versus RHE. Additionally, Ru-CuNW reached a maximum NH
+3
+FE of 96% at 0.04 V and maintained a high FE plateau across a wide potential range (Fig.
+2b
+), which was dramatically improved from that of either CuNW or RuNP. These performance metrics represent a high ammonia partial current of 965 mA cm
+–2
+or a 76,500 μg h
+–1
+cm
+–2
+ammonia generation rate (Fig.
+2c
+and Supplementary Fig.
+22
+), which suggests a notable improvement on those of previous reports (Supplementary Table
+1
+)
+31
+,
+32
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+,
+40
+.
+We examined isotope-labelled NO
+3
+–
+coupled with
+1
+H nuclear magnetic resonance (NMR) analysis and confirmed that all our NH
+3
+products were generated by electrochemical NO
+3
+RR rather than by any contaminations (Fig.
+2d
+). To compare the intrinsic activities of the catalysts, we performed electrochemical double-layer capacitance (
+C
+dl
+) tests to normalize the current density over the ECSA (Supplementary Figs.
+23
+and
+24
+and Supplementary Table
+2
+). Although these catalysts present similar ECSA-normalized
+I
+–
+V
+curves, Ru-CuNW still showed the best intrinsic activity for NO
+3
+RR towards NH
+3
+, followed by RuNP and then CuNW (Supplementary Fig.
+24b
+). These results clearly demonstrate that the good performance of Ru-CuNW is not only from its high surface area, but also from a higher intrinsic activity.
+Different nitrate sources may have a wide range of nitrate concentrations; therefore, we examined the Ru-CuNW catalytic performance at different NO
+3
+–
+concentrations to demonstrate its broad adaptability. Other than the 2,000 ppm concentration (32.3 mM), 10 mM and 100 mM NO
+3
+–
+were selected to cover the range of pollutant concentrations expected in household and heavy-industry wastewater, respectively
+23
+,
+26
+,
+27
+. Although Ru-CuNW preserved its high ammonia FE and activity under the higher nitrate concentration, the catalyst also presented an impressive performance under 10 mM NO
+3
+–
+, and delivered a 400 mA cm
+–2
+current density with an ammonia FE of ~90% (Fig.
+2e
+and Supplementary Figs.
+25
+and
+26
+). In general, to deliver both a high nitrate removal efficiency and high ammonia FE is challenging, as the competing HER could dominate when the remaining NO
+3
+–
+is reduced. To evaluate Ru-CuNW’s capability in nitrate removal, we performed a batch conversion test with an initial 2,000 ppm NO
+3
+–
+and measured the remaining products (Fig.
+2f
+). Impressively, nearly all the N sources were converted into NH
+3
+within one hour. The NO
+3
+–
+-to-NH
+3
+selectivity reached 99.8%, and the overall NH
+3
+FE remained over 90%. After one hour of electrolysis, NO
+3
+–
+and NO
+2
+–
+were both significantly reduced below the World Health Organization (WHO) regulations for drinking water
+25
+,
+27
+,
+29
+. The product ratios over time (Supplementary Fig.
+27
+) showed that we successfully collected all the N sources. These results demonstrate that Ru-CuNW not only achieves an outstanding activity and NH
+3
+FE, but also serves as a promising catalyst for complete nitrate removal and/or conversion in wastewater.
+Detailed structure understanding
+A detailed understanding of the electronic and atomic structure of Ru-CuNW is required to unravel the reaction mechanism that underlies the outstanding performance. Two important questions need to be investigated. First, the oxidation state of Ru, whether metallic or oxidized, must be determined as the electronic state underpins the electrocatalytic activity. Second, the Ru structure, either as isolated atoms or metal clusters, needs to be clarified.
+To answer the first question, we initially conducted an X-ray photoelectron spectroscopy (XPS) analysis. The XPS survey spectra (Supplementary Fig.
+28
+) show the existence of obvious Cu and Ru peaks in Ru-CuNW. In the high-resolution Cu 2
+p
+spectrum (Supplementary Fig.
+29
+), Ru-CuONW shows both Cu
+2+
+and Cu
+0
+/Cu
++
+peaks and the corresponding Cu
+2+
+satellite peaks. However, Ru-CuNW only showed Cu
+0
+/Cu
++
+peaks after the prereduction process, which indicates its surface Cu was reduced. The Raman spectra also suggest that both CuO and Cu
+2
+O peaks in Ru-CuONW vanished after the prereduction process (Supplementary Fig.
+30
+). High-resolution Ru 3
+d
+XPS spectra (Fig.
+3a
+) was conducted to analyse the Ru electronic structure changes. After Ru-CuONW reduced to Ru-CuNW, negative 1.0 eV energy shifts in the Ru 3
+d
+peaks were observed, which suggests the electronic state of Ru reduced from Ru
+4+
+to Ru
+0
+after the prereduction step
+45
+,
+46
+. A surface elemental ratio analysis (Supplementary Table
+3
+) suggested the surface Ru:Cu was approximately 16:84, which is consistent with the EDS mapping result.
+Fig. 3: Structural analysis of Ru-CuNW.
+a
+, High-resolution Ru 3
+d
+XPS of Ru-CuNW (top) and Ru-CuONW (bottom).
+b
+,
+c
+, In situ X-ray absorption near-edge spectra at the open-circuit voltage (OCV), the 60 min prereduction process of Ru-CuONW turning into Ru-CuNW and the corresponding metal foil references at the Cu K edge (
+b
+) and Ru K edge (
+c
+).
+d
+, Ru K-edge FT-EXAFS spectra of Ru-CuNW, Ru-CuONW, and the corresponding metal and metal oxide references. Note that Ru–Cu peak in Ru-CuNW highlighted in red font is indistinguishable from Ru–Ru merely based on the FT-EXAFS spectra, but is confirmed in the later characterization techniques as attributable to the Ru–Cu coordination.
+e
+, HEXRD patterns show that Ru-CuONW had both Cu
+2
+O and Cu peaks, whereas CuNW, Ru-CuNW and Ru-CuNW after the electrocatalytic NO
+3
+RR all showed only Cu peaks, with no Ru peaks observed.
+f
+, PDF of the Ru-CuNW catalyst and the corresponding references show that Ru-CuNW has no Ru–Ru peak.
+g
+,
+h
+, APT analysis of Ru-CuNW (
+g
+) and cross-section of the Ru density contour plot (
+h
+). Pt was used to fill the voids of Ru-CuNW to prevent the optical distortions in APT analysis. Cu-rich (>15% atomic %) and Pt-rich areas (>10 at%) are labelled to show that Ru atoms are mainly dispersed on the surface of the Cu matrix.
+i
+, Zoomed-in image of the Ru-rich area on the Cu surface shows that Ru atoms are highly dispersed, where pink spheres are Ru
+n
++
+and orange spheres are Cu
+n
++
+. Sat, satellite; c.p.s., cycles per second.
+Full size image
+X-ray absorption spectroscopy (XAS) measurements provide further insight into the electronic properties of the Cu matrix and coordination structures of the Ru dopants. The ex situ Cu K-edge X-ray absorption near-edge spectroscopy and white line (Supplementary Fig.
+31
+) shows that the Cu oxidation state in Ru-CuNW is identical to that of the reference Cu foil, which suggests that CuO reduced to the metallic state after the prereduction. To further confirm this, we performed synchrotron-based in situ XAS (Supplementary Fig.
+32
+), and clearly demonstrated that the Cu oxidation state of the Ru-CuONW precatalyst gradually turned from the original Cu oxides into metallic Cu during the prereduction (Fig.
+3b
+). In situ XAS analysis of Ru-CuNW during the NO
+3
+RR also suggests that the metallic Cu state was well maintained (Supplementary Fig.
+33a
+). The in situ and ex situ Ru K-edge X-ray absorption near-edge spectroscopy profile and energy absorption threshold (Fig.
+3c
+and Supplementary Fig.
+34
+) indicate the Ru oxidation state shifted from a positive state in Ru-CuONW to a metallic state in Ru-CuNW. In situ XAS during NO
+3
+RR further confirmed that the metallic Ru state is the active phase under the reaction conditions (Supplementary Fig.
+33b
+).
+The corresponding Fourier-transformed extended X-ray absorption fine structure (FT-EXAFS) spectrum provides information of the coordination structures (Fig.
+3d
+). Ru-CuONW shows an obvious Ru–O peak (1.50 Å) but no Ru–Ru peak (2.39 Å), suggesting the Ru dopants were atomically dispersed in CuONW matrix after the ion exchange process and did not form nanoclusters. This initial doping structure could minimize the accumulation of Ru metal clusters during the pre-reduction. Please note that it is difficult for FT-EXAFS to differentiate the structure of Ru atoms in Ru-CuNW, as the Ru–Ru (cluster) and Ru–Cu coordination (atomic dispersion) in FT-EXAFS are within 0.1 Å from each other and are indistinguishable
+47
+,
+48
+,
+49
+. However, based on the further characterizations below, we later conclude the peak at 2.37 Å in Ru-CuNW should be attributed to the Ru–Cu coordination as no Ru clusters were observed.
+We conducted synchrotron-based high-energy X-ray diffraction (HEXRD) measurements to analyse the detailed phase present. After integrating the two-dimensional (2D) HEXRD raw images (Supplementary Fig.
+35
+) we found that Ru-CuNW showed only Cu peaks (Fig.
+3a
+). Note that no Ru peaks were observed, which confirms the absence of aggregated Ru particles. These results are consistent with our regular X-ray diffraction (XRD) measurement (Supplementary Fig.
+36
+) using low-energy Cu Kα radiation.
+Synchrotron-based pair distribution function (PDF) analysis was performed to further probe the local bonding environments, as it is a powerful tool for studying the atomic pair correlations
+50
+,
+51
+. The first peak of Ru-CuNW has a maximum at 2.56 Å (Fig.
+3f
+), which exactly matches the Cu–Cu nearest-neighbour distance based on the known crystal structure (PDF: 00-004-0836) and the bond length of Cu–Cu and Cu–Ru predicted by the DFT model (Supplementary Table
+4
+). The first peak of Ru foil (2.70 Å) is close to the expected distance for Ru–Ru and matches well with the DFT model. The RuO
+2
+has a Ru–O peak at 1.98 Å, but no such peaks were observed in Ru-CuNW (Supplementary Fig.
+37
+), which further demonstrates that the Ru in Ru-CuNW was fully reduced. Cu–Ru distances are expected to broaden the Cu–Cu peak slightly, but no apparent shoulder was observed, which suggests the absence of Ru–Ru bonds in Ru-CuNW. The PDF results therefore provide supporting evidence for the absence of significant Ru clustering.
+To further verify the atomic dispersion of Ru in the Cu matrix, we conducted atom probe tomography (APT), a technique that can provide reconstructed 3D information down to the atomic level. The Ru-CuNW specimen was first prepared for the APT reconstruction (Supplementary Note
+2
+and Supplementary Fig.
+38
+). The overall reconstruction (Fig.
+3g
+) shows the Ru-CuNW fragments with Pt filling the empty space. In the analysed zone, we found a Ru
+n
++
+:Cu
+n
++
+ratio of 16.9%, which is consistent with the EDS and XPS results. Figure
+3h
+depicts the Ru density contour map of a cross-section of the reconstruction. The Ru-rich zones were mostly found at the boundary of the Cu-rich area, which indicates the Ru were supported on the surface of the Cu nanowire. A closer examination of the Ru-rich area (Fig.
+3i
+) demonstrates that the Ru atoms were highly dispersed in the Cu matrix rather than forming clusters. Nearest-neighbour distribution analysis indicated that 84% of the Ru was isolated as single atoms, with no neighbouring Ru–Ru bond formed. Therefore, based on the 3D tomography information from APT and all the characterizations above, we confirmed that the Ru dopants were in a metallic electronic state, and highly dispersed as isolated atoms in the Cu substrate.
+Theoretical analysis
+To explain the high NH
+3
+FE over Ru-CuNW compared with those over CuNW and RuNP, we used DFT to calculate the minimum energy pathway of the NO
+3
+RR and HER. The NO
+3
+RR pathway on the electrode surface includes: adsorption of NO
+3
+–
+, deoxygenation of the N species, hydrogenation on the N species and/or N–N bond formation and desorption of the reduced species. Figure
+4a
+shows the overall pathway for NO
+3
+RR at 0 V versus RHE at pH 14.
+Fig. 4: DFT calculations.
+a
+, DFT-calculated minimum energy path for the nitrate reduction to NH
+3
+and NO
+2
+–
+at 0 V versus RHE at pH = 14. The deoxygenation steps of nitrate reduction (NO
+3
+*
+→ NO
+2
+*
+, NO
+2
+*
+→ NO
+*
+and NO
+*
+→ N
+*
+) occur along with the hydrogenation of O
+*
+and desorption of OH
+–
+(separately presented in blue shaded area). White, blue, red, brown and teal spheres correspond to H, N, O, Cu and Ru atoms, respectively.
+b
+, Nitrate adsorption versus hydrogen evolution via an alkaline pathway on different catalytic surfaces at 0 V versus RHE at pH = 14. Owing to the high pH, we considered all the H
++
+needed for HER or NO
+3
+RR were formed via the alkaline Volmer mechanism (Methods and Supplementary Fig.
+39
+).
+Full size image
+DFT calculations predict that NH
+3
+formation is the most favourable NO
+3
+–
+reaction pathway at the Ru site on Ru-CuNW, because the activation barriers along the NH
+3
+path are much lower than the rate-controlling barrier for the other pathways (NO
+2
+, NO, N
+2
+O and N
+2
+; Supplementary Figs.
+39
+and
+40
+). Ru-CuNW minimizes the HER as NO
+3
+–
+adsorption is 0.92 eV more favourable than H
++
+adsorption at the Ru site (Fig.
+4b
+) and HER is unlikely to occur on the Cu sites due to the endothermic adsorption (+0.47 eV) of H
+2
+O
+*
+, the HER reactant at pH 14 (Supplementary Fig.
+41
+). Although a more negative potential increases the likelihood of NO
+2
+–
+desorption by reducing the desorption energy, the barrier for NO
+2
+–
+release remains higher than that for the NH
+3
+pathway until about –0.9 V versus RHE. The highly dispersed and isolated Ru active site additionally acts to restrict the NO
+3
+RR to the Ru atom due to high reaction energy (0.39 eV) required for N
+*
+to migrate from Ru–Cu to Cu–Cu sites (Supplementary Fig.
+40
+), and thus minimizes formation with N atoms from other Ru sites. Overall, the combination of a suppressed HER, endothermic NO
+2
+–
+desorption and restricted movement of the N
+*
+species on the surface leads to a high NH
+3
+FE for Ru-CuNW over a wide range of potentials.
+The poorer performance of CuNW compared with that of Ru-CuNW is attributed to the weaker adsorption of NO
+3
+–
+, poor ability to hydrogenate reduced N atoms, and the sensitivity of NH
+3
+vs
+. NO
+2
+–
+path to the potential. First, the activation barrier for NO
+3
+*
+decomposition to NO
+2
+*
+is ~0.02 eV higher than NO
+3
+–
+desorption at 0 V
+vs
+. RHE, thus it is expected that desorption is just as likely as further reaction (Fig.
+4b
+). The NH
+3
+FE is highly sensitive to the slight potential changes which contributes to the low NH
+3
+FE at positive potentials (Supplementary Note
+3
+, Supplementary Figs.
+42
+and
+43
+). Moreover, water adsorption is endothermic by 0.46 eV on CuNW, thus there is limited H
+*
+for NH
+3
+formation. The NO
+3
+RR pathway on RuNP is similar to Ru-CuNW, but the higher number of active sites available for HER and lower energy requirements for the H
+2
+O adsorption increases the probability of H
+2
+formation and decreases NH
+3
+FE at negative potentials (Fig.
+4b
+, Supplementary Note
+3
+, Supplementary Figs.
+44
+and
+45
+). In summary, these results explain why Ru-CuNW has a superior performance for NH
+3
+production via NO
+3
+RR compared to CuNW and RuNP, and highlight the importance of highly dispersed Ru in Cu matrix.
+Ammonia product collection
+With the impressive NO
+3
+RR performance of our Ru-CuNW catalyst, we further demonstrated its practical applications by coupling the electrocatalysis with an air stripping method to continuously collect high-purity ammonia products (Fig.
+5a
+). A catalyst’s good stability under an industrial-relevant current density is a prerequisite for such applications. We first conducted a long-term chronopotentiometry (CP) stability test of Ru-CuNW in a H cell with a continuous electrolyte flow. The voltage required to achieve 400 mA cm
+–2
+over our catalyst remained stable over 100 hours, with over 90% NH
+3
+FE maintained (Fig.
+5b
+). The effluent with the generated NH
+3
+in it was air stripped (Methods) for an efficient ammonia product collection due to the high ammonia vapour pressure in the alkaline environment
+52
+,
+53
+,
+54
+. As a result, we successfully stripped out over 99.7% of the generated ammonia from the electrolyte, with only 0.55 ppm remaining, which suggests a full denitrification of the water source and simultaneous generation of valuable ammonia (Fig.
+5c
+). The stripped-out ammonia vapour was either trapped in a HCl solution or cold condensed into high-purity ammonia water. Most of the outflowing ammonia vapour (~97%) was trapped in the acid solution, and finally formed high-purity NH
+4
+Cl(s) powder, an important fertilizer, after performing rotary evaporation. Secondarily, the liberated NH
+3
+was subjected to a cold condensation process to produce pure NH
+3
+(aq) with a NH
+3
+concentration of up to 0.3 wt%. The overall collection efficiency of both products is over 85% (Fig.
+5c
+). The generation of NH
+4
+Cl(s) was confirmed by XRD (Fig.
+5d
+) and NH
+3
+(aq) by
+1
+H NMR spectroscopy (Fig.
+5e
+). The collection efficiencies and product purities were confirmed by UV–vis (Supplementary Figs.
+46
+and
+47
+). Overall, we demonstrated a complete process that directly converts nitrate-containing influent into practical ammonia products using our Ru-CuNW catalyst.
+Fig. 5: Practical ammonia products synthesis.
+a
+, Schematic of the ammonia product synthesis process from nitrate-containing influent to NH
+4
+Cl(s) and concentrated NH
+3
+(aq).
+b
+, Long-term CP stability test of Ru-CuNW at 400 mA cm
+–2
+in 1 M KOH with 2,000 ppm NO
+3
+–
+using a continuous flow system in an H cell.
+c
+, Conversion efficiency of different steps for the ammonia product synthesis process. Measurements were taken at least three times and average values are presented with the standard deviation as error bars. Numbers on the
+x
+axis indicate the corresponding conversion steps in panel
+a
+.
+d
+, Synthesized NH
+4
+Cl(s) products and its XRD analysis result.
+e
+,
+1
+H NMR analysis of the synthesized NH
+3
+(aq). Inset: the products itself.
+Full size image
+Conclusions
+In summary, we synthesized a high-performance NO
+3
+RR catalyst of highly dispersed Ru atoms on Cu nanowires, which delivered industrial-relevant ammonia generation current while maintaining a high FE and stability. DFT revealed that the uniformly distributed Ru sites show an activated NO
+3
+–
+-to-NH
+3
+pathway and the neighbouring Cu sites helped suppress the undesired competing HER. The effluent from our electrolysis of NO
+3
+RR was combined with an air stripping process to produce NH
+4
+Cl fertilizer and pure NH
+3
+aqueous products. Future studies can be focused on how to translate this excellent catalytic performance into membrane electrode assembly devices in which no liquid electrolyte is needed for more practical implementations.
+Methods
+Catalyst synthesis
+In a typical procedure, 1 × 1 cm
+2
+Cu foam was first washed with isopropyl alcohol and then 0.1 M HCl to clean the surface. Next, the washed Cu foam was soaked in 0.1 M (NH
+4
+)
+2
+S
+2
+O
+8
+with 1 M NaOH under ambient conditions for 1 h to oxidize Cu into Cu(OH)
+2
+NW. The synthesized Cu(OH)
+2
+NW was then washed with deionized water and soaked in 10 mM RuCl
+3
+solution under ambient conditions for 12 h to go through a cation exchange process. After ion exchange, the product was dried at 70 °C in an oven for 1 h and then annealed in a flowing Ar atmosphere at 200 °C for 2 h to convert it into Ru-CuONW. Finally, an in situ electrochemical prereduction step was performed after annealing, which was performed with the CP method at 100 mA cm
+–2
+for 12 h, followed by 700 mA cm
+–2
+for 1 h to obtain the final Ru-CuNW catalyst. Different noble-metal doped catalysts were synthesized via the same procedure, except 10 mM RhCl
+3
+·
+x
+H
+2
+O, OsCl
+3
+·
+x
+H
+2
+O and IrCl
+3
+·
+x
+H
+2
+O solutions were used instead of RuCl
+3
+. Ru-CuNW samples with different Ru doping levels were synthesized following the same procedure, except that 2 mM, 30 mM and 100 mM RuCl
+3
+solutions were used. CuNW was synthesized by performing the same annealing and electrochemical prereduction procedure on Cu(OH)
+2
+NW without the ion exchange process. RuNP was synthesized by mixing 0.2052 g of RuCl
+3
+and 0.4 g of carbon black (Cabot, BP2000) into 150 m of 1 M HCl and sonicated for 2 h. Next, the mixture solution was dried by rotary evaporator, and the collected powder was annealed in a flowing Ar/H
+2
+atmosphere at 900 °C for 2 h to synthesize the final RuNP product.
+Material characterization
+SEM was performed on an FEI Quanta 400 field emission SEM. TEM, high-resolution TEM, HAADF-STEM, high-resolution HAADF-STEM and EDS elemental mapping were performed using an FEI Titan Themis aberration-corrected TEM at 300 kV and a Talos F200X transmission electron microscope at an accelerating voltage of 200 kV. Atomic resolution HAADF-STEM images were acquired on a JEOL JEM-AMR200F “NEOARM” equipped with an ASCOR probe corrector and operated at 80kV. XPS data were measured on a PHI Quantera spectrometer using monochromatic Al Kα radiation (1,486.6 eV) and a low-energy flood gun as the neutralizer. All the XPS spectra were calibrated by shifting the detected carbon C 1
+s
+peak to 284.8 eV. Raman spectra were obtained on a Raman microscope using a 633 nm laser excitation wavelength. XAS measurements were performed at the Sector 20-BM beamline of the Advanced Photon Source at the Argonne National Laboratory. The samples were measured in fluorescence mode, and the data processing for FT-EXAFS was performed using the ATHENA program. HEXRD measurements were carried out at 17-BM at the Advanced Photon Source at the Argonne National Laboratory, and the obtained 2D diffraction patterns were converted into 1D patterns using GSAS II software. Regular XRD data were collected on a Rigaku SmartLab X-ray diffractometer with Cu Kα radiation.
+Total scattering data for the PDF were collected on the Brockhouse High Energy Wiggler beamline of the Canadian Light Source using 65 keV X-ray radiation. The Ru-CuNW foam was mounted directly on the beamline. A thin sheet of Ru metal was also measured as a reference and a RuO
+2
+powder reference sample was measured in a 0.63 mm inner diameter Kapton capillary. Appropriate background measurements were made for each sample. The PDF was denote as
+G
+(
+r
+) in the result, where r is the interatomic distance. The PDFs were produced using a
+Q
+max
+of 27 Å
+–1
+.
+Atom probe tomography
+APT analytical imaging is based on the combination of field evaporation and the principles of time-of-flight mass spectrometry. Field evaporation defines the phenomenon during which individual atoms can be evaporated from the surface they come from as ions if a strong electric field (several tens of V nm
+–1
+) is applied on the surface. To reach such an intense electric field, the samples were first fabricated as a sharp needle. APT sample preparations were performed using the standard focused ion beam lift-out process
+55
+with a FEI Quanta dual beam
+56
+(Supplementary Fig.
+38
+). Given the important presence of voids in the Ru-CuNW, Pt welding was used to fill and consolidate the final needle structure. Field evaporation was controllably provoked with the application of either short voltage pulses (~10–100 ns duration) or assisted with laser beam pulses combined with a steady electric field. Atoms were extracted one by one and projected towards a position sensitive detector, which situated the detected ion in 3D space for the reconstruction. The spatial positions and chemical identification by time-of-flight mass spectrometry were used to reconstruct the 3D chemical map of the evaporated samples. A full description of the technique can be found in a previous work
+57
+. In this work, we used a LEAP 4000X-HR local electrode atom probe system by CAMECA Instruments equipped with a 355 nm ultraviolet laser. The analysis was performed with a 125 kHz laser pulse frequency and 100 pJ power at 45.5 K. 3D reconstructions and analysis were conducted using CAMECA’s integrated visualization and analysis software (IVAS) version 3.8.8. Reconstruction parameters were determined with the help of the tip profile recorded by SEM after its fabrication by focused ion beam SEM (Supplementary Fig.
+38c
+).
+Electrochemical measurement
+All electrochemical measurements were carried out in a customized H-type cell with a bipolar membrane (Fuel Cell Store) under the ambient conditions in this study. Electrochemical responses were recorded by a BioLogic VMP3 workstation. In general, 2,000 ppm NO
+3
+–
+with 1 M KOH was used as the electrolyte in both the cathode and anode unless otherwise specified. The initial electrolyte volume in each H-cell compartment was 25 ml, and the electrolyte was continuously flowed in and out as a flow-system H-cell measurement (Supplementary Note
+1
+) unless otherwise specified. A stir bar was used in the H cell at a stirring rate of 1,600 revolutions per minute to minimize the mass transfer limitation in the porous electrodes. In a typical three-electrode system, a Ni foam and a saturated calomel electrode (CH Instruments) were used as the counter and reference electrodes, respectively. In this work, all the potentials measured against the saturated calomel electrode were converted to the RHE scale by:
+E
+(versus RHE) =
+E
+(versus the saturated calomel electrode) + 0.241 V + 0.0591 × pH. In the 1 M KOH electrolyte used in this work, the pH value was 14, as determined by an Orion Star A111 pH Meter (Thermo Scientific). The synthesized Ru-CuNW, Ru-CuONW and CuNW were directly used as the working electrode. For the RuNP working electrode, 5 mg of catalyst was added into 1 ml of isopropyl alcohol and 20 µl of a Nafion 117-containing solution (5%, Sigma-Aldrich) and sonicated for 1 h to obtain a well-dispersed catalyst ink, and then 80 µl of the catalyst ink was drop cast on a 1 × 1 cm
+2
+Toray carbon paper (Fuel Cell Store), which resulted in a loading of 0.4 mg cm
+–2
+. Solution resistance was measured by the potentiostatic electrochemical impedance spectroscopy at frequencies from 0.1 Hz to 200 kHz, and all the measured potentials were 50%
+iR
+-compensated unless otherwise specified. Chronoamperometry tests were performed at a stirring rate of 1,600 revolutions per minute at constant potentials for 10 min or until a stable current was achieved to confirm that a steady-state was reached. The current densities were recorded and the electrolytes were collected to analyse the catalytic performances. Linear sweep voltammetry tests were recorded at a scan rate of 5 mV s
+–1
+. Complete nitrate removal tests were conducted in a batch system H cell with an initial 2,000 ppm NO
+3
+–
+and 1 M KOH electrolyte for 70 min, and the electrolyte was collected every 10 min to quantify the products. Long-term stability was examined through CP tests at 400 mA cm
+–2
+in a flow-system H cell at a 3 ml min
+–1
+electrolyte flow rate.
+FE, partial current density, yield rate and selectivity calculations
+The FEs of NO
+3
+RR towards the NH
+3
+and NO
+2
+–
+products were calculated with equation (2):
+$$\begin{array}{*{20}{c}} {{\rm{FE}} = (n \times \nu \times C \times F)/i} \end{array}$$
+(2)
+where
+n
+is the electron transfer number required to form the products, which is eight for NH
+3
+and two for NO
+2
+–
+,
+ν
+is the flow rate of the catholyte (l s
+–1
+),
+C
+represents the concentration of the outlet products (M),
+F
+is the Faraday constant (96,485 C mol
+–1
+) and
+i
+is the total current (A). If the experiments were conducted under the batch system, the FE was calculated by:
+$$\begin{array}{*{20}{c}} {{\rm{FE}} = \left( {n \times V \times C \times F} \right)/(i \times t)} \end{array}$$
+(3)
+where
+V
+is the catholyte volume (l) and
+t
+is the total reaction time (s).
+To calculate the partial current density of NH
+3
+, the following equation was used:
+$$\begin{array}{*{20}{c}} {i_{{\rm{NH}}_3} = i \times {{{\mathrm{FE}}}}_{{{{\mathrm{NH}}}}_3}} \end{array}$$
+(4)
+In addition, the NH
+3
+yield rate was calculated by:
+$$\begin{array}{*{20}{c}} {r_{{\rm{NH}}_3} = \nu \times C_{{\rm{NH}}_3}} \end{array}$$
+(5)
+In the complete nitrate removal experiment in the batch system, the NO
+3
+–
+-to-NH
+3
+selectivity was calculated by:
+$$\begin{array}{*{20}{c}} {{{{\mathrm{NO}}}}_3^- - {\rm{to}} - {{{\mathrm{NH}}}}_3\;{\rm{selectivity}} = {{{\mathrm{C}}}}_{{{{\mathrm{NH}}}}_3}/\Delta {{{\mathrm{C}}}}_{{{{\mathrm{NO}}}}_3^ - }} \end{array}$$
+(6)
+ECSA analysis
+The ECSA was determined by:
+$$\begin{array}{*{20}{c}} {{\mathrm{ECSA} = {{C}}}_{{{{\mathrm{dl}}}}}/{{C}}_{{{\mathrm{s}}}}} \end{array}$$
+(7)
+where
+C
+dl
+is the double layer capacitance and
+C
+s
+is the specific capacitance of the sample. A general specific capacitance of
+C
+s
+= 0.040 mF cm
+–2
+was used in this study based on previous reported values
+34
+,
+40
+.
+C
+dl
+was determined by the equation:
+$$\begin{array}{*{20}{c}} {{{C}}_{{{{\mathrm{dl}}}}} = {{i}}_{{{\mathrm{c}}}}/\nu } \end{array}$$
+(8)
+where
+i
+c
+is the charging current and
+ν
+is the scan rate. A series of cyclic voltammogram tests within the non-Faradaic potential region of 0.40–0.50 V (versus RHE) under different scan rates was performed. Next, by plotting the measured
+i
+c
+versus
+ν
+and performing a linear fitting,
+C
+dl
+was obtained from the slopes.
+Ammonia detection
+The NH
+3
+concentration was spectrophotometrically detected by the indophenol blue method with modification
+58
+. First, the outlet electrolyte product was collected and diluted to the detection range. Next, 1 ml of the diluted sample was mixed with 1 ml of 1 M NaOH, 5 wt% salicylic acid and 5 wt% sodium citrate solution. Then, 0.5 ml of 0.05 M NaClO solution and 0.1 ml of 1.0 wt% C
+5
+FeN
+6
+Na
+2
+O (sodium nitroferricyanide) solution was added and left to rest for 2 h under ambient conditions. Next, the absorption spectrum was measured by using a UV–vis spectrophotometer (UV-2600), and the formation of indophenol blue was determined using the absorbance at 655 nm wavelength. A standard concentration–absorbance calibration curve was made beforehand using a series of standard NH
+4
+Cl solutions. The NH
+3
+product concentration was then calculated based on the tested absorbance and the standard curve.
+In addition,
+1
+H NMR spectroscopy (500 MHz) was also used to detect ammonia in the isotope-labelling measurement. The collected NH
+3
+sample was first diluted to the detection range and adjust to pH 2.0 by adding 0.1 M HCl. Next, 0.5 ml of the sample solution was mixed 0.1 ml DMSO-
+d
+6
+(hexadeuterodimethyl sulfoxide) with 0.04 wt% C
+4
+H
+4
+O
+4
+, where DMSO-
+d
+6
+serves as a solvent and maleic acid (C
+4
+H
+4
+O
+4
+) as the internal standard. Finally, the prepared mixture was tested by a 500 MHz SB Liquid Bruker Avance NMR spectrometer at ambient condition and the NH
+3
+product peaks were analysed.
+Nitrate detection
+The nitrate concentration was measured by UV–vis spectrophotometry according to the standard method
+59
+. First, an electrolyte sample was collected and diluted to the detection range. Next, 40 µl of 1 M HCl with 4.0 µl of 0.8 wt% sulfamic acid solution was added and mixed with 2.0 ml of the diluted sample and rested for 20 min at ambient conditions. The absorption intensities at wavelengths of 220 and 275 nm were then recorded by UV–vis spectrophotometry (UV-2600). The final absorbance was calculated using the equation:
+A
+=
+A
+220nm
+–
+A
+275nm
+. The concentration–absorbance curve was calibrated using a series of standard potassium nitrate solutions with a linear fitting prepared in advance. Nitrate product concentration was then calculated based on the tested absorbance and the standard calibration curve.
+Nitrite detection
+The nitrite concentration was measured by UV–vis spectrophotometry according to the standard method
+59
+. First, a mixture of
+p
+-aminobenzenesulfonamide (4 g),
+N
+-(1-naphthyl) ethylenediamine dihydrochloride (0.2 g), deionized water (50 ml) and phosphoric acid (10 mL,
+ρ
+= 1.685 g ml
+–1
+) was used as the colour reagent. The electrolyte sample was collected and diluted to the detection range. Next, 40 µl of the colour reagent was added into the 2.0 ml sample solution, mixed thoroughly and rested for 20 min at ambient conditions. The absorption intensity at a wavelength of 540 nm was then tested by UV–vis spectrophotometry (UV-2600). The concentration–absorbance curve was calibrated using a series of standard potassium nitrite solutions with linear fitting prepared beforehand. Nitrite product concentrations were then calculated based on the tested absorbance and the standard curve.
+Computational methods
+Detailed computational methods, which include all meta data and formula development, are described in full in Supplementary Note
+4
+and Supplementary Tables
+5
+–
+7
+. In general, periodic boundary condition DFT calculations were performed using the Perdew–Burke–Ernzerhof functional, as implemented in the Vienna Ab initio Simulation Package
+60
+,
+61
+,
+62
+. The wavefunction was constructed from a summation of the plane waves with energies below 500 eV. There was less than a 0.01 eV difference in the adsorption energies calculated at 500 and 600 eV cutoff energies. Projector-augmented wave pseudopotentials
+63
+explicitly included the H 1
+s
+, O and N 2
+s
+and 2
+p
+, Cu 4
+s
+and 3
+d
+, and Ru 5
+s
+and 4
+d
+electrons.
+Cu and Ru-CuNW were represented by (111) terminated slabs that consisted of 4 × 4 × 6 primitive units, and Ru was represented by a (001)-terminated 4 × 4 × 6 slab. These surface terminations were chosen as they represented the low-energy surfaces
+64
+. Additionally, these crystal facets were equivalent because Ru is an hexagonal close-packed crystal structure, whereas Cu is face-centred cubic (Supplementary Fig.
+48
+). All the slabs were separated by at least 12 Å of vacuum space to reduce spurious interactions between atomic layers. The Brillouin zone was sampled with an 8 × 8 × 1 Γ-point centred Monkhorst Pack mesh for each surface and showed only a 0.01 eV difference with a 10 × 10 × 1 mesh grid. All the geometries were relaxed until forces were less than 1 × 10
+–3
+eV Å
+–1
+. Transition states for the surface reactions were investigated using the climbing image nudged elastic band method with at least five images per reaction until the residual forces were below 0.001 eV Å
+–1
+(ref.
+65
+).
+We used the computational hydrogen electrode
+66
+to account for an arbitrary potential according to:
+$$\begin{array}{*{20}{c}} {G\left( U \right) = G\left( {U^0} \right) - ne\left( {U - U^0} \right)} \end{array}$$
+(9)
+where
+G
+(
+U
+0
+) is the free energy at 0 V versus the computational hydrogen electrode,
+U
+is the applied voltage and
+e
+is the charge of the electron. We used the Butler–Volmer formalism to examine the potential effects during reaction:
+$$\begin{array}{*{20}{c}} {G\left( U \right) = G\left( {U^0} \right) - \alpha ne\left( {U - U^0} \right)} \end{array}$$
+(10)
+where
+α
+is the portion of the electrons transferred at the transition state, assumed to be 0.5 (ref.
+67
+). The adsorption and desorption of the charged species used thermodynamic cycles (Supplementary Fig.
+49
+) and account for the applied potential.
+The pH accounted for the effects on the free energies of the species and the source of H
++
+. Free energy modifications due to pH were calculated according to:
+$$\begin{array}{*{20}{c}} {\Delta G_{{\rm{protonation}}} = G^\circ - 2.303kT\left( {{{\rm{p}}}K_{{\rm{a}}} - {{\rm{{pH}}}}} \right)} \end{array}$$
+(11)
+and both the acidic and alkaline H
+*
+path was considered:
+$$\begin{array}{*{20}{c}} {{{\rm{H}}}^ + + {{\rm{e}}}^ - + \ast \to {{\rm{H}}}^ \ast \to \frac{1}{2}{{\rm{H}}}_2\left( {{{\rm{acidic}}}\;{{\rm{path}}}} \right)} \end{array}$$
+(12)
+$$\begin{array}{rcl}{\mathrm{H}}_2{\mathrm{O}} + {\mathrm{e}}^ - + \ast \to {\mathrm{H}}_2{\mathrm{O}}^ \ast + {\mathrm{e}}^ - \to {\mathrm{H}}^ \ast \\ + {\mathrm{OH}}^ - \to \frac{1}{2}{\mathrm{H}}_2 + {\mathrm{{OH}}}^ - \left({{\mathrm{alkaline}}\;{\mathrm{path}}}\right)\end{array}$$
+(13)
+Direct ammonia product synthesis
+First, the downstream electrolyte product during the long-term CP stability test at 400 mA cm
+–2
+for 100 h in a flow-system H cell was collected. To evaluate the NH
+3
+removal efficiency via air stripping and the NH
+3
+collection efficiency by acid trap, 200 ml of downstream product was sealed in a flask with 200 sccm Ar gas flowing in for 24 h to perform the air stripping to purge the NH
+3
+out. The outlet gas stream was meanwhile purged into 200 ml of 0.3 M HCl to collect the NH
+3
+product. The amount of NH
+3
+in all the solutions was measured by the ammonia detection method mentioned above, and the removal efficiency and collection efficiency were calculated based on equations (
+14
+) and (
+15
+), respectively:
+$$\begin{array}{*{20}{c}} {{{\rm{Removed}}}\;{{{\mathrm{NH}}}}_3\;{{\rm{via}}}\;{{\rm{air}}}\;{{\rm{stripping}}} = 1 - \frac{{{{{\mathrm{NH}}}}_3\;{{{\mathrm{left}}}}\;{{{\mathrm{after}}}}\;{{{\mathrm{air}}}}\;{{{\mathrm{stripping}}}}\;({{{\mathrm{mol}}}})}}{{{{{\mathrm{initial}}}}\;{{{\mathrm{NH}}}}_3\;({{{\mathrm{mol}}}})}}} \end{array}$$
+(14)
+$$\begin{array}{*{20}{c}} {{{\rm{Acid}}}\;{{\rm{collected}}}\;{{{\mathrm{NH}}}}_3 = \frac{{{{{\mathrm{NH}}}}_3\;{{{\mathrm{in}}}}\;{{{\mathrm{acid}}}}\;{{{\mathrm{trap}}}}\;({{{\mathrm{mol}}}})}}{{{{{\mathrm{removed}}}}\;{{{\mathrm{NH}}}}_3\;{{{\mathrm{via}}}}\;{{{\mathrm{air}}}}\;{{{\mathrm{stripping}}}}\;({{{\mathrm{mol}}}})}}} \end{array}$$
+(15)
+To produce the NH
+4
+Cl(s) product and evaluate the production efficiency, the 200 ml of HCl with the trapped NH
+3
+was dried by rotary evaporator, and the collected powder sample was further dried at 80 °C in an oven overnight. The final NH
+4
+Cl(s) was measured by a balance, analysed by XRD, dissolved in deionized water and detected with the UV–vis method. The collection efficiency of NH
+4
+Cl(s) from the acid trap was calculated by equation (
+16
+):
+$$\begin{array}{*{20}{c}} {{{\rm{Collected}}}\;{{{\mathrm{NH}}}}_4{{{\mathrm{Cl}}}}({{{\mathrm{s}}})}\;{{\rm{from}}}\;{{\rm{acid}}}\;{{\rm{trap}}} = \frac{{{{{\mathrm{collected}}}}\;{{\mathrm{dried}}}\;{{{\mathrm{out}}}}\;{{{\mathrm{NH}}}}_4{{{\mathrm{Cl}}}}_{({{{\mathrm{s}}}})}\;({{{\mathrm{mol}}}})}}{{{{{\mathrm{acid}}}}\;{{{\mathrm{collected}}}}\;{{{\mathrm{NH}}}}_3({{{\mathrm{mol}}}})}}} \end{array}$$
+(16)
+To produce pure NH
+3
+(aq) product, 200 ml of electrolyte product from the stability test was sealed in a flask and heated to 80 °C with 2 sccm Ar purging in for 24 h. The outlet tube was submerged in an ice bath to condense the NH
+3
+vapour into NH
+3
+(aq). The outlet tube was connected to a sealed vial to collect the NH
+3
+(aq) product, and then connected to an extra 200 ml of 0.3 M HCl to trap all of the emitted NH
+3
+(g). The produced NH
+3
+(aq) product was analysed using
+1
+H NMR (500 MHz), and quantified by the spectrophotometric method mentioned above. The condensation efficiency of the NH
+3
+(aq) product was calculated by:
+$$\begin{array}{*{20}{c}} {{\mathrm{Condensed}}\;{{{\mathrm{NH}}}}_3{({{{\mathrm{aq}}}})} = \frac{{{{{\mathrm{collected}}}}\;{{{\mathrm{NH}}}}_3{\left( {{{{\mathrm{aq}}}}} \right)}\;({{{\mathrm{mol}}}})}}{{\left( {{{{\mathrm{collected}}}}\;{{{\mathrm{NH}}}}_3{\left( {{{{\mathrm{aq}}}}} \right)} + {{{\mathrm{emitted}}}}\;{{{\mathrm{NH}}}}_3} \right)\;({{{\mathrm{mol}}}})}}} \end{array}$$
+(17)
+Data availability
+The data that support the findings of this study are presented in the main text and the
+Supplementary
+Information and are available from the corresponding authors upon reasonable request.
+References
+Christensen, C. H., Johannessen, T., Sørensen, R. Z. & Nørskov, J. K. Towards an ammonia-mediated hydrogen economy?
+Catal. Today
+111
+, 140–144 (2006).
+Article
+CAS
+Google Scholar
+Rosca, V., Duca, M., de Groot, M. T. & Koper, M. T. M. Nitrogen cycle electrocatalysis.
+Chem. Rev.
+109
+, 2209–2244 (2009).
+Article
+CAS
+Google Scholar
+Wang, Y., Wang C, Li, M., Yu, Y. & Zhang, B. Nitrate electroreduction: mechanism insight, in situ characterization, performance evaluation, and challenges.
+Chem. Soc. Rev.
+50
+, 6720–6733 (2021).
+Article
+CAS
+Google Scholar
+Guo, J. & Chen, P. Catalyst: NH
+3
+as an energy carrier.
+Chem
+3
+, 709–712 (2017).
+Article
+CAS
+Google Scholar
+Soloveichik, G. Electrochemical synthesis of ammonia as a potential alternative to the Haber–Bosch process.
+Nat. Catal.
+2
+, 377–380 (2019).
+Article
+CAS
+Google Scholar
+Kyriakou, V., Garagounis, I., Vourros, A., Vasileiou, E. & Stoukides, M. An electrochemical Haber–Bosch process.
+Joule
+4
+, 142–158 (2020).
+Article
+CAS
+Google Scholar
+Service, R. F. New recipe produces ammonia from air, water, and sunlight.
+Science
+345
+, 610–610 (2014).
+Article
+CAS
+Google Scholar
+Rafiqul, I., Weber, C., Lehmann, B. & Voss, A. Energy efficiency improvements in ammonia production—perspectives and uncertainties.
+Energy
+30
+, 2487–2504 (2005).
+Article
+CAS
+Google Scholar
+Kitano, M. et al. Ammonia synthesis using a stable electride as an electron donor and reversible hydrogen store.
+Nat. Chem.
+4
+, 934–940 (2012).
+Article
+CAS
+Google Scholar
+Han, G.-F. et al. Mechanochemistry for ammonia synthesis under mild conditions.
+Nat. Nanotechnol.
+16
+, 325–330 (2021).
+Article
+CAS
+Google Scholar
+Garagounis, I., Kyriakou, V., Skodra, A., Vasileiou, E. & Stoukides, M. Electrochemical synthesis of ammonia in solid electrolyte cells.
+Front. Energy Res.
+2
+, 1 (2014).
+Article
+Google Scholar
+Cui, X., Tang, C. & Zhang, Q. A review of electrocatalytic reduction of dinitrogen to ammonia under ambient conditions.
+Adv. Energy Mater.
+8
+, 1800369 (2018).
+Article
+CAS
+Google Scholar
+Foster, S. L. et al. Catalysts for nitrogen reduction to ammonia.
+Nat. Catal.
+1
+, 490–500 (2018).
+Article
+Google Scholar
+Kyriakou, V., Garagounis, I., Vasileiou, E., Vourros, A. & Stoukides, M. Progress in the electrochemical synthesis of ammonia.
+Catal. Today
+286
+, 2–13 (2017).
+Article
+CAS
+Google Scholar
+Suryanto, B. H. R. et al. Challenges and prospects in the catalysis of electroreduction of nitrogen to ammonia.
+Nat. Catal.
+2
+, 290–296 (2019).
+Article
+CAS
+Google Scholar
+Montoya, J. H., Tsai, C., Vojvodic, A. & Nørskov, J. K. The challenge of electrochemical ammonia synthesis: a new perspective on the role of nitrogen scaling relations.
+ChemSusChem
+8
+, 2180–2186 (2015).
+Article
+CAS
+Google Scholar
+Honkala, K. et al. Ammonia synthesis from first-principles calculations.
+Science
+307
+, 555–558 (2005).
+Article
+CAS
+Google Scholar
+Chen, G.-F. et al. Ammonia electrosynthesis with high selectivity under ambient conditions via a Li
++
+incorporation strategy.
+J. Am. Chem. Soc.
+139
+, 9771–9774 (2017).
+Article
+CAS
+Google Scholar
+Chen, P. et al. Interfacial engineering of cobalt sulfide/graphene hybrids for highly efficient ammonia electrosynthesis.
+Proc. Natl Acad. Sci. USA
+116
+, 6635–6640 (2019).
+Article
+CAS
+Google Scholar
+Lv, C. et al. An amorphous noble-metal-free electrocatalyst that enables nitrogen fixation under ambient conditions.
+Angew. Chem. Int. Ed.
+57
+, 6073–6076 (2018).
+Article
+CAS
+Google Scholar
+Andersen, S. Z. et al. A rigorous electrochemical ammonia synthesis protocol with quantitative isotope measurements.
+Nature
+570
+, 504–508 (2019).
+Article
+CAS
+Google Scholar
+Tang, C. & Qiao, S.-Z. How to explore ambient electrocatalytic nitrogen reduction reliably and insightfully.
+Chem. Soc. Rev.
+48
+, 3166–3180 (2019).
+Article
+CAS
+Google Scholar
+van Langevelde, P. H., Katsounaros, I. & Koper, M. T. M. Electrocatalytic nitrate reduction for sustainable ammonia production.
+Joule
+5
+, 290–294 (2021).
+Article
+Google Scholar
+Duca, M. & Koper, M. T. M. Powering denitrification: the perspectives of electrocatalytic nitrate reduction.
+Energy Environ. Sci.
+5
+, 9726–9742 (2012).
+Article
+CAS
+Google Scholar
+Garcia-Segura, S., Lanzarini-Lopes, M., Hristovski, K. & Westerhoff, P. Electrocatalytic reduction of nitrate: fundamentals to full-scale water treatment applications.
+Appl. Catal. B
+236
+, 546–568 (2018).
+Article
+CAS
+Google Scholar
+Katsounaros, I., Dortsiou, M. & Kyriacou, G. Electrochemical reduction of nitrate and nitrite in simulated liquid nuclear wastes.
+J. Hazard. Mater.
+171
+, 323–327 (2009).
+Article
+CAS
+Google Scholar
+Su, L. et al. Electrochemical nitrate reduction by using a novel Co
+3
+O
+4
+/Ti cathode.
+Water Res.
+120
+, 1–11 (2017).
+Article
+CAS
+Google Scholar
+Nguyen, T. T. P., Do, B. K. D., Bui, N. N., Pham, M. A. & Nguyen, T. V. Selectiveness of copper and polypyrrole modified copper electrodes for nitrate electroreduction: a comparative study and application in ground water.
+ECS Trans.
+53
+, 41–52 (2013).
+Article
+CAS
+Google Scholar
+Chauhan, R. & Srivastava, V. C. Electrochemical denitrification of highly contaminated actual nitrate wastewater by Ti/RuO
+2
+anode and iron cathode.
+Chem. Eng. J.
+386
+, 122065 (2020).
+Article
+CAS
+Google Scholar
+Fernández-Nava, Y., Marañón, E., Soons, J. & Castrillón, L. Denitrification of wastewater containing high nitrate and calcium concentrations.
+Bioresour. Technol.
+99
+, 7976–7981 (2008).
+Article
+CAS
+Google Scholar
+Chen, G.-F. et al. Electrochemical reduction of nitrate to ammonia via direct eight-electron transfer using a copper–molecular solid catalyst.
+Nat. Energy
+5
+, 605–613 (2020).
+Article
+CAS
+Google Scholar
+Wang, Y. et al. Enhanced nitrate-to-ammonia activity on copper–nickel alloys via tuning of intermediate adsorption.
+J. Am. Chem. Soc.
+142
+, 5702–5708 (2020).
+Article
+CAS
+Google Scholar
+McEnaney, J. M. et al. Electrolyte engineering for efficient electrochemical nitrate reduction to ammonia on a titanium electrode.
+ACS Sustain. Chem. Eng.
+8
+, 2672–2681 (2020).
+Article
+CAS
+Google Scholar
+Wang, Y., Zhou, W., Jia, R., Yu, Y. & Zhang, B. Unveiling the activity origin of a copper-based electrocatalyst for selective nitrate reduction to ammonia.
+Angew. Chem. Int. Ed.
+59
+, 5350–5354 (2020).
+Article
+CAS
+Google Scholar
+Jia, R. et al. Boosting selective nitrate electroreduction to ammonium by constructing oxygen vacancies in TiO
+2
+.
+ACS Catal.
+10
+, 3533–3540 (2020).
+Article
+CAS
+Google Scholar
+Li, J. et al. Atomically dispersed Fe atoms anchored on S and N-codoped carbon for efficient electrochemical denitrification.
+Proc. Natl Acad. Sci. USA
+118
+, e2105628118 (2021).
+Article
+CAS
+Google Scholar
+Wu, Z.-Y. et al. Electrochemical ammonia synthesis via nitrate reduction on Fe single atom catalyst.
+Nat. Commun.
+12
+, 2870 (2021).
+Article
+CAS
+Google Scholar
+Li, P., Jin, Z., Fang, Z. & Yu, G. A single-site iron catalyst with preoccupied active centers that achieves selective ammonia electrosynthesis from nitrate.
+Energy Environ. Sci.
+14
+, 3522–3531 (2021).
+Article
+CAS
+Google Scholar
+Lim, J. et al. Structure sensitivity of Pd facets for enhanced electrochemical nitrate reduction to ammonia.
+ACS Catal.
+11
+, 7568–7577 (2021).
+Article
+CAS
+Google Scholar
+Li, J. et al. Efficient ammonia electrosynthesis from nitrate on strained ruthenium nanoclusters.
+J. Am. Chem. Soc.
+142
+, 7036–7046 (2020).
+Article
+CAS
+Google Scholar
+Medford, A. J. et al. Assessing the reliability of calculated catalytic ammonia synthesis rates.
+Science
+345
+, 197–200 (2014).
+Article
+CAS
+Google Scholar
+Kirkendall, E. & Smigelskas, A. Zinc diffusion in alpha brass.
+AIME Trans.
+171
+, 130–142 (1947).
+Google Scholar
+Lin, D. et al. Fast galvanic lithium corrosion involving a Kirkendall-type mechanism.
+Nat. Chem.
+11
+, 382–389 (2019).
+Article
+CAS
+Google Scholar
+Yin, Y. et al. Formation of hollow nanocrystals through the nanoscale Kirkendall effect.
+Science
+304
+, 711–714 (2004).
+Article
+CAS
+Google Scholar
+Yao, Y. et al. Engineering the electronic structure of single atom Ru sites via compressive strain boosts acidic water oxidation electrocatalysis.
+Nat. Catal.
+2
+, 304–313 (2019).
+Article
+CAS
+Google Scholar
+Huang, C. S., Houalla, M., Hercules, D. M., Kibby, C. L. & Petrakis, L. Comparison of catalysts derived from oxidation of ruthenium–thorium (Ru
+3
+Th
+7
+) with impregnated ruthenium/thoria catalysts.
+J. Phys. Chem.
+93
+, 4540–4544 (1989).
+Article
+CAS
+Google Scholar
+Gotthardt, M. A., Schoch, R., Wolf, S., Bauer, M. & Kleist, W. Synthesis and characterization of bimetallic metal–organic framework Cu–Ru-BTC with HKUST-1 structure.
+Dalton Trans.
+44
+, 2052–2056 (2015).
+Article
+CAS
+Google Scholar
+Sinfelt, J. H., Via, G. H. & Lytle, F. W. Structure of bimetallic clusters. Extended X‐ray absorption fine structure (EXAFS) studies of Ru–Cu clusters.
+J. Chem. Phys.
+72
+, 4832–4844 (1980).
+Article
+CAS
+Google Scholar
+Via, G. H., Drake, K. F., Meitzner, G., Lytle, F. W. & Sinfelt, J. H. Analysis of EXAFS data on bimetallic clusters.
+Catal. Lett.
+5
+, 25–33 (1990).
+Article
+CAS
+Google Scholar
+He, X. et al. Resolving the atomic structure of sequential infiltration synthesis derived inorganic clusters.
+ACS Nano
+14
+, 14846–14860 (2020).
+Article
+CAS
+Google Scholar
+Xia, C. et al. General synthesis of single-atom catalysts with high metal loading using graphene quantum dots.
+Nat. Chem.
+13
+, 887–894 (2021).
+Article
+CAS
+Google Scholar
+Huang, J.-C., Shang, C. in
+Advanced Physicochemical Treatment Processes
+(eds Wang, L. K., Hung, Y.-T. & Shammas, N. K.) 47–79 (Humana Press, 2006).
+Liao, P. H., Chen, A. & Lo, K. V. Removal of nitrogen from swine manure wastewaters by ammonia stripping.
+Bioresour. Technol.
+54
+, 17–20 (1995).
+Article
+CAS
+Google Scholar
+Yuan, M.-H., Chen, Y.-H., Tsai, J.-Y. & Chang, C.-Y. Ammonia removal from ammonia-rich wastewater by air stripping using a rotating packed bed.
+Process Saf. Environ. Prot.
+102
+, 777–785 (2016).
+Article
+CAS
+Google Scholar
+Lozano-Perez, S. A guide on FIB preparation of samples containing stress corrosion crack tips for TEM and atom-probe analysis.
+Micron
+39
+, 320–328 (2008).
+Article
+CAS
+Google Scholar
+Kautz, E. J. et al. Rapid assessment of structural and compositional changes during early stages of zirconium alloy oxidation.
+npj Mater. Degrad.
+4
+, 29 (2020).
+Article
+Google Scholar
+Gault, B., Moody, M. P., Cairney, J. M. & Ringer, S. P.
+Atom Probe Microscopy
+(Springer Science & Business Media, 2012).
+Zhu, D., Zhang, L., Ruther, R. E. & Hamers, R. J. Photo-illuminated diamond as a solid-state source of solvated electrons in water for nitrogen reduction.
+Nat. Mater.
+12
+, 836–841 (2013).
+Article
+CAS
+Google Scholar
+Wang, Y., Yu, Y., Jia, R., Zhang, C. & Zhang, B. Electrochemical synthesis of nitric acid from air and ammonia through waste utilization.
+Natl Sci. Rev.
+6
+, 730–738 (2019).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+CAS
+Google Scholar
+Tran, R. et al. Surface energies of elemental crystals.
+Sci. Data
+3
+, 160080 (2016).
+Article
+CAS
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+Article
+CAS
+Google Scholar
+Nørskov, J. K. et al. Origin of the overpotential for oxygen reduction at a fuel-cell cathode.
+J. Phys. Chem. B
+108
+, 17886–17892 (2004).
+Article
+CAS
+Google Scholar
+Liu, J.-X., Richards, D., Singh, N. & Goldsmith, B. R. Activity and selectivity trends in electrocatalytic nitrate reduction on transition metals.
+ACS Catal.
+9
+, 7052–7064 (2019).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This work was supported by Rice University, the National Science Foundation Nanosystems Engineering Research Center for Nanotechnology Enabled Water Treatment (NEWT EEC 1449500) and a Welch Foundation Research Grant (C-2051-20200401). We acknowledge the use of the Electron Microscopy Center (EMC) at Rice University. Y.H. acknowledges the support from the Welch Foundation (C-2065-20210327). This research used resources of the Advanced Photon Source, a US Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by the Argonne National Laboratory under contract no. DE-AC02-06CH11357. A portion of this research was performed at the Environmental Molecular Sciences Laboratory, a DOE Office of Science User Facility sponsored by the Biological and Environmental Research program under Contract No. DE-AC05-76RL01830. Aberration-corrected STEM research was supported by the Center for Nanophase Materials Sciences (CNMS), which is a US Department of Energy, Office of Science User Facility at Oak Ridge National Laboratory. Part of the research described in this article was performed at the Canadian Light Source, a national research facility of the University of Saskatchewan, which is supported by the Canada Foundation for Innovation (CFI), the Natural Sciences and Engineering Research Council (NSERC), the National Research Council (NRC), the Canadian Institutes of Health Research (CIHR), the Government of Saskatchewan and the University of Saskatchewan.
+Author information
+Author notes
+These authors contributed equally: Feng-Yang Chen, Zhen-Yu Wu, Srishti Gupta.
+Authors and Affiliations
+Department of Chemical and Biomolecular Engineering, Rice University, Houston, TX, USA
+Feng-Yang Chen, Zhen-Yu Wu, Stephanie Pecaut, Jung Yoon Timothy Kim, Peng Zhu & Haotian Wang
+School for Engineering of Matter, Transport, & Energy, Chemical Engineering Program, Arizona State University, Tempe, AZ, USA
+Srishti Gupta, Daniel J. Rivera & Christopher L. Muhich
+Physical and Computational Sciences Directorate, Pacific Northwest National Laboratory, Richland, WA, USA
+Sten V. Lambeets
+Structural Biology Center, X-ray Science Division, Argonne National Laboratory, Lemont, IL, USA
+Y. Zou Finfrock
+Canadian Light Source, Saskatoon, Saskatchewan, Canada
+Debora Motta Meira & Graham King
+Electron Microscope Center, Department of Materials Science and NanoEngineering, Rice University, Houston, TX, USA
+Guanhui Gao
+Advanced Photon Source, Argonne National Laboratory, Lemont, IL, USA
+Wenqian Xu & Hua Zhou
+Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, Oak Ridge, TN, USA
+David A. Cullen
+Department of Materials Science and NanoEngineering, Rice University, Houston, TX, USA
+Yimo Han & Haotian Wang
+Environmental Molecular Sciences Laboratory, Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory, Richland, WA, USA
+Daniel E. Perea
+School for Engineering of Matter, Transport, & Energy, Materials Science & Engineering Program, Arizona State University, Tempe, AZ, USA
+Christopher L. Muhich
+Department of Chemistry, Rice University, Houston, TX, USA
+Haotian Wang
+Authors
+Feng-Yang Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhen-Yu Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Srishti Gupta
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Daniel J. Rivera
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sten V. Lambeets
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Stephanie Pecaut
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jung Yoon Timothy Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Peng Zhu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Y. Zou Finfrock
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Debora Motta Meira
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Graham King
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Guanhui Gao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wenqian Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+David A. Cullen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hua Zhou
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yimo Han
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Daniel E. Perea
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Christopher L. Muhich
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Haotian Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+F.-Y.C., Z.-Y.W. and H.W. conceptualized the project. H.W. and C.L.M. supervised the project. Z.-Y.W. and F.-Y.C. developed the synthesis of the catalysts. F.-Y.C., Z.-Y.W. and S.P. performed the catalyst synthesis, catalyst characterization, electrochemical tests and the related data processing. S.G. and D.J.R. performed the DFT simulation. J.Y.K. and P.Z. assisted the product characterization. Y.Z.F., D.M.M. and H.Z. helped with the testing and analysis of XAS characterization. W.X. helped with the testing of the HEXRD characterization. G.G., Y.H. and D.A.C. assisted with the TEM characterization. S.V.L. and D.E.P. performed the APT analysis. F.-Y.C., Z.-Y.W., S.G., D.J.R., H.W. and C.L.M. co-wrote the manuscript. All the authors discussed the results and commented on the manuscript.
+Corresponding authors
+Correspondence to
+Daniel E. Perea
+,
+Christopher L. Muhich
+or
+Haotian Wang
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Nanotechnology
+thanks Emma Lovell and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–49, Tables 1–7 and Notes 1–4.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Chen, FY., Wu, ZY., Gupta, S.
+et al.
+Efficient conversion of low-concentration nitrate sources into ammonia on a Ru-dispersed Cu nanowire electrocatalyst.
+Nat. Nanotechnol.
+17
+, 759–767 (2022). https://doi.org/10.1038/s41565-022-01121-4
+Download citation
+Received
+:
+27 November 2021
+Accepted
+:
+21 March 2022
+Published
+:
+02 May 2022
+Issue Date
+:
+July 2022
+DOI
+:
+https://doi.org/10.1038/s41565-022-01121-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Advisory Panel
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Nanotechnology
+(
+Nat. Nanotechnol.
+)
+ISSN
+1748-3395
+(online)
+ISSN
+1748-3387
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

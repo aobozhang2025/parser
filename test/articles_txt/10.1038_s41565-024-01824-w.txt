@@ -1,0 +1,2815 @@
+Atomically intimate assembly of dual metal–oxide interfaces for tandem conversion of syngas to ethanol | Nature Nanotechnology
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature nanotechnology
+articles
+article
+Atomically intimate assembly of dual metal–oxide interfaces for tandem conversion of syngas to ethanol
+Download PDF
+Article
+Published:
+25 November 2024
+Atomically intimate assembly of dual metal–oxide interfaces for tandem conversion of syngas to ethanol
+Shang Li
+1
+na1
+,
+Li Feng
+1
+na1
+,
+Hengwei Wang
+ORCID:
+orcid.org/0000-0003-1747-4766
+1
+,
+Yue Lin
+ORCID:
+orcid.org/0000-0001-5333-511X
+2
+,
+Zhihu Sun
+ORCID:
+orcid.org/0000-0002-3898-969X
+3
+,
+Lulu Xu
+ORCID:
+orcid.org/0009-0007-8300-2560
+1
+,
+Yuxing Xu
+1
+,
+Xinyu Liu
+4
+,
+Wei-Xue Li
+ORCID:
+orcid.org/0000-0002-5043-3088
+1
+,
+5
+,
+Shiqiang Wei
+ORCID:
+orcid.org/0000-0002-2052-1132
+3
+,
+Jin-Xun Liu
+ORCID:
+orcid.org/0000-0002-7499-4197
+1
+,
+5
+&
+…
+Junling Lu
+ORCID:
+orcid.org/0000-0002-2607-6869
+1
+,
+4
+Show authors
+Nature Nanotechnology
+volume
+20
+,
+pages
+255–264 (
+2025
+)
+Cite this article
+6596
+Accesses
+2
+Altmetric
+Metrics
+details
+Subjects
+Catalyst synthesis
+Heterogeneous catalysis
+Abstract
+Selective conversion of syngas to value-added higher alcohols (containing two or more carbon atoms), particularly to a specific alcohol, is of great interest but remains challenging. Here we show that atomically intimate assembly of FeO
+x
+-Rh-ZrO
+2
+dual interfaces by selectively architecting highly dispersed FeO
+x
+on ultrafine raft-like Rh clusters supported on tetragonal zirconia enables highly efficient tandem conversion of syngas to ethanol. The ethanol selectivity in oxygenates reached ~90% at CO conversion up to 51%, along with a markedly high space-time yield of ethanol of 668.2 mg g
+cat
+−1
+h
+−1
+. In situ spectroscopic characterization and theoretical calculations reveal that Rh-ZrO
+2
+interface promotes dissociative CO activation into CH
+x
+through a formate pathway, while the adjacent Rh-FeO
+x
+interface accelerates subsequent C–C coupling via nondissociative CO insertion. Consequently, these dual interfaces in atomic-scale proximity with complementary functionalities synergistically boost the exclusive formation of ethanol with exceptional productivity in a tandem manner.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Concerted catalysis of single atom and nanocluster enhances bio-ethanol activation and dehydrogenation
+Article
+Open access
+26 April 2025
+Steering the reaction pathway of syngas-to-light olefins with coordination unsaturated sites of ZnGaO
+x
+spinel
+Article
+Open access
+18 May 2022
+Oxynitride-surface engineering of rhodium-decorated gallium nitride for efficient thermocatalytic hydrogenation of carbon dioxide to carbon monoxide
+Article
+Open access
+06 September 2022
+Main
+Higher alcohols (containing two or more carbon atoms, C
+2+
+) are important feedstocks for fine chemicals, pharmaceuticals and fuel additives. Their production currently relies on sugar fermentation and/or the hydration of petroleum-derived alkenes
+1
+. With the growing global demand, the synthesis of C
+2+
+alcohols from alternative carbon resources such as coal, natural gas and biomass via syngas (a mixture of CO and H
+2
+) has attracted long-standing interest
+1
+,
+2
+,
+3
+. This route requires multiple elementary reaction steps, including dissociative CO activation to form alkyl species (CH
+x
+*, where * denotes surface species), subsequent C–C coupling of CH
+x
+* to grow carbon chains, nondissociative CO insertion and stepwise hydrogenations
+2
+,
+3
+,
+4
+, leading to a broad product distribution, where complex oxygenate mixtures of various alcohols, aldehydes, esters and acids are generally produced. Owing to small differences in their boiling temperatures
+2
+,
+4
+,
+5
+, subsequent product separation and purification can be highly energy demanding. The delicate control of the above competing elementary reactions to exclusively produce a specific C
+2+
+oxygenate, especially at high CO conversions, is highly desirable for practical applications but remains extremely challenging.
+Ethanol (EtOH) is an essential commodity chemical with a global demand of 100 billion gallons annually
+2
+,
+4
+,
+6
+. Direct conversion of syngas to EtOH requires only one step of C–C coupling, thus holding great potential for high selectivity. Incorporating transition metal or alkali metal promoters into documented Fischer–Tropsch synthesis (FTS)
+7
+,
+8
+,
+9
+,
+10
+or methanol synthesis (MS) catalysts
+2
+,
+3
+,
+4
+,
+11
+,
+12
+is an effective approach to improve EtOH selectivity, while the highest EtOH selectivity in total oxygenates achieved so far was approximately 53% at a CO conversion of 10%, to the best of our knowledge (Supplementary Table
+1
+). Alkali-promoted Mo-based catalysts have also been explored
+13
+,
+14
+,
+15
+,
+16
+and achieved a markable EtOH selectivity of ~60% in oxygenates at a CO conversion of ~8% (ref.
+15
+). In comparison, Rh catalysts with alkali promoters and/or Rh-M(O
+x
+) (M = Mn, Fe, Zr and Ce) interfaces were found to be more favourable for EtOH synthesis
+2
+,
+3
+,
+4
+,
+17
+,
+18
+,
+19
+,
+20
+,
+21
+,
+22
+,
+23
+,
+24
+,
+25
+,
+26
+,
+27
+,
+28
+,
+29
+. Unfortunately, high EtOH selectivity (>80%) has generally been achieved at low conversions (<5%) even with multiple promoters involved
+2
+,
+4
+(Supplementary Table
+2
+). Tandem catalysis using multiple catalysts is another effective approach for achieving high selectivity
+5
+,
+30
+,
+31
+,
+32
+. For instance, Wang et al.
+5
+reported a remarkably high EtOH selectivity of 95% in oxygenates at a CO conversion of 5.7% over tri-component tandem catalysts of K
++
+-modified ZnO−ZrO
+2
+, H-MOR zeolite and Pt−Sn/SiC
+5
+. Consequently, there is an urgent need to overcome the severe activity–selectivity trade-off
+3
+,
+17
+, thus largely promoting the productivity of a specific C
+2+
+alcohol with high selectivity.
+In this Article, we report that the precise assembly of Rh-ZrO
+2
+and Rh-FeO
+x
+interfaces in atomic-scale proximity on tetragonal zirconia (
+t
+-ZrO
+2
+) enables efficient tandem conversion of syngas to EtOH. The resulting dual-interface catalyst broke the activity–selectivity trade-off and achieved a high EtOH selectivity of up to 90% in oxygenates at an appreciable CO conversion of 51% as well as a high EtOH space-time yield (STY) of 668.2 mg g
+cat
+−1
+h
+−1
+, greatly outperforming those reported in the literature. In situ spectroscopic characterization and theoretical calculations revealed the atomic structure of the Rh-FeO
+x
+interfaces and further elucidated the molecular mechanism of tandem catalysis at the intimate FeO
+x
+-Rh-ZrO
+2
+dual interfaces.
+Results
+Synthesis and catalytic performance
+ZrO
+2
+has been widely utilized in C1 chemistry owing to its unique surface basicity and hydrophilicity
+24
+,
+33
+,
+34
+. Here a
+t
+-ZrO
+2
+support (90 m
+2
+g
+−1
+) was first synthesized using the sol–gel method
+35
+(Supplementary Fig.
+1
+). A Rh/ZrO
+2
+catalyst was then prepared using the incipient-wetness impregnation (IWI) method with a Rh content of 3.3 wt%. Aberration-corrected high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) and energy-dispersive spectroscopy (EDS) elemental mapping revealed that Rh was highly dispersed on
+t
+-ZrO
+2
+with a cluster size of 1.1 ± 0.3 nm, along with a small fraction of isolated Rh atoms (Supplementary Figs.
+2
+and
+3
+). Compared with isolated Rh atoms, the slightly stronger intensity observed in the Rh clusters suggested a two-dimensional raft-like structure comprising approximately one or two atomic layers
+36
+,
+37
+, since the intensity in
+Z
+-contrast STEM images is approximately proportional to the number of atomic layers
+38
+. Electron paramagnetic resonance (EPR) measurements revealed that surface defects serve as nucleation sites for Rh according to the disappearance of oxygen vacancies (V
+O
+,
+g
+= 2.002) after Rh loading
+39
+,
+40
+(Supplementary Fig.
+4
+).
+Next, FeO
+x
+was selectively deposited on Rh clusters using atomic layer deposition (ALD) at 150 °C to fabricate the FeO
+x
+-Rh-ZrO
+2
+dual-interface catalysts
+41
+(Fig.
+1
+). To minimize the blockage of Rh-ZrO
+2
+interfaces by FeO
+x
+ALD, the Rh/ZrO
+2
+catalyst was first exposed to ethylene glycol (EG) to passivate the potential ALD nucleation sites on ZrO
+2
+, that is, hydroxyls, by forming stable alkoxides while leaving Rh sites intact
+42
+(Supplementary Fig.
+5
+); FeO
+x
+ALD was then performed on EG-pretreated Rh/ZrO
+2
+for different numbers of cycles to tune the coverage of FeO
+x
+on Rh clusters (
+x
+Fe-Rh/ZrO
+2
+, where
+x
+represents the number of ALD cycles); finally, EG was completely removed to re-expose the Rh-ZrO
+2
+interfaces (Supplementary Fig.
+6a
+). Inductively coupled plasma atomic emission spectroscopy (ICP-AES) analysis unambiguously verified the selective deposition of FeO
+x
+on Rh but not on ZrO
+2
+(Supplementary Fig.
+6b
+and Supplementary Table
+3
+). X-ray diffraction (XRD) and TEM showed that there was no aggregation of Rh clusters during FeO
+x
+ALD (Supplementary Figs.
+7
+and
+8
+). For comparison, nonselective FeO
+x
+ALD was also performed on unpretreated Rh/ZrO
+2
+(6Fe-Rh/ZrO
+2
+-ns), which caused the partial blockage of Rh-ZrO
+2
+interfaces (Supplementary Figs.
+6b
+and
+9
+). Rh/SiO
+2
+and Rh/Fe
+2
+O
+3
+catalysts with identical Rh contents were also synthesized using the same IWI method for comparison, in which the Rh particle sizes were 3.1 ± 0.8 nm and 2.8 ± 0.6 nm, respectively (Supplementary Figs.
+10
+and
+11
+).
+Fig. 1: Schematic illustration of the synthesis of FeO
+x
+-Rh-ZrO
+2
+dual-interface catalysts by selective FeO
+x
+ALD.
+Synthesis of ultrafine Rh raft-like clusters on
+t-
+ZrO
+2
+using the IWI method; passivation of exposed ZrO
+2
+surfaces by adsorption of EG through reaction with surface hydroxyls; selective deposition of one cycle of FeO
+x
+ALD on Rh clusters but not on EG-blocked ZrO
+2
+surfaces by alternately exposing ferrocene (FeCp
+2
+) and O
+2
+at 150 °C; precise regulation of FeO
+x
+coverages by varying the number of FeO
+x
+ALD cycles; and finally, removal of EG to re-expose Rh-ZrO
+2
+interfaces to obtain dual intimate FeO
+x
+-Rh-ZrO
+2
+interfacial catalysts through 400 °C H
+2
+reduction. The green, purple, light blue, red (pink), grey and white balls represent Rh, Fe, Zr, O, C and H, respectively.
+Source data
+Full size image
+The catalytic performance of these Rh catalysts was evaluated in syngas conversions under identical conditions (260 °C, 2.5 MPa and H
+2
+:CO = 3:1). As shown in Fig.
+2a
+, Rh/SiO
+2
+exhibited a low CO conversion of only 2.1% and an EtOH STY of 3.8 mg g
+cat
+−1
+h
+−1
+. By contrast, Rh/ZrO
+2
+showed a much greater CO conversion of 14.6% and an EtOH STY of 46.1 mg g
+cat
+−1
+h
+−1
+, while the EtOH selectivity was still limited about 54.6% in oxygenates. Clearly, Rh-ZrO
+2
+interface is much more active than Rh-SiO
+2
+interface and the Rh metal itself in CO activation
+43
+. In comparison, Rh/Fe
+2
+O
+3
+exhibited a much greater STY of 112.6 mg g
+cat
+−1
+h
+−1
+along with a comparable CO conversion of 16.3% and a higher EtOH selectivity of 66.0% in oxygenates, suggesting that Rh-FeO
+x
+interface is active and more selective for C–C coupling to form EtOH, in line with the literature
+4
+,
+44
+,
+45
+,
+46
+,
+47
+. However, all these three catalysts inevitably produced a considerable amount of methanol with a selectivity of 25–64% in oxygenates (Fig.
+2a
+and Supplementary Table
+4
+).
+Fig. 2: Catalytic performance in syngas conversion.
+a
+, CO conversion, distributions of oxygenate products and STY of EtOH over Rh/SiO
+2
+, Rh/ZrO
+2
+, Rh/Fe
+2
+O
+3
+, 6Fe-Rh/ZrO
+2
+and 6Fe-Rh/ZrO
+2
+-ns. Reaction conditions: 100 mg of catalyst, H
+2
+/CO = 3, 260 °C, 2.5 MPa, 9,000 ml g
+−1
+h
+−1
+.
+b
+, Arrhenius plots of Rh/SiO
+2
+, Rh/ZrO
+2
+, Rh/Fe
+2
+O
+3
+and 6Fe-Rh/ZrO
+2
+measured at CO conversions less than 12%.
+c
+, Comparison of the EtOH distribution in oxygenates on 6Fe-Rh/ZrO
+2
+with those on Rh/SiO
+2
+, Rh/ZrO
+2
+and Rh/Fe
+2
+O
+3
+as a function of CO conversion by varying the WHSV from 9,000 ml g
+−1
+h
+−1
+to 60,000 ml g
+−1
+h
+−1
+. Therein, for each catalyst, the lower the WHSV, the higher CO conversion was. Details are seen in Supplementary Table
+5
+. Other representative state-of-the-art Rh-based, modified FTS, modified MS, Mo-based and tandem multicomponent catalysts are also cited for comparison. The blue dashed line is a guide for the eye.
+d
+, Comparison of the EtOH distribution in oxygenates versus the STY on 6Fe-Rh/ZrO
+2
+with those on other state-of-the-art Rh-based, modified FTS, modified MS, Mo-based and tandem multicomponent catalysts. Reaction conditions: 100 mg of catalyst, H
+2
+/CO = 3, 260 °C, 2.5 MPa, 24,000 ml g
+−1
+h
+−1
+. The detailed reaction conditions of referenced catalysts in
+c
+and
+d
+can be found in Supplementary Tables
+1
+and
+2
+. The legends in
+d
+also apply for
+c
+.
+e
+, Stability test of 6Fe-Rh/ZrO
+2
+. Reaction conditions: 100 mg of catalyst, H
+2
+/CO = 3, 260 °C, 2.5 MPa, 9,000 ml g
+−1
+h
+−1
+.
+Source data
+Full size image
+x
+Fe-Rh/ZrO
+2
+catalysts with FeO
+x
+-Rh-ZrO
+2
+dual interfaces exhibited drastic promotion of catalytic performance. Therein, CO conversion exhibited a volcano-like trend with the FeO
+x
+coverage, reaching a maximum of 50.9% and an EtOH selectivity of 88.1% in oxygenates (32.6% in all products) on 6Fe-Rh/ZrO
+2
+. This greatly enhanced the EtOH STY to 368.6 mg g
+cat
+−1
+h
+−1
+, which was approximately 97, 8 and 3 times greater than that of Rh/SiO
+2
+, Rh/ZrO
+2
+and Rh/Fe
+2
+O
+3
+, respectively, and also 2 times greater than that (175.1 mg g
+cat
+−1
+h
+−1
+) of 6Fe-Rh/ZrO
+2
+-ns with partially blocked Rh-ZrO
+2
+interfaces (Fig.
+2a
+, Supplementary Fig.
+12
+and Supplementary Table
+4
+). Kinetic measurements further revealed a substantially lower apparent activation energy of ~87.2 kJ mol
+−1
+for 6Fe-Rh/ZrO
+2
+than those of Rh/ZrO
+2
+(~105.2 kJ mol
+−1
+), Rh/Fe
+2
+O
+3
+(107.5 kJ mol
+−1
+) and Rh/SiO
+2
+(134.8 kJ mol
+−1
+) (Fig.
+2b
+), as well as those reported in the literature (99–158 kJ mol
+−1
+)
+43
+, verifying the higher intrinsic activity. Impressively, the methanol selectivity of 6Fe-Rh/ZrO
+2
+was only 7.8% in oxygenates (Supplementary Table
+4
+).
+Notably, physical mixing Rh/ZrO
+2
+and Rh/Fe
+2
+O
+3
+(denoted as Rh/ZrO
+2
++ Rh/Fe
+2
+O
+3
+) or depositing FeO
+x
+on a Rh nanoparticle (NP) catalyst (6Fe-Rh
+NPs
+/ZrO
+2
+) (Supplementary Fig.
+13
+) all yielded low EtOH STYs of only 81.5–102.2 mg g
+cat
+−1
+h
+−1
+(Supplementary Table
+4
+). Coating Rh/Fe
+2
+O
+3
+with FeO
+x
+(denoted as 6Fe-Rh/Fe
+2
+O
+3
+) or coating Rh/ZrO
+2
+with ZrO
+2
+(denoted as 3Zr-Rh/ZrO
+2
+) to create additional Rh-FeO
+x
+or Rh-ZrO
+2
+interfaces did not appreciably promote the performance either (Supplementary Figs.
+14
+and
+15
+). Therefore, the assembly of dual interfaces with complementary functionalities in atomic-scale intimacy is of essential importance for dual-interface synergies.
+We further varied the reaction pressure from 1 MPa to 4 MPa and the H
+2
+/CO ratio from 1 to 3 for the optimized 6Fe-Rh/ZrO
+2
+catalyst. We found that the EtOH selectivity had very trivial changes (Supplementary Fig.
+16
+). Decreasing the weight-hourly space velocity (WHSV) from 60,000 ml g
+cat
+−1
+h
+−1
+to 9,000 ml g
+cat
+−1
+h
+−1
+, the EtOH selectivity surprisingly maintained above 88% in oxygenates even at a CO conversion of 50.9% (Fig.
+2c
+and Supplementary Table
+5
+), sharply distinct from the rapid decline in EtOH selectivity on other three catalysts. The breakage of the activity–selectivity trade-off by dual-interface synergy boosted the single-pass yield of EtOH up to 16.6%, outperforming Rh-based catalysts reported so far (Supplementary Fig.
+17
+and Supplementary Table
+2
+). Remarkably, under mild reaction conditions (Supplementary Tables
+1
+and
+2
+), the 6Fe-Rh/ZrO
+2
+catalyst achieved a record high EtOH formation rate of 668.2 mg g
+cat
+−1
+h
+−1
+at a CO conversion of 31.5% along with a selectivity of ~90% in oxygenates (35.8% in all products), far superior to that of state-of-the-art catalysts reported so far
+2
+,
+4
+,
+6
+,
+48
+(Fig.
+2d
+and Supplementary Fig.
+18
+). More importantly, 6Fe-Rh/ZrO
+2
+also exhibited excellent stability for at least 200 h without any Rh aggregation (Supplementary Fig.
+19
+) or visible decline in either activity or selectivity (Fig.
+2e
+), demonstrating its great potential for practical applications.
+Structural characterization
+STEM-EDS elemental mapping showed that the Fe and Rh signals in 6Fe-Rh/ZrO
+2
+strongly overlapped with each other, confirming the selective deposition of FeO
+x
+on the Rh clusters (Fig.
+3a–d
+). FeO
+x
+-coated Rh clusters showed an average diameter of 1.2 ± 0.2 nm (Fig.
+3e
+and Supplementary Fig.
+20
+) and their intensities were again only slightly stronger than those of the isolated Rh atoms (Fig.
+3f–h
+), suggesting that the raft-like structure was preserved after FeO
+x
+decoration. Such highly dispersed, atomically thick features of FeO
+x
+-Rh rafts on ZrO
+2
+not only allow maximization of Rh atom utilization but also make Rh-ZrO
+2
+and Rh-FeO
+x
+interfaces in atomic-scale proximity.
+Fig. 3: Morphology of 6Fe-Rh/ZrO
+2
+.
+a
+–
+d
+, A representative STEM image of 6Fe-Rh/ZrO
+2
+(
+a
+) and the corresponding EDS elemental mapping of the Rh (
+b
+), Fe (
+c
+) and Rh + Fe signals (
+d
+).
+e
+, A representative aberration-corrected HAADF-STEM image of 6Fe-Rh/ZrO
+2
+. The yellow dashed circles and white arrows highlight the Rh nanoclusters and isolated Rh
+1
+sites, respectively.
+f
+–
+h
+, Zoomed-in STEM images of three selected areas #1 (
+f
+), #2 (
+g
+) and #3 (
+h
+) in
+e
+and intensity profiles along the dashed yellow rectangles. The scale bars in
+f
+–
+h
+represent 2 nm.
+i
+, DRIFTS CO chemisorption spectra of Rh/ZrO
+2
+and 6Fe-Rh/ZrO
+2
+at a saturation coverage. The blue, grey and red balls in
+i
+denote Rh, C and O atoms, respectively.
+Source data
+Full size image
+Diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) of CO chemisorption on Rh/ZrO
+2
+showed that there were two dominant peaks at ~2,086 cm
+−1
+and ~2,010 cm
+−1
+and two weaker peaks at 2,066 cm
+−1
+and ~1,846 cm
+−1
+, assigned to geminal dicarbonyl CO adsorbed on highly dispersed Rh atoms
+35
+,
+49
+, as well as linear- and bridge-bounded CO on larger Rh ensembles
+20
+,
+21
+,
+35
+,
+49
+. The much stronger intensities of geminal dicarbonyl CO peaks suggest the high dispersion of Rh species, consistent with the STEM observations (Supplementary Fig.
+2
+). For FeO
+x
+-coated Rh/ZrO
+2
+catalysts, the intensities of linear- and bridge-bonded CO peaks attenuated more rapidly than those of geminal dicarbonyl CO peaks as FeO
+x
+ALD cycles increased and completely vanished on 6Fe-Rh/ZrO
+2
+(Fig.
+3i
+and Supplementary Fig.
+21
+), demonstrating the tuning of Rh-FeO
+x
+interfaces.
+To determine the structure of Rh-FeO
+x
+interfaces under realistic reaction conditions, in situ X-ray absorption spectroscopy (XAS) measurements were further conducted. At the Fe K-edge, after H
+2
+reduction of the pristine sample (6Fe-Rh/ZrO
+2
+-O) at 400 °C (6Fe-Rh/ZrO
+2
+-R), the pre-edge peak at 7,115 eV, corresponding to a 1
+s
+–3
+d
+transition of Fe
+3+
+oxide
+41
+, disappeared along with a downshift of absorption edge even slightly lower than that of FeO reference (Fig.
+4a
+and Supplementary Fig.
+22
+). Switching to syngas at 260 °C (6Fe-Rh/ZrO
+2
+-S), the pre-edge peak reappeared and the absorption edge resembled that of FeO, indicating slight re-oxidation of Fe
+δ
++
+(0 <
+δ
+< 2) to Fe
+2+
+. At the Rh K-edge, the absorption edges of 6Fe-Rh/ZrO
+2
+-R and 6Fe-Rh/ZrO
+2
+-S both resembled that of Rh foil, suggesting that the majority of Rh was in a Rh
+0
+metallic state under reaction conditions (Fig.
+4b
+).
+Fig. 4: In situ XAFS measurements of the 6Fe-Rh/ZrO
+2
+catalyst at the Fe and Rh K-edges.
+a
+,
+b
+, X-ray absorption near edge structure (XANES) spectra at the Fe K-edge (
+a
+) and Rh K-edge (
+b
+) for the as-prepared catalyst (6Fe-Rh/ZrO
+2
+-O), reduction at 400 °C (6Fe-Rh/ZrO
+2
+-R) and subsequent syngas reactions at 260 °C (6Fe-Rh/ZrO
+2
+-S) for 1 h each.
+c
+,
+d
+, The
+k
+3
+-weighted Fourier transform (FT)-EXAFS spectra in the
+R
+-space at the Fe K-edge (
+c
+) and Rh K-edge (
+d
+). Reference spectra of Fe foil, FeO, Fe
+2
+O
+3
+, Rh foil and Rh
+2
+O
+3
+are also presented for comparison.
+E
+is the energy,
+R
+in
+c
+and
+d
+represents the distance between the absorbing atom and neighbouring scattering atoms without correcting for the scattering phase shift, and
+χ
+(
+k
+) denotes the amplitude of the EXAFS oscillations as a function of the photoelectron wavenumber
+k
+(a.u., arbitrary units).
+Source data
+Full size image
+The extended X-ray absorption fine structure (EXAFS) spectra showed that compared with that of 6Fe-Rh/ZrO
+2
+-O (Supplementary Fig.
+23
+), the Fe–O peak of 6Fe-Rh/ZrO
+2
+-R and 6Fe-Rh/ZrO
+2
+-S both decreased remarkably (Fig.
+4c
+), with a coordination number (CN) of 1.7–2.3 (Supplementary Fig.
+24
+and Supplementary Table
+6
+). The new peak at 2.32 Å is attributed to Fe–Rh coordination according to wavelet-transform (WT) analysis (Supplementary Fig.
+25
+and Supplementary Table
+6
+). Meanwhile, the absence of Fe–Fe coordination peak (>2.5 Å) implies that the majority of Fe oxo were atomically dispersed under reaction conditions. At the Rh K-edge, 6Fe-Rh/ZrO
+2
+-R and 6Fe-Rh/ZrO
+2
+-S both showed a broad Rh–Rh coordination peak at 2.39 Å with a CN of ~6.5 (Fig.
+4d
+, Supplementary Figs.
+26
+and
+27
+and Supplementary Table
+7
+), similar to that of bare Rh/ZrO
+2
+(6.4–6.8) (Supplementary Figs.
+28
+and
+29
+and Supplementary Table
+8
+), which agrees well with the ‘raft-like’ structure of Rh clusters since the Rh–Rh CN is expected to be greater than 8 for three-dimensional NPs
+21
+,
+50
+,
+51
+. Notably, whether Rh-FeO
+x
+interface or RhFe alloy as the active sites has been intensively debated for decades
+26
+,
+44
+,
+47
+,
+50
+,
+51
+,
+52
+. Here the above data firmly excluded the possibility of RhFe alloy formation
+50
+,
+51
+and further supported by quasi in situ XPS measurements (Supplementary Fig.
+30
+).
+Spectroscopic insights into syngas conversion
+In situ DRIFTS measurements were performed to obtain insights into the dual-interface synergy. After introducing CO at 260 °C, we observed two CO peaks at 2,055 cm
+−1
+and 1,935 cm
+−1
+on Rh/SiO
+2
+(refs.
+20
+,
+43
+) (Fig.
+5a
+). By contrast, strong formate peaks (HCOO*, 2,966 cm
+−1
+, 2,874 cm
+−1
+, 1,568 cm
+−1
+and 1,384 cm
+−1
+)
+21
+,
+35
+,
+53
+along with a broad negative hydroxyl peak centred at 3,723 cm
+−1
+were observed on
+t
+-ZrO
+2
+(Fig.
+5a
+and Supplementary Fig.
+31
+)
+35
+,
+53
+. Interestingly, these formate peaks became much stronger on Rh/ZrO
+2
+and 6Fe-Rh/ZrO
+2
+along with the CO peaks at 2,044 cm
+−1
+and 1,830 cm
+−1
+, suggesting that formate species are more favourably formed at Rh-ZrO
+2
+interfaces.
+Fig. 5: In situ DRIFTS studies of CO hydrogenation.
+a
+, In situ DRIFTS spectra of ZrO
+2
+, Rh/SiO
+2
+, Rh/ZrO
+2
+, 6Fe-Rh/ZrO
+2
+and 6Fe-Rh/ZrO
+2
+-ns after exposure to 10% CO/Ar for 20 min and then Ar purging for another 20 min at 260 °C.
+b
+,
+c
+, In situ DRIFTS spectra of Rh/ZrO
+2
+(
+b
+) and 6Fe-Rh/ZrO
+2
+(
+c
+) after sequential exposure to CO, Ar and H
+2
+at 260 °C.
+d
+, Plots of the time-dependent intensity of HCOO* (2,873–2,880 cm
+−1
+) and CH
+3
+O* (2,925 cm
+−1
+) for Rh/ZrO
+2
+and 6Fe-Rh/ZrO
+2
+, respectively.
+Source data
+Full size image
+Switching CO to H
+2
+, the CO peaks on Rh/SiO
+2
+decreased slowly. Neither methoxy (a key intermediate for methanol, CH
+3
+O*) nor methane was observed (Supplementary Fig.
+32
+). For Rh/ZrO
+2
+, the CO peaks decreased rapidly in H
+2
+, while the peaks of HCOO*, CH
+3
+O* (2,925 cm
+−1
+) and gaseous CH
+4
+(3,015 cm
+−1
+) all slightly increased at the early stage and then decreased gradually with time (Fig.
+5b,d
+). Clearly, CO hydrogenation is difficult at either Rh-SiO
+2
+interfaces or on Rh metal surfaces but readily occurs at Rh-ZrO
+2
+interfaces via the formate pathway (no reaction on bare
+t
+-ZrO
+2
+, seen in Supplementary Fig.
+31
+), in line with the observed much higher catalytic activity of Rh/ZrO
+2
+than Rh/SiO
+2
+(Fig.
+2a
+).
+On 6Fe-Rh/ZrO
+2
+, switching CO to H
+2
+led to a much quicker decrease in HCOO* (Fig.
+5c,d
+). Meanwhile, CH
+3
+O* decreased instantly without any accumulation at the early stage, in sharp contrast to that of Rh/ZrO
+2
+(Fig.
+5d
+). Given the competition between HCOO* hydrogenation to CH
+3
+O* or to CH
+x
+* at Rh-ZrO
+2
+interface, such suppression of CH
+3
+O* formation implies a shift of reaction path to HCOO* → CH
+x
+*. Such a shift is likely attributed to an accelerated consumption of CH
+x
+* via C–C coupling with adsorbed CO* to form EtOH at the adjacent Rh-Fe
+1
+O
+2
+interfaces, and was further supported by a faster consumption of CO* on 6Fe-Rh/ZrO
+2
+than on Rh/ZrO
+2
+(Supplementary Fig.
+33
+). In addition, after switching to H
+2
+, hydroxyl groups were recovered on both Rh/ZrO
+2
+and 6Fe-Rh/ZrO
+2
+(Fig.
+5b,c
+), closing the catalytic cycle.
+Theoretical insights
+Density functional theory (DFT) calculations were further conducted to gain deeper insights into dual-interface synergy. According to the presence of hydroxyls and V
+O
+on
+t
+-ZrO
+2
+(Fig.
+5a
+and Supplementary Fig.
+4
+), the most stable (101) plane of
+t
+-ZrO
+2
+with hydroxyl groups and V
+O
+was adopted as a support to construct the dual-interface model
+35
+,
+53
+,
+54
+,
+55
+. We found that Rh
+20
+clusters tend to bind strongly to defective
+t
+-ZrO
+2
+(101) by forming a flat structure with a thickness of two atomic layers and a diameter of 1.18 nm according to genetic algorithms
+56
+,
+57
+(Supplementary Figs.
+34
+and
+35
+), and enhanced charge transfers at the interface based on Bader charge analysis (Supplementary Fig.
+36
+), which agrees excellently with the experimental results (Fig.
+4b
+and Supplementary Figs.
+2
+,
+4
+and
+30
+). After testing a single Fe atom with various possible O, OH and CO ligands on the Rh
+20
+cluster under reaction conditions, we found that the isolated Fe
+1
+O
+x
+motif preferentially binds at the Rh bridge sites of the Rh
+20
+cluster, with the Fe atom coordinated to two Rh atoms and two tilted CO molecules (denoted as Fe
+1
+(CO)
+2
+/Rh
+20
+/
+t
+-ZrO
+2
+(101)) (Fig.
+6a
+and Supplementary Figs.
+37
+and
+38
+). The two Fe–Rh bonds and two Fe–O bonds have average bond lengths of approximately 2.58 Å and 1.99 Å, respectively, which all align excellently with the XAFS results (Supplementary Tables
+6
+and
+7
+). As a reference, we also constructed a Rh(211) surface to model the Rh/SiO
+2
+catalyst (Supplementary Fig.
+39
+).
+Fig. 6: DFT calculations.
+a
+, Top and side views of the optimized structure of Fe
+1
+(CO)
+2
+/Rh
+20
+/
+t
+-ZrO
+2
+(101). The global minimum structure was explored under reaction conditions: 2.5 MPa, 535 K and a gas mixture of 12% CO, 47% H
+2
+and 10% H
+2
+O.
+b
+,
+c
+, Potential energy surfaces of CO activation via H-assisted paths on the Rh(211) surface and at the Rh-FeO
+x
+interface (
+b
+) and via the formate path at the Rh-ZrO
+2
+interface (
+c
+). The images at the bottom show the geometries of the corresponding intermediate structures.
+d
+, Potential energy surfaces of CH
+3
+* insertion into CO* to form the CH
+3
+CO* intermediate (solid lines) and CH
+3
+* hydrogenation towards methane (dashed lines) on the Rh(211) surface, Rh-FeO
+x
+interface and Rh-ZrO
+2
+interface.
+e
+, Density of states and charge density difference analysis of adsorbed CH
+3
+CO* on the Rh(211) and Rh-FeO
+x
+interfaces.
+f
+, Schematic illustration of the dual-interface synergy in CO hydrogenation to EtOH. The purple, green, grey, white, red (pink) and light blue balls represent the Fe, Rh, C, H, O and Zr atoms, respectively.
+Source data
+Full size image
+CO activation is commonly considered as the rate-determining step in this reaction on Rh catalysts
+43
+,
+58
+,
+59
+. On Rh(211), we found that hydrogen-assisted CO activation via the HCO* intermediate is more favourable than direct dissociation (Supplementary Figs.
+40
+and
+41
+and Supplementary Tables
+9
+and
+10
+), but still notably endothermic by 0.77 eV and with a high barrier of 1.80 eV (Fig.
+6b
+). At Rh-FeO
+x
+interfaces, hydrogen-assisted CO activation is considerably facilitated, with a reduced reaction energy of 0.08 eV and a barrier of 1.52 eV (Fig.
+6b
+, Supplementary Figs.
+42
+and
+43
+, and Supplementary Table
+10
+), owing to the enhanced adsorption of HCO* and O* intermediates (Supplementary Fig.
+44
+and Supplementary Table
+9
+). On
+t
+-ZrO
+2
+(101), direct and hydrogen-assisted dissociation are both thermodynamically unfavourable (Supplementary Table
+10
+). By contrast, we found that strongly adsorbed CO* (
+E
+CO
+= −1.92 eV) can readily react with OH* to form COOH* and then transform to HCOO* with a moderate barrier of 1.19 eV (Fig.
+6c
+). Next, HCOO* exothermically migrates to the Rh-ZrO
+2
+interface owing to the increased adsorption energy from −1.91 eV to −3.47 eV, in line with the DRIFTS observation of much stronger HCOO* intensities on Rh/ZrO
+2
+and 6Fe-Rh/ZrO
+2
+than on bare
+t
+-ZrO
+2
+(Fig.
+5a
+). Next, HCOO* species dissociate sequentially to HCO* and then CH* at the Rh-ZrO
+2
+interface with a barrier of 1.33 eV at most (Fig.
+6c
+, Supplementary Figs.
+47
+and
+48
+and Supplementary Table
+11
+). Therefore, compared with Rh metal and Rh-FeO
+x
+interface, Rh-ZrO
+2
+interfaces are more active for converting of CO to CH
+x
+*, where the hydroxylated
+t
+-ZrO
+2
+support serves as a HCOO* reservoir to boost the reaction.
+Regarding C–C coupling, CO* insertion into CH
+3
+* is found to be the most favourable path for Rh(211), Rh-FeO
+x
+and Rh-ZrO
+2
+interface (Supplementary Figs.
+49
+–
+55
+and Supplementary Tables
+12
+and
+13
+). Nonetheless, on Rh(211), CO* insertion into CH
+3
+* to form CH
+3
+CO*, a key intermediate for EtOH, is much less favourable than direct CH
+3
+* hydrogenation to methane (Fig.
+6d
+, Supplementary Figs.
+49
+–
+52
+and Supplementary Tables
+12
+and
+13
+), which makes methane to be the preferential product over Rh metal surfaces as observed on Rh/SiO
+2
+(Supplementary Table
+4
+). However, at Rh-FeO
+x
+interfaces, the adsorption of CH
+3
+CO* is much stronger than that of CH
+3
+CO* on Rh(211) owing to the enhanced orbital hybridization and considerable charge transfer from Fe to CH
+3
+CO* (Fig.
+6e
+and Supplementary Table
+9
+). Consequently, CO insertion into CH
+3
+* to form CH
+3
+CO* becomes exothermic by −0.23 eV at Rh-FeO
+x
+interfaces, along with a much low barrier of 0.80 eV, which is energetically more favourable than the hydrogenation of CH
+3
+* (endothermic by 0.10 eV; Fig.
+6d
+, Supplementary Figs.
+49
+,
+53
+and
+54
+, and Supplementary Tables
+12
+and
+13
+). At Rh-ZrO
+2
+(101) interfaces, CO* insertion into CH
+3
+* to form CH
+3
+CO* is found to be less feasible (Fig.
+6d
+, Supplementary Figs.
+49
+and
+55
+and Supplementary Tables
+12
+and
+13
+). In brief, among these three types of reaction sites, Rh-FeO
+x
+interfaces appear to be the most favourable sites for C–C coupling, which agree excellently with the observation of markedly higher EtOH selectivity of Rh/Fe
+2
+O
+3
+and
+x
+Fe-Rh/ZrO
+2
+as well as the suppression of CH
+3
+O* formation in the DRIFTS results (Figs.
+2a
+and
+5d
+).
+To achieve high EtOH yields in syngas conversion, it is crucial to ensure the balance of the two key elementary reaction steps: CO activation to CH
+x
+* and subsequent C–C coupling via the insertion of CO* into CH
+x
+*, both with high efficiency. As demonstrated by our calculations, the dual-interface synergy enables a tandem reaction process, that is, the Rh-ZrO
+2
+interface can efficiently activate CO* to form CH
+x
+* via the formate path with the ZrO
+2
+support as a formate reservoir; then, the formed CH
+x
+* readily couples with another CO* molecule to form CH
+3
+CO* intermediates at the adjacent Rh-FeO
+x
+interfaces, thus synergistically boosting exclusive EtOH formation (Fig.
+6f
+). Therein, the variation of the FeO
+x
+coverage (Supplementary Fig.
+21
+) allows balancing the kinetics of these two key elementary reactions (Supplementary Fig.
+12
+), thus achieving a remarkably high EtOH productivity.
+Conclusion
+In summary, we have demonstrated that the precise decoration of atomically dispersed FeO
+x
+onto ultrafine Rh rafts in Rh/ZrO2 to assemble dual FeO
+x
+-Rh-ZrO
+2
+interfaces intimately enables efficient tandem conversion of syngas to EtOH by achieving an EtOH selectivity of ~90% in total oxygenates at an appreciable conversion of 51%, along with a remarkably high STY of 668.2 mg g
+cat
+−1
+h
+−1
+. In situ spectroscopic characterization and DFT calculations reveal that Rh-ZrO
+2
+and Rh-FeO
+x
+interfaces play complementary roles in the reaction by facilitating CO activation and C–C coupling, respectively. The delicate assembly of these two interfaces in atomic-scale proximity finely tailors the balance of the kinetics of the two key elementary reactions, thus synergistically boosting the exclusive EtOH formation in a tandem manner. These findings point out a new way to rationally design highly active and selective metal catalysts for complex reactions by assembling dual/multiple metal–oxide interfaces with specific functions in atomic-scale proximity.
+Methods
+Chemicals and materials
+Zirconium
+n
+-propoxide (70 wt% in
+n
+-propanol), rhodium nitrate solution (Rh(NO
+3
+)
+3
+, 5 wt% solution), ferrocene (FeCp
+2
+) and tetrakis(dimethylamido)zirconium (Zr(NMe
+2
+)
+4
+) were purchased from Sigma-Aldrich. Ammonia solution (NH
+3
+·H
+2
+O, 25–28%), EG and
+n
+-propanol (>99.9%) were purchased from Sinopharm Chemical Reagent. All the chemicals were directly used without further purification.
+All gases, including ultrahigh-purity N
+2
+(99.999%), Ar (99.999%), mixtures of 10% O
+2
+in Ar, 10% H
+2
+in Ar, and 10% Co in Ar and CO feed gases (24% CO, 72% H
+2
+; 30% CO, 60% H
+2
+; 45% CO, 45% H
+2
+; all balanced with Ar), were provided by Nanjing Special Gases.
+Synthesis of ZrO
+2
+support
+The tetragonal zirconia support was synthesized via a sol–gel method. Typically, 17.7 g of zirconium
+n
+-propoxide was diluted by adding 51.6 ml of
+n
+-propanol. Aqueous ammonia was added dropwise to the zirconia precursor solution with vigorous stirring until the pH reached 10–10.5, after which the mixture was kept for 1 h. The resulting gel was filtered and dried at 100 °C for 10 h. Finally, the dried sample was calcined at 400 °C in air for 4 h to obtain the ZrO
+2
+support.
+Synthesis of Rh/ZrO
+2
+, Rh/SiO
+2
+, Rh/Fe
+2
+O
+3
+and Rh
+NPs
+/ZrO
+2
+Rh/ZrO
+2
+was prepared by the IWI method. First, 420 μl of Rh(NO
+3
+)
+3
+solution was added to 100 μl of deionized water. Next, 600 mg of ZrO
+2
+was impregnated into the above Rh aqueous solution with 30 min of stirring, after which the mixture was dried at 70 °C overnight. Finally, the obtained yellow powder was calcined at 400 °C in air for 3 h to obtain the Rh/ZrO
+2
+catalyst. Rh/SiO
+2
+and Rh/Fe
+2
+O
+3
+were also synthesized through the same IWI method described above for comparison. Meanwhile, a Rh NP catalyst (Rh
+NPs
+/ZrO
+2
+) was also synthesized by the deposition–precipitation method followed by chemical reduction using sodium borohydride (NaBH
+4
+) as the reducing agent. Typically, 420 μl of Rh(NO
+3
+)
+3
+solution and 600 mg of ZrO
+2
+were co-added into 25 ml of deionized water and mixed under vigorous stirring at 80 °C for 0.5 h. Ammonia was added dropwise to adjust the pH value to 12. Then, 1 ml of 1 mol l
+−1
+NaBH
+4
+was quickly added into the above suspension and kept vigorous stirring for 12 h. The precipitate was centrifuged and washed with deionized water and dried at 60 °C overnight. Finally, the dried dark yellow powder was calcined in 10% O
+2
+in Ar at 400 °C for 3 h and then reduced at the same temperature for another 1 h in 10% H
+2
+in Ar to obtain the Rh
+NPs
+/ZrO
+2
+catalyst.
+Synthesis of the
+x
+Fe-Rh/ZrO
+2
+catalysts
+To achieve selective FeO
+x
+deposition on Rh NPs instead of on a ZrO
+2
+support for the subsequent synthesis of
+x
+Fe-Rh/ZrO
+2
+catalysts, the as-prepared Rh/ZrO
+2
+catalyst was first modified with EG to passivate the possible nucleation sites on the ZrO
+2
+surface. Typically, the Rh/ZrO
+2
+catalyst was dispersed into EG and stirred for 12 h at 30 °C. The suspension was then centrifuged and dried at 70 °C overnight to obtain the modified catalyst.
+FeO
+x
+ALD was carried out on the resulting EG-pretreated Rh/ZrO
+2
+catalyst at 150 °C using FeCp
+2
+and ultrahigh-purity O
+2
+(99.999%) in an ALD reactor (ALD-V401-PRO, ACME (Beijing) Technology). The FeCp
+2
+precursor container was heated to 80 °C to achieve sufficient vapour pressure. The timing sequences were 300 s, 300 s, 200 s and 300 s for FeCp
+2
+exposure, N
+2
+purge, O
+2
+exposure and N
+2
+purge, respectively. Different cycles of FeO
+x
+ALD were carried out to obtain a series of
+x
+Fe-Rh/ZrO
+2
+catalysts (
+x
+represents the number of ALD cycles). For comparison, 6 cycles of FeO
+x
+ALD were also applied to Rh/Fe
+2
+O
+3
+and Rh
+NPs
+/ZrO
+2
+to obtain the 6Fe-Rh/Fe
+2
+O
+3
+and 6Fe-Rh
+NPs
+/ZrO
+2
+catalysts, respectively. As a control experiment, FeO
+x
+ALD was also performed on the bare ZrO
+2
+and EG-modified ZrO
+2
+substrates for different cycles under the same ALD conditions.
+Synthesis of the
+x
+Zr-Rh/ZrO
+2
+catalysts
+ZrO
+2
+ALD was carried out on the Rh/ZrO
+2
+catalyst at 200 °C using Zr(NMe
+2
+)
+4
+and deionized water in the same ALD reactor. The Zr(NMe
+2
+)
+4
+precursor container was heated to 75 °C to achieve sufficient vapour pressure. The timing sequences were 200 s, 300 s, 200 s and 300 s for Zr(NMe
+2
+)
+4
+exposure, N
+2
+purge, H
+2
+O exposure and N
+2
+purge, respectively. One and three cycles of ZrO
+2
+ALD were carried out to obtain the 1Zr-Rh/ZrO
+2
+and 3Zr-Rh/ZrO
+2
+catalysts, respectively.
+Morphology and composition
+TEM and HR-TEM measurements were performed on a JEM-2100F instrument operated at 200 kV to characterize the morphology of these samples. Aberration-corrected HAADF-STEM measurements were performed on an instrument at 200 kV (JEM-ARM200F, University of Science and Technology of China). Elemental mapping via EDS was performed on the same equipment. The Rh and Fe contents of the various catalysts were analysed via ICP-AES (PerkinElmer Optima 7300 DV). Powder XRD measurements were carried out on a Philips X’Pert Pro Super diffractometer with Cu Kα radiation operated at 40 kV and 50 mA. The patterns were measured in the 2
+θ
+range from 20° to 80°. EPR spectroscopy was performed on a JES-FA200 EPR spectrometer operated at an X-band frequency of 9.1 GHz, a microwave power of 1 mW and a modulation frequency of 100 kHz. Thermogravimetric analysis (TGA) was performed on a TGA550 instrument (TA Instruments) equipped with an evolved gas analysis furnace. After loading the sample into the furnace, the sample was heated to 500 °C at a heating rate of 3 °C min
+−1
+in 10% O
+2
+in N
+2
+(25 ml min
+−1
+). CO pulse chemisorption measurements were performed on a Micromeritics Autochem II 2920 instrument. In brief, ~40 mg of the sample was loaded in a quartz U-tube and calcined in 10% O
+2
+in Ar followed by a reduction in 10% H
+2
+in Ar at 150 °C for 2 h. Next, the sample was cooled to room temperature, and CO pulses (10% CO in He) were introduced to the sample until saturation.
+In situ XAS
+In situ XAS measurements at the Fe K-edge (7,112 eV) and Rh K-edge (23,220 eV) were performed in fluorescence mode with a Si(111) monochromator at the 1W1B beamline of the Beijing Synchrotron Radiation Facility (BSRF) and in transmission mode with a Si(311) monochromator at the BL14W1 beamline of the Shanghai Synchrotron Radiation Facility (SSRF) in China, respectively, considering the loadings of Fe and Rh. The storage ring of the BSRF worked at 2.5 GeV with a maximum current of 250 mA, and the storage ring of the SSRF worked at 3.5 GeV with a maximum current of 210 mA. A homemade reaction cell was used for the in situ experiments, which allows exposing the sample to different pretreatment gases or reaction gases, as well as sample heating to 500 °C. Typically, the as-prepared 6Fe-Rh/ZrO
+2
+sample was compressed into tablets and put into the reaction cell. After purging with He for 10 min at room temperature, the XAFS spectra were recorded and denoted as 6Fe-Rh/ZrO
+2
+-O. After that, the sample was reduced in 10% H
+2
+in He at 400 °C for 1 h and then cooled to 260 °C for 10 min. The XAFS spectrum was recorded and denoted as 6Fe-Rh/ZrO
+2
+-R. Finally, the same sample was exposed to syngas consisting of 24% CO and 72% H
+2
+balanced with He at 260 °C for another 1 h, and the XAFS spectra were sequentially recorded and denoted as 6Fe-Rh/ZrO
+2
+-S. The acquired XAS data were processed according to standard procedures using the ARTEMIS module implemented in the IFEFFIT software package. The EXAFS oscillation functions
+χ
+(
+k
+) were obtained by subtracting the post-edge background from the overall absorption spectra and then normalizing with respect to the edge-jump step.
+In situ XPS
+In situ XPS measurements were conducted at the BL10B beamline Photoemission End-station at the National Synchrotron Radiation Laboratory (NSRL) in Hefei, China. In brief, the beamline is connected to a bending magnet and covers photon energies from 100 eV to 1,000 eV. The end-station consists of four chambers, that is, an analysis chamber, a preparation chamber, a quick sample load lock chamber and a high-pressure reactor. The analysis chamber, with a base pressure of <5 × 10
+−10
+torr, is connected to the beamline and equipped with a VG Scienta R3000 electron energy analyser and a twin anode X-ray source. After sample treatment, the reactor was pumped down to high vacuum (<10
+−8
+torr) for sample transfer. In the current work, the sample was first reduced with the flowing 10% H
+2
+in Ar at 400 °C for 1 h followed by treatment in syngas (24% CO, 72% H
+2
+, 4% Ar) (20 ml min
+−1
+) at 260 °C for another 1 h at the ambient pressure in the high-pressure reactor. Next, the sample was transferred to the analysis chamber for XPS measurements in the Fe 2
+p
+and Rh 3
+d
+region without exposing to air.
+DRIFTS of CO chemisorption measurements
+DRIFTS of CO chemisorption was performed on a Nicolet iS10 spectrometer equipped with a mercury-cadmium-telluride detector and a low-temperature reaction cell (Praying Mantis Harrick). After loading a sample into the cell, it was reduced under 10% H
+2
+in Ar at 360 °C (the highest temperature that we can reach) for 2 h. After cooling the sample to room temperature in Ar, a background spectrum was collected. Subsequently, the sample was exposed to 10% CO in Ar (20 ml min
+−1
+) for approximately 30 min until saturation. Next, the sample was purged with Ar (20 ml min
+−1
+) for another 30 min to remove the gas-phase CO, after which the DRIFT spectrum was collected with 256 scans at a resolution of 4 cm
+−1
+.
+In situ DRIFTS of CO hydrogenation
+In situ DRIFTS was performed on the same instrument described above. After loading a sample into the cell, it was reduced in 10% H
+2
+in Ar at 360 °C for 2 h. Then, the sample was cooled to 260 °C in Ar, and a background spectrum was collected. Next, the sample was exposed to 10% CO in Ar (20 ml min
+−1
+, 0.1 MPa) at the same temperature. After a 20 min reaction, the inlet was switched to Ar for another 20 min to remove the gaseous CO. Next, the inlet was subsequently switched to 10 H
+2
+in Ar (20 ml min
+−1
+). Moreover, DRIFTS spectra were recorded to monitor the changes in the intensities of different surface species during the entire process.
+Catalyst evaluation
+The conversion of syngas was carried out in a stainless-steel tubular fixed-bed reactor (Anhui CHEM Machinery Technology) equipped with a quartz lining with an inner diameter of 10 mm. In a typical reaction, 100 mg of Rh-based catalyst mixed with 1 g of quartz sand (30–60 mesh) was loaded into the reactor and reduced in 10% H
+2
+in N
+2
+(30 ml min
+−1
+) at 400 °C for 2 h. After reduction, the sample was cooled to 260 °C, and then, syngas (24% CO, 72% H
+2
+) with 4% Ar as an internal standard was introduced into the reactor and pressurized slowly to 2.5 MPa. The data were collected after at least 2 h on stream. Products were analysed by an online GC (Panna A91 PLUS). A capillary column (PLOT-Q) connected to a flame ionization detector (FID) was used to analyse CH
+4
+, C
+2
+–
+4
+paraffins and oxygenated products; a TDX-01 packed column connected with a thermal conductivity detector (TCD) was used to analyse CO, CO
+2
+, Ar and CH
+4
+. CH
+4
+was taken as a reference bridge between the FID and TCD.
+CO conversion (X(CO)) was calculated on a carbon atom basis, that is,
+$${\mathrm{X}}\left({\mathrm{{CO}}}\right)=\frac{{\mathrm{CO}}_{\mathrm{in}}\,-{\mathrm{CO}}_{\mathrm{out}}}{{\mathrm{CO}}_{\mathrm{in}}}\times 100 \%$$
+(1)
+where CO
+in
+and CO
+out
+in equation (
+1
+) represent the moles of CO at the inlet and outlet, respectively.
+The CO
+2
+selectivity (S(CO
+2
+)) was calculated according to
+$${\mathrm{S}}\left({{\rm{CO}}}_{2}\right)=\frac{{{\mathrm{{CO}}}_{2}}_{\mathrm{out}}}{{\mathrm{CO}}_{\mathrm{in}}-\,{\mathrm{CO}}_{\mathrm{out}}}\times 100 \%$$
+(2)
+where CO
+2outt
+in equation (
+2
+) represents moles of CO
+2
+at the outlet.
+The selectivity
+S
+for each organic product
+i
+was determined on the basis of the number of C atoms by equation (
+3
+), where
+n
+i
+in equation (
+3
+) represents the moles of product
+i
+at the outlet and
+C
+i
+is the carbon number of product
+i
+. The carbon balance over the Rh-based catalysts was greater than 98%.
+$${S}_{i}=\frac{{n}_{i}{C}_{i}}{\sum {n}_{i,\,j}{C}_{i,\,j}}\times 100 \%$$
+(3)
+The STY of EtOH was calculated according to
+$${\mathrm{STY}}\left({\rm{EtOH}}\right)=\frac{{F}_{\mathrm{CO}}S\left({\mathrm{EtOH}}\right)}{2\times W}\times 46$$
+(4)
+where
+F
+CO
+denotes the molar number of converted CO molecules per unit time (mmol
+(C)
+h
+−1
+) and
+w
+denotes the weight of the catalyst.
+Computational methods
+All spin-polarized DFT calculations were performed by using the Vienna Ab initio Simulation Package (VASP)
+60
+. Projector augmented wave
+61
+potentials and the generalized gradient approximation (GGA) with the Perdew–Burke–Ernzerhof exchange-correlation functional
+62
+were used. The kinetic energy cut-off was specified to be 400 eV. Electronic optimizations were converged to 10
+−4
+eV per atom, and the geometry optimizations were considered to be converged until the forces on each ion were less than 0.05 eV Å
+−1
+. The optimized lattice parameters for bulk
+t
+-ZrO
+2
+are
+a
+=
+b
+= 3.66 Å and
+c
+= 5.25 Å, which are in line with the experimental values of
+a
+=
+b
+= 3.61 Å and
+c
+= 5.21 Å (ref.
+63
+). The strongly correlated 4
+d
+orbital of Zr was treated with the GGA +
+U
+correction with
+U
+eff
+= 4 eV, which has been suggested in other theoretical works. The calculated equilibrium lattice constants for FCC Rh are
+a
+=
+b
+=
+c
+= 3.82 Å, which are consistent with the experimental values of 3.80 Å (ref.
+64
+).
+The most stable
+t
+-ZrO
+2
+(101) facet with one isolated hydroxyl group and one oxygen vacancy was used to simulate the pristine defective, hydroxylated
+t
+-ZrO
+2
+surface according to the EPR and DRIFTS measurements (Supplementary Figs.
+4
+and
+31
+), where a
+p
+(4 × 3) supercell slab with a two-layer oxide thickness was used. The adsorbates and the topmost oxide are relaxed. The stepped Rh(211) surface is modelled using a
+p
+(3 × 2) slab with five atomic layers, including 60 Rh atoms. During optimization, the adsorbates and the top three layers of Rh atoms are relaxed. The neighbouring slabs were separated by a 15 Å vacuum to avoid interactions between them. Monkhorst–Pack
+k
+-point meshes of 1 × 2 × 1 and 2 × 3 × 1 were used to sample the Brillouin zones of the
+t
+-ZrO
+2
+(101) and Rh(211) supercell surface slab models, respectively.
+The improved force reversal method
+65
+was used to identify the transition states (TS) via vibrational analysis until all the forces were less than 0.05 eV Å
+−1
+. Some of the TSs were determined by climbing-image nudged elastic band (CI-NEB)
+66
+and dimer methods
+67
+. The adsorption energy is calculated as
+E
+ads
+=
+E
+adsorbate/slab
+−
+E
+slab
+−
+E
+adsorbate
+, where
+E
+adsorbate/slab
+and
+E
+slab
+are the total energies of the slab with the adsorbate and the clean surface, respectively, and
+E
+adsorbate
+is the energy of the adsorbate in the gas phase. The reaction energy and barrier were calculated by Δ
+E
+=
+E
+FS
+−
+E
+IS
+and
+E
+a
+=
+E
+TS
+−
+E
+IS
+, where
+E
+IS
+,
+E
+FS
+and
+E
+TS
+are the energies of the corresponding initial state, final state and transition state, respectively. The structure of Rh
+20
+/
+t
+-ZrO
+2
+(101) was obtained by a genetic algorithm.
+Data availability
+All data that support the findings of this study are available in the main text, figures and
+Supplementary Information
+, or from the corresponding authors upon reasonable request.
+Source data
+are provided with this paper.
+References
+Herman, R. G. Advances in catalytic synthesis and utilization of higher alcohols.
+Catal. Today
+55
+, 233–245 (2000).
+CAS
+Google Scholar
+Luk, H. T., Mondelli, C., Ferré, D. C., Stewart, J. A. & Pérez-Ramírez, J. Status and prospects in higher alcohols synthesis from syngas.
+Chem. Soc. Rev.
+46
+, 1358–1426 (2017).
+CAS
+PubMed
+Google Scholar
+Ao, M., Pham, G. H., Sunarso, J., Tade, M. O. & Liu, S. Active centers of catalysts for higher alcohol synthesis from syngas: a review.
+ACS Catal.
+8
+, 7025–7050 (2018).
+CAS
+Google Scholar
+Liu, G., Yang, G., Peng, X., Wu, J. & Tsubaki, N. Recent advances in the routes and catalysts for ethanol synthesis from syngas.
+Chem. Soc. Rev.
+51
+, 5606–5659 (2022).
+CAS
+PubMed
+Google Scholar
+Kang, J. et al. Single-pass transformation of syngas into ethanol with high selectivity by triple tandem catalysis.
+Nat. Commun.
+11
+, 827 (2020).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Spivey, J. J. & Egbebi, A. Heterogeneous catalytic synthesis of ethanol from biomass-derived syngas.
+Chem. Soc. Rev.
+36
+, 1514–1528 (2007).
+CAS
+PubMed
+Google Scholar
+Zeng, Z. et al. CoFe alloy carbide catalysts for higher alcohols synthesis from syngas: evolution of active sites and Na promoting effect.
+J. Catal.
+405
+, 430–444 (2022).
+CAS
+Google Scholar
+Pei, Y.-P. et al. High alcohols synthesis via Fischer–Tropsch reaction at cobalt metal/carbide interface.
+ACS Catal.
+5
+, 3620–3624 (2015).
+CAS
+Google Scholar
+Xiang, Y. & Kruse, N. Tuning the catalytic CO hydrogenation to straight- and long-chain aldehydes/alcohols and olefins/paraffins.
+Nat. Commun.
+7
+, 13058 (2016).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Lopez, L. et al. Syngas conversion to ethanol over a mesoporous Cu/MCM-41 catalyst: effect of K and Fe promoters.
+Appl. Catal. A
+526
+, 77–83 (2016).
+CAS
+Google Scholar
+Gupta, M., Smith, M. L. & Spivey, J. J. Heterogeneous catalytic conversion of dry syngas to ethanol and higher alcohols on Cu-based catalysts.
+ACS Catal.
+1
+, 641–656 (2011).
+CAS
+Google Scholar
+Sun, J., Wan, S., Wang, F., Lin, J. & Wang, Y. Selective synthesis of methanol and higher alcohols over Cs/Cu/ZnO/Al
+2
+O
+3
+catalysts.
+Ind. Eng. Chem. Res.
+54
+, 7841–7851 (2015).
+CAS
+Google Scholar
+Wang, N. et al. Enhanced catalytic performance and promotional effect of molybdenum sulfide cluster-derived catalysts for higher alcohols synthesis from syngas.
+Catal. Today
+316
+, 177–184 (2018).
+CAS
+Google Scholar
+Morrill, M. R. et al. Origins of unusual alcohol selectivities over mixed MgAl oxide-supported K/MoS
+2
+catalysts for higher alcohol synthesis from syngas.
+ACS Catal.
+3
+, 1665–1675 (2013).
+CAS
+Google Scholar
+Qu, H., He, S., Su, Y., Zhang, Y. & Su, H. MoSe
+2
+: a promising non-noble metal catalyst for direct ethanol synthesis from syngas.
+Fuel
+281
+, 118760 (2020).
+CAS
+Google Scholar
+Hu, J. et al. Edge-rich molybdenum disulfide tailors carbon-chain growth for selective hydrogenation of carbon monoxide to higher alcohols.
+Nat. Commun.
+14
+, 6808 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Yang, N. et al. Intrinsic selectivity and structure sensitivity of rhodium catalysts for C
+2+
+oxygenate production.
+J. Am. Chem. Soc.
+138
+, 3705–3714 (2016).
+CAS
+PubMed
+Google Scholar
+Preikschas, P. et al. Tuning the Rh–FeO
+x
+interface in ethanol synthesis through formation phase studies at high pressures of synthesis gas.
+ACS Catal.
+11
+, 4047–4060 (2021).
+CAS
+Google Scholar
+Huang, X. et al. Atomic-scale observation of the metal–promoter interaction in Rh-based syngas-upgrading catalysts.
+Angew. Chem. Int. Ed.
+58
+, 8596 (2019).
+CAS
+Google Scholar
+Yang, N. et al. Rh-MnO interface sites formed by atomic layer deposition promote syngas conversion to higher oxygenates.
+ACS Catal.
+7
+, 5746–5757 (2017).
+CAS
+Google Scholar
+Schwartz, V., Campos, A., Egbebi, A., Spivey, J. J. & Overbury, S. H. EXAFS and FT-IR characterization of Mn and Li promoted titania-supported Rh catalysts for CO hydrogenation.
+ACS Catal.
+1
+, 1298–1306 (2011).
+CAS
+Google Scholar
+Liu, J. et al. Correlating the degree of metal-promoter interaction to ethanol selectivity over MnRh/CNTs CO hydrogenation catalysts.
+J. Catal.
+313
+, 149–158 (2014).
+CAS
+Google Scholar
+Wang, J., Zhang, Q. & Wang, Y. Rh-catalyzed syngas conversion to ethanol: studies on the promoting effect of FeO
+x
+.
+Catal. Today
+171
+, 257–265 (2011).
+CAS
+Google Scholar
+Han, L., Mao, D., Yu, J., Guo, Q. & Lu, G. C
+2
+-oxygenates synthesis through CO hydrogenation on SiO
+2
+-ZrO
+2
+supported Rh-based catalyst: the effect of support.
+Appl. Catal. A
+454
+, 81–87 (2013).
+CAS
+Google Scholar
+Yu, J. et al. Comparative study on ethanol-based oxygenate synthesis via syngas over Rh–Mn bimetallic catalysts supported on different UiO MOFs.
+Energy Fuels
+36
+, 11940–11949 (2022).
+CAS
+Google Scholar
+Carrillo, P., Shi, R., Teeluck, K., Senanayake, S. D. & White, M. G. In situ formation of FeRh nanoalloys for oxygenate synthesis.
+ACS Catal.
+8
+, 7279–7286 (2018).
+CAS
+Google Scholar
+Pan, X. et al. Enhanced ethanol production inside carbon-nanotube reactors containing catalytic particles.
+Nat. Mater.
+6
+, 507–511 (2007).
+CAS
+PubMed
+Google Scholar
+Wang, C. et al. Direct conversion of syngas to ethanol within zeolite crystals.
+Chem
+6
+, 646–657 (2020).
+CAS
+Google Scholar
+Xu, D., Zhang, H., Ma, H., Qian, W. & Ying, W. Effect of Ce promoter on Rh-Fe/TiO
+2
+catalysts for ethanol synthesis from syngas.
+Catal. Commun.
+98
+, 90–93 (2017).
+CAS
+Google Scholar
+Lin, T. et al. Direct production of higher oxygenates by syngas conversion over a multifunctional catalyst.
+Angew. Chem. Int. Ed.
+58
+, 4627–4631 (2019).
+CAS
+Google Scholar
+Luan, X. et al. Selective conversion of syngas into higher alcohols via a reaction-coupling strategy on multifunctional relay catalysts.
+ACS Catal.
+10
+, 2419–2430 (2020).
+CAS
+Google Scholar
+Ham, H. et al. Selective ethanol synthesis via multi-step reactions from syngas: ferrierite-based catalysts and fluidized-bed reactor application.
+Catal. Today
+303
+, 93–99 (2018).
+CAS
+Google Scholar
+Wang, Y., Luo, H., Liang, D. & Bao, X. Different mechanisms for the formation of acetaldehyde and ethanol on the Rh-based catalysts.
+J. Catal.
+196
+, 46–55 (2000).
+CAS
+Google Scholar
+Li, K. & Chen, J. G. CO
+2
+hydrogenation to methanol over ZrO
+2
+-containing catalysts: insights into ZrO
+2
+induced synergy.
+ACS Catal.
+9
+, 7840–7861 (2019).
+CAS
+Google Scholar
+Li, S. et al. Tuning the CO
+2
+hydrogenation selectivity of rhodium single-atom catalysts on zirconium dioxide with alkali ions.
+Angew. Chem. Int. Ed.
+62
+, e202218167 (2023).
+CAS
+Google Scholar
+Shi, L. et al. Al
+2
+O
+3
+nanosheets rich in pentacoordinate Al
+3+
+ions stabilize Pt-Sn clusters for propane dehydrogenation.
+Angew. Chem. Int. Ed.
+54
+, 13994–13998 (2015).
+CAS
+Google Scholar
+Chen, X. et al. Regulating coordination number in atomically dispersed Pt species on defect-rich graphene for n-butane dehydrogenation reaction.
+Nat. Commun.
+12
+, 2664 (2021).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Nellist, P. D. & Pennycook, S. J. In
+Advances in Imaging and Electron Physics
+Vol. 113 (ed. Hawkes, P. W.) 147–203 (Elsevier, 2000).
+van Deelen, T. W., Hernández Mejía, C. & de Jong, K. P. Control of metal-support interactions in heterogeneous catalysts to enhance activity and selectivity.
+Nat. Catal.
+2
+, 955–970 (2019).
+Google Scholar
+Zhou, L. et al. Stabilizing non-iridium active sites by non-stoichiometric oxide for acidic water oxidation at high current density.
+Nat. Commun.
+14
+, 7644 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Cao, L. et al. Atomically dispersed iron hydroxide anchored on Pt for preferential oxidation of CO in H
+2
+.
+Nature
+565
+, 631–635 (2019).
+CAS
+PubMed
+Google Scholar
+Yanguas-Gil, A., Libera, J. A. & Elam, J. W. Modulation of the growth per cycle in atomic layer deposition using reversible surface functionalization.
+Chem. Mater.
+25
+, 4849–4860 (2013).
+CAS
+Google Scholar
+Schumann, M., Grunwaldt, J.-D., Jensen, A. D. & Christensen, J. M. Investigations of mechanism, surface species and support effects in CO hydrogenation over Rh.
+J. Catal.
+414
+, 90–100 (2022).
+CAS
+Google Scholar
+Preikschas, P. et al. Tuning the Rh-FeO
+x
+interface in ethanol synthesis through formation phase studies at high pressures of synthesis gas.
+ACS Catal.
+11
+, 4047–4060 (2021).
+CAS
+Google Scholar
+Fukuoka, A. et al. Bimetallic promotion of alcohol production in CO hydrogenation and olefin hydroformylation on RhFe, PtFe, PdFe, and IrFe cluster-derived catalysts.
+J. Catal.
+126
+, 434–450 (1990).
+CAS
+Google Scholar
+Boffa, A., Lin, C., Bell, A. T. & Somorjai, G. A. Promotion of CO and CO
+2
+hydrogenation over Rh by metal oxides: the influence of oxide Lewis acidity and reducibility.
+J. Catal.
+149
+, 149–158 (1994).
+CAS
+Google Scholar
+Carrillo, P., Shi, R., Senanayake, S. D. & White, M. G. In situ structural study of manganese and iron oxide promoted rhodium catalysts for oxygenate synthesis.
+Appl. Catal. A
+608
+, 117845 (2020).
+CAS
+Google Scholar
+Subramani, V. & Gangwal, S. K. A review of recent literature to search for an efficient catalytic process for the conversion of syngas to ethanol.
+Energy Fuels
+22
+, 814–839 (2008).
+CAS
+Google Scholar
+Kwon, Y., Kim, T. Y., Kwon, G., Yi, J. & Lee, H. Selective activation of methane on single-atom catalyst of rhodium dispersed on zirconia for direct conversion.
+J. Am. Chem. Soc.
+139
+, 17694–17699 (2017).
+CAS
+PubMed
+Google Scholar
+Gogate, M. R. & Davis, R. J. X-ray absorption spectroscopy of an Fe-promoted Rh/TiO
+2
+catalyst for synthesis of ethanol from synthesis gas.
+ChemCatChem
+1
+, 295–303 (2009).
+CAS
+Google Scholar
+Ichikawa, M., Fukushima, T., Yokoyama, T., Kosugi, N. & Kuroda, H. EXAFS evidence for direct rhodium-iron bonding in silica-supported rhodium-iron bimetallic catalysts.
+J. Phys. Chem.
+90
+, 1222–1224 (1986).
+CAS
+Google Scholar
+Palomino, R. M., Magee, J. W., Llorca, J., Senanayake, S. D. & White, M. G. The effect of Fe-Rh alloying on CO hydrogenation to C
+2+
+oxygenates.
+J. Catal.
+329
+, 87–94 (2015).
+CAS
+Google Scholar
+Wang, J. et al. A highly selective and stable ZnO-ZrO
+2
+solid solution catalyst for CO
+2
+hydrogenation to methanol.
+Sci. Adv.
+3
+, e1701290 (2017).
+PubMed
+PubMed Central
+Google Scholar
+Piskorz, W. et al. Periodic DFT study of the tetragonal ZrO
+2
+nanocrystals: equilibrium morphology modeling and atomistic surface hydration thermodynamics.
+J. Phys. Chem. C
+116
+, 19307–19320 (2012).
+CAS
+Google Scholar
+Yang, C. et al. Strong electronic oxide-support interaction over In
+2
+O
+3
+/ZrO
+2
+for highly selective CO
+2
+hydrogenation to methanol.
+J. Am. Chem. Soc.
+142
+, 19523–19531 (2020).
+CAS
+PubMed
+Google Scholar
+Liu, J.-X., Su, Y., Filot, I. A. W. & Hensen, E. J. M. A linear scaling relation for CO oxidation on CeO
+2
+-supported Pd.
+J. Am. Chem. Soc.
+140
+, 4580–4587 (2018).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Deaven, D. M. & Ho, K. M. Molecular geometry optimization with a genetic algorithm.
+Phys. Rev. Lett.
+75
+, 288–291 (1995).
+CAS
+PubMed
+Google Scholar
+Choi, Y. & Liu, P. Mechanism of ethanol synthesis from syngas on Rh(111).
+J. Am. Chem. Soc.
+131
+, 13054–13061 (2009).
+CAS
+PubMed
+Google Scholar
+Gao, J., Mo, X. & Goodwin, J. G. La, V, and Fe promotion of Rh/SiO
+2
+for CO hydrogenation: detailed analysis of kinetics and mechanism.
+J. Catal.
+268
+, 142–149 (2009).
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+CAS
+Google Scholar
+Blöchl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953 (1994).
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865 (1996).
+CAS
+PubMed
+Google Scholar
+Igawa, N. & Ishii, Y. Crystal structure of metastable tetragonal zirconia up to 1473 K.
+J. Am. Ceram. Soc.
+84
+, 1169–1171 (2001).
+CAS
+Google Scholar
+Kittel, C., McEuen, P. & McEuen, P.
+Introduction to Solid State Physics
+Vol. 8 (Wiley, 1996).
+Sun, K., Zhao, Y., Su, H.-Y. & Li, W.-X. Force reversed method for locating transition states.
+Theor. Chem. Acc.
+131
+, 1–10 (2012).
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+CAS
+Google Scholar
+Henkelman, G. & Jónsson, H. A dimer method for finding saddle points on high dimensional potential surfaces using only first derivatives.
+J. Chem. Phys.
+111
+, 7010–7022 (1999).
+CAS
+Google Scholar
+Download references
+Acknowledgements
+J.L. acknowledges the support from the National Key R&D Program of China (2021YFA1502802), the Key Research Program of Frontier Sciences, CAS (ZDBS-LY-SLH003), the National Natural Science Foundation of China (22025205 and 22221003) and the Fundamental Research Funds for the Central Universities (WK2060000038 and 20720220008). J.-X.L. acknowledges the Key Technologies R&D Program of China (2021YFA1502804), the Strategic Priority Research Program of the Chinese Academy of Sciences (XDB0450102), the National Natural Science Foundation of China (22172150, 22221003 and 22222306) and the Innovation Program for Quantum Science and Technology (2021ZD0303302). H.W. acknowledges the National Natural Science Foundation of China (22202190), the Anhui Provincial Natural Science Foundation (2208085QB47 and 2108085QB62), the China Postdoctoral Science Foundation (2021M693057) and the Joint Funds from National Synchrotron Radiation Laboratory (KY9990000158). S.W. acknowledges the National Key R&D Program of China (2017YFA0402800). This work was partially carried out at the Instruments Center for Physical Science, University of Science and Technology of China. We gratefully thank the 1W1B beamline of the Beijing Synchrotron Radiation Facility (BSRF), the BL14W1 beamline at the Shanghai Synchrotron Radiation Facility (SSRF), the BL10B beamline Photoemission End-station at the National Synchrotron Radiation Laboratory (NSRL) in Hefei, the Supercomputing Center of University of Science and Technology of China and the Hefei Advanced Computing Center.
+Author information
+Author notes
+These authors contributed equally: Shang Li, Li Feng.
+Authors and Affiliations
+Key Laboratory of Precision and Intelligent Chemistry, School of Chemistry and Materials Science, University of Science and Technology of China, Hefei, China
+Shang Li, Li Feng, Hengwei Wang, Lulu Xu, Yuxing Xu, Wei-Xue Li, Jin-Xun Liu & Junling Lu
+Hefei National Research Center for Physical Sciences at the Microscale, University of Science and Technology of China, Hefei, China
+Yue Lin
+National Synchrotron Radiation Laboratory, University of Science and Technology of China, Hefei, China
+Zhihu Sun & Shiqiang Wei
+Suzhou Laboratory, Suzhou, China
+Xinyu Liu & Junling Lu
+Hefei National Laboratory, University of Science and Technology of China, Hefei, China
+Wei-Xue Li & Jin-Xun Liu
+Authors
+Shang Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Li Feng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hengwei Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yue Lin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhihu Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lulu Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yuxing Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xinyu Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wei-Xue Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shiqiang Wei
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jin-Xun Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Junling Lu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+J.L. and H.W. designed the experiments and J.-X.L. designed the DFT calculations. H.W. and S.L. synthesized and characterized the catalysts and performed the catalytic performance evaluation. Y.L. conducted the HAADF-STEM measurements. L.F. executed all the DFT calculations. H.W., S.L. and X.L. performed the XAFS measurements and analysed the data. J.L., Z.S. and S.W. supervised the XAFS studies. L.X. and Y.X. assisted in the catalyst characterization and catalytic performance evaluation. W.-X.L. provided suggestions for the DFT calculations. J.L., H.W. and J.-X.L. conceived the overall project and co-wrote the paper. All authors contributed to the overall scientific interpretation.
+Corresponding authors
+Correspondence to
+Hengwei Wang
+,
+Jin-Xun Liu
+or
+Junling Lu
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Nanotechnology
+thanks Liang Wang and Bo Yang for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–55, Tables 1–13 and References.
+Supplementary Data 1
+This zipped file contains source data for Supplementary Figs. 1–55 and Tables 1–13.
+Source data
+Source Data Fig. 1
+Statistical source data.
+Source Data Fig. 2
+Statistical source data.
+Source Data Fig. 3
+Statistical source data.
+Source Data Fig. 4
+Statistical source data.
+Source Data Fig. 5
+Statistical source data.
+Source Data Fig. 6
+Statistical source data.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Li, S., Feng, L., Wang, H.
+et al.
+Atomically intimate assembly of dual metal–oxide interfaces for tandem conversion of syngas to ethanol.
+Nat. Nanotechnol.
+20
+, 255–264 (2025). https://doi.org/10.1038/s41565-024-01824-w
+Download citation
+Received
+:
+19 February 2024
+Accepted
+:
+14 October 2024
+Published
+:
+25 November 2024
+Issue Date
+:
+February 2025
+DOI
+:
+https://doi.org/10.1038/s41565-024-01824-w
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Advisory Panel
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Nanotechnology
+(
+Nat. Nanotechnol.
+)
+ISSN
+1748-3395
+(online)
+ISSN
+1748-3387
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

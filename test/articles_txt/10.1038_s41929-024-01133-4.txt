@@ -1,0 +1,2439 @@
+Bias-free solar NH3 production by perovskite-based photocathode coupled to valorization of glycerol | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Bias-free solar NH
+3
+production by perovskite-based photocathode coupled to valorization of glycerol
+Download PDF
+Article
+Published:
+01 April 2024
+Bias-free solar NH
+3
+production by perovskite-based photocathode coupled to valorization of glycerol
+Ahmad Tayyebi
+ORCID:
+orcid.org/0000-0003-1971-0603
+1
+na1
+,
+Rashmi Mehrotra
+ORCID:
+orcid.org/0000-0002-3004-7753
+1
+na1
+,
+Muhibullah Al Mubarok
+ORCID:
+orcid.org/0009-0001-3658-2845
+1
+na1
+,
+Jieun Kim
+ORCID:
+orcid.org/0009-0000-1767-3031
+1
+na1
+,
+Mohammad Zafari
+2
+,
+Meysam Tayebi
+ORCID:
+orcid.org/0000-0003-3188-0760
+3
+,
+Dongrak Oh
+ORCID:
+orcid.org/0000-0003-4863-0477
+1
+,
+4
+,
+5
+,
+Seong-hun Lee
+6
+,
+Jesse E. Matthews
+ORCID:
+orcid.org/0009-0001-2733-3679
+4
+,
+5
+,
+Sang-Won Lee
+ORCID:
+orcid.org/0000-0001-6860-938X
+4
+,
+5
+,
+Tae Joo Shin
+ORCID:
+orcid.org/0000-0002-1438-3298
+6
+,
+Geunsik Lee
+ORCID:
+orcid.org/0000-0002-2477-9990
+2
+,
+Thomas F. Jaramillo
+ORCID:
+orcid.org/0000-0001-9900-0622
+4
+,
+5
+,
+Sung-Yeon Jang
+ORCID:
+orcid.org/0000-0002-4225-3167
+1
+,
+7
+&
+…
+Ji-Wook Jang
+ORCID:
+orcid.org/0000-0003-1251-1011
+1
+,
+7
+,
+8
+Show authors
+Nature Catalysis
+volume
+7
+,
+pages
+510–521 (
+2024
+)
+Cite this article
+9368
+Accesses
+17
+Altmetric
+Metrics
+details
+Subjects
+Artificial photosynthesis
+Electrocatalysis
+Photocatalysis
+Solar fuels
+Abstract
+Photoelectrochemical production of ammonia (NH
+3
+) is potentially eco-friendly but suffers from a low solar-to-ammonia productivity (SAP) and requires a high additional bias for the overall NH
+3
+production from nitrate reduction and water oxidation. Here we applied a high-performance triple-cation lead halide (Cs
+0.05
+(FA
+0.83
+MA
+0.17
+)
+0.95
+Pb(Br
+0.17
+I
+0.83
+)
+3
+) perovskite photocathode with integrated electrocatalyst to achieve high SAP and coupled glycerol oxidation instead of water oxidation for bias-free NH
+3
+production. Stable, selective NH
+3
+production and glycerol oxidation were achieved by respectively loading Ru and Pt electrocatalysts on conductive and stable titanate nanosheet supports, instead of corrodible carbon-based supports. Our photoelectrochemical NH
+3
+production system coupled to glycerol oxidation demonstrated a photocurrent density of 21.2 ± 0.7 mA cm
+−2
+and SAP of 1,744.9 ± 20.6 µg
+NH3
+cm
+−
+2
+h
+−
+1
+with 99.5 ± 0.8% Faradaic efficiency without applying any additional bias. Simultaneously, glycerol was selectively oxidized to glyceric acid as a major value-added product.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+A red-light-powered silicon nanowire biophotochemical diode for simultaneous CO
+2
+reduction and glycerol valorization
+Article
+30 July 2024
+Solar-driven highly selective conversion of glycerol to dihydroxyacetone using surface atom engineered BiVO
+4
+photoanodes
+Article
+Open access
+28 June 2024
+Solar-driven liquid multi-carbon fuel production using a standalone perovskite–BiVO
+4
+artificial leaf
+Article
+18 May 2023
+Main
+Ammonia (NH
+3
+) is the second most produced chemical after sulfuric acid
+1
+,
+2
+as a key precursor for fertilizers, food, pharmaceuticals and other essential chemicals
+3
+,
+4
+. It is mostly produced by the energy-intensive Haber–Bosch process at high temperature (400–450 °C) and high pressure (150–250 atm)
+5
+. This single process not only consumes 3–5% of natural gas and 1% of total energy worldwide, but also accounts for 1.4% of global CO
+2
+emission
+2
+,
+5
+. Thus, researchers have tried to develop energy-efficient and greener alternatives to the Haber–Bosch process
+6
+,
+7
+.
+Photoelectrochemical (PEC) nitrate (NO
+3
+−
+) reduction reaction (NITRR) for NH
+3
+production is a promising technique performed at ambient pressure and temperature without emitting CO
+2
+(refs.
+8
+,
+9
+,
+10
+). However, its practical application is hindered by the low solar-to-ammonia productivity (SAP) and high required bias
+11
+,
+12
+. Wang et al. applied the CoFeMnO/BiVO
+4
+photocathode for PEC nitrate reduction yielding up to 17.82 µg
+NH3
+cm
+−
+2
+h
+−1
+of NH
+3
+productivity and 0.36 mA cm
+−2
+at −0.1 V versus reversible hydrogen electrode (RHE)
+11
+(−0.1 V versus RHE corresponds to an applied potential of 1.33 V considering the thermodynamic potential required for water oxidation reaction
+13
+). Fan et al. utilized a ZnIn
+2
+S
+4
+/BiVO
+4
+photocathode to convert NO
+3
+−
+to NH
+3
+, and obtained a photocurrent density of 3.0 mA cm
+−
+2
+and SAP of 29.9 µg
+NH3
+cm
+−
+2
+h
+−
+1
+at −0.1 V versus RHE
+14
+. Hou et al. applied a TiO
+2
+/Al doped ZnO/Cu
+2
+O/Au photocathode in a tandem configuration for PEC nitrite reduction and obtained 70.2 µg
+NH3
+cm
+−2
+h
+−1
+and 0.9 mA cm
+−
+2
+NH
+3
+at 1.1 V versus counter electrode (CE)
+12
+. On the other hand, to advance the PEC NH
+3
+production technique with a target SAP > 1,000 µg
+NH3
+cm
+−
+2
+h
+−
+1
+, the photocurrent density must exceed 10 mA cm
+−
+2
+, which is also the criterion for the practical application of PEC hydrogen production technology
+13
+,
+15
+. Moreover, these values should be achieved without any external bias, because bias increases the production cost and energy requirement in PEC cells
+9
+,
+16
+,
+17
+. Unfortunately, previous studies achieved only SAP <100 µg
+NH3
+cm
+−
+2
+h
+−
+1
+and photocurrent densities of <5.0 mA cm
+−
+2
+even after applying external bias
+18
+,
+19
+. Such inadequate performance was mainly due to poor utilization of solar flux (that is, wide bandgaps of 2.1–3.0 eV) and slow charge transport in the inorganic-based photoelectrodes
+20
+,
+21
+. Moreover, NH
+3
+production coupled water with oxidation requires large additional bias due to the high thermodynamic potential for water oxidation (1.23 V)
+22
+.
+In this Article, we developed a high-performance PEC cell employing Cs
+0.05
+(FA
+0.83
+MA
+0.17
+)
+0.95
+Pb(Br
+0.17
+I
+0.83
+)
+3
+perovskite-based photocathode and Ru-loaded titanate nanosheet (TiNS) electrocatalyst (Ru@TiNS) for selective NITRR towards efficient NH
+3
+production (
+Methods
+). In addition, we adopted the glycerol oxidation reaction (GOR) on Pt-loaded TiNS electrocatalyst (Pt@TiNS), which requires a lower voltage (0.09–0.4 V)
+23
+,
+24
+compared with the water oxidation reaction to enable bias-free NH
+3
+production. We chose Cs
+0.05
+(FA
+0.83
+MA
+0.17
+)
+0.95
+Pb(Br
+0.17
+I
+0.83
+)
+3
+perovskite as the active material in the photocathode, because it shows much higher performance compared with that of conventional inorganic-based materials due to its relatively narrow bandgap and good charge transport property
+25
+,
+26
+. However, because lead halide perovskites are very unstable in water
+27
+, we applied Ni foil to protect the perovskite layer from electrolyte permeation. In addition, we used Field’s metal (FM)
+28
+, which is an eutectic alloy of indium, tin and bismuth, to form an intimate junction between the Ni foil and perovskite layer for easier and better charge transport (
+Methods
+). We selected TiNS as a support material because it is more stable than carbon-based supports (corrodible in alkaline solutions) and possesses a larger surface area and better conductivity than TiO
+2
+nanoparticles (TiO
+2
+-NP). Furthermore, Ru and Pt electrocatalysts deposited on TiNS for the NITRR and GOR respectively, provided enhanced stability and selectivity with low overpotentials
+29
+,
+30
+in the alkaline solution for each reaction. Our perovskite-based-photocathode combined with GOR anode showed a photocurrent of 21.2 ± 0.7 mA cm
+−
+2
+with the Faradaic efficiency (FE) of 99.5 ± 0.8% for NH
+3
+production under AM 1.5 G simulated one-sun condition (100 mW cm
+−2
+). Moreover, the performance was maintained for 24 h without noticeable degradation. Finally, we demonstrated bias-free solar NH
+3
+production with SAP of 1,744.9 ± 20.6 µg cm
+−
+2
+h
+−1
+, which is the most remarkable performance among all PEC cells for NH
+3
+production reported so far. Concurrent with NH
+3
+production, glycerol, a representative waste derived from biomass
+31
+, was oxidized to generate glyceric acid (GA) and lactic acid (LA) as value-added chemicals with 98.1 ± 2.4% of FE, and the portion of GA increased further as the reaction proceeded.
+Results
+Design of PEC cell for bias-free NH
+3
+production
+The PEC cell, consisting of two compartments, is designed to simultaneously produce NH
+3
+photoelectrochemically and valorize glycerol. The photocathode side incorporates a light-absorbing (Cs
+0.05
+(FA
+0.83
+MA
+0.17
+)
+0.95
+Pb(Br
+0.17
+I
+0.83
+)
+3
+) perovskite with Ru@TiNS as an electrocatalyst for selective NITRR in a nitrate-containing basic solution (0.5 M KNO
+3
++ 1.0 M KOH). The anode side contains a basic solution (0.5 M glycerol + 1.0 M KOH), and glycerol is oxidized on the GOR electrocatalyst (Pt@TiNS). To protect the photocathode from water permeation, the perovskite light-absorbing layer was integrated with Ru@TiNS using FM and Ni foil (
+Methods
+). Furthermore, the edge of the perovskite photocathode was protected by an epoxy bond. The perovskite layer generates electron–hole pairs upon illumination. These photogenerated electrons reach Ru@TiNS via the conductive FM and Ni foil, while the photogenerated holes reach Pt@TiNS. This process allows continuous and simultaneous NH
+3
+production and glycerol valorization (Fig.
+1
+).
+Fig. 1: Schematic of the PEC cell used for NH
+3
+production.
+Ru@TiNS/Ni/perovskite photocathode is combined with Pt@TiNS anode to achieve a simultaneous bias-free NH
+3
+production and glycerol valorization.
+Full size image
+Ru@TiNS characterizations and its NH
+3
+production performance
+An ion exchange-assisted exfoliation process was utilized to prepare TiNS (
+Methods
+)
+32
+. Figure
+2a
+represents the crystal phases of the TiNS and TiO
+2
+-NP, which are well indexed to the lepidocrocite-like layered structure and TiO
+2
+(JCPDS no. 021-1272), respectively
+33
+. Figure
+2b
+and Supplementary Fig.
+1
+display a transmission electron microscopy (TEM) image and selected area electron diffraction (SAED) pattern of highly crystalline TiNS. The average size of TiNS was 1–2 µm with a thickness of 1 nm (Fig.
+2c
+and Supplementary Fig.
+1
+). According to the X-ray photoelectron spectroscopy (XPS) results (Fig.
+2d
+), TiNS presents a negative shift of ~0.9 eV in the Ti 3
+p
+spectrum compared with TiO
+2
+-NP. The deconvoluted Ti 3
+p
+binding energy (Supplementary Fig.
+2a,b
+) shows that TiNS contain oxygen vacancies, and that TiNS has a lower oxidation state of Ti (Ti
+3+
+) compared with TiO
+2
+-NP (Ti
+4+
+)
+34
+.
+Fig. 2: Characterization and performance of Ru@TiNS electrocatalyst for NH
+3
+production.
+a
+, XRD patterns of catalysts.
+b
+, TEM image of TiNS. Inset: the corresponding SAED pattern.
+c
+, AFM image of TiNS on Si wafer surface. Inset: the line profile.
+d
+, XPS Ti 2
+p
+peak for TiO
+2
+-NP, TiNS and Ru@TiNS. Inset: the negative shift of Ti 2
+p
+peak.
+e
+, TEM and HR-TEM (inset) images of Ru@TiNS.
+f
+, Ru K-edge XANES of Ru@TiNS in comparison with Ru@TiO
+2
+-NP, Ru@rGO, RuO
+2
+and Ru metal.
+g
+,
+J–V
+curves of Ru@TiNS in the presence and absence of NO
+3
+−
+.
+h
+, Control experiment to measure cathodic reaction products in the presence and absence of NO
+3
+−
+in 1.0 M KOH solution, when a constant current density of 50 mA cm
+−
+2
+was applied to the working electrode. Here, Conc. defines the concentration of products measured, where units are indicated in brackets.
+i
+, LSV curves of Ru@TiNS in different electrolytes and those after 24-h continuous nitrate reduction experiment. The LSV curves were measured in an electrolyte containing 0.5 M KNO
+3
++ 1.0 M KOH at a scan rate of 5 mV s
+−
+1
+.
+j
+, NH
+3
+FE (%), current density (
+J
+, mA cm
+−
+2
+) and NH
+3
+concentration when Ru@TiNS was subjected to different applied potentials in the same electrolyte (0.5 M KNO
+3
++ 1.0 M KOH, 50 ml). The error bars show s.d. based on three Ru@TiNS NITRR electrocatalysts. Here the data are represented as average mean ± s.d.
+k
+, NH
+3
+FE for Ru@TiNS during 24-h operation in the chronopotentiometry configuration at a constant current of −200 mA cm
+−
+2
+in an electrolyte of 0.5 M KNO
+3
++ 1.0 M KOH.
+Source data
+Full size image
+After dispersing the TiNS monolayers in ethylene glycol (EG), a modified polyol procedure was utilized to deposit Ru catalyst for NITRR on the surface of TiNS support (
+Methods
+)
+35
+. The obtained Ru@TiNS was analysed using X-ray diffraction (XRD), XPS, high-resolution TEM (HR-TEM), energy-dispersive X-ray spectroscopy (EDS) mapping, and inductively coupled plasma optical emission spectroscopy (ICP-OES). The results show that highly crystalline Ru-NP (average diameter 1.72 ± 0.31 nm) were homogeneously deposited at 24.9 wt.% on TiNS (Fig.
+2e
+and Supplementary Figs.
+3
+and
+4
+). Compared with pristine TiNS, the Ti 3
+p
+and O 1
+s
+peak positions of Ru@TiNS were blue shifted by 0.7 V and 0.5 V, respectively (Supplementary Fig.
+4c,d
+) due to the strong interaction between catalyst and support
+34
+,
+36
+. These results above reveal that the Ru electrocatalyst was tightly combined with TiNS.
+The electrocatalytic performance of Ru@TiNS was measured under Ar and N
+2
+atmospheres both with and without NO
+3
+−
+(Fig.
+2g,h
+), using an H-type cell that was connected to a gas chromatograph (for detecting H
+2
+gas) and equipped with a liquid sampling root (for measuring NH
+3
+concentration). Regardless of the atmosphere (Ar or N
+2
+), without NO
+3
+−
+the onset potential was about −0.03 V versus RHE, and only the hydrogen evolution reaction (HER) occurred (the onset potential is defined as the voltage at which 0.5 mA cm
+−
+2
+is reached.). In the presence of NO
+3
+−
+, NH
+3
+was produced at a high FE of >95.4%, and a shift of the onset potential by 0.3 V indicated that NITRR requires less energy than HER. The FE value for NH
+3
+production was the same in Ar and N
+2
+atmospheres (Supplementary Fig.
+5a,b
+). NH
+3
+quantification was performed by a colourimetric method (indophenol blue, Supplementary Fig.
+6
+) and further verified by proton nuclear magnetic resonance (
+1
+H-NMR) (Supplementary Fig.
+7
+)
+37
+. The error between these two detection methods was <±5% (Supplementary Fig.
+8
+). Moreover, to further verify the source of NH
+3
+production, isotope measurements were conducted using
+15
+NO
+3
+−
+or
+15
+N
+2
+(Supplementary Fig.
+5c,d
+and Supplementary Fig.
+9
+). The isotope measurements revealed a doublet peak corresponding to
+15
+NH
+3
+only when
+15
+NO
+3
+−
+ions were present, whereas no doublet peak was observed in the presence of
+15
+N
+2
+. These isotope experiments strongly support and correlate with the aforementioned results and indicate that NH
+3
+originated solely from NO
+3
+−
+ions instead of N
+2
+. In addition, the in situ attenuated total reflectance Fourier-transform infrared spectroscopy (ATR-FTIR) results provided experimental evidence of N–O bond formation on Ru@TiNS, further confirming that NH
+3
+production originates from NO
+3
+−
+ions (Supplementary Figs.
+10
+and
+11
+and Supplementary Note
+1
+).
+To assess the role of TiNS support, the Ru catalyst was also loaded using the same polyol method on TiO
+2
+-NP (Ru@TiO
+2
+-NP) and reduced graphene oxide (Ru@rGO) supports with similar Ru loading (24.1–25.7%) to that of Ru@TiNS (24.9%, Supplementary Table
+1
+and Supplementary Fig.
+12
+). However, the average size of the loaded Ru nanoparticles was very different (7.39 ± 1.15 nm on TiO
+2
+-NP, 2.74 ± 0.65 nm on rGO, and 1.72 ± 0.31 nm on TiNS, Fig.
+2b
+and Supplementary Figs.
+13a
+and
+14a
+). The much larger diameter of Ru-NP on TiO
+2
+-NP is attributed to the relatively smaller surface area of the TiO
+2
+-NP substrate, which reduces the number of attachment sites for Ru-NP compared with the sheet-type TiNS (S
+TiNS
+≈ 4 S
+TiO2-NP
+, Supplementary Fig.
+13b
+). Although rGO also possesses a sheet-type morphology with large surface area (S
+rGO
+≈ 151 m
+2
+g
+−
+1
+, Supplementary Fig.
+14b
+), the interaction between Ru and rGO support is relatively weak compared with that between Ru and TiNS, as measured by XPS analysis of Ru@TiNS and Ru@rGO (Supplementary Fig.
+15
+). The XPS results revealed strong Ru–Ti bonding in Ru@TiNS as denoted above, while Ru–C bonding was not found in Ru@rGO (Supplementary Fig.
+15a,b
+). In addition, all the Ru 3
+p
+and O 1
+s
+core level peaks clearly showed blue shifts (1.2 and 2.2 eV, respectively) for Ru@TiNS compared with Ru@rGO, indicating stronger Ru–Ti interaction than Ru–C interaction
+38
+(Supplementary Fig.
+15c,d
+). The relatively weaker interaction between Ru and rGO can cause the relatively larger Ru-NP size as well as the lower stability of Ru@rGO. To further explore the interaction between Ru and substrates, we employed X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) techniques for Ru@TiNS, Ru@TiO
+2
+-NP, Ru@rGO and reference Ru compounds (Fig.
+2f
+and Supplementary Fig.
+16
+). The analysis revealed that Ru@TiNS exhibited a characteristic mixture of Ru–Ru and Ru–Ti peaks at 2.3 Å (Supplementary Fig.
+16a,b
+). Complementary XPS results for Ru@TiNS also confirmed the presence of Ru–Ti peaks (Supplementary Fig.
+2b, d
+). These findings suggest that Ru nanoparticles are strongly linked to the TiNS surface through oxygen vacancy sites, resulting in the formation of a Ru–Ti bond. However, Ru@TiO
+2
+-NP shows two peaks at 1.4 and 2.3 Å (Supplementary Fig.
+16b
+) that are related Ru–O and Ru–Ru bonds, respectively. Ru@rGO shows more complex oxidation states of Ru (Supplementary Fig.
+16c
+).
+Relative to Ru@TiO
+2
+-NP, the current density–voltage (
+J
+–
+V
+) curve of Ru@TiNS shows an anodic shift of the onset potential by 0.3 V and a three times higher current density for NITRR (Fig.
+2i
+). Ru@TiNS presents even higher activity and stability relative to Ru@rGO. The higher activity of Ru@TiNS relative to Ru@TiO
+2
+-NP is due to the more numerous and smaller Ru-NP as active sites and the much higher conductivity of TiNS compared with TiO
+2
+-NP (Supplementary Fig.
+17a
+). Density functional theory (DFT) calculations showed that TiNS exhibits higher conductivity compared with TiO
+2
+-NP (please refer to Supplementary Note
+2
+and Supplementary Fig.
+18
+for the detailed explanation). The presence of oxygen vacancies on TiNS transforms its semiconducting nature (Supplementary Fig.
+19a
+) into a metallic one (Supplementary Fig.
+19b–e
+). The unbound Ti 3
+d
+electrons create additional electronic states near the Fermi level, resulting in increased conductivity and facilitating faster charge transfer from the electrode to the electrolyte (Supplementary Fig.
+20
+). The higher stability of Ru@TiNS than Ru@rGO is attributed to the stable nature of inorganic TiNS (unlike the carbon-based rGO substrate) and strong interaction between Ru and TiNS, as explained above. The NH
+3
+FE over Ru@TiNS was >95% under a wide range of applied potentials (Fig.
+2j
+and Supplementary Fig.
+21a
+). Also, we measured FE (%) at several low nitrate concentrations, similar to those found in real wastewater (Supplementary Fig.
+21b
+). These results indicate the wide applicability of Ru@TiNS catalyst for selective production of NH
+3
+. Furthermore, upon increasing the negative bias, NH
+3
+production rate increased exponentially while maintaining a high FE (Fig.
+2j
+), which is favourable for practical applications. The electrocatalytic NITRR was operated continuously for 24 h at a high current density of 200 mA cm
+−
+2
+, and there was no sign of degradation in performance and FE (Fig.
+2k
+). Electrocatalytic conversion of isotopically labelled
+15
+NO
+3
+−
+to
+15
+NH
+3
+is measured at different time to discriminate the source of NH
+3
+. As shown in Supplementary Fig.
+22a
+,
+1
+H-NMR peaks only revealed the presence of doublet peaks with a spacing of 52 Hz corresponding to
+15
+NH
+3
+. The concentration and FE (%) for
+15
+NH
+3
+were also calculated for NITRR (Supplementary Fig.
+22b
+), indicating a good confirmation with indophenol blue method. The electrocatalytic performance of Ru@TiNS for NH
+3
+production is compared with previously developed electrocatalysts for NITRR (Supplementary Table
+2
+). To the best of our knowledge, the observed NH
+3
+production rate is the best among all reported electrocatalysts for NH
+3
+production (Supplementary Fig.
+23
+).
+Perovskite-based photocathode for solar NH
+3
+production
+We selected a triple-cation lead halide Cs
+0.05
+(FA
+0.83
+MA
+0.17
+)
+0.95
+Pb(Br
+0.17
+I
+0.83
+)
+3
+) perovskite as photoactive material, considering the balance in photocurrent and photovoltage and its relatively high photothermal stability
+26
+,
+39
+. The perovskite layer absorbs sunlight and generates charges, and the generated charges are selectively transported to the corresponding electrodes. For selective hole transfer from the perovskite layer to indium tin oxide (ITO), we inserted a PFN-Br/PTAA double layer (where PFN-Br is poly(9,9-bis(3′-(
+N
+,
+N
+-dimethyl)-
+N
+-ethylammonium-propyl-2,7-fluorene)-alt-2,7-(9,9-dioctlyfluorene) dibromide) and PTAA is poly-(triaryl) amine)
+26
+. The perovskite layer was fabricated using a conventional antisolvent dropping method. To improve the protection against moisture, photo- and thermal stress, a poly methyl-methacrylate (PMMA) protective layer was inserted between the perovskite layer and the electron transport layer (PCBM/BCP)
+40
+. The PMMA layer serves dual purposes of enhancing stability (as denoted above) and improving performance by mitigating surface defects, as depicted in Supplementary Fig.
+24
+. However, an excessively thick PMMA layer leads to a decreased performance by reducing charge transport efficiency. A PMMA layer with an optimal thickness of approximately 4 nm yields the best results (Supplementary Fig.
+24
+and Supplementary Table
+4
+). This thickness also aligns with the values reported in the literature
+37
+,
+41
+. To collect electrons, an Ag electrode was deposited by thermal evaporation at a reduced pressure (~10
+−
+6
+Torr). Onto the Ag cathode, Ni foil was connected with FM to form a charge conducting junction. Finally, the electrocatalyst (Ru@TiNS) was deposited on the Ni foil to complete the perovskite-based photocathode configuration (Fig.
+3a
+), as shown in the band structure diagram in Supplementary Fig.
+25
+. Notably, all fabrication processes for the photocathode were performed at relatively lower temperatures (<100 °C), which can potentially decrease the fabrication cost of the photocathode and the system.
+Fig. 3: PEC performance of perovskite photocathode for NH
+3
+production.
+a
+, Scheme of Ru@TiNS integrated with perovskite photocathode via FM and Ni foil.
+b
+, LSV curves of bare perovskite photocathode (green) and Ni/perovskite photocathode (red) measured in a three-electrode setup in 1.0 M KOH.
+c
+, Stability measured by chronoamperometry conducted at 0.0 V versus RHE.
+d
+, LSV curves of Ni/perovskite and Ru@TiNS/Ni/perovskite photocathodes towards solar NH
+3
+production in 1.0 M KOH with NO
+3
+−
+or NO
+2
+−
+.
+e
+, FE of Ni/perovskite and Ru@TiNS/Ni/perovskite photocathodes measured over 3 h at 0.62 V versus RHE. The error bars (black) show s.d. based on the average data of three Ru@TiNS/Ni/perovskite photocathode devices. Here the data are represented as average mean ± s.d.
+f
+, PEC conversion of
+15
+NO
+3
+−
+to
+15
+NH
+4
++
+. NMR spectra of
+15
+NH
+4
++
+at different times of reaction,
+g
+, IPCE (%) of the Ru@TiNS/Ni/perovskite photocathode measured at 0.62 V versus RHE.
+h
+, Long-term stability test for determining photostability, conducted in a three-electrode setup at 0.62 V versus RHE. All tests were conducted under AM1.5 G simulated one-sun conditions.
+Source data
+Full size image
+By using linear sweep voltammetry (LSV) with AM 1.5 G simulated one-sun in 1.0 M KOH solution, the
+J
+–
+V
+curves of photocathodes in various configurations were measured (Fig.
+3b
+). We prepared three types of perovskite photocathode: perovskite without passivation (bare perovskite), Ni foil on the perovskite (Ni/perovskite) and Ru@TiNS on Ni/perovskite (Ru@TiNS/Ni/perovskite). The onset potential of bare perovskite was −0.3 V versus RHE, whereas that of Ni/perovskite was shifted anodically by 670 mV (indicating a lower required bias) with a much higher saturated photocurrent density of >20 mA cm
+−
+2
+. Furthermore, the bare perovskite without Ni foil passivation lost its performance in a few minutes, while Ni/perovskite showed stable performance for 3 h (Fig.
+3c
+). When Ru@TiNS was loaded on Ni/perovskite, the onset potential was further shifted to 1.5 V (Fig.
+3d
+), indicating that Ru@TiNS adds substantial electrocatalytic activity for NITRR. The conversion of nitrate (NO
+3
+−
+) to nitrite (NO
+2
+−
+) has been suggested to be the rate-determining step of NH
+3
+production in NITRR
+19
+, a possibility to be explored by examining electrocatalyst performance in the presence of NO
+2
+−
+versus NO
+3
+−
+. Notably, the Ru@TiNS/Ni/perovskite photocathode gave almost identical LSV curves in the two solutions, whereas Ni/perovskite showed a measurably more positive onset potential in nitrite solution compared with that in the NO
+3
+−
+solution, suggesting that Ru@TiNS is more effective at addressing the initial steps in the NITRR reaction. Furthermore, the Ru@TiNS/Ni/perovskite photocathode showed a high FE towards NH
+3
+production (93.7 ± 0.6%), while the Ni/perovskite photocathode without Ru@TiNS showed only 37.9 ± 3.3% during 3 h continuous illumination under one-sun condition (Fig.
+3e
+). Besides NH
+3
+, the only other product generated over Ru@TiNS was NO
+2
+−
+. These results, together with those of Fig.
+3d
+and Supplementary Fig.
+26
+, show that Ru@TiNS can efficiently convert NO
+3
+−
+to NO
+2
+−
+and then to NH
+3
+, whereas Ni foil itself cannot carry out either conversion step as efficiently (Supplementary Fig.
+27
+). During the PEC measurement for Ru@TiNS/Ni/perovskite photocathode, the amount of
+15
+NH
+3
+generated by reduction of
+15
+NO
+3
+−
+were quantified using
+1
+H-NMR. Figure
+3f
+shows the
+1
+H-NMR spectra and Supplementary Fig.
+28
+its corresponding
+15
+NH
+3
+concentration and FE (%).
+To further verify the performance of the Ru@TiNS/Ni/perovskite photocathode for NITRR, in 1.0 M KOH + 0.5 M KNO
+3
+, the incident-photon-to-conversion efficiency (IPCE) was assessed utilizing a three-electrode arrangement (Fig.
+3g
+). Equation (
+1
+) was used to determine the IPCE as
+$${\rm{IPCE}}\,( \% )=\left(\frac{\text{1,240}\times {J_{\mathrm{p}}}}{{{P}}_{\lambda }\times \lambda }\right)\times 100,$$
+(1)
+where
+J
+p
+,
+λ
+and
+P
+λ
+are the photocurrent density (mA cm
+−2
+), illuminated light wavelength (nm) and power density (mW cm
+−2
+) at wavelength at
+λ
+, respectively. In the range 400–680 nm, we obtained an IPCE of >90%, which corresponds to an integrated photocurrent density of 20.23 mA cm
+−2
+(Fig.
+3g
+). This integrated photocurrent density agrees well with the photocurrent density obtained from the LSV curve (
+J
+= 20.42 mA cm
+−
+2
+). In addition, NH
+3
+was stably produced over the Ru@TiNS-based perovskite photocathode during a period of 24 h (Fig.
+3h
+and Supplementary Fig.
+29
+). Supplementary Note
+4
+and Supplementary Fig.
+30
+explain in detail the stability tests of the Ru@TiNS/Ni/perovskite photocathode.
+Characterization and GOR performance of Pt-loaded TiNS
+The GOR electrocatalyst (Pt@TiNS) was prepared by the same procedure as Ru@TiNS, except for utilizing H
+2
+PtCl
+6
+as the metal precursor. The XRD and HR-TEM results (Supplementary Figs.
+31
+and
+32
+) confirm the crystalline structure of Pt-NP, with a
+d
+-spacing of 0.23 nm corresponding to the (111) planes. The presence of Pt-NP is also reflected by the Pt 4
+f
+core level peaks in XPS analysis (Fig.
+4a
+). ICP, TEM and high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) coupled with EDS element mapping (Fig.
+4b,c
+) showed that 21.9 wt.% Pt (particle size 3.53 ± 0.69 nm) was decorated onto micro-size TiNS substrate. When the same procedure was conducted on TiO
+2
+-NP, a similar amount of Pt (22.6 wt.%) was deposited, but the average Pt particle size was substantially larger (10.82 ± 2.95 nm) due to the smaller surface area of TiO
+2
+-NP (Supplementary Table
+3
+and Supplementary Fig.
+33
+). Similar to Ru@TiNS, the same blue shift was detected in the Ti 2
+p
+high-resolution peaks for Pt@TiNS relative to Pt@TiO
+2
+-NP, indicating the presence of oxygen vacancies and Ti
+3+
+(Supplementary Fig.
+34a,b
+). The Pt 4
+f
+spectra of Pt@TiNS, Pt@TiO
+2
+-NP and Pt@C also show similar trends in the oxidation state of Ru (Supplementary Figs.
+4
+and
+15
+). Pt@TiNS shows mostly metallic species, indicating strong Pt–Ti bond formation (Supplementary Fig.
+34b
+,
+e
+). However, in the case of Pt@TiO
+2
+and Pt@C, partially oxidized Pt peaks appeared without showing the respective Pt–Ti and Pt–C bonds, which indicates weak interaction between these elements (Supplementary Fig.
+34d,f
+). We then compared the cyclic voltammetry (CV) curves of Pt@TiNS, Pt-TiO
+2
+-NP and a conventional Pt@C catalyst known to be active for GOR (20% Pt loading, Aldrich) in 1.0 M KOH and 0.5 M aqueous glycerol solution (pH 14, Fig.
+4d
+and Supplementary Table
+3
+). All three catalysts showed different current–voltage behaviours, reaching different peak current densities at different voltages, indicative of mass transport effects. The peak current density of Pt@TiNS was ~300 mA cm
+−
+2
+at 1.14 V versus RHE, which is an order of magnitude higher than that of Pt@TiO
+2
+-NP (~25 mA cm
+−
+2
+at 0.85 V versus RHE) and double that of Pt@C (~150 mA cm
+−
+2
+at 1.0 V versus RHE). The performance of Pt@C catalyst was similar to previously reported ones under various conditions (Supplementary Note
+5
+, Supplementary Table
+5
+and Supplementary Fig.
+35
+). To probe performance and stability within a kinetically limited regime, chronoamperometry measurements were conducted at 0.6 V versus RHE (Fig.
+4e
+and Supplementary Fig.
+36
+), revealing Pt@TiNS to be superior to both Pt@C and Pt@TiO
+2
+-NP. As mentioned in previous sections, carbon-based supports show high activity because of their high conductivity and large surface area but are unstable due to easy corrosion and weak interaction with the loaded Pt. TiO
+2
+-NP as an inorganic material is stable, yet it is not active owing to the low conductivity and small surface area. On the other hand, TiNS has not only good stability but also higher conductivity (indicated by impedance measurements in Supplementary Fig.
+37
+), large surface area (Supplementary Fig.
+13b
+) and high density of states (DFT results in Supplementary Fig.
+18
+), resulting in a higher activity.
+Fig. 4: Physiochemical and morphological characterization of prepared electrocatalysts.
+a
+, XPS data of Pt@TiNS. Inset: peak fitting of the Pt 4
+f
+spectra.
+b
+, TEM image of Pt@TiNS. Inset: average diameter of Pt-NP.
+c
+, HAADF-STEM and EDS elemental mapping of Pt@TiNS.
+d
+, CV curves of various Pt-based electrocatalysts for GOR in 1.0 M KOH + 0.5 M glycerol.
+e
+, Chronoamperometry curves of four cycles for Pt@TiNS, Pt@TiO
+2
+-NP, and Pt@C at 0.6 V versus RHE in 1.0 M KOH + 0.5 M glycerol.
+Source data
+Full size image
+Unassisted NH
+3
+production via simultaneous glycerol valorization
+Finally, we combined the Ru@TiNS/Ni/perovskite photocathode with the Pt@TiNS anode for bias-free NH
+3
+production with glycerol valorization. Figure
+5a
+shows LSV scans of the Ru@TiNS/Ni/perovskite photocathode overlapped with conventional oxygen evolution reaction (OER) and GOR. In the absence of glycerol (that is, when NH
+3
+production is combined with OER), the operating photocurrent decreases to 1.4 mA cm
+−
+2
+while with GOR the operating photocurrent is 20.5 mA cm
+−
+2
+at 0.0 V versus CE (Fig.
+5a
+and Supplementary Fig.
+38
+). These findings indicate that replacing OER with GOR is very critical for high-performance NH
+3
+production by lowering the required voltage. When 0.5 M glycerol was replaced with other biomass-derived reactants, such as 0.5 M EG or 0.5 M glucose, an unassisted photocurrent was also realized at 0.0 V versus CE, implying the possibility of using a wide range of biomass for highly efficient NH
+3
+production (Fig.
+5b
+). During 24-h operation using glycerol, this system maintained a stable photocurrent of 21.2 ± 0.7 mA cm
+−
+2
+and high NH
+3
+production rate with FE of 99.5 ± 0.8% (Fig.
+5c–f
+).
+Fig. 5: Unassisted NH
+3
+production with simultaneous glycerol valorization.
+a
+, Operating point 1 is determined from overlap of the Ru@TiNS/Ni/perovskite photocathode and the Pt@TiNS anode in the integrated system, affording a maximum attainable photocurrent of ~20.5 mA cm
+−
+2
+for unassisted solar NH
+3
+production and glycerol valorization in the catholyte and anolyte, respectively. Point 2 indicates the maximum photocurrent afforded when water oxidation is utilized instead of glycerol valorization.
+b
+, Gain in the potential when using different sources of biomass during unassisted NH
+3
+production measured in two-electrode setup.
+c
+, Chopped scan recorded for the Ru@TiNS/Ni/perovskite photocathode in a two-electrode setup.
+d
+, Chronoamperometry photocurrent density during 24-h operation of the unassisted system (6 h light, 30 min dark) in 1.0 M KOH + 0.5 M glycerol.
+e
+, Amount of NH
+3
+generated at the photocathode (filled blue symbols) and the corresponding FE (open blue symbols) throughout 24-h reaction at 0 V applied bias. The NO
+2
+−
+production (filled magenta symbols) and FE (open magenta symbols) are also shown. Error bars show s.d. based on the three integrated devices. Here the data are represented as average mean ± s.d.
+f
+, SAP statistics represented in box-and-overlap graph towards solar NH
+3
+and NO
+2
+−
+production during 24-h reaction (black line, mean; red line, error bar range within 1.5× interquartile range; grey circle, data points for individual measurement; box, full dataset range towards NH
+3
+or NO
+2
+−
+production.
+g
+, Comparison of SAP (left
+y
+axis) and photocurrent density (
+J
+, right
+y
+axis), for NH
+3
+generation via various routes. The detailed information is given in Supplementary Table
+6
+.
+h
+, FE (%) of GOR products in the bias-free system under continuous operation. The error bars show s.d. based on three Pt@TiNS GOR electrocatalysts when measured simultaneously with Ru@TiNS/Ni/perovskite photocathode conducted at 0 V in unassisted condition. Here the data are represented as average mean ± s.d. All experiments were conducted under AM1.5 G simulated one-sun condition.
+Source data
+Full size image
+Here SAP (μg cm
+−
+2
+h
+−
+1
+) is defined as the amount of NH
+3
+(mg) produced per hour over an area of 1 cm
+2
+under AM 1.5 G simulated one-sun condition, that is a good criterion for comparing the performance of solar NH
+3
+production cells. Our system combining the Ru@TiNS/Ni/perovskite photocathode and the Pt@TiNS anode showed SAP of 1,744.9 ± 20.6 μg cm
+−
+2
+h
+−
+1
+with a photocurrent density of 21.2 ± 0.7 mA cm
+−
+2
+without applying any bias. The corresponding error bars are shown in Supplementary Fig.
+39
+. To our knowledge, these are the top values among all reported photocatalytic (PC) and PEC cells for NH
+3
+production (Fig.
+5g
+and Supplementary Table
+6
+).
+GOR occurred on the Pt@TiNS anode at the same time as NH
+3
+production, and the GOR products were analysed by high-performance liquid chromatography (HPLC). Calibration curves obtained from the chromatograms are included in Supplementary Fig.
+40
+. For GOR on Pt@TiNS, we obtained GA and LA with a total FE of 98.1 ± 2.4% after 1 h, and the ratios of GA and LA were similar (Fig.
+5h
+, Supplementary Fig.
+41
+and Supplementary Note
+6
+). However, when the reaction time was prolonged to 10 h, the portion of GA gradually increased while that of LA decreased (Fig.
+5h
+). According to the known GOR mechanism (Supplementary Fig.
+42
+), glycerol is first oxidized to glyceraldehyde (GDA) through a two-electron transfer step, and then GDA is transformed to LA thorough dehydration followed by keto-enol tautomerization and benzylic acid rearrangement
+42
+. However, GDA could be further oxidized to GA through a two-electron transfer step as oxidation reaction proceeded on the anode, and thus the ratio of GA/LA increases with time (Supplementary Fig.
+43
+). A portion of GA and LA underwent further oxidation to form tartaric acid (TA) and formic acid (FA), respectively (Supplementary Fig.
+41
+). However, the FE of these reactions remained below 10% for each product, indicating low selectivity (>8.5%, Supplementary Fig.
+41
+). At steady state, the FE for GA reached 70%, much higher than the other three (12%, 10% and 9% for LA, FA and TA, respectively, Fig.
+5h
+). The net charge was conserved during the unassisted NITRR and GOR, as discussed in Supplementary Fig.
+44
+and Supplementary Note
+6
+. From these results, our system not only selectively produces NH
+3
+with high FE and SAP values, but also selectively generates GA as a major product at longer reaction times. Notably, these products were generated using only solar energy from chemicals considered as waste or low-value compounds, namely NO
+3
+−
+as a contaminant in water
+5
+,
+43
+and glycerol as representative byproduct of biomass on the cathode and anode sides, respectively. GA is a vital intermediate in the food, chemical and pharmaceutical industries. With an average price of around US$7,500 per ton, GA is approximately nine times more expensive than glycerol, which typically costs US$600–1,000 per ton
+17
+,
+44
+. This substantial price difference underscores the value and market demand for GA within those industries. However, to minimize the cost of separating GA from other side products, the ratio of GA production should be enhanced by developing more selective electrocatalysts.
+After 24 h of unassisted solar NITRR with simultaneous GOR, we performed ultraviolet–visible (UV–Vis) measurement on the perovskite photocathode and ICP-OES measurement on the catholyte and anolyte to check the stability of perovskite layer and catalysts (Supplementary Table
+7
+and Supplementary Fig.
+45
+). There was no notable change in the UV–Vis spectrum, and Pb was also undetected (Supplementary Fig.
+45
+and Supplementary Table
+7
+, respectively), indicating that the perovskite layer was stable after the test. Ru or Pt ions were not detected in the electrolytes when using TiNS as catalyst support. However, when we used TiO
+2
+-NP or carbon supports (rGO and carbon), small and considerable amounts of Ru and Pt were detected, respectively. These results indicate that a strong interaction between catalyst (Ru or Pt) and support (TiNS) is important for not only high performance but also high stability of the catalysts.
+Discussion
+We demonstrated unassisted NH
+3
+production with simultaneous glycerol valorization using a Ru@TiNS/Ni/perovskite photocathode and a Pt@TiNS anode. The high-performance and stable triple-cation halide perovskite enabled a high NH
+3
+production rate, and the substitution of OER with GOR reduced the required voltage. Furthermore, due to its good stability, conductivity and large surface area, TiNS was used as catalyst instead of conventional carbon-based or TiO
+2
+-NP supports for stable, selective and high-performance NITRR and GOR. Using this approach, we achieved a photocurrent density of 21.2 ± 0.7 mA cm
+−
+2
+and SAP of 1,744.9 ± 20.6 µg
+NH3
+cm
+−
+2
+h
+−
+1
+. This article reports bias-free NH
+3
+production exceeding 10 mA cm
+2
+and 1,000 µg
+NH3
+cm
+−
+2
+h
+−
+1
+, which are the main criteria for practical solar fuel application. Note that this process produces NH
+3
+from NO
+3
+−
+, a main source of contamination in water, while at the same time oxidizing, glycerol, a low-value byproduct derived from biomass, to produce a higher-value GA. This leads to high system efficiency and system productivity as both the anode and cathode contribute to producing value-added products from low-value/waste compounds. This motivates additional research and development, for example, on system scaleup and separation processes, to enable commercial systems.
+Methods
+Preparation of TiNS
+TiNS were synthesized by solid-state calcination of TiO
+2
+:K
+2
+CO
+3
+:LiCO
+3
+in a mole ratio of 1.0:0.23:0.078 according to previously reported procedures
+45
+. The mixed powder was finely ground for 30 min and calcined in two steps: heating at 900 °C for 1 h and gentle grinding after natural cooling to room temperature, and heating at 1,000 °C for 20 h and natural cooling to room temperature. In both calcination steps, the temperature rose at 10 °C min
+−
+1
+to reach the set point. The obtained layered parent microcrystals were washed three times with hot water to remove unreacted K
+2
+CO
+3
+and LiCO
+3
+. The washed K
+0.8
+Ti
+1.73
+Li
+0.27
+O
+4
+layered oxide was protonated by soaking in HCl solution (0.5 M) at room temperature for 3 days, and the solution was replaced daily with a fresh batch. To produce TiNS, the protonated titanate crystals (H
+1.0
+Ti
+1.73
+O
+4
+) were dispersed in an aqueous solution of tetramethylammonium hydroxide (TMAOH) and then shaken gently for 2 days. The molar ratio between TMAOH and the protonated solid was 1:1, and the solid-to-solution ratio was controlled at 4.0 mg ml
+−
+1
+. To avoid the deleterious impact of TMAOH molecules in electrocatalytic applications, TiNS was purified by adding an appropriate amount of Mg(NO
+3
+)
+2
+(0.5 M). Then, the suspension was separated by centrifugation for 30 min at 1,610
+g
+at room temperature. The supernatant containing TMA
++
+NO
+3
+−
+was discarded, and TiNS was collected as a precipitate. The precipitate was re-suspended in HCl (1 M) and sonicated for 30 min, to convert residual Mg(OH)
+2
+into MgCl
+2
+and remove it with the supernatant after centrifugation (2,862
+g
+). Finally, TiNS was dispersed in EG by a simple shaking process.
+Preparation of Ru@TiNS and Pt@TiNS
+TiNS loaded with Ru and Pt (denoted as Ru@TiNS and Pt@TiNS, respectively) were prepared by a modified polyol method. An appropriate amount of RuCl
+3
+or H
+2
+PtCl
+6
+precursor was added to isolated TiNS to reach 25 wt.% Ru or 20 wt.% Pt. Typically, TiNS (200 mg) was first dispersed in EG (50 ml) by shaking. Then, the Ru precursor solution (103.13 mg RuCl
+3
+·
+x
+H
+2
+O dissolved in 10 ml deionized water, equivalent to 50.25 mg of Ru) was added dropwise to TiNS dispersed in EG. In the case of Pt@TiNS, the Pt precursor solution (107.92 mg H
+2
+PtCl
+6
+·6H
+2
+O dissolved in 10 ml deionized water, equivalent to 40.63 mg of Pt) was added dropwise to 200 mg TiNS dispersed in EG. The end product was heated for 3 h at 190 °C in an N
+2
+environment. The final step involved centrifuging Ru@TiNS or Pt@TiNS after washing them three times in acetone. For comparison, Ru (or Pt) loaded onto TiO
+2
+nanoparticles (TiO
+2
+-NP) was synthesized with the same procedure but replacing TiNS with TiO
+2
+.
+Preparation of the catalyst ink and working electrode
+To study the electrocatalytic performance, a uniform ink dispersion was prepared by sonicating 2.0 mg of the electrocatalyst in 0.95 ml ethanol and 0.05 ml Nafion solution (5 wt.%) for 30 min, followed by stirring for 10 h. The obtained ink was sprayed onto the surface (1.5 cm
+2
+) of a clean carbon paper (CP) on a hotplate at 120 °C. The catalyst loading was accurately measured by weighting the CP with a microbalance with and without the electrocatalyst. The catalyst inks were sprayed onto one side of CP at a weight density of 1 mg cm
+−
+2
+. Considering that the electrocatalyst contained 25 wt.% of Ru or 20 wt.% of Pt, the Ru or Pt mass density was about 0.25 and 0.2 mg cm
+−
+2
+, respectively.
+Preparation of perovskite-based photocathode
+ITO/glass substrates were treated with UV/ozone for 30 min and then transferred to a N
+2
+-filled glovebox with both H
+2
+O and O
+2
+levels below 0.1 ppm. A PTAA solution (2 mg ml
+−
+1
+in toluene) was spin-cast at 4,000 rpm for 30 s, followed by heating at 100 °C for 15 min. After cooling to room temperature, a PFN-Br solution (0.5 mg ml
+−
+1
+in methanol) was deposited onto the PTAA films. The perovskite precursor solution was prepared by dissolving caesium iodide (CsI; 0.06 M), formamidinium iodide (FAI; 1 M), methylammonium bromide (MABr; 0.2 M), lead iodide (PbI
+2
+; 1.1 M), lead bromide (PbBr
+2
+; 0.2 M) and oleylamine (0.1 wt.%) in 1 ml of dimethylformamide/dimethyl sulfoxide (DMSO) mixed solvent (4/1, v/v). The perovskite layer was deposited using a two-step spin-coating procedure at 1,000 rpm for 5 s and then 5,000 rpm for 30 s. During the second step, 150 µl of chlorobenzene as an antisolvent was quickly dropped on the centre 10 s before the end of the whole spinning process. The film was annealed at 100 °C for 30 min. The perovskite film was coated with PMMA (1 mg ml
+−
+1
+in ethyl acetate) and spun at 5,000 rpm before being heated at 100 °C for 5 min. The electron transporting layer was deposited by spin-casting a PC
+61
+BM solution (25 mg ml
+−
+1
+in chlorobenzene) at 1,000 rpm for 30 s and a BCP solution (1 mg ml
+−
+1
+in isopropyl alcohol) at 4,000 rpm for 30 s. Finally, a 150-nm-thick Ag electrode was deposited via thermal evaporation at <10
+−
+6
+Torr. Ru@TiNS was sprayed on a piece of CP. After drying, the Ru@TiNS loaded on CP was connected to the Ni foil (0.6 cm × 0.6 cm, thickness ~0.1 mm, Alfa Aesar) with the silver (Ag) paste. This configuration was then attached to the Ag layer (top electrode of the perovskite solar cell) using FM, where it was melted at its melting point (62 °C), followed by cooling to room temperature according to a previous report
+28
+. The edges were then covered with epoxy resin. Finally, to complete the fabrication, small, enamelled piece of copper wire was connected to the samples via Ag paste, leaving them for at least 24 h to dry completely.
+Electrochemical nitrate reduction (NITRR)
+All NITRR experiments were performed in a three-electrode H-cell configuration, with constant stirring at 500 rpm in both compartments. CP with sprayed catalyst ink was used as the working electrode; Hg/HgO or Ag/AgCl as the reference electrode in alkaline or acidic medium, respectively; and a piece of clean Pt wire as the CE. The applied potential was expressed relative to the RHE using the following equation for conversion:
+$$E,{V}_{{{\mathrm{RHE}}}}=E,{V}_{\frac{{{\mathrm{Hg}}}}{{{\mathrm{HgO}}}}}\left({{\mathrm{or}}\; E},{V}_{\frac{{{\mathrm{Ag}}}}{{{\mathrm{AgCl}}}}}\right)+0.59\,{{\mathrm{pH}}}.$$
+(2)
+The two compartments in the H-cell were separated by a Nafion membrane. The concentrations of NH
+3
+and NO
+2
+−
+were measured periodically in the anolyte part to check product diffusion from the catholyte to the anolyte cell. When needed, a replenishment system was utilized to supply fresh NO
+3
+−
+electrolyte solution in the catholyte compartment. In the experiments, the H-cell was filled with 50 ml electrolyte solution in each half, and the system was connected online to the gas chromatograph to analyse the HER. It was also equipped with a sealed syringe to enable online sampling and measurement of NH
+3
+and NO
+2
+−
+concentrations (using the indophenol blue and Griess reagent protocols, respectively; Supplementary Fig.
+6
+). The FE for NH
+3
+and NO
+2
+−
+and the current density for NH
+3
+were calculated as follows:
+$${{{\mathrm{FE}}}}_{{{\mathrm{NH}}}3}=\frac{\left(8\times F\times {C}_{{{\mathrm{NH}}}3}\times V\,\right)}{Q}$$
+(3)
+$${{{\mathrm{FE}}}}_{{{\mathrm{NO}}}2}=\frac{\left(2\times F\times {C}_{{{\mathrm{NO}}}2}\times V\,\right)}{Q}$$
+(4)
+$${{{\mathrm{FE}}}}_{{\mathrm{H}}2}=\frac{\left(2\times F\times {C}_{{\mathrm{H}}2}\times V\,\right)}{Q}$$
+(5)
+where
+F
+is the Faraday constant,
+V
+is the volume of the electrolyte,
+Q
+is the transferred charge in the electrocatalytic reaction,
+C
+NH3
+and
+C
+NO2
+are respectively the molar concentrations of NH
+3
+and nitrite,
+m
+is the catalyst mass and
+t
+is the reaction time. Furthermore, the onset potential, which we define here to mean to the voltage at which 0.5 mA cm
+−
+2
+is reached.
+Electrochemical glycerol oxidation
+In the electrochemical glycerol oxidation experiment, Pt@TiNS sprayed on CP (loading: 1 mg cm
+−
+2
+) was used as the working electrode, Pt wire as the CE, and Hg/HgO as the reference electrode. A two-compartment cell was filled with 50 ml of 1.0 M KOH and 0.5 M glycerol as electrolyte on each side. The product concentration and selectivity were measured by a Waters 2535 high-performance liquid chromatograph equipped with UV and refractive index detectors and a Bio-Rad Aminex HPX-87H sugar column.
+PEC measurement
+PEC measurements were performed on each individual photocathode utilizing a half-cell reactor in 1.0 M KOH with various KNO
+3
+concentrations in a conventional three-electrode system. The working, reference and counter electrodes were integrated perovskite photocathode, Hg/HgO (1.0 M NaOH), and Pt mesh (1 cm × 1 cm). All potentials were measured against the Hg/HgO reference electrode and converted to the RHE reference scale using the equation
+E
+(
+V
+versus RHE) =
+E
+(
+V
+versus Hg/HgO) + 0.059 × pH + 0.118. For the unassisted measurement system, PEC tests were performed to reveal the long-term stability and concentration of formed products using 1.0 M KOH + 0.5 M KNO
+3
+(50 ml) as the catholyte and 1.0 M KOH + 0.5 M glycerol (50 ml) as the anolyte. The home-made glass reactor was used to conduct the unassisted experiments. A Nafion 117 membrane that had been pre-activated by soaking in deionized water for 2 h divided this two-compartment reactor in the middle. The geometric area of the photocathodes was used to normalize all current densities, and a 10 mV s
+−
+1
+scan rate was maintained. The simulated AM 1.5 G one-sun irradiation was achieved by using a water filter and a 300 W xenon lamp. By aligning a silicon reference cell (approved by Newport Corporation; PEC-SI01, Peccell Technologies) parallel to the light beam from the xenon lamp, the light intensity was adjusted on the ITO side (backside illumination) to one sun. The device was covered by black tape except for an aperture area of 0.096 cm
+2
+, which determined the illumination area. The absorbance measurements were conducted on a UV–Vis spectrometer (Agilent Cary 5000). The thickness of the PMMA layer was measured by first depositing the layer on thin ITO glass and then conducting ellipsometry (Elli-SE-UaM8).
+Indophenol blue method
+UV–Vis spectroscopy was utilized to measure NH
+3
+concentration by the indophenol blue method
+29
+,
+37
+,
+46
+. The samples were collected through the gas-sealed syringe line and diluted enough to be within detectable range. Then, into 1 ml mixed solution containing 1 M NaOH, 5 wt.% salicylic acid and 5 wt.% sodium citrate, 1 ml of diluted sample was added. In the next step, 0.5 ml NaClO (0.05 M) was added and mixed by pipetting method. Finally, 0.1 ml sodium nitroferricyanide solution (1.0 wt.%) was added, mixed and kept for 1 h under dark before UV–Vis spectrophotometry measurement. The peak absorbance at 655 nm was recorded, and the NH
+3
+concentration was calculated by calibration curve obtained using NH
+4
+Cl solutions (Supplementary Fig.
+6a,b
+).
+The NH
+3
+concentration was also measured by
+1
+H-NMR (500 MHz) according to a previous reported procedure
+46
+. The sample was diluted to the detection range and mixed with 0.1 ml DMSO, and its NMR spectrum was acquired on a Liquid Bruker Avance NMR spectrometer. The NH
+3
+concentration was evaluated using a standard calibration curve (Supplementary Fig.
+7
+).
+Nitrite detection
+The nitrite concentration was measured using a spectroscopy procedure reported elsewhere
+29
+.
+p
+-Aminobenzenesulfonamide (2.0 g) was dissolved in 50 ml deionized water. Another solution was prepared by mixing ethylenediamine dihydrochloride (0.1 g) and phosphoric acid (3.94 ml) in 50 ml deionized water. Both solutions were stored in the refrigerator and mixed in 1:1 volume ratio (colouring agent) just before the UV–Vis measurement. Then, 1.0 ml of the collected sample was diluted to reach the detection range, and 2.0 ml H
+2
+SO
+4
+(0.5 M) was added and finally 1.0 ml of the above prepared colouring agent. By using UV–Vis spectrophotometry, the intensity of the spectral peak at 540 nm was determined (UV-2600). A calibration curve was used to determine the concentration (Supplementary Fig.
+6c,d
+).
+Isotopically labelled ammonia (
+15
+NH
+3
+) detection
+To exclude the possibility of NH
+3
+detection by another source of contaminations (N
+2
+reduction reaction, electrode contamination or NH
+3
+injection through gas line or in air) isotopically labelled K
+15
+NO
+3
+(Sigma-Aldrich, 98 atom%
+15
+N) was utilized as N-source and the corresponding
+15
+NH
+3
++
+was quantified by
+15
+NH
+3
++
+(Agilent (Varian) VNMRS-600MHz spectrometer). Due to the clear identification of
+15
+NH
+3
++
+with doublet
+15
+NH
+3
++
+from triplet peaks of
+14
+NH
+3
++
+, overestimation of NH
+3
+concentration and consequently FE, percentage can be cancelled effectively. Isotopically labelled experiments were conducted for both electrocatalytic and PEC conversion of K
+15
+NO
+3
+to
+15
+NH
+4
++
+. The sample was taken from electrolyte at different time after starting reaction and then acidified to pH 3 by adding appropriate 3 M HCl. The sample then mixed with 0.1 ml DMSO, and its
+1
+H-NMR spectrum was obtained. The
+15
+NH
+4
++
+concentration was quantified based on the calibration curve acquired by a set of
+15
+NH
+4
+Cl (Sigma-Aldrich, 98 atom%
+15
+N) standard solutions (Supplementary Fig.
+9
+).
+Anolyte product quantification
+A certain amount of aliquot was analysed after each experiment using HPLC to calculate selectivity of the products via an Agilent 1260 infinity 2 chromatography equipped with a Hi-Plex H (7.7 × 300 mm, 8 μm) column. The selectivity of products was calculated by the following equation:
+$${{\mathrm{Selectivity}}}=\frac{{N}_{{\mathrm{D}}}}{{N}_{{\mathrm{T}}}}\times 100$$
+(6)
+$${\rm{Yield}}, \% =\frac{{N}_{{\mathrm{D}}}}{{a\times N}_{{\mathrm{i}}}}\times 100$$
+(7)
+where
+N
+T
+is the total sum of desired and undesired products,
+N
+i
+is the initial concentration of glycerol and
+N
+D
+is the desired product. For its quantification, the standard calibration curve was plotted on the basis of the concentration and integrated area in HPLC. Here the solvent for standard solution was H
+2
+SO
+4
+with proper concentration recommended for column.
+Characterization of materials
+Atomic force microscopy (AFM) in contact mode was utilized to measure the thickness and lateral size of isolated TiNS on the surface of a clean silicon wafer. TEM, HR-TEM and EDS attached to the TEM (JEOL JEM-2100F) were used to examine the uniform deposition of nanoparticles on the TiNS surface, and the crystallinity and
+d
+-spacing of Ru-NP and Pt-NP on the TiNS surface. Crystallinity of the prepared catalysts was examined by XRD (Rigaku D/MAX2500V/PC) with a copper rotating-anode X-ray source operating at 40 kV and 200 mA. XPS was utilized to study not only the elemental composition by full scan spectra, but also the oxidation states of elements by core-level peak fitting with a mixed function of 80% Gaussian and 20% Lorentzian after subtracting the Shirley background. The X-ray absorption spectroscopy experiments were conducted in transmission mode at PLS-II 6D UNIST-PAL beamline of Pohang Accelerator Laboratory (PAL) in Korea, operating at an electron energy of 3 GeV and a stored top-up current of ~250 mA. X-ray coming from the bending magnet was monochromated using a Si(111) double crystals monochromator (Kohzu Precision-Co. Ltd) with an energy resolution (Δ
+E
+/
+E
+) of 2 × 10
+−
+4
+. The incidence and transmitted X-ray intensities were monitored using IC Spec Ionization Chambers (FMB Oxford). Energy calibration was simultaneously carried out for each measurement with a standard metal foil placed in front of the third ionization chamber. After allowing the sample to dissolve in a 3:1 solution of HCl and HNO
+3
+called aqua regia and measuring the results using ICP-OES, the amounts of noble metals (Pt and Ru) on the TiNS surface were determined (Varian 700-ES).
+Electrochemical in situ ATR-FTIR measurement
+ATR-FTIR experiments were conducted in a custom flow cell. A peristaltic pump propelled the electrolyte over the working electrode at 20 ml min
+−1
+. Infrared (IR) spectra were collected using a Nicolet IS30 spectrometer equipped with an ATR-FTIR (VeeMAX III) with liquid nitrogen-cooled detector. A Si ATR crystal covered with 10 nm of Ti was used as the internal reflection element. The catalyst was then pressed down to the window surface. For each measurement, 128 spectra were collected at a resolution of 4 cm
+−
+1
+and averaged. Each potential was held until IR spectra became stable. The IR spectrum collected at 0.5 V versus RHE served as the background for all spectra collected at subsequent potentials. The experiments were conducted in 1.0 M KOH + 0.5 M K
+14
+NO
+3
+with D
+2
+O as a solvent. D
+2
+O solvent was used to clearly differentiate the adsorbate peaks, while other electrolytes including 1.0 M KOH + 0.5 M KNO
+2
+and H
+2
+O were also used for comparison.
+Computational details
+Spin-polarized DFT implemented in the Vienna ab initio simulation package (VASP) was used for all calculations
+47
+. The Perdew–Burke–Ernzerhof functional
+48
+within generalized gradient approximation was used to model exchange–correlation interactions. The projector augmented wave method was employed to describe the electron–nucleus interactions. To investigate the onsite Coulomb interaction of Ti 3
+d
+states, the Hubbard
+U
+values of 2.58 and 3 eV were selected, namely DFT +
+U
+, according to previous reports on TiO
+2
+(refs.
+49
+,
+50
+,
+51
+). The energy cut-off was 500 eV, and at least 15 Å vacuum space was applied to avoid interactions between adjacent layers in the direction perpendicular to the surface. The rutile TiO
+2
+(110) slab including three layers of O–Ti–O (nine atomic layers) that contained 108 atoms, 36 Ti and 72 O, (Supplementary Fig.
+19
+) was utilized as geometrical model in which all layers were fully relaxed. The Brillouin zone of supercell was sampled using 2 × 2 × 1 Monkhorst–Pack
+k
+-point grid, while denser
+k
+-points of 7 × 7 × 1 was employed for calculating density of states. The energy convergence and residual force criteria in the self-consistent field were set to 10
+−
+5
+eV and 0.02 eV Å
+−1
+, respectively.
+Data availability
+The experimental data in the main text or
+Supplementary Information
+during the current study are included in the paper and its
+Supplementary Information
+.
+Source data
+are provided with this paper.
+References
+Suryanto, B. H. R. et al. Challenges and prospects in the catalysis of electroreduction of nitrogen to ammonia.
+Nat. Catal.
+2
+, 290–296 (2019).
+Article
+CAS
+Google Scholar
+Ghavam, S., Vahdati, M., Wilson, I. A. G. & Styring, P. Sustainable ammonia production processes.
+Front. Energy Res.
+9
+, 1–19 (2021).
+Article
+Google Scholar
+Mehta, P. et al. Overcoming ammonia synthesis scaling relations with plasma-enabled catalysis.
+Nat. Catal.
+1
+, 269–275 (2018).
+Article
+Google Scholar
+Wang, M. et al. Can sustainable ammonia synthesis pathways compete with fossil-fuel based Haber–Bosch processes?
+Energy Environ. Sci.
+14
+, 2535–2548 (2021).
+Article
+CAS
+Google Scholar
+MacFarlane, D. R. et al. A roadmap to the ammonia economy.
+Joule
+4
+, 1186–1205 (2020).
+Article
+CAS
+Google Scholar
+Smith, C., Hill, A. K. & Torrente-Murciano, L. Current and future role of Haber–Bosch ammonia in a carbon-free energy landscape.
+Energy Environ. Sci.
+13
+, 331–344 (2020).
+Article
+Google Scholar
+Arnaiz del Pozo, C. & Cloete, S. Techno-economic assessment of blue and green ammonia as energy carriers in a low-carbon future.
+Energy Convers. Manag.
+255
+, 115312 (2022).
+Article
+CAS
+Google Scholar
+Ahmet, I. Y. et al. Demonstration of a 50 cm
+2
+BiVO
+4
+tandem photoelectrochemical–photovoltaic water splitting device.
+Sustain. Energy Fuels
+3
+, 2366–2379 (2019).
+Article
+CAS
+Google Scholar
+Mehrotra, R., Oh, D. & Jang, J. W. Unassisted selective solar hydrogen peroxide production by an oxidised buckypaper-integrated perovskite photocathode.
+Nat. Commun.
+12
+, 1–9 (2021).
+Article
+Google Scholar
+Grätzel, M. Photoelectrochemical cells.
+Nature
+414
+, 338–344 (2001).
+Article
+PubMed
+Google Scholar
+Wang, F. et al. Fabrication of an amorphous metal oxide/p-BiVO
+4
+photocathode: understanding the role of entropy for reducing nitrate to ammonia.
+Inorg. Chem. Front.
+9
+, 805–813 (2022).
+Article
+CAS
+Google Scholar
+Song, Y. et al. Simultaneous photoelectrocatalytic oxidation and nitrite–ammonia conversion with artificial photoelectrochemistry cells.
+Adv. Energy Mater.
+12
+, 2201782–2201792 (2022).
+Article
+CAS
+Google Scholar
+Kim, J. H., Hansora, D., Sharma, P., Jang, J. W. & Lee, J. S. Toward practical solar hydrogen production-an artificial photosynthetic leaf-to-farm challenge.
+Chem. Soc. Rev.
+48
+, 1908–1971 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, F. et al. Frustrated Lewis pairs boosting photoelectrochemical nitrate reduction over ZnIn
+2
+S
+4
+/BiVO
+4
+heterostructure.
+Chem. Eng. J.
+450
+, 138260 (2022).
+Article
+CAS
+Google Scholar
+Lewis, N. S. & Nocera, D. G. Powering the planet: chemical challenges in solar energy utilization.
+Proc. Natl Acad. Sci. USA
+103
+, 15729–15735 (2006).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Ko, M. et al. Direct propylene epoxidation with oxygen using a photo-electro-heterogeneous catalytic system.
+Nat. Catal.
+5
+, 37–44 (2022).
+Article
+CAS
+Google Scholar
+Bhattacharjee, S. et al. Reforming of soluble biomass and plastic derived waste using a bias-free Cu
+30
+Pd
+70
+|Perovskite|Pt photoelectrochemical device.
+Adv. Funct. Mater.
+32
+, 2109313–2109325 (2022).
+Article
+CAS
+Google Scholar
+Li, X. et al. Photoelectrochemical reduction of nitrate to ammonia over CuPc/CeO
+2
+heterostructure: understanding the synergistic effect between oxygen vacancies and Ce sites.
+Chem. Eng. J.
+433
+, 133225–133233 (2022).
+Article
+CAS
+Google Scholar
+Kim, H. E. et al. Photoelectrochemical nitrate reduction to ammonia on ordered silicon nanowire array photocathodes.
+Angew. Chem. Int. Ed.
+61
+, e202204 (2022).
+Article
+Google Scholar
+Tayebi, M. et al. Highly efficient and stable WO
+3
+/MoS
+2
+-MoOX photoanode for photoelectrochemical hydrogen production; a collaborative approach of facet engineering and P–N junction.
+Chem. Eng. J.
+446
+, 136830–136845 (2022).
+Article
+CAS
+Google Scholar
+Ko, M. et al. Unassisted solar lignin valorisation using a compartmented photo-electro-biochemical cell.
+Nat. Commun.
+10
+, 1–10 (2019).
+Article
+Google Scholar
+Zhang, P. et al. Dendritic core–shell nickel–iron–copper metal/metal oxide electrode for efficient electrocatalytic water oxidation.
+Nat. Commun.
+9
+, 1–10 (2018).
+Google Scholar
+Sheng, H. et al. Linear paired electrochemical valorization of glycerol enabled by the electro-Fenton process using a stable NiSe
+2
+cathode.
+Nat. Catal.
+5
+, 716–725 (2022).
+Article
+CAS
+Google Scholar
+Liu, D. et al. Selective photoelectrochemical oxidation of glycerol to high value-added dihydroxyacetone.
+Nat. Commun.
+10
+, 1779 (2019).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Nie, W. et al. High-efficiency solution-processed perovskite solar cells with millimeter-scale grains.
+Science
+347
+, 522–526 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Saliba, M. et al. Cesium-containing triple cation perovskite solar cells: Improved stability, reproducibility and high efficiency.
+Energy Environ. Sci.
+9
+, 1989–1997 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Ni, Z. et al. Evolution of defects during the degradation of metal halide perovskite solar cells under reverse bias and illumination.
+Nat. Energy
+7
+, 65–73 (2022).
+Article
+CAS
+Google Scholar
+Crespo-Quesada, M. et al. Metal-encapsulated organolead halide perovskite photocathode for solar-driven hydrogen evolution in water.
+Nat. Commun.
+7
+, 6–12 (2016).
+Article
+Google Scholar
+Li, J. et al. Efficient ammonia electrosynthesis from nitrate on strained ruthenium nanoclusters.
+J. Am. Chem. Soc.
+142
+, 7036–7046 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, Y., Yu, W., Raciti, D., Gracias, D. H. & Wang, C. Electrocatalytic oxidation of glycerol on platinum.
+J. Phys. Chem. C
+123
+, 426–432 (2019).
+Article
+CAS
+Google Scholar
+Uekert, T., Pichler, C. M., Schubert, T. & Reisner, E. Solar-driven reforming of solid waste for a sustainable future.
+Nat. Sustain.
+4
+, 383–391 (2021).
+Article
+Google Scholar
+Xiong, P. et al. 2D superlattices for efficient energy storage and conversion.
+Adv. Mater.
+32
+, 1–12 (2020).
+Article
+Google Scholar
+Sasaki, T. et al. A mixed alkali metal titanate with the lepidocrocite-like layered structure. Preparation, crystal structure, protonic form, and acid-base intercalation properties.
+Chem. Mater.
+10
+, 4123–4128 (1998).
+Article
+CAS
+Google Scholar
+Naik, K. M., Higuchi, E. & Inoue, H. Pt nanoparticle-decorated two-dimensional oxygen-deficient TiO
+2
+nanosheets as an efficient and stable electrocatalyst for the hydrogen evolution reaction.
+Nanoscale
+12
+, 11055–11062 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Fievet, F. et al. The polyol process: a unique method for easy access to metal nanoparticles with tailored sizes, shapes and compositions.
+Chem. Soc. Rev.
+47
+, 5187–5233 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Lee, Y. et al. Support structure–catalyst electroactivity relation for oxygen reduction reaction on platinum supported by two-dimensional titanium carbide.
+Nano Energy
+79
+, 105363–105373 (2021).
+Article
+CAS
+Google Scholar
+Wu, Z. Y. et al. Electrochemical ammonia synthesis via nitrate reduction on Fe single atom catalyst.
+Nat. Commun.
+12
+, 1–10 (2021).
+Google Scholar
+Li, Z. et al. Two-dimensional transition metal carbides as supports for tuning the chemistry of catalytic nanoparticles.
+Nat. Commun.
+9
+, 1–8 (2018).
+Article
+Google Scholar
+Son, D. Y. et al. Universal approach toward hysteresis-free perovskite solar cell via defect engineering.
+J. Am. Chem. Soc.
+140
+, 1358–1364 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Peng, J. et al. Nanoscale localized contacts for high fill factors in polymer-passivated perovskite solar cells.
+Science
+371
+, 390–395 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Ochoa-Martinez, E. et al. Physical passivation of grain boundaries and defects in perovskite solar cells by an isolating thin polymer.
+ACS Energy Lett.
+6
+, 2626–2634 (2021).
+Article
+CAS
+Google Scholar
+Torres, A., Roy, D., Subramaniam, B. & Chaudhari, R. V. Kinetic modeling of aqueous-phase glycerol hydrogenolysis in a batch slurry reactor.
+Ind. Eng. Chem. Res.
+49
+, 10826–10835 (2010).
+Article
+CAS
+Google Scholar
+van Langevelde, P. H., Katsounaros, I. & Koper, M. T. M. Electrocatalytic nitrate reduction for sustainable ammonia production.
+Joule
+5
+, 290–294 (2021).
+Article
+Google Scholar
+Pagliaro, M., Ciriminna, R., Kimura, H., Rossi, M. & Della Pina, C. From glycerol to value-added products.
+Angew. Chem. Int. Ed.
+46
+, 4434–4440 (2007).
+Article
+CAS
+Google Scholar
+Ament, K. et al. Enhancing the catalytic activity of palladium nanoparticles via sandwich-like confinement by thin titanate nanosheets.
+ACS Catal.
+11
+, 2754–2762 (2021).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Andersen, S. Z. et al. A rigorous electrochemical ammonia synthesis protocol with quantitative isotope measurements.
+Nature
+570
+, 504–508 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+PubMed
+Google Scholar
+Kamachi, T. et al. Linear correlations between adsorption energies and HOMO levels for the adsorption of small molecules on TiO
+2
+surfaces.
+J. Phys. Chem. C
+123
+, 20988–20997 (2019).
+Article
+CAS
+Google Scholar
+Xu, H., Cheng, D., Cao, D. & Zeng, X. C. A universal principle for a rational design of single-atom electrocatalysts.
+Nat. Catal.
+1
+, 339–348 (2018).
+Article
+CAS
+Google Scholar
+Portillo-Vélez, N. S., Olvera-Neria, O., Hernández-Pérez, I. & Rubio-Ponce, A. Localized electronic states induced by oxygen vacancies on anatase TiO
+2
+(101) surface.
+Surf. Sci.
+616
+, 115–119 (2013).
+Article
+Google Scholar
+Download references
+Acknowledgements
+The National Research Foundation (NRF; RS-2023-00222006 and 2023R1A2C3002881 to J.S.-Y.; 2019M1A2A2065612, 2021R1C1C1012258, 2019H1D3A1A01103006, 2016R1A5A1012966 and 2022H1D3A3A01081140 to J.-W.J.), as well as the Research Fund (1.230040.01 to J.-W.J.) of the UNIST, sponsored this study (Ulsan National Institute of Science and Technology). J.-W.J. also acknowledges the Alchemist Project funded by the Ministry of Trade, Industry and Energy thorough the Korean Evaluation Institute of Industrial Technology (1415184376 (20019321)). T.F.J. was supported as part of the Cleantech FWP 100898 funded by the U.S. Department of Energy (DOE), Office of Science, Basic Energy Sciences (BES) for ATR-SEIRAS studies. J.M. acknowledges a graduate fellowship through the National Science Foundation Graduate Research Fellowship under grant no. DGE-1656518. Experiments at PLS-II 6D UNIST-PAL beamline were supported in part by MSIT, POSTECH and UNIST Central Research Facilities.
+Author information
+Author notes
+These authors contributed equally: Ahmad Tayyebi, Rashmi Mehrotra, Muhibullah Al Mubarok, Jieun Kim.
+Authors and Affiliations
+School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea
+Ahmad Tayyebi, Rashmi Mehrotra, Muhibullah Al Mubarok, Jieun Kim, Dongrak Oh, Sung-Yeon Jang & Ji-Wook Jang
+Department of Chemistry, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea
+Mohammad Zafari & Geunsik Lee
+Advanced Industrial Chemistry Research Center, Advanced Convergent Chemistry Division, Korea Research Institute of Chemical Technology, Ulsan, Republic of Korea
+Meysam Tayebi
+SUNCAT Center for Interface Science and Catalysis, Department of Chemical Engineering, Stanford University, Stanford, CA, USA
+Dongrak Oh, Jesse E. Matthews, Sang-Won Lee & Thomas F. Jaramillo
+SUNCAT Center for Interface Science and Catalysis, SLAC National Accelerator Laboratory, Menlo Park, CA, USA
+Dongrak Oh, Jesse E. Matthews, Sang-Won Lee & Thomas F. Jaramillo
+Graduate School of Semiconductor Materials and Devices Engineering, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea
+Seong-hun Lee & Tae Joo Shin
+Graduate School of Carbon Neutrality, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea
+Sung-Yeon Jang & Ji-Wook Jang
+Emergent Hydrogen Technology R&D Centre, Ulsan National Institute of Science and Technology, Ulsan, Republic of Korea
+Ji-Wook Jang
+Authors
+Ahmad Tayyebi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Rashmi Mehrotra
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Muhibullah Al Mubarok
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jieun Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mohammad Zafari
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Meysam Tayebi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dongrak Oh
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Seong-hun Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jesse E. Matthews
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sang-Won Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tae Joo Shin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Geunsik Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Thomas F. Jaramillo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sung-Yeon Jang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ji-Wook Jang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+A.T. and J.-W.J. conceived and proposed this work. T.F.J., S.-Y.J. and J.-W.J. directed the project. A.T., R.M., M.A.M. and J.K. designed and performed the experiments. A.T. synthesized and characterized Ru@TiNS, Pt@TiNS and Ru@rGO. J.K. and A.T. measured the catalytic performance for NITRR, and GOR with quantification of products. M.A.M. prepared and characterized the perovskite. R.M. integrated perovskite with Ru@TiNS and conducted the PEC experiments. A.T. and R.M. designed and performed the bias-free experiments. M.Z. and G.L. performed the DFT calculations and analysed them. M.T. analysed and deconvoluted the XPS results. D.O. helped with the UV–Vis and HPLC measurements. D.O., J.E.M., S.-W.L. and T.F.J. measured and analysed the in situ IR spectra. S.-h.L. and T.J.S. conducted XANES and EXAFS experiments and analysed them. A.T., R.M., M.A.M., J.K., T.F.J., J.S.-Y. and J.-W.J. co-wrote the manuscript. All authors read and commented on the manuscript.
+Corresponding authors
+Correspondence to
+Thomas F. Jaramillo
+,
+Sung-Yeon Jang
+or
+Ji-Wook Jang
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks Jungang Hou and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–45, Tables 1–7, Notes 1–5 and references.
+Supplementary Data 1
+Source data for Supplementary Figs. 1–45 and Tables 1–7.
+Supplementary Code 2
+Source data for supplementary DFT structure (zip file of Supplementary Figs. 19a–d and 20a,b).
+Source data
+Source Data Fig. 2
+Source data and statistical source data for Fig. 2j.
+Source Data Fig. 3
+Source data and statistical source data for Fig. 3e.
+Source Data Fig. 4
+Source data.
+Source Data Fig. 5
+Source data and statistical source data for Fig. 5e,f,h.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Tayyebi, A., Mehrotra, R., Mubarok, M.A.
+et al.
+Bias-free solar NH
+3
+production by perovskite-based photocathode coupled to valorization of glycerol.
+Nat Catal
+7
+, 510–521 (2024). https://doi.org/10.1038/s41929-024-01133-4
+Download citation
+Received
+:
+01 October 2022
+Accepted
+:
+23 February 2024
+Published
+:
+01 April 2024
+Issue Date
+:
+May 2024
+DOI
+:
+https://doi.org/10.1038/s41929-024-01133-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

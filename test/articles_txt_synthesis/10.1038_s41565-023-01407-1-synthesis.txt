@@ -1,0 +1,207 @@
+Methods
+Synthesis of M
+1
+/MoS
+2
+catalysts
+A series of M
+1
+/MoS
+2
+SASCs were prepared according to the designed synthetic protocol as follows. First, 1 mmol Mo source (176 mg, (NH
+4
+)
+6
+Mo
+7
+O
+24
+·4H
+2
+O), a certain amount of metal salts (Mn(CH
+3
+COO)
+2
+·4H
+2
+O, Fe(CH
+3
+COO)
+2
+·4H
+2
+O, Co(CH
+3
+COO)
+2
+·4H
+2
+O and Ni(CH
+3
+COO)
+2
+·4H
+2
+O) and 750 mg CH
+3
+CSNH
+2
+(10.0 mmol) were dissolved in 70 ml distilled water. The solution containing precursors was then transferred into a Teflon-lined autoclave (100 ml). Subsequently, it was sealed and maintained at 180 °C for 20 h and then naturally cooled to room temperature. The resulting product was washed with distilled water and absolute ethanol several times, and dried under vacuum at 60 °C for 12 h. Under an Ar flow of 100 sccm, the dried product was heated to 400 °C at a rate of 10 °C min
+−1
+and kept there for 2 hours in a furnace, and then cooled to room temperature. A series of M
+1
+/MoS
+2
+SASCs can be obtained using this approach by tuning the contents and types of metal salt precursors (
+n
+M
+/
+n
+Mo max
+= 20 at.%).
+Electrochemical measurements
+The OER measurements including cyclic voltammetry and linear sweep voltammetry polarization curves were performed using a CHI 760D workstation (CH Instruments) with a counter electrode of a graphite rod (diameter, 5 mm; 99.999%) and a reference electrode of Hg/Hg
+2
+Cl
+2
+(saturated KCl). Electrochemical impedance spectroscopy was carried out in the frequency range of 0.01 Hz to 100,000 Hz. All the potentials were calibrated against the reversible hydrogen electrode (RHE), where
+E
+RHE
+=
+E
+ref
++ 0.059pH + 0.241.
+E
+ref
+is the experimental potential measured against the Hg/Hg
+2
+Cl
+2
+reference electrode, and 0.241 is the standard potential of Hg/Hg
+2
+Cl
+2
+at 25 °C (refs.
+47
+,
+48
+).
+Electrode fabrication
+A piece of copper (Cu) foam was sonicated in acetone, ethanol and distilled water for several minutes, prior to the preparation of the electrode. Some 15 mg MoS
+2
+-based catalyst was added into a mixture of 0.90 ml ethanol and 100 μl Nafion (Dupont, 5 wt%) with 1 h ultrasonic treatment. Some 100 μl fresh catalyst ink was dropped onto a piece of Cu foam (0.5 cm × 2 cm; the surface area of the catalyst deposited on the electrode is 0.5 cm
+2
+) and dried at room temperature for 12 h. All tests were performed in 1.0 M KOH solution saturated with oxygen gas (O
+2
+). For a comparison, 10 mg IrO
+2
+catalyst was added into a mixture of 0.90 ml ethanol and 100 μl Nafion with 1 h ultrasonic treatment. Some 100 μl of fresh catalyst ink was dropped onto a piece of Cu foam, and the loading of IrO
+2
+on the Cu foam was 1 mg cm
+−2
+. The samples were run for ten cycles to reach a steady state. The linear scan voltammetry measurements for the MoS
+2
+and IrO
+2
+catalysts were recorded in O
+2
+-saturated electrolyte at a scan rate of 5 mV s
+−1
+. Cyclic voltammetry curves were recorded from 0.37 to 0.57 V versus RHE with a scan rate of 10 mV s
+−1
+to 120 mV s
+−1
+to measure the electrochemical double-layer capacitance (
+C
+dl
+). The long-term stability was measured by chronoamperometric response under magnetic stirring. OER performances under different magnetic fields were performed by tuning the distances between the electrode and magnets. Seawater was collected from Sentosa beach (Singapore), and filtrated by filter paper.
+The Cu foil loaded with the catalyst (0.2 mg cm
+−2
+) acted as the work electrode (anode), and the Pt wire was the cathode. Ten neodymium magnets (one magnet, 3 cm × 2 cm × 0.5 cm) were stacked and placed near the anode of the water splitting cell. The magnetic field experienced by the electrode was carefully calibrated using a Gauss meter (TD8620, Shenzhen; Supplementary Fig.
+53
+). A large water splitting cell was constructed using two 6 cm × 10 cm carbon papers loaded with Ni
+1
+/MoS
+2
+(3 mg cm
+−2
+, 6 cm × 7 cm) and Pt/C (20 wt% Pt, 3 mg cm
+−2
+, 6 cm × 7 cm) as the anode and cathode, respectively. One hundred neodymium magnets (3 cm × 2 cm × 0.5 cm) were compiled into a large magnet and placed near the anode.
+DFT calculations
+The first-principles calculations were performed by using DFT implemented in the Vienna Ab initio Simulation Package
+49
+,
+50
+,
+51
+. The electron exchange and correction were calculated with the generalized gradient approximation in the parametrization of Perdew–Burke–Ernzerhof
+52
+pseudopotentials including Coulomb repulsion term U in the Hubbard Hamiltonian (DFT +
+U
+formalism) based on Dudarev’s approach
+53
+. The projector augmented-wave method with a plane-wave cut-off of 500 eV was used. The electronic states of 4
+d
+5
+5
+s
+1
+, 3
+s
+2
+3
+p
+4
+, 3
+p
+6
+3
+d
+8
+4
+s
+2
+, 2
+p
+2
+2
+p
+4
+and 1
+s
+1
+were treated as valence states for Mo, S, Ni, O and H atoms, respectively. According to the experimental Ni loading concentration, the 4 × 4 × 1 supercell of MoS
+2
+with one Mo atom replaced by a Ni atom was used to simulate the doping effect. A vacuum slab of 16 Å was added to avoid the interlayer interaction. The structures were relaxed with a 2 × 2 × 1 gamma-centred k-point mesh for the supercell, and the electronic self-consistent calculations were performed using the 5 × 5 × 1 k-point mesh. The relaxation was considered to be converged if the Hellmann–Feynman force was less than 0.01 eV Å
+–1
+, and the energy convergence was set as 10
+−7
+eV for all calculations with a Gaussian smearing of 0.05 eV. The gas-phase O
+2
+and H
+2
+O were performed in a cubic box with a lattice constant of 15 Å using a single gamma k point. To consider the strong electron correlation effect, a
+U
+eff
+= 2.5 eV was assigned to 3
+d
+electrons for Ni atoms
+54
+,
+55
+.
+The charge transfer was analysed by the Bader charge with a grid of 384 × 384 × 480 (ref.
+56
+). The differential electron density was also implemented to analyse the charge transfers during the adsorption process. The differential electron density was attained by the formula
+$$\Delta {\rm{\rho }}={\rho }_{{\mathrm{AB}}}-{\rho }_{{\mathrm{A}}}-{\rho }_{{\mathrm{B}}}$$
+where
+ρ
+AB
+represents the charge density of the whole system after absorption, and
+ρ
+A
+and
+ρ
+B
+represent the charge densities of the adsorbed species and catalyst, respectively.

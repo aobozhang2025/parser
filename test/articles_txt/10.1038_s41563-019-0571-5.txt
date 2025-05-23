@@ -1,0 +1,2187 @@
+Atomic-level tuning of Co–N–C catalyst for high-performance electrochemical H2O2 production | Nature Materials
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature materials
+articles
+article
+Atomic-level tuning of Co–N–C catalyst for high-performance electrochemical H
+2
+O
+2
+production
+Download PDF
+Article
+Published:
+13 January 2020
+Atomic-level tuning of Co–N–C catalyst for high-performance electrochemical H
+2
+O
+2
+production
+Euiyeon Jung
+1
+,
+2
+na1
+,
+Heejong Shin
+1
+,
+2
+na1
+,
+Byoung-Hoon Lee
+1
+,
+2
+na1
+,
+Vladimir Efremov
+3
+,
+Suhyeong Lee
+3
+,
+Hyeon Seok Lee
+1
+,
+2
+,
+Jiheon Kim
+1
+,
+2
+,
+Wytse Hooch Antink
+1
+,
+2
+,
+Subin Park
+1
+,
+2
+,
+Kug-Seung Lee
+ORCID:
+orcid.org/0000-0002-7570-8404
+4
+,
+Sung-Pyo Cho
+5
+,
+Jong Suk Yoo
+ORCID:
+orcid.org/0000-0001-6472-7004
+3
+,
+Yung-Eun Sung
+ORCID:
+orcid.org/0000-0002-1563-8328
+1
+,
+2
+&
+…
+Taeghwan Hyeon
+ORCID:
+orcid.org/0000-0001-5959-6257
+1
+,
+2
+Show authors
+Nature Materials
+volume
+19
+,
+pages
+436–442 (
+2020
+)
+Cite this article
+47k
+Accesses
+27
+Altmetric
+Metrics
+details
+Subjects
+Electrocatalysis
+Materials for energy and catalysis
+Abstract
+Despite the growing demand for hydrogen peroxide it is almost exclusively manufactured by the energy-intensive anthraquinone process. Alternatively, H
+2
+O
+2
+can be produced electrochemically via the two-electron oxygen reduction reaction, although the performance of the state-of-the-art electrocatalysts is insufficient to meet the demands for industrialization. Interestingly, guided by first-principles calculations, we found that the catalytic properties of the Co–N
+4
+moiety can be tailored by fine-tuning its surrounding atomic configuration to resemble the structure-dependent catalytic properties of metalloenzymes. Using this principle, we designed and synthesized a single-atom electrocatalyst that comprises an optimized Co–N
+4
+moiety incorporated in nitrogen-doped graphene for H
+2
+O
+2
+production and exhibits a kinetic current density of 2.8 mA cm
+−2
+(at 0.65 V versus the reversible hydrogen electrode) and a mass activity of 155 A g
+−1
+(at 0.65 V versus the reversible hydrogen electrode) with negligible activity loss over 110 hours.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Highly efficient and selective electrocatalytic hydrogen peroxide production on Co-O-C active centers on graphene oxide
+Article
+Open access
+28 March 2022
+Vitamin C-induced CO
+2
+capture enables high-rate ethylene production in CO
+2
+electroreduction
+Article
+Open access
+02 January 2024
+Facilitating two-electron oxygen reduction with pyrrolic nitrogen sites for electrochemical hydrogen peroxide production
+Article
+Open access
+22 July 2023
+Main
+Hydrogen peroxide (H
+2
+O
+2
+) is one of the most important chemicals as it plays a crucial role in the chemical and medical industries
+1
+,
+2
+. The industrial production of H
+2
+O
+2
+is heavily dependent on the anthraquinone process, which is an energy-intensive process that involves the hydrogenation of 2-alkylanthraquinone using expensive palladium catalysts
+3
+,
+4
+. Therefore, an electrochemical route to H
+2
+O
+2
+production under ambient conditions is highly desirable. The electrochemical production of H
+2
+O
+2
+by noble metal-based electrocatalysts (for example, Au–Pd, Pt–Hg, Pd–Hg and so on) has been shown to be effective
+5
+,
+6
+,
+7
+. The surface electronic structure of noble metals can be controlled by preparing their alloys, which has been used to optimize the adsorption energies of the reaction intermediates for a selective H
+2
+O
+2
+production. However, the H
+2
+O
+2
+productivity is still too low to meet the requirements for practical applications.
+It is interesting to find that nature catalyses the dismutation of the superoxide (O
+2
+−
+) radical into H
+2
+O
+2
+via an enzyme called superoxide dismutase to prevent oxidative cell damage. Superoxide dismutases are redox-active metalloenzymes composed of Earth-abundant metal cofactors and surrounding organic ligands
+8
+,
+9
+. Similar to superoxide dismutases, various molecular complexes that contain Earth-abundant metals (for example, cobalt) have been explored for H
+2
+O
+2
+production. It has been shown that H
+2
+O
+2
+productivity can be modulated by changing the surrounding atomic structure of the metal centre
+10
+,
+11
+. This suggests that a highly active non-noble metal catalyst can be developed if we can fine-tune the interaction between the metal centre and its local coordination environments.
+Heterogeneous single-atom catalysts (SACs), which comprise single metal atoms stabilized on a support, provide a representative platform for studying the cooperative interactions between metal centres and the surrounding atomic configurations
+12
+,
+13
+,
+14
+,
+15
+,
+16
+. We are particularly interested in M–N
+4
+(M, transition metal) SACs supported on graphene for two reasons. First, they can be regarded as metal centres surrounded by porphyrin-like ligands, similar to metalloenzyme systems, and second, M–N
+4
+SACs are highly active for a variety of electrochemical reactions
+17
+,
+18
+,
+19
+,
+20
+,
+21
+,
+22
+. Although M–N
+4
+SACs have proved to be highly active for the oxygen reduction reaction (ORR) (mostly for four-electron ORR to generate water), the general principle that governs their selectivity specifically towards H
+2
+O
+2
+has not been elucidated
+23
+,
+24
+.
+In this work, we focus on the electrochemical production of H
+2
+O
+2
+. We demonstrate the relationship between the nature of the M–N
+4
+/graphene moiety and the ORR selectivity using density functional theory (DFT) calculations and electrochemical analysis. Consequently, we designed and synthesized the optimal Co–N
+4
+moiety incorporated in nitrogen-doped graphene (NG), denoted as Co
+1
+–NG(O), for electrochemical H
+2
+O
+2
+production that shows a kinetic current density of 2.8 ± 0.2 mA cm
+−2
+(at 0.65 V), a mass activity of 155 ± 6 A g
+−1
+(at 0.65 V) and negligible activity loss over 110 hours. Furthermore, the Co
+1
+–NG(O) electrocatalyst exhibits a high H
+2
+O
+2
+productivity of 418 ± 19 mmol g
+cat
+−1
+h
+−1
+(at 50 mA) with a catalyst loading of ~1 mg cm
+−2
+.
+We performed periodic DFT calculations to identify the reaction energetics of H
+2
+O
+2
+production competing with H
+2
+O production on various M–N
+4
+/graphene catalysts (Supplementary Fig.
+1
+). Figure
+1a
+shows the volcano plot for ORR activity as a function of the OOH* adsorption energy (∆
+G
+OOH*
+) (refs.
+1
+,
+5
+,
+25
+). We found that H
+2
+O
+2
+production is energetically preferred to H
+2
+O production for nickel, silver and platinum, whereas it is the other way around for ruthenium, iron and cobalt. As the former metal centres are not as oxophilic as the latter ones, they are more prone to OOH* protonation to give H
+2
+O
+2
+, whereas the latter metal centres prefer the breaking of the OOH* intermediates to O*, which leads to H
+2
+O formation.
+Fig. 1: Theoretical predictions of catalyst materials.
+a
+, Calculated catalytic activity volcanoes for the production of H
+2
+O (blue) and H
+2
+O
+2
+(red) via the ORR (bottom panel). Black data points represent M–N
+4
+/graphenes (M = Co, Ni, Fe, Pt, Ag and Ru) that are used to construct the activity volcanoes. Blue and red data points represent Co–N
+4
+/graphene with 4H*/2H* and O*/2O* adsorbed near the cobalt atom, respectively. Cartoons of the complexes are given in the top panel (pink, Co; red, O; blue, N; grey, C; white, H).
+b
+, Calculated OOH* adsorption energies and relative charge states of the cobalt metal centre in Co–N
+4
+/graphene with 4H*, 2H*, O* or 2O* adsorbed near the cobalt atom.
+c
+, Differential charge densities of Co–N
+4
+/graphene after 4H*, 2H*, O* or 2O* was adsorbed near the cobalt atom. Yellow and cyan isosurfaces (±0.003 Bohr
+−3
+) show the electron gain and electron loss, respectively.
+Full size image
+According to the calculation results, none of the considered M–N
+4
+/graphene catalysts are near the peak of the volcano plot for H
+2
+O
+2
+production (∆
+G
+OOH*
+= 4.2 eV). Even the catalysts that prefer H
+2
+O
+2
+production (nickel, silver and platinum) require relatively high overpotentials (>0.5 V) for H
+2
+O
+2
+production compared to, for example, the most active Co–N
+4
+/graphene that produces H
+2
+O (Supplementary Figs.
+2
+and
+3
+). It is desirable to slightly modify Co–N
+4
+/graphene such that it maintains most of its high catalytic activity, but towards H
+2
+O
+2
+production rather than H
+2
+O. Thus, fine-tuning of the interaction between the metal centre and the surrounding atomic configuration is required in addition to changing the metal centre of the Co–N
+4
+moiety to reach the optimum ∆
+G
+OOH*
+value for highly active H
+2
+O
+2
+production. Regarding the by-product (H
+2
+O) of this process, the H
+2
+O
+2
+production rate is more important than the selectivity as most commercial applications require aqueous solutions of H
+2
+O
+2
+.
+Interestingly, Fig.
+1b
+shows that we can adjust ∆
+G
+OOH*
+by attaching functional groups near the Co–N
+4
+moiety. For example, when an electron-rich species, such as O*, is adsorbed near the Co–N
+4
+moiety (Co–N
+4
+(O)), ∆
+G
+OOH*
+increases from 3.9 to 4.1 eV, getting very close to the optimal value for the H
+2
+O
+2
+production. ∆
+G
+OOH*
+can be further increased to 4.5 eV when two O* are adsorbed near the Co–N
+4
+moiety (Co–N
+4
+(2O)). Similar conclusions can be drawn for the case in which another electron-rich species, OH*, is adsorbed near the Co–N
+4
+moiety (Supplementary Fig.
+4
+). However, when electron-poor species, such as H
++
+, are adsorbed near the Co–N
+4
+moiety, ∆
+G
+OOH*
+decreases from 3.9 to 3.8 eV on Co–N
+4
+(2H) and further to 3.1 eV on Co–N
+4
+(4H). Similar trends are observed when another electron-poor element, carbon, is introduced (Supplementary Fig.
+4
+).
+These effects of the functional groups on ∆
+G
+OOH*
+can be explained by the differences in the charge state of the cobalt atom. In the cases of Co–N
+4
+(O) and Co–N
+4
+(2O), the charge state of the cobalt atom becomes more positive by 0.05 e
+−
+and 0.10 e
+−
+, respectively, in qualitative agreement with the previous report
+23
+, whereas in the cases of Co–N
+4
+(2H) and Co–N
+4
+(4H), it becomes more negative by 0.21 e
+−
+and 0.35 e
+−
+, respectively (Fig.
+1b,c
+). Consequently, a rational design strategy of a SAC for H
+2
+O
+2
+production is to slightly increase the ∆
+G
+OOH*
+of Co–N
+4
+/graphene by creating electron-rich oxygen species near the Co–N
+4
+moiety, such that they can slightly increase the charge state of the cobalt atom.
+Therefore, we pay close attention to the oxygen-containing functional groups on graphene oxide (GO). The temperature-dependent evolution of functional groups on GO has been extensively studied
+26
+,
+27
+,
+28
+. It was shown that epoxides are thermally more stable than other functional groups, such as hydroxyl groups that desorb at lower temperatures
+26
+. A simple method to simultaneously dope nitrogen and reduce GO was developed, in which the oxygen functional groups are responsible for the reaction with NH
+3
+(ref.
+27
+). Therefore, the thermal annealing step is critical for designing Co–N
+4
+/graphene surrounded by the desired configuration of electron-rich oxygen atoms.
+The overall synthetic scheme to prepare Co
+1
+–NG(O) SAC is illustrated in Fig.
+2a
+. Metal atoms are first adsorbed on the surface of GO by an impregnation method. The metal-adsorbed GO is then mildly reduced at 500 °C in NH
+3
+/Ar (Fig.
+2d
+and Supplementary Figs.
+5
+–
+7
+). We chose the reduction temperature of 500 °C to preserve a high percentage of oxygen (6.6 at%) (Fig.
+2b,c
+). Despite the low annealing temperature, a relatively high percentage of nitrogen was incorporated (5.87 at%; Supplementary Fig.
+8b
+).
+Fig. 2: Structural characterization of GO, Co
+1
+–NG(O) and Co
+1
+–NG(R).
+a
+, Schematic diagram of the synthesis route for Co
+1
+–NG(O) SAC.
+b
+, Oxygen content of samples prepared at different NH
+3
+reduction temperatures.
+c
+, Deconvoluted oxygen 1
+s
+spectra of Co
+1
+–NG(O) and Co
+1
+–NG(R).
+d
+, TEM image and
+e
+,
+f
+, high resolution HAADF-STEM images of Co
+1
+–NG(O).
+g
+, Co K-edge
+k
+3
+-weighted FT-EXAFS spectra in R space for the samples Co
+1
+–NG(O), Co
+1
+–NG(R), Co foil, Co
+3
+O
+4
+and CoO (circles indicate experimental data and the lines are the fitted results).
+h
+, FTIR spectra of GO, Co
+1
+–NG(O) and Co
+1
+–NG(R).
+Full size image
+During the thermal reduction step, many vacancies form and provide anchoring sites for nitrogen atoms and preferential binding sites for metal atoms
+29
+. The atomic structure of Co
+1
+–NG(O) was imaged by high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM). Scanning transmission electron microscopy images show that individual cobalt atoms are uniformly dispersed throughout the entire graphene matrix (Fig.
+2e,f
+). Optimized Co
+1
+–NG(O) SACs have a high concentration of single metal atoms (1.4 wt%; Supplementary Table
+1
+). Other M
+1
+–NG(O) (M, iron or nickel) can be successfully prepared (Supplementary Figs.
+9
+–
+12
+) and they have a similar active surface area as confirmed by electrochemical surface area measurements (Supplementary Figs.
+13
+and
+14
+).
+The atomic structure of Co
+1
+–NG(O) was further analysed by X-ray absorption spectroscopy (Fig.
+2g
+and Supplementary Fig.
+15
+). The Fourier transform extended X-ray absorption fine structure (FT-EXAFS) curves for Co
+1
+–NG(O) only showed a main peak (1.4 Å), which can be attributed to Co–N coordination, whereas the Co–Co peak (2.2 Å) was not detected. This is in agreement with the X-ray diffraction result that shows no metal peak (Supplementary Fig.
+16
+). We performed EXAFS fitting to analyse the structural parameters of cobalt atoms (Fig.
+2g
+). The fitted parameters are listed in Supplementary Table
+2
+and the coordination number is approximately 4. Similarly, the FT-EXAFS curves of other M
+1
+–NG(O) SACs were also fitted (Supplementary Figs.
+17
+and
+18
+) and their coordination numbers are also close to 4, which demonstrates the presence of metal atoms coordinated by four surrounding nitrogen atoms.
+X-ray photoelectron spectroscopy (XPS) analysis confirmed that nitrogen was readily incorporated into the graphene matrix at 500 °C and the pyridinic nitrogen was dominant for Co
+1
+–NG(O) (Supplementary Fig.
+8b
+). Co
+1
+–NG(R) was also prepared by ammonia treatment at 900 °C, which is a typical carbonization temperature and is much higher than that for the preparation of Co
+1
+–NG(O) (500 °C) (Supplementary Figs.
+5
+–
+7
+and
+15
+). In comparison to Co
+1
+–NG(R), the Co 2
+p
+spectrum of Co
+1
+–NG(O) shows an upshift to a higher binding energy and the spin–orbit splitting (15.875 eV) of Co
+1
+–NG(O) is larger than that of Co
+1
+–NG(R) (15.504 eV), which indicates the lower charge density state of the cobalt atoms (Supplementary Fig.
+19
+)
+30
+. Thus, the Co
+1
+–NG(O) has highly oxidized cobalt atom centres, but the Co
+1
+–NG(R) is composed of relatively electron-rich cobalt single atoms.
+The oxygen contents of pristine GO, Co
+1
+–NG(O) and Co
+1
+–NG(R) are 27.9, 6.6 and 2.1 at%, respectively. Specifically, the content of C–O–C oxygen species is 3.22 and 0.72 at% for Co
+1
+–NG(O) and Co
+1
+–NG(R), respectively (Fig.
+2b,c
+). Furthermore, in comparison to Co
+1
+–NG(R), the O K-edge near-edge X-ray absorption fine structure (NEXAFS) spectra suggest that the Co
+1
+–NG(O) SAC has more intense and sharper peaks at 535 and 540.4 eV, which can be assigned as the transitions of the O 1
+s
+core level to antibonding
+π
+* states and
+σ
+* states from C–O bonds (for example, in C–O–C epoxides) (Supplementary Fig.
+20
+). This result was further confirmed by Fourier-transform infrared spectroscopy (FTIR) (Fig.
+2h
+and
+Methods
+). From the comprehensive analysis with XPS, NEXAFS and FTIR, we can conclude that cobalt centres become relatively electron poor when near to C–O–C atomic structures and that these groups are thermodynamically stable at the mild reduction temperature of 500 °C, which is further supported by the DFT analysis (Supplementary Fig.
+21
+). After reduction at 900 °C, most of the oxygen species, which including C–O–C groups, desorb (Fig.
+2b
+)
+26
+,
+27
+. Utilizing the thermodynamics of different functional groups on GO, we could design the Co–N
+4
+moieties surrounded by oxygen species (C–O–C epoxides), which is an ideal system for highly active H
+2
+O
+2
+production, as predicted by the DFT calculations (Fig.
+1a
+).
+ORR kinetics can proceed via either a 2e
+−
+or a 4e
+−
+pathway (Fig.
+3a
+) and the selectivity is determined by the propensity to break the O–O bond during the ORR process. We can quantify the amount of H
+2
+O
+2
+formed using a rotating ring-disk electrode (RRDE) at 1,600 r.p.m. in an oxygen-saturated 0.1 M KOH electrolyte. The ring electrode was held at 1.2 V to oxidize only the H
+2
+O
+2
+formed at disk electrode, which avoids other ORR currents at the ring electrode. The optimal catalyst loading amount was 10 μg cm
+−2
+(Supplementary Fig.
+22
+gives details). The Co
+1
+–NG(O) catalyst, which has an electron-poor cobalt centre induced by the surrounding oxygen species (for example, C–O–C epoxides), is able to catalyse the 2e
+−
+ORR and shows a superior activity for H
+2
+O
+2
+production in comparison to state-of-the-art catalysts (Figs.
+3b
+and
+4a
+). The electronic structure of the Co–N
+4
+site is modified by nearby C–O–C epoxides such that it is difficult to break the O–O bond, which ensures a high selectivity to H
+2
+O
+2
+(~82%; Fig.
+3c
+). However, Co
+1
+–NG(R), which is mainly composed of Co–N
+4
+sites, predominantly produce water, which matches well with our DFT results (Fig.
+1a
+and Supplementary Fig.
+23
+). Figure
+3d
+shows the ring current adjusted by collection efficiency (Supplementary Fig.
+24
+) for H
+2
+O
+2
+production
+\(\left( {I_{{\mathrm{H}}_2{\mathrm{O}}_2}} \right)\)
+at 0.7 V. Notably, the Co
+1
+–NG(O) catalyst delivered a much higher H
+2
+O
+2
+production current than Co
+1
+–NG(R) or NG(O), which shows its superior activity and selectivity towards H
+2
+O
+2
+production. Co
+1
+–NG(O) shows an improvement in the onset potential and ORR kinetics with increasing cobalt amount, whereas Co
+1
+-G(O), which is composed of cobalt metal centres without nitrogen atom bonding, shows hardly any change (Supplementary Fig.
+25
+). This observation supports that the ORR performance is specifically associated with the Co–N
+4
+moieties and the optimal cobalt amount for H
+2
+O
+2
+production was 1.4 wt% (Supplementary Figs.
+25
+and
+26
+). A poisoning experiment using CN
+−
+further supports that Co–N
+4
+sites are the active sites, not the carbon surface (Supplementary Fig.
+27
+).
+Fig. 3: Electrochemical ORR performance.
+a
+, ORR pathways that produce either H
+2
+O
+2
+or H
+2
+O.
+b
+, Comparison of ORR performance at 1,600 r.p.m. (solid lines) and the simultaneous H
+2
+O
+2
+detection current densities at the ring electrode (dashed lines) for NG(O), Co
+1
+–NG(O) and Co
+1
+–NG(R) catalysts in 0.1 M KOH (the calculated collection efficiency was 0.356; further details are provided in Supplementary Fig.
+24
+).
+c
+, The calculated H
+2
+O
+2
+selectivity as a function of the applied potential.
+d
+, Comparison of H
+2
+O
+2
+current (at 0.7 V) for NG(O), Co
+1
+–NG(O) and Co
+1
+–NG(R).
+e
+,
+f
+, ORR polarization curves for NG(O) and Co
+1
+–NG(O) at 0.1 M PBS (pH = 7.4) (
+e
+) and 0.1 M HClO
+4
+(
+f
+) with 95%
+iR
+compensation.
+Full size image
+Interestingly, our Co
+1
+–NG(O) shows a significant amount of H
+2
+O
+2
+production in acidic (0.1 M HClO
+4
+), neutral (0.1 M phosphate) and basic (0.1 M KOH) electrolytes (Fig.
+3b,e,f
+). Without cobalt atoms, the NG(O) showed a poor activity, especially in an acidic medium, which is often seen in carbonaceous catalysts
+31
+,
+32
+(
+Supplementary Information
+gives details). However, our electron-poor cobalt metal centres serve as O
+2
+adsorption sites on the graphitic carbon matrix, which facilitates the adsorption of O
+2
+molecules and effectively prevents the 2e
+−
++ 2e
+−
+reaction mechanism (Supplementary Fig.
+28
+). In addition, Co
+1
+–NG(O) exhibited a significantly higher activity for H
+2
+O
+2
+production than NG(O), Fe
+1
+–NG(O) and Ni
+1
+–NG(O) (Supplementary Fig.
+29
+), with an onset potential of ~0.8 V (Fig.
+3b
+). It is slightly higher than the thermodynamic limit of 0.76 V (in 0.1 M KOH, pH = 13), which has been also observed in the previously reported electrocatalysts based on noble metal alloys and carbon-based materials
+5
+,
+32
+,
+33
+. This can be attributed to a Nernst-related potential shift due to the low H
+2
+O
+2
+concentration in electrolyte under highly alkaline media (
+Supplementary Information
+gives details). These results indicate that Co
+1
+–NG(O) is highly active for H
+2
+O
+2
+production in a wide range of pH levels, but effectively prevents the consecutive reduction of H
+2
+O
+2
+into H
+2
+O.
+For the comparison, the kinetic current density for H
+2
+O
+2
+production was derived by correcting for mass-transport limitations using the Koutecky–Levich equation (
+Methods
+). The calculated kinetic current density of Co
+1
+–NG(O) for H
+2
+O
+2
+production was 2.8 ± 0.2 mA cm
+−2
+(at 0.65 V), which demonstrates its superior H
+2
+O
+2
+production activity that far surpasses that of the state-of-the-art electrocatalysts (Fig.
+4a
+)
+5
+,
+6
+,
+34
+,
+35
+,
+36
+,
+37
+. The mass activity of various electrocatalysts for H
+2
+O
+2
+production is summarized in Fig.
+4b,c
+5
+,
+6
+,
+32
+,
+33
+,
+34
+,
+35
+,
+38
+,
+39
+. Our optimized Co
+1
+-NG(O) produces H
+2
+O
+2
+with a mass activity of 155 (±6) A g
+−1
+(at 0.65 V, with 1,600 rpm) (Fig.
+4b
+and Supplementary Fig.
+30
+). Furthermore, we compared the mass activities of the recently reported carbonaceous catalysts with that of Co
+1
+–NG(O) in alkaline media at 0.75 V, much closer to the onset potential of the HO
+2
+−
+/O
+2
+process, as the polarization of Co
+1
+–NG(O) can reach the mass-limiting current very quickly due to the electron-poor cobalt atoms that serve as O
+2
+adsorption sites. Until now, a few-layered, mildly reduced GO (F-mrGO) exhibited the highest mass activity. Notably, Co
+1
+–NG(O) exhibits a 3.5 times higher H
+2
+O
+2
+production activity (Fig.
+4c
+) than that of F-mrGO. Furthermore, the turnover frequency value of Co
+1
+–NG(O) was calculated to be 3.38 ±0.15 s
+−1
+(
+Supplementary Information
+gives details on the calculation), which is much higher than those of other catalysts (Supplementary Table
+3
+). The mass activities corrected for the mass-transport effect were 284 ±22 A g
+−1
+and 74 ±10 A g
+−1
+at 0.65 and 0.75 V, respectively. Owing to the significantly improved kinetics of the Co
+1
+–NG(O) catalyst, it can be a promising candidate as a cathode catalyst in alkaline fuel cell for electrochemical H
+2
+O
+2
+production.
+Fig. 4: Summary of H
+2
+O
+2
+production activity and stability.
+a
+, Kinetic current density.
+b
+,
+c
+, Mass activity at 0.65 V (
+b
+) and 0.75 V (
+c
+) versus the reversible hydrogen electrode. It was calculated at an electrode rotation speed of 1,600 r.p.m. Dashed bars indicate the mass activity normalized by the entire mass of the catalyst, whereas solid bars show the mass activities normalized by the mass of the noble metal only. Data adapted from: refs.
+5
+,
+6
+,
+35
+,
+36
+,
+37
+for 0.1 M HClO
+4
+and refs.
+32
+,
+33
+,
+34
+,
+38
+,
+39
+for 0.1 M KOH.
+d
+, Chronoamperometry stability test of Co
+1
+–NG(O) (at 0.65 V in 0.1 M KOH). Of the initial current density, 98.7% was retained after 110 h.
+Full size image
+To evaluate the amount of H
+2
+O
+2
+generated in real devices, we prepared our catalyst on carbon paper (
+Methods
+) with a loading of 1 mg cm
+−2
+and tested it in a custom-made electrochemical H-type cell (Supplementary Fig.
+31
+) modified from that reported previously
+32
+,
+33
+. In an alkaline electrolyte, we performed the electrochemical H
+2
+O
+2
+production of Co
+1
+–NG(O) catalysts at 25 °C (Supplementary Fig.
+32
+gives details on the effect of reaction temperature). Co
+1
+–NG(O) showed a very high H
+2
+O
+2
+productivity of 418 ±19 mmol g
+cat
+−1
+h
+−1
+(at 50 mA; Supplementary Table
+4
+and Supplementary Figs.
+33
+and
+34
+), which is more than twice the amount of H
+2
+O
+2
+produced by a Au–Pd catalyst in direct synthesis
+40
+, which demonstrates the feasibility of electrochemical H
+2
+O
+2
+production. Our optimized Co
+1
+–NG(O) catalyst could produce a H
+2
+O
+2
+concentration of 5,812 ppm (suitable for applications that require diluted H
+2
+O
+2
+solutions) after 24 hours using our custom-made H-type cell, which contains 10 ml of catholyte (Supplementary Fig.
+35
+). Furthermore, the Co
+1
+–NG(O) catalyst is stable throughout the entire pH level for a long-term production of H
+2
+O
+2
+, notably with a 98.7% activity retention over 110 hours at 0.65 V in alkaline conditions (Fig.
+4d
+). This confirms that the highly active Co–N
+4
+(O) moieties are very stable in either alkaline or acidic environments for the H
+2
+O
+2
+production (Supplementary Fig.
+36
+). Under the harsh condition of a higher overpotential (at 0.55 V), Co
+1
+–NG(O) still retains its excellent stability with little chemical and structural change (Supplementary Figs.
+37
+and
+38
+). When the reaction temperature is raised, the overall ORR kinetics and the H
+2
+O
+2
+selectivity increase, whereas the produced H
+2
+O
+2
+decomposes more rapidly (Supplementary Fig.
+32
+). Cobalt is commonly known to be less reactive to Fenton reactions when compared to iron-based catalysts, which suffer from poor stability. Recently, cobalt and manganese SACs were reported as good alternatives to iron-based electrocatalysts to prevent the serious degradation by Fenton reactions
+23
+,
+41
+. Thus, the high stability in a wide pH range and the substantially enhanced H
+2
+O
+2
+production activity can be simultaneously achieved by our design strategy of electron-poor cobalt metal centres modulated by the surrounding atomic configuration. Co
+1
+–NG(O) shows a H
+2
+O
+2
+production activity comparable to the previously reported platinum SACs in acidic media (
+Supplementary Information
+and Supplementary Fig.
+39
+give details).
+Through experiments and theoretical analysis, we demonstrate that the surrounding atomic configuration of SACs mediates the H
+2
+O
+2
+production activity of metal centres. Owing to the diverse synthetic methods of Co–N
+4
+structures, there has been a debate on the reaction mechanism for ORR (a 2e
+−
+or 4e
+−
+pathway) regarding the Co–N
+4
+structure
+24
+,
+41
+. Thus, it is highly desirable to discover which physical factor regulates the catalytic activity and selectivity in atomic precision. Our strategy allows the fine-tuning of the heterogeneous catalytic activity for H
+2
+O
+2
+production over a wide pH range, which results in a kinetic current density of 2.8 ± 0.2 mA cm
+−2
+(at 0.65 V) and a mass activity of 155 ±6 A g
+−1
+(at 0.65 V) with negligible activity loss over 110 hours in basic condition. Our highly active and stable SAC that comprises non-precious metals is easily scalable (Supplementary Fig.
+40
+) and our concept can be generalized to other carbon materials (Supplementary Fig.
+41
+gives details), which opens up the possibilities for industrially viable electrochemical H
+2
+O
+2
+production. We believe our findings will provide further understanding of the fundamental relationship between the coordination environment of the atomic site and the catalytic performance for other catalytic reactions
+12
+,
+14
+,
+18
+,
+20
+.
+Methods
+Materials
+Cobalt(
+ii
+) chloride hexahydrate (CoCl
+2
+·6H
+2
+O, 98%), iron(
+iii
+) chloride hexahydrate (FeCl
+3
+·6H
+2
+O, 98–102%), nickel(
+ii
+) chloride hexahydrate (NiCl
+2
+·6H
+2
+O, 99.999% trace metal basis), Basolite Z1200 (zeolitic imidazolate framework (ZIF)-8), cobalt(
+ii
+) acetate (99.99%), 1,10-phenanthroline (≥99%), H
+2
+O
+2
+solution (30 wt% in H
+2
+O), sulfuric acid (H
+2
+SO
+4
+, 95–98%) and ethylenediaminetetraacetic acid (ACS reagent, 99.4–100.6%) were purchased from Sigma Aldrich. Hydrochloric acid (35~37%), acetone (99.5%) and isopropyl alcohol (99.9%) were purchased from Samchun Chemical. GO water dispersion (0.4 wt% in water) was purchased from Graphenea.
+Synthesis of Co
+1
+–NG(O) and Co
+1
+–NG(R) catalyst
+GO was washed with hydrochloric acid solution and acetone to remove the metal impurities (for example, manganese) that are left during the Hummers method of producing GO (Supplementary Table
+1
+). It was then dried in an electric oven at 40 °C overnight. In a typical approach, 30 mg of acid-treated GO was dispersed in 30 ml of water. CoCl
+2
+·6H
+2
+O was dispersed in water (3 mg ml
+−1
+) and 202 ul of the solution was added into the GO solution. The mixed solution was sonicated for 1 h and then freeze-dried for 2 days. The prepared metal-adsorbed GO foam was collected into an alumina crucible and then placed at the centre of a tube furnace. With the continuous feeding of ammonia (50 sccm) and argon (150 sccm) gas, the furnace was heated up to 500 °C (ramping rate = 5 °C min
+−1
+) and held at 500 °C for 1 h, followed by natural cooling under a continuous flow of Ar (150 sccm). The collected dark greyish catalyst was dispersed in isopropanol (1 mg ml
+−1
+) for further use. The synthetic method for Co
+1
+–NG(R) was the same as that for Co
+1
+–NG(O) except the reaction temperature was 900 °C.
+Synthesis of Ni
+1
+–Fe
+1
+–NG(O) catalyst
+Everything was kept the same except for the metal adsorption process. NiCl
+2
+·6H
+2
+O, FeCl
+3
+·6H
+2
+O was dispersed in water (3 mg ml
+−1
+) and 202 ul (nickel) and 242 ul (iron) of the solution was added into the aqueous dispersion of GO (1 mg ml
+−1
+).
+Synthesis of Co
+1
+–ZIF(O) catalyst
+ZIF-8 (Basolite Z1200 from Sigma-Aldrich) powder (1 g) was annealed at 900 °C for 3 h under an Ar atmosphere (yield ~0.32 g) in a tube furnace to obtain ZIF-derived carbon. The ZIF-derived carbon (200 mg) was dispersed in 50 ml water and sonicated for 30 min. Cobalt acetate (177 mg) and 1,10-phenanthroline (594.6 mg) were dissolved in 15 ml of water. Then, 1 ml of this solution was added to the ZIF-derived carbon solution and the mixture was sonicated for another 30 min, followed by stirring for 24 h. After this, the powder was collected by filtration and was dried in a vacuum oven at 80 °C overnight. The dried powder was annealed at 900 °C for 2 h under an Ar atmosphere to produce Co
+1
+–ZIF. Based on the modified Hummers method, Co
+1
+–ZIF was oxidized by using H
+2
+O
+2
+as an oxidizing agent in acidic media
+42
+. The Co
+1
+–ZIF catalyst (200 mg) was dispersed in a 0.5 M H
+2
+SO
+4
+solution (300 ml) and heated up to 90 °C. After 3 h, 30% H
+2
+O
+2
+solution (30 ml was added gradually to the above solution and reacted for 12 h. The resulting powder was filtered and rinsed with deionized water, and dried in a vacuum oven at 80 °C to obtain the oxidized Co
+1
+–ZIF catalyst, denoted as Co
+1
+–ZIF(O).
+Characterization
+Transition electron microscopy images were acquired on a spherical aberration-corrected scanning transmission electron microscope (JEM ARM-200F, JEOL) at the National Center for Inter-University Research Facilities at Seoul National University. X-ray diffraction patterns were acquired using a D/MAX-2500 Rigaku powder X-ray diffractometer (Cu Kα radiation). The Raman spectra were taken by LabRAM HR Evolution (HORIBA). FTIR spectra were obtained using a Bruker model Vertex 80/80v. Samples were pelletized with KBr and the data were collected over 4,000–750 cm
+−1
+(number of scans, 32; resolution, 4). SEM images were acquired using a field emission scanning electron microscope (FE-SEM 7800F Prime; JEOL). The metal contents were characterized by inductively coupled plasma–absorption emission microscopy (OPTIMA 8300, Perkin-Elmer). XPS measurements were conducted using the K-Alpha
++
+XPS system (Thermo Fisher Scientific) at the Busan Center of the Korea Basic Science Institute. The X-ray source was 1,486.6 eV monochromated Al Kα (X-ray energy of 12 kV, 72 W) and the spot size was 400 um. The peaks were fitted using XPS peak 4.1 software.
+FTIR analysis
+The temperature-dependent evolution of oxygen functional groups on the Co–N
+4
+/graphene SAC was characterized by FTIR spectroscopy (Fig.
+2h
+). For pristine GO, various oxygen-containing functional groups, which include hydroxyls (broad peak at 3,140–3,700 cm
+−1
+), C=O (1,730 cm
+−1
+), C=C (1,625 cm
+−1
+) and ethers and epoxides (1,000–1,300 cm
+−1
+) were observed
+33
+. For simplicity, we assigned the two main peaks as follows: region I for the hydroxyls (water, C–OH and C–OOH) and region II for ethers and epoxides (C–O–C). For pristine GO and Co
+1
+–NG(R), the hydroxyl peak (region I) is dominant, whereas the ethers and epoxide groups become more prominent for Co
+1
+–NG(O) (refs.
+26
+,
+28
+).
+X-ray absorption spectroscopy measurements
+XAFS were acquired at the 8C nano-probe XAFS beamline (BL8C) of Pohang Light Source II. The incident beam was monochromatized by a Si(111) crystal and detuned 30% to minimize the higher harmonics. An energy calibration was conducted before the measurement using reference foil. XAFS spectra were collected in both transmission and fluorescence modes. The obtained spectra were processed using Demeter software. EXAFS spectra were fitted in a Fourier-transform range of 3–11 Å
+−1
+with a Hanning window applied between 1 and 2.5 Å. The EXAFS curve was fitted using the metal phthalocyanine structure with an M–N
+4
+unit as the reference. The amplitude reduction factor (
+S
+0
+2
+) was set to 0.86 during the fitting.
+NEXAFS was measured at the 4D PES II beamline (BL4D) of Pohang Light Source II. The sample powders were loaded in an ultrahigh vacuum (base pressure, 1 × 10
+−10
+torr). Total electron yield NEXAFS spectra were recorded at a 55° angle of X-ray incidence at the sample surface. The acquired spectra were normalized to the incident photon flux and calibrated with the gold-mesh flux monitor currents. The Beagle software was used for subtraction of the background.
+Electrochemical measurements
+The electrochemical H
+2
+O
+2
+production was performed using a conventional three-electrode cell with a RRDE set-up (Pine Instruments Corporation) and Autolab potentiostat (PGSTAT302N). A RRDE electrode with a glassy carbon electrode (0.2475 cm
+2
+area) and a platinum ring electrode was used as the working electrode. Prior to measurement, the working electrode was polished mechanically with alumina suspension (Buehler) and rinsed with deionized water. A Ag/AgCl electrode and graphite rod were used as the reference and counter electrode, respectively. To prepare the ink, as-synthesized catalysts (0.5 mg) were mixed in 1 ml of solution that contained 975 μl of isopropanol and 25 μl of 5% Nafion solution, followed by ultrasonication for 10 min to form homogeneous inks. Catalyst-coated electrodes were prepared through a spin-coating process. The catalyst ink (4.95 μl of was then drop-casted onto a disk electrode of the RRDE tip spinning at an initial rate of 150 rpm and advanced to 400 rpm to achieve uniform electrode coverage. The electrode-catalyst loading was 10 μg cm
+−2
+. It is important to perform H
+2
+O
+2
+production studies with a thin layer of catalysts (a lower loading, such as ~10 μg cm
+−2
+) on the electrode rather than thick catalyst layers, in which the peroxide formed is usually quenched within the catalysts layer and hence not being detected at the ring electrode. A total of three electrolytes with pH ~13 (0.1 M KOH), ~7.4 (0.1 M PBS) and ~1 (0.1 M HClO
+4
+) were used at 298 K. All the potentials were versus the reversible hydrogen electrode. Before the ORR measurement, we conducted the precycling steps with 50 potential sweeps from 0.05 to 1.0 V at a scan rate of 50 mV s
+−1
+in an Ar-saturated electrolytes, in which a stable cyclic voltammogram shape was obtained. Then, the H
+2
+O
+2
+productivity and selectivity were obtained from polarization curves in O
+2
+-saturated conditions between 0.05 and 1.0 V at a scan rate of 10 mV s
+−1
+at 1,600 r.p.m. while holding the potential of the platinum ring electrode at 1.2 V. The ORR current was corrected by subtracting the current obtained in an Ar-saturated electrolyte from that measured in O
+2
+-saturated conditions. All the measured ring currents were also corrected using the collection efficiency,
+N
+, of RRDE set-up to obtain the overall current density as all the H
+2
+O
+2
+generated was detected. The ring collection efficiency was empirically determined using a well-behaved redox system in a solution that contained a small concentration (~2 mM) of [Fe(CN)
+6
+]
+3−/4−
+solution (
+N
+= 0.356; Supplementary Fig.
+24
+). Accordingly, the H
+2
+O
+2
+selectivity was calculated using the equation:
+$${\mathrm{Selectivity}}\left( \% \right) = 200 \times (I_{\rm{r}}/N)/(I_{\rm{d}} + I_{\rm{r}}/N)$$
+(1)
+where
+I
+r
+and
+I
+d
+denote the ring current and disk current, respectively. The kinetic current (
+I
+k
+) was extracted by correcting the mass transport losses, according to the equation:
+$$1/I_{\rm{m}} = 1/I_{\rm{l}} + 1/I_{\rm{k}}$$
+(2)
+where
+I
+m
+indicates the measured total current and
+I
+l
+is the diffusion-limited current. Usually, it is difficult to determine the value of the limiting current, usually determined from the highest steady current measured in the entire potential range, in most of the carbonaceous catalysts. Thus, we calculated the limiting current from the Levich equations with the total electron transfer number (
+n
+) obtained from our RRDE system. The Levich equation is:
+$$I_l = 0.62\,nFAD_{\rm{o}}^{2/3}\omega ^{1/2}\upsilon ^{ - 1/6}C_{\rm{o}}$$
+(3)
+F
+,
+A
+,
+D
+o
+,
+ω
+,
+υ
+and
+C
+o
+indicate the Faraday constant (96,485 C mol
+−1
+), geometric area of the disk electrode (0.2475 cm
+2
+), diffusion coefficient of O
+2
+in the electrolyte at 298 K (1.85 × 10
+−5
+cm
+2
+s–1
+), electrode rotation speed (rad s
+–1
+), kinematic viscosity of O
+2
+(0.89 × 10
+−2
+cm
+2
+s
+–1
+) and O
+2
+concentration (1.21 × 10
+−6
+mol cm
+–3
+). The mass activity was calculated at 0.65 V and at 0.75 V with an electrode rotation speed of 1,600 r.p.m.
+H
+2
+O
+2
+concentration measurement and the durability test
+To quantitate the amount of H
+2
+O
+2
+molecules and achieve high peroxide concentrations, we performed the electrochemical ORR in an H-type cell with an alkaline membrane (Selemion AMV, Asahi Glass Co. Ltd) as the separator. The volume of the three-port chamber (working electrode and Ag/AgCl (RE-1CP, ALS) as a reference electrode) and the two-port chamber (graphite rod as a counter electrode) of the cell were both ~ 25 ml and we filled each cell with 15 ml of 0.1 M KOH electrolyte during each experiment. To avoid the decomposition of H
+2
+O
+2
+, 10 mM EDTA was added as an inhibitor to the 0.1 M KOH electrolyte
+33
+. To prepare the electrodes, the same catalyst ink was sprayed using an airbrush onto the Teflon-treated carbon paper (1 cm × 1 cm, Toray, TGPH090) with catalyst loading of ~1 mg cm
+−2
+. The electrolyte in the cathode compartment was bubble with pure O
+2
+gas and stirred by a magnetics stirring apparatus to guarantee that the reactant can reach the electrode surface. The polarization curves (with infrared compensation) were obtained with the linear sweep voltammetry method (10 mV s
+–1
+). In practical applications, the device is more likely to be operated under a constant potential or current. Thus, the long-term stability tests for our cobalt single-atom based catalysts were conducted in both the RRDE set-up (chronoamperometry at 0.65 V versus the reversible hydrogen electrode, rotation speed of 1,600 r.p.m.) and the H-cell system (chronopotentiometry methods under a constant current of 50 mA).
+The H
+2
+O
+2
+concentrations in the electrolytes were measured by titrating with standard ceric sulfate solution, Ce(SO
+4
+)
+2
+, which is appropriate to characterize the peroxide content in aqueous solutions. The reaction of the yellow-coloured Ce
+4+
+to the colourless Ce
+3+
+proceeds in the presence of H
+2
+O
+2
+, which can be measured by ultraviolet–infrared spectroscopy (read between 300 and 800 nm; Supplementary Fig.
+34
+), reported previously
+32
+:
+$${\rm{H}}_2{\rm{O}}_2 + 2{\rm{Ce}}\left( {{\rm{SO}}_4} \right)_2 \to {\rm{Ce}}_2\left( {{\rm{SO}}_4} \right)_3 + {\rm{H}}_2{\rm{SO}}_4 + {\rm{O}}_2$$
+(4)
+We prepared 1 mM of Ce(SO
+4
+)
+2
+solution by dissolving Ce(SO
+4
+)
+2
+salts in 5 ml of 0.5 M H
+2
+SO
+4
+acid solution. Prior to characterizing the samples, we determined the calibration curves between the absorbance and concentration of Ce
+4+
+ions (or H
+2
+O
+2
+). Various volumes of 0.1 wt% peroxide solutions were added to the ceric sulfate solution and the absorbance measured with ultraviolet–infrared spectroscopy. By linear interpolation, the concentration of H
+2
+O
+2
+in the electrolyte was calculated, and then a certain volume of the electrolyte (under a constant current of 50 mA for 30 min and several hours in a H-type cell) was added to the same Ce(SO
+4
+)
+2
+titrant solution.
+DFT calculation details
+Spin-polarized DFT calculations were performed using the VASP software package
+43
+with PAW pseudopotentials
+44
+and the RPBE functional
+45
+. The very fast (RMM-DIIS) algorithm, accurate precision and 4 × 4 × 1 Monkhorst–Pack
+k
+-point mesh
+46
+were used for all the calculations with an energy cutoff of 500 eV and a Gaussian smearing of smearing width 0.1 eV. Slab models were built with supercells that contained 1 metal atom, 4 nitrogen atoms and 54 carbon atoms, which were separated by 20 Å of vacuum space perpendicular to the slab surface. All the atoms were relaxed until the energy change was less than 10
+−5
+eV for the electronic relaxation and the forces on each atom were less than 0.03 eV Å
+−1
+for the ionic relaxation. All the adsorption energies were referenced to gas-phase H
+2
+O and H
+2
+. Free energies were obtained by applying zero-point energy and entropic corrections to the calculated DFT energies. The corrections, taken from previous studies
+47
+,
+48
+, were +0.05 eV, +0.35 eV and +0.40 eV for O*, OH* and OOH*, respectively, and they were used independent of the catalyst materials. We also included a correction to account for the water-induced stabilization of OH* and OOH*, which corresponds to 0.3 eV per adsorbate
+49
+.
+Data availability
+All data is available in the main text or in the
+Supplementary Information
+.
+References
+Yang, S. et al. Toward the decentralized electrochemical production of H
+2
+O
+2
+: a focus on the catalysis.
+ACS Catal.
+8
+, 4064–4081 (2018).
+Article
+CAS
+Google Scholar
+Pulidindi, K. & Pandey, H.
+Hydrogen Peroxide Market Size by End-User (Paper & Pulp, Chemical, Waste Water Treatment, Mining)
+Report GMI851 (Global Market Insights, 2016).
+Riedl, H.-J. & Pfleiderer, G. Production of hydrogen peroxide. US patent 2,158,525 (1939).
+Campos-Martin, J. M., Blanco-Brieva, G. & Fierro, J. L. G. Hydrogen peroxide synthesis: an outlook beyond the anthraquinone process.
+Angew. Chem. Int. Ed.
+45
+, 6962–6984 (2006).
+Article
+CAS
+Google Scholar
+Siahrostami, S. et al. Enabling direct H
+2
+O
+2
+production through rational electrocatalyst design.
+Nat. Mater.
+12
+, 1137–1143 (2013).
+Article
+CAS
+Google Scholar
+Verdaguer-Casadevall, A. et al. Trends in the electrochemical synthesis of H
+2
+O
+2
+: enhancing activity and selectivity by electrocatalytic site engineering.
+Nano Lett.
+14
+, 1603–1608 (2014).
+Article
+CAS
+Google Scholar
+Jirkovský, J. S. et al. Single atom hot-spots at Au–Pd nanoalloys for electrocatalytic H
+2
+O
+2
+production.
+J. Am. Chem. Soc.
+133
+, 19432–19441 (2011).
+Article
+CAS
+Google Scholar
+Sheng, Y. et al. Superoxide dismutases and superoxide reductases.
+Chem. Rev.
+114
+, 3854–3918 (2014).
+Article
+CAS
+Google Scholar
+McCord, J. M. & Fridovich, I. Superoxide dismutase.
+J. Biol. Chem.
+244
+, 6049–6055 (1969).
+CAS
+Google Scholar
+Chen, R., Li, H., Chu, D. & Wang, G. Unraveling oxygen reduction reaction mechanisms on carbon-supported Fe-phthalocyanine and Co-phthalocyanine catalysts in alkaline solutions.
+J. Phys. Chem. C
+113
+, 20689–20697 (2009).
+Article
+CAS
+Google Scholar
+Yamanaka, I., Tazawa, S., Murayama, T., Iwasaki, T. & Takenaka, S. Catalytic synthesis of neutral hydrogen peroxide at a CoN
+2
+C
+x
+cathode of a polymer electrolyte membrane fuel cell (PEMFC).
+ChemSusChem
+3
+, 59–62 (2010).
+Article
+CAS
+Google Scholar
+Wang, A., Li, J. & Zhang, T. Heterogeneous single-atom catalysis.
+Nat. Rev. Chem.
+2
+, 65–81 (2018).
+Article
+CAS
+Google Scholar
+Liu, P. et al. Photochemical route for synthesizing atomically dispersed palladium catalysts.
+Science
+352
+, 797–800 (2016).
+Article
+CAS
+Google Scholar
+Duchesne, P. N. et al. Golden single-atomic-site platinum electrocatalysts.
+Nat. Mater.
+17
+, 1033–1039 (2018).
+Article
+CAS
+Google Scholar
+Guan, J. et al. Water oxidation on a mononuclear manganese heterogeneous catalyst.
+Nat. Catal.
+1
+, 870–877 (2018).
+Article
+CAS
+Google Scholar
+Lee, B.-H. et al. Reversible and cooperative photoactivation of single-atom Cu/TiO
+2
+photocatalysts.
+Nat. Mater.
+18
+, 620–626 (2019).
+Article
+CAS
+Google Scholar
+Chung, H. T. et al. Direct atomic-level insight into the active sites of a high-performance PGM-free ORR catalyst.
+Science
+357
+, 479–484 (2017).
+Article
+CAS
+Google Scholar
+Yang, H. B. et al. Atomically dispersed Ni(ı) as the active site for electrochemical CO
+2
+reduction.
+Nat. Energy
+3
+, 140–147 (2018).
+Article
+CAS
+Google Scholar
+Zitolo, A. et al. Identification of catalytic sites for oxygen reduction in iron- and nitrogen-doped graphene materials.
+Nat. Mater.
+14
+, 937–942 (2015).
+Article
+CAS
+Google Scholar
+Fei, H. et al. General synthesis and definitive structural identification of MN
+4
+C
+4
+single-atom catalysts with tunable electrocatalytic activities.
+Nat. Catal.
+1
+, 63–72 (2018).
+Article
+CAS
+Google Scholar
+Pan, Y. et al. A bimetallic Zn/Fe polyphthalocyanine-derived single-atom Fe–N
+4
+catalytic site: a superior trifunctional catalyst for overall water splitting and Zn–air batteries.
+Angew. Chem. Int. Ed.
+57
+, 8614–8618 (2018).
+Article
+CAS
+Google Scholar
+Li, J. et al. Atomically dispersed manganese catalysts for oxygen reduction in proton-exchange membrane fuel cells.
+Nat. Catal.
+1
+, 935–945 (2018).
+Article
+CAS
+Google Scholar
+Choi, C. H. et al. The Achilles’ heel of iron-based catalysts during oxygen reduction in an acidic medium.
+Energy Environ. Sci.
+11
+, 3176–3182 (2018).
+Article
+CAS
+Google Scholar
+He, Y. et al. Highly active atomically dispersed CoN
+4
+fuel cell cathode catalysts derived from surfactant-assisted MOFs: carbon-shell confinement strategy.
+Energy Environ. Sci.
+12
+, 250–260 (2019).
+Article
+CAS
+Google Scholar
+Abild-Pedersen, F. et al. Scaling properties of adsorption energies for hydrogen-containing molecules on transition-metal surfaces.
+Phys. Rev. Lett.
+99
+, 016105 (2007).
+Article
+CAS
+Google Scholar
+Bagri, A. et al. Structural evolution during the reduction of chemically derived graphene oxide.
+Nat. Chem.
+2
+, 581–587 (2010).
+Article
+CAS
+Google Scholar
+Li, X. et al. Simultaneous nitrogen doping and reduction of graphene oxide.
+J. Am. Chem. Soc.
+131
+, 15939–15944 (2009).
+Article
+CAS
+Google Scholar
+Chen, D., Feng, H. & Li, J. Graphene oxide: preparation, functionalization, and electrochemical applications.
+Chem. Rev.
+112
+, 6027–6053 (2012).
+Article
+CAS
+Google Scholar
+Lin, L.-C. & Grossman, J. C. Atomistic understandings of reduced graphene oxide as an ultrathin-film nanoporous membrane for separations.
+Nat. Commun.
+6
+, 8335 (2015).
+Article
+CAS
+Google Scholar
+Andreiadis, E. S. et al. Molecular engineering of a cobalt-based electrocatalytic nanomaterial for H
+2
+evolution under fully aqueous conditions.
+Nat. Chem.
+5
+, 48–53 (2013).
+Article
+CAS
+Google Scholar
+Ramaswamy, N. & Mukerjee, S. Influence of inner- and outer-sphere electron transfer mechanisms during electrocatalysis of oxygen reduction in alkaline media.
+J. Phys. Chem. C
+115
+, 18015–18026 (2011).
+Article
+CAS
+Google Scholar
+Lu, Z. et al. High-efficiency oxygen reduction to hydrogen peroxide catalysed by oxidized carbon materials.
+Nat. Catal.
+1
+, 156–162 (2018).
+Article
+CAS
+Google Scholar
+Kim, H. W. et al. Efficient hydrogen peroxide generation using reduced graphene oxide-based oxygen reduction electrocatalysts.
+Nat. Catal.
+1
+, 282–290 (2018).
+Article
+Google Scholar
+Zheng, Z., Ng, Y. H., Wang, D.-W. & Amal, R. Epitaxial growth of Au–Pt–Ni nanorods for direct high selectivity H
+2
+O
+2
+production.
+Adv. Mater.
+28
+, 9949–9955 (2016).
+Article
+CAS
+Google Scholar
+Yang, S., Kim, J., Tak, Y. J., Soon, A. & Lee, H. Single-atom catalyst of platinum supported on titanium nitride for selective electrochemical reactions.
+Angew. Chem. Int. End.
+55
+, 2058–2062 (2016).
+Article
+CAS
+Google Scholar
+Verdaguer-Casadevall, A., Hernandez-Fernandez, P., Stephens, I. E. L., Chorkendorff, I. & Dahl, S. The effect of ammonia upon the electrocatalysis of hydrogen oxidation and oxygen reduction on polycrystalline platinum.
+J. Power Sources
+220
+, 205–210 (2012).
+Article
+CAS
+Google Scholar
+Jirkovský, J. S., Halasa, M. & Shiffrin, D. J. Kinetics of electrocatalytic reduction of oxygen and hydrogen peroxide on dispersed gold nanoparticles.
+Phys. Chem. Chem. Phys.
+12
+, 8042–8052 (2010).
+Article
+CAS
+Google Scholar
+Sa, Y. J., Kim, J. H. & Joo, S. H. Active edge-site-rich carbon nanocatalysts with enhanced electron transfer for efficient electrochemical hydrogen peroxide production.
+Angew. Chem. Int. Ed.
+58
+, 1100–1105 (2019).
+Article
+CAS
+Google Scholar
+Chen, S. et al. Designing boron nitride islands in carbon materials for efficient electrochemical synthesis of hydrogen peroxide.
+J. Am. Chem. Soc.
+140
+, 7851–7859 (2018).
+Article
+CAS
+Google Scholar
+Edwards, J. K. et al. Switching off hydrogen peroxide hydrogenation in the direct synthesis process.
+Science
+323
+, 1037–1041 (2009).
+Article
+CAS
+Google Scholar
+Wang, X. X., Prabhakaran, V., He, Y., Shao, Y. & Wu, G. Iron-free cathode catalysts for proton-exchange-membrane fuel cells: cobalt catalysts and the peroxide mitigation approach.
+Adv. Mater.
+31
+, 1805126 (2019).
+Article
+CAS
+Google Scholar
+Shahriary, L. & Athawale, A. A. Graphene oxide synthesized by using modified Hummers approach.
+Int. J. Renew. Energy Environ. Eng.
+2
+, 58–63 (2014).
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Blöchl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953–17979 (1994).
+Article
+Google Scholar
+Hammer, B., Hansen, L. B. & Nørskov, J. K. Improved adsorption energetics within density-functional theory using revised Perdew–Burke–Ernzerhof functionals.
+Phys. Rev. B
+59
+, 7413–7421 (1999).
+Article
+Google Scholar
+Monkhorst, H. J. & Pack, J. D. Special points for Brillouin-zone integrations.
+Phys. Rev. B
+13
+, 5188–5192 (1976).
+Article
+Google Scholar
+Man, I. C. et al. Universality in oxygen evolution electrocatalysis on oxide surfaces.
+ChemCatChem
+3
+, 1159–1165 (2011).
+Article
+CAS
+Google Scholar
+Nørskov, J. K. et al. Origin of the overpotential for oxygen reduction at a fuel-cell cathode.
+J. Phys. Chem. B
+108
+, 17886–17892 (2004).
+Article
+CAS
+Google Scholar
+Calle-Vallejo, F., Martínez, J. I. & Rossmeisl, J. Density functional studies of functionalized graphitic materials with late transition metals for oxygen reduction reactions.
+Phys. Chem. Chem. Phys.
+13
+, 15639–15643 (2011).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+Synthesis and physicochemical property analysis of the catalysts were supported by the Research Center Program of the IBS (IBS-R006-D1) in Korea (T.H.). Electrochemical analysis was supported by Research Center Program of the IBS (IBS-R006-A2, Y.-E.S.). X-ray absorption spectra characterization at the Pohang Accelerator Laboratory (PAL) 8C beamline was supported by a National Research Foundation of Korea (NRF) grant funded by the Korea government (no. 2018M1A2A2061998). Theoretical analysis was supported by the 2019 Research Fund of the University of Seoul (J.S.Y.).
+Author information
+Author notes
+These authors contributed equally: Euiyeon Jung, Heejong Shin, Byoung-Hoon Lee.
+Authors and Affiliations
+Center for Nanoparticle Research, Institute for Basic Science (IBS), Seoul, Republic of Korea
+Euiyeon Jung, Heejong Shin, Byoung-Hoon Lee, Hyeon Seok Lee, Jiheon Kim, Wytse Hooch Antink, Subin Park, Yung-Eun Sung & Taeghwan Hyeon
+School of Chemical and Biological Engineering, and Institute of Chemical Processes, Seoul National University, Seoul, Republic of Korea
+Euiyeon Jung, Heejong Shin, Byoung-Hoon Lee, Hyeon Seok Lee, Jiheon Kim, Wytse Hooch Antink, Subin Park, Yung-Eun Sung & Taeghwan Hyeon
+Department of Chemical Engineering, University of Seoul, Seoul, Republic of Korea
+Vladimir Efremov, Suhyeong Lee & Jong Suk Yoo
+Pohang Accelerator Laboratory (PAL), Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea
+Kug-Seung Lee
+National Center for Inter-University Research Facilities, Seoul National University, Seoul, Republic of Korea
+Sung-Pyo Cho
+Authors
+Euiyeon Jung
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Heejong Shin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Byoung-Hoon Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Vladimir Efremov
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Suhyeong Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hyeon Seok Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiheon Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wytse Hooch Antink
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Subin Park
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kug-Seung Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sung-Pyo Cho
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jong Suk Yoo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yung-Eun Sung
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Taeghwan Hyeon
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+E.J., H.S., B.-H.L., J.S.Y., Y.-E.S. and T.H. conceived the research. E.J., H.S. and B.-H.L. designed the experiments. E.J., B.-H.L., H.S.L., J.K. and W.H.A. performed and analysed the results. H.S. and S.P. performed electrochemical measurements. V.E., S.L. and J.S.Y. performed the computational analysis. S.-P.C. conducted the high-angle annular dark-field scanning transmission electron microscopy analysis. K.-S.L. contributed to the X-ray absorption experiments and analysis. E.J., H.S., B.-H.L., J.S.Y., Y.-E.S. and T.H. wrote the manuscript. J.S.Y., Y.-E.S. and T.H. supervised the project. All the authors commented on the manuscript.
+Corresponding authors
+Correspondence to
+Jong Suk Yoo
+,
+Yung-Eun Sung
+or
+Taeghwan Hyeon
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Notes, Figs. 1–41, Tables 1–4 and references 1–18.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Jung, E., Shin, H., Lee, BH.
+et al.
+Atomic-level tuning of Co–N–C catalyst for high-performance electrochemical H
+2
+O
+2
+production.
+Nat. Mater.
+19
+, 436–442 (2020). https://doi.org/10.1038/s41563-019-0571-5
+Download citation
+Received
+:
+14 June 2019
+Accepted
+:
+27 November 2019
+Published
+:
+13 January 2020
+Issue Date
+:
+April 2020
+DOI
+:
+https://doi.org/10.1038/s41563-019-0571-5
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Subjects
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Our publishing models
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Materials
+(
+Nat. Mater.
+)
+ISSN
+1476-4660
+(online)
+ISSN
+1476-1122
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

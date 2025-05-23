@@ -1,0 +1,2158 @@
+Towards dense single-atom catalysts for future automotive applications | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+review articles
+article
+Towards dense single-atom catalysts for future automotive applications
+Download PDF
+Review Article
+Published:
+11 July 2019
+Towards dense single-atom catalysts for future automotive applications
+Atsushi Beniya
+1
+&
+Shougo Higashi
+ORCID:
+orcid.org/0000-0002-7887-4117
+1
+Nature Catalysis
+volume
+2
+,
+pages
+590–602 (
+2019
+)
+Cite this article
+17k
+Accesses
+373
+Citations
+13
+Altmetric
+Metrics
+details
+Subjects
+Heterogeneous catalysis
+Nanoparticles
+Abstract
+CO oxidation is an important primary reaction in automotive catalysis, and has been studied extensively since the 1970s because of its fundamental nature and technological relevance to emission control regulations. In this Review, we investigate the development of state-of-the-art catalysts for CO oxidation and consider the important achievements in the design of good catalysts via a detailed scrutiny of CO oxidation pathways for single-atom and few-atom cluster catalysis, which constitute a subset of the emerging technology of atomically dispersed and nanostructured oxide-supported catalysts. We see a recent effort towards achieving high-performance catalysts via chemical potential tuning, in which the size, structure, shape and degree of alloys are controlled to alter the electronic structure, catalyst-oxide support interactions and resulting interactions between adsorbates and the catalyst. We present a missing link in modern catalysis research in terms of the future development of automotive catalysts and related issues that must be satisfactorily resolved for sustainable and environment-friendly solutions.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Opportunities and challenges in the development of advanced materials for emission control catalysts
+Article
+05 October 2020
+Dynamic and reversible transformations of subnanometre-sized palladium on ceria for efficient methane removal
+Article
+20 July 2023
+Design of catalysts for selective CO
+2
+hydrogenation
+Article
+27 February 2025
+Main
+Internal combustion engines produce mechanical energy by burning fuel to power vehicles and generate electricity. Many years after the invention of this revolutionary technology in the late 18th century, the so-called catalytic converter, comprising a honeycomb monolith
+1
+,
+2
+of a highly porous support material coated by a catalyst that could convert toxic exhaust gases such as carbon monoxide (CO) and other pollutants (NO
+x
+, HC and so on)
+3
+, has become indispensable for avoiding the negative impact of internal combustion engines on both human health and the environment (Fig.
+1a
+). Catalytic CO oxidation has long been recognized as an industrially important reaction like the Haber–Bosch process. It has been actively studied since at least the 1920s, when Langmuir performed the pioneering work on CO oxidation using Pt as the catalyst (equation (
+1
+))
+4
+. The Langmuir–Hinshelwood (L–H) reaction model, in which CO and O
+2
+are adsorbed and then diffused to form CO
+2
+, has been considered for CO oxidation.
+$${\mathrm{CO}} + {1 \over 2}\;{\mathrm{O}}_2 \to {\mathrm{CO}}_2$$
+(1)
+Fig. 1: Necessity of the development of low-cost, environment-friendly automotive catalysts.
+The development of automotive catalysts has been preceded through a series of studies on synthesis, analysis and theoretical prediction. Transmission electron microscopy (TEM), scanning tunnelling microscopy (STM), X-ray absorption fine structure (XAFS) spectroscopy, infrared (IR) spectroscopy, and temperature-programmed desorption (TPD) are often used to characterize the material and help understand the reaction model. Further studies on catalysis for understanding the elementary catalytic steps and establishment of a method of forming an atomically dispersed, dense catalyst layer are indispensable for future automotive catalysis applications. These tasks are urgent because of the increasing number of internal combustion engines
+6
+.
+Full size image
+The accumulated knowledge was then applied to the catalytic converter of vehicles in the early 1970s to meet emission control regulations, and for decades, significant effort has been dedicated to maximizing the fuel efficiency and power of the internal combustion engine, while simultaneously minimizing its environmental impact
+1
+,
+2
+. The development of three-way catalysts, in which the catalysts are designed on the basis of an understanding of the reaction mechanism, is considered a laudable success in catalysis
+2
+,
+5
+.
+However, we have not yet reached the stage where a platinum group metal (PGM) catalyst is not required to clean exhaust gases; thus, further understanding of catalysis is still vital for application in automobiles. The actual usage of PGMs, very rare materials used in catalysts, has reportedly increased over the past decades. Approximately four grams of PGMs is required per vehicle, but the total demand for PGMs increases with the increasing number of the vehicles on the road (Supplementary Fig.
+1
+).
+Although there is now, in 2019, a shift from fossil-fuel-based vehicles to more sustainable ones, such as hybrid and electric vehicles, the effort to develop an efficient automotive catalyst will continue to be of great importance in the coming decades, as more than half of the total vehicles on the road are still forecasted to be powered by internal combustion engines till around 2050 (Fig.
+1
+)
+6
+. In other words, development of a safe, low-cost and high-performance catalyst is urgent for such large-scale deployment.
+In general, there are two channels toward high catalytic activity per mass which are intimately associated; one involves increase the number of active sites by, for example, pulverizing substances into nano- or atom-scale, and the other involves bypassing the high activation barrier reaction step via chemical potential tuning by, for example, controlling not only the sizes but also tuning the shape, structure and strain of the substances
+7
+. Along with improvements in the efficiency of internal combustion engines, receiving further assistance from advanced low-cost batteries would turn the combustion engine on and off frequently, decreasing the heat available for catalytic reactions
+8
+,
+9
+. Therefore, the workings of catalysts at low temperatures must be studied to meet the high standards of clean emission
+10
+.
+Through extensive trial and error, the catalytic activities of several materials having different elements, sizes, shapes and structures have been revealed, particularly those containing PGMs and Au. Catalysts based on transition metals, such as Cu, Ni and Co, were also studied intensively in the early 1980s
+1
+, though these have not proven successful for automotive applications and PGMs have continued to be used
+11
+. Capturing a part of the catalytic reaction and extrapolating the entire reaction pathway of CO oxidation is essential for designing a catalyst. This becomes possible if well-defined model surfaces, such as atomically clean surfaces and support oxides with size-selected catalyst clusters, are used
+12
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+. To characterize such nanocatalysts, scanning tunnelling microscopy (STM)
+18
+,
+19
+, X-ray photoelectron spectroscopy (XPS)
+20
+and structural analytical tools like transmission electron microscopy (TEM)
+21
+and infrared (IR) spectroscopy have been used in a complementary manner. Particularly, IR spectroscopy has been used to study the stretching modes of CO molecules adsorbed on the catalyst surface
+22
+. These have played a critical role in unravelling the mechanisms of CO oxidation and helped develop a new class of catalysts, the atomically dispersed and nanostructured-oxide-supported catalysts (ADNSCs), which could potentially reduce the total amount of PGMs used in catalytic converters. Simple wet chemistry (traditional ion impregnation
+23
+) can be used to atomically disperse catalysts on reducible oxides such as FeO
+x
+and CeO
+24
+,
+25
+, where the bond between the metal cation and oxygen is weak and the oxygen vacancy formation energy is low. The features of these catalysts differ from those of conventional nanoparticle (NP) catalysts
+23
+,
+26
+.
+Several important studies and critical reviews of nanocatalysts for CO oxidation have been reported
+12
+,
+27
+. Reviews and perspectives on CO oxidation published in the 1980s are still relevant
+28
+; many of them predicted or questioned subjects like structural sensitivity in heterogeneous catalysis, which have been proven to exist after improvements in analytical methods and computer simulations
+12
+,
+19
+. However, there are several new questions: for example, are single-atom catalysts (SACs) the most mass-efficient?
+In this Review, we summarize the contemporary arguments and ideas on ADNSCs, a subset of which is the single-atom catalyst, in order to provide a guideline for designing effective catalysts, particularly for future automotive applications. Herein we provide an overview of the development of ADNSCs and their peculiar resistance to sintering, which has been attributed to the strong bonds between the catalyst and the reducible oxide support, and also provide details of the proposed CO oxidation pathways for SACs. We see a clear quantum effect observed for Au NP catalysts
+19
+,
+29
+, which has not been observed for PGM nanocatalysts experimentally because the partially filled d-shells of PGMs provide a high density of states around the Fermi level
+30
+. We also discuss the catalytic activities of ADNSCs. Finally, we highlight the challenges and opportunities of using this technology for automotive applications.
+Single-atom catalysts on oxide support materials
+In 1957, the presence of a single Rh atom on Al
+2
+O
+3
+oxide support was proposed on the basis of the IR observations of chemisorbed CO (ref.
+31
+). Follow-up studies supported the existence of supported single Rh atoms
+32
+,
+33
+. In the late 1990s, isolated atom sites of Rh
+1
+and Pt
+1
+(hereafter, the subscript indicates the number of atoms constituting the metal catalyst) were prepared on Al
+2
+O
+3
+(ref.
+34
+) and MgO (ref.
+35
+) supports, respectively, using similar wet chemistry or impregnation methods; these supported single-atom catalysts were used to examine CO and propane oxidation, respectively. By 2000, ultrahigh-vacuum systems, equipped with a series of condenser lenses and quadrupole mass selectors, were developed to prepare mass-selected nanoclusters with atomic-level precision, enabling the study of catalyst size dependency for reactions of interest
+13
+(Supplementary Note
+1
+). One of the earliest studies on mass-selected oxide-supported catalysts, apart from those used for CO oxidation, was conducted on the cyclotrimerization of acetylene (C
+2
+H
+2
+) to benzene (C
+6
+H
+6
+) on Pd
+1
+/MgO(100) using temperature-programmed reaction, Fourier-transform IR (FTIR) spectroscopy and density functional theory (DFT) calculations
+36
+. Fu and co-workers
+24
+prepared CeO
+2
+-supported Au
+1
+and Pt
+1
+by the wet chemical method, and these catalysts demonstrated higher activities in the water-gas shift reaction (equation (
+2
+)) than NPs 5 nm in diameter (which consist of ~2,000 atoms):
+$${\mathrm{CO}} + {\mathrm{H}}_2{\mathrm{O}} \to {\mathrm{CO}}_2 + {\mathrm{H}}_2$$
+(2)
+For such single-atom catalysts, superior selectivity has also been reported for the hydrogenation of 1,3-butadiene (C
+4
+H
+6
+) to butene (C
+4
+H
+8
+) by Au
+1
+on ZrO
+2
+(ref.
+37
+) and for the aerobic oxidation of allylic alcohols by Pd
+1
+on mesoporous Al
+2
+O
+3
+(ref.
+38
+). Nagai and co-workers
+39
+investigated the variation of Pt size on different kinds of oxide supports after annealing at 800 °C, and revealed that fine Pt particles are atomically dispersed on ceria-based oxides via strong Pt-support bonding. They reported the correlation among the size of Pt, reducibility of oxide supports and XPS O 1
+s
+peak position (Fig.
+2a
+). Although the isolated Pt atoms were not identified by TEM observation, probably due to the small weight difference between Ce and Pt, extended X-ray absorption fine structure (EXAFS) results showed the formation of Pt–O–Ce bonds instead of Pt–Pt bonds, indicating the presence of Pt single atoms (Fig.
+2b,c
+).
+Fig. 2: Structural analyses of atomically dispersed and nanostructured catalysts.
+Ref.
+39
+, Elsevier (
+a
+–
+c
+); ref.
+25
+, Springer Nature Ltd. (
+d
+–
+f
+); ref.
+40
+, AAAS (
+g
+); ref.
+59
+, Wiley (
+h
+)
+a
+, Correlation among the Pt size, reducibility of oxide support and XPS O 1
+s
+peak positions.
+b
+, Corresponding XPS spectra.
+c
+,
+k
+3
+-weighted Fourier transform spectra from EXAFS at the Pt L
+3
+edge for aged supported Pt catalysts and standard samples of Pt foil and PtO
+2
+.
+d
+, High-angle annular dark-field imaging-scanning transmission electron microscopy image of Pt
+1
+/FeO
+x
+. Single Pt atoms are circled in the image.
+e
+,
+f
+, X-ray absorption spectra of Pt/FeO
+x
+(Pt loading of 0.17 and 2.5 wt% for samples A and B, respectively), Pt foil and PtO
+2
+.
+e
+, Peaks at ~1.7 Å are fitted to the Pt–O contribution, and the spectrum does not reveal any Pt–Pt contribution in sample A, indicating that it contains only single Pt atoms.
+f
+, Normalized X-ray absorption near edge structure spectra at the Pt L
+3
+edge show a decrease in the white-line intensities (PtO
+2
+>sample A (used)>sample A>sample B>Pt foil).
+g
+, Schematic representation of the energetic differences for sintering Ag NPs on different support surfaces. The thermodynamic driving force for sintering of 400-atom Ag particles is much greater on MgO(100) than on the slightly reduced CeO
+2
+(111) surfaces. The red squares represent oxygen vacancies at the step edges.
+h
+, Scanning tunnelling microscopy (STM) image of a Pt/Fe
+3
+O
+4
+(001) model catalyst.
+Full size image
+In 2011, the term ‘single-atom catalysis’ appeared for the first time to describe Pt
+1
+/FeO
+x
+as a practical CO oxidation catalyst with high activity for CO oxidation (activation energy = 76.2 kJ mol
+–1
+) and good sinter resistance
+25
+. This study triggered extensive catalyst research on CO oxidation, and several interesting and important studies in the exciting field of ADNSCs were reported. Isolated Pt single atoms were observed on FeO
+x
+by TEM (Fig.
+2d
+), confirmed by the absence of the EXAFS peak for the Pt–Pt bond (Fig.
+2e, f
+). The authors claimed that remarkable stability was realized by selecting a reducible oxide as a support to anchor the mobile atoms and prevent aggregation or sintering
+25
+.
+Farmer and Campbell
+40
+reported the large adsorption energy for metal nanoclusters on CeO
+2
+by measuring the heat of adsorption and attributed the high sinter resistance of late-transition-metal nanocluster catalysts to the strong metal-support bonding. They discussed how the lattice strain effect of the support created a repulsive interaction between neighbouring Ag NPs on CeO
+2
+(111), producing an activation barrier to sintering. The basic concept of such anchoring or unusual sintering resistance for such metal NPs and oxide support is instrumental in explaining the origin of stabilized SACs on oxides.
+CO oxidation pathways of single-atom catalysts
+Table
+1
+summarizes several recent studies on the adsorption states of oxide-supported SACs and CO oxidation activities, reporting at least two of the following parameters: chemical states determined using either EXAFS or XPS, number of metal-oxygen bonds determined using EXAFS or DFT, and CO vibrational frequency determined using FTIR. These parameters are very important for characterizing ADNSCs and complement the conjecture of a low-energy reaction pathway. As Boudart
+28
+noted, a measure of catalytic activity is not quantitative unless it is reported as a turnover number; thus, the activation energy, turnover frequency (TOF) and specific rate (amount of CO converted at a specific temperature per unit catalyst mass) are summarized. We note that TOF depends on the operational temperature, and the number of active sites is assumed to equal the number of surface atoms on the catalyst, which will not be the case if the catalyst has more than two adsorption sites (Supplementary Note
+2
+). It depends on the coverage of CO, but CO is known to adsorb at the on-top sites of Pt NPs
+56
+. The non-superscript letters a–f in the centre of Table
+1
+correspond to proposed reaction pathways illustrated schematically in Fig.
+3a–f
+. Based on our investigation, a catalytic reaction can be partly or wholly related to any of these six reaction models, which are roughly classified into the Mars van Krevelen (MvK) and L–H reaction models.
+Table 1 The adsorption states, CO oxidation activities and proposed CO oxidation pathways of oxide-supported single-atom catalysts
+Full size table
+Fig. 3: CO oxidation paths and elementary steps of single-atom catalysts.
+MvK (
+a
+–
+c
+) and L–H (
+d
+–
+f
+) type reaction paths proposed for SAC.
+a
+, MvK type reaction that leads to the formation and replenishment of surface oxygen vacancies proposed for Pt
+1
+/FeO
+x
+(ref.
+25
+), Au
+1
+/FeO
+x
+(ref.
+53
+), and Pt
+1
+/CeO
+2
+(refs.
+42
+,
+44
+) according to DFT calculations, and experimentally deduced for Pt
+1
+/CeO
+2
+(ref.
+45
+), Pt
+1
+/TiO
+2
+(ref.
+46
+) and Au
+1
+/CeO
+2
+(ref.
+58
+).
+b
+, Water-promoted MvK reaction pathway for Pt
+1
+/CeO
+2
+(ref.
+42
+). Adsorbed hydroxyl species, formed by dissociative water adsorption, react with CO to form the carboxyl intermediate.
+c
+, Reaction path for steam-treated Pt
+1
+/CeO
+2
+(ref.
+44
+). CO reacts with OH to form a carboxyl intermediate and oxygen vacancy before CO
+2
+is produced via deprotonation of the carboxyl intermediate.
+d
+, L–H-type reaction pathway via molecular O
+2
+adsorption proposed for Pt
+1
+/θ-Al
+2
+O
+3
+(ref.
+48
+). CO bonds to O
+2
+to form a carbonate that can dissociate to release a CO
+2
+molecule.
+e
+,
+f
+, L–H-type reaction pathway via dissociative O
+2
+adsorption proposed for a Pd
+1
+/CeO
+2
+nanorod
+51
+(
+e
+) and Rh
+1
+/γ-Al
+2
+O
+3
+(ref.
+62
+;
+f
+).
+e
+, An O
+2
+molecule is adsorbed to stabilize Pd
+1
+by forming the PdO
+2
+species, and the dissociated O reacts with CO to form CO
+2
+.
+f
+, An O
+2
+molecule dissociates on Rh
+1
+. One of the O bonds with the Al
+2
+O
+3
+substrate, and the other is used to form CO
+2
+.
+Full size image
+Mars van Krevelen reactions on reducible oxides
+Qiao and co-workers
+25
+prepared a Pt
+1
+/FeO
+x
+catalyst using the wet chemical method and reported that Pt
+1
+substituted Fe in FeO
+x
+. The oxidation of Pt
+1
+was confirmed by the stronger intensity of the white line of the Pt L
+3
+edge compared with that of the Pt foil (Pt
+0
+), along with the blue shift from 2,030 cm
+–1
+for the 0.5 nm-diameter nanocluster to 2,080 cm
+–1
+in the CO FTIR spectrum. The oxidation state is denoted as Pt
+δ+
+in Table
+1
+as originally proposed, but was later denoted as Pt
+4+
+based on the DFT calculations from a follow-up research, which proposed that Pt substituted Fe in Fe
+2
+O
+3
+(001) and formed three Pt–O bonds to stabilize its structure
+53
+. EXAFS data indicated that there were three metal–oxygen bonds. The reaction proceeded through an MvK-type pathway that involves lattice oxygen uptake
+57
+to release twice the number of CO
+2
+molecules and complete the catalytic cycle (Fig.
+3a
+). First, the O
+2
+molecule is adsorbed on the oxygen vacancy near the SACs, forming an intermediate with CO (O*–O–C*=O; the asterisk indicates surface bound species) and subsequently, the first CO
+2
+molecule. These CO-assisted O
+2
+dissociation pathways should help bypass the higher barriers imposed by the spin-forbidden transitions required for unassisted O
+2
+dissociation as demonstrated for Pt NPs
+56
+. The barrier for direct formation of O*–O–C*=O is much lower than that needed to form O
+2
+–
+because the spin-forbidden transition and the exothermic formation of the new O–C bond occur concurrently
+56
+. After this, another unused oxygen atom replenishes the oxygen vacancy. Second, CO preferentially adsorbs on SAC, and the oxygen in the oxide lattice is used to release the second CO
+2
+molecule, as highlighted, involving lattice oxygen uptake. This model is also supported by other studies on Pt
+1
+/CeO
+2
+(refs.
+42
+,
+44
+,
+45
+) and Au
+1
+/FeO
+x
+(ref.
+53
+). Most importantly, the uptake of lattice oxygen or creation of oxygen vacancies has been determined to be the rate-limiting step and has been validated by experimental kinetic analyses with temperature-programmed desorption for Pt
+1
+/TiO
+2
+(ref.
+46
+) and Au
+1
+/CeO
+2
+(ref.
+58
+).
+Two different oxidation states, +2 and +4, have been reported for Pt
+1
+/CeO
+2
+based on Pt 4f
+7/2
+XPS measurements (Table
+1
+)
+41
+,
+42
+,
+44
+,
+45
+. It was +2 on a TiO
+2
+surface based on the FTIR peak at 2,112 cm
+–1
+(refs.
+22
+,
+46
+,
+47
+). For these single-atom Pt catalysts, a similar lattice oxygen involved CO oxidation mechanism (Fig.
+3a
+) has been proposed for reducible oxides. The reaction model was supported by STM observations that revealed the formation of holes after Pt/Fe
+3
+O
+4
+(001) was exposed to CO gas at 550 K (Fig.
+2h
+), evidencing the involvement of lattice oxygen in the reaction model
+59
+.
+Al
+2
+O
+3
+is non-reducible and inert. On such support surfaces, the reaction proceeds only at the surface and is not supposed to involve lattice oxygen, making it an L–H-type reaction. Nevertheless, the lattice–oxygen-involved reaction has a low activation energy (37.4 kJ mol
+–1
+) for La-doped γ-alumina where Pd
+1
+are atomically dispersed
+52
+.
+Water-mediated catalytic reactions and related material syntheses are receiving significant research attention. Surface treatment techniques for Au nanocatalysts have been studied for more than a decade
+60
+,
+61
+. Remarkable improvements have also been made recently in low-temperature CO conversion for Pt
+1
+/CeO
+2
+in the presence of water; the activation energy was lowered from 61.8 to 39.6 kJ mol
+–1
+under these conditions
+42
+. Although this model does not consume water, it nonetheless needs a constant supply of water (Fig.
+3b
+). The activation energy also decreased significantly from 105.4 to 42.5 kJ mol
+–1
+for steam treatments of Pt
+1
+/CeO
+2
+, in which the hydrogenation of CeO
+2
+surface and creation of oxygen vacancies occur simultaneously at high temperatures (for example, 750 °C)
+44
+. The low activation energy of this reaction path involving OH, compared with the one that did not use steam treatment, was confirmed by DFT (the reaction steps are shown in Fig.
+3c
+)
+44
+.
+Langmuir–Hinshelwood type single-atom catalysis
+Single Pt atoms were successfully prepared on θ-Al
+2
+O
+3
+(ref.
+48
+). The proposed reaction proceeds only on the catalyst surface where molecular O
+2
+and CO are co-adsorbed (Fig.
+3d
+). This L–H-type reaction mechanism has also been proposed for Pd
+1
+on preferentially exposed (111) surfaces of CeO
+2
+nanorods
+51
+(Fig.
+3e
+). The pathway involving lattice oxygen uptake has higher activation energy, as demonstrated using DFT. Spezzati and co-workers used the CO-probe FTIR method to study the structures of PdO and PdO
+2
+and found that both dissociated oxygen atoms bind to both Pd
+1
+and CeO
+2
+(ref.
+51
+). A similar model has been proposed for Rh
+1
+/γ-Al
+2
+O
+3
+(110) based on DFT; however, the difference is that one of the dissociated O atoms forms a O*–C*O complex to release CO
+2
+, while the other remains bound to both Rh
+1
+and Al
+2
+O
+3
+(110) after the first release of CO
+2
+(ref.
+62
+), as shown in Fig.
+3f
+.
+These proposed L–H schemes for a SAC are interesting, but some questions remain: for example, how can the cationic single atoms offer a binding site for an O
+2
+molecule and why does an element with such high electronegativity adsorb on the surface of positively charged single catalysts or those with a few atoms? Further analysis of the relationship between the oxidation number of single metal atoms and the adsorption structure of oxygen would be an interesting research topic.
+Single-atom catalysts versus few-atom cluster catalysts
+SACs have received increasing research attention, given their ultimate material usage efficiency; however, they also triggered an intense debate over whether single or cluster catalysts had higher CO oxidation activity
+63
+,
+64
+.
+In 1987, Haruta and co-workers demonstrated the peculiar CO oxidation activity of Au NPs on oxide supports, especially at low temperatures, which was not observed for unsupported bulk Au or Au on inactive/non-reducible oxides
+29
+. The specific rate increased as the Au NPs size decreased to 2.5 nm (Fig.
+4a
+); however, it depended not only on the NP size, but also on the support material selected
+29
+,
+65
+. Goodman and co-workers used scanning tunnelling spectroscopy (STS) to reveal that there are clear band gap openings on Au NPs
+19
+. They found excellent correlation between the CO oxidation activity and NP size, thus answering the question posed long back on why a NP of a specific size had high activity (Fig.
+4b
+)
+19
+. Interestingly, such size dependency was also successfully explained using a simple ball model that demonstrated correlation between the number of steps/kinks, which had low coordination numbers and activities without considering the band structure
+66
+(Fig.
+4c
+). Such a simple explanation would be helpful in designing nanostructured catalysts. A cluster of ten Au atoms a few nanometres in size
+21
+, not a single Au atom, was reportedly the most mass-efficient catalyst. Several researchers confirmed a similar size effect on Au catalytic activity
+19
+,
+67
+,
+68
+. Size-selected, atomically dispersed Pt has also been studied intensively using surface science techniques, and there are several reports verifying the size dependency on CO oxidation
+13
+,
+69
+,
+70
+. However, a comprehensive comparison has not been conducted thus far.
+Fig. 4: Size-sensitive CO oxidation for Au on TiO
+2
+.
+Ref.
+65
+, Springer Nature Ltd (
+a
+); ref.
+19
+, AAAS (
+b
+); ref.
+66
+, Springer Nature Ltd (
+c
+)
+a
+, Specific rates of CO oxidation (number of CO
+2
+molecules produced per total Au atoms per second) at 27 °C as a function of the diameter of the Au NPs supported on a TiO
+2
+support with high surface area. The dashed line is merely a guide to the eye.
+b
+, Specific rate of size-dependent CO oxidation at 77 °C, band gaps measured by STS, and relative population of the Au NPs (two atomic layers high) that exhibited a band gap of 0.2 to 0.6 V, as measured by STS for Au NPs supported on TiO
+2
+(110)-(1×1). Black filled dot, 2D clusters; unfilled square, 3D clusters that are two atomic layers high; black filled triangle, 3D clusters that are three or more atomic layers high.
+c
+, Calculated step density for Au NPs on TiO
+2
+as a function of particle size. Unfilled circle, total step sites on Au NPs; unfilled square, free step sites on Au NPs. Free step sites are those that are not in direct contact with the support. Lines through the two sets of points are given as a guide to the eye.
+Full size image
+To make a fair comparison of the catalytic activities reported for PGMs and Au catalysts in CO oxidation, we surveyed the literature reporting at least the mass loading of the catalyst, the flow rate of CO molecules (mol
+CO
+h
+–1
+), and the light off curve, and estimated the specific reaction rates at T50 (the temperature at which 50% of the molecules of introduced CO were converted; equation (
+3
+)), because the catalyst loading and the number of molecules of CO introduced per unit time vary from experiment to experiment and they cannot simply be compared with each other.
+$${\mathrm{Specific}}\;{\mathrm{rate}}\;{\mathrm{at}}\;{\mathrm{T50}} = \frac{{50\% \;{\mathrm{of}}\;{\mathrm{the}}\;{\mathrm{molecules}}\;{\mathrm{of}}\;{\mathrm{introduced}}\;{\mathrm{CO}}\;{\mathrm{per}}\;{\mathrm{unit}}\;{\mathrm{time}}\left( {{\mathrm{mol}}_{{\mathrm{CO}}}\;{\mathrm{h}}^{ - 1}} \right){\mathrm{at}}\;{\mathrm{T50}}}}{{{\mathrm{Catalyst}}\;{\mathrm{mass}}\left( {{\mathrm{mol}}_{{\mathrm{metal}}}} \right)}}$$
+(3)
+The results are summarized in Fig.
+5a
+(see also Supplementary Fig.
+2
+for full references). For example, if a large amount of catalyst is used at a constant flow rate, then T50 will be decreased, but the specific rate at T50 will also be decreased. Thus, it will move to the bottom left of Fig.
+5a
+. For any combination of flow rate of CO molecules and mass loading of the catalyst, the mass-efficient highly active catalysts will be located at the top left of Fig.
+5a
+.
+Fig. 5: CO oxidation activity of Pt, Pd, Rh and Au catalysts.
+a
+, Specific reaction rates of different platinum group metals and Au of different sizes
+71
+,
+72
+,
+73
+,
+74
+,
+75
+,
+76
+,
+77
+,
+78
+. The inset explains the determination of T50, which is the temperature at which 50% of CO is converted. From bottom to top, the material utilization increases. From right to left, the activation energy decreases and becomes effective for low-temperature catalysis. The regions labeled A, B, C, and D correspond to Au NPs, Pt NPs, Pd NPs, and single Pt atom catalysts, respectively. E1 and E2 compare the catalytic activity of different single Au atom catalysts.
+b
+,
+c
+, Summary of activation energies on different sizes of Au (
+b
+) and Pt (
+c
+) on reducible and non-reducible oxides. Metal catalysts supported on non-reducible and reducible oxides are marked by open and filled symbols, respectively.
+Full size image
+We also summarized the activation energies reported for CO oxidation in terms of the diameters of the catalysts (results of the survey for Pd and Rh are shown in Supplementary Fig.
+3
+) supported on both reducible and non-reducible oxides (Fig.
+5b,c
+). Furthermore, as shown in Fig.
+5a
+, Au NPs seem to have high specific reaction rates at low temperatures (A, Fig.
+5a
+), and there is an overlap for Pd and Pt NPs (B and C in Fig.
+5a
+, respectively) and improvement for single Pt atoms (D in Fig.
+5a
+) at temperatures above 150 °C. This survey also found only a few reports on Rh probably due to the high price of Rh. We note that strikingly good specific reaction rates were achieved for Au NPs on Mg(OH)
+2
+at a low temperature of approximately –90 °C (Top left in Fig.
+5a
+)
+79
+. As shown in Fig.
+5b
+, a single Au atom on CeO
+2
+has higher activation energy than NPs (E1 in Fig.
+5a
+also shows higher T50 than NPs), which is in line with previously mentioned studies that revealed increasing band gap with decreasing cluster size. This is also consistent with the very high activation energy (~138 kJ mol
+–1
+) reported for a single Au atom on CeO
+2
+(ref.
+80
+, Fig.
+5b
+). Contradictory results were obtained for Au
+1
+/FeO
+x
+53
+and Au
+1
+/Co
+3
+O
+4
+(ref.
+81
+, E2 in Fig.
+5a
+). The specific rates obtained are among the highest reported values at temperatures below 100 °C. Further experiments must be conducted on the activation energies of Au
+1
+/FeO
+x
+and Au
+1
+/Co
+3
+O
+4
+.
+In Table
+2
+, we considered studies in which a series of experiments was conducted on NPs/clusters and single atoms, and their activities were compared. The results suggest that Au NPs are effective catalysts, compared with single Au atoms regardless of the support material. Lower activation energy seems to be achieved for Pt supported on reducible oxides. Similar activation energies were obtained for Pt single atoms and NP clusters, but in several studies involving a series of experiments on these, the superiority of the Pt single atom was confirmed, as shown in Table
+2
+.
+Table 2 Comparison of the CO oxidation activities of single-atom and nanoparticle (NP) catalysts
+Full size table
+In summary, all single atoms on support oxides investigated and listed in Table
+1
+are reported to be oxidized or cationic more or less. Some of the studies listed performed theoretical calculations (Bader charge analysis) to determine the oxidation number and those cationic atoms show lower coordination numbers compared with their counterparts in bulk. In terms of CO oxidation activity, Au NPs showed remarkable catalytic efficiency at low temperatures, superior to that of the single-atom Au catalyst. Single Pt atoms are superior to Pt clusters at high temperatures above ~100 °C (Fig.
+5a
+). Nevertheless, although NPs show catalytic activity for CO oxidation, single Pt atoms do not show activity below 100 °C (refs.
+22
+,
+47
+). It is difficult to conclude which of these is better for Pt; however, from the point of view of automotive catalysis, it would be a major breakthrough if SACs could be dispersed very densely because mass is one of the most important factors in this application of the catalysts. Research in this direction is underway
+82
+.
+Designing a CO oxidation nanocatalyst
+The advantage of designing a state-of-the-art-catalyst based on theoretical consideration predictions and examples of cutting-edge chemical potential tuning will be introduced in brief in this section.
+As the sizes of NP catalysts decrease, the coordination numbers decrease with increasing chemical potential
+83
+, and their occupied bands become more discrete, as illustrated in Fig.
+6a
+. Correspondingly, the average energies of their
+d
+-states or
+d
+-band centres increase
+84
+. Interatomic distances in such NPs decrease from their bulk values to stabilize their structure; thus, the overlap between the
+d
+-orbitals on neighbouring metal atoms increases, and the position of the
+d
+-band centres is lowered. Overall, the relative position of the
+d
+-state is determined by taking these factors into account. For effective CO oxidation, the associated energy bands/orbitals of the catalyst and adsorbates must be sufficiently close
+30
+,
+84
+.
+Fig. 6: Size dependency of metal
+d
+-state and energy potential diagrams for CO oxidation.
+Ref.
+86
+, Wiley (
+b
+); ref.
+90
+, RSC (
+e
+); ref.
+92
+, American Chemical Society (
+f
+)
+a
+, Band structure of non-supported, free-standing nanocatalysts and their hybridization with CO and O
+2
+molecular orbitals.
+b
+, Representative potential energy diagram of CO oxidation and an example of a contour plot of the Sabatier rate as a function of the CO and O adsorption energies calculated assuming the structure of NPs.
+c
+, Representative image of a potential energy diagram of CO oxidation via the Mars van Krevelen mechanism.
+d
+, Size dependence of an oxide electronic band structure.
+e
+, Examples of NPs of CeO
+2
+of different sizes.
+f
+, Calculated size dependence of the formation energy of O vacancies for CeO
+2
+NPs.
+Full size image
+A strong correlation has been established between the electronic states or
+d
+-band centres of the catalysts and the energies for the adsorption of reactants on the catalyst surface
+85
+. For L–H-type CO oxidation reactions, the adsorption energies of O (
+E
+O
+) and CO (
+E
+CO
+) were found to be good descriptors, which can be determined by experiments and DFT calculations
+86
+. Figure
+6b
+shows the corresponding potential energy diagram for the L–H reaction model and an example of the Sabatier reaction rate map
+86
+. Since the activation barrier for O
+2
+dissociation or CO
+2
+formation (Δ
+E
+diss
+and Δ
+E
+form
+, respectively) is proportional to the adsorption energy, the so-called volcano of the rate map shown in Fig.
+6
+is the energy landscape for the high rates of CO oxidation.
+If such small particles are dispersed on the support material, orbital broadening occurs owing to hybridization in the electronic state; the size of the catalyst on the support oxide can depend on the binding strength of the catalyst to the support
+40
+,
+83
+. As the size of the catalyst on the oxide support decreases, the energy of the
+d
+-band centre increases and is stabilized by strong binding to the support; consequently, the catalyst will loosely bind to CO and O, as observed on Pt/TiO
+2
+(ref.
+46
+), Pt/CuO (ref.
+63
+), and Pd NPs on Fe
+3
+O
+4
+/Pt(111) (ref.
+87
+). This implies that the reaction rate can be controlled by the size of the catalyst.
+It might be counter-intuitive to assume that such small clusters or single atoms can be stabilized on an oxide support. However, it has been experimentally and theoretically proven that such atom-scale catalysts can be stabilized by high adsorption energies owing to the upshift in the
+d
+-states of the catalysts on the reducible oxide
+22
+,
+53
+,
+83
+(Table
+1
+). Since lattice oxygen uptake has been theoretically demonstrated to be a rate-limiting step on SACs on reducible oxides (see Fig.
+3a–c
+), the formation energy of O vacancies (Δ
+E
+VO
+in Fig.
+6c
+) would be a good descriptor of this kind of system
+88
+. This is because for this path, CO oxidation accompanies CO adsorption on metal catalysts and O and/or O vacancy diffusion, but the barrier heights of these process are shown to be lower than Δ
+E
+VO
+(ref.
+89
+). Δ
+E
+VO
+, as well as
+E
+O
+and
+E
+CO
+, can be tuned by controlling the sizes (as shown in Fig.
+6d–f
+), shapes, structures, and strains of the support oxides
+90
+,
+91
+,
+92
+,
+93
+.
+Chemical potential tuning of catalysts for CO oxidation
+Strain can be easily introduced to the catalysts to alter their chemical potential. Compressive strain causes a downshift in the
+d
+-band centre of the catalyst owing to the high overlap of the orbitals of neighbouring atoms, and thus, decreases the energy of CO adsorption on the surface of that catalyst. In contrast, an expansion shifts the
+d
+-band centre up as the size of the cluster decreases, increases
+E
+CO
+and stabilizes CO on the surface. The up-shift of the
+d
+-states was theoretically demonstrated on lattice-expanded Ru(0001) (ref.
+94
+), and the reaction activity increased owing to stronger CO adsorption. Pt is compressed on Ru(0001) below three layers of Pt, and there is a significant reduction in the energy of CO adsorption on that compressed Pt surface
+95
+. It is understood that the downshift in the energy of the
+d
+-band centre makes Pt less reactive; consequently, Pt is loosely bound to both Ru(0001) and CO. For bimetallic Pt–Cu NPs, compressive strain weakens the chemisorption of oxygenated species as compared with the case of unstrained Pt (ref.
+96
+), and this can be understood in the same way as the downshift in the
+d
+-state energy of Pt. Compressive strain can also be observed on Pd–Pt core-shell nanocubes
+97
+(a Pt layer on a Pd cube); when there is a mismatch between the two metal bulk lattices, a downshift in the energy of the modified Pt electronic structure is observed. Maximum reactivity has been found for a thickness of 0.4 equivalent atomic layers, where the core–shell particles are more active than pure Pt or pure Pd cubes (TOF at 220 °C, <0.03 s
+–1
+for pure Pt or Pd, 0.13 s
+–1
+for the Pd–Pt core–shell). This improved activity is explained by the weak CO adsorption. Nilsson Pingel and co-workers
+98
+experimentally measured the strain at interfaces, surfaces and defects in Pt NPs supported on Al
+2
+O
+3
+and CeO
+2
+at an atomic resolution using scanning transmission electron microscopy (STEM), and the largest strain observed at the interface was predominantly compressive. Segregation of Pt at specific compositions in bimetallic Rh/Pt NPs has been shown to enhance CO oxidation activity
+99
+.
+The chemical potential varies with the crystal plane of the material, and it is easy to expose the desired crystal plane of various materials. Although an enhancement of CO oxidation activity has been reported on shape-controlled Pd nanocrystals enclosed by {100} facets immobilized on ZnO nanowires
+100
+, predominantly exposed {111} facets of the Pd crystal dispersed on SiO
+2
+support exhibited better catalytic activity than did the nanocubes that had the Pd {100} crystal facets as their basal plane (activation energies: 52.9 kJ mol
+–1
+for {111} and 76.5 kJ mol
+–1
+for {100}) (ref.
+101
+). For Pt, cubic Pt catalysts with predominantly exposed (100) facets showed higher CO oxidation activity than did octahedral Pt catalysts with predominantly exposed {111} facets (T50: 197 °C for {100} and 553 °C for {111}) on SiO
+2
+(ref.
+102
+). Such a variation in the CO oxidation activity stems from the difference in the chemical potential of the surface as discussed above, and for good catalysts, there must a midpoint at which the key parameters, Δ
+E
+VO
+,
+E
+O
+and
+E
+CO
+, are well balanced.
+Outlook
+The preparation of a small-sized catalyst, even at the nano- or atom-scale, in the laboratory is not difficult thanks to efforts toward developing nanoscience. By understanding the adsorption states of and reaction pathways on various kinds of materials, the design of catalysts with low activation energies is becoming possible. However, further efforts are required to develop a catalyst that meets the demanding conditions for automobiles, which vary depending on, for example, the kind of internal combustion engine and/or driving modes from the time the engine is started to when it is stopped. The synthesis of denser ADNSCs using the old or traditional ion impregnation methods is limited; low concentrations of precursors in the chemical impregnation enable us to make a single atom or few clusters of the catalyst. However, the catalyst is sparse. By increasing the precursor concentrations, it will be denser but large NPs will form. One solution to this problem would be to pulverize the supports and the catalyst metals that are supposed to be on their surface to the nanoscale
+46
+. There should be numerous opportunities to design the supports as well as the loaded metal catalysts, but we emphasize that the supports and catalysts should be easy to manufacture and definitely be safe for handling by a worker who would prepare the catalytic layer. Moreover, such nanoscale catalysts should never be released to the environment during its lifetime. Finding a way to create highly dense ADNSCs will be a new frontier for practical catalysis. Resistance to fluctuations in temperature, CO and sulfur poisoning and constant mechanical jolting are other crucial parameters for catalysts that would be applied in the automotive industry.
+Steam reforming and other related methods involving water are simple, and treatments with low material or environmental costs have been shown to significantly improve the performance of the catalysts
+42
+,
+44
+,
+60
+,
+61
+,
+79
+. The detection of light atoms, such as H and O, will be the next great challenge in understanding the role of these species on catalysis, which is still difficult to determine using even state-of-art STEM and EXAFS measurements. However, there is no doubt that direct observation of such light elements would greatly advance our understanding of catalysis. Nuclear reaction analysis
+103
+, NMR, and advanced neutron diffraction techniques would play important roles in this regard.
+The catalyst is usually visualized as remaining unchanged, in terms of its morphology, during the reaction; however, this would not be always true for nanocatalysts, as large-scale simulations of molecular dynamics and microkinetics modelling demonstrated
+104
+. They showed an interesting picture of the reaction of an Au
+20
+nanocluster on TiO
+2
+(110), in which an atom moves only a short distance from the cluster, captures CO for oxidation, and moves back to the cluster. Such detailed observations are currently limited to theoretical calculation and thus, a breakthrough in operand technique to visualize catalysis remains an issue for future analysis (Fig.
+1
+).
+Single atoms and few-atom clusters are currently characterized by TEM and/or STM images and EXAFS to confirm the absence of metal–metal bonds. Since metal oxide supports are non-conductive, their STM observation needs a conductive material layer to be placed underneath the sample
+105
+. Applying advanced atomic force microscope (AFM) direct imaging to identify such single-atom or few-atom clusters seems promising
+106
+,
+107
+.
+The intensity of the white line in X-ray absorption near edge structure (XANES) and XPS spectra are often used to discuss the chemical states of nanocatalysts, but there are well-known final state effects that cause inherent size-dependent binding energy shifts to higher binding energy in XPS. Similar changes are seen in XANES analysis
+108
+. XANES, XPS and FTIR are complementary and indirect methods to determine the chemical states; hence, DFT-based Bader charge analysis is employed to calculate the atomic charges, as seen in Table
+1
+. Determining the real atomic charge of nanocatalysts experimentally remains a challenging task to date.
+The study of catalysts is reaching the cooperative stage at which it is not only the metal atoms deposited on supports that play a role as an active site; the supports themselves also play an important and collaborative role in catalysis. To design a good ADNSC, choosing a material that has a low Δ
+E
+VO
+(or reducible or modified non-reducible oxides) would be a good starting point because it would stabilize the atom-scale catalysts on their surface.
+The challenge and opportunities lie in the exploration of methods that enable a high dispersity of such single atom or few-atom clusters with high density. Single-atom-layer catalysis will be the ultimate limit, and we are curious to know the extent of its density and the optimal coverage for CO oxidation because these factors will govern the reaction path. Thus far, there appears to be no such method of preparing a laterally large two-dimensional catalyst layer, in which a monolayer of metal cations partly or entirely cover the surface of the oxide support, without stacking a second layer. Wet chemistry has played an important role in the development of practical automotive catalysts for long time, although we may have to consider other industrially established and more artificially controllable deposition techniques, such as physical and chemical vapor deposition methods that are often employed for thin film fabrication with atomic-level accuracy. There will be many useful feedbacks as techniques of such two-dimensional, dense, mass-efficient single-atom-layer catalysis are established and will be linked to future automotive applications of ADNSCs.
+References
+Gandhi, H. S., Graham, G. W. & McCabe, R. W. Automotive exhaust catalysis.
+J. Catal.
+216
+, 433–442 (2003).
+CAS
+Google Scholar
+Kašpar, J., Fornasiero, P. & Hickey, N. Automotive catalytic converters: current status and some perspectives.
+Catal. Today
+77
+, 419–449 (2003).
+Google Scholar
+Miyoshi, N. et al. Development of new concept three-way catalyst for automotive lean-burn engines.
+SAE Trans.
+104
+, 1361–1370 (1995).
+Google Scholar
+Langmuir, I. The mechanism of the catalytic action of platinum in the reactions 2CO + O
+2
+= 2CO
+2
+and 2H
+2
++ O
+2
+= 2H
+2
+O.
+Trans. Faraday Soc.
+17
+, 621–654 (1922).
+Google Scholar
+Beniya, A., Ikuta, Y., Isomura, N., Hirata, H. & Watanabe, Y. Synergistic promotion of NO–CO reaction cycle by gold and nickel elucidated using a well-defined model bimetallic catalyst surface.
+ACS Catal.
+7
+, 1369–1377 (2017).
+CAS
+Google Scholar
+2017 Outlook for Energy: A View to 2040
+(Exxon Mobil Corporation, 2017).
+Seh, Z. W. et al. Combining theory and experiment in electrocatalysis: insights into materials design.
+Science
+355
+, eaad4998 (2017).
+PubMed
+Google Scholar
+Kato, Y. et al. High-power all-solid-state batteries using sulfide superionic conductors.
+Nat. Energy
+1
+, 16030 (2016).
+CAS
+Google Scholar
+Higashi, S., Lee, S. W., Lee, J. S., Takechi, K. & Cui, Y. Avoiding short circuits from zinc metal dendrites in anode by backside-plating configuration.
+Nat. Commun.
+7
+, 11801 (2016).
+PubMed
+PubMed Central
+Google Scholar
+Zammit, M. et al.
+Future Automotive Aftertreatment Solutions: The 150°C Challenge Workshop Report
+(US Department of Energy, 2013).
+Describes the 150
+°
+C challenge in the United States
+.
+Golunski, S. E. Why use platinum in catalytic converters?
+Platin. Met. Rev.
+51
+, 162–162 (2007).
+CAS
+Google Scholar
+Heiz, U. & Landman, U.
+Nanocatalysis
+(Springer-Verlag, Berlin, 2007).
+Heiz, U., Sanchez, A., Abbet, S. & Schneider, W. D. Catalytic oxidation of carbon monoxide on monodispersed platinum clusters: each atom counts.
+J. Am. Chem. Soc.
+121
+, 3214–3217 (1999).
+CAS
+Google Scholar
+Vajda, S. et al. Subnanometre platinum clusters as highly active and selective catalysts for the oxidative dehydrogenation of propane.
+Nat. Mater.
+8
+, 213–216 (2009).
+CAS
+PubMed
+Google Scholar
+Kaden, W. E., Wu, T. P., Kunkel, W. A. & Anderson, S. L. Electronic structure controls reactivity of size-selected Pd clusters adsorbed on TiO
+2
+surfaces.
+Science
+326
+, 826–829 (2009).
+CAS
+PubMed
+Google Scholar
+Yoon, B. et al. Charging effects on bonding and catalyzed oxidation of CO on Au
+8
+clusters on MgO.
+Science
+307
+, 403–407 (2005).
+CAS
+PubMed
+Google Scholar
+Neugebohren, J. et al. Velocity-resolved kinetics of site-specific carbon monoxide oxidation on platinum surfaces.
+Nature
+558
+, 280–283 (2018).
+CAS
+PubMed
+Google Scholar
+Wintterlin, J., Völkening, S., Janssens, T. V. W., Zambelli, T. & Ertl, G. Atomic and macroscopic reaction rates of a surface-catalyzed reaction.
+Science
+278
+, 1931–1934 (1997).
+CAS
+PubMed
+Google Scholar
+Valden, M., Lai, X. & Goodman, D. W. Onset of catalytic activity of gold clusters on titania with the appearance of nonmetallic properties.
+Science
+281
+, 1647–1650 (1998).
+CAS
+PubMed
+Google Scholar
+Salmeron, M. & Schlögl, R. Ambient pressure photoelectron spectroscopy: a new tool for surface science and nanotechnology.
+Surf. Sci. Rep.
+63
+, 169–199 (2008).
+CAS
+Google Scholar
+Herzing, A. A., Kiely, C. J., Carley, A. F., Landon, P. & Hutchings, G. J. Identification of active gold nanoclusters on iron oxide supports for CO oxidation.
+Science
+321
+, 1331–1335 (2008).
+CAS
+PubMed
+Google Scholar
+Ding, K. et al. Identification of active sites in CO oxidation and water-gas shift over supported Pt catalysts.
+Science
+350
+, 189–192 (2015).
+CAS
+PubMed
+Google Scholar
+Liu, J. Catalysis by supported single metal atoms.
+ACS Catal.
+7
+, 34–59 (2017).
+CAS
+Google Scholar
+Fu, Q., Saltsburg, H. & Flytzani-Stephanopoulos, M. Active nonmetallic Au and Pt species on ceria-based water–gas shift catalysts.
+Science
+301
+, 935–938 (2003).
+CAS
+PubMed
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+CAS
+PubMed
+Google Scholar
+Wang, A., Li, J. & Zhang, T. Heterogeneous single-atom catalysis.
+Nat. Rev. Chem.
+2
+, 65–81 (2018).
+CAS
+Google Scholar
+Freund, H.-J., Meijer, G., Scheffler, M., Schlögl, R. & Wolf, M. CO oxidation as a prototypical reaction for heterogeneous processes.
+Angew. Chem. Int. Ed.
+50
+, 10064–10094 (2011).
+CAS
+Google Scholar
+Boudart, M. Heterogeneous catalysis by metals.
+J. Mol. Catal.
+30
+, 27–38 (1985).
+CAS
+Google Scholar
+Masatake, H., Tetsuhiko, K., Hiroshi, S. & Nobumasa, Y. Novel gold catalysts for the oxidation of carbon monoxide at a temperature far below 0 °C.
+Chem. Lett.
+16
+, 405–408 (1987).
+Google Scholar
+Li, L. et al. Investigation of catalytic finite-size-effects of platinum metal clusters.
+J. Phys. Chem. Lett.
+4
+, 222–226 (2013).
+CAS
+PubMed
+Google Scholar
+Yang, C. & Garland, C. W. Infrared studies of carbon monoxide chemisorbed on Rhodium.
+J. Phys. Chem.
+61
+, 1504–1512 (1957).
+Google Scholar
+Yates, J. T., Duncan, T. M., Worley, S. D. & Vaughan, R. W. Infrared spectra of chemisorbed CO on Rh.
+J. Chem. Phys.
+70
+, 1219–1224 (1979).
+CAS
+Google Scholar
+Rice, C. A., Worley, S. D., Curtis, C. W., Guin, J. A. & Tarrer, A. R. The oxidation state of dispersed Rh on Al
+2
+O
+3
+.
+J. Chem. Phys.
+74
+, 6487–6497 (1981).
+CAS
+Google Scholar
+Wovchko, E. A. & Yates, J. T. Activation of O
+2
+on a photochemically generated RhI site on an Al
+2
+O
+3
+surface: low-temperature O
+2
+dissociation and CO oxidation.
+J. Am. Chem. Soc.
+120
+, 10523–10527 (1998).
+CAS
+Google Scholar
+Asakura, K., Nagahiro, H., Ichikuni, N. & Iwasawa, Y. Structure and catalytic combustion activity of atomically dispersed Pt species at MgO surface.
+Appl. Catal. A.
+188
+, 313–324 (1999).
+CAS
+Google Scholar
+Abbet, S. et al. Acetylene cyclotrimerization on supported size-selected Pd
+n
+clusters (1 ≤ n ≤ 30): one atom is enough!
+J. Am. Chem. Soc.
+122
+, 3453–3457 (2000).
+CAS
+Google Scholar
+Zhang, X., Shi, H. & Xu, B.-Q. Catalysis by gold: isolated surface Au
+3+
+ions are active sites for selective hydrogenation of 1,3-butadiene over Au/ZrO
+2
+catalysts.
+Angew. Chem. Int. Ed.
+44
+, 7132–7135 (2005).
+CAS
+Google Scholar
+Hackett, S. F. J. et al. High-activity, single-site mesoporous Pd/Al
+2
+O
+3
+catalysts for selective aerobic oxidation of allylic alcohols.
+Angew. Chem. Int. Ed.
+46
+, 8593–8596 (2007).
+CAS
+Google Scholar
+Nagai, Y. et al. Sintering inhibition mechanism of platinum supported on ceria-based oxide and Pt-oxide–support interaction.
+J. Catal.
+242
+, 103–109 (2006).
+CAS
+Google Scholar
+Farmer, J. A. & Campbell, C. T. Ceria maintains smaller metal catalyst particles by strong metal-support bonding.
+Science
+329
+, 933–936 (2010).
+CAS
+PubMed
+Google Scholar
+Bruix, A. et al. Maximum noble-metal efficiency in catalytic materials: atomically dispersed surface platinum.
+Angew. Chem. Int. Ed.
+53
+, 10525–10530 (2014).
+CAS
+Google Scholar
+Wang, C. et al. Water-mediated Mars–Van Krevelen mechanism for CO oxidation on ceria-supported single-atom Pt
+1
+catalyst.
+ACS Catal.
+7
+, 887–891 (2017).
+CAS
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+CAS
+PubMed
+Google Scholar
+Nie, L. et al. Activation of surface lattice oxygen in single-atom Pt/CeO
+2
+for low-temperature CO oxidation.
+Science
+358
+, 1419–1423 (2017).
+CAS
+PubMed
+Google Scholar
+Chen, J. et al. Surface engineering protocol to obtain an atomically dispersed Pt/CeO
+2
+catalyst with high activity and stability for CO oxidation.
+ACS Sustain. Chem. Eng.
+6
+, 14054–14062 (2018).
+CAS
+Google Scholar
+DeRita, L. et al. Catalyst architecture for stable single atom dispersion enables site-specific spectroscopic and reactivity measurements of CO adsorbed to Pt atoms, oxidized Pt clusters, and metallic Pt clusters on TiO
+2
+.
+J. Am. Chem. Soc.
+139
+, 14150–14165 (2017).
+Demonstrates a relationship between CO IR and single atom/few-atom clusters
+.
+CAS
+PubMed
+Google Scholar
+Liu, S. et al. Stabilizing single-atom and small-domain platinum via combining organometallic chemisorption and atomic layer deposition.
+Organometallics
+36
+, 818–828 (2017).
+CAS
+Google Scholar
+Moses-DeBusk, M. et al. CO oxidation on supported single Pt atoms: experimental and ab initio density functional studies of CO interaction with Pt atom on θ-Al
+2
+O
+3
+(010) surface.
+J. Am. Chem. Soc.
+135
+, 12634–12645 (2013).
+CAS
+PubMed
+Google Scholar
+Zhang, Z. et al. Thermally stable single atom Pt/m-Al
+2
+O
+3
+for selective hydrogenation and CO oxidation.
+Nat. Commun.
+8
+, 16100 (2017).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Neitzel, A. et al. Atomically dispersed Pd, Ni, and Pt species in ceria-based catalysts: principal differences in stability and reactivity.
+J. Phys. Chem. C.
+120
+, 9852–9862 (2016).
+CAS
+Google Scholar
+Spezzati, G. et al. Atomically dispersed Pd–O species on CeO
+2
+(111) as highly active sites for low-temperature CO oxidation.
+ACS Catal.
+7
+, 6887–6891 (2017).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Peterson, E. J. et al. Low-temperature carbon monoxide oxidation catalysed by regenerable atomically dispersed palladium on alumina.
+Nat. Commun.
+5
+, 4885 (2014).
+CAS
+PubMed
+Google Scholar
+Qiao, B. et al. Ultrastable single-atom gold catalysts with strong covalent metal-support interaction (CMSI).
+Nano Res.
+8
+, 2913–2924 (2015).
+CAS
+Google Scholar
+Guo, L.-W. et al. Contributions of distinct gold species to catalytic reactivity for carbon monoxide oxidation.
+Nat. Commun.
+7
+, 13481 (2016).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Jeong, H. et al. Fully dispersed Rh ensemble catalyst to enhance low-temperature activity.
+J. Am. Chem. Soc.
+140
+, 9558–9565 (2018).
+CAS
+PubMed
+Google Scholar
+Allian, A. D. et al. Chemisorption of CO and mechanism of CO oxidation on supported platinum nanoclusters.
+J. Am. Chem. Soc.
+133
+, 4498–4517 (2011).
+CAS
+PubMed
+Google Scholar
+Mars, P. & van Krevelen, D. W. Oxidations carried out by means of vanadium oxide catalysts.
+Chem. Eng. Sci.
+3
+, 41–59 (1954).
+CAS
+Google Scholar
+Wang, J., Tan, H., Yu, S. & Zhou, K. Morphological effects of gold clusters on the reactivity of ceria surface oxygen.
+ACS Catal.
+5
+, 2873–2881 (2015).
+CAS
+Google Scholar
+Bliem, R. et al. An atomic-scale view of CO and H
+2
+oxidation on a Pt/Fe
+3
+O
+4
+model catalyst.
+Angew. Chem. Int. Ed.
+54
+, 13999–14002 (2015).
+CAS
+Google Scholar
+Daté, M. & Haruta, M. Moisture effect on CO oxidation over Au/TiO
+2
+catalyst.
+J. Catal.
+201
+, 221–224 (2001).
+Google Scholar
+Saavedra, J., Doan, H. A., Pursell, C. J., Grabow, L. C. & Chandler, B. D. The critical role of water at the gold-titania interface in catalytic CO oxidation.
+Science
+345
+, 1599–1602 (2014).
+CAS
+PubMed
+Google Scholar
+Ghosh, T. K. & Nair, N. N. Rh
+1
+/γ-Al
+2
+O
+3
+single-atom catalysis of O
+2
+activation and CO oxidation: mechanism, effects of hydration, oxidation state, and cluster size.
+ChemCatChem
+5
+, 1811–1821 (2013).
+CAS
+Google Scholar
+Zhou, X. et al. Stable Pt single atoms and nanoclusters on ultrathin CuO film and their performances in CO oxidation.
+J. Phys. Chem. C.
+120
+, 1709–1715 (2016).
+CAS
+Google Scholar
+Therrien, A. J. et al. An atomic-scale view of single-site Pt catalysis for low-temperature CO oxidation.
+Nat. Catal.
+1
+, 192–198 (2018).
+CAS
+Google Scholar
+Bamwenda, G. R., Tsubota, S., Nakamura, T. & Haruta, M. The influence of the preparation methods on the catalytic activity of platinum and gold supported on TiO
+2
+for CO oxidation.
+Catal. Lett.
+44
+, 83–87 (1997).
+CAS
+Google Scholar
+Mavrikakis, M., Stoltze, P. & Nørskov, J. K. Making gold less noble.
+Catal. Lett.
+64
+, 101–106 (2000).
+CAS
+Google Scholar
+Sanchez, A. et al. When gold is not noble: nanoscale gold catalysts.
+J. Phys. Chem. A
+103
+, 9573–9578 (1999).
+CAS
+Google Scholar
+Lee, S., Fan, C., Wu, T. & Anderson, S. L. CO oxidation on Au
+n
+/TiO
+2
+catalysts produced by size-selected cluster deposition.
+J. Am. Chem. Soc.
+126
+, 5682–5683 (2004).
+CAS
+PubMed
+Google Scholar
+Watanabe, Y., Wu, X., Hirata, H. & Isomura, N. Size-dependent catalytic activity and geometries of size-selected Pt clusters on TiO
+2
+(110) surfaces.
+Catal. Sci. Technol.
+1
+, 1490–1495 (2011).
+CAS
+Google Scholar
+Bonanni, S., Aït-Mansour, K., Harbich, W. & Brune, H. Reaction-induced cluster ripening and initial size-dependent reaction rates for CO oxidation on Pt
+n
+/TiO
+2
+(110)-(1×1).
+J. Am. Chem. Soc.
+136
+, 8702–8707 (2014).
+CAS
+PubMed
+Google Scholar
+Lou, Y. & Liu, J. CO oxidation on metal oxide supported single Pt atoms: the role of the support.
+Ind. Eng. Chem. Res.
+56
+, 6916–6925 (2017).
+CAS
+Google Scholar
+Li, J. et al. In situ formation of isolated bimetallic PtCe sites of single-dispersed Pt on CeO
+2
+for low-temperature CO oxidation.
+ACS Appl. Mater. Interfaces
+10
+, 38134–38140 (2018).
+CAS
+PubMed
+Google Scholar
+Liang, J.-X. et al. Theoretical and experimental investigations on single-atom catalysis: Ir
+1
+/FeO
+x
+for CO oxidation.
+J. Phys. Chem. C.
+118
+, 21945–21951 (2014).
+CAS
+Google Scholar
+Li, S. et al. Low-temperature CO oxidation over supported Pt catalysts prepared by colloid-deposition method.
+Catal. Commun.
+9
+, 1045–1049 (2008).
+CAS
+Google Scholar
+Han, Y.-F., Zhong, Z., Ramesh, K., Chen, F. & Chen, L. Effects of different types of γ-Al
+2
+O
+3
+on the activity of gold nanoparticles for CO oxidation at low-temperatures.
+J. Phys. Chem. C.
+111
+, 3163–3170 (2007).
+CAS
+Google Scholar
+Lin, S. D., Bollinger, M. & Vannice, M. A. Low temperature CO oxidation over Au/TiO
+2
+and Au/SiO
+2
+catalysts.
+Catal. Lett.
+17
+, 245–262 (1993).
+CAS
+Google Scholar
+Ayastuy, J. L., González-Marcos, M. P., Gil-Rodríguez, A., González-Velasco, J. R. & Gutiérrez-Ortiz, M. A. Selective CO oxidation over Ce
+X
+Zr
+1−X
+O
+2
+-supported Pt catalysts.
+Catal. Today
+116
+, 391–399 (2006).
+CAS
+Google Scholar
+Lee, J., Ryou, Y., Kim, J., Chan, X., Kim, T. J. & Kim, D. H. Influence of the defect concentration of ceria on the Pt dispersion and the CO oxidation activity of Pt/CeO
+2
+.
+J. Phys. Chem. C.
+122
+, 4972–4983 (2018).
+CAS
+Google Scholar
+Jia, C.-J., Liu, Y., Bongard, H. & Schüth, F. Very low temperature CO oxidation over colloidally deposited gold nanoparticles on Mg(OH)
+2
+and MgO.
+J. Am. Chem. Soc.
+132
+, 1520–1522 (2010).
+CAS
+PubMed
+Google Scholar
+Aguilar-Guerrero, V. & Gates, B. C. Kinetics of CO oxidation catalyzed by highly dispersed CeO
+2
+-supported gold.
+J. Catal.
+260
+, 351–357 (2008).
+CAS
+Google Scholar
+Qiao, B. et al. Highly active Au
+1
+/Co
+3
+O
+4
+single-atom catalyst for CO oxidation at room temperature.
+Chin. J. Catal.
+36
+, 1505–1511 (2015).
+CAS
+Google Scholar
+Kunwar, D. et al. Stabilizing high metal loadings of thermally stable platinum single atoms on an industrial catalyst support.
+ACS Catal.
+9
+, 3978–3990 (2019).
+This study demonstrates that cerium oxide can support Pt single atoms at high metal loading
+(
+3 wt
+%
+Pt
+).
+CAS
+Google Scholar
+Campbell, C. T. & Sellers, J. R. V. Anchored metal nanoparticles: effects of support and size on their energy, sintering resistance and reactivity.
+Faraday Discuss.
+162
+, 9–30 (2013).
+CAS
+PubMed
+Google Scholar
+Yudanov, I. V., Genest, A., Schauermann, S., Freund, H.-J. & Rösch, N. Size dependence of the adsorption energy of CO on metal nanoparticles: a DFT search for the minimum value.
+Nano Lett.
+12
+, 2134–2139 (2012).
+CAS
+PubMed
+Google Scholar
+Hammer, B., Morikawa, Y. & Nørskov, J. K. CO chemisorption at metal surfaces and overlayers.
+Phys. Rev. Lett.
+76
+, 2141–2144 (1996).
+CAS
+PubMed
+Google Scholar
+Falsig, H. et al. Trends in the catalytic CO oxidation activity of nanoparticles.
+Angew. Chem. Int. Ed.
+47
+, 4835–4839 (2008).
+CAS
+Google Scholar
+Fischer-Wolfarth, J.-H. et al. Particle-size dependent heats of adsorption of CO on supported Pd nanoparticles as measured with a single-crystal microcalorimeter.
+Phys. Rev. B
+81
+, 241416 (2010).
+Google Scholar
+Ruiz Puigdollers, A., Schlexer, P., Tosoni, S. & Pacchioni, G. Increasing oxide reducibility: the role of metal/oxide interfaces in the formation of oxygen vacancies.
+ACS Catal.
+7
+, 6493–6513 (2017).
+CAS
+Google Scholar
+Su, Y.-Q., Filot, I. A. W., Liu, J.-X., Tranca, I. & Hensen, E. J. M. Charge transport over the defective CeO
+2
+(111) surface.
+Chem. Mater.
+28
+, 5652–5658 (2016).
+CAS
+Google Scholar
+Migani, A., Vayssilov, G. N., Bromley, S. T., Illas, F. & Neyman, K. M. Dramatic reduction of the oxygen vacancy formation energy in ceria particles: a possible key to their remarkable reactivity at the nanoscale.
+J. Mater. Chem.
+20
+, 10535–10546 (2010).
+CAS
+Google Scholar
+Tsunekawa, S., Wang, J. T. & Kawazoe, Y. Lattice constants and electron gap energies of nano- and subnano-sized cerium oxides from the experiments and first-principles calculations.
+J. Alloy. Compd.
+408–412
+, 1145–1148 (2006).
+Google Scholar
+Trovarelli, A. & Llorca, J. Ceria catalysts at nanoscale: how do crystal shapes shape catalysis?
+ACS Catal.
+7
+, 4716–4735 (2017).
+CAS
+Google Scholar
+Bruix, A. & Neyman, K. M. Modelling ceria-based nanomaterials for catalysis and related applications.
+Catal. Lett.
+146
+, 2053–2080 (2016).
+CAS
+Google Scholar
+Mavrikakis, M., Hammer, B. & Nørskov, J. K. Effect of strain on the reactivity of metal surfaces.
+Phys. Rev. Lett.
+81
+, 2819–2822 (1998).
+Google Scholar
+Schlapka, A., Lischka, M., Groβ, A., Käsberger, U. & Jakob, P. Surface strain versus substrate interaction in heteroepitaxial metal layers: Pt on Ru(0001).
+Phys. Rev. Lett.
+91
+, 016101 (2003).
+CAS
+PubMed
+Google Scholar
+Strasser, P. et al. Lattice-strain control of the activity in dealloyed core–shell fuel cell catalysts.
+Nat. Chem.
+2
+, 454–460 (2010).
+CAS
+PubMed
+Google Scholar
+De Clercq, A., Margeat, O., Sitja, G., Henry, C. R. & Giorgio, S. Core–shell Pd–Pt nanocubes for the CO oxidation.
+J. Catal.
+336
+, 33–40 (2016).
+Google Scholar
+Nilsson Pingel, T., Jørgensen, M., Yankovich, A. B., Grönbeck, H. & Olsson, E. Influence of atomic site-specific strain on catalytic activity of supported nanoparticles.
+Nat. Commun.
+9
+, 2722 (2018).
+PubMed
+PubMed Central
+Google Scholar
+Park, J. Y., Zhang, Y., Grass, M., Zhang, T. & Somorjai, G. A. Tuning of catalytic CO oxidation by changing composition of Rh−Pt bimetallic nanoparticles.
+Nano Lett.
+8
+, 673–677 (2008).
+CAS
+PubMed
+Google Scholar
+Jin, M. et al. Synthesis of Pd nanocrystals enclosed by {100} facets and with sizes <10 nm for application in CO oxidation.
+Nano Res.
+4
+, 83–91 (2011).
+CAS
+Google Scholar
+Wang, R., He, H., Liu, L.-C., Dai, H.-X. & Zhao, Z. Shape-dependent catalytic activity of palladium nanocrystals for the oxidation of carbon monoxide.
+Catal. Sci. Technol.
+2
+, 575–580 (2012).
+CAS
+Google Scholar
+Wang, R., He, H., Wang, J., Liu, L. & Dai, H. Shape-regulation: an effective way to control CO oxidation activity over noble metal catalysts.
+Catal. Today
+201
+, 68–78 (2013).
+CAS
+Google Scholar
+Wilde, M. & Fukutani, K. Hydrogen detection near surfaces and shallow interfaces with resonant nuclear reaction analysis.
+Surf. Sci. Rep.
+69
+, 196–295 (2014).
+CAS
+Google Scholar
+Wang, Y.-G. et al. CO oxidation on Au/TiO
+2
+: condition-dependent active sites and mechanistic pathways.
+J. Am. Chem. Soc.
+138
+, 10467–10476 (2016).
+CAS
+PubMed
+Google Scholar
+Nilius, N. Properties of oxide thin films and their adsorption behaviour studied by scanning tunnelling microscopy and conductance spectroscopy.
+Surf. Sci. Rep.
+64–67
+, 595–659 (2009).
+Google Scholar
+Sugimoto, Y. et al. Chemical identification of individual surface atoms by atomic force microscopy.
+Nature
+446
+, 64 (2007).
+Identifies single Ge atoms substituted with Si on the Si(111) surface by analysing the AFM frequency
+.
+CAS
+PubMed
+Google Scholar
+Yurtsever, A. et al. The local electronic properties of individual Pt atoms adsorbed on TiO
+2
+(110) studied by Kelvin probe force microscopy and first-principles simulations.
+Nanoscale
+9
+, 5812–5821 (2017).
+Single Pt atoms on TiO
+2
+(110) are identified by this technique
+.
+CAS
+PubMed
+Google Scholar
+Dai, Y. et al. Inherent size effects on XANES of nanometer metal clusters: size-selected platinum clusters on silica.
+J. Phys. Chem. C.
+121
+, 361–374 (2017).
+CAS
+Google Scholar
+Download references
+Author information
+Authors and Affiliations
+Toyota Central R&D Laboratories, Inc., Nagakute, Aichi, Japan
+Atsushi Beniya & Shougo Higashi
+Authors
+Atsushi Beniya
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shougo Higashi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Corresponding author
+Correspondence to
+Shougo Higashi
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note:
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figures 1–3, Supplementary Notes 1–2 and Supplementary References.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Beniya, A., Higashi, S. Towards dense single-atom catalysts for future automotive applications.
+Nat Catal
+2
+, 590–602 (2019). https://doi.org/10.1038/s41929-019-0282-y
+Download citation
+Received
+:
+27 January 2019
+Accepted
+:
+08 April 2019
+Published
+:
+11 July 2019
+Issue Date
+:
+July 2019
+DOI
+:
+https://doi.org/10.1038/s41929-019-0282-y
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

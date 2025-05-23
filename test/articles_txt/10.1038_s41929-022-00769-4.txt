@@ -1,0 +1,1998 @@
+Fully exposed palladium cluster catalysts enable hydrogen production from nitrogen heterocycles | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Fully exposed palladium cluster catalysts enable hydrogen production from nitrogen heterocycles
+Download PDF
+Article
+Published:
+21 April 2022
+Fully exposed palladium cluster catalysts enable hydrogen production from nitrogen heterocycles
+Chunyang Dong
+1
+na1
+,
+Zirui Gao
+1
+na1
+,
+Yinlong Li
+2
+na1
+,
+Mi Peng
+1
+na1
+,
+Meng Wang
+1
+,
+Yao Xu
+1
+,
+Chengyu Li
+1
+,
+Ming Xu
+1
+,
+Yuchen Deng
+1
+,
+Xuetao Qin
+1
+,
+Fei Huang
+3
+,
+4
+,
+Xuyan Wei
+1
+,
+Yang-Gang Wang
+ORCID:
+orcid.org/0000-0002-0582-0855
+2
+,
+Hongyang Liu
+ORCID:
+orcid.org/0000-0003-2977-2867
+3
+,
+4
+,
+Wu Zhou
+ORCID:
+orcid.org/0000-0002-6803-1095
+5
+&
+…
+Ding Ma
+ORCID:
+orcid.org/0000-0002-3341-2998
+1
+Show authors
+Nature Catalysis
+volume
+5
+,
+pages
+485–493 (
+2022
+)
+Cite this article
+17k
+Accesses
+30
+Altmetric
+Metrics
+details
+Subjects
+Catalytic mechanisms
+Chemical hydrogen storage
+Heterogeneous catalysis
+Surface assembly
+Abstract
+The size of supported metal species is known to have a profound influence on their catalytic activity. However, this structure sensitivity remains ambiguous for metals at the atomic scale due to the lack of single-atom sensitive and statistically significant quantification methods. Here we overcome this difficulty to quantify the catalytic contribution of various surface palladium species, ranging from single atoms to sub-nanometre clusters and nanoparticles, in the dehydrogenation of dodecahydro-
+N
+-ethylcarbazole, a reaction of importance for H
+2
+transportation and utilization. We show that the optimal site is a fully exposed palladium cluster with an average Pd–Pd coordination number of
+∼
+4.4, favouring both the activation of reactants and desorption of products, whereas palladium single atoms are almost inactive. Our study highlights that for certain catalytic reactions, the construction of fully exposed metal clusters without the presence of spectators (that is, palladium single atoms in this work) could help to maximize the reactivity and the atomic efficiency of noble metals.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Fully exposed Pt clusters for efficient catalysis of multi-step hydrogenation reactions
+Article
+Open access
+07 June 2024
+Robust palladium oxide nano-cluster catalysts using atomic ions and strong interactions for high-performance methane oxidation
+Article
+Open access
+27 September 2024
+Tuning the selectivity of catalytic nitriles hydrogenation by structure regulation in atomically dispersed Pd catalysts
+Article
+Open access
+26 October 2021
+Main
+The facile catalytic dehydrogenation of liquid organic hydrogen carriers at mild temperatures to discharge high-purity H
+2
+holds great value for onboard proton-exchange membrane fuel cell applications
+1
+,
+2
+. One particularly promising liquid organic hydrogen carrier system, which has been commercially demonstrated in passenger vehicles in China (
+https://www.hynertech.com/nd.jsp?id=62
+), is the reversible
+N
+-ethylcarbazole/dodecahydro-
+N
+-ethylcarbazole (NEC/DNEC) hydrogen storage system, which has a dehydrogenation temperature of
+∼
+443 K and possesses other advantages (Fig.
+1
+)
+3
+,
+4
+. Supported palladium catalysts have been shown to possess excellent intrinsic reactivity in the dehydrogenation of DNEC as compared to other group VIII metals
+5
+,
+6
+,
+7
+. Representative works by Smith and co-workers have shown that the turnover frequencies (TOFs) of supported palladium nanoparticles (NPs) in the 2–20 nm range are sensitive to the palladium particle size, and this structure sensitivity was attributed to the huge difference in the activation of DNEC by palladium atoms in different surface facets
+8
+. However, these studies were limited by the structural analysis tools available and were not able to investigate the structural sensitivity of metal species in the sub-nanometre regime. To date, the sluggish dehydrogenation process and the high loading of noble metal in the catalysts remain the main obstacles to the large-scale commercial application of the NEC/DNEC system, calling for better understanding of the optimal catalytic active structure and for further development of highly efficient low-cost catalysts.
+Fig. 1: Schematic of the process.
+Illustrations of the physicochemical advantages and the reversible hydrogenation and dehydrogenation process of the NEC/DNEC system for hydrogen storage and utilization.
+Source data
+Full size image
+In pursuit of the ultimate atomic efficiency of noble metals, substantial efforts have been focused on the synthesis and application of catalysts with exclusively isolated single-atom sites (also known as single-atom catalysts, SACs)
+9
+,
+10
+,
+11
+,
+12
+. Although SACs could in principle achieve 100% dispersion and potentially controllable coordination structures, they are clearly not effective for all catalytic reactions. In many cases, metal clusters, NPs or even large domains of surface facets with continuous metal sites—in a metallic state in place of the cationic state of most isolated metal single atoms—are prerequisites for the dissociation and/or the formation of the target chemical bonds
+13
+,
+14
+,
+15
+,
+16
+,
+17
+. Theoretical studies have shown that the adsorption of DNEC on palladium requires multiple metal sites
+8
+,
+18
+, suggesting that a catalytic site with an ensemble of metal atoms is required for the dehydrogenation reaction of DNEC. In addition, as the dehydrogenation of DNEC is a typical multistep reaction (Fig.
+1
+), there may be different site requirements of metal species for the different stages of the reaction. Therefore, to reach a balance between higher atomic utilization of noble metals and site requirements for favourable adsorption and reaction, selecting the optimal palladium structures, from the single-atom level to the nanometre scale, for the different stages of dehydrogenation of DNEC is of great importance.
+In this article the structure sensitivity of supported palladium species, ranging from isolated single-atom sites to few-atom clusters, atomic-layered clusters and 2–10 nm NPs, is systematically investigated for the dehydrogenation of DNEC and tetrahydro-
+N
+-ethylcarbazole (TNEC). By combining single-atom sensitive electron microscopy, single-site sensitive optical spectroscopy and bulk sensitive X-ray absorption spectroscopy, we can quantitatively determine the statistical site distributions of different palladium species within a series of palladium catalysts. We further establish the correlation between the average Pd–Pd coordination numbers (
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+) of palladium species and the site-specific TOFs. We show that the palladium single-atom sites are not effective for the dehydrogenation reaction of DNEC. Instead, the most active palladium species for consecutive dehydrogenation reactions are the fully exposed atomic-layered palladium clusters with
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\approx4.4\)
+, representing the most effective combination of atom utilization efficiency and favourable ensemble requirement for the adsorption/transformation of the reactants.
+Results
+Synthesis and characterization of catalysts
+The synthesis of a series of palladium catalysts supported on nanodiamond (ND) was realized by controlling the palladium loading and the synthesis methods (see
+Methods
+for more details). Notably, NDs are essentially crystalline
+sp
+3
+-C NPs with an
+sp
+2
+-C-terminated surface (Supplementary Fig.
+2
+). According to previous reports, the
+sp
+2
+-C layer contains abundant surface defects and functional groups (for example, hydroxyl groups)
+11
+,
+19
+,
+20
+. During the synthesis, these unique surface units serve as the nucleation sites for metal
+21
+,
+22
+, making palladium atomically dispersed on the support at relative lower loadings, and also help to improve the stability of the catalyst structure during reaction. Based on the structural characteristics of palladium species (as will be shown later), the catalysts are named Pd
+1
+/ND, Pd
+n
+x
+/ND and Pd
+p
+y
+/ND (
+x
+= 1, 2,
+y
+= 1, 2, 3), in which Pd
+1
+, Pd
+n
+and Pd
+p
+are notations for isolated single atoms, clusters and NPs, respectively.
+The dispersion of the catalysts was measured by the H
+2
+–O
+2
+titration method
+23
+. As shown in Table
+1
+, Pd
+1
+/ND, Pd
+n1
+/ND and Pd
+n2
+/ND all show high dispersion values close to unity, which suggests that Pd
+n1
+/ND and Pd
+n2
+/ND catalysts consist of fully exposed palladium clusters and single atoms. As for the three Pd
+p
+y
+/ND catalysts, the dispersion decreases rapidly from 61.5% to 27.6%, indicating the emergence of bulk palladium particles in these catalysts. This trend was also observed from the ever-increasing intensity of the Pd(111) diffraction peak in the X-ray diffraction data (Supplementary Fig.
+3
+).
+Table 1 Summary of structural characterization results of different Pd/ND catalysts
+Full size table
+The atomic-scale structure of the catalysts was analysed by aberration-corrected scanning transmission electron microscopy (STEM). From the high-resolution
+Z
+-contrast images, the Pd
+1
+/ND with the minimum palladium loading (0.07 wt%) shows predominantly isolated single palladium atoms on the ND support (Fig.
+2a
+and Supplementary Fig.
+4
+). For Pd
+n
+x
+/ND, with the increase of palladium loading from 0.25 wt% to 0.4 wt%, additional palladium clusters emerge, and the geometry of palladium clusters evolves from ensembles with only a few atoms in Pd
+n1
+/ND (Fig.
+2b
+and Supplementary Fig.
+5
+) to 1–2 nm atomic-layered clusters in Pd
+n2
+/ND (Fig.
+2c
+and Supplementary Fig.
+6
+). By tuning the synthesis methods, the three Pd
+p
+y
+/ND catalysts all incorporate palladium NPs with clear crystalline structures, and the average size of the palladium NPs gradually increases from around 2 nm (Pd
+p1
+/ND) to 3 nm (Pd
+p2
+/ND) and 4–10 nm (Pd
+p3
+/ND) (Fig.
+2d–f
+and Supplementary Figs.
+7
+–
+9
+). From the large-scale STEM images, both palladium clusters and NPs in Pd
+n
+x
+/ND and Pd
+p
+y
+/ND are distributed relatively homogeneously (Supplementary Figs.
+10
+and
+11
+). The STEM images also highlight the broadly coexisting Pd
+1
+species (some of these are highlighted by yellow circles in Fig.
+2b–e
+). Because it is difficult to avoid creating these atomically dispersed Pd
+1
+atoms during synthesis, this phenomenon is even more ubiquitous for cluster catalysts with higher dispersion (Fig.
+2b,c
+), that is, we always get a mixture of Pd
+1
+atoms and Pd
+n
+clusters even in catalysts designed to be ‘cluster’ catalysts. Therefore, it is important to measure the population of Pd
+1
+in each catalyst to quantify the intrinsic activities of the multi-atom (ensemble) palladium sites.
+Fig. 2: Structures of different Pd/ND catalysts.
+a
+–
+f
+, Atomic-resolved HAADF-STEM images of Pd
+1
+/ND (
+a
+), Pd
+n1
+/ND (
+b
+), Pd
+n2
+/ND (
+c
+), Pd
+p1
+/ND (
+d
+), Pd
+p2
+/ND (
+e
+) and Pd
+p3
+/ND (
+f
+). The yellow circles and white rectangles highlight Pd
+1
+and Pd
+n
+, respectively.
+g
+, CO-probe DRIFT spectra of different Pd/ND catalysts. Note that all the gaseous CO and physically adsorbed CO were removed by argon flow purging at 298 K. The shading of grey/red, blue and green colour under the curves represents the fitted peak of linearly bonded CO on Pd
+1
+, Pd
+n
+x
+and Pd
+p
+y
+sites, respectively. The multiplication by constants of different spectra (as indicated on the right) serves the purpose of spectra normalization.
+Source data
+Full size image
+We performed CO-probe diffuse reflectance infrared Fourier transform (DRIFT) spectroscopy analysis to identify and quantify the relative populations of Pd
+1
+, Pd
+n
+and Pd
+p
+within different catalysts. As shown in Fig.
+2g
+, Pd
+1
+/ND manifests two CO-adsorption (CO
+ads
+) peaks at 2,120 and 2,080 cm
+−1
+, respectively, assigned to two types of CO adsorption on Pd
+1
+sites (see Supplementary Fig.
+12
+, Supplementary Table
+1
+and Supplementary Note 1 for more information)
+24
+,
+25
+,
+26
+. As CO tends to adsorb over the bridge or hollow sites of palladium ensembles, the absence of peaks in the 1,800–2,000 cm
+−1
+range suggests that there are no multi-atom ensembles in this Pd
+1
+/ND catalyst. In contrast, CO
+ads
+on Pd
+n
+x
+/ND shows not only evident Pd
+1
+signatures, but also distinct peaks at 2,060 cm
+−1
+and around 1,968–1,860 cm
+−1
+, while all Pd
+p
+y
+/ND samples are featured with intense broad peaks at 1,905 cm
+−1
+and weak peaks at 2,040 cm
+−1
+. Combining the structural information from electron microscopy analysis and previous studies
+27
+, the singular 2,060 and 2,040 cm
+−1
+peaks can be assigned to the linearly bonded CO on the rims of palladium clusters and the edges of palladium particles, respectively; the broad bands at lower-frequency regions (<2,000 cm
+−1
+) are related to the bridge-bonded or triple-bonded CO on continuous palladium ensembles from Pd
+n
+x
+and Pd
+p
+y
+28
+. On the Pd
+n
+cluster catalysts, we can always observe the linearly bonded CO on Pd
+1
+sites (2,120 and 2,080 cm
+−1
+), suggesting that these catalysts contain a mixture of Pd
+1
+and Pd
+n
+species, consistent with the STEM observations. By weighting the integrated area of different peaks by the corresponding extinction coefficients, we could estimate the Pd
+1
+fraction (
+F
+Pd1
+) in different catalysts (see
+Methods
+for more information)
+29
+,
+30
+,
+31
+,
+32
+. As expected, in addition to the Pd
+1
+/ND catalyst with 100% Pd
+1
+species, catalysts with relatively high dispersion also show significant contributions from Pd
+1
+species, for example, the
+F
+Pd1
+of Pd
+n1
+/ND and Pd
+n2
+/ND is 44.1% and 34.7%, respectively. However, for nanoparticle catalysts, as the average palladium NP size increase, the fraction of Pd
+1
+in these catalysts decreases greatly (12.5% in Pd
+p1
+/ND) and eventually becomes negligible (around 0% in Pd
+p3
+/ND) (Table
+1
+).
+The Pd–Pd coordination numbers of different catalysts were determined by Fourier-transformed
+k
+2
+-weighted extended X-ray absorption fine structure (EXAFS) (Fig.
+3a
+). From Pd
+1
+/ND to Pd
+p3
+/ND, the ever-increasing scattering of Pd–Pd versus Pd–C/O reflected the overall structural evolution of palladium from predominantly isolated single atoms to few-atom ensembles and finally to NPs with bulk properties. Through quantitative EXAFS curve fitting (Supplementary Fig.
+13
+and Supplementary Table
+5
+) and using the estimated
+F
+Pd1
+value from CO-probe DRIFT experiments, the
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+of palladium ensembles (clusters and particles) were determined, with the contribution of Pd
+1
+sites subtracted (see
+Methods
+for more details). As we will show later, palladium single atoms are almost inactive in the DNEC dehydrogenation reaction. The aim of quantifying the
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+of the palladium ensembles is to obtain a statistical representation of the catalytically active site structure with atomic precision, which is vital to elucidate the structure–property relationship of DNEC dehydrogenation catalysts. Typically, with increasing size of palladium ensembles, the
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+increases monotonically from 1.9 (Pd
+n1
+) to 4.4 (Pd
+n2
+) to >6.9 (Pd
+p
+y
+) (Table
+1
+). Considering the strong correlation between the dimension of the metal ensembles and their average coordination numbers, the
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+, which describes the statistically averaged local coordination properties of the active sites, thus could be used as a more suitable structural descriptor for palladium species than the average particle size obtained from limited electron microscopy sampling (see Supplementary Note
+2
+for more discussion).
+Fig. 3: Coordination and electronic properties of different Pd/ND catalysts.
+a
+, The Fourier-transformed
+k
+2
+-weighted EXAFS spectra in R space.
+b
+, Pd 3
+d
+XPS spectra.
+c
+, Bader charge states for model configurations of Pd
+1
+/G, Pd
+4
+/G, Pd
+13
+/G and Pd(111). The colour gradient in
+c
+indicates the Bader charge states, with the lighter colour suggesting a decrease in the electron density of palladium.
+Source data
+Full size image
+The average Pd–Pd coordination number is expected to have a significant influence on the electronic structure of the palladium ensembles. From the Pd 3
+d
+XPS spectra (Fig.
+3b
+), Pd
+p2
+/ND and Pd
+p3
+/ND clearly share a similar peak position at around 335.6 eV, ascribed to the metallic state of Pd
+0
+(ref.
+33
+). With the increase of palladium dispersion, the Pd 3
+d
+peak gradually shifts to higher binding energies; notably, a 1.1 eV positive shift from palladium metallic state is observed for Pd
+1
+/ND. Since the final state effect (screening) is less notable on conductive supports, such binding energy shift to higher binding energies generally suggests more cationic charge states for the smaller palladium species. In line with the experimental results, similar size-dependent charge state variation has also been revealed by Bader charge state analysis and orbital analysis (Fig.
+3c
+, Supplementary Fig.
+14
+and Supplementary Note
+3
+), where graphene-immobilized Pd
+1
+, Pd
+4
+, Pd
+13
+(denoted as Pd
+1
+/G, Pd
+4
+/G and Pd
+13
+/G) and Pd(111) models were built and used to represent ND-supported Pd
+1
+, few-atom Pd
+n1
+, atomic-layered Pd
+n2
+and crystalline Pd
+p3
+, respectively.
+Structure sensitivity of Pd/ND catalysts
+The reactivity of different Pd/ND catalysts was studied in the dehydrogenation of DNEC at 443 K and atmospheric pressure, with the conversions of the substrates controlled below 10%. Pristine ND without palladium loading cannot catalyse the DNEC dehydrogenation reaction (Supplementary Fig.
+15
+). Figure
+4a
+shows the palladium-normalized activity (that is, the consumption rate of DNEC normalized over the total palladium loading, showing the catalytic power of the catalyst based on all loaded palladium metal, an important economic measure of noble metal catalysts) and TOF (the activity normalized on surface palladium atoms) in DNEC dehydrogenation. According to previous studies, initial activation of the DNEC molecule on catalyst occurs within the five-membered ring side, producing octahydro-
+N
+-ethylcarbazole (ONEC) as the first stable intermediate
+34
+,
+35
+,
+36
+. Clearly, Pd
+1
+/ND, despite having the highest atomic utilization efficiency, shows a much lower TOF compared with catalysts with palladium ensemble sites, indicating that the presence of multiple adjacent palladium atoms is indispensable for catalysing a more favourable dehydrogenation path for DNEC molecules (that is, the ensemble requirement of DNEC dehydrogenation)
+37
+. Importantly, Pd
+n2
+/ND exhibits the highest activity among all catalysts, with TOFs 2–5 times higher than that of the Pd
+p
+y
+/ND catalysts, suggesting that the fully exposed palladium clusters are the most reactive structure for the reaction. As the Pd
+1
+species are relatively inactive, they act like spectators in the reaction. For Pd
+n
+x
+/ND and Pd
+p
+y
+/ND, which contain mixtures of active palladium ensembles (clusters or particles) and inactive Pd
+1
+single atoms, the presence of the latter has attenuated the intrinsic activity of the active palladium ensembles in terms of palladium-normalized activity or TOF as shown in Fig.
+4a
+. To account for this, we have subtracted the contribution of Pd
+1
+on Pd
+n
+x
+/ND and Pd
+p
+y
+/ND and obtained the site-specific TOF of palladium ensembles as a function of their
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+(Fig.
+4b
+). The graph of site-specific TOFs versus
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+shows a volcano-shaped profile with the highest activity corresponding to ensembles with coordination numbers of
+∼
+2–4.5. More specifically, the highest site-specific TOF reaches 235.2 min
+−1
+over the ensemble with a
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+of 4.4, which is 24 and 7 times higher than that of the Pd
+1
+and Pd
+p3
+, respectively. Importantly, the corresponding catalyst, Pd
+n2
+/ND, has a palladium-normalized activity of 143.8 min
+−1
+, which is around 6 times higher than reported previously (Supplementary Table
+7
+)
+5
+,
+7
+,
+8
+,
+38
+,
+39
+,
+40
+. This shows that the fully exposed palladium clusters with a
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+of
+∼
+4.4 are the optimal active sites with the highest reactivity (note that the
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+of 4.4 represents the averaged structural feature for the optimal catalyst). Moreover, it is also noticeable that the Pd
+n1
+with smaller ensemble size (
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}=1.9\)
+) exhibits a similar TOF to that of Pd
+n2
+, suggesting that the initial dehydrogenation of DNEC to ONEC could be realized by just a few continuous palladium atoms.
+Fig. 4: The dehydrogenation performance of different palladium catalysts/sites.
+a
+,
+c
+, Performance of different catalysts in terms of palladium-normalized activity and TOF in the dehydrogenation of DNEC (
+a
+) and TNEC (
+c
+).
+b
+,
+d
+, Site-specific TOF as a function of
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+for different supported palladium species in the dehydrogenation of DNEC (
+b
+) and TNEC (
+d
+). The separate dehydrogenation reactions were performed at 443 K and atmospheric pressure, and the conversions of both substrates were kept below 10%. Error bars in
+a
+and
+c
+indicate the standard deviation as measured from two separate batches. Inset images in
+b
+and
+d
+are simplified models with similar
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+for Pd
+1
+, few-atom Pd
+n1
+, atomic-layered Pd
+n2
+and Pd
+p3
+, respectively.
+Source data
+Full size image
+Next, the performance of catalysts in TNEC dehydrogenation was investigated (Fig.
+4c
+). It has been widely acknowledged that the dehydrogenation of TNEC to NEC is the rate-limiting step in the whole dehydrogenation process (Fig.
+1
+)
+5
+,
+41
+. Consistent with this, our results show that the dehydrogenation rate of TNEC is two orders of magnitude lower than that of the DNEC. Despite the huge difference in kinetics, a similar trend in the catalysts’ performance was observed, that is, the Pd
+1
+/ND catalyst has very low reactivity, and the most active catalyst (by TOF) for TNEC dehydrogenation is Pd
+n2
+/ND. Likewise, after subtracting the contribution of Pd
+1
+from Pd
+n
+x
+/ND and Pd
+p
+y
+/ND, the correlation between site-specific TOFs and
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+was established (Fig.
+4d
+). Notably, while the Pd
+n2
+is still several times more active than Pd
+p
+y
+, the TOF of Pd
+n1
+drops to only half of that of Pd
+n2
+, in sharp contrast to the similar reactivity of Pd
+n1
+and Pd
+n2
+in the first dehydrogenation of DNEC. This result also clearly indicates the different ensemble-requirements for atomic palladium sites in the first and last dehydrogenation steps of DNEC. In addition, the structural stability of the optimal fully exposed palladium clusters was also confirmed. After five cyclic dehydrogenation evaluations at 453 K, no obvious structural variation was observed for Pd
+n2
+/ND (Supplementary Figs.
+16
+–
+18
+). Furthermore, the Pd
+n3
+/ND catalyst (1.4 wt%, with a
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+of
+∼
+4.7) exhibited good stability and H
+2
+recovery applicability in multiple cyclic tests (Supplementary Figs.
+19
+and
+20
+), demonstrating the relative robustness of this fully exposed palladium cluster catalyst.
+So far, the collective results suggest that to trigger the facile dehydrogenation for both DNEC and TNEC substrates, the presence of a palladium ensemble is indispensable, while palladium single atoms are almost inactive. In addition, compared with catalysts with palladium particles, the Pd
+n2
+/ND catalyst containing fully exposed atomic-layered palladium clusters with
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\approx 4.4\)
+, with a higher surface density of metal active sites and fewer bulk atoms, is estimated to be able to catalyse all the dehydrogenation steps with higher atomic efficiency and intrinsic activity (
+Supplementary Note 5
+). Additionally, for the dehydrogenation of DNEC, it is highly desirable to precisely fabricate catalysts with only the fully exposed atomic-layered metal clusters and without the presence of spectators such as the single palladium atoms in the present case. Furthermore, the extension of the concept of fully exposed metal clusters would allow for the design of advanced metal catalysts to achieve a higher mass-specific activity without wasting the metal loading inside particles or as inactive single atoms, which is extremely important for the design of noble metal catalysts for industrial applications
+42
+,
+43
+,
+44
+.
+Computational studies
+To gain deeper insights into the structure sensitivity of palladium species with different atomicities, density functional theory (DFT) calculations were performed. The reaction path and the corresponding energy profiles of DNEC dehydrogenation to liberate one H
+2
+molecule over Pd
+1
+/G, Pd
+13
+/G and Pd(111) were first studied (Fig.
+5
+and Supplementary Fig.
+21
+). Compared with Pd
+13
+/G and Pd(111), the activation of the first C–H bond (that is, the axial C–H bond adjacent to the nitrogen atom within the five-membered pyrrolidine ring) of DNEC on Pd
+1
+/G requires a higher energy barrier to be overcome (1.54 eV), which could be the consequence of the insufficient metallic state of the Pd
+1
+δ+
+sites. In addition, due to the lack of a continuous palladium ensemble, once the first C–H bond scission is completed, the resulting Pd
+1
+–H hydride must transfer the hydrogen atom to the adjacent support to accommodate the *C
+14
+NH
+24
+(* denotes the adsorbed state); however, the higher energy barrier (1.28 eV) also makes this step kinetically difficult to achieve. As for Pd(111), although it can activate scission of the first two C–H bonds as efficiently as Pd
+13
+/G in kinetic terms, from the thermodynamic viewpoint, the very strong bonding to DNEC makes the dehydrogenation process less favourable than that of the Pd
+13
+/G, leading to the attenuated TOF over large palladium particle sites. For the TNEC dehydrogenation step, a similar trend in ensemble requirement has been noticed (Supplementary Fig.
+22
+). Importantly, the lack of sufficient palladium ensemble sites and the excessively high bonding strength between NEC and large palladium crystalline surface both suppressed the dehydrogenation process (see Supplementary Note 6 for more discussion). It should be pointed out that even metal clusters with the same atomicity (with the same
+\({\overline{\mathrm{CN}}}\)
+, in the current case, 4.4) may adopt different configurations, and may have relatively different catalytic performances. This needs to be studied in detail in the future.
+Fig. 5: DFT calculations of the palladium-catalysed DNEC dehydrogenation process.
+a
+, Reaction path and energy profiles in the initial stage dehydrogenation of DNEC on Pd
+1
+/G, Pd
+13
+/G and Pd(111).
+b
+, Corresponding transition state (TS) configurations. Pd, blue; H (activated), yellow; H (non-activated), white; C, grey; and N, dark red.
+Source data
+Full size image
+Conclusions
+The structure sensitivity of supported palladium species ranging from the nanoscale to the atomic scale was investigated in the catalytic dehydrogenation of DNEC as a representative hydrogen carrier. Through structural elucidation and speciation of the site distributions of palladium, fully exposed atomic-layered palladium clusters with a
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\)
+of
+∼
+4.4 were identified as the optimal palladium species, exhibiting higher atomic efficiency and intrinsic activity compared with larger palladium particles (
+\({\overline{\mathrm{CN}}} _{{\mathrm{Pd}}\mbox{--}{\mathrm{Pd}}}\geq6.9\)
+). Conversely, the cationic palladium single atoms exhibit the lowest activity, making them behave like spectators in the reaction. DFT results show that without a sufficient number of continuous palladium sites, the reactants cannot be activated effectively, whereas the strong bonding between products and the metallic palladium crystalline surface makes the desorption process sluggish. With the combined higher metal dispersion, unique electronic properties and suitable ensemble size, both the reactants’ activation and the products’ desorption are favourable over the fully exposed atomic-layered palladium clusters. Our study points out the importance of balancing the atomic dispersion and ensemble requirement in the design of practical catalysts to achieve higher metal- and mass-normalized catalytic efficiencies simultaneously.
+Methods
+Synthesis of Pd/ND catalysts
+Six Pd/ND catalysts with distinct palladium geometries and dispersion states were synthesized by varying the palladium weight loadings or wet-chemistry synthetic methods. For the synthesis of Pd
+1
+/ND and Pd
+n
+x
+/ND (
+x
+= 1, 2), typically, 200 mg ND (99.9% purity, Beijing Grish Hitech) was first dispersed in 45 ml deionized water in a 100 ml round-bottom flask, followed by 30 min sonication to achieve a homogeneous suspension. Then, the flask was immersed into a 100 °C oil bath after the pH value of the ND suspension was adjusted to ~10 by using freshly prepared Na
+2
+CO
+3
+solution (0.25 M). Afterwards, 5 ml of freshly pH-neutralized Pd(NO
+3
+)
+2
+solution of various concentrations was added dropwise to the stirring ND suspension and kept at 100 °C for 1 h under continuous stirring. Finally, these as-prepared Pd/ND samples were dried under vacuum at 60 °C after washing twice with deionized water.
+The synthesis of samples with larger crystalline palladium NPs as the dominant geometries (that is, Pd
+p
+y
+/ND,
+y
+= 1, 2, 3) was realized by either the incipient-wetness impregnation method (Pd
+p1
+/ND and Pd
+p3
+/ND) or chemical reduction methods (Pd
+p2
+/ND). For the synthesis of Pd
+p1
+/ND, 200 mg ND was wetted by 800 μl diluted Pd(NO
+3
+)
+2
+solution in a 10 ml crucible, then the slurry was stirred slowly at room temperature overnight and dried at 60 °C for 12 h. For the synthesis of Pd
+p3
+/ND, 800 μl diluted Pd(NO
+3
+)
+2
+solution with an additional 120 mg citric acid was used to wet 200 mg ND. Afterwards, the slurry was stirred at room temperature overnight and dried at 120 °C for 12 h. The synthesis of Pd
+p2
+/ND was based on a previous publication with some modifications
+45
+. In a typical synthesis, 540 μl PdCl
+2
+–HCl solution (10 mg PdCl
+2
+dissolved in 1 ml 0.4 M HCl) was mixed with 0.30 mmol trisodium citrate in 80 ml deionized water, then 200 mg ND was added to the above solution, followed by 30 min sonication to achieve a homogeneous suspension. A newly prepared 10 ml NaBH
+4
+solution (0.1 M) was then added dropwise to the above suspension under stirring at 60 °C and the stirring was continued at 60 °C for 6 h. Finally, the as-prepared sample was washed three times with deionized water and dried at 60 °C for 12 h.
+After drying, different catalyst precursors were reduced by diluted H
+2
+(10% H
+2
+/Ar, 30 ml min
+−1
+) at 573 K (except for Pd
+1
+/ND, for which the reduction temperature was set at 473 K to prevent the aggregation of Pd
+1
+sites) for 1 h, followed with passivation treatment at room temperature with diluted O
+2
+(0.5 % O
+2
+/Ar, 30 ml min
+−1
+) for 12 h.
+Catalyst characterization
+The H
+2
+–O
+2
+titration used to determine the metal dispersion of Pd/ND catalysts was performed on a Micromeritics AutoChem II 2920 apparatus equipped with a thermal conductivity detector (TCD). In a typical test, 100 mg of passivated catalyst was placed in a quartz tube reactor and activated in 8% H
+2
+/Ar (30 ml min
+−1
+) at 200 °C for 2 h; the catalyst was then purged with helium (30 ml min
+−1
+) at the same temperature for another 0.5 h, after which it was cooled down to 50 °C. Subsequently, the O
+2
+titration of the catalyst was performed by pulsing 1 ml 5% O
+2
+/He into the reactor several times at 50 °C until the consumption of O
+2
+became negligible. Then, H
+2
+titration was carried out in the same way, pulsing 1 ml 8% H
+2
+/Ar into the reactor several times to reach an equilibrium adsorption. The consumption of H
+2
+was used to determine the palladium dispersion (
+D
+%) according to equation (
+1
+), in which
+N
+H2
+,
+e
+Pd–H2
+,
+M
+Pd
+and
+W
+Pd
+are the consumption of H
+2
+volume (ml), the stoichiometry factor between Pd and H
+2
+(equations (
+2
+) and (
+3
+))
+23
+, the atomic weight of elemental palladium (106.4 g mol
+−1
+) and the weight of palladium (g) in each catalyst, respectively.
+$$D\% = ({N_{{\rm{H2}}}} \times {e_{{\rm{Pd}}-{\rm{H2}}}} \times {M_{{\rm{Pd}}}}/{W_{{\rm{Pd}}}}/22,414) \times 100\%$$
+(1)
+$$2{\rm{P}}{{\rm{d}}_{{\rm{surface}}}} + {{\rm{O}}_2} = 2{\rm{P}}{{\rm{d}}_{{\rm{surface}}}}{{\rm{O}}_{{\rm{ads}}}}\left( {{\rm{oxygen chemisorption}}} \right)$$
+(2)
+$$2{\rm{P}}{{\rm{d}}_{{\rm{surface}}}}{{\rm{O}}_{{\rm{ads}}}} + 3{{\rm{H}}_{\rm{2}}} = 2{\rm{P}}{{\rm{d}}_{{\rm{surface}}}}{{\rm{H}}_{{\rm{ads}}}} + 2{{\rm{H}}_2}{\rm{O}}\left( {{\rm{hydrogen titration}}} \right)$$
+(3)
+The stoichiometry factor between palladium and H
+2
+is based on the study of Benson and Boudart
+23
+, and can be affected by possible formation of β-phase PdH
+x
+hydrides, which may lead to overestimation of the true dispersion. The tendency for β-phase hydride formation, however, decreases with decreasing palladium particle size
+46
+, and vanishes at sizes of <2.6 nm at 298 K even at a high hydrogen pressure of 1 atm
+47
+. During our H
+2
+–O
+2
+titration measurement, a low H
+2
+partial pressure (8 kPa) was used in both pretreatment and titration steps. Under this pressure, negligible formation of β-phase PdH
+x
+hydride occurs on Pd
+1
+/ND and Pd
+n
+x
+/ND because palladium atoms are fully dispersed. As for the three Pd
+p
+y
+/ND catalysts, the possible H
+2
+solubility into palladium particles may affect the measured dispersion values by 5–12%
+46
+. These deviations in the metal dispersion of the Pd
+py
+/ND catalysts do not influence the overall structure–function correlations reported here.
+The high-angle angular dark-field scanning transmission electron microscopy (HAADF-STEM) images and electron energy-loss spectra were acquired using a Nion HERMES-100 electron microscope operated at 60 kV. The
+Z
+-contrast HAADF images were collected with an annular dark-field detector in the range of 75–200 mrad with a convergence angle of 30 mrad. Electron energy-loss spectroscopy was carried out with the same experimental set-up. All reduced then passivated samples for electron microscopy characterization were prepared by directly dropping the ethanol-diluted sample suspension on TEM grids coated with holey carbon film.
+The CO-adsorption DRIFT spectra of different Pd/ND catalysts were recorded on a Bruker VERTEX 70v spectrometer equipped with a liquid-nitrogen-cooled mercury–cadmium–telluride detector and an in situ Praying Mantis diffuse reflection reaction cell (Harrick Scientific). In a typical measurement, about 30 mg of passivated Pd/ND sample was packed smoothly in the sample cup within the reaction cell and subjected to reduction pretreatment (the prereduction conditions for different Pd/ND catalysts used for this test are equivalent to those of the catalytic evaluation tests). After reduction, the reaction cell was cooled to 298 K under a purge of argon flow (30 ml min
+−1
+), and a spectrum was then recorded as background. Subsequently, a gas flow of 5% CO/Ar (30 ml min
+−1
+) was introduced into the reaction cell. Once the adsorption was completed (that is, the intensity of CO-adsorption bands no longer increased), the inlet flow was switched to argon (30 ml min
+−1
+) and the spectrum was continuously recorded at 298 K.
+Based on identification of the sites and corresponding integration results (Fig.
+2g
+and Supplementary Tables
+2
+–
+4
+), the site fraction of Pd
+1
+(
+F
+Pd1
+) on catalysts could be described by equation (
+4
+), in which
+A
+,
+ε
+and
+S
+represent peak areas, extinct coefficients and CO/Pd stoichiometries (
+S
+linear
+= 1,
+S
+bridge
+= 1/2), respectively
+48
+. According to previous reports, the extinct coefficient of bridge-bonded CO is about one magnitude greater than that of the linear-bonded CO (
+ε
+bridge
+≈ 10 ×
+ε
+linear
+)
+31
+,
+32
+. Under this approximation, the
+F
+Pd1
+could be quantitatively determined (Table
+1
+). To check whether the extinction coefficient assumption is reliable for our system, a sensitivity analysis that uses
+ε
+linear-Pd1
+as a single variable was performed (see Supplementary Table
+6
+and Supplementary Note 4 for more details).
+$$\begin{array}{l}F_{{{{\mathrm{Pd}}}}1}\\ = \frac{{{{A}}_{{{{\mathrm{Pd}}}}1}/(\varepsilon _{{{{\mathrm{linear}}}}} \times {{S}}_{{{{\mathrm{linear}}}}})}}{{{{A}}_{{{{\mathrm{Pd}}}}1}{{{\mathrm{/}}}}(\varepsilon _{{{{\mathrm{linear}}}}} \times {{S}}_{{{{\mathrm{linear}}}}}) + {{A}}_{{{{\mathrm{Pdn/p}}}}}/(\varepsilon _{{{{\mathrm{linear}}}}} \times{{S}}_{{{{\mathrm{linear}}}}}) + {{A}}_{{{{\mathrm{Pdn/p}}}}}/(\varepsilon _{{{{\mathrm{bridge}}}}} \times {{S}}_{{{{\mathrm{bridge}}}}})}} \times 100\end{array}$$
+(4)
+The X-ray absorption fine structure (XAFS) Pd K edge (24,350 eV) measurement was performed at the beamline BL14W1 station of the Shanghai Synchrotron Radiation Facility. The output beam was tuned by a Si(311) double-crystal monochromator and the energy was calibrated with palladium foil. Before the measurement, all Pd/ND samples were prereduced and transferred into a glovebox for pelleting and sealing (the prereduction conditions of the different Pd/ND catalysts used for this test are equivalent to those of the catalytic evaluation tests). The XAFS spectrum was collected under fluorescence mode using a Lytle detector, and all XAFS spectra were processed and analysed by the Ifeffit package.
+Because the EXAFS measurement provides sample-averaged information about the targeted metal species, the fitted Pd–Pd coordination numbers (CN
+Pd–Pd
+) for Pd
+n
+x
+/ND and Pd
+p
+y
+/ND are therefore a collective result of the CNs of Pd
+1
+and Pd
+n/p
+times their respective atomic ratios (that is,
+N
+Pd1
+/
+N
+total
+and
+N
+Pdn/p
+/
+N
+total
+in equation (
+5
+)). After subtracting the weightings of Pd
+1
+sites, the site-averaged Pd–Pd CN (
+\(\overline {{{{\mathrm{C}}}}{{{\mathrm{N}}}}{{{\mathrm{}}}}} _{{{{\mathrm{Pd}}}} - {{{\mathrm{Pd}}}}}\)
+) of Pd
+n/p
+in Pd
+n
+x
+/ND and Pd
+p
+y
+/ND could be calculated by equations (
+5
+)–(
+7
+).
+$${{{\mathrm{C}}}}{{{\mathrm{N}}}}_{{{{\mathrm{Pd}}}} - {{{\mathrm{Pd}}}}} = 0 \times ({{N}}_{{{{\mathrm{Pd}}}}1}/{{N}}_{{{{\mathrm{total}}}}}) + ({\mathrm{\overline{CN}}}_{{{{\mathrm{Pd}}}} - {{{\mathrm{Pd}}}}})_{{{{\mathrm{n}}}}/{{{\mathrm{p}}}}} \times ({{N}}_{{{{\mathrm{Pdn}}}}/{{{\mathrm{p}}}}}/{{N}}_{{{{\mathrm{total}}}}})$$
+(5)
+$$\begin{array}{l}{{N}}_{{{{\mathrm{Pdn}}}}/{{{\mathrm{p}}}}}/{{N}}_{{{{\mathrm{total}}}}} = 1-\left( {{{N}}_{{{{\mathrm{Pd}}}}1}/{{N}}_{{{{\mathrm{total}}}}}} \right)\\ = 1-\left( {{{N}}_{{{Pd}}1} \times {{D}}\% /{{N}}_{{{{\mathrm{surface}}}}}} \right) = 1-{{F}}_{{{{\mathrm{Pd}}}}1} \times {{D}}\%\end{array}$$
+(6)
+$$({\mathrm{\overline {CN}}} _{{{{\mathrm{Pd}}}} - {{{\mathrm{Pd}}}}})_{{{{\mathrm{n}}}}/{{{\mathrm{p}}}}} = {{{\mathrm{C}}}}{{{\mathrm{N}}}}_{{{{\mathrm{Pd}}}} - {{{\mathrm{Pd}}}}}/({{N}}_{{{{\mathrm{Pdn}}}}/{{{\mathrm{p}}}}}/{{N}}_{{{{\mathrm{total}}}}}) = {{{\mathrm{C}}}}{{{\mathrm{N}}}}_{{{{\mathrm{Pd}}}} - {{{\mathrm{Pd}}}}}/(1-{{F}}_{{{{\mathrm{Pd}}}}1} \times {{D}}\% )$$
+(7)
+X-ray photoelectron spectroscopy (XPS) was performed on an AXIS Ultra photoelectron spectrometer (Kratos Analytical) using monochromatized Al Kα radiation. Before performing the measurement, all reduced catalysts were transferred into a glovebox where the catalysts were pelleted and sealed within the XPS sample holder (the prereduction conditions of the different Pd/ND catalysts used for this test are equivalent to those of the catalytic evaluation tests). Subsequently, the reduced catalysts were transferred into an ultra-high-vacuum chamber for XPS measurement via the sample holder. After the measurement, all spectra were calibrated based on the diamond
+sp
+3
+carbon feature (286.8 eV).
+X-ray diffraction analysis was performed on a PANalytical X-ray diffractometer with a Cu Kα radiation source (40 kV and 40 mA). The practical weight loading amounts of palladium on different catalysts were determined by inductively coupled plasma atomic emission spectrometer (Leeman-Prodigy 7).
+Catalytic evaluation measurement
+Before performing the catalytic evaluation, 30 mg passivated Pd/ND catalyst was activated in 10% H
+2
+/Ar (30 ml min
+−1
+) for 1 h at the desired temperatures (473 K for Pd
+1
+/ND, 573 K for Pd
+n
+x
+/ND and Pd
+p
+y
+/ND). Then, without exposure to air, the activated catalyst was instantly mixed with a certain amount of DNEC–decalin solution (1.0 mol l
+−1
+) in a two-neck flask (equipped with a magnetic stirrer and a reflux condenser). The dehydrogenation reaction was carried out at 443 K by immersing the flask in a heating oil bath. During the dehydrogenation process, a continuous purging of argon (40 ml min
+−1
+) was introduced into the flask to remove the produced H
+2
+from the system and maintain the atmospheric pressure within the flask. The dehydrogenation procedures of TNEC over different Pd/ND catalysts was similar, except the concentration of TNEC–decalin solution was reduced to 0.5 mol l
+−1
+.
+After each dehydrogenation reaction, the liquid phase was separated from catalysts by centrifugation and the products were quantitatively analysed by an Agilent 7820 gas chromatograph equipped with a HP-5 capillary column and a flame ionization detector.
+The site-specific TOFs of Pd
+n
+x
+and Pd
+p
+y
+were calculated based on equation (
+8
+), where TOF
+Pd1
+is the TOF of the Pd
+1
+/ND catalyst and
+F
+Pd1
+is the site fraction of isolated palladium single-atom sites.
+$${{{\mathrm{TOF}}}}_{{{{\mathrm{catalyst}}}}} = {{{\mathrm{TOF}}}}_{{{{\mathrm{Pdn}}}}/{{{\mathrm{p}}}}} \times \left( {1-{{F}}_{{{{\mathrm{Pd}}}}1}} \right) + {{{\mathrm{TOF}}}}_{{{{\mathrm{Pd}}}}1} \times{{F}}_{{{{\mathrm{Pd}}}}1}$$
+(8)
+Computational details
+DFT calculations were performed to determine the adsorption energies and energy barriers of different removal steps using the Vienna Ab initio Simulation Package (VASP)
+49
+,
+50
+,
+51
+,
+52
+. We used the projector-augmented wave method to describe the interactions between ion cores and valence electrons
+53
+, and the Perdew–Burke–Ernzerhof generalized gradient approximation to describe the exchange-correlation functional
+54
+,
+55
+. The solution of the Kohn–Sham equations was expanded in a plane-wave basis set with a cut-off energy of 500 eV. The self-consistent electronic iteration proceeds until the total energy is converged to 10
+−5
+eV with spin-polarized calculation. A supercell of 17.2 Å × 17.2 Å × 35.0 Å with periodic boundary conditions was used for all the systems.
+The adsorption energies of the reactants and intermediates were calculated on a Pd(111) surface that consists of three palladium layers (36 palladium atoms per layer; 108 atoms in total) and a 30 Å vacuum gap. Only the top layer of the slab was allowed to relax. Brillouin zone sampling was performed using a Monkhorst–Pack grid
+56
+, and electronic occupancies were determined by the second-order Methfessel–Paxton method with a width of 0.2 eV. All of the palladium atoms supported on the divacancy sites of graphene models are constructed based on the graphene basal plane model. The supercell used for graphene with divacancies consists of 96 carbon atoms with 2 carbon atom vacancies at the centre.
+In all the calculations, a force-based conjugated gradient method was used to optimize the geometries
+57
+. Monkhorst–Pack meshes of 2 × 2 × 1
+k
+-point samplings in the surface Brillouin zones were used for all the models. Saddle points and minima were considered to be converged when the maximum force in each degree of freedom was less than 0.02 eV Å
+−1
+. Bader charge analysis was implemented with a fast algorithm developed by Henkelman and co-workers, and the core charges were included in the partitions
+58
+,
+59
+. The isolated adsorbates were optimized in the supercell in which the Brillouin zone integration was carried out for the Γ point only, and electronic occupancies were determined in light of a Gaussian smearing with a width of 0.01 eV.
+Adsorption energies were determined as
+E
+adsorption
+=
+E
+adsorbed molecule/surface
+−
+E
+molecule in vacuum
+−
+E
+surface
+, where
+E
+adsorbed molecule/surface
+is the energy of the adsorption system,
+E
+molecule in vacuum
+is the energy of the adsorbed molecule in vacuum and
+E
+surface
+is the energy of the surface. The transition states and corresponding activation energies were obtained by the nudged elastic band method.
+The stretching frequencies of CO were calculated within the harmonic approximation. Only those components of the Hessian matrix are calculated for which the selective dynamics tags are set to .TRUE. in the POSCAR file. POTIM is set to 0.015 Å. All atoms are fixed except CO and its first nearest atoms. For the orbital analysis, the Brillouin zone is sampled by 3 × 3 × 1
+k
+-points using the Monkhorst–Pack scheme for electronic property calculations by the tetrahedron method with Blöchl corrections.
+Data availability
+All data of this study are available from the corresponding authors upon reasonable request; source data are provided with this paper. Atomic coordinates of the computational studies are provided as Supplementary Data 1 with this paper.
+Source data
+are provided with this paper.
+References
+Teichmann, D., Arlt, W., Wasserscheid, P. & Freymann, R. A future energy supply based on liquid organic hydrogen carriers (LOHC).
+Energy Environ. Sci.
+4
+, 2767–2773 (2011).
+Article
+CAS
+Google Scholar
+Sievi, G. et al. Towards an efficient liquid organic hydrogen carrier fuel cell concept.
+Energy Environ. Sci.
+12
+, 2305–2314 (2019).
+Article
+CAS
+Google Scholar
+Zou, Y.-Q., von Wolff, N., Anaby, A., Xie, Y. & Milstein, D. Ethylene glycol as an efficient and reversible liquid-organic hydrogen carrier.
+Nat. Catal.
+2
+, 415–422 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zhu, Q.-L. & Xu, Q. Liquid organic and inorganic chemical hydrides for high-capacity hydrogen storage.
+Energy Environ. Sci.
+8
+, 478–512 (2015).
+Article
+CAS
+Google Scholar
+Yang, M., Dong, Y., Fei, S., Ke, H. & Cheng, H. A comparative study of catalytic dehydrogenation of perhydro-
+N
+-ethylcarbazole over noble metal catalysts.
+Int. J. Hydrog. Energy
+39
+, 18976–18983 (2014).
+Article
+CAS
+Google Scholar
+Forberg, D. et al. Single-catalyst high-weight% hydrogen storage in an
+N
+-heterocycle synthesized from lignin hydrogenolysis products and ammonia.
+Nat. Commun.
+7
+, 13201 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wang, B. et al. Facet-dependent catalytic activities of Pd/rGO: exploring dehydrogenation mechanism of dodecahydro-
+N
+-ethylcarbazole.
+Appl. Catal. B
+266
+, 118658 (2020).
+Article
+CAS
+Google Scholar
+Sotoodeh, F. & Smith, K. J. Structure sensitivity of dodecahydro-
+N
+-ethylcarbazole dehydrogenation over Pd catalysts.
+J. Catal.
+279
+, 36–47 (2011).
+Article
+CAS
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Lin, L. et al. Low-temperature hydrogen production from water and methanol using Pt/α-MoC catalysts.
+Nature
+544
+, 80 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Huang, F. et al. Atomically dispersed Pd on nanodiamond/graphene hybrid for selective hydrogenation of acetylene.
+JACS
+140
+, 13142–13146 (2018).
+Article
+CAS
+Google Scholar
+Lin, L. et al. A highly CO-tolerant atomically dispersed Pt catalyst for chemoselective hydrogenation.
+Nat. Nanotechnol.
+14
+, 354–361 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Yao, S. et al. Atomic-layered Au clusters on α-MoC as catalysts for the low-temperature water-gas shift reaction.
+Science
+357
+, 389–393 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Jeong, H. et al. Fully dispersed Rh ensemble catalyst to enhance low-temperature activity.
+J. Am. Chem. Soc.
+140
+, 9558–9565 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Jeong, H. et al. Highly durable metal ensemble catalysts with full dispersion for automotive applications beyond single-atom catalysts.
+Nat. Catal.
+3
+, 368–375 (2020).
+Article
+CAS
+Google Scholar
+Dong, C. et al. Supported metal clusters: fabrication and application in heterogeneous catalysis.
+ACS Catal.
+10
+, 11011–11045 (2020).
+Article
+CAS
+Google Scholar
+Honkala, K. et al. Ammonia synthesis from first-principles calculations.
+Science
+307
+, 555–558 (2005).
+Article
+CAS
+PubMed
+Google Scholar
+Sotoodeh, F. & Smith, K. J. Analysis of H
+2
+release from organic polycyclics over Pd catalysts using DFT.
+J. Phys. Chem. C.
+117
+, 194–204 (2013).
+Article
+CAS
+Google Scholar
+Duan, X. et al.
+sp
+2
+/
+sp
+3
+framework from diamond nanocrystals: a key bridge of carbonaceous structure to carbocatalysis.
+ACS Catal.
+9
+, 7494–7519 (2019).
+Article
+CAS
+Google Scholar
+Jin, R. et al. Low temperature oxidation of ethane to oxygenates by oxygen over iridium–cluster catalysts.
+J. Am. Chem. Soc.
+141
+, 18921–18925 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, J. et al. Carbon-supported divacancy-anchored platinum single-atom electrocatalysts with superhigh Pt utilization for the oxygen reduction reaction.
+Angew. Chem.
+58
+, 1163–1167 (2019).
+Article
+CAS
+Google Scholar
+Yan, H. et al. Single-atom Pd
+1
+/graphene catalyst achieved by atomic layer deposition: remarkable performance in selective hydrogenation of 1,3-butadiene.
+J. Am. Chem. Soc.
+137
+, 10484–10487 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Benson, J. E., Hwang, H. S. & Boudart, M. Hydrogen–oxygen titration method for the measurement of supported palladium surface areas.
+J. Catal.
+30
+, 146–153 (1973).
+Article
+CAS
+Google Scholar
+Xu, H. et al. Entropy-stabilized single-atom Pd catalysts via high-entropy fluorite oxide supports.
+Nat. Commun.
+11
+, 3908 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Kuo, C.-T. et al. 18.1% single palladium atom catalysts on mesoporous covalent organic framework for gas phase hydrogenation of ethylene.
+Cell Rep. Phys. Sci.
+2
+, 100495 (2021).
+Article
+CAS
+Google Scholar
+Asokan, C., Thang, H. V., Pacchioni, G. & Christopher, P. Reductant composition influences the coordination of atomically dispersed Rh on anatase TiO
+2
+.
+Catal. Sci. Technol.
+10
+, 1597–1601 (2020).
+Article
+CAS
+Google Scholar
+Lear, T. et al. The application of infrared spectroscopy to probe the surface morphology of alumina-supported palladium catalysts.
+J. Chem. Phys.
+123
+, 174706 (2005).
+Article
+PubMed
+CAS
+Google Scholar
+Soma-Noto, Y. & Sachtler, W. M. H. Infrared spectra of carbon monoxide adsorbed on supported palladium and palladium–silver alloys.
+J. Catal.
+32
+, 315–324 (1974).
+Article
+CAS
+Google Scholar
+Matsubu, J. C., Yang, V. N. & Christopher, P. Isolated metal active site concentration and stability control catalytic CO
+2
+reduction selectivity.
+J. Am. Chem. Soc.
+137
+, 3076–3084 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Resasco, J. et al. Relationship between atomic scale structure and reactivity of Pt catalysts: hydrodeoxygenation of
+m
+-cresol over isolated Pt cations and clusters.
+ACS Catal.
+10
+, 595–603 (2019).
+Article
+CAS
+Google Scholar
+Palazov, A., Chang, C. C. & Kokes, R. J. The infrared spectrum of carbon monoxide on reduced and oxidized palladium.
+J. Catal.
+36
+, 338–350 (1975).
+Article
+CAS
+Google Scholar
+Vannice, M. A. & Wang, S. Y. Determination of IR extinction coefficients for linear- and bridged-bonded carbon monoxide on supported palladium.
+J. Phys. Chem.
+85
+, 2543–2546 (1981).
+Article
+CAS
+Google Scholar
+Wu, D. et al. Surface molecular imprinting over supported metal catalysts for size-dependent selective hydrogenation reactions.
+Nat. Catal.
+4
+, 595–606 (2021).
+Article
+CAS
+Google Scholar
+Sobota, M. et al. Dehydrogenation of dodecahydro-
+N
+-ethylcarbazole on Pd/Al
+2
+O
+3
+model catalysts.
+Chem. Eur. J.
+17
+, 11542–11552 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Amende, M. et al. Dehydrogenation mechanism of liquid organic hydrogen carriers: dodecahydro-
+N
+-ethylcarbazole on Pd(111).
+Chem. Eur. J.
+19
+, 10854–10865 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Amende, M. et al. Model catalytic studies of liquid organic hydrogen carriers: dehydrogenation and decomposition mechanisms of dodecahydro-
+N
+-ethylcarbazole on Pt(111).
+ACS Catal.
+4
+, 657–665 (2014).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Sachtler, W. M. H. in
+Handbook of Heterogeneous Catalysis
+, Vol. 1 (eds Ertl, G., Knözinger, H., Schüth, F. & Weitkamp, J.) 1585–1593 (Wiley‐VCH, 2008).
+Sotoodeh, F., Zhao, L. & Smith, K. J. Kinetics of H
+2
+recovery from dodecahydro-
+N
+-ethylcarbazole over a supported Pd catalyst.
+Appl. Catal. A
+362
+, 155–162 (2009).
+Article
+CAS
+Google Scholar
+Jiang, Z., Guo, S. & Fang, T. Enhancing the catalytic activity and selectivity of PdAu/SiO
+2
+bimetallic catalysts for dodecahydro-
+N
+-ethylcarbazole dehydrogenation by controlling the particle size and dispersion.
+ACS Appl. Energy Mater.
+2
+, 7233–7243 (2019).
+Article
+CAS
+Google Scholar
+Jiang, Z., Gong, X., Guo, S., Bai, Y. & Fang, T. Engineering PdCu and PdNi bimetallic catalysts with adjustable alloying degree for the dehydrogenation reaction of dodecahydro-
+N
+-ethylcarbazole.
+Int. J. Hydrog. Energy
+46
+, 2376–2389 (2021).
+Article
+CAS
+Google Scholar
+Kiermaier, S., Lehmann, D., Bösmann, A. & Wasserscheid, P. Dehydrogenation of perhydro-
+N
+-ethylcarbazole under reduced total pressure.
+Int. J. Hydrog. Energy
+46
+, 15660–15670 (2021).
+Article
+CAS
+Google Scholar
+Li, S. et al. Atomically dispersed Ir/α-MoC catalyst with high metal loading and thermal stability for water-promoted hydrogenation reaction.
+Natl Sci. Rev.
+https://doi.org/10.1093/nsr/nwab1026
+(2021).
+Zhang, X. et al. A stable low-temperature H
+2
+-production catalyst by crowding Pt on α-MoC.
+Nature
+589
+, 396–401 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Peng, M. et al. Fully exposed cluster catalyst (FECC): toward rich surface sites and full atom utilization efficiency.
+ACS Cent. Sci.
+7
+, 262–273 (2020).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Li, J. et al. Size-dependent catalytic activity over carbon-supported palladium nanoparticles in dehydrogenation of formic acid.
+J. Catal.
+352
+, 371–381 (2017).
+Article
+CAS
+Google Scholar
+Boudart, M. & Hwang, H. S. Solubility of hydrogen in small particles of palladium.
+J. Catal.
+39
+, 44–52 (1975).
+Article
+CAS
+Google Scholar
+Tew, M. W., Miller, J. T. & van Bokhoven, J. A. Particle size effect of hydride formation and surface hydrogen adsorption of nanosized palladium catalysts: L3 edge vs K edge X-ray absorption spectroscopy.
+J. Phys. Chem. C.
+113
+, 15140–15147 (2009).
+Article
+CAS
+Google Scholar
+Resasco, J., Dai, S., Graham, G., Pan, X. & Christopher, P. Combining in-situ transmission electron microscopy and infrared spectroscopy for understanding dynamic and atomic-scale features of supported metal catalysts.
+J. Phys. Chem. C.
+122
+, 25143–25157 (2018).
+Article
+CAS
+Google Scholar
+Kresse, G. & Hafner, J. Ab initio molecular dynamics for liquid metals.
+Phys. Rev. B
+47
+, 558–561 (1993).
+Article
+CAS
+Google Scholar
+Kresse, G. & Hafner, J. Ab initio molecular-dynamics simulation of the liquid-metal–amorphous-semiconductor transition in germanium.
+Phys. Rev. B
+49
+, 14251–14269 (1994).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Blöchl, P. E., Jepsen, O. & Andersen, O. K. Improved tetrahedron method for Brillouin-zone integrations.
+Phys. Rev. B
+49
+, 16223–16233 (1994).
+Article
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+PubMed
+Google Scholar
+Monkhorst, H. J. & Pack, J. D. Special points for Brillouin-zone integrations.
+Phys. Rev. B
+13
+, 5188–5192 (1976).
+Article
+Google Scholar
+Blöchl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953–17979 (1994).
+Article
+Google Scholar
+Henkelman, G., Arnaldsson, A. & Jónsson, H. A fast and robust algorithm for Bader decomposition of charge density.
+Comput. Mater. Sci.
+36
+, 354–360 (2006).
+Article
+Google Scholar
+Sanville, E., Kenny, S. D., Smith, R. & Henkelman, G. Improved grid-based algorithm for Bader charge allocation.
+J. Comput. Chem.
+28
+, 899–908 (2007).
+Article
+CAS
+PubMed
+Google Scholar
+Download references
+Acknowledgements
+This work received financial support from the Natural Science Foundation of China (21725301, 21932002, 22005007, 21821004), the National Key R&D Program of China (2021YFA1501100) and the Beijing Outstanding Young Scientist Program (BJJWZYJH01201914430039). C.D. acknowledges the China Postdoctoral Science Foundation (2018M640016). H.L. acknowledges the Liaoning Revitalization Talents Program (XLYC1907055). The X-ray absorption spectroscopy was conducted at the Shanghai Synchrotron Radiation Facility and the Beijing Synchrotron Radiation Facility. D.M. acknowledges support from the Tencent Foundation through the XPLORER PRIZE. Y.L. and Y.-G.W. were financially supported by the Natural Science Foundation of China (numbers 22022504, 22033005), the Guangdong ‘Pearl River’ Talent Plan (number 2019QN01L353), the Higher Education Innovation Strong School Project of Guangdong Province of China (number 2020KTSCX122) and the Guangdong Provincial Key Laboratory of Catalysis (number 2020B121201002). The computational resource is supported by the Center for Computational Science and Engineering at SUSTech and the CHEM high-performance supercomputer cluster (CHEM-HPC) located at the Department of Chemistry, SUSTech.
+Author information
+Author notes
+These authors contributed equally: Chunyang Dong, Zirui Gao, Yinlong Li, Mi Peng.
+Authors and Affiliations
+Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing, China
+Chunyang Dong, Zirui Gao, Mi Peng, Meng Wang, Yao Xu, Chengyu Li, Ming Xu, Yuchen Deng, Xuetao Qin, Xuyan Wei & Ding Ma
+Department of Chemistry and Guangdong Provincial Key Laboratory of Catalysis, Southern University of Science and Technology, Shenzhen, China
+Yinlong Li & Yang-Gang Wang
+School of Materials Science and Engineering, University of Science and Technology of China, Hefei, China
+Fei Huang & Hongyang Liu
+Shenyang National Laboratory for Materials Science, Institute of Metal Research, Chinese Academy of Sciences, Shenyang, China
+Fei Huang & Hongyang Liu
+School of Physical Sciences and CAS Key Laboratory of Vacuum Physics, University of Chinese Academy of Sciences, Beijing, China
+Wu Zhou
+Authors
+Chunyang Dong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zirui Gao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yinlong Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mi Peng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Meng Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yao Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chengyu Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ming Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yuchen Deng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xuetao Qin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Fei Huang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xuyan Wei
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yang-Gang Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hongyang Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wu Zhou
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ding Ma
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+D.M. conceived the project. D.M., Y.-G.W. and H.L. supervised the study. C.D., Z.G. and C.L. performed most of the reactions. F.H. and X.W. helped with the preparation of the catalysts. Y.L. and Y.-G.W. did the DFT calculations. M.P., Y.D., Y.X. and X.Q. performed the X-ray related characterizations (XAS, XPS) and analysis. M.W. and M.X. gave advice about the chemisorption and DRIFT analysis. Z.G. and W.Z. performed the electron microscopy study. C.D. and D.M. wrote the paper. All authors contributed to the discussion and revision of the paper.
+Corresponding authors
+Correspondence to
+Yang-Gang Wang
+,
+Hongyang Liu
+,
+Wu Zhou
+or
+Ding Ma
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks Rhett Kempe and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary methods, Figs. 1–22, Tables 1–7, Notes 1–6 and references
+Supplementary Data 1
+Electronic structure calculations.
+Source data
+Source Data Fig. 1
+Graphical illustration.
+Source Data Fig. 2
+STEM images and DRIFT spectra.
+Source Data Fig. 3
+EXAFS and XPS spectra.
+Source Data Fig. 4
+Catalytic performance.
+Source Data Fig. 5
+Energy profiles.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Dong, C., Gao, Z., Li, Y.
+et al.
+Fully exposed palladium cluster catalysts enable hydrogen production from nitrogen heterocycles.
+Nat Catal
+5
+, 485–493 (2022). https://doi.org/10.1038/s41929-022-00769-4
+Download citation
+Received
+:
+09 July 2021
+Accepted
+:
+09 March 2022
+Published
+:
+21 April 2022
+Issue Date
+:
+June 2022
+DOI
+:
+https://doi.org/10.1038/s41929-022-00769-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Tuning at the subnanometre scale
+Sanjana Srinivas
+Dionisios G. Vlachos
+Nature Catalysis
+News & Views
+24 Jun 2022
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

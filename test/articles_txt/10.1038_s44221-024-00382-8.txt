@@ -1,0 +1,1892 @@
+Multidimensional engineering of single-atom cobalt catalysts for ultrafast Fenton-like reactions | Nature Water
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature water
+articles
+article
+Multidimensional engineering of single-atom cobalt catalysts for ultrafast Fenton-like reactions
+Download PDF
+Article
+Published:
+22 January 2025
+Multidimensional engineering of single-atom cobalt catalysts for ultrafast Fenton-like reactions
+Zhong-Shuai Zhu
+1
+na1
+,
+Yantao Wang
+1
+,
+2
+na1
+,
+Pengtang Wang
+1
+,
+Shuang Zhong
+1
+,
+Kunsheng Hu
+1
+,
+Shiying Ren
+1
+,
+Jitraporn Pimm Vongsvivut
+ORCID:
+orcid.org/0000-0003-0699-3464
+3
+,
+Hongqi Sun
+ORCID:
+orcid.org/0000-0003-0907-5626
+4
+,
+Xiaoguang Duan
+ORCID:
+orcid.org/0000-0001-9635-5807
+1
+&
+…
+Shaobin Wang
+ORCID:
+orcid.org/0000-0002-1751-9162
+1
+Show authors
+Nature Water
+volume
+3
+,
+pages
+211–221 (
+2025
+)
+Cite this article
+3345
+Accesses
+1
+Altmetric
+Metrics
+details
+Subjects
+Chemical engineering
+Pollution remediation
+Abstract
+Single-atom catalyst (SAC)-based Fenton-like systems offer sustainable solutions for water purification, but challenges remain in large-scale SAC production and precise structure engineering. Here we present a facile strategy for laboratory-scale mass production of Co-SACs with multidimensional coordination engineering, where atomically dispersed Co–N
+4
+sites are spontaneously modulated by axial Cl and second-shell S (Co
+1
+CNCl/S). The configuration downshifts the
+d
+-band centre of active Co sites, enhances charge-transfer capacity and significantly strengthens the Co–O bond with peroxymonosulfate, forming a surface electrophilic intermediate with mild oxidation potential. Consequently, Co
+1
+CNCl/S steers peroxymonosulfate activation via a non-radical electron-transfer pathway, achieving selective phenol degradation within 5 min with a turnover frequency of 1.82 min
+−1
+, outperforming state-of-the-art catalysts. In a continuous flow, the Co
+1
+CNCl/S-packed column achieves effective organic wastewater treatment at just $US0.22 per tonne. This work demonstrates a scalable approach for developing cost-effective SACs for environmental remediation.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Nanoconfinement steers nonradical pathway transition in single atom fenton-like catalysis for improving oxidant utilization
+Article
+Open access
+22 June 2024
+Tuning electronic structure of metal-free dual-site catalyst enables exclusive singlet oxygen production and in-situ utilization
+Article
+Open access
+10 July 2024
+Transient co-tuning of atomic Fe and nanoparticle facets for self-relaying Fenton-like catalysis
+Article
+Open access
+25 January 2024
+Main
+The rapid development of the global economy and the acceleration of industrialization have led to a continuous increase in the emission of organic pollutants to the environment, resulting in a huge challenge for wastewater treatment
+1
+,
+2
+,
+3
+. Among various organic pollutants, emerging contaminants (ECs) including pharmaceuticals, personal care products, industrial chemicals and microplastics have attracted attention because of their environmental toxicity and resistance towards (bio-)chemical degradation
+4
+,
+5
+. More importantly, most of these ECs are excluded in regular environmental monitoring systems, and the existing measures are insufficient to effectively control their risks. As a result, these ECs pose an increasingly serious threat to the ecosystems and human health. Therefore, there is an urgent need to develop green and effective purification technologies to address this challenge.
+Advanced oxidation processes (AOPs) offer a clear advantage in water pollution treatment owing to their strong oxidation capacity to break down obstinate organic contaminants
+6
+,
+7
+. As one of the most representative AOPs, the peroxymonosulfate (PMS)-based Fenton-like reaction (PMS-AOPs) shows great potential and attracts widespread attention
+8
+,
+9
+. The degradation efficiency of PMS-AOPs relies on the effective generation of reactive species via the physical (energy-based) or chemical (catalysis-based) activation of PMS
+10
+. Single-atom catalysts (SACs) are a burgeoning class of isolated site catalysts, envisioned as promising candidates for efficient AOPs owing to the precisely tailored metal coordination environments, maximal atomic utilization efficiency and, thus, low metal usage
+11
+,
+12
+,
+13
+. In particular, carbon-supported transition-metal-based SACs with four-nitrogen coordination (M–N
+4
+) have been shown to have optimal catalytic efficiency in driving PMS-AOPs to generate radical and non-radical species for organic pollutant degradation
+14
+,
+15
+. However, the cost of SACs is high, and their performance has been limited by their first-shell chemistry and unsatisfactory long-term operation, failing to meet the practical requirements for water treatment
+16
+. Thus, new challenges in enhancing the intrinsic catalytic activity of SACs through the modulation of the electronic and geometric structures beyond the first shell must be addressed
+17
+.
+So far, two strategies are available to further modulate catalytic performance of SACs
+18
+,
+19
+. One technique focuses on regulating SACs at a planar level, involving spontaneously regulating the coordination elements and number in the first shell of the metal centre as well as inducing secondary dopants or vacancy in the second sphere
+8
+,
+20
+,
+21
+,
+22
+. This strategy allows short-to-medium-distance regulation of the electron distribution and charge-transfer capacity of SACs. However, the improvement in catalytic activity could be limited because the heteroatoms (with different electronegativity and radius) also bond with the planar carbon substrate, resulting in a dilution electronic effect on centre metal sites. The other strategy is the modulation of the central metal atom via additional heteroatom coordination along the axial direction. The axial bonding circumvents the planar dilution caused by the carbon substrate, thus providing more potent electronic interactions with the metal centre
+23
+,
+24
+. Although this approach shows additional advantages in improving catalytic performance, experimental studies are rarely reported owing to the challenges in precise multidimensional engineering as well as the low yield of fine-tailored SACs via typical pyrolysis approaches
+25
+,
+26
+,
+27
+, impeding the practical application of SAC-AOPs in water treatment.
+In this work, we used a planar and axial dual-engineering strategy to methodically tune the microenvironment and electronic structure of cobalt (Co)-based SACs. Such a feasible salt templating strategy not only secured a high SAC yield but also achieved carbon-based Co–N
+4
+-coordinated sites with second-shell (S) and axial (Cl) modulated CoN
+4
+sites (Co
+1
+CNCl/S) simultaneously. The configuration realized substantial electronic structure regulation of the central Co atoms, which remarkably intensified the adsorption and activation of PMS and enabled the formation of a critical surface reactive complex intermediates (PMS*), which coordinated a rapid and selective electron-transfer pathway (ETP) for pollutant oxidation. The associated mechanisms were monitored by in situ spectroscopy and revealed by density functional theory (DFT) calculation. As a result, Co
+1
+CNCl/S showed exceptional activity, achieving complete phenol decomposition within 5 min and an ultrahigh turnover frequency (TOF) value of 1.82 min
+−1
+. In practice, a flow-through Co
+1
+CNCl/S-packed column reactor attained a remarkable water purification rate of 189.6 l g
+−1
+catalyst
+, maintaining extraordinary stability over extended periods. This study paves the way for the precise control of the chemical environment of SACs via both vertical and in-plane molecular engineering to fine-tune the geometric and electronic structures towards an optimal non-radical ETP pathway to achieve the best Fenton-like activity and high stability for sustainable water treatment.
+Results
+Synthesis and morphology of Co-SACs
+The synthesis procedure of Co
+1
+CNCl/S is shown in Fig.
+1a
+. First, CoSO
+4
+, dicyandiamide, glucose and sodium chloride (NaCl) were dissolved in water and then freeze dried to encapsulate Co ions and other molecules within NaCl crystal lattice. Afterwards, the resulting mixture was annealed at 900 °C in an argon atmosphere, leading to the carbonization of glucose to form a graphene network between the salt lattice to obtain a three-dimensional (3D) Co-SAC nanosheets–NaCl mixture. Notably, the size of NaCl increased during the high-temperature carbonization process, thereby expediting the formation of interpenetrating nanosheets at the boundaries of salt particles and securing a high carbon yield due to the confined carbonization between NaCl terminals. At annealing temperatures above the melting point of NaCl (801 °C), molten NaCl facilitated the capture of Cl by Co atoms, introducing Cl into the Co centre. Simultaneously, the thermal decomposition of CoSO
+4
+released sulfur, which was spontaneously incorporated into the carbon matrix, creating long-range coordination with the Co single atoms. Following the removal of the NaCl template via acid washing (Supplementary Fig.
+1
+), 3D honeycomb-like structures were obtained. Scanning electron microscopy (SEM) and transmission electron microscopy (TEM) images of Co
+1
+CNCl/S indicated the 3D honeycomb-like morphologies with interconnected open pores (Fig.
+1b
+and Supplementary Figs.
+2
+and
+3
+), resulting in a substantial surface area (312.7 m
+2
+g
+−1
+). High resolution high-angle annular dark-field scanning TEM (HAADF-STEM) revealed that numerous isolated bright spots were dispersed on the matrix (Fig.
+1c
+), demonstrating Co single atoms, which corroborates with the result from powder X-ray diffraction (XRD; Supplementary Fig.
+4
+). Moreover, S and Cl were successfully incorporated into the carbon matrix combined with isolated Co atoms, as demonstrated by energy-dispersive X-ray spectroscopy (EDS) mapping and X-ray photoelectron spectroscopy (XPS; Fig.
+1d
+and Supplementary Fig.
+5
+).
+Fig. 1: Synthesis of Co
+1
+CNCl/S.
+a
+, The synthesis scheme of Co
+1
+CNCl/S.
+b
+–
+d
+, SEM (
+b
+) and HAADF-STEM (
+c
+) images of Co
+1
+CNCl/S and the corresponding EDS mappings of C, N, Co, Cl and S (
+d
+).
+e
+, The digital image of 15 g Co
+1
+CNCl/S catalysts.
+f
+, The catalyst yield with different synthesis methods (details provided in the
+Supplementary Information
+). MOF-OS, metal-organic framework one-step; MOF-TS, metal-organic framework two-steps; PS, precursor-polystyrene sphere; PS-L, precursor-polystyrene sphere-lyophilization.
+Source data
+Full size image
+Controlled experiments were conducted to investigate the factors for catalyst synthesis with 3D honeycomb-like morphology and single-atomic structures. As results, a series of nitrogen (N)-doped, S-doped and N–S co-doped carbon-based catalysts without or with Co single sites were synthesized by varying the added precursors of heteroatoms and Co salts (correspondingly denoted as CN, C/S, CN/S and Co
+1
+CNCl; Supplementary Figs.
+6
+–
+10
+). Notably, the catalysts using the NaCl template for synthesis revealed 3D interconnected porous structures with a high Co content (2.09–2.66 wt.%), whereas the reference sample without NaCl (Co
+1
+CN/S-w/o NaCl) exhibited compact structure and a low Co content (1.43 wt.%; Supplementary Figs.
+11
+and
+12
+). This finding underscored the importance of NaCl in Co
+1
+CNCl/S synthesis, which not only encapsulated the ultrathin layers of glucose to construct highly porous materials but also constrained the carbonization process to prevent the aggregation of Co species for single-atom formation. Consequently, we provided a facile and mass-production strategy for Co
+1
+CNCl/S (Fig.
+1e
+) with a high carbon yield of 36.5%, well exceeding the yields by other synthesis methods (Fig.
+1f
+and Supplementary Table
+1
+). Nevertheless, Co nanoparticles were observed without dicyandiamide in carbon matrix (Co
+x
+CCl/S), demonstrating the added N source also played a vital role in Co atom anchoring (Supplementary Fig.
+13
+). Together, it can be concluded that the use of NaCl and dicyandiamide significantly determined the formation of the 3D honeycomb-like morphology and single-atom structure for Co-SACs.
+Atomic structure and coordination regulation of Co-SACs
+The chemical composition and surface chemistry of the Co
+1
+CNCl/S and controlled catalysts were explored. The Cl 2
+p
+XPS spectra showed a higher binding energy shift in Co
+1
+CNCl/S compared with Na–Cl (Supplementary Fig.
+5
+). Combined with the imbalanced Na and Cl contents in SEM–EDS, the shift suggested that the increase in Cl intensity was due to the formation of Co–Cl bonds. In addition, the absence of characteristic peaks for metal–S bonds indicated that the exotic S atoms were primarily bonded with surrounding N or C atoms rather than directly with the central Co atom (Supplementary Fig.
+5
+). The N 1
+s
+XPS spectra revealed distinct N species in these catalysts (Supplementary Fig.
+14
+). Compared with Co
+1
+CNCl, the Co–N peak for Co
+1
+CNCl/S shifted to lower binding energy, implying partial electron transfer from the S to the N atom and subsequently to the central Co site
+28
+. The categories of N species were also corroborated by X-ray absorption near-edge structure (XANES) spectroscopic measurements. As shown in Fig.
+2a
+, the N K-edge XANES spectra of the catalysts were dominated by three well-resolved resonance peaks, attributed to pyridinic π*, pyrrolic π* and graphitic π* (ref.
+29
+). Compared with CN, the resonance of pyridinic N for Co
+1
+CNCl showed a notable reduction. Meanwhile, slight shifts of pyridinic and pyrrolic N were further observed on Co
+1
+CNCl/S. In particular, in the σ* region, S doping or Co anchoring resulted in a broader resonance profile compared with CN (Supplementary Fig.
+15
+), which indicated the diverse lengths of C–N bonds. All these variations in the N K-edge XANES spectra demonstrated the alterations in the chemical environment of N atoms for Co
+1
+CNCl/S due to the second-shell S doping, giving rise to the changed electronic configuration of Co metal centres.
+Fig. 2: Structural characterization of catalysts.
+a
+, N K-edge XANES spectra of CN, Co
+1
+CNCl and Co
+1
+CNCl/S.
+b
+,
+c
+, Co K-edge XANES spectra (
+b
+) and FT-EXAFS spectra (
+c
+) of Co
+1
+CNCl/S, Co
+1
+CNCl and reference samples.
+R
+denotes radial distance.
+d
+, Co K-edge WT-EXAFS plots of Co
+1
+CNCl and Co
+1
+CNCl/S.
+e
+, The EXAFS analysis of Co
+1
+CNCl/S in
+R
+space.
+f
+, The formation energies of different coordination patterns for elemental S and Cl.
+Source data
+Full size image
+Co K-edge XANES spectroscopy was carried out to verify the atomic structure and coordination environment of Co atoms in Co
+1
+CNCl/S. The rising edge of both Co
+1
+CNCl and Co
+1
+CNCl/S fell between those of CoO and Co foil (Fig.
+2b
+), indicating that the predominant valence state of the single-atom Co lay between Co
+0
+and Co
+2+
+, consistent with the XPS findings (Supplementary Fig.
+16
+). The
+k
+2
+-weighted Fourier transform of the extended X-ray absorption fine structure (FT-EXAFS) analysis revealed that the metallic Co–Co peak was not observed for Co
+1
+CNCl and Co
+1
+CNCl/S, confirming the structure of isolated Co sites (Fig.
+2c
+), which was consistent with the STEM results. More importantly, unlike the reference (cobalt phthalocynine, CoPc) with a symmetrical peak of Co–N
+4
+coordination at 1.47 Å, the FT-EXAFS of Co
+1
+CNCl/S exhibited a shifted, asymmetrical peak at 1.35 Å. This change was attributed primarily to the axial coordination of Co–Cl, resulting in the distortion of Co atoms positioning out of the graphene plane
+30
+. These results were in line with the wavelet transform EXAFS (WT-EXAFS) analysis (Fig.
+2d
+and Supplementary Fig.
+17
+). In addition, the use of sulfate precursors in Co
+1
+CNCl/S introduced S atoms into the carbon matrix. Based on XPS results (Supplementary Fig.
+5
+) and the distinct peak observed around 2.33 Å in the
+R
+space of Co
+1
+CNCl/S in the EXAFS spectrum, which was absent in Co
+1
+CNCl, S was probably incorporated into the second coordination shell of Co. Furthermore, the coordination environment of Co
+1
+CNCl/S was resolved via quantitative EXAFS curve fitting (Supplementary Table
+2
+and Supplementary Fig.
+18
+–
+22
+). The optimal EXAFS fitting analyses of Co
+1
+CNCl/S confirmed that a Co centre was coordinated with Cl and N atoms at the numbers 0.7 and 4, respectively. However, the calculated distances of Co–Cl and Co–N bonds for Co
+1
+CNCl were 2.26 Å and 1.86 Å, respectively (Supplementary Fig.
+18
+), whereas those distances were 2.25 Å and 1.88 Å for Co
+1
+CNCl/S (Fig.
+2e
+), respectively. The changes in bond length on Co
+1
+CNCl/S were attributed to the S coordination with N in the second shell, which was indicated by a Co–S path length of 2.95 Å. Furthermore, additional DFT calculations further validated the coordination structure of Co
+1
+CNCl/S obtained from EXAFS curve fitting (Fig.
+2f
+and Supplementary Fig.
+23
+), where the configuration with axial Co–Cl coordination and S–N coordination in the second shell exhibited the lowest formation energy (−2.24 eV), consistent with the EXAFS analysis. Based on the above evidence, the Cl
+1
+–Co–N
+4
+–S
+1
+configuration with a Co–Cl bond in the axial direction as well as planar Co–N
+4
+and N–S bonds in the second shell were demonstrated in Co
+1
+CNCl/S.
+Fenton-like catalysis and mechanisms
+The engineered Co-SACs were assessed in catalysing PMS activation for Fenton-like oxidation using phenol as a model pollutant. As shown in Supplementary Fig.
+24
+, metal-free carbon catalysts of CN, C/S and CN/S achieved only 11.0%, 22.9% and 24.7% of phenol removal within 20 min, respectively, whereas the Co-SACs with four-N coordination (Co
+1
+CN) achieved more than 42% degradation of phenol (Fig.
+3a
+), indicating the high activity of Co single sites for PMS activation. Remarkably, a significantly boosted catalytic activity was achieved on Co
+1
+CNCl/S, achieving complete pollutant decomposition within 5 min (Fig.
+3a
+). Conversely, the low activity of Co
+1
+CN/S-w/o NaCl can be attributed to the lack of a porous structure with hindered mass transfer and adsorption processes (Supplementary Fig.
+24
+), significantly limiting phenol degradation as a surface reaction. The apparent rate constant (
+k
+obs
+) of Co
+1
+CNCl/S (0.952 min
+−1
+) was 19.0, 10.1 and 8.7 times higher than that of Co
+1
+CN, Co
+1
+CNCl and Co
+1
+CN/S, respectively, illustrating the vital importance of co-existing S and Cl coordination of single-atom sites for activity improvement (Supplementary Fig.
+24
+). This strong coordination at the Co single site resulted in negligible Co²⁺ leaching at approximately 3.8 ppb, well below the emission standard (1.0 mg l
+−1
+, GB 25467–2010)
+11
+. Such a low leaching level indicated a minimal contribution to PMS activation and secondary pollution (Supplementary Fig.
+25
+). In addition, there was no linear relationship between
+k
+obs
+and Co content in different Co-SACs (Supplementary Fig.
+26
+), demonstrating that the Co content was not the main factor for improving the PMS activation. Relying on this, the intrinsic activity of Co
+1
+CNCl/S based on TOF was compared with previously reported nanostructured catalysts, including carbon-based metal-nanoparticle composites
+31
+,
+32
+and SACs
+3
+,
+33
+,
+34
+,
+35
+,
+36
+(Supplementary Table
+3
+). Co
+1
+CNCl/S with a TOF of 1.82 min
+−1
+outperformed most of the state-of-the-art nanocatalysts for Fenton-like reactions reported so far (Fig.
+3b
+). More importantly, Co
+1
+CNCl/S exhibited high catalyst production yield and high degradation efficiency compared with diverse carbon-based SACs from different synthesis approaches (Fig.
+3c
+), holding great potential for practical applications.
+Fig. 3: Fenton-like catalysis of catalysts.
+a
+, Relative concentration changes (
+C
+t
+/
+C
+0
+) of phenol by different catalysts.
+b
+, A comparison of TOF values and metal content for the state-of-the-art heterogeneous Fenton-like catalysts.
+c
+, First-order kinetic rate constants of phenol removal by Co-SACs with different yields.
+d
+, EPR spectra using DMPO and TEMP as spin-trapping agents.
+e
+, In situ time-dependent SERS of Co
+1
+CNCl/S in a PMS–phenol system.
+f
+,
+g
+, In situ synchrotron radiation-based Fourier-transform infrared spectra of Co
+1
+CNCl/S with PMS (
+f
+) and after adding phenol (
+g
+).
+h
+, A critical evaluation of Co-SACs in different aspects. Data in
+a
+and
+c
+are presented as mean values ± s.d. (
+n
+= 2). Experimental conditions: phenol concentration 0.2 mM, PMS concentration 0.4 mM, catalyst concentration 0.05 g l
+−1
+.
+Source data
+Full size image
+Given the boosted catalytic performance of Co
+1
+CNCl/S, we further assessed its reaction regimes in PMS-induced AOPs. Commonly, various reactive species have been identified in metal SAC-based AOPs, such as hydroxyl/sulfate radicals (
+•
+OH/ SO
+4
+•−
+) (refs.
+7
+,
+37
+), single oxygen (
+1
+O
+2
+) (ref.
+21
+), surface-activated complexes (PMS*)
+15
+and high-valence oxo-metal species
+11
+. For these possible active species,
+tert
+-butyl alcohol can selectively quench
+•
+OH, whereas ethanol is usually used to scavenge both
+•
+OH and SO
+4
+•−
+. As shown in Supplementary Fig.
+27
+, these alcohols had no obvious inhibitory effect on catalytic activity. In addition, benzoic acid, as a radical probe for
+•
+OH/SO
+4
+•−
+, could not be oxidized in this system either (Supplementary Fig.
+28
+). More intuitively, radical trapping tests by electron paramagnetic resonance (EPR) revealed that these two radicals could not be captured, and the seven-line signal of 5,5-dimethyl-2-pyrrolidone-
+N
+-oxyl was detected from a direct oxidation product of 5,5-dimethyl-1-pyrroline-
+N
+-oxide (DMPO) (Fig.
+3d
+). These results collectively indicated that
+•
+OH and SO
+4
+•−
+were not generated in the Co
+1
+CNCl/S/PMS system. In addition, 2,2,6,6,-tetramethyl-4-piperidinol (TEMP) as an
+1
+O
+2
+scavenger was introduced in Co
+1
+CNCl/S/PMS to further investigate the possible contribution of
+1
+O
+2
+. No significant inhibitory effect on phenol degradation occurred when adding TEMP (Supplementary Fig.
+27
+). The three-line spectrum as the featured TEMP oxidation product by
+1
+O
+2
+was missing in EPR analysis (Fig.
+3d
+). Moreover, controlled gas (from N
+2
+to O
+2
+) and water (from H
+2
+O to D
+2
+O) experiments also showed no influence on phenol degradation (Supplementary Figs.
+29
+and
+30
+). Therefore,
+1
+O
+2
+generation was excluded from either PMS or dissolved oxygen. In addition, methyl phenyl sulfoxide did not significantly inhibit phenol degradation by Co
+1
+CNCl/S (Supplementary Fig.
+27
+), excluding the contribution of high-valence metal species in the Co
+1
+CNCl/S/PMS system. Other catalysts were also investigated in the quenching tests (Supplementary Figs.
+31
+–
+38
+), where most of the catalysts primarily mediated a non-radical reaction (Supplementary Figs.
+31
+–
+36
+) while C/S and Co
+x
+CCl/S without N coordination produced radical species (Supplementary Figs.
+37
+and
+38
+). These observations suggested that N coordination in the microenvironment of Co-SACs was conducive to enabling the interactions with PMS to mediate non-radical oxidation processes, which was consistent with reported studies
+38
+,
+39
+.
+Given the excluded active species, we speculated that PMS was activated to form PMS* to oxidize phenol through an ETP. To validate this deduction, we constructed a dual-compartment galvanic oxidation setup (Supplementary Fig.
+39
+). As expected, the Co
+1
+CNCl/S-coated reactor showed a significantly increased current (218 μA), achieving 80.6% phenol oxidation within 10 h. This soundly supported the ETP regime accounting for phenol oxidation via charge transfer from phenol to PMS over Co
+1
+CNCl/S. In situ surface-enhanced Raman spectroscopy (SERS) was used to monitor ETP for the catalyst–PMS system in real time (Fig.
+3e
+and Supplementary Fig.
+40
+). As shown in Supplementary Fig.
+40
+, PMS displayed the characteristic peaks of HSO
+5
+−
+at around 889 and 1,063 cm
+−1
+, along with the peak of SO
+4
+2−
+at 984 cm
+−1
+(refs.
+40
+,
+41
+,
+42
+). In the Co
+1
+CNCl/S/PMS system, in addition to the peaks of HSO
+5
+−
+, a new peak was observed at around 820 cm
+−1
+after adding PMS (Fig.
+3e
+), corresponding to the activated PMS* (ref.
+43
+). As the reaction progressed, the peak of PMS* gradually intensified, but it disappeared instantly upon the addition of phenol. In addition, corresponding findings were also observed and identified from in situ synchrotron radiation-based Fourier-transform infrared (SR-FTIR) spectra (Fig.
+3f,g
+). If Co
+1
+CNCl/S was adopted, red shifts of S–O and S=O bands were observed, indicating that the HO–OSO
+3
+−
+structure was bonded to the surface of Co
+1
+CNCl/S
+44
+. Upon phenol addition, the red-shifted bonds reverted because of the redox reactions between surface-confined PMS* and phenol (Fig.
+3f
+). Together, all the band changes on SERS and FTIR spectra indicated the ETP process: (1) surface-confined PMS* was formed through electronic coupling between Co
+1
+CNCl/S and adsorbed PMS initially (denoted as Co
+1
+CNCl/S-PMS*); (2) the generated Co
+1
+CNCl/S-PMS* captured electrons from the electron donor (in this case, phenol), causing PMS decomposition and phenol oxidation. Therefore, the Co
+1
+CNCl/S-PMS* served as the active species for phenol oxidation. ETP was typically preceded by the formation of the surface-confined PMS* as the active species, which created a micro-high-potential regime resembling anodic oxidation.
+Understanding the kinetics of ETP during PMS activation necessitates a closer examination of three critical parameters: PMS adsorption, the potential of catalyst–PMS* complexes and their variations. Accordingly, a PMS adsorption capacity (
+Q
+PMS
+) on catalysts was first explored and compared (Supplementary Fig.
+41
+). For metal-free catalysts, the
+Q
+PMS
+was generally low, consistent with the poor degradation efficiency due to the limited availability of active sites and weak interactions of N-doped carbon with PMS via van der Waals force
+45
+. By contrast, the PMS adsorption on Co-SACs was significantly enhanced, along with the boosted
+k
+obs
+. In particular, Co
+1
+CNCl/S exhibited the highest
+Q
+PMS
+compared with Co
+1
+CN, Co
+1
+CN/S and Co
+1
+CNCl, which demonstrated that the axial Cl and the second-shell S dual coordination can remarkably promote PMS adsorption, resulting in a high population of surface-confined and activated PMS.
+The open circuit potential (OCP) of the catalysts during reaction was then assessed to reflect the potential of the catalyst–PMS* (Supplementary Fig.
+42
+). For a blank glassy carbon electrode, the slightly increased OCP did not change after adding phenol. However, the OCP of Co
+1
+CNCl/S swiftly rose after the addition of PMS, levelling off to an equilibrium potential (denoted as
+φ
+) at around +0.890 V (versus Ag/AgCl), and then sharply fell upon phenol addition. This variation of potential demonstrated the formation of the Co
+1
+CNCl/S-PMS* complex, which was consumed with phenol via the following redox processes. Notably, the
+φ
+of Co
+1
+CNCl/S-PMS* and the value of potential drop (defined as Δ
+φ
+) after oxidation were both greater than those in Co
+1
+CN, Co
+1
+CN/S and Co
+1
+CNCl, implying that the Cl
+1
+–Co–N
+4
+–S configuration was more favourable to create highly oxidative domains via forming populated and strongly interacting catalyst–PMS* complexes.
+Based on the above results, four Co-SACs are comprehensively compared in Fig.
+3h
+in terms of
+k
+obs
+,
+k
+obs
+normalized by Co content (denoted as
+k
+per Co
+), TOF,
+Q
+PMS
+,
+φ
+and Δ
+φ
+. Clearly, Co
+1
+CNCl/S exhibited all the highest values of the parameters. Thus, the axial Cl and second-shell S coordination tailored the Co single site and regulated the intrinsic PMS activation efficiency via enhancing PMS adsorption and generating the reactive PMS* complexes with regional elevated potential, ultimately accelerating the oxidation kinetics of co-adsorbed organics via electron transfer.
+Theoretical calculation
+To explore the impact of different Co coordination configurations on Fenton-like catalysis, we investigated their intrinsic properties using DFT calculations. We first constructed four single-atom structures, Co–N
+4
+, Co–N
+4
+–S
+1
+, Cl
+1
+–Co–N
+4
+and Cl
+1
+–Co–N
+4
+–S
+1
+(corresponding to Co
+1
+CN, Co
+1
+CN/S, Co
+1
+CNCl and Co
+1
+CNCl/S, respectively; Supplementary Fig.
+43
+). The projected density of states (PDOS; Fig.
+4a
+) of Co–N
+4
+showed that there were no obvious electronic states near the Fermi level, revealing typical semiconductor characteristics. Upon axial Cl coordination to Co, distinct electronic states emerged near the Fermi level, signifying that the axially coordinated Cl promoted the enhancement of conductivity. With the second-shell S coordination, a pronounced pseudo-energy gap appeared near the Fermi level, suggesting the rearrangement of the electronic structure, leading to the formation of stronger covalent bonds. Unfortunately, the missing electronic states near the Fermi level led to a restriction of electronic conduction in this energy range and, hence, lower conductivity. Notably, the PDOS of Cl
+1
+–Co–N
+4
+–S
+1
+suggested that this coordination configuration highlighted the advantages of the axial Cl and the second-shell layer S. Specifically, the obvious electronic state near the Fermi level enhanced the conductivity of Cl
+1
+–Co–N
+4
+–S
+1
+, while the non-bonded state near the Fermi level was also significantly shifted upwards. These were supported by the electrochemical impedance spectra (Supplementary Fig.
+44
+) showing that Co
+1
+CNCl/S had a superior charge-transfer capacity, while Co
+1
+CNCl with axial Cl exceeded Co
+1
+CN/S and Co
+1
+CN.
+Fig. 4: Theoretical simulation of CoSACs.
+a
+, PDOS for Co–N
+4
+, Cl
+1
+–Co–N
+4
+, Co–N
+4
+–S
+1
+and Cl
+1
+–Co–N
+4
+–S
+1
+.
+b
+, The
+d
+-band centre of Co–N
+4
+, Cl
+1
+–Co–N
+4
+, Co–N
+4
+–S
+1
+and Cl
+1
+–Co–N
+4
+–S
+1
+before and after adsorption of PMS.
+c
+, Adsorption energy with PMS and the corresponding
+k
+obs
+.
+d
+, pCOHP between the central Co atom and the O atom as PMS adsorption. Corresponding IpCOHP values and Co–O bond lengths are shown in the figures.
+e
+, A schematic diagram of the Fenton-like reaction for Cl
+1
+–Co–N
+4
+–S
+1
+.
+Source data
+Full size image
+Given the pivotal role of PMS adsorption as the initial step in non-radical ETP, the
+d
+-band centres (
+ε
+d
+) of the four models before and after adsorption of PMS were calculated (Fig.
+4b
+and Supplementary Fig.
+45
+). Our results demonstrated that, compared with other three models, the
+d
+-band centre of Cl
+1
+–Co–N
+4
+–S
+1
+shifted towards the Fermi level (−1.49 eV) owing to the coexistence of the second-shell S and axial Cl (Fig.
+4b
+). This coupling concentrated the
+d
+-electron distribution at the energy levels near the Fermi level and promoted the adsorption and interaction with PMS at the Co site on Cl
+1
+–Co–N
+4
+–S
+1
+(Supplementary Fig.
+46
+). In addition, after binding with PMS, the
+d
+-band centre of the Co atom in Cl
+1
+–Co–N
+4
+–S
+1
+moved the furthest away from the Fermi level compared with three other coordination models (Co–N
+4
+, Cl
+1
+–Co–N
+4
+and Co–N
+4
+–S
+1
+), with the
+d
+-band centre dropping to −1.95 eV. Therefore, the coexistence of the second-shell S and axial Cl facilitated PMS adsorption and desorption, effectively accelerating Fenton-like catalysis. We further conducted investigations into the PMS adsorption energy (
+E
+ads
+) onto different catalysts (Supplementary Figs.
+47
+–
+49
+). The computed results established the following order of PMS adsorption capacities: Cl
+1
+–Co–N
+4
+–S
+1
+> Co–N
+4
+–S
+1
+> Cl
+1
+–Co–N
+4
+> Co–N
+4
+, consistent with the trend of
+k
+obs
+(Fig.
+4c
+). This demonstrated that the individual coordination of axial Cl and second-shell S led to a stabilized increase in adsorption energy, favouring PMS adsorption. Moreover, co-introduction of axial Cl and second-shell S facilitated strong adsorption of PMS molecules on the Co site to form an activated surface complex, aligning with the
+d
+-band results.
+Numerous studies have demonstrated that the reaction kinetics of catalysts are highly sensitive to the spin configuration
+46
+,
+47
+. In this work, only the simultaneous coordination of axial Cl and second-shell S (Cl
+1
+–Co–N
+4
+–S
+1
+) exerted a synergistic impact on Co spin orbital filling, leading to a significant change in the filling of the
+e
+g
+orbitals of Co 3
+d
+in the
+d
+z
+2
+direction (Supplementary Figs.
+50
+–
+52
+and Supplementary Table
+4
+). In addition, analysing charge-transfer energy revealed a heightened propensity for electron migration from the Co centre to the PMS molecule in Cl
+1
+–Co–N
+4
+–S
+1
+(Supplementary Fig.
+53
+), enhancing its potential in catalysing PMS activation to form a reactive intermediate.
+The projected crystal orbital Hamilton population (pCOHP) was used to analyse the bond strength between the central Co atom and the O atom in the peroxide O–O bond during PMS adsorption. Clearly, with the dual coordination of the second-shell S and axial Cl, the absolute value of the integrated pCOHP (IpCOHP) increased (−1.80 eV; Fig.
+4d
+), indicating a stronger Co–O bond with PMS, leading to more stable surface intermediates (catalyst–PMS*). The changes in bond length and bond strength were consistent with a positive linear relationship (Supplementary Fig.
+54
+). A shorter Co–O bond length (1.99 Å) implied a stronger interaction between the central Co atom and PMS, consistent with the PMS adsorption (Supplementary Fig.
+41
+). Furthermore, the charge density difference and the average distribution analysis showed a substantial increase in charge density around Cl, resulting in an overall downward shift of adsorption oscillations (Supplementary Figs.
+55
+and
+56
+). Hence, by virtue of the augmented catalytic activity of the dual-engineered Cl
+1
+–Co–N
+4
+–S
+1
+site, it harboured intensified capacities for both binding with PMS and mediating a local redox process for PMS activation. This caused an uplifted potential per unit of PMS in the activated state, thereby improving the oxidation capacity and accelerating the reaction kinetics upon reacting with organic pollutants.
+Drawing upon both experimental findings and theoretical computations, we propose a mechanism of non-radical pollutant oxidation via a 100% Co
+1
+CNCl/S-mediated electron transfer process (Fig.
+4e
+). The stable Co–N
+4
+configuration, with the axial Cl coordination through short-range strong electronic coupling, enhances conductivity, while the high electronegativity of Cl renders the central Co atom more positively charged, facilitating the interaction and adsorption of electron-rich O atoms in PMS (negatively charged). The second-shell S, through medium-range weak interactions, further modifies the electron structure of Co, boosts the adsorption of PMS, and lowers the conductivity. Notably, the strategic co-coordination of axial Cl and the second-shell S at the active Co site causes an upward shift of non-bonding state near the Fermi level, featured by the
+d
+-band centre located in proximity to the Fermi level. This configuration not only intensifies PMS adsorption but also enhances the charge migration capacity of the SAC substrate to coordinate ETP. In this bicoordinated structure, the optimal PMS adsorption site (H–O
+(I)
+–O
+(II)
+–SO
+3(III)
+) was the terminal O
+III
+atom (at the S–O bond), which binds with the active Co site with axial Cl, enabling the electron transfer from the co-adsorbed organic compounds, facilitated by the second-shell S atom with both electron-donating and adsorption functions. This pathway differs from PMS-mediated
+1
+O
+2
+and radical generation, where (1) metal sites bind the peroxy O
+II
+or terminal O
+III
+atom of PMS with hydrogen-coupled electron transfer to form surface-confined O* or SO
+5
+* intermediates that further couple to form high-energy
+1
+O
+2
+(refs.
+48
+,
+49
+) or (2) metal sites bond with peroxy O
+II
+and hydroxy O
+I
+atoms with strong electron transfer and PMS dissociation, thus generating radical species such as
+•
+OH and SO
+4
+•−
+(ref.
+50
+). These pathways required the metal sites with high electron density to ensure the strong redox processes that spontaneously dissociate PMS into O* or radicals. By contrast, the spatial and second-shell coordination of the Co centre strengthens Co–O bonds and electronic interactions with PMS, exceeding the van der Waals force of the carbon matrix and preventing instant PMS dissociation due to the optimized charge density of the Co site
+45
+. Thus, the shortened O–O bond in Co
+1
+CNCl/S-activated PMS resulted in the formation of a more stable and high-potential PMS* complex to coordinate the ETP regime. Once the complex potential surpasses the oxidation potential of pollutants, electron transfer transpires between PMS* and pollutants adsorbed on the conjugated carbon skeleton, enabling spontaneous pollutant oxidation in a selective and non-radical manner.
+Practical application investigation
+The large productive yield and remarkable catalytic performance of Co
+1
+CNCl/S inspire us to investigate its practical implementation. Consequently, we assessed the degradation efficiency of ECs with a high concentration to verify the effectiveness of Co
+1
+CNCl/S in more scenarios (Fig.
+5a
+and Supplementary Fig.
+57
+). Five typical pharmaceutical contaminants and six phenolic compounds were completely decomposed within 9 min with minimal PMS consumption. This indicated the excellent activity and broad applicability of Co
+1
+CNCl/S in purifying low-potential contaminants via the ETP regime (Supplementary Fig.
+58
+). Pollutants with higher redox potentials showed reduced oxidation (Supplementary Fig.
+59
+), indicating that the selectivity of ETP supported the development of targeted wastewater treatment strategies. In addition, one molar phenol molecule consumed about 1.75 mol PMS molecules (Supplementary Fig.
+60
+), demonstrating the high PMS utilization efficiency in this Co
+1
+CNCl/S/ETP system. The catalyst at an initial pH of 3–11 also exhibited high degradation efficiency (Supplementary Fig.
+61
+), illustrating the broad pH compatibility for Co
+1
+CNCl/S-catalysed Fenton-like reaction. More importantly, the high removal efficiency of phenol was achieved in various real water sources (tap water, river water, deionized water and sea water) and in the presence of anion and cation interference owing to the high selectivity of ETP and high intrinsic activity of Cl
+1
+–Co–N
+4
+–S
+1
+(Fig.
+5b
+and Supplementary Fig.
+62
+and
+63
+). Approximately 85% total organic carbon removal was achieved (Supplementary Fig.
+64
+). The ecological toxicity of potential intermediates was assessed using the Ecological Structure Activity Relationships (ECOSAR) software (Supplementary Figs.
+65
+and
+66
+and Supplementary Table
+5
+), revealing that most by-products exhibited relatively low acute and chronic toxicity to fish, daphnia and green algae. This indicated minimal environmental risk and highlighted the potential of the system for practical water treatment. Furthermore, Co
+1
+CNCl/S also exhibited good reusability, as suggested by the continuous removal of phenol within 5 min over four cycles (Supplementary Fig.
+67
+). Postreaction analysis of Co
+1
+CNCl/S confirmed its morphological and structural robustness (Supplementary Fig.
+68
+). The catalyst also demonstrated consistent performance across multiple synthesis batches (Supplementary Fig.
+69
+), underscoring its reproducibility and robustness. Interestingly, this well-defined bicoordinated Co
+1
+CNCl/S catalyst exhibited superior activity in oxygen reduction reactions compared with single-coordinated catalysts (Supplementary Fig.
+70
+), thereby opening possibilities for extending its application to other electrocatalytic redox systems.
+Fig. 5: Practical application investigation.
+a
+, The removal efficiency (9 min) for pharmaceutical and phenolic pollutants (0.1 mM) in the Co
+1
+CNCl/S system. ACP, acetaminophen; NPX, naproxen; TC, tetracycline; IBP, ibuprofen; SA, sulfanilamide; MOP, 2-methoxyphenol; PE, phenol; 4-CP, 4-chlorophenol; BPA, bisphenol A; HAP, 4-hydroxyacetophenone; HBAl, 4-hydroxybenzaldehyde.
+b
+, The removal efficiency (7 min) for phenol in different water samples.
+c
+, A schematic illustration of the column reactor and SEM image of Co
+1
+CNCl/S adsorbed on cotton fibres.
+d
+, The phenol (5 mg l
+−1
+) removal efficiency using pristine cotton and Co
+1
+CNCl/S. Data in
+a
+and
+b
+are presented as mean values ± s.d. (
+n
+= 2).
+Source data
+Full size image
+To further meet the requirement for treating large volumes of polluted water, a flow-through column equipment for continuously purifying pollutants in the effluent was assembled to explore the practical applicability of Co
+1
+CNCl/S (Fig.
+5c
+and Supplementary Fig.
+71
+). Cotton fibre was used as the support for Co
+1
+CNCl/S to maintain the dispersion of the catalysts (Supplementary Fig.
+72
+), where its effect on pollutant removal was excluded (Fig.
+5d
+). Impressively, at a flow rate of 60 ml h
+−1
+, the reactor demonstrated superior efficiency (100%) in purifying 9.48 l of phenol-contaminated water with just 50 mg of Co
+1
+CNCl/S loaded, achieving a purification rate of 189.6 l per gram of catalyst. This efficiency can be maintained for as long as 158 h, while the catalyst maintained its morphology well and remained fixed on the support after the process (Supplementary Fig.
+73
+). Given these results, a tonne of phenol can be treated at the expense of $USD0.22 (Supplementary Table
+6
+), which is lower than the reported PMS-AOPs
+51
+. This outstanding performance originated from the good dispersion of the highly reactive Co
+1
+CNCl/S catalyst on the cotton and its intrinsic well-defined coordination, which prevented the catalyst loss. This high-yield catalyst, which can achieve precise coordination regulation through simple methods, holds promise for large-scale production in practical applications for industrial wastewater treatment and can be applied to various fluidized bed systems.
+Conclusions
+In summary, the salt templating-confined growth preparation of SACs is promising for the mass production of atomic metal catalysts with deliberate microenvironment engineering. We have achieved a 36.5% yield of SAC catalysts in a well-defined Co–N
+4
+centre with spontaneous axial Cl bonding and second-shell S doping. Both DFT calculations and experimental investigations indicated that the short-range (axial Cl) and medium-range (second-shell S) modification effectively regulate the electronic structures of CoN
+4
+, realizing an ultrahigh TOF of 1.82 min
+−1
+for pollutant oxidation. The in-plane S and spatial Cl doping collectively afford an upward non-bonding state near the Fermi level with a lower
+d
+-band, which are favourable for PMS activation into a surface complex with high potential via a strengthened Co–O bond and facilitate the electron transfer capacity of SACs to trigger the non-radical ETP regime. Further integration of Co
+1
+CNCl/S into column separation technology achieved high efficiency in treating pollutants, highlighting the exceptional ability of Cl
+1
+–Co–N
+4
+–S
+1
+to deliver outstanding performance in continuous operations. The precise material synthesis at the molecular level and mechanistic insights of structure–activity relations of this work will not only enlighten the intelligent design of reaction-oriented single-atom materials for high intrinsic activity in green catalysis but also unlock their potential for practical applications in environmental remediation.
+Methods
+Preparation of Co
+1
+CNCl/S and other Co-based SACs
+NaCl (3 g), glucose (300 mg), CoSO
+4
+·7H
+2
+O (28.1 mg) and dicyandiamide (332 mg) were dissolved in 30 ml of deionized water and stirred continuously for 2 h. The resulting solution was freeze dried under vacuum to yield a powder, which was then ground in a mortar and pyrolysed at 900 °C for 2 h under an argon atmosphere, with a heating rate of 5 °C min
+−1
+. After cooling to room temperature, the black powder was subjected to acid etching with 0.5 M H
+2
+SO
+4
+to remove unstable Co species and NaCl. The obtained black powder was dried at 60 °C, and the sample was designated as Co
+1
+CNCl/S. Carbon samples were also synthesized similarly without CoSO
+4
+·7H
+2
+O. Other Co SACs were prepared using different precursors of Co salts. CN/S was obtained using the same mole amount of Na
+2
+SO
+4
+without Co salts. C/S was synthesized without Co salts and dicyandiamide but with Na
+2
+SO
+4
+. Co
+1
+CN and Co
+1
+CN/S were prepared by pyrolysis of a mixture of CoPc and CN or CN/S (Co content is approximately 2 wt.%), respectively, at 450 °C under flowing argon for 1 h.
+Characterizations
+XRD patterns were performed on a Rigaku MiniFlex 600 X-ray diffractometer. SEM images were collected on a FEI Quanta 450 FEG environmental scanning electron microscope. TEM images were collected on FEI Tecnai G2 Spirit TEM. HAADF-STEM images with EDS analysis were obtained on FEI Titan Themis 80-200 operating at 200 kV. Raman spectra were measured using a Raman spectroscopy instrument (Horiba Scientific) equipped with a laser emitting at 532 nm. XPS spectra were collected from a Thermo Scientific K-Alpha XPS system. Co K-edge X-ray absorption spectroscopy analysis was carried out under ambient conditions. Both XANES spectra and EXAFS were acquired at the Australian Synchrotron in Melbourne.
+Fenton-like reaction
+A catalyst (0.05 g l
+−1
+) and 0.4 mM PMS were added to 50 ml phenol solution (0.2 mM) in a temperature-controlled water bath at 25 °C. H
+2
+SO
+4
+and NaOH were used to adjust the solution pH. Periodic sampling was executed using a syringe, with immediate filtration through a 0.22 μm polyether sulfone membrane (mixing 1 ml of sample with 20 μl sodium thiosulfate solution), followed by transfer into high-performance liquid chromatography vials. These pollutants were detected by an ultrahigh-performance liquid chromatography (Thermo Scientific) system, equipped with a C-18 column and an ultraviolet detection system, calibrated to a wavelength of 270 nm. The mobile phase consisted of 30% acetonitrile and 70% ultrapure water at a flow rate of 1.0 ml min
+−1
+.
+Data availability
+The data supporting the findings of the study are included in the article and its
+Supplementary Information
+files.
+References
+Xu, J. et al. Organic wastewater treatment by a single-atom catalyst and electrolytically produced H
+2
+O
+2
+.
+Nat. Sustain.
+4
+, 233–241 (2021).
+PubMed
+Google Scholar
+Zhang, D. et al. Dynamic active-site induced by host–guest interactions boost the Fenton-like reaction for organic wastewater treatment.
+Nat. Commun.
+14
+, 3538 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Chen, Z. et al. Single-atom Mo–Co catalyst with low biotoxicity for sustainable degradation of high-ionization-potential organic pollutants.
+Proc. Natl Acad. Sci. USA
+120
+, e2305933120 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Yang, Z., Qian, J., Yu, A. & Pan, B. Singlet oxygen mediated iron-based Fenton-like catalysis under nanoconfinement.
+Proc. Natl Acad. Sci. USA
+116
+, 6659–6664 (2019).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Liu, T. et al. Covalent organic framework membrane for efficient removal of emerging trace organic contaminants from water.
+Nat. Water
+1
+, 1059–1067 (2023).
+CAS
+Google Scholar
+Chen, F. et al. Single-atom iron anchored tubular g-C
+3
+N
+4
+catalysts for ultrafast Fenton-like reaction: roles of high-valency iron-oxo species and organic radicals.
+Adv. Mater.
+34
+, e2202891 (2022).
+PubMed
+Google Scholar
+Zhou, Q. et al. Generating dual-active species by triple-atom sites through peroxymonosulfate activation for treating micropollutants in complex water.
+Proc. Natl Acad. Sci. USA
+120
+, e2300085120 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wang, Z. et al. Cobalt single atoms anchored on oxygen-doped tubular carbon nitride for efficient peroxymonosulfate activation: simultaneous coordination structure and morphology modulation.
+Angew. Chem. Int. Ed.
+61
+, e202202338 (2022).
+CAS
+Google Scholar
+Zhao, Z. et al. Enhanced interfacial electron transfer by asymmetric Cu–O
+v
+–In sites on In
+2
+O
+3
+for efficient peroxymonosulfate activation.
+Angew. Chem. Int. Ed.
+62
+, e202216403 (2023).
+CAS
+Google Scholar
+Li, M. et al. Single cobalt atoms anchored on Ti
+3
+C
+2
+T
+x
+with dual reaction sites for efficient adsorption-degradation of antibiotic resistance genes.
+Proc. Natl Acad. Sci. USA
+120
+, e2305705120 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Li, X. et al. CoN
+1
+O
+2
+single-atom catalyst for efficient peroxymonosulfate activation and selective cobalt(IV)=O generation.
+Angew. Chem. Int. Ed.
+62
+, e202303267 (2023).
+CAS
+Google Scholar
+Jin, H. et al. Regulating the electronic structure through charge redistribution in dense single-atom catalysts for enhanced alkene epoxidation.
+Nat. Commun.
+14
+, 2494 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Li, Z. et al. Geometric and electronic engineering of atomically dispersed copper–cobalt diatomic sites for synergistic promotion of bifunctional oxygen electrocatalysis in zinc–air batteries.
+Adv. Mater.
+35
+, e2300905 (2023).
+PubMed
+Google Scholar
+Yang, M. et al. Unprecedented relay catalysis of curved Fe
+1
+–N
+4
+single-atom site for remarkably efficient
+1
+O
+2
+generation.
+ACS Catal.
+13
+, 681–691 (2022).
+Google Scholar
+Miao, J. et al. Spin-state-dependent peroxymonosulfate activation of single-atom M–N moieties via a radical-free pathway.
+ACS Catal.
+11
+, 9569–9577 (2021).
+CAS
+Google Scholar
+Shang, Y., Xu, X., Gao, B., Wang, S. & Duan, X. Single-atom catalysis in advanced oxidation processes for environmental remediation.
+Chem. Soc. Rev.
+50
+, 5281–5322 (2021).
+CAS
+PubMed
+Google Scholar
+Xu, L. H., Liu, W. & Liu, K. Single atom environmental catalysis: influence of supports and coordination environments.
+Adv. Funct. Mater.
+33
+, 2304468 (2023).
+CAS
+Google Scholar
+Chen, Y. et al. Atomic-level modulation of electronic density at cobalt single-atom sites derived from metal-organic frameworks: enhanced oxygen reduction performance.
+Angew. Chem. Int. Ed.
+60
+, 3212–3221 (2021).
+CAS
+Google Scholar
+Pei, Z. et al. Atomically dispersed Fe sites regulated by adjacent single Co atoms anchored on N–P co-doped carbon structures for highly efficient oxygen reduction reaction.
+Adv. Mater.
+36
+, e2306047 (2023).
+PubMed
+Google Scholar
+Zhou, X. et al. Identification of Fenton-like active Cu sites by heteroatom modulation of electronic density.
+Proc. Natl Acad. Sci. USA
+119
+, e2119492119 (2022).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zou, Y. et al. Tailoring the coordination environment of cobalt in a single-atom catalyst through phosphorus doping for enhanced activation of peroxymonosulfate and thus efficient degradation of sulfadiazine.
+Appl. Catal. B
+312
+, 121408 (2022).
+CAS
+Google Scholar
+Li, Y. et al. Catalytic activity enhancement by P and S co-doping of a single-atom Fe catalyst for peroxymonosulfate-based oxidation.
+Chem. Eng. J.
+453
+, 139890 (2023).
+CAS
+Google Scholar
+Hu, L. et al. Metal-triazolate-framework-derived FeN
+4
+Cl
+1
+single-atom catalysts with hierarchical porosity for the oxygen reduction reaction.
+Angew. Chem. Int. Ed.
+60
+, 27324–27329 (2021).
+CAS
+Google Scholar
+Wang, Q. et al. Molten NaCl-assisted synthesis of porous Fe–N–C electrocatalysts with a high rensity of catalytically accessible FeN
+4
+active sites and outstanding oxygen reduction reaction performance.
+Adv. Energy Mater.
+11
+, 2100219 (2021).
+CAS
+Google Scholar
+Li, W. H., Yang, J. & Wang, D. Long-range interactions in diatomic catalysts boosting electrocatalysis.
+Angew. Chem. Int. Ed.
+61
+, e202213318 (2022).
+CAS
+Google Scholar
+Xiong, Y. et al. Gram-scale synthesis of high-loading single-atomic-site Fe catalysts for effective epoxidation of styrene.
+Adv. Mater.
+32
+, e2000896 (2020).
+PubMed
+Google Scholar
+Liu, K. et al. Strong metal-support interaction promoted scalable production of thermally stable single-atom catalysts.
+Nat. Commun.
+11
+, 1263 (2020).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Qin, J. et al. Altering ligand fields in single-atom sites through second-shell anion modulation boosts the oxygen reduction reaction.
+J. Am. Chem. Soc.
+144
+, 2197–2207 (2022).
+CAS
+PubMed
+Google Scholar
+Ye, C. et al. Catalytic oxidation of K
+2
+S via atomic Co and pyridinic N synergy in potassium-sulfur batteries.
+J. Am. Chem. Soc.
+143
+, 16902–16907 (2021).
+CAS
+PubMed
+Google Scholar
+Cao, F. et al. Electronegativity matching of asymmetrically coordinated single-atom catalysts for high-performance lithium-sulfur batteries.
+Adv. Energy Mater.
+14
+, 2303893 (2024).
+CAS
+Google Scholar
+Wang, C. et al. Ferric carbide nanocrystals encapsulated in nitrogen-doped carbon nanotubes as an outstanding environmental catalyst.
+Environ. Sci. Nano
+4
+, 170–179 (2017).
+CAS
+Google Scholar
+Zhao, Z. et al. Construction of dual active sites on diatomic metal (FeCo–N/C-
+x
+) catalysts for enhanced Fenton-like catalysis.
+Appl. Catal. B
+309
+, 121256 (2022).
+CAS
+Google Scholar
+Cheng, C. et al. Generation of Fe(IV)=O and its contribution to Fenton-like reactions on a single-atom iron–N–C catalyst.
+Angew. Chem. Int. Ed.
+62
+, e202218510 (2023).
+CAS
+Google Scholar
+Wang, S. & Wang, J. Single atom cobalt catalyst derived from co-pyrolysis of vitamin B
+12
+and graphitic carbon nitride for PMS activation to degrade emerging pollutants.
+Appl. Catal. B
+321
+, 122051 (2023).
+CAS
+Google Scholar
+He, J., Wan, Y. & Zhou, W. ZIF-8 derived Fe‒N coordination moieties anchored carbon nanocubes for efficient peroxymonosulfate activation via non-radical pathways: role of FeN
+x
+sites.
+J. Hazard. Mater
+405
+, 124199 (2021).
+CAS
+PubMed
+Google Scholar
+Zhou, Z. et al. Fe-based single-atom catalysis for oxidizing contaminants of emerging concern by activating peroxides.
+J. Hazard. Mater.
+418
+, 126294 (2021).
+CAS
+PubMed
+Google Scholar
+Yang, M. et al. Unveiling the origins of selective oxidation in single-atom catalysis via Co–N
+4
+–C intensified radical and nonradical pathways.
+Environ. Sci. Technol.
+56
+, 11635–11645 (2022).
+CAS
+PubMed
+Google Scholar
+Guo, J. et al. Fenton-like activity and pathway modulation via single-atom sites and pollutants comediates the electron transfer process.
+Proc. Natl Acad. Sci. USA
+121
+, e2313387121 (2024).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wang, F. et al. Almost 100% electron transfer regime over Fe–Co dual-atom catalyst toward pollutants removal: regulation of peroxymonosulfate adsorption mode.
+Appl. Catal. B
+339
+, 123178 (2023).
+Yang, P. et al. Developing carbon nitride with tailored defect structure for exceptional nonradical activation of peroxymonosulfate.
+Appl. Catal. B
+357
+, 124341 (2024).
+CAS
+Google Scholar
+Zhu, S. et al. Efficient peroxymonosulfate (PMS) activation by visible-light-driven formation of polymorphic amorphous manganese oxides.
+J. Hazard. Mater.
+427
+, 127938 (2022).
+CAS
+PubMed
+Google Scholar
+Yu, X. et al. Enhanced nonradical catalytic oxidation by encapsulating cobalt into nitrogen doped graphene: highlight on interfacial interactions.
+J. Mater. Chem. A
+9
+, 7198–7207 (2021).
+CAS
+Google Scholar
+Yang, Y. et al. Crystallinity and valence states of manganese oxides in Fenton-like polymerization of phenolic pollutants for carbon recycling against degradation.
+Appl. Catal. B
+315
+, 121593 (2022).
+CAS
+Google Scholar
+Mo, F. et al. The optimized Fenton-like activity of Fe single-atom sites by Fe atomic clusters-mediated electronic configuration modulation.
+Proc. Natl Acad. Sci. USA
+120
+, e2300281120 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zhu, Z. S. et al. Atomic-level engineered cobalt catalysts for Fenton-like reactions: synergy of single atom metal sites and nonmetal-bonded functionalities.
+Adv. Mater.
+36
+, e2401454 (2024).
+PubMed
+Google Scholar
+Chen, Z. et al. Unraveling the origin of sulfur-doped Fe–N–C single-atom catalyst for enhanced oxygen reduction activity: effect of iron spin-state tuning.
+Angew. Chem. Int. Ed.
+60
+, 25404–25410 (2021).
+CAS
+Google Scholar
+Li, Y. et al. Local spin-state tuning of iron single-atom electrocatalyst by S-coordinated doping for kinetics-boosted ammonia synthesis.
+Adv. Mater.
+34
+, e2202240 (2022).
+PubMed
+Google Scholar
+Mi, X. et al. Almost 100% peroxymonosulfate conversion to singlet oxygen on single-atom CoN
+2+2
+sites.
+Angew. Chem. Int. Ed.
+60
+, 4588–4593 (2021).
+CAS
+Google Scholar
+Lin, J. et al. The structure-dependent mechanism of single-atom cobalt on macroporous carbon nitride in (photo-)Fenton-like reactions.
+J. Mater. Chem. A
+11
+, 13653–13664 (2023).
+CAS
+Google Scholar
+Cheng, C., Ren, W., Zhang, H., Duan, X. & Wang, S. Single-atom iron catalysts for peroxymonosulfate-based advanced oxidation processes: coordination structure versus reactive species.
+Chin. J. Catal.
+59
+, 15–37 (2024).
+CAS
+Google Scholar
+Zhu, L. et al. Designing 3D-MoS
+2
+sponge as excellent cocatalysts in advanced oxidation processes for pollutant control.
+Angew. Chem. Int. Ed.
+59
+, 13968–13976 (2020).
+CAS
+Google Scholar
+Download references
+Acknowledgements
+We acknowledge the financial support from the Australian Research Council (FT230100526 to X.D., FL230100178 to S.W. and DP230102406 to X.D.). Part of this research was undertaken on the X-ray absorption spectroscopy beamline, soft X-ray spectroscopy beamline and infrared microspectroscopy beamline at the Australian Synchrotron, part of ANSTO.
+Author information
+Author notes
+These authors contributed equally: Zhong-Shuai Zhu, Yantao Wang.
+Authors and Affiliations
+School of Chemical Engineering, The University of Adelaide, Adelaide, South Australia, Australia
+Zhong-Shuai Zhu, Yantao Wang, Pengtang Wang, Shuang Zhong, Kunsheng Hu, Shiying Ren, Xiaoguang Duan & Shaobin Wang
+State Key Laboratory of Applied Organic Chemistry, College of Chemistry and Chemical Engineering, Lanzhou University, Lanzhou, China
+Yantao Wang
+Infrared Microspectroscopy Beamline, ANSTO Australian Synchrotron, Clayton, Victoria, Australia
+Jitraporn Pimm Vongsvivut
+School of Molecular Sciences, The University of Western Australia, Perth, Western Australia, Australia
+Hongqi Sun
+Authors
+Zhong-Shuai Zhu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yantao Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Pengtang Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shuang Zhong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kunsheng Hu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shiying Ren
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jitraporn Pimm Vongsvivut
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hongqi Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaoguang Duan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shaobin Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Z.-S.Z. and X.D. designed the research. Z.-S.Z. completed most of the experiments and wrote the paper. Y.W. carried out theoretical calculations and analysis. S.Z., K.H., S.R. and J.P.V. helped with characterizations. P.W., X.D. and S.W. further modified the paper. H.S., X.D. and S.W. supervised the project. All authors discussed the results and commented on the paper.
+Corresponding authors
+Correspondence to
+Xiaoguang Duan
+or
+Shaobin Wang
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Water
+thanks Mingce Long and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary methods, Figs. 1–73, Tables 1–6 and references.
+Source data
+Source Data Figs. 1–5
+All source data for Figs. 1–5.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Zhu, ZS., Wang, Y., Wang, P.
+et al.
+Multidimensional engineering of single-atom cobalt catalysts for ultrafast Fenton-like reactions.
+Nat Water
+3
+, 211–221 (2025). https://doi.org/10.1038/s44221-024-00382-8
+Download citation
+Received
+:
+09 July 2024
+Accepted
+:
+16 December 2024
+Published
+:
+22 January 2025
+Issue Date
+:
+February 2025
+DOI
+:
+https://doi.org/10.1038/s44221-024-00382-8
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Scalable single-atom catalysts for cost-effective Fenton-like oxidation
+Xue Li
+Mingce Long
+Nature Water
+News & Views
+22 Jan 2025
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+Our publishing models
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Water
+(
+Nat Water
+)
+ISSN
+2731-6084
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

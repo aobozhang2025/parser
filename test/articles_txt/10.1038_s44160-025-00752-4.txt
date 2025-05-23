@@ -1,0 +1,3839 @@
+Electrocatalytic CO2 hydrogenation to C2+ alcohols catalysed by Pr–Cu oxide heterointerfaces | Nature Synthesis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature synthesis
+articles
+article
+Electrocatalytic CO
+2
+hydrogenation to C
+2+
+alcohols catalysed by Pr–Cu oxide heterointerfaces
+Download PDF
+Article
+Published:
+13 March 2025
+Electrocatalytic CO
+2
+hydrogenation to C
+2+
+alcohols catalysed by Pr–Cu oxide heterointerfaces
+Jiyuan Liu
+ORCID:
+orcid.org/0009-0007-5186-0296
+1
+,
+2
+,
+Pengsong Li
+ORCID:
+orcid.org/0000-0002-5255-6268
+1
+,
+2
+,
+Shuaiqiang Jia
+3
+,
+Yong Wang
+1
+,
+2
+,
+Lihong Jing
+ORCID:
+orcid.org/0000-0001-6115-2743
+1
+,
+2
+,
+Zhimin Liu
+1
+,
+2
+,
+Jianling Zhang
+1
+,
+2
+,
+Qingli Qian
+ORCID:
+orcid.org/0000-0002-1142-8948
+1
+,
+2
+,
+Xinchen Kang
+ORCID:
+orcid.org/0000-0003-0593-0840
+1
+,
+2
+,
+Xiaofu Sun
+ORCID:
+orcid.org/0000-0003-3044-0106
+1
+,
+2
+,
+Qinggong Zhu
+ORCID:
+orcid.org/0000-0001-8730-8486
+1
+,
+2
+&
+…
+Buxing Han
+ORCID:
+orcid.org/0000-0003-0440-809X
+1
+,
+2
+,
+3
+Show authors
+Nature Synthesis
+(
+2025
+)
+Cite this article
+3044
+Accesses
+1
+Citations
+23
+Altmetric
+Metrics
+details
+Subjects
+Electrocatalysis
+Abstract
+Efficient production of C
+2+
+alcohols from the electrochemical CO
+2
+reduction reaction (CO
+2
+RR) is of great interest. However, the CO
+2
+RR to C
+2+
+alcohols has low selectivity and current density due to competing C
+2+
+pathways that produce ethylene (C
+2
+H
+4
+). Here we report a stepwise precipitation and stepwise calcination strategy to create Pr–Cu oxide heterointerfaces (Pr
+6
+O
+11
+–Cu-SS) that produces an efficient CO
+2
+RR to C
+2+
+alcohols. Pr
+6
+O
+11
+–Cu-SS exhibited high productivity and Faradaic efficiency (FE) for C
+2+
+alcohols. At −1.08 V versus RHE, the current density and FE of C
+2+
+alcohols reached 700 mA cm
+−2
+and 71.3%, respectively, with the FEs of ethanol and
+n
+-propanol reaching 58.6% and 12.7%, respectively, under these conditions. The C
+2+
+alcohols/C
+2
+H
+4
+ratio was as high as 12:1. Experimental and theoretical studies indicated that the performance of the catalyst results from the existence of a Pr
+4+
+/Pr
+3+
+structure in Pr
+6
+O
+11
+–Cu-SS, which is able to effectively stabilize Cu
+δ+
+/Cu
+0
+via a unique Pr–O–Cu linkage and form stable oxide heterointerfaces. The binding strength and binding type of *CO were then altered on the heterointerfaces to form a mixed adsorption configuration, which induces asymmetric carbon–carbon coupling and selective hydrodeoxygenation to promote the generation of C
+2+
+alcohols.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Copper/alkaline earth metal oxide interfaces for electrochemical CO
+2
+-to-alcohol conversion by selective hydrogenation
+Article
+24 November 2022
+Low-coordinated copper facilitates the *CH
+2
+CO affinity at enhanced rectifying interface of Cu/Cu
+2
+O for efficient CO
+2
+-to-multicarbon alcohols conversion
+Article
+Open access
+18 June 2024
+Steering surface reconstruction of copper with electrolyte additives for CO
+2
+electroreduction
+Article
+Open access
+07 June 2022
+Main
+The production of fuels and chemicals from the electrochemical CO
+2
+reduction reaction (CO
+2
+RR) using renewable electricity is a sustainable process, thereby alleviating dependence on fossil resources. Multicarbon products, especially C
+2+
+alcohols, such as ethanol (C
+2
+H
+5
+OH) and
+n
+-propanol (
+n
+-C
+3
+H
+7
+OH), have high energy densities and can be fully integrated with current infrastructure
+1
+,
+2
+. To date, the primary challenges of using the electrocatalytic CO
+2
+RR to produce C
+2+
+alcohols are the low selectivity due to competing reactions in the C
+2+
+pathway that produce ethylene (C
+2
+H
+4
+)
+3
+,
+4
+,
+5
+. For example, in the CO
+2
+RR to C
+2
+H
+5
+OH, both C
+2
+H
+5
+OH and C
+2
+H
+4
+are 12-electron reduction products and share the carbon–carbon coupling step and the reaction intermediate
+6
+,
+7
+,
+8
+,
+9
+,
+10
+. Compared with C
+2
+H
+4
+, C
+2
+H
+5
+OH has a more saturated molecular structure, and the subsequent intermediates are more difficult to stabilize on the surface of pure copper catalysts. The production of C
+2
+H
+5
+OH also requires retaining at least one C–O bond in the shared intermediate with C
+2
+H
+4
+, whereas conventional copper-based catalysts typically promote hydrogenation towards the oxygen atom, ultimately facilitating the cleavage of the C–O bond and yielding C
+2
+H
+4
+(refs.
+11
+,
+12
+,
+13
+,
+14
+). Consequently, the difficulties in retaining the C–O bond of intermediates make the production of C
+2
+H
+5
+OH challenging to compete with that of C
+2
+H
+4
+. As a result, the yield of C
+2
+H
+5
+OH is usually about 2–3 times lower than that of C
+2
+H
+4
+using conventional copper-based catalysts
+15
+,
+16
+,
+17
+.
+Improved selectivity of C
+2+
+alcohol production can be achieved through the design and optimization of copper-based catalysts to improve the carbon–carbon coupling process
+18
+,
+19
+. Several catalyst design strategies have been developed, including surface modification and regulation
+20
+, hybridization and defect engineering
+21
+,
+22
+,
+23
+,
+24
+. Although these strategies have met with some success
+9
+,
+25
+,
+26
+,
+27
+,
+28
+, progress in developing robust catalysts for C
+2+
+alcohol production is limited. The challenge remains to enhance C
+2+
+alcohol selectivity and current density, especially under large current electrolysis conditions. Due to the high complexity of CO
+2
+reduction to C
+2+
+alcohols, the major bottleneck in catalyst design is the creation of controllable and stable asymmetric sites and, ultimately, the need to guide the reaction pathway.
+Rare earth (RE) elements, with their distinctive electronic structures containing 4
+f
+electrons and unfilled 5
+d
+orbitals, have attracted great interest due to the range of electronic control they offer
+29
+. When used as electronic modifiers for transition-metal-based active materials, REs can precisely regulate the electron density of adjacent atoms and improve their stability
+30
+,
+31
+,
+32
+. In addition, the large ionic radius of REs can lead to defects, dislocations and twisting strains in the microstructure of composite active components, which favours the formation of asymmetric active sites, and hence facilitates interactions with adsorbed intermediates to tune the electrocatalytic performance
+32
+,
+33
+,
+34
+. Consequently, the development of RE–transition-metal-based catalysts based on structural design may in principle modulate the CO
+2
+RR activity and the reaction pathway.
+Here we designed a series of RE-based RO
+x
+–Cu (R = La, Ce, Sm, Pr, for example) catalysts to construct RE–copper oxide heterointerfaces, which can promote a highly efficient CO
+2
+RR to C
+2+
+alcohols at high current density. In particular, the Pr
+6
+O
+11
+-Cu electrocatalyst prepared by a stepwise precipitation and stepwise calcination method (Pr
+6
+O
+11
+–Cu-SS) exhibited high C
+2+
+alcohol selectivity. The Faradaic efficiency (FE) of the C
+2+
+alcohols could reach 71.3% with a current density as high as 700 mA cm
+−2
+at an applied potential of −1.08 V versus RHE (reversible hydrogen electrode), and the FEs of C
+2
+H
+5
+OH and
+n
+-C
+3
+H
+7
+OH were 58.6% and 12.7%, respectively. Under these conditions, the FE of C
+2
+H
+4
+was approximately 6.0% and the C
+2+
+alcohol/C
+2
+H
+4
+ratio was as high as 12:1. A combination of in situ analyses and theoretical studies suggests that the Pr
+4+
+/Pr
+3+
+structure in Pr
+6
+O
+11
+–Cu-SS is able to dynamically stabilize the Cu
+δ+
+/Cu
+0
+via a unique Pr–O–Cu linkage and form stable oxide heterointerfaces under CO
+2
+RR conditions. The binding strength and binding type of *CO were altered on the heterointerfaces to form a mixed adsorption configuration, which induced asymmetric carbon–carbon coupling and stabilized the reaction intermediates of the C
+2+
+alcohols, leading to the C
+2+
+alcohol pathway and inhibiting the C
+2
+H
+4
+pathway.
+Results and discussion
+To construct RE–copper oxide heterointerfaces, we fabricated a series of RO
+x
+–Cu (R = La, Ce, Sm, Pr) catalysts. Figure
+1a
+shows the process for the preparation of Pr
+6
+O
+11
+–Cu-SS catalysts, which were synthesized by a stepwise precipitation–calcination strategy using anhydrous copper(II) acetate and praseodymium(III) acetate hydrate as raw materials. We also prepared Pr
+6
+O
+11
+–Cu catalysts using different strategies: the catalyst synthesized by a co-precipitation and stepwise calcination strategy was denoted as Pr
+6
+O
+11
+–Cu-CS (Supplementary Fig.
+1
+), and the Pr
+6
+O
+11
+–Cu catalyst synthesized by a stepwise precipitation and co-calcination strategy was denoted as Pr
+6
+O
+11
+–Cu-SC (Supplementary Fig.
+2
+). CuO nanoparticles and Pr
+6
+O
+11
+were also synthesized as comparison samples. The real weight ratios of copper and praseodymium in the as-synthesized Pr
+6
+O
+11
+–Cu catalysts were determined by inductively coupled plasma optical emission spectroscopy (ICP-OES) (Supplementary Table
+1
+and Supplementary Fig.
+3
+), which indicates that the mole ratios of copper to praseodymium in different catalysts are similar to the starting precursors.
+Fig. 1: Synthesis and electron microscopic analysis of the Pr
+6
+O
+11
+–Cu-SS catalyst.
+a
+, Process for the preparation of Pr
+6
+O
+11
+–Cu-SS catalyst.
+b
+, SEM image of the Pr
+6
+O
+11
+–Cu-SS catalyst.
+c
+, TEM image of the Pr
+6
+O
+11
+–Cu-SS catalyst.
+d
+, Over-focus TEM image of the Pr
+6
+O
+11
+–Cu-SS catalyst. Slight over-focusing of this image is used to highlight the dislocation structures (marked by red circles) in Pr
+6
+O
+11
+–Cu-SS.
+e
+, High-angle annular dark-field scanning transmission electron microscopy images of Pr
+6
+O
+11
+–Cu-SS catalyst.
+f
+, Energy-dispersive X-ray spectroscopy mapping of Pr
+6
+O
+11
+–Cu-SS.
+g
+, Crystal phases, defects and lattice distortion images of Pr
+6
+O
+11
+–Cu-SS catalyst.
+Full size image
+To explore the influence of preparation method on the catalysts, we first examined the phase compositions of the Pr
+6
+O
+11
+–Cu-SS, Pr
+6
+O
+11
+–Cu-CS and Pr
+6
+O
+11
+–Cu-SC catalysts by powder X-ray diffraction (Supplementary Fig.
+4
+). The results show that in Pr
+6
+O
+11
+–Cu-SS (raw), copper exists in the form of CuO, and praseodymium exists in the form of Pr
+6
+O
+11
+. The CuO crystalline phase is affected by the surrounding Pr
+6
+O
+11
+and the diffraction peaks at (002) and (111) are shifted compared to the standards, suggesting that there exists a strong interaction between copper and praseodymium. No crystal phase related to copper is observed in Pr
+6
+O
+11
+–Cu-CS, and praseodymium species only exist in the Pr
+6
+O
+11
+phase, indicating a good dispersion of copper species on Pr
+6
+O
+11
+. The detection of Pr
+6
+O
+11
+–Cu-SC shows that copper exists only in a small amount of PrCu
+2
+O
+4
+, whereas praseodymium is mainly present as Pr
+6
+O
+11
+.
+Scanning electron microscopy (SEM) shows that the Pr
+6
+O
+11
+–Cu-CS electrocatalyst exhibited a flat rhombic laminar structure, whereas the Pr
+6
+O
+11
+–Cu-SC electrocatalyst exhibited a polyphase and fine laminar structure (Supplementary Fig.
+5a,b
+). Among the catalysts, the Pr
+6
+O
+11
+–Cu-SS electrocatalyst showed a three-dimensional loose and porous spherical structure with a smaller dimension on its nanostructure (Fig.
+1b
+and Supplementary Fig.
+5c
+). The morphological and structural information was further studied by transmission electron microscopy (TEM). As shown in Fig.
+1c,d
+, TEM images of Pr
+6
+O
+11
+–Cu-SS presented a semi-open or closed spherical structure, along with a rich dislocation structure. High-angle annular dark-field scanning transmission electron microscopy reveals that in the Pr
+6
+O
+11
+–Cu-SS catalyst, CuO particles were widely distributed in the three-dimensional structure with a size distribution of 3–10 nm and abundant defect sites (Fig.
+1e
+and Supplementary Fig.
+6
+). Energy-dispersive X-ray spectroscopy (EDS) mapping analysis further confirmed the homogeneous dispersion of praseodymium and oxygen in Pr
+6
+O
+11
+–Cu-SS catalyst, with copper being embedded among the praseodymium–oxygen species in the form of numerous small nanoparticles (Fig.
+1f
+). The lattice fringes with interplanar spacings of
+∼
+0.32 nm and
+∼
+0.23 nm could be ascribed to the (111) plane of Pr
+6
+O
+11
+and the (111) plane of CuO, respectively (Fig.
+1g
+). This suggests that copper is present in the form of CuO (111) on polycrystalline Pr
+6
+O
+11
+(111) to form praseodymium oxide–copper heterointerfaces with a large number of defects and lattice distortions. This was further confirmed by the electron paramagnetic resonance spectra of different samples, which were collected at room temperature (Supplementary Fig.
+7
+). As compared to CuO and Pr
+6
+O
+11
+, the typical signal appearing at
+g
+= 2.004 is due to the unpaired electrons trapped by oxygen vacancies (O
+vac
+), suggesting a much higher O
+vac
+content in the Pr
+6
+O
+11
+–Cu-SS catalyst
+35
+,
+36
+.
+Unlike the Pr
+6
+O
+11
+–Cu-SS catalyst, only the Pr
+6
+O
+11
+(111) crystal phase was observed in the co-precipitated Pr
+6
+O
+11
+–Cu-CS catalyst, and a copper crystal phase did not exist (Supplementary Fig.
+8a
+). The (111) crystal phase of Pr
+6
+O
+11
+and a small amount of the (103) crystal phase of Pr
+2
+CuO
+4
+appeared in the Pr
+6
+O
+11
+–Cu-SC catalyst prepared only by co-calcination (Supplementary Fig.
+8b
+). These results indicate that the stepwise precipitation process can effectively stabilize copper, allowing it to interact with praseodymium oxide. The stepwise calcination process can remove the heterogeneous phase generated in the stepwise precipitation, ensuring uniform and high-efficiency active sites. Therefore, the Pr
+6
+O
+11
+–Cu-SS catalyst prepared by our stepwise precipitation–calcination strategy has highly dispersed and abundant heterointerfaces as the active sites for the electrocatalytic CO
+2
+RR.
+The performance of the Pr
+6
+O
+11
+–Cu-SS catalyst in the CO
+2
+RR was tested in a flow cell, in which 1 M KOH was used as the electrolyte and the catalyst was loaded onto a polytetrafluoroethylene (PTFE)-hydrophobized carbon fibre paper gas diffusion layer (Supplementary Fig.
+9
+). Before performing the CO
+2
+RR, the catalyst was first reduced at an applied potential of −0.3 V versus RHE for 5 min to eliminate oxidation by air. Linear sweep voltammetry was conducted in a potential range of 0 V to −1.5 V versus RHE. As shown in Supplementary Fig.
+10
+, the Pr
+6
+O
+11
+–Cu-SS catalyst exhibited a superior current density response and a more positive reduction potential than those of CuO and Pr
+6
+O
+11
+, indicating an active behaviour of praseodymium–copper catalytic sites towards the electrochemical reaction
+37
+,
+38
+. The electrochemical CO
+2
+RR performance of the as-prepared catalyst was then investigated by electrolysis of CO
+2
+at different applied current densities ranging from 100 to 900 mA cm
+−2
+(Fig.
+2a
+and Supplementary Fig.
+11
+). The gaseous and liquid products were detected using gas chromatography and
+1
+H NMR spectroscopy (Supplementary Figs.
+12
+–
+15
+and Supplementary Table
+2
+), respectively. As the current density increased from 100 to 700 mA cm
+−2
+, the FE of C
+2
+H
+5
+OH gradually increased. At the same time, the FE of H
+2
+and C
+1
+products was suppressed to less than 20%. When the current density reached 700 mA cm
+−2
+, the FE of C
+2+
+alcohols was as high as 71.3% at −1.08 V versus RHE; the FEs of C
+2
+H
+5
+OH and
+n
+-C
+3
+H
+7
+OH reached 58.6% and 12.7%, respectively. In addition, at −1.02 V versus RHE, the current density was 600 mA cm
+−2
+, and the FEs of C
+2
+H
+5
+OH and
+n
+-C
+3
+H
+7
+OH were 65.5% and 5.7%, respectively, showing that the FE of C
+2
+H
+5
+OH was high. The concentrations of generated C
+2
+H
+5
+OH and
+n
+-C
+3
+H
+7
+OH in the cathode electrolyte were 42.5 mmol l
+−1
+and 6.1 mmol l
+−1
+per hour after electrolysis at 700 mA cm
+−2
+, respectively (Supplementary Fig.
+16
+). To take into account the carbonate formation in alkaline solutions, we also calculated the single-pass carbon efficiency (SPCE) of CO
+2
+RR to evaluate the carbon loss during CO
+2
+feeding. The total SPCE of CO
+2
+RR generally exhibited a continuous growth trend as the current density increased, and reached its maximum at 700 mA cm
+−2
+(3.2%) (Supplementary Fig.
+17a
+). By progressively varying the flow rate of CO
+2
+, we achieved a total SPCE of 44.8% at 2 sccm and 700 mA cm
+−2
+, in which 36.5% of the CO
+2
+introduced at the inlet was converted to C
+2+
+alcohols (Supplementary Figs.
+17b
+and
+18
+). Additionally, the presence of liquid crossover species in the anode during the CO
+2
+RR was analysed (Supplementary Note
+1
+) and examined using
+1
+H NMR spectra (Supplementary Fig.
+19
+), and showed negligible amounts of liquid crossover products even after collecting the catholyte from three parallel CO
+2
+RR experiments. Isotopic labelling experiments were carried out using
+13
+CO
+2
+and the results are shown in Supplementary Figs.
+20
+and
+21
+. A representative
+1
+H NMR spectrum (Supplementary Fig.
+20
+) for
+13
+CO
+2
+RR shows the expected peak splitting (
+J
+C–H
+coupling) under a
+13
+CO
+2
+atmosphere. Together with the representative
+13
+C NMR results (Supplementary Fig.
+21
+), this further confirms that the C
+2
+H
+5
+OH and
+n
+-C
+3
+H
+7
+OH products were formed solely from CO
+2
+.
+Fig. 2: Electrochemical CO
+2
+RR performance.
+a
+, Current-density-dependent CO
+2
+RR performance of the Pr
+6
+O
+11
+–Cu-SS catalyst in 1 M KOH. Data are presented as mean ± s.d. (
+n
+= 3), with the error bars representing the s.d.
+b
+, The FEs of products on the Pr
+6
+O
+11,
+Pr
+6
+O
+11
+–Cu-CS, Pr
+6
+O
+11
+–Cu-SS, Pr
+6
+O
+11
+–Cu-SC and CuO catalysts at 700 mA cm
+−2
+in 1 M KOH. Data are presented as mean ± s.d. (
+n
+= 3), with the error bars representing the s.d.
+c
+, The FEs of products on the PrO
+x
+–Cu-SS catalysts with different feeding ratios at 700 mA cm
+−2
+in 1 M KOH. Data are presented as mean ± s.d. (
+n
+= 3), with the error bars representing the s.d.
+d
+, The partial current densities and FE ratios (C
+2
+H
+5
+OH/C
+2
+H
+4
+and
+n
+-C
+3
+H
+7
+OH/C
+2
+H
+4
+) of Pr
+6
+O
+11
+–Cu-SS catalysts under different potentials.
+e
+, A comparison of the CO
+2
+RR performance on the as-synthesized RE–copper and noble metal–copper catalysts at 700 mA cm
+−2
+in 1 M KOH. Data are presented as mean ± s.d. (
+n
+= 3), with the error bars representing the s.d. The horizontal dashed line highlights that the Pr–Cu catalyst achieved the highest FE ratio of approximately 11.9 for C
+2
++
+alcohols/ethylene. The purple and yellow shaded areas represent the elemental mapping regions of rare earth elements and noble metal elements, respectively. The red labellings on the
+x
+axis of
+a
+–
+c
+,
+e
+represent the optimal current density, catalyst, Cu:Pr feeding ratio and introduced element for efficient C
+2
++
+alcohol production, respectively.
+f
+, Long-term stability test on the Pr
+6
+O
+11
+–Cu-SS catalyst at 700 mA cm
+−2
+in 1 M KOH. The details of the data sets are provided in Supplementary Table
+2
+.
+Source data
+Full size image
+We also tested other catalysts, including Pr
+6
+O
+11
+, Pr
+6
+O
+11
+–Cu-CS, Pr
+6
+O
+11
+–Cu-SC and CuO, and compared their CO
+2
+RR performances at a current density of 700 mA cm
+−2
+(Fig.
+2b
+and Supplementary Figs.
+22
+–
+24
+). According to the product distribution, the major products of Pr
+6
+O
+11
+and CuO catalysts were H
+2
+and C
+2+
+products, respectively. For Pr
+6
+O
+11
+–Cu-CS and Pr
+6
+O
+11
+–Cu-SC catalysts, the C
+2+
+alcohol FEs were all below 10%, which was much lower than that of Pr
+6
+O
+11
+–Cu-SS catalyst, indicating that the composition and structure of the catalysts had a substantial impact on the reaction pathway. Subsequently, we further studied the effects of composition in Pr
+6
+O
+11
+–Cu-SS catalyst on the reaction, with the results shown in Supplementary Table
+1
+and Fig.
+2c
+. Compared with the as-synthesized CuO catalyst (Fig.
+2b
+), the introduction of even a small amount of praseodymium species has been demonstrated to enhance the selectivity of multicarbon products (Fig.
+2c
+), a finding that is attributed to the formation of a Pr
+2
+CuO
+4
+–CuO heterointerface (Supplementary Figs.
+25
+). This composite structure, formed from an RE and copper, has been proved capable of modulating the orbital and electronic properties of copper, thereby facilitating the carbon–carbon coupling process
+39
+,
+40
+. When the Cu/Pr ratio was 9:1, the main product was C
+2
+H
+4
+, and the FE of C
+2+
+alcohols increased with the increase in praseodymium content. However, with a further increase in praseodymium content, the FE and selectivity of both alcohols and C
+2
+H
+4
+declined. The C
+2+
+alcohol/C
+2
+H
+4
+FE ratio could be adjusted from 0.5 to 11.8 when the Cu/Pr ratio changed from 9:1 to 1:4, indicating that the C
+2+
+selectivity could be switched by changing the composition of the catalysts. A further decrease in the feeding ratio from 1:4 to 1:9 led to a dramatic decrease in the FE of the alcohols, which can be attributed to excessive dispersion of copper and a sharp decrease in the synergistic ability between copper atoms (Supplementary Figs.
+25
+–
+27
+), resulting in a weakened catalytic performance for the carbon–carbon coupling pathway. We also determined the FE ratios of C
+2
+H
+5
+OH/C
+2
+H
+4
+and
+n
+-C
+3
+H
+7
+OH/C
+2
+H
+4
+of the Pr
+6
+O
+11
+–Cu-SS catalyst at different potentials. As depicted in Fig.
+2d
+and Supplementary Fig.
+28
+, the modulation ratios for the selectivity and the partial current density of C
+2
+H
+5
+OH and
+n
+-C
+3
+H
+7
+OH to C
+2
+H
+4
+reached a maximum at a potential of −1.08 V versus RHE. In addition, we conducted double-layer capacitance (
+C
+dl
+) measurements to estimate the electrochemical active surface area (ECSA) of the catalysts (Supplementary Fig.
+29
+and Supplementary Table
+3
+), and found that Pr
+6
+O
+11
+–Cu-SS had a larger ECSA than other reference catalysts. The electrochemical activities of the CuO, Pr
+6
+O
+11
+and Pr
+6
+O
+11
+–Cu-SS catalysts were also compared in terms of their ECSAs: Pr
+6
+O
+11
+–Cu-SS had the highest ECSA-normalized
+j
+ethanol
+of 22.6 mA cm
+−2
+and
+j
+n
+-propanol
+of 5.4 mA cm
+−2
+(Supplementary Figs.
+30
+and
+31
+). The results indicate that the interaction between copper and praseodymium could enhance the kinetics of the CO
+2
+RR to alcohols by generating more active sites and improving the inherent activity of the catalyst.
+We also fabricated other RE-based RO
+x
+–Cu (for example, R = La, Ce, Sm) and noble-metal-based NO
+x
+–Cu (N = Pd, Ag, Au) catalysts prepared using similar procedures as that used fo Pr
+6
+O
+11
+–Cu-SS catalyst, in which the feeding ratio of Cu/RE was 1:4 (Supplementary Tables
+4
+and
+5
+). The electrolysis results (Fig.
+2e
+) showed that the RO
+x
+-Cu catalysts had higher selectivity for C
+2+
+products compared with the NO
+x
+–Cu catalysts. Among these, the Pr
+6
+O
+11
+–Cu-SS catalyst displayed the highest selectivity for C
+2+
+alcohols, while the Er
+2
+O
+3
+–Cu catalyst had the highest selectivity for C
+2
+H
+4
+. Furthermore, similar structural evolutions were observed in other RE–Cu catalysts during the same synthesis processes as used for Pr–Cu catalysts, when using Ce–Cu and Nd–Cu catalysts as typical examples (Supplementary Figs.
+32
+and
+33
+). In addition, Supplementary Fig.
+34
+reveals that the CeO
+2
+–Cu-SS and Nd
+2
+O
+3
+–Cu-SS catalysts synthesized by the stepwise precipitation–calcination method achieved the highest efficiency for multicarbon products (60.6% and 50.0%, respectively) compared with those synthesized by the other two methods. These results demonstrated that the well-designed precipitation and calcination strategy is universal for the preparation of RE–Cu catalysts with similar heterostructures and can generally optimize CO
+2
+RR performance (Supplementary Note
+2
+).
+A long-term stability test of the Pr
+6
+O
+11
+–Cu-SS catalyst was carried out at a current density of 700 mA cm
+−2
+and representative
+1
+H NMR spectra are shown in Supplementary Fig.
+35
+. Figure
+2f
+shows that the FE of C
+2
+H
+5
+OH exhibited a slight decline after a 12-h reaction, whereas the FE of
+n
+-C
+3
+H
+7
+OH slightly increased during the reaction. The pH of the bulk solution has been known to affect the performance of the catalysts
+41
+,
+42
+. As shown in Supplementary Fig.
+36
+, the pH variation of the bulk electrolyte was measured using a pH meter. During the 12-h stability test, the pH value decreased quickly during the first 30 min, from about 13.9 to 13.3, and then decreased slowly, and eventually stabilized at 12.7 after about 10 h. A systematic comparison with the state-of-the-art catalysts
+14
+,
+21
+,
+22
+,
+24
+,
+26
+,
+43
+,
+44
+,
+45
+,
+46
+,
+47
+,
+48
+,
+49
+,
+50
+,
+51
+,
+52
+indicated that Pr
+6
+O
+11
+–Cu-SS was a very efficient electrocatalyst for CO
+2
+to C
+2+
+alcohols and could reach a high FE and current density simultaneously (Supplementary Table
+6
+). In addition, we noted that some non-copper-based electrocatalysts (such as iron- and nickel-based catalysts) can also achieve carbon–carbon coupling efficiently
+53
+and generate ethanol with high selectivity
+54
+. This inspired us to further combine these active metals with RE metals to construct multimetal heterostructures that can jointly promote the selective production of C
+2+
+products/C
+2+
+alcohols through hybrid reaction mechanisms
+53
+,
+54
+.
+The structural features of the Pr–Cu catalytic sites were investigated using a combination of typical microscopic and spectroscopic techniques. Supplementary Fig.
+37
+shows the high-resolution TEM image of the Pr
+6
+O
+11
+–Cu-SS catalyst after the CO
+2
+RR, which confirmed the existence of abundant Cu (111) and Pr
+6
+O
+11
+(111) crystal phases. This suggests that CuO (111) was reduced and transformed into Cu (111), and that the relative position of the Pr
+6
+O
+11
+and Cu sites did not noticeably change. In addition, X-ray photoelectron spectroscopy (XPS) characterization was conducted for further comparison. As shown in Supplementary Fig.
+38
+, the O 1
+s
+signals in the XPS analysis could be broadly deconvoluted to three peaks at 528.5–530.9, 531.0–531.9 and 532.0–533.5 eV, representing the presence of lattice oxygen (O
+lat
+), vacancy oxygen (O
+vac
+) and adsorbed oxygen (O
+ads
+) species in Pr
+6
+O
+11
+–Cu-SS raw catalyst, respectively. This indicates that the abundant O
+vac
+in Pr
+6
+O
+11
+–Cu-SS raw catalyst originate from the praseodymium oxide. Comprehensive XPS analysis (Supplementary Fig.
+39
+and Supplementary Table
+7
+) further showed that the optimal Cu/Pr ratio (1:4 in this case) is essential for obtaining sufficient interfacial active regions and O
+vac
+concentrations to effectively promote ethanol production. In addition, the increasing O
+vac
+content on the surface of the Pr
+6
+O
+11
+–Cu-SS (stab, the stable state during the CO
+2
+RR) catalyst was attributed to the partial reduction of Pr
+4+
+and Cu
+2+
+species, and to the adsorption of CO
+2
+/CO
+3
+2−
+near O
+vac
+to form metastable Pr
+x
+O
+y
+(CO
+3
+)
+z
+(refs.
+55
+,
+56
+,
+57
+,
+58
+). Compared with other RE–Cu catalysts, the Pr–Cu catalyst exhibited the highest number of oxygen vacancies, confirming the role of oxygen vacancies in regulating the reaction pathway (Supplementary Fig.
+40
+and Supplementary Table
+7
+). Integrated differential phase-contrast STEM has been proven effective for imaging these atom vacancies, especially in the study of light elements such as carbon, nitrogen, oxygen and sulfur
+59
+. Because the Pr
+6
+O
+11
+(111) crystal face exhibited a significant overlap between the arrays of praseodymium and oxygen atoms (Supplementary Fig.
+41a–d
+), which cannot be used to discuss the presence of oxygen vacancies, we then conducted Integrated differential phase-contrast STEM analysis on the cross-section perpendicular to the Pr
+6
+O
+11
+(111) crystal face and on the Pr
+6
+O
+11
+(200) crystal face with the second highest frequency (Supplementary Fig.
+41e–l
+). Both of these showed obvious intensity profile differences in arrays of oxygen atoms, revealing the prevalence of oxygen vacancies in the main crystal faces of Pr
+6
+O
+11
+. In addition, composite defects were also observed in the Pr
+6
+O
+11
+–Cu-SS (stab) catalyst (Supplementary Fig.
+41m–o
+). Additionally, the structure changes of the catalyst before and after the stability test were characterized using SEM, TEM and XPS analysis (Supplementary Figs.
+42
+–
+44
+). These analyses revealed that the Pr
+6
+O
+11
+–Cu-SS catalyst underwent a rapid interfacial reconstruction and then remained in its stable state during the long-term stability test, while always maintaining a consistent surface morphology (Supplementary Figs.
+37
+,
+42
+and
+43
+). The ICP-OES measurements indicated that the leaching of the catalyst was not considerable (Supplementary Fig.
+45
+), in agreement with the almost unchanged catalyst layer observed in the cross-sectional SEM image of the electrode before and after the long-term reaction (Supplementary Fig.
+42c,d
+). These results further confirm the high stability of the deposited catalyst during the 12-h reaction.
+Using X-ray absorption fine spectroscopy (XAFS) analysis, we further analysed the electronic and coordination structure of the Pr
+6
+O
+11
+–Cu-SS raw catalyst (Supplementary Fig.
+46
+). The X-ray absorption near-edge structure (XANES) spectra at the Cu K edge (Fig.
+3a
+) showed that the valence state of copper in Pr
+6
+O
+11
+–Cu-SS was less than +2, indicating the electron transfer relationship between copper and praseodymium. In addition to the first-shell Cu–O and outer-shell Cu–(O)–Cu bonds, the
+k
+3
+-weighted Fourier-transformed extended X-ray absorption fine structure (
+k
+3
+-FT EXAFS) R-space spectra at the Cu K edge showed the presence of a Cu–(O)–Pr bond at 3-3.3 Å in Pr
+6
+O
+11
+–Cu-SS compared with the CuO and Pr
+2
+CuO
+4
+references (Fig.
+3b
+). The XANES spectra at the Pr L
+3
+edge showed that the valence state of the praseodymium in Pr
+6
+O
+11
+–Cu-SS was between +3 and +4 (Fig.
+3c
+). The EXAFS results further confirmed the existence of bonding between praseodymium and oxygen in the first and outer shells. Pr–O and Pr–(O)–Pr/Cu peaks were observed in the
+k
+3
+-FT EXAFS R-space spectra, but no obvious metal–metal bonds were observed (Fig.
+3d
+), suggesting that praseodymium in the catalyst is distributed in the form of Pr–O–Pr (Pr–(O)–Pr at 3.4–3.9 Å) and Pr–O–Cu (Pr–(O)–Cu at
+∼
+3 Å).
+Fig. 3: Spectroscopic characterization.
+a
+,
+b
+, The XANES spectra (
+a
+) and the corresponding
+k
+3
+-FT EXAFS R-space spectra (
+b
+) of Pr
+6
+O
+11
+–Cu-SS and its references at the Pr L
+3
+edge.
+χ
+is defined phenomenologically as the normalized, oscillatory part of the X-ray absorption above a given absorption edge;
+R
+is the interatomic distance.
+c
+,
+d
+, The XANES spectra (
+c
+) and the corresponding
+k
+3
+-FT EXAFS R-space spectra (
+d
+) of Pr
+6
+O
+11
+–Cu-SS and its references at the Cu K edge.
+e
+,
+f
+, In situ Cu K edge XANES spectra (
+e
+) and corresponding
+k
+3
+-FT EXAFS R-space spectra (
+f
+) of Pr
+6
+O
+11
+–Cu-SS and its references under various applied potentials (versus RHE).
+g
+,
+h
+, In situ Pr L
+3
+edge XANES spectra (
+g
+) and corresponding
+k
+3
+-FT EXAFS R-space spectra (
+h
+) of Pr
+6
+O
+11
+–Cu-SS and its references under various applied potentials (versus RHE).
+i
+, In situ Raman spectra for Pr
+6
+O
+11
+–Cu-SS catalyst under various potentials (versus RHE) during the CO
+2
+RR. Pr–O
+I
+, partially shortened Pr–O bond; Pr–O
+II
+, partially elongated Pr–O bond.
+Source data
+Full size image
+To observe the changes in the electronic and coordination structure of the catalyst during the reaction, in situ XAFS analysis was conducted under electrochemical CO
+2
+RR conditions, in which the potential was decreased from open circuit potential (OCP) to −0.5 V, −0.8 V, −1.1 V and −1.4 V versus RHE. As shown in Fig.
+3e
+, the XANES of Pr
+6
+O
+11
+–Cu-SS at the copper edge gradually shifted to a lower-energy region, indicating that copper was reduced to a lower valence state during the CO
+2
+RR. Figure
+3f
+further confirms that a new Cu–O coordination peak emerged at
+∼
+2 Å upon application of −0.5 V versus RHE, which can be ascribed to the reconstructed Cu–O–Pr structure. The Cu–O coordination peaks gradually weakened while the Cu–Cu coordination peak gradually strengthened with the decrease in the applied potential. At the same time, the average valence state of copper in Pr
+6
+O
+11
+–Cu-SS was stabilized to +0.52 (Supplementary Fig.
+47
+). Additionally, the Cu–(O)–Cu coordination at 2.6–3.0 Å was weakened and shifted towards the Cu–Cu coordination at 2.2 Å, in accordance with the variations of Cu–O coordination in the inner shell. The Cu–(O)–Pr coordination distance at
+∼
+3.0 Å was also extended, suggesting that Pr
+3+
+/Pr
+4+
+and Cu
+0
+/Cu
+δ+
+coexisted during the reaction, forming a Pr–Cu interface. Meanwhile, as shown in Fig.
+3g
+, the XANES spectra at the Pr L
+3
+edge shifted to lower energy with the decrease in applied potential, suggesting a gradual decrease in the valence state of praseodymium from +4 to +3, and indicating that the average valence state of praseodymium was 3.18 at the working potential (Supplementary Fig.
+48
+). The main Pr–O coordination in the inner shell (Fig.
+3h
+) further exhibited partial shortening (Pr–O
+I
+) and partial elongation (Pr–O
+II
+), corresponding to the Pr–O coordination of Pr
+6
+O
+11
+bulk phase and the Pr–O coordination at the Pr–Cu interface, respectively. According to the variations of inner-shell Cu–O coordination, Pr–O
+II
+can also be attributed to the reconstructed Cu–O–Pr structure. In addition, the Pr–(O)–Cu coordination at
+∼
+3.0 Å also shifted significantly towards longer distances and was intensely polarized, indicating that the bonding of Pr–O with copper forms asymmetric active sites and facilitates the C
+2+
+alcohol pathway.
+We conducted in situ Raman experiments to identify the possible intermediates using a customized Raman electrolyser (Supplementary Fig.
+49
+). Typically, the Raman spectra were collected during the reaction at different applied potentials. As displayed in Fig.
+3i
+, the Raman peaks were located at 1,750–1,850 cm
+−1
+, 1,960–2,030 cm
+−1
+and 2,050–2,100 cm
+−1
+at −1.1 V versus RHE, and originate from the formation of the coordination of *CO and simultaneous coordination of C–O, respectively, leading to binding of *CO intermediates via asymmetric coupling
+39
+,
+60
+,
+61
+,
+62
+. This suggests that an O–C–C–O structure with an asymmetric charge distribution is formed during CO
+2
+hydrogenation. Subsequent hydrodeoxygenation followed by desorption at the O–C–C–O side improves the selectivity of C
+2+
+alcohols. In contrast, the adsorption pattern of the *CO intermediates tends to be homogeneous at other operating potentials (−0.8 and −1.4 V versus RHE), suggesting that they would undergo coupling-hydrogenation reactions in a more similar conformation, thus weakening the asymmetric catalysis with a decrease in the selectivity of the C
+2+
+alcohol products. In addition, the CO reduction reaction (CORR) was also evaluated using the same flow cell reactor. It showed similar selectivity towards ethanol and ethylene products during the CO
+2
+RR, indicating that CO was a key intermediate for CO
+2
+reduction (Supplementary Figs.
+50
+–
+52
+)
+63
+.
+To obtain insight into the working mechanism of Pr–copper oxide heterointerfaces, in situ X-ray emission spectroscopy (XES) was applied to investigate the valence changes of copper during the CO
+2
+RR process. Figure
+4a
+shows the Cu K
+β
+1,3
+XES of Pr
+6
+O
+11
+–Cu-SS catalyst as a function of time and applied potential. During the in situ XES measurement, the potential was first maintained at −1.1 V versus RHE (0–10 min), followed by a decrease to −2.0 V versus RHE (S-5 min and S-10 min), and then reversed to −1.1 V versus RHE. When comparing the spectra with standard samples, the decrease in the valence of copper is reflected in the shift of the K
+β
+1,3
+maximum to higher energy. In the case of Pr
+6
+O
+11
+–Cu-SS catalyst, the maximum of the Cu Kβ
+1,3
+peak shifts to higher energy as the reaction time increased. When the reaction time reached 5 min at −1.1 V versus RHE, the Cu
+2+
+species were fully reduced to Cu
+δ+
+(0 < δ < 1) and remained unchanged. As the potential changed to −2.0 V (versus RHE) for 5 min and 10 min, the Cu
+δ+
+was further reduced to Cu
+0
+. Interestingly, once this potential was reversed to −1.1 V (versus RHE), the Cu
+δ+
+resurfaced and maintained consistent stability. The above structural features can also be understood by comparing the electronic properties of various RE–Cu catalysts in a stable state during the CO
+2
+RR (Supplementary Fig.
+53a
+). The statistical valence obtained by linear fittings (Supplementary Fig.
+53b
+) showed that all REs have the potential to alter the electronic structure of doped copper species, thus enabling catalytic performance enhancement. Among these RE elements, the copper valence of Pr–Cu catalyst was +0.52, reflecting the similar contents of Cu
+0
+and Cu
+δ+
+species. This suggests that the Pr–Cu catalyst had the most abundant Cu
+0
+/Cu
+δ+
+structures with adequate interfacial active region. As shown in Fig.
+4b
+, when a negative voltage is applied, the accumulation of negative charges at the catalyst interface is not conducive to charge polarization to form asymmetric sites
+64
+,
+65
+,
+66
+. However, the Pr
+6
+O
+11
+–Cu-SS catalyst is special in that the Pr
+4+
+/Pr
+3+
+structure is able to dynamically stabilize the Cu
+δ+
+/Cu
+0
+via a unique Pr–O–Cu linkage and form stable oxide heterointerfaces at the CO
+2
+RR conditions. This is due to the high oxygen ion mobility of praseodymium oxide during interfacial construction and reconstruction, as Pr
+6
+O
+11
+is vulnerable to the creation of numerous defects and heterogeneous structural sites during calcination as a result of rapid O
+2−
+migration
+35
+,
+36
+. The praseodymium in Pr
+6
+O
+11
+has two valence states of +3 and +4; Pr
+3+
+increases the bond length of the Pr–O bond and the lattice spacing, and induces the formation of lattice distortion. Thus, the existence of Pr
+6
+O
+11
+can stabilize Cu
+δ+
+/Cu
+0
+by forming a Pr–O–Cu linkage in Pr
+6
+O
+11
+–Cu-SS catalyst, which can act as stable asymmetric active sites and facilitate the C
+2+
+alcohol pathway.
+Fig. 4: Structural evolution of the Pr
+6
+O
+11
+–Cu-SS catalyst during the CO
+2
+RR.
+a
+, Normalized operando Cu Kβ
+1,3
+XES spectra for the Pr
+6
+O
+11
+–Cu-SS catalyst measured at −1.1 V (versus RHE) during the CO
+2
+RR. Copper foil, Cu
+2
+O and CuO were used as references. After the reaction time reached 10 and 30 min, the working potential was changed to −2.0 V (versus RHE) for 5 min and 10 min, respectively. The horizontal dashed lines indicate the energy values (eV) of Cu
+0
+, Cu
++
+and Cu
+2
++
+based on standard references Cu, Cu
+2
+O and CuO, respectively. S-5 min and S-10 min represent the experimental stages that a potential signal of −2.0 V
+RHE
+was applied instead of −1.1 V
+RHE
+, lasting for 5 and 10 min, respectively. A-5 min and A-10 min represent the experimental stages occurring 5 and 10 min after the system has been powered off, respectively.
+b
+, A schematic for the ion migration mechanism of the Pr
+6
+O
+11
+–Cu-SS catalyst.
+Source data
+Full size image
+Density functional theory (DFT) calculations were conducted to validate the mechanism of the asymmetric C
+2+
+pathway. We built the Cu (111), Pr
+6
+O
+11
+, Pr
+6
+O
+11
+–O
+vac
+and various Pr
+6
+O
+11
+–O
+vac
+–Cu models for comparison (Supplementary Figs.
+54
+–
+58
+). According to the XPS analysis, the surface O
+vac
+concentrations for Pr
+6
+O
+11
+, Pr
+6
+O
+11
+–Cu-SS (raw) and Pr
+6
+O
+11
+–Cu-SS (stab) were determined to be
+∼
+34%,
+∼
+52% and
+∼
+62%, respectively (Supplementary Figs.
+38
+,
+39
+and
+44
+and Supplementary Table
+7
+). We first established a Pr
+6
+O
+11
+–O
+vac34
+model with a surface O
+vac
+concentration of 34% by adjusting the topmost oxygen atoms of the initial Pr
+6
+O
+11
+model (Supplementary Figs.
+55
+–
+57
+). Based on this model, other models, such as Pr
+6
+O
+11
+–O
+vac4
+–Cu, Pr
+6
+O
+11
+–O
+vac34
+–Cu, Pr
+6
+O
+11
+–O
+vac52
+–Cu and Pr
+6
+O
+11
+–O
+vac62
+–Cu, were also constructed (Supplementary Fig.
+58
+). As shown in Fig.
+5a–e
+, Supplementary Note
+3
+and Supplementary Figs.
+59
+–
+69
+, we confirmed the adsorption configuration of *OCHCH
+2
+and subsequent intermediates at 0 V versus SHE (standard hydrogen electrode) to explore the adsorption behaviour on the pure copper model and Pr
+6
+O
+11
+–O
+vac
+–Cu models with different interfacial O
+vac
+concentrations. In both Cu (111) and Pr
+6
+O
+11
+–O
+vac4
+–Cu models, the energy barrier for the rate-determining step (RDS) in the ethanol pathway (RDS
+ethanol
+, *OCHCH
+3
+→ *OCH
+2
+CH
+3
+) was higher than that for the RDS in the ethylene pathway (RDS
+ethylene
+, *OH → OH
+−
+), indicating the preference for the ethylene pathway (Fig.
+5a,b
+and Supplementary Figs.
+60
+–
+63
+). Furthermore, the ethylene selectivity over pure copper is much higher than that of ethanol, indicating that Cu
+0
+species are unfavourable for the ethanol pathway. In Pr
+6
+O
+11
+–O
+vac34
+–Cu, the energy barrier for the RDS
+ethanol
+(*OCH
+2
+CH
+3
+→ *OHCH
+2
+CH
+3
+) was 1.422 eV, which is also higher than that for RDS
+ethylene
+(*OCHCH
+2
+→ *OH + CH
+2
+CH
+2
+, 1.320 eV), indicating that the ethylene pathway was still favoured even with an ~30% increase in the O
+vac
+concentration on the Pr
+6
+O
+11
+–O
+vac
+–Cu interface (Fig.
+5c
+and Supplementary Figs.
+64
+and
+65
+). In contrast, the energy barrier for the RDS
+ethanol
+(*OCHCH
+2
+→ *OCHCH
+3
+) in the Pr
+6
+O
+11
+–O
+vac52
+–Cu model was 1.339 eV, which is lower than the RDS
+ethylene
+(*OH → OH
+−
+, 1.371 eV), indicating a slight preference for the ethanol pathway (Fig.
+5d
+and Supplementary Figs.
+66
+and
+67
+). Notably, in the Pr
+6
+O
+11
+–O
+vac62
+–Cu model (representing Pr
+6
+O
+11
+–Cu-SS (stab)) with the highest interfacial O
+vac
+concentration, the energy barrier for the RDS
+ethanol
+(*OCH
+2
+CH
+3
+→ *OHCH
+2
+CH
+3
+, 1.270 eV) was much lower than that for the RDS
+ethylene
+(*OH → OH
+−
+, 1.855 eV), leading to a marked preference towards the ethanol pathway compared to ethylene (Fig.
+5e
+and Supplementary Figs.
+68
+and
+69
+).
+Fig. 5: Mechanistic insight from DFT calculations.
+a
+–
+e
+, Relative free energies (eV) at
+U
+SHE
+= 0 V for the CO
+2
+RR to C
+2
+H
+5
+OH and C
+2
+H
+4
+on the copper (
+a
+), Pr
+6
+O
+11
+–O
+vac4
+–Cu (
+b
+), Pr
+6
+O
+11
+–O
+vac34
+–Cu (
+c
+), Pr
+6
+O
+11
+–O
+vac52
+–Cu (
+d
+) and Pr
+6
+O
+11
+–O
+vac62
+–Cu (
+e
+) models. The bold lines represent the RDS for different reaction pathways.
+f
+, Energy barriers of the RDS in the C
+2
+H
+5
+OH and C
+2
+H
+4
+pathways on the Pr
+6
+O
+11
+–O
+vac
+–Cu models with different O
+vac
+concentrations.
+g
+, Adsorption configurations of *OCHCH
+3
+(IM1) and *OH (IM2) at interfaces of different Pr
+6
+O
+11
+–O
+vac
+–Cu models. The dark blue, brown, red, light blue and yellow balls represent hydrogen, carbon, oxygen, copper and praseodymium atoms, respectively.
+h
+, A schematic for potential O
+vac
+structures in the Pr
+6
+O
+11
+substrate.
+i
+, O
+vac
+formation energies for the Pr
+6
+O
+11
+, Pr
+6
+O
+11
+–O
+vac
+and Pr
+6
+O
+11
+–O
+vac
+–Cu models.
+j
+, The Bader charges of copper on the surface and at the interface of the Pr
+6
+O
+11
+–O
+vac52
+–Cu and Pr
+6
+O
+11
+–O
+vac62
+–Cu models.
+Source data
+Full size image
+As shown in Fig.
+5f
+, the energy barriers for the RDS
+ethanol
+and RDS
+ethylene
+exhibited a strong correlation with the interfacial O
+vac
+concentration in Pr
+6
+O
+11
+–O
+vac
+–Cu. In detail, the energy barrier for RDS
+ethanol
+gradually decreased with the increase in the interfacial O
+vac
+concentration, while the energy barrier for RDS
+ethylene
+gradually increased with the increase in the O
+vac
+concentration and presented a sharp elevation as the O
+vac
+concentration increased from 52% to 62%. The above results suggest that a sufficient interfacial O
+vac
+concentration (Fig.
+5f
+, ethanol-favoured region highlighted in light brown) can significantly improve the ethanol pathway by lowering the energy barrier for *OCHCH
+3
+and *OCH
+2
+CH
+3
+hydrogenations, while inhibiting the ethylene pathway by overenhancing the *OH adsorption to a significant increase in the energy barrier for *OH → OH
+−
+. Figure
+5g
+further exhibits the adsorption configurations of *OCHCH
+3
+(IM1) and *OH (IM2) at the interfaces of different Pr
+6
+O
+11
+–O
+vac
+–Cu models. On one hand, the enhancement of the interfacial O
+vac
+concentration in Pr
+6
+O
+11
+–O
+vac
+–Cu improved the adsorption configuration of *OCHCH
+3
+→ *OCH
+2
+CH
+3
+compared with the Pr
+6
+O
+11
+–O
+vac4
+–Cu, resulting in alternations of the oxygen adsorption site in *OCHCH
+3
+(*O
+IM1
+) from the copper adsorption configuration (Cu–*O
+IM1
+) to the praseodymium adsorption configuration (Pr
+2
+–*O
+IM1
+) and the Pr–Cu coadsorption configuration (Pr–*O
+IM1
+–Cu). It significantly reduced energy barriers for this step and shifted the RDS
+ethanol
+towards other reaction steps with lower energy barriers (Fig.
+5g
+and Supplementary Figs.
+62
+,
+64
+,
+66
+and
+68
+). On the other hand, optimizing the oxygen adsorption site in *OH (*O
+IM2
+) from the copper adsorption configuration (Cu
+3
+–*O
+IM2
+) towards Pr–Cu coadsorption configurations (Pr–*O
+IM2
+–Cu
+2
+and Pr
+2
+–*O
+IM2
+–Cu) overenhanced *OH adsorption in the RDS
+ethylene
+and led to higher energy barriers. Of these configurations, the Pr–Cu coadsorption configuration with a higher praseodymium coordination number (Pr
+2
+–*O
+IM2
+–Cu) exhibited the highest energy barriers for RDS
+ethylene
+(Fig.
+5g
+and Supplementary Figs.
+63
+,
+65
+,
+67
+and
+69
+). Therefore, establishing a Pr–O
+vac
+–Cu interface with a sufficient O
+vac
+concentration can concurrently enhance the ethanol pathway and suppress the ethylene pathway. These theoretical trends are in strong agreement with the experimental results (Fig.
+2
+). In addition, the simulated models demonstrated the same RDS in the CO
+2
+RR and much lower free energies for each reaction step under the applied potential of −1.08 V versus RHE, respectively (Supplementary Figs.
+70
+and
+71
+), which led to a strong acceleration of the reaction kinetics.
+The state of surface O
+vac
+was analysed by calculating the O
+vac
+formation energy, as shown in Fig.
+5h,i
+and Supplementary Note
+4
+. On the pure Pr
+6
+O
+11
+surface, the O
+vac
+sites adjacent to the intrinsic O
+vac
+(O
+vac
+1
+) and far from the intrinsic O
+vac
+(O
+vac
+2
+) exhibited O
+vac
+formation energies of −0.649 and −0.685 eV, respectively (Fig.
+5h,i
+), allowing for further formation of surface O
+vac
+. The O
+vac
+formation energies increased when higher O
+vac
+concentrations were applied in the corresponding Pr
+6
+O
+11
+–O
+vac
+–Cu models (Fig.
+5i
+). Notably, the O
+vac
+formation energies of Pr
+6
+O
+11
+–O
+vac52
+–Cu and Pr
+6
+O
+11
+–O
+vac62
+–Cu with much higher O
+vac
+concentrations were 1.230 eV and 1.596 eV, respectively, which exceed those of the models with lower O
+vac
+concentrations (>1 eV), suggesting that a high concentration of O
+vac
+could be formed and is relatively stable during the CO
+2
+RR process (Fig.
+5i
+). To further investigate the electronic properties of the active sites in the Pr
+6
+O
+11
+–Cu-SS structures during the CO
+2
+RR, Bader charges of the copper atoms in the Pr
+6
+O
+11
+–O
+vac52
+–Cu and Pr
+6
+O
+11
+–O
+vac62
+–Cu models were calculated. As shown in Fig.
+5j
+, the copper atoms loaded on the surface of Pr
+6
+O
+11
+exhibited different properties from those at the interface. This suggests that the formation of a Cu
+0
+/Cu
+δ+
+structure is favoured by the bonding between interface copper atoms and surface oxygen atoms of the Pr
+6
+O
+11
+–O
+vac
+substrate, and the active region of the Pr
+6
+O
+11
+–Cu-SS catalyst is primarily located at the interface (Supplementary Note
+5
+). The projected density of state distributions for pure copper, Pr
+6
+O
+11
+–O
+vac52
+–Cu and Pr
+6
+O
+11
+–O
+vac62
+–Cu were calculated and are analysed in Supplementary Fig.
+72
+and Supplementary Note
+5
+, indicating widespread existence of the interface, which served as an important catalytic site.
+Additional calculations applying Nd
+2
+O
+3
+and CeO
+2
+as substrates were also conducted to further validate the unique properties of Pr
+6
+O
+11
+among diverse RE metal oxides. Referring to the Pr
+6
+O
+11
+–O
+vac
+–Cu models and calculations (Fig.
+5
+), we constructed the CeO
+2
+–O
+vac41
+–Cu and Nd
+2
+O
+3
+–O
+vac32
+–Cu models to simulate the corresponding stable states of CeO
+2
+–Cu (stab; O
+vac
+concentration, 41.4%) and Nd
+2
+O
+3
+–Cu (stab; O
+vac
+concentration, 32.2%) for comparison (Supplementary Figs.
+73
+and
+74
+and Supplementary Table
+7
+). Combining the Bader charge analysis with their free-energy curves (Supplementary Figs.
+75
+–
+80
+), we can conclude that only Pr
+6
+O
+11
+–O
+vac
+–Cu contained an adequate O
+vac
+concentration at the active interface regions and was capable of forming stable interfacial Cu
+0
+/Cu
+δ+
+structures, which together determine the selective ethanol pathway. The above results, taken together, suggest that in RO
+x
+–Cu catalyst, two conditions must be met to achieve high selectivity in alcohol production: (1) an adequate interfacial active region with stable Cu
+0
+/Cu
+δ+
+structures; and (2) a sufficient interfacial O
+vac
+concentration which leads to overstrengthening of the adsorption of ethylene intermediates and hinders further hydrogenation, thereby suppressing ethylene production.
+Conclusion
+We have found that RO
+x
+–Cu catalysts containing abundant oxide heterointerfaces can act as asymmetric active sites to promote C
+2+
+alcohols via CO
+2
+electrolysis. In particular, Pr
+6
+O
+11
+–Cu-SS showed high C
+2+
+alcohol selectivity at large current densities. When the current density reached 700 mA cm
+−2
+, the FE of C
+2+
+alcohols was as high as 71.3% at −1.08 V versus RHE. Moreover, at 1.02 V versus RHE, the current density was 600 mA cm
+−2
+, and the FEs of C
+2
+H
+5
+OH and
+n
+-C
+3
+H
+7
+OH were 65.5% and 5.7%, respectively, showing that the FE of C
+2
+H
+5
+OH can be very high. The outstanding electrocatalytic performance of the catalysts results from the high oxygen ion mobility of praseodymium oxide because Pr
+6
+O
+11
+is vulnerable to the creation of numerous defects and heterogeneous structural sites during calcination as a result of rapid O
+2−
+migration. Under CO
+2
+RR conditions, the Pr
+6
+O
+11
+–Cu-SS catalyst existed in the form Pr
+6
+O
+11
+, and the Pr
+4+
+/Pr
+3+
+structure is able to stabilize the Cu
+δ+
+/Cu
+0
+via a unique Pr–O–Cu linkage and form stable oxide heterointerfaces, which act as stable asymmetric active sites for the CO
+2
+RR. The binding strength and binding type of *CO are altered on the asymmetric active sites to form a mixed adsorption configuration, which induces asymmetric carbon–carbon coupling and stabilizes the reaction intermediates of the C
+2+
+alcohol pathway, leading to an improvement in C
+2+
+alcohol selectivity. This work provides a route for designing efficient catalysts towards C
+2+
+alcohol production from the CO
+2
+RR, and may trigger the rational design of new RE-based catalysts for efficient CO
+2
+electrolysis.
+Methods
+Synthesis of the Pr
+6
+O
+11
+–Cu-SS catalyst
+The catalysts were synthesized by a stepwise precipitation and stepwise calcination method using different mole ratios of the Cu(CH
+3
+COO)
+2
+to Pr(CH
+3
+COO)
+3
+·6H
+2
+O. First, Cu(CH
+3
+COO)
+2
+(1 mmol) and Pr(CH
+3
+COO)
+3
+·6H
+2
+O (4 mmol) were dissolved in a mixture of 100 ml deionized water and ethanol (3:7 vol/vol) by an ultrasonic device, and then heated to 50 °C with vigorous stirring. (NH
+4
+)
+2
+CO
+3
+(3 mmol) was dissolved in 5 ml deionized water to form a precipitating agent, which was then slowly dropped into the previously prepared solution containing the precursors, and stirred for 30 min. Then the temperature was raised to 85 °C. KOH (10 mmol) was dissolved in 10 ml of deionized water to form a precipitating agent, which was slowly dropped into the prepared precipitating solution, and stirred for 2 h. The mixture was evaporated using a rotary evaporator and the solid was dried under vacuum at 120 °C for 12 h. After grinding the solid in an agate mortar, the powder was calcined under air at 500 °C for 3 h (heating rate, 10 °C min
+−1
+). After rinsing with deionized water and ethanol three times, the powder was dried at 80 °C for 12 h, and then calcined in argon at 600 °C for 2 h (heating rate, 2 °C min
+−1
+). A light grey powder was obtained and named as Pr
+6
+O
+11
+–Cu-SS (Pr
+6
+O
+11
+–Cu-4:1). The preparation methods of Pr
+6
+O
+11
+–Cu-9:1, Pr
+6
+O
+11
+–Cu-2:1, Pr
+6
+O
+11
+–Cu-1:1, Pr
+6
+O
+11
+–Cu-1:2, Pr
+6
+O
+11
+–Cu-1:4 and Pr
+6
+O
+11
+–Cu-1:9 electrocatalysts are similar to those of Pr
+6
+O
+11
+–Cu-SS, and the feeding ratios of Cu(CH
+3
+COO)
+2
+to Pr(CH
+3
+COO)
+3
+·6H
+2
+O, and (NH
+4
+)
+2
+CO
+3
+were changed to (mmol) 1:9:4, 1:2:2.5, 1:1:2.5, 2:1:4, 4:1:8 and 9:1:18, respectively.
+Synthesis of the Pr
+6
+O
+11
+–Cu-CS and Pr
+6
+O
+11
+–Cu-SC catalysts
+The Pr
+6
+O
+11
+–Cu-CS catalyst was synthesized by a co-precipitation and stepwise calcination method. First, Cu(CH
+3
+COO)
+2
+(1 mmol) and Pr(CH
+3
+COO)
+3
+·6H
+2
+O (4 mmol) were dissolved in a mixture of 100 ml deionized water and ethanol (3:7 vol/vol) by an ultrasonic device, and then heated to 50 °C with vigorous stirring. A mixture of (NH
+4
+)
+2
+CO
+3
+(3 mmol) and KOH (10 mmol) was dissolved in 15 ml deionized water to form a co-precipitating agent, which was then slowly dropped into the previously prepared mixed solvent containing the precursor, and stirred for 30 min. Then the temperature was raised to 85 °C stirring continued for 2 h. The mixture was evaporated using a rotary evaporator and dried under vacuum at 120 °C for 12 h. After grinding the solid with an agate mortar, the powder was calcined under air at 500 °C for 3 h (heating rate, 10 °C min
+−1
+). After rinsing with deionized water and ethanol three times, the powder was dried at 80 °C for 12 h, and then calcined in argon at 600 °C for 2 h (heating rate, 2 °C min
+−1
+). A light grey powder was obtained and named Pr
+6
+O
+11
+–Cu-CS. The Pr
+6
+O
+11
+–Cu-SC catalyst was synthesized by a stepwise precipitation and co-calcination method. The preparation method was similar to that of Pr
+6
+O
+11
+–Cu-SS, with the only difference being that the temperature of the first calcination process was raised to 600 °C, discarding the second calcination process in argon. A light brown powder was obtained and named Pr
+6
+O
+11
+–Cu-SC.
+Synthesis of the CuO and Pr
+6
+O
+11
+catalysts
+CuO and Pr
+6
+O
+11
+catalysts were prepared following similar synthetic procedures as those for Pr
+6
+O
+11
+–Cu-SS catalyst, while 4 mmol Cu(CH
+3
+COO)
+2
+and 8 mmol KOH were used instead in preparation of CuO. Pr
+6
+O
+11
+catalyst was prepared with 4 mmol Pr(CH
+3
+COO)
+3
+·6H
+2
+O and 10 mmol (NH
+4
+)
+2
+CO
+3
+were used.
+Synthesis of the RO
+x
+–Cu catalysts
+RO
+x
+–Cu catalysts (R = La, Ce, Nd, Sm, Eu, Tb, Gd and Er) were prepared following the similar synthetic procedures to those for Pr
+6
+O
+11
+–Cu-SS catalysts; the amounts of starting precursors used are listed in Supplementary Table
+2
+.
+Electrode preparation
+To construct the cathode electrode, 15 mg of powder prepared above was suspended in 1 ml acetone with 20 μl Nafion D-521 dispersion (5 wt%) via ultrasound. Then, the catalyst slurry (0.2 ml) was slowly drop-cast onto a PTFE-hydrophobized carbon fibre paper to achieve a catalyst loading of
+∼
+1.0 mg cm
+−2
+. In detail, a commercial carbon paper (TGP-H-060, Toray Industries, 1 cm × 1 cm) with a hydrophobic microporous coating layer as the support substrate (YLS-30T, Suzhou Sinero) was used for the coating of electrocatalysts. During the CO
+2
+RR, the hydrophobic microporous layer, consisting of 0.19-mm-thick carbon fibres and 0.04-mm-thick hydrophobic microporous carbon, acted as the gas diffusion layer. Nickel foam was used as the anode electrode.
+Electrocatalysis experiments
+All the electrochemical experiments were conducted on an electrochemical workstation (CHI 660E, Shanghai CH Instruments) equipped with a high current amplifier (CHI 680c). All electrocatalysis experiments were measured in a flow cell with a three-electrode configuration, with as-synthesized catalysts as the working electrode and a reference electrode Hg/HgO (with 1 M KOH used as the filling solution) at the cathode and a piece of nickel foam as the counter-electrode at the anode. A 1 M KOH solution was used as the electrolyte, which was circulated through the cathodic and anodic chambers. Linear sweep voltammetry curves were recorded at a sweep rate of 20 mV s
+−1
+. In the
+13
+CO
+2
+isotope-labelling experiment, the procedure was the same as described above, except that
+13
+CO
+2
+gas (99.59 at.%
+13
+C) was used as the supply gas with an inlet flow rate of 20 sccm. All the applied potentials were measured against a Hg/HgO electrode and converted to RHE with 100%
+iR
+compensation as follows:
+$${U}_{{\rm{RHE}}}={U}_{{\rm{Hg}}/{\rm{HgO}}}+0.098+0.059\times {\rm{pH}}-{iR}\times 100 \%$$
+where
+U
+represents the applied potential (V) relative to the corresponding reference electrode (
+U
+RHE
+for a reversible hydrogen electrode and
+U
+Hg/HgO
+for a Hg/HgO electrode). The ECSA was evaluated in terms of the double-layer capacitance (
+C
+dl
+). Cyclic voltammetry was performed in 1 M KOH solution using the flow cell described above. Cyclic voltammogram measurements of the catalysts were conducted at different scan rates (20, 40, 60, 80, 100 and 120 mV s
+−1
+) in a potential window where no Faradaic process occurs. The
+C
+dl
+was estimated by plotting ∆
+j
+=
+j
+a
+−
+j
+c
+at a certain potential (where
+j
+c
+and
+j
+a
+are the cathodic and anodic current densities, respectively) against the scan rates, for which the slope was twice that of
+C
+dl
+. The ECSA of catalysts can be calculated by ECSA =
+R
+f
+×
+S
+, where
+R
+f
+represents the roughness factor and was estimated from the ratio of
+C
+dl
+to the corresponding specific capacitance (
+C
+s
+; in general, 40 μF cm
+−2
+in 1.0 M OH
+–
+electrolyte), and
+S
+is the geometric area of the electrode (in this work,
+S
+= 1.0 cm
+2
+).
+Computational method
+Spin-polarized DFT calculations were conducted with the Vienna Ab-initio Simulation Package (VASP)
+67
+,
+68
+to study the CO
+2
+RR on the prepared catalysts. The projector augmented wave method
+68
+with a cut-off energy of 400 eV accompanied by the Perdew–Burke–Ernzerhof functional
+69
+was used in the DFT calculations. The DFT-D3 method
+70
+was used to correct the van der Waals interactions. All models have been fully relaxed with an energy convergence criterion of 10
+−5
+eV and a force convergence criterion of 0.02 eV Å
+−1
+. Brillouin zone integration was performed with a Monkhorst–Pack
+k
+-point mesh resolution of 0.04 × 2π Å
+−1
+.
+All models were built based on the experimental characterization data. First, two layers of cubic Pr
+6
+O
+11
+(111) facet were cleaved with a vacuum layer of 20 Å in the
+z
+direction to build the Pr
+6
+O
+11
+basis. To achieve a surface of a suitable size, the surface direction vectors were refined using (1 1) and (−1 1). Second, the surface oxygen atoms of the Pr
+6
+O
+11
+basis were removed to construct oxygen vacancies with a concentration of 34% to build the Pr
+6
+O
+11
+–O
+vac34
+model. Then, a copper particle was put on the Pr
+6
+O
+11
+–O
+vac34
+surface to build the Pr
+6
+O
+11
+–O
+vac34
+–Cu model. The copper particle was built by cleaving two layers of Cu (111) facet and keeping each layer with a regular hexagon shape containing 14 copper atoms by removing excess atoms. After that, extra surface oxygen atoms were removed to construct extra oxygen vacancies to build the Pr
+6
+O
+11
+–O
+vac52
+–Cu and Pr
+6
+O
+11
+–O
+vac62
+–Cu models with an oxygen vacancy concentration of 52% and 62%, respectively. The Pr
+6
+O
+11
+–O
+vac62
+–Cu model was used to simulate the experimental Pr
+6
+O
+11
+-SS sample during the CO
+2
+RR. In addition, the ideal Pr
+6
+O
+11
+-O
+vac4
+-Cu model with the theoretically lowest O
+vac
+concentration was also used for comparison. Similarly, the CeO
+2
+–O
+vac41
+–Cu and Nd
+2
+O
+3
+–O
+vac32
+–Cu models were built using the CeO
+2
+(111) facet and Nd
+2
+O
+3
+(111) facet as basis, with surface oxygen vacancy concentrations of 41% and 32%, respectively. Finally, four layers of Cu (111) facet were cleaved and expanded to a (3 × 3) supersurface with a vacuum layer of 20 Å in the
+z
+direction to build the Cu (111) model as the contrasting model. All the above models were fully relaxed and the half-bottom layers of substrates were fixed to simulate the bulk phase. A conjugate-gradient algorithm with a step size of 0.2 Å was used in the optimization process.
+To study the oxygen vacancy state of the above models, the oxygen vacancy formation (
+E
+formation
+) energy was calculated from the following formula:
+$${E}_{\mathrm{formation}}=\left({E}_{\mathrm{O}{\mathrm{vac}}}-{E}_{\mathrm{substrate}}\right)/n-{E}_{\mathrm{O}{2}}/2$$
+where
+E
+substrate
+,
+E
+O2
+and
+E
+Ovac
+represent the energy of the substrate model, oxygen and the oxygen vacancy model, respectively, and
+n
+represents the oxygen atom number difference between the substrate model and the oxygen vacancy model.
+For the CO
+2
+RR process calculations, the adsorption energy (
+E
+ads
+) was calculated using the following formula:
+$${E}_{\mathrm{ads}}={E}_{\mathrm{total}}-{E}_{\mathrm{substrate}}-{E}_{\mathrm{adsorbate}}$$
+where
+E
+total
+,
+E
+substrate
+and
+E
+adsorbate
+represent the energy of the adsorption structure, the substrate and the adsorbate, respectively. The free energies were calculated using the following formula:
+$$G={E}_{\mathrm{DFT}}+{\mathrm{ZPE}}-{\mathrm{TS}}$$
+where
+G
+,
+E
+DFT
+, ZPE and TS represent the free energy, the energy from DFT calculations, the zero-point energy and entropic contributions, respectively. All the thermodynamic data were calculated with VASPKIT
+71
+.
+Data availability
+The data that support the findings of this study are available in the paper and its
+Supplementary Information
+. Source data are provided with this paper.
+References
+Mussatto, S. I. et al. Technological trends, global market, and challenges of bio-ethanol production.
+Biotechnol. Adv.
+28
+, 817–830 (2010).
+Article
+CAS
+PubMed
+Google Scholar
+Birdja, Y. Y. et al. Advances and challenges in understanding the electrocatalytic conversion of carbon dioxide to fuels.
+Nat. Energy
+4
+, 732–745 (2019).
+Article
+CAS
+Google Scholar
+Zhu, Q. et al. Carbon dioxide electroreduction to C
+2
+products over copper–cuprous oxide derived from electrosynthesized copper complex.
+Nat. Commun.
+10
+, 3851 (2019).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Ding, P. et al. Metal-based electrocatalytic conversion of CO
+2
+to formic acid/formate.
+J. Mater. Chem. A
+8
+, 21947–21960 (2020).
+Article
+CAS
+Google Scholar
+Shi, Y. et al. Unveiling hydrocerussite as an electrochemically stable active phase for efficient carbon dioxide electroreduction to formate.
+Nat. Commun.
+11
+, 3415 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Calle-Vallejo, F. & Koper, M. T. M. Theoretical considerations on the electroreduction of CO to C
+2
+species on Cu(100) electrodes.
+Angew. Chem. Int. Ed.
+52
+, 7282–7285 (2013).
+Article
+CAS
+Google Scholar
+Lum, Y., Cheng, T., Goddard, W. A. & Ager, J. W. Electrochemical CO reduction builds solvent water into oxygenate products.
+J. Am. Chem. Soc.
+140
+, 9337–9340 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Kortlever, R., Shen, J., Schouten, K. J. P., Calle-Vallejo, F. & Koper, M. T. M. Catalysts and reaction pathways for the electrochemical reduction of carbon dioxide.
+J. Phys. Chem. Lett.
+6
+, 4073–4082 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, C. et al. Highly efficient electroreduction of CO
+2
+to C
+2+
+alcohols on heterogeneous dual active sites.
+Angew. Chem. Int. Ed.
+59
+, 16459–16464 (2020).
+Article
+CAS
+Google Scholar
+Liu, X. et al. Understanding trends in electrochemical carbon dioxide reduction rates.
+Nat. Commun.
+8
+, 15438 (2017).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Liang, Y. et al. Efficient ethylene electrosynthesis through C–O cleavage promoted by water dissociation.
+Nat. Synth.
+3
+, 1104–1112 (2024).
+Article
+CAS
+Google Scholar
+Kong, S. et al. Delocalization state-induced selective bond breaking for efficient methanol electrosynthesis from CO
+2
+.
+Nat. Catal.
+6
+, 6–15 (2023).
+Article
+CAS
+Google Scholar
+Zhao, Z., Huang, J., Liao, P. & Chen, X. Highly efficient electroreduction of CO
+2
+to ethanol via asymmetric C–C coupling by a metal–organic framework with heterodimetal dual sites.
+J. Am. Chem. Soc.
+145
+, 26783–26790 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, Z. et al. Switching CO
+2
+electroreduction toward ethanol by delocalization state-tuned bond cleavage.
+J. Am. Chem. Soc.
+146
+, 14260–14266 (2024).
+Article
+CAS
+PubMed
+Google Scholar
+Hoang, T. T. H. et al. Nanoporous copper–silver alloys by additive-controlled electrodeposition for the selective electroreduction of CO
+2
+to ethylene and ethanol.
+J. Am. Chem. Soc.
+140
+, 5791–5797 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Clark, E. L., Hahn, C., Jaramillo, T. F. & Bell, A. T. Electrochemical CO
+2
+reduction over compressively strained CuAg surface alloys with enhanced multi-carbon oxygenate selectivity.
+J. Am. Chem. Soc.
+139
+, 15848–15857 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Lee, S., Park, G. & Lee, J. Importance of Ag–Cu biphasic boundaries for selective electrochemical reduction of CO
+2
+to ethanol.
+ACS Catal.
+7
+, 8594–8604 (2017).
+Article
+CAS
+Google Scholar
+Hori, Y., Murata, A. & Takahashi, R. Formation of hydrocarbons in the electrochemical reduction of carbon dioxide at a copper electrode in aqueous solution.
+J. Chem. Soc. Faraday Trans. 1
+85
+, 2309–2326 (1989).
+Article
+CAS
+Google Scholar
+Kuhl, K. P., Cave, E. R., Abram, D. N. & Jaramillo, T. F. New insights into the electrochemical reduction of carbon dioxide on metallic copper surfaces.
+Energy Environ. Sci.
+5
+, 7050–7059 (2012).
+Article
+CAS
+Google Scholar
+Wang, P. et al. Phase and structure engineering of copper tin heterostructures for efficient electrochemical carbon dioxide reduction.
+Nat. Commun.
+9
+, 4933 (2018).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Zhuang, T. et al. Steering post-C–C coupling selectivity enables high efficiency electroreduction of carbon dioxide to multi-carbon alcohols.
+Nat. Catal.
+1
+, 421–428 (2018).
+Article
+CAS
+Google Scholar
+Ma, W. et al. Electrocatalytic reduction of CO
+2
+to ethylene and ethanol through hydrogen-assisted C–C coupling over fluorine-modified copper.
+Nat. Catal.
+3
+, 478–487 (2020).
+Article
+CAS
+Google Scholar
+Hoang, T. T. H., Ma, S., Gold, J. I., Kenis, P. J. A. & Gewirth, A. A. Nanoporous copper films by additive-controlled electrodeposition: CO
+2
+reduction catalysis.
+ACS Catal.
+7
+, 3313–3321 (2017).
+Article
+CAS
+Google Scholar
+Soodi, S. et al. Selective electroreduction of CO
+2
+to C
+2+
+products on cobalt decorated copper catalysts.
+Chem. Synth.
+4
+, 44 (2024).
+Article
+CAS
+Google Scholar
+Gu, Z. et al. Efficient electrocatalytic CO
+2
+reduction to C
+2+
+alcohols at defect-site-rich Cu surface.
+Joule
+5
+, 429–440 (2021).
+Article
+CAS
+Google Scholar
+Xu, A. et al. Copper/alkaline earth metal oxide interfaces for electrochemical CO
+2
+-to-alcohol conversion by selective hydrogenation.
+Nat. Catal.
+5
+, 1081–1088 (2022).
+Article
+CAS
+Google Scholar
+Sun, H. et al. Hierarchical palladium–copper–silver porous nanoflowers as efficient electrocatalysts for CO
+2
+reduction to C
+2+
+products.
+Acta Phys. -Chim. Sin.
+40
+, 2307007 (2024).
+Article
+Google Scholar
+Yang, B. et al. Electrocatalytic CO
+2
+reduction to alcohols by modulating the molecular geometry and Cu coordination in bicentric copper complexes.
+Nat. Commun.
+13
+, 5122 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Jiang, Y., Fu, H., Liang, Z., Zhang, Q. & Du, Y. Rare earth oxide based electrocatalysts: synthesis, properties and applications.
+Chem. Soc. Rev.
+53
+, 714–763 (2024).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, W., Bai, P., Wei, S., Yang, C. & Xu, L. Gadolinium changes the local electron densities of nickel 3
+d
+orbitals for efficient electrocatalytic CO
+2
+reduction.
+Angew. Chem. Int. Ed.
+61
+, e202201166 (2022).
+Article
+CAS
+Google Scholar
+Gao, Q., Zhang, W., Shi, Z., Yang, L. & Tang, Y. Structural design and electronic modulation of transition-metal-carbide electrocatalysts toward efficient hydrogen evolution.
+Adv. Mater.
+31
+, 1802880 (2019).
+Article
+Google Scholar
+Zheng, B. et al. Rare-earth doping in nanostructured inorganic materials.
+Chem. Rev.
+122
+, 5519–5603 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Lv, J. J. et al. Microenvironment engineering for the electrocatalytic CO
+2
+reduction reaction.
+Angew. Chem. Int. Ed.
+61
+, e202207252 (2022).
+Article
+CAS
+Google Scholar
+Hahn, C. & Jaramillo, T. F. Using microenvironments to control reactivity in CO
+2
+electrocatalysis.
+Joule
+4
+, 292–294 (2020).
+Article
+Google Scholar
+Su, L. et al. Pr
+6
+O
+11
+: temperature-dependent oxygen vacancy regulation and catalytic performance for lithium–oxygen batteries.
+ACS Appl. Mater. Interfaces
+14
+, 40975–40984 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Abu-Zied, B. M. Controlled synthesis of praseodymium oxide nanoparticles obtained by combustion route: effect of calcination temperature and fuel to oxidizer ratio.
+Appl. Sur. Sci.
+471
+, 246–255 (2019).
+Article
+CAS
+Google Scholar
+Zhang, Y. et al. Low-coordinated copper facilitates the *CH
+2
+CO affinity at enhanced rectifying interface of Cu/Cu
+2
+O for efficient CO
+2
+-to-multicarbon alcohols conversion.
+Nat. Commun.
+15
+, 5172 (2024).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Feng, J. et al. Hydrophobic SiO
+2
+armor: stabilizing Cu
+δ+
+to enhance CO
+2
+electroreduction toward C
+2+
+products in strong acidic environments.
+ACS Nano
+18
+, 15303–15311 (2024).
+Article
+Google Scholar
+Liu, J. et al. Switching between C
+2+
+products and CH
+4
+in CO
+2
+electrolysis by tuning the composition and structure of rare-earth/copper catalysts.
+J. Am. Chem. Soc.
+145
+, 23037–23047 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Feng, J. et al. Improving CO
+2
+-to-C
+2+
+product electroreduction efficiency via atomic lanthanide dopant-induced tensile-strained CuO
+x
+catalysts.
+J. Am. Chem. Soc.
+145
+, 9857–9866 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, Z. et al. pH matters when reducing CO
+2
+in an electrochemical flow cell.
+ACS Energy Lett.
+5
+, 3101–3107 (2020).
+Article
+CAS
+Google Scholar
+Kim, J. Y. T., Sellers, C., Hao, S., Senftle, T. P. & Wang, H. Different distributions of multi-carbon products in CO
+2
+and CO electroreduction under practical reaction conditions.
+Nat. Catal.
+6
+, 1115–1124 (2023).
+Article
+CAS
+Google Scholar
+Peng, C. et al. (111) Facet-oriented Cu
+2
+Mg intermetallic compound with Cu
+3
+–Mg sites for CO
+2
+electroreduction to ethanol with industrial current density.
+Angew. Chem. Int. Ed.
+63
+, e202316907 (2024).
+Article
+CAS
+Google Scholar
+Li, H. et al. High-rate CO
+2
+electroreduction to C
+2+
+products over a copper–copper iodide catalyst.
+Angew. Chem. Int. Ed.
+60
+, 14329–14333 (2021).
+Article
+CAS
+Google Scholar
+Zhuang, T. et al. Tunable CO
+2
+electroreduction to ethanol and ethylene with controllable interfacial wettability.
+Nat. Commun.
+14
+, 3575 (2023).
+Article
+Google Scholar
+Sun, W. et al. V-doped Cu
+2
+Se hierarchical nanotubes enabling flow-cell CO
+2
+electroreduction to ethanol with high efficiency and selectivity.
+Adv. Mater.
+34
+, 2207691 (2022).
+Article
+CAS
+Google Scholar
+Wang, X. et al. Efficient electrically powered CO
+2
+-to-ethanol via suppression of deoxygenation.
+Nat. Energy
+5
+, 478–486 (2020).
+Article
+CAS
+Google Scholar
+Li, F. et al. Cooperative CO
+2
+-to-ethanol conversion via enriched intermediates at molecule–metal catalyst interfaces.
+Nat. Catal.
+3
+, 75–82 (2020).
+Article
+CAS
+Google Scholar
+Kim, J. Y. et al. Selective hydrocarbon or oxygenate production in CO
+2
+electroreduction over metallurgical alloy catalysts.
+Nat. Synth.
+3
+, 452–465 (2024).
+Article
+CAS
+Google Scholar
+Shayesteh Zeraati, A. et al. Carbon- and energy-efficient ethanol electrosynthesis via interfacial cation enrichment.
+Nat. Synth.
+4
+, 75–83 (2025).
+Li, J. et al. Electrochemical acetate production from high-pressure gaseous and liquid CO
+2
+.
+Nat. Catal.
+6
+, 1151–1163 (2023).
+Article
+CAS
+Google Scholar
+Cai, Y. et al. Self-pressurizing nanoscale capsule catalysts for CO
+2
+electroreduction to acetate or propanol.
+Nat. Synth.
+3
+, 891–902 (2024).
+Article
+CAS
+Google Scholar
+Vos, R. E. & Koper, M. T. M. Nickel as electrocatalyst for CO
+(2)
+reduction: effect of temperature, potential, partial pressure, and electrolyte composition.
+ACS Catal.
+14
+, 4432–4440 (2023).
+Article
+Google Scholar
+Abdinejad, M. et al. Eliminating redox-mediated electron transfer mechanisms on a supported molecular catalyst enables CO
+2
+conversion to ethanol.
+Nat. Catal.
+7
+, 1109–1119 (2024).
+Article
+CAS
+Google Scholar
+Su, Z. et al. Probing the actual role and activity of oxygen vacancies in toluene catalytic oxidation: evidence from in situ XPS/NEXAFS and DFT + U calculation.
+ACS Catal.
+13
+, 3444–3455 (2023).
+Article
+CAS
+Google Scholar
+Zhong, X. et al. Optimizing oxygen vacancies through grain boundary engineering to enhance electrocatalytic nitrogen reduction.
+Proc. Natl Acad. Sci. USA
+120
+, e2306673120 (2023).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Gu, W., Liu, J., Hu, M., Wang, F. & Song, Y. La
+2
+O
+2
+CO
+3
+encapsulated La
+2
+O
+3
+nanoparticles supported on carbon as superior electrocatalysts for oxygen reduction reaction.
+ACS Appl. Mater. Interfaces
+7
+, 26914–26922 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Zhong, X. et al. Autogenic synthesis of green- and red-emitting single-phase Pr
+2
+O
+2
+CO
+3
+and PrO
+1.833
+luminescent nanopowders.
+Inorg. Chem.
+49
+, 10067–10073 (2010).
+Article
+Google Scholar
+Zhang, H. et al. Three-dimensional inhomogeneity of zeolite structure and composition revealed by electron ptychography.
+Science
+380
+, 633–638 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Zhao, Y. et al. Speciation of Cu surfaces during the electrochemical CO reduction reaction.
+J. Am. Chem. Soc.
+142
+, 9735–9743 (2020).
+CAS
+PubMed
+Google Scholar
+Gunathunge, C. et al. Spectroscopic observation of reversible surface reconstruction of copper electrodes under CO
+2
+reduction.
+J. Phys. Chem. C
+121
+, 12337–12344 (2017).
+Article
+CAS
+Google Scholar
+Cai, R. et al. Engineering Cu(I)/Cu(0) interfaces for efficient ethanol production from CO
+2
+electroreduction.
+Chem
+10
+, 211–233 (2017).
+Article
+Google Scholar
+She, X. et al. Pure-water-fed, electrocatalytic CO
+2
+reduction to ethylene beyond 1,000 h stability at 10 Å.
+Nat. Energy
+9
+, 81–91 (2024).
+Article
+CAS
+Google Scholar
+Tan, Y. et al. Discovery of hydrogen spillover-based binary electrocatalysts for hydrogen evolution: from theory to experiment.
+ACS Catal.
+12
+, 11821–11829 (2022).
+Article
+CAS
+Google Scholar
+Ju, L. et al. Controllable CO
+2
+electrocatalytic reduction via ferroelectric switching on single atom anchored In
+2
+Se
+3
+monolayer.
+Nat. Commun.
+12
+, 5128 (2021).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Xu, Q. et al. Understanding the synergistic mechanism of single atom Co-modified perovskite oxide for piezo-photocatalytic CO
+2
+reduction.
+Appl. Catal. B
+338
+, 123058 (2023).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758 (1999).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865 (1997).
+Article
+Google Scholar
+Grimme, S., Antony, J., Ehrlich, S. & Krieg, H. A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H–Pu.
+J. Chem. Phys.
+132
+, 154104 (2010).
+Article
+PubMed
+Google Scholar
+Wang, V. et al. VASPKIT: a user-friendly interface facilitating high-throughput computing and analysis using VASP code.
+Comput. Phys. Commun.
+267
+, 108033 (2021).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+The authors thank the National Key Research and Development Program of China (2020YFA0710203, 2023YFA1507400), the National Natural Science Foundation of China (22279146, 22102192, 22033009, 22293015 and 22121002), the CAS Project for Young Scientists in Basic Research (grant number YSBR-050) and the Photon Science Center for Carbon Neutrality, China Postdoctoral Science Foundation (BX20200336 and 2020M680680), S&T Program of Hebei (B2021208074).
+Author information
+Authors and Affiliations
+Beijing National Laboratory for Molecular Sciences, CAS Key Laboratory of Colloid and Interface and Thermodynamics, Center for Carbon Neutral Chemistry, CAS Research/Education Center for Excellence in Molecular Sciences, Institute of Chemistry, Chinese Academy of Sciences, Beijing, People’s Republic of China
+Jiyuan Liu, Pengsong Li, Yong Wang, Lihong Jing, Zhimin Liu, Jianling Zhang, Qingli Qian, Xinchen Kang, Xiaofu Sun, Qinggong Zhu & Buxing Han
+School of Chemistry and Chemical Engineering, University of Chinese Academy of Sciences, Beijing, People’s Republic of China
+Jiyuan Liu, Pengsong Li, Yong Wang, Lihong Jing, Zhimin Liu, Jianling Zhang, Qingli Qian, Xinchen Kang, Xiaofu Sun, Qinggong Zhu & Buxing Han
+Shanghai Key Laboratory of Green Chemistry and Chemical Processes, State Key Laboratory of Petroleum Molecular & Process Engineering, School of Chemistry and Molecular Engineering, East China Normal University, Shanghai, People’s Republic of China
+Shuaiqiang Jia & Buxing Han
+Authors
+Jiyuan Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Pengsong Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shuaiqiang Jia
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yong Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lihong Jing
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhimin Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jianling Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qingli Qian
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xinchen Kang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaofu Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qinggong Zhu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Buxing Han
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Q.Z. and B.H. conceived and supervised the project. J.L., Q.Z. and B.H. wrote the paper. J.L. conducted the experimental work. P.L., S.J., Y.W., L.J., Z.L., J.Z., Q.Q., X.K. and X.S. assisted with X-ray diffraction, SEM, NMR, TEM and XAFS measurements. All authors discussed the results and contributed to the final paper.
+Corresponding authors
+Correspondence to
+Qinggong Zhu
+or
+Buxing Han
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Synthesis
+thanks the anonymous reviewers for their contribution to the peer review of this work. Primary Handling Editor: Alexandra Groves, in collaboration with the
+Nature Synthesis
+team.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Methods, Notes 1–5, Figs. 1–80, Tables 1–7 and references 1–53.
+Source data
+Source Data Fig. 2
+Statistical source data.
+Source Data Fig. 3
+Statistical source data.
+Source Data Fig. 4
+Statistical source data.
+Source Data Fig. 5
+Statistical source data.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Liu, J., Li, P., Jia, S.
+et al.
+Electrocatalytic CO
+2
+hydrogenation to C
+2+
+alcohols catalysed by Pr–Cu oxide heterointerfaces.
+Nat. Synth
+(2025). https://doi.org/10.1038/s44160-025-00752-4
+Download citation
+Received
+:
+26 March 2024
+Accepted
+:
+27 January 2025
+Published
+:
+13 March 2025
+DOI
+:
+https://doi.org/10.1038/s44160-025-00752-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+Our publishing models
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Synthesis
+(
+Nat. Synth
+)
+ISSN
+2731-0582
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

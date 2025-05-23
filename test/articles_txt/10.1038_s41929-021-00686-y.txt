@@ -1,0 +1,2273 @@
+Direct methane activation by atomically thin platinum nanolayers on two-dimensional metal carbides | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Direct methane activation by atomically thin platinum nanolayers on two-dimensional metal carbides
+Download PDF
+Article
+Published:
+20 October 2021
+Direct methane activation by atomically thin platinum nanolayers on two-dimensional metal carbides
+Zhe Li
+ORCID:
+orcid.org/0000-0003-1073-4190
+1
+na1
+,
+Yang Xiao
+ORCID:
+orcid.org/0000-0003-1705-2213
+2
+na1
+,
+Prabudhya Roy Chowdhury
+ORCID:
+orcid.org/0000-0002-2708-983X
+3
+,
+Zhenwei Wu
+2
+,
+Tao Ma
+4
+,
+Johnny Zhu Chen
+ORCID:
+orcid.org/0000-0003-0697-4351
+2
+,
+Gang Wan
+5
+,
+Tae-Hoon Kim
+ORCID:
+orcid.org/0000-0002-3505-4899
+4
+nAff6
+,
+Dapeng Jing
+ORCID:
+orcid.org/0000-0001-7600-7071
+4
+,
+Peilei He
+1
+,
+Pratik J. Potdar
+ORCID:
+orcid.org/0000-0002-9280-3374
+2
+,
+Lin Zhou
+ORCID:
+orcid.org/0000-0003-2286-6510
+4
+,
+Zhenhua Zeng
+ORCID:
+orcid.org/0000-0002-3087-8581
+2
+,
+Xiulin Ruan
+ORCID:
+orcid.org/0000-0001-7611-7449
+3
+,
+Jeffrey T. Miller
+2
+,
+Jeffrey P. Greeley
+2
+,
+Yue Wu
+ORCID:
+orcid.org/0000-0002-9820-2000
+1
+&
+…
+Arvind Varma
+2
+na2
+Show authors
+Nature Catalysis
+volume
+4
+,
+pages
+882–891 (
+2021
+)
+Cite this article
+10k
+Accesses
+78
+Altmetric
+Metrics
+details
+Subjects
+Catalytic mechanisms
+Chemical engineering
+Heterogeneous catalysis
+Two-dimensional materials
+Abstract
+Efficient and direct conversion of methane to value-added products has been a long-term challenge in shale gas applications. Here, we show that atomically thin nanolayers of Pt with a single or double atomic layer thickness, supported on a two-dimensional molybdenum titanium carbide (MXene), catalyse non-oxidative coupling of methane to ethane/ethylene (C
+2
+). Kinetic and theoretical studies, combined with in-situ spectroscopic and microscopic characterizations, demonstrate that Pt nanolayers anchored at the hexagonal close-packed sites of the MXene support can activate the first C–H bond of methane to form methyl radicals that favour desorption over further dehydrogenation and thus suppress coke deposition. At 750 °C and 7% methane conversion, the catalyst runs for 72 hours of continuous operation without deactivation and exhibits >98% selectivity towards C
+2
+products, with a turnover frequency of 0.2–0.6 s
+−1
+. Our findings provide insights into the design of highly active and stable catalysts for methane activation and create a platform for developing atomically thin supported metal catalysts.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Robust palladium oxide nano-cluster catalysts using atomic ions and strong interactions for high-performance methane oxidation
+Article
+Open access
+27 September 2024
+Reversible dehydrogenation and rehydrogenation of cyclohexane and methylcyclohexane by single-site platinum catalyst
+Article
+Open access
+01 March 2022
+Surface oxygenation of multicomponent nanoparticles toward active and stable oxidation catalysts
+Article
+Open access
+21 August 2020
+Main
+Inspired by homogeneous catalysts in which each metal atom contributes to a reaction, heterogeneous catalysts have successfully tethered atomically dispersed noble metal (NM) sites on thermally stable solid hosts
+1
+,
+2
+,
+3
+,
+4
+. Supported atomically thin nanolayers (ATNLs) promise to combine the appealing characteristics of single-atom and nanoparticle catalysts: atomically thin metal sites that maximize the utilization of NMs
+5
+, anchored on a support through metal–metal bonds at interfaces, leading to metallic surfaces that promote a broad range of reactions, such as dehydrogenation
+6
+,
+7
+, hydrogenation
+8
+,
+9
+and oxidation
+10
+,
+11
+. However, it has proven challenging to prepare ATNLs, that is, single or double atomic layers, and to relate their structures to catalytic performance
+12
+,
+13
+. The main barriers arise from difficulty in determining the layer thickness
+14
+, sintering of active sites at high temperatures (>700 °C)
+15
+and unpredictable interactions between ATNLs and their supports
+12
+. Achieving atomically thin NM architectures in heterogeneous catalysts has long been of interest
+16
+,
+17
+, with recent progress showing that NMs can wet early transition metal carbide (TMC) surfaces, forming strong interfacial metal–support bonds
+18
+. For example, raft-like Pt particles were observed in Pt/Mo
+2
+C catalysts for the water-gas shift reaction
+19
+; layered Au clusters coexisted with single Au atoms in Au/α-MoC catalysts
+14
+; and atomically thin NM monolayers were coated on the surface of tungsten carbide nanoparticles to form core–shell architectures
+20
+. These advances together, with the thermal and chemical stability of TMCs, hint that surfaces of group VIB TMCs are ideal for spreading supported NMs, but the interfaces that anchor the nanolayers remain unknown, leading to complexity and uncertainty in understanding the formation and catalytic performance of ATNLs.
+The recent boom of shale gas has stimulated renewed interest in C–H bond cleavage as the initial step towards direct conversion of methane to value-added products
+21
+,
+22
+,
+23
+. Non-oxidative methane coupling is an appealing approach, with high carbon utilization efficiency and low emission
+21
+. Pt catalysts exhibit satisfactory activity for this chemistry but suffer from rapid deactivation due to deposition of coke, which covers the active sites
+24
+. The challenges to achieving stable methane conversion and maintaining activity lie in activating the first C–H bond while inhibiting deep dehydrogenation and preserving highly dispersed active sites at high temperatures (>700 °C).
+Here, we report that the conditions in direct methane conversion can be met by ATNLs of Pt supported on a two-dimensional (2D) molybdenum titanium carbide (MXenes). MXene refers to a burgeoning family of 2D metal carbides and nitrides with a general formula of M
+n
++1
+X
+n
+T
+x
+, where M stands for an early transition metal, X represents carbon and/or nitrogen and T is a surface functional group
+25
+,
+26
+,
+27
+. We show direct experimental evidence that atomically thin Pt nanolayers are anchored on the basal planes of Mo
+2
+TiC
+2
+T
+x
+MXenes, where the first-layer Pt atoms favourably occupy the hexagonal close-packed (hcp) sites above the topmost C atoms of the support. Density functional theory (DFT) calculations and in-situ spectroscopy suggest that Pt ATNLs are stabilized by Pt–Mo bonding that alters the electronic structure of Pt atoms. The 5
+d
+states of the Pt ATNLs are shifted to higher energy, which activates C–H bonds with weaker adsorption of CH
+3
+* and thereby suppresses coke formation. Consequently, the Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts delivered stable methane conversion for non-oxidative coupling of methane (NOCM) reactions without deactivation for 72 hours at 750 °C, and exhibited >98% selectivity towards ethane/ethylene (C
+2
+), with turnover frequencies (TOF) of 0.2–0.6 s
+−1
+.
+Results
+Atomically thin platinum nanolayers
+To prepare Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts, a quaternary TMC (MAX), that is, Mo
+2
+TiAlC
+2
+, was synthesized by solid-state sintering, followed by HF etching to remove Al and obtain the layered Mo
+2
+TiC
+2
+T
+x
+MXene (Supplementary Fig.
+1
+). Pt was loaded on Mo
+2
+TiC
+2
+T
+x
+MXene by incipient-wetness impregnation, which was activated at 450 °C for NOCM (see details in
+Methods
+). Aberration-corrected high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) was employed to investigate the activated catalyst at atomic resolution and to identify metal–support interfaces. The HAADF-STEM images viewed along the
+\([11\overline 2 0]\)
+zone axis confirm the atomic ordering of the Mo
+2
+TiC
+2
+T
+x
+support
+28
+, where a layer of Ti is sandwiched between two Mo layers (Fig.
+1a,b
+). The brighter atoms exhibited higher
+Z
+contrast than the underlying Mo MXene support (Fig.
+1b
+), corresponding to Pt bilayers that intercalated between two layers of Mo
+2
+TiC
+2
+T
+x
+MXene. Energy dispersive X-ray spectroscopy (EDS) elemental mappings (Fig.
+1c–e
+) also confirm that Pt wets the surface of the MXene support. This result differs from that of Pt supported on other transition metal surfaces, such as Pt/Ti
+3
+C
+2
+T
+x
+and Pt/Nb
+2
+CT
+x
+, where the Pt alloyed with surface transition metals and formed intermetallic nanoparticles on in-situ coreduction
+29
+,
+30
+,
+31
+. This difference suggests that the formation of atomic-layered Pt is not due to the spatial confinement of MXene layers, but rather to Mo surfaces and their interactions with Pt. Figure
+1f
+shows the direct imaging of Pt–Mo MXene interfaces, indicating that the Pt atoms at the bottom layer preferentially occupy the hcp sites, that is, positions of the bottom Mo layer (marked as a yellow dashed square) on the surface of Mo
+2
+TiC
+2
+T
+x
+MXene. These results suggest that Pt strongly interacts with the Mo
+2
+TiC
+2
+T
+x
+MXene with a large interfacial adhesion energy and that the growth of Pt nanolayers is dictated by metal–support bonding instead of surface energies, that is, Wulff’s theorem
+32
+.
+Fig. 1: Atomic structure and DFT calculations of Pt supported by Mo
+2
+TiC
+2
+T
+x
+MXene.
+a
+, HAADF-STEM image of Pt/Mo
+2
+TiC
+2
+T
+x
+viewed from the [
+\(11\bar 20\)
+] direction. Scale bar, 5 nm.
+b
+–
+e
+, Atomic-resolution HAADF-STEM image showing metal–support interfaces (
+b
+) and EDS elemental mappings for Pt (
+c
+), Mo (
+d
+) and Ti (
+e
+). ATNLs of Pt are highlighted by yellow arrows in
+b
+. Scale bars, 2 nm.
+f
+, Magnified HAADF-STEM image from
+b
+with metal–support alignment marked by yellow dashed squares and lines. Scale bar, 0.5 nm.
+g
+,
+h
+, HAADF-STEM image viewing from the [0001] direction with its fast Fourier transform pattern shown in the inset in
+g
+; image of the Pt monoatomic layer (
+h
+). Scale bars, 5 nm (
+g
+) and 1 nm (
+h
+).
+i
+, Relaxed structure showing Pt atoms occupying hcp sites on the surface of Mo
+2
+TiC
+2
+T
+x
+MXene.
+j
+, DFT calculated energy per atom of different nanostructured architectures on the surface of Mo
+2
+TiC
+2
+T
+x
+MXene.
+Full size image
+HAADF-STEM imaging of the basal plane ([0001] direction) of Pt/Mo
+2
+TiC
+2
+T
+x
+provided further evidence for the formation of Pt nanolayers on the MXene support (Fig.
+1g
+). The characteristic hexagonal pattern of Mo
+2
+TiC
+2
+T
+x
+(marked by blue atoms) is accompanied by regions of enhanced
+Z
+contrast corresponding to Pt atoms (bottom left corner of Fig.
+1h
+). The Pt atoms are situated on hcp sites of the surface of Mo
+2
+TiC
+2
+T
+x
+MXene, forming rhombic patterns (marked by red circles) that are characteristic of Pt monolayers (Fig.
+1i
+). The single Pt layers maximize the atom efficiency by exposing all atoms on their surface, leading to ~100% dispersion
+12
+. Moreover, continuous lattice fringes across the metal–support interfaces were observed (Fig.
+1f
+), indicating epitaxial growth of the Pt nanolayers on the Mo
+2
+TiC
+2
+T
+x
+MXene. Detailed crystal structure analysis (Supplementary Figs.
+2
+and
+3
+) showed that epitaxial Pt nanolayers with an average size of ~2.2 nm aligned their (111) planes with the (0001) planes of the MXene support, leading to an epitaxial relationship of [111]Pt//[0001]Mo
+2
+TiC
+2
+T
+x
+MXenes.
+Our experimental results suggest that the chemisorption of Pt atoms on the hcp sites of the MXene support, through metal–support bonding, can account for the formation of atomically thin Pt nanolayers. DFT calculations were thus performed to assess the interface formation energies (see Supplementary Note
+1
+for details) of Pt by three different sites on the basal plane of Mo
+2
+TiC
+2
+T
+x
+MXene
+33
+: Mo atop sites, face-centred cubic (fcc) sites and hcp sites (Fig.
+1i
+). When Pt is coordinated on an hcp site (Fig.
+1i
+), the binding of Pt is more favoured (−1.62 eV per Pt atom) than the weaker adsorption on the fcc (−1.38 eV per Pt atom) and Mo atop (−1.00 eV per Pt atom) sites (Supplementary Fig.
+4
+). Figure
+1j
+shows the calculated interface formation energies for Pt nanolayers and nanoparticles along with the structures in the inset figures. We found that the atomically thin Pt monolayer is the most stable structure with the lowest energy compared to the nanoparticle structures. Moreover, a comparison of the two nanoparticle geometries shows that with a decrease in the number of interfacial Mo–Pt bonds, the energy of the system increases, further illustrating the preference of Pt atoms to form single or double atomically thin layers with a maximum number of Pt atoms bonded to the MXene surface, rather than nanoparticle- or nanopillar-type structures where more Pt–Pt bonds are formed.
+Catalytic performance of Pt/Mo
+2
+TiC
+2
+T
+x
+in NOCM
+In a flow fixed-bed reactor, NOCM was performed over various Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts with different Pt loadings (namely, 2%, 1.5%, 1%, 0.75%, 0.5% and 0.25%; see Supplementary Table
+1
+for details). These catalysts exhibited a surface area of 26–33 m
+2
+g
+−1
+, a pore size of ~3 nm and a pore volume of 0.05–0.08 cm
+3
+g
+−1
+(Supplementary Table
+2
+) and showed minimum loss of Pt metal during the reactions (Supplementary Table
+1
+). Thermodynamically, both a low methane pressure and a high operating temperature promote the formation of the desired ethane/ethylene (Supplementary Fig.
+5
+), as well as undesired coke precursors (Supplementary Fig.
+6
+). From a kinetic perspective, for the series of reactions converting methane to ethane/ethylene followed by benzene/naphthalene, the effect of gas hourly space velocity (GHSV) was investigated as shown in Fig.
+2a–c
+and Supplementary Figs.
+7
+–
+9
+, with the results being the average of at least three independent tests. The methane conversion increased with decreasing GHSV for all catalysts. Both high Pt loading and low GHSV contributed to coke accumulation, resulting in rapid deactivation of the catalysts. Among all tested catalysts, the 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalyst exhibited the best coke-resistant property at 8.6–12.9 h
+−1
+GHSV, 750 °C, 3.5–6.5% methane conversion and >98% selectivity to C
+2
+species.
+Fig. 2: Catalytic performance of Pt/Mo
+2
+TiC
+2
+T
+x
+for non-oxidative coupling of methane.
+a
+–
+c
+, Performance of 2% Pt (
+a
+), 1% Pt (
+b
+) and 0.5% Pt (
+c
+) over MXene, respectively, at 750 °C in the GHSV range of 4.3–12.9 h
+−1
+. The error bars correspond to the standard deviations of measurements over three separately prepared catalysts under the same conditions.
+d
+,
+e
+, Plots of C
+2
+selectivity (
+d
+) and TOF (
+e
+) versus methane conversion under the same conditions as in
+a
+–
+c
+.
+f
+, TPSR over 0.5% Pt/MXene at GHSV 8.6 h
+−1
+.
+g
+, Mass spectrum of a sample obtained at the reactor outlet over 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+at GHSV 8.6 h
+−1
+and 750 °C.
+h
+, Long-term catalyst stability of 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+at 750 °C and GHSV 8.6 h
+−1
+.
+Full size image
+Figure
+2d
+shows the relationship between methane conversion and C
+2
+selectivity. High C
+2
+selectivity was typically obtained at low methane conversion over low Pt loading catalysts. The 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalyst remained >95% selective towards C
+2
+species at a methane conversion of 8%, while other catalysts showed either lower methane conversion or lower selectivity towards C
+2
+. The Pt dispersion, that is, the ratio of the number of surface atoms to the number of total atoms, was measured by the H
+2
+–O
+2
+titration method (
+Methods
+), which was employed to normalize all methane conversion rates to obtain the TOF (Fig.
+2e
+). The Pt dispersions were determined to be 91%, 65% and 34% for 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+, 1% Pt/Mo
+2
+TiC
+2
+T
+x
+and 2% Pt/Mo
+2
+TiC
+2
+T
+x
+, respectively (Supplementary Table
+3
+). Increasing the Pt loading from 0.25% to 2% substantially decreases the Pt dispersions (from 97% to 34%) in Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts, suggesting that thick Pt nanostructures that promote coke deposition start to form at higher Pt loadings (>0.5%). HAADF-STEM further confirms that raft-like nanoflakes that are longer than 20 nm were formed in the high Pt loading (1% and 2%) catalysts (Supplementary Figs.
+10
+and
+11
+). The dispersions of low Pt loading catalysts (0.25% and 0.5%) are close to 100%, indicating the formation of ATNLs, which is consistent with the results of HAADF-STEM and DFT calculations. It should be noted that all these TOF values fell within a relatively narrow range (0.2–0.6 s
+−1
+), implying similar activity of the surface Pt atoms for NOCM in all Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts. To our best knowledge, the TOFs of Pt/Mo
+2
+TiC
+2
+T
+x
+are among the highest values for methane activation, compared with the values of 0.0005–0.05 s
+−1
+found in the literature
+34
+,
+35
+,
+36
+(Supplementary Table
+4
+).
+Temperature-programmed surface reaction (TPSR) was carried out over 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+to investigate the effect of the operating temperature on product distribution. As shown in Fig.
+2f
+, methane was not efficiently activated until 600 °C. At 600–700 °C, a trace amount of ethane was found as the only product, while at 700–800 °C both ethane and ethylene were generated from methane coupling. Trace amounts of acetylene (C
+2
+H
+2
+) and benzene were also detectable as by-products. At higher operating temperatures (>800 °C), ethane dehydrogenation led to more ethylene as well as undesired acetylene and benzene (coke precursors), rapidly deactivating the catalyst. Figure
+2g
+presents the mass spectrum of a sample obtained at the reactor outlet. In addition to ethane (
+m
+/
+z
+= 30) and ethylene (
+m
+/
+z
+= 28), methyl radicals (
+m
+/
+z
+= 15) were also detected. The presence of methyl radicals as an intermediate suggests that the ATNLs activate the first C–H bond of methane to form methyl radicals and two methyl radicals in the gas-phase couple to form an ethane molecule that is further dehydrogenated to ethylene. A similar reaction mechanism was also observed in previous NOCM catalysts
+21
+.
+In the absence of external and internal mass transfer limitation (Supplementary Fig.
+12
+and Supplementary Note
+2
+), kinetic measurements were performed for NOCM over 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts. A reaction network including three individual reactions is proposed (Supplementary Fig.
+13
+), and both forward and reverse reactions of each reaction were considered (Supplementary Table
+5
+). The detailed kinetic analysis is shown in Supplementary Note
+3
+. In the investigated temperature range (700–780 °C), both methane coupling to ethane and ethylene formation from ethane dehydrogenation were first-order reactions (Supplementary Fig.
+14
+). The activation energies were 205 and 208 kJ mol
+−1
+(Supplementary Fig.
+15
+and Supplementary Table
+6
+), respectively, which is consistent with previous literature reports
+37
+. In particular, the 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalyst showed a stable trend without deactivation for 72 hours (3 days) at 750 °C and 8.6 h
+−1
+GHSV (Fig.
+2h
+), which is in contrast to the 1% Pt/Mo
+2
+TiC
+2
+T
+x
+and 2% Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts, which started to deactivate after a few hours (<6 hours) of reaction (Supplementary Fig.
+16
+). We further increased the partial pressure of methane to 0.1 atm to test the anti-coke performance of the ATNL catalysts. The catalytic performance, including conversion, selectivity and TOFs remained similar to that of 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts tested under 1% methane. Long-term stability (3 days) of the ATNL catalysts was also achieved at 750 °C (Supplementary Fig.
+17
+). It should be noted that catalyst regeneration plays a crucial role in the NOCM reaction, as coke depositions leading to deactivation of catalysts are considered to be inevitable
+38
+. We therefore conducted an in-situ regeneration treatment by feeding an O
+2
+–H
+2
+O mixture at 450 °C for 10 hours after every 72 hours of continuous operation to test the regenerability of the Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts. After two cycles of regeneration, the catalyst continued to activate methane to form C
+2
+species with high selectivity (>98%) for an additional six days, although methane conversion decreased slightly by ~1% per regeneration (Supplementary Fig.
+18
+). At 800 and 850 °C, the long-term stability of Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts was inferior to that of Pt/Mo
+2
+TiC
+2
+T
+x
+tested at 750 °C, showing performance deactivation at a time on stream (TOS) of 60–65 h (Supplementary Fig.
+19
+).
+Structural characterizations of Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts
+Aberration-corrected HAADF-STEM and in-situ spectroscopies were executed to study the Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts reduced at the reaction temperature (750 °C). Figure
+3a
+and its inset show the Mo
+2
+TiC
+2
+T
+x
+support viewed along the [0001] zone axis, where the hexagonal symmetry is the characteristic structure of Mo
+2
+TiC
+2
+T
+x
+MXenes and suggests that the support was preserved at the reaction temperature. An image at higher magnification (Fig.
+3b
+) and the corresponding EDS elemental mapping (Supplementary Fig.
+20
+) confirm that Pt forms rhombic patterns on the surface of MXene supports, consistent with Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts reduced at the activation temperature (450 °C). HAADF-STEM images viewed along the
+\([11\bar 20]\)
+zone axis display atomic-layered Pt intercalated between layers of the MXene support after reduction at 750 °C (Fig.
+3c,d
+), and that Pt atoms preferentially occupy the hcp sites of the supports, indicating that epitaxial growth of Pt on MXenes and their metal–support interfaces were retained at 750 °C, where Pt is adsorbed and stabilized by Pt–Mo bonds. We also correlated the Pt atoms viewed from the [0001] and
+\([11\bar 20]\)
+directions to solve the structure of the Pt monolayers supported by the MXene, which serves as an experimental observation of the model proposed in Fig.
+1i
+. The EDS element mappings show that ATNLs of Pt with an average diameter of approximately 4.1 nm are on the surface of the MXene supports and that no agglomerated nanoparticles were formed at the reaction temperature (Supplementary Fig.
+21
+). We also characterized the spent 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts using atomic-resolution HAADF-STEM. Images from both the [0001] and [
+\(11\bar 20\)
+] directions confirmed that the layered structure of Mo
+2
+TiC
+2
+T
+x
+was preserved after the NOCM tests and that Pt layered structures remained in spent Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts (Supplementary Figs.
+22
+and
+23
+).
+Fig. 3: Structural characterization of 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts reduced at 750 °C.
+a
+,
+b
+, HAADF-STEM image of Pt/Mo
+2
+TiC
+2
+T
+x
+viewed from the [0001] direction with its fast Fourier transform pattern shown in the inset to
+a
+, and the image of the Pt monoatomic layer (
+b
+). Scale bars, 5 nm (
+a
+) and 500 pm (
+b
+).
+c
+,
+d
+, HAADF-STEM image of Pt/Mo
+2
+TiC
+2
+T
+x
+viewed from the [
+\(11\bar 20\)
+] direction (
+c
+) and image of the Pt monoatomic layer intercalated between two layers of the MXene supports (
+d
+). Atoms in blue and green represent Mo and Ti, respectively. Scale bars, 5 nm (
+c
+) and 500 pm (
+d
+).
+e
+,
+f
+, Quasi in-situ XPS of the Mo 3
+d
+region (
+e
+) and F 1
+s
+region (
+f
+) of 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts reduced at 750 °C.
+g
+, In-situ Pt L
+III
+edge XANES spectra of 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+reduced at 450 °C and 750 °C compared to Pt foil.
+h
+, In-situ magnitude of the Fourier transform of the
+k
+2
+-weighted EXAFS spectra of 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+reduced at 450 °C and 750 °C compared to Pt foil.
+Full size image
+To understand the change in the surface of Mo
+2
+TiC
+2
+T
+x
+supports at the reaction temperature, we carried out quasi in-situ X-ray photoemission spectroscopy (XPS) measurements (
+Supplementary Methods
+). The deconvolved molybdenum 3
+d
+spectra of a fresh Pt/Mo
+2
+TiC
+2
+T
+x
+catalyst reveal the doublets of both carbidic (Mo–C) and oxidized Mo (Mo–O) species at 228.2/231.4 eV and 231.7/234.6 eV, respectively (Fig.
+3e
+)
+28
+. High-resolution XPS spectra in the F 1
+s
+region also confirmed the presence of surface F species on the fresh Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts (Fig.
+3f
+). The fresh Pt/Mo
+2
+TiC
+2
+T
+x
+catalyst was then reduced at 750 °C in a reaction cell connected to the XPS spectrometer before submission to the analysis chamber under ultrahigh vacuum conditions. Surface defunctionalization of Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts at the reaction temperature was confirmed by the disappearance of the Mo–O peaks in the Mo 3
+d
+region and the absence of the F 1
+s
+peak (Fig.
+3e,f
+). However, oxidized Mo was still present in Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts reduced at 450 °C, indicating that the surface of the MXene support was not fully reduced at the activation temperature (Supplementary Fig.
+24
+), which is consistent with previous studies
+39
+. The removal of the surface terminations from Mo
+2
+TiC
+2
+T
+x
+results in decreased interlayer spacing of the MXene layers, which was also revealed by HAADF-STEM (Fig.
+3c
+). This observation is consistent with the X-ray diffraction results where the (002) and (004) peaks of Mo
+2
+TiC
+2
+T
+x
+supports shift to higher angles after the reduction, corresponding to decreased
+c
+lattice parameters (Supplementary Fig.
+25
+). Moreover, these peaks disappeared for spent Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts after 72 hours of NOCM tests, indicating that the interlayer spacing of the Mo
+2
+TiC
+2
+T
+x
+support lost the coherence (
+c
+direction) needed for Bragg diffraction after the defunctionalization, consistent with previous studies
+39
+. The reaction temperature (750 °C) also induced structural evolution of the Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts, as demonstrated by the removal of the surface functional groups (-O and -F) and the presence of trace amounts of α-MoC in the MXene supports (Supplementary Fig.
+25
+). The contraction of the interlayer distance limits the growth of the Pt ATNLs, facilitating the formation of Pt monolayers with larger size instead of the double nanolayers (Supplementary Fig.
+26
+). In addition, the high-temperature reduction defunctionalized the surface terminations, which have been known to anchor Pt precursors
+29
+, leading to the growth of Pt ATNLs, from 2.2 nm at 450 °C to 4.1 nm at 750 °C.
+We further investigated the chemical environment of Pt ATNLs using in-situ X-ray absorption spectroscopy (XAS). Comparing 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts reduced at 450 °C and 750 °C with metallic Pt foil, Pt L
+III
+edge X-ray absorption near-edge spectra (XANES) show that the edge energy increases (Supplementary Table
+7
+) and that the white-line intensity is higher (Fig.
+3g
+), suggesting that the unoccupied 5
+d
+states of Pt ATNLs shift to higher energy. According to recent literature, the occupied 5
+d
+states (valence states) of Pt ATNLs, which are responsible for metal–adsorbate bond energies and catalytic performance, correspondingly shift to lower energy compared to Pt foil
+40
+,
+41
+. The lower energy of the valence states, due to the interactions between ATNLs and the Mo
+2
+TiC
+2
+T
+x
+MXene support, results in modified absorptive properties of the supported Pt catalysts
+42
+. Figure
+3h
+shows the magnitude of the Fourier transform of the
+k
+2
+-weighted extended X-ray absorption fine structure (EXAFS) spectra of the Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts plotted together with the Pt foil. The first-shell scattering peaks of Pt/Mo
+2
+TiC
+2
+T
+x
+are in the same distance region (phase-uncorrected distance,
+R
+= 1.5–3.2 Å) as the Pt–Pt scattering peaks from Pt foil, corresponding to metal–metal bonding. The scattering pattern for Pt/Mo
+2
+TiC
+2
+T
+x
+, however, is very different from that of the Pt foil. The peak intensity is greatly reduced at
+R
+= 2–3 Å (phase-uncorrected distances), suggesting strong deconstructive interference of Pt 5
+d
+(Pt–Pt) scattering by Pt 4
+d
+(Pt–Mo) scattering
+30
+.
+Quantitative fitting of the EXAFS spectra gives the following average coordination numbers (CNs) and bond distances: 4.9 Pt–Pt bonds at 2.75 Å and 2.3 Pt–Mo bonds at 2.70 Å for Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts reduced at 450 °C; 3.2 Pt–Pt bonds at 2.79 Å and 5.8 Pt–Mo bonds at 2.80 Å for Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts reduced at 750 °C (Supplementary Fig.
+27
+and Supplementary Table
+8
+). The results suggest that the Pt ATNLs directly bond with the Mo atoms from the MXene support, which is consistent with HAADF-STEM showing that the Pt nanolayers are in direct contact with the Mo atom layers (Fig.
+1f
+). For 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts there is a decrease in the CN for platinum–platinum interactions (from 4.9 to 3.2), and an increase in the platinum–molybdenum CN (from 2.3 to 5.8), as the reduction temperature increases from 450 °C to 750 °C. The changes in CNs result from the formation of Pt monolayers that dominate Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts reduced at 750 °C, in contrast to the Pt bilayers that were the main structure observed in Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts reduced at 450 °C. Moreover, the average Pt–Pt bond distance (2.79 Å) of 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+reduced at the reaction temperature is slightly longer than that of the catalysts reduced at the activation temperature (2.75 Å), indicating that the strong anchoring of Pt atoms at the C hollow sites alters the metal bonding among the Pt atoms. Our DFT calculations (Supplementary Figs.
+28
+and
+29
+) suggest that the first layer of Pt is strained to match the MXene lattice, leading to an expanded lattice distance compared to the second layer of Pt atoms (Supplementary Note
+1
+). For Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts with higher metal loadings (1% and 2%) reduced at 750 °C, the CNs of Pt–Pt bonds increased while the bond distances decreased compared with the ATNLs (Supplementary Fig.
+30
+), which is consistent with the results of HAADF-STEM showing the formation of raft-like Pt nanoflakes in the high Pt loading catalysts (Supplementary Figs.
+10
+and
+11
+).
+We employed temperature-programmed oxidation (TPO) to investigate the coke formation of spent 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts tested at various temperatures and to compare them with Pt or bimetallic nanoparticle catalysts
+35
+. The TPO profile of the spent catalysts tested at 750 °C after 72 hours shows a major peak near 450 °C (Fig.
+4a
+). With the increase in the reaction temperature, a broad shoulder on the high-temperature side starts to evolve and develops into a distinguishable peak at 510 °C for catalysts tested at 850 °C, corresponding to at least two different types of carbon species. Moreover, our mass spectra results demonstrate that the concentrations of ethane, ethylene and methyl radicals started to decrease when the reaction temperature was higher than 800 °C, while the peaks of benzene (
+m
+/
+z
+= 78) and naphthalene (
+m
+/
+z
+= 128), as coke precursors, increased, especially at 850 °C (Supplementary Fig.
+31
+). This observation implies that high operating temperatures (>800 °C) led to heavier aromatics as coke precursor species, which resulted in the deactivation of the catalysts.
+Fig. 4: Oxidation tests and DFT calculations.
+a
+,
+b
+, TPO profiles for spent 0.5% Pt/Mo
+2
+TiC
+2
+T
+x
+catalyst at GHSV 8.6 h
+−1
+at 850 °C, 800 °C and 750 °C after 72-h tests (
+a
+); Pt–Bi/ZSM-5 and Pt/AC (activated carbon) (
+b
+).
+c
+, Energy landscape and DFT optimized configurations for NOCM on a single Pt nanolayer (111) (blue), dual Pt nanolayer (111) (green) and Pt nanoparticle (111) (red).
+d
+, A proposed catalytic circle of NOCM over Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts. TS, transition state.
+Full size image
+The coke residues of Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts after the TPO tests were dissolved in a mixture of ethanol and acetone and were analysed by gas chromatography–mass spectroscopy; in addition to benzene and naphthalene, C
+12
+–C
+38
+polyaromatic hydrocarbons were the primary coke-representing compounds (Supplementary Fig.
+32
+). Coke formation of NOCM is proposed to be via the well-known hydrocarbon pool mechanism, which was originally proposed for MTO (methanol to olefins)
+43
+but has also been applied to methane non-oxidative conversion
+44
+. In general, it was hypothesized that the CH
+2
+* component, formed by the overdehydrogenation of CH
+3
+*, serves as the core species in the hydrocarbon pool (Supplementary Fig.
+33
+), which can be converted to heavier hydrocarbons, such as C
+3
+–C
+6
+, C
+6+
+and eventually coke
+45
+. Deep dehydrogenation of CH
+3
+* is favoured at high operating temperatures, leading to CH
+y
+* (
+y
+≤ 2), which serve as coke precursors. Note that Pt/Mo
+2
+TiC
+2
+T
+x
+operated at 750 °C exhibited the lowest amount of coking compared with Pt nanoparticles supported by activated carbon and Pt–Bi bimetallic nanoparticles on ZSM-5 zeolites (Fig.
+4b
+)
+35
+,
+46
+, which results in the long-term stability of the catalysts at the optimal reaction temperature (750 °C). To obtain a reliable comparison in activity, we synthesized Pt/AC and Pt–Bi/ZSM-5 catalysts and tested them under the same conditions as for the NOCM reaction (Supplementary Fig.
+34
+). Under a methane conversion of 8% at 750 °C, these catalysts suffered from coking and showed lower selectivity to C
+2
+products compared to the ATNL catalysts, consistent with the observations of the TPO tests.
+DFT studies
+To gain more insight into the suppressed coke deposition of the ATNL catalysts for the NOCM reaction, the energy profiles of the NOCM reaction and side reactions were investigated using DFT (Fig.
+4c
+). The structures of reaction intermediates and transition states of these reactions are illustrated in Fig.
+4d
+, with the free energies of different reaction pathways on Pt nanoparticle (111) surfaces and ATNLs calculated. NOCM starts with the activation of the first C–H bond, which leads to dissociative adsorption of methane forming surface alkyl species (CH
+3
+*). Our DFT results suggest that the free energy changes of all C–H bond scission steps on the Pt monolayers and double nanolayers are ~1 eV more unfavourable than those on Pt nanoparticles (111), indicating weakened surface adsorption of the ATNLs due to the altered electronic structure suggested by XANES. Such a weakening leads to the preferential desorption of surface alkyl species to form methyl radicals instead of scission of the remaining C–H bonds towards deep dehydrogenation, which is believed to generate coke precursors.
+On ATNLs at 750 °C, the scission of a secondary C–H, that is, from CH
+3
+* to CH
+2
+*, is endergonic, while CH
+3
+* desorption is exergonic. Furthermore, compared with the energy barrier associated with conversion of CH
+3
+* to CH
+2
+* (TS2), CH
+3
+* desorption to methyl radicals is even more preferred, with an energy difference of approximately 0.7–0.9 eV. This is primarily due to the relatively weak adsorption of CH
+3
+* over ATNLs. In contrast, the deep dehydrogenation step is more favoured over the (111) surface of Pt nanoparticles, by approximately 0.2–0.3 eV in free energy, indicating that the formation of a methyl radical is less favourable than further dehydrogenation. Compared to the methyl desorption step, C–H bond scissions of overdehydrogenated reaction intermediates, for example, CH
+2
+* and CH*, are both exergonic and much more favourable. These findings rationalize our experimental observations that Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts readily activate C–H bonds in methane to form CH
+3
+*, which is prone to desorption from the surface of ATNLs instead of overdehydrogenation, leading to higher selectivity for C
+2
+products while resisting coke formation.
+Conclusions
+In summary, our experimental and theoretical results demonstrate the epitaxial growth of atomically thin Pt nanolayers on the surface of Mo
+2
+TiC
+2
+T
+x
+MXene. We found that ATNLs of Pt were anchored on the MXene through strong Pt–Mo bonding at the metal–support interfaces, which leads to atomic dispersion and altered absorptive properties of the Pt active sites that favour methane coupling over coking formation. Consequently, Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts delivered stable methane conversion (7%) to C
+2
+products with >98% selectivity and TOFs of 0.2–0.6 s
+−1
+. The regeneration of MXene-based catalysts is still in its infancy, and requires attention and systematic study to achieve the rational design of MXene-based materials for heterogeneous catalysis. Atomic-resolution HAADF-STEM images (Supplementary Fig.
+35
+) of regenerated catalysts show that Mo
+2
+TiC
+2
+T
+x
+MXene supports were sintered with the loss of their original ordering of transition metals (Mo-Ti-Mo), and that Pt monolayers substituted the Mo layers to form an atomic layer sequence of Pt-Ti-Mo. This substitution results from the decay of the structural integrity of Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts after oxidative regeneration, as shown by the X-ray diffraction pattern (Supplementary Fig
+25
+). Although Pt nanolayers were still observed in the regenerated catalysts, their chemical environment and size changed, leading to a decreased (~1%) conversion after each regeneration step. Since commercial processes have been developed for converting C
+2
+(ethane/ethylene) to liquid hydrocarbon (C
+8+
+) (Supplementary Fig.
+36
+)
+47
+, the NOCM is the last part remaining to be solved, which merits future research attention for visible industrial methane-to-liquid technology.
+Methods
+Synthesis of Mo
+2
+TiAlC
+2
+and Mo
+2
+TiC
+2
+T
+x
+MXene
+A spark plasma sintering was employed to synthesize Mo
+2
+TiAlC
+2
+(MAX phase). In detail, commercial powders of molybdenum (Sigma Aldrich, 99%), titanium (325 mesh, 99%, Alfa Aesar), aluminium (325 mesh, 99.5%, Alfa Aesar) and graphite (7–11 μm, 99%, Alfa Aesar) were mixed with a molar ratio of Al/C/Ti/Mo of 1.1:1.9:1:2. The mixture was loaded into a graphite die coated with boron nitride. Next, the graphite die was transferred into a spark plasma sintering system (Fuji-211lx) where it was sintered at 1,450 °C for 60 minutes and subjected to a uniaxial pressure of 30 MPa. The synthesized Mo
+2
+TiAlC
+2
+disk was then hand-pulverized in a synthetic sapphire mortar to pass through a 400-mesh screen. The Mo
+2
+TiAlC
+2
+powder was etched with HF (48%) at 55 °C for 72 hours. The as-obtained Mo
+2
+TiC
+2
+T
+x
+MXene was then washed with deionized water until the pH was approximately 5, followed by centrifugation at 8,900 r.p.m. The Mo
+2
+TiC
+2
+T
+x
+MXene powders were collected and then dried under vacuum at ambient temperature.
+Synthesis of Pt/Mo
+2
+TiC
+2
+T
+x
+Typically, 0.040 g of Pt(NH
+3
+)
+4
+(NO
+3
+)
+2
+(99.995%, Sigma Aldrich) was dissolved in 1 ml of deionized water (DI) to prepare a solution of 20 mg Pt per ml. Pt was loaded on Mo
+2
+TiC
+2
+T
+x
+supports via incipient-wetness impregnation. Different Pt loadings were achieved by varying the volume of Pt solution used. After the impregnation of Pt, the materials were dried overnight in vacuum at ambient temperature. Fresh Pt/Mo
+2
+TiC
+2
+T
+x
+was directly used for kinetics tests and other treatments. For reduced Pt/Mo
+2
+TiC
+2
+T
+x
+, the fresh Pt/Mo
+2
+TiC
+2
+T
+x
+powder was reduced at different temperatures in a tube furnace for at least 0.5 h under a flow of 5% H
+2
+balanced by Ar.
+Composition and structure characterization
+A Thermo Fisher Scientific X Series 2 inductively coupled plasma mass spectrometer (ICP-AES) was employed to determine the mass loading of Pt. After digesting the Pt/Mo
+2
+TiC
+2
+T
+x
+catalysts in a boiling aqua regia solution, the clear supernatant was collected for further characterizations. X-ray diffraction measurements were conducted on a Siemens D500 X-ray diffractometer with a CuKα (
+λ
+= 1.5406 Å) radiation source. HAADF-STEM experiments were conducted on a Titan Themis 300 probe-corrected scanning transmission electron microscope equipped with a Super-X EDX detector.
+Fluorescence in-situ XAS measurements at the Pt L
+III
+edge (11.5640 keV) were conducted on the 10-BM bending magnet beamline of the Materials Research Collaborative Access Team (MRCAT) at the Advanced Photon Source (APS), Argonne National Laboratory, and ex-situ XAS was conducted at beamline 2–2 in the Stanford Synchrotron Radiation Lightsource. A fine powder of Pt/Mo
+2
+TiC
+2
+T
+x
+was pressed into a sample holder made of stainless steel with the catalyst wafer oriented at 45 degrees relative to the X-ray beam. The XAS cell had a water-cooled stage fitted with Kapton windows and ceramic heaters for controlling temperature. The Pt/Mo
+2
+TiC
+2
+T
+x
+catalyst was heated to 750 °C in 3.5% H
+2
+for 30 minutes, and spectra were obtained at 200 °C in 3.5% H
+2
+. A standard 3.3-cm Lytle detector was employed for measuring fluorescence XAS and the background fluorescence was reduced by a Zn filter. Fluorescence X-rays are angularly dispersed downstream of the logarithmically bent crystal and the Pt Lα fluorescence line was selectively collected by choosing the correct detector angle relative to the bent crystal. ATHENA was used for energy calibration, normalization and background subtraction of the XAS data
+48
+. The EXAFS data were fitted by ARTEMIS to determine the bond distance (
+R
+), energy shift (Δ
+E
+0
+), coordination number and Debye–Waller factor (
+σ
+2
+). The
+k
+range for the Fourier transform of the Pt K edge was Δ
+k
+= 3–11 Å
+−1
+, and the
+R
+range for fitting was Δ
+R
+= 1.5–3.2 Å. The amplitude reduction factor (
+S
+0
+2
+= 0.80) was determined using the standard Pt foil, and the CN, bond distances and Debye–Waller factor were adjusted from an initial structural model until a good fit was obtained.
+At 77 K, Brunauer–Emmett–Teller (BET) measurements (N
+2
+adsorption and desorption) were carried out using a Micromeritics ASAP 2020 apparatus to obtain pore size, pore volume and surface area of catalysts. Degassing was first carried out for 8 h at 300 °C before the BET experiments. Elemental analysis of catalysts was performed in a SPECTRO instrument via the ICP-AES method. For Pt-loaded catalysts over MXenes, H
+2
+–O
+2
+titration was carried out at room temperature to measure Pt dispersion.
+Kinetics measurements
+The catalytic performance and kinetics measurements were tested in a continuous-flow fixed-bed reactor. Catalysts were activated in a H
+2
+-N
+2
+flow (H
+2
+and N
+2
+were 33 and 67 standard cubic centimetres per min, respectively) at 450 °C for 4 hours. The reactor was then purged by nitrogen with a flow of 50 standard cubic centimetres per min for 15 min. Various GHSV values were achieved by varying the weight of catalysts and feed flow rates. The standard operating conditions were 750 °C, 0.01 atm methane partial pressure and 50 mg of catalyst. The absence of internal and external diffusion effects was confirmed using the Weisz and Prater criterion
+49
+, while heat transfer effect was also excluded using the Mears criterion
+50
+.
+An Agilent GC6890 with both a flame ionization detector and thermal conductivity detector, and a Carboxen 1010 PLOT capillary column (30 m × 0.53 mm) were used for quantitative analysis of products. In typical cases, following an initial transient period, the catalyst exhibited stable performance for several hours. All datasets were taken at 10 min TOS during the stable period unless stated otherwise. A blank experiment using the unsupported MXene was tested under standard operating conditions, with the methane conversion <0.01%. All experiments have carbon mass balances of 98.8 ± 0.9%. For the reaction experiments, good repeatability, generally within less than 1.5% deviation, was achieved for all quantitative analyses. For TPSR experiments, the catalyst was reduced using 5 vol% H
+2
+at 400 °C for 2 hours before the TPSR measurement. On cooling to room temperature, a 5% CH
+4
+in N
+2
+gas mixture flow was fed at 20 ml min
+−1
+, and the temperature was increased from room temperature to 900 °C at a heating rate of 5 °C min
+−1
+. A thermal conductivity detector was used to detect products. In the TPO process, 5% O
+2
+in N
+2
+gas was used as the oxidizing gas. The spent catalysts were used for TPO tests. For catalyst regeneration, a 5% steam and 5% O
+2
+mixture was prepared and fed into the reactor where the spent catalyst was packed. Then, the reactor was heated to 450 °C and maintained constant for 10 hours. When regeneration was accomplished, the gas was switched to N
+2
+for purging for 15 min, followed by feeding 20% H
+2
+at 450 °C for catalyst activation before use. For initial catalytic performance tests (less than 1-h TOS), the mass balance was calculated by (∑(carbon mass of detectable products)/carbon mass of methane × 100%.
+DFT computational methods
+DFT calculations were performed on the MXene–Pt system using the Vienna Ab initio Simulation Package (VASP)
+51
+, employing the projector augmented wave method for ionic cores and the PW91 form of exchange-correlation functional in the generalized-gradient approximation. The plane-wave cut-off energy levels for bulk and slab calculations were set as 520 and 400 eV, respectively
+52
+, while a first-order Methfessel–Paxton smearing with a width of 0.15 eV was evaluated by extrapolating to zero broadening. The energy convergence criteria for all self-consistent field calculations were set as 10
+−5
+eV, and all structural relaxations were performed until forces were less than 0.02 eV Å
+−1
+. For structural optimization of a single unit cell of the MXene monolayer, a 12 × 12 × 1 gamma-centred k-point mesh was used. For larger unit cells consisting of 8 × 8 unit cells of the MXene monolayer and Pt film or nanoparticles, we used a 2×2×1 k-point mesh in our calculations. A vacuum separation of more than 20 Å was kept on top of the MXene layer to prevent interaction with its periodic image. Monkhorst–Pack meshes of 7 × 7 × 1 k-points were employed for sampling the surface Brillouin zone for p(2×2) unit cells of Pt(111) and Mo
+2
+TiC
+2
+T
+x
+slabs. A Pt layer was inserted into two Mo
+2
+TiC
+2
+T
+x
+layers to represent our Pt/Mo
+2
+TiC
+2
+T
+x
+catalyst. The climbing-image nudged elastic band method was used to locate the structures of transition states in the reactions. A p(2×4) Pt (111) unit cell was used for the adsorption of a methane molecule (CH
+4
+*) and methane dehydrogenation that forms CH
+3
+*. A p(4×4) Pt (111) unit cell, that is, two p(2×4) Pt (111) unit cells, was used for methane coupling. All transition states were confirmed to have only one imaginary vibrational mode. All free energies were zero-point energy-corrected, and the change in entropies for adsorption processes was calculated using the operating reaction temperature and the relationship proposed by Campbell
+53
+. Specifically, the standard entropy of adsorbed species at a given temperature is linearly correlated with the standard entropy of the gas-phase molecules and the ideal gas constant:
+$$S_{\mathrm{ad}}^0\left( T \right) = 0.7S_{\mathrm{gas}}^0\left( T \right) - 3.3R$$
+(1)
+where
+S
+ad
+and
+S
+gas
+are the entropies of adsorbed and gaseous species at a given temperature
+T
+, and
+R
+is the gas constant.
+Data availability
+The data that support the findings of this study are deposited at
+https://iastate.box.com/s/sf9go743qngg8ta0ufni0q102nu7hvjv
+. All the data and access are available from the corresponding authors on reasonable request.
+References
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Coperet, C. et al. Surface organometallic and coordination chemistry toward single-site heterogeneous catalysts: strategies, methods, structures, and activities.
+Chem. Rev.
+116
+, 323–421 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Kuznetsov, D. A. et al. Single site cobalt substitution in 2D molybdenum carbide (MXene) enhances catalytic activity in the hydrogen evolution reaction.
+J. Am. Chem. Soc.
+141
+, 17809–17816 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, P. et al. Photochemical route for synthesizing atomically dispersed palladium catalysts.
+Science
+352
+, 797–800 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Xiong, H. et al. Thermally stable and regenerable platinum-tin clusters for propane dehydrogenation prepared by atom trapping on ceria.
+Angew. Chem. Int. Ed. Engl.
+56
+, 8986–8991 (2017).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zhu, Y. et al. Lattice-confined Sn (IV/II) stabilizing raft-like Pt clusters: high selectivity and durability in propane dehydrogenation.
+ACS Catal.
+7
+, 6973–6978 (2017).
+Article
+CAS
+Google Scholar
+Kwak, J. H., Kovarik, L. & Szanyi, J. Heterogeneous catalysis on atomically dispersed supported metals: CO
+2
+reduction on multifunctional Pd catalysts.
+ACS Catal.
+3
+, 2094–2100 (2013).
+Article
+CAS
+Google Scholar
+Zhu, Y. et al. Covalent-bonding to irreducible SiO
+2
+leads to high-loading and atomically dispersed metal catalysts.
+J. Catal.
+353
+, 315–324 (2017).
+Article
+CAS
+Google Scholar
+Hou, Y., Nagamatsu, S., Asakura, K., Fukuoka, A. & Kobayashi, H. Trace mono-atomically dispersed rhodium on zeolite-supported cobalt catalyst for the efficient methane oxidation.
+Commun. Chem.
+1
+, 41 (2018).
+Article
+CAS
+Google Scholar
+DeRita, L. et al. Catalyst architecture for stable single atom dispersion enables site-specific spectroscopic and reactivity measurements of CO adsorbed to Pt atoms, oxidized Pt clusters, and metallic Pt clusters on TiO
+2
+.
+J. Am. Chem. Soc.
+139
+, 14150–14165 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, J. Catalysis by supported single metal atoms.
+ACS Catal.
+7
+, 34–59 (2017).
+Article
+CAS
+Google Scholar
+Kwak, J. H. et al. Coordinatively unsaturated Al
+3+
+centers as binding sites for active catalyst phases of platinum on γ-Al
+2
+O
+3
+.
+Science
+325
+, 1670–1673 (2009).
+Article
+CAS
+PubMed
+Google Scholar
+Yao, S. et al. Atomic-layered Au clusters on α-MoC as catalysts for the low-temperature water-gas shift reaction.
+Science
+357
+, 389–393 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, S. et al. In situ atomic-scale studies of the formation of epitaxial Pt nanocrystals on monolayer molybdenum disulfide.
+ACS Nano
+11
+, 9057–9067 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Göhl, D. et al. Engineering stable electrocatalysts by synergistic stabilization between carbide cores and Pt shells.
+Nat. Mater.
+19
+, 287–291 (2020).
+Article
+PubMed
+CAS
+Google Scholar
+Wang, L. et al. Tunable intrinsic strain in two-dimensional transition metal electrocatalysts.
+Science
+363
+, 870–874 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Esposito, D. V., Hunt, S. T., Kimmel, Y. C. & Chen, J. G. A new class of electrocatalysts for hydrogen production from water electrolysis: metal monolayers supported on low-cost transition metal carbides.
+J. Am. Chem. Soc.
+134
+, 3025–3033 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Schweitzer, N. M. et al. High activity carbide supported catalysts for water gas shift.
+J. Am. Chem.Soc.
+133
+, 2378–2381 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Hunt, S. T. et al. Self-assembly of noble metal monolayers on transition metal carbide nanoparticle catalysts.
+Science
+352
+, 974–978 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Guo, X. et al. Direct, nonoxidative conversion of methane to ethylene, aromatics, and hydrogen.
+Science
+344
+, 616–619 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Marcinkowski, M. D. et al. Pt/Cu single-atom alloys as coke-resistant catalysts for efficient C-H activation.
+Nat. Chem.
+10
+, 325–332 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Spivey, J. J. & Hutchings, G. Catalytic aromatization of methane.
+Chem. Soc. Rev.
+43
+, 792–803 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Belgued, M., Pareja, P., Amariglio, A. & Amariglio, H. Conversion of methane into higher hydrocarbons on platinum.
+Nature
+352
+, 789–790 (1991).
+Article
+CAS
+Google Scholar
+Naguib, M. et al. Two-dimensional nanocrystals produced by exfoliation of Ti
+3
+AlC
+2
+.
+Adv. Mater.
+23
+, 4248–4253 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Thakur, R. et al. Insights into the genesis of a selective and coke-resistant MXene-based catalyst for the dry reforming of methane.
+ACS Catal.
+10
+, 5124–5134 (2020).
+Article
+CAS
+Google Scholar
+Anasori, B. et al. Two-dimensional, ordered, double transition metals carbides (MXenes).
+ACS Nano
+9
+, 9507–9516 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, J. et al. Single platinum atoms immobilized on an MXene as an efficient catalyst for the hydrogen evolution reaction.
+Nat. Catal.
+1
+, 985–992 (2018).
+Article
+CAS
+Google Scholar
+Li, Z. et al. Reactive metal-support interactions at moderate temperature in two-dimensional niobium-carbide-supported platinum catalysts.
+Nat. Catal.
+1
+, 349–355 (2018).
+Article
+CAS
+Google Scholar
+Li, Z. et al. Two-dimensional transition metal carbides as supports for tuning the chemistry of catalytic nanoparticles.
+Nat. Commun.
+9
+, 5258 (2018).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Li, Z. et al. In situ formed Pt
+3
+Ti nanoparticles on a two-dimensional transition metal carbide (MXene) used as efficient catalysts for hydrogen evolution reactions.
+Nano Lett.
+19
+, 5102–5108 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, J. Advanced electron microscopy of metal-support interactions in supported metal catalysts.
+ChemCatChem
+3
+, 934–948 (2011).
+Article
+CAS
+Google Scholar
+Schultz, T. et al. Surface termination dependent work function and electronic properties of Ti
+3
+C
+2
+T
+x
+MXene.
+Chem. Mater.
+31
+, 6590–6597 (2019).
+Article
+CAS
+Google Scholar
+Gerceker, D. et al. Methane conversion to ethylene and aromatics on PtSn catalysts.
+ACS Catal.
+7
+, 2088–2100 (2017).
+Article
+CAS
+Google Scholar
+Xiao, Y. & Varma, A. Highly selective nonoxidative coupling of methane over Pt-Bi bimetallic catalysts.
+ACS Catal.
+8
+, 2735–2740 (2018).
+Article
+CAS
+Google Scholar
+Xie, P. et al. Nanoceria-supported single-atom platinum catalysts for direct methane conversion.
+ACS Catal.
+8
+, 4044–4048 (2018).
+Article
+CAS
+Google Scholar
+Ghose, R., Hwang, H. T. & Varma, A. Oxidative coupling of methane using catalysts synthesized by solution combustion method: catalyst optimization and kinetic studies.
+Appl. Catal. A
+472
+, 39–46 (2014).
+Article
+CAS
+Google Scholar
+Dutta, K., Shahryari, M. & Kopyscinski, J. Direct non-oxidative methane coupling to ethylene over gallium nitride. A catalyst regeneration study.
+Ind. Eng. Chem. Res.
+59
+, 4245–4256 (2020).
+Article
+CAS
+Google Scholar
+Deeva, E. B. et al. In situ XANES/XRD study of the structural stability of two-dimensional molybdenum carbide Mo
+2
+CT
+x
+: implications for the catalytic activity in the water-gas shift reaction.
+Chem. Mater.
+31
+, 4505–4513 (2019).
+Article
+CAS
+Google Scholar
+Wegener, E. C. et al. Intermetallic compounds as an alternative to single-atom alloy catalysts: geometric and electronic structures from advanced X-ray spectroscopies and computational studies.
+ChemCatChem
+12
+, 1325–1333 (2020).
+Article
+CAS
+Google Scholar
+Nørskov, J. K., Abild-Pedersen, F., Studt, F. & Bligaard, T. Density functional theory in surface chemistry and catalysis.
+Proc. Natl Acad. Sci. USA
+108
+, 937–943 (2011).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Xi, Y. & Heyden, A. Direct oxidation of methane to methanol enabled by electronic atomic monolayer–metal support interaction.
+ACS Catal.
+9
+, 6073–6079 (2019).
+Article
+CAS
+Google Scholar
+Wang, W., Jiang, Y. & Hunger, M. Mechanistic investigations of the methanol-to-olefin (MTO) process on acidic zeolite catalysts by in situ solid-state NMR spectroscopy.
+Catal. Today
+113
+, 102–114 (2006).
+Article
+CAS
+Google Scholar
+Kosinov, N. et al. Structure and evolution of confined carbon species during methane dehydroaromatization over Mo/ZSM-5.
+ACS Catal.
+8
+, 8459–8467 (2018).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Ohnishi, R., Liu, S., Dong, Q., Wang, L. & Ichikawa, M. Catalytic dehydrocondensation of methane with CO and CO
+2
+toward benzene and naphthalene on Mo/HZSM-5 and Fe/Co-modified Mo/HZSM-5.
+J. Catal.
+182
+, 92–103 (1999).
+Article
+CAS
+Google Scholar
+Kosinov, N. et al. Reversible nature of coke formation on Mo/ZSM-5 methane dehydroaromatization catalysts.
+Angew. Chem. Int. Ed. Engl.
+58
+, 7068–7072 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Finiels, A., Fajula, F. & Hulea, V. Nickel-based solid catalysts for ethylene oligomerization-a review.
+Catal. Sci. Technol.
+4
+, 2412–2426 (2014).
+Article
+CAS
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+Article
+CAS
+PubMed
+Google Scholar
+Weisz, P. & Prater, C. Interpretation of measurements in experimental catalysis.
+Adv. Catal.
+6
+, 60390–60399 (1954).
+Google Scholar
+Mears, D. E. Diagnostic criteria for heat transport limitations in fixed bed reactors.
+J. Catal.
+20
+, 127–131 (1971).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169 (1996).
+CAS
+Google Scholar
+Gunasooriya, G. K. K. & Nørskov, J. K. Analysis of acid-stable and active oxides for the oxygen evolution reaction.
+ACS Energy Lett.
+5
+, 3778–3787 (2020).
+Article
+CAS
+Google Scholar
+Campbell, C. T., Árnadóttir, L. & Sellers, J. R. Kinetic prefactors of reactions on solid surfaces.
+Z. Phys. Chem.
+227
+, 1435–1454 (2013).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+Y.W. appreciates the support from the Herbert L. Stiles Professorship and Iowa State University College of Engineering exploratory research projects. J.C.Z., Z.W. and J.T.M. were supported in part by the National Science Foundation under Cooperative Agreement no. EEC-1647722. Y.X. and A.V. thank the R. Games Slayter Fund and the Varma Reaction Engineering Research Fund of Purdue University. Z.Z. and J.P.G. acknowledge financial support from NSF-CBET Award 1804712. T.M. acknowledges the financial support of the University of Michigan College of Engineering and technical support from the Michigan Center for Materials Characterization. Use of the Advanced Photon Source was supported by the US Department of Energy, Office of Basic Energy Sciences under contract no. DE-AC02-06CH11357. MRCAT operations, beamline 10-BM, are supported by the Department of Energy and the MRCAT member institutions. Use of the Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, is supported by the US Department of Energy, Office of Science, Office of Basic Energy Sciences under contract no. DE-AC02-76SF00515. All TEM-related work was performed using instruments in the Sensitive Instrument Facility in Ames Laboratory. Ames Laboratory is operated for the US Department of Energy by Iowa State University under contract no. DE-AC02-07CH11358.
+Author information
+Author notes
+Tae-Hoon Kim
+Present address: Department of Materials Science and Engineering, Chonnam National University, Gwangju, South Korea
+These authors contributed equally Zhe Li, Yang Xiao.
+Deceased: Arvind Varma.
+Authors and Affiliations
+Department of Chemical and Biological Engineering, Iowa State University, Ames, IA, USA
+Zhe Li, Peilei He & Yue Wu
+Davidson School of Chemical Engineering, Purdue University, West Lafayette, IN, USA
+Yang Xiao, Zhenwei Wu, Johnny Zhu Chen, Pratik J. Potdar, Zhenhua Zeng, Jeffrey T. Miller, Jeffrey P. Greeley & Arvind Varma
+School of Mechanical Engineering and the Birck Nanotechnology Center, Purdue University, West Lafayette, IN, USA
+Prabudhya Roy Chowdhury & Xiulin Ruan
+Department of Energy Ames Laboratory, Ames, IA, USA
+Tao Ma, Tae-Hoon Kim, Dapeng Jing & Lin Zhou
+SLAC National Accelerator Laboratory, Stanford University, Menlo Park, CA, USA
+Gang Wan
+Authors
+Zhe Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yang Xiao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Prabudhya Roy Chowdhury
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhenwei Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tao Ma
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Johnny Zhu Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Gang Wan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tae-Hoon Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dapeng Jing
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Peilei He
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Pratik J. Potdar
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lin Zhou
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhenhua Zeng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiulin Ruan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jeffrey T. Miller
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jeffrey P. Greeley
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yue Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Arvind Varma
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Z.L. and Y.X. conceived the idea and designed the present work. Y.X., P.R.C. and Z.Z. conducted DFT calculations. Z.L., Y.X., P.J.P. and P.H. synthesized the catalysts and performed the catalytic evaluation. J.Z.C., Z.W., G.W., D.J. and J.T.M. carried out the spectroscopic characterizations. L.Z., T.M., T.-H.K. and Z.L. performed the detailed microscopic experiments. Y.W., J.T.M., X.R., J.P.G. and A.V. supervised the research.
+Corresponding authors
+Correspondence to
+Yang Xiao
+or
+Yue Wu
+.
+Ethics declarations
+Competing interests
+Z.L., Y.W. and X.Y. are inventors on US. Provisional Patent Application 62/937,055, submitted by Iowa State University. The remaining authors declare no competing interests.
+Additional information
+Peer review information
+Nature Catalysis
+thanks Chen Chen and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Methods, Notes 1–3, Figs. 1–36, Tables 1–8,and refs. 1–5,
+Supplementary Data 1
+Atomic coordinates of optimized structures for DFT calculations conducted in this study
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Li, Z., Xiao, Y., Chowdhury, P.R.
+et al.
+Direct methane activation by atomically thin platinum nanolayers on two-dimensional metal carbides.
+Nat Catal
+4
+, 882–891 (2021). https://doi.org/10.1038/s41929-021-00686-y
+Download citation
+Received
+:
+01 August 2020
+Accepted
+:
+08 September 2021
+Published
+:
+20 October 2021
+Issue Date
+:
+October 2021
+DOI
+:
+https://doi.org/10.1038/s41929-021-00686-y
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

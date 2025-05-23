@@ -1,0 +1,2331 @@
+Induced activation of the commercial Cu/ZnO/Al2O3 catalyst for the steam reforming of methanol | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Induced activation of the commercial Cu/ZnO/Al
+2
+O
+3
+catalyst for the steam reforming of methanol
+Download PDF
+Article
+Published:
+20 January 2022
+Induced activation of the commercial Cu/ZnO/Al
+2
+O
+3
+catalyst for the steam reforming of methanol
+Didi Li
+1
+na1
+,
+Fang Xu
+ORCID:
+orcid.org/0000-0001-9367-0334
+1
+na1
+,
+Xuan Tang
+2
+na1
+,
+Sheng Dai
+ORCID:
+orcid.org/0000-0001-5787-0179
+2
+na1
+,
+Tiancheng Pu
+3
+,
+Xianglin Liu
+1
+,
+Pengfei Tian
+ORCID:
+orcid.org/0000-0003-0261-8536
+4
+,
+Fuzhen Xuan
+4
+,
+Zhi Xu
+ORCID:
+orcid.org/0000-0003-2459-0933
+1
+,
+Israel E. Wachs
+ORCID:
+orcid.org/0000-0001-5282-128X
+3
+&
+…
+Minghui Zhu
+ORCID:
+orcid.org/0000-0003-1593-9320
+1
+Show authors
+Nature Catalysis
+volume
+5
+,
+pages
+99–108 (
+2022
+)
+Cite this article
+22k
+Accesses
+63
+Altmetric
+Metrics
+details
+Subjects
+Chemical engineering
+Heterogeneous catalysis
+Abstract
+The surface structure of heterogeneous catalysts is closely associated with their catalytic performance. Current efforts for structural modification mainly focus on improving the catalyst synthesis details. Here we reveal an induced activation strategy to manipulate the catalyst surface reconstruction process by controlling the composition of reducing agents at the activation stage. Exposing the commercial Cu/ZnO/Al
+2
+O
+3
+catalyst to a H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture at 300 °C and atmospheric pressure is found to accelerate the migration of ZnO
+x
+species onto the surface of metallic Cu
+0
+nanoparticles via an adsorbate-induced strong metal–support interaction. Such a morphological evolution improves the long-term stability by threefold and results in more abundant Cu–ZnO
+x
+interfacial sites with catalytic activity enhanced by twofold towards the methanol steam reforming reaction.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Operando high-pressure investigation of size-controlled CuZn catalysts for the methanol synthesis reaction
+Article
+Open access
+04 March 2021
+Designing Cu
+0
+−Cu
++
+dual sites for improved C−H bond fracture towards methanol steam reforming
+Article
+Open access
+02 December 2023
+The active sites of Cu–ZnO catalysts for water gas shift and CO hydrogenation reactions
+Article
+Open access
+15 July 2021
+Main
+The dynamic structural evolution of heterogeneous catalysts at different stages of their lives (that is, activation, reaction and deactivation) is a common phenomenon that has received much attention
+1
+,
+2
+,
+3
+,
+4
+,
+5
+. For many catalysts, pretreatments are required to transform the catalytic inactive component to an active state. These treatments typically involve reduction to form metallic nanoparticles or partially reduced metal oxides
+6
+, sulfidation to form metal sulfides
+7
+or carbonization to form metal carbides
+8
+. At the initial reaction stage, the active sites may undergo further modifications in response to the reaction environment. For instance, metal oxides may migrate onto other locations, and metallic nanoparticles may refacet or flatten
+9
+. In addition, catalysts slowly evolve during the reaction, associated with phase transformation
+10
+, sintering
+11
+, decomposition into single atoms
+12
+or hetero-atom depositions
+13
+. These structural changes are typically detrimental to the catalytic performance and can ultimately lead to catalyst deactivation.
+The ternary Cu/ZnO/Al
+2
+O
+3
+catalyst is one of the most important industrial catalysts, capable of catalysing the low-temperature water–gas shift reaction
+14
+, methanol synthesis
+15
+,
+16
+,
+17
+,
+18
+,
+19
+and the methanol steam reforming (MSR) reaction
+20
+. However, a major disadvantage of this catalyst is that the active metallic copper nanoparticles are prone to sintering due to the low Tammann temperature of copper (407 °C)
+21
+. Previous studies have revealed that zinc oxides can interact with metallic copper nanoparticles by migrating onto their surfaces
+16
+,
+18
+. Such a phenomenon, known as the strong metal–support interaction (SMSI), results in surface modification of the metal sites
+15
+,
+16
+and retards the sintering of copper nanoparticles as well
+22
+. Studies have claimed that the kinetics of the SMSI phenomena are particle-size dependent and become sluggish for large nanoparticles in most cases
+23
+,
+24
+. Therefore, the relative kinetics of copper sintering and zinc oxide migration play an essential role in determining the catalyst structural evolution.
+Herein, we reveal that the SMSI kinetics of the commercial Cu/ZnO/Al
+2
+O
+3
+catalyst can be accelerated in a H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture at elevated temperatures. This finding intrigued us and led us to develop a method to optimize the catalyst structure via controlling the composition of the reducing agents at the catalyst activation stage. Migration of ZnO
+x
+onto the surface of Cu nanoparticles can be precisely manipulated and optimized, leading to improved activity and stability towards the MSR as the model reaction. Moreover, the formation mechanism and essential role of Cu–ZnO
+x
+interfacial sites for enhanced catalytic performance are elucidated with a series of in situ characterization studies and density functional theory (DFT) calculations. This work provides a facile approach to improve the catalytic performance of the commercial Cu/ZnO/Al
+2
+O
+3
+catalyst by changing the activation conditions.
+Results
+Effect of activation procedures on the MSR performance
+The commercial Cu/ZnO/Al
+2
+O
+3
+catalyst was subjected to different activation treatments at 300 °C and subsequently evaluated for the MSR reaction at 225 °C. The resulting catalysts are denoted as CuZnAl-H, which is reduced in a H
+2
+/N
+2
+mixture (30 sccm) for 1 h; CuZnAl-H′, which is reduced in a H
+2
+/N
+2
+mixture (30 sccm) for 2 h; CuZnAl-R10, which is reduced in a H
+2
+/N
+2
+mixture (30 sccm) for 50 min and then in a H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture (30 sccm) for 10 min; CuZnAl-R60, which is reduced in a H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture (30 sccm) for 1 h; and CuZnAl-U, which has no reduction pretreatment. There is an induction period (~1 h) upon the initiation of the MSR reaction, possibly related to the long stabilization time required by the vaporizer to generate a steady reactant flow (Supplementary Figs.
+1
+–
+3
+). For CuZnAl-H, the methanol conversion (
+C
+MeOH
+) maximizes at 60.1% and progressively decreases to 55.1% after the 8 h reaction (Fig.
+1a
+and Supplementary Table
+1
+). Without an activation pretreatment at 300 °C, sluggish reduction of CuO can also occur during the reaction. The corresponding CuZnAl-U catalyst exhibits almost identical activities but requires a three-times-longer induction time (~3 h), which is undesirable for industrial purposes (Supplementary Fig.
+4
+). The slight loss of activity after a longer elapsed time during the reaction is mainly a consequence of sintering of the Cu nanoparticles, as confirmed by scanning transmission electron microscopy (STEM) images combined with energy-dispersive X-ray spectroscopy (EDS), showing an increased average particle size from 12.5 to 17.3 nm (Supplementary Fig.
+5a,b
+and Supplementary Note
+1
+). A longer reduction time at higher-than-reaction temperatures aggravates particle sintering, resulting in decreased conversion for the CuZnAl-H′ catalyst
+25
+.
+Fig. 1: MSR activities of Cu/ZnO/Al
+2
+O
+3
+after different activation treatments.
+a
+, Time-on-stream of methanol conversion (reaction conditions: 100 mg of catalyst, H
+2
+O/CH
+3
+OH = 1.3, WHSV of MeOH = 6 h
+–1
+, 1 bar, 225 °C).
+b
+, Methanol conversions at different WHSV values and a comparison of TOF values at the WHSV of MeOH of 60 h
+–1
+.
+c
+, Catalytic stabilities of CuZnAl-H and CuZnAl-R10 during the MSR reaction.
+d
+, In situ X-ray diffraction patterns of the Cu/ZnO/Al
+2
+O
+3
+catalysts after different activation treatments.
+Source data
+Full size image
+Surprisingly, both the activity and stability of the catalyst during the MSR reaction are improved after exposure to a H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture at 300 °C. Methanol conversion over CuZnAl-R10 reaches 67.0% with a negligible decay of 2.2% within 8 h. Also, STEM–EDS characterization reveals negligible changes in the copper particle sizes after reaction (12.4 nm; Supplementary Fig.
+5c,d
+). Such an activity enhancement becomes even more apparent at greater weight hour space velocity (WHSV) values with fewer diffusion limitations (Fig.
+1b
+). The turnover frequency (TOF), calculated based on Cu sites determined by the N
+2
+O reactive frontal chromatography (N
+2
+O-RFC), is found to be twofold higher for CuZnAl-R10 than for CuZnAl-H at the WHSV of MeOH of 60 h
+–1
+. During the activation, excessive exposure to the H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture suppresses the reactivity: the CuZnAl-R60 catalyst exhibits a lower conversion of 64.8–61.7%. After catalysing the MSR reaction for 40 h, 90% of the initial activity is preserved for CuZnAl-R10, whereas the activity of CuZnAl-H decays by ~35% (Fig.
+1c
+). Moreover, the robustness of CuZnAl-R10 was evaluated by passivating the catalyst in 1%-O
+2
+/Ar for 30 min at room temperature and then exposing it to air for 3 h. The treated catalyst shows almost identical MSR activity to the as-activated CuZnAl-R10 catalyst (Supplementary Fig.
+6
+). These findings imply that varying the activation procedures of the commercial Cu/ZnO/Al
+2
+O
+3
+catalyst can result in an irreversible structural transformation. Note that ZnO must be involved in such a reconstruction, as the supported Cu/Al
+2
+O
+3
+catalyst activated by different procedures shows almost identical activities (Supplementary Fig.
+7
+) and morphologies (Supplementary Fig.
+8
+).
+Physical and chemical natures of catalyst surface after activation
+Morphologies and structures of CuZnAl-H, CuZnAl-R10 and CuZnAl-R60 were investigated to understand the origin of their distinct MSR performances. All the catalysts have similar specific surface areas (68–69 m
+2
+g
+–1
+) and porosities (volume, 0.14–0.17 cm
+3
+g
+–1
+; average pore diameter, 6.4–7.3 nm), reflecting their overall structural robustness (Supplementary Figs.
+9
+and
+10
+and Supplementary Table
+2
+). In situ X-ray diffraction analysis reveals a complete transformation of bulk CuO to metallic Cu
+0
+after different activation treatments (Fig.
+1d
+and Supplementary Fig.
+11
+). The average crystallite sizes of the Cu
+0
+nanoparticles, based on the Cu(111) peak, are found to be ~12.5 nm. STEM–EDS results also reveal nearly identical average particle sizes for all three activated catalysts (Supplementary Fig.
+5
+). However, exposing the catalyst to the H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture during activation decreases the copper dispersions as determined by N
+2
+O-RFC, which follow the trend of CuZnAl-H (20.7 ± 0.4%) > CuZnAl-R10 (16.7 ± 0.3%) > CuZnAl-R60 (13.0 ± 0.2%; Supplementary Fig.
+12
+). It has been reported that the formation of CuZn alloy should lead to an increase in the Cu dispersion measured by N
+2
+O-RFC
+17
+, and the SMSI phenomenon results in decreased dispersion values due to the partial coverage of Cu by an oxide overlayer
+26
+. Our data suggest that the latter situation might occur during the catalyst activation under a H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture.
+The nature of active sites for the commercial Cu/ZnO/Al
+2
+O
+3
+catalyst has been debated for decades, and two distinct structures were proposed, including ZnO
+x
+migration onto metallic Cu
+3
+,
+15
+and CuZn alloy formation
+27
+,
+28
+. Formation of CuZn alloys, usually evidenced by X-ray absorption spectroscopy analysis
+29
+,
+30
+, requires high temperatures of over 300 °C or high pressures over 5 MPa (Supplementary Table
+3
+)
+28
+,
+29
+,
+30
+,
+31
+. Consequently, the alloy structure has never been reported for Cu/ZnO/Al
+2
+O
+3
+in the MSR reaction but only in the methanol synthesis reaction, which requires much harsher conditions. Notably, the Zn K-edge X-ray absorption near-edge structure of CuZnAl-R10 (Supplementary Fig.
+13a
+) is distinct from metallic Zn but well aligned with its oxide state. Moreover, the linear combination fitting of the CuZnAl-R10 X-ray absorption near-edge structure spectrum according to the ZnO and Zn foil reference shows that Zn is predominantly present in an oxide state (Supplementary Fig.
+13b
+). The extended X-ray absorption fine structure (Supplementary Fig.
+13c
+) and wavelet transformation extended X-ray absorption fine structure oscillations (Supplementary Fig.
+13d
+) of CuZnAl-R10 also show no features for the Zn–Zn or Zn–Cu bonds, which both theoretically appear at ~2.2 Å, evidencing the absence of metallic Zn or CuZn alloys after activation
+30
+.
+Aberration-corrected STEM was further utilized for atomic-scale structure characterization. Particularly, the catalyst was activated, and all the samples were prepared in a glove box under an Ar atmosphere and then transferred to a transmission electron microscope using a vacuum transfer holder to eliminate air exposure, which might change the valence states of Cu and Zn. High-angle annular dark-field STEM images and the corresponding EDS elemental maps of the fresh catalyst (CuZnAl-U), synthesized using a coprecipitation method, show a mixture of Cu oxides and Zn oxides (Supplementary Fig.
+14
+). CuZnAl-H contains discrete ZnO and Cu nanoparticles (Fig.
+2a
+and Supplementary Fig.
+15
+) with minimal SMSI phenomena. However, activating the catalysts with the H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture initiates obvious dynamic reconstructions at the ZnO–Cu interface. For the CuZnAl-R10 catalyst with 10 min exposure to the reactive mixture, while ZnO nanoparticles are still present, a thin overlayer starts to form on the Cu nanoparticle surface (Fig.
+2c
+and Supplementary Fig.
+16
+). Elongating the exposure time to 1 h leads to densification of the Zn-containing overlayer to reach a thickness of 1–2 nm (Fig.
+2e
+and Supplementary Fig.
+17
+). The surface reconstruction process is also visualized by in situ aberration-corrected STEM analysis. Cu/ZnO/Al
+2
+O
+3
+contains Cu nanoparticles with a pristine surface after exposure to 60%-H
+2
+/N
+2
+(Supplementary Fig.
+18a,b
+). An encapsulation overlayer occurs only after switching inlet gas to a H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture (Supplementary Fig.
+18c
+). Furthermore, the thickness of such an overlayer increases with a longer exposure time (Supplementary Fig.
+18d
+).
+Fig. 2: Microscopy characterizations of activated Cu/ZnO/Al
+2
+O
+3
+.
+a
+–
+f
+, High-angle annular dark-field STEM images and corresponding EDS elemental maps of CuZnAl-H (
+a
+), CuZnAl-R10 (
+c
+) and CuZnAl-R60 (
+e
+). Scale bars, 2 nm. Insets show schematics of the catalyst structures. EELS spectra of marked regions for CuZnAl-H (
+b
+), CuZnAl-R10 (
+d
+) and CuZnAl-R60 (
+f
+) in
+a
+,
+c
+and
+e
+, respectively.
+Source data
+Full size image
+Moreover, electron energy loss spectroscopy (EELS) was performed to identify the valance states of Cu, Zn and O. Three representative regions were selected for every catalyst: region no. 1 on the ZnO nanoparticle (blue points), region no. 2 at the interface between the overlayer and the Cu nanoparticle (red points) and region no. 3 on the Cu nanoparticles (black points). For CuZnAl-H (Fig.
+2b
+), EELS spectrum no. 1 shows an obvious Zn L edge and O K edge that are characteristic of zinc oxides (Supplementary Figs.
+19
+and
+20
+)
+32
+,
+33
+, while spectrum no. 3 shows a strong Cu L edge with negligible O K edge, illustrating the presence of metallic copper
+34
+,
+35
+. Similarly, for CuZnAl-R10 (Fig.
+2d
+) and CuZnAl-R60 (Fig.
+2f
+), spectra no. 1 and no. 3 show zinc oxides and metallic copper, respectively. More importantly, the spectra collected at region no. 2 reveal the critical information at the Cu–ZnO
+x
+interface of CuZnAl-R10 (Fig.
+2d
+) and CuZnAl-R60 (Fig.
+2f
+). The Cu L edge, Zn L edge and O K edge were simultaneously identified, and these signals are assigned to Cu
++
+, Zn
+δ
++
+(0 <
+δ
+< 2) and oxygen from ZnO-like species, respectively
+32
+,
+34
+,
+35
+,
+36
+,
+37
+(Supplementary Note
+2
+). Summarizing the above microscopy and EELS results, the overlayer on metallic Cu nanoparticles in CuZnAl-R10 and CuZnAl-R60 is ZnO
+x
+species, with Zn
+δ
++
+species at the Cu–ZnO
+x
+interface due to the inductive and reduction effects and Zn
+2+
+species inside the ZnO
+x
+. The presence of Cu
++
+and Zn
+δ
++
+sites further rules out the possibility of CuZn alloy formation
+17
+,
+27
+.
+Quantification of the Cu–ZnO
+x
+sites
+Quasi in situ (that is, vacuum transfer after pretreatment without exposing to air) X-ray photoelectron spectroscopy analysis provides additional insights into the near-surface structure of the Cu/ZnO/Al
+2
+O
+3
+catalysts (Supplementary Note
+3
+). After activation, a complete reduction of copper occurs, as evidenced by the disappearance of Cu
+2+
+satellite peaks and the shift of the Cu 2
+p
+bands to lower binding energies (Supplementary Fig.
+21a
+). The atomic ratio between Cu and Zn follows the order of CuZnAl-H (1.02 ± 0.2) > CuZnAl-R10 (0.92 ± 0.2) > CuZnAl-R60 (0.65 ± 0.2; Supplementary Table
+4
+), consistent with the progressive enrichment of ZnO
+x
+onto the copper surface with increasing exposure time to the H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture during activation. The Auger parameter of Cu for the unreduced catalyst is different from that of the activated ones (Supplementary Table
+5
+), evidencing a mixture of Cu
+0
+and Cu
++
+in the activated Cu/ZnO/Al
+2
+O
+3
+catalysts
+38
+,
+39
+. Besides, the Auger parameters of Zn for the activated Cu/ZnO/Al
+2
+O
+3
+catalysts show almost the same value as that of CuZnAl-U, which indicates that most of the Zn species in the activated catalysts are still present as Zn
+2+
+. The Cu and Zn LMM Auger spectra resolve Cu
+0
+(918.2–918.3 eV) and Cu
++
+(916.2–916.3 eV) as well as Zn
+2+
+(988.9–989.0 eV) and Zn
+δ
++
+(991.3 eV) species (Fig.
+3a,b
+and Supplementary Fig.
+22
+)
+16
+,
+17
+. The absence of the Zn
+0
+signal in the Zn LMM Auger spectra again rules out the presence of CuZn alloys
+27
+. We quantify the atomic percentages of surface Cu
++
+and Zn
+δ
++
+in CuZnAl-H to be 10.3% and 9.9%, respectively. The CuZnAl-R10 catalyst, with slight overlayer formation, contains increased amounts of Cu
++
+(15.6%) and Zn
+δ
++
+(15.4%) in the near-surface region. However, excess exposure to the H
+2
+/H
+2
+O/CH
+3
+OH mixture slightly decreases the atomic percentages of Cu
++
+and Zn
+δ
++
+to 14.5% and 14.3%, respectively, for CuZnAl-R60. This is possibly due to the presence of some dense ZnO
+x
+overlayers with a thickness beyond the probing depth of lab-based X-ray photoelectron spectroscopy.
+Fig. 3: Electronic property of Cu/ZnO/Al
+2
+O
+3
+activated with different procedures.
+a
+,
+b
+, Quasi in situ X-ray photoelectron spectroscopy Auger spectra of Cu LMM (
+a
+) and Zn LMM (
+b
+) regions for the activated catalysts.
+c
+, In situ DRIFT spectra with CO as the probe molecule at 25 °C on the activated catalysts.
+d
+–
+f
+, TOF values as a function of atomic percentage of Cu
++
+(based on Cu LMM Auger spectra;
+d
+), atomic percentage of Zn
+δ
++
+(based on Zn LMM Auger spectra;
+e
+) and Cu
++
+/(Cu
++
++ Cu
+0
+) ratio (based on in situ CO DRIFTS;
+f
+) with the corresponding correlation coefficients.
+Source data
+Full size image
+In situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) with CO as the probe molecule at 25 °C provides additional insights into the relative abundance of interfacial sites on the catalyst’s topmost surface (Fig.
+3c
+). Two infrared bands at 2,104–2,106 cm
+–1
+and 2,094–2,098 cm
+−1
+are assigned to CO linearly bound to Cu
++
+and Cu
+0
+, respectively
+16
+,
+35
+. And the band associated with surface CuZn alloy (~1,970 cm
+–1
+)
+40
+,
+41
+is not observed. The intensity of the Cu
+0
+–CO signal decreases gradually with the extent of surface ZnO
+x
+coverage on the Cu nanoparticles (Fig.
+3c
+). Nevertheless, the fraction of Cu
++
+among all the Cu species follows the order of CuZnAl-R10 (79.3%) > CuZnAl-R60 (68.2%) > CuZnAl-H (42.3%; Fig.
+3c
+). Although a modest SMSI effect causes slight physical blockage of Cu
+0
+sites, the oxide overlayer formed by the SMSI effect is usually gas permeable, therefore maintaining abundant exposed Cu
++
+sites at the metal–oxide interface
+42
+,
+43
+. For the CuZnAl-R60 catalyst, its dense overlayer may reduce the gas permeability and the number of accessible Cu
++
+sites.
+To unveil the essential role of Cu–ZnO
+x
+interfacial sites in determining the catalytic performance towards the MSR reaction, intrinsic activities were plotted against the number of Cu
++
+and Zn
+δ
++
+sites, respectively. We obtain almost linear correlations between the TOF values and atomic percentages of Cu
++
+and Zn
+δ
++
+from the quasi in situ X-ray photoelectron spectroscopy results (Fig.
+3d,e
+) as well as the Cu
++
+/(Cu
+0
++ Cu
++
+) ratio from the in situ CO DRIFTS results (Fig.
+3f
+). Such correlations explicitly demonstrate that the Cu–ZnO
+x
+interfacial sites are responsible for the improved activity. Exposure of the Cu/ZnO/Al
+2
+O
+3
+catalyst to the H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture for a reasonable time during activation introduces an optimum ZnO
+x
+overlayer (not too thick) with the greatest number of exposed Cu–ZnO
+x
+interfacial sites and the best catalytic performance. By contrast, the aggressive treatment creates a thick ZnO
+x
+overlayer that reduces the accessible Cu–ZnO
+x
+sites. The TOF of Cu/Al
+2
+O
+3
+(Supplementary Fig.
+7b
+) is much lower than that of Cu/ZnO/Al
+2
+O
+3
+, further suggesting that ZnO plays a pivotal role in enhancing the MSR performance.
+MSR reaction mechanism over Cu/ZnO/Al
+2
+O
+3
+The MSR reaction pathway has been extensively investigated in the literature, with three putative pathways involving methyl formate (*H
+3
+COOCH), carbon monoxide (*CO) and formate (*CHOO) as the surface intermediates proposed for copper-based catalysts (Supplementary Scheme
+1
+)
+44
+,
+45
+,
+46
+,
+47
+,
+48
+. Recent theoretical and in situ DRIFTS studies support the route where surface methoxy species (*OCH
+3
+) sequentially transform to formaldehyde (*OCH
+2
+), methylene dioxygen (*CH
+2
+OO) and formate (*CHOO), with formate ultimately decompose to CO
+2
+and H
+2
+(refs.
+45
+,
+49
+). To elucidate the MSR reaction pathway over Cu/ZnO/Al
+2
+O
+3
+, in situ temperature-programmed DRIFTS studies were undertaken. Adsorbed methanol (2,972, 2,915, 2,862, 2,817, 1,047 and 1,010 cm
+–1
+), water (1,650 and 3,367 cm
+−1
+) and surface methoxy species (2,937, 2,838 and 1,033 cm
+−1
+)
+49
+,
+50
+were present after the activated catalysts were exposed to a H
+2
+O/CH
+3
+OH/Ar mixture at 25 °C (Supplementary Fig.
+23
+). The catalysts were then flushed with Ar to remove weakly adsorbed molecules and heated to 250 °C at a constant rate of 5 °C min
+–1
+(Fig.
+4a,c
+and Supplementary Fig.
+24a
+). As the temperature increased, the surface methoxy species gradually disappeared, and new bands at 1,597–1,600 and 1,361 cm
+–1
+appeared from surface monodentate formate species (m-*CHOO)
+49
+. The in situ temperature-programmed DRIFTS results reveal that the reaction pathways over all three activated catalysts are similar and involve a *OCH
+3
+-to-*CHOO transformation (Fig.
+4b,d
+and Supplementary Fig.
+24b
+). Furthermore, the onset temperature for the conversion of surface methoxy species follows the trend of CuZnAl-R10 < CuZnAl-R60 < CuZnAl-H, which parallels the steady-state MSR activities (Supplementary Fig.
+25
+). Such a correlation suggests that the dehydrogenation of surface methoxy species is a slow step for the MSR reaction.
+Fig. 4: Mechanism analysis of the MSR reaction over Cu/ZnO/Al
+2
+O
+3
+.
+a
+, In situ temperature-programmed DRIFTS of CuZnAl-H with the spectra collected with an increasing temperature to 250 °C at a ramping rate of 5 °C min
+–1
+in Ar.
+b
+, The integrated peak area of surface methoxy (1,033 cm
+–1
+) and surface formate (1,598 cm
+–1
+) versus temperature during the temperature ramping.
+c
+, In situ temperature-programmed DRIFTS of CuZnAl-R10 with the spectra collected with an increasing temperature to 250 °C at a ramping rate of 5 °C min
+–1
+in Ar.
+d
+, The integrated peak area of surface methoxy (1,033 cm
+–1
+) and surface formate (1,597 cm
+–1
+) versus temperature during the temperature ramping.
+e
+, The Gibbs free energy diagram for the MSR reaction on Cu(111) and Zn
+3
+O
+2
+H
+2
+/Cu(111), shown in the insets. TS, transition state; Cu, yellow; Zn, blue; O, red; H, white.
+Source data
+Full size image
+DFT calculations provide additional fundamental insights into the MSR reaction pathway over the copper-based catalysts. A Cu(111) surface, given its dominancy in X-ray diffraction patterns, was used to represent the Cu nanoparticles (Fig.
+1d
+and Supplementary Fig.
+11
+). The optimized Zn
+3
+O
+2
+H
+2
+/Cu(111) structure after ab initio thermodynamic analysis was used to model the Cu–ZnO
+x
+sites under reaction-relevant conditions
+51
+,
+52
+(Supplementary Figs.
+27
+–
+34
+, Supplementary Table
+6
+and
+Supplementary Notes
+4
+–
+5
+). The Gibbs free energy diagrams for the MSR reaction on Cu(111) and Zn
+3
+O
+2
+H
+2
+/Cu(111) are presented in Fig.
+4e
+. Both the dehydrogenation of *CH
+3
+O to *CH
+2
+O (activation barrier decreased from 1.03 eV to 0.55 eV) and H
+2
+O dissociation (from 1.06 eV to 0.80 eV) are facilitated on the Cu–ZnO
+x
+site (Supplementary Tables
+7
+–
+10
+). Furthermore, the activation barriers for *CH
+2
+OOH formation, *HCOOH formation and *CHOO decomposition are also lowered. The DFT calculations thus indicate that the potential synergy at the Cu–ZnO
+x
+sites enhances the MSR reactivity mainly by accelerating the dehydrogenation of *CH
+3
+O and dissociation of H
+2
+O.
+Adsorbate-induced SMSI during the activation of Cu/ZnO/Al
+2
+O
+3
+It is well known that the driving force for the SMSI effect is the tendency to lower the total energy of the system
+53
+. However, the mechanism of the accelerated SMSI between ZnO
+x
+and Cu nanoparticles in the presence of the MSR reactants is not fully understood. A variety of pretreatments were examined (H
+2
+/H
+2
+O/N
+2
+, H
+2
+/CH
+3
+OH/N
+2
+and H
+2
+/CO
+2
+/N
+2
+), all of which yielded lower activities than those of the CuZnAl-H and CuZnAl-R10 catalysts (Supplementary Fig.
+37
+). Intrigued by recent efforts to define the adsorbate-induced structural changes for supported metal nanoparticles
+43
+,
+53
+,
+54
+, operando DRIFTS studies were performed to monitor the catalyst surface at the activation stage. Both methanol and adsorbed methoxy species are present during the activation by H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+at 300 °C (Supplementary Fig.
+38a
+). Note that intact methanol molecules can also adsorb on the catalyst surface as the *CH
+3
+OH species
+55
+. Therefore, surface *OCH
+3
+and *CH
+3
+OH might interact with the ZnO
+x
+species and facilitate their migrations on the metallic Cu
+0
+nanoparticles. Although the two species are also present during the activation with H
+2
+/CH
+3
+OH/N
+2
+, the absence of H
+2
+O leads to the formation of surface carbon deposits, as evidenced by the in situ Raman spectroscopy result (Supplementary Fig.
+39b
+), that may inhibit the interfacial reconstruction.
+It is, however, challenging to elucidate such a promotion effect at an atomic level, even theoretically. Here, we propose a simplified alternative solution: to calculate the migration energy of the Zn
+3
+O
+x
+H
+y
+cluster on the Cu(111) surface. According to the free energy diagram of Zn
+3
+O
+x
+H
+y
+/Cu(111) in equilibrium with the gas environment, the Zn
+3
+O
+2
+H
+2
+cluster, containing both oxygen-saturated and oxygen-deficient Zn, still has the best thermodynamic stability during activation by the H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture (Supplementary Fig.
+40
+). An activation environment that is more reductive than the reaction condition should have a higher chance of creating more oxygen-deficient Zn sites on the ZnO species. Migration of this almost axial symmetric Zn
+3
+O
+2
+H
+2
+cluster on the Cu(111) surface has two possible paths, with the energy barriers calculated to be 0.05 and 0.29 eV, respectively (Supplementary Fig.
+41
+). A cluster’s migration energy barrier is size dependent and, theoretically, should be much greater for a realistic model. Herein, we focused on the energetically more favourable path to relatively investigate the effect of adsorbed molecules.
+Adsorption of *CH
+3
+OH and *OCH
+3
+on an oxygen-saturated Zn site dramatically increases the migration energy barrier to 0.24 eV and 0.18 eV, respectively (Supplementary Fig.
+42b,c
+). On the other hand, with the adsorption on an oxygen-deficient Zn site, the migration energy barrier of Zn
+3
+O
+2
+H
+2
+is increased to 0.35 eV by *OCH
+3
+(Supplementary Fig.
+43c
+) but reduced to 0.03 eV by *CH
+3
+OH (Supplementary Fig.
+43b
+). Water, adsorbed on either Zn site, has a negative effect on the migration of the Zn
+3
+O
+2
+H
+2
+cluster (Supplementary Figs.
+42d
+and
+43d
+). Overall, our calculations possibly suggest that the accelerated ZnO
+x
+migration on metallic Cu nanoparticles is attributed to the intact methanol molecules adsorbed on the oxygen-deficient Zn sites. Indeed, a reduction of the migration barrier from 0.05 eV without adsorbates to 0.03 eV with methanol is hardly significant, and it is also possible that the adsorbates induce reconstruction by facilitating the removal of Zn
+x
+O
+y
+fragments from ZnO at the Cu–ZnO interface. Such a phenomenon should be temperature dependent and even slowly occurs during the MSR reaction operating at a relatively lower temperature than the one adopted for the activation. However, the sluggish kinetics is unfavourable for forming the protective layer in time to compete with the sintering of Cu nanoparticles.
+Conclusions
+In summary, we propose a catalyst activation method, referred to as induced activation, to control the surface reconstruction process by tuning the composition of reducing agents. Exposing the commercial Cu/ZnO/Al
+2
+O
+3
+catalyst to a H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture during activation accelerates the migration of ZnO
+x
+species onto the surface of metallic Cu
+0
+nanoparticles. Furthermore, a proper degree of encapsulation can be achieved by tuning the exposure time, improving both the catalyst stability and activity. The activity enhancement relates to the abundant Cu–ZnO
+x
+interfacial sites that exhibit faster kinetics for the *CH
+3
+O dehydrogenation and H
+2
+O dissociation. This study represents a conceptual advance to not only create an active phase but also modify the active surface sites at the atomic level during catalyst activation. Compared to designing catalytic materials with new compositions or synthesis protocols, optimizing the activation procedures is an additional alternative to yield more reactive and stable active sites that potentially enable broader industrial applications.
+Methods
+Materials and chemicals
+The following chemical reagents were of analytical grade and used without further purification: methanol (CH
+3
+OH (MeOH), 99.99%, Adamas-beta), copper(II) nitrate trihydrate (Cu(NO
+3
+)
+2
+·6H
+2
+O, >99%, Adamas-beta), aluminium nitrate nonahydrate (Al(NO
+3
+)
+3
+·9H
+2
+O, 99.99%, Adamas-beta), sodium hydroxide (NaOH, >98%, Adamas-beta) and sodium carbonate (Na
+2
+CO
+3
+, 99.95–100.05%, Adamas-beta). The commercial CuO/ZnO/Al
+2
+O
+3
+catalyst was purchased from Sichuan Shutai Chemical Technology. The N
+2
+, Ar, N
+2
+O, 10%-H
+2
+/90%-N
+2
+, 60%-H
+2
+/40%-N
+2
+, 60%-H
+2
+/15%-CO
+2
+/25%-N
+2
+and 1%-O
+2
+/Ar gases were purchased from Shanghai Air Liquide Compressed Gas.
+Synthesis of Cu/Al
+2
+O
+3
+catalyst
+The Cu/Al
+2
+O
+3
+catalyst was prepared by a coprecipitation method with NaOH and Na
+2
+CO
+3
+as the precipitating agent
+56
+. Copper nitrate and aluminium nitrate were dissolved in deionized water, and the precipitating agent was added dropwise into the solution at 60 °C under vigorous stirring. The mixture was aged overnight and filtered, with the precipitate dried at 100 °C for 12 h. The catalyst powders were finally calcined in static air at 450 °C for 4 h. X-ray photoelectron spectroscopy surface analysis and inductively coupled plasma optical emission spectrometry confirmed the absence of residual Na in the catalyst.
+Characterizations
+N
+2
+adsorption–desorption isotherms of the samples were measured at –196 °C on a BELSORP-MAX apparatus. The sample was outgassed under vacuum at 200 °C for 3 h before N
+2
+adsorption. The total pore volume, average pore diameters and pore size distributions were obtained from the N
+2
+adsorption branches of isotherms using the Barret–Joyner–Halenda method.
+The content of Cu was determined by inductively coupled plasma optical emission spectrometry (Agilent 725ES).
+Temperature-programmed reduction with hydrogen (H
+2
+-TPR) was conducted on a TP5000 (Tianjin Xianquan) instrument with a thermal conductivity detector (TCD). The sample (~50 mg) was pretreated at 300 °C for 30 min in a N
+2
+flow (Air Liquid, 99.99%) and then cooled to room temperature. The H
+2
+-TPR curve was then recorded when the temperature was ramped in a 10%-H
+2
+/N
+2
+flow (30 ml min
+–1
+) from 30 to 600 °C at a rate of 10 °C min
+–1
+.
+The dispersion of Cu was determined by N
+2
+O-RFC
+57
+using the chemisorption instrument mentioned above. First, the unreduced CuO/ZnO/Al
+2
+O
+3
+catalyst (50 mg) was treated by a TPR process in a 10%-H
+2
+/N
+2
+flow within the range of 30–300 °C at a heating rate of 10 °C min
+–1
+. The corresponding hydrogen consumption was denoted as
+A
+1
+. The activated catalyst was then cooled to 50 °C in N
+2
+, and the gas was switched to N
+2
+O for 30 min to mildly oxidize surface Cu atoms to Cu
+2
+O. Afterwards, the sample was flushed by N
+2
+for 30 min, and H
+2
+-TPR measurement was performed by increasing the temperature from 50 to 300 °C at a rate of 10 °C min
+–1
+. The corresponding hydrogen consumption was denoted as
+A
+2
+. Next, the Cu dispersion (
+D
+Cu
+) was calculated according to the equation
+D
+Cu
+(%) = 2
+A
+2
+/
+A
+1
+× 100%, and exposed Cu surface area (
+S
+Cu
+) was calculated according to the equation
+S
+Cu
+(m
+2
+g
+–1
+) = (2
+A
+2
+×
+N
+A
+)/(
+A
+1
+×
+M
+Cu
+× 1.4 × 10
+19
+×
+W
+Cu
+), where
+N
+A
+is Avogadro’s constant,
+M
+Cu
+is the molar mass of Cu,
+W
+Cu
+is the content of Cu and 1.4 × 10
+19
+means number of copper atoms per square metre on average.
+Morphology and elemental distribution of the catalysts were analysed by aberration-corrected STEM operated on a ThermoFisher Themis Z transmission electron microscope equipped with two aberration correctors. High-angle annular dark-field STEM images were recorded using a convergence angle of 25 mrad and inner and outer collection angles of 59 and 200 mrad, respectively. EDS was carried out using four in-column Super-X detectors. EELS data were acquired using a Gatan Enfinium ER (model 977) EELS spectrometer with a dual EELS function. A pretreatment chamber was used for the catalyst activation treatments, and samples were prepared by dispersing the catalyst powder in ethanol, then adding it onto molybdenum grids supported with carbon films in a glove box under an Ar atmosphere. A vacuum transfer holder (Fischione Model 2550) was used to eliminate additional air exposure that might change the valence states of Cu and Zn.
+The in situ atmospheric STEM experiment was performed using a Climate S3 in situ transmission electron microscope holder (DENS Solutions Company), allowing for in situ STEM observation under atmospheric pressure and high temperature. The CuZnAl-U catalyst was dispersed in the nanoreactor of the in situ holder. The catalyst was in situ reduced under 60%-H
+2
+/N
+2
+at 300 °C for 1 h, and then the inlet gas was switched to a H
+2
+/H
+2
+O/CH
+3
+OH/N
+2
+mixture by bubbling 60%-H
+2
+/N
+2
+through a saturator filled with liquid methanol/water. The screen current was adjusted to 5.0–10.0 nA to avoid electron beam effects.
+In situ X-ray diffraction analysis was performed on a Bruker D8-Advance X-ray powder diffractometer with a Cu Kα ray source (wavelength,
+λ
+= 0.154 nm) at 40 kV and 40 mA. The catalyst was loaded into a customized in situ cell, heated up to 300 °C and activated in different conditions. The X-ray diffraction patterns were collected over a 2
+θ
+(angle between transmitted X-ray beam and reflected beam) range of 30–80° with a resolution of 0.02°.
+X-ray absorption spectroscopy measurements at the Zn K edge were performed at BL14W1 at the Shanghai Synchrotron Radiation Facility using a transmission mode for Zn foil and a fluorescence mode for the Cu/ZnO/Al
+2
+O
+3
+catalysts. The electron beam energy was 3.5 GeV, and the stored current was 230 mA (top-up). A 38-pole wiggler with a maximum magnetic field of 1.2 T inserted in the straight section of the storage ring was used. Extended X-ray absorption fine structure data were collected using a fixed-exit double-crystal Si(111) monochromator. A Lytle detector was used to collect the fluorescence signal, and the energy was calibrated using Zn foil.
+Quasi in situ X-ray photoelectron spectra were collected using a Thermo ESCALAB 250Xi spectrometer equipped with a monochromatic Al Kα radiation source (1,486.6 eV; pass energy, 20.0 eV). A pretreatment chamber was used for the catalyst activation treatments. Afterwards, the chamber was evacuated, and the sample was directly transferred into the vacuum analysis chamber to avoid exposure to air.
+An in situ Fourier transform infrared spectrometer (PerkinElmer Frontier) equipped with a diffuse reflection cell (Harrick Praying Mantis) was used for in situ DRIFTS analysis. Spectra were collected with a spectral resolution of 4 cm
+–1
+, and each spectrum was the average of 32 scans. About 30 mg of the catalyst was placed into a customized reaction cell. The catalyst was first activated under different conditions at 300 °C. After cooling to 25 °C in an Ar atmosphere, the background was recorded. For in situ CO DRIFTS, 1.5 ml min
+–1
+of 1%-CO/Ar, diluted in 28.5 ml min
+–1
+of pure Ar, was fed to the cell for 30 min, and the spectrum was then collected. For in situ temperature-programmed DRIFTS, a mixture of methanol and water was introduced into the reactor by bubbling Ar through a saturator filled with liquid methanol/water. The samples were then heated to 250 °C at a rate of 5 °C min
+−1
+in flowing Ar, with the spectra collected every minute. Operando DRIFTS during activation was performed in the same apparatus, with the gas outlet connected to a mass spectrometer. The catalyst was reduced in 60%-H
+2
+/N
+2
+at 300 °C for 50 min and then exposed to different environmental conditions (H
+2
+/H
+2
+O/CH
+3
+OH/Ar, H
+2
+/CH
+3
+OH/Ar and H
+2
+/CO
+2
+/N
+2
+) at 300 °C for 10 min, with the spectra collected every 1 minute.
+In situ Raman spectra were collected with a Horiba LabRam-HR spectrometer equipped with a visible laser excitation at 514 nm generated by a He–Cd laser. The laser was focused on the sample with a confocal microscope equipped with a ×50 long working distance objective (Olympus BX-30-LWD). The scattered photons were directed and focused onto a single-stage monochromator measured with an ultraviolet-sensitive liquid-N
+2
+-cooled CCD (charge-coupled device) detector (Horiba CCD-3000 V). The catalyst was reduced in 60-%H
+2
+/N
+2
+at 300 °C for 50 min and then exposed to different environmental conditions (H
+2
+/H
+2
+O/CH
+3
+OH/Ar, H
+2
+/CH
+3
+OH/Ar and H
+2
+/CO
+2
+/N
+2
+) at 300 °C for 10 min, with the spectra collected every 2 min.
+DFT calculations
+The Cu(111) surface was modelled by a three-layer 6 × 6 unit cell. The ZnO–Cu interface was modelled by depositing a series of Zn
+3
+O
+x
+H
+y
+clusters (
+x
+= 0–3,
+y
+= 0–
+x
+) on the Cu(111) surface (details in Supplementary Data
+1
+). The bottom layer in the Cu(111) unit cell was fixed in the optimized bulk positions, while the others were allowed to relax. A 15 Å vacuum along the
+z
+direction was applied to prevent unexpected interactions between the periodically repeated images.
+The DFT calculation was performed using the Vienna Ab-initio Simulation Package
+58
+,
+59
+. The projector augmented-wave method
+60
+with the generalized gradient approximation parameterized by the Perdew–Burke–Ernzerhof
+61
+exchange–correlation functional with the kinetic cut-off energy of 450 eV was used. The Brillouin zone was sampled using the gamma-centred Monkhorst–Pack
+k
+points of 2 × 2 × 1 for all calculations, except that only the Γ point was used for preliminary structure optimization to determine the most stable structures of each Zn
+3
+O
+x
+H
+y
+/Cu(111) (
+x
+= 0–3,
+y
+= 0–
+x
+). The geometric optimization was performed using an iteration convergence with 1 × 10
+−5
+eV and 0.05 eV Å
+–1
+for total energy and residual forces, respectively. The transition state of a chemical reaction was located using the climbing image nudged elastic band method
+62
+,
+63
+implemented in the Vienna Ab-initio Simulation Package.
+The Gibbs free energy for each state was calculated by
+$$G\left( T \right) = E_{{{{\mathrm{DFT}}}}} + G_{{{{\mathrm{correct}}}}}\left( T \right) = E_{{{{\mathrm{DFT}}}}} + {{{\mathrm{ZPE}}}} - TS + {\Delta}U_{0 \to T}$$
+(1)
+where
+G
+(
+T
+) is the Gibbs free energy at temperature
+T
+,
+E
+DFT
+is the DFT energy and
+G
+correct
+(
+T
+) is the thermal correction to the Gibbs free energy. ZPE,
+S
+and Δ
+U
+0→
+T
+are the zero-point energy, entropy and internal energy change induced by temperature, respectively. The
+G
+correct
+(
+T
+) was calculated using the VASPKIT tool
+64
+. The energy barrier of a chemical reaction is defined as the free energy difference between the initial and transition states.
+Catalytic activity evaluation
+The MSR reaction measurements were conducted in a continuous plug flow fixed-bed reactor with a 4 mm inner diameter. Before the test, 100 mg of the catalyst with 60–80 mesh was activated in situ at 300 °C under different gas environments and then cooled to 225 °C in Ar (30 ml min
+–1
+). An aqueous methanol solution with a specific water/methanol ratio of 1.3 was injected into the heated chamber by a syringe pump (0.02 ml min
+–1
+, WHSV of MeOH = 6 h
+–1
+) to evaporate the liquid. The steam was then mixed with the desired amount of Ar (30 ml min
+–1
+) as the carrier gas and introduced into the catalyst bed for reaction. The reactor effluent was separated in a phase separator and analysed by online gas chromatography equipped with a methanizer and flame ionization detector and a thermal conductivity detector. Methanol conversion and the selectivity of products were calculated according to equations (
+2
+) and (
+3
+). TOF was calculated using equation (
+4
+) at 225 °C and the WHSV of MeOH of 60 h
+–1
+, with methanol conversions below 10% (ref.
+65
+):
+$${{{\mathrm{Methanol}}}}\;{{{\mathrm{conversion,}}}}\;{{{{C}}}}_{{{{\mathrm{MeOH}}}}}\left( {{{\mathrm{\% }}}} \right){{{\mathrm{ = }}}}\left( {{\it{F}}_{{{{\mathrm{CO,}}}}\;{{{\mathrm{out}}}}}{{{\mathrm{ + }}}}{\it{F}}_{{{{\mathrm{CO2,}}}}\;{{{\mathrm{out}}}}}} \right){{{\mathrm{/F}}}}_{{{{\mathrm{MeOH,}}}}\;{{{\mathrm{in}}}}}{{{\mathrm{ \times 100\% }}}}$$
+(2)
+$${{{\mathrm{CO}}}}\;{{{\mathrm{selectivity,}}}}\;{{{{S}}}}_{{{{\mathrm{CO}}}}}\left( {{{\mathrm{\% }}}} \right){{{\mathrm{ = }}}}{\it{F}}_{{{{\mathrm{CO,}}}}\;{{{\mathrm{out}}}}}{{{\mathrm{/}}}}\left( {{\it{F}}_{{{{\mathrm{CO,}}}}\;{{{\mathrm{out}}}}}{{{\mathrm{ + }}}}{\it{F}}_{{{{\mathrm{CO2,}}}}\;{{{\mathrm{out}}}}}} \right){{{\mathrm{ \times 100\% }}}}$$
+(3)
+$$\begin{array}{l}{\mathrm{TOF}}\;{\mathrm{of}}\;{\mathrm{methanol,}}\;{\mathrm{TOF}}_{\mathrm{MeOH}}\left( {\mathrm{h}^{\mathrm{ - 1}}} \right)\\ = (M_{\mathrm{Cu}} \times {\mathrm{methanol}}\;{\mathrm{consumption}}\;{\mathrm{rate)/(}D}_{\mathrm{Cu}} \ \times W_{\mathrm{Cu}})\end{array}$$
+(4)
+where
+F
+CO, out
+and
+F
+CO2, out
+are the CO and CO
+2
+outlet molar flow rates, respectively;
+F
+MeOH, in
+is the inlet stream of methanol fed to the reactor;
+M
+Cu
+is the molar mass of Cu,
+D
+Cu
+is the dispersion of Cu and
+W
+Cu
+is the content of Cu.
+Data availability
+The data that support the findings of this study are available from the corresponding authors on reasonable request.
+Source data
+are provided with this paper.
+References
+Tao, F. F. & Salmeron, M. In situ studies of chemistry and structure of materials in reactive environments.
+Science
+331
+, 171–174 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Tao, F. F. & Crozier, P. A. Atomic-scale observations of catalyst structures under reaction conditions and during catalysis.
+Chem. Rev.
+116
+, 3487–3539 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Kattel, S., Ramírez, P. J., Chen, J. G., Rodriguez, J. A. & Liu, P. Active sites for CO
+2
+hydrogenation to methanol on Cu/ZnO catalysts.
+Science
+355
+, 1296–1299 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Tang, M. et al. Recent progresses on structural reconstruction of nanosized metal catalysts via controlled-atmosphere transmission electron microscopy: a review.
+ACS Catal.
+10
+, 14419–14450 (2020).
+Article
+CAS
+Google Scholar
+Zhu, B. et al. Reshaping of metal nanoparticles under reaction conditions.
+Angew. Chem. Int. Ed.
+59
+, 2171–2180 (2020).
+Article
+CAS
+Google Scholar
+Zhu, M. H. et al. Promotion mechanisms of iron oxide-based high temperature water–gas shift catalysts by chromium and copper.
+ACS Catal.
+6
+, 4455–4464 (2016).
+Article
+CAS
+Google Scholar
+Pondick, J. V., Woods, J. M., Xing, J., Zhou, Y. & Cha, J. J. Stepwise sulfurization from MoO
+3
+to MoS
+2
+via chemical vapor deposition.
+ACS Appl. Nano Mater.
+1
+, 5655–5661 (2018).
+Article
+CAS
+Google Scholar
+de Smit, E. & Weckhuysen, B. M. The renaissance of iron-based Fischer–Tropsch synthesis: on the multifaceted catalyst deactivation behaviour.
+Chem. Soc. Rev.
+37
+, 2758–2781 (2008).
+Article
+PubMed
+Google Scholar
+Hansen, P. L. et al. Atom-resolved imaging of dynamic shape changes in supported copper nanocrystals.
+Science
+295
+, 2053–2055 (2002).
+Article
+CAS
+PubMed
+Google Scholar
+Forzatti, P. & Lietti, L. Catalyst deactivation.
+Catal. Today
+52
+, 165–181 (1999).
+Article
+CAS
+Google Scholar
+Prieto, G., Zečević, J., Friedrich, H., de Jong, K. P. & de Jongh, P. E. Towards stable catalysts by controlling collective properties of supported metal nanoparticles.
+Nat. Mater.
+12
+, 34–39 (2012).
+Article
+PubMed
+Google Scholar
+Goodman, E. D. et al. Supported catalyst deactivation by decomposition into single atoms is suppressed by increasing metal loading.
+Nat. Catal.
+2
+, 748–755 (2019).
+Article
+CAS
+Google Scholar
+Argyle, M. D. & Bartholomew, C. H. Heterogeneous catalyst deactivation and regeneration: a review.
+Catalysts
+5
+, 145–269 (2015).
+Article
+CAS
+Google Scholar
+Budiman, A. et al. Design and preparation of high-surface-area Cu/ZnO/Al
+2
+O
+3
+catalysts using a modified Co-precipitation method for the water-gas shift reaction.
+Appl. Catal. A
+462–463
+, 220–226 (2013).
+Article
+Google Scholar
+Behrens, M. et al. The active site of methanol synthesis over Cu/ZnO/Al
+2
+O
+3
+industrial catalysts.
+Science
+336
+, 893–897 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Schott, V. et al. Chemical activity of thin oxide layers: strong interactions with the support yield a new thin-film phase of ZnO.
+Angew. Chem. Int. Ed.
+52
+, 11925–11929 (2013).
+Article
+CAS
+Google Scholar
+Kuld, S., Conradsen, C., Moses, P. G., Chorkendorff, I. & Sehested, J. Quantification of zinc atoms in a surface alloy on copper in an industrial-type methanol synthesis catalyst.
+Angew. Chem. Int. Ed.
+53
+, 5941–5945 (2014).
+Article
+CAS
+Google Scholar
+Lunkenbein, T., Schumann, J., Behrens, M., Schlögl, R. & Willinger, M. G. Formation of a ZnO overlayer in industrial Cu/ZnO/Al
+2
+O
+3
+catalysts induced by strong metal-support interactions.
+Angew. Chem. Int. Ed.
+54
+, 4544–4548 (2015).
+Article
+CAS
+Google Scholar
+van den Berg, R. et al. Structure sensitivity of Cu and CuZn catalysts relevant to industrial methanol synthesis.
+Nat. Commun.
+7
+, 13057 (2016).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Palo, D. R., Dagle, R. A. & Holladay, J. D. Methanol steam reforming for hydrogen production.
+Chem. Rev.
+107
+, 3992–4021 (2007).
+Article
+CAS
+PubMed
+Google Scholar
+van den Berg, R. et al. Support functionalization to retard Ostwald ripening in copper methanol synthesis catalysts.
+ACS Catal.
+5
+, 4439–4448 (2015).
+Article
+Google Scholar
+Zhu, M. H. et al. Strong metal–support interactions between copper and iron oxide during the high-temperature water-gas shift reaction.
+Angew. Chem. Int. Ed.
+58
+, 9083–9087 (2019).
+Article
+CAS
+Google Scholar
+Resasco, D. E. & Haller, G. L. A model of metal-oxide support interaction for Rh on TiO
+2
+.
+J. Catal.
+82
+, 279–287 (1983).
+Article
+CAS
+Google Scholar
+Freakley, S. J. et al. Palladium-tin catalysts for the direct synthesis of H
+2
+O
+2
+with high selectivity.
+Science
+351
+, 965–968 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Fukahori, S. et al. Hydrogen production from methanol using a SiC fiber-containing paper composite impregnated with Cu/ZnO catalyst.
+Appl. Catal. A
+310
+, 138–144 (2006).
+Article
+CAS
+Google Scholar
+Zhu, J. et al. Flame synthesis of Cu/ZnO–CeO
+2
+catalysts: synergistic metal–support interactions promote CH
+3
+OH selectivity in CO
+2
+hydrogenation.
+ACS Catal.
+11
+, 4880–4892 (2021).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Fujitani, T., Nakamur, I., Uchijima, T. & Nakamura, J. The kinetics and mechanism of methanol synthesis by hydrogenation of CO
+2
+over a Zn-deposited Cu(111) surface.
+Surf. Sci.
+383
+, 285–298 (1997).
+Article
+CAS
+Google Scholar
+Fujitani, T. & Nakamura, J. The effect of ZnO in methanol synthesis catalysts on Cu dispersion and the specific activity.
+Catal. Lett.
+56
+, 119–124 (1998).
+Article
+CAS
+Google Scholar
+Grunwaldt, J. D., Molenbroek, A. M., Topsøe, N. Y., Topsøe, H. & Clausen, B. S. In situ investigations of structural changes in Cu/ZnO catalysts.
+J. Catal.
+194
+, 452–460 (2000).
+Article
+CAS
+Google Scholar
+Divins, N. J. et al. Operando high-pressure investigation of size-controlled CuZn catalysts for the methanol synthesis reaction.
+Nat. Commun.
+12
+, 1435 (2021).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Kanai, Y. & Watanabe, T. Evidence for the migration of ZnO
+x
+in a Cu/ZnO methanol synthesis catalyst.
+Catal. Lett.
+27
+, 67–78 (1994).
+Article
+CAS
+Google Scholar
+Andreasen, J. W. et al. Activation of a Cu/ZnO catalyst for methanol synthesis.
+J. Appl. Cryst.
+39
+, 209–221 (2006).
+Article
+CAS
+Google Scholar
+Quang, H. T. et al.
+In situ
+observations of free-standing graphene-like mono- and bilayer ZnO membranes.
+ACS Nano.
+9
+, 11408–11413 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Ngantcha, J. P., Gerland, M., Kihn, Y. & Rivière, A. Correlation between microstructure and mechanical spectroscopy of a Cu-Cu
+2
+O alloy between 290 K and 873 K.
+Eur. Phys. J. Appl. Phys.
+29
+, 83–89 (2004).
+Article
+Google Scholar
+Chen, A. et al. Structure of the catalytically active copper–ceria interfacial perimeter.
+Nat. Catal.
+2
+, 334–341 (2019).
+Article
+CAS
+Google Scholar
+Chamorro, W. et al. Role of Cu
++
+on ZnS:Cu p-type semiconductor films grown by sputtering: influence of substitutional Cu in the structural, optical and electronic properties.
+RSC Adv.
+6
+, 43480–43488 (2016).
+Article
+CAS
+Google Scholar
+Wang, Y. et al. Electronic structures of Cu
+2
+O, Cu
+4
+O
+3
+, and CuO: a joint experimental and theoretical study.
+Phys. Rev. B
+94
+, 245418 (2016).
+Article
+Google Scholar
+Powell, C. J. Recommended Auger parameters for 42 elemental solids.
+J. Electron. Spectrosc. Relat. Phenom.
+185
+, 1–3 (2012).
+Article
+CAS
+Google Scholar
+Boz, I., Sahibzada, M. & Metcalfe, I. S. Kinetics of the higher alcohol synthesis over a K-promoted CuO/ZnO/AI
+2
+O
+3
+catalyst.
+Ind. Eng. Chem. Res
+.
+33
+, 2021–2028 (1994).
+Liu, Z. et al. High-pressure CO adsorption on Cu-based catalysts: Zn-induced formation of strongly bound CO monitored by ATR-IR spectroscopy.
+Langmuir
+27
+, 4728–4733 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, Y. & Woll, C. IR spectroscopic investigations of chemical and photochemical reactions on metal oxides: bridging the materials gap.
+Chem. Soc. Rev.
+46
+, 1875–1932 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, H. et al. Strong metal–support interactions on gold nanoparticle catalysts achieved through Le Chatelier’s principle.
+Nat. Catal.
+4
+, 418–424 (2021).
+Article
+CAS
+Google Scholar
+Matsubu, J. C. et al. Adsorbate-mediated strong metal–support interactions in oxide-supported Rh catalysts.
+Nat. Chem.
+9
+, 120–127 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Sá, S., Silva, H., Brandão, L., Sousa, J. M. & Mendes, A. Catalysts for methanol steam reforming—a review.
+Appl. Catal. B
+99
+, 43–57 (2010).
+Article
+Google Scholar
+Lin, S., Johnson, R. S., Smith, G. K., Xie, D. & Guo, H. Pathways for methanol steam reforming involving adsorbed formaldehyde and hydroxyl intermediates on Cu(111): density functional theory studies.
+Phys. Chem. Chem. Phys.
+13
+, 9622–9631 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Takahashi, K., Takezawa, N. & Kobayashi, H. The mechanism of steam reforming of methanol over a copper-silica catalyst.
+Appl. Catal.
+2
+, 363–366 (1982).
+Article
+CAS
+Google Scholar
+Takezawa, N. & Iwasa, N. Steam reforming and dehydrogenation of methanol: difference in the catalytic functions of copper and group VIII metals.
+Catal. Today
+36
+, 45–56 (1997).
+Article
+CAS
+Google Scholar
+Frank, B. et al. Steam reforming of methanol over copper-containing catalysts: influence of support material on microkinetics.
+J. Catal.
+246
+, 177–192 (2007).
+Article
+CAS
+Google Scholar
+Ploner, K. et al. Mechanistic insights into the catalytic methanol steam reforming performance of Cu/ZrO
+2
+catalysts by in situ and operando studies.
+J. Catal.
+391
+, 497–512 (2020).
+Article
+CAS
+Google Scholar
+Li, D. et al. NiAl
+2
+O
+4
+spinel supported Pt catalyst: high performance and origin in aqueous-phase reforming of methanol.
+ACS Catal.
+9
+, 9671–9682 (2019).
+Article
+CAS
+Google Scholar
+Reichenbach, T. et al. Ab initio study of CO
+2
+hydrogenation mechanisms on inverse ZnO/Cu catalysts.
+J. Catal.
+360
+, 168–174 (2018).
+Article
+CAS
+Google Scholar
+Reichenbach, T., Walter, M., Moseler, M., Hammer, B. & Bruix, A. Effects of gas-phase conditions and particle size on the properties of Cu(111)-supported Zn
+y
+O
+x
+particles revealed by global optimization and ab initio thermodynamics.
+J. Phys. Chem. C
+123
+, 30903–30916 (2019).
+Article
+CAS
+Google Scholar
+van Deelen, T. W., Hernández Mejía, C. & de Jong, K. P. Control of metal–support interactions in heterogeneous catalysts to enhance activity and selectivity.
+Nat. Catal.
+2
+, 955–970 (2019).
+Article
+Google Scholar
+Dong, J. et al. Reaction-induced strong metal–support interactions between metals and inert boron nitride nanosheets.
+J. Am. Chem. Soc.
+142
+, 17167–17174 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, Y. et al. Strong evidence of the role of H
+2
+O in affecting methanol selectivity from CO
+2
+hydrogenation over Cu-ZnO-ZrO
+2
+.
+Chem
+6
+, 419–430 (2020).
+Article
+CAS
+Google Scholar
+Behrens, M., Kasatkin, I., Kühl, S. & Weinberg, G. Phase-pure Cu,Zn,Al hydrotalcite-like materials as precursors for copper rich Cu/ZnO/Al
+2
+O
+3
+catalysts.
+Chem. Mater.
+22
+, 386–397 (2010).
+Article
+CAS
+Google Scholar
+Yu, K. M. et al. Non-syngas direct steam reforming of methanol to hydrogen and carbon dioxide at low temperature.
+Nat. Commun.
+3
+, 1230 (2012).
+Article
+PubMed
+Google Scholar
+Kresse, G. & Furthmiiller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for
+ab initio
+total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Blochl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953–17979 (1994).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+PubMed
+Google Scholar
+Henkelman, G. & Jónsson, H. Improved tangent estimate in the nudged elastic band method for finding minimum energy paths and saddle points.
+J. Chem. Phys.
+113
+, 9978–9985 (2000).
+Article
+CAS
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+Article
+CAS
+Google Scholar
+Wang, V., Xu, N., Liu, J.-C., Tang, G. & Geng, W.-T. VASPKIT: a user-friendly interface facilitating high-throughput computing and analysis using VASP code.
+Comput. Phys. Commun
+.
+267
+, 108033 (2021).
+Mateos-Pedrero, C., Azenha, C., Tanaka, A. D. P., Sousa, J. M. & Mendes, A. The influence of the support composition on the physicochemical and catalytic properties of Cu catalysts supported on zirconia-alumina for methanol steam reforming.
+Appl. Catal. B
+277
+, 119243 (2020).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This work is supported by the National Natural Science Foundation of China (22078089, M.Z.; 21908054, Z.X.; and 22075076, Z.X.), Program for Professor of Special Appointment (Eastern Scholar) at Shanghai Institutions of Higher Learning (M.Z. and S.D.), Shanghai Sailing Program (19YF1410600, M.Z.), Shanghai Rising-star Program (20QA1402400, S.D.), Shanghai Municipal Science and Technology Major Project (2018SHZDZX03, S.D.) and Fundamental Research Funds for the Central Universities, the Programme of Introducing Talents of Discipline to Universities (B16017, S.D.). The research at Lehigh University is supported by the Center for Understanding & Control of Acid Gas-Induced Evolution of Materials for Energy, an Energy Frontier Research Center funded by the US Department of Energy, Office of Science, Office of Basic Energy Sciences under grant DE-SC0012577 (I.E.W.). X-ray absorption spectroscopy measurements were carried out at the Shanghai Synchrotron Radiation Facility. We thank P. F. Liu and Y. W. Liu at East China University of Science and Technology for the help with X-ray absorption spectroscopy characterization. Additional support was provided by the Frontiers Science Center for Materiobiology and Dynamic Chemistry and the Feringa Nobel Prize Scientist Joint Research Center.
+Author information
+Author notes
+These authors contributed equally: Didi Li, Fang Xu, Xuan Tang, Sheng Dai.
+Authors and Affiliations
+State Key Laboratory of Chemical Engineering, School of Chemical Engineering, East China University of Science and Technology, Shanghai, China
+Didi Li, Fang Xu, Xianglin Liu, Zhi Xu & Minghui Zhu
+Key Laboratory for Advanced Materials and Joint International Research Laboratory of Precision Chemistry and Molecular Engineering, Feringa Nobel Prize Scientist Joint Research Centre, Frontiers Science Center for Materiobiology and Dynamic Chemistry, Institute of Fine Chemicals, School of Chemistry and Molecular Engineering, East China University of Science and Technology, Shanghai, China
+Xuan Tang & Sheng Dai
+Operando Molecular Spectroscopy & Catalysis Laboratory, Department of Chemical and Biomolecular Engineering, Lehigh University, Bethlehem, PA, United States
+Tiancheng Pu & Israel E. Wachs
+Key Laboratory of Pressure Systems and Safety, Ministry of Education, East China University of Science and Technology, Shanghai, China
+Pengfei Tian & Fuzhen Xuan
+Authors
+Didi Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Fang Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xuan Tang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sheng Dai
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tiancheng Pu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xianglin Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Pengfei Tian
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Fuzhen Xuan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhi Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Israel E. Wachs
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Minghui Zhu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+D.L., Z.X., I.E.W. and M.Z. conceived the idea and designed the present work. D.L. and T.P. synthesized the catalysts and performed the catalyst characterization. F. Xu, X.L., P.T. and F. Xuan conducted the DFT calculations. X.T. and S.D. performed the aberration-corrected STEM measurements. Data were discussed among all coauthors. D.L. and M.Z. wrote the paper with contributions from all authors.
+Corresponding authors
+Correspondence to
+Zhi Xu
+,
+Israel E. Wachs
+or
+Minghui Zhu
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks the anonymous reviewers for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–43, Notes 1–5, Scheme 1 and Tables 1–10.
+Supplementary Data 1
+All optimized structures.
+Supplementary Data 2
+The most stable models among all optimized structures.
+Source data
+Source Data Fig. 1
+Activity, stability and in situ X-ray diffraction.
+Source Data Fig. 2
+STEM–EELS.
+Source Data Fig. 3
+Quasi in situ X-ray photoelectron spectroscopy and in situ CO DRIFTS.
+Source Data Fig. 4
+In situ temperature-programmed DRIFTS and DFT.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Li, D., Xu, F., Tang, X.
+et al.
+Induced activation of the commercial Cu/ZnO/Al
+2
+O
+3
+catalyst for the steam reforming of methanol.
+Nat Catal
+5
+, 99–108 (2022). https://doi.org/10.1038/s41929-021-00729-4
+Download citation
+Received
+:
+20 January 2021
+Accepted
+:
+10 December 2021
+Published
+:
+20 January 2022
+Issue Date
+:
+February 2022
+DOI
+:
+https://doi.org/10.1038/s41929-021-00729-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Activating catalysts by adsorbate-induced reconstructions
+Albert Bruix
+Nature Catalysis
+News & Views
+25 Feb 2022
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

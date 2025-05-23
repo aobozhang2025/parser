@@ -1,0 +1,2178 @@
+Shielding Pt/γ-Mo2N by inert nano-overlays enables stable H2 production | Nature
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+articles
+article
+Shielding Pt/γ-Mo
+2
+N by inert nano-overlays enables stable H
+2
+production
+Download PDF
+Article
+Published:
+12 February 2025
+Shielding Pt/γ-Mo
+2
+N by inert nano-overlays enables stable H
+2
+production
+Zirui Gao
+1
+na1
+,
+Aowen Li
+2
+na1
+,
+Xingwu Liu
+ORCID:
+orcid.org/0000-0002-8564-1151
+1
+na1
+,
+Mi Peng
+ORCID:
+orcid.org/0000-0001-7713-4398
+1
+na1
+,
+Shixiang Yu
+1
+,
+2
+na1
+,
+Maolin Wang
+ORCID:
+orcid.org/0000-0003-4924-6047
+1
+,
+Yuzhen Ge
+ORCID:
+orcid.org/0000-0002-2552-376X
+1
+,
+Chengyu Li
+1
+,
+Tie Wang
+ORCID:
+orcid.org/0009-0002-4505-8700
+1
+,
+Zhaohua Wang
+1
+,
+Wu Zhou
+ORCID:
+orcid.org/0000-0002-6803-1095
+2
+&
+…
+Ding Ma
+ORCID:
+orcid.org/0000-0002-3341-2998
+1
+Show authors
+Nature
+volume
+638
+,
+pages
+690–696 (
+2025
+)
+Cite this article
+11k
+Accesses
+6
+Citations
+87
+Altmetric
+Metrics
+details
+Subjects
+Catalysis
+Heterogeneous catalysis
+Abstract
+The use of reactive supports to disperse metal species is crucial for constructing highly efficient interfacial catalysts, by tuning the competitive reactant adsorption–activation pattern in supported metal catalysts into a non-competitive mechanism
+1
+,
+2
+,
+3
+. However, these reactive supports are prone to deterioration during catalysis, limiting the lifespan of the catalyst and their potential practical applications
+4
+. New strategies are needed to simultaneously protect reactive supports and surface metal species without compromising the inherent catalytic performance. Here we report a new strategy to augment the structural stability of highly active interfacial catalysts by using inert nano-overlays to partially shield and partition the surface of the reactive support. Specifically, we demonstrate that atomically dispersed inert oxide nano-overlays on a highly active Pt/γ-Mo
+2
+N catalyst can block the redundant surface sites of γ-Mo
+2
+N responsible for surface oxidation of this reactive support and the resulting deactivation. This strategy yields an efficient and highly durable catalyst for hydrogen production by methanol-reforming reaction with a mere 0.26 wt% Pt loading, exhibiting a record-high turnover number, to our knowledge, of 15,300,000 and a notable apparent turnover frequency of
+\(\mathrm{24,500}\,{\text{mol}}_{{{\rm{H}}}_{2}}\,{\text{mol}}_{{\rm{metal}}}^{-1}\,{\text{h}}^{-1}\)
+. This innovative approach showcases the prospects of reducing noble metal consumption and boosting longevity, which could be applied to design effective and stable heterogeneous catalysts.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Hydrogen spillover assisted by oxygenate molecules over nonreducible oxides
+Article
+Open access
+18 March 2022
+Simultaneously activating molecular oxygen and surface lattice oxygen on Pt/TiO
+2
+for low-temperature CO oxidation
+Article
+Open access
+09 August 2024
+Intermetallic PdZn nanoparticles catalyze the continuous-flow hydrogenation of alkynols to
+cis
+-enols
+Article
+Open access
+13 December 2021
+Main
+Construction of active metal–support interfaces
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
+6
+is crucial for developing heterogeneous catalysts with high activity and selectivity
+2
+,
+7
+,
+8
+. Highly reactive support material, which can provide catalytic sites for the adsorption and activation of the reactants, can be used to generate active metal–support interfacial sites
+3
+,
+4
+. This could shift the reaction from a competitive adsorption–activation model in typical supported metal catalysts to a non-competitive mechanism and lead to substantial alterations in reaction pathways, resulting in enhanced catalytic turnover rates and the potential to unlock unparalleled reactivity through the exploration of new reaction routes
+9
+.
+Beyond achieving outstanding activity and selectivity, enhancing the stability and durability of a catalyst is the most crucial objective in catalyst design, particularly for atomically dispersed metal catalysts, such as single-atom catalysts (SAC)
+10
+and fully exposed cluster catalysts (FECC)
+11
+,
+12
+, as their limited lifespan due to possible metal sintering is challenging for practical applications. A careful design or selection of substrates, targeting to stabilize the anchoring of supported metal species, is typically considered essential for developing highly stable supported metal catalysts
+5
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+. For example, the strong interaction between CeO
+2
+and Pt was leveraged
+13
+to transfer and trap Pt atoms from Pt/La-Al
+2
+O
+3
+onto ceria supports through heat treatment, resulting in stable isolated Pt atom catalysts with excellent activity. In the well-studied Pd/γ-Al
+2
+O
+3
+catalyst system, it has been demonstrated that the high-surface-area γ-Al
+2
+O
+3
+support is prone to undergo a structural phase transformation into α-Al
+2
+O
+3
+during catalysis
+18
+, which may lead to a significant loss of surface area and consequent sintering of the supported Pd species, causing catalyst deactivation. In ref.
+19
+, the authors showed that introducing lanthanum (La) over γ-Al
+2
+O
+3
+can stabilize the catalytic activity by mitigating the sintering of highly dispersed Pd species, as La dopant could effectively hinder the γ-to-α structural phase transformation of the Al
+2
+O
+3
+support.
+Apart from the sintering or loss of active metal sites, which serves as the main cause for catalyst deactivation in many supported metal catalysts, deterioration or decomposition of the reactive supports can also be a primary cause of the short lifetime of interfacial catalysts. The inherent reactivity of these supports, such as transition metal carbides and nitrides
+20
+,
+21
+,
+22
+, makes them susceptible to irreversible unfavourable reconstruction by reaction with reactants or products during catalysis. This directly leads to the damage of active interfacial structures and loss of activity and/or selectivity. Therefore, protecting and stabilizing these reactive supports is equally vital for preserving the efficacy of highly active interfacial catalysts, which may require different strategies than those for suppressing metal sintering.
+For example, metals supported on α-MoC and γ-Mo
+2
+N have demonstrated exceptional activity in low-temperature methanol-reforming reactions
+4
+,
+23
+,
+24
+and water-gas shift (WGS)
+25
+,
+26
+reactions for hydrogen production. The high catalytic performance is partially attributed to the superior water dissociation ability of α-MoC and γ-Mo
+2
+N. However, this strength also becomes a vulnerability, as it can easily lead to deep oxidation of the support surface and structural change of the interfacial sites, causing deactivation of the catalyst. For instance, the activity of Pt/α-MoC in methanol-reforming reaction declines by 62% in just 11 h (ref.
+4
+). Although the crowding of the α-MoC surface with atomically dispersed Pt species facilitated the turnover of the oxygen species
+9
+, the stability of the catalyst was still limited by the amount of Pt species that could be atomically dispersed on the support surface and the catalyst deactivated by 70% in about 260 h. Moreover, increasing the noble metal loading inevitably leads to increased catalyst cost and possibly aggregation of the metal species
+27
+and/or obliteration of the crucial interface. Therefore, a new strategy is needed to boost the stability of these catalysts towards practical applications while maintaining their intrinsic high activity and selectivity.
+In this study, we report a new and universal strategy to drastically enhance the durability of interfacial catalysts by shielding the reactive supports with inert nano-overlays without sacrificing the intrinsic reactivity of the active interfaces. To demonstrate this new strategy and the underlying mechanism, we choose rare-earth La oxide nano-overlays immobilized over highly active Pt/γ-Mo
+2
+N methanol-reforming catalysts as a representative case for detailed analysis. We show that the La oxide overlay can shield the redundant surface sites of fragile γ-Mo
+2
+N to prevent it from deep oxidation by the reactant, water, which directly improves the stability of the catalyst. This strategy enabled a highly efficient and robust catalyst with a record-high turnover number (TON), to our knowledge, of 15,300,000 in just 800-h evaluation, operating with a mere 0.26 wt% Pt. More importantly, after the 800-h reaction, the hydrogen production activity of this Pt/La-Mo
+2
+N catalyst decreased by only one-third of its peak performance, suggesting a potentially longer operational lifespan. The shielding nano-overlays can be extended to other rare-earth elements (Y, Pr and Ho) and non-rare-earth elements (Ca, Sr and Cs). The transient kinetic analysis (TKA) results demonstrate that the intrinsic catalytic activity of the γ-Mo
+2
+N is not compromised regardless of the shielding elements, showing the universality of this strategy. Notably, this approach simultaneously achieves the three ultimate objectives of catalyst design: high activity, high selectivity and outstanding stability, promising its potential for broader practical applications.
+First, we synthesized and evaluated the benchmark catalyst, that is, 1 wt% Pt loaded on bare γ-Mo
+2
+N (denoted as 1Pt/γ-Mo
+2
+N; for details of the synthesis, see
+Methods
+). Under optimal methanol-reforming reaction conditions, the 1Pt/γ-Mo
+2
+N catalyst demonstrated an ATOF of
+\(\mathrm{9,837}\,{\text{mol}}_{{{\rm{H}}}_{2}}\,{\text{mol}}_{{\rm{metal}}}^{-1}\,{\text{h}}^{-1}\)
+and a CO
+2
+selectivity above 99% in carbon products (Supplementary Figs.
+1
+–
+5
+and
+44
+–
+50
+), which outperforms the state-of-the-art Pt/α-MoC catalysts under the same metal loading and reaction conditions (Supplementary Fig.
+1
+). This excellent catalytic activity is attributed to the highly active interface between Pt and γ-Mo
+2
+N (Supplementary Figs.
+6
+–
+7
+). Although better than the Pt/α-MoC catalysts, this catalyst deactivates relatively fast, and the activity is nearly halved after a 200-h evaluation.
+We then assessed our catalyst design strategy by constructing nano-overlay structures on the γ-Mo
+2
+N support. To provide simultaneous protection to both the γ-Mo
+2
+N support and the interfacial sites, we aimed to have the catalytically inert species highly dispersed, shielding part of the fragile γ-Mo
+2
+N surface and segmenting into discrete partitions to trap Pt. It has been applied to various elements with similar properties of oxygen affinity, chemical stability and inertness for methanol-reforming reaction, including rare-earth elements (Y, La, Pr and Ho) and non-rare-earth elements (Ca, Sr and Cs). Among them, we chose La as the representative example for detailed discussion because it is a commonly used low-cost additive in many catalyst systems
+19
+,
+28
+. Moreover, La has relatively strong oxygen affinity and does not form solid solutions with Mo oxide or nitride
+29
+, so we adopt a simple synthesis method to construct the La-modified γ-Mo
+2
+N support (with La content of 2 wt%, denoted as 2La-Mo
+2
+N; see
+Methods
+for details). Structural analysis demonstrates that the 2La-Mo
+2
+N sample is composed of porous aggregates of γ-Mo
+2
+N nanoparticles with face-centred cubic structure and has a high specific surface area (Supplementary Figs.
+8
+–
+11
+), that is, the addition of 2 wt% La does not change the crystal structure and the morphology of the γ-Mo
+2
+N.
+To visualize the structure and distribution of the La species, we performed atomic-resolution electron energy-loss spectroscopy (EELS) mapping with single-atom sensitivity on an aberration-corrected scanning transmission electron microscope (STEM)
+23
+,
+30
+. Direct discrimination of the La species from the Z-contrast STEM high-angle annular dark-field (HAADF) images is infeasible due to the small difference in La and Mo atomic numbers. Instead, atomic-scale STEM-EELS mapping using the characteristic La M-edge signals shows that the La signals are mostly confined within sparsely distributed single bright pixels of 0.2 nm (Supplementary Fig.
+12
+). Note that the pixel size we chose for STEM-EELS mapping is shorter than the La–La or the La–O–La bonds, indicating that most La species are atomically dispersed over γ-Mo
+2
+N. Furthermore, the overlay of the La EELS map and the simultaneously acquired STEM-HAADF image shows that La species appears on the periphery of the projected profiles of the catalyst particles. The STEM results, together with the insolubility of La in molybdenum oxide or nitride
+29
+precursors suggest that the La species primarily forms isolated overlay structures shielding the γ-Mo
+2
+N surface (Supplementary Fig.
+12
+).
+Pt (1 wt%) was then loaded onto the 2La-Mo
+2
+N to prepare the 1Pt/2La-Mo
+2
+N catalyst. Atomic-resolution STEM-HAADF images (Fig.
+1a–c
+and Supplementary Figs.
+13
+–
+17
+) show similar structure and spatial distribution of Pt species in both 1Pt/2La-Mo
+2
+N and 1Pt/γ-Mo
+2
+N, consisting of primarily isolated Pt atoms and a small amount of sub-nm Pt clusters, in agreement with extended X-ray-absorption fine-structure analysis, which shows low average Pt–Pt coordination numbers (CN
+Pt–Pt
+) of 1.6 and 2.5 for 1Pt/γ-Mo
+2
+N and 1Pt/2La-Mo
+2
+N, respectively (Supplementary Table
+1
+). The overlay structure and isolated dispersion of La species remain unchanged after Pt loading (Fig.
+1d–f,i
+and Supplementary Figs.
+12
+–
+14
+).
+Fig. 1: Structural characterizations of the 1Pt/γ-Mo
+2
+N and 1Pt/2La-Mo
+2
+N catalysts.
+a
+,
+b
+, STEM-HAADF images of the 1Pt/γ-Mo
+2
+N catalyst with isolated Pt atoms highlighted by blue circles and Pt clusters by yellow circles.
+c–f
+, STEM-HAADF images and atomic-scale EELS analysis of the 1Pt/2La-Mo
+2
+N catalyst. STEM-HAADF image (
+c
+) with isolated Pt atoms highlighted by blue circles and Pt clusters by yellow circles. Overlay of the EELS maps (
+d
+) for La M edges (red) and Mo M edges (grey) for the same sample area of
+c
+. Enlarged La M-edge maps and EELS spectra (
+e
+,
+f
+) of areas 1 and 2 marked by white squares in
+d
+. The top-left panels in
+e
+and
+f
+are the enlarged La M-edge maps, and the bottom-left panels are their illustrations with a pixel size of 0.27 nm. The EELS spectra are extracted from the pixels filled with the same colours in the illustrations. The La signals are confined in the central pixels of the two highlighted areas, indicating that La is atomically dispersed on the γ-Mo
+2
+N support.
+g
+, The Mo 3
+d
+and O 1
+s
+XPS spectra of the γ-Mo
+2
+N, 1Pt/γ-Mo
+2
+N and 1Pt/2La-Mo
+2
+N samples collected at the photoelectron kinetic energy of 500 eV.
+h
+, The Pt 4
+f
+XPS spectra of the 1Pt/γ-Mo
+2
+N and 1Pt/2La-Mo
+2
+N samples collected at the photoelectron kinetic energy of 300 eV.
+i
+, Schematic of the 1Pt/2La-Mo
+2
+N structure. The white cycles highlight the protection and partition effect conferred by La nano-overlays. Scale bar, 2 nm (
+a
+–
+d
+).
+Full size image
+We further explore possible interaction between the La nano-overlays and the Pt atomic species using electronic structure analysis. Compared with 1Pt/γ-Mo
+2
+N, the 1Pt/2La-Mo
+2
+N catalyst shows a weak but obvious presence of oxidized Mo species at 235.7 eV in Mo 3
+d
+X-ray photoelectron spectroscopy (XPS) profile (acquired at a low photoelectron kinetic energy of 500 eV for less probing depth), accompanied by an increased intensity of residual oxygen (530.2 eV) (compared with hydroxyl oxygen at 532.6 eV) in O 1
+s
+XPS profile (Fig.
+1g
+). This demonstrates that La bonds with the molybdenum nitride surface through an oxygen bridge (as Mo–O–La species). No visible change in the Pt oxidation state can be observed for catalysts with or without La loading (Fig.
+1h
+and Supplementary Figs.
+18
+–
+20
+), suggesting that the La species stay remote and do not directly interact with the highly dispersed Pt species. EELS and XPS spectra show that the La species in the 1Pt/2La-Mo
+2
+N catalyst are in a stable 3+ valance state
+31
+(Supplementary Figs.
+17
+and
+18
+), suggesting that the highly dispersed nano-overlays of La species on the γ-Mo
+2
+N surface should be robust. Importantly, these stable La nano-overlays have the potential to (1) partially shield the γ-Mo
+2
+N surface from deep oxidation during the reaction; (2) segment the surface into isolated nanoscale partitions to accommodate the interfaces of Pt and γ-Mo
+2
+N (noted as Pt@γ-Mo
+2
+N interfaces) and facilitate the reaction turnover; and (3) hinder the aggregation of Pt atomic species. These provide the structural basis for simultaneous protection of the active support and the active interfaces towards a highly efficient and robust catalyst.
+The performance of the above-mentioned catalysts was evaluated in the methanol-reforming reaction. The ATOF activity of the 1Pt/2La-Mo
+2
+N catalyst reaches
+\(\mathrm{9,518}\,{\text{mol}}_{{{\rm{H}}}_{2}}\,{\text{mol}}_{{\rm{metal}}}^{-1}\,{\text{h}}^{-1}\)
+, which is close to that of 1Pt/γ-Mo
+2
+N (
+\(\mathrm{9,837}\,{\text{mol}}_{{{\rm{H}}}_{2}}\,{\text{mol}}_{{\rm{metal}}}^{-1}\,{\text{h}}^{-1}\)
+) (Fig.
+2a
+). At lower Pt loading, the ATOF can be as high as
+\(\mathrm{41,038}\,{\text{mol}}_{{{\rm{H}}}_{2}}\,{\text{mol}}_{{\rm{metal}}}^{-1}\,{\text{h}}^{-1}\)
+(0.02Pt/2La-Mo
+2
+N) owing to better dispersion of Pt, surpassing all the catalysts reported (Supplementary Table
+2
+and Supplementary Figs.
+21
+–
+22
+). The formation of La nano-overlay structure significantly improves the durability of the catalyst with the activity and selectivity remaining at a stable high level during the methanol-reforming reaction (Fig.
+2a
+). Importantly, in sharp contrast to the relatively fast deactivation of the 1Pt/γ-Mo
+2
+N catalyst, the activity of which dropped by about 50% in a 200-h test, the 1Pt/2La-Mo
+2
+N catalyst maintained a high activity above
+\(\mathrm{7,000}\,{\text{mol}}_{{{\rm{H}}}_{2}}\,{\text{mol}}_{{\rm{metal}}}^{-1}\,{\text{h}}^{-1}\)
+during the 1,300-h evaluation. As a result, the 1Pt/2La-Mo
+2
+N catalyst achieved an ultrahigh TON of
+\(\mathrm{10,280,000}\,{\text{mol}}_{{{\rm{H}}}_{2}}\,{\text{mol}}_{{\rm{metal}}}^{-1}\,{\text{h}}^{-1}\)
+. It is worth emphasizing that the activity of the 1Pt/2La-Mo
+2
+N catalyst decreased by only 25% (compared with the peak activity) at the end of the 1,300-h reaction and was stable in the last 100 h. This implies that the TON value obtained was limited by the reaction period we investigated, and the true lifespan of the catalyst is probably much longer. Furthermore, the catalyst showed excellent efficiency for the reforming and the selectivity towards CO
+2
+stayed above 99% (Supplementary Fig.
+23
+). With a lower space velocity, the methanol conversion can be kept around 90% during the 1300-h reaction (Supplementary Fig.
+24
+), promising practical applications.
+Fig. 2: Comparison of the catalytic performance of Pt/La-Mo
+2
+N catalysts with typical noble-metal methanol-reforming catalysts.
+a
+, Catalytic activity of the 1Pt/γ-Mo
+2
+N and 1Pt/2La-Mo
+2
+N catalysts and selectivity of the 1Pt/2La-Mo
+2
+N catalyst in the methanol-reforming reaction. Conditions: catalysts 150 mg, reaction temperature 200 °C, pressure 5 bar, methanol/water = 1/3 (molar ratio), weight-hourly space velocity (WHSV
+methanol
+) = 12.87 h
+−1
+.
+b
+, Catalytic activity and selectivity of the 0.2Pt/5La-Mo
+2
+N in the methanol-reforming reaction. A higher La loading is adapted because a lower Pt loading leads to a lower density of Pt@γ-Mo
+2
+N interfacial sites, leaving even more redundant γ-Mo
+2
+N sites for La to protect. TON over the 800 h testing: 15,300,000. Conditions: catalyst 150 mg, reaction temperature 200 °C, pressure 5 bar, methanol/water = 1/3 (molar ratio), WHSV
+methanol
+= 12.87 h
+−1
+.
+c
+, Comparison of key catalytic performance in the methanol-reforming reaction over five dimensionalities (durability, TON, ATOF, mass-specific activity and CO
+2
+selectivity) for 1Pt/2La-Mo
+2
+N (Fig.
+2a
+), 1Pt/α-MoC, Ru complex
+32
+, Pd/ZnO (ref.
+33
+) and Pt/Al
+2
+O
+3
+(ref.
+34
+) catalysts.
+Full size image
+We have also systematically studied different additive elements of Y, Pr, Ho, Ca, Sr and Cs. All these additive elements can markedly improve the methanol-reforming durability of the Pt/γ-Mo
+2
+N catalyst to a similar level, whereas the intrinsic activity of the Pt@γ-Mo
+2
+N interfaces remains unaltered (Fig.
+4a
+and Supplementary Fig.
+25
+). Atomic-scale STEM-EELS analysis of 1Pt/2Pr-Mo
+2
+N, 1Pt/2Ca-Mo
+2
+N, 1Pt/2Sr-Mo
+2
+N and 1Pt/2Cs-Mo
+2
+N (Supplementary Fig.
+26
+) also shows that these catalytically inert elements are atomically dispersed on γ-Mo
+2
+N, similar to that of La. These results with different elements demonstrate the universality of the catalyst design strategy proposed in this paper.
+The catalytic performance of the 1Pt/2La-Mo
+2
+N catalyst was comprehensively rivalled with other well-established best noble-metal catalyst systems, including Ru complex
+32
+, Pd/ZnO (ref.
+33
+), Pt/Al
+2
+O
+3
+(ref.
+34
+) and 1Pt/α-MoC over five key dimensionalities in terms of durability, TON, ATOF, mass-specific activity and CO
+2
+selectivity (Fig.
+2c
+and Supplementary Table
+3
+). A full comparison with many other catalysts is provided in Supplementary Table
+2
+. The 1Pt/2La-Mo
+2
+N catalyst demonstrated absolute superiority over all other reference catalysts in all five dimensionalities, particularly regarding durability. Moreover, the ATOF and mass-specific activity of 1Pt/2La-Mo
+2
+N were measured to be three and two times, respectively, higher than those of 1Pt/α-MoC (Supplementary Table
+3
+), which exhibited the highest hydrogen production activity among supported noble-metal catalysts reported so far in the literature, to our knowledge.
+We designed a series of experiments to check whether the La nano-overlays have reduced the susceptibility of the exposed surface of γ-Mo
+2
+N to water vapour oxidation during the methanol-reforming reaction and protect the interfacial sites from changes in the metal–support interaction. We first compared the structure of the 1Pt/γ-Mo
+2
+N and 1Pt/2La-Mo
+2
+N catalysts after a 200-h reaction under the same conditions, for which the two catalysts already showed different deactivation behaviours. From XPS (Supplementary Figs.
+18
+and
+19
+), X-ray diffraction (Supplementary Fig.
+27
+) and STEM (Supplementary Figs.
+28
+and
+29
+) analyses, the bulk structures of the γ-Mo
+2
+N and 2La-Mo
+2
+N supports were kept intact. Moreover, atomic-scale STEM-EELS mapping shows that the atomic La overlay structure was well-preserved after the 200-h reaction (Supplementary Fig.
+28
+). XPS and XANES indicate that the electronic states of Pt for both spent catalysts remained similar to the fresh ones (Supplementary Figs.
+18
+–
+20
+). A slight aggregation of Pt species was observed in the 1Pt/γ-Mo
+2
+N after 200 h of evaluation (Supplementary Table
+1
+), whereas the average CN
+Pt–Pt
+of 1Pt/2La-Mo
+2
+N remained stable (Supplementary Table
+1
+). Nevertheless, the slight increase of CN
+Pt–Pt
+, close to the margin of error of the X-ray absorption spectroscopy fitting, should not be the decisive cause of the sharp activity drop in the 1Pt/γ-Mo
+2
+N catalyst. Furthermore, the CN
+Pt–Pt
+of 1Pt/γ-Mo
+2
+N after the reaction is similar to that of the fresh 1Pt/2La-Mo
+2
+N catalyst, but their methanol-reforming activity is noticeably different. These results, thus, indicate that the stability difference may arise from surface structural discrepancies.
+We then conducted surface-sensitive in situ Raman spectroscopy experiments, as Raman spectroscopy is highly sensitive to the formation of molybdenum oxide species
+35
+(Supplementary Fig.
+30
+). As shown in Supplementary Fig.
+31b
+, when methanol/water steam was fed onto the fresh 1Pt/γ-Mo
+2
+N catalyst at 200 °C, the Raman bands of molybdenum oxide at 354 cm
+−1
+, 492 cm
+−1
+, 572 cm
+−1
+and 729 cm
+−1
+can be resolved, which can be attributed to molybdenum oxide species formed on the surface, demonstrating that the surface of 1Pt/γ-Mo
+2
+N can be easily oxidized, most possibly by water, under reaction atmosphere. By contrast, for the 1Pt/2La-Mo
+2
+N catalyst (Supplementary Fig.
+31a
+), no detectable Mo–O signal was observed under the same condition, indicating its superior oxidation resistance compared with 1Pt/γ-Mo
+2
+N.
+To further demonstrate that the catalyst deactivation is mainly caused by surface oxidation by water, we conducted an accelerated-deactivation experiment by feeding water vapour into the reactor for 12 h after a 36-h methanol-reforming reaction to induce further surface oxidation of the catalyst, and restarted the methanol-reforming reaction to evaluate the impact of water oxidation on catalyst activity (Fig.
+3a
+). The water treatment caused obvious drops in activity in the three catalysts. Specifically, the activity of 1Pt/α-MoC dropped by 68%, and the activity declined by 34% for 1Pt/γ-Mo
+2
+N. By contrast, the 1Pt/2La-Mo
+2
+N catalyst showed only an 18% decrease in activity. Quasi-in-situ Raman (Fig.
+3b
+) and XPS (Fig.
+3c
+) analyses of catalyst samples extracted from three different states, that is, (1) fresh; (2) after 36-h methanol-reforming reaction; and (3) after 36-h methanol-reforming reaction and the 12-h water treatment, show that the observed deactivation is directly correlated with the extent of surface oxidation. After the 36-h methanol-reforming reaction (state ii), obvious surface oxidation was observed on the 1Pt/α-MoC catalyst, as evidenced by the emergence of clear Raman bands associated with Mo–O structures and the strong oxygen signals around 532.6 eV in the O 1
+s
+XPS spectra, whereas 1Pt/2La-Mo
+2
+N and 1Pt/γ-Mo
+2
+N showed no evident sights of oxidation. Following the subsequent 12-h water treatment (state iii), surface oxidation can be seen for 1Pt/γ-Mo
+2
+N, whereas the 1Pt/2La-Mo
+2
+N catalyst remained almost unchanged. These results collectively demonstrate that surface oxidation by water is the main cause for the deactivation of these catalysts, and the La nano-overlay structure can improve the oxidation resistance of the γ-Mo
+2
+N support, which itself is already more antioxidative than α-MoC. More importantly, the methanol-reforming reaction turnover is not affected by the La structures on the γ-Mo
+2
+N surface. It demonstrates that the La nano-overlays shield part of the easy-to-be-oxidized γ-Mo
+2
+N surface sites but keep remote to the reactive Pt/γ-Mo
+2
+N interfacial sites. This is the key to the success of the La nano-overlay strategy.
+Fig. 3: Anti-deactivation mechanism of the 1Pt/2La-Mo
+2
+N catalyst.
+a
+, Comparison of hydrogenation production rates of 1Pt/α-MoC, 1Pt/γ-Mo
+2
+N and 1Pt/2La-Mo
+2
+N catalysts in the methanol-reforming reaction before and after the accelerated-deactivation experiment (water treatment experiment). The experiments include three steps: (1) 36-h methanol-reforming reaction; (2) 12-h water treatment; and (3) 12-h methanol-reforming reaction. The methanol-reforming reaction: 150 mg catalysts, 200 °C, 5 bar, methanol/H
+2
+O = 1/3 (mol), WHSV
+methanol
+= 12.87 h
+−1
+. Water treatment: 200 °C, WHSV
+water
+= 21.72 h
+−1
+, 350 kPa.
+b
+, Quasi-in-situ Raman spectra (the wavelength of laser excitation was 532 nm).
+c
+, O 1
+s
+XPS spectra of the 1Pt/α-MoC, 1Pt/γ-Mo
+2
+N and 1Pt/2La-Mo
+2
+N catalysts at three states: state i (fresh state); state ii (after the first 36-h methanol-reforming reaction); and state iii (after the subsequent 12-h water treatment) as marked in
+a
+.
+d
+–
+f
+, H
+2
+O TKA experiment results of α-MoC, γ-Mo
+2
+N and 2La-Mo
+2
+N samples. The details of the H
+2
+O TKA experiments can be found in Supplementary Table
+6
+.
+d
+, The mass spectrometry signals of H
+2
+(
+m
+/
+z
+= 2), H
+2
+O (
+m
+/
+z
+= 18) and Ne (
+m
+/
+z
+= 20, as internal standard) recorded during the H
+2
+O TKA experiments of the γ-Mo
+2
+N at 100 °C, as a representative. After reduction and Ar purging of the catalyst, the stream was switched from 10 ml min
+−1
+Ar to 10 ml min
+−1
+H
+2
+O/Ne/Ar = 1:4:75 at 100 °C twice parallelly. Mass spectrometry signals of H
+2
+, H
+2
+O, Ne and Ar (
+m
+/
+z
+= 40) were recorded.
+e
+, The normalized mass spectrometry signal intensity of H
+2
+O consumption.
+f
+, The amount of H
+2
+O consumption and H
+2
+production in H
+2
+O TKA experiments at 100 °C over 20 mg α-MoC, γ-Mo
+2
+N and 2La-Mo
+2
+N samples. All mass spectrometry signals are normalized to the balance gas signal of Ar (
+m
+/
+z
+= 40). a.u., arbitrary units.
+Full size image
+The occupancy effect of La nano-overlays is further investigated by H
+2
+O TKA experiments
+20
+,
+25
+over the α-MoC, γ-Mo
+2
+N and 2La-Mo
+2
+N, which provides insights into the oxidant resistance mechanism. The catalyst was initially purged with 10 ml min
+−1
+Ar, and then the feed gas was switched to 10 ml min
+−1
+H
+2
+O:Ne:Ar (1:4:75) twice, with Ne used as an internal standard (Fig.
+3d
+; see
+Methods
+for details). The similar specific surface areas of three catalyst supports (Supplementary Fig.
+8
+) allow us to use the amount of H
+2
+O consumption to indicate the number of surface sites available for water adsorption and the amount of H
+2
+production to describe the reactivity of the surface sites for water dissociation, respectively. The results are summarized in Fig.
+3f
+. Compared with α-MoC, γ-Mo
+2
+N showed significantly lower H
+2
+O consumption and H
+2
+production (Fig.
+3e,f
+), and twice the ratio of H
+2
+production to water consumption dropped drastically from 78.2% (for α-MoC) to 11.0% (for γ-Mo
+2
+N) at 100 °C (Supplementary Table
+6
+). Although both the γ-Mo
+2
+N and α-MoC are highly reactive for water activation, the results indicate that the ability for water adsorption/dissociation is weaker on γ-Mo
+2
+N surface than α-MoC surface, which accounts for the antioxidation characteristics of the former. Importantly, although the H
+2
+O consumption on 2La-Mo
+2
+N was lower than that of γ-Mo
+2
+N, the ratio of H
+2
+production to water consumption remained the same on both supports (Supplementary Table
+6
+). These results further indicate that the La overlay shields and blocks only part of γ-Mo
+2
+N surface sites without affecting the intrinsic water-splitting ability of the remaining surface. Furthermore, we verified the protection mechanism of other elements, including Pr, Cs and Sr, with H
+2
+O TKA experiments at 100 °C (Fig.
+4b
+and Supplementary Table
+6
+). Similar to the case of La, the introduction of these additives decreased only the H
+2
+O consumption of γ-Mo
+2
+N (Supplementary Table
+6
+) without influencing its H
+2
+production ability (Fig.
+4b
+).
+Fig. 4: Comparison of the catalytic performance and anti-deactivation mechanism of the Pt/γ-Mo
+2
+N catalysts with various inert additives.
+a
+, Catalytic activity of the 1Pt/γ-Mo
+2
+N and 1Pt/2M-Mo
+2
+N (M = La, Pr, Cs and Sr) catalyst for the methanol-reforming reaction. Conditions: catalysts 150 mg, reaction temperature 250 °C, pressure 10 bar, methanol/water = 1/3 (molar ratio), WHSV
+methanol
+= 25.74 h
+−1
+.
+b
+, Twice the ratio of H
+2
+production/H
+2
+O consumption acquired in H
+2
+O TKA experiments at 100 °C over the γ-Mo
+2
+N and 2M-Mo
+2
+N (M = La, Pr, Cs and Sr) catalysts. The detailed H
+2
+O TKA data can be found in Supplementary Table
+6
+.
+Full size image
+The mechanism of preventing water adsorption was further verified by density functional theory calculations in Supplementary Figs.
+32
+–
+37
+and thoroughly discussed in the Theoretical Discussion of the
+Supplementary Information
+. Because the La species does not directly interact with the Pt species, the La overlays do not alter the inherent catalytic properties of the remaining γ-Mo
+2
+N surface sites and the Pt@γ-Mo
+2
+N interfaces. Besides protecting the Pt/γ-Mo
+2
+N from surface oxidation, the highly dispersed La nano-overlays could also function as physical barriers shielding the γ-Mo
+2
+N to impede migration of surface Pt species, contributing to the impeded Pt aggregation and enhanced stability of catalyst (Supplementary Figs.
+38
+and
+39
+and Theoretical Discussion of the
+Supplementary Information
+).
+On the basis of the mechanism discussed above, we anticipate that a catalyst with a much lower Pt loading and better Pt dispersion could potentially achieve a higher ATOF and similar stability, if a higher amount of La overlay is applied to cover the larger amount of redundant γ-Mo
+2
+N surface sites. Following the same strategy, we developed a 0.2Pt/5La-Mo
+2
+N catalyst with a mere 0.26 wt% Pt loading but a higher (5 wt%) La loading. The increased La nano-overlay coverage and atomically dispersed Pt species in this catalyst were verified by STEM-HAADF imaging and EELS mapping (Supplementary Figs.
+40
+and
+41
+). This atomically dispersed catalyst exhibits a higher initial ATOF of
+\(\mathrm{24,500}\,{\text{mol}}_{{{\rm{H}}}_{2}}\,{\text{mol}}_{{\rm{metal}}}^{-1}\,{\text{h}}^{-1}\)
+owing to better Pt dispersion. More importantly, this new catalyst with much lower Pt usage achieved a similar mass-specific activity to the 1Pt/2La-Mo
+2
+N catalyst and demonstrated a record-high TON, to our knowledge, of 15,300,000 during a shorter period methanol-reforming evaluation of 800 h under the same conditions (Fig.
+2b
+and Supplementary Fig.
+42
+). After the 800-hour reaction, the hydrogen production activity of 0.2Pt/5La-Mo
+2
+N decreased by only one-third of its peak performance. To our knowledge, both the TON and the mass-specific total H
+2
+production of our Pt/La-Mo
+2
+N catalysts (Extended Data Fig.
+1
+, Supplementary Fig.
+43
+and Supplementary Table
+4
+) surpass by far the highest value reported for other heterogeneous catalysts and homogeneous catalysts in the methanol-reforming process, showing great potential for practical applications.
+In summary, we demonstrate that dispersing inert nano-overlays shielding the γ-Mo
+2
+N surface provides comprehensive protection to both the reactive γ-Mo
+2
+N support and the active interfacial sites by partially occupying and segmenting the surface. This new strategy has led to an ultra-stable atomically dispersed Pt/La-Mo
+2
+N catalyst for hydrogen production through a methanol-reforming reaction, achieving a record-high TON, to our knowledge, of 15,300,000 during an 800-h evaluation while maintaining the high intrinsic activity from the atomic-scale Pt@γ-Mo
+2
+N interfaces, showing promising potential for practical hydrogen production. This strategy provides a new approach for stabilizing interfacial catalysts on reactive supports without compromising their inherent high activity, which could pave the way for reducing the noble metal dosage and improving the durability of heterogeneous catalysts in a wide range of catalytic applications.
+Methods
+Synthesis of γ-Mo
+2
+N
+γ-Mo
+2
+N was synthesized using a temperature-programmed nitridation technique. Ammonium molybdate tetrahydrate ((NH
+4
+)
+6
+Mo
+7
+O
+24
+·4H
+2
+O) powder (10 g) was calcined in a muffle furnace at 500 °C for 10 h to synthesize MoO
+3
+. Subsequently, 2 g of untreated MoO
+3
+powder was nitridated in pure ammonia flow (200 ml min
+−1
+) by the following temperature-programmed procedure: heated from room temperature to 350 °C at a rate of 10 °C min
+−1
+, then to 450 °C at 0.5 °C min
+−1
+and finally to 785 °C at 2 °C min
+−1
+. The sample was held at 785 °C for an additional 4 h. The sample was then cooled down to room temperature and subjected to passivation using 0.5% O
+2
+/Ar (60 ml min
+−1
+) as the passivation gas overnight to yield the γ-Mo
+2
+N powder.
+Synthesis of La and other metal modified γ-Mo
+2
+Ns
+La
+2
+O
+3
+(45.3 mg, 2 wt% La) or an adequate amount of other metal oxides or metal salts (Y
+2
+O
+3
+, Pr
+2
+O
+3
+, Ho
+2
+O
+3
+, CsNO
+3
+, Ca(NO
+3
+)
+2
+and Sr(NO
+3
+)
+2
+) and 2 g MoO
+3
+powders were mechanically mixed and calcined in a muffle furnace at 500 °C for 10 h to obtain the La
+2
+O
+3
+(or other metal oxides)-loaded MoO
+3
+precursor, which was subsequently subjected to nitridation using the same temperature-programmed nitridation method as for γ-Mo
+2
+N.
+Synthesis of α-MoC
+α-MoC was synthesized through a two-step temperature-programmed nitridation–carburization approach. Initially, 1 g of MoO
+3
+powder was heated in pure ammonia (160 ml min
+−1
+) from room temperature to 700 °C at a rate of 5 °C min
+−1
+and maintained at 700 °C for 2 h. After the nitridation process, the sample was cooled down to room temperature, then heated in 20% CH
+4
+/80% H
+2
+(160 ml min
+−1
+) to 700 °C at 5 °C min
+−1
+and held at 700 °C for 2 h. The sample was then cooled down to room temperature and subsequently subjected to passivation using 0.5% O
+2
+/Ar as the passivation gas overnight to obtain the α-MoC powder.
+Synthesis of Pt/γ-Mo
+2
+N, Pt/M-Mo
+2
+N and Pt/α-MoC
+A total of 400 mg of passivated γ-Mo
+2
+N (or M-Mo
+2
+N, α-MoC, where M = La, Pr, Y, Ho, Cs, Ca, Sr) powder was introduced into 15 ml of H
+2
+PtCl
+6
+solution of appropriate concentration and stirred in pure argon atmosphere for 1 h. The suspension was subsequently evaporated at 30–35 °C to yield the corresponding Pt/γ-Mo
+2
+N (or Pt/M-Mo
+2
+N, Pt/α-MoC) catalyst. The Pt/γ-Mo
+2
+N and Pt/M-Mo
+2
+N catalysts were reduced at 350 °C for 2 h under 10% H
+2
+/90% Ar, and the Pt/α-MoC catalysts were reduced at 590 °C for 2 h under 15% CH
+4
+/85% H
+2
+before catalytic evaluation or characterizations.
+Synthesis of Pt/SiO
+2
+catalyst
+The reference Pt/SiO
+2
+catalyst was synthesized using the wetness impregnation method. H
+2
+PtCl
+6
+solution (800 µl) of appropriate concentration was added to 1 g of hydrophilic SiO
+2
+powder. The mixture was stirred until dry and further dried in a vacuum oven at 60 °C overnight. The catalyst was reduced at 350 °C for 2 h under 10% H
+2
+/90% Ar before catalytic evaluation or characterizations.
+Elemental analysis of catalysts
+Inductively coupled plasma optical emission spectroscopy was used to determine the concentrations of metal elements in the sample series using a Prodigy 7 instrument. Before analysis, the samples were dissolved in aqua regia and allowed to stand overnight at room temperature.
+X-ray diffraction
+X-ray diffraction patterns were acquired on a PANalytical Powder X-ray diffractometer using a Cu-Kα radiation source at 40 kV and 40 mA. Before analysis, the samples were subjected to passivation to ensure stability under ambient conditions.
+Nitrogen adsorption and desorption isotherms
+Analyses were performed at −196 °C using an ASAP 2020 Accelerated Surface Area and Porosimetry System. The samples were pretreated under a dynamic vacuum for 12 h to eliminate guest molecules and adsorbed moisture. Passivation was performed before analysis to maintain stability in an air atmosphere.
+Scanning transmission electron microscopy
+Scanning transmission electron microscopy (STEM) characterization was conducted on an aberration-corrected Nion HERMES-100 microscope at an accelerating voltage of 60 kV with a convergence semi-angle of 32 mrad. The collection semi-angles for STEM-HAADF imaging and EELS chemical mapping were 75–210 mrad and 0–75 mrad, respectively. The energy dispersion of EELS was set to 0.39 eV per channel or 0.89 eV per channel. As the low-dispersion settings have an inevitable nonlinearity of the energy dispersion at the two ends of the spectrometer prism, the onsets of the La L
+3
+edges were shifted to 832 eV to correct the slight offsets of the absolute energy-loss values. The EELS spectra shown in Fig.
+1
+and Supplementary Figs.
+12
+and
+13
+were normalized by integrating the signals within the energy-loss range of 800–820 eV. The EELS analyses of other elements were carried out in the same manner with La. The catalyst samples were embedded in resin and sectioned into approximately 30 nm slices using ultramicrotomy for STEM-EELS characterization. Moreover, a subset of STEM-HAADF images, EELS spectra and EDS spectra were obtained using aberration-corrected FEI Titan Cubed Themis G2 and JEOL GrandARM2 microscopes operating at 300 kV and 200 kV with the convergence semi-angles of 25 mrad and 32 mrad, respectively. For STEM-EDS analysis, the samples were prepared by depositing ethanol-sample suspensions onto grids coated with holey carbon film.
+X-ray photoelectron spectroscopy
+Quasi-in-situ X-ray photoelectron spectroscopy (XPS) spectra of various catalysts were measured on an Axis Supra X-ray photoelectron spectrometer (Kratos Analytical) using a monochromatized Al Kα radiation source. After activation or reaction, all catalysts were transferred to the measurement chamber without exposure to air. XPS with tunable photon energy for Pt/γ-Mo
+2
+N and Pt/La-Mo
+2
+N catalysts were acquired at beamline BL02B01 at the Shanghai Synchrotron Radiation Facility (SSRF). The activated samples were transferred to the chamber under the protection of Ar in a glove bag. For XPS measurements at SSRF, the typical X-ray spot size is about 120 μm (H) × 15 μm (V) and the incident angle is 15°, giving an elongated X-ray beam projection of around 460 μm (H) × 15 μm (V) on the sample. All these XPS spectra were processed using CasaXPS software.
+X-ray absorption spectroscopy
+Pt L
+3
+-edge X-ray absorption spectroscopy (XAS) spectra were measured at the beamline 1W1B of the Beijing Synchrotron Radiation Facility, which operates at 2.5 GeV with a current of 250 mA, and beamline BL14W1 SSRF, which operates at 3.5 GeV with a current of 350 mA. An Si(111) double crystal monochromator was used. The data were acquired in fluorescence mode using Lytle or a 19-element Ge solid-state detector as detectors. The samples were sealed in Kapton films under an argon atmosphere following activation and transferred to a glove box without air exposure. The XAS data were processed and analysed using the Demeter software package
+36
+.
+Raman spectroscopy
+Raman experiments were performed on a Horiba JY HR800 Raman spectrometer, whereas in situ and quasi-in-situ experiments were conducted using a Horiba LabRAM HR Raman spectrometer. The excitation laser wavelength was 532 nm.
+After a 36-h methanol-reforming reaction (150 mg catalysts, 200 °C, 5 bar, methanol/H
+2
+O = 1/3 (mol), weight-hourly space velocity of MeOH (WHSV
+MeOH
+) = 12.87 h
+−1
+), an accelerated-deactivation experiment (water treatment experiment) by feeding pure water vapour (200 °C, WHSV
+water
+= 21.72 h
+−1
+, 350 kPa) into the reactor containing 1Pt/α-MoC, 1Pt/γ-Mo
+2
+N or 1Pt/2La-Mo
+2
+N catalyst for 12 h. The catalysts at fresh state (state i), and those after 36-h methanol-reforming reaction (state ii) and then the 12-h water treatment (state iii) were transferred into a Raman chamber without air exposure (by a glove box) for measurement (Fig.
+3b
+).
+For in situ experiments (results shown in Supplementary Fig.
+31
+), the samples were reduced in a Raman chamber first in 10% H
+2
+/90% Ar at 350 °C for 2 h, then cooled down to room temperature. After heating to 200 °C in Ar with a heating rate of 10 °C min
+−1
+, the methanol–water vapour mixture was introduced into the chamber and the Raman spectra were measured at the same time. The products were simultaneously analysed with Agilent 990 Micro Gas Chromatography (Supplementary Fig.
+31
+).
+Temperature-programmed surface reaction and temperature-programmed desorption experiments
+The desorption behaviours of methanol on the catalysts were examined by the temperature-programmed desorption-mass spectroscopy technique. Before the reaction, γ-Mo
+2
+N, Pt/γ-Mo
+2
+N and Pt/SiO
+2
+catalysts were reduced in 10% H
+2
+/90% Ar at 350 °C for 2 h with a heating rate of 10 °C min
+−1
+. Then the system was purged by Ar flow (30 ml min
+−1
+). After that, saturated methanol vapour was introduced into the system from a bubbler that was maintained at 30 °C by 30 ml min
+−1
+Ar flow until saturation adsorption. Then, the system was further purged by Ar flow until no signal of physisorbed methanol (
+m
+/
+z
+= 31) could be detected. Signals for H
+2
+(
+m
+/
+z
+= 2), CH
+4
+(
+m
+/
+z
+= 16), H
+2
+O (
+m
+/
+z
+= 18), CO (
+m
+/
+z
+= 28), CH
+3
+OH (
+m
+/
+z
+= 31), Ar (
+m
+/
+z
+= 40) and CO
+2
+(
+m
+/
+z
+= 44) were recorded using a Pfeiffer Vacuum OMNIstar mass spectrometer.
+The methanol–water temperature-programmed surface reaction experiments use a similar experimental procedure as CH
+3
+OH temperature-programmed desorption, except for the adsorption stage. The water-to-methanol molar ratio in the liquid phase was maintained at 5:1 to ensure that the partial pressure of water was slightly higher than that of methanol in the gas phase at 30 °C.
+Transient kinetic analysis
+Water TKA experiments were conducted using α-MoC, γ-Mo
+2
+N and 2M-Mo
+2
+N (M = La, Pr, Cs, and Sr) catalysts at 100 °C. TKA setup is equipped with a dual-channel tube furnace with a reactor tube and a bypassing tube, and an online mass spectrometer system
+9
+. A four-way valve with an air actuator allowed for the switching of reaction gases between the reaction tube and the bypass tube. The reactor tube was loaded with 20 mg of passivated catalyst, whereas the bypass tube was not. After reduction, the TKA experimental procedures were started. First, 10 ml min
+−1
+Ar was switched into the reactor to protect the catalyst, then 10 ml min
+−1
+reactant gas mixture (H
+2
+O:Ne:Ar = 1:4:75) was prepared in flow-controlled manifolds and detected by the mass spectrometer until the signals were stabilized. The water was introduced into the system by 2 ml min
+−1
+Ar passing through the water bath at 303 K. Second, after the signals of reactant gas stabilized, the downstream four-way valve was switched, and the outflow from the reactor tube was detected by the mass spectrometer. Third, a switch from 10 ml min
+−1
+Ar to 10 ml min
+−1
+H
+2
+O:Ne:Ar = 1:4:75 was performed quickly without any pressure fluctuation, and the transient signals were recorded by an online mass spectrometer. Finally, after 20 min, the 10 ml min
+−1
+reactant gas was switched back to 10 ml min
+−1
+Ar. Until the signals stabilized, the water TKA experiments were repeated (Fig.
+3d
+).
+In the experiments, when the fresh catalyst initially contacts with water, it undergoes both reversible and irreversible adsorption processes. For the irreversible adsorption part, a fraction of the water molecules dissociate, producing hydrogen in the effluent, and hydroxyls on the surface of the catalyst
+37
+. In the subsequent second water TKA experiment, as the catalyst interacts with water for the second instance, merely reversible adsorption happens, and no obvious production of hydrogen is observed. By subtracting the water signal (
+m
+/
+z
+= 18) of the first round of TKA experiments from that of the second TKA experiment, the amount of irreversible water adsorption under this specific reaction condition can be obtained (Fig.
+3e
+). By calibrating the signal of H
+2
+(
+m
+/
+z
+= 2) and H
+2
+O (
+m
+/
+z
+= 18) relative to Ar (
+m
+/
+z
+= 40), the production of hydrogen produced and the irreversible adsorption of water can be estimated (the results are shown in Fig.
+3f
+).
+Theoretical calculations
+All calculations were executed within the density functional theory (DFT) framework using the Vienna ab initio simulation package (refs.
+37
+,
+38
+). The projector-augmented wave method was used to describe the interaction between the ions and electrons. Electron–electron exchange and correlation interactions were characterized using the Perdew–Burke–Ernzerhof functional within the generalized gradient approximation
+39
+. A plane-wave basis set with a cutoff energy of 400 eV and Gaussian electron smearing with a sigma of 0.02 eV was used to ensure accurate energies. The structures were relaxed using either the conjugate gradient algorithm or the quasi-Newton scheme until forces on all unfixed atoms were less than 0.01 eV Å
+−1
+.
+The γ-Mo
+2
+N unit cell in
+Fm3m
+crystallographic symmetry was used. The calculated lattice parameters (4.17 Å) closely matched the experimental data (4.16 Å). A six-atom-layer slab modelled the γ-Mo
+2
+N (111) surface. Vacuum thickness was set to 15 Å to separate the slab in the
+z
+directions, which was sufficient to avoid electronic coupling between adjacent slabs in test calculations. During geometry optimization, atoms in the bottom two layers were fixed as those in the bulk structure, whereas atoms in the four upper surface layers and the adsorbate were relaxed. For the methanol-reforming mechanism calculation, γ-Mo
+2
+N (111), Pt
+1
+/γ-Mo
+2
+N (111) and Pt (111) with 2 × 2 supercells were chosen, using (3 × 3 × 1) Monkhorst-Pack k-point sampling. For LaO
+x
+adsorption on γ-Mo
+2
+N (111), a six-layer 4 × 4 supercell slab model was used. The DFT + U method was applied to the
+f
+orbitals of La, with a validated
+U
+eff
+value of 7 eV for La from previous work on La
+2
+O
+3
+(ref.
+40
+).
+The energy profile of the reaction routes was described starting from CH
+3
+OH and H
+2
+O molecules. The energy profile of the intermediate relative to CH
+3
+OH and H
+2
+O and the clean catalyst slab model was defined as
+E
+binding
+=
+E
+(adsorbates/slab) −
+E
+(CH
+3
+OH) −
+E
+(H
+2
+O) −
+E
+(slab), where
+E
+(slab),
+E
+(CH
+3
+OH),
+E
+(H
+2
+O) and
+E
+(adsorbate/slab) represent the optimized clean slab, free CH
+3
+OH, H
+2
+O and relaxed adsorbates–slab complex energies, respectively. The activation barriers for elementary steps were calculated using the climbing image nudged elastic band (CI-NEB) method
+41
+.
+Furthermore, the product adsorption energy was defined as
+E
+ads
+=
+E
+(product/slab) −
+E
+(product) −
+E
+(slab), where
+E
+(slab),
+E
+(product) and
+E
+(product/slab) represent the optimized clean slab, free product molecule and relaxed product–slab complex energies, respectively. According to the aforementioned definition, a negative value signifies an exothermic process, whereas positive values indicate endothermic processes. The Perdew–Burke–Ernzerhof functionals were combined with D3 dispersion corrections to account for dispersion force fields
+37
+. Furthermore, vibrational frequencies were used to compute the zero-point energies of adsorbate intermediates and free molecules. Note that the energies of all configurations presented in this work include corrections for dispersion (D3) and zero-point energy.
+Evaluation of catalytic performance
+The catalytic performance was evaluated in a continuous-flow fixed-bed reactor. Catalysts with 40–60 mesh sizes were placed between layers of quartz wool, with a 5-cm quartz sand layer above them. Before assessing the catalytic performance, Pt/La-Mo
+2
+N, Pt/γ-Mo
+2
+N and Pt/SiO
+2
+catalysts were reduced in 10% H
+2
+/90% Ar at 350 °C for 2 h with a heating rate of 10 °C min
+−1
+, whereas Pt/α-MoC catalysts were reduced in 15% CH
+4
+/85% H
+2
+at 590 °C for 2 h with a heating rate of 10 °C min
+−1
+. After the reduction process, the atmosphere was switched to an inert gas. Normally, a mixed solution of methanol and water with a 1:3 molar ratio was introduced into the reaction system using a double-piston micropump at different pressures. The reactants, combined with a 30 ml min
+−1
+carrier gas (5% Ar/95% N
+2
+), were pre-vaporized in a vaporizer maintained at 150 °C before contacting the catalysts. The outlet gas of the reactor passed through a 1 °C condenser to eliminate most of the unreacted methanol and water. The residual gas was analysed using an Agilent 6890 gas chromatograph equipped with a thermal conductivity detector. The gas-phase concentrations of H
+2
+, CO
+2
+, CO and CH
+4
+were quantified using Ar as an internal standard.
+In the quantification, the conversion of methanol is defined as
+$${\text{Conv}}_{{{\rm{CH}}}_{3}{\rm{OH}}}( \% )=\frac{{F}_{{{\rm{CO}}}_{2},{\rm{out}}}+{F}_{{\rm{CO}},{\rm{out}}}+{F}_{{{\rm{CH}}}_{4},{\rm{out}}}}{{F}_{{{\rm{CH}}}_{3}{\rm{OH}},{\rm{in}}}}\times 100$$
+The selectivity of carbon gas products is defined as
+$${\text{Sel}}_{{{\rm{CO}}}_{2}}( \% )=\frac{{F}_{{{\rm{CO}}}_{2},{\rm{out}}}}{{F}_{{{\rm{CO}}}_{2},{\rm{out}}}+{F}_{{\rm{CO}},{\rm{out}}}+{F}_{{{\rm{CH}}}_{4},{\rm{out}}}}\times 100$$
+$${\text{Sel}}_{{\rm{CO}}}( \% )=\frac{{F}_{{\rm{CO}},{\rm{out}}}}{{F}_{{{\rm{CO}}}_{2},{\rm{out}}}+{F}_{{\rm{CO}},{\rm{out}}}+{F}_{{{\rm{CH}}}_{4},{\rm{out}}}}\times 100$$
+$${\text{Sel}}_{{{\rm{CH}}}_{4}}( \% )=\frac{{F}_{{{\rm{CH}}}_{4},{\rm{out}}}}{{F}_{{{\rm{CO}}}_{2},{\rm{out}}}+{F}_{{\rm{CO}},{\rm{out}}}+{F}_{{{\rm{CH}}}_{4},{\rm{out}}}}\times 100$$
+The carbon–hydrogen balance is defined as
+$${\text{Balance}}_{\text{C/H}}\,( \% )=\frac{3\times {F}_{{{\rm{CO}}}_{2},{\rm{out}}}+2\times {F}_{{\rm{CO}},{\rm{out}}}-{F}_{{{\rm{CH}}}_{4},{\rm{out}}}}{{F}_{{{\rm{H}}}_{2},{\rm{out}}}}\times 100$$
+In all catalytic evaluations, the carbon–hydrogen balance was within 100 ± 10% (predominantly 100 ± 5%). The frozen liquid phase was analysed using offline gas chromatography. Apart from methanol and water, no other products were detected.
+Data availability
+The data supporting the findings of this study are available from the corresponding authors.
+Code availability
+All codes used in this article are available from the corresponding authors upon request.
+References
+Fu, Q. et al. Interface-confined ferrous centers for catalytic oxidation.
+Science
+328
+, 1141–1144 (2010).
+ADS
+CAS
+PubMed
+MATH
+Google Scholar
+Cao, L. et al. Atomically dispersed iron hydroxide anchored on Pt for preferential oxidation of CO in H
+2
+.
+Nature
+565
+, 631–635 (2019).
+ADS
+CAS
+PubMed
+MATH
+Google Scholar
+Ye, T.-N. et al. Vacancy-enabled N
+2
+activation for ammonia synthesis on an Ni-loaded catalyst.
+Nature
+583
+, 391–395 (2020).
+ADS
+CAS
+PubMed
+MATH
+Google Scholar
+Lin, L. et al. Low-temperature hydrogen production from water and methanol using Pt/α-MoC catalysts.
+Nature
+544
+, 80–83 (2017).
+ADS
+CAS
+PubMed
+Google Scholar
+Cargnello, M. et al. Control of metal nanocrystal size reveals metal-support interface role for ceria catalysts.
+Science
+341
+, 771–773 (2013).
+ADS
+CAS
+PubMed
+Google Scholar
+van Deelen, T. W., Mejia, C. H. & de Jong, K. P. Control of metal-support interactions in heterogeneous catalysts to enhance activity and selectivity.
+Nat. Catal.
+2
+, 955–970 (2019).
+Google Scholar
+Ro, I. et al. Bifunctional hydroformylation on heterogeneous Rh-WO
+x
+pair site catalysts.
+Nature
+609
+, 287–292 (2022).
+ADS
+CAS
+PubMed
+Google Scholar
+Liu, Z. et al. Water-promoted interfacial pathways in methane oxidation to methanol on a CeO
+2
+-Cu
+2
+O catalyst.
+Science
+368
+, 513–517 (2020).
+ADS
+CAS
+PubMed
+MATH
+Google Scholar
+Zhang, X. et al. A stable low-temperature H
+2
+-production catalyst by crowding Pt on α-MoC.
+Nature
+589
+, 396–401 (2021).
+ADS
+CAS
+PubMed
+MATH
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+CAS
+PubMed
+MATH
+Google Scholar
+Peng, M. et al. Fully exposed cluster catalyst (FECC): toward rich surface sites and full atom utilization efficiency.
+ACS Central Sci
+.
+7
+, 262–273 (2021).
+CAS
+MATH
+Google Scholar
+Dong, C. Y. et al. Fully exposed palladium cluster catalysts enable hydrogen production from nitrogen heterocycles.
+Nat. Catal.
+5
+, 485–493 (2022).
+CAS
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+ADS
+CAS
+PubMed
+MATH
+Google Scholar
+Hannagan, R. T. et al. First-principles design of a single-atom-alloy propane dehydrogenation catalyst.
+Science
+372
+, 1444–1447 (2021).
+ADS
+CAS
+MATH
+Google Scholar
+Hulva, J. et al. Unraveling CO adsorption on model single-atom catalysts.
+Science
+371
+, 375–379 (2021).
+ADS
+CAS
+PubMed
+Google Scholar
+Cargnello, M. et al. Exceptional activity for methane combustion over modular Pd@CeO
+2
+subunits on functionalized Al
+2
+O
+3
+.
+Science
+337
+, 713–717 (2012).
+ADS
+CAS
+PubMed
+Google Scholar
+Li, X. et al. Functional CeO
+x
+nanoglues for robust atomically dispersed catalysts.
+Nature
+611
+, 284–288 (2022).
+ADS
+CAS
+PubMed
+MATH
+Google Scholar
+Yang, X. et al. Taming the stability of Pd active phases through a compartmentalizing strategy toward nanostructured catalyst supports.
+Nat. Commun.
+10
+, 1611 (2019).
+ADS
+PubMed
+PubMed Central
+MATH
+Google Scholar
+Peterson, E. J. et al. Low-temperature carbon monoxide oxidation catalysed by regenerable atomically dispersed palladium on alumina.
+Nat. Commun.
+5
+, 4885 (2014).
+ADS
+MathSciNet
+CAS
+PubMed
+MATH
+Google Scholar
+Levy, R. B. & Boudart, M. Platinum-like behavior of tungsten carbide in surface catalysis.
+Science
+181
+, 547–549, (1973).
+ADS
+CAS
+PubMed
+MATH
+Google Scholar
+Chen, J. G. G. Carbide and nitride overlayers on early transition metal surfaces: preparation, characterization, and reactivities.
+Chem. Rev.
+96
+, 1477–1498 (1996).
+CAS
+PubMed
+MATH
+Google Scholar
+Hwu, H. H. & Chen, J. G. Surface chemistry of transition metal carbides.
+Chem. Rev.
+105
+, 185–212 (2005).
+CAS
+PubMed
+MATH
+Google Scholar
+Lin, L. L. et al. Atomically dispersed Ni/α-MoC catalyst for hydrogen production from methanol/water.
+J. Am. Chem. Soc.
+143
+, 309–317 (2021).
+CAS
+PubMed
+MATH
+Google Scholar
+Setthapun, W., Bej, S. K. & Thompson, L. T. Carbide and nitride supported methanol steam reforming catalysts: Parallel synthesis and high throughput screening.
+Top. Catal.
+49
+, 73–80 (2008).
+CAS
+Google Scholar
+Yao, S. et al. Atomic-layered Au clusters on α-MoC as catalysts for the low-temperature water-gas shift reaction.
+Science
+357
+, 389–393 (2017).
+ADS
+CAS
+PubMed
+MATH
+Google Scholar
+Zhang, Z.-S. et al. Intrinsically active surface in a Pt/γ-Mo
+2
+N catalyst for the water-gas shift reaction: molybdenum nitride or molybdenum oxide?
+J. Am. Chem. Soc.
+142
+, 13362–13371 (2020).
+CAS
+PubMed
+Google Scholar
+Hansen, T. W., DeLaRiva, A. T., Challa, S. R. & Datye, A. K. Sintering of catalytic nanoparticles: particle migration or Ostwald ripening?
+Acc. Chem. Res
+.
+46
+, 1720–1730, (2013).
+CAS
+PubMed
+Google Scholar
+Zheng, X., Lin, H., Zheng, J., Duan, X. & Yuan, Y. Lanthanum oxide-modified Cu/SiO
+2
+as a high-performance catalyst for chemoselective hydrogenation of dimethyl oxalate to ethylene glycol.
+ACS Catal.
+3
+, 2738–2749 (2013).
+CAS
+Google Scholar
+Villars, P. (ed.)
+PAULING FILE in: Inorganic Solid Phases
+, SpringerMaterials c_0210243 (Springer-Verlag, 2016);
+https://materials.springer.com/isp/phase-diagram/docs/c_0210243
+.
+Gao, Z., Li, A., Ma, D. & Zhou, W. Electron energy loss spectroscopy for single atom catalysis.
+Top. Catal.
+65
+, 1609–1619 (2022).
+CAS
+MATH
+Google Scholar
+Haynes, W. M. (ed.)
+CRC Handbook of Chemistry and Physics
+92nd edn (CRC Press, 2011).
+Nielsen, M. et al. Low-temperature aqueous-phase methanol dehydrogenation to hydrogen and carbon dioxide.
+Nature
+495
+, 85–89 (2013).
+ADS
+CAS
+PubMed
+MATH
+Google Scholar
+Ziegler, C. et al. ZnPd/ZnO aerogels as potential catalytic materials.
+Adv. Funct. Mater.
+26
+, 1014–1020 (2016).
+CAS
+MATH
+Google Scholar
+Cortright, R. D., Davda, R. R. & Dumesic, J. A. Hydrogen from catalytic reforming of biomass-derived hydrocarbons in liquid water.
+Nature
+418
+, 964–967, (2002).
+ADS
+CAS
+PubMed
+Google Scholar
+Tian, H., Roberts, C. A. & Wachs, I. E. Molecular structural determination of molybdena in different environments: aqueous solutions, bulk mixed oxides, and supported MoO
+3
+catalysts.
+J. Phys. Chem. C
+114
+, 14110–14120 (2010).
+CAS
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+CAS
+PubMed
+Google Scholar
+Kresse, G. & Hafner, J.
+Ab initio
+molecular dynamics for open-shell transition metals.
+Phys. Rev. B
+48
+, 13115–13118 (1993).
+ADS
+CAS
+MATH
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+ADS
+CAS
+MATH
+Google Scholar
+Grimme, S., Antony, J., Ehrlich, S. & Krieg, H. A Consistent and accurate
+ab initio
+parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu.
+J. Chem. Phys.
+132
+, 154104–154123 (2010).
+ADS
+PubMed
+Google Scholar
+Dudarev, S. L., Botton, G. A., Savrasov, S. Y., Humphreys, C. J. & Sutton, A. P. Electron-energy-loss spectra and the structural stability of nickel oxide: an LSDA + U study.
+Phys. Rev. B
+57
+, 1505–1509 (1998).
+ADS
+CAS
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jonsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+ADS
+CAS
+MATH
+Google Scholar
+Shao, Z. et al. Maximizing the synergistic effect between Pt
+0
+and Pt
+δ+
+in a confined Pt-based catalyst for durable hydrogen production.
+Appl. Catal. B Environ.
+316
+, 121669 (2022).
+CAS
+Google Scholar
+Gupta, P., Dwivedi, S., van Duin, A. C. T., Srinivas, S. & Tanksale, A. Coke resistant catalyst for hydrogen production in a versatile, multi-fuel, reformer.
+J. Catal.
+402
+, 177–193 (2021).
+CAS
+Google Scholar
+Köwitsch, N. et al. Unprecedented catalytic activity and selectivity in methanol steam reforming by reactive transformation of intermetallic In–Pt compounds.
+J. Phys. Chem. C
+125
+, 9809–9817 (2021).
+MATH
+Google Scholar
+Wang, H. et al. Titanosilicate zeolite supported Pt nanoparticles with electronic metal-support interactions for efficient methanol steam reforming.
+Catal. Today
+382
+, 42–47 (2021).
+CAS
+Google Scholar
+Liao, L. et al. Unravelling the morphology effect of Pt/In
+2
+O
+3
+catalysts for highly efficient hydrogen production by methanol steam reforming.
+Fuel
+372
+, 132221 (2024).
+CAS
+MATH
+Google Scholar
+Li, D., Sun, J., Ma, R. & Wei, J. High-efficient solar-driven hydrogen production by full-spectrum synergistic photo-thermo-catalytic methanol steam reforming with in-situ photoreduced Pt-CuO
+x
+catalyst.
+J. Energy Chem.
+71
+, 460–469 (2022).
+CAS
+Google Scholar
+Wang, Y., Yao, E.-P., Wu, L., Feldmann, J. & Stolarczyk, J. K. A multi-layer device for light-triggered hydrogen production from alkaline methanol.
+Angew. Chem. Int. Ed.
+60
+, 26694–26701 (2021).
+CAS
+Google Scholar
+Luo, J. et al. Efficient base-free aqueous reforming of methanol homogeneously catalyzed by ruthenium exhibiting a remarkable acceleration by added catalytic thiol.
+J. Am. Chem. Soc.
+143
+, 17284–17291 (2021).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Hu, P., Diskin-Posner, Y., Ben-David, Y. & Milstein, D. Reusable homogeneous catalytic system for hydrogen production from methanol and water.
+ACS Catal.
+4
+, 2649–2652 (2014).
+CAS
+Google Scholar
+Fujita, K., Kawahara, R., Aikawa, T. & Yamaguchi, R. Hydrogen production from a methanol-water solution catalyzed by an anionic iridium complex bearing a functional bipyridonate ligand under weakly basic conditions.
+Angew. Chem. Int. Ed.
+54
+, 9057–9060 (2015).
+CAS
+Google Scholar
+Alberico, E. et al. Selective hydrogen production from methanol with a defined iron pincer catalyst under mild conditions.
+Angew. Chem. Int. Ed.
+52
+, 14162–14166 (2013).
+CAS
+MATH
+Google Scholar
+Bielinski, E. A. et al. Base-free methanol dehydrogenation using a pincer-supported iron compound and Lewis acid co-catalyst.
+ACS Catal.
+5
+, 2404–2415 (2015).
+CAS
+MATH
+Google Scholar
+Download references
+Acknowledgements
+This work received financial support from the National Key R&D Program of China (2021YFA1501102, 2023YFA1506602), the National Natural Science Foundation of China (22232001, 21932002), the Beijing Outstanding Young Scientist Program (BJJWZYJH01201914430039), the CAS Project for Young Scientists in Basic Research (YSBR-003) and the Liaoning Binhai Laboratory (LBLF-2023-02). This research benefited from resources and support from the Electron Microscopy Center at the University of Chinese Academy of Sciences. XPS and XAFS experiments were conducted at the SSRF and the Beijing Synchrotron Radiation Facility. D.M. acknowledges support from the New Cornerstone Science Foundation through the XPLORER PRIZE and New Cornerstone Investigator Program.
+Author information
+Author notes
+These authors contributed equally: Zirui Gao, Aowen Li, Xingwu Liu, Mi Peng, Shixiang Yu
+Authors and Affiliations
+Beijing National Laboratory for Molecular Sciences, New Cornerstone Science Laboratory, College of Chemistry and Molecular Engineering, Peking University, Beijing, China
+Zirui Gao, Xingwu Liu, Mi Peng, Shixiang Yu, Maolin Wang, Yuzhen Ge, Chengyu Li, Tie Wang, Zhaohua Wang & Ding Ma
+School of Physical Sciences, University of Chinese Academy of Sciences, Beijing, China
+Aowen Li, Shixiang Yu & Wu Zhou
+Authors
+Zirui Gao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Aowen Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xingwu Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mi Peng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shixiang Yu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Maolin Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yuzhen Ge
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chengyu Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tie Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhaohua Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wu Zhou
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ding Ma
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+D.M. and W.Z. conceived the project and supervised the research. Z.G., S.Y., Y.G. and T.W. conducted most of the reactions. M.P., M.W. and C.L. performed the X-ray-related characterizations (XAS, XPS) and analysis. A.L. and S.Y. executed the electron microscopy study under the supervision of W.Z.; X.L. carried out the DFT calculations. Z.G., A.L., S.Y., Z.W., W.Z. and D.M. wrote the paper. All authors contributed to the discussion and revision of the paper.
+Corresponding authors
+Correspondence to
+Wu Zhou
+or
+Ding Ma
+.
+Ethics declarations
+Competing interests
+A Chinese patent that covers the Pt/γ-Mo
+2
+N catalysts reported in this paper was filed by Peking University (application no. 202311107767.X). Other than this, the authors declare no competing interests.
+Peer review
+Peer review information
+Nature
+thanks Matteo Cargnello and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data figures and tables
+Extended Data Fig. 1 Comparison of the TON of the representative catalytic systems for the MR reaction.
+A summary of the TON of typical Pt-based heterogeneous catalysts (grey points in the left part), homogeneous catalysts (blue points in the right part), 0.26Pt/5La-Mo
+2
+N and 1Pt/2La-Mo
+2
+N catalysts (hollow squares with red border) in the methanol reforming processes. More details are provided in Table S
+4
+. (2) Pt/α-MoC (ref.
+4
+), (3) Pt-K@S-1 (ref.
+42
+), (4) NiPt/Al
+2
+O
+3
+(ref.
+43
+), (5) PtIn/In
+2
+O
+3
+(ref.
+44
+), (6) Pt/TS-1 (ref.
+45
+), (7) Pt/In
+2
+O
+3
+(ref.
+46
+), (8) Pt/Al
+2
+O
+3
+(ref.
+34
+), (9) Pd/ZnO (ref.
+33
+), (10) Pt/CuO
+x
+(ref.
+47
+), (11) Pt/CN (ref.
+48
+), (12) Ru complex-1 (ref.
+32
+), (13) Ru complex-2 (ref.
+49
+), (14) Ru complex-3 (ref.
+50
+), (15) Ir complex (ref.
+51
+), (16) Fe complex-1 (ref.
+52
+), (17) Fe complex-2 (ref.
+53
+).
+Supplementary information
+Supplementary Information
+Supplementary Tables 1–7, Supplementary Figs. 1–50, Theoretical Discussion and Supplementary References.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Gao, Z., Li, A., Liu, X.
+et al.
+Shielding Pt/γ-Mo
+2
+N by inert nano-overlays enables stable H
+2
+production.
+Nature
+638
+, 690–696 (2025). https://doi.org/10.1038/s41586-024-08483-w
+Download citation
+Received
+:
+09 May 2023
+Accepted
+:
+03 December 2024
+Published
+:
+12 February 2025
+Issue Date
+:
+20 February 2025
+DOI
+:
+https://doi.org/10.1038/s41586-024-08483-w
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Inert nano-overlay shields
+Yanfei Zhu
+Nature Chemical Engineering
+Research Highlight
+24 Feb 2025
+Advertisement
+Explore content
+Research articles
+News
+Opinion
+Research Analysis
+Careers
+Books & Culture
+Podcasts
+Videos
+Current issue
+Browse issues
+Collections
+Subjects
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Journal Staff
+About the Editors
+Journal Information
+Our publishing models
+Editorial Values Statement
+Journal Metrics
+Awards
+Contact
+Editorial policies
+History of Nature
+Send a news tip
+Publish with us
+For Authors
+For Referees
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature
+(
+Nature
+)
+ISSN
+1476-4687
+(online)
+ISSN
+0028-0836
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

@@ -1,0 +1,4196 @@
+Functional CeOx nanoglues for robust atomically dispersed catalysts | Nature
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+articles
+article
+Functional CeO
+x
+nanoglues for robust atomically dispersed catalysts
+Download PDF
+Article
+Published:
+26 October 2022
+Functional CeO
+x
+nanoglues for robust atomically dispersed catalysts
+Xu Li
+1
+,
+2
+,
+Xavier Isidro Pereira-Hernández
+ORCID:
+orcid.org/0000-0002-7020-0011
+3
+,
+Yizhen Chen
+4
+,
+Jia Xu
+1
+,
+Jiankang Zhao
+2
+,
+Chih-Wen Pao
+5
+,
+Chia-Yu Fang
+4
+,
+6
+,
+Jie Zeng
+ORCID:
+orcid.org/0000-0002-8812-0298
+2
+,
+7
+,
+8
+,
+Yong Wang
+ORCID:
+orcid.org/0000-0002-8460-7410
+3
+,
+9
+,
+Bruce C. Gates
+ORCID:
+orcid.org/0000-0003-0274-4882
+4
+&
+…
+Jingyue Liu
+ORCID:
+orcid.org/0000-0002-2267-1433
+1
+Show authors
+Nature
+volume
+611
+,
+pages
+284–288 (
+2022
+)
+Cite this article
+43k
+Accesses
+125
+Altmetric
+Metrics
+details
+Subjects
+Chemistry
+Heterogeneous catalysis
+Abstract
+Single-atom catalysts
+1
+make exceptionally efficient use of expensive noble metals and can bring out unique properties
+1
+,
+2
+,
+3
+. However, applications are usually compromised by limited catalyst stability, which is due to sintering
+3
+,
+4
+. Although sintering can be suppressed by anchoring the metal atoms to oxide supports
+1
+,
+5
+,
+6
+, strong metal–oxygen interactions often leave too few metal sites available for reactant binding and catalysis
+6
+,
+7
+, and when exposed to reducing conditions at sufficiently high temperatures, even oxide-anchored single-atom catalysts eventually sinter
+4
+,
+8
+,
+9
+. Here we show that the beneficial effects of anchoring can be enhanced by confining the atomically dispersed metal atoms on oxide nanoclusters or ‘nanoglues’, which themselves are dispersed and immobilized on a robust, high-surface-area support. We demonstrate the strategy by grafting isolated and defective CeO
+x
+nanoglue islands onto high-surface-area SiO
+2
+; the nanoglue islands then each host on average one Pt atom. We find that the Pt atoms remain dispersed under both oxidizing and reducing environments at high temperatures, and that the activated catalyst exhibits markedly increased activity for CO oxidation. We attribute the improved stability under reducing conditions to the support structure and the much stronger affinity of Pt atoms for CeO
+x
+than for SiO
+2
+, which ensures the Pt atoms can move but remain confined to their respective nanoglue islands. The strategy of using functional nanoglues to confine atomically dispersed metals and simultaneously enhance their reactivity is general, and we anticipate that it will take single-atom catalysts a step closer to practical applications.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Site-specific electrodeposition enables self-terminating growth of atomically dispersed metal catalysts
+Article
+Open access
+11 September 2020
+A single-atom library for guided monometallic and concentration-complex multimetallic designs
+Article
+23 May 2022
+Generating active metal/oxide reverse interfaces through coordinated migration of single atoms
+Article
+Open access
+09 February 2024
+Main
+The design strategy integrates three components into the catalyst: (1) a robust, high-surface-area support (for example, SiO
+2
+, Al
+2
+O
+3
+), (2) metal oxide nanoglue clusters (for example, CeO
+x
+, TiO
+x
+) anchored stably to the support as isolated islands, and (3) single metal atoms (M
+1
+) localized on these islands. The nanoglue selection criteria include their stability in dispersed form on the support, their much stronger affinity for the active metal atoms than the support, and their interactions with the active metal to enhance catalytic properties.
+Silica is an irreducible, inexpensive and widely used catalyst support with high surface area, structural stability and commercial availability
+10
+. Because metal atoms anchor to reducible metal oxides (for example, CeO
+2
+, TiO
+2
+) at defect sites, often through strong M
+1
+–O
+x
+bonds
+1
+,
+11
+, and because CeO
+2
+has valuable redox and oxygen-storage properties
+12
+,
+13
+, we chose CeO
+x
+nanoclusters as prototype nanoglues to localize Pt atoms for CO oxidation.
+Previous metal stabilization strategies focused on incorporating additives in supports to enhance metal nanoparticle (NP)-support interactions
+14
+, encapsulating metal NPs in oxides
+15
+,
+16
+, and using large oxide NPs (greater than 5 nm) to stabilize metal ensembles and clusters
+17
+(see discussion in
+Methods
+). To stabilize isolated metal atoms with high and practical M
+1
+loadings, the CeO
+x
+nanoislands must be ultrasmall (less than 2 nm), isolated and densely populated on high-surface-area supports, and M
+1
+should be selectively deposited onto them. Thus, CeO
+x
+nanoislands were synthesized by strong electrostatic adsorption
+18
+of charged species from aqueous solution (Fig.
+1
+). The point of zero charge of SiO
+2
+(278 m
+2
+g
+−1
+) is 3–4 (refs.
+18
+,
+19
+), so that in an alkaline solution its zeta potential is negative. Control of solution OH
+−
+concentration and adsorption time yielded adsorption of [Ce(OH)
+x
+]
+y
++
+species on the SiO
+2
+, leading after calcination to uniformly dispersed, isolated CeO
+x
+nanoclusters (Fig.
+2a
+and Extended Data Fig.
+1a,b
+). High-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) images showed uniform Ce species decorating the mesoporous SiO
+2
+(Extended Data Fig.
+1c–e
+). Calcination at 600 °C produced isolated, stable crystalline CeO
+x
+nanoclusters (approximately 12 wt% CeO
+x
+) with narrow size distributions and average dimensions of 1.8 nm × 2.1 nm on SiO
+2
+(Fig.
+2a
+and Extended Data Fig.
+1f–i
+). HAADF-STEM image (Fig.
+2b
+) shows well crystallized CeO
+x
+nanoclusters, some having facets and surface steps.
+Fig. 1: Schematic diagrams illustrating the fabrication processes of functional CeO
+x
+nanoglue islands and CeO
+x
+/SiO
+2
+-supported Pt
+1
+single-atom catalysts.
+The [Ce(OH)
+2
+]
++
+and [Ce(OH)]
+2+
+precursor species are produced in situ from Ce
+3+
+reacting with OH
+−
+species in a weak alkaline solution. Positively charged Ce-containing species electrostatically adsorb onto negatively charged high-surface-area SiO
+2
+support. During high-temperature calcination, atomically dispersed Ce species self-assemble into ultrasmall CeO
+x
+nanocrystallites. These ultrasmall, isolated CeO
+x
+nanoclusters act as functional nanoglues to localize metal atoms and to provide active oxygen species. By judiciously adjusting the aqueous solution pH so that CeO
+x
+nanoclusters are positively charged, negatively charged Pt-containing species selectively adsorb onto the CeO
+x
+nanoclusters. Subsequent vigorous washing and high-temperature calcination eliminate solution residues and facilitate confinement of Pt atoms to isolated CeO
+x
+nanoclusters.
+Full size image
+Fig. 2: Electron microscopy, XRD and XPS characterizations of CeO
+x
+nanoglue islands uniformly dispersed on high-surface-area SiO
+2
+.
+a
+, Low-magnification HAADF-STEM image of the as-prepared CeO
+x
+nanoclusters conformally coating the mesoporous, high-surface-area SiO
+2
+support.
+b
+, Atomic-resolution HAADF-STEM image of crystalline CeO
+x
+nanoclusters.
+c
+, Powder XRD patterns of pure CeO
+2
+NPs and CeO
+x
+/SiO
+2
+. The inset shows broadening and shifting of the peak position of CeO
+x
+nanoclusters.
+d
+, Ce 3
+d
+XPS data characterizing SiO
+2
+-supported CeO
+x
+nanoclusters (top) and pure CeO
+2
+powders (bottom). Circles and black lines represent the experimental data and the fit, respectively. The CeO
+x
+nanoclusters contain much higher densities of oxygen vacancies (represented by the higher percentage of Ce
+3+
+) than the larger CeO
+2
+NPs. Scale bars, 20 nm (
+a
+), 5 nm (
+b
+). a.u., arbitrary units.
+Source data
+Full size image
+X-ray diffraction (XRD) peaks of the calcined silica-supported CeO
+x
+(CeO
+x
+/SiO
+2
+) indicate small crystallites of cubic fluorite structure (Fig.
+2c
+), in contrast to control samples (12 wt% CeO
+2
+NPs/SiO
+2
+and pure CeO
+2
+powders) that have strong and sharp diffraction peaks characterizing large CeO
+2
+NPs with broad size distributions (Extended Data Fig.
+2a–f
+). Raman spectra show a broadened and red-shifted active mode at frequencies from 462 to 448 cm
+−1
+, suggesting substantial lattice distortion in the CeO
+x
+nanocrystallites (Extended Data Fig.
+2g
+), with a band at approximately 600 cm
+−1
+characterizing oxygen vacancies
+20
+. Lattice spacings in the CeO
+x
+nanocrystallites, measured by HAADF-STEM, indicate an expansion of the CeO
+2
+{111} plane spacing from 0.31 nm in bulk CeO
+2
+to 0.33 nm in the CeO
+x
+nanoclusters (Extended Data Fig.
+2h
+), consistent with the slight XRD peak shift to lower angles.
+X-ray photoelectron spectra (XPS) (Fig.
+2d
+and Extended Data Fig.
+2i
+) show 28.7%, 10.9% and 8.4% Ce
+3+
+species in CeO
+x
+/SiO
+2
+, CeO
+2
+and CeO
+2
+NPs/SiO
+2
+, respectively
+8
+,
+21
+. The greater density of Ce
+3+
+sites in CeO
+x
+/SiO
+2
+implies more anchoring sites on CeO
+x
+nanoclusters for metal atoms
+5
+,
+22
+. XPS (which probes nanometres below the sample surface
+21
+and therefore characterizes the full CeO
+x
+nanoclusters) showed a Ce
+3+
+:(Ce
+3+
++ Ce
+4+
+) ratio corresponding to a composition of CeO
+1.86
+. Hydrogen temperature-programmed reduction data show that these CeO
+x
+nanoclusters were reduced at approximately 492 °C (in contrast with CeO
+2
+powders reduced at approximately 782 °C) (Extended Data Fig.
+2j
+), implying that reduction of CeO
+x
+nanoclusters to give Ce
+3+
+species
+23
+is much more facile than that of CeO
+2
+NPs. Harsh H
+2
+reduction of CeO
+x
+/SiO
+2
+at 600 °C gave amorphous CeO
+x
+structures (Extended Data Fig.
+2k
+), but re-calcination at 600 °C reformed them.
+In summary, the as-synthesized CeO
+x
+nanoglue islands are crystalline, ultrasmall, isolated on the SiO
+2
+support, and characterized by a high number density of defect sites, making them well suited as hosts for strongly bonded and isolated Pt atoms
+5
+,
+22
+.
+Strong electrostatic adsorption deposited Pt atoms on the CeO
+x
+nanoclusters but not the SiO
+2
+support (Fig.
+1
+), because CeO
+2
+(point of zero charge of approximately 8.1)
+24
+surfaces are positively charged when in contact with acidic Pt precursor solutions of pH 3–5, so that PtCl
+6
+2−
+is attracted to the CeO
+x
+nanoclusters (Extended Data Fig.
+3a
+). To synthesize CeO
+x
+-supported Pt
+1
+single-atom catalysts, the Pt loading was controlled at less than or equal to 0.4 wt% (with respect to the CeO
+x
+) such that, on average, each CeO
+x
+nanocluster contained less than one Pt atom (Extended Data Fig.
+3b,c
+). High Pt loadings, which are industrially desirable (for example, up to 1 wt% Pt), can be realized by increasing the SiO
+2
+surface area and/or the number density of isolated CeO
+x
+nanoclusters (Extended Data Fig.
+3d–f
+). Residual chloride was removed by washing and high-temperature calcination (Extended Data Fig.
+3g–i
+).
+The locations of isolated metal atoms on supports determine their catalytic properties
+6
+. Individual Pt atoms on well crystallized CeO
+2
+NPs have been observed by HAADF-STEM
+25
+, but unambiguous identification of Pt atoms on ultrasmall CeO
+x
+nanoclusters is beyond the capability of this technique (Extended Data Fig.
+4a–c
+and
+Methods
+). However, an extensive HAADF-STEM investigation of Pt atoms and clusters on the CeO
+x
+/SiO
+2
+can firmly identify Pt clusters with sizes greater than 0.4 nm if present on the samples (Extended Data Fig.
+4d
+). Analysis of numerous atomic-resolution images of the 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst gave no evidence of Pt atoms or clusters on the SiO
+2
+surfaces, confirming that the deposited Pt species were restricted to CeO
+x
+nanoislands—either as single atoms or clusters with sizes less than 0.4 nm.
+X-ray absorption spectra provided further insights into the nature of the Pt species. Pt L
+III
+-edge X-ray absorption near-edge structure (XANES) data (Fig.
+3a
+) characterizing the calcined 0.4 wt% Pt/CeO
+x
+/SiO
+2
+show that the Pt was cationic, with an oxidation state close to that in bulk PtO
+2
+(ref.
+26
+). Extended X-ray absorption fine structure (EXAFS) spectra (Fig.
+3b
+) indicate atomically dispersed Pt, with no evidence of a Pt–Pt scattering path in the spectra of the 0.4 wt% Pt/CeO
+x
+/SiO
+2
+(Fig.
+3b
+and Extended Data Fig.
+4e–j
+). A Pt–O shell indicating Pt–CeO
+x
+bonding was found with a coordination number of 4.5 ± 0.5 and a bonding distance of 1.97 ± 0.02 Å (error bounds defined in Extended Data Fig.
+4
+), consistent with EXAFS data for site-isolated platinum on cerium dioxide or iron oxide
+1
+,
+26
+. Diffuse-reflectance infrared Fourier-transform spectra (DRIFTS) of the 0.4 wt% Pt/CeO
+x
+/SiO
+2
+, after CO adsorption, show a sharp single peak near 2,103 cm
+−1
+with a full-width at half-maximum of 12.8 cm
+−1
+(Fig.
+3c
+), assigned to CO adsorbed on isolated cationic Pt
+5
+,
+8
+, consistent with the XANES and EXAFS results.
+Fig. 3: Identification of isolated Pt atoms on CeO
+x
+nanoglue islands.
+a
+,
+b
+, Pt L
+III
+-edge XANES spectrum (
+a
+) and Fourier transform of
+k
+2
+-weighted EXAFS spectrum of the as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst (
+b
+). The XANES and EXAFS spectra of Pt foil and bulk PtO
+2
+were obtained as references.
+c
+, CO adsorption DRIFTS of the as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+that was oxidized in air at 600 °C for 12 h. After CO adsorption (red), CO flow was discontinued and CO desorption spectrum was recorded after purging with He (blue). Temperature, 50 °C.
+d
+, CO adsorption DRIFTS of the reduced (H
+2
+at 300 °C for 10 h) 0.4 wt% Pt/CeO
+x
+/SiO
+2
+. Temperature, 100 °C. Both the calcined and H
+2
+-reduced 0.4 wt% Pt/CeO
+x
+/SiO
+2
+contained only single, isolated Pt atoms.
+Source data
+Full size image
+To further understand the stability of the atomically dispersed Pt, the behaviour of Pt atoms on other supports under various conditions was compared. The data include those obtained for Pt atoms on SiO
+2
+and on CeO
+2
+. Under reducing or oxidizing environments at temperatures greater than 300 °C, Pt atoms on SiO
+2
+sintered considerably (Extended Data Fig.
+5a–f
+), demonstrating weak Pt–SiO
+2
+interactions
+10
+. Single Pt atoms on CeO
+2
+NPs did not sinter during calcination, even at high temperatures (Extended Data Fig.
+5g–h
+)
+5
+,
+8
+. Exposure to H
+2
+at 300 °C for 1 h, however, caused breaking of Pt–O bonds, migration of Pt atoms on CeO
+2
+NPs and sintering of Pt atoms to form clusters and NPs (Extended Data Fig.
+5i–k
+). After similar treatment, the Pt NPs formed on CeO
+2
+were smaller than those formed on SiO
+2
+(Extended Data Fig.
+5
+), suggesting that the Pt–CeO
+2
+interaction is stronger than the Pt–SiO
+2
+interaction during the H
+2
+-reduction treatment. Investigations of Pt sandwiched between hetero-structured CeO
+2
+–SiO
+2
+core–shell model systems confirmed the stronger interaction of Pt atoms with CeO
+2
+than with SiO
+2
+, resulting in the suppression of Pt diffusion from CeO
+2
+onto SiO
+2
+(Extended Data Fig.
+6
+and
+Methods
+).
+The stability of the CeO
+x
+-supported Pt single-atom catalyst (Pt
+1
+/CeO
+x
+/SiO
+2
+) was investigated under reducing conditions. CeO
+2
+NP-supported Pt atoms became mobile at temperatures greater than 300 °C for 1 h in H
+2
+, but Pt atoms, confined to the isolated CeO
+x
+islands, did not sinter, even after H
+2
+reduction at 300 °C for 10 h, as shown by DRIFTS and HAADF-STEM data (Fig.
+3d
+and Extended Data Fig.
+7a
+). The minimal difference in the CO absorption bands characterizing Pt atoms in the reduced versus the as-synthesized catalysts is evidence that the CO probe molecules used in the DRIFTS experiments reduced the Pt atoms in the as-synthesized Pt
+1
+/CeO
+x
+/SiO
+2
+, as expected
+27
+. To further probe the stability of Pt atoms localized on the CeO
+x
+islands, samples were exposed to H
+2
+at temperatures of 400–600 °C. Even under these harsh reducing conditions, the Pt remained as isolated single atoms (Extended Data Fig.
+7b–d
+). The infrared absorption bands characterizing CO on Pt atoms were shifted after reduction in H
+2
+at temperatures greater than 500 °C, suggesting modifications of the Pt–CeO
+x
+interactions
+28
+, which were corroborated by density functional theory calculations (Extended Data Fig.
+7e
+). Because the DRIFTS experiments were conducted under oxygen-free environments, formation of Pt
+x
+O
+y
+clusters was excluded (Extended Data Fig.
+7f–h,k–p
+and
+Methods
+section ‘Extended results and discussions’)
+29
+. Both Ce XPS and Pt XAS data show that formation of Pt clusters or Pt–Ce alloy species under the reduction conditions did not occur (Extended Data Figs.
+7i
+,
+9i–p
+). Thus, notwithstanding changes in the catalysts, the Pt remained site-isolated, with the changes restricted to the host CeO
+x
+islands. By contrast, decreasing Pt atom number density on CeO
+2
+supports (with loadings lower than that of the 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+) did not prevent Pt atoms from forming clusters and NPs after reduction in H
+2
+at 400 °C (Extended Data Fig.
+7j
+).
+To confirm that during H
+2
+reduction the Pt confinement on SiO
+2
+-supported CeO
+x
+islands also applies to SiO
+2
+-supported CeO
+2
+NPs, a sample containing Pt atoms dispersed on SiO
+2
+-supported 8-nm CeO
+2
+NPs (0.4 wt% Pt/CeO
+2
+NPs/SiO
+2
+) was exposed to H
+2
+at 300 °C for 1 h. The data (Extended Data Fig.
+8a–c
+) show that the Pt atoms did not migrate onto SiO
+2
+, but they did sinter to form small Pt clusters, because larger CeO
+2
+NPs, on average, contained more than one Pt atom, further confirming the conclusion that under reduction conditions Pt atoms sinter on CeO
+2
+surfaces. The CO DRIFTS data (Extended Data Fig.
+8d–f
+) correspondingly show evidence of CO adsorbed on Pt clusters and NPs. In sharp contrast to the narrow DRIFTS peak characterizing the reduced 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+(Fig.
+3d
+), the broad overlapping DRIFTS peaks characterizing the reduced 0.4 wt% Pt/CeO
+2
+NPs/SiO
+2
+demonstrate the presence of Pt species with a wide range of nuclearities and/or oxidation states. Both the ultrasmall size and isolation of the CeO
+x
+nanoglue islands by SiO
+2
+are critical to confining Pt species to prevent sintering.
+Further experiments were conducted with high loadings of Pt (4 wt%) on SiO
+2
+-supported CeO
+x
+nanoislands to investigate synthesis and confinement of uniform Pt clusters on them. After reduction in H
+2
+at 300 °C for 3 h, Pt clusters were detected by CO DRIFTS (Extended Data Fig.
+8g
+). HAADF-STEM images show uniform Pt clusters (an average size of approximately 0.9 nm) attached to the isolated CeO
+x
+islands when the reduction temperature increased to 400 °C (Extended Data Fig.
+8h
+). After reduction at 500 °C for 12 h, the CeO
+x
+islands became amorphous, but the Pt clusters nonetheless retained their sizes and were still attached to the islands (Extended Data Fig.
+8i–j
+). The absence of Pt NPs with sizes greater than 1 nm in these severely reduced catalysts with high Pt loading highlights the effectiveness of the CeO
+x
+nanoglue strategy for stable localization of Pt species (from isolated metal atoms to subnanometre clusters) and for preventing the formation of larger Pt NPs, thus expanding their potential for practical applications.
+We note that the active phase in many catalysts is pre-formed by reduction, and that H
+2
+treatment at temperatures greater than 200 °C usually causes sintering of atomically dispersed noble metals
+4
+,
+8
+,
+9
+. In addition to limiting applications, this restructuring also hinders fundamental investigations of single-atom catalyst performance and structure–property relationships. The robustness of the 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+under both oxidizing and reducing environments offers new opportunities in this regard.
+Ceria-supported single Pt atoms were reported to be less active for CO oxidation than CeO
+2
+-supported Pt clusters
+8
+,
+9
+,
+27
+, and our data verify this pattern (Extended Data Fig.
+9a–c
+). Because our CeO
+x
+nanoisland-confined Pt single-atom catalysts remain stable after reductive activation, we could explore CO oxidation performances and  show (Fig.
+4
+) that the temperature for 50% CO conversion is 133 °C for the H
+2
+-activated Pt
+1
+/CeO
+x
+/SiO
+2
+and 226 °C for the non-activated Pt
+1
+/CeO
+x
+/SiO
+2
+. This result demonstrates that H
+2
+activation increases the CO oxidation rate by two orders of magnitude and decreases the apparent activation energy (Extended Data Fig.
+9q
+). The XANES and EXAFS data indicate that H
+2
+reduction removes oxygen ligands, reduces the coordination number of the first Pt–O shell from 4.5 ± 0.5 to 3.2 ± 0.3 and reduces Pt
+4+
+to Pt
+δ
++
+(refs.
+6
+,
+27
+,
+30
+) without sintering the isolated Pt atoms (Extended Data Fig.
+9i–p
+). Comparison against catalysts prepared on other CeO
+2
+supports or by impregnation of CeO
+x
+/SiO
+2
+and SiO
+2
+with Pt salt solutions shows that the H
+2
+-activated 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+is much more stable and active for CO oxidation (Extended Data Fig.
+9d–h,r–t
+).
+Fig. 4: Evaluation of low-temperature CO oxidation activity and stability.
+CO conversion during a temperature ramp at a rate of 1 °C min
+−1
+catalysed by the as-synthesized and H
+2
+-activated 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+single-atom catalyst (CO oxidation on the CeO
+x
+/SiO
+2
+control catalyst is also shown). Activation of the 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+by H
+2
+reduction at 300 °C for 1 h greatly increased its activity for CO oxidation. The cycling test was conducted with a temperature ramp to 200 °C.
+Source data
+Full size image
+These observations illustrate the value of the CeO
+x
+nanoglue design strategy, implemented with our scalable strong electrostatic adsorption process for dispersing CeO
+x
+(
+x
+≈ 1.86) nanoglue islands with an average dimension of 2 nm or smaller onto a robust, high-surface-area SiO
+2
+support and then selectively localizing Pt atoms on these islands. The CeO
+x
+nanoglue islands incorporate abundant Ce
+3+
+that strongly anchors Pt atoms and small clusters under either O
+2
+or H
+2
+environments, even at elevated temperatures. Challenges for practical applications remain, however, such as the partial and reversible oxidation of the Pt
+1
+atoms and associated lowering of catalyst activity seen at higher temperatures (for example, 300 °C) under oxidizing conditions (
+Methods
+section ‘Extended results and discussions’ and Extended Data Fig.
+9i–p
+). But with our strategy for confining metal atoms by functional nanoglues applicable to metals other than Pt (including Pd and Rh; see Extended Data Fig.
+10
+) and in principle able to produce a wide range of robust single-atom and cluster catalysts, we anticipate that it will prove useful for numerous catalytic transformations.
+Methods
+Preparation of nanoglues and support materials
+SiO
+2
+-supported CeO
+x
+In general, OH
+−
+ions in alkaline solutions act as strong coordination agents for Ce
+3+
+ions to form cationic complexes, but excessive OH
+−
+results in precipitation of Ce(OH)
+3
+(solubility product constant
+K
+sp
+= 1.6 × 10
+−20
+)
+31
+. To avoid the formation of Ce(OH)
+3
+precipitates from the solution phase, the concentration of the OH
+−
+was carefully controlled to maintain a relatively stable aqueous solution containing soluble [Ce(OH)
+2
+]
++
+and [Ce(OH)]
+2+
+complexes
+31
+. Dissolved O
+2
+in the aqueous solution slowly oxidizes Ce
+3+
+into Ce
+4+
+, the concentration of which grows with time to reach the precipitation limit of Ce(OH)
+4
+(
+K
+sp
+= 2 × 10
+−48
+)
+31
+. Under well controlled synthesis conditions, the strong electrostatic adsorption (SEA) of [Ce(OH)
+2
+]
++
+and [Ce(OH)]
+2+
+occurs within minutes
+18
+, a much shorter time than that needed for precipitating Ce(OH)
+4
+. Such a time difference in the dynamic adsorption and precipitation processes allows efficient, facile production of uniformly decorated high-surface-area SiO
+2
+with Ce species via the SEA process.
+In a typical procedure for synthesizing 12 wt% CeO
+x
+nanoglue islands on SiO
+2
+, 360 mg of fumed SiO
+2
+powder (Alfa Aesar, total Brunauer–Emmett–Teller (BET) surface area 278 m
+2
+g
+−1
+) was mixed with 100 ml of deionized (DI) water, and the resultant aqueous solution was sonicated to produce a uniform mixture. Under vigorous stirring, 0.4 mmol of Ce(NO
+3
+)
+3
+·
+6H
+2
+O was dissolved in the above solution, and 0.8 ml of NH
+3
+·
+H
+2
+O (2 M) was quickly injected into the solution with further stirring for 3 min prior to vacuum filtration. The final solution pH was about 8.7. The resultant precipitates were removed for air drying overnight at room temperature. The dried powders were ground to smaller particles and were then calcined in a muffle furnace at 500 or 600 °C (with a temperature ramp of 5 °C min
+−1
+) for 12 h. This facile synthesis protocol was easily scaled up to routinely produce 10 times more of the final product.
+SiO
+2
+-supported CeO
+2
+NPs (IMP) by impregnation
+The SiO
+2
+-supported 12 wt% CeO
+2
+NPs were prepared using the same precursors as described above. The pore volume of the SiO
+2
+was determined to be ~2.1 ml g
+−1
+. Therefore, 0.8 mmol of Ce(NO
+3
+)
+3
+·
+6H
+2
+O was dissolved in 2.1 ml of DI water. As the sample was stirred, 2.1 ml of precursor solution was slowly added to 1 g of SiO
+2
+powder to ensure complete wetting of the support by the Ce-containing solution. The final mixture was air-dried overnight prior to oven drying at 60 °C for 12 h. The dried powders were ground and then calcined at 600 °C (the temperature was ramped at a rate of 5 °C min
+−1
+) in a muffle furnace.
+Pure CeO
+2
+powders
+To synthesize pure CeO
+2
+, 2 g of Ce(NO
+3
+)
+3
+·
+6H
+2
+O was dissolved in 100 ml of DI water. With the sample vigorously stirred, 2 ml of 15% ammonia solution was slowly injected into the above solution to form a suspension. The product was continuously stirred overnight in open air. Vacuum filtration was used to repeatedly wash the precipitates with DI water. The final light-yellow powders were ground and then calcined at 500 °C for 4 h.
+Selective deposition of Pt atoms and preparation of Pt catalysts
+Pt/CeO
+x
+/SiO
+2
+, Pt/CeO
+2
+NPs/SiO
+2
+and Pt/CeO
+2
+In a typical synthesis protocol, 300 mg of support (500 °C-calcined CeO
+x
+/SiO
+2
+, CeO
+2
+NPs/SiO
+2
+) was immersed in 70 ml of DI water and sonicated. The pH of the solution was adjusted to ~3 by addition of HCl. Simultaneously, 3.0 μmol of H
+2
+PtCl
+6
+·
+6H
+2
+O was diluted in 50 ml of aqueous solution (pH of ~3 by addition of HCl). With the sample vigorously stirred and within 5 h, the Pt precursor solution was slowly pumped to the aqueous solution containing the corresponding support powders. After being stirred for another 5 h, the final mixture was filtered via vacuum filtration to obtain the precipitates, which were washed several times with DI water to remove residual Pt ions and other species. After the final catalyst precursor powders were dried in air, they were calcined at 600 °C for 12 h to obtain the as-synthesized catalysts. 0.3 wt% Pt/CeO
+2
+catalyst was synthesized by using 30 μmol of H
+2
+PtCl
+6
+·
+6H
+2
+O and 300 mg of CeO
+2
+powder. The high Pt loading (4 wt% Pt with respect to CeO
+x
+) Pt/CeO
+x
+/SiO
+2
+catalyst was synthesized by using 61 μmol of H
+2
+PtCl
+6
+in the above process. After calcination, 4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst was reduced in H
+2
+at 400 °C to produce Pt clusters. The Pt
+x
+O
+y
+/CeO
+x
+/SiO
+2
+samples were produced by mildly calcining the CeO
+x
+/SiO
+2
+supported Pt cluster catalysts at 100 °C. For Pd/CeO
+x
+/SiO
+2
+and Rh/CeO
+x
+/SiO
+2
+, 14 μmol of PdCl
+2
+and 5.8 μmol of RhCl
+3
+were used in the synthesis process, respectively.
+Pt/CeO
+x
+/SiO
+2
+(IMP) by impregnation
+The pore volume of the as-synthesized CeO
+x
+/SiO
+2
+was determined to be 1.8 ml g
+−1
+. With stirring, 0.54 ml of aqueous solution containing H
+2
+PtCl
+6
+precursor salt was slowly added to 300 mg of CeO
+x
+/SiO
+2
+powder to ensure complete wetting of the support surfaces by the precursor salt solution. The mixture was then dried at 60 °C for 12 h in an oven. The resultant 0.4 wt% Pt/CeO
+x
+/SiO
+2
+(IMP) powders were ground and then calcined at 300 °C for 3 h in a muffle furnace. The high-loading Pt/CeO
+x
+/SiO
+2
+(IMP) powders were directly reduced in H
+2
+at 300 °C for STEM examination.
+Pt/SiO
+2
+(IMP) by impregnation
+50 μl of H
+2
+PtCl
+6
+solution (3 mg ml
+−1
+) was diluted with 580 μl of DI water. With stirring, 630 μl of precursor solution was slowly added to 300 mg of SiO
+2
+powder to ensure complete wetting of the support by the metal-containing solution. The final mixture was dried at 60 °C for 12 h in an oven. The dried powders were ground and then calcined at 300 °C for 3 h in a muffle furnace.
+Pt/SiO
+2
+(SEA)
+In a typical synthesis process, Pt(NH
+3
+)
+4
+Cl
+2
+was used as precursor to adsorb Pt(NH
+3
+)
+4
+2+
+onto negatively charged SiO
+2
+surfaces in the presence of alkaline solution. Commercial SiO
+2
+powders (180 mg) were dispersed in 50 ml of DI water and the solution was kept alkaline by adding 0.2 ml of 2-M ammonia solution. Then 1 ml of aqueous solution containing 3.2 mg of Pt(NH
+3
+)
+4
+Cl
+2
+was injected into the SiO
+2
+suspension that was vigorously stirred for 3 h. The as-prepared Pt/SiO
+2
+catalysts, without calcination, contained both Pt single atoms and Pt clusters (Extended Data Fig.
+5a,b
+). The Pt loading on commercial SiO
+2
+powders was determined to be 0.5 wt% by inductively coupled plasma mass spectrometry (ICP-MS) measurements.
+Preparation of core–shell samples
+SiO
+2
+spheres
+SiO
+2
+spheres were produced by the Stöber method
+32
+: 30 ml of DI water, 150 ml of ethanol, and 18 ml of ammonia (~25%–28%) were mixed in a flask. Then 12 ml of tetraethyl orthosilicate (TEOS) was added to the solution, which was heated to 58 °C and stirred for 2 h. Then the solvent was removed by evaporation at 100 °C, and the resultant powder was calcined for 2 h at 500 °C.
+Pt/SiO
+2
+spheres
+500 mg of SiO
+2
+spheres were dispersed in 100 ml of DI water while 1 ml of 2-M ammonia solution was added. Then 50 ml of solution containing 20 mg of Pt(NH
+3
+)
+4
+(NO
+3
+)
+2
+was pumped into the suspension within 1 h. After stirring for another half an hour, the mixture was filtered. The Pt loading on SiO
+2
+spheres was determined to be 0.2 wt% by ICP measurement.
+Porous SiO
+2
+shell
+The (Pt/CeO
+2
+)@SiO
+2
+(Extended Data Fig.
+6
+) was prepared by a modified Stöber method
+33
+; 500 mg of the as-prepared 0.3 wt% Pt/CeO
+2
+was dispersed in 300 ml of ethanol by ultrasonication. Then 2.5 ml of TEOS was added, and the solution was stirred for 4 h. Then 5 ml of ammonia (~25%–28%) and 20 ml of DI water were added to the slurry, which was stirred for another 4 h. Finally, the product was washed with ethanol and dried at 100 °C. For (Pt/SiO
+2
+)@SiO
+2
+, 150 mg of 0.2 wt% Pt/SiO
+2
+spheres and 1.5 ml of TEOS were used in the synthesis.
+Cu nanoparticles
+A specified amount of (Pt/CeO
+2
+)@SiO
+2
+or (Pt/SiO
+2
+)@SiO
+2
+was added to 25 ml of DI water. The pH value of the solution was kept at 9 by adding Na
+2
+CO
+3
+solution. Then Cu(NO
+3
+)
+2
+solution was added dropwise to the above suspension. The target loading of Cu was 2 wt% in each sample. After ageing for 1 h, the products were filtered and dried at 70 °C overnight. The final products, denoted as Cu[(Pt/CeO
+2
+)@SiO
+2
+] or Cu[(Pt/SiO
+2
+)@SiO
+2
+], were in situ reduced in 20 ml min
+−1
+of 10% H
+2
+/Ar at 400 °C for 3 h in preparation for DRIFTS and HAADF-STEM characterizations.
+Catalytic testing of the prepared catalysts
+The CO oxidation reaction was conducted in a fixed-bed, plug-flow reactor at atmospheric pressure. Typically, 30 mg of 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst was packed between two quartz wool plugs inside a quartz tube (inner diameter of 4 mm) for each test. Prior to catalytic reaction, the H
+2
+-activated catalysts were pretreated with 10 ml min
+−1
+of 5% H
+2
+/He at 300 °C for 1 h. After cooling to room temperature, the reaction temperature was ramped up at a rate of 1 °C min
+−1
+. The feed gas, containing 1 vol.% CO, and 4 vol.% O
+2
+balanced in He, passed through the catalyst bed at a flow rate of 10.0 ml min
+−1
+(corresponding to a weight hourly space velocity (WHSV) of 20,000 ml (g
+cat
+h)
+−1
+). The outlet gas composition was measured with an online gas chromatograph (7890A, Agilent) equipped with a thermal conductivity detector (TCD).
+The specific reaction rate and apparent activation energy were measured as the catalyst was exposed to the gas composition stated above. During the kinetics experiments, the CO conversion was controlled to be less than 15% by adjustment of either the feed flow rate or catalyst mass.
+Characterization instruments
+HAADF-STEM images were collected with a JEOL ARM-200F microscope equipped with a probe-forming aberration corrector operated at 200 kV to achieve a nominal image resolution of 0.08 nm. The backscattered electron images were obtained on a JEOL JXA-8530F electron microprobe. Transmission electron microscopy (TEM) images were taken on a Hitachi HT7700 transmission electron microscope operating at an acceleration voltage of 100 kV. All reported electron microscopy images were raw images. X-ray photoelectron spectroscopy (XPS) analysis was carried out with an ESCALAB 250 X-ray photoelectron spectrometer with Al Kα as the excitation source. The loadings of Pt and Ce were determined with a ThermoFinnegan iCAP Q quadrupole ICP-MS with CCT (Collision Cell Technology), and Pd and Rh were determined with inductively coupled plasma-atomic emission spectroscopy (ICP-AES) (Atomscan Advantage, Thermo Jarrell Ash). Samples were run in KED (kinetic energy discrimination) mode, with in-line aspiration of a multi-element internal standard. The BET surface areas were measured by the nitrogen adsorption-desorption method on a surface area and porosity analyser (Quantachrome NOVA 4000e apparatus). Before measurements, the samples were degassed at 180 °C for 6 h under vacuum. The X-ray diffraction (XRD) patterns were recorded on a Rigaku TTR-III theta-theta rotating anode X-ray diffractometer using Cu Kα radiation (40 kV and 200 mA) with a step size of 0.02°. Raman spectra were collected with a JYLABRAM-HR spectrometer equipped with an integral microscope. DRIFTS experiments were carried out with samples in a diffuse reflectance reaction chamber (Harrick Scientific) equipped with ZnSe windows, mounted in a Praying Mantis diffuse reflection accessory (Harrick Scientific), and coupled to a Thermo Scientific Nicolet iS50 FTIR spectrometer with a liquid-nitrogen-cooled HgCdTe (MCT-A) detector. Hydrogen temperature-programmed reduction (H
+2
+-TPR) measurements were conducted on a Micromeritics Autochem II 2920 with a thermal conductivity detector (TCD). X-ray absorption spectroscopy (XAS) experiments were carried at beamlines 4-1 and 9-3 at the Stanford Synchrotron Radiation Lightsource (SSRL) and at the TPS 44A beamline of the National Synchrotron Radiation Research Center (NSRRC), Taiwan. The storage ring energies and currents were 3 GeV and 500 mA, respectively. Photon energy selection was achieved with double-crystal Si(220) monochromators at SSRL. A Si (111) channel-cut crystal was used as the quick-scanning monochromator at NSRRC.
+Characterization methods
+ICP
+ICP-MS measurements were performed to quantify the loadings (loading levels) of metal species on SiO
+2
+. For a particular weight of Pt/CeO
+x
+/SiO
+2
+catalyst, Pt and Ce atoms were dissolved in freshly prepared aqua regia solution. Then the insoluble SiO
+2
+was washed and centrifuged three times with all the solution in a volumetric flask. The final concentrations of Pt and Ce were diluted to meet the calibration standards. The loading of CeO
+x
+was calculated in terms of CeO
+2
+units. To verify that Pt atoms were selectively adsorbed by CeO
+x
+nanoglues, the CeO
+x
+/SiO
+2
+support was replaced by pure SiO
+2
+in a typical synthesis procedure. Because the loading of Pt on the pure SiO
+2
+was expected to be much lower than that on the CeO
+x
+/SiO
+2
+, larger amount of samples of Pt/SiO
+2
+were used for the ICP-MS measurement to assure that the concentration of Pt was in the range of the reference standards. The results are summarized in Extended Data Fig.
+3a
+.
+XPS
+For XPS investigations of the high-temperature reduced 0.4 wt% Pt/CeO
+x
+/SiO
+2
+, as-synthesized powder samples were reduced in 10% H
+2
+/Ar at 500 °C for 1 h. The reactor vessel was then tightly sealed and transferred to a glove box. The catalyst powders were then transferred into the XPS sample holder within the glove box. The XPS sample holder was tightly sealed in the glove box to protect the catalysts from oxidation by air during transfer. After the sample preparation procedure, the XPS sample holder was placed in a vacuum transfer chamber and transferred to the XPS apparatus without sample exposure to air.
+HAADF imaging of CeO
+x
+/SiO
+2
+and Pt/CeO
+x
+/SiO
+2
+The mesoporous SiO
+2
+support has interconnected 3D pores and underwent considerable charging under electron beam illumination, making imaging of such materials challenging. In the HAADF images shown in Extended Data Fig.
+1d,e
+, the adjacent regions could not be simultaneously imaged because atomic-resolution HAADF imaging is sensitive to height modulations of the mesoporous SiO
+2
+support: CeO
+x
+clusters located at different sample heights would not be clearly revealed in the same HAADF image. Through-focus images were needed to observe clear features of the adjacent regions. Prior to calcination, the conforming coating of Ce species on the mesoporous SiO
+2
+support made the SiO
+2
+powders less susceptible to electron beam charging effects. After high-temperature calcination, however, the mesoporous SiO
+2
+became charged under the influence of the electron beam, owing to the fact that the crystalline CeO
+x
+nanoclusters were isolated from each other. Because of the sample charging and electron-beam-induced effects, crystalline CeO
+x
+nanoclusters would usually be transformed quickly into amorphous species. For this reason, a low-dose STEM method was used to acquire STEM images of the sensitive CeO
+x
+nanoclusters. In some cases, a thin layer (<2 nm) of continuous carbon coating of the CeO
+x
+/SiO
+2
+or Pt/CeO
+x
+/SiO
+2
+powders was used to reduce the sample charging and other electron-beam-induced effects.
+The HAADF imaging is sensitive to the atomic number of the atoms in the sample and the sample thickness. For Pt atoms supported on well faceted CeO
+2
+, it is possible to distinguish a Pt atom from columns of Ce atoms, because the image contrast can be considered to be proportional to
+$$\frac{1}{{N}_{{\rm{Ce}}}}<?RemoveMrow1?>{\left(\frac{{Z}_{{\rm{Pt}}}}{{Z}_{{\rm{Ce}}}}\right)}^{2}<?RemoveMrow2?>\approx \frac{1.8}{{N}_{{\rm{Ce}}}}$$
+where
+N
+Ce
+represents the number of Ce atoms along the electron beam direction. Therefore, even if a single Pt atom is located on top of a 30-Ce-atom-thick CeO
+2
+column, the image contrast would still be  greater than 5%—and reliably detectable in digital HAADF images. However, in this special case, even when a thin layer of carbon coating was used to reduce electron-beam-induced effects and sample charging, low-dose STEM imaging conditions and fast image acquisition were needed to preserve the crystallinity of the electron-beam-sensitive CeO
+x
+nanoclusters. Such a low-dose approach greatly reduced the visibility of single Pt atoms. Furthermore, because the CeO
+x
+nanoclusters were extremely small and their surfaces were characterized by many steps or other types of surface defects, it became extremely difficult to reliably distinguish the contrast between a supported Pt atom from that of a supported Ce atom (or two Ce atoms). Depending on the specific location of the Pt atom, distinguishing the image contrast of a Pt atom from that of two or more Ce atoms is an impossible task with the currently available technology. All these complications made it impossible to unambiguously identify the presence of Pt single atoms on the CeO
+x
+clusters by the STEM-HAADF imaging technique. Nor did EDXS (energy-dispersive X-ray spectroscopy) and EELS (electron energy-loss spectroscopy) techniques provide useful results, primarily owing to the electron-beam-induced effects.
+CO DRIFTS
+In a typical experiment, the infrared cell was partly filled with inert KBr powder, followed by catalyst packed onto the KBr support. All the gases that flowed through the cell flowed downward through the catalyst bed. For fresh catalysts, a pretreatment at 300 °C with 10% O
+2
+/Ar was conducted for 30 min. The flowing gas was then switched to He, and the background spectra were recorded at 50 °C characterizing the as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst. CO adsorption was conducted by flowing 15 ml min
+−1
+of 10% CO/Ar and 30 ml min
+−1
+of He for 20 min. The CO desorption spectra were recorded following a He purge at a flow rate of 30 ml min
+−1
+to remove gas-phase CO from the cell. When the sample to be characterized was Pt
+x
+O
+y
+/CeO
+x
+/SiO
+2
+, no further oxidative pretreatment was carried out. The CO adsorption experiment was conducted at 100 °C by flowing 10 ml min
+−1
+of 10% CO/Ar, 10 ml min
+−1
+of 10% O
+2
+/Ar, and 20 ml min
+−1
+of He. Then the O
+2
+flow was stopped to allow investigation of the CO adsorption behaviour on Pt
+x
+O
+y
+clusters.
+The in situ H
+2
+reduction treatments were conducted with the sample in the cell—fresh catalyst samples were loaded. The catalysts were heated to the target temperatures in flowing 10% O
+2
+/Ar, and then the gas was switched to 10% H
+2
+/Ar. During the reduction treatment at 300–600 °C, 20 ml min
+−1
+of 10% H
+2
+/Ar flowed through the cell for various periods. The cell was then cooled down to the desired temperatures with the sample in the H
+2
+environment. The flowing gas was then switched to He and backgrounds of the Pt-containing, Pd-containing and Rh-containing catalysts were recorded at 100 °C, 25 °C and 180 °C, respectively. CO adsorption was investigated as the sample was exposed to 10% CO/Ar flowing at 15 ml min
+−1
+and He flowing at 30 ml min
+−1
+for 20 min. The CO desorption spectra were recorded following a He purge at a flow rate of 30 ml min
+−1
+to remove gas-phase CO from the cell. The measurement process was conducted in such a way to avoid oxidation of Pt species.
+Simulation of CO IR spectra
+To predict possible adsorption configurations and vibrational frequencies of CO on harshly reduced (above 500 °C) Pt/CeO
+x
+/SiO
+2
+, spin-polarized density functional theory (DFT) calculations were performed using the Vienna Ab-Initio Simulation Package (VASP) code
+34
+. The projector augmented-wave method (PAW) and the Perdew–Burke–Ernzerhof (PBE) functional were used to deal with the electron–ion interactions and exchange correlation, respectively
+35
+,
+36
+. DFT+U correction (
+U
+eff
+= 5 eV for Ce) was considered to treat the strongly correlated 4
+f
+electron
+37
+. The van der Waals interactions were described using the empirical DFT+D3 method to improve the accuracy of representation of CO adsorption
+38
+. The gamma point was set for the total energy calculations together with a cut-off energy of 400 eV for the plane-wave basis. A vacuum space larger than 10 Å was added in each direction to avoid the interactions between each cluster model. During the structure optimization and frequency analysis, all the atoms were relaxed until the force on each ion was less than 0.02 eV Å
+−1
+.
+To obtain plausible structures of harshly reduced Pt/CeO
+x
+/SiO
+2
+, ab initio molecular dynamics (AIMD) simulations were performed. First, a Pt-doped model cluster (Pt
+1
+/Ce
+15
+O
+30
+) with local coordination environment consistent with the EXAFS results of the as-synthesized Pt
+1
+/CeO
+x
+(crystalline) was established. Then the canonical ensemble (NVT) with the Nosé–Hoover thermostat was implemented in the AIMD simulations for a period of 2 ps at 873 K to give relatively stable structures. The generated configurations were further optimized using standard DFT calculations. The reduced Pt
+1
+/CeO
+x
+was represented by a model (Pt
+1
+/Ce
+15
+O
+25
+) constructed by removing five outermost low-coordinated O atoms from Pt
+1
+/Ce
+15
+O
+30
+. AIMD simulation was further performed for a more stable structure. The Pt single atoms coordinated with 2–3 oxygen ligands are probably located atop the reduced CeO
+x
+cluster. The calculated vibrational frequency of gaseous CO was 2,127 cm
+−1
+, which is 47 cm
+−1
+lower than our experimental value (2,174 cm
+−1
+). The agreement is satisfactory, but to keep the theoretical values more nearly comparable to our experimental results, we applied a shift of 47 cm
+−1
+to the calculated vibrational frequencies of adsorbed CO on Pt
+1
+/Ce
+15
+O
+30
+cluster and Pt
+1
+/Ce
+15
+O
+25
+(ref.
+9
+).
+XAS measurements
+Ex situ EXAFS spectra were used to characterize the Pt-containing sample supported on CeO
+x
+/SiO
+2
+at the Pt L
+III
+edge. We used a highly sensitive fluorescence detection technique
+39
+, carried out with a 30-element solid-state Ge detector at SSRL beamline 4-1 and with a 100-element solid-state Ge detector at beamline 9-3 with each sample pressed into a pellet at 25 °C. In situ XANES spectra were collected at beamline 9-3 at SSRL by using the 100-element solid-state Ge detector at the Pt L
+III
+edge. Approximately 50 mg of catalyst sample was loaded into a flow-through cell and held in place with quartz wool; a Kapton capillary cell (inside diameter = 2.8 mm), connected to a treatment gas line
+40
+was used to collect in situ XANES spectra during treatment of the as-synthesized Pt/CeO
+x
+/SiO
+2
+in 10% H
+2
+/He flowing at a rate of 20 ml min
+−1
+as the cell temperature was ramped from 25 to 300 °C at a rate of 5 °C min
+−1
+followed by a dwell of 60 min at 300 °C. The Pt
+x
+O
+y
+/CeO
+x
+/SiO
+2
+catalyst was also investigated at the TPS 44A beamline of the NSRRC. The data were collected in fluorescence mode by using a seven-element silicon drift detector, and a standard Pt foil was used as reference for the energy calibration.
+Analysis of the EXAFS data was carried out with Athena and XDAP. Athena, part of the Demeter package, was used to merge and deglitch the data, and XDAP was used for background subtraction, normalization and conversion of the data into an EXAFS function file. Reference backscattering phase shifts were calculated from crystallographic data determined with FEFF7. The Pt–O, Pt–O
+long
+, and Pt–O–Pt contributions were calculated on the basis of the structural parameters of PtO
+2
+; the Pt–Ce contribution was calculated on the basis of the structural parameters of the PtCe alloy
+41
+. The number of parameters used in the fitting was less than the statistically justified number, computed with the Nyquist theorem,
+n
+= 2Δ
+k
+Δ
+r
+/π + 2 (where Δ
+k
+and Δ
+r
+, respectively, are the wavevector range and distance interval in the real space range used in the fitting).
+Data fitting was based on an iterative process with a difference-file technique to determine a model comparing the overall fits and fits of individual shells as well. The model was chosen as the best-fitting model when the
+k
+1
+- and
+k
+3
+-weighted EXAFS data, Fourier-transformed data, and Fourier-transformed data characterizing each shell contribution were overall in best agreement with the calculated fits. Quality of fits was evaluated by the value of ‘goodness of fit’, defined below:
+$$\text{Goodness of fit}\,=\,\frac{\nu }{{\rm{NPTS}}(\nu -{N}_{{\rm{free}}})}\mathop{\sum }\limits_{i=1}^{{\rm{NPTS}}}{\left(\frac{{\chi }_{\exp ,i}-{\chi }_{{\rm{model}},i}}{{\sigma }_{\exp ,i}}\right)}^{2},$$
+where
+χ
+exp
+and
+χ
+model
+are the experimental and calculated EXAFS functions, respectively;
+σ
+exp
+is the error in the experimental results;
+ν
+is the number of independent data points in the fit range;
+N
+free
+is the number of free parameters, and NPTS is the number of data points in the fit range.
+We emphasize that we examined the data characterizing the as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst to check for Pt–Pt contributions, but found no evidence of any; thus, the reported fit includes no contributions of Pt–Pt shells from those that might have been present characterizing either metallic platinum (platinum nanoparticles) (with a Pt–Pt absorber–backscatterer distance of 2.81 Å) or PtO
+2
+(which would give a Pt–O–Pt contribution at a distance of about 3.19 Å), consistent with the presence of atomically dispersed platinum. The coordination number of the Pt–O shell in the model without a Pt–Pt contribution was found to be 4.5 ± 0.5 with a length of 1.97 ± 0.02 Å (which is a bonding length), consistent with the EXAFS analyses reported elsewhere for site-isolated platinum anchored on ceria and on iron oxide
+1
+,
+42
+. A metal–O
+long
+shell has been observed for numerous samples comparable to ours, for example, for atomically dispersed platinum supported on the potassium form of zeolite LTL
+43
+. Such a shell is not easily identified with any particular metal–oxygen contribution; rather, because of the complexity of the surface structures, it is an average representing the metal atom near support surface oxygen atoms to which it is not chemically bonded. Our observation of a Pt–backscatterer contribution associated with the Ce atoms of the support is as expected for an atomically dispersed platinum species on the ceria support. The result is consistent, for example, with results characterizing atomically dispersed platinum species anchored on FeO
+x
+1
+. We emphasize, however, that the fit of the Pt–Ce shell characterizing our data does not provide precise information, instead representing an average of various absorber–backscatterer contributions characteristic of isolated Pt atoms on a heterogeneous surface with various Pt–Ce distances; it is beyond the capabilities of EXAFS spectroscopy to resolve these interactions at distances from 0.5 to 2.3 Å. We thus infer that there are some backscatterer contributions associated with the complexity of the CeO
+x
+surface that we could not resolve in our fitting technique.
+The analysis characterizing the H
+2
+-activated 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst showed that the coordination number of the Pt–O shell (first shell) fell to 3.2 ± 0.3 as the bond distance remained nearly constant at 1.99 ± 0.02 Å. The EXAFS data indicate that the H
+2
+-activation process removed oxygen ligands from the isolated platinum atoms and modified their local coordination environment. There was no evidence of a Pt–Pt scattering path in either the as-synthesized or the H
+2
+-activated 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst. The best-fit models representing both the as-synthesized and H
+2
+-activated 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalysts include three shells each, Pt–O, Pt–O
+long
+, and Pt–O–Ce, and the data and the fits are shown in Extended Data Fig.
+4e–j
+and Extended Data Fig.
+9k–p
+, respectively. The fits were found to be the best of the candidate models in terms of quality of fit evaluated by the values of ‘goodness of fit’ and also the parameters that make good chemical sense.
+The fitting of the data characterizing the Pt
+x
+O
+y
+/CeO
+x
+/SiO
+2
+(4 wt% Pt relative to CeO
+x
+) catalyst indicates the following absorber–backscatterer contributions: Pt–O, Pt–O–Pt, and Pt–O–Ce. The best three-shell EXAFS fitting results are shown in Extended Data Fig.
+7p
+. The EXAFS parameters given in Extended Data Fig.
+7k–p
+indicate that for the Pt
+x
+O
+y
+/CeO
+x
+/SiO
+2
+sample, on average, the coordination number of the Pt–O shell (first shell) is 2.7 ± 0.3, at a bonding distance, 2.00 ± 0.02 Å. A longer Pt−Pt scattering path, characterized by a non-bonding distance of 3.21 ± 0.02 Å, was characterized by a coordination number of 2.0 ± 0.2, consistent with the presence of small Pt
+x
+O
+y
+species. The data did not show evidence of a Pt–Pt scattering path. Such three-shell EXAFS fits are close to those reported for small Pt
+x
+O
+y
+clusters
+44
+supported on CeO
+2
+, strongly suggesting the existence of small Pt
+x
+O
+y
+clusters in the Pt
+x
+O
+y
+/CeO
+x
+/SiO
+2
+sample.
+Determination of physical property parameters of catalysts
+Estimated surface area of CeO
+x
+According to the average sizes of CeO
+x
+nanoclusters determined from the HAADF images, loadings of Pt and Ce from ICP-MS results, and the BET surface area of Pt/CeO
+x
+/SiO
+2
+, we calculated various parameters characterizing the nanostructured CeO
+x
+/SiO
+2
+. We use a cuboidal model here for CeO
+x
+nanoclusters. The average dimension of these CeO
+x
+clusters was taken to be 2 nm with a volume (
+\({V}_{{{\rm{CeO}}}_{x}}\)
+) of 8 nm
+3
+. The loading (
+X
+Ce
+) of Ce atoms was taken to be 10 wt%. The surface area (SA) of Pt/CeO
+x
+/SiO
+2
+was measured to be 267 m
+2
+g
+−1
+. Each unit cell of the CeO
+x
+contains four cerium atoms. The mass of one CeO
+x
+cluster is estimated by
+$${m}_{{{\rm{CeO}}}_{x}}=\left(4\frac{{V}_{{{\rm{CeO}}}_{x}}}{{V}_{{\rm{cell}}}}\right)\left(\frac{{M}_{{{\rm{CeO}}}_{2}}}{{N}_{{\rm{A}}}}\right)\approx 5.8\times {10}^{-20}\,{\rm{g}}.$$
+Where the molar mass
+\({M}_{{{\rm{CeO}}}_{2}}=172\;\text{g}\;{\text{mol}}^{-1}\)
+,
+V
+cell
+= 0.157 nm
+3
+and
+N
+A
+= 6.02 × 10
+23
+. The surface area of one CeO
+x
+cluster with five exposed faces is
+\({{\rm{SA}}}_{{{\rm{CeO}}}_{x}}=2\;{\rm{nm}}\times 2\;{\rm{nm}}\times 5=20\;{{\rm{nm}}}^{2}\)
+; the specific surface area (SSA) of CeO
+x
+clusters is estimated to be
+\({\text{SSA}}_{{\text{CeO}}_{x}}={\text{SA}}_{{\text{CeO}}_{x}}/{m}_{{\text{CeO}}_{x}}=345\;{{\rm{m}}}^{2}\;{{\rm{g}}}^{-1}\)
+.
+Estimated surface area of CeO
+2
+in CeO
+2
+NPs/SiO
+2
+The shape of the CeO
+2
+NPs can be roughly regarded as cuboidal with a dimension of 8 nm. The volume of one CeO
+2
+NP is thus estimated as
+\({V}_{{{\rm{CeO}}}_{x}}=512\;{{\rm{nm}}}^{3}\)
+; the mass of one CeO
+2
+NP is
+\({M}_{{{\rm{CeO}}}_{2}}=3.7\times 1{0}^{-18}\;{\rm{g}}\)
+; the CeO
+2
+NPs are loosely positioned on SiO
+2
+so that their contact area with the support can be ignored. Surface area of one CeO
+2
+NP is
+\({{\rm{SA}}}_{{{\rm{CeO}}}_{2}}=384\;{{\rm{nm}}}^{2}\)
+; specific surface area of CeO
+2
+NPs is
+\({{\rm{SSA}}}_{{{\rm{CeO}}}_{2}}=103\;{{\rm{m}}}^{2}\;{{\rm{g}}}^{-1}\)
+.
+Estimated Pt atom number density on CeO
+x
+species
+For the 0.4 wt% Pt
+1
+/CeO
+x
+, the Pt atom number density on CeO
+x
+is estimated by
+\(\rho ={X}_{{\rm{Pt}}}{N}_{{\rm{A}}}/{M}_{{\rm{Pt}}}{\text{SSA}}_{{{\rm{CeO}}}_{x}}=0.036\;{{\rm{nm}}}^{-2}\)
+, where the Pt molar mass
+M
+Pt
+= 195 g mol
+−1
+and
+X
+Pt
+is the wt% of Pt loading. The Pt atom number density characterizing the 0.4 wt% Pt/CeO
+2
+NPs/SiO
+2
+is estimated to be ~0.12 nm
+−2
+. The Pt atom number density characterizing the 0.3 wt% Pt/CeO
+2
+is ~0.11 nm
+−2
+. These calculated results are summarized in Extended Data Fig.
+3d
+.
+Extended results and discussions
+Stabilization strategies
+The most critical challenge to practical applications of single-atom catalysts is to prevent sintering of metal atoms (that is, formation of clusters and nanoparticles) during a desired catalytic reaction, especially under reducing environments at elevated temperatures
+3
+,
+4
+,
+45
+,
+46
+. Substantial efforts have been made to anchor supported single metal atoms, for example, by filling cation vacancies to form chemical bonds
+1
+,
+11
+, step trapping
+5
+,
+22
+, edge-anchoring
+47
+, engineering of support defects to form strong bonds
+48
+,
+49
+, use of surface functional groups
+50
+,
+51
+,
+52
+and introduction of strong metal–support interactions
+53
+. All of these approaches have focused on manipulating the support structure or chemistry to anchor isolated single metal atoms through strong metal–support interactions or interactions between the supported single metal atoms and surface functional groups. These anchoring strategies, however, may not be effective for reactions taking place under strongly reducing and/or oxidizing environments at elevated temperatures. For example, H
+2
+reduction of metal oxide-supported metal atoms at temperatures >200 °C may cause sintering of metal species regardless of the nature of the metal oxide supports (whether they are reducible or nonreducible)
+4
+. Although H
+2
+activation is frequently used for supported metal particle catalysts, the heretofore unavoidable sintering of supported metal atoms during H
+2
+activation makes it difficult to evaluate the true catalytic performance of supported metal atoms.
+The strategies for stabilization of supported metal particles and clusters, illustrated, for example, by formation of chemical bonds at metal–support interfaces
+54
+, encapsulation by porous structures
+55
+, and incorporation of additives on supports with strong metal–additive interactions
+56
+,
+57
+, are not readily transferred to stabilizing isolated single metal atoms. Alternative approaches are needed to mitigate or confine the movement of metal atoms during a targeted catalytic reaction.
+Extended Data Fig.
+1c–e
+shows HAADF images of the Ce–SiO
+2
+precursor. The Ce-containing species conformally and uniformly coated the mesoporous SiO
+2
+surfaces, and there was no evidence of large Ce-containing particles after the SEA process. Owing to the 3D mesoporous structure of the SiO
+2
+support, it needs several images at different electron beam focus values to reveal the full picture of the conformal Ce coating as demonstrated in the images of the same region (Extended Data Fig.
+1d–e
+), which were obtained with defocus value differences of ~30 nm. Prior to high-temperature calcination, the Ce atoms were atomically dispersed on the SiO
+2
+. Extended Data Fig.
+1f–i
+shows that the CeO
+x
+nanoclusters were uniformly and conformally ‘glued’ onto the mesoporous SiO
+2
+surfaces. The CeO
+x
+nanoclusters were isolated from each other. The average dimensions of the as-synthesized CeO
+x
+nanoclusters were measured to be 1.8 nm × 2.1 nm.
+Extended Data Fig.
+2
+shows characterizations of various supports. In the case of the conventional impregnation method, SiO
+2
+might not interact strongly with the Ce species. After being dried, Ce-containing species formed large agglomerates. In pure CeO
+2
+powders, well crystalized CeO
+2
+NPs (~17 nm from XRD, determined by the Scherrer equation) connected together to form large agglomerates. The CeO
+2
+{111} lattice spacing was used as an internal calibration standard for measuring the CeO
+x
+{111} spacings (Extended Data Fig.
+2h
+). To increase the measurement precision and to obtain statistically meaningful data, many sets of {111} lattice fringes were evaluated. Intensity line-scan profiles were used to calculate the corresponding lattice spacings. The average interplanar spacing of the {111} planes in the CeO
+x
+nanoclusters was measured to be 0.33 nm, a value markedly greater than the 0.31 nm characterizing the large CeO
+2
+nanoparticles—and indicating a considerable lattice expansion of the {111} planes in the CeO
+x
+nanoclusters. Because of their small sizes, strong lattice distortion, and high concentrations of oxygen vacancies, the ultrasmall (<2 nm) CeO
+x
+nanoclusters were much more easily reduced than the larger CeO
+2
+NPs (Extended Data Fig.
+2j
+).
+Extended Data Fig.
+3a
+shows the ICP-MS results of Pt loadings in the final catalysts. The same SEA procedure and synthesis conditions were used for adsorbing Pt atoms onto CeO
+x
+/SiO
+2
+and pure SiO
+2
+supports. The Pt contents of the final catalysts suggest that the as-synthesized Pt/SiO
+2
+catalyst contained a negligible (0.0006 wt%) amount of Pt and that ~99% of all the Pt atoms adsorbed on the CeO
+x
+nanoclusters in the CeO
+x
+/SiO
+2
+catalysts. The ICP-MS data unambiguously demonstrate that there was a negligible loading of Pt atoms on the bare SiO
+2
+surfaces, corroborating the design strategy. Extended Data Fig.
+3c
+shows estimates of the loading levels of Pt (relative to the CeO
+x
+nanoclusters) on the CeO
+x
+/SiO
+2
+. The average volume of one CeO
+x
+cluster is approximately 2 nm × 2 nm × 2 nm = 8 nm
+3
+. The lattice parameter of CeO
+2
+is 0.54 nm, and each unit cell contains four Ce atoms. One CeO
+x
+cluster contains approximately 203 Ce atoms. The relationship between Pt loading level (
+y
+) and the average number of Pt atoms (
+x
+) on each CeO
+x
+nanocluster can be estimated by:
+\(y=\frac{x{M}_{{\rm{Pt}}}}{n{M}_{{{\rm{CeO}}}_{2}}}\times 100 \% =\frac{195x}{203\times 172}\times 100 \% =0.56x\)
+. This estimate suggests that if each CeO
+x
+nanocluster hosts only one Pt atom then the Pt loading level (with respect to CeO
+x
+) would be approximately 0.56 wt%. From this perspective, each CeO
+x
+nanocluster in the as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+contains, on average, ~0.7 Pt atoms. Extended Data Fig.
+3e,f
+show plots of attainable wt% Pt loading (with respect to SiO
+2
+) versus the specific surface area of SiO
+2
+, assuming that each CeO
+x
+nanocluster hosts only one Pt atom. Small and densely populated CeO
+x
+nanoclusters and high-surface-area SiO
+2
+(or other types of supports) are critical to developing stable single-atom or cluster catalysts for practical applications. Extended Data Fig.
+3g,i
+show XPS data characterizing the as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst. The survey spectra show all the elements present in the as-synthesized catalyst. Platinum was not detectable owing to the low loading level (~0.05 wt% with respect to the total weight of the catalyst). The Cl2
+p
+peak (~199 eV) was not detectable either in the survey or in the local scan spectrum, suggesting that the vigorous washing and high-temperature calcination eliminated the Cl residues. The selective Pt adsorption and the subsequent processes did not appreciably change the nature and amounts of defects in the CeO
+x
+nanoclusters.
+Extended Data Fig.
+4a–c
+show HAADF images of the as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst, confirming the absence of detectable Pt clusters. Considering the relatively high atomic number of Ce and rapid changes in thickness across ultrasmall CeO
+x
+nanoclusters, it is not possible to unambiguously distinguish Pt single atoms from Ce atoms in low-dose HAADF images. High-current electron probes damage the crystallinity of the CeO
+x
+nanoclusters. Extended Data Fig.
+4d
+shows an HAADF image of a Pt/CeO
+x
+/SiO
+2
+sample by the impregnation method. The Pt loading level was controlled to be ~1.5 wt% with respect to the total support (CeO
+x
+plus SiO
+2
+). This particular catalyst contained various Pt species: NPs (red square), clusters (white square) linked to the CeO
+x
+nanoclusters, and subnanometre clusters (white circle) attached to the CeO
+x
+nanoislands. Although Pt single atoms could not be reliably identified, subnanometre Pt clusters are easily distinguishable from the CeO
+x
+nanoislands. The insets show Pt clusters (≥0.4 nm) attached to CeO
+x
+nanoislands. By analysing numerous such atomic-resolution HAADF images, we concluded that Pt clusters with sizes of ~0.4 nm or larger could be unambiguously identified. Single Pt atoms or tiny, weakly bonded Pt clusters (for example, with sizes <0.3 nm) would not be reliably identified in low-dose atomic-resolution HAADF images of Pt/CeO
+x
+/SiO
+2
+catalysts.
+Extended Data Fig.
+6
+reports data characterizing the dynamic behaviour of Pt atoms on CeO
+2
+or SiO
+2
+during reduction in H
+2
+. A model core–shell structure consisting of Cu[(Pt/CeO
+2
+)@SiO
+2
+] was fabricated to allow tracking of Pt atoms diffusing through the porous SiO
+2
+shell—the strategy involves incorporating Cu NPs on the outer shell surface to trap (scavenge) Pt atoms that might migrate from the CeO
+2
+in the interior to—and through—the SiO
+2
+shell to reach the Cu NPs, where they would form Cu–Pt alloy NPs (Extended Data Fig.
+6a,c
+)
+58
+. The Cu–Pt/SiO
+2
+was synthesized by depositing 4 wt% Cu NPs onto 0.3 wt% Pt/SiO
+2
+. Prior to collecting CO adsorption DRIFTS, all samples were in situ reduced in 10% H
+2
+/Ar at 400 °C for 3 h. After reduction of the Cu–Pt/SiO
+2
+, the CO adsorption peak characterizing Pt clusters/NPs disappeared, and a new broad peak appeared at approximately 2,012 cm
+−1
+, indicating formation of isolated Pt atoms in Pt–Cu alloy
+58
+. In a control sample, Cu[(Pt/SiO
+2
+)@SiO
+2
+], Pt atoms were observed to form Cu–Pt alloy NPs, having migrated during the H
+2
+-reduction process (400 °C for 3 h) through the porous SiO
+2
+shell (Extended Data Fig.
+6d–h
+). By contrast, when the Cu[(Pt/CeO
+2
+)@SiO
+2
+] sample was reduced by the same treatment process, Pt atoms were not associated with the Cu NPs (Extended Data Fig.
+6i–l
+), confirming that a much stronger interaction of Pt atoms with CeO
+2
+than with SiO
+2
+suppressed their diffusion through the porous SiO
+2
+shell. The results of this set of experiments demonstrate that, when the interaction strength of Pt atoms with CeO
+2
+(CeO
+x
+) is much stronger than that with SiO
+2
+, the migration of Pt atoms onto the SiO
+2
+surfaces is greatly mitigated, even under conditions of H
+2
+activation processes, although the Pt atoms still sinter on the CeO
+2
+(CeO
+x
+) surfaces.
+Extended Data Fig.
+7e
+shows DFT-predicted CO adsorption modes on isolated Pt single atoms on CeO
+x
+clusters. Model clusters Pt
+1
+/Ce
+15
+O
+30
+and Pt
+1
+/Ce
+15
+O
+25
+were used to represent fresh and harshly reduced Pt/CeO
+x
+/SiO
+2
+, respectively. The oxygen coordination number of Pt in Pt
+1
+/Ce
+15
+O
+30
+is 5, similar to the EXAFS analysis result. After H
+2
+reduction, more oxygen vacancies formed and the crystalline CeO
+x
+nanoclusters transformed into an amorphous state. The oxygen coordination number of Pt in the Pt
+1
+/Ce
+15
+O
+25
+model cluster is 3. The calculated C–O vibrational frequency characterizing Pt
+1
+/Ce
+15
+O
+30
+is 2,109 cm
+−1
+and that characterizing Pt
+1
+/Ce
+15
+O
+25
+is 2,120 cm
+−1
+. The simulation results represent a meaningful trend, providing a potential explanation for the experimentally observed shift in the CO absorption bands characterizing highly reduced Pt single atoms supported on reduced CeO
+x
+nanoclusters.
+Extended Data Fig.
+7f–h
+show redox properties of Pt
+x
+O
+y
+species. Reducing high-Pt-loading Pt/CeO
+x
+/SiO
+2
+(for example, 4 wt% Pt with respect to CeO
+x
+) formed Pt clusters (Extended Data Fig.
+8h
+), whereas mild oxidation at 100 °C yielded Pt
+x
+O
+y
+clusters. During a CO-DRIFTS experiment, Pt
+x
+O
+y
+clusters were stable when enough O
+2
+was present in the cell (Extended Data Fig.
+7g
+). Under reducing conditions, Pt
+x
+O
+y
+clusters were reduced to metallic Pt clusters
+29
+,
+59
+. After the O
+2
+flow was stopped, the Pt
+x
+O
+y
+peak at 2,111 cm
+−1
+rapidly decreased, and a new peak arose at 2,075 cm
+−1
+, ascribed to metallic Pt clusters, indicating that the Pt
+x
+O
+y
+clusters were reduced by CO at 100 °C. This set of experiments clearly demonstrates how to spectroscopically distinguish small Pt
+x
+O
+y
+clusters from isolated cationic Pt atoms by performing such a redox cycle. If there had been Pt
+x
+O
+y
+clusters in the as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst, we would easily have observed metallic Pt clusters in the DRIFTS spectra—because such Pt
+x
+O
+y
+clusters are not stable either under conditions of CO adsorption or conditions of high-temperature H
+2
+reduction. This facile redox behaviour of Pt
+x
+O
+y
+clusters was used to distinguish DRIFTS spectra of isolated Pt
+1
+/CeO
+x
+from those of supported Pt
+x
+O
+y
+clusters. The CO-DRIFTS spectra of the as-synthesized and reduced 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalysts confirmed that this catalyst did not contain either Pt clusters or Pt
+x
+O
+y
+species. Furthermore, EXAFS data characterizing the 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst did not give evidence of a Pt–O–Pt shell, which, by contrast, was evident in the Pt
+x
+O
+y
+/CeO
+x
+/SiO
+2
+spectra (Extended Data Fig.
+7k–p
+). Extended Data Fig.
+7j
+shows that Pt clusters were observed on the reduced 0.02 wt% Pt/CeO
+2
+(synthesized by SEA method). The number density of Pt atoms in this 0.02 wt% Pt/CeO
+2
+sample was estimated to be ~0.007 nm
+−2
+, much lower than that of the 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst (0.036 nm
+−2
+on CeO
+x
+). Even with such a low number density of Pt atoms, Pt clusters/NPs were still formed during the reduction process. These experimental results confirm that ultrasmall size and isolation of the CeO
+x
+nanoglue islands are critical to confining the movement of Pt atoms.
+Extended Data Fig.
+8a–c
+show HAADF images of the 0.4 wt% Pt/CeO
+2
+NPs/SiO
+2
+treated in H
+2
+at 300 °C for 1 h. This catalyst had a Pt loading level similar to that of the 0.4 wt% Pt/CeO
+x
+/SiO
+2
+, but the sizes of the CeO
+2
+crystals were markedly greater (~8 nm from HAADF images). Extended Data Fig.
+8a,b
+show the same sample region but was obtained with a different electron beam defocus value to illustrate that each CeO
+2
+NP is associated with at least one Pt cluster. In examinations of numerous HAADF images, no Pt clusters were found on the bare SiO
+2
+support surfaces, indicating that all the Pt atoms were associated with the CeO
+2
+crystals. The results of this set of experiments clearly demonstrate that during the H
+2
+-activation process Pt single atoms on each individual CeO
+2
+NP sintered to form small clusters but did not migrate away from their own CeO
+2
+NPs to form large Pt NPs.
+Extended Data Fig.
+8g–j
+show Pt clusters on CeO
+x
+/SiO
+2
+. When the Pt loading level was increased to 4 wt%, a majority of the CeO
+x
+nanoglue islands contained several Pt atoms, and during the H
+2
+-reduction process these Pt atoms sintered to form small clusters. The fact that the sizes of the Pt clusters are similar (average size ~0.9 nm) suggests that (1) the Pt atoms on each CeO
+x
+nanocluster sintered after treatment in H
+2
+at 400 °C for 5 h and (2) even after H
+2
+reduction at 500 °C for 12 h, the Pt atoms were still confined to their own CeO
+x
+nanoclusters. The results of this set of experiments unambiguously demonstrate that the CeO
+x
+nanoglue islands strongly localized the Pt atoms even under harsh reduction conditions. Our design strategy of localizing Pt atoms or clusters by confining their movement during a catalyst activation process or a desired catalytic reaction thus proves to be successful. Such a strategy enhances both the catalyst’s stability and activity and/or selectivity. The selection of an appropriate functional nanoglue is critical to enhancing both the catalyst’s performance and stability.
+Extended Data Fig.
+9i–p
+show that the H
+2
+-reduction treatment at 300 °C not only reduced the oxidation state of the Pt atoms but also modified the local bonding environment of the platinum species. In CO oxidation under lean conditions (O
+2
+partial pressures in excess of the stoichiometric O
+2
+:CO ratio of 0.5), the probe reaction reported in this work, the H
+2
+-activated 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+was active and stable at low temperatures (<200 °C), but at higher temperatures (for example, 300 °C) partial oxidation of the Pt
+1
+atoms can occur and reduce the catalyst’s activity. This process is reversible: the activity is recovered by H
+2
+reduction. Nonetheless, it remains a considerable challenge to maintain the Pt
+1
+in a reduced state over a wider temperature window (>200 °C) for lean oxidation applications. Further work is needed to overcome this limitation.
+Extended Data Fig.
+10
+shows results of a CO-DRIFTS investigation of Pd and Rh atoms supported on CeO
+x
+/SiO
+2
+and CeO
+2
+. Although the CO adsorption experiment was conducted at 25 °C, CeO
+2
+-supported Pd atoms were rapidly reduced by CO and aggregated into Pd clusters/NPs (Extended Data Fig.
+10b
+). The very small amount of bridge-bonded CO
+60
+,
+61
+(characterized by the band at ~1,978 cm
+−1
+) in the as-synthesized Pd/CeO
+x
+/SiO
+2
+might be evidence of sintering of Pd atoms on their own CeO
+x
+nanoglue islands (Extended Data Fig.
+10a
+). Compared with the notable sintering of Pd atoms on the Pd/CeO
+2
+(Extended Data Fig.
+10d
+), the Pd atoms on CeO
+x
+/SiO
+2
+were extremely stable after reduction in H
+2
+(Extended Data Fig.
+10c
+). The CO-DRIFTS experiments characterizing the Rh-containing catalysts were conducted at 180 °C to avoid oxidative fragmentation in which exposure of Rh NPs/clusters to CO at temperatures lower than 150 °C leads to oxidation and fragmentation (assisted by support OH groups) that constitutes redispersion of Rh NPs/clusters into cationic single-atom Rh (ref.
+62
+). After the reduction treatment, the Rh atoms remained atomically dispersed on the CeO
+x
+/SiO
+2
+support (Extended Data Fig.
+10e
+). On the other hand, after the reduction treatment, the presence of the 2,040 cm
+−1
+peak characterizing the reduced Rh/CeO
+2
+catalyst could be assigned to CO adsorbed on Rh NPs
+63
+(Extended Data Fig.
+10f
+). Although more investigations of the intrinsic structure and catalytic properties of the Pd/CeO
+x
+/SiO
+2
+and Rh/CeO
+x
+/SiO
+2
+catalysts are recommended, this set of experimental results clearly demonstrates that the use of functional nanoglues to localize metal atoms and/or clusters works equally well for atomically dispersed Pd and Rh as for Pt. Our metal-atom localization strategy involving grafted ultrasmall functional nanoglue islands on high-surface-area, robust supports is general and can be extended to a plethora of catalyst systems for chemical transformations of important molecules.
+Data availability
+All data that led us to understand the results presented here are available with the Article or from corresponding author J.L. upon reasonable request.
+Source data
+are provided with this paper.
+References
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Gates, B. C. Atomically dispersed supported metal catalysts: seeing is believing.
+Trends Chem.
+1
+, 99–110 (2019).
+Article
+CAS
+Google Scholar
+Yang, X. et al. Single-atom catalysts: a new frontier in heterogeneous catalysis.
+Acc. Chem. Res.
+46
+, 1740–1748 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Duan, S., Wang, R. & Liu, J. Stability investigation of a high number density Pt
+1
+/Fe
+2
+O
+3
+single-atom catalyst under different gas environments by HAADF-STEM.
+Nanotechnology
+29
+, 204002 (2018).
+Article
+ADS
+PubMed
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+DeRita, L. et al. Structural evolution of atomically dispersed Pt catalysts dictates reactivity.
+Nat. Mater.
+18
+, 746–751 (2019).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Ren, Y. et al. Unraveling the coordination structure-performance relationship in Pt
+1
+/Fe
+2
+O
+3
+single-atom catalyst.
+Nat. Commun.
+10
+, 4500 (2019).
+Article
+ADS
+PubMed
+PubMed Central
+Google Scholar
+Pereira-Hernández, X. I. et al. Tuning Pt-CeO
+2
+interactions by high-temperature vapor-phase synthesis for improved reducibility of lattice oxygen.
+Nat. Commun.
+10
+, 1358 (2019).
+Article
+ADS
+PubMed
+PubMed Central
+Google Scholar
+Wang, H. et al. Surpassing the single-atom catalytic activity limit through paired Pt-O-Pt ensemble built from isolated Pt
+1
+atoms.
+Nat. Commun.
+10
+, 3808 (2019).
+Article
+ADS
+PubMed
+PubMed Central
+Google Scholar
+Liang, J. et al. Heterogeneous catalysis in zeolites, mesoporous silica, and metal–organic frameworks.
+Adv. Mater.
+29
+, 1701139 (2017).
+Article
+Google Scholar
+Lang, R. et al. Single-atom catalysts based on the metal–oxide interaction.
+Chem. Rev.
+120
+, 11986–12043 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Trovarelli, A. Catalytic properties of ceria and CeO
+2
+-containing materials.
+Catal. Rev. Sci. Eng.
+38
+, 439–520 (1996).
+Article
+CAS
+Google Scholar
+Vayssilov, G. et al. Support nanostructure boosts oxygen transfer to catalytically active platinum nanoparticles.
+Nat. Mater.
+10
+, 310–315 (2011).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Ma, Z. & Dai, S. Stabilizing gold nanoparticles in solid supports. In
+Heterogeneous Gold Catalysts and Catalysis
+(eds Ma, Z. & Dai, S.) 1−26 (The Royal Society of Chemistry, 2014).
+Dai, Y. et al. A sinter-resistant catalytic system based on platinum nanoparticles supported on TiO
+2
+nanofibers and covered by porous silica.
+Angew. Chem. Int. Ed.
+49
+, 8165–8168 (2010).
+Article
+CAS
+Google Scholar
+Joo, S. et al. Thermally stable Pt/mesoporous silica core–shell nanocatalysts for high-temperature reactions.
+Nat. Mater.
+8
+, 126–131 (2009).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Jeong, H. et al. Highly durable metal ensemble catalysts with full dispersion for automotive applications beyond single-atom catalysts.
+Nat. Catal.
+3
+, 368–375 (2020).
+Article
+CAS
+Google Scholar
+Wong, A., Liu, Q., Griffin, S., Nicholls, A. & Regalbuto, J. Synthesis of ultrasmall, homogeneously alloyed, bimetallic nanoparticles on silica supports.
+Science
+358
+, 1427–1430 (2017).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Bourikas, K. et al. Potentiometric mass titrations: experimental and theoretical establishment of a new technique for determining the point of zero charge (PZC) of metal (hydr)oxides.
+J. Phys. Chem. B
+107
+, 9441–9451 (2003).
+Article
+CAS
+Google Scholar
+Wu, Z. et al. Probing defect sites on CeO
+2
+nanocrystals with well-defined surface planes by Raman spectroscopy and O
+2
+adsorption.
+Langmuir
+26
+, 16595–46606 (2010).
+Article
+CAS
+PubMed
+Google Scholar
+Kato, S. et al. Quantitative depth profiling of Ce
+3+
+in Pt/CeO
+2
+by in situ high-energy XPS in a hydrogen atmosphere.
+Phys. Chem. Chem. Phys.
+17
+, 5078–5083 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Bruix, A. et al. Maximum noble‐metal efficiency in catalytic materials: atomically dispersed surface platinum.
+Angew. Chem. Int. Ed.
+53
+, 10525–10530 (2014).
+Article
+CAS
+Google Scholar
+Zhu, H. et al. Pd/CeO
+2
+–TiO
+2
+catalyst for CO oxidation at low temperature: a TPR study with H
+2
+and CO as reducing agents.
+J. Catal.
+225
+, 267–277 (2004).
+Article
+CAS
+Google Scholar
+De Faria, L. A. & Trasatti, S. The point of zero charge of CeO
+2
+.
+J. Colloid Interface Sci.
+167
+, 352–357 (1994).
+Article
+ADS
+CAS
+Google Scholar
+Liu, J. Aberration-corrected scanning transmission electron microscopy in single-atom catalysis: probing the catalytically active centers.
+Chinese J. Catal.
+38
+, 1460–1472 (2017).
+Article
+CAS
+Google Scholar
+Kottwitz, M. et al. Local structure and electronic state of atomically dispersed Pt supported on nanosized CeO
+2
+.
+ACS Catal.
+9
+, 8738–8748 (2019).
+Article
+CAS
+Google Scholar
+Maurer, F. et al. Tracking the formation, fate and consequence for catalytic activity of Pt single sites on CeO
+2
+.
+Nat. Catal.
+3
+, 824–833 (2020).
+Article
+CAS
+Google Scholar
+Avakyan, L. A. et al. Can the state of platinum species be unambiguously determined by the stretching frequency of an adsorbed CO probe molecule?
+Phys. Chem. Chem. Phys.
+18
+, 22108–22121 (2016).
+Article
+Google Scholar
+Liu, L. et al. Determination of the evolution of heterogeneous single metal atoms and nanoclusters under reaction conditions: which are the working catalytic sites?
+ACS Catal.
+9
+, 10626–10639 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Daelman, N., Capdevila-Cortada, M. & López, N. Dynamic charge and oxidation state of Pt/CeO
+2
+single-atom catalysts.
+Nat. Mater.
+18
+, 1215–1221 (2019).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Li, J. et al. Investigating the hybrid‐structure‐effect of CeO
+2
+‐encapsulated Au nanostructures on the transfer coupling of nitrobenzene.
+Adv. Mater.
+30
+, 1704416 (2018).
+Article
+Google Scholar
+Stöber, W., Fink, A. & Bohn, E. Controlled growth of monodisperse silica spheres in the micron size range.
+J. Colloid Interface Sci.
+26
+, 62–69 (1968).
+Article
+ADS
+Google Scholar
+Xu, Y. et al. A hydrophobic FeMn@Si catalyst increases olefins from syngas by suppressing C1 by-products.
+Science
+371
+, 610–613 (2021).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+ADS
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Nolan, M. S. et al. Density functional theory studies of the structure and electronic structure of pure and defective low index surfaces of ceria.
+Surf. Sci.
+576
+, 217–229 (2005).
+Article
+ADS
+CAS
+Google Scholar
+Grimme, S., Ehrlich, S. & Goerigk, L. Effect of the damping function in dispersion corrected density functional theory.
+J. Comp. Chem.
+32
+, 1456–1465 (2011).
+Article
+CAS
+Google Scholar
+Hoffman, A. S. et al. Beating heterogeneity of single-site catalysts: MgO-supported iridium complexes.
+ACS Catal.
+8
+, 3489–3498 (2018).
+Article
+CAS
+Google Scholar
+Hoffman, A. S. et al. In situ observation of phase changes of a silica-supported cobalt catalyst for the Fischer−Tropsch process by the development of a synchrotron compatible in situ/operando powder X-ray diffraction cell.
+J. Synchrotron Radiat.
+25
+, 1673–1682 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Blanco, J. et al. Magnetic structures and cerium moment reduction in the CeNi
+x
+Pt
+1−
+x
+ferromagnetic Kondo lattices.
+J. Magn. Magn. Mater.
+112
+, 51–57 (1992).
+Article
+ADS
+Google Scholar
+Xie, P. et al. Nanoceria-supported single-atom platinum catalysts for direct methane conversion.
+ACS Catal.
+8
+, 4044–4048 (2018).
+Article
+CAS
+Google Scholar
+Kistler, J. D. et al. A single‐site platinum CO oxidation catalyst in zeolite KLTL: microscopic and spectroscopic determination of the locations of the platinum atoms.
+Angew. Chem. Int. Ed.
+53
+, 8904–8907 (2014).
+Article
+CAS
+Google Scholar
+Nan, B. et al. Effects of multiple platinum species on catalytic reactivity distinguished by electron microscopy and X-ray absorption spectroscopy techniques.
+J. Phys. Chem. C
+121
+, 25805–25817 (2017).
+Article
+CAS
+Google Scholar
+Liu, J. Catalysis by supported single metal atoms.
+ACS Catal.
+7
+, 34–59 (2017).
+Article
+CAS
+Google Scholar
+Wang, A., Li, J. & Zhang, T. Heterogeneous single-atom catalysis.
+Nat. Rev. Chem.
+2
+, 65–81 (2018).
+Article
+ADS
+CAS
+Google Scholar
+Lou, Y. et al. Pocketlike active site of Rh
+1
+/MoS
+2
+single-atom catalyst for selective crotonaldehyde hydrogenation.
+J. Am. Chem. Soc.
+141
+, 19289–19295 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, Z. et al. Thermally stable single atom Pt/m-Al
+2
+O
+3
+for selective hydrogenation and CO oxidation.
+Nat. Commun.
+8
+, 16100 (2017).
+Article
+ADS
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wan, J. et al. Defect effects on TiO
+2
+nanosheets: stabilizing single atomic site Au and promoting catalytic properties.
+Adv. Mater.
+30
+, 1705369 (2018).
+Article
+Google Scholar
+Yang, M. et al. Catalytically active Au-O(OH)
+x
+-species stabilized by alkali ions on zeolites and mesoporous oxides.
+Science
+346
+, 1498–1501 (2014).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Liu, P. et al. Photochemical route for synthesizing atomically dispersed palladium catalysts.
+Science
+352
+, 797–800 (2016).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Wei, S. et al. Direct observation of noble metal nanoparticles transforming to thermally stable single atoms.
+Nat. Nanotechnol.
+13
+, 856–861 (2018).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Lin, L. et al. Low-temperature hydrogen production from water and methanol using Pt/α-MoC catalysts.
+Nature
+544
+, 80–83 (2017).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Yang, C. et al. Sulfur-anchoring synthesis of platinum intermetallic nanoparticle catalysts for fuel cells.
+Science
+374
+, 459–464 (2021).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Liu, L. et al. Generation of subnanometric platinum with high stability during transformation of a 2D zeolite into 3D.
+Nat. Mater.
+16
+, 132 (2017).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Ma, G. et al. Stabilizing gold clusters by heterostructured transition-metal oxide–mesoporous silica supports for enhanced catalytic activities for CO oxidation.
+Chem. Commun.
+48
+, 11413–11415 (2012).
+Article
+CAS
+Google Scholar
+Alexeev, O., Shelef, M. & Gates, B. C. MgO-supported platinum–tungsten catalysts prepared from organometallic precursors: platinum clusters isolated on dispersed tungsten.
+J. Catal.
+164
+, 1–15 (1996).
+Article
+CAS
+Google Scholar
+Sun, G. et al. Breaking the scaling relationship via thermally stable Pt/Cu single atom alloys for catalytic dehydrogenation.
+Nat. Commun.
+9
+, 4454 (2018).
+Article
+ADS
+PubMed
+PubMed Central
+Google Scholar
+DeRita, L. et al. Catalyst architecture for stable single atom dispersion enables site-specific spectroscopic and reactivity measurements of CO adsorbed to Pt atoms, oxidized Pt clusters, and metallic Pt clusters on TiO
+2
+.
+J. Am. Chem. Soc.
+139
+, 14150–14165 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Jeong, H. et al. Promoting effects of hydrothermal treatment on the activity and durability of Pd/CeO
+2
+catalysts for CO oxidation.
+ACS Catal.
+7
+, 7097–7105 (2017).
+Article
+CAS
+Google Scholar
+Dong, J. et al. Elucidation of the active sites in single-atom Pd
+1
+/CeO
+2
+catalysts for low-temperature CO oxidation.
+ACS Catal.
+10
+, 11356–11364 (2020).
+Article
+Google Scholar
+Solymosi, F. & Pásztor, M. An infrared study of the influence of CO chemisorption on the topology of supported rhodium.
+J. Phys. Chem.
+89
+, 4789–4793 (1985).
+Article
+CAS
+Google Scholar
+Shan, J. et al. Mild oxidation of methane to methanol or acetic acid on supported isolated rhodium catalysts.
+Nature
+551
+, 605–608 (2017).
+Article
+ADS
+CAS
+PubMed
+Google Scholar
+Download references
+Acknowledgements
+This work was primarily supported by the National Science Foundation under grant no. 1955474 (CHE-1955474) and 1465057 (CHE-1465057). J. Zeng acknowledges support by National Key Research and Development Program of China (2021YFA1500500), National Science Fund for Distinguished Young Scholars (21925204), and NSFC (U19A2015). Y.W. acknowledges support by the US Department of Energy (DOE), Office of Science (SC), Basic Energy Sciences, Division of Chemical Sciences, Geosciences and Biosciences, Catalysis Science program (DE-AC05-RL01830, FWP-47319). Y.C., C.-Y.F., and B.C.G. acknowledge the support of DOE SC grant DE-FG02-04ER15513. X.I.P.-H. thanks Fulbright Colombia and Colciencias for financial support provided to pursue a PhD degree and acknowledges the support of DOE SC Grant DE-FG02-05ER15712 and DOE EERE/VTO. X.L. and Y.C. acknowledge funding from the China Scholarship Council (CSC) (201706340130, 201806340062). The authors thank Y. Yu and N. Zhang for help in the revision stage. The authors acknowledge the use of facilities within the Eyring Materials Center and the John M. Cowley Center for High Resolution Electron Microscopy at Arizona State University and thank the Stanford Synchrotron Radiation Lightsource (beamlines 4-1, 9-3) for providing beam time.
+Author information
+Authors and Affiliations
+Department of Physics, Arizona State University, Tempe, AZ, USA
+Xu Li, Jia Xu & Jingyue Liu
+Hefei National Research Center for Physical Sciences at the Microscale, University of Science and Technology of China, Hefei, P. R. China
+Xu Li, Jiankang Zhao & Jie Zeng
+The Gene and Linda Voiland School of Chemical Engineering and Bioengineering, Washington State University, Pullman, WA, USA
+Xavier Isidro Pereira-Hernández & Yong Wang
+Department of Chemical Engineering, University of California, Davis, Davis, CA, USA
+Yizhen Chen, Chia-Yu Fang & Bruce C. Gates
+National Synchrotron Radiation Research Center, Hsinchu, Taiwan
+Chih-Wen Pao
+Department of Materials Science and Engineering, University of California, Davis, CA, USA
+Chia-Yu Fang
+Key Laboratory of Surface and Interface Chemistry and Energy Catalysis of Anhui Higher Education Institutes, University of Science and Technology of China, Hefei, P. R. China
+Jie Zeng
+Department of Chemical Physics, University of Science and Technology of China, Hefei, P. R. China
+Jie Zeng
+Institute for Integrated Catalysis, Pacific Northwest National Laboratory, Richland, WA, USA
+Yong Wang
+Authors
+Xu Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xavier Isidro Pereira-Hernández
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yizhen Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jia Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiankang Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chih-Wen Pao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chia-Yu Fang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jie Zeng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yong Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bruce C. Gates
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jingyue Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+J.L. conceived the concept, designed the studies and conducted the STEM experiments. X.L. designed the synthesis methods, conducted synthesis work, catalytic tests, DRIFTS experiments and other characterizations. X.I.P.-H. and Y.W. carried out CO DRIFTS experiments during the early stages of this project. Y.C., C.-W.P., C.-Y.F. and B.C.G. performed XAS experiments and analysed XANES and EXAFS data. J.X. conducted relevant experiments. J. Zhao conducted DFT calculations. J. Zeng provided suggestions on the research project. X.L. and J.L. wrote the manuscript. B.C.G., Y.W. and J.Z. revised the manuscript, and all authors discussed the results and commented on the manuscript.
+Corresponding authors
+Correspondence to
+Jie Zeng
+,
+Yong Wang
+,
+Bruce C. Gates
+or
+Jingyue Liu
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature
+thanks the anonymous reviewers for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data figures and tables
+Extended Data Fig. 1 Synthesis of CeO
+x
+nanoglue islands.
+a
+,
+b
+, SEM backscattered electron images of the CeO
+x
+/SiO
+2
+after solution reaction for 3 min (
+a
+) and 1 h (
+b
+). Bright features in
+b
+represent large agglomerates of CeO
+2
+particles produced by Ce(OH)
+4
+precipitation during the prolonged 1 h adsorption process. There were no CeO
+2
+particles detectable in
+a
+, either at low or high image magnifications. The inset to
+a
+shows a photograph of the as-synthesized CeO
+x
+/SiO
+2
+powders.
+c
+,
+d
+,
+e
+, High-resolution HAADF images of the Ce–SiO
+2
+(prior to calcination) at various magnifications and defocus values.
+f
+,
+g
+, HAADF images show distribution and crystallite structure of the CeO
+x
+nanoglue islands after 600 °C calcination for 12 h.
+h
+,
+i
+, Size distribution of the as-synthesized CeO
+x
+nanoclusters along two perpendicular directions.
+Extended Data Fig. 2 Characterizations of CeO
+x
+/SiO
+2
+, CeO
+2
+NPs/SiO
+2
+and CeO
+2
+.
+a
+, XRD pattern of 12 wt% CeO
+2
+NPs/SiO
+2
+synthesized by impregnation method.
+b
+,
+c
+, HAADF images of 12 wt% CeO
+2
+NPs/SiO
+2
+in separate regions. The inset to
+b
+shows a photograph of the as-synthesized CeO
+2
+NPs/SiO
+2
+powders.
+d
+, Size distribution of CeO
+2
+NPs in CeO
+2
+NPs/SiO
+2
+from HAADF images.
+e
+,
+f
+, HAADF images of pure CeO
+2
+powders, which were fabricated by precipitation and calcination.
+g
+, Normalized Raman spectra of the as-synthesized CeO
+x
+/SiO
+2
+and pure CeO
+2
+.
+h
+, High-resolution HAADF images of, and intensity linescans across, a crystalline CeO
+x
+nanocluster and a CeO
+2
+nanoparticle.
+i
+, Ce 3
+d
+XPS data obtained for the 12 wt% CeO
+2
+NPs/SiO
+2
+. Circles and black lines represent the data and the fit, respectively.
+j
+, H
+2
+-TPR profiles obtained on the CeO
+x
+/SiO
+2
+and pure CeO
+2
+. TCD, thermal conductivity detector.
+k
+, XRD patterns of CeO
+x
+/SiO
+2
+support after various treatments. Treatment conditions: black, calcined in air at 600 °C for 12 h; red, reduced in H
+2
+at 600 °C for 24 h; blue, re-calcined in air at 600 °C for 12 h after reduction; and orange, calcined in air at 800 °C for 4 h. Prolonged H
+2
+reduction at 600 °C modified the crystallinity of the CeO
+x
+nanoclusters, whereas re-calcination at 600 °C recovered the original structure of the CeO
+x
+nanoclusters.
+Source data
+Extended Data Fig. 3 Characterization of Pt/CeO
+x
+/SiO
+2
+.
+a
+, ICP-MS measurements of Pt concentrations in the final catalysts.
+b
+, BET surface areas of various supports and the 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst. The BET surface area of the SiO
+2
+support did not change significantly after deposition of CeO
+x
+and Pt.
+c
+, Estimate of Pt loading levels (relative to the CeO
+x
+nanoclusters) in the CeO
+x
+/SiO
+2
+.
+d
+, Estimated specific surface area of CeO
+x
+in CeO
+x
+/SiO
+2
+and CeO
+2
+in CeO
+2
+NPs/SiO
+2
+, and number density of Pt atoms on CeO
+x
+(CeO
+2
+) component.
+e
+, Plots of attainable wt% Pt loading (with respect to SiO
+2
+) versus the specific surface area of SiO
+2
+for various sizes of CeO
+x
+nanoclusters and the distance between them, assuming that each CeO
+x
+nanocluster hosts only one Pt atom.
+D
+, average size (diameter) of CeO
+x
+nanoclusters;
+L
+, average distance between the edges of CeO
+x
+nanoclusters. Experimental parameters characterizing the 0.4 wt% Pt/CeO
+x
+/SiO
+2
+were used for the plot (red).
+f
+, Plots of attainable wt% Pt loading (with respect to SiO
+2
+) versus specific surface area of SiO
+2
+for CeO
+x
+nanoclusters (
+D
+= 2 nm,
+L
+= 9 nm) reported in this work.
+N
+, number of Pt atoms on each CeO
+x
+nanocluster. The red, black and blue lines represent 1, 2 and 5 Pt atoms, respectively, on each CeO
+x
+nanocluster.
+g
+,
+h
+,
+i
+, XPS data characterizing the as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst.
+Source data
+Extended Data Fig. 4 Nature of Pt species in Pt/CeO
+x
+/SiO
+2
+catalyst.
+a
+,
+b
+,
+c
+, HAADF images of the as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst.
+d
+, HAADF image of a high-loading Pt/CeO
+x
+/SiO
+2
+catalyst, which was fabricated by impregnation and reduced in H
+2
+at 300 °C for 1 h, shows presence of small Pt clusters.
+e
+–
+j
+, EXAFS results characterizing the as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+.
+e
+,
+k
+1
+-weighted experimental EXAFS function (black solid line) and the sum of the calculated Pt–O, Pt–O
+long
+and Pt–O–Ce contributions (red dashed line).
+f
+, Imaginary part and the magnitude of Fourier transform (
+k
+1
+-weighted) of the experimental EXAFS results (black solid line) and sum of the calculated Pt–O, Pt–O
+long
+and Pt–O–Ce contributions (red dashed line).
+g
+–
+i
+, Imaginary part and magnitude of Fourier transform (phase- and amplitude-corrected) of the experimental results (black solid line) and the calculated contributions (red dashed line) of the Pt–O shell (
+k
+1
+-weighted) (
+g
+), the Pt–O
+long
+shell (
+k
+1
+-weighted) (
+h
+), and the Pt–O–Ce shell (
+k
+3
+-weighted) (
+i
+).
+j
+, Summary of the EXAFS parameters. CN, coordination number;
+R
+, distance between absorber and backscatterer atoms; Δ
+σ
+2
+, disorder term; Δ
+E
+0
+, inner potential correction. Error bounds (accuracies) characterizing the structural parameters obtained by EXAFS spectroscopy are estimated to be CN, ±10%;
+R
+, ±0.02 Å; Δ
+σ
+2
+, ±20%; Δ
+E
+0
+, ±20%.
+Source data
+Extended Data Fig. 5 Changes of Pt atoms on SiO
+2
+or CeO
+2
+supports under various treatment conditions.
+a
+,
+b
+, Single Pt atoms (yellow circles) and small Pt clusters (yellow squares) were present in the as-synthesized Pt/SiO
+2
+(synthesized by the SEA method using Pt(NH
+3
+)
+4
+2+
+ions in alkaline solution).
+c
+,
+d
+, After H
+2
+reduction of the as-synthesized Pt/SiO
+2
+at 300 °C for 1 h, Pt sintered to form various sizes of nanoparticles (
+c
+) although some small Pt clusters were observable (
+d
+).
+e
+,
+f
+, After calcination of the as-synthesized Pt/SiO
+2
+at 500 °C for 1 h, larger Pt agglomerates (
+e
+) and many Pt nanoparticles (
+e
+,
+f
+) were formed.
+g
+,
+h
+, Atomic-resolution HAADF images of a 0.3 wt% Pt/CeO
+2
+catalyst prepared by the SEA method. The Pt single atoms (yellow circles) on flat facets of CeO
+2
+nanoparticles are clearly distinguishable.
+i
+,
+j
+, HAADF images of a 0.3 wt% Pt/CeO
+2
+after reduction treatment (10 ml min
+−1
+of H
+2
+/He at 300 °C for 1 h), clearly reveal formation of small Pt nanoparticles. During the H
+2
+-activation process, Pt atoms became mobile on CeO
+2
+surfaces and sintered to form Pt clusters/nanoparticles (yellow squares).
+k
+, CO-DRIFTS spectrum of the reduced 0.3 wt% Pt/CeO
+2
+indicates presence of Pt clusters/nanoparticles.
+Source data
+Extended Data Fig. 6 Design and characterization of model catalysts.
+a
+, CO-DRIFTS spectra of 0.3 wt% Pt/SiO
+2
+, 4 wt% Cu/SiO
+2
+, and Cu-Pt/SiO
+2
+.
+b
+, TEM image of the reduced Cu-Pt/SiO
+2
+catalyst.
+c
+, HAADF image of Cu nanoparticles in reduced Cu-Pt/SiO
+2
+, revealing Pt single atoms/clusters on/within Cu nanoparticles.
+d
+, Schematic diagram showing synthesis and formation of Pt-Cu species in Cu[(Pt/SiO
+2
+)@SiO
+2
+] sample. Platinum atoms migrated through the porous SiO
+2
+shell to interact with Cu nanoparticles.
+e
+, TEM image of (CeO
+2
+/SiO
+2
+)@SiO
+2
+shows the CeO
+2
+nanoparticles as markers between the SiO
+2
+core and the coated porous SiO
+2
+shell. The thickness of the porous SiO
+2
+shell was estimated to be ~10 nm.
+f
+, HAADF image of the Cu[(Pt/SiO
+2
+)@SiO
+2
+] catalyst.
+g
+, CO DRIFTS spectrum and
+h
+, HAADF image of Cu nanoparticles in the reduced Cu[(Pt/SiO
+2
+)@SiO
+2
+] catalyst (reduction conditions:10% H
+2
+, 400 °C for 3 h), clearly revealing Pt atoms on/within Cu nanoparticles.
+i
+, Schematic diagram showing synthesis and reduction processes of Cu[(Pt/CeO
+2
+)@SiO
+2
+] model catalyst.
+j
+, TEM images of Cu[(Pt/CeO
+2
+)@SiO
+2
+] and (Pt/CeO
+2
+)@SiO
+2
+(inset). The Pt and Cu loadings were 0.3 wt% and 2 wt%, respectively. The thickness of the porous SiO
+2
+shell was estimated to be ~6 nm. CO adsorption DRIFTS spectrum (
+k
+) and HAADF images (
+l
+) of Cu nanoparticles in the reduced Cu[(Pt/SiO
+2
+)@SiO
+2
+] catalyst (reduction conditions: 10% H
+2
+, 400 °C for 3 h) confirming the absence of Pt-Cu species.
+Source data
+Extended Data Fig. 7 Reduction of Pt/CeO
+x
+/SiO
+2
+catalysts and investigation of Pt
+x
+O
+y
+clusters.
+a
+, HAADF image of the 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+after 300 °C reduction in H
+2
+for 10 h shows the absence of detectable Pt clusters.
+b
+,
+c
+,
+d
+, CO adsorption DRIFTS spectra (recorded at 100 °C) characterize the reduced 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+(H
+2
+at 400 °C for 3 h, 500 °C for 1 h or 600 °C for 1 h, respectively).
+e
+, DFT-predicted CO adsorption modes on Pt single atoms supported on CeO
+x
+clusters.
+f
+–
+h
+, CO-DRIFTS spectra characterizing the Pt
+x
+O
+y
+/CeO
+x
+/SiO
+2
+sample at 100 °C (
+f
+), after cessation of O
+2
+flow (
+g
+) and reduced Pt
+x
+O
+y
+sample (10% H
+2
+/Ar, 300 °C, 1 h) (
+h
+), reveal transformation of the Pt
+x
+O
+y
+species into metallic Pt clusters (2075 cm
+−1
+).
+i
+, Ce 3
+d
+XPS data characterizing the 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+after reduction in 10% H
+2
+at 500 °C for 1 h. The percentage of Ce
+3+
+was ~49% and no metallic Ce was observed.
+j
+, CO adsorption DRIFTS spectrum characterizing the 0.02 wt% Pt/CeO
+2
+powder after reduction in H
+2
+at 400 °C for 1 h.
+k
+–
+p
+, EXAFS results characterizing Pt
+x
+O
+y
+supported on CeO
+x
+/SiO
+2
+.
+k
+,
+k
+1
+-weighted experimental EXAFS function (black solid line) and the sum of the calculated Pt–O, Pt–O–Pt, and Pt–O–Ce contributions (red dashed line).
+l
+, Imaginary part and magnitude of Fourier transform (
+k
+1
+-weighted) of the EXAFS data (black solid line) and sum of the calculated Pt–O, Pt–O–Pt, and Pt–O–Ce contributions (red dashed line).
+m
+–
+o
+, Imaginary part and magnitude of Fourier transform (phase- and amplitude-corrected) of the experimental results (black solid line) and the calculated contribution (fit; red dashed line) of the Pt–O shell (
+k
+1
+-weighted) (
+m
+), the Pt–O–Pt shell (
+k
+3
+-weighted) (
+n
+), and the Pt–O–Ce shell (
+k
+3
+-weighted) (
+o
+).
+p
+, Summary of the EXAFS parameters. CN, coordination number;
+R
+, distance between absorber and backscatterer atoms; Δ
+σ
+2
+, disorder term; Δ
+E
+0
+, inner potential correction. Error bounds (accuracies) characterizing the structural parameters obtained by EXAFS spectroscopy are as stated in legend of Extended Data Fig.
+4
+.
+Source data
+Extended Data Fig. 8 Pt clusters on CeO
+2
+NPs/SiO
+2
+and CeO
+x
+/SiO
+2
+.
+a
+,
+b
+,
+c
+, HAADF images of the reduced 0.4 wt% Pt/CeO
+2
+NPs/SiO
+2
+(treated in H
+2
+at 300 °C for 1 h) show Pt clusters. Images
+a
+and
+b
+were obtained from the same region with different electron beam defocus value.
+d
+, Comparison of CO-DRIFTS spectra characterizing the as-synthesized 0.4 wt% Pt/CeO
+2
+NPs/SiO
+2
+and CeO
+2
+NPs/SiO
+2
+. The CeO
+2
+NPs and SiO
+2
+support did not adsorb CO, and only the two CO gas-phase peaks were observed.
+e
+, CO-DRIFTS spectra characterizing the reduced (reduction in H
+2
+at 300 °C for 1 h) 0.4 wt% Pt/CeO
+2
+NPs/SiO
+2
+. The peak at 2,086 cm
+−1
+is assigned to CO adsorbed on Pt nanoclusters/nanoparticles.
+f
+, Schematic diagrams illustrate sintering of Pt atoms on CeO
+2
+NPs under conditions of H
+2
+activation treatment; Ce, O, Pt atoms and SiO
+2
+support are shown in yellow, blue, red and grey, respectively.
+g
+, CO-DRIFTS spectra characterizing the 4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst after reduction in H
+2
+at 300 °C for 3 h.
+h
+,
+i
+, HAADF images of the 4 wt% Pt/CeO
+x
+/SiO
+2
+after reduction in H
+2
+at 400 °C for 5 h and 500 °C for 12 h, respectively.
+j
+, Schematic diagrams illustrate movement of Pt atoms on each individual CeO
+x
+nanoclusters during the H
+2
+activation process; Ce, O, Pt and SiO
+2
+support are shown in yellow, blue, red and grey, respectively.
+Source data
+Extended Data Fig. 9 Characterization and CO oxidation performance of the as-synthesized and activated catalysts.
+a
+,
+b
+, CO oxidation catalysis: light-off curves characterizing 0.3 wt% Pt/CeO
+2
+(5 mg of catalyst mixed with 25 mg of SiO
+2
+) (
+a
+) and 0.4 wt% Pt/CeO
+2
+NPs/SiO
+2
+(30 mg) (
+b
+). Activation conditions: H
+2
+at 300 °C for 1 h.
+c
+, Light-off curves of 4 wt% Pt/CeO
+x
+/SiO
+2
+(3 mg of catalyst mixed with 27 mg of SiO
+2
+; pretreated in H
+2
+at 400 °C for 3 h to form Pt clusters).
+d
+–
+g
+, CO oxidation light-off data and CO-DRIFTS spectra characterizing 0.4 wt% Pt/CeO
+x
+/SiO
+2
+(IMP) (
+d
+,
+e
+) and Pt/SiO
+2
+(IMP) catalyst (
+f
+,
+g
+).
+h
+, Light-off temperatures
+T
+50
+(50% CO conversion) of various catalysts: as-synthesized 0.4 wt% Pt/CeO
+x
+/SiO
+2
+(A), activated 0.4 wt% Pt/CeO
+x
+/SiO
+2
+(B), activated Pt/CeO
+2
+(C), activated Pt/CeO
+2
+NPs/SiO
+2
+(D), activated 4 wt% Pt/CeO
+x
+/SiO
+2
+(E), activated Pt/CeO
+x
+/SiO
+2
+by impregnation (F) and activated Pt/SiO
+2
+by impregnation (G).
+i
+, In situ Pt L
+III
+XANES spectra of 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst during activation in 10% H
+2
+/He.
+j
+, Ex situ Pt L
+III
+XANES spectra collected at room temperature characterizing the 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst before/after reduction at 300 °C for 1 h; data characterizing Pt foil are included for comparison.
+k
+–
+o
+, EXAFS results characterizing the activated 0.4 wt% Pt/CeO
+x
+/SiO
+2
+catalyst.
+k
+,
+k
+1
+-weighted experimental EXAFS function (black solid line) and the sum of the calculated Pt–O, Pt–O
+long
+and Pt–O–Ce contributions (red dashed line).
+l
+, Imaginary part and the magnitude of Fourier transform (
+k
+1
+-weighted) of the experimental EXAFS results (black solid line) and sum of the calculated Pt–O, Pt–O
+long
+and Pt–O–Ce contributions (red dashed line).
+m
+–
+o
+, Imaginary part and magnitude of Fourier transform (phase- and amplitude-corrected) of the data (black solid line) and the calculated contribution (red dashed line) of the Pt–O shell (
+k
+1
+-weighted) (
+m
+), the Pt–O
+long
+shell (
+k
+1
+-weighted) (
+n
+), and the Pt–O–Ce shell (
+k
+3
+-weighted) (
+o
+).
+p
+, Summary of the EXAFS parameters. CN, coordination number;
+R
+, distance between absorber and backscatterer atoms; Δ
+σ
+2
+, disorder term; Δ
+E
+0
+, inner potential correction.
+q
+, Apparent activation energy (
+E
+a
+) for CO oxidation characterizing the as-synthesized and reduced 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+.
+r
+, Long-term stability test of the activated 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+at a reaction temperature of 140 °C.
+s
+, HAADF image of the 0.4 wt% Pt
+1
+/CeO
+x
+/SiO
+2
+after stability test.
+t
+, Long-term stability test of the activated 0.3 wt% Pt/CeO
+2
+at 140 °C.
+Source data
+Extended Data Fig. 10 CO-DRIFTS investigation of Pd and Rh atoms supported on CeO
+x
+/SiO
+2
+and on CeO
+2
+.
+a
+, As-synthesized 1.4 wt% Pd/CeO
+x
+/SiO
+2
+and
+b
+, 0.4 wt% Pd/CeO
+2
+.
+c
+, Reduced Pd/CeO
+x
+/SiO
+2
+and
+d
+, reduced Pd/CeO
+2
+. CO adsorption temperature, 25 °C.
+e
+,
+f
+, CO-DRIFTS of reduced 0.6 wt% Rh/CeO
+x
+/SiO
+2
+(
+e
+) and 0.3 wt% Rh/CeO
+2
+(
+f
+). Reduction conditions: 20 ml min
+−1
+of 10% H
+2
+at 400 °C for 1 h. The loadings of Pd and of Rh are reported with respect to the CeO
+x
+species.
+Source data
+Source data
+Source Data Fig. 2
+Source Data Fig. 3
+Source Data Fig. 4
+Source Data Extended Data Fig. 2
+Source Data Extended Data Fig. 3
+Source Data Extended Data Fig. 4
+Source Data Extended Data Fig. 5
+Source Data Extended Data Fig. 6
+Source Data Extended Data Fig. 7
+Source Data Extended Data Fig. 8
+Source Data Extended Data Fig. 9
+Source Data Extended Data Fig. 10
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Li, X., Pereira-Hernández, X.I., Chen, Y.
+et al.
+Functional CeO
+x
+nanoglues for robust atomically dispersed catalysts.
+Nature
+611
+, 284–288 (2022). https://doi.org/10.1038/s41586-022-05251-6
+Download citation
+Received
+:
+09 June 2021
+Accepted
+:
+18 August 2022
+Published
+:
+26 October 2022
+Issue Date
+:
+10 November 2022
+DOI
+:
+https://doi.org/10.1038/s41586-022-05251-6
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Nanoglues isolate metal atoms for better catalysis
+Nature
+Research Briefing
+26 Oct 2022
+Advertisement
+Explore content
+Research articles
+News
+Opinion
+Research Analysis
+Careers
+Books & Culture
+Podcasts
+Videos
+Current issue
+Browse issues
+Collections
+Subjects
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Journal Staff
+About the Editors
+Journal Information
+Our publishing models
+Editorial Values Statement
+Journal Metrics
+Awards
+Contact
+Editorial policies
+History of Nature
+Send a news tip
+Publish with us
+For Authors
+For Referees
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature
+(
+Nature
+)
+ISSN
+1476-4687
+(online)
+ISSN
+0028-0836
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

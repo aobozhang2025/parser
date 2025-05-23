@@ -1,0 +1,233 @@
+Methods
+Synthesis
+The materials used for the synthesis of the catalysts are listed in Supplementary Section
+1
+. The Ga
+2
+O
+3
+/Al
+2
+O
+3
+, Ga
+2
+O
+3
+–Ir/Al
+2
+O
+3
+and Ga
+2
+O
+3
+–Ir–K/Al
+2
+O
+3
+catalysts were prepared by an incipient wetness impregnation method. Using Ga
+2
+O
+3
+–Ir–K/Al
+2
+O
+3
+as an example, Ga(NO
+3
+)
+3
+·9H
+2
+O, IrCl
+3
+·3H
+2
+O and KNO
+3
+were used as precursors and dissolved in deionized water. A γ-Al
+2
+O
+3
+support was impregnated with this solution at room temperature for 12 h, followed by drying at 100 °C overnight and calcination at 600 °C for 4 h. The Ga, Ir and K loadings were
+∼
+3,
+∼
+0.05 and
+∼
+0.25 wt%, respectively. A commercial CrO
+x
+–K/Al
+2
+O
+3
+catalyst was synthesized according to the Fridman method
+52
+. Briefly, the desired amounts of CrO
+3
+and KOH were separately dissolved in water. Then, the two solutions were mixed. Afterwards, γ-Al
+2
+O
+3
+was added to the mixture. The catalyst was collected after drying and calcination at 760 °C for 4 h. The Cr and K loadings were
+∼
+19.8 and
+∼
+0.98 wt%, respectively. The loadings of M (M = Ga, Cr) were determined by inductively coupled plasma optical emission spectroscopy (ICP-OES), based on the weight ratio of M to Al
+2
+O
+3
+.
+Catalytic testing
+The catalysts were tested in a quartz fixed-bed reactor (8 mm inner diameter and 24 cm length) under atmospheric pressure. A mixture (1 ml) of 30–200 mg catalyst and quartz sand (20–40 mesh size) was loaded into the tubular quartz reactor. The catalysts were first heated to 600 °C at a rate of 10 °C min
+−1
+in N
+2
+(50 ml min
+−1
+). Afterwards, a mixture of C
+3
+H
+8
+, H
+2
+and N
+2
+was fed into the reactor at a flow rate of 50 ml min
+−1
+. The inlet concentrations of C
+3
+H
+8
+and/or H
+2
+were varied from 0 to 40 vol% by changing the flow rate of C
+3
+H
+8
+, H
+2
+and N
+2
+while keeping the total flow rate constant. For the pre-reduction, after heating to 600 °C, the catalysts were treated in 42 vol% H
+2
+/N
+2
+(50 ml min
+−1
+) for 1 h and then purged in N
+2
+(50 ml min
+−1
+) for another 1 h. The gas products were analysed in an online gas chromatograph (GC-2060, Shanghai Ruimin Instrument Co. Ltd.) equipped with a flame ionization detector (Al
+2
+O
+3
+plot column) and a thermal conductivity detector (TDX-01 column). The conversion of C
+3
+H
+8
+(
+X
+(C
+3
+H
+8
+)), selectivity for C
+3
+H
+6
+, CH
+4
+, C
+2
+H
+6
+, C
+2
+H
+4
+(
+S
+(
+i
+)) and coke (
+S
+(coke)), and C
+3
+H
+6
+formation rate (
+r
+(C
+3
+H
+6
+)) were calculated using equations (
+1
+)–(
+4
+), respectively:
+$$X\left({\text{C}}_{3}{\text{H}}_{8}\right)=\frac{F_i^{\;\text{in}}-F_i^{\;\text{out}}}{F_i^{\;\text{in}}}$$
+(1)
+$$S\left(i\right)=\frac{n_i}{n_{{\text{C}}_{3}{\text{H}}_{8}}}\frac{F_i^{\;\text{out}}}{F_{{\text{C}}_{3}{\text{H}}_{8}}^{\;\text{in}}-F_{{\text{C}}_{3}{\text{H}}_{8}}^{\;\text{out}}}$$
+(2)
+$$S\left(\text{coke}\right)=1-{\sum }_iS(i)$$
+(3)
+$$r\left({\text{C}}_{3}{\text{H}}_{6}\right)=\frac{F_{{\text{C}}_{3}{\text{H}}_{6}}^{\;\text{out}}}{m_{\text{cat}}}$$
+(4)
+where
+\({F}_{i}^{\;{\rm{in}}}\)
+and
+\({F}_{i}^{\;{\rm{out}}}\)
+are the rates of flow of gas-phase components at the reactor inlet and outlet (mmol min
+−1
+), respectively,
+m
+cat
+is the mass of the catalyst, and
+\(n_{\mathrm{C}_3\mathrm{H}_8}\)
+and
+n
+i
+are the numbers of carbon atoms in propane and the product
+i
+(CH
+4
+, C
+2
+H
+6
+, C
+2
+H
+4
+and C
+3
+H
+6
+), respectively. A first-order deactivation model was used to evaluate the catalyst stability:
+$${k}_{{\rm{d}}}=\frac{\mathrm{ln}\left(\frac{1-{X}_{{\rm{Final}}}}{{X}_{{\rm{Final}}}}\right)-\,\mathrm{ln}\left(\frac{1-{X}_{{\rm{Initial}}}}{{X}_{{\rm{Initial}}}}\right)}{\tau }$$
+(5)
+where
+X
+Initial
+and
+X
+Final
+are the conversions of C
+3
+H
+8
+measured in the initial and final stages of the reaction, respectively,
+τ
+is the reaction time (h) and
+k
+d
+is the deactivation rate constant (h
+−1
+). High
+k
+d
+values indicate rapid deactivation, that is, low stability.

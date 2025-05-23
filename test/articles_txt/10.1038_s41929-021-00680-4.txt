@@ -1,0 +1,2006 @@
+Engineering catalyst supports to stabilize PdOx two-dimensional rafts for water-tolerant methane oxidation | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Engineering catalyst supports to stabilize PdO
+x
+two-dimensional rafts for water-tolerant methane oxidation
+Download PDF
+Article
+Published:
+18 October 2021
+Engineering catalyst supports to stabilize PdO
+x
+two-dimensional rafts for water-tolerant methane oxidation
+Haifeng Xiong
+ORCID:
+orcid.org/0000-0002-3964-4677
+1
+na1
+,
+Deepak Kunwar
+2
+na1
+,
+Dong Jiang
+ORCID:
+orcid.org/0000-0003-0444-7865
+3
+na1
+,
+Carlos E. García-Vargas
+ORCID:
+orcid.org/0000-0001-7486-9604
+3
+,
+Hengyu Li
+1
+,
+Congcong Du
+1
+,
+Griffin Canning
+2
+,
+Xavier Isidro Pereira-Hernandez
+ORCID:
+orcid.org/0000-0002-7020-0011
+3
+,
+Qiang Wan
+4
+,
+Sen Lin
+ORCID:
+orcid.org/0000-0002-2288-5415
+4
+,
+Stephen C. Purdy
+ORCID:
+orcid.org/0000-0002-9870-1029
+5
+,
+Jeffrey T. Miller
+5
+,
+Kevin Leung
+6
+,
+Stanley S. Chou
+ORCID:
+orcid.org/0000-0003-3655-6185
+6
+,
+Hidde H. Brongersma
+7
+,
+Rik ter Veen
+ORCID:
+orcid.org/0000-0002-2850-8637
+8
+,
+Jianyu Huang
+9
+,
+Hua Guo
+ORCID:
+orcid.org/0000-0001-9901-053X
+10
+,
+Yong Wang
+3
+,
+11
+&
+…
+Abhaya K. Datye
+ORCID:
+orcid.org/0000-0002-7126-8659
+2
+Show authors
+Nature Catalysis
+volume
+4
+,
+pages
+830–839 (
+2021
+)
+Cite this article
+11k
+Accesses
+67
+Altmetric
+Metrics
+details
+Subjects
+Catalyst synthesis
+Density functional theory
+Heterogeneous catalysis
+Nanoparticles
+Abstract
+The treatment of emissions from natural gas engines is an important area of research since methane is a potent greenhouse gas. The benchmark catalysts, based on Pd, still face challenges such as water poisoning and long-term stability. Here we report an approach for catalyst synthesis that relies on the trapping of metal single atoms on the support surface, in thermally stable form, to modify the nature of further deposited metal/metal oxide. By anchoring Pt ions on a catalyst support we can tailor the morphology of the deposited phase. In particular, two-dimensional (2D) rafts of PdO
+x
+are formed, resulting in higher reaction rates and improved water tolerance during methane oxidation. The results show that modifying the support by trapping single atoms could provide an important addition to the toolkit of catalyst designers for controlling the nucleation and growth of metal and metal oxide clusters in heterogeneous catalysts.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Robust palladium oxide nano-cluster catalysts using atomic ions and strong interactions for high-performance methane oxidation
+Article
+Open access
+27 September 2024
+Germanium-enriched double-four-membered-ring units inducing zeolite-confined subnanometric Pt clusters for efficient propane dehydrogenation
+Article
+12 June 2023
+A stable low-temperature H
+2
+-production catalyst by crowding Pt on α-MoC
+Article
+20 January 2021
+Main
+The control over the size, morphology and oxidation state of clusters and nanoparticles is important for achieving optimum performance in heterogeneous catalysis. There are limited means available for catalyst designers to influence the nature of the active phase, especially when the catalysts are subjected to elevated temperatures. The widely used approaches for industrial catalysts involve adsorption of the metal salt precursor on an oxide support
+1
+, via the methods of deposition-precipitation or strong electrostatic adsorption (SEA)
+2
+. Using these approaches, it is possible to achieve atomic dispersion of the deposited metal on a number of catalyst supports
+3
+,
+4
+,
+5
+,
+6
+,
+7
+. The interaction between the metal salt precursor and the functional groups on the surface (for example, hydroxyls) determines the surface concentration of the dispersed phase. The nature and morphology of the dispersed phase depend on the surface structure of the oxide support
+8
+,
+9
+, which can be manipulated by using faceted oxides as supports, or by introducing ligands on the support
+10
+. By precalcining the support, the number of hydroxyls on the support can be changed, which allows some control over the metal deposition. However, once the catalyst is treated at high temperatures (>300 °C), the mobility of the deposited metal leads to formation of thermodynamically stable structures, where the influence of the initial preparation steps is lost. Therefore, alternative approaches must be explored to generate a catalyst suitable for high temperature applications such as methane oxidation.
+Methane combustion catalysis is becoming increasingly important to address the emission of unburned methane associated with the widespread use of natural gas as a clean fuel for vehicles and for power generation. Pd-based catalysts show the highest activity for methane oxidation. However, they suffer from insufficient low-temperature performance, rapid deactivation due to the presence of H
+2
+O and sintering of the Pd phase
+11
+,
+12
+. Because of the excess O
+2
+present in the reactant stream, the stable phase of Pd under reaction is PdO. The sintering of Pd catalysts under steam is ascribed to the formation and migration of mobile Pd-OH entities in the presence of H
+2
+O molecules
+13
+, which are strongly adsorbed on the PdO surface. The binding of H
+2
+O to the PdO also causes poisoning of the surface sites for methane oxidation
+14
+,
+15
+. Such surface poisoning by steam is confirmed by the fact that the surface coverage of CH
+4
+in the presence of water vapour is limited to only 3% of the saturation coverage of a pure CH
+4
+layer on PdO (101)
+16
+. In our previous work, when Pd catalysts were reduced before reaction, we observed enhanced low-temperature reactivity
+17
+. Similar enhanced reactivity due to prereduction of Pd catalysts (also termed in situ activation) has been reported by other workers
+18
+,
+19
+. We attribute this higher reactivity to a different form of surface Pd oxide formed on the surface of the reduced Pd catalyst (in contrast to bulk PdO). This is consistent with density functional theory (DFT) calculations, which show that a surface oxide is more active than bulk PdO nanoparticles
+20
+,
+21
+. However, when Pd-based catalysts are used for methane combustion, the metal Pd nanoparticle transforms to PdO, leading to decreased catalytic activity
+22
+. A well-known approach for improving the stability and reactivity of Pd-based catalysts is to add Pt, which stabilizes the Pd phase in a metallic state by forming bimetallic PtPd even under oxidizing conditions, leading to enhanced resistance to adsorption of water molecules. However, the bimetallic Pt–Pd catalysts are not as resistant to sintering as PdO catalysts, showing the formation of large alloy Pt–Pd particles (>20 nm) and declined catalytic reactivity
+17
+,
+23
+. Therefore, there is an urgent need to develop strategies of forming an active Pd phase that is resistant to H
+2
+O poisoning and to catalyst sintering
+24
+.
+In this work, we have modified the catalyst support via strongly bound Pt single atoms (atom trapping
+25
+,
+26
+,
+27
+, high temperature vapour phase synthesis), to control the nature of the metal and metal oxide phase. The trapped Pt atoms on the ceria support therefore modify the nucleation and morphology of the secondary dispersed phase. We show that a 2D morphology of the PdO
+x
+phase synthesized with this approach is thermally stable and resistant to water poisoning, showing increased reactivity in methane oxidation. The catalysts prepared thus overcome the disadvantages of large PdO particles that are readily poisoned by water, leading to decreased activity, or single atom Pd on the support that is less active for methane oxidation
+28
+. The light-off methane oxidation in this work was carried out up to 650 °C and the steady state reaction was performed at 500 °C, which is preferred in exhaust catalysis to meet future emission regulations, especially for natural gas vehicles (NGVs) where the exhaust temperature is typically below 500–550 °C (ref.
+29
+).
+Results
+Engineering of the catalyst support via atom trapping
+In this work, we first modified the ceria with atomically dispersed Pt to prepare the catalyst support (Fig.
+1a
+). This involves deposition of a Pt precursor (1 wt.% Pt) on the ceria support, then heating to 800 °C in air for 10 h. Since the Pt is present in an atomically dispersed form, we will refer to this support as 1Pt@CeO
+2
+(Fig.
+1b
+). Next, we deposited additional 2 wt.% Pt on this engineered ceria support. We found that the added Pt does not form atomically dispersed species as is typically seen on ceria supports
+30
+,
+31
+(Fig.
+1c,d
+and Supplementary Fig.
+1
+). It appears that the initial high temperature treatment has eliminated the sites on which atomically dispersed Pt would reside. Instead we see the formation of 2D rafts as shown in Fig.
+1c,d
+and Supplementary Fig.
+1
+(labelled with both boxes and arrows), as revealed by the uniform contrast of the domains from centre to edge. The edge-on views confirm the 2D nature of the deposited Pt and the top-down views show the size of the Pt domains to be roughly 1 nm. The extended X-ray absorption fine structure (EXAFS) measurements of this catalyst (Supplementary Fig.
+2
+and Supplementary Table
+2
+) confirm that this catalyst contains oxidized Pt but has no Pt–Pt neighbours, that is, no Pt metal clusters. This catalyst (which is termed 2Pt/1Pt@CeO
+2
+) contains Pt rafts instead of three-dimensional (3D) metal or oxide clusters.
+Fig. 1: Scanning transmission electron microscope images of 2D rafts of Pt on Pt@CeO
+2
+.
+a
+, Schematic illustration showing the morphologies of Pt catalysts supported on ceria prepared by depositing Pt on a Pt-trapped ceria. The Pt atoms were labelled with different colours for the purpose of emphasizing the two steps in preparation.
+b
+, AC–STEM image of 1 wt.%Pt@CeO
+2
+prepared by atom trapping showing atomically dispersed Pt indicated by white dots. Scale bar, 5 nm.
+c
+,
+d
+, AC–STEM images of the catalyst prepared by depositing 2 wt.% Pt on atom-trapped 1 wt.% Pt@CeO
+2
+showing edge-on views (
+c
+) and a combination of edge-on and top-down views (
+d
+) of this sample. Scale bars, 1 nm (
+c
+) and 2 nm (
+d
+). Edge-on views (
+c
+,
+d
+) indicated by rectangles show that Pt forms 2D rafts that are approximately 1.5 nm in diameter as seen in top-down views indicated by arrows in
+d
+. The uniform contrast of the particles in
+d
+confirms that these are not three-dimensional nanoparticles, which is a result of the modification of the catalyst support via atom trapping.
+Full size image
+The CO oxidation reactivity for this 2Pt/1Pt@CeO
+2
+catalyst (containing a total of 3 wt.% Pt) is considerably greater than a 3Pt@CeO
+2
+prepared via atom trapping (Fig.
+2
+). We found that the reaction rate of 2Pt/1Pt@CeO
+2
+catalyst is 103.5 μmol CO g
+Pt
+−1
+s
+−1
+at 80 °C (CO conversion <5%), as opposed to the reaction rate of 10.9 μmol CO g
+Pt
+−1
+s
+−1
+on the 3Pt@CeO
+2
+single atom catalyst. This is in agreement with a recent study showing that clusters of Pt oxide (for example, Pt
+8
+O
+14
+containing Pt–O-Pt sites) are more active in CO oxidation
+32
+than single atom Pt. We should note that even higher CO oxidation reactivity can be achieved by reducing Pt/CeO
+2
+catalysts
+31
+, but our focus here is on the oxidized state of the catalyst that is encountered during lean methane oxidation. Under the lean conditions (excess oxygen), the CO oxidation reactivity is reproducible over multiple runs. Low-energy ion scattering (LEIS) (Fig.
+2a
+and Supplementary Table
+3
+), which is surface sensitive, shows that the measured Pt concentration on the 2Pt/1Pt@CeO
+2
+catalyst (1.8 atoms per nm
+2
+) exceeds the expected surface concentration (roughly 1.2 atoms per nm
+2
+) calculated on the basis of the Pt content and the Brunauer–Emmett–Teller (BET) surface area (Supplementary Table
+1
+). In our previous work on atom-trapped Pt/CeO
+2
+we reported the upper limit of Pt surface concentration in single atom catalysts on this same ceria support to be roughly 1 atom per nm
+2
+(ref.
+30
+). These results should be put in context with the surface concentration of Ce on the CeO
+2
+(111) facet that is 7.9 atoms per nm
+2
+(ref.
+33
+) and the Pt surface concentration in an oxidized Pt foil that is 9.0 atoms per nm
+2
+(Supplementary Table
+3
+). Therefore, the observed surface concentration for 2D Pt rafts of 1.8 atoms per nm
+2
+exceeds that expected from atomically dispersed Pt and is consistent with the presence of Pt rafts on ceria (111) surface facets, with a preferred orientation due to prominent (111) facets leading to more prominent exposure of Pt as seen via aberration-corrected scanning transmission electron microscopy (AC–STEM) (Fig.
+1c,d
+).
+Fig. 2: CO oxidation reactivity and energetics of Pt 2D rafts deposited on the engineered catalyst support.
+a
+, LEIS spectra of atomically dispersed 1Pt@CeO
+2
+and 2Pt/1Pt@CeO
+2
+, the latter sample contains 2D rafts of Pt as shown in Fig.
+1
+.
+b
+, The CO oxidation reactivity confirms that the altered morphology of the Pt leads to enhanced CO oxidation reactivity. The 2D Pt rafts (2Pt/1Pt@CeO
+2
+) are more active than the atom-trapped catalyst 3Pt@CeO
+2
+. These two catalysts contain the same amount of Pt, the differences in reactivity can be attributed to different interaction with the support.
+c
+, The results of DFT computations showing the binding energies of Pt single atoms and a Pt 2D raft joined to the single atom on a CeO
+2
+step edge, demonstrating the preferential formation of Pt rafts with added Pt to the formation of Pt nanoparticles.
+Full size image
+These results show that by starting with a catalyst support containing 1 wt.% of strongly bound Pt single atoms, we cause the added 2 wt.% Pt to form 2D rafts. To investigate whether this 2D raft morphology was simply a result of the high temperature treatment of the ceria, we prepared a catalyst support by heating the ceria support to 800 °C (which we term presintered or PS ceria). As shown in Supplementary Fig.
+3
+, heating ceria (800 °C, 10 h) causes a modest loss in surface area of the support (Supplementary Fig.
+3d
+) also leading to well defined ceria (111) surface facets. When we deposited 3 wt.% Pt on the PS ceria and calcined the sample at 500 °C, we observed randomly oriented Pt in the form of 3D nanoparticles (Supplementary Fig.
+3c
+). Therefore, the formation of 2D rafts on 2Pt/1Pt@CeO
+2
+is very unusual and not simply a result of the high temperature treatment of the ceria support. Using the 1Pt@CeO
+2
+as a support modifies the nucleation of the deposited Pt forming 2D rafts instead of 3D nanoparticles that are seen on PS ceria. The facile formation of Pt 2D rafts and the superior reactivity of this catalyst compared to single atom Pt are consistent with the results from our DFT calculations (Supplementary Figs.
+4
+and
+5
+). Figure
+2c
+presents a summary of the results of DFT computations for the binding energies of Pt single atom on ceria step edges and Pt 2D rafts bound to the single atom located on the CeO
+2
+step edge compared with the cohesive energy of a Pt nanoparticle, demonstrating the preferential formation of Pt rafts rather than nanoparticles (Supplementary Table
+4
+). In summary, our results show that when the CeO
+2
+support is modified through the method of atom trapping, the strongly bound Pt single atoms act as templates and nucleation sites, helping the Pt that is subsequently deposited on this support to form 2D rafts, presenting superior CO reactivity compared to the Pt single atom catalyst on CeO
+2
+.
+Methane oxidation on Pd deposited on the engineered support
+Inspired by the above observations and results, we deposited Pd (1.09 wt.%) on the engineered ceria support prepared by atom trapping of Pt as described in the previous section. To achieve a 1:1 Pd:Pt molar ratio, we used a catalyst support containing a Pt loading of 2 wt.% prepared via atom trapping (800 °C in air for 10 h) using ceria prepared by decomposition of Ce(NO
+3
+)
+3
+, which we refer to as polyhedral ceria. The performance of this catalyst (1Pd/2Pt@CeO
+2
+, Pd:Pt atomic ratio of 1:1) was compared with other catalysts on the same ceria support, including the 2Pt@CeO
+2
+used to prepare 1Pd/2Pt@CeO
+2
+, 1Pd/CeO
+2
+and (1 Pd + 2Pt)/CeO
+2
+prepared by impregnation. The reactivity was measured in a fixed bed reactor using a gas mixture that resembles the effluent encountered in the exhaust of lean-burn NGVs (680 ppm CH
+4
+, 14 vol% O
+2
+, 5 vol% CO
+2
+balanced with N
+2
+with a total flow of 300 ml min
+−1
+). For some of the experiments, we added water vapour (4% and 10% H
+2
+O) to investigate the water tolerance of these catalysts. The light-off curves show that the 1Pd/2Pt@CeO
+2
+catalyst is more active than the oxidized 2Pt@CeO
+2
+and 1Pd/CeO
+2
+catalysts containing the same amount of the corresponding metal atoms under dry methane oxidation conditions (Fig.
+3a
+). The 1Pd/2Pt@CeO
+2
+catalyst also shows improved low-temperature reactivity compared to the reference (1Pd + 2Pt)/CeO
+2
+catalyst prepared using the same ceria support (twice as high at 350 °C). The reference catalyst involved a conventional preparation via impregnation and calcination at 500 °C in air, but without any high temperature (800 °C) treatment. It should be mentioned that the 1Pd/2Pt@CeO
+2
+catalyst is stable at higher reaction temperatures and there is no change for the catalyst from 500–650 °C, although the 1Pd/2Pt@CeO
+2
+catalyst was calcined at 500 °C and the light-off measurements of catalytic CH
+4
+combustion were performed up to 650 °C. Indeed, low-temperature methane oxidation is preferred in exhaust catalysis to meet future emission regulations
+34
+, especially for lean-burn NGVs where the exhaust temperature is typically below 500–550 °C (ref.
+29
+). We also investigated the reaction rate of the 1Pd/2Pt@CeO
+2
+and (1Pd + 2Pt)/CeO
+2
+catalysts in kinetic regime by controlling the methane conversion ˂10%. The 1Pd/2Pt@CeO
+2
+catalyst exhibits higher reaction rates with a lower activation energy than that of (1 Pd + 2Pt)/CeO
+2
+catalyst (Supplementary Fig.
+6
+and Supplementary Table
+5
+). At 300 °C, the reaction rate of the 1Pd/2Pt@CeO
+2
+catalyst (3.27 mmol CH
+4
+mol
+Pd
+−1
+s
+−1
+) is three times higher than that of (1Pd + 2Pt)/CeO
+2
+(0.91 mmol CH
+4
+mol
+Pd
+−1
+s
+−1
+) under the same reaction conditions.
+Fig. 3: Methane oxidation reactivity of Pd-based catalysts with and without added water vapour.
+a
+, Light-off curves of CH
+4
+oxidation under dry conditions over the 1Pd/2Pt@CeO
+2
+, (1Pd + 2Pt)/CeO
+2
+, 2Pt@CeO
+2
+and 1Pd/CeO
+2
+catalysts.
+b
+, Time-on-stream measurements for CH
+4
+oxidation at 500 °C under different steam concentrations over 1Pd/2Pt@CeO
+2
+catalyst.
+c
+, Light-off curves of CH
+4
+oxidation under dry conditions over the reduced 1Pd/2Pt@CeO
+2
+, 2Pt@CeO
+2
+and 1Pd/CeO
+2
+catalysts.
+d
+, Comparison of catalyst stability for the as-synthesized 1Pd/2Pt@CeO
+2
+and (1 Pd + 2Pt)/CeO
+2
+catalysts, reduced 2Pt@CeO
+2
+and reduced 1Pd/CeO
+2
+catalysts in CH
+4
+oxidation at 500 °C in 4% H
+2
+O showing the excellent water tolerance of 1Pd/2Pt@CeO
+2
+(the Pt@CeO
+2
+and Pd/CeO
+2
+catalysts were prereduced at 275 °C in CO to achieve a comparable initial activity).
+Source data
+Full size image
+To test the catalyst stability with and without added water vapour, methane oxidation was carried out at 375–500 °C. In the presence of 4%H
+2
+O, the 1Pd/2Pt@CeO
+2
+catalyst is very stable at low reaction temperatures (375 and 450 °C) and there is no observed deactivation during a long TOS (time on stream) run (Supplementary Fig.
+7
+). When the reaction was carried out at 500 °C in dry condition, the conversion of the catalyst was between 90 and 100% (Fig.
+3b,c
+). Compared to the reactivity of the catalyst under dry methane feed, the methane conversion of the 1Pd/2Pt@CeO
+2
+catalyst presents 3.8% reactivity loss in 4 v/v% water and 15.7% reactivity loss in 10 v/v% water, respectively, and the reactivity recovered completely after stopping water vapour flow (Fig.
+3b
+). However, the methane conversion loss of (1 Pd + 2Pt)/CeO
+2
+catalyst under the presence of 4 and 10% water is 23.2 and 44.3% (Fig.
+3b
+), respectively. This shows the improved water tolerance of 1Pd/2Pt@CeO
+2
+as compared to (1 Pd + 2Pt)/CeO
+2
+in methane oxidation (Fig.
+3b
+). Multiple runs of the 1Pd/2Pt@CeO
+2
+catalyst also demonstrate the reproducibility of the data at both dry and wet conditions (Supplementary Fig.
+8a,b
+). The light-off curves in the presence of varying amounts of water vapour (4 and 10%) for the 1Pd/2Pt@CeO
+2
+and (1Pd + 2Pt)/CeO
+2
+catalysts are shown in the Supplementary Fig.
+8c,d
+. The reactivity of both 1Pd/2Pt@CeO
+2
+and (1Pd + 2Pt)/CeO
+2
+catalysts was also tested in a kinetically controlled regime where methane conversion was less than 25% and in the presence of 4% water vapour (Supplementary Fig.
+8e
+). It was found that both catalysts were stable but the 1Pd/2Pt@CeO
+2
+was more active than the (1Pd + 2Pt)/CeO
+2
+catalyst, similar to the results observed at high conversions as reported earlier.
+While methane oxidation catalysts operate under lean conditions (excess oxygen), we have seen in previous work that reduction of the catalyst forming metallic particles, or periodic pulses under reducing conditions, lead to enhanced reactivity
+17
+,
+18
+,
+19
+. In previous work, we have found that CO reduction at 275 °C is sufficient to reduce single atom catalysts and achieve optimal CO oxidation reactivity
+31
+. Therefore, we tested the performance of these catalysts after CO reduction (Fig.
+3c
+). We see definite improvement in the light-off curve for the bimetallic as well as the monometallic reduced 2Pt@CeO
+2
+and 1Pd/CeO
+2
+catalysts (Fig.
+3c
+), but the bimetallic 1Pd/2Pt@CeO
+2
+catalyst performs better than monometallic Pt or Pd and is stable at high reaction temperatures (>550 °C). At these high conversions, the methane is consumed so the catalyst is being subjected to an oxidizing atmosphere, which shows the improved thermal stability of this catalyst. While the Pd-only catalyst shows similar stable performance under oxidizing conditions (since it forms PdO, which is known to be active at high temperatures), the Pt only catalyst suffers a loss in reactivity. We attribute this loss of activity to the oxidation of the Pt nanoclusters and also possible redispersion to form Pt single atoms under oxidizing conditions at elevated temperature (Fig.
+3c
+).
+While the reduced Pd and Pt catalysts show improved reactivity after reduction (Fig.
+3c
+), the performance of these catalysts cannot be sustained during methane oxidation and in the presence of water vapour (Fig.
+3d
+). These catalysts suffer a major loss in reactivity due to oxidation of the metal and poisoning by water vapour. In contrast, the 1Pd/2Pt@CeO
+2
+catalysts shows only a slight drop in the long-term run (12 h) at 500 °C (Fig.
+3d
+). This slight drop (roughly 1%) is probably caused by the large amount of water molecules produced in the reaction at the high conversion of this test. Furthermore, the (1 Pd + 2Pt)/CeO
+2
+catalyst prepared by impregnation shows observed deactivation in the 12 h run in the presence of 4% H
+2
+O (decreased from 79 to 73%). These results show that under the conditions of lean methane oxidation, the contribution from the starting single atom 2Pt@CeO
+2
+is negligible. Since the bimetallic catalyst 1Pd/2Pt@CeO
+2
+, (1Pd + 2Pt)/CeO
+2
+and the 1Pd/CeO
+2
+contain similar amounts of Pd, the enhanced performance of the 1Pd/2Pt@CeO
+2
+catalyst must be attributed to the morphology of the Pd phase presented on the 2Pt@CeO
+2
+support, which is what we describe next.
+The morphology of the 1Pd/2Pt@CeO
+2
+catalyst was studied via AC–STEM. Figure
+4a
+shows that the engineered catalyst support 2Pt@CeO
+2
+contains atomically dispersed Pt species on the ceria support (circles in Fig.
+4a
+), as also seen in both 1Pt@CeO
+2
+and 3Pt@CeO
+2
+reported in our previous study
+26
+,
+30
+. After depositing Pd on the 2Pt@CeO
+2
+material, as shown in Fig.
+4b–d
+, both single atoms and rafts with an average diameter of roughly 0.8 nm are present (Fig.
+4b–d
+and Supplementary Fig.
+9
+). We note that the single atoms seen in these images come from Pt and not Pd, because the contrast of single atom Pd on ceria is not sufficient to make them visible in AC–STEM images (atomic number of Pd is lower than that of Ce, 46 versus 58). Therefore, we can only detect the 2D rafts of Pd rather than Pd single atoms, and since the oxidation state cannot be inferred from this image, we will refer to them as Pd/PdO (PdO
+x
+). The high magnification STEM–EDS mapping (Supplementary Fig.
+9b
+) shows that both Pt and Pd are well dispersed on this catalyst and the homogeneous contrast in a domain indicates that the Pd/PdO domains are not 3D clusters, which would generally show a brighter centre. A schematic view of the morphology of the Pd/PdO on 2Pt@CeO
+2
+is shown in the inset of Fig.
+4c
+. The AC–STEM images (Fig.
+4b–d
+) and the similarity in the image contrast of these Pd/PdO domains to the Pt clusters shown in Fig.
+1
+allows us to assign these as Pd/PdO 2D rafts that are present on the atomically dispersed 2Pt@CeO
+2
+.
+Fig. 4: AC–STEM images of atom-trapped 2Pt@CeO
+2
+and 1Pd deposited on atom-trapped 2Pt@CeO
+2
+(1Pd/2Pt@CeO
+2
+).
+a
+, AC–STEM images of 2Pt@CeO
+2
+prepared via atom trapping showing single atoms of Pt.
+b
+–
+d
+, AC–STEM image of Pd deposited on the catalyst shown in
+a
+. Different regions of the sample are imaged in panels
+b
+,
+c
+and
+d
+, and they all show that 2D rafts are visible that look similar to the 2D rafts shown in Fig.
+1c
+. Scale bars, 5 nm.
+Full size image
+The environment of the Pt and Pd atoms in the PdO
+x
+2D rafts of the 1Pd/2Pt@CeO
+2
+catalyst was further examined via X-ray absorption spectroscopy (XAS) measurements performed on the calcined samples (Fig.
+5
+). The Pt L
+3
+edge X-ray absorption near edge structure (XANES) spectrum of 1Pd/2Pt@CeO
+2
+shows that the Pt is oxidized (Fig.
+5a
+), which is similar to the 1Pt@CeO
+2
+catalyst reported previously
+35
+. Likewise, the Pd K edge XANES spectrum of the as-prepared 1Pd/2Pt@CeO
+2
+resembles the bulk references PdO and Pd(OAc)
+2
+. The EXAFS fits for these samples are shown in the Supplementary Information (Supplementary Tables
+6
+–
+12
+and Supplementary Figs.
+10
+–
+16
+). The Pt L
+3
+edge EXAFS has one main peak due to Pt–O scattering, fitting gave a coordination number of 6 ± 0.4 at a bond distance of 1.99 ± 0.008 Å. A Pt–O coordination number of 6 is consistent with platinum in the +4 oxidation state. Previous reports on atom-trapped Pt on CeO
+2
+gave a Pt–O coordination number of 5, the extra oxygen coordination probably comes from oxygen in the PdO
+x
+rafts as seen in the STEM results
+30
+. The interface between the raft structure and the support is not strongly ordered as evidenced by a weak broad doublet peak at 2.8–3.4 Å (phase uncorrected distance) in the Pt EXAFS. The EXAFS at the Pd K edge for 1Pd/2Pt@CeO
+2
+resembles that of bulk PdO with attenuated second and third shell Pd–Pd scattering
+36
+. Two models were used to fit the spectrum: a spherical PdO nanoparticle model and a multi-shell PdO model without the shape function constraint. While both models gave equivalent reduced chi squared statistics, the
+R
+factor for the multi-shell model was lower. This would be expected if the nanoparticle shape deviated from spherical. The misfit primarily comes from underfitting the second Pd–Pd coordination number. In a disc-shaped particle, a spherical shape function will correctly model the data at distances lower than the shorter of the two characteristic lengths (radius and thickness)
+37
+. From the STEM results showing that the rafts are 1–2 atoms thick and on the basis of the lattice parameter of PdO, the spherical model would start to fail past the first Pd–Pd path at 3.02 Å, which is seen in the misfit of the second Pd–Pd path in the spherical model. Indeed, as seen from the Pd K EXAFS spectra (Fig.
+5d
+), the PdO-like structure on 1Pd/2Pt@CeO
+2
+is slightly different from bulk PdO where the second shell consists of only Pd–Pd scattering. In the catalyst, the second shell includes both Pd–Pd scattering from within the raft and Pd-Ce scattering between the raft and support (Supplementary Fig.
+16
+and Supplementary Table
+12
+). This agrees well with the observation of STEM results showing the presence of raft-like Pd oxides.
+Fig. 5: XAS spectra of 1Pd/2Pt@CeO
+2
+sample.
+a
+,
+b
+, XANES spectra of Pt L
+3
+(
+a
+) and Pd K (
+b
+) edges.
+c
+,
+d
+, EXAFS spectra of the Pt (
+c
+) and Pd K (
+d
+) edges. The Pt and Pd standard samples were also measured.
+Full size image
+We used surface sensitive X-ray photoelectron spectroscopy (XPS) to reveal the differences in the Pd, Pt and Ce species on the 1Pd/2Pt@CeO
+2
+catalyst compared to the reference (1Pd + 2Pt)/CeO
+2
+sample prepared by conventional impregnation (Fig.
+6
+and Supplementary Fig.
+17
+). Reactivity data showed that the reference (1Pd + 2Pt)/CeO
+2
+sample shows lower reactivity than the atom-trapped 1Pd/2Pt@CeO
+2
+catalyst (Fig.
+3a
+). The Pd 3
+d
+binding energy of Pd species on 1Pd/2Pt@CeO
+2
+is lower than that of the reference (1Pd + 2Pt)/CeO
+2
+(Fig.
+6b
+). This is suggestive of a different form of Pd oxide on the 1Pd/2Pt@CeO
+2
+surface, probably because it is present in the form of a raft, and different from 3D particles of bulk PdO present in the reference sample. The Pt 4
+f
+spectrum of 1Pd/2Pt@CeO
+2
+shows peaks at a higher binding energy in comparison to that of the reference (1Pd + 2Pt)/CeO
+2
+(Fig.
+6a
+), confirming that the Pt species strongly bound to ceria via atom trapping in 1Pd/2Pt@CeO
+2
+are different from Pt that is deposited by impregnation and calcined at 500 °C in air. We performed deconvolution on the Pt 4
+f
+, Pd 3
+d
+and Ce 3
+d
+XPS spectra of the 1Pd/2Pt@CeO
+2
+and (1 Pd + 2Pt)/CeO
+2
+catalysts. The Pt 4
+f
+XPS spectra show that both Pt
+2+
+and Pt
+4+
+are present on the 1Pd/2Pt@CeO
+2
+and (1 Pd + 2Pt)/CeO
+2
+samples. However, 1Pd/2Pt@CeO
+2
+presents 38% Pt
+4+
+, as opposed to 8% Pt
+4+
+on the (1Pd + 2Pt)/CeO
+2
+sample, meaning more Pt species is strongly trapped via atom trapping on the 1Pd/2Pt@CeO
+2
+. The deconvolution shows small amount of metallic Pt° (6%) is also present in the (1Pd + 2Pt)/CeO
+2
+sample. The deconvolution of Pd 3
+d
+XPS spectra of the catalysts show that large amount of Pd
+δ+
+(
+δ
+< 2) species (46.8%) are formed on the 1Pd/2Pt@CeO
+2
+catalyst, which is attributed to the presence of PdO
+x
+rafts. In contrast, PdO is the main phase on the reference (1 Pd + 2Pt)/CeO
+2
+sample. Therefore, the XPS agrees well with the STEM results. The Ce 3
+d
+XPS spectra of the catalysts (Supplementary Fig.
+17
+and Supplementary Table
+13
+) show that the Ce
+3+
+/Ce
+4+
+ratio on the 1Pd/2Pt@CeO
+2
+catalyst is higher than that on the (1Pd + 2Pt)/CeO
+2
+catalyst (0.27 versus 0.2), suggesting more oxygen vacancies are present on the surface of the 1Pd/2Pt@CeO
+2
+catalyst supported on the engineered support via atom trapping.
+Fig. 6: XPS spectra of 1Pd/2Pt@CeO
+2
+and (1Pd + 2Pt)/CeO
+2
+catalysts.
+a
+, Pt 4
+f
+XPS spectra showing that the Pt in the catalyst prepared by atom trapping (1Pd/2Pt@CeO
+2
+) is different from Pt deposited by impregnation and calcination (1Pd + 2Pt/CeO
+2
+).
+b
+, Pd 3
+d
+XPS spectra showing a clear difference between the sample prepared by deposition Pd on the atom-trapped Pt (1Pd/2Pt@CeO
+2
+) and the sample prepared by impregnation and calcination of the Pt and Pd precursors (1Pd + 2Pt)/CeO
+2
+.
+Full size image
+The trapping of the Pt is also confirmed by CO-diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) experiments wherein the 1Pd/2Pt@CeO
+2
+catalyst shows the intense CO band on ionic Pt seen in previous work
+26
+(Supplementary Fig.
+18
+). The Pd in the 2D rafts is mobile and transforms readily from its oxidized state into a reduced state during CO oxidation at 125 °C (Supplementary Fig.
+18
+). This mobility of Pd is consistent with previous studies of Pd single atom catalysts during CO oxidation
+38
+. What is unique to the PdO
+x
+structures stabilized by the single atom Pt on the 1Pd/2Pt@CeO
+2
+catalyst is the enhanced low-temperature reactivity (more than three times higher at 300 °C) for methane oxidation and improved water tolerance, as compared to the reference (1 Pd + 2Pt)/CeO
+2
+catalyst prepared by conventional impregnation. Indeed, there is a need to develop catalysts that perform methane oxidation at low temperatures. For example, a study of methane oxidation on Pd/Al
+2
+O
+3
+by in situ DRIFTS concluded that low-temperature activity could be associated with the transformation of 45% Pd atoms at the top of metal Pd to PdO
+x
+species
+39
+. More recently, Duan et al. reported the Al
+2
+O
+3
+-decorated Pd/SiO
+2
+catalysts using atomic layer deposition exhibit active and stable PdO
+x
+and Pd–PdO
+x
+structures to efficiently catalyse methane combustion starting from 200 °C (ref.
+22
+). Later, Yang et al.
+40
+found that the addition of irreducible oxides in Pd catalyst preserved a suitable active phase of Pd–PdO
+x
+on MgAl
+2
+O
+4
+, thus promoting activity. The present work provides an approach to directly prepare PdO
+x
+2D rafts that are thermally stable, to improve the low-temperature reactivity in methane oxidation at engine conditions.
+On the basis of the above characterization results and the negligible reactivity of the atom-trapped 2Pt@CeO
+2
+support in methane oxidation, we propose that the reactivity of the Pd deposited on atom-trapped 2Pt@CeO
+2
+(1Pd/2Pt@CeO
+2
+) is associated with the 2D PdO
+x
+rafts that were detected via AC–STEM, XPS and EXAFS (Figs.
+4
+–
+6
+). These rafts exhibit enhanced reactivity compared to the conventional 2Pt/CeO
+2
+and 1Pd/CeO
+2
+catalysts prepared via impregnation. The enhanced reactivity of 2D PdO
+x
+rafts in methane oxidation is confirmed by DFT calculations (Fig.
+7a,b
+). A lower activation barrier (0.30 eV) for the methane activation is seen on the 2D PdO
+x
+rafts in which an island of single layer Pd atoms bonded to O atoms of CeO
+2
+to form a 2D Pd island model having a size of roughly 0.8 nm (Supplementary Fig.
+19
+), as compared to that (0.80 eV) on metal Pd (111) and that (0.70 eV) on PdO (101). On the other hand, the improved water tolerance of 1Pd/2Pt@CeO
+2
+in methane oxidation (10% H
+2
+O vapour) can be explained on the basis of DFT calculation results on the dissociation barrier of water molecule on the catalyst (Fig.
+7c,d
+). The calculation results show that water molecule is easily dissociated to chemisorbed H* and OH* species with a low barrier of 0.23 eV when it is on PdO (101). This suggests that the produced OH* species, which has a large binding energy of −3.14 eV, could poison the PdO surface sites on the 1Pd/CeO
+2
+catalyst prepared by impregnation, leading to low activity for methane oxidation. While on 2D PdO
+x
+rafts and Pd (111), the barriers for the O–H bond cleavage in water is as high as 0.73 and 1.08 eV, respectively. Therefore, when exposed to steam, the 2D PdO
+x
+raft sites (that is, 1Pd/2Pt@CeO
+2
+catalyst) are resistant to H
+2
+O poisoning, leading to higher reactivity in methane oxidation. The intermediate behaviours of the PdO
+x
+raft between the metallic (Pd (111)) and oxide (PdO (101)) forms originate from the partial oxidation of Pd by their bonding with substrate oxygens, as shown in Fig.
+7
+.
+Fig. 7: DFT simulations of methane oxidation and water dissociation over metal Pd and Pd oxides.
+a
+,
+b
+, Structures (the initial state (IS), transition state (TS) and final state (FS)) (
+a
+) and the energy barriers of methane dissociation over the metal Pd (111), PdO (101) and CeO
+2
+(111) supported 2D PdO raft (
+b
+) (Supplementary Fig.
+19
+).
+c
+,
+d
+, Structures (IS, TS and FS) (
+c
+) and the energy barriers of water dissociation over the metal Pd (111), PdO (101) and CeO
+2
+(111) supported 2D PdO raft (
+d
+) (0.8 nm). colour scheme: Ce, yellow; Pd, blue; O, red; C, grey and H, white.
+Full size image
+Conclusions
+In this study, we used atom-trapped Pt single atoms to modify and engineer the catalyst support to influence the nature of the deposited metal oxide. In the case of Pt deposited on atom-trapped 1Pt@CeO
+2
+(2Pt/1Pt@CeO
+2
+), we found that 2D Pt rafts were formed, the support formed prominent ceria (111) surface facets and the preferred orientation caused a higher surface Pt signal in LEIS. The 2D Pt rafts showed higher reactivity in CO oxidation because of a weaker interaction between the Pt and the engineered support. The catalyst with the strongest interaction, 3Pt@CeO
+2
+, had the lowest reactivity for CO oxidation. Using a similar atom trapping approach, we prepared a 1Pd/2Pt@CeO
+2
+catalyst that showed much better reactivity than the conventional 1Pd/CeO
+2
+, 2Pt@CeO
+2
+and (1Pd + 2Pt)/CeO
+2
+catalysts containing the same number of Pd metal atoms when tested for methane oxidation. Analogous to the case of 2Pt/1Pt@CeO
+2
+, aberration-corrected electron microscopy results showed that the 1Pd/2Pt@CeO
+2
+catalyst presents PdO
+x
+2D rafts with average size of 0.8 nm as well as the presence of Pt single atoms. Further methane oxidation results under the addition of 4–10 v/v% water vapour show that the 1Pd/2Pt@CeO
+2
+catalyst has improved water tolerance in methane oxidation than conventional 1Pd/CeO
+2
+and (1Pd + 2Pt)/CeO
+2
+catalysts. The critical difference is the nature of PdO
+x
+phase in the 2D rafts, which is similar to a surface oxide on Pd metal surface. The monolayer Pd oxide on metallic Pd is not stable, since the Pd transforms readily to the PdO phase, which is easily poisoned by water vapour. The superior water tolerance of the 1Pd/2Pt@CeO
+2
+catalyst is due to the presence of Pd oxide in the form of 2D rafts on the engineered support prepared via atom trapping. The performance of this PdO
+x
+phase is very different from that of bulk PdO. The experimental observations are rationalized with model DFT calculations that show differences in the interaction of water vapour with the rafts compared with bulk PdO. This work demonstrates that the approach of atom trapping can be used to engineer a catalyst support leading to improved catalytic performance of the deposited phase. We suggest this approach could be added to the toolkit of catalyst designers to develop improved catalysts since the nucleation and growth of the deposited phase can be modified by the trapped atoms in the support.
+Methods
+Catalyst preparation
+The initial experiments to investigate the role of atom-trapped Pt were performed with the commercial ceria (Solvay-Rhodia HS 5, also referred to as HSA ceria since it has a higher surface area than the ceria prepared by calcination of Ce(NO
+3
+)
+3
+, which was used for the Pd–Pt catalysts). To prepare engineered CeO
+2
+, tetraamineplatinum nitrate solution was impregnated onto CeO
+2
+powder by conventional wet impregnation, followed by drying at 120 °C for 12 h. The powder was then calcined at 800 °C for 10 h in flowing air. The obtained materials were denoted as 1Pt@CeO
+2
+and 3Pt@CeO
+2
+, corresponding to the Pt loadings of 1 and 3 wt.%, respectively. The high temperature treatment causes a drop in BET surface area, from 135 m
+2
+g
+−1
+for the as-received ceria to 60 m
+2
+g
+−1
+for the pure ceria (PS ceria), 78 m
+2
+g
+−1
+for 1Pt@CeO
+2
+and 100 m
+2
+g
+−1
+for the 3Pt@CeO
+2
+sample. The Pt interacts strongly with the ceria surface, pinning defect sites and slowing the rate of ceria sintering
+26
+,
+35
+.
+The nucleation and growth of Pt on PS CeO
+2
+support (precalcined at 800 °C in air for 10 h) and the 1Pt@CeO
+2
+(subjected to a similar thermal treatment) helped identify the role of trapped Pt atoms during catalyst preparation. An appropriate amount of tetraamineplatinum nitrate (Pt(NH
+3
+)
+4
+(NO
+3
+)
+2
+) was added to each support followed by drying at 120 °C for 12 h and calcination at 500 °C for 4 h in air. The total Pt loading for each catalyst was 3 wt.% Pt and the samples were denoted as 3 wt.%Pt/PS ceria and 2Pt/1Pt@CeO
+2
+.
+For the methane oxidation study, we used ceria powder prepared in the laboratory via decomposition of Ce(NO
+3
+)
+3
+, as described in our previous work
+26
+. This ceria powder has a BET surface area of 85 m
+2
+g
+−1
+as prepared. To prepare the engineered catalyst support, we used 2 wt.% Pt via impregnation, drying in air, calcination at 500 °C following by ageing in air at 800 °C for 10 h. This catalyst support is denoted as 2Pt@CeO
+2
+. Palladium nitrate (1.09 wt.% Pd) was deposited on the 2Pt@CeO
+2
+by wet impregnation, followed by drying at 120 °C for 12 h and calcining at 500 °C for 4 h in air. The catalyst was denoted as 1Pd/2Pt@CeO
+2
+. To provide a comparison, we also prepared two reference samples of 1Pd/CeO
+2
+(1.09 wt.%Pd) and (1Pd + 2Pt)/CeO
+2
+containing the same loading of metal as the 1Pd/2Pt@CeO
+2
+. For the reference (1Pd + 2Pt)/CeO
+2
+catalyst (BET surface area 64 m
+2
+g
+−1
+), the palladium(II) nitrate solution was impregnated onto the CeO
+2
+first, then dried at 120 °C in air for 12 h. After calcination at 500 °C in air for 4 h, tetraamineplatinum nitrate (2 wt.% Pt) was impregnated onto the material progressively, followed by drying at 120 °C for 12 h in air and calcining at 500 °C for 4 h in air. The reference 1Pd/CeO
+2
+(1.09 wt.%Pd) sample was prepared by impregnating appropriate amount of palladium(II) nitrate solution onto the CeO
+2
+. Then, the sample was obtained after drying at 120 °C in air for 12 h and calcining at 500 °C in air for 4 h. The morphological properties of this set of catalysts are shown in Supplementary Table
+1
+.
+Catalyst characterization
+AC–STEM was carried out using a FEI Titan Themis transmission electron microscope equipped with the Gatan K2-IS camera. We also used a JEOL ARM200CF microscope for some of the samples. In each case, the sample powders were deposited on holey carbon films after being dispersed in ethanol. The Pt single atoms on CeO
+2
+can be clearly seen in the AC–STEM dark field images. LEIS was used to quantify the concentration of Pt atoms on the catalyst surface. This technique selectively detects the topmost atoms and was carried out using an IONTOF Qtac100 instrument. The dedicated LEIS instrument was equipped with a double toroidal analyser for the energy analysis of the backscattered ions and the analyser has a large solid angle of acceptance (full 360° azimuth), while the scattering angle is fixed at 145°. In combination with parallel energy detection, this gives a high sensitivity while maintaining the mass resolution. He
++
+and Ne
++
+with ion energy 3 and 5 keV and current 5 and 2 nA, respectively, were used to analyse the surface concentration of Pt
+2+
+ions in the catalysts. The area scanned per sample by these two ions was 2 × 2 mm
+2
+and the ion flux used was 1.4 × 10
+14
+ions per cm
+2
+and 2.8 × 10
+13
+ions per cm
+2
+, respectively. The spectra for the Pt reference were analysed within a 1.5 × 1.5 mm
+2
+sputter crater over an area of 1 × 1 mm
+2
+. The analysis time was adjusted such that the surface damage was the same as for the other spectra. Assuming a sputter coefficient of 0.1 for He and 1 for Ne, this will lead to a surface damage of 1 and 2% at the end of the analysis. XPS was performed using a Kratos Axis Ultra photoelectron spectrometer equipped with a monochromatic Al Kα source operating at 300 W. The base pressure was 2.7 × 10
+−8
+Pa and operating pressure was 2.7 × 10
+−7
+Pa. Analysis of the XPS spectra was performed using CASA XPS software. X-ray absorption spectroscopy was performed at the Materials Research Collaborative Access Team (MRCAT) bending magnet and insertion device lines at the Advanced Photon Source, Argonne National Laboratory. Measurements at the Pd K edge were performed in transmission mode using a set of three ion chambers that allowed for concurrent measurement of a Pd foil energy reference. Measurements at the Pt edge were performed in fluorescence mode using a Lytle detector with a zinc foil filter used to reduce background fluorescence. At both edges, sample wafers were pressed in a stainless-steel sample holder and measured at room temperature in air. We carried out data analysis using Artemis and Athena in the Demeter software suite
+41
+with phase and amplitude functions generated by FEFF software using bulk references. At each edge, the amplitude reduction factor (S
+0
+2
+) was determined by fitting the first shell scattering of the respective metal foil. The obtained S
+0
+2
+was then fixed in catalyst samples. A spherical nanoparticle shape function was used in the modelling of 1Pd/2Pt@CeO
+2
+at the Pd K edge
+42
+. Full model and fit details are given in the Supplementary
+Information
+.
+Catalytic reactivity measurements
+CO oxidation was chosen as a probe reaction. The reaction rate measurements were performed using 0.6 cm (1/4 inch) diameter U-tube with 20 mg of sample. The gas flow rates for CO oxidation were the following: CO 1.5 ml min
+−1
+, O
+2
+1 ml min
+−1
+and He 75 ml min
+−1
+and temperature ramp rate was at 2 °C min
+−1
+. The as-prepared, air-exposed catalyst was loaded into the reactor and temperature was increased to 300 °C under He. Once at 300 °C, a pretreatment with 10% O
+2
+was performed for 30 min. The gas was then switched to He and the catalyst was cooled to the reaction temperature. Subsequently, CO oxidation kinetic measurements were performed. The total pressure during CO oxidation was 83.3 kPa, the atmospheric pressure in Albuquerque. The products were analysed by an Agilent Micro GC 490.
+Catalytic methane (CH
+4
+) combustion for the as-synthesized 1Pd/2Pt@CeO
+2
+and (1Pd + 2Pt)/CeO
+2
+catalysts was performed using a fixed bed flow reactor under industrially relevant conditions. Then 60 mg of catalyst powder was diluted by 600 mg SiC to guarantee isothermal conditions. The catalyst bed was packed between two quartz wool plugs inside a 0.6 cm (1/4 inch) quartz tube. The reaction was performed at atmospheric pressure. The reaction gas consisted of 680 ppm CH
+4
+, 14 vol% O
+2
+and 5 vol% CO
+2
+balanced with N
+2
+with a total flow of 300 ml min
+−1
+(space velocity of 300 l g
+cat
+h
+−1
+). Different concentrations of steam (4 and 10% H
+2
+O) were introduced by flowing the reaction gas through a temperature-controlled bubbler. During the measurements, the effluent gas was analysed by an online continuous FTIR MKS 2030 MultiGas Analyser equipped with a LN
+2
+-cooled mercury-cadmium-telluride detector. For light-off measurements, the samples were heated from room temperature to 650 °C with a ramp of 5 °C min
+−1
+in reaction gas. After each light-off test, the system was cooled down in a O
+2
+/N
+2
+atmosphere. Stability under different dry or wet conditions was also evaluated by time-on-stream measurements at 300–500 °C. The 1Pd/2Pt@CeO
+2
+catalyst is very stable for multiple light-off runs from room temperature to 650 °C. The reactivity and water tolerance of the catalysts at steady state were compared at 500 °C with or without the adding of water vapour because future emission regulations require low-temperature methane oxidation in exhaust catalysis, especially for NGVs where the exhaust temperature is typically below 500–550 °C (refs.
+11
+,
+43
+,
+44
+). The reaction rate of the 1Pd/2Pt@CeO
+2
+and (1Pd + 2Pt)/CeO
+2
+catalysts were also tested in kinetic regime by controlling methane conversion below 10%.
+DFT calculations
+All spin-polarized DFT calculations were performed using the Vienna Ab initio Simulation Package (VASP)
+45
+. The valence electrons were represented by plane waves with a cutoff energy of 400 eV, augmented with the projector-augmented wave pseudopotentials for the core electrons
+46
+. A Hubbard-like term was added in the so-called DFT +
+U
+treatment with
+U
+= 4.5 eV applied to the Ce 4
+f
+states
+47
+. For bulk surfaces, the atoms in the top five layers of PdO(101) and the top two layers of Pd (111) were fully relaxed. The reciprocal space was sampled with a
+k
+-point mesh of 3 × 3 × 1. For the Pd raft on the engineered Pt@CeO
+2
+support via atom trapping, we modelled the slab with a roughly 0.9 × 0.8 nm Pd island on 6 CeO
+2
+(111) layers, where the Pd island consists of 14 Pd atoms with the average Pd–Pd bond length of 2.69 Å (2.75 Å in Pd bulk) and the average distance between the island and the CeO
+2
+(111) surface is 1.93 Å. The reciprocal space was sampled with a
+k
+-point mesh of 1 × 1 × 1. During geometry optimization, the atoms in the bottom three atomic layers were fixed while others were fully relaxed. The geometric parameters used: Pd–O and Pd–Pd bond lengths in the fixed layers in PdO and Pd models are 2.02 and 2.75 Å, respectively, while for the Pd island model, the Ce-O bond length in fixed layers is 2.29 Å. In these cases, the exchange-correlation potential was treated by the PW91 exchange-correlation functional
+48
+. A vacuum space larger than 15 Å was set between periodic slabs to avoid the artificial interactions along the
+z
+direction. Electronic energy was converged below a threshold of 10
+−4
+eV, while the force acting on each atom was less than 0.05 eV Å
+−1
+. Climbing image nudged elastic band (CI-NEB) approach was used to determine the reaction pathway
+49
+,
+50
+.
+Data availability
+The data that support the findings of this study are included in the published article (and its Supplementary
+Information
+) or available from the corresponding author on reasonable request.
+Source data
+are provided with this paper.
+References
+Munnik, P., de Jongh, P. E. & de Jong, K. P. Recent developments in the synthesis of supported catalysts.
+Chem. Rev.
+115
+, 6687–6718 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Wong, A., Liu, Q., Griffin, S., Nicholls, A. & Regalbuto, J. R. Synthesis of ultrasmall, homogeneously alloyed, bimetallic nanoparticles on silica supports.
+Science
+358
+, 1427–1430 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Bradley, S. A. et al. Behavior of Pt atoms on oxide supports during reduction treatments at elevated temperatures, characterized by aberration corrected stem imaging.
+Catal. Lett.
+142
+, 176–182 (2012).
+Article
+CAS
+Google Scholar
+Kwak, J. H. et al. Coordinatively unsaturated Al
+3+
+centers as binding sites for active catalyst phases of platinum on γ-Al
+2
+O
+3
+.
+Science
+325
+, 1670–1673 (2009).
+Article
+CAS
+PubMed
+Google Scholar
+Ding, K. et al. Identification of active sites in CO oxidation and water-gas shift over supported Pt catalysts.
+Science
+350
+, 189–192 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Bo, Z. et al. Strong electrostatic adsorption of Pt onto SiO
+2
+partially overcoated Al
+2
+O
+3
+—towards single atom catalysts.
+J. Chem. Phys.
+151
+, 214703 (2019).
+Article
+PubMed
+CAS
+Google Scholar
+Liu, L. & Corma, A. Metal catalysts for heterogeneous catalysis: from single atoms to nanoclusters and nanoparticles.
+Chem. Rev.
+118
+, 4981–5079 (2018).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Yao, S. et al. Atomic-layered Au clusters on α-MoC as catalysts for the low-temperature water-gas shift reaction.
+Science
+357
+, 389–393 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, A. et al. Structure of the catalytically active copper–ceria interfacial perimeter.
+Nat. Catal.
+2
+, 334–341 (2019).
+Article
+CAS
+Google Scholar
+Lu, J., Elam, J. W. & Stair, P. C. Synthesis and stabilization of supported metal catalysts by atomic layer deposition.
+Acc. Chem. Res.
+46
+, 1806–1815 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Petrov, A. W. et al. Stable complete methane oxidation over palladium based zeolite catalysts.
+Nat. Commun.
+9
+, 2545 (2018).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Petrov, A. W., Ferri, D., Kröcher, O. & van Bokhoven, J. A. Design of stable palladium-based zeolite catalysts for complete methane oxidation by postsynthesis zeolite modification.
+ACS Catal.
+9
+, 2303–2312 (2019).
+Article
+CAS
+Google Scholar
+Descorme, C., Gélin, P., Lécuyer, C. & Primet, M. Palladium-exchanged MFI-type zeolites in the catalytic reduction of nitrogen monoxide by methane. influence of the Si/Al ratio on the activity and the hydrothermal stability.
+Appl. Catal. B: Env.
+13
+, 185–195 (1997).
+Article
+CAS
+Google Scholar
+Li, X., Wang, X., Roy, K., van Bokhoven, J. A. & Artiglia, L. Role of water on the structure of palladium for complete oxidation of methane.
+ACS Catal.
+10
+, 5783–5792 (2020).
+Article
+CAS
+Google Scholar
+Huang, W., Goodman, E. D., Losch, P. & Cargnello, M. Deconvoluting transient water effects on the activity of Pd methane combustion catalysts.
+Ind. Eng. Chem. Res.
+57
+, 10261–10268 (2018).
+Article
+CAS
+Google Scholar
+Zhang, F., Hakanoglu, C., Hinojosa, J. A. & Weaver, J. F. Inhibition of methane adsorption on PdO(101) by water and molecular oxygen.
+Surf. Sci.
+617
+, 249–255 (2013).
+Article
+CAS
+Google Scholar
+Xiong, H. et al. Design considerations for low-temperature hydrocarbon oxidation reactions on Pd based catalysts.
+Appl. Catal. B: Env.
+236
+, 436–444 (2018).
+Article
+CAS
+Google Scholar
+Karinshak, K. A., Lott, P., Harold, M. P. & Deutschmann, O. In situ activation of bimetallic Pd–Pt methane oxidation catalysts.
+Chem. Cat. Chem.
+12
+, 3712–3720 (2020).
+CAS
+Google Scholar
+Lott, P., Dolcet, P., Casapu, M., Grunwaldt, J.-D. & Deutschmann, O. The effect of prereduction on the performance of Pd/Al
+2
+O
+3
+and Pd/CeO
+2
+catalysts during methane oxidation.
+Ind. Eng. Chem. Res.
+58
+, 12561–12570 (2019).
+Article
+CAS
+Google Scholar
+Hellman, A. et al. The active phase of palladium during methane oxidation.
+J. Phys. Chem. Lett.
+3
+, 678–682 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Martin, N. M. et al. Intrinsic ligand effect governing the catalytic activity of Pd oxide thin films.
+ACS Catal.
+4
+, 3330–3334 (2014).
+Article
+CAS
+Google Scholar
+Duan, H. et al. Pentacoordinated Al
+3+
+-stabilized active Pd structures on Al
+2
+O
+3
+-coated palladium catalysts for methane combustion.
+Angew. Chem. Int. Ed.
+58
+, 12043–12048 (2019).
+Article
+CAS
+Google Scholar
+Graham, G. W. et al. Effect of alloy composition on dispersion stability and catalytic activity for NO oxidation over alumina-supported Pt–Pd catalysts.
+Catal. Lett.
+116
+, 1–8 (2007).
+Article
+CAS
+Google Scholar
+Yashnik, S. A., Chesalov, Y. A., Ishchenko, A. V., Kaichev, V. V. & Ismagilov, Z. R. Effect of Pt addition on sulfur dioxide and water vapor tolerance of Pd-Mn-hexaaluminate catalysts for high-temperature oxidation of methane.
+Appl. Catal. B: Env.
+204
+, 89–106 (2017).
+Article
+CAS
+Google Scholar
+Datye, A. & Wang, Y. Atom trapping: a novel approach to generate thermally stable and regenerable single-atom catalysts.
+Nat. Sci. Rev.
+5
+, 630–632 (2018).
+Article
+CAS
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Wei, S. et al. Direct observation of noble metal nanoparticles transforming to thermally stable single atoms.
+Nat. Nanotechnol.
+13
+, 856–861 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Goodman, E. D. et al. Catalyst deactivation via decomposition into single atoms and the role of metal loading.
+Nat. Catal.
+2
+, 748–755 (2019).
+Article
+CAS
+Google Scholar
+Jiang, D., Khivantsev, K. & Wang, Y. Low-temperature methane oxidation for efficient emission control in natural gas vehicles: Pd and beyond.
+ACS Catal.
+10
+, 14304–14314 (2020).
+Article
+CAS
+Google Scholar
+Kunwar, D. et al. Stabilizing high metal loadings of thermally stable platinum single atoms on an industrial catalyst support.
+ACS Catal.
+9
+, 3978–3990 (2019).
+Article
+CAS
+Google Scholar
+Pereira-Hernández, X. I. et al. Tuning Pt-CeO
+2
+interactions by high-temperature vapor-phase synthesis for improved reducibility of lattice oxygen.
+Nat. Commun.
+10
+, 1358 (2019).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Wang, H. et al. Surpassing the single-atom catalytic activity limit through paired Pt-O-Pt ensemble built from isolated Pt1 atoms.
+Nat. Commun.
+10
+, 3808 (2019).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Dvořák, F. et al. Creating single-atom Pt-ceria catalysts by surface step decoration.
+Nat. Commun.
+7
+, 10801 (2016).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Farrauto, R. J. Low-temperature oxidation of methane.
+Science
+337
+, 659–660 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Nie, L. et al. Activation of surface lattice oxygen in single-atom Pt/CeO
+2
+for low-temperature CO oxidation.
+Science
+358
+, 1419–1423 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Bugaev, A. L. et al. In situ formation of surface and bulk oxides in small palladium nanoparticles.
+Chem. Commun.
+56
+, 13097–13100 (2020).
+Article
+CAS
+Google Scholar
+Glatter, O. The interpretation of real-space information from small-angle scattering experiments.
+J. Appl. Crystallogr.
+12
+, 166–175 (1979).
+Article
+CAS
+Google Scholar
+Spezzati, G. et al. Atomically dispersed Pd-O species on CeO
+2
+(111) as highly active sites for low-temperature CO oxidation.
+ACS Catal.
+7
+, 6887–6891 (2017).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Xu, J. et al. Operando and kinetic study of low-temperature, lean-burn methane combustion over a Pd/γ-Al
+2
+O
+3
+catalyst.
+ACS Catal.
+2
+, 261–269 (2012).
+Article
+CAS
+Google Scholar
+Yang, J. et al. A hydrothermally stable irreducible oxide-modified Pd/MgAl
+2
+O
+4
+catalyst for methane combustion.
+Angew. Chem. Int. Ed.
+59
+, 18522–18526 (2020).
+Article
+CAS
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+Article
+CAS
+PubMed
+Google Scholar
+Calvin, S. et al. Determination of crystallite size in a magnetic nanocomposite using extended X-ray absorption fine structure.
+J. Appl. Phys.
+94
+, 778–783 (2003).
+Article
+CAS
+Google Scholar
+Lampert, J. K., Kazi, M. S. & Farrauto, R. J. Palladium catalyst performance for methane emissions abatement from lean burn natural gas vehicles.
+Appl. Catal. B: Env.
+14
+, 211–223 (1997).
+Article
+CAS
+Google Scholar
+Gélin, P. & Primet, M. Complete oxidation of methane at low temperature over noble metal based catalysts: a review.
+Appl. Catal. B: Env.
+39
+, 1–37 (2002).
+Article
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+CAS
+Google Scholar
+Huang, M. & Fabris, S. CO adsorption and oxidation on ceria surfaces from DFT+U calculations.
+J. Phys. Chem. C
+112
+, 8643–8648 (2008).
+Article
+CAS
+Google Scholar
+Perdew, J. P. et al. Atoms, molecules, solids, and surfaces: applications of the generalized gradient approximation for exchange and correlation.
+Phys. Rev. B
+46
+, 6671–6687 (1992).
+Article
+CAS
+Google Scholar
+Henkelman, G., Uberuaga, B. P., Jónsson, H. & Climbing, A. Image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+Article
+CAS
+Google Scholar
+Henkelman, G. & Jónsson, H. Improved tangent estimate in the nudged elastic band method for finding minimum energy paths and saddle points.
+J. Chem. Phys.
+113
+, 9978–9985 (2000).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+The catalyst synthesis and characterization via transmission electron microscopy (TEM) and DRIFTS was partly supported by DOE/BES Catalysis Science program, grant no. DE-FG02-05ER15712. Reactivity measurements were supported by the US Department of Energy (DOE) Office of Energy Efficiency and Renewable Energy under the Advanced Manufacturing Office, award number DE-LC 000L059 and from the Vehicle Technologies Office. H.X. acknowledges support from the National High-Level Young Talents programme and National Natural Science Foundation of China (grant nos. 22072118 and 2212100020). The computational work on catalysis was supported by the National Natural Science Foundation of China (grant nos. 21673040 and 21973013) and Air Force Office of Scientific Research (grant no. FA9550-18-1-0413). S.S.C. acknowledges support from the Center for Integrated Nanotechnologies (CINT), a user facility operated for the US DOE Office of Science where some of the characterization was performed. J.H. thanks National Natural Science Foundation of China (grant nos. 51772262, U20A20336 and 21935009), Natural Science Foundation of Hebei Province (grant no. B2020203037) and the Hunan Innovation Team (grant no. 2018RS3091) for financial support of this research. The characterization via XAS was supported by the National Science Foundation under Cooperative Agreement no. EEC-1647722 (CISTAR). Use of the Advanced Photon Source was supported by the US DOE Office of Basic Energy Sciences under contract no. DE-AC02-06CH11357. MRCAT operations, beamline 10-BM and 10-ID, are supported by the DOE and the MRCAT member institutions. We thank A. Genc, H. Pham and F. Shi for assistance with the TEM measurements that were performed, in part, at Thermo Fisher and at the University of Illinois at Chicago, Research Resources Center, Electron Microscopy Core. K.L. and S.S.C. acknowledge support from Sandia National Laboratories, a multi-mission laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International, Inc., for the US DOE’s National Nuclear Security Administration under contract no. DE-NA0003525. This paper describes objective technical results and analysis. Any subjective views or opinions that might be expressed in the document do not necessarily represent the views of the US DOE or the United States Government.
+Author information
+Author notes
+These authors contributed equally: Haifeng Xiong, Deepak Kunwar, Dong Jiang.
+Authors and Affiliations
+State Key Laboratory of Physical Chemistry of Solid Surfaces, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen, China
+Haifeng Xiong, Hengyu Li & Congcong Du
+Department of Chemical and Biological Engineering and Center for Micro-Engineered Materials, University of New Mexico, Albuquerque, NM, USA
+Deepak Kunwar, Griffin Canning & Abhaya K. Datye
+The Gene & Linda Voiland School of Chemical Engineering and Bioengineering, Washington State University, Pullman, WA, USA
+Dong Jiang, Carlos E. García-Vargas, Xavier Isidro Pereira-Hernandez & Yong Wang
+State Key Laboratory of Photocatalysis on Energy and Environment, College of Chemistry, Fuzhou University, Fuzhou, China
+Qiang Wan & Sen Lin
+Davidson School of Chemical Engineering, Purdue University, West Lafayette, IN, USA
+Stephen C. Purdy & Jeffrey T. Miller
+Sandia National Laboratories, Albuquerque, NM, USA
+Kevin Leung & Stanley S. Chou
+ION-TOF GmbH, Münster, Germany
+Hidde H. Brongersma
+Tascon GmbH, Münster, Germany
+Rik ter Veen
+Clean Nano Energy Center, State Key Laboratory of Metastable Materials Science and Technology, Yanshan University, Qinhuangdao, China
+Jianyu Huang
+Department of Chemistry and Chemical Biology, University of New Mexico, Albuquerque, NM, USA
+Hua Guo
+Institute for Integrated Catalysis, Pacific Northwest National Laboratory, Richland, WA, USA
+Yong Wang
+Authors
+Haifeng Xiong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Deepak Kunwar
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dong Jiang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Carlos E. García-Vargas
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hengyu Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Congcong Du
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Griffin Canning
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xavier Isidro Pereira-Hernandez
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qiang Wan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sen Lin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Stephen C. Purdy
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jeffrey T. Miller
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kevin Leung
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Stanley S. Chou
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hidde H. Brongersma
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Rik ter Veen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jianyu Huang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hua Guo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yong Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Abhaya K. Datye
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+S.S.C., H.X., Y.W., H.G. and A.K.D. conceived and planned the research. H.X., D.K., D.J. and H.L. synthesized the catalysts and performed catalyst characterization. DFT computations and analysis were performed by Q.W., S.L., H.G. and K.L. LEIS measurements were done by H.H.B. and R.V. H.X., D.K., C.D., J.H. and G.C. performed the TEM measurements. C.E.G.-V. and X.I.P.-H. did the DRIFTS measurements. S.C.P. and J.T.M. performed the XAS measurements. H.L. and D.J. measured the reactivity. H.X., H.G., Y.W. and A.K.D. wrote the paper. All authors discussed the results and commented on the paper.
+Corresponding authors
+Correspondence to
+Haifeng Xiong
+,
+Hua Guo
+,
+Yong Wang
+or
+Abhaya K. Datye
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Catalysis
+thanks Hyunjoo Lee and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Methods, Figs. 1–19, Tables 1–13 and References.
+Supplementary Data
+Pd model.
+Supplementary Data
+PdO raft model.
+Supplementary Data
+PdO particle model.
+Supplementary Data 1
+SourceData_for_all_XPS.
+Supplementary Data 2
+SourceData_Fig. S6.
+Supplementary Data 3
+SourceData_Fig. S7.
+Supplementary Data 4
+SourceData_Fig. S8.
+Source data
+Source Data Fig. 3
+SourceData_Fig. 3.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Xiong, H., Kunwar, D., Jiang, D.
+et al.
+Engineering catalyst supports to stabilize PdO
+x
+two-dimensional rafts for water-tolerant methane oxidation.
+Nat Catal
+4
+, 830–839 (2021). https://doi.org/10.1038/s41929-021-00680-4
+Download citation
+Received
+:
+22 November 2020
+Accepted
+:
+27 August 2021
+Published
+:
+18 October 2021
+Issue Date
+:
+October 2021
+DOI
+:
+https://doi.org/10.1038/s41929-021-00680-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

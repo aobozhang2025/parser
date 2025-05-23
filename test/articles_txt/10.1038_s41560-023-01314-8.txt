@@ -1,0 +1,2415 @@
+Imidazolium-functionalized Mo3P nanoparticles with an ionomer coating for electrocatalytic reduction of CO2 to propane | Nature Energy
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature energy
+articles
+article
+Imidazolium-functionalized Mo
+3
+P nanoparticles with an ionomer coating for electrocatalytic reduction of CO
+2
+to propane
+Download PDF
+Article
+Published:
+17 August 2023
+Imidazolium-functionalized Mo
+3
+P nanoparticles with an ionomer coating for electrocatalytic reduction of CO
+2
+to propane
+Mohammadreza Esmaeilirad
+ORCID:
+orcid.org/0000-0002-1575-2892
+1
+na1
+,
+Zhen Jiang
+ORCID:
+orcid.org/0000-0002-1175-5658
+2
+na1
+,
+Ahmad M. Harzandi
+1
+,
+Alireza Kondori
+ORCID:
+orcid.org/0000-0001-6959-2292
+1
+,
+Mahmoud Tamadoni Saray
+3
+,
+Carlo U. Segre
+ORCID:
+orcid.org/0000-0001-7664-1574
+4
+,
+Reza Shahbazian-Yassar
+ORCID:
+orcid.org/0000-0002-7744-4780
+3
+,
+Andrew M. Rappe
+ORCID:
+orcid.org/0000-0003-4620-6496
+2
+&
+…
+Mohammad Asadi
+ORCID:
+orcid.org/0000-0003-0354-2473
+1
+Show authors
+Nature Energy
+volume
+8
+,
+pages
+891–900 (
+2023
+)
+Cite this article
+13k
+Accesses
+163
+Altmetric
+Metrics
+details
+Subjects
+Artificial photosynthesis
+Carbon capture and storage
+Electrocatalysis
+Solar fuels
+Abstract
+Propane is a tri-carbon (C
+3
+) alkane widely used as a fuel. Despite recent advances in CO
+2
+electrocatalysis, the production of C
+3+
+molecules directly from CO
+2
+is challenging due to high reaction barriers and competing reactions to C
+1
+, C
+2
+and H
+2
+products. Here we report a catalytic system composed of 1-ethyl-3-methylimidazolium-functionalized Mo
+3
+P nanoparticles coated with an anion-exchange ionomer that produces propane from CO
+2
+with a current density of −395 mA cm
+−
+2
+and a Faradaic efficiency of 91% at −0.8 V versus reversible hydrogen electrode over 100 h in an electrolyser. Our characterization and density functional theory calculations suggest that imidazolium functionalization improves the electrocatalytic properties of Mo atoms at the surface and favours the pathway towards propane by increasing the adsorption energies of carbon-based intermediates on the Mo sites. Our results indicate that the ionomer coating layer plays a crucial role in stabilizing the imidazolium-functionalized surface of Mo
+3
+P nanoparticles during long-term testing.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Combining Fe nanoparticles and pyrrole-type Fe-N
+4
+sites on less-oxygenated carbon supports for electrochemical CO
+2
+reduction
+Article
+Open access
+22 August 2023
+CO
+x
+hydrogenation to methanol and other hydrocarbons under mild conditions with Mo
+3
+S
+4
+@ZSM-5
+Article
+Open access
+31 January 2023
+Improving the SO
+2
+tolerance of CO
+2
+reduction electrocatalysts using a polymer/catalyst/ionomer heterojunction design
+Article
+04 July 2024
+Main
+Electrochemical conversion of carbon dioxide (CO
+2
+) into value-added chemicals can serve future energy demands by storing renewable energy and reducing anthropogenic emissions of CO
+2
+(refs.
+1
+,
+2
+,
+3
+). Thus far, substantial efforts have been devoted to improving performance of the electrochemical CO
+2
+reduction reaction (eCO
+2
+RR) using elemental catalysts such as copper (Cu), gold (Au) and silver (Ag). Despite achieving high activity and selectivity towards C
+1
+products such as carbon monoxide (CO) and formate (HCOO
+–
+), the selective production of multi-carbon (C
+2+
+) molecules is an ongoing research challenge
+4
+,
+5
+,
+6
+due to coincident formation of different intermediates on these catalysts
+7
+,
+8
+. So far, almost all catalysts found to be selective towards multi-carbon products have been based on Cu
+7
+,
+8
+,
+9
+,
+10
+,
+11
+.
+Approaches such as doping, surface functionalization and other modifications have been employed to improve the selectivity of Cu towards C
+2+
+products. For instance, it has been shown that modifying the surface of Cu with fluorine stabilizes adsorbed key intermediates and thereby increases C–C coupling for production of C
+2+
+species, for example, ethylene (C
+2
+H
+4
+) and ethanol (C
+2
+H
+5
+OH)
+9
+. The formation of different C
+3
+products such as propylene (C
+3
+H
+6
+) and propane (C
+3
+H
+8
+) has been observed and reported previously
+7
+. For example, the Cu nanocrystals were used in the eCO
+2
+RR to produce C
+3
+H
+6
+with a geometric current density of −6 mA cm
+−
+2
+(Faradaic efficiency, FE, of about 2%) at a cathodic potential of −0.65 V versus reversible hydrogen electrode (RHE)
+10
+. Moreover, a binary copper–bismuth catalyst indicates a C
+3
+H
+8
+formation FE and partial current density of 85% and 38 mA cm
+−
+2
+, respectively, at a cathodic potential of −1.1 V versus RHE
+11
+. However, the efficient production of C
+3
+species requires a comprehensive mechanistic understanding to explore a design criteria beyond traditional catalytic systems that use monatomic metal catalysts, particularly Cu, for the eCO
+2
+RR.
+Recently, transition metal phosphides have received great attention due to their low required overpotentials and selectivity towards high energy density products such as 2,3-furandiol (C
+4
+H
+4
+O
+3
+)
+12
+,
+13
+, methylglyoxal (C
+3
+H
+4
+O
+2
+)
+12
+,
+13
+, ethylene glycol
+14
+and C
+2
+H
+5
+OH (refs.
+15
+,
+16
+,
+17
+). Concurrently, imidazolium-based ionic liquids have been found to alter the reaction pathway of the eCO
+2
+RR by lowering the energies of important reaction intermediates
+18
+,
+19
+,
+20
+,
+21
+,
+22
+,
+23
+. It has also been shown that imidazolium cations on the surfaces of pure metal catalysts (for example, Ag and Au) increase the overall performance of the eCO
+2
+RR by suppressing the competing hydrogen (H
+2
+) evolution reaction
+24
+.
+We have previously found tri-molybdenum phosphide (Mo
+3
+P) nanoparticles to be promising electrocatalysts, owing to their unique electronic and structural properties
+25
+. Here we demonstrate a sophisticated electrocatalytic system comprising imidazolium-functionalized Mo
+3
+P (ImF-Mo
+3
+P) nanoparticles coated with an anion-exchange ionomer that exhibits stable activity and high selectivity towards propane (C
+3
+H
+8
+) in an electrolyser using 1 M potassium hydroxide (KOH) electrolyte.
+Catalyst microenvironment characterization
+The eCO
+2
+RR performance of synthesized ImF-Mo
+3
+P nanoparticles with a mean size of 15 ± 3 nm (reported value represents the mean size of 30 nanoparticles, with its corresponding standard deviation) was tested and compared to Mo
+3
+P nanoparticles in a custom-designed flow electrolyser shown in Fig.
+1a
+using 1 M KOH as an electrolyte. The synthesis procedures and structural and physicochemical properties of synthesized catalysts in this study are described in Supplementary Notes
+1
+and
+2
+. We have employed an anion-exchange ionomer (Sustainion XA-9 Alkaline Ionomer 5% in ethanol) to fabricate the cathode electrode. The ionomer is identified to increase the CO
+2
+-to-water ratio at the catalyst microenvironment and thereby supresses the competing H
+2
+evolution reaction
+26
+,
+27
+.
+Fig. 1: Characterizations of the catalyst microenvironment of the developed ImF-Mo
+3
+P electrocatalytic system studied in a flow electrolyser.
+a
+, Schematic of the catalyst microenvironment composed of Mo
+3
+P nanoparticles covered by an Im layer coated with an anion-exchange ionomer and deposited on a conductive carbon support.
+b
+, SEM image of the cathode electrode coated on the gas diffusion layer.
+c
+, TEM-EDS mapping image of the catalyst microenvironment. EDS mapping of Mo, P, N and C elements are shown with red, green, yellow and blue colours, respectively.
+d
+, TEM image of the dispersed nanoparticles in the catalyst microenvironment.
+e
+, False colour EELS image of a single ImF-Mo
+3
+P nanoparticle. This image suggests an Im layer of about 1 nm.
+Full size image
+To draw a better picture of structural-performance relationships of the developed catalytic system, we have studied physicochemical properties of the catalyst microenvironment by performing scanning electron microscopy (SEM), transmission electron microscopy (TEM), energy dispersive spectroscopy (EDS) and electron energy loss spectroscopy (EELS) analyses. Figure
+1
+shows the schematic and microscopic images of the catalyst’s microenvironment composed of different components, that is, Mo
+3
+P nanoparticles with imidazolium-functionalized surface, coated with an anion-exchange ionomer and deposited on a conductive carbon support. The SEM image illustrated in Fig.
+1b
+indicates a flat ionomer layer conformally coats the ImF-Mo
+3
+P nanoparticles on the surface of a gas diffusion electrode (Supplementary Note
+3
+). Additionally, our EDS mapping results shown in Fig.
+1c
+suggest uniformly distributed nanoparticles in the catalyst microenvironment. TEM and EELS results illustrated in Fig.
+1d,e
+also reveal that the surface of Mo
+3
+P nanoparticles is covered by imidazolium with a thickness of about 1 nm.
+Electrochemical testing and analysis
+To evaluate the overall activity and selectivity of the synthesized catalysts, chronoamperometry experiments were conducted over a potential range of −0.2 to −1.0 V versus RHE (all potentials reported in this study are based on RHE; Supplementary Note
+4
+) for a 1 h continuous process. Figure
+2a
+shows the current densities, normalized based on geometrical surface area, of ImF-Mo
+3
+P and Mo
+3
+P catalysts at different applied potentials. As shown in this figure, CO
+2
+RR starts at a potential of −0.2 V, verified by product stream analysis, with a current density of −23 mA cm
+−
+2
+for ImF-Mo
+3
+P, while Mo
+3
+P achieves a current density of −13 mA cm
+−
+2
+at this potential under identical experimental conditions. Furthermore, ImF-Mo
+3
+P shows a current density of −517 mA cm
+−
+2
+at a potential of −1.0 V, which is about 20% higher than that of Mo
+3
+P (−411 mA cm
+−
+2
+at −1 V), indicating the higher overall activity of ImF-Mo
+3
+P compared with pristine Mo
+3
+P.
+Fig. 2: Electrocatalytic performance of ImF-Mo
+3
+P and Mo
+3
+P catalysts for the eCO
+2
+RR in a flow electrolyser using 1 M KOH electrolyte.
+a
+, Total current densities (
+j
+total
+) of the ImF-Mo
+3
+P and Mo
+3
+P catalysts as a function of potential. The results are obtained by performing chronoamperometry for 1 h at an
+E
+WE
+window of −0.2 and −1.0 V.
+b
+, FE measurements for the ImF-Mo
+3
+P catalyst at different potentials. The results indicate that ImF-Mo
+3
+P is mainly selective towards C
+3
+H
+8
+formation.
+c
+, The stability analysis of ImF-Mo
+3
+P nanoparticles in a continuous CO
+2
+conversion process at −0.8 V. This figure shows overall current density and C
+3
+H
+8
+production FE (
+\({\rm{FE}}_{{\rm{C}}_3{\rm{H}}_8}\)
+) of ImF-Mo
+3
+P as a function of time. The error bars represent the standard deviation obtained from at least three independent measurements, while the mean values are displayed along with their corresponding standard deviations. Dashed lines show interpolated values.
+Source data
+Full size image
+The product stream analyses of the ImF-Mo
+3
+P and Mo
+3
+P catalysts were conducted using gas chromatography (GC) and nuclear magnetic resonance (NMR) to identify gas and liquid products. The FE measurements indicate that ImF-Mo
+3
+P mainly produces C
+3
+H
+8
+in a potential range of −0.2 to −1.0 V (Fig.
+2b
+) where the C
+3
+H
+8
+production starts at −0.2 V (this is equivalent to an overpotential of 340 mV considering C
+3
+H
+8
+thermodynamic potential of +0.14 V) with a
+\(\rm{FE}_{{\rm{C}}_{3}}{_{\rm{H}_8}}\)
+of 38% and reaches a maximum value of 91% at −0.8 V (Supplementary Table
+1
+). The FE results further reveal that C
+3
+H
+8
+selectivity slightly decreases (
+\(\rm{FE}_{{\rm{C}}_{3}}{_{\rm{H}_8}}\)
+of 76% and 64% at −0.9 and −1.0 V, respectively) while H
+2
+production increases at a potential range of −0.8 to −1.0 V suggesting that selectivity of ImF-Mo
+3
+P is highly potential dependent
+28
+,
+29
+. In contrast, our measurements indicate that pristine Mo
+3
+P nanoparticles are mainly selective for CO and methane (CH
+4
+), with maximum FEs of 75% and 24% for CO and CH
+4
+at −0.8 V, respectively, where only minor production of C
+2
+H
+6
+and C
+3
+H
+8
+(FE of less than 2%) was observed for this catalyst (Supplementary Table
+1
+). Additionally, our C
+3
+H
+8
+production partial current density (
+\(j_{{\rm{C}}_{3}{\rm{H}}_{8}}\)
+) and energy efficiency calculations (
+\(\rm{EE}_{{\rm{C}}_{3}}{_{\rm{H}_8}}\)
+) indicate maximum
+\(j_{{\rm{C}}_{3}{\rm{H}}_{8}}\)
+of −361 mA cm
+−
+2
+and
+\(\rm{EE}_{{\rm{C}}_{3}}{_{\rm{H}_8}}\)
+of 49% for ImF-Mo
+3
+P at −0.8 V (Supplementary Notes
+5
+and
+6
+).
+To validate and benchmark C
+3
+H
+8
+formation on the ImF-Mo
+3
+P catalyst, we conducted
+13
+C-labelled CO
+2
+(
+13
+CO
+2
+) experiments at −0.8 V (Supplementary Note
+7
+). The results illustrate that CO
+2
+is the main source of the formed products, and C
+1
+and C
+2+
+selectivity of the reaction is not due to a decomposition of carbon-containing molecules (for example, Im). To further verify stability of Im during the eCO
+2
+RR, we have performed a long-term chronoamperometry experiment by purging ultra-high purity argon (Ar), instead of CO
+2
+, to the electrolyser and run the reaction under identical experimental conditions without using the ionomer coating on the cathode electrode (Supplementary Note
+8
+). The product stream analysis indicates that the Im remains fairly stable for about 30 h, and H
+2
+is a single product of the reaction (Supplementary Figs.
+15
+and
+16
+). However, a decomposition of the Im probably occurs after 30 h of the continuous process verified by GC and NMR experiments (Supplementary Figs.
+15
+and
+16
+).
+Then we employed the ionomer in the electrode fabrication of the ImF-Mo
+3
+P catalyst and tested it in a long-run electrocatalytic process at the Ar environment (Supplementary Note
+8
+). Our electrochemical experiments along with characterization results indicate that covering the surface of ImF-Mo
+3
+P with the ionomer increases the stability of the electrode
+30
+where H
+2
+is the only product (Supplementary Note
+8
+). We did not observe other gas or liquid products of the ionomer-coated ImF-Mo
+3
+P electrode during a 100-hour continuous process (Supplementary Fig.
+17
+).
+Next, using the ionomer-coated ImF-Mo
+3
+P electrode, we have performed a long-term experiment and measured overall current density and FE over the course of the eCO
+2
+RR (Fig.
+2c
+). As shown in Fig.
+1c
+, the ionomer-coated ImF-Mo
+3
+P electrode exhibits a stable current density of about −390 mA cm
+−
+2
+at −0.8 V with
+\(\rm{FE}_{{\rm{C}}_{3}}{_{\rm{H}_8}}\)
+of about 91 ± 2% during a 100 h continuous eCO
+2
+RR process (at least three independent measurements were taken to determine the standard deviation represented by the error bars, which are displayed as the mean value ± its corresponding standard deviation). Figure
+2c
+also shows nearly 3% decay in the overall activity (current density) after 100 h. These results suggest that the presence of the ionomer stabilizes ImF-Mo
+3
+P for the long-term eCO
+2
+RR and prevents catalyst leaching that often occurs during long-term catalyst runs
+26
+,
+30
+.
+To rule out the effect of roughness and evaluate the intrinsic activities of the ImF-Mo
+3
+P and Mo
+3
+P catalysts, we calculated turnover frequencies of C
+3
+H
+8
+production (
+\(\rm{TOF}_{{\rm{C}}_{3}}{_{\rm{H}_8}}\)
+) by normalizing their activities to the number of Mo atoms at the surface using the roughness factor method (Supplementary Note
+9
+)
+31
+. The results shown in Supplementary Fig.
+20
+indicate a maximum
+\(\rm{TOF}_{{\rm{C}}_{3}}{_{\rm{H}_8}}\)
+of 1.9 s
+−1
+per site at −0.8 V for ImF-Mo
+3
+P, which is about 66 times higher than that of pristine Mo
+3
+P nanoparticles (0.03 s
+−1
+per site). Furthermore, Tafel plot analysis were conducted using the potentials and partial current densities to gain better understanding about the kinetics of the studied catalysts (Supplementary Note
+10
+)
+31
+. Our study shown in Supplementary Fig.
+21
+indicates a steeper C
+3
+H
+8
+Tafel slope for ImF-Mo
+3
+P compared with pristine Mo
+3
+P, suggesting different C
+3
+H
+8
+formation reaction pathways for the ImF-Mo
+3
+P and Mo
+3
+P catalysts. Moreover, we calculated a C
+3
+H
+8
+formation exchange current density (
+\({i}_{o,{\rm{C}}_3{\rm{H}}_8}\)
+) of 630 µA and 3 × 10
+−4
+µA for ImF-Mo
+3
+P and pristine Mo
+3
+P, respectively (Supplementary Fig.
+21
+). This result clearly shows the superior intrinsic activity of ImF-Mo
+3
+P compared to Mo
+3
+P nanoparticles for C
+3
+H
+8
+production.
+Surface characterization and mechanistic understanding
+To illuminate the origin of the observed electrocatalytic performance, we further studied the surface electronic and structural properties of ImF-Mo
+3
+P by employing density functional theory (DFT) calculations (Supplementary Notes
+12
+–
+17
+), energy-loss near-edge structure (ELNES) and work function measurements (Supplementary Notes
+4
+and
+18
+).
+We quantitatively compared various adsorption configurations of Im on the Mo
+3
+P surface using DFT calculations. Within the bulk stability range of phosphorus chemical potential (∆
+µ
+P
+) for Mo
+3
+P, the –[Mo
+2
+P]
+0.5
+bulk-like terminated facet is determined to be the most stable (110) surface for Mo
+3
+P nanoparticles, according to surface energy calculations of hundreds of reconstructed surfaces obtained from our ab initio Grand-Canonical Monte Carlo (ai-GCMC) simulations
+32
+(Supplementary Notes
+13
+–
+15
+). Then the atomic configuration for the ground-state *Im (N-bonded) adsorbate is shown in Fig.
+3a
+, together with the electronic transfer shown by the electron density difference map. Electrons accumulate between the overlapped orbitals of Mo and N, which indicates that there is a new Mo–N chemical bond formation at the interface of ImF-Mo
+3
+P (additional projected density of states (PDOS) analysis in Supplementary Fig.
+28
+).
+Fig. 3: Electronic structure analyses of the ImF-Mo
+3
+P and Mo
+3
+P catalysts.
+a
+, Electron difference density maps for Im chemisorption onto the Mo
+3
+P (110)-[Mo
+2
+P]
+0.5
+terminated surface, where regions of electron increase are in magenta, and electron losses upon Im adsorption are in cyan.
+b
+, ELNES of Mo-M
+3
+edge for ImF-Mo
+3
+P and bare Mo
+3
+P.
+c
+, EIS experiments of the ImF-Mo
+3
+P and Mo
+3
+P catalysts. The experiments were conducted at a potential of −0.4 V.
+Z
+im
+and
+Z
+real
+show imaginary and real parts of impedance, respectively.
+d
+, In situ electrochemical Raman spectroscopy analyses of the ImF-Mo
+3
+P catalyst in the eCO
+2
+RR at OCP and
+E
+WE
+of −0.8 V.
+Source data
+Full size image
+Next, a combination of thermodynamic coverage calculations and ab initio molecular dynamics stability examinations show that the most favourable ImF-Mo
+3
+P interface is with three Im adsorbed (with N-bonded, C–N-bonded and perpendicular geometries) per (9.63 × 13.85 Å
+2
+) supercell surface area of our Mo
+3
+P slab model (Supplementary Note
+16
+). Moreover, because Mo sites exist on most of the exposed Mo
+3
+P surfaces (Mo
+3
+P is the most Mo-rich molybdenum phosphide in nature), this DFT-defined ImF-Mo
+3
+P (110) interface based on Mo–N bond connection can be extended to other experimentally observed Mo
+3
+P surface reconstructions. Finally, the DFT-determined ImF-Mo
+3
+P shows a 0.8 nm thickness of Im monolayer coated on the Mo
+3
+P surface, which is close to our experimental measurements (≈1 nm) (Fig.
+1e
+and Supplementary Fig.
+4b
+).
+The electronic properties of surface atoms were analysed by ELNES. Figure
+3b
+represents ELNES of Mo-M
+3
+edge from the ImF-Mo
+3
+P surface and pristine Mo
+3
+P (Supplementary Note
+3
+). The Mo-M
+3
+edge white line indicates electronic transition from 3
+p
+3/2
+to 3
+s
+,
+d
+orbitals. As shown in Fig.
+3b
+, a slight shift (0.7 eV) of the ImF-Mo
+3
+P surface spectrum compared with pristine Mo
+3
+P and an increase of white-line intensity can be observed, suggesting that the Mo atoms of the ImF-Mo
+3
+P surface have higher potential electrochemical activity than Mo atoms in the Mo
+3
+P nanoparticles. Moreover, the PDOS results (Supplementary Fig.
+28
+) show that more electronic states of Mo
+d
+orbitals are near the Fermi energy when Im coats the Mo
+3
+P surfaces. As a result, the Mo
+d
+band centre in ImF-Mo
+3
+P (−0.39 eV) is higher than that of pristine Mo
+3
+P (−0.77 eV), which indicates that Mo sites in ImF-Mo
+3
+P are more promising towards CO
+2
+/CO adsorption.
+Ultraviolet photoelectron spectroscopy (UPS) was also used to compare the surface work function of the studied catalysts (Supplementary Fig.
+18
+). The results indicate a lower work function for ImF-Mo
+3
+P (3.31 eV) compared to pristine Mo
+3
+P (3.45 eV), in agreement with our PDOS results of ImF-Mo
+3
+P and pristine Mo
+3
+P (Supplementary Fig.
+28
+). To further analyse the charge-transfer properties of the studied catalysts in the double-layer region, similar to our previous studies
+27
+,
+31
+, we performed electrochemical impedance spectroscopy (EIS) experiments at a potential of −0.4 V under identical experimental conditions (Supplementary Note
+18
+). Figure
+3c
+shows the fitted EIS spectra of the ImF-Mo
+3
+P and Mo
+3
+P catalysts using a Randles circuit model, indicating a smaller charge-transfer resistance (
+R
+ct
+) for ImF-Mo
+3
+P (~6 Ω) compared with pristine Mo
+3
+P (~10 Ω) (ref.
+33
+). The lower work function and charge-transfer resistance obtained by UPS and EIS experiments, respectively, along with ELNES analyses suggest that functionalizing Mo
+3
+P with Im promotes the electronic properties of Mo atoms at the surface of ImF-Mo
+3
+P, resulting in a higher electrocatalytic activity of ImF-Mo
+3
+P compared to pristine Mo
+3
+P nanoparticles.
+As in our previous study
+27
+, the in situ Raman spectroscopy was conducted while performing the eCO
+2
+RR to elucidate the higher C
+3
+H
+8
+selectivity of the ImF-Mo
+3
+P catalyst compared with pristine Mo
+3
+P (Supplementary Note
+19
+). Figure
+3d,e
+and Supplementary Fig.
+31
+indicate the in situ Raman spectra of the catalysts in a CO
+2
+-saturated 1 M KOH electrolyte at open circuit potential (OCP) and a working electrode cathodic potential (
+E
+WE
+) of −0.8 V. The results show four distinct Raman peaks at 275, 334, 1,063 and 2,294 cm
+−1
+with the 1,063 cm
+−1
+peak corresponding to the adsorbed carbonate (CO
+3
+2−
+) species at −0.8 V (refs.
+34
+,
+35
+,
+36
+). However, at this potential, three newly observed Raman peaks at 275, 334 and 2,294 cm
+−1
+correspond to frustrated rotation of adsorbed *CO intermediates (P1), Mo–CO stretching (P2) and *C–O stretching (P3), respectively.
+Our peak intensity analysis indicates that P2/P1 ratio for ImF-Mo
+3
+P (P2/P1
+≅
+1.8) is approximately nine times higher than that of Mo
+3
+P catalyst (P2/P1
+≅
+0.2) at −0.8 V that can be an indication of stabilized *CO intermediates on the ImF-Mo
+3
+P surface, leading to enhanced C–C–C trimerization
+34
+,
+35
+,
+36
+. Furthermore, the observed P3 peak (*C–O stretching) at −0.8 V with relatively higher intensity for ImF-Mo
+3
+P compared with pristine Mo
+3
+P (Supplementary Fig.
+31
+) indicates a greater concentration/coverage of adsorbed *CO intermediates on the surface, which can be another reason for the increased *CO trimerization and consequently higher production rate of C
+3
+H
+8
+in the ImF-Mo
+3
+P catalytic system
+35
+.
+To study why this catalytic system is mainly selective for hydrocarbons and not oxygenate products, due to their intertwined pathways, we also performed carbon monoxide reduction reaction (CORR) experiments by using CO as the reactant to ensure a fully CO-covered surface (Supplementary Note
+19
+). The selectivity analysis of ImF-Mo
+3
+P shown in Supplementary Fig.
+32
+indicates that this catalytic system is mainly selective for C
+3
+H
+8
+, C
+2
+H
+4
+and CH
+4
+with an overall FE of about 80% at a cathodic potential of −0.5 V, where trace amounts of alcohols (less than 2%) were observed at this potential (Supplementary Note
+20
+). The CORR results suggest that with a fully CO-covered surface, this catalytic system is mainly selective for production of hydrocarbons, with C
+3
+H
+8
+as the dominant product (Supplementary Note
+20
+).
+Next we investigated the active sites for CO
+2
+adsorption on the ImF-Mo
+3
+P surface using DFT calculations to gain more insight into the mechanism of the eCO
+2
+RR. Figure
+4a–c
+shows the configurations and standard Gibbs free energies (∆
+G
+°) for CO
+2
+adsorption on the three active sites: C site between two N atoms of Im, bare Mo sites and bare P sites on the −[Mo
+2
+P]
+0.5
+-terminated Mo
+3
+P (110) surface, respectively, that were identified to be the promising sites
+37
+,
+38
+. The calculations indicate that the bare Mo atoms on the ImF-Mo
+3
+P surface are the most desired sites (Fig.
+4c
+, ∆
+G
+° = −1.22 eV), where the C atom locates atop the Mo site and the O atoms locate on the bridge sites between two adjacent Mo sites (
+d
+Mo–Mo
+= 2.8 Å).
+Fig. 4: DFT results.
+a
+–
+c
+, Three possible active sites for CO
+2
+adsorption on the ImF-Mo
+3
+P catalysts, associated with the standard adsorption Gibbs free energies (∆
+G
+° =
+G
+0
+*CO2
+–
+G
+0
+* –
+G
+0
+CO2
+, where * indicates the ImF-Mo
+3
+P catalyst). More details of ∆
+G
+0
+definition can be seen in the computational details of Supplementary Note
+11
+.
+d
+, CO
+2
+adsorption on the pristine –[Mo
+2
+P]
+0.5
+-terminated Mo
+3
+P (110) surface (without Im cation).
+e
+, The most thermodynamically favourable eCO
+2
+RR pathway to produce C
+3
+H
+8
+on the ImF-Mo
+3
+P catalyst, with their Gibbs free energies at each step summarized in Supplementary Table
+3
+. Δ
+G
+at
+U
+RHE
+and number of electron transfer at each step are shown in blue and green, respectively; TS and
+E
+a
+at the CO release and trimerization steps are shown in red. The initial reactant CO
+2
+and ultimate product C
+3
+H
+8
+are shown in purple. The full mechanism and less favourable steps for the eCO
+2
+RR can be found in Supplementary Fig.
+38
+. The full trimerization steps for the eCO
+2
+RR can be found in Supplementary Fig.
+41
+. TS, transition energy;
+E
+a
+, activation barrier; RC, reaction coordinate;
+U
+RHE
+, DFT applied potential versus RHE.
+Full size image
+It is worth noting that the Im-based ionic liquid was previously assumed to be the dominant catalyst for CO
+2
+adsorption in theoretical and experimental studies
+37
+,
+38
+,
+39
+,
+40
+, because in the structure of Im (coupled with counter anions), the C
+1
+–H
+1
+bond (between two N sites; Supplementary Note
+15
+) is easily deprotonated, thus becoming active
+37
+,
+38
+,
+39
+,
+40
+. However, our DFT-derived Bader charge (
+q
+) shows that once the Im cation is adsorbed on the Mo
+3
+P catalysts, all H atoms are covalently bonded to C in Im and are not easily deprotonated (Supplementary Note
+16
+), unlike the electronic distribution of Im in the bulk ionic liquid (Supplementary Note
+15
+). Therefore, we found it is energetically unfavourable (∆
+G
+° = 1.29 eV) to form Im-CO
+2
+as a molecular adsorbate on the ImF-Mo
+3
+P surface (Fig.
+4a
+). Instead, the computed ∆
+G
+° values with and without Im (Fig.
+4c,d
+, respectively) indicate that Im acts as a ligand to stabilize the *CO
+2
+adsorption by −0.26 eV on the Mo sites at the Mo
+3
+P surface with a fairly small activation barrier of 0.22 eV (Supplementary Fig.
+33
+and Supplementary Note
+21
+).
+The *Im-promoted CO
+2
+adsorption process is found to benefit from Im acting as a cation bonded to the surface (
+q
+Im-per-molecule
+= 0.8
+e
+). This ligand can provide an electric field that electrostatically stabilizes the CO
+2
+anion once adsorbed (
+q
+O-in-CO2
+= −1.6
+e
+), which additionally forms multiple hydrogen bonds between *Im and *CO
+2
+(the closest O–H distance between *Im and *CO
+2
+is 1.81 Å) in agreement with the assumptions in other studies
+37
+,
+38
+. In addition, the activation barrier of CO desorption is found to be 1.89 eV on the ImF-Mo
+3
+P catalyst (Supplementary Fig.
+39
+), which is much larger than that of pristine Mo
+3
+P (1.1 eV) and most classical catalysts for the eCO
+2
+RR (in a range of 0.7–1.1 eV, for example, Cu)
+41
+,
+42
+. Therefore, from both thermodynamic and kinetic perspectives, the *CO intermediate will be more favourable to remain on the surface, leading to the formation of multi-carbon products on the ImF-Mo
+3
+P surface (Supplementary Note
+27
+). This supports our in situ Raman spectroscopy analyses (Fig.
+3
+) indicating that the stabilized *CO intermediates along with a high concentration/coverage of adsorbed *CO intermediates on the surface of ImF-Mo
+3
+P result in a higher *CO trimerization and C
+3
+H
+8
+production for this catalyst
+43
+. In addition, the above findings of active sites and the Im co-catalyst role (towards eCO
+2
+RR) are also observed on another less thermodynamically favourable surface (Supplementary Note
+23
+).
+Equipped with the active-site determination towards CO
+2
+adsorption on the surface of the ImF-Mo
+3
+P catalyst, we then studied the reaction pathways of the eCO
+2
+RR from CO
+2
+adsorbates to the C
+3
+H
+8
+product. To achieve this, we first determined that CO
+2
+adsorption becomes more thermodynamically favourable than the competitive reaction of OH
+−
+adsorption at −0.22 V versus RHE (OH
+−
+coming from 1 M KOH, thus affected by both pH and voltage) (Supplementary Note
+23
+). Once CO
+2
+adsorption becomes the dominant reaction on the Mo sites of ImF-Mo
+3
+P, the eCO
+2
+RR proceeds via multi-step protonation and electron transfer reactions (adding H
++
+/e
+−
+to C and O atoms in the C-based intermediates; Supplementary Note
+24
+).
+Figure
+4e
+shows the most thermodynamically favourable reaction pathway from *CO
+2
+adsorbate (reaction coordinate, RC1) to C
+3
+H
+8
+(RC17) on the ImF-Mo
+3
+P catalyst, together with the DFT-derived Gibbs free energies (∆
+G
+) of all steps, summarized in Supplementary Table
+3
+. The overall potential-determining step during the eCO
+2
+RR is the initial proton-coupled electron transfer (PCET) step for *CO
+2
+adsorbate to form *COOH, requiring −0.25 V versus RHE to make it thermodynamically favourable.
+The initial PCET step for CO
+2
+(or CO) adsorbate has also been reported to be the potential-determining step on other catalysts
+44
+,
+45
+,
+46
+, including the classic Cu-based catalysts
+47
+,
+48
+and transition-metal phosphides from our previous study
+13
+. Considering this thermodynamic-determined applied potential (−0.25 V) contribution, all the ensuing steps, consisting of adding H via H
+2
+O dissociation reactions and adding CO
+2
+to form C–C and C–C–C intermediates, are downhill (∆
+G
+< 0). In the most thermodynamically favourable mechanism (Fig.
+4e
+), the initial steps (before RC7) consist of three sequential *CO
+2
+adsorptions and related PCET reactions (*CO
+2
+→ *COOH → *CO), thus forming *CO + *CO + *CO adsorbates (RC7) on three neighbouring Mo sites on ImF-Mo
+3
+P. As for the next step of PCET for the middle *CO adsorbate to form RC8, the *CHO formation is found more thermodynamically favourable than the formation of *COH, in agreement with other studies (Supplementary Note
+28
+)
+49
+,
+50
+,
+51
+. With these findings, the *CO + *CH + *CO (RC10) is found to be the most promising precursor to proceed into the trimerization step with ∆
+G
+= −0.65 eV, while trimerization of all RC7–RC9 states is thermodynamically unfavourable (cyan blue lines in Supplementary Fig.
+38
+).
+The structural evolution and free-energy profile (including activation barrier) for the trimerization step from *CO + *CH + *CO (RC10) to *CO–CH–CO (RC11) are shown in Supplementary Fig.
+41
+, where the transition states for the C–C coupling steps are found to be 0.34 eV higher in energy than RC10, estimated by climbing-image-nudged elastic band method without temperature effects. Such a small energy requirement for C–C coupling can be easily achieved at room temperature
+52
+and promoted by the next rapid hydrogenation step to form multi-carbon products compared to other reported catalysts in eCO
+2
+RR
+13
+,
+47
+,
+49
+,
+51
+.
+After this key *C–C–C trimer is produced on the surface, the pathway to form the ultimate C
+3
+H
+8
+products becomes unique and straightforward, involving protonating all the O/OH groups in the adsorbates (starting from RC11) into H
+2
+O and saturating C with H atoms to form RC15. In addition, we also examined the ultimate product selectivity of gaseous hydrocarbons versus liquid oxygenates. Comparing the different PCET routes for the *CHOH group in RC14, we found that the energy barrier to protonate C, and therefore desorbing −CH
+2
+OH from the surface, is fairly larger (by 0.46 eV) than protonating the OH group that keeps *CH on the surface, because the former step requires additional energy to break the Mo–C bond (Supplementary Note
+29
+). Therefore, we believe that *CHOH groups in RC14 prefer to be reduced to *CH in RC15, followed by further PCET steps to form the ultimate C
+3
+H
+8
+product as we provided in the mechanistic Fig.
+4e
+. This is consistent with our CORR experiments where we observed only hydrocarbons to be possible products for this catalyst (Supplementary Note
+20
+). In addition, C
+4
+and C
+5
+products are difficult to form due to the surface structural limits, because the next active and bare Mo sites are at least 3 Å away from the Mo sites occupied by the *C–C–C trimer, which is too far to combine more C–C bonds (1.5 Å) (side/top view of trimer in Supplementary Fig.
+43
+).
+Conclusions
+In summary, our study highlights the potential of the ImF-Mo
+3
+P catalyst coated by the anion-exchange ionomer for efficient and selective electrocatalytic conversion of CO
+2
+into C
+3
+H
+8
+. The functionalization of Mo
+3
+P nanoparticles with Im leads to a remarkable improvement in the electrocatalytic properties of the Mo atoms by fine tuning the electronic properties and electric field characteristics on the catalyst surface. This modification increases the formation of stable aggregations of multi-site *CO
+2
+/*CO-related intermediates on the Mo sites, thereby facilitating the desired pathway for C
+3
+H
+8
+production as the final product.
+Methods
+Synthesis of studied catalysts
+Mo
+3
+P nanoparticles were synthesized using a facile colloidal chemistry method followed by a two-step thermal sintering process. Ammonium molybdate tetrahydrate, diammonium phosphate dibasic and citric acid were mixed in molar ratios of 1:3:6 and dissolved in sufficient deionized water to obtain the initial mixture of the precursors. The mixture was then heated and stirred at 90 °C overnight to allow enough time for the reaction. The colour of the mixture changes first to yellow and ends up with a milky white colour when the reaction is complete. The mixture was further dried at 120 °C in a vacuum oven to evaporate the excess water, and the resulting sludge was then ground to a fine powder in a mortar. A dual-zone tube furnace, for close temperature control, was used to sinter the powder under controlled nitrogen flow for 6 h. The obtained dark grey powder was then uniformly dispersed in a quartz crucible, heated to 850 °C and kept for two hours under controlled flow of argon and hydrogen to obtain the Mo
+3
+P nanoparticles. An electrochemical approach was employed to deposit 1-ethyl-3-methylimidazolium on the surface of Mo
+3
+P nanoparticles according to the literature
+53
+,
+54
+. To do so, 10 mg of Mo
+3
+P nanoparticles were coated on a gas diffusion layer (Sigracet 39 BC, FuelCellStore) with 5 cm
+2
+area and used as a cathode. The Mo
+3
+P-coated gas diffusion electrode was thoroughly rinsed and dried in a vacuumed oven and under nitrogen gas before deposition of 1-ethyl-3-methylimidazolium. The electrochemical deposition step consists of a conventional three-electrode cell, with the Mo
+3
+P-coated gas diffusion layer as the working electrode, Ag/AgCl as a reference electrode and platinum mesh as a counter electrode. A 5 mM solution of 1-ethyl-3-methylimidazolium tetrafluoroborate salt (Sigma-Aldrich) in 100 ml acetonitrile (Sigma-Aldrich) added to 2 ml of distilled water at room temperature was used as an electrolyte. Then, a negative potential of −1 V was applied for 5 min to synthesize ImF-Mo
+3
+P nanoparticles. The proximity between the 1-ethyl-3-methylimidazolium and Mo
+3
+P nanoparticles enables the formation of ImF-Mo
+3
+P nanoparticles under ambient conditions
+53
+. The synthesized ImF-Mo
+3
+P nanoparticles were rinsed with acetonitrile and water twice and dried under N
+2
+flow.
+X-ray diffraction
+The X-ray diffraction technique was used to identify the phase purity and crystallinity of all studied catalysts using a Bruker D2 PHASER diffractometer in Bragg–Brentano geometry employing a Ni filtered Cu Kα radiation (1.5405 Å). The X-ray diffraction patterns were obtained using a LynxEye linear position sensitive detector and a step width of 0.2° 2
+θ
+with a counting time of 1 s per step. All other parameters were chosen to enhance the signal-to-noise ratio in the data.
+X-ray photoelectron spectroscopy
+The X-ray photoelectron spectroscopy spectra of ImF-Mo
+3
+P and Mo
+3
+P nanoparticles were obtained using a Thermo-Scientific ESCALAB 250Xi instrument equipped with an electron flood and scanning ion gun where the pressure of the analysis chamber was less than 2 × 10
+−9
+torr. The XPS instrument was calibrated before the experiments with binding energies all referenced to the Au 4
+f
+7/2
+at 83.96 eV and Ag 3
+d
+5/2
+at 368.27 eV. ImF-Mo
+3
+P and Mo
+3
+P samples were irradiated by a monochromatic Al-Kα X-ray source. All scans were acquired with a pass energy of 20 eV, 0.05 eV step size and dwell time of 200 ms using a charge neutralization system (an ion flood gun). The data processing was performed using Avantage software such that Mo 3
+d
+, P 2
+p
+and N 1
+s
+spectra were calibrated against the binding energy for adventitious carbon peak detected as a sharp intensity peak in the C 1
+s
+region (284.8 eV). For the curve fitting, a Shirley background was used to consider the inelastic scattering.
+Scanning transmission electron microscopy
+Studied catalysts were characterized by drop casting dispersion solution on a copper grid to investigate the Im-functionalized layer on the surface of ImF-Mo
+3
+P nanoparticles using a spherical aberration corrected JEOL JEM-ARM 200CF STEM with a cold field emission gun operating at 200 kV, with a 22 mrad convergence angle. The high-angle annular dark-field and annular bright field images were taken using an Orius CCD camera with 512 × 512 scanning resolution. Electron energy loss spectra (EELS) were acquired on a Gatan GIF Quantum spectrometer with an entrance aperture of 5 mm. The ELNES for Mo-M
+3
+edge was extracted applying power law fitting background subtraction after energy drift correction and Fourier-ratio deconvolution.
+Electrochemical set-up
+As in our previous work
+27
+, a two-compartment flow electrolyser was used for electrochemical experiments. It consists of housings, gaskets, anode and cathode flow-field plates and an anion-exchange membrane. The anode and cathode housings (10 × 10 × 1 cm) are made from stainless steel and serve to deliver liquid and gas feeds to the anode and cathode parts, through 0.125″ National Pipe Taper ports with barbed tubing adaptors. The cathode and anode flow-field compartments with active surface areas of 5 cm
+2
+sandwich an ionic exchange membrane (Sustainion X37-50 Grade RT, Dioxide Materials). The membrane was treated in a CO
+2
+saturated 3 M potassium hydroxide solution for 12 h at 50 °C before use. Working electrodes (cathode) were prepared by brush-coating the solution of studied catalysts on the gas diffusion layer (Sigracet 39 BC, Fuel Cell Store) electrodes. The counter electrode (anode) was prepared using a similar procedure, where IrO
+2
+powder was used as the catalyst solution. Anolyte flow of 1 M KOH with a flow rate of 30 ml min
+−1
+was fed to the anode compartment using a peristaltic pump. A mass flow controller (SmartTrak 50, Sierra, calibrated with CO
+2
+gas) connected to the CO
+2
+humidifier kit was used to feed the cathode compartment with a flow rate of 30 ml min
+−1
+.
+Electrochemical analysis and Faradaic efficiency measurement
+As in our previous studies
+27
+,
+31
+, the products of electrocatalytic CO
+2
+RR were detected and quantified using a gas chromatograph (GC) of type SRI 8610 C Multiple Gas Analyzer and differential electrochemical mass spectroscopy (DEMS, HPR-40, Hiden Analytical). The GC system comprised a sampling loop equipped with a flame ionization detector and a thermal conductivity detector. Ultra-high purity helium (He) and nitrogen (N
+2
+) (UHP 99.99%, Airgas) were used as the carrier gases to identify any possible type of product. The column oven was maintained at 40 °C for 2 min followed by a temperature ramp at 20 °C min
+−1
+to 250 °C, which was held constant for 1 min for a precise product analysis. To measure the selectivity of the system, the signal response of the flame ionization detector and thermal conductivity detector to each product was calibrated by analysing a series of standard mixtures with known compositions before the experiments. The chronoamperometry experiments were performed for 1 h at different potentials and the product streams were analysed by injecting into the gas chromatograph. The in situ DEMS was also used in this work to validate the electrocatalytic performance of catalysts measured by GC
+.
+In situ DEMS allows for the continuous detection of gaseous and volatile species produced during the electrochemical CO
+2
+RR even at trace amounts (partial pressures as low as 1 × 10
+−13
+torr). The analysis system consists of a commercial mass spectrometer (HPR-40, Hiden Analytical) and a custom-made capillary as the inlet. The electrochemical CO
+2
+reaction products were continuously collected during the chronoamperometry experiments. Mass spectrometer settings were determined to be optimal for enhancing the signal-to-noise ratio of products. The signal responses of the DEMS instrument for different products were calibrated by feeding standard samples into the mass spectrometer. An electron energy of 70 eV was used for ionization of all species, with an emission current of 500 µA. The mass-to-charge ratios (
+m
+/
+z
+) of 2, 12, 15, 27 and 29 were selected for measuring production of H
+2
+, CO, CH
+4
+, C
+2
+H
+6
+and C
+3
+H
+8
+, respectively. All mass-selected product cations were detected by a secondary electron multiplier with a detector voltage of 1,200 V for maximizing the signal-to-noise ratio of the products. We also performed the nuclear magnetic resonance (NMR) spectroscopy to analyse the possible liquid products of the eCO
+2
+RR. To do so, 0.2 ml of the electrolyte was taken and mixed with a 0.5 ml deuterium oxide (D
+2
+O 99.9% deuterium, Sigma-Aldrich) in a 5 mm NMR glass tube (Wilmad).
+1
+H NMR spectroscopy experiments were carried out using a 500 MHz Bruker Advance III HD system equipped with a TXO Prodigy probe with
+Z
+-gradient for enhanced sensitivity (1H = 1,200) at the Integrated Molecular Structure Education and Research Center at Northwestern University. Equation (
+1
+) was used to calculate FEs of catalysts at different applied potentials.
+$$\mathrm{FE}=\frac{\mathrm{Experimental}\,\mathrm{moles}\,\mathrm{of}\,\mathrm{product}}{\mathrm{Theoretical}\,\mathrm{moles}\,\mathrm{of}\,\mathrm{product}}=\frac{{nF}\theta {f}_\mathrm{m}}{I},$$
+(1)
+where
+n
+is the number of electrons for a given product,
+F
+is the Faraday constant,
+θ
+is the volume fraction of the gases,
+f
+m
+is the molar reacting-gas flow rate and
+I
+is the current.
+Energy efficiency calculations
+The energy efficiency is calculated based on the cathodic CO
+2
+reduction reaction coupled with the anodic water splitting reaction (O
+2
++ 4H
++
++ 4e
+−
+↔ 2H
+2
+O,
+E
+water splitting
+≅
+1.23 V versus RHE). The C
+3
+H
+8
+production full-cell energy efficiency for the ImF-Mo
+3
+P catalyst obtained using equation (
+2
+):
+$${\rm{Energy}}\; {\rm{efficiency}}\,( \% )=\frac{{E}_{\mathrm{propane}}{\times} \,{\mathrm{FE}}_{{\rm{propane}}}}{{E}_{{\rm{full}}\; {\rm{cell}}}}$$
+(2)
+where
+E
+full cell
+is applied full-cell potential
+\(({E}_{{\rm{full}}\; {\rm{cell}}}={E}_{{\rm{cathode}}}{-}{E}_{{\rm{water}}\; {\rm{splitting}}})\)
+and
+E
+propane
+is the thermodynamic full-cell potential of CO
+2
+conversion to C
+3
+H
+8
+. The thermodynamic potential of the CO
+2
+conversion to propane (3CO
+2
++ 20H
++
++ 20e
+−
+↔ C
+3
+H
+8
++ 6H
+2
+O) is calculated using the Gibbs free energy of species where for the reversible electrochemical reactions
+\(\triangle G=-{n\mathrm{FE}}\)
+. The thermodynamic full-cell potential of CO
+2
+conversion to C
+3
+H
+8
+(coupled with water splitting) is calculated to be
+E
+propane
+≅
+0.14 − 1.23 = −1.09 V.
+Theoretical study
+DFT calculations were performed using the Vienna Ab initio Simulation Package
+55
+,
+56
+within the generalized gradient approximation utilizing the revised Perdew–Burke–Ernzerhof exchange-correlation functional
+57
+. The revised Perdew–Burke–Ernzerhof functional was corrected for long-range dispersion interactions using the D3 approach according to the Grimme formalism
+58
+,
+59
+. A cut-off energy of 500 eV was chosen, and the convergence criteria for the total energy and atomic forces were set to 10
+−4
+eV per unit cell and 0.01 eV Å
+−1
+, respectively. The rotationally invariant GGA +
+U
+approach was applied using the
+U
+–
+J
+value of 4.0 eV on the Mo 4
+d
+orbitals
+60
+,
+61
+. The bulk structure of Mo
+3
+P (Supplementary Fig.
+22a
+) was optimized with a 3 × 3 × 10 Monkhorst–Pack mesh to sample the
+k
+-space, while the Mo
+3
+P (110) slabs were computed using a 3 × 2 × 1
+k
+-point mesh. The ab initio Grand-Canonical Monte Carlo (ai-GCMC) simulations package was used to consider the atomic reconstructions of the Mo
+3
+P surface
+32
+. The surface free energies (defined in the Supplementary equation
+7
+) of 500 reconstructed surfaces from ai-GCMC are calculated to determine the surface stability of the Mo
+3
+P catalysts. Born–Oppenheimer molecular dynamics and Born–Oppenheimer molecular dynamics-based slow growth
+62
+approaches are employed to determine the interfacial structural stability and evolution before and during CO
+2
+adsorption on the ImF-Mo
+3
+P surface. Such methods have been successfully used to simulate rare-event electrochemical reactions in solvents and at the interface in our recent publication
+63
+,
+64
+,
+65
+.The Gibbs free energies are calculated for all steps of reactions shown in the mechanisms, while the kinetic barriers of key steps are estimated by the climbing-image nudged elastic band method
+66
+. More details of computational methods and models can be found in the Supplementary Notes
+12
+–
+17
+.
+Electrochemical impedance spectroscopy
+To compare the
+R
+ct
+of the ImF-Mo
+3
+P and Mo
+3
+P nanoparticles, we performed EIS experiments at the low potential of −0.4 V versus RHE. The EIS experiments were performed under identical experimental conditions. The ImF-Mo
+3
+P and Mo
+3
+P catalysts with similar structural and physical properties for example, sizes, shapes and mass loadings (0.2 mg cm
+−
+2
+) were used as the working electrodes to have a fair comparative analysis by minimizing a variation of characteristic properties of the studied samples, for example, roughness, intrinsic capacitance and exposed surface area. The Nyquist plots for different catalysts were recorded at a small amplitude of 10 mV and over a frequency range of 1 to 2 × 10
+5
+Hz. Figure
+2c
+shows the fitted EIS spectra of ImF-Mo
+3
+P and Mo
+3
+P nanoparticles using the Randles circuit model.
+In situ Raman spectroscopy
+As in our previous study
+27
+, the in situ electrochemical Raman spectroscopy was conducted in a custom-designed electrochemical cell employing Horiba LabRAM HR Evo Confocal Raman (Horiba Scientific Instrument). A 532 nm laser source, a HORIBA Synapse detector, 600 g mm
+−1
+grating and a long-distance 50× objective was used to probe the samples. The measurement parameters such as acquisition time, averaging parameters and laser power were all optimized to enhance the signal-to-noise ratio of the spectra. The Raman laser was focused onto the surface of the working electrode through a transparent quartz window (1 mm thick) and a thin layer of electrolyte with a total optical path of 3.25 mm. More details about in situ Raman spectroscopy can be found in Supplementary Note
+19
+.
+Data availability
+The authors declare that the data supporting the findings of this study are available within the paper and its
+Supplementary Information
+.
+Source data
+are provided with this paper.
+References
+Gielen, D., Boshell, F. & Saygin, D. Climate and energy challenges for materials science.
+Nat. Mater.
+15
+, 117–120 (2016).
+Article
+Google Scholar
+McDonald, T. M. et al. Cooperative insertion of CO
+2
+in diamine-appended metal–organic frameworks.
+Nature
+519
+, 303–308 (2015).
+Article
+Google Scholar
+de Luna, P. et al. What would it take for renewably powered electrosynthesis to displace petrochemical processes?
+Science
+364
+, eaav3506 (2019).
+Article
+Google Scholar
+Birdja, Y. Y. et al. Advances and challenges in understanding the electrocatalytic conversion of carbon dioxide to fuels.
+Nat. Energy
+4
+, 732–745 (2019).
+Article
+Google Scholar
+Asadi, M. et al. Highly efficient solar-driven carbon dioxide reduction on molybdenum disulfide catalyst using choline chloride-based electrolyte.
+Adv. Energy Mater.
+9
+, 1803536 (2019).
+Article
+Google Scholar
+Esmaeilirad, M. et al. Oxygen functionalized copper nanoparticles for solar-driven conversion of carbon dioxide to methane.
+ACS Nano
+14
+, 2099–2108 (2020).
+Article
+Google Scholar
+Kuhl, K. P., Cave, E. R., Abram, D. N. & Jaramillo, T. F. New insights into the electrochemical reduction of carbon dioxide on metallic copper surfaces.
+Energy Environ. Sci.
+5
+, 7050–7059 (2012).
+Article
+Google Scholar
+Zhuang, T.-T. et al. Copper nanocavities confine intermediates for efficient electrosynthesis of C
+3
+alcohol fuels from carbon monoxide.
+Nat. Catal.
+1
+, 946–951 (2018).
+Article
+Google Scholar
+Ma, W. et al. Electrocatalytic reduction of CO
+2
+to ethylene and ethanol through hydrogen-assisted C–C coupling over fluorine-modified copper.
+Nat. Catal.
+3
+, 478–487 (2020).
+Article
+Google Scholar
+Gao, J. et al. Electrochemical synthesis of propylene from carbon dioxide on copper nanocrystals.
+Nat. Chem.
+15
+, 705–713 (2023).
+Article
+Google Scholar
+Azenha, C., Mateos-Pedrero, C., Alvarez-Guerra, M., Irabien, A. & Mendes, A. Binary copper–bismuth catalysts for the electrochemical reduction of CO
+2
+: study on surface properties and catalytic activity.
+Chem. Eng. J.
+445
+, 136575 (2022).
+Article
+Google Scholar
+Calvinho, K. U. D. et al. Selective CO
+2
+reduction to C
+3
+and C
+4
+oxyhydrocarbons on nickel phosphides at overpotentials as low as 10 mV.
+Energy Environ. Sci.
+11
+, 2550–2559 (2018).
+Article
+Google Scholar
+Banerjee, S., Kakekhani, A., Wexler, R. B. & Rappe, A. M. Mechanistic insights into CO
+2
+electroreduction on Ni
+2
+P: understanding its selectivity toward multicarbon products.
+ACS Catal.
+11
+, 11706–11715 (2021).
+Article
+Google Scholar
+Calvinho, K. U. D. et al. Surface hydrides on Fe
+2
+P electrocatalyst reduce CO
+2
+at low overpotential: steering selectivity to ethylene glycol.
+J. Am. Chem. Soc.
+https://doi.org/10.1021/jacs.1c03428
+(2021).
+Article
+Google Scholar
+Ji, L. et al. Highly selective electrochemical reduction of CO
+2
+to alcohols on an FeP nanoarray.
+Angew. Chem. Int. Ed.
+59
+, 758–762 (2020).
+Article
+Google Scholar
+Mou, S. et al. Boron phosphide nanoparticles: a non-metal catalyst for high-selectivity electrochemical reduction of CO
+2
+to CH
+3
+OH.
+Adv. Mater.
+31
+, e1903499 (2019).
+Article
+Google Scholar
+Ji, L. et al. Electrocatalytic CO
+2
+reduction to alcohols with high selectivity over a two-dimensional Fe
+2
+P
+2
+S
+6
+nanosheet.
+ACS Catal.
+9
+, 9721–9725 (2019).
+Article
+Google Scholar
+Rosen, B. A. et al. Ionic liquid-mediated selective conversion of CO
+2
+to CO at low overpotentials.
+Science
+334
+, 643–644 (2011).
+Article
+Google Scholar
+Chen, L. D., Urushihara, M., Chan, K. & Nørskov, J. K. Electric field effects in electrochemical CO
+2
+reduction.
+ACS Catal.
+6
+, 7133–7139 (2016).
+Article
+Google Scholar
+Urushihara, M., Chan, K., Shi, C. & Nørskov, J. K. Theoretical study of EMIM+ adsorption on silver electrode surfaces.
+J. Phys. Chem. C
+119
+, 20023–20029 (2015).
+Article
+Google Scholar
+Liu, M. et al. Enhanced electrocatalytic CO
+2
+reduction via field-induced reagent concentration.
+Nature
+537
+, 382 (2016).
+Article
+Google Scholar
+Asadi, M. et al. Nanostructured transition metal-dichalcogenide electrocatalysts for CO
+2
+reduction in ionic liquid.
+Science
+353
+, 467–470 (2016).
+Article
+Google Scholar
+Ren, W. et al. Confinement of ionic liquids at single-Ni-sites boost electroreduction of CO
+2
+in aqueous electrolytes.
+ACS Catal.
+10
+, 13171–13178 (2020).
+Article
+Google Scholar
+Yu, S. & Jain, P. K. Plasmonic photosynthesis of C
+1
+–C
+3
+hydrocarbons from carbon dioxide assisted by an ionic liquid.
+Nat. Commun.
+10
+, 2022 (2019).
+Article
+Google Scholar
+Kondori, A. et al. Identifying catalytic active sites of trimolybdenum phosphide (Mo
+3
+P) for electrochemical hydrogen evolution.
+Adv. Energy Mater.
+9
+, 1900516 (2019).
+Article
+Google Scholar
+Kim, C. et al. Tailored catalyst microenvironments for CO
+2
+electroreduction to multicarbon products on copper using bilayer ionomer coatings.
+Nat. Energy
+6
+, 1026–1034 (2021).
+Article
+Google Scholar
+Esmaeilirad, M. et al. Efficient electrocatalytic conversion of CO
+2
+to ethanol enabled by imidazolium-functionalized ionomer confined molybdenum phosphide.
+Appl. Catal. B
+317
+, 121681 (2022).
+Article
+Google Scholar
+Asadi, M. et al. Robust carbon dioxide reduction on molybdenum disulphide edges.
+Nat. Commun.
+5
+, 4470 (2014).
+Article
+Google Scholar
+Valenti, M. et al. Suppressing H
+2
+evolution and promoting selective CO
+2
+electroreduction to CO at low overpotentials by alloying Au with Pd.
+ACS Catal.
+9
+, 3527–3536 (2019).
+Article
+Google Scholar
+Junge Puring, K. et al. Electrochemical CO
+2
+reduction: tailoring catalyst layers in gas diffusion electrodes.
+Adv. Sustain. Syst.
+5
+, 2000088 (2021).
+Article
+Google Scholar
+Esmaeilirad, M. et al. Gold-like activity copper-like selectivity of heteroatomic transition metal carbides for electrocatalytic carbon dioxide reduction reaction.
+Nat. Commun.
+12
+, 5067 (2021).
+Article
+Google Scholar
+Wexler, R. B., Qiu, T. & Rappe, A. M. Automatic prediction of surface phase diagrams using ab initio grand canonical Monte Carlo.
+J. Phys. Chem. C
+123
+, 2321–2328 (2019).
+Article
+Google Scholar
+Bienen, F., Kopljar, D., Geiger, S., Wagner, N. & Friedrich, K. A. Investigation of CO
+2
+electrolysis on tin foil by electrochemical impedance spectroscopy. ACS Sustain.
+Chem. Eng.
+8
+, 5192–5199 (2020).
+Google Scholar
+Zhan, C. et al. Revealing the CO coverage-driven C–C coupling mechanism for electrochemical CO
+2
+reduction on Cu
+2
+O nanocubes via operando Raman spectroscopy.
+ACS Catal.
+11
+, 7694–7701 (2021).
+Article
+Google Scholar
+Li, Y. C. et al. Binding site diversity promotes CO
+2
+electroreduction to ethanol.
+J. Am. Chem. Soc.
+141
+, 8584–8591 (2019).
+Article
+Google Scholar
+Zhong, D. et al. Coupling of Cu(100) and (110) facets promotes carbon dioxide conversion to hydrocarbons and alcohols.
+Angew. Chem. Int. Ed.
+60
+, 4879–4885 (2021).
+Article
+Google Scholar
+Wang, Y. et al. Activation of CO
+2
+by ionic liquid EMIM–BF4 in the electrochemical system: a theoretical study.
+Phys. Chem. Chem. Phys.
+17
+, 23521–23531 (2015).
+Article
+Google Scholar
+Feng, J., Zeng, S., Feng, J., Dong, H. & Zhang, X. CO
+2
+electroreduction in ionic liquids: a review.
+Chin. J. Chem.
+36
+, 961–970 (2018).
+Article
+Google Scholar
+Sun, L., Ramesha, G. K., Kamat, P. V. & Brennecke, J. F. Switching the reaction course of electrochemical CO
+2
+reduction with ionic liquids.
+Langmuir
+30
+, 6302–6308 (2014).
+Article
+Google Scholar
+Lu, W. et al. Efficient photoelectrochemical reduction of carbon dioxide to formic acid: a functionalized ionic liquid as an absorbent and electrolyte.
+Angew. Chem. Int. Ed.
+56
+, 11851–11854 (2017).
+Article
+Google Scholar
+Yang, Y., White, M. G. & Liu, P. Theoretical study of methanol synthesis from CO
+2
+hydrogenation on metal-doped Cu(111) surfaces.
+J. Phys. Chem. C.
+116
+, 248–256 (2011).
+Article
+Google Scholar
+Guo, C., Wang, Z., Wang, D., Wang, H. F. & Hu, P. First-principles determination of CO adsorption and desorption on Pt(111) in the free energy landscape.
+J. Phys. Chem. C.
+122
+, 21478–21483 (2018).
+Article
+Google Scholar
+Cheng, T., Xiao, H. & Goddard, W. A. Reaction mechanisms for the electrochemical reduction of CO
+2
+to CO and formate on the Cu(100) surface at 298 K from quantum mechanics free-energy calculations with explicit water.
+J. Am. Chem. Soc.
+138
+, 13802–13805 (2016).
+Article
+Google Scholar
+Yang, H. et al. Scalable production of efficient single-atom copper decorated carbon membranes for CO
+2
+electroreduction to methanol.
+J. Am. Chem. Soc.
+141
+, 12717–12723 (2019).
+Article
+Google Scholar
+Yang, J. et al. In situ thermal atomization to convert supported nickel nanoparticles into surface-bound nickel single-atom catalysts.
+Angew. Chem. Int. Ed.
+57
+, 14095–14100 (2018).
+Article
+Google Scholar
+Li, M. et al. Heterogeneous single-atom catalysts for electrochemical CO
+2
+reduction reaction.
+Adv. Mater.
+32
+, 2001848 (2020).
+Article
+Google Scholar
+Cheng, T., Xiao, H. & Goddard, W. A. I. I. I. Free-energy barriers and reaction mechanisms for the electrochemical reduction of CO on the Cu(100) surface, including multiple layers of explicit solvent at pH 0.
+J. Phys. Chem. Lett.
+6
+, 4767–4773 (2015).
+Article
+Google Scholar
+Wang, Y.-R. et al. Implanting numerous hydrogen-bonding networks in a Cu-porphyrin-based nanosheet to boost CH
+4
+selectivity in neutral-media CO
+2
+electroreduction.
+Angew. Chem. Int. Ed.
+60
+, 21952–21958 (2021).
+Article
+Google Scholar
+Cheng, T., Xiao, H. & Goddard, W. A. Full atomistic reaction mechanism with kinetics for CO reduction on Cu(100) from ab initio molecular dynamics free-energy calculations at 298 K.
+Proc. Natl Acad. Sci. USA
+114
+, 1795–1800 (2017).
+Article
+Google Scholar
+Luo, W., Nie, X., Janik, M. J. & Asthagiri, A. Facet dependence of CO
+2
+reduction paths on Cu electrodes.
+ACS Catal.
+6
+, 219–229 (2016).
+Article
+Google Scholar
+Nie, X., Esopi, M. R., Janik, M. J. & Asthagiri, A. Selectivity of CO
+2
+reduction on copper electrodes: the role of the kinetics of elementary steps.
+Angew. Chem. Int. Ed.
+52
+, 2459–2462 (2013).
+Article
+Google Scholar
+Xiong, L. et al. Geometric modulation of local CO flux in Ag@Cu
+2
+O nanoreactors for steering the CO
+2
+RR pathway toward high-efficacy methane production.
+Adv. Mater.
+33
+, 2101741 (2021).
+Article
+Google Scholar
+Amit, E. et al. Electrochemical deposition of N-heterocyclic carbene monolayers on metal surfaces.
+Nat. Commun.
+11
+, 5714 (2020).
+Article
+Google Scholar
+Wu, C.-Y. et al. High-spatial-resolution mapping of catalytic reactions on single particles.
+Nature
+541
+, 511–515 (2017).
+Article
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab initio total-energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+Google Scholar
+Grimme, S., Antony, J., Ehrlich, S. & Krieg, H. A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H–Pu.
+J. Chem. Phys.
+132
+, 154104 (2010).
+Article
+Google Scholar
+Grimme, S., Ehrlich, S. & Goerigk, L. Effect of the damping function in dispersion corrected density functional theory.
+J. Comput. Chem.
+32
+, 1456–1465 (2011).
+Article
+Google Scholar
+Yang, S., He, J., Zhou, P. & Sun, L. Z. Magnetic control of single transition metal doped MoS
+2
+through H/F chemical decoration.
+J. Magn. Magn. Mater.
+422
+, 243–248 (2017).
+Article
+Google Scholar
+Lutfalla, S., Shapovalov, V. & Bell, A. T. Calibration of the DFT/GGA+U method for determination of reduction energies for transition and rare earth metal oxides of Ti, V, Mo, and Ce.
+J. Chem. Theory Comput.
+7
+, 2218–2223 (2011).
+Article
+Google Scholar
+Straatsma, T. P., Berendsen, H. J. C. & Postma, J. P. M. Free energy of hydrophobic hydration: a molecular dynamics study of noble gases in water.
+J. Chem. Phys.
+85
+, 6720–6727 (1986).
+Article
+Google Scholar
+Jiang, Z. & Rappe, A. M. Uncovering the electrolyte-dependent transport mechanism of LiO
+2
+in lithium–oxygen batteries.
+J. Am. Chem. Soc.
+144
+, 22150–22158 (2022).
+Article
+Google Scholar
+Jiang, Z. & Rappe, A. M. Structure, diffusion, and stability of lithium salts in aprotic dimethyl sulfoxide and acetonitrile electrolytes.
+J. Phys. Chem. C
+126
+, 10266–10272 (2022).
+Article
+Google Scholar
+Jiang, Z. & Rappe, A. M. Mechanistic study of the Li–air battery with a Co
+3
+O
+4
+cathode and dimethyl sulfoxide electrolyte.
+J. Phys. Chem. C
+125
+, 21873–21881 (2021).
+Article
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+Article
+Google Scholar
+Download references
+Acknowledgements
+M.A. acknowledges financial support from the National Science Foundation (NSF) Catalysis (CBET-2135173), Advanced Research Projects Agency-Energy OPEN2021 (DE-AR0001581) and SHV Energy. We acknowledge support from the Wanger Institute for Sustainable Energy Research (WISER) and Illinois Institute of Technology’s Armour College of Engineering. We also acknowledge the EPIC facility (NU
+ANCE
+Center, Northwestern University), which has received support from the MRSEC programme (NSF DMR-1121262) at the Materials Research Center; the Nanoscale Science and Engineering Center (NSF EEC − 0647560) at the International Institute for Nanotechnology; and the State of Illinois, through the International Institute for Nanotechnology. Z.J. and A.M.R. acknowledge support from the Department of Energy, Office of Science, Office of Basic Energy Sciences, under grant number DE-SC0019281. R.S.-Y. acknowledges the financial support from the National Science Foundation award number DMR-1809439. Part of the microscopy experiments and M.T.S. efforts were supported from NSF award number DMR-2311104. This work utilized characterization facilities at the Soft and Hybrid Nanotechnology Experimental (SHyNE) Resource (NSF ECCS-152205) at Northwestern University and the Electron Microscopy Service at Research Resources Center at the University of Illinois at Chicago.
+Author information
+Author notes
+These authors contributed equally: Mohammadreza Esmaeilirad, Zhen Jiang.
+Authors and Affiliations
+Department of Chemical and Biological Engineering, Illinois Institute of Technology, Chicago, IL, USA
+Mohammadreza Esmaeilirad, Ahmad M. Harzandi, Alireza Kondori & Mohammad Asadi
+Department of Chemistry, University of Pennsylvania, Philadelphia, PA, USA
+Zhen Jiang & Andrew M. Rappe
+Department of Mechanical and Industrial Engineering, University of Illinois at Chicago, Chicago, IL, USA
+Mahmoud Tamadoni Saray & Reza Shahbazian-Yassar
+Department of Physics and CSRRI, Illinois Institute of Technology, Chicago, IL, USA
+Carlo U. Segre
+Authors
+Mohammadreza Esmaeilirad
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhen Jiang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ahmad M. Harzandi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Alireza Kondori
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mahmoud Tamadoni Saray
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Carlo U. Segre
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Reza Shahbazian-Yassar
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Andrew M. Rappe
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mohammad Asadi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+M.A. and M.E. conceived the idea of the work. M.E. synthesized the nanostructured materials. M.E., A.M.H. and A.K. performed electrochemical experiments and data analyses. M.E. did XRD and XPS characterizations. M.A. supervised the efforts of M.E., A.M.H. and A.K. M.T.S. and R.S.-Y. performed the TEM and ELNES characterizations. Z.J. performed the DFT calculations and theoretical analyses and designed numerical experiments. A.M.R. supervised Z.J. All authors discussed the results and assisted with paper preparation.
+Corresponding author
+Correspondence to
+Mohammad Asadi
+.
+Ethics declarations
+Competing interests
+M.A., M.E. and A.K. filed a provisional patent application. The other authors declare no competing interests.
+Peer review
+Peer review information
+Nature Energy
+thanks Ali Seifitokaldani and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Notes 1–30, Figs. 1–43, Tables 1–3 and References.
+Source data
+Source Data Fig. 2
+Raw Excel data.
+Source Data Fig. 3
+Raw Excel data.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Esmaeilirad, M., Jiang, Z., Harzandi, A.M.
+et al.
+Imidazolium-functionalized Mo
+3
+P nanoparticles with an ionomer coating for electrocatalytic reduction of CO
+2
+to propane.
+Nat Energy
+8
+, 891–900 (2023). https://doi.org/10.1038/s41560-023-01314-8
+Download citation
+Received
+:
+01 March 2022
+Accepted
+:
+28 June 2023
+Published
+:
+17 August 2023
+Issue Date
+:
+August 2023
+DOI
+:
+https://doi.org/10.1038/s41560-023-01314-8
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Moving beyond two-carbon products
+Jackson Crane
+Cao-Thang Dinh
+Nature Energy
+News & Views
+17 Aug 2023
+Quid propane
+Marçal Capdevila-Cortada
+Nature Catalysis
+Research Highlight
+22 Sept 2023
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Energy
+(
+Nat Energy
+)
+ISSN
+2058-7546
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

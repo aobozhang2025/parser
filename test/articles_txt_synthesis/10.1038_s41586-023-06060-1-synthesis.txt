@@ -1,0 +1,199 @@
+Methods
+Synthesis of SACs
+The method used for synthesizing Co-SAC is based on our previously reported method, with some modifications
+36
+. First, 1.0 g of
+o
+-phenylenediamine, 0.44 g of CoCl
+2
+and 2.0 g of SiO
+2
+nanoparticles (10–20 nm, Aldrich) templates were mixed together by using 20 ml 1.0 M HCl solution. Then, the mixed solution was sonicated for 0.5 h and stirred for another 0.5 h. Subsequently, 12 ml of 1.0 M HCl solution, which contains 3.0 g of ammonium peroxydisulfate, that is, (NH
+4
+)
+2
+S
+2
+O
+8
+, was added dropwise into the above mixed solution with vigorous stirring. After polymerization in an ice bath for nearly one day, the mixture was dried using a rotary evaporator. Then, the dried powder was annealed under Ar atmosphere at 800 °C for 2 h. Finally, the product was treated by alkaline (2.0 M NaOH) and acid (2.0 M H
+2
+SO
+4
+) leaching successively to remove SiO
+2
+nanoparticles templates and unstable Co-based species, respectively, to obtain the Co-SAC. We used the same method to prepare Ni-SAC. The only difference is that 0.405 g NiCl
+2
+·6H
+2
+O and 1.0 g SiO
+2
+were used to synthesize Ni-SAC. Fe-SAC was obtained on the basis of our previous paper.
+Synthesis of OCB catalysts
+OCB is synthesized on the basis of our previously reported method
+7
+,
+45
+. 2 g of commercially available XC-72 carbon (Vulcan XC-72, Fuel Cell Store) was added into a three-neck flask with 460 ml 70% HNO
+3
+solution and 140 ml deionized water. The mixture was well stirred and refluxed at 80 °C for 24 h. The resulting slurry was washed with water and ethanol after natural cooling until the solution pH reached neutral, and the precipitate obtained was dried overnight at 80 °C in an oven.
+Preparation of electrode
+For preparation of cathode electrode, typically, 40 mg of as-prepared catalysts, 4 ml of 2-propanol (Sigma-Aldrich) and 160 µl of Nafion binder solution (Sigma, 5%) were mixed together to form a catalyst ink with around 10.0 mg ml
+−1
+. The ink was sonicated for about 30 min to obtain a homogeneous ink and then spray coated onto the 5 × 5 cm
+2
+Sigracet 28 BC gas-diffusion layer (GDL; Fuel Cell Store) electrodes. The Pt/C (Fuel Cell Store) used in this work followed the same procedure to prepare the cathode electrode. The IrO
+2
+electrode purchased from Dioxide Materials was used for the anode electrode during the electrochemical process.
+Electrochemical CO
+2
+capture
+Electrochemical measurements were all conducted using a BioLogic VMP3 workstation. The PSE reactor used respective catalysts Pt/C, Co-SAC, loaded on 1.0 cm
+2
+GDL as the cathode electrode. This geometric area of the electrodes was fixed unless otherwise noted. A 0.015-inch-thick polytetrafluoroethylene gasket with 1.0 cm
+2
+window and Sustainion AEM membrane was placed between the cathode electrode and the solid-electrolyte layer. The middle-layer solid-electrolyte compartment comprises 2.5 mm Delrin plastic (1.5 mm for thinner middle-layer plate) and is packed with Dowex 50W X8 hydrogen-form solid electrolyte to ensure ionic conductivity. Nafion 117 film (Fuel Cell Store) with a second polytetrafluoroethylene gasket was placed on the anode and IrO
+2
+(Dioxide Materials) was used as the anode for the OER. For the standard tests, the cathode was supplied with humidified CO
+2
+(Airgas, 99.999%) and 200 standard cubic centimetres per minute (sccm) O
+2
+(Airgas, 99.999%) or air (Airgas, zero grade) mixtures by precisely tuning the gas flow rates using digital mass flow controllers (Alicat), followed by a concentration calibration (13.9%, 8.6% and 4.6% CO
+2
+) using a CO
+2
+meter (CO2Meter) for all tests. For the poisoning-effect test, further toxic gas, including CO (Airgas, 99.999%), SO
+2
+(Airgas, 1,800 ppm balanced with N
+2
+) or NO (Airgas, 5,000 ppm balanced with N
+2
+), was injected and diluted to the required concentration with a fixed 13.9% CO
+2
+concentration. To avoid insufficient CO
+2
+supply impeding the evaluation of the intrinsic performance, the input gas mixture flow rate was adjusted to guarantee more than 80% CO
+2
+left over in the tail gas (less than 20% crossover). Therefore, for the 6,200 ppm and 2,950 ppm CO
+2
+tests, the flow rate of inlet O
+2
+was increased to 300 sccm to minimize the FE measurement error associated with CO
+2
+stream flow rate change. For direct air-capture tests, we used 400 ppm CO
+2
+(Airgas) as the input source and increased the total air gas flow to 1,000 sccm to ensure sufficient CO
+2
+. At the same time, we also used a 6-cm
+2
+electrode to increase the total carbon-capture current for minimized measurement errors in carbon-capture rates. For the flue gas capture, a simulated flue gas (13.9% CO
+2
+, 7.8% O
+2
+, 76.3% N
+2
+and 2.0% H
+2
+O) was prepared as the gas input to a tandem reactor system. The O
+2
+generated from the first reactor was further recycled to increase the O
+2
+concentration during the capture process. All gas flow rates were precisely controlled by the mass flow controller (Alicat) and the concentration of the mixture was measured and recorded by a CO
+2
+meter (CO2Meter). The middle solid-electrolyte layer was continuously flowed with 1.1 ml min
+−1
+(0.5 ml min
+−1
+for DAC and low-current-density tests) of deionized water to bring out dissolved CO
+2
+and CO
+2
+gas, and the anode side was circulated with 2.0 ml min
+−1
+of deionized water or 0.1 M H
+2
+SO
+4
+(>300 mA cm
+−2
+). For the long-term stability test, the anolyte was replaced with 2.0 ml min
+−1
+of deionized water, while everything else was conducted with the same parameters.
+All cell resistance was measured by potentiostatic electrochemical impedance spectroscopy and all the whole-cell voltage was reported without any
+iR
+compensation except for Supplementary Fig.
+4
+.
+Middle-layer gas and liquid analysis
+Water-displacement measurement was used to measure the gaseous CO
+2
+flow rate (Supplementary Fig.
+7
+). CO
+2
+-saturated 0.01 M H
+2
+SO
+4
+was used during the water-displacement measurement to measure the CO
+2
+bubble flow rate. It was pre-saturated with CO
+2
+to minimize the gas dissolution and the acid was used to further suppress the CO
+2
+gas solubility during the bubble flow rate measuring process. This water displacement showed high measurement accuracy.
+To avoid introducing any CO
+2
+contamination from external sources into our PSE layer, the deionized water flow we used to push out the captured CO
+2
+gas was pre-saturated with Ar but not CO
+2
+. As a result, a fraction of captured CO
+2
+will be dissolved into our deionized water stream, which needs to be titrated (Supplementary Figs.
+5
+and
+6
+). In practical carbon-capture applications, we can always recycle the deionized water flow so that captured CO
+2
+will be continuously pushed out in its gas phase after the stream is saturated. The middle-layer output stream containing dissolved CO
+2
+was collected directly in 200–500 µl of 1 M NaOH. By collecting it into the alkaline solution, the loss of dissolved CO
+2
+to air was minimized and a full range of titration could be conducted. 4 ml of this collected liquid was then titrated using 0.1 M HCl and pH meter (Orion Star A111). The volume difference between two equivalence points on the titration curve determines how many moles of carbonate species exist inside the liquid samples. The dissolved carbon dioxide concentration was then calculated as:
+$${Q}_{1}=\frac{\Delta V\times {C}_{1}\times 24.4\,({\rm{l}}\,{{\rm{m}}{\rm{o}}{\rm{l}}}^{-1})}{V}\times q$$
+in which
+Q
+1
+is the CO
+2
+flow rate equivalent to dissolved carbon concentration, Δ
+V
+is the volume of HCl between two equivalence points on the titration curve,
+C
+1
+is the concentration of the HCl solution used, 24.4 (l mol
+−1
+) is the molar volume of an ideal gas at 1 atmosphere of pressure and room temperature,
+V
+is the volume of the sample titrated (minus the added alkaline volume) and
+q
+is the flow rate of the collected liquid output.
+The partial current density for a given gas product was calculated as:
+$${j}_{i}=\frac{{Q}_{1}+{Q}_{2}}{24.4\,({\rm{l}}\,{{\rm{m}}{\rm{o}}{\rm{l}}}^{-1})}\times {n}_{i}F\times {({\rm{e}}{\rm{l}}{\rm{e}}{\rm{c}}{\rm{t}}{\rm{r}}{\rm{o}}{\rm{d}}{\rm{e}}{\rm{a}}{\rm{r}}{\rm{e}}{\rm{a}})}^{-1}$$
+in which
+Q
+1
+and
+Q
+2
+is the volumetric flow rate of liquid and gaseous CO
+2
+determined by titration and water-displacement methods, respectively,
+n
+i
+is the number of electrons involved, which is 2 for FE
+carbonate
+, and
+F
+is the Faradaic constant.

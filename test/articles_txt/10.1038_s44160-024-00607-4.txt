@@ -1,0 +1,1641 @@
+Synthesis of ultrahigh-metal-density single-atom catalysts via metal sulfide-mediated atomic trapping | Nature Synthesis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature synthesis
+articles
+article
+Synthesis of ultrahigh-metal-density single-atom catalysts via metal sulfide-mediated atomic trapping
+Download PDF
+Article
+Published:
+15 July 2024
+Synthesis of ultrahigh-metal-density single-atom catalysts via metal sulfide-mediated atomic trapping
+Jiangwei Chang
+1
+,
+Wen Jing
+1
+,
+Xue Yong
+ORCID:
+orcid.org/0000-0003-1674-754X
+2
+,
+Ang Cao
+3
+,
+Jingkun Yu
+1
+,
+Han Wu
+1
+,
+Chengzhang Wan
+4
+,
+Siyang Wang
+1
+,
+Geoffrey I. N. Waterhouse
+ORCID:
+orcid.org/0000-0002-3296-3093
+5
+,
+Bai Yang
+6
+,
+Zhiyong Tang
+ORCID:
+orcid.org/0000-0003-0610-0064
+7
+,
+Xiangfeng Duan
+ORCID:
+orcid.org/0000-0002-4321-6288
+4
+&
+…
+Siyu Lu
+ORCID:
+orcid.org/0000-0003-4538-7846
+1
+Show authors
+Nature Synthesis
+volume
+3
+,
+pages
+1427–1438 (
+2024
+)
+Cite this article
+5840
+Accesses
+4
+Altmetric
+Metrics
+details
+Subjects
+Electrocatalysis
+Energy
+Hydrogen energy
+Abstract
+Single-atom catalysts (SACs) exhibit exceptional intrinsic activity per metal site, but are often limited by low metal loading, which compromises the overall catalytic performance. Pyrolytic strategies commonly used for synthesizing SACs generally suffer from aggregation at high metal loadings. Here we report a universal synthesis approach for ultrahigh-density metal–nitrogen–carbon (UHDM–N–C) SACs via a metal-sulfide-mediated atomization process. We show that our approach is general for transition, rare-earth and noble metals, achieving 17 SACs with metal loadings >20 wt% (including a loading of 26.9 wt% for Cu, 31.2 wt% for Dy and 33.4 wt% for Pt) at 800 °C, as well as high-entropy quinary and vicenary SACs with ultrahigh metal contents. In situ X-ray diffraction and transmission electron microscopy alongside molecular simulations reveals a dynamic nanoparticle-to-single atom transformation process, including thermally driven decomposition of the metal sulfide and the trapping of liberated metal atoms to form thermodynamically stable M–N–C moieties. Our studies indicate that a high N-doping is crucial for achieving ultrahigh-loading metal atoms and a metal-sulfide-mediated process is essential for avoiding metal aggregation at high loadings. As a demonstration, the metal-loading-dependent activity in electrocatalytic oxygen evolution reaction is demonstrated on SACs with increasing Ni content.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+General negative pressure annealing approach for creating ultra-high-loading single atom catalyst libraries
+Article
+Open access
+06 July 2024
+A single-atom library for guided monometallic and concentration-complex multimetallic designs
+Article
+23 May 2022
+Sulfur stabilizing metal nanoclusters on carbon at high temperatures
+Article
+Open access
+25 May 2021
+Main
+Since their discovery by Zhang’s group
+1
+,
+2
+, single-atom catalysts (SACs) have attracted wide interest in the field of energy-related electrocatalysis. SACs consist of atomically dispersed metals on a conductive support, typically N-doped carbon. Due to their unique geometries and electronic properties, SACs offer many advantages over traditional metal-nanoparticle-based catalysts, including (1) fully exposed active sites, (2) high atom utilization (near 100%), which is especially important for the high-cost noble metals, and (3) tunable local coordination bonds, which allow satisfactory activity and selectivity for various applications
+3
+,
+4
+,
+5
+,
+6
+. A wide range of methods, especially pyrolysis-based strategies, have been developed for synthesizing metal–nitrogen–carbon (M–N–C, M=Ni, Fe and so on) SACs
+7
+,
+8
+,
+9
+,
+10
+,
+11
+. However, the metal-atom loadings for most reported M–N–C SACs are typically less than 5 wt% or 1 at%, with only a few studies reporting loadings above 10 wt% (refs.
+7
+,
+8
+,
+12
+,
+13
+). Increasing the metal loadings typically results in metal-atom aggregation and nanoparticle formation. Accordingly, the active-site density per square nanometre is typically limited to within 4 atoms nm
+−2
+, which is much lower than that of commercial catalysts (for example, 20 wt% Pt/C, ~15 atoms nm
+−2
+).
+Low metal loadings create technical challenges when constructing practical devices for electrochemical energy conversion and storage. Taking metal–air batteries as an example, to utilize SACs as the air cathode catalyst, a very thick catalyst layer must be used, leading to poor mass-transfer resistance and sub-optimal power and energy densities
+7
+,
+8
+,
+14
+,
+15
+. Therefore, the synthesis of M–N–C SACs with an ultrahigh density of atomically dispersed metal sites, achieving metal loadings close to or even surpassing those of commercial metal-nanoparticle catalysts, is of great fundamental and practical importance. However, reliable universal routes for creating SACs with high metal contents have so far proved elusive.
+Generally, metal atoms on supports show a tendency to aggregate into clusters or larger nanoparticles when heated at high temperatures. Various strategies based on coordination geometry engineering, confinement effects or chemical bonding interactions can be used to reduce the surface free energy and kinetically inhibit metal-atom aggregation
+16
+,
+17
+,
+18
+,
+19
+,
+20
+,
+21
+,
+22
+. However, above a certain metal-atom concentration, even these approaches have limitations, greatly restricting the practical applications of SACs. To overcome this bottleneck, thermally driven direct transformation of nanoparticles to fabricate SACs has been widely researched. In theory, such nanoparticle-to-single metal atom conversions must overcome kinetic energy barriers (Fig.
+1a
+), so a high temperature is needed to import the required energy
+19
+,
+23
+,
+24
+,
+25
+,
+26
+,
+27
+,
+28
+. Then, once the metal atom is anchored stably onto an appropriate support, the total energy for nanoparticle-to-SACs transformation can be decreased substantially and become thermodynamically favoured. Li and colleagues directly observed the dynamic conversion of Pd nanoparticles to single atoms during pyrolysis
+27
+, and the mechanism that was revealed had the atomizing process energetically driven by forming a thermally stable Pd–N
+4
+moiety, with the emitted Pd atoms from nanoparticles subsequently trapped by N-doped carbon (as schematically shown in Fig.
+1b
+, top). Recently, other studies have shown that the thermal migration of atomic metal species from metal-oxide nanoparticles or bulk metal materials can also yield SACs, further demonstrating the feasibility of this strategy
+19
+,
+20
+,
+25
+,
+26
+,
+28
+,
+29
+,
+30
+,
+31
+.
+Fig. 1: Schematic illustration of the design and controllable preparation of SACs featuring ultrahigh loadings of isolated metal atoms.
+a
+, Scheme showing the energy barrier for the particle-to-single metal atom transition.
+b
+, Thermally driven atomizing strategy, wherein the metal atoms emitted from the nanoparticles are subsequently captured by the neighbouring N-dopants and the cases of low and high metal loadings are depicted.
+c
+, Scheme depicting the simultaneously undesired sintering reaction during the atomizing conversion with temperature, resulting in a trade-off between atomization and high loading.
+d
+, The proposed ultrahigh-N-doping engineering-assisted method, which provides sufficient anchoring sites to accommodate the released metal atoms, thereby manipulating the metal-atom migration pathway to form highly dispersed single metal atoms.
+Full size image
+Post-atomization capture and stabilization provide the key impetus for nanoparticle-to-single metal atom conversions. Despite this, the nanoparticle-to-metal atom methods developed so far continue to suffer from low metal loadings. This limitation mainly originates from the lack of accommodation of mobile metal atoms, especially when introducing high metal contents, as they can easily reaggregate (Fig.
+1b
+. bottom), due to their high surface free energy, into clusters or large nanoparticles
+12
+,
+15
+,
+32
+,
+33
+. Furthermore, high temperatures can aggravate the competing atomizing and sintering reactions (Fig.
+1c
+), leading to competition between high metal-atom loading and sintering, as depicted in the middle of Fig.
+1b
+. We predicted that constructing N-doped carbon supports with very high N-dopant levels should selectively manipulate the metal-atom migration pathway towards atomizing and the creation of SACs, rather than the sintering process, thus circumventing the high loading–aggregation trade-off riddle to improve M–N–C loading. We would then expect to achieve ultrahigh-density (UHD) M–N–C SACs (where UHD is defined as a metal-loading content of >10 wt%).
+In this Article we report a high N-doping-assisted atomization strategy (Fig.
+1d
+) for directly transforming metal-sulfide nanoparticles into UHD SACs. This synthetic strategy represents a remarkable improvement compared with recently reported approaches for the creation of high-loading SACs (Table
+1
+). Combined characterizations from the subnanometre scale to the millimetre scale confirm that the UHDM–N–C SACs contain only isolated metal atoms and an absence of metal-related clusters or nanoparticles. Taking UHDNi–N–C SACs as a representative example, heating a compositionally optimized mixture of carbon dots (CDs), thiourea, urea and NiCl
+2
+·6H
+2
+O to 600 °C under flowing N
+2
+gas created NiS nanoparticles supported on an ultrahigh-N-doped carbon lattice. On heating to 600–700 °C, the pre-formed NiS nanoparticles decomposed and gradually became smaller, and the released single metal atoms were captured by the N-doped carbon support. The dynamic NiS particle-to-single atom processes were observed directly by in situ powder X-ray diffraction. It has been experimentally and theoretically demonstrated that the thermally driven release of metal atoms from NiS is thermodynamically favourable, with a CD-derived N-rich carbon support being pivotal to obtaining UHDNi–N–C SACs. More importantly, our strategy is general for the synthesis of a set of 23 UHDM–N–C SACs with ultrahigh metal loadings exceeding 10 wt%. Among these, 17 UHDM–N–C SACs have metal contents of >20 wt% and six have metal contents of >30 wt%. This method is also suitable for preparing high-entropy UHD SACs, with quinary and vicenary SACs having metal loadings of 25.0 wt% and 18.1 wt%, respectively. As a proof of application, UHDNi–N–C SACs were shown to exhibit outstanding activity for the oxygen evolution reaction (OER), with a small overpotential of 309 mV at 100 mA cm
+−2
+, a low Tafel slope of 56.8 mV dec
+−1
+, and excellent durability in alkaline media.
+Table 1 Metal loadings of SACs in this work, as well as representative benchmarks
+Full size table
+Results and discussion
+Synthesis and structural analyses of UHDNi–N–C SACs
+UHDNi–N–C SACs were prepared by the pyrolysis of a precursor mixture containing NiCl
+2
+·6H
+2
+O, CDs, thiourea and urea. Different masses of NiCl
+2
+·6H
+2
+O were first added into a 25-ml solution of CDs (15 mg ml
+−1
+) and then subjected to freeze-drying. The resulting powders were mixed with urea and thiourea, followed by pyrolysis at 800 °C (
+Methods
+). Using CDs (Supplementary Figs.
+1
+–
+3
+and Supplementary Note
+1
+) as the initial substrate is important to realize UHDNi–N–C SACs, because (1) the surface functional groups of the nanosized CDs act as inorganic ligands for the chelation of Ni cations, which are subsequently converted to abundant NiS species with the help of thiourea, and (2) the crosslinking of CDs does not experience substantial structural collapse and can therefore provide stable room to accommodate urea-derived CN
+x
+species (such as graphitic (g)-C
+3
+N
+4
+), ensuring confined pyrolysis for in situ high N-doping in the carbon support
+34
+,
+35
+,
+36
+. X-ray diffraction (XRD) patterns for Ni–N–C SACs-
+x
+(where
+x
+represents the Ni content determined by inductively coupled plasma optical emission spectrometry (ICP-OES);
+Methods
+, Supplementary Fig.
+4
+) showed characteristic graphite (002) and (100) diffraction peaks, but no peaks from any Ni-containing crystalline phases. High-resolution transmission electron microscopy (HR-TEM) confirmed the absence of Ni-related nanoparticles or clusters in the samples (Supplementary Fig.
+5
+), consistent with the XRD results. In contrast, the Ni
+3
+S
+2
+phase appeared in Ni
+3
+S
+2
+/NC as the mass of NiCl
+2
+·6H
+2
+O was continuously increased (Supplementary Fig.
+4
+), with Ni
+3
+S
+2
+nanoparticles also seen in the HR-TEM images for Ni
+3
+S
+2
+/NC (Supplementary Fig.
+6
+). These results demonstrate the existence of isolated Ni sites across the entire architectures of these Ni–N–C SACs-
+x
+. Additionally, Ni loading, estimated by ICP-OES, revealed a nearly linear increase of Ni content from Ni–N–C SACs-5.0 to UHDNi–N–C SACs (Supplementary Fig.
+7
+and Supplementary Table
+1
+), with the atomically dispersed Ni sites being maintained until reaching a Ni loading of >20 wt%.
+The atomic Ni distribution in UHDNi–N–C SACs was further confirmed by multiscale characterizations. First, aberration-corrected high-angle annular dark-field scanning TEM (AC-HAADF-STEM) was employed. As shown in Fig.
+2a–d
+, highly distributed bright spots with sizes within single-atom dimensions were detected, suggesting UHD homogeneously dispersed atomic Ni sites in the UHDNi–N–C SACs catalyst, without any observable Ni-containing clusters or nanoparticles. The average size of these uniform bright spots was ~0.3 nm based on the statistics of over 100 bright spots (Supplementary Fig.
+8
+, inset), which corresponds well with the atomic dispersion of Ni atoms in spite of the ultrahigh metal loading. Also, energy-dispersive X-ray spectroscopy (EDS) spectra verified the presence of a uniform distribution of Ni, N and C atoms (Supplementary Fig.
+9
+). Furthermore, ICP-OES analysis determined the Ni metal in UHDNi–N–C SACs to be 23.3 wt% (Fig.
+2e
+), with a similar result obtained by thermogravimetric analysis (TGA) in air (24.5 wt%; Supplementary Fig.
+10
+and Supplementary Table
+1
+) and XPS (4.2 at%; Supplementary Fig.
+11
+). An annular dark-field (ADF) TEM image together with EDS mapping also revealed the uniform dispersion of Ni, N and C (Fig.
+2f
+). More importantly, more detailed wide-range and stepwise AC-HAADF-STEM screenings (Supplementary Figs.
+12
+and
+13
+) revealed that the as-prepared UHDNi–N–C SACs presented only atomically and densely dispersed Ni across the entire sample region.
+Fig. 2: Structural characterizations of UHDNi–N–C SACs.
+a
+–
+d
+, AC-HAADF-STEM images, showing highly dispersed isolated Ni atoms in UHDNi–N–C SACs. Scale bars, 500 nm (
+a
+), 5 nm (
+b
+), 2 nm (
+c
+) and 1 nm (
+d
+), respectively.
+e
+, Average Ni loading for UHDNi–N–C SACs estimated by ICP-OES, based on five independent experimental determinations.
+f
+, ADF image of UHDNi–N–C SACs together with EDS elemental mappings, revealing the uniform distributions of C, N and Ni atoms. Scale bar, 20 nm.
+g
+, Normalized Ni K-edge XANES spectra for UHDNi–N–C SACs, NiO and Ni foil reference samples.
+h
+, Corresponding
+k
+3
+-weighted Ni K-edge WT-EXAFS data.
+i
+, Synchrotron-based PDF spectrum of UHDNi–N–C SACs. The simulated PDF data for bulk Ni metal, reproduced from ref.
+7
+, is included for comparison.
+Source data
+Full size image
+Ni K-edge X-ray absorption spectroscopy (including X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) analyses) was conducted to explore the chemical state and local atomic environment of Ni centres in the micrometre-scale range. As observed in Fig.
+2g
+, the near-edge energy absorption edge of UHDNi–N–C SACs was situated between those of the Ni foil and NiO standards, indicative of the positively charged Ni
+δ+
+centres (0 <
+δ
+< 2). The oxidation states of the Ni atoms were also probed by XPS characterization (Supplementary Fig.
+14
+). The Ni K-edge EXAFS spectrum of UHDNi–N–C SACs showed a distinct peak at ~1.34 Å (Supplementary Fig.
+15
+), which can be assigned to the Ni–N coordination in the first shell
+7
+,
+18
+,
+37
+. No Ni–Ni scattering path (at ~2.18 Å)
+38
+,
+39
+for Ni metal or a Ni–O–Ni path for NiO was observed, confirming that only isolated single Ni atoms existed in the UHDNi–N–C SACs. Fitting analyses of the FT-EXAFS curve in both
+R
+and
+k
+spaces were also performed to investigate the local coordination structure and evaluate the fitting quality. The best-fit results for the first shell in UHDNi–N–C SACs (Supplementary Fig.
+16
+) revealed a Ni–N length close to 1.87 Å and an average coordination number of 4.1 (more details are provided in Supplementary Table
+2
+), suggesting the formation of well-defined Ni–N
+4
+–C geometry. For further insights into the atomic configuration, the more powerful wavelet transform-EXAFS (WT-EXAFS) analyses were adopted for discriminating backscattering atoms and providing
+R
+- and
+k
+-space resolution. As can be seen, the WT-EXAFS contour plot exhibited only one intensity maximum, which was attributed to the backscattering of Ni–N bonding in the UHDNi–N–C SACs (Fig.
+2h
+), which is clearly distinct from the features of the reference Ni foil and NiO (Supplementary Figs.
+17
+and
+18
+). Again, the data confirm the atomic Ni dispersion over the UHDNi–N–C SACs.
+Having confirmed the atomic dispersion of Ni from the nanometre (AC-HAADF-STEM) to micrometre (EXAFS) scales, the homogeneous distribution of Ni-atom species in UHDNi–N–C SACs was studied based on synchrotron-based powder diffraction and pair distribution function (PDF) analyses. As shown in Fig.
+2i
+and Supplementary Fig.
+19
+, apparent peaks of Ni–C/N bonds located at 1.98 Å and C–C/N bonds at 1.35 and 2.40 Å, respectively, were observed. Note that we observe no Ni–Ni scattering path, expected at ~2.51 Å (referring to Ni metal; ref.
+7
+), suggesting the homogeneous dispersion of Ni atoms throughout the entire scope of UHDNi–N–C SACs at the millimetre scale. It is thus logical to draw a solid conclusion, based on the above characterizations from the atomic scale to the millimetre scale, that SACs with an ultrahigh Ni-metal loading of 23.3 wt% (ICP-OES) and 24.5 wt% (TGA) have been successfully prepared.
+Demonstrating the generality of our strategy
+Inspired by this success, we next aimed to verify the universality of the synthetic strategy by preparing a wide range of other transition-, rare-earth- and noble-metal-based UHDM–N–C SACs (M = Fe, Co, Cu and so on). Taking UHDPt–N–C SACs, UHDIn–N–C SACs, UHDLa–N–C SACs and UHDBi–N–C SACs as examples, no metal-containing phases were observed in the XRD patterns of the UHDM–N–C SACs prepared using these metals (Supplementary Fig.
+20
+). HAADF-STEM images (Fig.
+3a–d
+, top left panels) and ADF-EDS elemental mappings (Fig.
+3a–d
+, bottom left panels) revealed atomically and densely populated metal sites over the carbon supports, without any visible larger clusters or aggregates, as further confirmed by wide-range AC-HAADF-STEM and EDS images (Supplementary Figs.
+21
+–
+25
+and Supplementary Note
+2
+). XANES spectra also suggested the features of isolated metal atoms with possible colocation of M–N–C and M
+δ
++
+valency (Supplementary Fig.
+26
+and Supplementary Note
+2
+). Further, FT-EXAFS spectra for all four samples showed major peaks at ~1.5 Å (Fig.
+3a–d
+, bottom right), corresponding to M–N coordination. No signals of M–M bonding lengths above 2.0 Å were detected in any of the samples, verifying the absence of metal clusters or nanoparticles, which matches well with the results of WT-EXAFS characterization (Fig.
+3a–d
+, top right). As well as these catalysts, 18 other UHDM–N–C SACs could also be synthesized, with the associated characterization data including XRD, AC-HAADF-STEM and ADF-EDS mapping, as well as XANES and FT-EXAFS (Supplementary Figs.
+27
+–
+49
+and Supplementary Note
+3
+), confirming that all the metal species were atomically dispersed throughout the entire sample region.
+Fig. 3: Universality for other metal elements with ultrahigh loadings.
+a
+,
+b
+, Characterizations of UHDPt–N–C SACs (
+a
+) and UHDIn–N–C SACs (
+b
+).
+c
+,
+d
+, Characterizations of UHDLa–N–C SACs (
+c
+) and UHDBi–N–C SACs (
+d
+). Top left: AC-HAADF-STEM images. Scale bars, 2 nm. Top right: WT-EXAFS contour plots. Bottom left: EDS elemental mapping images. Scale bars, 50 nm. Bottom right: normalized FT-EXAFS spectra of the UHDM–N–C SACs and reference samples.
+e
+, The ultrahigh metal loadings (by ICP-OES) achieved in this work for 23 different UHDM–N–C SACs. Data are presented as mean metal loading values. Error bars indicate s.d. of five independent experimental results.
+Source data
+Full size image
+All 23 UHDM–N–C SACs have metal contents higher than 10 wt%. Among these, 17 metals exceed 20 wt% loading and several (Sn, Ce, Dy, Er, Lu and Pt atoms) exceed 30 wt% based on ICP-OES measurements (Fig.
+3e
+). These experimental results are in excellent acccord with the estimations by TGA (Supplementary Figs.
+50
+–
+55
+and Supplementary Note
+4
+). The metal contents achieved here are much higher than those of previously reported SACs (Supplementary Table
+3
+). The synthesis of UHDM–N–C SACs could also be scaled up easily with excellent yields (Supplementary Fig.
+56
+). Additionally, this method can be extended to the preparation of high-entropy UHD SACs on a gram scale (Fig.
+4
+and Supplementary Figs.
+57
+and
+58
+), such as quinary SACs containing Ni, Cu, In, La and Ce atoms with metal loadings of 25.0 wt% (Supplementary Fig.
+59a
+), and vicenary SACs containing Ni, Co, Fe, Zn, Mn, Bi, Sc, Ti, Cu, Cr, Ce, Zr, In, Sn, Dy, Yb, Lu, Er, Y and La with a total element content of 18.1 wt% (Supplementary Fig.
+59b
+). Taken together, these multiscale discussions clearly demonstrate that our approach is general for the preparation of ultrahigh-metal-density SACs with widely variable metal centres.
+Fig. 4: Visualization of the prepared high-entropy UHD SACs.
+a
+,
+b
+, AC-HAADF-STEM images of quinary SACs containing Ni, Cu, In, La and Ce atoms.
+c
+, Corresponding EDS elemental mappings.
+d
+,
+e
+, AC-HAADF-STEM images of vicenary SACs composed of 20 different metal elements.
+f
+, Corresponding EDS elemental mappings. Scale bars, 5 nm (
+a
+,
+d
+); 2 nm (
+b
+,
+e
+) and 20 nm (
+c
+,
+f
+).
+Full size image
+Formation mechanism of UHDM–N–C SACs
+The remaining question is how these rich M–N–C sites are built in these UHDM–N–C SACs. We sought to determine this by carefully monitoring the species at various temperatures during the pyrolysis-based synthesis of UHDM–N–C SACs using in situ XRD, STEM and theoretical calculations. The XRD patterns for the intermediates (temperature window of 200–800 °C), reflecting the evolution of the crystalline phase, are presented in Fig.
+5a–f
+and Supplementary Fig.
+60
+. UHDNi–N–C SACs were used as a representative example. In products generated by heating the raw materials to 550 °C, the initial condensation of urea to networks and then polymers (such as melon), followed by the successive transformation of melon to g-C
+3
+N
+4
+(at ~500 °C), was observed
+15
+,
+35
+,
+40
+. The metallic NiS phase concomitantly emerged alongside g-C
+3
+N
+4
+formation, as observed in the STEM images (Fig.
+5g
+). The formed g-C
+3
+N
+4
+framework continually decomposed with further heating to temperatures between 600 and 700 °C, with pyrolytic N-containing species being incorporated into the graphite framework to generate N-doped carbon (Supplementary Fig.
+60
+). g-C
+3
+N
+4
+disappeared, and only the (002) diffraction peak of graphite could eventually be observed. Interestingly, the in situ-formed NiS species gradually dissociated with the progress of N-doping, and were finally completely digested within the carbon substrate on reaching ~700 °C (Fig.
+5a,b
+). No new XRD peaks due to Ni-containing species, such as metallic Ni, were observed as the temperature was further increased to 800 °C.
+Fig. 5: Unveiling the atomization mechanism.
+a
+, In situ X-ray diffraction contour plot of the intermediates formed during the pyrolytic process of UHDNi–N–C SACs, revealing the generation and gradual decomposition of the NiS intermediate.
+b
+, Corresponding XRD patterns at 600, 700 and 800 °C, derived from
+a
+.
+c
+–
+f
+, Representative XRD patterns during the pyrolysis of UHDCo–N–C SACs (
+c
+), UHDCu–N–C SACs (
+d
+), UHDZn–N–C SACs (
+e
+) and UHDPt–N–C SACs (
+f
+).
+g
+, STEM images captured at different pyrolytic temperatures during the synthesis of UHDNi–N–C SACs, with only isolated Ni atoms observed in the final product.
+h
+, Plot of
+d
+as a function of pyrolytic temperature ranging from 600 to 700 °C.
+d
+represents NiS nanoparticle size, and the data are presented as the average size with error bars based on the statistics of 20–36 NiS nanoparticles.
+i
+, Calculated energy for the dynamic dissociation of a Ni atom from bulk NiS, which is then trapped by N-dopants to form a Ni–N
+4
+–C site, and a corresponding schematic diagram of the initial, intermediate and final structural configurations.
+j
+, Ni-atom loading-related plots as a function of N-doping content in this work. Error bars indicate s.d. based on five independent experimental measurements by XPS.
+Source data
+Full size image
+Statistical analyses of the NiS nanoparticle number and diameter (from STEM) as a function of temperature are presented in Fig.
+5g
+. The average particle diameter of the NiS nanoparticles steadily became smaller with temperature until becoming single Ni atoms (Fig.
+5h
+). Note that these Ni atoms remained thermally stable even when the pyrolysis temperature increased to 900 °C (Fig.
+5g
+and Supplementary Figs.
+61
+and
+62
+). Distinctly different from the reported agglomeration-then-atomization conversion reported elsewhere to prepare SACs
+27
+, no intermediate reaggregated bigger particles were observed during the pyrolysis, demonstrating a unique and direct atomization transformation from NiS nanoparticles into single Ni atoms. Interestingly, in spite of NiS being an intermediate in the formation of UHDNi–N–C SACs, no S-doping into the N-doped carbon lattice occurred (Supplementary Figs.
+63
+and
+64
+). Molecular dynamics simulations indicate that, during the decomposition of NiS, it is thermodynamically favoured for the formation of S molecules rather than S-doping into the carbon substrate (Supplementary Videos
+1
+and
+2
+), which may then evaporate away from the system. Thus, both the experimental and theoretical results suggest that the NiS species serve simply as the sacrificial intermediate. The universal conversion of M
+x
+S
+y
+nanoparticles to metal atoms was also demonstrated during the preparation of other UHDM–N–C SACs (Fig.
+5c–f
+and Supplementary Fig.
+65
+).
+Molecular dynamics simulations and density functional theory (DFT) calculations were also conducted to understand the driving force for the M
+x
+S
+y
+nanoparticle-to-single metal atom conversion process (more details are provided in the
+Computational methods
+section). First, the DFT-based climbing image nudged-elastic-band (CI-NEB) method was applied to estimate the input energy required to overcome the kinetic barrier for the dissociation of a Ni atom from bulk NiS. As shown in Fig.
+5i
+, the calculations revealed that an energy input of 1.06 eV was required to release one Ni atom. This suggests that increasing temperature can enable this transformation, agreeing well with the experimental phenomenon of thermally driven decomposition of NiS particles during the synthesis of UHDNi–N–C SACs. However, once the removed Ni atoms were captured in the pre-existing N
+4
+defect, a larger exothermic energy of −4.05 eV was found. As such, the entire reaction system of NiS conversion to Ni SACs is thermodynamically favourable, as also confirmed by a DFT-based ab initio molecular dynamics (AIMD) simulation (Supplementary Video
+3
+, Supplementary Fig.
+66
+and Supplementary Note
+5
+). This draws attention to the essential role of N-dopants in the carbon supports for trapping the Ni atoms released in the NiS decomposition process. Similar M
+x
+S
+y
+nanoparticle-to-single metal atom transition phenomena could also be evidenced by theoretical investigations of other UHDM–N–C SACs samples (Supplementary Figs.
+67
+–
+71
+and Supplementary Note
+5
+).
+The key roles of a S-source (thiourea) and N-dopants in facilitating thermally driven bulk M
+x
+S
+y
+decomposition to emit metal atoms, which are then trapped to achieve ultrahigh single-metal-site loading, were also verified by control experiments. First, as discussed in Supplementary Note
+6
+, the growth behaviour is fully changed, and the metal Ni phase emerges, instead of NiS species, in the absence of the S-source (Supplementary Fig.
+72
+). Furthermore, these in situ-formed Ni nanoparticles are not able to decompose into Ni atoms during pyrolysis at high temperatures, highlighting the indispensable roles of M
+x
+S
+y
+formation and decomposition in the formation of UHDNi–N–C SACs. Second, the influence of N-doping content on realizing ultrahigh Ni-atom loading was studied. Note that CDs play an important role here in constructing high N-dopant levels (26.1 at%), because the crosslinking of the CDs provides stable room between them to accommodate urea-derived CN
+x
+intermediates via out-of-plane
+sp
+3
+C–N linkages. The resulting confinement during the pyrolysis step for preparing UHDM–N–C SACs leads to very efficient in situ N-doping into the carbon framework. Without this, only a poor N-doping of 8.0 at% can be realized (confirmed by experiments; Supplementary Fig.
+73
+), which is insufficient to maintain a high loading of Ni atoms. Furthermore, as shown in Supplementary Fig.
+74
+, it is interesting that the Ni
+3
+S
+2
+phase, rather than Ni single atoms, is found in the pyrolysed samples without N-doping or with a relatively lower N-doping to that of UHDNi–N–C SACs. XRD data collected at different pyrolysis temperatures showed that the decomposition of the NiS nanoparticles to form ultrahigh-loading Ni single atoms proceeds only in the presence of abundant and available N-dopant sites (Supplementary Fig.
+75
+). This suggests that metal-atom reaggregation dominates the atom migration pathway in cases where the N-doping level in the support is insufficient. The intimate correlation between N-doping content and Ni-atom loading in this work has also been established (Fig.
+5j
+and Supplementary Fig.
+76
+). We identify two aspects as being essential for realizing the UHDM–N–C SACs in this work: (1) a metal atomization process involving the decomposition of intermediate M
+x
+S
+y
+nanoparticles, with the released metal atoms being captured immediately by neighbouring N-dopants in the carbon support, and (2) abundant N-doping sites, which are critical for achieving high metal loadings and making the M
+x
+S
+y
+nanoparticle-to-single atom site transformation thermodynamically favourable at high temperatures.
+Electrocatalytic evaluation of OER on UHDNi–N–C SACs
+The prepared UHDNi–N–C SACs showed outstanding OER performance in a three-electrode system in alkaline media (Supplementary Fig.
+77a,b
+), examining overpotentials at current densities of 10 and 100 mA cm
+−2
+(defined here as
+ƞ
+10
+and
+ƞ
+100
+) and comparing with control samples with lower Ni contents and commercial RuO
+2
+catalyst (com. RuO
+2
+; Fig.
+6a,b
+). Notably, the activity increased with increasing Ni loading. The overpotentials required to obtain
+ƞ
+10
+and
+ƞ
+100
+decreased as the Ni-atom content increased from 7.1 wt% (Ni–N–C SACs-7.1) to 23.3 wt% (UHDNi–N–C SACs). The value of
+ƞ
+100
+was only 309 mV for UHDNi–N–C SACs, which is 42 and 31 mV smaller than that of Ni–N–C SACs-7.1 or Ni–N–C SACs-13.6, respectively. Meanwhile, the corresponding Tafel plot for UHDNi–N–C SACs delivers a slope of only 56.8 mV dec
+−1
+(Fig.
+6c
+). This is substantially lower than that of Ni–N–C SACs-7.1 (71.0 mV dec
+−1
+) or Ni–N–C SACs-13.6 (65.4 mV dec
+−1
+). Also, UHDNi–N–C SACs exhibit the highest Ni-mass activity of 63.6 A g
+Ni
+−1
+at 1.55 V (Supplementary Fig.
+77c,d
+), which is much higher than that of Ni–N–C SACs-7.1 or Ni–N–C SACs-13.6 under the same potential, suggesting that the intrinsic OER activity of UHDNi–N–C SACs mainly originates from the synergistic effects of these high-density single atoms. These results clearly indicate faster OER kinetics on UHDNi–N–C SACs, with the activity being metal-atom-density-dependent. Next, the OER stability of UHDNi–N–C SACs was examined. As shown in Fig.
+6d
+, UHDNi–N–C SACs exhibited excellent stability, as evidenced by only a slight increase of 7 mV in the
+ƞ
+100
+value after 20,000 continuous potential cycles. Also, the sites of Ni single atoms are well maintained during OER stability testing (Supplementary Fig.
+78
+). In comparison, a much larger increase (43 mV) in the
+ƞ
+100
+value was observed for com. RuO
+2
+after only 2,000 cycles (Supplementary Fig.
+79
+). As such, the activity and stability of UHDNi–N–C SACs are both superior to those of com. RuO
+2
+. Furthermore, N-doped carbon-loaded Ni nanoparticles with similar Ni loading to that of UHDNi–N–C SACs were prepared as a control sample (named Ni-NC-con; Supplementary Fig.
+80
+). It can be clearly seen that Ni-NC-con exhibits 305 and 403 mV for
+ƞ
+10
+and
+ƞ
+100
+, respectively. These results indicate the superior performance of high-density SACs compared to bulk nanoparticles, as expected. The poorer performance of Ni-NC-con can be attributed to the strong adsorption of *O on the bulk Ni atom, which makes the formation of *OOH the rate-determining step with a higher energy barrier (2.50 eV). A detailed description is provided in Supplementary Note
+7
+.
+Fig. 6: OER performance.
+a
+, Representative OER linear sweep voltammetry curves for UHDNi–N–C SACs, Ni–N–C SACs-13.6, Ni–N–C SACs-7.1 and com. RuO
+2
+with a scan rate of 5 mV s
+−1
+in 1.0 M KOH electrolyte.
+b
+, Overpotentials for different electrocatalysts (A, UHDNi–N–C SACs; B, Ni–N–C SACs-13.6; C, Ni–N–C SACs-7.1; D, com. RuO
+2
+).
+c
+, Corresponding Tafel plots derived from
+a
+.
+d
+, Steady-state polarization curves for UHDNi–N–C SACs before and after 20,000 potential scanning cycles between 1.45 and 1.55 V with a scanning rate of 50 mV s
+−1
+.
+e
+, Comparison of OER activity between UHDNi–N–C SACs and other benchmark OER SACs (also Supplementary Table
+4
+), where the
+x
+and
+y
+axes represent Tafel slope and
+ƞ
+100
+, respectively.
+Source data
+Full size image
+To gain mechanistic insights into the site-density-induced synergistic effect between adjacent atom centres on OER performance, theoretical calculations were performed. As discussed in Supplementary Note
+7
+(Supplementary Fig.
+81
+and Supplementary Table
+5
+), a synergetic electronic interaction between adjacent metal centres is exhibited in SACs. Specifically, new shoulder Ni
+d
+-orbital peaks appear in the density of states (DOS) for Ni
+2
+and Ni
+3
+models when compared to the Ni
+1
+model. Additionally, more smaller shoulder peaks are located much closer to the Fermi level in Ni
+3
+models than in Ni
+2
+models. Consequently, the optimized electron state in the metal-atom site can simultaneously enhance adsorption for *O and *OH and thus lower the reaction barrier. We also observed a decrease in the overpotential for Ni
+3
+compared with the Ni
+1
+and Ni
+2
+models. Accordingly, the synergy effect between adjacent single metal atoms in SACs can enhance the performance by slightly altering the
+d
+-orbital DOS. Our experimental and theoretical results clearly confirm both the excellent OER activity and electrochemical stability of our prepared UHDNi–N–C SACs with ultrahigh Ni-atom loading.
+Conclusions
+In summary, an ultrahigh N-doping-assisted M
+x
+S
+y
+nanoparticle-to-single atom transition strategy has been established and validated for the synthesis of SACs with high metal loading, addressing a critical challenge in SAC syntheses. Our experimental and theoretical analyses reveal that such a dynamic atomization conversion is energetically favoured, with released metal atoms from M
+x
+S
+y
+nanoparticles being trapped by N-dopants in the support to in situ-form thermodynamically stable M–N
+4
+–C structures. An ultrahigh N-doping in the carbon support is a prerequisite for achieving UHDM–N–C SACs. This formation mechanism is universal, and a library of UHDM–N–C SACs can be readily built that covers nine groups of elements with loading >10 wt% for 23 metals, exceeding 20 wt% for 17 elements, and beyond 30 wt% for rare-earth metals and noble metal Pt. This method can also be easily extended to prepare high-entropy UHD SACs. The as-prepared UHDNi–N–C SACs also exhibit excellent OER performance, delivering
+ƞ
+j100
+of only 309 mV. Our strategy represents a breakthrough in avoiding metal aggregation in SACs with ultrahigh metal loading, paving the way towards high-performance SACs for energy-conversion technologies.
+Methods
+Synthesis of CDs
+The CDs were synthesized according to our previously reported work
+41
+,
+42
+. Generally, heather leaves were used for the CD preparation based on a simple hydrothermal crystallization, and the synthesis of the CDs could be scaled up easily. In our strategy, CDs with small sizes and high surface-to-volume ratios were critical to achieve a high loading of atomically dispersed metal atoms. As such, we modified the reaction temperature and time to adjust the size distributions of CDs. Finally, CDs with particle size ranging from 5 to 10 nm (measured by HR-TEM) were obtained after hydrothermal crystallization, cooling, centrifugation, filtering and freeze-drying.
+Synthesis of UHDNi–N–C SACs
+In a typical synthesis of UHDNi–N–C SACs, 0.40 g of NiCl
+2
+·6H
+2
+O was added into 25 ml of CD solution (15 mg ml
+−1
+, with deionized water as the solvent) under continuous stirring to obtain a homogeneous solution. The obtained solution was quickly frozen in liquid nitrogen, followed by freeze-drying for 8 h. Next, the as-prepared solid powders were mixed with urea and thiourea, then ground into a homogeneous precursor. The optimized masses of urea and thiourea (mass ratio, 7:1) were determined based on many investigations. The powders were placed in a tubular quartz tube and heated at a rate of 5 °C min
+−1
+to 800 °C in flowing Ar gas. After heating at 800 °C for 2 h, the solid product was allowed to naturally cool to room temperature. Finally, the obtained UHDNi–N–C SACs powders were collected for further detailed characterizations and electrochemical evaluations. By decreasing the amount of NiCl
+2
+·6H
+2
+O, a series of Ni–N–C SACs-
+x
+could be also prepared (
+x
+represents the Ni loading content estimated by ICP-OES).
+Synthesis of other transition-, rare-earth- and noble-metal-based UHDM–N–C SACs
+The preparation procedures for these UHDM–N–C SACs were similar to that for UHDNi–N–C SACs, except that the amount and type of metal-chloride salt was varied.
+Synthesis of Ni
+3
+S
+2
+/NC
+The preparation of Ni
+3
+S
+2
+/NC was similar to that of UHDNi–N–C SACs, except that the added amount of NiCl
+2
+·6H
+2
+O was increased.
+Synthesis of control samples
+To demonstrate the role of N-doping content in achieving an ultrahigh loading of Ni single atoms, various samples were prepared in the absence of urea, with 12.5% and 25% of the amount of urea typically used for the synthesis of UHDNi–N–C SACs. The obtained samples were denoted as no/UHDNi–N–C SACs, 12.5%/UHDNi–N–C SACs and 25%/UHDNi–N–C SACs, respectively.
+Synthesis of quinary SACs
+The synthesis process of quinary SACs was similar to that of UHDNi–N–C SACs, except that five types of metal source were added.
+Synthesis of vicenary SACs
+The synthesis of vicenary SACs was similar to that of UHDNi–N–C SACs, except that 20 types of metal source were added.
+Material characterizations
+XRD patterns were measured on a Bruker D8 diffractometer with Cu K
+α
+radiation. Measurements of photoluminescence emission and the corresponding excitation spectra of the CDs solution were acquired on an RF-6000 instrument. HR-TEM images of the samples were obtained by an FEI Tecnai F30 instrument operated at 200 kV. FTIR (Bruker EQUINOX 55) and XPS (ESCALab220i-XL, VG Scientific) analyses were conducted to determine the chemical composition and electronic structure of the materials. TGA measurements were performed using a NETZSCH STA 449 F3 instrument in flowing air (50 ml min
+−1
+, N
+2
+:O
+2
+= 4:1), and the temperature was increased from room temperature to 800 °C with a ramp of 10 °C min
+−1
+. ICP-OES results were collected by using an Agilent 5110 spectrometer. HAADF-STEM images and the corresponding electron energy loss spectroscopy point spectra of the samples were recorded using an aberration-corrected JEOL ARM-200F system, under an acceleration voltage of 60 kV, and configured with an EDAX energy-dispersive X-ray (EDX) spectrometer and Gatan Tridiem imaging filter. STEM was operated at 200 kV with a cold field-emission gun. X-ray absorption spectroscopy experiments, including EXAFS and XANES at the Ni K-edge, Fe K-edge and Pt L
+3
+-edge, and so on, were acquired at the XAFS station of Beamline 1W1B at the Beijing Synchrotron Radiation Facility (BSRF). Using the ATHENA module executed in the IFEFFIT software package, raw EXAFS data were extracted, Fourier-transformed and background-subtracted in a standard procedure. For measurement of the PDF, all samples were placed in a Kapton capillary with an inner diameter of 0.9 mm. The PDF spectra were obtained using GSAS-II software using
+Q
+max
+, which was calculated with
+Q
+max
+= 4πsin
+θ
+/
+λ
+. The empty Kapton tube was also tested for the subtraction of background noise. All samples were thoroughly outgassed before tests.
+In situ investigation of structure evolution by XRD
+The structural evolution of the UHDM–N-C samples was investigated by in situ powder diffractometry on a Rigaku D/Max-2500 diffractometer. Precursor samples were placed in an in situ XRD cell and heated in flowing Ar gas at a heating rate of 5 °C min
+−1
+. The XRD patterns were collected every 10 °C while heating the samples from room temperature to 800 °C.
+Computational methods
+Spin-polarized DFT calculations were performed using the Vienna Ab Initio Simulation package (VASP)
+43
+,
+44
+. The Perdew–Burke–Ernzerhof (PBE) generalized gradient approximation (GGA), together with the projector augmented wave (PAW) pseudopotential, were used in calculations
+45
+,
+46
+. The atomistic structures in our calculations were allowed to relax to an atomic force tolerance of 0.02 eV Å
+−1
+. To expand the wavefunctions, a plane wave basis set with a kinetic energy cutoff of 550 eV was adopted. The Brillouin zone in reciprocal space was sampled by the Monkhorst–Pack scheme using a 2 × 2 × 1
+k
+-point grid for geometry optimization and 3 × 3 × 1 for self-consistent field calculations. A lattice constant of 15 Å along the
+z
+axis was set to avoid layer image coupling caused by the periodic model. The transition state in chemical reactions was located using the Cl-NEB method
+27
+with a convergence of 0.05 eV Å
+−1
+for the force component. The free energies of adsorption intermediates were calculated relative to the reversible hydrogen electrode (RHE), with the H
++
++
+e
+−
+energy being calculated as 1/2H
+2
+. A zero-point-energy correction was also included in our calculations of the free energy as the summation of each vibrational mode of binding molecules and adatoms.
+The AIMD calculations were conducted for the simulation of metal-atom diffusion on the N-doped graphene, which was modelled using a 5 × 5 graphene substituted by four N atoms. The metal atom was initially placed on a neighbouring hexagonal carbon ring away from the N sites, and the structure was then allowed to evolve to reach the ground state. The simulation was conducted using a canonical ensemble with the algorithm of Nosé, with the evolving configurations generated every 2 fs during the entire simulation (running for 10,000 fs). The simulation temperature was set to 650 °C.
+Electrochemical test for OER
+OER measurements on the as-prepared UHDNi–N–C SACs and other reference electrocatalysts were conducted in a 1.0 M KOH electrolyte operated at 25 °C, using a conventional three-electrode cell system, which includes a working electrode (electrocatalysts supported on carbon paper), a reference electrode of saturated calomel (SCE, Hg/Hg
+2
+Cl
+2
+) and a counter electrode of graphite rod. The electrochemical signals were collected on a CHI760E-connected electrochemical workstation. For the preparation of the working electrodes, 5 mg of electrocatalyst was ultrasonically dispersed into a mixed solution containing 50 μl Nafion (5 wt%) and 500 μl ethanol to obtain a uniform electrocatalyst dispersion. Subsequently, the commercial carbon paper was simply immersed in 5.0 M H
+2
+SO
+4
+solution at 80 °C for 2 h. Then, 20 μl of the pre-prepared catalyst ink was dropped onto the pretreated carbon paper, followed by drying in air before electrochemical tests. All potentials were recorded against the Hg/Hg
+2
+Cl
+2
+electrode, and then corrected with respect to the RHE according to the following equations:
+$${E}_{{\rm{RHE}}}={E}_{{\rm{SCE}}}+{{E}^{\,\theta }}_{{\rm{SCE}}}+0.059\,{\rm{pH}}$$
+$${\eta ={E}_{{\rm{RHE}}}-1.23\,{\rm{V}}}$$
+in which
+η
+indicates the overpotential,
+E
+RHE
+and
+E
+θ
+SCE
+are the potentials versus RHE, and
+E
+θ
+SCE
+= 0.241 V.
+The polarization curves of UHDNi–N–C SACs and other control samples were obtained from linear sweep voltammetry tests, and the potential range was set between 1.2 and 1.7 V versus RHE with a sweep rate of 5 mV s
+−1
+. Note that all the OER measurements were performed under the same experimental conditions to allow investigation of the effect of Ni-atom loading on the intrinsic OER activity.
+Data availability
+All data are available in the main text or the Supplementary Information.
+Source data
+are provided with this paper.
+References
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, A., Li, J. & Zhang, T. Heterogeneous single-atom catalysis.
+Nat. Rev. Chem.
+2
+, 65–81 (2018).
+Article
+CAS
+Google Scholar
+Muravev, V. et al. Size of cerium dioxide support nanocrystals dictates reactivity of highly dispersed palladium catalysts.
+Science
+380
+, 1174–1179 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Chang, X. et al. Designing single-site alloy catalysts using a degree-of-isolation descriptor.
+Nat. Nanotechnol.
+18
+, 611–616 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Ro, I. et al. Bifunctional hydroformylation on heterogeneous Rh–WO
+x
+pair site catalysts.
+Nature
+609
+, 287–292 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Lee, B.-H. et al. Supramolecular tuning of supported metal phthalocyanine catalysts for hydrogen peroxide electrosynthesis.
+Nat. Catal.
+6
+, 234–243 (2023).
+Article
+CAS
+Google Scholar
+Xia, C. et al. General synthesis of single-atom catalysts with high metal loading using graphene quantum dots.
+Nat. Chem.
+13
+, 887–894 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Mehmood, A. et al. High loading of single atomic iron sites in Fe–NC oxygen reduction catalysts for proton exchange membrane fuel cells.
+Nat. Catal.
+5
+, 311–323 (2022).
+Article
+CAS
+Google Scholar
+Zhao, C.-X. et al. A clicking confinement strategy to fabricate transition metal single-atom sites for bifunctional oxygen electrocatalysis.
+Sci. Adv.
+8
+, eabn5091 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Iqbal, S., Safdar, B., Hussain, I., Zhang, K. & Chatzichristodoulou, C. Trends and prospects of bulk and single-atom catalysts for the oxygen evolution reaction.
+Adv. Energy Mater.
+13
+, 2203913 (2023).
+Article
+CAS
+Google Scholar
+Tang, C. et al. Tailoring acidic oxygen reduction selectivity on single-atom catalysts via modification of first and second coordination spheres.
+J. Am. Chem. Soc.
+143
+, 7819–7827 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Hai, X. et al. Scalable two-step annealing method for preparing ultra-high-density single-atom catalyst libraries.
+Nat. Nanotechnol.
+17
+, 174–181 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, S. et al. Atomically dispersed iron sites with a nitrogen–carbon coating as highly active and durable oxygen reduction catalysts for fuel cells.
+Nat. Energy
+7
+, 652–663 (2022).
+Article
+CAS
+Google Scholar
+Kuai, L. et al. High-areal density single-atoms/metal oxide nanosheets: a micro-gas blasting synthesis and superior catalytic properties.
+Angew. Chem. Int. Ed.
+61
+, e202212338 (2022).
+Article
+CAS
+Google Scholar
+Zhao, L. et al. Cascade anchoring strategy for general mass production of high-loading single-atomic metal–nitrogen catalysts.
+Nat. Commun.
+10
+, 1278 (2019).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Liu, C. et al. Constructing FeN
+4
+/graphitic nitrogen atomic interface for high-efficiency electrochemical CO
+2
+reduction over a broad potential window.
+Chem
+7
+, 1297–1307 (2021).
+Article
+CAS
+Google Scholar
+Zhao, J. et al. Manipulating the oxygen reduction reaction pathway on Pt-coordinated motifs.
+Nat. Commun.
+13
+, 685 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Han, L. et al. A single-atom library for guided monometallic and concentration-complex multimetallic designs.
+Nat. Mater.
+21
+, 681–688 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, J. et al. Direct observation of metal oxide nanoparticles being transformed into metal single atoms with oxygen-coordinated structure and high-loadings.
+Angew. Chem. Int. Ed.
+60
+, 15248–15253 (2021).
+Article
+CAS
+Google Scholar
+Chang, J. et al. Oxygen radical coupling on short-range ordered Ru atom arrays enables exceptional activity and stability for acidic water oxidation.
+J. Am. Chem. Soc.
+146
+, 12958–12968 (2024).
+Article
+CAS
+PubMed
+Google Scholar
+Lei, X. et al. High-entropy single-atom activated carbon catalysts for sustainable oxygen electrocatalysis.
+Nat. Sustain.
+6
+, 816–826 (2023).
+Article
+Google Scholar
+Wu, Z.-Y. et al. Non-iridium-based electrocatalyst for durable acidic oxygen evolution reaction in proton exchange membrane water electrolysis.
+Nat. Mater.
+22
+, 100–108 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Nie, L. et al. Activation of surface lattice oxygen in single-atom Pt/CeO
+2
+for low-temperature CO oxidation.
+Science
+358
+, 1419–1423 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Qu, Y. et al. Direct transformation of bulk copper into copper single sites via emitting and trapping of atoms.
+Nat. Catal.
+1
+, 781–786 (2018).
+Article
+CAS
+Google Scholar
+Han, G.-F. et al. Abrading bulk metal into single atoms.
+Nat. Nanotechnol.
+17
+, 403–407 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Wei, S. et al. Direct observation of noble metal nanoparticles transforming to thermally stable single atoms.
+Nat. Nanotechnol.
+13
+, 856–861 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Li, J. et al. Thermally driven structure and performance evolution of atomically dispersed FeN
+4
+sites for oxygen reduction.
+Angew. Chem. Int. Ed.
+58
+, 18971–18980 (2019).
+Article
+CAS
+Google Scholar
+Zhao, C. et al. Solid-diffusion synthesis of single-atom catalysts directly from bulk metal for efficient CO
+2
+reduction.
+Joule
+3
+, 584–594 (2019).
+Article
+CAS
+Google Scholar
+Yang, Z. et al. Directly transforming copper (I) oxide bulk into isolated single-atom copper sites catalyst through gas-transport approach.
+Nat. Commun.
+10
+, 3734 (2019).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Yang, J. et al. In situ thermal atomization to convert supported nickel nanoparticles into surface-bound nickel single-atom catalysts.
+Angew. Chem. Int. Ed.
+57
+, 14095–14100 (2018).
+Article
+CAS
+Google Scholar
+Kumar, P. et al. High-density cobalt single-atom catalysts for enhanced oxygen evolution reaction.
+J. Am. Chem. Soc.
+145
+, 8052–8063 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Fei, H. et al. General synthesis and definitive structural identification of MN
+4
+C
+4
+single-atom catalysts with tunable electrocatalytic activities.
+Nat. Catal.
+1
+, 63–72 (2018).
+Article
+CAS
+Google Scholar
+Liu, Y. et al. Elemental superdoping of graphene and carbon nanotubes.
+Nat. Commun.
+7
+, 10921 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Chang, J. et al. A C-S-C linkage-triggered ultrahigh nitrogen-doped carbon and the identification of active site in triiodide reduction.
+Angew. Chem. Int. Ed.
+60
+, 3587–3595 (2021).
+Article
+CAS
+Google Scholar
+Dai, L. Graphene: tunable superdoping.
+Nat. Energy
+1
+, 16041 (2016).
+Article
+CAS
+Google Scholar
+He, X. et al. Building up libraries and production line for single atom catalysts with precursor-atomization strategy.
+Nat. Commun.
+13
+, 5721 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Xie, F. et al. A general approach to 3D-printed single-atom catalysts.
+Nat. Synth.
+2
+, 129–139 (2023).
+Article
+Google Scholar
+Wang, B. et al. Room-temperature laser planting of high-loading single-atom catalysts for high-efficiency electrocatalytic hydrogen evolution.
+J. Am. Chem. Soc.
+145
+, 13788–13795 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Zheng, Y., Lin, L., Wang, B. & Wang, X. Graphitic carbon nitride polymers toward sustainable photoredox catalysis.
+Angew. Chem. Int. Ed.
+54
+, 12868–12884 (2015).
+Article
+CAS
+Google Scholar
+Li, W. et al. Exploiting Ru-induced lattice strain in CoRu nanoalloys for robust bifunctional hydrogen production.
+Angew. Chem. Int. Ed.
+60
+, 3290–3298 (2021).
+Article
+CAS
+Google Scholar
+Song, H. et al. Single atom ruthenium-doped CoP/CDs nanosheets via splicing of carbon-dots for robust hydrogen production.
+Angew. Chem. Int. Ed.
+60
+, 7234–7244 (2021).
+Article
+CAS
+Google Scholar
+Hohenberg, P. & Kohn, W. Inhomogeneous electron gas.
+Phys. Rev.
+136
+, B864–B871 (1964).
+Article
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+CAS
+Google Scholar
+Zhang, Y. & Yang, W. Comment on ‘Generalized gradient approximation made simple’.
+Phys. Rev. Lett.
+80
+, 890–890 (1998).
+Article
+CAS
+Google Scholar
+Blöchl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953–17979 (1994).
+Article
+Google Scholar
+Qu, Y. et al. Thermal emitting strategy to synthesize atomically dispersed Pt metal sites from bulk Pt metal.
+J. Am. Chem.Soc.
+141
+, 4505–4509 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Yang, H. B. et al. Atomically dispersed Ni(I) as the active site for electrochemical CO
+2
+reduction.
+Nat. Ener.
+3
+, 140–147 (2018).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This work was partly supported by the National Natural Science Foundation of China (NSFC, nos. 52122308 52202050, 21905253 and 51973200), the China Postdoctoral Science Foundation (2022TQ0286), the Natural Science Foundation of Henan (202300410372) and the Joint Fund of Science and Technology R&D Plan of Henan Province (232301420042). We also acknowledge the Beijing Synchrotron Radiation Facility and the Center for Modern Analysis and Gene Sequencing of Zhengzhou University for supporting this research. G.I.N.W. acknowledges funding support from the Ministry of Business Innovation and Employment (C05X2007 and UOCX2118) and the Royal Society Te Apārangi (James Cook Research Fellowship). X.Y. acknowledges the Leverhulme Trust for Early Career Fellowship for support.
+Author information
+Authors and Affiliations
+College of Chemistry and Pingyuan Laboratory, Zhengzhou University, Zhengzhou, China
+Jiangwei Chang, Wen Jing, Jingkun Yu, Han Wu, Siyang Wang & Siyu Lu
+Department of Electrical Engineering and Electronics, University of Liverpool, Liverpool, UK
+Xue Yong
+State Key Laboratory for Clean Energy Utilization, Institute for Thermal Power Engineering, Zhejiang University, Hangzhou, China
+Ang Cao
+Department of Chemistry and Biochemistry, University of California, Los Angeles,  CA, USA
+Chengzhang Wan & Xiangfeng Duan
+School of Chemical Sciences, The University of Auckland, Auckland, New Zealand
+Geoffrey I. N. Waterhouse
+State Key Laboratory of Supramolecular Structure and Materials, College of Chemistry, Jilin University, Changchun, China
+Bai Yang
+CAS Key Laboratory of Nanosystem and Hierarchical Fabrication, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing, China
+Zhiyong Tang
+Authors
+Jiangwei Chang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wen Jing
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xue Yong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ang Cao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jingkun Yu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Han Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chengzhang Wan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Siyang Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Geoffrey I. N. Waterhouse
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bai Yang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhiyong Tang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiangfeng Duan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Siyu Lu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+S.L., X.D., B.Y., Z.T. and J.C. designed and coordinated the project and also supervised all aspects of the research. W.J. conducted the materials synthesis, structural characterizations of the prepared catalysts and electrochemical measurements, interpreted the data and drafted the paper. X.Y., A.C. and J.Y. carried out the corresponding DFT calculations. S.W. assisted with the in situ experimental investigations. Data collection and analyses were performed by W.J., H.W., C.W. and S.W. G.I.N.W. participated in discussions about the experimental results and providing valuable suggestions for the research. All authors contributed to the preparation and editing of the paper.
+Corresponding authors
+Correspondence to
+Xiangfeng Duan
+or
+Siyu Lu
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Synthesis
+thanks Christodoulos Chatzichristodoulou, Yuen Wu and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Primary Handling Editor: Alexandra Groves, in collaboration with the
+Nature Synthesis
+team.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–81, Discussion, Notes 1–7 and Tables 1–5.
+Supplementary Video 1
+A movie shows the dynamic decomposition process of the Ni
+3
+S
+3
+nanoparticle.
+Supplementary Video 2
+A movie shows the dynamic decomposition process of the Ni
+8
+S
+8
+nanoparticle.
+Supplementary Video 3
+A movie shows the dynamic atomization evolution by theoretical simulation, where the emitted Ni atom is trapped by the N-dopants to form a thermodynamically stable Ni−N
+4
+−C site.
+Source data
+Source Data Fig. 2
+Statistical source data for Fig. 2
+Source Data Fig. 3
+Statistical source data for Fig. 3
+Source Data Fig. 5
+Statistical source data for Fig. 5
+Source Data Fig. 6
+Statistical source data for Fig. 6
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Chang, J., Jing, W., Yong, X.
+et al.
+Synthesis of ultrahigh-metal-density single-atom catalysts via metal sulfide-mediated atomic trapping.
+Nat. Synth
+3
+, 1427–1438 (2024). https://doi.org/10.1038/s44160-024-00607-4
+Download citation
+Received
+:
+28 November 2023
+Accepted
+:
+14 June 2024
+Published
+:
+15 July 2024
+Issue Date
+:
+November 2024
+DOI
+:
+https://doi.org/10.1038/s44160-024-00607-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+Our publishing models
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Synthesis
+(
+Nat. Synth
+)
+ISSN
+2731-0582
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

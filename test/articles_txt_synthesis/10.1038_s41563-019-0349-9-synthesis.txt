@@ -1,0 +1,124 @@
+Catalyst preparation
+The synthesis of Pt
+iso
+catalysts on TiO
+2
+has been reported previously
+22
+. Briefly, a pH-adjusted solution (12.2) containing tetraammineplatinum(II) nitrate was slowly injected into a solution containing TiO
+2
+(anatase, 5 nm diameter, 290 m
+2
+g
+−1
+, US Research Nanomaterials). After drying, the catalyst was calcined in a tube furnace at 450 °C for 4 h in flowing air after ramping up the temperature at a rate of 10 °C min
+−1
+.
+Infrared spectroscopy
+FTIR experiments were carried out in a diffuse reflectance reaction chamber (Harrick Scientific) equipped with ZnSe windows, mounted inside a Praying Mantis diffuse reflectance adapter (Harrick Scientific), and coupled to a Thermo Scientific Nicolet iS10 FTIR spectrometer with a liquid-nitrogen-cooled HgCdTe (MCT-A) detector. During measurements, the FTIR and Praying Mantis diffuse reflection accessory were purged with dry N
+2
+.
+Electron microscopy
+AC-STEM was performed on a JEOL Grand ARM300CF microscope equipped with two spherical aberration correctors, operated at 200 kV. HAADF-STEM images were recorded using a convergence semi-angle of 22 mrad, and inner- and outer- collection angles of 83 and 165 mrad, respectively. To minimize beam irradiation, a small beam current (<10 pA) was used for imaging, while the acquisition time was always controlled to be less than 12 s for each frame. In situ STEM experiments were performed in a Protochips Atmosphere gas cell system, which allows for dynamic observation of nanomaterials heated under atmospheric pressure inside a transmission electron microscope.
+XAS measurements
+XAS spectra were collected at beamline 9-3 at the Stanford Synchrotron Radiation Lightsource at the SLAC National Laboratory. In the experiments, 16 mg of 0.025 wt% Pt/TiO
+2
+was diluted in mesoporous silica (MCM-41) and loaded into a flow-through quartz tube, with an outer diameter of 3.0 mm and an inner diameter of 2.8 mm, held at a 45° angle relative to the X-ray beam
+43
+. Fluorescence XAS measurements were collected using a Canberra 100-element Ge detector orthogonal (90°) to the beam path with 4 layers of Al foil to filter Ti fluorescence lines, as well as lead shielding to minimize contributions from scattering of beamline optics. A Pt foil reference was scanned simultaneously for energy calibration.
+The raw data were processed using the Athena interface of the Demeter software package
+44
+. The spectra were energy-calibrated, merged and normalized. The EXAFS was extracted in
+k
+-space and Fourier-transformation was conducted on the
+k
+2
+-weighted EXAFS function (
+k
+= 3.0–12.0 Å
+−1
+) to amplify the oscillations at high
+k
+-values. Phase shifts and amplitudes for relevant back-scattering paths were calculated using FEFF6.
+Kinetic control and reactivity experimental details
+After pretreatment and 12 h exposure at 200 °C in a feed of 1% CO, 1% O
+2
+and 98% He, temperature-dependent measurements were taken between 150 °C and 200 °C, for 2 h at each temperature. Catalyst dilution studies showed that differences in activity between the catalysts are of kinetic origins, rather than a result of mass and heat transport limitations. Partial-pressure-dependent measurements were executed at 200 °C.
+DFT computational methods
+Spin-polarized periodic DFT calculations were performed using the Vienna Ab initio Simulation Package
+45
+. The Perdew–Burke–Ernzerhof generalized gradient approximation was used
+46
+. The self-interaction error inherent in DFT calculations was partly corrected using the DFT +
+U
+approach where the Hubbard’s
+U
+parameter was empirically set to 3 eV
+47
+. The projector augmented wave
+48
+,
+49
+method was used and the valence electrons explicitly treated were: Ti(3
+s
+2
+, 3
+p
+6
+, 3
+d
+2
+, 4
+s
+2
+), Pt (5
+p
+6
+, 5
+d
+9
+, 6
+s
+1
+), O (2
+s
+2
+, 2
+p
+4
+), C (2
+s
+2
+, 2
+p
+2
+) and H (1
+s
+1
+). We used a plane-wave basis set with a cutoff energy of 400 eV and the calculation was performed at the gamma point. The optimized structures were considered converged when the ionic forces were <0.01 eV Å
+−1
+.
+We adopted the models of (3 × 1) and (2 × 1) supercell slabs including five atomic layers for the anatase TiO
+2
+(101) or the stepped TiO
+2
+(145) surfaces, respectively. A vacuum of more than 15 Å was used to avoid the interaction between slabs
+50
+. The TiO
+2
+(101) surface terminates with two types of Ti cation, five-fold coordinated Ti (Ti
+5c
+) and six-fold coordinated Ti (Ti
+6c
+), and two types of O anion, two-fold coordinated O sites (O
+2c
+) and three-fold coordinated O sites (O
+3c
+).
+CO adsorption energies were calculated as the difference between isolated species and the adsorption complexes. The CO frequencies were computed within the harmonic approximation, in which CO and its first neighbouring atoms were considered in the calculation. In the gas phase, the CO bond length (1.144 Å) and stretching frequency (2,125 cm
+−1
+) were obtained at the Perdew–Burke–Ernzerhof level. A scaling factor
+α
+= 2,143/2,125 = 1.0085 was applied to all frequencies to take into account the difference with respect to the experimental CO frequency in the gas phase (2,143 cm
+−1
+).

@@ -1,0 +1,2013 @@
+Interface dynamics of Pd–CeO2 single-atom catalysts during CO oxidation | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Interface dynamics of Pd–CeO
+2
+single-atom catalysts during CO oxidation
+Download PDF
+Article
+Published:
+03 June 2021
+Interface dynamics of Pd–CeO
+2
+single-atom catalysts during CO oxidation
+Valery Muravev
+ORCID:
+orcid.org/0000-0002-1357-1086
+1
+,
+Giulia Spezzati
+1
+,
+Ya-Qiong Su
+ORCID:
+orcid.org/0000-0001-5581-5352
+1
+,
+Alexander Parastaev
+ORCID:
+orcid.org/0000-0001-7135-7240
+1
+,
+Fu-Kuo Chiang
+2
+,
+Alessandro Longo
+ORCID:
+orcid.org/0000-0002-8819-2128
+3
+,
+4
+,
+Carlos Escudero
+ORCID:
+orcid.org/0000-0001-8716-9391
+5
+,
+Nikolay Kosinov
+ORCID:
+orcid.org/0000-0001-8520-4886
+1
+&
+…
+Emiel J. M. Hensen
+ORCID:
+orcid.org/0000-0002-9754-2417
+1
+Show authors
+Nature Catalysis
+volume
+4
+,
+pages
+469–478 (
+2021
+)
+Cite this article
+22k
+Accesses
+9
+Altmetric
+Metrics
+details
+Subjects
+Heterogeneous catalysis
+Nanoparticles
+Abstract
+In recent years, noble metals atomically dispersed on solid oxide supports have become a frontier of heterogeneous catalysis. In pursuit of an ultimate atom efficiency, the stability of single-atom catalysts is pivotal. Here we compare two Pd/CeO
+2
+single-atom catalysts that are active in low-temperature CO oxidation and display drastically different structural dynamics under the reaction conditions. These catalysts were obtained by conventional impregnation on hydrothermally synthesized CeO
+2
+and one-step flame spray pyrolysis. The oxidized Pd atoms in the impregnated catalyst were prone to reduction and sintering during CO oxidation, whereas they remained intact on the surface of the Pd-doped CeO
+2
+derived by flame spray pyrolysis. A detailed in situ characterization linked the stability of the Pd single atoms to the reducibility of the Pd–CeO
+2
+interface and the extent of reverse oxygen spillover. To understand the chemical phenomena that underlie the metal–support interactions is crucial to the rational design of stable single-atom catalysts.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Atomic level fluxional behavior and activity of CeO
+2
+-supported Pt catalysts for CO oxidation
+Article
+Open access
+04 October 2021
+Generating active metal/oxide reverse interfaces through coordinated migration of single atoms
+Article
+Open access
+09 February 2024
+Tracking the formation, fate and consequence for catalytic activity of Pt single sites on CeO
+2
+Article
+21 September 2020
+Main
+Metal–support interactions (MSIs) are a central topic in heterogeneous catalysis
+1
+,
+2
+. By controlling the extent of the MSI, we can tune the size of the supported metal nanoparticles (NPs), which is often decisive for the catalytic performance
+3
+,
+4
+,
+5
+,
+6
+,
+7
+. Small supported clusters can display catalytic behaviour very different from that of larger NPs, owing to quantum size effects
+8
+,
+9
+and changes in the electronic structure under the influence of the support
+10
+,
+11
+. In search of an atom-efficient usage of often expensive transition metals, a new trend to bridge heterogeneous catalysis, homogeneous catalysis and material science has emerged: catalysis by single atoms
+12
+,
+13
+. Supported single-atom catalysts (SACs) often display remarkable catalytic activity that originates from the coordinatively unsaturated nature of the single atom, which is favourable for the activation of reactants
+14
+. Similar to non-innocent ligands in homogeneous catalysts, the support not only stabilizes the single metal atom, but also influences its reactivity and can even play a role in the catalytic cycle
+15
+,
+16
+. Reducible oxide supports, such as TiO
+2
+, Fe
+2
+O
+3
+and CeO
+2
+, are especially suitable for stabilizing single atoms due to the strong MSIs
+13
+,
+17
+,
+18
+,
+19
+. CeO
+2
+is known for its ability to disperse platinum group metals, which are key components of modern automotive exhaust catalysts. The unique Ce
+3+
+/Ce
+4+
+redox properties, associated with the reversible formation of oxygen vacancies, render CeO
+2
+a widely used support in modern heterogeneous and single-atom catalysis
+20
+,
+21
+,
+22
+,
+23
+,
+24
+,
+25
+.
+Pivotal to the exhaust-gas treatment of internal combustion engines, the oxidation of CO is one of the most-studied reactions for CeO
+2
+-based catalysts
+14
+,
+26
+,
+27
+,
+28
+,
+29
+. For example, remarkable advances in understanding structure–activity relationships in Pt/CeO
+2
+CO oxidation catalysts have been achieved. As-prepared ionic Pt species in Pt/CeO
+2
+SACs display limited activity in low-temperature CO oxidation, whereas a reductive pretreatment of such catalysts results in highly active small Pt clusters
+26
+,
+27
+,
+30
+,
+31
+The reaction is thought to take place at the metal–support interface: CO molecules are adsorbed on Pt clusters, and transiently formed oxygen vacancies on the ceria surface activate O
+2
+(ref.
+28
+). A key aspect of this chemistry is the facile dissociation of O
+2
+, which circumvents the problem of CO poisoning of extended Pt surfaces.
+For practical applications in the exhaust clean-up systems of petrol-powered vehicles, Pd and Pt are similarly attractive, and the choice of the key component is often determined by metal price differences
+32
+. When dispersed as single atoms, however, Pt and Pd behave quite differently in catalytic CO oxidation. Unlike Pt, isolated Pd atoms do not require reduction to become active in CO oxidation. Peterson et al. demonstrated, in an operando X-ray absorption study, that oxidized Pd atoms are the active sites for low-temperature CO oxidation
+33
+. During the reaction, however, oxidized single atoms were reduced, which led to sintering and a loss of the high activity. Parkinson et al. scrutinized the dynamic behaviour of Pd single atoms supported on Fe
+3
+O
+4
+under CO exposure
+34
+. The authors argued that sintering of Pd atoms was induced by the migration of Pd–carbonyl species. In a previous work, we found that oxidized Pd single atoms supported on CeO
+2
+nanorods are active low-temperature CO oxidation catalysts
+35
+,
+36
+. Jeong et al. reported that, by anchoring Pd to small CeO
+2
+NPs dispersed over alumina, a close-to-atomic Pd dispersion can be preserved even after hydrothermal ageing at 900 °C (ref.
+37
+). Despite these peculiar findings, the activity and stability descriptors of Pd SACs remain elusive due to the dynamic nature of the Pd–support interface in the presence of reactants. MSI phenomena such as the charge transfer between the support and the metal atom
+10
+,
+11
+,
+15
+, oxygen spillover
+38
+,
+39
+and reactions at the interface
+17
+,
+40
+are relevant aspects of the underlying chemistry. As demonstrated by Christopher and co-workers, careful synthesis of well-defined SACs and application of suitable in situ characterization techniques are critical to establish accurate structure–activity relationships for these systems
+16
+,
+29
+.
+Here we report a simple one-step synthesis of high-surface-area Pd/CeO
+2
+SACs using flame spray pyrolysis (FSP)
+41
+,
+42
+. This preparation method results in catalysts that are more active for low-temperature CO oxidation than previously reported single-atom Pd–CeO
+2
+–nanorod systems
+35
+. Comparable activation energies and reaction orders of low-temperature CO oxidation suggest a similar nature of the active sites. However, in situ infrared spectroscopy, near-ambient pressure X-ray photoelectron spectroscopy (NAP-XPS) and X-ray absorption spectroscopy (XAS) reveal the drastically different dynamic behaviour of Pd–CeO
+2
+interfaces. Pd impregnated on nanorods is prone to reduction, which leads to sintering of the metal under the applied reaction conditions. In contrast, the isolated nature of Pd
+2+
+species is preserved in FSP-derived catalysts. The enhanced stability is linked to the higher mobility of surface lattice oxygen in the Pd-doped FSP catalysts. Altogether, the obtained results demonstrate that FSP is an appealing strategy for the synthesis of highly loaded stable SACs, relevant for automotive exhaust neutralizers
+43
+.
+Results
+Preparation and characterization of Pd/CeO
+2
+SACs
+Ceria nanorods that preferentially expose (111) surfaces were prepared following a hydrothermal synthesis procedure reported previously
+19
+,
+35
+. Wet impregnation with palladium nitrate yielded a 1 wt% Pd/CeO
+2
+sample (1PdRods, Supplementary Fig.
+1
+). High-resolution high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) evidenced the absence of Pd/PdO clusters on the CeO
+2
+surface (Fig.
+1a
+and Supplementary Fig.
+2
+). Energy-dispersive X-ray spectroscopy (EDX) mapping confirmed a close-to-atomic dispersion of Pd in the as-prepared catalysts. To obtain Pd/CeO
+2
+SACs in a single step, we employed FSP using cerium and palladium acetylacetonates as precursors (Supplementary Fig.
+1b
+). Besides being fast, robust and scalable
+44
+, this approach results in crystalline CeO
+2
+with a high surface area
+41
+,
+42
+. As shown in Fig.
+1b
+, the FSP-derived 1 wt% Pd/CeO
+2
+sample (1PdFSP) comprises small (~5 nm) octahedrally shaped ceria NPs, with preferentially exposed (111) facets (Supplementary Fig.
+4
+). As for 1PdRods, HAADF-STEM and EDX point to the presence of atomically dispersed Pd. The shift of the characteristic CeO
+2
+XRD reflections of 1PdFSP sample towards higher angles (Supplementary Fig.
+5
+) together with the redshift and broadening of the F
+2g
+band in the Raman spectrum (Supplementary Fig.
+6
+) imply that some Pd
+2+
+ions are introduced into the ceria lattice during the FSP preparation
+45
+. XAS at the Pd K edge was used to study the local coordination environment and chemical state of Pd. The extended X-ray absorption fine structure (EXAFS) spectra shown in Fig.
+1c
+exhibit an intense first Pd–O coordination shell for both samples, indicative of the oxidized nature of Pd. EXAFS data analysis (Supplementary Table
+1
+) confirms the atomic dispersion of Pd in the 1PdRods and 1PdFSP samples. The EXAFS spectrum of 1PdRods was fitted using the Pd
+1
+O
+2
+model (Supplementary Fig.
+7
+), representative of the oxidized Pd single atoms on the surface of CeO
+2
+(refs
+35
+,
+36
+). To fit the EXAFS spectrum of 1PdFSP, we used a square planar Pd
+1
+O
+4
+motif, which was previously determined to be a stable structure of Pd doped in CeO
+2
+by density functional theory (DFT) calculations (Supplementary Fig.
+7
+)
+46
+. A weak second-shell feature at 3.2 Å, different from the Pd–Pd distances in PdO (Supplementary Table
+1
+), was observed for both samples and can be assigned to Pd–O–Ce coordination
+47
+,
+48
+,
+49
+. To summarize, FSP presents a suitable method to prepare Pd/CeO
+2
+SACs. Compared with conventional impregnation, which requires support preparation, drying, impregnation and calcination of the final catalyst, FSP involves a single preparation step (Supplementary Fig.
+1
+) and yields materials with a higher surface area (Supplementary Table
+2
+). A potential drawback of the FSP method is that a part of Pd is embedded in the bulk of the CeO
+2
+support. These doped Pd atoms should be inaccessible for surface reactions and thus would not be directly involved in CO oxidation catalysis. In the following, we link the structures of 1PdFSP and 1PdRods catalysts to their CO oxidation performance.
+Fig. 1: Structure of as-prepared ceria-supported Pd SACs.
+a
+,
+b
+, HAADF-STEM and EDX-mapping images of 1PdRods (
+a
+) and 1PdFSP (
+b
+). The spacing of the corresponding crystal planes is indicated (nm).
+c
+, The
+k
+3
+-weighted Fourier transform (FT) EXAFS spectra (Pd K edge) of 1PdRods (top; blue), 1PdFSP (middle; turquoise) and the reference PdO (bottom; grey). Circles and solid lines represent the data and the fit, respectively.
+Full size image
+Kinetics of CO oxidation
+Catalytic activity measurements of CO oxidation in the steady-state regime are presented in Fig.
+2a
+. The prepared Pd SACs are already active at room temperature and exhibit a higher activity than reference Pd-loaded catalysts (Supplementary Fig.
+9
+and Note
+2
+). Although less Pd is expected on the surface of 1PdFSP due to doping, its low-temperature activity is higher than that of 1PdRods (Fig.
+2a
+inset and Supplementary Fig.
+10
+). The CO oxidation kinetics also exhibited a lower apparent activation energy for 1PdFSP (~50 kJ mol
+−1
+, Supplementary Fig.
+11
+) in comparison with that of 1PdRods (~60 kJ mol
+−1
+). These values are typical for CO oxidation on Pd/CeO
+2
+(refs
+40
+,
+48
+,
+50
+). A higher reaction order in CO (+0.25 versus +0.16) and a lower reaction order in O
+2
+(−0.14 versus −0.08) were observed for the 1PdFSP sample (Fig.
+2b
+), which implies a lower coverage of CO and a more facile oxygen activation on 1PdFSP
+14
+,
+51
+. The observed reaction orders for both Pd SACs are different from classical Langmuir–Hinshelwood CO oxidation kinetics on metals (negative order in CO and positive order in O
+2
+), in which poisoning by CO suppresses the adsorption and activation of O
+2
+. The positive reaction orders in CO point to the Mars–van Krevelen mechanism, typical for reducible oxide-based catalysts, in which O
+2
+activation proceeds at the metal–support interface
+17
+,
+40
+,
+52
+. Cargnello et al. concluded that the interfacial atoms in direct contact with CeO
+2
+are the most active sites for CO oxidation in Ni/CeO
+2
+, Pt/CeO
+2
+and Pd/CeO
+2
+catalysts
+40
+. From this perspective, all surface Pd atoms in the as-prepared Pd SACs are interfacial sites, although variations in the local structure can influence the reaction mechanism. To obtain further mechanistic insights, we studied the transient responses of 1PdRods and 1PdFSP catalysts to a step change in the reactant mixture from CO + O
+2
+to O
+2
+under isothermal conditions. As shown in Fig.
+2c
+, there was a sharp increase in CO
+2
+concentration for the 1PdRods sample once the CO partial pressure dropped to almost zero. This behaviour is characteristic for the oxidation of CO adsorbed on metallic sites (Supplementary Note
+3
+). The CO
+2
+peak is notably lower than that for the 1PdFSP sample, which points to a different Pd speciation in these catalysts under reaction conditions. Comparison of the reaction orders at elevated temperature emphasizes the mechanistic differences between the catalysts (Fig.
+2d
+). For 1PdFSP, the reaction order at 175 °C remained negative in O
+2
+(−0.06) and increased in CO (+1.36) compared with that at 50 °C, which indicates a facile oxygen activation and low CO coverage. The 1PdRods sample demonstrated a nearly unchanged reaction order in CO (+0.19) and an increased order in O
+2
+(+0.29). We explain this difference by the participation of metallic Pd sites in the CO oxidation at an elevated temperature (Supplementary Note
+4
+).
+Fig. 2: CO oxidation kinetics.
+a
+, Steady-state CO conversion plots (1% CO, 1% O
+2
+, He balance, and GHSV of 60,000 ml h
+−1
+g
+cat
+−1
+).
+b
+, Reaction rate as a function of the CO or O
+2
+partial pressure measured at 50 °C. Reaction orders (
+n
+x
+) are estimated as slopes of the linear fit. Error bars represent standard deviation of the three subsequent measurements at the given pressure.
+c
+, Transient kinetic step response of CO
+2
+during the switch from CO + O
+2
+to an O
+2
+feed at 50 °C for 1PdRods (top) and 1PdFSP (bottom).
+d
+, Reaction rate as a function of the CO or O
+2
+partial pressure measured at 175 °C.
+n
+x
+estimated as slopes of the linear fit. Error bars represent standard deviation of the five subsequent measurements at the given pressure. a.u., arbitrary units.
+Full size image
+Altogether, these (transient) kinetic data indicate that the Pd–CeO
+2
+interface is involved in low-temperature CO oxidation in both Pd SACs. The high-temperature CO oxidation activity of 1PdRods is probably influenced by aggregated metallic Pd species formed in situ, whose contribution is negligible in 1PdFSP. The limited stability of the supported single atoms under the operating conditions is often an issue due to the undercoordinated nature of the metal atoms in SACs
+16
+,
+33
+,
+53
+. To link the activity and stability of the prepared Pd SACs to their structure, we employed a set of spectroscopic tools.
+Structure and dynamics of Pd/CeO
+2
+SACs during CO oxidation
+The EXAFS spectrum of the used 1PdRods catalyst shown in Fig.
+3a
+is notably different from that of the as-prepared sample (Fig.
+1c
+). The decrease in the Pd–O coordination number from 3.1 to 2.6 and the appearance of an intense Pd–Pd shell at ~2.7 Å with a coordination number of ~3 (Supplementary Table
+1
+) indicate a partial reduction and clustering of the initially atomically dispersed Pd–oxo species during CO oxidation. In contrast, the EXAFS spectrum of the used 1PdFSP catalyst is similar to that of the as-prepared sample, which suggests a much higher stability of the FSP-prepared SAC. This is in line with the transient step-response experiment (Fig.
+2c
+) and the reaction orders at 175 °C (Fig.
+2d
+), which indicated the absence of metallic and/or reduced Pd species in 1PdFSP under reaction conditions.
+Fig. 3: Reaction-induced structural changes of the Pd sites.
+a
+, The
+k
+3
+-weighted FT-EXAFS spectra (Pd K edge) of the catalysts after one reaction run up to 300 °C for 1PdRods (left) and 1PdFSP (right). Circles and solid lines represent the data and the fit, respectively.
+b
+, In situ NAP-XPS of the Pd 3
+d
+core line as a function of the reaction conditions. The total pressure in the NAP cell was fixed to 2 mbar (CO:O
+2
+= 1:1) for 1PdRods (left) and 1PdFSP (right).
+c
+, In situ DRIFTS spectra of fresh and used catalysts (after one light-off cycle up to 300 °C) at room temperature and 2 mbar of reactants (CO:O
+2
+= 1:1, 3.5 ml min
+−1
+flow mode) for 1PdRods (top) and 1PdFSP (bottom). The right panel shows the evolution of the 2,143 cm
+−1
+band for a 1PdFSP sample as a function of reactant pressure (CO to O
+2
+ratio was fixed to 1, total pressure is indicated). Pd
+met
+, Pd metal.
+Full size image
+The observed structural dynamics of the Pd SACs calls for an in situ spectroscopy approach. We used in situ NAP-XPS to follow the surface electronic structure of the working catalysts and in situ infrared spectroscopy to probe the interaction of the surface sites with the reacting molecules. The NAP-XPS spectrum of the Pd 3
+d
+core line shown in Fig.
+3b
+reveals that the 1PdRods catalyst contains two Pd states during CO oxidation at 50 °C. The more intense component at 337.8 eV corresponds to atomically dispersed Pd
+2+
+ions covalently bonded to CeO
+2
+(refs
+54
+,
+55
+,
+56
+). The second one located at ~336 eV is attributed to small PdO
+x
+clusters with a lower average oxidation state as compared with that of bulk PdO (~337 eV; Supplementary Fig.
+13
+)
+57
+. Hence, even under mild reaction conditions, Pd single atoms supported on nanorods are prone to reduction and agglomeration. At a reaction temperature of 300 °C almost half of the Pd turned into metallic (335.4 eV) and semi-oxidized (~336 eV) Pd species, which is in good agreement with the EXAFS (Fig.
+3a
+) and X-ray absorption near-edge structure (XANES) (Supplementary Fig.
+14
+) data. On the contrary, the corresponding NAP-XPS spectra for the 1PdFSP sample contain only one state of Pd—atomically dispersed Pd
+2+
+species—independent of the applied reaction conditions (Fig.
+3b
+). According to the NAP-XPS results, the Pd speciation did not change even during CO oxidation at 300 °C.
+In situ diffuse reflectance infrared Fourier-transform spectroscopy (DRIFTS) using CO as a probe molecule is sensitive to the electronic structure and nuclearity of the surface metal species in working catalysts
+16
+,
+29
+. Consistent with our previous findings
+35
+, three major CO infrared bands were observed for 1PdRods under the reaction conditions (Fig.
+3c
+). The band at 2,143 cm
+−1
+is assigned to CO adsorbed on Pd single atoms bound to CeO
+2
+via two bridged oxygens (Pd
+1
+O
+2
+) (ref.
+35
+). The band centred around 2,096 cm
+−1
+can be attributed to Pd single atoms bound to CeO
+2
+via one oxygen atom (Pd
+1
+O
+1
+) (ref.
+35
+). During the CO oxidation, additional carbonyl bands appeared at ~2,060 and ~1,900 cm
+−1
+(Supplementary Fig.
+15
+), which can be related to semi-oxidized and metallic Pd clusters, respectively
+35
+. The formation of these species can be caused by CO-assisted migration of Pd single atoms
+34
+. Comparing the DRIFTS spectra of the fresh and used 1PdRods samples, we note a more pronounced contribution of bands related to metallic Pd species, in agreement with the in situ NAP-XPS data (Fig.
+3b
+). In contrast, 1PdFSP exhibited only one carbonyl band at 2,143 cm
+−1
+, which corresponds to oxidized Pd single atoms, throughout the experiment. Increasing the CO partial pressure (Fig.
+3c
+) did not lead to a shift in this infrared band, which indicates the absence of lateral interactions
+17
+, and thereby further confirms the isolated nature of the Pd sites in 1PdFSP. The superior structural stability of 1PdFSP in comparison with that of 1PdRods reveals stronger MSIs in the former sample.
+Structure–activity relationships of the Pd/CeO
+2
+catalysts under study were established by correlating the reaction kinetics and in situ spectroscopy results. The positive reaction orders in CO observed for both Pd SACs at a low temperature (50 °C) point to the non-metallic nature of the active Pd sites
+14
+,
+51
+. The low-temperature performance of the 1PdRods catalyst during repeated CO oxidation runs was nearly unaffected by the increased fraction of reduced Pd
+δ+/0
+species formed during the first run (Supplementary Fig.
+16
+and Supplementary Note
+5
+). From this, we infer that these species do not contribute to the low-temperature activity. This is in line with the step-response experiments (Fig.
+2c
+), which indicated that a substantial fraction of Pd sites in 1PdRods are poisoned by CO at a low reaction temperature. However, at elevated temperatures (>100 °C), these Pd
+δ+/0
+species, characterized by Pd 3
+d
+5/2
+components with binding energy below 337 eV in XPS and carbonyls below 2,100 cm
+−1
+in infrared spectra, become active (Fig.
+2d
+). In the 1PdFSP sample, the persistent carbonyl infrared signature at 2,143 cm
+−1
+and the spectral component at 337.8 eV of the Pd 3
+d
+5/2
+core line confirm the oxidized nature of the Pd single-atom active sites. Together with the XAS data, these results prove that, irrespective of the reaction temperature, 1PdFSP is a structurally stable SAC.
+Effect of Pd loading
+A conventional approach to obtain stable SACs often involves decreasing the surface concentration of metal atoms down to one metal atom per support particle
+16
+,
+17
+. The 1PdFSP sample contains about 30 Pd atoms per particle, but the actual surface concentration of Pd is lower due to the partial inclusion of Pd into the CeO
+2
+bulk. Both XPS and CO chemisorption results confirm this (Supplementary Note
+6
+and Supplementary Table
+2
+). The lower density of Pd single atoms on the surface of the 1PdFSP sample, in principle, can explain its high stability during CO oxidation. To test this hypothesis, we prepared an additional set of catalysts with a higher Pd surface density by loading 5 wt% Pd on the two used ceria supports (denoted as 5PdFSP and 5PdRods; Supplementary Note
+7
+). The 5PdFSP sample displayed a substantially higher low-temperature activity than that of 5PdRods, although some PdO clusters were observed by transmission electron microscopy and reaction orders were similar to those of their 1 wt% Pd SACs counterparts (Supplementary Note
+8
+and Supplementary Figs.
+25
+and
+26
+). In situ NAP-XPS analysis of the 5PdFSP catalyst (Fig.
+4a
+) revealed that isolated Pd
+2+
+in Pd–O–Ce moieties (337.7 eV) are the dominant species in O
+2
+at 300 °C. Remarkably, exposure to CO oxidation conditions below 200 °C did not change the XPS spectra of the operating catalyst (see Supplementary Fig.
+29
+for mass spectrometry data), whereas higher temperatures led to the appearance of a small contribution (~5%) of metallic Pd. In contrast, extensive reduction of the Pd species was observed for the 5PdRods sample already at 100 °C (Fig.
+4b
+). The strong stabilization of oxidized Pd single atoms on the surface of the 5PdFSP sample is also corroborated by in situ DRIFTS data (Supplementary Fig.
+30
+). The intensity of the carbonyl band at 2,143 cm
+−1
+remained the same, even after reaction at 300 °C. In contrast, the 5PdRods sample showed a lower intensity of the 2,143 cm
+−1
+band after the reaction as compared with that of the as-prepared state, which explains the partial loss of the low-temperature activity in the repeated reaction cycle (Supplementary Fig.
+27
+). Noteworthy, even a much lower loading of 0.2 wt% Pd on CeO
+2
+nanorods (0.2PdRods sample, Supplementary Figs.
+31
+and
+32
+) did not lead to a stable Pd SAC.
+Fig. 4: Pd speciation followed by in situ NAP-XPS.
+a
+,
+b
+, Pd 3
+d
+core-line spectra as a function of reaction conditions for 5PdFSP (
+a
+) and 5PdRods (
+b
+). The total pressure in the NAP cell was fixed at 2 mbar (CO:O
+2
+= 1:1).
+Full size image
+Based on the obtained results, we argue that the higher stability of Pd single atoms in FSP-derived catalysts is not related to the low Pd surface concentration. Instead, we attribute this to a stronger MSI in the PdFSP materials. As both the FSP and Rods supports exhibit preferential (111) faceting, the effect of crystal termination cannot explain the difference between the PdFSP and PdRods samples (Supplementary Figs.
+3
+,
+4
+,
+22
+and
+23
+). The strength of the MSI has often been correlated with the redox properties of the support
+4
+,
+30
+,
+39
+,
+58
+. Doping with transition metals is known to influence the reducibility of ceria
+25
+,
+46
+,
+59
+. As a fraction of the Pd atoms is doped into the CeO
+2
+lattice in the PdFSP catalysts, we surmise that the superior stability of the surface Pd single atoms stems from the modified redox properties of the PdFSP samples. In the next section, we investigate the redox phenomena at the Pd–CeO
+2
+interface.
+Reducibility of the Pd–CeO
+2
+interface
+We first studied the reactivity of the Pd–CeO
+2
+interface in the Pd SACs using CO titration followed by in situ DRIFTS as depicted in Supplementary Figs.
+33
+and
+34
+. In the absence of O
+2
+, the Pd
+2+
+single atoms readily react with CO at 50 °C to form metallic species. Quantitative data were obtained by CO pulsing titration at the same temperature, according to the scheme: PdO
+x
++ CO → Pd + CO
+2
+. The [O
+titr
+]/Pd ratio was considerably higher than unity (Supplementary Table
+3
+). Assuming that Pd is atomically dispersed, it can be estimated from these titration results that two reactive oxygen atoms exist per Pd site in the fresh 1PdRods catalyst. This agrees with the DFT-supported structure of Pd
+1
+O
+2
+/CeO
+2
+(111) reported in a previous work (Supplementary Fig.
+7
+) and used here to fit the EXAFS data
+35
+. For the 1PdFSP sample, the same procedure resulted in three reactive oxygen atoms per Pd atom, which suggests Pd sites are of a different structure. The involvement of oxygen atoms of the CeO
+2
+support in CO oxidation, which was indicated by negative reaction orders in O
+2
+, can explain the titration results. Thus, in the following part we focus on the redox dynamics of the two components of the metal–support interface, that is, Pd and CeO
+2
+.
+Using lab-based in situ NAP-XPS, we did not observe substantial changes in the Ce
+3+
+concentration as a proxy for the formation of oxygen vacancies under CO oxidation conditions (Supplementary Fig.
+28
+). Although this may indicate that ceria reduction does not take place, we need to consider that short-lived reactive Ce
+4+
+/Ce
+3+
+sites can be present in low concentrations during a steady-state reaction
+28
+. Moreover, as Ce
+3+
+is preferentially located in the top-most surface layers
+60
+, a conventional lab-based X-ray source (Al Kα,
+hν
+= 1,486.7 eV) may not offer sufficient surface sensitivity. Therefore, more valuable information can be obtained by probing the system as a function of the reactant chemical potential
+28
+and at a lower excitation energy. To follow the formation of Ce
+3+
+at the very surface, we turned to synchrotron radiation-based (resonant) photoelectron spectroscopy. Access to the low excitation energies allows in situ probing of the Pd and Ce electronic states in the outermost layers at a depth less than ~10 Å. In turn, the use of resonant photoelectron spectroscopy (RPES) offers substantially higher sensitivity to changes in the Ce
+3+
+concentration at the very surface as compared with that of conventional Ce 3
+d
+core-line spectroscopy
+38
+,
+54
+. Ce-related electronic states were characterized by analysing the Ce 4
+d
+−4
+f
+transitions, which resonate at specific energies. The exact thresholds were experimentally determined by mapping of the valence band as a function of incident photon energy (Supplementary Fig.
+35
+). The intense features that appear in the valence band at photon energies of 124 and 120 eV correspond to Ce
+4+
+and Ce
+3+
+states, respectively. Off-resonance spectra recorded at 114 eV were used to estimate the Ce
+3+
+/Ce
+4+
+ratios (Fig.
+5b
+).
+Fig. 5: Redox chemistry of Pd–CeO
+2
+interface probed by in situ spectroscopy.
+a
+,
+b
+, In situ XPS and RPES data acquired in 0.1 mbar of reactants for 1PdRods (top) and 1PdFSP (bottom): Pd 3
+d
+core-line region (
+hν
+= 450 eV) (
+a
+) and valence band region (
+b
+). The intensities of the Ce
+4+
+and Ce
+3+
+related features, which appear at the respective resonant energies, were used to estimate the Ce
+3+
+atomic fraction.
+c
+, Pd and Ce oxidation state dynamics derived from XPS and RPES data for 1PdRods (top) and 1PdFSP (bottom).
+d
+, Evolution of Pd K-edge XANES and the CeO
+2
+unit-cell parameter of a 5PdFSP sample during temperature-programmed reduction in CO (TPR-CO) monitored by in situ XAS/WAXS.
+Full size image
+As shown in Fig.
+5a,b
+, both Pd SACs contain exclusively oxidized Pd
+2+
+single atoms on a nearly stoichiometric CeO
+2
+surface (Ce
+3+
+~1%, Fig.
+5c
+) under oxidizing conditions. Exposure of the 1PdRods sample to the reaction mixture at 50 °C led to the formation of semi-oxidized Pd clusters. In contrast, the isolated Pd
+2+
+state was preserved in the 1PdFSP sample. The high surface sensitivity of RPES resolves even subtle differences in the Ce
+3+
+concentration under reaction conditions (11% of Ce
+3+
+for 1PdFSP and 9% for 1PdRods). Switching the reaction feed to pure CO resulted in a deeper reduction of Pd in 1PdRods than that in 1PdFSP, in line with the DRIFTS findings (Supplementary Figs.
+33
+and
+34
+). The reverse was observed for the Ce reduction degree. On CO exposure, 24 and 19% of Ce
+3+
+was formed at the surface of 1PdFSP and 1PdRods, respectively. Under identical conditions the surface of the bare FSP support contained 17% of Ce
+3+
+. In line with the CO titration results, the higher concentration of oxygen vacancies confirms that Pd increases the surface reducibility of the 1PdFSP catalyst. (Supplementary Fig.
+36
+). The high oxygen mobility at the Pd–CeO
+2
+interface can explain the strong stabilization of oxidized Pd single atoms. Altogether, these observations point to the importance of the reverse oxygen spillover from the support to Pd single atoms. In this way, the isolated ionic Pd sites can be preserved even under reducing conditions due to a sufficient oxygen supply from the support, as previously seen for Pt/CeO
+2
+SACs
+61
+.
+To complete the investigation of the redox properties of the Pd–CeO
+2
+interface, we studied the 5 wt% Pd catalysts by a combination of in situ XAS and wide-angle X-ray scattering (WAXS). These bulk-sensitive techniques simultaneously probe the speciation of Pd via XANES at the Pd K edge and Ce via WAXS analysis of the unit-cell parameter, which increases on Ce
+3+
+formation
+62
+. As follows from Fig.
+5d
+, for the FSP-derived sample, Pd reduction in a CO flow starts at 80 °C, whereas ceria lattice expansion, indicative of bulk Ce
+3+
+formation, is delayed. Once sufficient metallic Pd has been formed, that is, ~50% of all Pd species, Ce
+3+
+starts to emerge at ~125 °C, as manifested by the shift of CeO
+2
+reflections towards lower angles (Supplementary Figs.
+37
+and
+38
+)
+62
+. The bulk reduction of ceria, induced by the formation of Pd metal, is another indication of reverse oxygen spillover
+38
+,
+58
+. Notable Ce
+3+
+formation in the bulk for the impregnated 5PdRods catalyst was observed only at ~200 °C, which points to a lower mobility of oxygen in this sample (Supplementary Figs.
+39
+and
+40
+). Importantly, thermal treatment in O
+2
+or CO + O
+2
+did not lead to substantial shifts in the diffraction patterns, apart from those related to thermal lattice expansion (Supplementary Fig.
+42
+). This is in line with the lab-based NAP-XPS findings, and emphasizes a low Ce
+3+
+concentration under these conditions.
+To conclude, we demonstrated that the oxygen mobility in the PdFSP system is higher both in the bulk and at the surface. Previous DFT studies predicted substantially lower barriers for oxygen vacancy formation in the vicinity of the doped square-planar Pd
+1
+O
+4
+structural motif
+46
+,
+59
+. In turn, surface reducibility of the support is key for the stabilization of noble metals anchored in an ionic single-atom form
+4
+,
+61
+. Oxygen atoms spilled over from the support to Pd single atoms suppress their reduction under the reaction conditions, which is crucial to preserve the isolated nature of the Pd–oxo species. Our earlier theoretical findings
+35
+revealed that reduced Pd adatoms are prone to migration over the ceria surface and form metallic clusters inactive in low-temperature CO oxidation. Facile oxygen transport at the Pd–CeO
+2
+interface, enabled by doping of nanosized ceria with Pd, explains the stability of oxidized Pd single atoms on the surface of FSP-derived catalysts.
+Discussion
+Synthesis of well-defined SACs is typically achieved by using a low loading of the metal of interest (typically below 0.05 wt%) on a support
+16
+,
+17
+. Increasing the metal loading is often detrimental to the stability of atomically dispersed atoms at elevated temperatures. Therefore, it is difficult to achieve stable SACs at the metal loadings for practical applications
+43
+. Knowledge-driven design of such catalysts requires understanding of the chemical nature and dynamics of MSIs
+1
+,
+2
+.
+Here we demonstrate that two Pd/CeO
+2
+SACs, which are similar in the as-prepared state, evolve in a different manner under reaction conditions. Isolated ionic Pd species, obtained by impregnation on the surface of CeO
+2
+nanorods, undergo a swift reduction and agglomeration into metallic clusters during CO oxidation (Fig.
+6a
+). Pd/CeO
+2
+SACs with a high surface area can be prepared by a single-step FSP method. The surface Pd single atoms on FSP-derived catalysts show a high resistance against sintering under CO oxidation conditions (Fig.
+6b
+). Analysis of the transient and steady-state CO oxidation kinetics combined with in situ NAP-XPS, DRIFTS and EXAFS revealed that isolated surface Pd
+2+
+sites are responsible for the low-temperature CO oxidation in both catalysts, whereas reduced Pd
+δ+/0
+species become active at elevated temperatures. By following the Ce
+4+
+/Ce
+3+
+and Pd
+2+
+/Pd
+δ+/0
+redox dynamics, we established that doping by Pd ions activates the lattice oxygen of the CeO
+2
+support and facilitates a reverse oxygen spillover at the Pd–O–Ce interface. The mobility of oxygen at the metal–support interface has a strong impact on the stability and reactivity of the Pd SACs. These findings open up an alternative approach to the rational design of active and stable SACs, in which lattice oxygen can be activated by doping the support with transition metals. The insight that the speciation of the supported metal is strongly influenced by the redox properties of the support is also relevant to other catalytic reactions that involve a metal–support interface, such as methane dry reforming, the water–gas shift reaction and CO
+2
+hydrogenation.
+Fig. 6: Schematic overview of the SACs evolution during CO oxidation revealed by in situ spectroscopy.
+a
+, Oxidized Pd single atoms on the surface of CeO
+2
+nanorods undergo reduction and agglomeration into metallic clusters at elevated temperatures.
+b
+, Pd-doped sites, inherently present in FSP-derived catalysts, facilitate oxygen mobility at the Pd–CeO
+2
+interface and, via reverse oxygen spillover, preserve the oxidized Pd single-atom moieties.
+Full size image
+Methods
+Catalyst preparation
+All the chemicals were purchased from Sigma-Aldrich and used without further purification. CeO
+2
+nanorods were prepared according to a procedure reported elsewhere
+35
+,
+36
+. The synthesis scheme is depicted in Supplementary Fig.
+1a
+. In brief, 25 g of NaOH (reagent grade ≥98%) was dissolved in 30 ml of demineralized water. A solution of 2.17 g of Ce(NO
+3
+)∙6H
+2
+O (99% purity) in 5 ml of demineralized water was prepared. Subsequently, the two solutions were poured together, and the obtained slurry was stirred at room temperature for 1 h. Next, the volume was increased to ~100 ml by adding demineralized water and the slurry was transferred into a 125 ml Teflon liner. This liner was then sealed in a stainless-steel autoclave, which was placed in an oven for 24 h at 100 °C. After cooling in a water bath, the obtained precipitate was washed with five cycles of centrifugation, decantation and redispersion until a pH of ~7–8 was obtained. The resulting solid was dried in a vacuum oven for 2 h at 80 °C and then calcined in air at 500 °C. Subsequently, a Pd wet impregnation of CeO
+2
+nanorods using Pd(NO
+3
+)∙2H
+2
+O as the Pd precursor was performed. An appropriate amount of Pd salt was dissolved in demineralized water (10 ml) and poured onto the calcined CeO
+2
+powder. The resulting mixture was vigorously stirred for 30 min at room temperature and then slowly heated to evaporate the water without boiling. The obtained solid was dried overnight at 110 °C and subsequently calcined in air at 300 °C. The calcined samples were denoted as 1PdRods and 5PdRods, depending on the intended Pd loading.
+The FSP synthesis was performed using a commercial TETHIS NPS10 apparatus. The principal scheme of the synthesis set-up can be found in Supplementary Fig.
+1b
+. The precursor solution was prepared by dissolving Ce(acac)∙H
+2
+O (99.9% purity) and Pd(acac)
+2
+∙H
+2
+O (99% purity) salts (acac, acetylacetone) in glacial acetic acid (99.7% purity), which gave rise to a 0.1 M Ce precursor solution, and the Pd molarity was varied to target a particular Pd loading. To increase the solubility of the salts, the solution was heated slightly to ~50 °C and stirred for 0.5 h. The fully transparent solution was then transferred into the syringe of the FSP set-up. The solution was injected at a feed rate of 5 ml min
+−1
+into the methane/oxygen flame (1.5 l min
+−1
+of methane and 3.0 l min
+−1
+of oxygen). An oxygen flow of 5.0 l min
+−1
+was used for the dispersion of the solution, which gave rise to an overpressure at the nozzle of ~2.5 bar. On pyrolysis in the flame, the NPs were formed and deposited on the quartz fibre filter in the upper part of the set-up (Supplementary Fig.
+1
+). The powders collected from the filter were denoted as 1PdFSP and 5PdFSP, depending on the intended Pd loading.
+Characterization
+Atomic-resolution HAADF-STEM images of various samples were acquired with a JEOL JEM ARM200F with a Cs-corrected probe operated at 200 kV. The samples for the analysis were dispersed in ethanol followed by the addition of a few drops on lacey carbon films supported on copper grids. EDX data were obtained using an Oxford Instruments X-Max 100TLE system.
+N
+2
+physisorption at 77 K was employed using a Micromeritics TriStar II 3020 instrument. Typically, 100 mg of the sample was kept in a N
+2
+flow at 150 °C overnight to desorb water and other impurities. The Brunauer–Emmet–Teller method was utilized to determine the surface area.
+The Pd weight loading was determined using inductively coupled plasma optical emission spectrometry with a Spectroblue (AMETEK Inc.) instrument. Nanorod-shaped catalysts were dissolved in concentrated H
+2
+SO
+4
+under vigorous stirring at 250 °C. Once fully transparent, the solution was cooled and further diluted with demineralized water for analysis. FSP-derived samples often contain some residues from the quartz fibre filter from which the powders were collected. Therefore, a melting process of the sample and K
+2
+S
+2
+O
+7
+was employed using a Bunsen burner. The melt was subsequently dissolved in concentrated H
+2
+SO
+4
+and 4% HF was added to dissolve any glass fibres. The resulting solutions were further diluted for analysis. The measurements were performed in duplo.
+Powder X-ray diffraction was used to determine the crystalline structure of the as-prepared materials. A Bruker D2 Phaser diffractometer with Cu Kα (1.54 Å) radiation was used.
+The catalytic activity was evaluated using a high-throughput set-up with a ten-tube parallel flow reactor. The catalysts were sieved at a fraction between 125 and 250 μm. The catalyst bed was packed between quartz wool plugs in each quartz tube reactor. Typically, 50 mg of the catalyst (if not stated otherwise) was mixed with 250 mg of SiC of the same sieved fraction as an inert diluent material. The catalytic testing was performed at atmospheric pressure. The catalysts were pretreated for 1 h at 300 °C in a 20% O
+2
+/80% He flow (50 ml min
+−1
+per reactor). After cooling down to room temperature, the reaction mixture of 1% CO + 1% O
+2
+in He was fed for 0.5 h. Subsequently, stepwise heating to 300 °C at a rate of 5 °C min
+−1
+was performed. Each measurement point was acquired isothermally after 15 min of stabilization. The effluent gas was analysed by online gas chromatography using an Interscience Compact GC equipped with Plot and Molsieve columns and thermal conductivity detectors (TCDs). Catalytic data used for the Arrhenius plots were measured in the light-off regime (5 °C min
+−1
+, 1% CO + 1% O
+2
+in He, 200 ml min
+−1
+) using a mass spectrometer. High gas-hourly space velocities (up to 1,200,000 ml g
+cat
+−1
+h
+−1
+), dilution with SiC and a low loading of catalysts were used to ensure differential conditions with conversion levels below 5% (Supplementary Note
+1
+). Further details of the catalytic activity measurements can be found in the figure captions.
+Step-response studies were performed using the set-up designed for the transient kinetic experiments. Two parallel gas lines were connected to a four-way valve, which allowed rapidly switching between the two feed flows. The pressure difference between the two feed flows did not exceed 0.02 mbar. A low dead-volume stainless-steel tubular reactor of 5 mm inner diameter and 80 mm bed length was used. The catalytic activity in the steady state was determined by online gas chromatography (VARIAN CP-3800 equipped with a TCD and flame ionization detector). The concentrations of CO (
+m
+/
+z
+= 28), O
+2
+(
+m
+/
+z
+= 32), CO
+2
+(
+m
+/
+z
+= 44), Ne (
+m
+/
+z
+= 22) and Ar (
+m
+/
+z
+= 40) were monitored by an online quadrupole mass spectrometer (GeneSys). Typically, 20 mg of sample diluted with SiC was loaded into the stainless-steel reactor. Prior to the reaction, the sample was pretreated in an O
+2
+flow (20% O
+2
+in Ar, 50 ml min
+–1
+in total) at 300 °C using a heating rate of 10 °C min
+–1
+at atmospheric pressure for 2 h. Subsequently, the sample was cooled to 50 °C in an O
+2
+flow (3.5% in Ar, 50 ml min
+–1
+in total) and the pressure was increased to 1.5 bar. Thereafter, the feed was switched to a flow that contained a mixture of CO (1 vol%), O
+2
+(3.5 vol%) and Ar (50 ml min
+−1
+in total) for ~48 h to ensure a steady-state conversion. Then a switch to O
+2
+flow (3.5% in Ar, 50 ml min
+–1
+in total) was performed.
+In situ NAP-XPS was performed on a SPECS system. The core-line spectra were acquired using monochromatized Al Kα (1,486.6 eV) irradiation generated by an Al anode (SPECS XR-50) and operated at 50 W. A differential pumping system of the electron analyser (SPECS Phoibos NAP-150) allows normal-emission XPS measurements in the presence of gases (up to ~20 mbar). To avoid sample charging (Supplementary Note
+10
+), the catalyst powder was pelletized with a conductive diluent and directly fixed onto the stainless-steel sample holder. The NAP cell was operated in a flow mode with total pressure kept constant at 2 mbar using an electronic back-pressure regulator. The gas mixtures were fed using calibrated mass-flow controllers with a maximum total flow of 2 ml min
+−1
+. All the gasses were of high purity (99.999%). For pretreatment, O
+2
+was fed into the cell followed by heating the sample to 300 °C. After cooling to room temperature, oxygen was replaced by the reaction mixture (CO:O
+2
+= 1:1). As the spectra were recorded, the gas-phase composition was followed using a standard residual gas analyser (MKS e-Vision 2) located in the differential pumping system. All the XPS spectra were recorded isothermally. The total acquisition time of the survey spectrum, which included the O 1
+s
+, C 1
+s
+, Ce 3
+d
+and Pd 3
+d
+regions, was around 1.5 h. A pass energy of 40 eV was typically used with a step size of 0.1 eV and a dwell time of 0.5 s. The binding energies were corrected to the U′′′ component of the Ce 3
+d
+line with a characteristic position of 916.7 eV (refs
+26
+,
+50
+,
+60
+), which allows a reliable energy calibration of the photoelectron spectra at different reaction conditions. To estimate the atomic surface ratios, a standard procedure, which included the use of atomic sensitivity factors and subtraction of the Shirley background, was applied (Supplementary Fig.
+48
+). Spectral lines were fitted using a symmetric pseudo-Voigt function referred to as GL(30) using the CasaXPS software. Pd 3
+d
+spectra that contained a metallic Pd component were fitted using an asymmetric pseudo-Voigt function referred to as LF (0.76, 1.5, 55, 300) in the CasaXPS software. The Ce 3
+d
+line was fitted according to a model described elsewhere
+60
+,
+63
+.
+Surface-sensitive in situ RPES and NAP-XPS were performed at the NAPP (near-ambient pressure photoemission) end station of CIRCE beamline, ALBA Synchrotron. Spectra acquisition was done with a SPECS Phoibos NAP-150 electron analyser equipped with a differential pumping system that allowed XPS measurements in a gaseous environment (up to ~20 mbar). A take-off angle of ~45° was used. The analysis chamber (backfilling design) was pressurized up to ~0.1 mbar using mass-flow controllers and high-purity gases. The pretreatment and reaction mixtures were identical to those used for the lab-based NAP-XPS study. Switches between gaseous environments were performed without evacuation to high vacuum conditions. The Pd 3
+d
+core-line spectra were recorded at a 450 eV incident photon energy, which gave rise to a probing depth of ~10 Å. After a linear background subtraction (Supplementary Fig.
+49
+), the spectral lines were fitted in a similar manner to that of the lab-based NAP-XPS data. For the RPES study, a variable photon energy allowed the selective excitation of Ce 4
+d
+−4
+f
+transitions directly related to the concentration of Ce
+3+
+and Ce
+4+
+(refs
+10
+,
+38
+,
+63
+). By mapping the valence band region as a function of the incident photon energy, we determined the energies required for the resonant enhancement of Ce
+3+
+and Ce
+4+
+features (details in Supplementary Fig.
+32
+). The heights of the respective resonant peaks were used to obtain the Ce
+3+
+/Ce
+4+
+ratios, according to a procedure reported previously
+10
+,
+38
+,
+63
+. Using this approach, the Ce
+3+
+concentration at the very surface (~10 Å) can be obtained
+10
+,
+38
+,
+63
+.
+Conventional ultrahigh vacuum XPS was performed using a K-Alpha XPS spectrometer (Thermo Scientific) equipped with an Al anode (Al Kα = 1,486.68 eV) monochromatized X-ray source. Powder samples were placed on a double-sided carbon tape and the spectra were acquired using the flood-gun source to account for surface charging. All the spectra were analysed using the CasaXPS software package. The same data-processing approach was used as that for the XPS measurements performed on SPECS instruments described above.
+In situ DRIFT spectroscopy was employed using a Bruker Vertex 70v FT infrared spectrometer equipped with a mercury–cadmium–telluride detector. Each spectrum was collected by averaging 100 scans at a resolution of 2 cm
+−1
+in the 4,000–400 cm
+−1
+range. The experiments were performed using a Praying Mantis accessory and a commercial in situ cell (Harrick). Fine powder samples were placed in the cell dome without dilution and the thermocouple was located in the centre of the catalyst bed. Gases were introduced in the cell using calibrated mass-flow controllers and the pressure in the cell was regulated by the back-pressure controller. First, the samples were pretreated in 40 mbar of oxygen at 300 °C and then cooled to room temperature, followed by recording a background spectrum. Then, either pure CO (2 mbar) or CO + O
+2
+(2 mbar) were introduced and the spectra collected. All the measurements were performed under flow and a fixed total pressure. Transmission infrared Fourier-transform spectroscopy study of low-temperature CO adsorption was performed using a Bruker Vertex 70v spectrometer equipped with a deuterated triglycine sulfate detector. A homebuilt environmental transmission infrared cell was used. Self-supporting pellets were made by pressing approximately 10 mg of a sample in a disc with a diameter of 13 mm. Each spectrum was collected by averaging 64 scans with a resolution of 2 cm
+−1
+in the 4,000–1,000 cm
+−1
+range. The samples were pretreated in 200 mbar O
+2
+at 300 °C, then cooled to room temperature and evacuated. Subsequently, the cell was cooled to −160 °C via internally circulating liquid N
+2
+and the background spectra were recorded. CO was dosed to the cell and the spectra were recorded. Afterwards, CO desorption was performed by gradual heating of the sample to room temperature.
+XAS was performed at the DUBBLE BM26A beamline at the European Synchrotron Radiation Facility (ESRF) and the B18 beamline at the Diamond Light Source. Data were collected at the Pd K edge (24,350 eV) in the fluorescence mode. Energy calibration was performed using Pd foil. The collected XAFS data were background subtracted, normalized and fitted using a linear combination fitting as implemented in the Athena software package. An EXAFS analysis of the
+k
+3
+-weighted Pd K-edge data was performed with Artemis. Scattering paths were calculated with FEFF6 using the crystal structures of PdO and the DFT-optimized Pd models
+35
+,
+46
+. The amplitude reduction factor
+S
+0
+2
+was determined by fitting the first and second shell Pd–O and Pd–Pd scattering paths, with the coordination numbers fixed to 4 and 12, respectively, of a PdO reference sample.
+A simultaneous in situ WAXS and XAS study was performed at the DUBBLE BM26A beamline at the ESRF. Two-dimensional X-ray patterns were collected with a charged coupled device detector (FReLoN) at an X-ray beam wavelength of 0.51 Å. The instrumental parameters were calibrated using NIST LaB
+6
+as a standard reference. Fit2D software was used for the integration of the two-dimensional patterns and GSAS-II was applied for the Rietveld refinement using a pseudo-Voigt function for the peak shape. XANES spectra at the Pd K edge were measured in the fluorescence mode and processed with Athena software. Both XAS and WAXS data were acquired as a function of temperature. A capillary Clausen cell reactor was used for the in situ measurements. A fine powder of the pure sample (~2–3 mg) was loaded between two quartz wool plugs. The thermocouple was in direct contact with the catalyst bed. For pretreatment, 1.5 ml min
+−1
+O
+2
+and 2 ml min
+−1
+He were fed over the sample on heating to 300 °C at a rate of 10 °C min
+−1
+. After cooling to 50 °C, the reaction mixture (0.5 ml min
+−1
+CO, 0.5 ml min
+−1
+O
+2
+, 2 ml min
+−1
+He) was fed to the sample while heating to 300 °C at a rate of 10 °C min
+−1
+. After cooling to 50 °C, 0.5 ml min
+−1
+CO and 2 ml min
+−1
+He was flowed under heating to 300 °C at a ramp rate of 5 °C min
+−1
+(TPR-CO regime).
+CO-pulsing chemisorption and titration experiments were utilized using a Micromeritics Autochem II 2920 instrument. Typically, 50 mg of the catalyst was loaded in a tubular quartz reactor. The sample was pretreated at 300 °C in 20 vol% O
+2
+in He at a flow rate 50 ml min
+−1
+. For the chemisorption experiments, after cooling to room temperature the reactor was flushed with He for 40 min and a NaCl–ice bath was used to reach −20 °C. After the TCD signal became stable, pulses (50 μl) of pure CO were dosed into the He feed until saturation (that is, when no changes of the peak area were observed anymore). The amount of CO adsorbed on the sample was calculated from the peak areas of the TCD signal. For the titration experiments, ~50 mg of catalyst was loaded into a U-shape quartz reactor. After pretreatment at 300 °C in 20 vol% O
+2
+in He at a flow rate of 50 ml min
+−1
+, the sample was cooled to 50 °C and flushed with He for 40 min. After the TCD signal stabilized, pulses (50 μl) of pure CO were dosed into the He flow until saturation. Quantification was performed in the same manner as that for the CO chemisorption procedure.
+Data availability
+The data that support the findings of this study are included in the published article (and its
+Supplementary Information
+) or available from the corresponding author upon reasonable request.
+References
+van Deelen, T. W., Hernández Mejía, C. & de Jong, K. P. Control of metal–support interactions in heterogeneous catalysts to enhance activity and selectivity.
+Nat. Catal.
+2
+, 955–970 (2019).
+Article
+Google Scholar
+O’Connor, N. J., Jonayat, A. S. M., Janik, M. J. & Senftle, T. P. Interaction trends between single metal atoms and oxide supports identified with density functional theory and statistical learning.
+Nat. Catal.
+1
+, 531–539 (2018).
+Article
+Google Scholar
+Hackett, S. F. J. et al. High-activity, single-site mesoporous Pd/Al
+2
+O
+3
+catalysts for selective aerobic oxidation of allylic alcohols.
+Angew. Chem. Int. Ed.
+46
+, 8593–8596 (2007).
+Article
+CAS
+Google Scholar
+Lang, R. et al. Non defect-stabilized thermally stable single-atom catalyst.
+Nat. Commun.
+10
+, 234 (2019).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Herzing, A. A., Kiely, C. J., Carley, A. F., Landon, P. & Hutchings, G. J. Identification of active gold nanoclusters on iron oxide supports for CO oxidation.
+Science
+321
+, 1331–1335 (2008).
+Article
+CAS
+PubMed
+Google Scholar
+Le, Y. et al. Increased silver activity for direct propylene epoxidation via subnanometer size effects.
+Science
+328
+, 224–228 (2010).
+Article
+Google Scholar
+Parastaev, A. et al. Boosting CO
+2
+hydrogenation via size-dependent metal–support interactions in cobalt/ceria-based catalysts.
+Nat. Catal.
+3
+, 526–533 (2020).
+Article
+CAS
+Google Scholar
+Yang, X. F. et al. Single-atom catalysts: a new frontier in heterogeneous catalysis.
+Acc. Chem. Res.
+46
+, 1740–1748 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Li, J., Li, X., Zhai, H. J. & Wang, L. S. Au
+20
+: A tetrahedral cluster.
+Science
+299
+, 864–867 (2003).
+Article
+CAS
+PubMed
+Google Scholar
+Lykhach, Y. et al. Counting electrons on supported nanoparticles.
+Nat. Mater.
+15
+, 284–288 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Campbell, C. T. Catalyst–support interactions: electronic perturbations.
+Nat. Chem.
+4
+, 597–598 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Flytzani-Stephanopoulos, M. & Gates, B. C. Atomically dispersed supported metal catalysts.
+Annu. Rev. Chem. Biomol. Eng.
+3
+, 545–574 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Yu, W.-Z. et al. Construction of active site in a sintered copper–ceria nanorod catalyst.
+J. Am. Chem. Soc.
+141
+, 17548–17557 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Li, J. et al. Highly active and stable metal single-atom catalysts achieved by strong electronic metal–support interactions.
+J. Am. Chem. Soc.
+141
+, 14515–14519 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+DeRita, L. et al. Structural evolution of atomically dispersed Pt catalysts dictates reactivity.
+Nat. Mater.
+18
+, 746–751 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+DeRita, L. et al. Catalyst architecture for stable single atom dispersion enables site-specific spectroscopic and reactivity measurements of CO adsorbed to Pt atoms, oxidized Pt clusters, and metallic Pt clusters on TiO
+2
+.
+J. Am. Chem. Soc.
+139
+, 14150–14165 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Lin, J. et al. Remarkable performance of Ir
+1
+/FeO
+x
+single-atom catalyst in water gas shift reaction.
+J. Am. Chem. Soc.
+135
+, 15314–15317 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Trovarelli, A. Catalytic properties of ceria and CeO
+2
+-containing materials.
+Catal. Rev. Sci. Eng.
+38
+, 439–520 (1996).
+Article
+CAS
+Google Scholar
+Montini, T., Melchionna, M., Monai, M. & Fornasiero, P. Fundamentals and catalytic applications of CeO
+2
+-based materials.
+Chem. Rev.
+116
+, 5987–6041 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Bruix, A. et al. Maximum noble-metal efficiency in catalytic materials: atomically dispersed surface platinum.
+Angew. Chem. Int. Ed.
+53
+, 10525–10530 (2014).
+Article
+CAS
+Google Scholar
+Dvořák, F. et al. Creating single-atom Pt–ceria catalysts by surface step decoration.
+Nat. Commun.
+7
+, 10801 (2016).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Sarma, B. B. et al. One-pot cooperation of single-atom Rh and Ru solid catalysts for a selective tandem olefin isomerization-hydrosilylation process.
+Angew. Chem. Int. Ed.
+59
+, 5806 (2020).
+Article
+CAS
+Google Scholar
+Riley, C. et al. Design of effective catalysts for selective alkyne hydrogenation by doping of ceria with a single-atom promotor.
+J. Am. Chem. Soc.
+140
+, 12964–12973 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Pereira-Hernández, X. I. et al. Tuning Pt–CeO
+2
+interactions by high-temperature vapor-phase synthesis for improved reducibility of lattice oxygen.
+Nat. Commun.
+10
+, 1358 (2019).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Gänzler, A. M. et al. Tuning the structure of platinum particles on ceria in situ for enhancing the catalytic performance of exhaust gas catalysts.
+Angew. Chem. Int. Ed.
+56
+, 13078–13082 (2017).
+Article
+Google Scholar
+Kopelent, R. et al. Catalytically active and spectator Ce
+3+
+in ceria-supported metal catalysts.
+Angew. Chem. Int. Ed.
+54
+, 8728–8731 (2015).
+Article
+CAS
+Google Scholar
+Resasco, J. et al. Uniformity is key in defining structure-function relationships for atomically dispersed metal catalysts: the case of Pt/CeO
+2
+.
+J. Am. Chem. Soc.
+142
+, 169–184 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Gänzler, A. M. et al. Tuning the Pt/CeO
+2
+interface by in situ variation of the Pt particle size.
+ACS Catal.
+8
+, 4800–4811 (2018).
+Article
+Google Scholar
+Wang, H. et al. Surpassing the single-atom catalytic activity limit through paired Pt–O–Pt ensemble built from isolated Pt
+1
+atoms.
+Nat. Commun.
+10
+, 3808 (2019).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Golunski, S. E. Why use platinum in catalytic converters?
+Platin. Met. Rev.
+51
+, 162 (2007).
+Article
+CAS
+Google Scholar
+Peterson, E. J. et al. Low-temperature carbon monoxide oxidation catalysed by regenerable atomically dispersed palladium on alumina.
+Nat. Commun.
+5
+, 4885 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Parkinson, G. S. et al. Carbon monoxide-induced adatom sintering in a Pd–Fe
+3
+O
+4
+model catalyst.
+Nat. Mater.
+12
+, 724–728 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Spezzati, G. et al. Atomically dispersed Pd–O species on CeO
+2
+(111) as highly active sites for low-temperature CO oxidation.
+ACS Catal.
+7
+, 6887–6891 (2017).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Spezzati, G. et al. CO oxidation by Pd supported on CeO
+2
+(100) and CeO
+2
+(111) facets.
+Appl. Catal. B
+243
+, 36–46 (2019).
+Article
+CAS
+Google Scholar
+Jeong, H. et al. Highly durable metal ensemble catalysts with full dispersion for automotive applications beyond single-atom catalysts.
+Nat. Catal.
+3
+, 368–375 (2020).
+Article
+CAS
+Google Scholar
+Vayssilov, G. N. et al. Support nanostructure boosts oxygen transfer to catalytically active platinum nanoparticles.
+Nat. Mater.
+10
+, 310–315 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Puigdollers, A. R., Schlexer, P., Tosoni, S. & Pacchioni, G. Increasing oxide reducibility: the role of metal/oxide interfaces in the formation of oxygen vacancies.
+ACS Catal.
+7
+, 6493–6513 (2017).
+Article
+Google Scholar
+Cargnello, M. et al. Control of metal nanocrystal size reveals metal–support interface role for ceria catalysts.
+Science
+341
+, 771–773 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Mädler, L., Stark, W. J. & Pratsinis, S. E. Flame-made ceria nanoparticles.
+J. Mater. Res.
+17
+, 1356–1362 (2002).
+Article
+Google Scholar
+Koirala, R., Pratsinis, S. E. & Baiker, A. Synthesis of catalytic materials in flames: opportunities and challenges.
+Chem. Soc. Rev.
+45
+, 3053 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Beniya, A. & Higashi, S. Towards dense single-atom catalysts for future automotive applications.
+Nat. Catal.
+2
+, 590–602 (2019).
+Article
+Google Scholar
+Gröhn, A. J., Pratsinis, S. E., Sánchez-Ferrer, A., Mezzenga, R. & Wegner, K. Scale-up of nanoparticle synthesis by flame spray pyrolysis: the high-temperature particle residence time.
+Ind. Eng. Chem. Res.
+53
+, 10734–10742 (2014).
+Article
+Google Scholar
+Liang, H. et al. Aqueous co-precipitation of Pd-doped cerium oxide nanoparticles: chemistry, structure, and particle growth.
+J. Mater. Sci.
+47
+, 299–307 (2012).
+Article
+CAS
+Google Scholar
+Su, Y.-Q., Filot, I. A. W., Liu, J.-X. & Hensen, E. J. M. Stable Pd-doped ceria structures for CH
+4
+activation and CO oxidation.
+ACS Catal.
+8
+, 75–80 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Hinokuma, S., Fujii, H., Okamoto, M., Ikeue, K. & Machida, M. Metallic Pd nanoparticles formed by Pd–O–Ce interaction: a reason for sintering-induced activation for CO oxidation.
+Chem. Mater.
+22
+, 6183–6190 (2010).
+Article
+CAS
+Google Scholar
+Wang, X. et al. The synergy between atomically dispersed Pd and cerium oxide for enhanced catalytic properties.
+Nanoscale
+9
+, 6643–6648 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Jeong, H., Bae, J., Han, J. W. & Lee, H. Promoting effects of hydrothermal treatment on the activity and durability of Pd/CeO
+2
+catalysts for CO oxidation.
+ACS Catal.
+7
+, 7097–7105 (2017).
+Article
+CAS
+Google Scholar
+Slavinskaya, E. M. et al. Low-temperature CO oxidation by Pd/CeO
+2
+catalysts synthesized using the coprecipitation method.
+Appl. Catal. B
+166–167
+, 91–103 (2015).
+Article
+Google Scholar
+Lu, Y. et al. Identification of the active complex for CO oxidation over single-atom Ir-on-MgAl
+2
+O
+4
+catalysts.
+Nat. Catal.
+2
+, 149–156 (2019).
+Article
+CAS
+Google Scholar
+Zafiris, G. S. & Gorte, R. J. Evidence for a second CO oxidation mechanism on Rh/ceria.
+J. Catal.
+143
+, 86–91 (1993).
+Article
+CAS
+Google Scholar
+Su, Y.-Q. et al. Theoretical approach to predict the stability of supported single-atom catalysts.
+ACS Catal.
+9
+, 3289–3297 (2019).
+Article
+CAS
+Google Scholar
+Neitzel, A. et al. Atomically dispersed Pd, Ni, and Pt species in ceria-based catalysts: principal differences in stability and reactivity.
+J. Phys. Chem. C
+120
+, 9852–9862 (2016).
+Article
+CAS
+Google Scholar
+Boronin, A. I. et al. Investigation of palladium interaction with cerium oxide and its state in catalysts for low-temperature CO oxidation.
+Catal. Today
+144
+, 201–211 (2009).
+Article
+CAS
+Google Scholar
+Chen, Y. et al. Well-defined palladium–ceria interfacial electronic effects trigger CO oxidation.
+Chem. Commun.
+54
+, 10140–10143 (2018).
+Article
+CAS
+Google Scholar
+Slavinskaya, E. M. et al. Low-temperature CO oxidation by Pd/CeO
+2
+catalysts synthesized using the coprecipitation method.
+Appl. Catal. B
+166–167
+, 91–103 (2015).
+Article
+Google Scholar
+Nilsson, J. et al. Chemistry of supported palladium nanoparticles during methane oxidation.
+ACS Catal.
+5
+, 2481–2489 (2015).
+Article
+CAS
+Google Scholar
+Su, Y. Q., Zhang, L., Muravev, V. & Hensen, E. J. M. Lattice oxygen activation in transition metal doped ceria.
+Chin. J. Catal.
+41
+, 977–984 (2020).
+Article
+CAS
+Google Scholar
+Kato, S. et al. Quantitative depth profiling of Ce
+3+
+in Pt/CeO
+2
+by in situ high-energy XPS in a hydrogen atmosphere.
+Phys. Chem. Chem. Phys.
+17
+, 5078–5083 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Tovt, A. et al. Ultimate dispersion of metallic and ionic platinum on ceria.
+J. Mater. Chem. A
+7
+, 13019–13028 (2019).
+Article
+CAS
+Google Scholar
+Zhang, F. et al. In situ elucidation of the active state of Co–CeO
+x
+catalysts in the dry reforming of methane: the important role of the reducible oxide support and interactions with cobalt.
+ACS Catal.
+8
+, 3550–3560 (2018).
+Article
+CAS
+Google Scholar
+Skála, T., Šutara, F., Prince, K. C. & Matolín, V. Cerium oxide stoichiometry alteration via Sn deposition: influence of temperature.
+J. Electron. Spectros. Relat. Phenom.
+169
+, 20–25 (2009).
+Article
+Google Scholar
+Download references
+Acknowledgements
+E.J.M.H. and V.M. acknowledge support by the Netherlands Center for Multiscale Catalytic Energy Conversion (MCEC), a NWO Gravitation program funded by the Ministry of Education, Culture and Science of the government of the Netherlands. C.E. acknowledges funding from the MICINN/FEDER RTI2018-093996-B-32 project. We thank the Diamond Light Source for time on beamline B18 under proposal SP22225. We thank the staff at the BM26A DUBBLE beamline at the ESRF (Grenoble) for the allocation of beam time under proposal 26-01-1166. We thank T. Kimpel and W. Vrijburg for help during the XAS measurements. Experiments using synchrotron radiation XPS were performed at the CIRCE beamline at ALBA Synchrotron with the collaboration of ALBA staff and CALIPSOplus (Grant 730872) funding. F. Oropeza Palacio and F. Coumans are acknowledged for the help with RPES measurements. J. Simons is acknowledged for the help with step-response experiments.
+Author information
+Authors and Affiliations
+Laboratory of Inorganic Materials and Catalysis, Department of Chemical Engineering and Chemistry, Eindhoven University of Technology, Eindhoven, the Netherlands
+Valery Muravev, Giulia Spezzati, Ya-Qiong Su, Alexander Parastaev, Nikolay Kosinov & Emiel J. M. Hensen
+National Institute of Clean-and-Low-Carbon Energy, Shenhua NICE, Future Science and Technology City, Beijing, People’s Republic of China
+Fu-Kuo Chiang
+European Synchrotron Radiation Facility, Grenoble, France
+Alessandro Longo
+Istituto per lo Studio dei Materiali Nanostrutturati, ISMN-CNR UOS di Palermo, Palermo, Italy
+Alessandro Longo
+ALBA Synchrotron Light Source, Barcelona, Spain
+Carlos Escudero
+Authors
+Valery Muravev
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Giulia Spezzati
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ya-Qiong Su
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Alexander Parastaev
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Fu-Kuo Chiang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Alessandro Longo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Carlos Escudero
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Nikolay Kosinov
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Emiel J. M. Hensen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+V.M. and G.S. synthesized and characterized (XRD, Brunauer–Emmet–Teller and ICP) the set of ceria samples. Y.-Q.S. helped with the interpretation of the results. V.M. performed the catalytic testing, in situ NAP-XPS and DRIFTS experiments. V.M. and A.P. performed the pulsing CO chemisorption and transmission infrared spectroscopy measurements. V.M. and A.L. performed the combined XAS/WAXS study at the ESRF. V.M., A.P. and C.E. performed the in situ RPES measurements. F.-K.C. performed the high-resolution transmission electron microscopy measurements and STEM–EDX mapping. V.M., A.P., N.K. and E.J.M.H. wrote the paper. All the authors discussed the results and commented on the manuscript.
+Corresponding author
+Correspondence to
+Emiel J. M. Hensen
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Catalysis
+thanks the anonymous reviewers for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–50, Notes 1–10 and Tables 1–3.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Muravev, V., Spezzati, G., Su, YQ.
+et al.
+Interface dynamics of Pd–CeO
+2
+single-atom catalysts during CO oxidation.
+Nat Catal
+4
+, 469–478 (2021). https://doi.org/10.1038/s41929-021-00621-1
+Download citation
+Received
+:
+26 June 2020
+Accepted
+:
+23 April 2021
+Published
+:
+03 June 2021
+Issue Date
+:
+June 2021
+DOI
+:
+https://doi.org/10.1038/s41929-021-00621-1
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

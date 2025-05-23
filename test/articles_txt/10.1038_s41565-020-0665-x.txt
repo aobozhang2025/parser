@@ -1,0 +1,2026 @@
+Single-atom Rh/N-doped carbon electrocatalyst for formic acid oxidation | Nature Nanotechnology
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature nanotechnology
+articles
+article
+Single-atom Rh/N-doped carbon electrocatalyst for formic acid oxidation
+Download PDF
+Article
+Published:
+30 March 2020
+Single-atom Rh/N-doped carbon electrocatalyst for formic acid oxidation
+Yu Xiong
+1
+,
+2
+na1
+,
+Juncai Dong
+ORCID:
+orcid.org/0000-0001-8860-093X
+3
+na1
+,
+Zheng-Qing Huang
+ORCID:
+orcid.org/0000-0003-3766-5068
+4
+na1
+,
+Pingyu Xin
+1
+,
+Wenxing Chen
+1
+,
+Yu Wang
+ORCID:
+orcid.org/0000-0002-9071-0238
+5
+,
+Zhi Li
+1
+,
+Zhao Jin
+6
+,
+7
+,
+Wei Xing
+6
+,
+7
+,
+Zhongbin Zhuang
+8
+,
+Jinyu Ye
+ORCID:
+orcid.org/0000-0003-0521-633X
+9
+,
+Xing Wei
+10
+,
+Rui Cao
+ORCID:
+orcid.org/0000-0002-0316-0152
+11
+,
+Lin Gu
+12
+,
+Shigang Sun
+9
+,
+Lin Zhuang
+ORCID:
+orcid.org/0000-0002-5642-6735
+10
+,
+Xiaoqing Chen
+2
+,
+Hua Yang
+2
+,
+Chen Chen
+1
+,
+Qing Peng
+1
+,
+Chun-Ran Chang
+ORCID:
+orcid.org/0000-0003-1084-8307
+4
+,
+Dingsheng Wang
+ORCID:
+orcid.org/0000-0003-0074-7633
+1
+&
+…
+Yadong Li
+1
+Show authors
+Nature Nanotechnology
+volume
+15
+,
+pages
+390–397 (
+2020
+)
+Cite this article
+29k
+Accesses
+518
+Citations
+5
+Altmetric
+Metrics
+details
+Subjects
+Electrocatalysis
+Materials science
+Abstract
+To meet the requirements of potential applications, it is of great importance to explore new catalysts for formic acid oxidation that have both ultra-high mass activity and CO resistance. Here, we successfully synthesize atomically dispersed Rh on N-doped carbon (SA-Rh/CN) and discover that SA-Rh/CN exhibits promising electrocatalytic properties for formic acid oxidation. The mass activity shows 28- and 67-fold enhancements compared with state-of-the-art Pd/C and Pt/C, respectively, despite the low activity of Rh/C. Interestingly, SA-Rh/CN exhibits greatly enhanced tolerance to CO poisoning, and Rh atoms in SA-Rh/CN resist sintering after long-term testing, resulting in excellent catalytic stability. Density functional theory calculations suggest that the formate route is more favourable on SA-Rh/CN. According to calculations, the high barrier to produce CO, together with the relatively unfavourable binding with CO, contribute to its CO tolerance.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Atomically dispersed Lewis acid sites boost 2-electron oxygen reduction activity of carbon-based catalysts
+Article
+Open access
+30 October 2020
+High-entropy single-atom activated carbon catalysts for sustainable oxygen electrocatalysis
+Article
+30 March 2023
+The synergistic effect of Hf-O-Ru bonds and oxygen vacancies in Ru/HfO
+2
+for enhanced hydrogen evolution
+Article
+Open access
+11 March 2022
+Main
+Direct formic acid fuel cells (DFAFCs) have been regarded as one of the most promising power sources for future portable electronic devices
+1
+. Pd and Pt are usually considered to be the most efficient catalysts for the formic acid oxidation reaction (FOR) and have been investigated intensively
+2
+,
+3
+,
+4
+,
+5
+,
+6
+. Unfortunately, the low mass activity and poor poisoning resistance of DFAFCs hinder their application. In recent years, tremendous efforts have been made to enhance the activity and stability of Pd and Pt electrocatalysts, for example by (1) modifying the centre metal (Pd or Pt) with a second element (Co
+7
+, Cu
+8
+,
+9
+, Ag
+10
+, Bi
+11
+,
+12
+and so on), (2) downsizing the bulk metals into nanoparticles
+13
+,
+14
+,
+15
+or (3) tailoring the morphology of the nanoparticles
+16
+,
+17
+,
+18
+,
+19
+. However, to meet the application requirements of DFAFCs, some crucial developments need to be made and new types of electrocatalyst exploited.
+Recently, single-atom catalysts (SACs)—a new class of catalysts—have attracted a great deal of interest worldwide
+20
+,
+21
+,
+22
+,
+23
+. SACs contain isolated metal atoms that are singly dispersed or anchored on a substrate. They offer many advantages over traditional nanoparticle catalysts, including high metal usage and startling catalytic properties
+21
+,
+22
+,
+23
+. In recent years, different kinds of SAC have been synthesized that include Pt, Pd, Rh and Co, for example, and many potential applications have been explored, such as organocatalysis
+24
+,
+25
+,
+26
+, electrocatalysis
+27
+,
+28
+and photocatalysis
+29
+,
+30
+,
+31
+. Nevertheless, SACs have never been successfully explored as an anodic electrocatalyst in DFAFCs.
+Here, we show that single-atom Rh anchored on N-doped carbon (SA-Rh/CN) exhibits an unexpected catalytic performance for FOR, even though the as-prepared Rh nanoparticles on carbon black (Rh/C) is nearly inert. Mass activity as high as 16.1 A mg
+−1
+can be achieved at peak potential. SA-Rh/CN also shows excellent catalytic stability, with great tolerance to CO poisoning and resistance to aggregation after long-term testing. These excellent electrocatalytic properties of SA-Rh/CN have been established by density functional theory (DFT) calculations.
+Synthesis and characterization of the SA-Rh/CN catalyst
+SA-Rh/CN was synthesized via a host–guest strategy. Figure
+1a
+presents a schematic to demonstrate the preparation of SA-Rh/CN. Zeolitic imidazolate frameworks with molecular-scale cages (ZIF-8) were employed to disperse and immobilize Rh(acac)
+3
+, because the dimensions of Rh(acac)
+3
+(9.36 Å) are between the size of the large cavities (diameter of 11.6 Å) and the size of the small pores (diameter of 3.4 Å) of ZIF-8. The Rh(acac)
+3
+can thus be trapped within the molecular cages of the ZIF-8 (denoted Rh/ZIF-8). During pyrolysis, Rh/ZIF-8 is reduced in situ to form SA-Rh/CN (for details see
+Methods
+). Powder X-ray diffraction (PXRD) patterns reveal no differences between the ZIF-8 and Rh/ZIF-8, suggesting the homogeneous distribution of Rh(acac)
+3
+in ZIF-8 (Supplementary Fig.
+1
+), while the PXRD patterns and Raman spectra reveal the nature of defective amorphous carbon in SA-Rh/CN (Supplementary Figs.
+2
+and
+3
+). In Fourier-transform infrared (FTIR) spectra, we can see the peak assigned to Rh–N(O) at ~640 cm
+−1
+(Supplementary Fig.
+4
+). From scanning electron microscopy (SEM; Fig.
+1b
+and Supplementary Fig.
+5
+) and transmission electron microscopy (TEM; Fig.
+1c
+) images, we can see that the as-prepared samples have a rhombic dodecahedron morphology (the morphology of ZIF-8 is shown in Supplementary Fig.
+6
+)
+32
+. High-resolution TEM (HRTEM) and high-angle annular dark-field scanning TEM (HAADF-STEM) images (Supplementary Fig.
+7
+and Fig.
+1d
+) detect no obvious Rh nanoparticles or clusters. Energy-dispersive X-ray spectroscopy (EDS) mapping across one single rhombic dodecahedron (Fig.
+1e
+) shows a homogeneous distribution of C, N, Zn and Rh. From the aberration-corrected HAADF-STEM image (AC-HAADF-STEM; Fig.
+1f
+and Supplementary Fig.
+8
+), we can identify isolated Rh single atoms by
+Z
+-contrast analysis. The chemical states of C, N, Zn and Rh in SA-Rh/CN were identified by XPS spectra (Supplementary Figs.
+9
+–
+13
+), while Brunauer–Emmett–Teller (BET) adsorption–desorption isotherms and porosity distributions indicate that SA-Rh/CN retains the high surface area and porous structure of Rh/ZIF-8 (Fig.
+1g
+, Supplementary Fig.
+14
+and Supplementary Table
+1
+).
+Fig. 1: The synthesis strategy and characterizations.
+a
+, Schematic of the preparation strategy for SA-Rh/CN.
+b
+,
+c
+, SEM (
+b
+) and TEM (
+c
+) images of SA-Rh/CN.
+d
+,
+e
+, HAADF-STEM image (
+d
+) and corresponding EDS maps (
+e
+) of SA-Rh/CN showing the dispersion of C (light blue), N (green), Zn (yellow) and Rh (purple), respectively.
+f
+, AC-HAADF-STEM image and corresponding
+Z
+-contrast analysis. The confirmed Rh atom and Zn atom are marked by blue and green circles, respectively. Because the atomic numbers of Rh and Zn are different, the
+Z
+-contrast of the Rh atoms in AC-HAADF-STEM images is higher than that of Zn atoms.
+g
+, N
+2
+adsorption and desorption isotherms for SA-Rh/CN (red) and Rh/ZIF-8 (black). Scale bars, 1 μm (
+b
+), 500 nm (
+c
+), 200 nm (
+d
+), 2 nm (
+f
+).
+P
+/
+P
+0
+is the relative pressure, where
+P
+is the pressure of the test point and
+P
+0
+is the atmospheric pressure.
+Full size image
+To further verify the atomic dispersion of Rh species in SA-Rh/CN and explore their precise coordination structure, X-ray absorption fine structure spectroscopy (XAFS) was carried out. Extended XAFS (EXAFS) Fourier transforms (FTs) are shown in Fig.
+2a
+. SA-Rh/CN exhibits a major peak at ~1.48 Å, which is shorter than the Rh–N peak at ~1.54 Å for the RhN
+6
+octahedra in [Rh(N
+2
+H
+4
+)
+3
+]Cl
+3
+and slightly larger than the Rh–O peak at ~1.45 Å for the RhO
+6
+octahedra in Rh(acac)
+3
+; this can thus be attributed to a mixture of Rh–N and Rh–O bonding. In addition, FT of SA-Rh/CN reveals a minor signal at ~2.09 Å that is much shorter than the Rh–Rh peak at ~2.38 Å for Rh bulk, which indicates atomic dispersion of the Rh species. To more clearly discriminate the coordination atoms in the Rh species, EXAFS wavelet transform analysis was carried out (Fig.
+2b
+)
+33
+. With no intensity maximum at ~8.5 Å
+−1
+, only one intensity maximum at ~4.0 Å
+−1
+is detected in SA-Rh/CN, not only confirming that the Rh metals exist as mononuclear centres without the presence of metal-derived crystalline structures in SA-Rh/CN, but also validating the assignment of the major peak at ~1.48 Å to Rh–N/O bonding (Fig.
+2a
+). Subsequently, least-squares EXAFS curve-fitting analysis was used to extract quantitative structural results for the Rh moiety in SA-Rh/CN (Fig.
+2a
+, Supplementary Figs.
+15
+and
+16
+and Supplementary Table
+2
+). The coordination number of the N/O atoms in the first coordination sphere of Rh was estimated to be 6.3 at distance of 2.05 Å, indicating an octahedral configuration for the Rh–N/O bonding. Meanwhile, a second coordination sphere of C atoms was shown at 2.78 Å with a coordination number of 3.6. This is in marked contrast to the porphyrinic-N-based moiety, where the number of C atoms in the second coordination sphere is expected to be larger than 10 but is similar to the pyridinic-N-based and MN
+4
+C
+4
+moieties
+34
+,
+35
+,
+36
+. X-ray absorption near-edge structure (XANES) spectroscopy, which has a higher sensitivity to the three-dimensional (3D) arrangement of atoms around the photo-absorber, was applied to better identify the atomic-site structures. The Rh K-edge XANES spectrum of SA-Rh/CN is shown in Fig.
+2c
+; the profile is similar to the [Rh(N
+2
+H
+4
+)
+3
+]Cl
+3
+and Rh(acac)
+3
+references, but the pre-edge peak intensity, which is directly proportional to the coordination deviation of the photo-absorber from centrosymmetry
+37
+, demonstrates an obvious increase as compared to [Rh(N
+2
+H
+4
+)
+3
+]Cl
+3
+and Rh(acac)
+3
+. These results suggest that Rh atoms in SA-Rh/CN adopt a distorted octahedral coordination
+38
+, which is in agreement with the EXAFS results. The absorption edge position of Rh (the position at half the edge step height) is comparable to that of [Rh(N
+2
+H
+4
+)
+3
+]Cl
+3
+and Rh(acac)
+3
+, indicating that the Rh valence state is close to +3, consistent with the results obtained from XPS spectra. A variety of structure models were established by DFT calculations to identify the specific structure of SA-Rh/CN via a comparison of the simulated XANES spectra of the model Rh-N
+x
+moieties with the experimental spectrum. We found that the XANES profile of SA-Rh/CN can be reproduced fairly well by the structure of a Rh-N
+4
+moiety embedded in a minimized graphene sheet with two axial oxygen molecules (Fig.
+2d
+), and the interatomic distances predicted by DFT are fully consistent with the structural parameters determined by EXAFS fitting (Supplementary Table
+2
+). However, some obvious discrepancies are presented when the Rh-N
+4
+moiety is embedded in an extended graphene sheet (Supplementary Fig.
+17
+). Therefore, the combination of EXAFS and XANES analyses has unambiguously revealed the mononuclear dispersion of the Rh species in a largely defective graphene sheet in SA-Rh/CN, which is also consistent with Raman spectra.
+Fig. 2: Structural characterization by XAFS spectroscopy.
+a
+, Fourier-transformed magnitude of the experimental Rh K-edge EXAFS signal of SA-Rh/CN, along with reference samples. The Fourier transforms are not corrected for phase shifts.
+b
+, Wavelet transforms for the
+k
+2
+-weighted EXAFS signals of SA-Rh/CN and reference samples. The maxima at ~4.0 and 8.5 Å
+−1
+(dashed lines) are associated with the Rh–N/O and Rh–Rh contributions, respectively.
+c
+, Experimental Rh K-edge XANES spectra of SA-Rh/CN and reference samples.
+d
+, Comparison between the experimental Rh K-edge XANES spectrum of SA-Rh/CN and the theoretical spectrum calculated for the depicted structure. Vertical dashed lines are provided to guide the eye. The five peaks labelled a–e are characteristic of Rh species dispersed as mononuclear centres in a largely defective graphene sheet.
+Full size image
+Electrooxidation of formic acid
+Rh plays a substantial role in catalysis
+26
+,
+39
+,
+40
+,
+41
+, but it seems that traditional Rh materials are not optimal catalysts for FOR
+42
+,
+43
+, so it was surprising when we found that SA-Rh/CN exhibits an unexpected catalytic performance for FOR. Figure
+3a,
+Supplementary Fig.
+18
+and Supplementary Table
+3
+show that SA-Rh/CN demonstrates a highest mass activity of 16.1 A mg
+−1
+, which is respectively ~28, 67 and 805 times larger than the values found for Pd/C (0.57 A mg
+−1
+), Pt/C (0.24 A mg
+−1
+) and Rh/C (0.02 A mg
+−1
+) (Fig.
+3b
+). Notably, SA-Pd/CN and SA-Pt/CN (synthesized by the same procedure; for characterizations see Supplementary Figs.
+19
+–
+33
+and Supplementary Table
+4
+) are inert towards FOR. In cyclic voltammetry (CV) curves obtained under the same conditions as used for SA-Rh/CN, we can only see the signal of the electrical double layer (Supplementary Figs.
+34
+and
+35
+). Moreover, the mass activity of SA-Rh/CN is sevenfold higher than that of Pd/C at 0.25 V versus reversible hydrogen electrode (RHE); with increasing potential, this mass activity increases to up to 46-fold higher than for Pd/C (Supplementary Figs.
+36
+and Supplementary Table
+5
+). The turnover frequency (TOF) of SA-Rh/CN (8.55 s
+−1
+) is nine times higher than that of Pd/C (0.92 s
+−1
+; Supplementary Fig.
+37
+). To explore the reasons for the lower current in the negative scan, we changed the scan range of the CV test (Supplementary Figs.
+38
+and
+39
+). The results, combined with in situ XANES spectra (Supplementary Fig.
+40
+), suggest that the oxidation state of the Rh atoms becomes higher and can be attributed to the formation of oxides during the reaction at high potentials. However, during scans under standard conditions, SA-Rh/CN recovers in the anodic scan of the second cycle (Supplementary Fig.
+41
+), suggesting that the oxidation species has recovered to its initial state.
+Fig. 3: Electrooxidation of formic acid performance.
+a
+, CV curves for SA-Rh/CN (black) and Pd/C (red) in H
+2
+SO
+4
+aqueous solution (0.5 M) containing HCOOH (0.5 M), with a scan rate of 10 mV s
+−1
+.
+b
+, Peak mass activity of SA-Rh/CN, Pt/C, Pd/C and Rh/C.
+c
+, Mass activity after specific times (in seconds) of a CA test of SA-Rh/CN and Pd/C at peak potential.
+d
+, Steady-state polarization and power density curves for SA-Rh/CN for DFAFC with formic acid (3 M) at different temperatures. The flow rate of formic acid is 5 ml min
+−1
+and the flow rate of O
+2
+is 750 ml min
+−1
+.
+Full size image
+The stability test was performed using chronoamperometry (CA) and an accelerated durability test (ADT). The CV curve of SA-Rh/CN is almost unchanged after 50,000 s of the CA test (Supplementary Fig.
+42a
+). With ADT, the CVs after the first 20,000 cycles show the excellent durability of SA-Rh/CN (44.4 h, almost unchanged; Supplementary Fig.
+43a
+). In the next 10,000 cycles, SA-Rh/CN loses only 11% of its mass activity (66.7 h; 14.3 A mg
+−1
+). By contrast, commercial Pd/C suffers a huge loss of 72% after the first 1,000 s of the CA test and is almost deactivated after 1,500 cycles (3 h) of ADT (Fig.
+3c
+and Supplementary Figs.
+42b
+and
+43b
+). The CA curves for different rotation rates of SA-Rh/CN are almost identical, indicating that there is less mass transfer effect in FOR (Supplementary Fig.
+44
+). Characterizations of SA-Rh/CN after the CA test (denoted SA-Rh/CN-af) indicate that SA-Rh/CN has maintained its rhombic dodecahedron morphology and the Rh atoms have retained their atomic distributions (Supplementary Figs.
+45
+–
+47
+).
+Zn plays a vital role in the formation of SA-Rh/CN: first, tetrahedral coordinated Zn ions bridged by 2-methylimidazole constitute the skeleton of ZIF-8; second, during pyrolysis, Zn ion sites are substituted by Rh atoms to form SA-Rh/CN. We detected 6.82 wt% Zn in SA-Rh/CN, which is a huge amount—seven times higher than the metal loading of Rh, which is determined by inductively coupled plasma optical emission spectroscopy (ICP-OES) (detailed ICP-OES measurements are provided in the
+Supplementary
+Information). To explore the role of Zn in SA-Rh/CN, a series of control experiments were carried out. First, we extracted Rh atoms from SA-Rh/CN (to give CN) and prepared ZIF-8-derived CN (namely ZIF-8-C; characterizations are shown in Supplementary Figs.
+48
+and
+49
+). From CV curves of these two samples and ZIF-8, we observed that these samples are inert to FOR (Supplementary Figs.
+50
+–
+52
+). These results indicate that the Rh atoms play a key role in FOR. Subsequently, Rh/ZIF-8 with different pyrolysed conditions was prepared (‘Rh/CN-different conditions’; for details see
+Methods
+). The amount of Zn in these samples decreased from 12.47 wt% to 0.28 wt%, because the Zn vaporized under the high temperatures (Supplementary Table
+6
+). Characterizations of these samples are provided in Supplementary Figs.
+53
+–
+66
+and Supplementary Table
+7
+. With vaporization of the Zn, the multi-point BET surface of Rh/CN increased from 790 to 1,339 m
+2
+g
+−1
+and the micropore volume of the Rh/CN increased from 0.310 to 0.550 cm
+3
+g
+−1
+. The other characterizations show no obvious differences. The mass activity of Rh/CN-2h (11.6 A mg
+−1
+) is much weaker than that of SA-Rh/CN (16.1 A mg
+−1
+). The mass activities of Rh/CN-4h (16.3 A mg
+−1
+), Rh/CN-5h (17.0 A mg
+−1
+) and Rh/CN-1100 (17.4 A mg
+−1
+) only exhibit a slight improvement (Supplementary Fig.
+67
+). These results suggest that (1) excessive Zn in Rh/CN blocks the micropores in Rh/CN and thus has a negative effect on the catalytic properties and (2) a small amount of Zn has negligible effect on catalytic performance.
+To evaluate the potential applications of SA-Rh/CN as an anode catalyst in DFAFCs, an integral fuel cell incorporated with SA-Rh/CN was assembled. SA-Rh/CN shows a high mass power density (522.1 mW mg
+−1
+; Fig.
+3d
+), which is 8.8-fold higher than that of commercial Pd/C at 30 °C (59.3 mW mg
+−1
+; Supplementary Fig.
+68
+). SA-Rh/CN also displays high power densities of 1,086.9 and 1,241.9 mW mg
+−1
+at 60 °C and 80 °C, which are 14.8 and 14.1 times higher than those of commercial Pd/C (73.4 and 87.9 mW mg
+−1
+respectively). The fuel cell performances at a fixed dimension of SA-Rh/CN and Pd/C show that the power density of SA-Rh/CN is lower than that of Pd/C (Supplementary Figs.
+69
+and
+70
+), because the amount of precious metal in commercial Pd (30 wt%) is over 30 times higher than that in SA-Rh/CN (0.92 wt%). It is important to increase the metal loading of precious metal in SA-Rh/CN. Accordingly, a single cell test with Rh/CN-1100 (1.42 wt%) as anodic catalyst was performed. The power density of DFAFCs increases strikingly at 80 °C to 86.6 mW cm
+−2
+, which is approaching that of Pd/C (105.4 mW cm
+−2
+), although the metal loading of Pd/C is still 21.4 times higher than that of Rh/CN-1100 (Supplementary Fig.
+71
+). Therefore, it is believed that single-atom Rh catalysts show tremendous potential in DFAFCs.
+To explore the CO resistance of SA-Rh/CN, two different CO-stripping experiments were performed. Figure
+4a,b
+presents CO resistance against saturated CO (for detailed procedures see
+Methods
+). With Rh/C, the oxidation of adsorbed CO (CO*) appears at 0.67 V with a steep peak, which is in agreement with previously reported work. To our surprise, SA-Rh/CN can oxidize CO* at a very low potential (0.08 V) with a tiny peak, which suggests that CO weakly adsorbs at the surface of SA-Rh/CN and can be oxidized easily. Figure
+4c,d
+shows the CO resistance in a simulated cell arrangement (for detailed procedures see
+Methods
+). As for the curve for Rh/C, the CO* oxidation peak emerges at 0.63 V. However, no peak appears on the curve for SA-Rh/CN. These results indicate that SA-Rh/CN can inhibit the dehydration of formic acid, eliminating CO poisoning in DFAFCs and oxidizing formic acid towards direct dehydrogenation.
+Fig. 4: Two CO stripping experiments.
+a
+,
+b
+, SA-Rh/CN (
+a
+) and Rh/C (
+b
+) modified glassy carbon electrodes were introduced into a 0.5 M H
+2
+SO
+4
+CO-saturated aqueous solution and kept at −0.4 V for 15 min, then N
+2
+was purged into the solution and CV curves were acquired. The scan rate was 50 mV s
+−1
+and the electrode diameters were 5 mm.
+c
+,
+d
+, SA-Rh/CN (
+c
+) and Rh/C (
+d
+) modified glassy carbon electrodes were immersed into a 0.5 M H
+2
+SO
+4
+and 0.5 M HCOOH aqueous solution for 5 min at open-circuit potential (OCP), washed with deionized water and placed in a 0.5 M H
+2
+SO
+4
+aqueous N
+2
+-saturated solution, then the CVs were recorded. The scan rate was 10 mV s
+−1
+and the electrode diameters were 3 mm.
+Full size image
+A series of experiments were carried out to explore the reaction mechanism. The Tafel slope (108 mV dec
+−1
+) of SA-Rh/CN indicates that C–H bond cleavage of HCOOH is the rate-determining step (Supplementary Fig.
+72
+)
+44
+. When we use DCOOH instead of HCOOH in electrolyte, the mass activity of SA-Rh/CN shows a huge drop to 9.8 A mg
+−1
+, confirming the results of the Tafel slope analysis (Supplementary Fig.
+73
+)
+45
+. No signals of intermediates are observed in in situ Fourier-transform infrared reflection absorption spectroscopy (in situ FTIR) and attenuated total reflection infrared spectroscopy (ATR-IR; Supplementary Figs.
+74
+and
+75
+).
+DFT calculations
+DFT calculations were carried out to further understand the mechanism of formic acid oxidation on SA-Rh/CN and its excellent CO tolerance. In Fig.
+5a
+and Supplementary Table
+8
+, the free energy profiles of formic acid oxidation demonstrate that the indirect route is thermodynamically unfavourable, as an endothermic reaction energy of 0.28 eV is needed to produce the CO* and H
+2
+O
+(aq)
+. Cleavage of the C–O bond in HCOOH is difficult at the SA-Rh site, because a larger surface ensemble site is required
+46
+. In the formate route, two successive steps, HCOOH
+(aq)
+→ HCOO* → CO
+2(g)
+, are both thermodynamically favourable. The O–H bond in formic acid can be broken easily (Supplementary Fig.
+76
+) in water solution
+47
+,
+48
+, and C–H cleavage of HCOO* with an activation energy of 0.68 eV is the rate-determining step (Supplementary Fig.
+77
+), which is in good agreement with the results of Tafel slope analysis and kinetic isotope effects. As for the direct routes, the intermediate, COOH*, forms four hydrogen bonds with nearby water molecules, and its O–H bond is almost broken with a length of 1.63 Å. Although the formation of CO
+2(g)
+from COOH* is an endothermic step, it can be thermodynamically favourable at higher potential (
+U
+RHE
+> 0.54 V; Supplementary Fig.
+78
+). The rate-determining step is still the cleavage of the C–H bond of formic acid, with an activation barrier of 0.76 eV (Supplementary Fig.
+77
+), which is higher than that of the C–H bond cleavage in the formate route. Overall, the formate route is more favourable than the direct route considering both thermodynamics and kinetics, especially at low potential. At high potential, the direct route can also be favourable in terms of thermodynamics.
+Fig. 5: DFT calculations.
+a
+, Top: free energy profiles of formic acid oxidation via indirect, formate and direct routes on the SA-Rh site at a constant potential of 0.20 V. Bottom: optimized structures of the intermediates in the three routes. The free energy of the surface, with water layers composed of 28 water molecules and formic acid molecules in solution with a concentration of 0.5 M at a temperature of 298.15 K, is defined as the zero energy reference.
+b
+, Top: potential energy profiles of formic acid decomposition to CO on the SA-Rh site (red curve) and the Rh(111) surface (black curve). Bottom: corresponding structures of the intermediates and transition states (TSs). The zero energy reference is the sum energy of formic acid molecules in the gas phase and corresponding clean surfaces. Zero-point energy corrections are included. White, grey, blue, red and orange balls represent H, C, N, O and Rh atoms, respectively.
+Full size image
+To elucidate the excellent CO tolerance of SA-Rh/CN, formic acid decomposition to produce CO and the binding of CO were analysed and compared with a Rh nanoparticle. In Fig.
+5b
+, formic acid can adsorb on Rh(111) through the carbonyl oxygen atom, with a large exothermic energy of −0.85 eV, whereas the HCOOH can only weakly adsorb on the SA-Rh site with an adsorption energy of −0.25 eV. The weak adsorption of formic acid at the SA-Rh site can be attributed to the downward shift of the
+d
+orbital below the Fermi level and the density of state (DOS) at the Fermi level being less than that on Rh(111) (for more details see Supplementary Fig.
+79
+). Importantly, the subsequent decomposition of HCOOH to produce CO on Rh(111) occurs readily, with an activation barrier of only 0.52 eV. Meanwhile, on the SA-Rh site, the activation barrier to produce CO is as high as 1.68 eV and the reaction energy is endothermic by 1.08 eV, indicating that CO is difficult to generate on SA-Rh sites. On the other hand, CO binds much more strongly on Rh(111) (
+E
+ads
+(CO) = −2.21 eV) than on SA-Rh sites (
+E
+ads
+(CO) = −0.99 eV), implying that the removal of CO on SA-Rh/CN, as long as it is produced, can be easily achieved compared with the Rh nanoparticle. Hence, the high barrier to produce CO and the relatively unfavourable binding with CO contribute to the excellent CO tolerance of SA-Rh/CN.
+DFT calculations were also performed to explore the reactivity of SA-Rh/CN and the inertness of SA-Pd/CN and SA-Pt/CN. The DOS of a single Pd atom at the Fermi level is almost zero, and the closest occupied peak is ~1.5 eV below the Fermi level, suggesting the chemical inertness of the SA-Pd site (Supplementary Fig.
+79
+). The adsorption energy of CO at the SA-Pd site is extremely small (
+E
+ads
+(CO) = −0.13 eV), indicating the weak bonding with other intermediates in formic acid oxidation. The single Pt atom is similar to the single Pd atom in the DOS and adsorption of CO. Overall, the SA-Rh sites possess appropriate binding ability with intermediates, indicated by
+E
+ads
+(CO) = −0.99 eV, and thus better overall activity, while the Rh(111) surface binds intermediates too strongly, as indicated by
+E
+ads
+(CO) = −2.21 eV, and both the SA-Pd and SA-Pt sites bind intermediates too weakly, indicated by
+E
+ads
+(CO) = −0.13 eV.
+Conclusions
+In summary, we report a new type of electrocatalyst for FOR, namely isolated single-atom Rh anchored on N-doped carbon. This catalyst has properties that are completely different from those of its nanoparticle counterpart (Rh nanoparticles/C shows negligible activity toward formic acid oxidation). The SA-Rh/CN electrocatalyst exhibits excellent mass activity, 28- and 67-fold higher than that of state-of-the-art Pd/C and Pt/C, respectively, but also high catalytic stability due to its excellent tolerance to CO poisoning and resistance to sinter. The single-cell test indicates its application potential in DFAFCs. The mechanism of formic acid oxidation on SA-Rh and its unique CO tolerance have been demonstrated by DFT calculations. This work suggests a possible direction for the development of new electrocatalysts.
+Methods
+Chemicals
+Rh(acac)
+3
+, Zn(NO
+3
+)
+2
+, 2-methylimidazole, Nafion solution (5% wt/wt), palladium on activated carbon (Pd/C), platinum on activated carbon (Pt/C), Rh powder and [Rh(N
+2
+H
+4
+)
+3
+]Cl
+3
+were purchased from Alfa Aesar Chemical Co. Formic acid was purchased from Acros Organics. Carbon black (Vulcan XC-72) was purchased from Carbot Corporation. Methanol,
+N
+,
+N
+-dimethylformamide (DMF) and concentrated sulfuric acid were purchased from Sinopharm Chemical Reagent Co.
+Synthesis
+Typical preparation of Rh/ZIF-8 and Pd/ZIF-8
+Rh(acac)
+3
+(144 mg) and Zn(NO
+3
+)
+2
+(1.19 g) were dissolved in 15 ml methanol (denoted solution A). 2-Methylimidazole (1.31 g) was dissolved in 30 ml methanol (denoted solution B). Solutions A and B were each stirred for 5 min. Both solutions were poured into a Teflon-lined stainless-steel autoclave (volume, 50 ml). After heating at 120 °C for 4 h, the sealed autoclave was cooled to room temperature. The product (yellowish powder) was collected by centrifugation and washed with DMF and methanol three times each.
+The same procedure was utilized for the synthesis of Pd/ZIF-8 and Pt/ZIF-8 by using Pd(acac)
+2
+(80 mg) and Pt(acac)
+2
+(60 mg), respectively, instead of Rh(acac)
+3
+.
+Typical preparation of SA-Rh/CN (3 h), Rh/CN-2h, Rh/CN-4h, Rh/CN-5h, Rh/CN-1100 SA-Pd/CN and SA-Pt/CN
+Rh/ZIF-8 (1 g) was added to a crucible. The crucible was then placed in a tube-type furnace and heated to 900 °C for 2–5 h (1,100 °C for 6 h to prepare Rh/CN-1100) at a heating rate of 5 °C min
+−1
+under a N
+2
+atmosphere. After cooling to room temperature, SA-Rh/CN (black powder) was obtained. The product could be used directly without further treatment.
+The same procedure was utilized for the synthesis of SA-Pd/CN and SA-Pt/CN by using Pd/ZIF-8 (1 g) and Pt/ZIF-8 (1 g), respectively, instead of Rh/ZIF-8 (1 g).
+Typical preparation of Rh/C
+RhCl
+3
+·3H
+2
+O (50 mg) was added to 10 ml deionized water under vigorous stirring at room temperature. NaBH
+4
+(72 mg) in 10 ml deionized water was added dropwise to RhCl
+3
+solution. After 5 min, black nanocrystals were collected by centrifugation. Rh nanoparticles were washed with ethanol three times and dried at 70 °C. Vulcan XC-72 (100 mg) was added into 100 ml ethanol. Under vigorous stirring, 20 mg prepared Rh nanoparticles were added to the suspension at room temperature then stirred continuously for 4 h. The catalyst was collected by centrifugation. Rh/C was dried at 70 °C for 12 h to remove the solvent, then the solid was used for electrochemical measurements without further purification.
+Characterizations
+PXRD patterns were recorded with a Rigaku D/max 2500Pc X-ray powder diffractometer with monochromatized Cu Kα radiation (
+λ
+= 1.5406 Å). TEM and HRTEM images were recorded using a Hitachi HT7700 instrument working at 100 kV and an FEI Tecnai G2 F20 S-Twin working at 200 kV. HAADF images were taken on a JEM-ARM200F atomic-resolution analytical microscope operated at 300 kV. ICP-OES was measured by a Thermo Fisher IRIS Intrepid α system.
+XAFS data collection, analysis and modelling
+XAFS measurements were carried out at the BL14W1 station in Shanghai Synchrotron Radiation Facility (SSRF, 3.5 GeV, 250 mA maximum, Si(311) double crystals). The Rh K-edge spectra of SA-Rh/CN catalysts were collected in fluorescent mode using a seven-element Ge detector. Reference spectra were recorded in transmission mode using an ionization chamber. The XAFS raw data were background-subtracted, normalized and Fourier-transformed by standard procedures with the ATHENA program
+46
+. Least-squares curve-fitting analysis of the EXAFS
+χ
+(
+k
+) data, including multiple shell contributions, was carried out using the ARTEMIS program
+49
+, with theoretical scattering amplitudes, phase shifts and the photoelectron mean free path for all paths calculated by ab initio code FEFF 9.05. The data were fitted in R-space with theoretical models constructed on the basis of the crystal structure derived from XRD or DFT optimization.
+The Rh K-edge theoretical XANES calculations were carried out with the FDMNES code in the framework of the real-space full multiple scattering (FMS) scheme using the muffin-tin approximation for the potential
+50
+. The energy-dependent exchange-correlation potential was calculated in the real Hedin–Lundqvist scheme, then the spectra were convoluted using a Lorentzian function with an energy-dependent width to account for the broadening due to the core-hole width and the final state width. Satisfactory convergence was achieved. The structural models of Rh-N
+x
+moieties were constructed based on DFT calculations.
+Electrochemical measurements
+A three-electrode cell was utilized to perform the electrochemical measurements. A 5 mm glassy carbon electrode was used as the working electrode. The as-prepared SA-Rh/CN (or other catalysts) (4 mg ml
+−1
+) was dispersed in a mixed solvent containing deionized water and ethanol (in a ratio of 1:1). Nafion solution (5% wt/wt; 10 μl ml
+−1
+) was added to the solvent. The slurry was ultrasonically dispersed for 15 min. A 6 μl ink sample was added twice to the working electrode and the electrode was then dried at room temperature. Saturated Ag/AgCl was used as the reference electrode (a saturated calomel electrode was used in the first CO-stripping test and ATR-IR experiment) and Pt wire (carbon rod) was used as the counter electrode (a carbon rod counter electrode produced the same results; Supplementary Fig.
+80
+). All electrochemical measurements were conducted at room temperature. The electrode was first immersed in argon-saturated 0.5 M H
+2
+SO
+4
+solution for 50 sets of CV tests. The potential was scanned from −0.003 to 1.197 V (versus RHE) at a scan rate of 50 mV s
+−1
+.
+Formic acid oxidation
+Formic acid oxidation measurements were conducted in an argon-saturated mixed solution of 0.5 M H
+2
+SO
+4
+and 0.5 M HCOOH. The potential was scanned from −0.043 to 1.157 V (versus RHE) at a scan rate of 10 mV s
+−1
+. For comparison, Pd/C, Rh/C, Pt/C, SA-Pd/CN and SA-Pt/CN were used as baseline catalysts, and the same procedure as described above was used to conduct electrochemical measurements.
+Stability test
+Stability testing was carried out in an argon-saturated mixed solution of 0.5 M H
+2
+SO
+4
+and 0.5 M HCOOH. CA tests were performed at room temperature in an argon-saturated mixed solution of 0.5 M H
+2
+SO
+4
+and 0.5 M formic acid at 0.46 V (versus RHE). During this process, the mass activity of SA-Rh/CN declined and catalysts could be recovered by washing with deionized water. This phenomenon can be attributed to the internal mass transfer effect. After every 1,000 s test, a continuous CV test was performed. The potential was scanned from −0.043 to 1.157 V at a scan rate of 10 mV s
+−1
+.
+ADT was performed in an argon-saturated mixed solution of 0.5 M H
+2
+SO
+4
+and 0.5 M formic acid. The potential was scanned between −0.043 and 0.757 V at a scan rate of 200 mV s
+−1
+. After every 5,000 cycles, a continuous CV test was conducted. The potential was scanned between −0.043 and 1.157 V at a scan rate of 10 mV s
+−1
+.
+In situ infrared reflection absorption spectroscopy (in situ FTIR)
+Electrochemical in situ multi-stepped FTIR (MSFTIR) reflection spectroscopy measurements were conducted on a Nexus 870 spectrometer (Nicolet) equipped with a liquid-nitrogen-cooled mercury cadmium telluride (MCT-A) detector. A particular infrared cell with a CaF
+2
+window was employed, and a thin layer (less than 10 mm) between the working electrode and CaF
+2
+window was required for in situ MSFTIR measurements
+51
+. The resulting spectra were calculated as follows:
+$$\Delta {{R}}/{{R}} = (R\left( {E_{\rm{S}}} \right) - R\left( {E_{\rm{R}}} \right))/R(E_{\rm{R}})$$
+(1)
+where
+R
+(
+E
+S
+) and
+R
+(
+E
+R
+) are the single-beam spectra collected at study potential
+E
+S
+and reference potential
+E
+R
+, respectively.
+ATR-IR experiment
+The ATR-IR experiment was conducted using a spectrometer (Thermo Fisher NicoletTM 6700) equipped with an MCT detector at a resolution of 8 cm
+−1
+and a home-built single-reflection accessory (incident angle of 70°). All spectra are shown in absorbance units. A silicon prism with a thin layer of gold deposited on the reflecting plane (via a chemical method) was used as the working electrode. A glassy cell equipped with carbon paper as the counter electrode and reference electrode (SCE) was filled with electrolyte (saturated KCl aqueous solution). The infrared spectra were collected in an argon-saturated mixed solution of 0.5 M H
+2
+SO
+4
+and 0.5 M formic acid.
+CO-stripping test
+While maintaining the potential of the working electrode at −0.4 V, CO was bubbled slowly into 0.5 M H
+2
+SO
+4
+aqueous solution for 15 min to ensure the saturated adsorption of CO at the surface of the catalyst. To remove dissolved CO, nitrogen was purged into the electrolyte while the potential was kept at −0.4 V for another 15 min. CVs were then recorded. For the second CO-stripping experiment, a working electrode modified with SA-Rh/CN or Rh/C was introduced into 0.5 M H
+2
+SO
+4
+aqueous solution containing 0.5 M HCOOH at OCP to simulate a small container in the cell atmosphere. This was continued for 10 min to ensure maximum accumulation of CO
+ad
+from dehydration of the formic acid. The electrode was washed with deionized water three times to remove HCOOH and dissolved CO and transferred to an aqueous solution of only 0.5 M H
+2
+SO
+4
+, then CVs were recorded. The metal content of Rh (Pd, Pt) in the ink was analysed by ICP-OES (200 ml of catalyst ink; Supplementary Table
+9
+).
+The hydrogen adsorption–desorption peak was not visible in the CV curves (Supplementary Fig.
+81
+) and there was no stark change when formic acid was present in the electrolyte (Supplementary Fig.
+82
+). The hydrogen adsorption–desorption peak for Pd/C is shown in the CV curve in Supplementary Fig.
+83
+.
+Calculation of the the TOF value was based on the following formula
+52
+:
+$$\begin{array}{rcl}{\mathrm{TOF}} &=& \frac{{{\mathrm{Reacted}}\;{\mathrm{HCOOH}}\;{\mathrm{molecules}}}}{{\left[ {\left( {{\mathrm{Active}}\;{\mathrm{metal}}\;{\mathrm{atoms}}} \right) \times \left( {{\mathrm{Reaction}}\;{\mathrm{time}}} \right)} \right]}}\\ &=& \frac{{\left[ {{\mathrm{Transferred}}\left( {{\mathrm{electrons}}} \right)} \right]}}{{\left[ {2 \times {{N}}_{\mathrm{A}} \times {\mathrm{mol}}\left( {{\mathrm{active}}\;{\mathrm{sites}}} \right) \times {\mathrm{Reaction}}\;{\mathrm{time}}} \right]}}\\ &=& \frac{{{\mathrm{Current}}\left( {\mathrm{A}} \right)}}{{\left[ {2 \times {{N}}_{\mathrm{A}} \times {{e}} \times {\mathrm{mol}}\left( {{\mathrm{Active}}\;{\mathrm{sites}}} \right)} \right]}}\end{array}$$
+(2)
+where
+N
+A
+and
+e
+are the Avogadro constant and electron charge, respectively. All Rh atoms in SA-Rh/CN are counted as active sites to calculate the TOF value and the active sites of Pd/C are calculated by integrating the hydrogen adsorption–desorption peak (Supplementary Fig.
+83
+).
+Single cell test
+We cooperated with the Changchun Institute of Applied Chemistry of the Chinese Academy of Sciences to conduct the single cell test. An electrode membrane assembly (MEA) was prepared with SA-Rh/CN as the anode and 60 wt% Pt/C as the cathode. The catalyst powder was mixed with isopropyl alcohol, deionized water and 5 wt% Nafion solution to prepare the catalyst ink. The well-mixed catalyst ink was then sprayed onto the gas diffusion layer to fabricate the electrodes. The MEA was prepared by hot-pressing the anode and cathode electrode onto the two sides of Nafion 115 membrane (Du Pont) at 8 MPa and 130 °C for 120 s. The amount of catalyst on the anode or cathode of the MEA was 4.0 mg cm
+−2
+. The amounts of precious metal in the SA-Rh/CN and commercial Pd/C anode electrodes were 0.04 and 1.2 mg
+metal
+cm
+−2
+, respectively. The 25 cm
+2
+single cells were assembled in a fuel cells fixture (qCf FC 25, Baltic Fuel Cells Company) for cell testing. 3 M formic acid solution was fed to the anode at a rate of 5.0 ml min
+−1
+and humidified oxygen gas was fed to the cathode at 750 ml min
+−1
+. A fuel cell test system (Arbin Instruments Company) was used to obtain polarization and power density curves to determine the electrical performance of real DFAFCs at different temperatures. No back pressure or relative humidification was applied for measurements. Polarization at 30, 60 and 80 °C was recorded to evaluate the catalytic ability.
+Computational details
+Models
+The carbon support in this study was modelled as a 4 × 4 graphene orthorhombic supercell with lattice parameters of
+a
+= 9.84 Å and
+b
+= 8.52 Å and a C–C bond length in the graphene sheet of 1.42 Å (containing 32 atoms). The graphene sheet was separated by a 13 Å vacuum in the direction perpendicular to the surface. For single-atom catalysts of SA-Rh, SA-Pd and SA-Pt, Rh-N
+4
+, Pd-N
+4
+and Pt-N
+4
+species were embedded in the graphene sheet, respectively, as shown in Supplementary Fig.
+84a–c
+. All atoms were allowed to relax. The metal catalysts were modelled with (111) facets of face-centred cubic metals. The optimized bulk lattice parameters (experimental values in parentheses) were 3.84 Å (3.80 Å) for Rh
+53
+. The calculations were implemented using periodic four-layer slabs repeated in a 3 × 3 surface unit cell with a 15 Å vacuum to separate the periodically repeated slabs (Supplementary Fig.
+84d
+). The bottom two layers were constrained at the bulk position and the top two layers with adsorbates were fully relaxed. To consider the effects of solvent (mainly water), several layers of water with a density of 1 g cm
+−3
+were placed above the surface and then ab initio molecular dynamics (AIMD) simulations with a time period of 20 ps were performed. The most stable structures were obtained by optimizing the low-energy structures in the AIMD simulations. All the structures of reaction intermediates with water layers were also determined by using AIMD simulations with a time period of 20 ps. On the Rh-N
+4
+-embedded graphene, the water layers contained 28 water molecules, as shown in Supplementary Fig.
+84e
+. Due to the large computational demands of running AIMD simulations, the solvent effects were only considered for the Rh-N
+4
+-embedded graphene sheet and the corresponding intermediates adsorbed at the SA-Rh site.
+DFT calculations
+All spin-polarized calculations were performed using the Vienna Ab-initio Simulation Package (VASP)
+54
+,
+55
+. The Perdew–Burke–Ernzerhof (PBE) generalized gradient approximation (GGA) functional was used for the exchange-correlation potential
+56
+, and the projected augmented wave (PAW) potential was used to describe the ion–electron interaction
+57
+. The cutoff energy for the plane-wave basis was set to 400 eV. The graphene sheets with Rh and Pd single atoms and the (111) metal facets were sampled using a 3 × 3 × 1 Monkhorst–Pack k-point mesh
+58
+. We also considered the van der Waals dispersion forces using the zero damping DFT-D3 method of Grimme
+59
+. All structures were optimized until the forces on each ion were smaller than 0.02 eV Å
+−1
+, and the convergence criterion for the energy was 10
+−5
+eV. The transition states of chemical reactions were located through the dimer minimum-mode method combined with a nudged elastic band (NEB) method
+60
+,
+61
+. All transition states were identified by vibration analysis. The Fermi softness (
+S
+F
+), a spatially resolved descriptor of the surface reactivity of solid catalysts, was used in analysing the active sites, where
+kT
+was adopted as 0.10 eV (ref.
+62
+).
+The AIMD simulations were carried out in the canonical (NVT) ensemble using Nosé–Hoover thermostats
+63
+,
+64
+. All AIMD simulations were performed using VASP at 300 K with a time step of 1 fs.
+Computational potentials
+The adsorption energy at an active site in vacuum was calculated as
+$$E_{{\mathrm{ads}}} = E\left( {{\mathrm{slab}} + {\mathrm{molecule}}} \right) + E\left( {{\mathrm{slab}}} \right)-E\left( {{\mathrm{molecule}}} \right)$$
+(3)
+where
+E
+(slab + molecule) and
+E
+(slab) are the energies of the surface with and without adsorbed molecules, respectively, and the
+E
+(molecule) is the energy of the molecule in the gas phase.
+The adsorption of formic acid at the interface between water layers and catalyst surfaces was modelled by replacing one H
+2
+O molecule with HCOOH, that is, HCOOH
+(aq)
++
+n
+H
+2
+O* ↔ HCOOH* + (
+n
+− 1)H
+2
+O* + H
+2
+O
+(aq)
+, where
+n
+equals 28 for the Rh-N
+4
+-embedded graphene sheets, the asterisk represents the adsorption state of molecules and ‘aq’ means a molecule in aqueous solution. Therefore, the adsorption Gibbs free energy (
+G
+ads
+) at 298.15 K is calculated as
+$$\begin{array}{ll}G_{{\mathrm{ads}}} =& G({\mathrm{HCOOH}}^ \ast + \left( {n-1} \right){\mathrm{H}}_2{\mathrm{O}}^ \ast ) + G\left( {{\mathrm{H}}_2{\mathrm{O}}_{({\mathrm{aq}})}} \right)-G\left( {{\mathrm{HCOOH}}_{({\mathrm{aq}})}} \right)\\&-G\left( {n{\mathrm{H}}_2{\mathrm{O}}^ \ast } \right)\end{array}$$
+(4)
+where
+G
+=
+E
+DFT
++
+E
+ZPE
++
+H
+−
+TS
+, is calculated for surfaces with adsorbates as follows:
+E
+DFT
+is the electronic energy of a system determined by DFT calculations;
+E
+ZPE
+is the zero-point vibrational energy correction, and
+H
+and
+S
+are the enthalpy and entropy changes from 0 K to 298.15 K, respectively, calculated using the vibrational frequencies from DFT calculations. For molecules in solution,
+G
+=
+E
+DFT
++
+E
+ZPE
++
+H
+−
+TS
++ Δ
+G
+0
+sol
++
+kT
+ln
+c
+, where Δ
+G
+sol
+0
+is the standard solvation energy (at 298.15 K, 1.0 M) and
+c
+is the concentration of solute molecules in solution
+65
+. Given the fact that searching the transition state using an explicit solvent model is still a challenge, the implicit solvent model, VASPsol
+66
+, was used to include the effects of solvent water on the activation energies of C–H bond cleavage in both formate and direct routes in Supplementary Fig.
+77
+.
+To include the electrochemical potential, the reaction free energy is calculated as
+$$\Delta G\left( {U,{\mathrm{pH}},T} \right) = \Delta G^0 + \Delta G_U + \Delta G_{{\mathrm{pH}}}$$
+(5)
+where Δ
+G
+0
+is the change of Gibbs free energies calculated using the equations for surfaces and molecules in solution, as above. By setting the reference potential to be that of the standard hydrogen electrode (SHE) under standard conditions (
+U
+= 0,
+p
+(H
+2
+) = 1 bar, pH = 0,
+T
+), the free energy of 1/2H
+2
+→ H
++
++ e
+−
+is zero, namely, ∆
+G
+0
+(H
++
++ e
+−
+) = 0.5∆
+G
+0
+(H
+2
+), which avoids calculation of the chemical potential of protons
+67
+. The free energy of H
++
+(pH = 0.56) + e
+−
+can be obtained by adding a correction with pH: Δ
+G
+pH
+= −pH
+·kT
+ln10 (ref.
+68
+). Δ
+G
+U
+=
+neU
+is calculated by the charge (
+ne
+) multiplied by the electrode potential (
+U
+) on the SHE scale. As the onset potential is 0.20 V (versus RHE) and the pH is 0.56 in our experiments, we used
+U
+= 0.17 V (versus SHE). Related data is provided in Supplementary Tables
+8
+and
+10
+.
+Data availability
+The data that support the findings of this paper are available from the corresponding authors upon reasonable request.
+References
+Arico, A. S., Bruce, P., Scrosati, B., Tarascon, J. M. & van Schalkwijk, W. Nanostructured materials for advanced energy conversion and storage devices.
+Nat. Mater.
+4
+, 366–377 (2005).
+Article
+CAS
+Google Scholar
+Lai, J. et al. Concave and duck web-like platinum nanopentagons with enhanced electrocatalytic properties for formic acid oxidation.
+J. Mater. Chem. A
+4
+, 807–812 (2016).
+Article
+CAS
+Google Scholar
+Vidal-Iglesias, F. J., López-Cudero, A., Solla-Gullón, J. & Feliu, J. M. Towards more active and stable electrocatalysts for formic acid electrooxidation: antimony‐decorated octahedral platinum nanoparticles.
+Angew. Chem. Int. Ed.
+52
+, 964–967 (2013).
+Article
+CAS
+Google Scholar
+Su, N. et al. The facile synthesis of single crystalline palladium arrow-headed tripods and their application in formic acid electro-oxidation.
+Chem. Commun.
+51
+, 7195–7198 (2015).
+Article
+CAS
+Google Scholar
+Yang, S. et al. One-pot synthesis of graphene-supported monodisperse Pd nanoparticles as catalyst for formic acid electro-oxidation.
+Sci. Rep.
+4
+, 4501 (2014).
+Article
+CAS
+Google Scholar
+Sial, M. A. Z. G., Ud Din, M. A. & Wang, X. Multimetallic nanosheets: synthesis and applications in fuel cells.
+Chem. Soc. Rev.
+47
+, 6175–6200 (2018).
+Article
+Google Scholar
+Li, C. et al. Dendritic defect-rich palladium-copper-cobalt nanoalloys as robust multifunctional non-platinum electrocatalysts for fuel cells.
+Nat. Commun.
+9
+, 3702 (2018).
+Article
+CAS
+Google Scholar
+Chen, S., Su, H., Wang, Y., Wu, W. & Zeng, J. Size-controlled synthesis of platinum–copper hierarchical trigonal bipyramid nanoframes.
+Angew. Chem. Int. Ed.
+54
+, 108–113 (2015).
+Article
+CAS
+Google Scholar
+Fu, Q., Li, H., Ma, S., Hu, B. & Yu, S. A mixed-solvent route to unique PtAuCu ternary nanotubes templated from Cu nanowires as efficient dual electrocatalysts.
+Sci. China Mater.
+59
+, 112–121 (2016).
+Article
+CAS
+Google Scholar
+Dong, L. et al. Pd–Ag alloy hollow nanostructures with interatomic charge polarization for enhanced electrocatalytic formic acid oxidation.
+Nano Res.
+9
+, 1590–1599 (2016).
+Article
+CAS
+Google Scholar
+Ji, X. et al. Nanocrystalline intermetallics on mesoporous carbon for direct formic acid fuel cell anodes.
+Nat. Chem.
+2
+, 286–293 (2010).
+Article
+CAS
+Google Scholar
+Xu, H. et al. Ultra-uniform PdBi nanodots with high activity towards formic acid oxidation.
+J. Power Sources
+356
+, 27–35 (2017).
+Article
+CAS
+Google Scholar
+Chang, J., Feng, L., Liu, C., Xing, W. & Hu, X. An effective Pd-Ni
+2
+P/C anode catalyst for direct formic acid fuel cells.
+Angew. Chem. Int. Ed.
+53
+, 122–126 (2014).
+Article
+CAS
+Google Scholar
+Wang, X., Yang, J., Yin, H., Song, R. & Tang, Z. ‘Raisin bun’‐like nanocomposites of palladium clusters and porphyrin for superior formic acid oxidation.
+Adv. Mater.
+25
+, 2728–2732 (2013).
+Article
+CAS
+Google Scholar
+Li, H. et al. Shape-controlled synthesis of surface-clean ultrathin palladium nanosheets by simply mixing a dinuclear Pd
+I
+carbonyl chloride complex with H
+2
+O.
+Angew. Chem. Int. Ed.
+52
+, 8368–8372 (2013).
+Article
+CAS
+Google Scholar
+Huang, X. et al. Freestanding palladium nanosheets with plasmonic and catalytic properties.
+Nat. Nanotechnol.
+6
+, 28–32 (2011).
+Article
+CAS
+Google Scholar
+He, T. et al. Inflating hollow nanocrystals through a repeated Kirkendall cavitation process.
+Nat. Commun.
+8
+, 1261 (2017).
+Article
+CAS
+Google Scholar
+Li, C. et al. Surfactant-directed synthesis of mesoporous Pd films with perpendicular mesochannels as efficient electrocatalysts.
+J. Am. Chem. Soc.
+137
+, 11558–11561 (2015).
+Article
+CAS
+Google Scholar
+Xia, B. et al. Ultrathin and ultralong single-crystal platinum nanowire assemblies with highly stable electrocatalytic activity.
+J. Am. Chem. Soc.
+135
+, 9480–9485 (2013).
+Article
+CAS
+Google Scholar
+Guo, X. et al. Direct, nonoxidative conversion of methane to ethylene, aromatics and hydrogen.
+Science
+344
+, 616–619 (2014).
+Article
+CAS
+Google Scholar
+Yang, X. F. et al. Single-atom catalysts: a new frontier in heterogeneous catalysis.
+Acc. Chem. Res.
+46
+, 1740–1748 (2013).
+Article
+CAS
+Google Scholar
+Chen, Y. et al. Single-atom catalysts: synthetic strategies and electrochemical applications.
+Joule
+2
+, 1242–1264 (2018).
+Article
+CAS
+Google Scholar
+Liu, J. Catalysis by supported single metal atoms.
+ACS Catal.
+7
+, 34–59 (2017).
+Article
+CAS
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+Google Scholar
+Liu, P. et al. Photochemical route for synthesizing atomically dispersed palladium catalysts.
+Science
+352
+, 797–800 (2016).
+Article
+CAS
+Google Scholar
+Wang, L. et al. Atomic-level insights in optimizing reaction paths for hydroformylation reaction over Rh/CoO single-atom catalyst.
+Nat. Commun.
+7
+, 14036 (2016).
+Article
+CAS
+Google Scholar
+Zitolo, A. et al. Identification of catalytic sites in cobalt–nitrogen–carbon materials for the oxygen reduction reaction.
+Nat. Commun.
+8
+, 957 (2017).
+Article
+CAS
+Google Scholar
+Wu, H. et al. Highly doped and exposed Cu(
+i
+)–N active sites within graphene towards efficient oxygen reduction for zinc–air batteries.
+Energy Environ. Sci.
+9
+, 3736–3745 (2016).
+Article
+CAS
+Google Scholar
+Gao, G., Jiao, Y., Waclawik, E. R. & Du, A. Single atom (Pd/Pt) supported on graphitic carbon nitride as an efficient photocatalyst for visible-light reduction of carbon dioxide.
+J. Am. Chem. Soc.
+138
+, 6292–6297 (2016).
+Article
+CAS
+Google Scholar
+Liu, W. et al. Single-site active cobalt-based photocatalyst with a long carrier lifetime for spontaneous overall water splitting.
+Angew. Chem. Int. Ed.
+56
+, 9312–9317 (2017).
+Article
+CAS
+Google Scholar
+Cao, Y. et al. Atomic-level insight into optimizing the hydrogen evolution pathway over a Co
+1
+-N
+4
+single-site photocatalyst.
+Angew. Chem. Int. Ed.
+56
+, 12191–12196 (2017).
+Article
+CAS
+Google Scholar
+Wei, S. et al. Direct observation of noble metal nanoparticles transforming to thermally stable single atoms.
+Nat. Nanotechnol.
+13
+, 856–861 (2018).
+Article
+CAS
+Google Scholar
+Funke, H. & Scheinost, A. C. Wavelet analysis of extended X-ray absorption fine structure data.
+Phys. Rev. B
+71
+, 094110 (2005).
+Article
+CAS
+Google Scholar
+Zitolo, A. et al. Identification of catalytic sites for oxygen reduction in iron- and nitrogen-doped graphene materials.
+Nat. Mater.
+14
+, 937–942 (2015).
+Article
+CAS
+Google Scholar
+Liu, W. et al. Single-atom dispersed Co–N–C catalyst: structure identification and performance for hydrogenative coupling of nitroarenes.
+Chem. Sci.
+7
+, 5758–5764 (2016).
+Article
+CAS
+Google Scholar
+Fei, H. et al. General synthesis and definitive structural identification of MN
+4
+C
+4
+single-atom catalysts with tunable electrocatalytic activities.
+Nat. Catal.
+1
+, 63–72 (2018).
+Article
+CAS
+Google Scholar
+Sarangi, R., Cho, J., Nam, W. & Solomon, E. I. XAS and DFT investigation of mononuclear cobalt(
+iii
+) peroxo complexes: electronic control of the geometric structure in CoO
+2
+versus NiO
+2
+systems.
+Inorg. Chem.
+50
+, 614–620 (2011).
+Article
+CAS
+Google Scholar
+Koningsberger, D. C. & Prins, R. (eds.)
+X-ray Absorption
+:
+Principles
+,
+Applications
+,
+Techniques of EXAFS
+,
+SEXAFS
+and XANES
+Vol. 92 (Wiley, 1988).
+Vaughan, B. A. et al. Mechanistic studies of single-step styrene production using a rhodium(
+i
+) catalyst.
+J. Am. Chem. Soc.
+139
+, 1485–1498 (2017).
+Article
+CAS
+Google Scholar
+Jiang, B. et al. A stepwise-designed Rh-Au-Si nanocomposite that surpasses Pt/C hydrogen evolution activity at high overpotentials.
+Nano Res.
+10
+, 1749–1755 (2017).
+Article
+CAS
+Google Scholar
+Sateke, S. et al. Pentamethylcyclopentadienyl rhodium(
+iii
+)–chiral disulfonate hybrid catalysis for enantioselective C–H bond functionalization.
+Nat. Catal.
+1
+, 585–591 (2018).
+Article
+CAS
+Google Scholar
+Herron, J. A., Scaranto, J., Ferrin, P., Li, S. & Mavrikakis, M. Trends in formic acid decomposition on model transition metal surfaces: a density functional theory study.
+ACS Catal.
+4
+, 4434–4445 (2014).
+Article
+CAS
+Google Scholar
+Cho, J. et al. Role of heteronuclear interactions in selective H
+2
+formation from HCOOH decomposition on bimetallic Pd/M (M = late transition FCC metal) catalysts.
+ACS Catal.
+7
+, 2553–2562 (2017).
+Article
+CAS
+Google Scholar
+Lović, J. D. et al. Catalytic activities of Pt thin films electrodeposited onto Bi coated glassy carbon substrate toward formic acid electrooxidation.
+J. Electroanal. Chem.
+735
+, 1–9 (2014).
+Article
+CAS
+Google Scholar
+Chen, Y.-X., Heinen, M., Jusys, Z. & Behm, R. J. Bridge-bonded formate: active intermediate or spectator species in formic acid oxidation on a Pt film electrode?
+Langmuir
+22
+, 10399–10408 (2006).
+Article
+CAS
+Google Scholar
+Neurock, M., Janik, M. & Wieckowski, A. A first principles comparison of the mechanism and site requirements for the electrocatalytic oxidation of methanol and formic acid over Pt.
+Faraday Discuss.
+140
+, 363–378 (2009).
+Article
+Google Scholar
+Chen, Q., Liu, Z. & Wong, C. H. An ab initio molecular dynamics study on the solvation of formate ion and formic acid in water.
+J. Theor. Comput. Chem.
+11
+, 1019–1032 (2012).
+Article
+CAS
+Google Scholar
+Lee, J. G. et al. Deprotonation of solvated formic acid: Car–Parrinello and metadynamics simulations.
+J. Phys. Chem. B
+110
+, 2325–2331 (2006).
+Article
+CAS
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+Article
+CAS
+Google Scholar
+Bunău, O. & Joly, Y. Self-consistent aspects of X-ray absorption calculations.
+J. Phys. Condens. Matter
+21
+, 345501 (2009).
+Article
+CAS
+Google Scholar
+Zhu, F. et al. High selectivity PtRh/RGO catalysts for ethanol electro-oxidation at low potentials: enhancing the efficiency of CO
+2
+from alcoholic groups.
+Electrochim. Acta
+292
+, 208–216 (2018).
+Article
+CAS
+Google Scholar
+Zhi, W. S. et al. Combining theory and experiment in electrocatalysis: insights into materials design.
+Science
+355
+, eaad4498 (2017).
+Google Scholar
+Wyckoff, R. W. G.
+Cubic Closest Packed, CCP, Structure Crystal Structures
+2nd edn, Vol. 1, 7–83 (Interscience Publishers, 1963).
+Kresse, G. & Hafner, J. Ab initio molecular-dynamics simulation of the liquid-metal–amorphous-semiconductor transition in germanium.
+J. Phys. Rev. B
+49
+, 14251–14269 (1994).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+J. Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+CAS
+Google Scholar
+Monkhorst, H. J. & Pack, J. D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+13
+, 5188–5192 (1976).
+Article
+Google Scholar
+Grimme, S., Antony, J., Ehrlich, S. & Krieg, H. A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu.
+J. Chem. Phys.
+132
+, 154104 (2010).
+Article
+CAS
+Google Scholar
+Jónsson, H., Mills, G. & Jacobsen, K. W. in
+Classical and Quantum Dynamics in Condensed Phase Simulations
+385–404 (World Scientific, 1998).
+Henkelman, G. & Jónsson, H. A dimer method for finding saddle points on high dimensional potential surfaces using only first derivatives.
+J. Chem. Phys.
+111
+, 7010–7022 (1999).
+Article
+CAS
+Google Scholar
+Huang, B., Xiao, L., Lu, J. & Zhuang, L. Spatially resolved quantification of the surface reactivity of solid catalysts.
+Angew. Chem. Int. Ed.
+55
+, 6239–6243 (2016).
+Article
+CAS
+Google Scholar
+Hoover, W. G. Canonical dynamics: equilibrium phase-space distributions.
+Phys. Rev. A
+31
+, 1695–1697 (1985).
+Article
+CAS
+Google Scholar
+Nosé, S. A unified formulation of the constant temperature molecular dynamics methods.
+J. Chem. Phys.
+81
+, 511–519 (1984).
+Article
+Google Scholar
+Yeh, K. Y., Restaino, N. A., Esopi, M. R., Maranas, J. K. & Janik, M. J. The adsorption of bisulfate and sulfate anions over a Pt(111) electrode: a first principle study of adsorption configurations, vibrational frequencies and linear sweep voltammogram simulations.
+Catal. Today
+202
+, 20–35 (2013).
+Article
+CAS
+Google Scholar
+Mathew, K., Sundararaman, R., Letchworth-Weaver, K., Arias, T. A. & Hennig, R. G. Implicit solvation model for density-functional study of nanocrystal surfaces and reaction pathways.
+J. Chem. Phys.
+140
+, 084106 (2014).
+Article
+CAS
+Google Scholar
+Man, I. C. et al. Universality in oxygen evolution electrocatalysis on oxide surfaces.
+ChemCatChem
+3
+, 1159–1165 (2011).
+Article
+CAS
+Google Scholar
+Yu, L., Pan, X., Cao, X., Hu, P. & Bao, X. Oxygen reduction reaction mechanism on nitrogen-doped graphene: a density functional theory study.
+J. Catal.
+282
+, 183–190 (2011).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This work was supported by the National Key R&D Program of China (2016YFA0202801 and 2018YFA0702003), the National Natural Science Foundation of China (21671117, 21871159 and 21890383), China Postdoctoral Science Foundation (043260409) and the Jilin Province Science and Technology Development Program (20150101066JC and 20160622037JC). We thank Stanford Synchrotron Radiation Lightsource (SSRL) BL7-3 for providing the beam time. R.C. acknowledges support from the DOE-funded LDRD programme and SSRL. J.D. acknowledges support from the Youth Innovation Promotion Association CAS.
+Author information
+Author notes
+These authors contributed equally: Yu Xiong, Juncai Dong, Zheng-Qing Huang.
+Authors and Affiliations
+Department of Chemistry, Tsinghua University, Beijing, China
+Yu Xiong, Pingyu Xin, Wenxing Chen, Zhi Li, Chen Chen, Qing Peng, Dingsheng Wang & Yadong Li
+College of Chemistry and Chemical Engineering, Central South University, Changsha, Hunan, China
+Yu Xiong, Xiaoqing Chen & Hua Yang
+Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China
+Juncai Dong
+Shaanxi Key Laboratory of Energy Chemical Process Intensification, School of Chemical Engineering and Technology, Xi’an Jiaotong University, Xi’an, China
+Zheng-Qing Huang & Chun-Ran Chang
+Shanghai Synchrotron Radiation Facilities, Shanghai Institute of Applied Physics, Chinese Academy of Science, Shanghai, China
+Yu Wang
+Laboratory of Advanced Power Sources, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun, Jilin, China
+Zhao Jin & Wei Xing
+Jilin Province Key Laboratory of Low Carbon Chemical Power Sources, Changchun, Jilin, China
+Zhao Jin & Wei Xing
+State Key Lab of Organic–Inorganic Composites, Beijing Advanced Innovation Center for Soft Matter Science and Engineering, Beijing University of Chemical Technology, Beijing, China
+Zhongbin Zhuang
+State Key Laboratory of Physical Chemistry of Solid Surfaces, Department of Chemistry, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen, China
+Jinyu Ye & Shigang Sun
+College of Chemistry and Molecular Sciences, Hubei Key Lab of Electrochemical Power Sources, Wuhan University, Wuhan, China
+Xing Wei & Lin Zhuang
+Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA, USA
+Rui Cao
+Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, Beijing, China
+Lin Gu
+Authors
+Yu Xiong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Juncai Dong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zheng-Qing Huang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Pingyu Xin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wenxing Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yu Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhi Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhao Jin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wei Xing
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhongbin Zhuang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jinyu Ye
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xing Wei
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Rui Cao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lin Gu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shigang Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lin Zhuang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaoqing Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hua Yang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chen Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qing Peng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chun-Ran Chang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dingsheng Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yadong Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Y.X. performed the experiments and wrote the paper. Z.-Q.H. and C.-R.C. conducted the DFT calculations and analysis. J.D., R.C., Y.W. and W.C. helped with XANES and EXAFS spectrometry analyses. P.X. and Y.X. collected and analysed the data. Z.L. helped with synthesizing the catalysts. Z.J. and W.X. helped with the single cell test. Z.Z. helped with the data analysis of electrooxidation. X.W., J.Y., S.S. and L.Z. helped with the in situ FTIR analysis. L.G. assisted with taking AC-HAADF-STEM images. X.C., H.Y., C.C. and Q.P. helped with data analyses and discussions. D.W. and Y.L. conceived the experiments, planned synthesis, analysed results and wrote the paper.
+Corresponding authors
+Correspondence to
+Dingsheng Wang
+or
+Yadong Li
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Nanotechnology
+thanks Matteo Cargnello, Sebastian Peter and other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary methods, Figs. 1–84 and Tables 1–11.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Xiong, Y., Dong, J., Huang, ZQ.
+et al.
+Single-atom Rh/N-doped carbon electrocatalyst for formic acid oxidation.
+Nat. Nanotechnol.
+15
+, 390–397 (2020). https://doi.org/10.1038/s41565-020-0665-x
+Download citation
+Received
+:
+28 November 2018
+Accepted
+:
+26 February 2020
+Published
+:
+30 March 2020
+Issue Date
+:
+May 2020
+DOI
+:
+https://doi.org/10.1038/s41565-020-0665-x
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+This article is cited by
+Efficient direct formic acid electrocatalysis enabled by rare earth-doped platinum-tellurium heterostructures
+Xin Lin
+Shize Geng
+Lingzheng Bu
+Nature Communications
+(2025)
+Antisite defect unleashes catalytic potential in high-entropy intermetallics for oxygen reduction reaction
+Tao Chen
+Xinkai Zhang
+Dingguo Xia
+Nature Communications
+(2025)
+Recent Advances of Electrocatalysts and Electrodes for Direct Formic Acid Fuel Cells: from Nano to Meter Scale Challenges
+Yang Li
+Ming-Shui Yao
+Shangfeng Du
+Nano-Micro Letters
+(2025)
+Innovative single atom arrays for the electrocatalytic reaction
+Huachao Ji
+Mengyang Zhang
+Longlu Wang
+Science China Materials
+(2025)
+Co-catalytic metal–support interactions in single-atom electrocatalysts
+Lucy Gloag
+Samuel V. Somerville
+Richard D. Tilley
+Nature Reviews Materials
+(2024)
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Formic acid oxidation boosted by Rh single atoms
+Dohyung Kim
+Matteo Cargnello
+Nature Nanotechnology
+News & Views
+30 Mar 2020
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Advisory Panel
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Nanotechnology
+(
+Nat. Nanotechnol.
+)
+ISSN
+1748-3395
+(online)
+ISSN
+1748-3387
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

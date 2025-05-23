@@ -1,0 +1,1680 @@
+Zeolite-confined Cu single-atom clusters stably catalyse CO to acetate at 1 A cm−2 beyond 1,000 h | Nature Nanotechnology
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature nanotechnology
+articles
+article
+Zeolite-confined Cu single-atom clusters stably catalyse CO to acetate at 1 A cm
+−
+2
+beyond 1,000 h
+Download PDF
+Article
+Published:
+17 March 2025
+Zeolite-confined Cu single-atom clusters stably catalyse CO to acetate at 1 A cm
+−
+2
+beyond 1,000 h
+Yan Wen
+1
+na1
+,
+Changhong Zhan
+ORCID:
+orcid.org/0009-0002-6094-7776
+1
+na1
+,
+Jiacheng Liu
+1
+na1
+,
+Xinxin Zhuang
+1
+,
+Siyu Liu
+1
+,
+Tang Yang
+1
+,
+Wenqiang Liu
+1
+,
+Xiaozhi Liu
+ORCID:
+orcid.org/0000-0001-8647-8694
+2
+,
+Cheng-Wei Kao
+3
+,
+Yu-Cheng Huang
+3
+,
+Ting-Shan Chan
+ORCID:
+orcid.org/0000-0001-5220-1611
+3
+,
+Zhiwei Hu
+ORCID:
+orcid.org/0000-0003-0324-2227
+4
+,
+Dong Su
+ORCID:
+orcid.org/0000-0002-1921-6683
+2
+,
+Jiajia Han
+ORCID:
+orcid.org/0000-0002-2642-0252
+5
+,
+Nanjun Chen
+ORCID:
+orcid.org/0009-0008-1317-3345
+1
+,
+6
+&
+…
+Xiaoqing Huang
+ORCID:
+orcid.org/0000-0003-3219-4316
+1
+,
+6
+Show authors
+Nature Nanotechnology
+(
+2025
+)
+Cite this article
+5242
+Accesses
+1
+Citations
+12
+Altmetric
+Metrics
+details
+Subjects
+Electrocatalysis
+Structural properties
+Abstract
+The electrochemical CO reduction reaction (CORR) has attracted a surge of research interest in sustainably producing high-value multi-carbon products, such as acetate. Nevertheless, most current CORR catalysts exhibit low acetate current densities, poor longevity and limited acetate selectivity. Here we present a Zeolite Socony Mobil-confined Cu single-atom cluster (CuZSM SACL) for CORR, in which Cu SAs are chemically anchored via robust Cu–O–Si bonds while Cu CLs are physically trapped within the porous framework of zeolite cavities. Consequently, the CuZSM SACL-containing membrane electrode assembly enables a remarkable CO-to-acetate current density of 1.8 A cm
+−
+2
+with a high acetate Faraday efficiency of 71 ± 3%. More importantly, we demonstrate that the Cu-based membrane electrode assembly can stably catalyse CO to acetate at an industrial current density of 1 A cm
+−
+2
+at 2.7 V (Faraday efficiency 61 ± 5%) beyond 1,000 h at atmospheric pressure. This milestone sheds light on high-performing Cu-type catalysts for practical CORR applications.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Splicing the active phases of copper/cobalt-based catalysts achieves high-rate tandem electroreduction of nitrate to ammonia
+Article
+Open access
+02 March 2022
+Stabilized Cu
+δ+
+-OH species on in situ reconstructed Cu nanoparticles for CO
+2
+-to-C
+2
+H
+4
+conversion in neutral media
+Article
+Open access
+29 August 2024
+Selective CO-to-acetate electroreduction via intermediate adsorption tuning on ordered Cu–Pd sites
+Article
+28 March 2022
+Main
+Acetic acid is a crucial industrial chemical that holds vital economic value owing to its immense annual demand (>18 million tonnes) in the production of various chemicals, such as terephthalic acid and vinyl acetate
+1
+,
+2
+,
+3
+. The industrial process of producing acetic acid primarily relies on fossil fuels, which necessitates the use of high temperatures and pressures, leading to massive CO
+2
+emissions and energy consumption
+4
+. The electroreduction of CO
+2
+or CO offers an appealing near-zero-emission approach to sustainably produce acetic acid at low temperature, which has caught extensive attention in the pursuit of carbon neutrality
+5
+,
+6
+,
+7
+,
+8
+. However, direct CO
+2
+-to-acetate electroreduction demands high overpotential (>6 V) and poses an intractable carbonate accumulation issue under alkaline conditions
+9
+,
+10
+,
+11
+,
+12
+,
+13
+. Recently, a two-step tandem system has been proposed by pairing the CO
+2
+-to-CO with CO-to-C
+2+
+reactions
+14
+,
+15
+,
+16
+. That is, CO
+2
+can be efficiently converted into CO through a high-temperature solid oxide electrolyser
+17
+. Subsequently, CO can be further converted into multi-carbon products by an alkaline CO reduction reaction (CORR) electrolyser.
+Nonetheless, most current CORR electrolysers exhibited poor acetate activity (<0.3 A cm
+−
+2
+) and longevity, along with limited acetate Faraday efficiency (FE). Years of study have reached a consensus that copper (Cu) is the most efficient catalyst for CO-to-acetate conversion
+18
+,
+19
+. However, conventional Cu is structurally unstable and is susceptible to the hydrogen evolution reaction
+20
+. Many efforts have been devoted to designing different types of Cu catalyst, intending to boost the selectivity and current density of CO-to-acetate conversion. Typically, Wu et al. reported a Cu nanoparticle that delivered a stable CO-to-acetate conversion at 0.4 A cm
+−
+2
+for 40 h with an FE of 56% (ref.
+21
+). Ji et al. presented a Cu–Pd-containing membrane electrode assembly (MEA) that enabled a 500 h CO-to-acetate conversion at 0.5 A cm
+−
+2
+at 3.5 V with an FE of 50% (ref.
+22
+). Jin et al. reported that Cu–Ag alloys achieved a high CO-to-acetate FE of 85–91% under a 10 bar backpressure
+23
+, while the stability test of MEA was performed at 0.1 A cm
+−
+2
+. Although the FE of CO-to-acetate conversion has been substantially improved, the state-of-the-art CORR electrolysers can be only operated at low current densities <0.5 A cm
+−
+2
+with high overpotential (>3.5 V) and limited longevity.
+Zeolite molecular sieves have been widely used in thermocatalytic reactions, as they can induce a strong metal–support interaction, thereby stabilizing metal catalysts while enhancing the activity
+24
+,
+25
+,
+26
+. Here we present a unique Zeolite Socony Mobil-confined Cu single-atom cluster (CuZSM SACL) for CORR, in which Cu SAs and Cu CLs can synergistically facilitate asymmetric C–C coupling to substantially facilitate the CORR efficiency and stability. Within this structure, the robust Cu–O–Si bond can be formed, which effectively stabilizes Cu SAs within the ZSM cavity. In addition, the confinement effect of zeolite cavity can inhibit the growth and aggregation of Cu CLs. These merits endow CuZSM SACL with excellent CORR activity and stability. Consequently, the CuZSM SACL-based MEA achieves an exceptional partial current density of acetate (1.15 A cm
+−
+2
+) with a high acetate FE of 71 ± 3% at atmospheric pressure. More importantly, we demonstrate that Cu-based MEA electrolysers are able to stably catalyse CO to acetate at an industrial current density of 1 A cm
+−
+2
+at 2.7 V for over 1,000 h. This important milestone highlights the tremendous potential of these CuZSM SACLs for practical CORR applications, making the electrochemical production of acetate visible.
+Preparation and characterization
+ZSM-confined Cu single atoms (CuZSM SAs) were prepared using an ion exchange approach involving CuSO
+4
+and ZSM in an ethanol aqueous solution. Subsequently, the ZSM-confined CuZSM SACL was obtained by further treating CuZSM SA with hydrogen (Fig.
+1a
+). ZSM-confined Cu CLs and nanoparticles (CuZSM CLNPs) were obtained by directly treating CuSO
+4
+with ZSM under hydrogen atmosphere. Sodium and hydrogen ZSM-5 (NaZSM-5 and HZSM-5) were utilized as supports for CuZSM, and the NaZSM-5 with a Si/Al ratio of 50 has an excellent CORR performance, which is deemed as the optimal support for CuZSM series (Supplementary Fig.
+1
+). CuZSM catalysts with a Cu content of 1% show the highest CO-to-acetate efficiency and selectivity (Supplementary Fig.
+2
+).
+Fig. 1: Structural characterization of catalysts.
+a
+, Schematic illustration of the synthesis process for CuZSM SA and CuZSM SACL.
+b
+–
+d
+, AC-HADDF-STEM images of CuZSM SA (
+b
+), CuZSM SACL (
+c
+) and CuZSM CLNP (
+d
+). Top: low magnification images. Bottom: high magnification images.
+e
+, XRD spectra of different CuZSM catalysts.
+f
+,
+g
+, Cu 2
+p
+XPS spectra (
+f
+) and Cu LMN XPS spectra (
+g
+) of CuZSM SA, CuZSM SACL and CuZSM CLNP.
+Source data
+Full size image
+Low-resolution transmission electron microscopy (TEM) images reveal that the surface of CuZSM SA and CuZSM SACL is similar to that of pristine ZSM. The energy-dispersive X-ray spectroscopy (EDS) and high-angle annular dark field scanning TEM (HAADF-STEM) element mapping indicate that Cu species exist in the form of SAs or CLs (Supplementary Figs.
+3
+–
+5
+). By contrast, distinct Cu NPs can be clearly observed in CuZSM CLNP (Supplementary Fig.
+6
+). Aberration-corrected HAADF-STEM (AC-HAADF-STEM) shows that only isolated, dense and bright dots are observed in CuZSM SA, which are ascribed to Cu SAs (blue circle) (Fig.
+1b
+and Supplementary Fig.
+7a
+). As a contrast, the coexistence of a large number of Cu SAs (blue circle) and CLs (yellow circle) is clearly observed in CuZSM SACL, where the CLs exhibit trivial lattice fringes (Fig.
+1c
+and Supplementary Fig.
+7b
+). The average gap size between SAs and CLs can be estimated on a sub-nanometre scale (Supplementary Fig.
+7b
+3
+,b
+4
+). Conversely, Cu CLs and NPs with a size of approximately 10 nm are visible in CuZSM CLNP (Fig.
+1d
+and Supplementary Fig.
+7c
+). Meanwhile, the densities of Cu SAs and CLs within CuZSM SA and CuZSM SACL can be estimated based on representative AC-HAADF-STEM images (Supplementary Figs.
+8
+and
+9
+, and Supplementary Tables
+1
+and
+2
+). In addition, X-ray diffraction (XRD) patterns of all CuZSM catalysts exhibit a characteristic ZSM diffraction peak between 20° and 30° (ICDD number 00-044-0003), indicating the complete retention of the Mobil-type Five (MFI) topology during the synthesis process (Supplementary Fig.
+10
+). The overall left shift of the ZSM peak in Fig.
+1e
+indicates that Cu species have been successfully incorporated into the ZSM structure. Notably, CuZSM SA exhibits an identical crystal structure to ZSM, suggesting that Cu atoms are highly dispersed within the ZSM. The peak intensities of Cu (111) and Cu (200) (ICDD number 00-004-0836) increase in both CuZSM SACL and CuZSM CLNP, indicating the presence of Cu CLs or NPs. X-ray photoelectron spectroscopy (XPS) shows that the intensity of Cu
+0/+
+peak gradually raises in CuZSM SA, CuZSM SACL and CuZSM CLNP, while the intensity of Cu
+2+
+peak correspondingly decreases, suggesting that the various Cu species are meticulously controlled (Fig.
+1f
+). In the Cu LMN spectrum, Cu species are assigned to Cu
++
+, Cu
+2+
+and Cu
+0
+, with peak values of 916.8 eV, 917.7 eV and 918.6 eV, respectively
+27
+(Fig.
+1g
+).
+Furthermore, the coordination structures of Cu species in CuZSM catalysts were further analysed by synchrotron-radiation-based X-ray absorption fine structure (XAS). Cu K-edge X-ray absorption near-edge structure (XANES) spectra show that the absorption edges around 0.5 of CuZSM SACL and CuZSM SA are close to that of CuO, suggesting the oxidation states of Cu in CuZSM SACL and CuZSM SA. Extended X-ray absorption fine structure (EXAFS) spectra exhibit that CuZSM SA has a single peak at 1.6 Å (for Cu–O coordination in CuO) (Fig.
+2b
+), which is assigned to the oxidation of CuZSM SA
+28
+. Moreover, no obvious peak is observed at 2.1 Å (for Cu–Cu coordination in metallic Cu), confirming that Cu species exist as SAs in CuZSM SA. In CuZSM SACL, the peak at 1.6 Å (for Cu–O coordination in CuO) gradually decreases, accompanying an increase of the peak at 2.1 Å (for Cu–Cu coordination in metallic Cu) (Fig.
+2c
+and Supplementary Fig.
+11
+), indicating the coexistence of SAs and CLs. The fitted parameters are listed in Supplementary Table
+3
+, which align well with the coordination results fitted by the density functional theory (DFT) model (Supplementary Fig.
+12
+and Supplementary Table
+4
+). The wavelet transforms of EXAFS spectra further demonstrate that the bonding mode of Cu species in CuZSM SACL lies between that of CuZSM SA and CuZSM CLNP (Fig.
+2d
+and Supplementary Fig.
+13
+), further confirming the coexistence of Cu SAs and Cu CLs.
+Fig. 2: X-ray absorption spectroscopy analysis.
+a
+,
+b
+, Cu K-edge XANES (
+a
+) and Fourier transform of the EXAFS spectra (
+b
+) of CuZSM SA, CuZSM SACL, CuZSM CLNP, Cu foil and CuO.
+c
+, Fourier transform and fitting of Cu K-edge EXAFS spectra of CuZSM SACL and CuZSM SA in R space. Insets: the corresponding structure diagram (Cu, orange; Si, grey; O, red; Al, light blue).
+d
+, Wavelet transform of EXAFS spectra for CuZSM SA, CuZSM SACL and CuZSM CLNP.
+Source data
+Full size image
+CORR performance in flow cell
+The CORR performance of CuZSM series was first evaluated in a standard three-electrode flow cell system using 1 M KOH as the electrolyte. The linear sweep voltammetry curves show that CuZSM SACL exhibits much higher current densities towards the CORR compared with CuZSM SA and CuZSM CLNP (Fig.
+3a
+). Meanwhile, CuZSM SACL exhibits a favourable Tafel slope (161.6 mV dec
+−1
+)
+29
+, which is lower than that of CuZSM SA (288.2 mV dec
+−1
+) and CuZSM CLNP (267.1 mV dec
+−1
+), indicating the superior CORR kinetic rate of CuZSM SACL (Supplementary Fig.
+14
+). The liquid and gaseous products were determined by nuclear magnetic resonance (NMR; Supplementary Fig.
+15
+) and gas chromatography (GC). Similarly, CuZSM SACL demonstrates the highest acetate FE (typically 77 ± 1% at 0.3 A cm
+−
+2
+) and turnover frequency (1,260 h
+−1
+) at all currents compared with CuZSM SA and CuZSM CLNP (Fig.
+3b,c
+). In addition, CuZSM SACL showcases a maximum acetate partial current density of 0.469 A cm
+−
+2
+(Fig.
+3d
+) and a maximum acetate formation rate of 1.21 μmol s
+−
+1
+cm
+−
+2
+at 0.8 A cm
+−
+2
+(Fig.
+3e
+). Other liquid products include a small amount of ethanol and
+n
+-propanol (Supplementary Table
+5
+). In addition, variations in the size of Cu NPs did not enhance acetate selectivity and activity on ZSM-supported catalysts (Supplementary Fig.
+16
+). However, CuZSM SACL demonstrates superior electrochemical surface area (ECSA)-normalized acetate formation rate, surpassing both CuZSM SA and CuZSM CLNP (Supplementary Figs.
+17
+and
+18
+). These findings elucidate that the exceptional acetate production of CuZSM SACL is due to the synergistic effect between Cu SAs and Cu CLs, rather than alterations in the particle size or surface area of the Cu catalysts. Moreover, the CuZSM SACL-based flow cell shows a stable CO-to-acetate conversion at 0.3 A cm
+−
+2
+for 20 h (Fig.
+3f
+). AC-HAADF-STEM images further reveal that CuZSM SACL still exists in the form of SAs and CLs after the CORR testing without notable Cu agglomeration (Supplementary Fig.
+19
+). The performance of CuZSM SACL at atmospheric pressure outperforms the most state-of-the-art CORR catalysts (Fig.
+3g
+).
+Fig. 3: CORR performance in flow cell.
+a
+, Linear sweep voltammetry curves.
+b
+, FEs of all CORR products at different current densities.
+c
+–
+e
+, Acetate Faradic efficiency (
+c
+), acetate partial current density (
+d
+) and acetate formation rate against current densities (
+e
+) of CuZSM SACL, CuZSM SA and CuZSM CLNP.
+f
+, CORR stability of CuZSM SACL at 0.3 A cm
+−
+2
+in 1 M KOH in flow cell.
+g
+, Comparison between CuZSM SACL and other reported CORR catalysts at atmosphere pressure. Error bars correspond to the standard deviation of three independent measurements. Error bars in
+b
+–
+e
+represent s.d. from three independent measurements. Data are presented as mean values ± s.d.
+Source data
+Full size image
+CORR performance in MEA
+The CuZSM SACL-based MEA was prepared based on an Ni–Fe oxygen evolution reaction electrode and a home-made poly(aryl-co-aryl piperidinium) membrane to demonstrate the feasibility of CuZSM SACL for practical CORR electrolysis applications (Supplementary Fig.
+20
+). The MEA was placed into a cathode-dried CORR electrolyser
+30
+, and KOH solution was fed in the anode only. First, we systematically probed the effect of different parameters, including catalyst loading, KOH concentration, gas flow rate and ionomer content, on the CORR performance of the CuZSM SACL-based MEA electrolyser under atmospheric pressure conditions (Supplementary Fig.
+21
+). Specifically, the CuZSM SACL-based MEA with a CuZSM SACL loading of 1.5 mg cm
+−
+2
+and an ionomer content of 20% exhibits the optimal CORR performance. As expected, a higher concentration of KOH results in higher current densities (Fig.
+4a
+), and the MEA operated with 5 M KOH showcases an outstanding current density of 1.7 A cm
+−
+2
+at 3.2 V. The FEs of CuZSM SACL-based MEA are shown in Supplementary Fig.
+22
+and Supplementary Table
+6
+. The FEs of all products detected from the CuZSM SACL-based flow cell can be well reproduced in the MEA electrolyser. The CuZSM SACL-based MEA gives a highest transient FE of 71 ± 3% at 1 A cm
+−
+2
+(Fig.
+4b
+). More importantly, the CuZSM SACL-based MEA can be stably operated at 1 A cm
+−
+2
+with steady-state cell voltage (2.7 V) and FEs (61 ± 5%) for over 1,000 h (Fig.
+4c
+and Supplementary Table
+7
+). The XRD and XAS reveal that the MFI structure and robust Cu–O–Si bonds of CuZSM SACL were preserved after 1,000 h MEA stability testing, demonstrating the exceptional stability of CuZSM SACL (Supplementary Fig.
+23
+). Compared with the cutting-edge CORR catalysts, the CuZSM SACL-based MEA exhibits exceptional acetate current density and MEA stability (1 A cm
+−
+2
+at 2.7 V and >1,000 h), which surpass that of all other catalysts reported hitherto (Fig.
+4d
+and Supplementary Table
+8
+). Notably, most current CORR catalysts exhibited limited steady-state acetate FEs (<50%) and activity, typically below 0.5 A cm
+−
+2
+> 3.5 V, along with poor MEA stability (0.1–0.3 A cm
+−
+2
+for less than 200 h) (Fig.
+4e
+). Few CORR electrolysers
+23
+exhibited high transient FEs of 85–91%, which actually demands high backpressure (10 bar) and can be only operated at a low current density of 0.1 A cm
+−
+2
+with a high steady-state cell voltage. Our present CuZSM SACL-containing MEA enables that the electrochemical CO-to-acetate conversion can be stably achieved under an industrial current density of 1 A cm
+−
+2
+with a low cell voltage under an atmospheric pressure beyond 1,000 h.
+Fig. 4: CORR performance in MEA.
+a
+, Linear sweep voltammetry curves towards CORR for CuZSM SACL with different KOH concentrations.
+b
+, FEs of CuZSM SACL-based MEA with all CORR products at different current densities in 5 M KOH.
+c
+, Long-term stability of CuZSM SACL-based MEA at 1 A cm
+−
+2
+in 3 M KOH at atmosphere pressure. Inset: schematic diagram of the MEA electrolyser. AEM, anion exchange membrane; OER, oxygen evolution reaction.
+d
+, Comparison of acetate partial current density and CORR MEA stability between CuZSM SACL and state-of-the-art CORR catalysts.
+e
+, Comparison between CuZSM SACL and state-of-the-art CORR catalysts in terms of acetate FE, acetate partial current density and acetate production rate. Error bars correspond to the standard deviation of three independent measurements. Error bars in
+b
+represent s.d. from three independent measurements. Data are presented as mean values ± s.d.
+Source data
+Full size image
+Underlying activity mechanism research
+DFT calculations were utilized to further understand the underlying mechanism behind the exceptional CORR activity of CuZSM SACL, and a unique CuZSM SACL model was built (Supplementary Fig.
+24
+and Supplementary Table
+9
+). The adsorption energies of Cu SAs at different positions within the ten-membered ring were found to vary owing to the spontaneous and random nature of the ion exchange process. Among the seven possible configurations, the Cu located at the first site has the largest adsorption energy of −4.49 eV, whereas the small adsorption energy is only −3.85 eV (Fig.
+5a
+). Note that the adsorption energies of individual Cu SAs exhibit lower values at specific positions (Supplementary Table
+10
+). We found that the number of Cu SAs within the neighbouring space of the ten-membered ring is limited, with fewer than three Cu SAs being able to coexist on the ring; otherwise, they will spontaneously form CLs and aggregate in the central region rather than the inner wall of the ten-membered ring (Fig.
+5b
+). By contrast, the adsorption energies of Cu CLs increase with an increasing CL size (Supplementary Fig.
+25
+). This suggests distinct adsorption mechanisms between Cu SAs and Cu CLs, confirming the chemical Cu–O–Si bonding of Cu SAs and the physical ZSM confinement of Cu CLs. In addition, the formation of Cu CLs leads to electron cloud overlap between Si–Cu atoms, resulting in the appearance of several localized orbitals between the valance band maximum and the conduction band minimum of ZSM, lowering the energy barrier for electron transitions and enhancing the material’s conductivity (Fig.
+5c
+), which is consistent with our experimental results (Supplementary Fig.
+26
+).
+Fig. 5: Mechanism investigation.
+a
+, Adsorption energies of Cu SAs at different positions of molecular sieve.
+b
+, Molecular sieve structure loaded with single or multiple Cu atoms.
+c
+, Density of states for ZSM and CuZSM CL.
+d
+, Gibbs free energies of acetic acid production on different catalysts and adsorption configurations of intermediates on CuZSM SACL.
+e
+, Differential charge densities of Cu atoms at different positions of molecular sieve (Cu, orange; Si, grey; O, red).
+f
+, Adsorption energies of
+*
+CO–CO,
+*
+CO–COH and
+*
+COH–COH over CuZSM SACL.
+g
+, The configuration of CuZSM SACL before and after adsorption of
+*
+CO.
+h
+, The variations of Cu count and Cu size over time during AIMD simulation with different Cu densities, in which Cu CLs are physically trapped in the zeolite cavity of CuZSM SACL.
+i
+,
+j
+, Atomic configuration evolutions (
+i
+) and CO–CO products during CORR changes (
+j
+) in
+R
+msd
+over time. Insets: the corresponding AIMD simulations for CuZSM SACL (Cu, orange; O, red; ZSM, blue).
+Source data
+Full size image
+Following the establishment of the molecular sieve structure model, an investigation into the acetic acid formation pathway of CuZSM SACL, CuZSM SA and CuZSM CLNP was undertaken (Fig.
+5d
+and Supplementary Figs.
+27
+and
+28
+). The initial phase involves the formation of
+*
+CO–COH, recognized as a typical dimerization reaction. By contrast, CuZSM SACL exhibits a much lower energy barrier for the transition from *CO–CO to *CO–COH (0.05 eV) compared with that of CuZSM SA (1.881 eV) and CuZSM CLNP (0.554 eV), indicating the irreplaceable role played by the synergy of Cu SAs and CLs during the dimerization process. Moreover, CuZSM SACL requires minimal additional energy, enabling subsequent steps to spontaneously proceed until the
+*
+CH–CO generation stage emerges as the rate-limiting step with a Gibbs free energy (Δ
+G
+) of 0.328 eV. Following the post-C–C coupling step, the acetic acid pathway exhibits the lowest energy barrier, so the
+*
+CO–COH intermediate primarily leads to
+*
+CH
+2
+–CO, rather than the intermediate of ethylene or ethanol (
+*
+CH–CHO) (Supplementary Figs.
+29
+and
+30
+). Remarkably, in the
+*
+CH
+2
+–CO generation phase, CuZSM SACL demonstrates the most favourable Δ
+G
+value of −0.956 eV, in sharp divergence from CuZSM SA (Δ
+G
+= −0.254 eV) and CuZSM CLNP (Δ
+G
+= 0.176 eV) (Supplementary Table
+11
+). This pivotal observation implies that the CuZSM SACL possesses the capacity to enhance the production of acetate from CO, corroborating our experimental findings (Fig.
+3d
+). In the pursuit of a more thorough examination of acetate activity origins, charge density difference analysis reveals that Cu atoms situated in various locations exhibit distinct electron gain/loss profiles (Fig.
+5e
+), resulting in variable Bader charges and ultimately affecting the energy required for the
+*
+CO–CO adsorption process (Fig.
+5f
+). CuZSM SACL shows the most favourable adsorption energy of −1.301 eV, as outlined in Supplementary Table
+12
+, compared with CuZSM SA (−1.899 eV) and CuZSM CLNP (−0.450 eV). This appropriate adsorption energy facilitates the effective adsorption and hydrogenation of
+*
+CO, followed by timely desorption to yield the desired product. Notably, upon
+*
+CO adsorption, the spatial arrangement of Cu SAs spontaneously adjusts to a configuration that is conducive to subsequent reactions (Fig.
+5g
+).
+To confirm the contribution of
+*
+CO adsorption differences to acetate, in situ electrochemical attenuated total reflection Fourier-transform infrared (ATR-FTIR) spectroscopy was used to monitor the CORR process on different catalysts. The ATR-FTIR spectra of these catalysts exhibit multiple peaks that correspond to various intermediates (Supplementary Fig.
+31
+and Supplementary Table
+13
+). Specifically, CuZSM SACL shows two distinct peaks at 2,042 cm
+−
+1
+and 1,914 cm
+−
+1
+, which are attributed to the atop-adsorbed
+*
+CO (
+*
+CO
+atop
+) and the bridge-adsorbed
+*
+CO (
+*
+CO
+bridge
+) on the Cu surface, respectively
+31
+,
+32
+,
+33
+,
+34
+(Supplementary Fig.
+32
+). In comparison, CuZSM SA exhibits the
+*
+CO
+atop
+peak in the same potential region, while CuZSM CLNP shows the
+*
+CO
+bridge
+peak with minor
+*
+CO
+atop
+adsorption. The appropriate mixed adsorption configuration of
+*
+CO
+bridge
+and
+*
+CO
+atop
+can facilitate the formation of multi-carbon products
+35
+,
+36
+. The synergistic and efficient C–C coupling of SA–CL arrangement for Cu SAs and Cu CLs in zeolite cavities promote the dimerization reaction and stabilize the
+*
+CH
+2
+–CO intermediate, thereby facilitating the production of acetate. In addition, we performed CO adsorption modelling based on the simulation structures (Supplementary Fig.
+33
+). The calculated CO vibration frequencies for the modelled structures are in good agreement with the experimental in situ ATR-FTIR vibration frequencies.
+Underlying stability mechanism research
+We used in situ XAS spectra and DFT calculations to further study the origins of stability after recombination of ZSM and Cu SAs and CLs. In situ XANES spectra show that no notable change in chemical valence of Cu can be observed in CuZSM SACL during the CORR process (Supplementary Fig.
+34a
+). In situ EXAFS spectra further reveal that the Cu–O coordination for SAs is relatively stable during the CORR process, while the Cu–Cu coordination for CLs slightly increases during the CORR and then reverts to its initial state after the CORR (Supplementary Fig.
+34b
+), indicating that Cu species in CuZSM SACL is stable during the CORR process. Moreover, the wavelet transforms of EXAFS spectra further confirm the stability of CuZSM SACL (Supplementary Fig.
+34c
+). Furthermore, DFT results indicate that robust Cu–O–Si bonds offer excellent capacity in both anchoring Cu species (−4.16 eV) and adsorbing CO (−2.09 eV) compared with those of Cu–C and Cu–N
+4
+C, implying that the Cu–O–Si can efficiently stabilize Cu SAs while adsorbing CO during long-term CORR operation (Supplementary Fig.
+35
+). Meanwhile, Cu SAs are steadily anchored by Cu–O–Si bonds owing to the competitive coupling between Cu–O–Si anchoring and the attraction of Cu CLs (Supplementary Fig.
+36
+). Figure
+5h
+indicates that the confined zeolite cavity can effectively inhibit the growth and aggregation of Cu CLs under competitive coupling conditions, in which the Cu CLs can maintain a stable particle size within the cavity after ab initio molecular dynamics (AIMD) simulations even at high densities after 4 ps. Moreover, the AIMD simulation results imply that the evolution of Cu SAs and Cu CLs in CuZSM SACL (Fig.
+5i
+) and the coupling with CO–CO (Fig.
+5j
+) remain stable after 4 ps. However, the model catalysts constructed by loading Cu SAs and Cu CLs on the surface of carbon substrate undergo the rapid aggregation of SAs and CLs after 3–4 ps (Supplementary Fig.
+37
+). These simulations well illustrate that the presence of robust Cu–O–Si bonds and the confinement effect of zeolite cavities synergistically enable the exceptional stability of CuZSM SACL.
+Conclusion
+In summary, we have presented a ZSM-confined Cu strategy to create high-performing CuZSM SACL for CORR. Mechanistic and computational investigations collectively reveal that the synergistic and efficient C–C coupling of SA–CL can promote the dimerization reaction and stabilize the
+*
+CH
+2
+–CO intermediate, thus enhancing the production of acetate. Moreover, the formation of robust Cu–O–Si bonds within zeolite cavity substantially enhances the stability of Cu SAs, and the confinement effect of zeolite cavity effectively inhibits the growth and aggregation of Cu CLs during the CORR process. Consequently, the CuZSM SACL-based MEA enables an outstanding CO-to-acetate current density (up to 1.8 A cm
+−
+2
+) with a high acetate FE of 71 ± 3%. More importantly, we demonstrate that the Cu-based MEA can stably catalyse CO to acetate under an industrial current density of 1 A cm
+−
+2
+at 2.7 V (FE 61 ± 5%) for over 1,000 h at atmospheric pressure. The remarkable MEA stability of CuZSM SACL at a high current density surpasses that of all cutting-edge CORR catalysts reported hitherto. This milestone sheds light on high-performing Cu catalysts for practical applications in alkaline CORR electrolysers.
+Methods
+Synthesis of CuZSM SA, CuZSM SACL and CuZSM CLNP
+HZSM-5 and NaZSM-5 zeolites with SiO
+2
+/Al
+2
+O
+3
+ratios of 25, 38, 50 and 85 were obtained from Nankai University Catalyst Company and Zeolyst International. CuZSM SA was prepared by an ion exchange method
+37
+. Typically, 1 g of ZSM-5 was dispersed in 50 ml of ethanol by magnetic stirring. Subsequently, 10 mg of CuSO
+4
+·5H
+2
+O (Sinopharm Chemical Reagent) was ultrasonically dissolved in 50 ml of deionized water, and this solution was added into the ZSM-5 suspension. After vigorous stirring for 12 h, CuZSM SA was successfully obtained. The obtained products were thoroughly washed with deionized water and ethanol, followed by centrifugation. Subsequently, they were dried in an oven at 60 °C to remove any residual solvents, resulting in the final CuZSM SA product. The dried product was meticulously ground into a fine powder for further use. Subsequently, the porcelain boat-containing CuZSM SA was gradually heated to 550 °C at a heating rate of 5 °C min
+−
+1
+in a 5% H
+2
+/Ar atmosphere. The sample was maintained at this temperature for 6 h to ensure complete reduction. Upon natural cooling to room temperature, CuZSM SACL was successfully obtained. During the typical synthesis process of CuZSM CLNP, 1 g of ZSM-5 and 1 mg of CuSO
+4
+·5H
+2
+O were first mixed thoroughly grinding. Subsequently, the mixture was heated to 550 °C at a controlled heating rate of 5 °C min
+−
+1
+in a 5% H
+2
+/Ar atmosphere. It was maintained at this temperature for 6 h to ensure complete reduction. The sample was naturally cooled to room temperature, resulting in the formation of CuZSM CLNP. The product was washed with deionized water and ethanol, followed by centrifugation, and then dried overnight at 60 °C.
+Synthesis of Cu NPs-5 nm, Cu NPs-20 nm and Cu NPs-100 nm
+In a typical preparation of Cu NPs-5 nm, 13.3 mg Cu(acac)
+2
+(Sigma-Aldrich), 27 mg ascorbic acid (Sigma-Aldrich), 4 ml oleylamine (Sigma-Aldrich) and 1 ml oleic acid (Sinopharm Chemical Reagent) were mixed and ultrasonicated for approximately 0.5 h in a sealed vial (30 ml). Then, the vial was transferred into an oil bath and heated at 180 °C for 3 h (ref.
+38
+). The resulting colloidal products in the vial were collected by centrifugation and then washed with an ethanol/cyclohexane mixture to obtain Cu NPs-5 nm. The preparations of Cu NPs-20 nm and Cu NPs-100 nm were similar to that of Cu NPs-5 nm but without adding oleic acid and ascorbic acid, respectively.
+Characterizations
+XRD patterns were collected by a SmartLab-SE powder diffractometer operating with Cu Kα radiation (
+λ
+= 0.15406 nm). TEM was measured on a JEM-1400 TEM at an accelerating voltage of 100 kV. SEM-EDS was obtained through a ZEISS Sigma 300 field emission scanning electron microscope. In addition, AC-HAADF-STEM was captured using a JEOL GrandARM300F with double Cs correctors at an acceleration voltage of 300 kV. XPS measurements were performed on an ESCALAB 250 XI X-ray photoelectron spectrometer and Thermo Fisher Scientific K-Alpha with Al Kα radiation. The C 1
+s
+peak at 284.8 eV was used as a calibration standard. XAS spectra were acquired at the TLS 01C1 beamline of the National Synchrotron Radiation Research Center (NSRRC).
+CORR test in flow cell
+The CORR test was carried out in a flow cell that consisted of two electrolyte chambers (20 × 5 × 3 mm) and one gas chamber (20 × 5 × 5 mm). A Fumasep FAA-3-PK-130 anion exchange membrane was used as a separator. A catalyst-deposited gas diffusion electrode, an Ag/AgCl electrode in 4.0 M KCl solution and a platinum sheet with a thickness of 0.5 mm were utilized as the working electrode, reference electrode and counter electrode, respectively. To fabricate the working electrode, 4.5 mg catalyst was dispersed in 1 ml of cyclohexane with 20 µl of 5 wt% Nafion solution (Dupont, D-520), and then the solution was sprayed onto the surface of the gas diffusion layer (Sinero, YLS-30T). The working electrode was placed between gas and catholyte chambers to ensure CO diffusion and reaction at the catholyte/catalyst interface. The reference electrodes were inserted in the catholyte chamber and maintained at a specified distance with the working electrode. An electrochemical workstation (CHI660, Chenhua, Shanghai) with a current amplifier was used to perform the CORR test. KOH (1 M) was circulated through the electrolyte chambers under constant flow (20 ml min
+−
+1
+) via a peristaltic pump. CO was supplied into gas chambers by a mass-flow controller at a constant flow rate of 30 ml min
+−
+1
+. The CORR was tested via chronopotentiometry at differing currents for 0.5 h without iR correction. Gas and liquid products were analysed via GC (Techcomp, GC7980) and
+1
+H NMR (Bruker AVANCE III HD 500 MHz), respectively. The electrochemical impedance spectroscopy (350 mV overpotential) test was conducted from 1 Hz to 100 kHz with an amplitude of 10 mV.
+Electrode potentials were rescaled to the reversible hydrogen electrode (RHE) reference by
+$${E}_{\text{RHE}}={E}_{\text{vs Ag}/\text{AgCl}}+0.059\times \text{pH}+0.21$$
+(1)
+The FE for the formation of CORR products was computed by the following equation:
+$${\mathrm{FE}}={nZF}/Q={nZF}/(I\times t)$$
+(2)
+The formation rate (
+R
+) of each species was calculated using the following equation:
+$$R=(Q\times {\mathrm{FE}})/(96485\times Z\times t\times S)$$
+(3)
+where
+n
+signifies the total product,
+Z
+denotes the number of transferred electrons for each product,
+F
+stands the Faradaic constant,
+Q
+is the charge,
+I
+is the total current,
+t
+is the reaction time and
+S
+is the geometric area of the electrode (cm
+2
+).
+CORR test in MEA
+To prepare the cathode catalyst ink, 10 mg of catalysts was mixed with 1 ml of ethanol and 20 μl of a Nafion solution, followed by ultrasonic treatment for 1 h. CuZSM SACL was carefully sprayed onto the surface of carbon paper to prepare the cathode electrode with a catalyst loading of 1.5 mg cm
+−
+2
+, and an Ni–Fe/Ni foam was used as the anode electrode
+39
+. Subsequently, the cathode and anode electrodes were placed with a home-made poly(aryl-co-aryl piperidinium) anion exchange membrane to fabricate a CuZSM SACL-based MEA. Then, the MEA was assembled with two gaskets and two titanium backplates using a torque wrench to fabricate the cathode-dried CORR electrolyser, and KOH solution was fed in the anode only. The effects of catalyst loading, KOH concentration, liquid flow rate and ionomer content on the CORR performance of the CuZSM SACL-based MEA electrolyser under atmospheric pressure conditions were systematically investigated before recording current–voltage (
+I
+–
+V
+) curves. The measurement and analysis methods used in this study are in alignment with those utilized in the flow cell set-up.
+In situ XAS measurement
+In situ XAS measurements (XANES and EXAFS) of Cu K-edge were performed in fluorescence mode at the beamline BL14W1 of Shanghai Synchrotron Radiation Facility. The XAS was measured using a custom-made electrochemical flow cell. A CuZSM SACL-coated carbon paper, an Ag/AgCl electrode (4.0 M KCl) and a platinum wire were utilized as the working electrode, reference electrode and counter electrode, respectively. The electrochemical measurements were performed in a 1 M KOH aqueous solution. The XAS measurements were conducted at −0.9 V versus RHE, and the XAS spectra were collected at an angle of 45° with respect to the detector and beamline. The acquired XANES and EXAFS data were processed using the Athena programme.
+In situ ATR-FTIR measurement
+Electrochemical in situ ATR-FTIR was utilized to track the signals of the intermediates using Nicolet Nexus 6700 spectroscopy equipped with a liquid nitrogen-cooled mercury-cadmium-telluride detector. The set-up included an ECIR-II cell, supplied by Shanghai Linglu Instrument & Equipment, which featured a Pike Veemax III ATR in a three-electrode configuration. To enhance signal intensity, the monocrystalline silicon surface was initially coated with a layer of gold using the chemical plating technique. Subsequently, 20 μl of catalyst ink was dispensed onto the gold-coated surface, serving as the working electrode. A platinum sheet served as the counter electrode, while an Ag/AgCl electrode acted as the reference electrode. Before initiating the test, the electrolyte was purged with CO feeding gas for 30 min and maintained with continuous bubbling throughout the entire measurement process. Before initiating the test, the potential-dependent in situ ATR-FTIR tests were carried out with the linear sweep voltammetry test from −0.3 V to −1.0 V (versus RHE) with a scan rate of 5 mV s
+−
+1
+.
+ECSA measurement
+ECSA was measured by double-layer capacitance in a flow cell. For the double-layer capacitance method, cyclic voltammetry scans were conducted at the potential range from 0.136 V to 0.236 V versus RHE with increasing scan rates of 10 mV s
+−
+1
+, 20 mV s
+−
+1
+, 40 mV s
+−
+1
+, 60 mV s
+−
+1
+, 80 mV s
+−
+1
+and 100 mV s
+−
+1
+. The capacitance currents at 0.186 V versus RHE were plotted against the scan rates, and the double-layer capacitor (
+C
+dl
+)(mF cm
+−
+2
+) was derived from the slope according to the following:
+$${C}_{\text{dl}}=I/v$$
+(4)
+where
+I
+denotes the capacitance current (half of the difference between the anodic current density and cathodic current density) and
+v
+is the scan rate.
+Theoretical calculations
+The calculations for this study were conducted by using DFT in the Vienna Ab initio Simulation Package (VASP)
+40
+,
+41
+. The interactions between ions and electrons were described using the projector-augmented wave method
+42
+. The valence electrons were considered using a plane wave basis set with an energy cut-off of 520 eV, which ensured accurate total energy calculations. The exchange-correlation energy of the interacting electrons was determined using the Perdew–Burke–Ernzerhof functionals within the generalized gradient approximation
+43
+,
+44
+. The electronic convergence criterion was set to 10
+−
+6
+eV, and the ionic convergence criterion was set to 10
+−
+2
+eV Å
+−
+1
+. The van der Waals interaction was included using Grimme’s scheme (DFT-D3)
+45
+. The adsorption energies relevant to the possible stable configuration of the CORR intermediate products, that is,
+*
+CO–CO,
+*
+CO–COH,
+*
+COH–COH,
+*
+C–CO,
+*
+CH–CO,
+*
+CH
+2
+–CO and CH
+3
+–COOH, were used to construct free energy diagrams. The Gibbs free energies of these molecules as a result of electrochemical adsorption reactions are calculated using the following equation:
+$$\Delta G=\Delta {E}_{\mathrm{tot}}+\Delta {E}_{\mathrm{ZPE}}-{T}\Delta {S}$$
+(5)
+where Δ
+E
+tot
+is the change in total energy obtained from DFT, and Δ
+E
+ZPE
+and Δ
+S
+are the changes in zero-point energy and entropy under standard conditions.
+In the computational hydrogen electrode model, at 0 V (versus RHE), the chemical potential of a proton–electron pair,
+μ
+(H
++
+) +
+μ
+(e
+−
+), is equal to half of the chemical potential of the gas-phase hydrogen molecule, 1/2
+μ
+(H
+2
+(g)), at 101,325 Pa, at all pH values and at all temperatures. Consequently, the chemical potential of the proton–electron pair can be adjusted as a function of applied potential by the standard relation between chemical and electrical potentials, Δ
+μ
+= −
+eU
+. Thus, the total value of
+μ
+(H
++
+) +
+μ
+(e
+−
+) as a function of applied potential at all temperatures and pH values can be expressed as follows:
+$${\rm{\mu }}\left({\text{H}}^{+}\right)+{\rm{\mu }}\left({\text{e}}^{-}\right)=\frac{1}{2}{\rm{\mu }}({\text{H}}_{2}(\text{g}))-{eU}$$
+(6)
+The free energy change for each intermediate step that involves a proton–electron pair transfer will be a function of
+U
+. Compared with zero applied potential, the free energies of the adsorbates with
+n
+pairs of electron–proton, referenced to H
+2
+O (g), will decrease by
+ne
+U
+at an electrical potential of
+U
+V.
+Data availability
+All data supporting the findings of this study are available in the provided Source data and the Supplementary Information. Additional data are also available from the corresponding authors upon reasonable request.
+Source data
+are provided with this paper.
+Code availability
+The computational codes used in this work are available from the corresponding authors upon reasonable request.
+References
+Overa, S. et al. Enhancing acetate selectivity by coupling anodic oxidation to carbon monoxide electroreduction.
+Nat. Catal.
+5
+, 738–745 (2022).
+Article
+CAS
+Google Scholar
+Shin, H., Hansen, K. U. & Jiao, F. Techno-economic assessment of low-temperature carbon dioxide electrolysis.
+Nat. Sustain.
+4
+, 911–919 (2021).
+Article
+Google Scholar
+Wang, H. et al. CO
+2
+electrolysis towards acetate: a review.
+Curr. Opin. Electrochem.
+39
+, 101253 (2023).
+Article
+CAS
+Google Scholar
+Qian, Q., Zhang, J., Cui, M. & Han, B. Synthesis of acetic acid via methanol hydrocarboxylation with CO
+2
+and H
+2
+.
+Nat. Commun.
+7
+, 11481 (2016).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Jouny, M., Hutchings, G. S. & Jiao, F. Carbon monoxide electroreduction as an emerging platform for carbon utilization.
+Nat. Catal.
+2
+, 1062–1070 (2019).
+Article
+CAS
+Google Scholar
+Zheng, T. et al. Upcycling CO
+2
+into energy-rich long-chain compounds via electrochemical and metabolic engineering.
+Nat. Catal.
+5
+, 288–396 (2022).
+Article
+Google Scholar
+Rong, Y. et al. Directing the selectivity of CO electrolysis to acetate by constructing metal-organic interfaces.
+Angew. Chem. Int. Ed.
+62
+, e202309893 (2023).
+Article
+CAS
+Google Scholar
+Wang, X. et al. Site-selective protonation enables efficient carbon monoxide electroreduction to acetate.
+Nat. Commun.
+15
+, 616 (2024).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Yang, T. et al. Interfacial synergy between the Cu atomic layer and CeO
+2
+promotes CO electrocoupling to acetate.
+ACS Nano
+17
+, 8521–8529 (2023).
+Article
+PubMed
+CAS
+Google Scholar
+Yan, X. et al. Synergy of Cu/C
+3
+N
+4
+interface and Cu nanoparticles dual catalytic regions in electrolysis of CO to acetic acid.
+Angew. Chem. Int. Ed.
+62
+, e202301507 (2023).
+Article
+CAS
+Google Scholar
+Hendrik, H. H. et al. The mechanism for acetate formation in electrochemical CO
+(2)
+reduction on Cu: selectivity with potential, pH, and nanostructuring.
+Energy Environ. Sci.
+15
+, 3978 (2022).
+Article
+Google Scholar
+Kim, J. Y. T., Sellers, C., Hao, S., Senftle, T. P. & Wang, H. Different distributions of multi-carbon products in CO
+2
+and CO electroreduction under practical reaction conditions.
+Nat. Catal.
+6
+, 1115–1124 (2023).
+Article
+CAS
+Google Scholar
+Wei, P. et al. Coverage-driven selectivity switch from ethylene to acetate in high-rate CO
+2
+/CO electrolysis.
+Nat. Nanotechnol.
+18
+, 299–306 (2023).
+Article
+PubMed
+CAS
+Google Scholar
+Chang, B. et al. Electrochemical reduction of carbon dioxide to multicarbon (C
+2+
+) products: challenges and perspectives.
+Energy Environ. Sci.
+16
+, 4714 (2023).
+Article
+CAS
+Google Scholar
+Li, J. et al. Constraining CO coverage on copper promotes high-efficiency ethylene electroproduction.
+Nat. Catal.
+2
+, 1124–1131 (2019).
+Article
+CAS
+Google Scholar
+Niu, W. et al. Pb-rich Cu grain boundary sites for selective CO-to-
+n
+-propanol electroconversion.
+Nat. Commun.
+14
+, 4882 (2023).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Song, Y., Zhang, X., Xie, K., Wang, G. & Bao, X. High-temperature CO
+2
+electrolysis in solid oxide electrolysis cells: developments, challenges, and prospects.
+Adv. Mater.
+31
+, 1902033 (2019).
+Article
+CAS
+Google Scholar
+Wu, Y., Jiang, Z., Lu, X., Liang, Y. & Wang, H. Domino electroreduction of CO
+2
+to methanol on a molecular catalyst.
+Nature
+575
+, 639–642 (2019).
+Article
+PubMed
+CAS
+Google Scholar
+Zhong, M. et al. Accelerated discovery of CO
+2
+electrocatalysts using active machine learning.
+Nature
+581
+, 178–183 (2020).
+Article
+PubMed
+CAS
+Google Scholar
+Choi, C. et al. Highly active and stable stepped Cu surface for enhanced electrochemical CO
+2
+reduction to C
+2
+H
+4
+.
+Nat. Catal.
+3
+, 804–812 (2020).
+Article
+CAS
+Google Scholar
+Wu, Z. Z. et al. Gerhardtite as a precursor to an efficient CO-to-acetate electroreduction catalyst.
+J. Am. Chem. Soc.
+145
+, 24338–24348 (2023).
+Article
+PubMed
+CAS
+Google Scholar
+Ji, Y. et al. Selective CO-to-acetate electroreduction via intermediate adsorption tuning on ordered Cu–Pd sites.
+Nat. Catal.
+5
+, 251–258 (2022).
+Article
+CAS
+Google Scholar
+Jin, J. et al. Constrained C
+2
+adsorbate orientation enables CO-to-acetate electroreduction.
+Nature
+617
+, 724–729 (2023).
+Article
+PubMed
+CAS
+Google Scholar
+Ma, G. et al. A hydrophobic Cu/Cu
+2
+O sheet catalyst for selective electroreduction of CO to ethanol.
+Nat. Commun.
+14
+, 501 (2023).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Fang, M. et al. Hydrophobic, ultrastable Cu
+δ+
+for robust CO
+2
+electroreduction to C
+2
+products at ampere-current levels.
+J. Am. Chem. Soc.
+145
+, 11323–11332 (2023).
+Article
+PubMed
+CAS
+Google Scholar
+Jin, Z. et al. Hydrophobic zeolite modification for in situ peroxide formation in methane oxidation to methanol.
+Science
+367
+, 193–197 (2020).
+Article
+PubMed
+CAS
+Google Scholar
+Yang, T. et al. Coordination tailoring of Cu single sites on C
+3
+N
+4
+realizes selective CO
+2
+hydrogenation at low temperature.
+Nat. Commun.
+12
+, 6022 (2021).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Zheng, T. et al. Copper-catalysed exclusive CO
+2
+to pure formic acid conversion via single-atom alloying.
+Nat. Nanotechnol.
+16
+, 1386–1393 (2021).
+Article
+PubMed
+CAS
+Google Scholar
+Li, J. et al. Electrokinetic and in situ spectroscopic investigations of CO electrochemical reduction on copper.
+Nat. Commun.
+12
+, 3264 (2021).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Chen, N. et al. High-performance anion exchange membrane water electrolyzers with a current density of 7.68 A cm
+−2
+and a durability of 1000 hours.
+Energy Environ. Sci.
+14
+, 6338–6348 (2021).
+Article
+CAS
+Google Scholar
+Delmo, E. P. et al. In situ infrared spectroscopic evidence of enhanced electrochemical CO
+2
+reduction and C–C coupling on oxide-derived copper.
+J. Am. Chem. Soc.
+46
+, 1935–1945 (2024).
+Article
+Google Scholar
+Li, J. et al. Selective CO
+2
+electrolysis to CO using isolated antimony alloyed copper.
+Nat. Commun.
+14
+, 340 (2023).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Wen, Y. et al. Cu
+7
+S
+4
+nanosheets enriched with Cu–S bond for highly active and selective CO
+2
+electroreduction to formate.
+J. Mater. Chem. A
+11
+, 10823–10827 (2023).
+Article
+CAS
+Google Scholar
+Jiang, H. et al. Light-driven CO
+2
+methanation over Au-grafted Ce
+0.95
+Ru
+0.05
+O
+2
+solid-solution catalysts with activities approaching the thermodynamic limit.
+Nat. Catal.
+6
+, 519–530 (2023).
+Cai, J. et al. Highly selective electrochemical reduction of CO
+2
+into methane on nanotwinned Cu.
+J. Am. Chem. Soc.
+145
+, 9136–9143 (2023).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Zhuansun, M. et al. Promoting CO
+2
+electroreduction to multi-carbon products by hydrophobicity-induced electro-kinetic retardation.
+Angew. Chem. Int. Ed.
+62
+, e202309875 (2023).
+Article
+CAS
+Google Scholar
+Qi, G. et al. Au-ZSM-5 catalyses the selective oxidation of CH
+4
+to CH
+3
+OH and CH
+3
+COOH using O
+2
+.
+Nat. Catal.
+5
+, 45–54 (2022).
+Article
+CAS
+Google Scholar
+Wang, P. et al. Phase and structure engineering of copper tin heterostructures for efficient electrochemical carbon dioxide reduction.
+Nat. Commun.
+9
+, 4933 (2018).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Ren, W., Ma, W. & Hu, X. Tailored water and hydroxide transport at a quasi-two-phase interface of membrane electrode assembly electrolyzer for CO electroreduction.
+Joule
+7
+, 2349–2360 (2023).
+Article
+CAS
+Google Scholar
+Kresse, G. & Hafner, J. Ab initio molecular dynamics for liquid metals.
+Phys. Rev. B
+47
+, 558 (1993).
+Article
+CAS
+Google Scholar
+Kresse, G. & Hafner, J. Ab initio molecular-dynamics simulation of the liquid-metal-amorphous-semiconductor transition in germanium.
+Phys. Rev. B
+49
+, 14251 (1994).
+Article
+CAS
+Google Scholar
+Kresse, G. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169 (1996).
+Article
+CAS
+Google Scholar
+Blochl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953 (1994).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmuller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865 (1996).
+Article
+PubMed
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This work was financially supported by the National Key R&D Program of China (2022YFA1504500 and 2024YFA1509500 to X.H.), the National Natural Science Foundation of China (22025108, U21A20327 and 22121001 to X.H.), the National Natural Science Foundation of China (22475181 to N.C.), the Fundamental Research Funds for the Central Universities of China (20720240059 to N.C.), the Postdoctoral Fellowship Program of CPSF (GZB20240393 to C.Z.), the start-up funding from Xiamen University National Key Research, the National Key Research and Development Program of China (2021YFB2500303 to D.S.), the National Natural Science Foundation of China (22075317, U21A20328, 22105220 and 52101277 to D.S.), the Strategic Priority Research Program (B) (XDB33030200 to D.S.) and the Project Funded by China Postdoctoral Science Foundation (2021M703457 to X.L.). We thank beamline BL14W1 (Shanghai Synchrotron Radiation Facility) for providing the beam time. We acknowledge support from the Max Planck-POSTECH-Hsinchu Center for Complex Phase Materials.
+Author information
+Author notes
+These authors contributed equally: Yan Wen, Changhong Zhan, Jiacheng Liu.
+Authors and Affiliations
+State Key Laboratory of Physical Chemistry of Solid Surfaces, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen, China
+Yan Wen, Changhong Zhan, Jiacheng Liu, Xinxin Zhuang, Siyu Liu, Tang Yang, Wenqiang Liu, Nanjun Chen & Xiaoqing Huang
+Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, Beijing, China
+Xiaozhi Liu & Dong Su
+National Synchrotron Radiation Research Center, Hsinchu, Taiwan
+Cheng-Wei Kao, Yu-Cheng Huang & Ting-Shan Chan
+College of Chemistry, Max Planck Institute for Chemical Physics of Solids, Dresden, Germany
+Zhiwei Hu
+Department of Materials Science and Engineering, College of Materials, Xiamen University, Xiamen, China
+Jiajia Han
+Innovation Laboratory for Sciences and Technologies of Energy Materials of Fujian Province (IKKEM), Xiamen, China
+Nanjun Chen & Xiaoqing Huang
+Authors
+Yan Wen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Changhong Zhan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiacheng Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xinxin Zhuang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Siyu Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tang Yang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wenqiang Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaozhi Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Cheng-Wei Kao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yu-Cheng Huang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ting-Shan Chan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhiwei Hu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dong Su
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiajia Han
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Nanjun Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaoqing Huang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+X.H. and N.C. conceived and supervised the research. Y.W., C.Z. and J.L. designed and conducted the experiments. N.C., Y.W., C.Z. and J.L. wrote the draft. N.C. and X.H. edited the paper. J.H. conducted the DFT calculations. D.S., X.L. and C.Z. performed the AC-HAADF-STEM measurements. C.Z., S.L., J.L., T.Y. and W.L. helped for the materials synthesis. C.Z., C.-W.K., Y.-C.H., T.-S.C. and Z.H. performed the XAS analysis. X.Z. performed in situ ATR-FTIR testing. All authors discussed the results and commented on the paper.
+Corresponding authors
+Correspondence to
+Nanjun Chen
+or
+Xiaoqing Huang
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Nanotechnology
+thanks the anonymous reviewers for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–37 and Tables 1–13.
+Supplementary Data 1
+1
+H NMR spectrum of the electrolyte to analyse liquid products after CORR testing in a flow cell in 1 M KOH.
+Supplementary Data 2
+1
+H NMR spectrum of the electrolyte to analyse the liquid products after CORR in MEA.
+Source data
+Source Data Fig. 1
+Statistical source data for Fig. 1.
+Source Data Fig. 2
+Statistical source data for Fig. 2.
+Source Data Fig. 3
+Statistical source data for Fig. 3.
+Source Data Fig. 4
+Statistical source data for Fig. 4.
+Source Data Fig. 5
+Statistical source data for Fig. 5.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Wen, Y., Zhan, C., Liu, J.
+et al.
+Zeolite-confined Cu single-atom clusters stably catalyse CO to acetate at 1 A cm
+−
+2
+beyond 1,000 h.
+Nat. Nanotechnol.
+(2025). https://doi.org/10.1038/s41565-025-01892-6
+Download citation
+Received
+:
+26 September 2024
+Accepted
+:
+17 February 2025
+Published
+:
+17 March 2025
+DOI
+:
+https://doi.org/10.1038/s41565-025-01892-6
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Advisory Panel
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Nanotechnology
+(
+Nat. Nanotechnol.
+)
+ISSN
+1748-3395
+(online)
+ISSN
+1748-3387
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

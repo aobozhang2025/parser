@@ -1,0 +1,1709 @@
+Rechargeable carbonaceous geosupercapacitor for sustainable superoxide generation and pollutant abatement | Nature Water
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature water
+articles
+article
+Rechargeable carbonaceous geosupercapacitor for sustainable superoxide generation and pollutant abatement
+Download PDF
+Article
+Published:
+14 May 2024
+Rechargeable carbonaceous geosupercapacitor for sustainable superoxide generation and pollutant abatement
+Liping Fang
+ORCID:
+orcid.org/0000-0003-4609-1190
+1
+na1
+,
+Kai Liu
+1
+na1
+,
+Ling Xu
+1
+,
+Fengchang Wu
+2
+,
+Thomas Borch
+ORCID:
+orcid.org/0000-0002-4251-1613
+3
+&
+…
+Fangbai Li
+ORCID:
+orcid.org/0000-0001-9027-9313
+1
+Show authors
+Nature Water
+volume
+2
+,
+pages
+485–495 (
+2024
+)
+Cite this article
+1434
+Accesses
+13
+Altmetric
+Metrics
+details
+Subjects
+Pollution remediation
+Abstract
+Reactive oxygen species enable efficient oxidative removal or detoxification of pollutants in water but traditional approaches for reactive oxygen species generation are chemically demanding, which limits their practical applications. Herein, we demonstrate a sustainable and chemical-free superoxide (O
+2
+•−
+) generation strategy by integrating rechargeable carbonaceous supercapacitors with redox-moiety-based O
+2
+activation, which is distinct from production using traditional electrocatalysis. Highly porous carbonaceous geosupercapacitors were developed by pyrolysing cattle bones consisting of macromolecules interlinked with abundant minerals, followed by acid etching. Porous geosupercapacitors exhibit high capacitances and excellent electron-transfer efficiencies for O
+2
+activation as a result of their abundant carbon defects and redox-active quinone moieties, thereby effectively transferring electrons to O
+2
+to form O
+2
+•−
+radicals. Electrochemical analysis shows that the electron-transfer rate of the carbonaceous geosupercapacitor is orders of magnitude higher than that of traditional biochar, notably promoting electron transfer and O
+2
+activation. This geosupercapacitor possesses excellent electron rechargeability and a stable capacitance, enabling sustainable O
+2
+•−
+production off-line. The utility of this green O
+2
+•−
+producing system is confirmed in different scenarios, such as stable performance in complex matrices, treating diverse redox-active pollutants and development of a portable chargeable device.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Eucalyptus derived heteroatom-doped hierarchical porous carbons as electrode materials in supercapacitors
+Article
+Open access
+03 September 2020
+Electrochemical regeneration of high-purity CO
+2
+from (bi)carbonates in a porous solid electrolyte reactor for efficient carbon capture
+Article
+11 October 2024
+Combined effect of nitrogen-doped functional groups and porosity of porous carbons on electrochemical performance of supercapacitors
+Article
+Open access
+15 September 2021
+Main
+Chemical oxidative transformation of organic pollutants and heavy metals (for example, As(III)) by reactive oxygen species (ROS) is a well-recognized strategy for environmental remediation
+1
+but traditional approaches for ROS production, such as Fenton or Fenton-like reactions, face limitations including the need for large amounts of chemical (for example, H
+2
+O
+2
+and Fe(II)) inputs and the excessive production of iron sludge
+2
+, which thus hinders their practical applications
+3
+. Alternatively, direct activation of oxygen (O
+2
+) to generate superoxide (O
+2
+•−
+) radicals is receiving ever-increasing attention
+4
+because of its green nature and because O
+2
+can be directly acquired from the atmosphere and thus avoids the transportation of chemicals. Although the rate constants of O
+2
+•−
+radicals reaction with various organic pollutants are found to be relatively lower than other potent ROS, such as hydroxyl radical (•OH) (ref.
+5
+), extensive research has shown its effectiveness in pollutant oxidation
+6
+. As a result, it has become one of the attractive technologies in water treatments
+7
+, particularly exhibiting great potential for developing portable devices for decentralized water treatments in rural areas. Several O
+2
+activators (that is, electron donors), such as Fe(II) and carbonaceous materials, have been explored
+8
+; among these, biomass-derived carbonaceous materials, such as biochar, possessing redox-active moieties (for example, phenolic-OH and semiquinone), are ideal candidates for O
+2
+•−
+generation because chemical additives are not needed during their production process
+9
+,
+10
+.
+Generation of O
+2
+•−
+radicals by the activators involves a one-electron-transfer (ET) process towards O
+2
+and its production efficiency is highly dependent on both the electron capacity and ET efficiency of the carbonaceous materials which is influenced by the pyrolysis process of biomass precursors
+11
+. The macromolecules in biomass (for example, lignin and cellulose) can be cleaved or polymerized at different locations under O
+2
+-free/limited conditions at elevated temperatures and subsequently, phenolic-OH and semiquinone moieties are formed on graphite-like sheets in an electron-rich state
+12
+. Evidence suggests that these moieties
+13
+probably act as the reaction sites for O
+2
+activation and can form at a temperature range of 300–500 °C (refs.
+14
+,
+15
+). However, pyrolysis at low temperature leads to poor conductivity of the carbonaceous matrix and thus limits the proposed ET process and therefore O
+2
+activation
+16
+. The lack of a suitable porous structure and specific surface area (SSA) for these carbonaceous materials is another obstacle limiting their electron capacities. Additionally, there is also little development in the reusability of carbonaceous materials (for example, biochar) in O
+2
+activation because of the challenge of electron recharging and storage, which has become a major obstacle for sustainable O
+2
+•−
+production towards green remediation.
+Carbonaceous supercapacitors which can constantly perform several charging/discharging cycles, have been well documented in the field of energy storage
+17
+,
+18
+. Strategies for preparing carbonaceous supercapacitors have been established by using sol–gel processes (bottom-up) or directly using biomass (top-down) in pyrolysis, which favours electron preservation in the electrochemical double layer
+19
+. Such conceptual frameworks offer ideal platforms for developing supercapacitor-like O
+2
+activators for sustainable O
+2
+•−
+production. Furthermore, animal skeletons (for example, cattle bones) consist of abundant minerals (for example, Ca
+3
+(PO
+4
+)
+2
+) (as the template) intertwined with macromolecules
+8
+,
+20
+making them ideal precursors for the top-down preparation of highly porous carbonaceous supercapacitors.
+In this work, we report a chemical-free and green O
+2
+•−
+generation strategy with a rechargeable porous carbonaceous material (denoted hereafter as carbonaceous geosupercapacitors (CGs)), directly through O
+2
+activation in water (Fig.
+1a
+). This CG material was directly prepared by simply pyrolysing cattle bones under O
+2
+-free conditions at high temperatures followed by acid etching. Arsenite (As(III)), a widespread toxic metalloid in waters and aquifers
+21
+, was chosen as a representative pollutant and additional pollutants, including dyes (rhodamine B dye (RB), methyl orange (MO), methylene blue (MB)), tetracycline (TC), tetrabromobisphenol A (TBBPA) and Cr(VI), were used to verify the broad applicability of this technology. The reusability of developed CG for sustainable pollutant oxidation was further determined through electron recharging/refilling. The possibility of extending this O
+2
+•−
+producing system to obtain other potent ROS such as •OH radicals was also determined by a simple combination with iron oxides. A CG-embedded portable continuous-flow device was fabricated to demonstrate the potential value of this proposed system for water treatment.
+Fig. 1: Preparation and characterization of CGs.
+a
+, Illustration of the procedure for preparing the cattle bone-derived CGs and the putative principle for sustainable O
+2
+•−
+production.
+b
+, XRD patterns of CG750–1,050.
+c
+, Nitrogen (N
+2
+) absorption–desorption isotherms and pore volume distributions of CG750–1,050,
+P
+and
+P
+0
+represent equilibrium and saturated vapor pressure, respectively.
+d
+, Raman spectra of CG750–1,050.
+e
+, EPR spectra of the CG950 and biochar powders.
+f
+, High-resolution XPS C 1 s spectra fitting results of CG950.
+g
+, The peak area of Peak2 (surface defects of carbon) relative to Peak1 (graphitic structure) of CG750–1,050 based on the C 1 s XPS spectra.
+h
+, CV scanning of CG750–1,050, the electrolyte was maintained with 0.1 M KCl and the scan rate was 0.02 V s
+−1
+.
+i
+, EAC and EDC of the biochar and CG750–1,050 (data are presented as mean ± s.d. (
+n
+= 2)); the added content of biochar and CG750–1,050 for the EAC or EDC analysis was 0.8 mg, significance differences are indicated by different letters (two-sided),
+P
+< 0.05).
+j
+, FTIR spectra of CG750–950. Panel
+a
+created with
+BioRender.com
+.
+Source data
+Full size image
+Characterization of CGs
+Cattle-bone-derived CGs (that is, CG
+x
+, where
+x
+represents pyrolysis temperature) were successfully synthesized. Scanning electron microscopy images show that the CG750–1,050 samples exhibit a highly porous structure after acid etching (Supplementary Fig.
+1
+) and these intertwined mineral particles can be assigned to Ca
+5
+(PO
+4
+)OH (PDF no. 09-0432) on the basis of our X-ray diffraction (XRD) analysis (Fig.
+1b
+and Supplementary Fig.
+2
+). Two broad peaks at 20°–30° and 43° corresponding to the (002) and (100) facets of crystalline carbon, respectively, were observed for CG750–1,050 (Fig.
+1b
+), of which the XRD intensity gradually increases with increasing pyrolysis temperature, indicating the formation of a highly graphitic structure
+18
+,
+22
+. Acid etching leads to substantially enhanced SSAs for CGs and the highest value of 1,002.6 m
+2
+g
+−1
+is obtained for CG950 (Fig.
+1c
+, Supplementary Fig.
+3
+and Supplementary Table
+1
+), which is higher than those for plant-derived biochar (for example, 0.8–285 m
+2
+g
+−1
+) as previously reported
+12
+, thereby providing potential reaction sites for O
+2
+adsorption and activation
+23
+. CG950 also has a large pore volume of 2.75 cm
+3
+g
+−1
+and large pore sizes up to 80 nm (Fig.
+1c
+), indicating the abundance of macroporous and mesoporous structures in its carbon matrix.
+The Raman spectra of the CGs show two peaks centred at 1,340 and 1,590 cm
+−1
+assigned to the D-band (disordered carbon) and G-band (graphitized carbon), respectively (Fig.
+1d
+). According to the ratio of the D-band to G-band (
+I
+D
+/
+I
+G
+) representing the defect degree in CGs
+24
+, calculations indicate that the
+I
+D
+/
+I
+G
+value of CGs increases with increasing pyrolysis temperature and reaches 1.20 at 950 °C (that is, CG950). The electron paramagnetic resonance (EPR) spectra of the CG reflect their spin dynamics in a graphite-like structure; a classic Lorentizian shape (
+g
+= 2; the
+g
+-factor is a unitless measurement of the intrinsic magnetic moment of the electron) with a considerably stronger signal intensity is revealed for CG950 compared to that of biochar (Fig.
+1e
+), suggesting the generation of extra delocalized electrons in CG
+25
+. For comparison, biochar was produced from palm leaves at 550 °C resulting in SSA that was notably lower (1.43 m
+2
+g
+−1
+; Supplementary Table
+1
+) than CGs. X-ray photoelectron spectroscopy (XPS) spectra of the CG samples also reveal two dominant peaks at 284.6 eV (denoted as Peak1) and 285.2 eV (denoted as Peak2), corresponding to the graphitic structure and defective carbon, respectively
+26
+,
+27
+. The highest Peak2/Peak1 ratio of 0.62 is obtained for CG950 (Fig.
+1f,g
+and Supplementary Fig.
+4
+), in agreement with our XRD and Raman results. The high-resolution transmission electron microscopy images depict the presence of significant amounts of cavities (that is, defects) in the graphite-like sheets (Supplementary Fig.
+5
+)
+28
+.
+Furthermore, we used cyclic voltammetry (CV) to evaluate the electrochemical property of the CGs. A typical feature of the EDL capacitor has been observed for CGs
+29
+and a specific capacitance of 196.17 F g
+−1
+is obtained for CG950 which is noticeably higher than those for other CGs (19.39–62.72 F g
+−1
+) and biochar (~1.04 F g
+−1
+) (Fig.
+1h
+and Supplementary Fig.
+6
+), probably benefiting from its superiority of a highly porous structure
+29
+. To quantitatively evaluate the electron exchanging capabilities of CGs
+15
+, two electrochemical parameters, namely, electron-accepting capacity (EAC) and electron donor capacity (EDC), were further measured. Figure
+1i
+illustrates that the EAC of CGs gradually increases with pyrolysis temperature and reaches the optimum of 0.60 mmol e
+−
+per g for CG950, which is considerably higher than their respective EDC (0.07–0.11 mmol e
+−
+per g C) (Fig.
+1i
+), indicating the preference of CGs for storing and charging electrons. More importantly, the EDC and EAC of CG950 are found considerably higher than that of biochar (0.03–0.04 mmol e
+−
+per g C for EDC; 0.04–0.29 mmol e
+−
+per g C for EAC) (Fig.
+1i
+), showing its potential advantage in ET
+14
+. Furthermore, Fourier transform infrared spectroscopy (FTIR) analysis was adopted to identify the potential redox-active groups (for example, quinoids) on CGs which may act as reaction sites for O
+2
+adsorption and activation
+14
+,
+15
+. A characteristic peak at ~1,600 cm
+−1
+is attributed to the stretching vibration of quinoid groups (C=O and C=C) on CGs and is evidenced in CG750–850 (Fig.
+1j
+)
+16
+,
+30
+. This peak positively shifts by ~40 cm
+−1
+by further increasing pyrolysis temperature (Fig.
+1j
+). Such a change implies enhanced electron delocalization and reduced resonance energy in CG950. Thus, the cumulative evidence explicitly demonstrates the presence of significant amounts of defects and redox-active quinoid groups which probably favour ET from CGs towards the surface-bound O
+2
+.
+Radical identification
+We evaluated the capability of CG for O
+2
+activation and As(III) oxidation using CG950 as a representative. Three scavengers were used to probe the underlying ROS responsible for As(III) oxidation (that is, methanol (MT) and isopropanol (IPA) for •OH and 1,4-benzoquinone (BEQ) for O
+2
+•−
+)
+13
+,
+14
+. Figure
+2a
+shows that As(III) is completely oxidized to As(V) in the presence of CG950 under oxic conditions (pH 7.5), while the As(III) oxidation ratio decreases by 95% in the presence of BEQ, indicating the presence of O
+2
+•−
+radicals and their efficiency towards As(III) oxidation
+30
+; more importantly, the addition of MT or IPA negligibly affects As(III) oxidation (Fig.
+2a
+), implying that O
+2
+•−
+radials are the sole ROS formed and are exclusively responsible for As(III) oxidation in our reaction system. EPR analysis captured a typical 1:1:1:1 tetraploid assigned to the 5,5-dimethyl-1-pyrroline-
+N
+-oxide (DMPO)–O
+2
+•−
+adduct
+31
+in the CG950 suspension under oxic conditions (Fig.
+2b
+). Furthermore, the cumulative O
+2
+•−
+concentration in the CG950 system is found to be ~2.0 μmol g
+−1
+(reaction time 1 h), which is significantly higher than that (~0) by biochar (Fig.
+2c
+), showing the superiority of CG950 as an O
+2
+activator over traditional carbonaceous materials. These results consistently confirm that CG (CG950) is capable of activating O
+2
+to form O
+2
+•−
+radicals probably through a one-ET process between quinoid groups and O
+2
+in our reaction systems. Since quinoid C=O groups act as reaction sites of CG for ET with O
+2
+through its intermediate semiquinone radical (SQ
+•−
+) (
+E
+°ʹ(Q/SQ
+•−
+) = +99 mV), the change in the redox-active quinone groups on CG before and after the reactions was evaluated by XPS. The results show that the quinoid C=O content of CG950 decreases by 22.7% after reactions, which is more than those (10%–20.8%) of other CGs (Supplementary Figs.
+2d
+and
+7
+and Supplementary Table
+2
+), confirming the key role of these quinoid C=O groups as reaction sites in O
+2
+•−
+production and As(III) oxidation.
+Fig. 2: Superoxide radical identification and its generation mechanism.
+a
+, Effect of MT, IPA and BEQ on the oxidation of As(III) by CG950 at pH 7.5 under oxic conditions (data are presented as mean ± s.d. (
+n
+= 2)).
+b
+, EPR spectra of DMPO–O
+2
+•−
+adducts formed in the CG950 suspension after exposure to O
+2
+in MT at pH 7.5 under oxic conditions.
+c
+, Changes of the O
+2
+•−
+cumulative concentrations in the presence of CG950 and biochar without adding As(III) at pH 7.5 (data are presented as mean ± s.d. (
+n
+= 2)).
+d
+, The change of C=O content in CG750–1,050 based on the O 1 s XPS spectra quantitative analysis before and after As(III) oxidation.
+Source data
+Full size image
+Efficient oxidation of As(III) by CG
+After confirming the formation of O
+2
+•−
+radicals activated by CG and its predominant role in As(III) oxidation, the performance of the four CGs (CG750–1,050) on As(III) oxidation was compared at pH 7.5. Our results show that compared to other CGs, CG950 exhibits the highest oxidation extent of ~100% (~40.1% for CG850 and ~69.4% for CG1050) (Fig.
+3a
+), which is consistent with the structure and electrochemical evidence of CG950. The oxidation extents of As(III) were further normalized to the surface area of different CGs to identify the potential role of SSA and results indicate that CG950 still exhibits the highest As(III) oxidation extent per unit of SSA (0.10% per m
+2
+g
+−1
+) compared with CG850 (0.05% per m
+2
+g
+−1
+); however, the reactivity of CH950 was comparable to CG1050 (0.09% per m
+2
+g
+−1
+). This finding suggests that the superior oxidation capacity of CG is probably attributed to both its high SSA and the surface defects. Interestingly, increasing the reaction pH to 8.5 significantly stimulates the oxidation extent of As(III) by CGs (for example, ~100% oxidation of As(III) by CG950 and CG1,050) (Fig.
+3b
+), while a solution pH of 5.5 only resulted in up to 14% oxidation efficiency (Supplementary Fig.
+8
+). This observation is attributed to the preferential formation of O
+2
+•−
+radicals under relatively neutral and alkaline conditions
+13
+. Superoxide is prone to disproportionation reactions under acidic conditions (H
++
++ O
+2
+•−
+→ •HO
+2
+, H
++
++ O
+2
+•−
++ •HO
+2
+→ H
+2
+O
+2
++ O
+2
+), thereby lowering the reaction efficiency
+32
+. Meanwhile, the As(III) oxidation kinetics by CG750–1,050 can be successfully described by the first-order kinetics equation (Supplementary Table
+3
+), implying that the formation of O
+2
+•−
+radicals probably depends on the reactivity of CG exclusively. The rate constants (
+k
+1
+; 0.029–4.73 h
+−1
+) for the As(III) oxidation by CG950 are orders of magnitude higher than those for CG850 and CG1,050 and markedly increase at a higher pH (4.73 h
+−1
+at pH 8.5) (Fig.
+3c
+), which is probably attributed to a kinetically enhanced ET process between CG950 and O
+2
+(ref.
+33
+). The oxidation of As(III) by CGs before removing the Ca
+5
+(PO
+4
+)OH mineral (acid etching) was evident, which is probably explainable by blockage of the reaction sites of CGs by the intertwined minerals (Supplementary Fig.
+9
+). CGs also exhibit greater As(III) oxidation capacities compared to other well-known carbonaceous materials, including commercial activated carbon and carbon nanotubes, which also possess great SSA and porosity (Fig.
+3d
+)
+19
+. Although the capability of biochar in As(III) oxidation was observed, the negligible oxidation of As(III) may be attributed to the specific reaction condition in previous studies, where considerably high ratios of biochar dosage with As(III) concentration were used
+13
+,
+34
+. To this end, these experimental results demonstrate that As(III) oxidation can be efficiently facilitated by CGs (for example, CG950) under oxic conditions.
+Fig. 3: The performance of CGs for oxidizing As(III).
+a
+,
+b
+, Changes of the As(V) concentration in the presence of CG850–1,050 under oxic conditions at pH 7.5 (
+a
+) and 8.5 (
+b
+) (data are presented as mean ± s.d. (
+n
+= 2)).
+c
+, Comparisons of the first-order kinetics rate constants (
+k
+1
+) of CGs for As(III) oxidation at three different pH conditions.
+d
+, The oxidation efficiency of As(III) by different carbonaceous materials (data are presented as mean ± s.d. (
+n
+= 2)); significance differences are indicated by different letters (two-sided),
+P
+< 0.05). The initial concentration of As(III) was 5 mg l
+−1
+and the CG dosage was 0.1 g l
+−1
+.
+Source data
+Full size image
+Evidence of redox activity and electron-transfer rate
+Given that the reactivities of these CGs pyrolysed at different temperatures are distinctly different, their surface thermodynamics and kinetics probably play a crucial role in mediating the ET process. Thus, we used differential pulse voltammetry (DPV) analysis to characterize the ET process on CG-coated electrodes, with ferrocene used as a standard chemical redox probe
+35
+. Figure
+4a
+reveals apparent reduction peaks corresponding to electron transfer from the CG electrodes to ferrocene and the reduction peak current for CG950 is noticeably higher than that of other CGs and biochar, indicating that CG950 has more favourable thermodynamics for electron donation. In addition to more favourable thermodynamics of CG950 compared to other CGs, the ET rate constant (
+k
+0
+) for CG950 is 1.6 × 10
+−3
+cm s
+−1
+which is substantially higher than those for other CGs (that is, 0.79 × 10
+−4
+–1.4 × 10
+−3
+cm s
+−1
+; Fig.
+4b
+and Supplementary Figs.
+10
+and
+11
+). Researchers reported that carbon matrices could transfer electrons at different rates
+16
+, in which the ET rate constant between CG and the probe is closely associated with their graphitization degrees and defects
+20
+; in particular, defects in carbonaceous materials act as conductive bridges for accelerating the ET process
+28
+. Thus, it is likely that relatively higher abundant quinone groups and defects on CG950 substantially lead to an enhanced ET rate constant for CG950 compared to other CGs, resulting in enhanced As(III) oxidation
+36
+. In contrast, the redox peak intensity observed for biochar (Supplementary Fig.
+10a
+) was three orders of magnitude lower than that for CG950 (Fig.
+4b
+and Supplementary Fig.
+12
+) which explains a poor oxidation efficiency of As(III) by biochar.
+Fig. 4: Electrochemical analysis of CGs.
+a
+, DPV results (reduction peaks) of ferrocene at the working electrode coated with CG750–1,050 and biochar at pH 7 under anoxic conditions.
+b
+, The ET rate constant (
+k
+0
+) of biochar and CG750–1,050.
+Source data
+Full size image
+Cyclic performance of CG
+To demonstrate the sustainability of CG for ROS production, we further explored its capability of electron storage and rechargeability. First, we used a 2,2′-azino-bis-(3-ethylbenzothiazoline-6-sulfonate) (ABTS)-mediated electrochemistry analysis (MEA) to track the electron flow from CG950 to the electrode mediated by ABTS
+15
+, thus allowing for calculation of the change in EDC value for CG950 (Fig.
+5a
+). Notably, pristine CG950 exhibits higher cumulative currents than reacted CG950 (that is, electrons partially replenished) as a result of electron discharging (Fig.
+5b
+). Recharging of reacted CG950 leads to enhanced cumulative currents, confirming its superior electron chargeability and storage
+37
+. Accordingly, pristine CG950 exhibits a considerably higher EDC (0.106 mmol e
+−
+per g C) than reacted CG950 (0.051 mmol e
+−
+per g C) and is comparable with that (0.117 mmol e
+−
+per g C) of recharged CG950 (Fig.
+5c
+). Thus, we conducted redox cycling experiments to determine the rechargeability/reusability of CG950 and found that the As(III) oxidation efficiency remained constant at 100% after five charge cycles, indicating an excellent and sustainable performance of CG950, in contrast to biochar which resulted in negligible As(III) oxidation after four cycles (Fig.
+5d
+). The cumulative concentrations of O
+2
+•−
+were also measured during the redox cycling experiments and showed stable production of O
+2
+•−
+radicals during each cycle (Fig.
+5e
+). To ascertain the stability of capacitance during the charging/discharging process, we compared the galvanostatic charge and performance discharge (GCD) of CG950 and biochar. Figure
+5f
+depicts a stable symmetric isosceles triangle shape of the GCD curve for CG950 corresponding to typical pseudocapacitive characteristics
+29
+. Conversely, biochar instantly lost its capacitance after stepwise cycling (Fig.
+5g
+), which probably occurs as a result of the unstable nature of redox moieties on biochar. These results clearly demonstrate that CG can sustainably charge and discharge electrons, resulting in O
+2
+activation and thus O
+2
+•−
+production.
+Fig. 5: Cyclic performance of the rechargeable CG.
+a
+, Illustration of the MEA method for evaluating electron storage in CG950.
+E
+h
+represents redox potential.
+b
+,
+c
+, The current–time curves of CG950, reacted CG950 and recharged CG950 (
+b
+) and their corresponding EDC values (
+c
+) (data are presented as mean ± s.d. (
+n
+= 2)).
+d
+, The As(III) oxidation efficiency of CG950 and biochar during five charging and discharging cycles.
+e
+, Comparison of the cumulative concentrations of O
+2
+•−
+radicals produced from O
+2
+activation by CG950 and biochar in each cycle (data are presented as mean ± s.d. (
+n
+= 2)).
+f
+,
+g
+, GCD curves of CG950 (
+f
+) and biochar (
+g
+) for five cycles at 0.1 mA.
+h
+, Conceptual model of the mechanisms for sustainable O
+2
+•−
+production by rechargeable CG for oxidation of As(III). Panel
+h
+created with
+BioRender.com
+.
+Source data
+Full size image
+Thus, we propose a sustainable O
+2
+•−
+generation strategy with the rechargeable supercapacitor through O
+2
+activation (Fig.
+5h
+). The presence of abundant structural defects on the graphite-like sheet of CG results in extra delocalized electrons, which can transfer electrons to quinoid functional groups for SQ
+•−
+generation
+33
+. As a result, electrons from both SQ
+•−
+and delocalized electrons can be transferred to O
+2
+for O
+2
+•−
+production; as a consequence, the generated O
+2
+•−
+enables oxidatively converting As(III) to As(V)
+38
+. The outstanding performance of CG for ROS production is probably determined by the great capacitance and EAC, providing a high electron storage capacity for further O
+2
+activation. Additionally, a satisfactory ET efficiency between CG and O
+2
+is essential and catalysed by the defective carbon matrix of CG.
+Proof of concept
+Considering the potential interference of competing species present in polluted water, we tested the effects of diverse inorganic ions and humic acid on the As(III) oxidation by CG. The presence of common ions (for example, cations such as Ca
+2+
+and Mg
+2+
+and anions such as SO
+4
+2−
+and PO
+4
+3−
+) showed negligible effect on As(III) oxidation, demonstrating that these ions are unlikely to influence O
+2
+•−
+production. Humic acid appears to slightly inhibit As(III) oxidation (Fig.
+6a
+), probably because of its competition for electrons with O
+2
+(ref.
+39
+). Such results indicate that the ET from CG towards O
+2
+for O
+2
+•−
+production is of high selectivity against complex matrices in water. Additionally, water samples from a local lake, irrigation ditch and the Pearl River were tested to further verify that complex water matrices would not affect the performance of CGs. Our findings show that 92%–99% of the As(III) was oxidized in these complex natural waters (Fig.
+6b
+), confirming that O
+2
+•−
+radicals can be readily produced by CG under these representative natural waters. Further combination of CG with a typical As-adsorbent, goethite (Gt) can significantly improve the removal efficiency of As(III) from 40% to 87% (Supplementary Fig.
+13
+), benefiting from the As(III) oxidation by CG because of a high adsorption affinity of As(V) with Gt (ref.
+40
+). This clearly demonstrates that treatment can be achieved which simultaneously results in efficient As detoxification and removal from contaminated water. CG was also tested with an additional range of diverse organic and inorganic pollutants to confirm that the CG can be used for treatment of a broad range of water pollutants (Fig.
+6c
+). The degradation rates of all organic pollutants (5 mg l
+−1
+) are considerably higher (~100%) and the possibility of simple adsorption can be ruled out as a removal mechanism. Interestingly, Cr(VI) was also able to be effectively reduced by O
+2
+•−
+(Fig.
+6c
+), indicating a broad application potential of O
+2
+•−
+radicals for water treatment
+41
+. We further fabricated a portable and chargeable continuous-flow device by embedding CG950 into a carbon fibre cloth to demonstrate the applicability of this concept (Fig.
+6d
+and Supplementary Fig.
+14
+). The As(V) concentration in the effluent ranged from 0.82 to 0.91 mg l
+−1
+, which is equivalent to an As(III) oxidation efficiency of 82%–91% during charging/recharging cycles (Fig.
+6e
+), suggesting that this portable O
+2
+•−
+generation technology is a feasible approach for water treatment and should be considered in future pilot or full-scale studies.
+Fig. 6: Proof of concept of the rechargeable CG for pollutant abatements.
+a
+,
+b
+, The As(III) oxidation efficiency of O
+2
+•−
+radicals generated with CG950 in the presence of humic acid (10 mg l
+−1
+as C) and inorganic ions (10 mg l
+−1
+) (
+a
+) and in different genuine water samples (
+b
+) (data are presented as mean ± s.d. (
+n
+= 3)).
+c
+, The oxidation/reduction efficiency of diverse organic pollutions and Cr(VI) by O
+2
+•−
+radicals generated with CG950 (their initial concentration was 5 mg l
+−1
+) (data are presented as mean ± s.d. (
+n
+= 3)).
+d
+, Schematic diagram of the portable continuous-flow device.
+e
+, The breakthrough curve of As(V) in the portable device packed with CG950 (the feeding As(III) concentration was 1 mg l
+−1
+).
+Source data
+Full size image
+To examine the potential of this O
+2
+•−
+generation system to produce other potent ROS such as •OH radicals, the concept of radical propagation was tested by simply using iron (Fe) oxyhydroxides which are widely present in natural water and soils. Noticeably, the presence of •OH radicals was observed after the addition of Fe (Supplementary Fig.
+15a
+), which is further confirmed with our EPR analysis showing typical signals of the DMPO–•OH adduct with a significant peak signal compared to that without adding Fe (Supplementary Figs.
+15b
+and
+16
+). This can be explained mechanistically by the generation of O
+2
+•−
+which can directly reduce Fe
+3+
+to Fe
+2+
+and also produce •OH through the Fenton reaction (Fe
+3+
++ O
+2
+•−
+→ Fe
+2+
++ O
+2
+; 2O
+2
+•−
++ 2H
+2
+O → H
+2
+O
+2
++ 2OH
+−
++
+1
+O
+2
+; Fe
+2+
++ H
+2
+O
+2
+→ Fe
+3+
++ •OH + OH
+−
+)
+42
+. The success in generating other potent ROS can greatly extend the potential of this green technology for treating other more recalcitrant organic pollutants such as polycyclic aromatic hydrocarbons.
+Superoxide radical, a potent green oxidant, has demonstrated its potential in the abatement of various pollutants in water and soil
+43
+, while the quest for a green and sustainable approach to its production remains a significant challenge. Our initial findings indicate that O
+2
+•−
+radical can be sustainably generated through O
+2
+activation with rechargeable CG. The abundant defects and redox-active quinone moieties in CGs facilitate highly efficient electron transfer towards O
+2
+for O
+2
+•−
+generation without requiring chemical agents. This particular feature presents opportunities to overcome the limitations of traditional approaches by eliminating the need for chemical activators such as H
+2
+O
+2
+and persulfate. The outstanding electron rechargeability and stable capacitance properties also allow for re-using the catalyst, thus enhancing practical applications while reducing the treatment cost. In addition, there is also high significance in producing other potent ROS to expand the application of this system in water treatment. At present, our results have demonstrated the feasibility of generating •OH, by simply adding iron oxides into this O
+2
+•−
+generation system, while further efforts are needed in future studies to improve carbonaceous supercapacitors, such as through metal anchoring
+44
+, to enable facile and efficient multiple ROS generation. Overall, this study presents an environmentally sustainable strategy for O
+2
+•−
+generation aimed at effective pollutant abatement, potentially paving the way for a paradigm shift in the water treatment industry and potentially extending to soil remediation.
+Methods
+Preparation of CGs
+The chemical reagents were of analytical grade and are provided in Supplementary Text
+1
+. A CG was prepared on the basis of the O
+2
+-limited pyrolysis method according to our previous report
+45
+. Cattle bones were selected since they consist of abundant Ca
+3
+(PO
+4
+)
+2
+minerals which can serve as a natural template for top-down preparation of porous CGs. In brief, dried cattle bone powder was added to a tubular furnace and pyrolysed at 750–1,050 °C for 1 h under a flow of N
+2
+gas. Subsequently, the obtained solid powders were washed with 3 M HCl and rinsed repeatedly with Milli-Q water (18.2 MΩ cm
+−1
+) to ensure the complete removal of salts. The resulting powders were dried at 60 °C overnight and then stored for further use. The prepared CG samples were denoted as CG
+x
+, where
+x
+refers to the pyrolysis temperature. Meanwhile, palm leaves were used to prepare biochar at 550 and 950 °C under an N
+2
+atmosphere. Detailed characterization methods for the structural and physicochemical properties of CGs are given in Supplementary Text
+2
+.
+Batch experiments
+Kinetics experiments related to As(III) oxidation by CG under oxic conditions were conducted in 50 ml centrifuge tubes at 25 ± 1 °C. An appropriate amount of As(III) stock solution was added to 20 ml of CG suspension (0.1 g l
+−1
+) solution to achieve an initial concentration of 5 mg l
+−1
+for As(III). The pH of the reaction solution was maintained at 5.5, 7.5 and 8.5 by boric acid buffer (5 mM). Then, the mixtures were immediately placed on a rotating shaker (200 rpm) at 25 ± 1 °C to initiate the oxidation reaction. At predetermined time intervals, the reaction suspension was sampled with a syringe membrane (pore size 0.22 µm) for As(III) and As(V) analysis. For comparison, a similar experimental procedure was performed under anoxic conditions in an anaerobic glove box (O
+2
+< 0.1 mg dm
+−3
+). In addition, biochar, commercial activated carbon and carbon nanotubes were selected for comparison as counterparts for CG at pH 8.5. The effect of ions and natural organic matter on the As(III) oxidation by CG was investigated in the presence 10 mg l
+−1
+of Na
++
+, Mg
+2+
+, Ca
+2+
+, Cl
+−
+, SO
+4
+2−
+, NO
+3
+−
+, PO
+4
+3−
+and humic acid.
+Quenching experiments
+To explore the potential ROS responsible for As(III) oxidation induced by CG950, different scavengers, including MT, IPA and BEQ, were used to selectively quench •OH and O
+2
+•−
+(ref.
+46
+). The concentration of these scavengers was set to 500 times the initial As(III) concentration to ensure their complete reaction with the potential radicals. The solution pH was maintained at 7.5 by boric acid buffer (5 mM). After 5 h of reaction, the reaction suspension was filtered through a 0.22 µm filtration membrane for As(III) and As(V) concentration analysis.
+Charging/oxidation cycling experiments
+For the As(III) oxidation cycle experiments, we charged the reacted carbonaceous materials using an electrochemical workstation (CHI-920d) and then used them for As(III) oxidation again. In detail, the ET mediator Zwitterionic viologen 4,4′-bipyridinium-1,1′-bis(2-ethylsulfonate) (ZiV) was added to the reacted suspension, the working electrode was poised at −0.84 V and CG950 and biochar in the cells (0.1 M KCl, pH 8.5) was charged for 1 h under anaerobic conditions. After charging, an appropriate amount of As(III) stock solution was added to the reaction system, shaken (200 rpm) under aerobic conditions for 2 h and then sampled for As(III) and As(V) concentration analyses. The As(III) concentration and CG950 and biochar dosages were 10 mg l
+−1
+and 0.2 g l
+−1
+, respectively. The entire experiment was repeated five times.
+Electrochemical measurements
+The ET and capacitive properties of the carbonaceous materials were determined using a CHI-920d electrochemical workstation. A standard three-electrode configuration was used, which consists of working, platinum counter and reference electrodes (Ag/AgCl). The EAC and EDC of CG were determined in an anaerobic glove box (O
+2
+< 0.1 mg dm
+−3
+) to ensure anaerobic conditions
+15
+,
+30
+. EDC was used to evaluate the electrons stored in the material. The working electrode potential was poised at −0.49 V and +0.61 V for the EAC and EDC measurements of carbonaceous materials, respectively. ZiV and ABTS were selected as ET mediators. When the working electrode was placed in 30 ml of electrolyte (0.1 M KCl; 0.1 M phosphate buffer, pH 7), the background current response stabilized. Subsequently, 1 ml of ZiV or ABTS solution (10 mM) was added to the electrolyte. After the background current was unchanged, 0.2 ml of CGs and biochar suspension (4 g l
+−1
+) was added to the electrolyte and a peak current occurred and then dropped to a steady state. The calculation of EAC and EDC was based on previous studies
+15
+.
+For DPV measurements, CG750–1,050 and biochar were coated on the working electrodes. The DPV analysis of the carbonaceous materials was performed through a potential sweep from −1 to 1.2 V (potential step increment of 0.005 V, amplitude of 0.05 V and pulse period of 0.05 s). Different scan rates (50–400 mV s
+−1
+) from oxidation to reduction of CV were used to describe the ET kinetics of CG and biochar. The ferrocene derivative (dimethylaminomethyl) ferrocene (FcDMAM) had the fastest ET response and was selected as the direct ET probe
+21
+. The electrolyte was 3 mM FcDMAM and KCl (0.1 M) in phosphate buffer at pH 7. The detailed calculation method of the direct ET rate constants (
+k
+0
+) is provided in Supplementary Text
+3
+(ref.
+16
+). For GCD experiments, the galvanostatic charge was set at 0.0001 A and cycled five times.
+Application experiments
+Three typical natural water samples, that is, lake water, river water and irrigation water were sampled from local sites for testing the performance of CG950 under real conditions and their water chemistry is provided in Supplementary Table
+4
+. To determine the potential interference of complex matrix, batch experiments were conducted by spiking proper amounts of As(III) into these water samples to achieve an initial As(III) concentration of 5 mg l
+−1
+before the addition of CG950. After reactions for 6 h, suspensions were filtrated and the production of As(V) was analysed by liquid chromatography coupled with atomic fluorescence spectroscopy (LC–AFS). For testing the performance of CG combing with Gt, Gt was initially prepared according to our previous work
+47
+; and kinetics experiments with and without Gt (the dosage of Gt was 0.5 g l
+−1
+) were conducted for comparisons as the same condition in batch experiments. For testing CG to remove other organic and heavy metal pollutants, the same batch experiments as As(III) were performed by simply replacing As(III) with other organic pollutants and Cr(VI) as detailed in Supplementary Text
+4
+. For testing the possibility of converting O
+2
+•−
+to •OH radicals, DTPA-binding Fe(III) (200 μmol l
+−1
+) was introduced into the CG950 reaction systems and benzoic acid (the initial concentration was 100 μmol l
+−1
+) was used as a probe to quantify the concentration of the generated •OH radicals
+48
+. Column experiments were performed by packing the CG950-embedded carbon fibre cloth in a glass column (10 mm in diameter × 100 mm in length), where CG950 (1 g) was coated onto a working electrode made of a carbon fibre cloth (55 mm width × 60 mm in length) using a 0.1% nafion solution (Supplementary Fig.
+14a,b
+). The concentration of As(III) from inflow was 1 mg l
+−1
+and the flow rate was 2.2 ml min
+−1
+. Water samples from the effluents were collected at determined time intervals for As(V) analysis. After each cycle, the column was refilled with a KCl (0.1 M) electrolyte solution and the packed carbon fibre was directly recharged using a CHI-920d electrochemical workstation (CHI Instrument) (Supplementary Fig.
+14c
+), before further continue-flow reactions.
+Analytical methods
+The concentrations of As(III)/As(V) after the reactions were analysed using Kylin S12 LC–AFS (Beijing Jitian Instrument Company). The potential O
+2
+•−
+and •OH radicals generated in the CG950 reaction system were captured on an A300 EPR spectrometer (Bruker) after their reaction with DMPO as a spin-trapping reagent to form DMPO–O
+2
+•−
+adducts. The 2,3-Bis(2-methoxy-4-nitro-5-sulfophenyl)-5-((phenylamino)carbonyl)-2H-tetrazolium sodium salt (XTT, 0.05 M) was selected as an indicator to quantify the concentration of O
+2
+•−
+(ref.
+49
+). XTT was reduced to XTT-formazan and detected using ultraviolet-visible spectrometry (UV-3600plus, Shimadzu) at 475 nm, where the extinction coefficient of XTT-formazan is 23,800 M
+−1
+cm
+−1
+(ref.
+50
+).
+Statistical analysis
+A one-way analysis of variance (ANOVA) was performed using Statistical Product and Services Solutions software to analysis the differences between the groups. Significance differences are indicated by different letters (
+P
+< 0.05).
+Data availability
+All data are presented in the article and its
+Supplementary Information
+.
+Source data
+are provided with this paper.
+References
+Wei, Y. et al. Fast and efficient removal of As(III) from water by CuFe
+2
+O
+4
+with peroxymonosulfate: effects of oxidation and adsorption.
+Water Res.
+150
+, 182–190 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Bello, M. M., Abdul Raman, A. A. & Asghar, A. A review on approaches for addressing the limitations of Fenton oxidation for recalcitrant wastewater treatment.
+Process. Saf. Environ. Prot.
+126
+, 119–140 (2019).
+Article
+CAS
+Google Scholar
+Rahim Pouran, S., Abdul Raman, A. A. & Wan Daud, W. M. A. Review on the application of modified iron oxides as heterogeneous catalysts in Fenton reactions.
+J. Clean. Prod.
+64
+, 24–35 (2014).
+Article
+CAS
+Google Scholar
+Winterbourn, C. C. Biological chemistry of superoxide radicals.
+ChemTexts
+6
+, 7 (2020).
+Article
+CAS
+Google Scholar
+Bielski, B. H., Cabelli, D. E., Arudi, R. L. & Ross, A. B. Reactivity of HO
+2
+/O
+−2
+radicals in aqueous solution.
+J. Phys. Chem. Ref. Data
+14
+, 1041–1100 (1985).
+Article
+CAS
+Google Scholar
+Khiem, T. C. et al. Electron transfer-mediated enhancement of superoxide radical generation in Fenton-like process: key role of oxygen vacancy-regulated local electron density of cobalt sites.
+Appl. Catalysis B
+343
+, 123490 (2024).
+Article
+CAS
+Google Scholar
+Hayyan, M., Hashim, M. A. & AlNashef, I. M. Superoxide ion: generation and chemical implications.
+Chem. Rev.
+116
+, 3029–3085 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Li, H. et al. Persulfate adsorption and activation by carbon structure defects provided new insights into ofloxacin degradation by biochar.
+Sci. Total Environ.
+806
+, 150968 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Qin, Y. et al. Persistent free radicals in carbon-based materials on transformation of refractory organic contaminants (ROCs) in water: a critical review.
+Water Res.
+137
+, 130–143 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Ruan, X. et al. Formation, characteristics and applications of environmentally persistent free radicals in biochars: a review.
+Bioresour. Technol.
+281
+, 457–468 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, R.-Z. et al. Recent advances in biochar-based catalysts: properties, applications and mechanisms for pollution remediation.
+Chem. Eng. J.
+371
+, 380–403 (2019).
+Article
+CAS
+Google Scholar
+Lian, F. & Xing, B. Black carbon (biochar) in water/soil environments: molecular structure, sorption, stability and potential risk.
+Environ. Sci. Technol.
+51
+, 13517–13532 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Zhong, D. et al. pH dependence of arsenic oxidation by rice-husk-derived biochar: roles of redox-active moieties.
+Environ. Sci. Technol.
+53
+, 9034–9044 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Yuan, J., Wen, Y., Dionysiou, D. D., Sharma, V. K. & Ma, X. Biochar as a novel carbon-negative electron source and mediator: electron exchange capacity (EEC) and environmentally persistent free radicals (EPFRs): a review.
+Chem. Eng. J.
+429
+, 132313 (2022).
+Article
+CAS
+Google Scholar
+Klüpfel, L., Keiluweit, M., Kleber, M. & Sander, M. Redox properties of plant biomass-derived black carbon (biochar).
+Environ. Sci. Technol.
+48
+, 5601–5611 (2014).
+Article
+PubMed
+Google Scholar
+Sun, T. et al. Rapid electron transfer by the carbon matrix in natural pyrogenic carbon.
+Nat. Commun.
+8
+, 14873 (2017).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Huang, Z. et al. Effects of anion carriers on capacitance and self‐discharge behaviors of zinc ion capacitors.
+Angew. Chem.
+133
+, 1024–1034 (2021).
+Article
+Google Scholar
+Lu, S. Y. et al. Chemically exfoliating biomass into a graphene‐like porous active carbon with rational pore structure, good conductivity and large surface area for high‐performance supercapacitors.
+Adv. Energy Mater.
+8
+, 1702545 (2018).
+Article
+Google Scholar
+Zhou, J. et al. Biomass-derived carbon materials for high-performance supercapacitors: current status and perspective.
+Electrochem. Energy Rev.
+4
+, 219–248 (2021).
+Article
+CAS
+Google Scholar
+Zhu, J. & Mu, S. Defect engineering in carbon‐based electrocatalysts: insight into intrinsic carbon defects.
+Adv. Funct. Mater.
+30
+, 2001097 (2020).
+Article
+CAS
+Google Scholar
+Singh, R., Singh, S., Parihar, P., Singh, V. P. & Prasad, S. M. Arsenic contamination, consequences and remediation techniques: a review.
+Ecotoxicol. Environ. Saf.
+112
+, 247–270 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Zhu, S. et al. Catalytic removal of aqueous contaminants on N-doped graphitic biochars: inherent roles of adsorption and nonradical mechanisms.
+Environ. Sci. Technol.
+52
+, 8649–8658 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Leng, L. et al. An overview on engineering the surface area and porosity of biochar.
+Sci. Total Environ.
+763
+, 144204 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, D. et al. Molten NaCl-induced MOF-derived carbon-polyhedron decorated carbon-nanosheet with high defects and high N-doping for boosting the removal of carbamazepine from water.
+Environ. Sci. Nano
+7
+, 1205–1213 (2020).
+Article
+CAS
+Google Scholar
+Wang, Z. et al. Roles of N-vacancies over porous g-C3N4 microtubes during photocatalytic NO
+x
+removal.
+ACS Appl. Mater. Interfaces
+11
+, 10651–10662 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Estrade-Szwarckopf, H. XPS photoemission in carbonaceous materials: a ‘defect’ peak beside the graphitic asymmetric peak.
+Carbon
+42
+, 1713–1721 (2004).
+Article
+CAS
+Google Scholar
+Zhu, J. et al. Effects of intrinsic pentagon defects on electrochemical reactivity of carbon nanomaterials.
+Angew. Chem. Int. Ed.
+58
+, 3859–3864 (2019).
+Article
+CAS
+Google Scholar
+Tao, L. et al. Bridging the surface charge and catalytic activity of a defective carbon electrocatalyst.
+Angew. Chem.
+131
+, 1031–1036 (2019).
+Article
+Google Scholar
+Sun, Y., Xu, D. & Wang, S. Self-assembly of biomass derivatives into multiple heteroatom-doped 3D-interconnected porous carbon for advanced supercapacitors.
+Carbon
+199
+, 258–267 (2022).
+Article
+CAS
+Google Scholar
+Liu, K., Li, F., Zhao, X., Wang, G. & Fang, L. The overlooked role of carbonaceous supports in enhancing arsenite oxidation and removal by nZVI: surface area versus electrochemical property.
+Chem. Eng. J.
+406
+, 126851 (2021).
+Article
+CAS
+Google Scholar
+Liu, K., Li, F., Pang, Y., Fang, L. & Hocking, R. Electron shuttle-induced oxidative transformation of arsenite on the surface of goethite and underlying mechanisms.
+J. Hazard. Mater.
+425
+, 127780 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Ma, J., Zhou, H., Yan, S. & Song, W. Kinetics studies and mechanistic considerations on the reactions of superoxide radical ions with dissolved organic matter.
+Water Res.
+149
+, 56–64 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Tian, R. et al. Electrochemical behaviors of biochar materials during pollutant removal in wastewater: a review.
+Chem. Eng. J.
+425
+, 130585 (2021).
+Article
+CAS
+Google Scholar
+Dong, X., Ma, L. Q., Gress, J., Harris, W. & Li, Y. Enhanced Cr(VI) reduction and As(III) oxidation in ice phase: important role of dissolved organic matter from biochar.
+J. Hazard. Mater.
+267
+, 62–70 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Meenakshi, S., Jancy Sophia, S. & Pandian, K. High surface graphene nanoflakes as sensitive sensing platform for simultaneous electrochemical detection of metronidazole and chloramphenicol.
+Mater. Sci. Eng. C
+90
+, 407–419 (2018).
+Article
+CAS
+Google Scholar
+Sun, T. et al. Simultaneous quantification of electron transfer by carbon matrices and functional groups in pyrogenic carbon.
+Environ. Sci. Technol.
+52
+, 8538–8547 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Xin, D., Saha, N., Reza, M. T., Hudson, J. & Chiu, P. C. Pyrolysis creates electron storage capacity of black carbon (biochar) from lignocellulosic biomass.
+ACS Sustain. Chem. Eng.
+9
+, 6821–6831 (2021).
+Article
+CAS
+Google Scholar
+Kim, D.-h, Bokare, A. D., Koo, M. S. & Choi, W. Heterogeneous catalytic oxidation of As (III) on nonferrous metal oxides in the presence of H
+2
+O
+2
+.
+Environ. Sci. Technol.
+49
+, 3506–3513 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Klüpfel, L., Piepenbrock, A., Kappler, A. & Sander, M. Humic substances as fully regenerable electron acceptors in recurrently anoxic environments.
+Nat. Geosci.
+7
+, 195 (2014).
+Article
+Google Scholar
+Kanematsu, M., Young, T. M., Fukushi, K., Green, P. G. & Darby, J. L. Arsenic(III, V) adsorption on a goethite-based adsorbent in the presence of major co-existing ions: modeling competitive adsorption consistent with spectroscopic and molecular evidence.
+Geochim. Cosmochim. Acta
+106
+, 404–428 (2013).
+Article
+CAS
+Google Scholar
+Yu, G.-H. & Kuzyakov, Y. Fenton chemistry and reactive oxygen species in soil: abiotic mechanisms of biotic processes, controls and consequences for carbon and nutrient cycling.
+Earth Sci. Rev.
+214
+, 103525 (2021).
+Article
+CAS
+Google Scholar
+Wang, Y., Ning, X., Liang, J., Wang, A. & Qu, J. Enhancing microbial superoxide generation and conversion to hydroxyl radicals for enhanced bioremediation using iron-binding ligands.
+J. Environ. Sci.
+147
+, 597–606 (2025).
+Article
+Google Scholar
+Nosaka, Y. & Nosaka, A. Y. Generation and detection of reactive oxygen species in photocatalysis.
+Chem. Rev.
+117
+, 11302–11336 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Zhao, M. et al. Dual isolated bimetal single-atom catalysts for tumor ROS cycle and parallel catalytic therapy.
+Nano Today
+44
+, 101493 (2022).
+Article
+CAS
+Google Scholar
+Liu, K. et al. A highly porous animal bone-derived char with a superiority of promoting nZVI for Cr(VI) sequestration in agricultural soils.
+J. Environ. Sci.
+104
+, 27–39 (2021).
+Article
+CAS
+Google Scholar
+Ding, W. et al. Co-oxidation of As(III) and Fe(II) by oxygen through complexation between As(III) and Fe(II)/Fe(III) species.
+Water Res.
+143
+, 599–607 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Hong, Z., Li, F., Borch, T., Shi, Q. & Fang, L. Incorporation of Cu into goethite stimulates oxygen activation by surface-bound Fe (II) for enhanced As (III) oxidative transformation.
+Environ. Sci. Technol.
+57
+, 2162–2174 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, X. et al. Ascorbate guided conversion of hydrogen peroxide to hydroxyl radical on goethite.
+Appl. Catalysis B
+282
+, 119558 (2021).
+Article
+CAS
+Google Scholar
+Zhao, G. et al. Tide-triggered production of reactive oxygen species in coastal soils.
+Environ. Sci. Technol.
+56
+, 11888–11896 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Fu, H. et al. Photochemistry of dissolved black carbon released from biochar: reactive oxygen species generation and phototransformation.
+Environ. Sci. Technol.
+50
+, 1218–1226 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Download references
+Acknowledgements
+This work was financially supported by the National Natural Science Foundation of China (42321005 (F.L.); 42077301 (L.F.); 42030702 (F.L.); 42207040 (K.L.)), China Postdoctoral Science Foundation (2022M710835 (K.L.)), Guangdong Foundation for talents in scientific and technological innovation (2021TQ060193 (L.F.)), Guangdong Academy of Sciences’ Project (2019GDASYL-0102006 (L.F.)), GDAS Project of Science and Technology Development (2023GDASZH-2023010103 (K.L.); 2022GDASZH-2022010201-04 (L.F.)), Foreign Expert Program (G2023030041L (T.B.)).
+Author information
+Author notes
+These authors contributed equally: Liping Fang, Kai Liu.
+Authors and Affiliations
+National-Regional Joint Engineering Research Center for Soil Pollution Control and Remediation in South China, Guangdong Key Laboratory of Integrated Agro-Environmental Pollution Control and Management, Institute of Eco-Environmental and Soil Sciences, Guangdong Academy of Sciences, Guangzhou, China
+Liping Fang, Kai Liu, Ling Xu & Fangbai Li
+State Key Laboratory of Environmental Criteria and Risk Assessment, Chinese Research Academy of Environmental Sciences, Beijing, China
+Fengchang Wu
+Department of Soil and Crop Sciences and Department of Chemistry, Colorado State University, Fort Collins, CO, USA
+Thomas Borch
+Authors
+Liping Fang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kai Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ling Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Fengchang Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Thomas Borch
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Fangbai Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+L.F. conceived and designed this project and wrote the original manuscript. K.L. performed experiments, materials preparation, data analysis and wrote the original manuscript. L.X. contributed to the conduct of the experiments. F.W. contributed to discussions of the results. T.B. and F.L. supervised the entire project and revised the manuscript.
+Corresponding authors
+Correspondence to
+Thomas Borch
+or
+Fangbai Li
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Water
+thanks Baoshan Xing and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Text 1–4, Figs. 1–16 and Tables 1–4.
+Source data
+Source Data Fig. 1
+Raw data; XRD, BET, Raman, EPR, XPS, CV, EAC/EDC and IR.
+Source Data Fig. 2
+Radical identification data.
+Source Data Fig. 3
+The As(III) oxidation by CGs data.
+Source Data Fig. 4
+Electrochemical analysis of CGs data.
+Source Data Fig. 5
+Cyclic performance of CGs data.
+Source Data Fig. 6
+Proof of concept data.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Fang, L., Liu, K., Xu, L.
+et al.
+Rechargeable carbonaceous geosupercapacitor for sustainable superoxide generation and pollutant abatement.
+Nat Water
+2
+, 485–495 (2024). https://doi.org/10.1038/s44221-024-00241-6
+Download citation
+Received
+:
+02 June 2023
+Accepted
+:
+09 April 2024
+Published
+:
+14 May 2024
+Issue Date
+:
+May 2024
+DOI
+:
+https://doi.org/10.1038/s44221-024-00241-6
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+Our publishing models
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Water
+(
+Nat Water
+)
+ISSN
+2731-6084
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

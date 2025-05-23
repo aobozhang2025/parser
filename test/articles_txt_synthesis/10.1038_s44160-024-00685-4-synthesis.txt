@@ -1,0 +1,60 @@
+Methods
+Synthesis of PMene-Ru
+0.18
+In a typical synthesis of PMene-Ru
+0.18
+with an element ratio of Pd:Ir:Mo:Pt:Ru = 46:18:14:4:18, 6.0 mg Pd(acac)
+2
+, 7.8 mg Pt(acac)
+2
+, 3.8 mg Ru(acac)
+3
+, 5.5 mg Ir
+4
+(CO)
+12
+, 10.0 mg NH
+4
+Br, 15.0 mg Mo(CO)
+6
+and 5 ml OAm were added into a 15 ml glass vial and stirred in an oil bath at 50 °C for 1 h. The as-obtained dark-purple solution was then heated to 220 °C with a slow heating rate (3–4 °C min
+−1
+) and this was maintained for 3 h. After the solution was cooled down to room temperature, the black product was collected by centrifugation at 8,900
+g
+and washed twice with cyclohexane for further processing. For PMene-Ru
+0.1
+and PMene-Ru
+0.4
+, the same procedures were followed except that the amount of Ru(acac)
+3
+was changed from 3.8 mg to 1.9 mg and 7.5 mg, respectively.
+QMene was synthesized following a similar procedure without the addition of Ru(acac)
+3
+. For BMene, the same method was applied without the addition of both Pt(acac)
+2
+and Ru(acac)
+3
+.
+Preparation of Mene/C catalysts
+The as-prepared BMene, QMene and PMene-Ru
+x
+(
+x
+= 0.1, 0.18, 0.4) catalysts were loaded onto carbon supports for electrochemical tests. Typically, the cyclohexane dispersion of different Menes was mixed with a certain amount of Vulcan XC-72 in ethanol/cyclohexane mixture (volume ratio ≈ 1:4) under ambient sonication for 1 h. The product was then collected by centrifugation at 11,125
+g
+, washed twice with ethanol and dried at 60 °C for 1 h without any other postprocessing.
+XAFS experiments and EXAFS data processing
+XAFS measurements were carried out at the BL14W1 and BL11B beamlines of the Shanghai Synchrotron Radiation Facility (SSRF) as well as at the 1W1B beamline at the Beijing Synchrotron Radiation Facility (BSRF). A Lytle detector was used to collect fluorescence signals for the element Ru. The EXAFS data analysis was performed using Athena and Artemis software packages according to the standard data analysis procedures. FT-EXAFS spectra were obtained with a similar
+k
+region as shown in this profile (Fig.
+2c
+) so as to acquire comparable CNs. Finally, wavelet transform (WT)-EXAFS images were obtained from
+k
+3
+-weighted EXAFS data using the Morlet function in a Fortran program.
+Electrochemical measurements
+To get homogeneous catalyst ink of 1 mg ml
+−1
+, as-obtained Mene/C products were subsequently dispersed in a mixture of ultrapure water, isopropanol and Nafion D-521 solution (volume ratio = 1:1:0.04) by sonication for 1 h. A three-electrode system (glass carbon with a diameter of 5 mm coated with catalyst ink as the working electrode, carbon as the counter electrode and a saturated calomel electrode in saturated KCl solution calibrated to be 1.008–1.011 V versus RHE as the reference electrode) and a specifically designed cell with good sealing performance were used to conduct alkaline HOR tests on a rotating disk electrode (RDE). The metal loading (total noble metal, including Pd, Ir, Ru and Pt) on the electrode of every test was controlled to be approximately 10 μg cm
+−2
+.

@@ -1,0 +1,3308 @@
+Design of catalysts for selective CO2 hydrogenation | Nature Synthesis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature synthesis
+review articles
+article
+Design of catalysts for selective CO
+2
+hydrogenation
+Download PDF
+Review Article
+Published:
+27 February 2025
+Design of catalysts for selective CO
+2
+hydrogenation
+Runping Ye
+ORCID:
+orcid.org/0000-0001-7508-2694
+1
+,
+Jie Ding
+ORCID:
+orcid.org/0000-0003-2370-197X
+2
+,
+Tomas Ramirez Reina
+ORCID:
+orcid.org/0000-0001-9693-5107
+3
+,
+Melis Seher Duyar
+ORCID:
+orcid.org/0000-0002-9891-5932
+4
+,
+Haitao Li
+ORCID:
+orcid.org/0000-0002-9096-449X
+5
+,
+6
+,
+Wenhao Luo
+ORCID:
+orcid.org/0000-0003-1941-3799
+5
+,
+Rongbin Zhang
+1
+,
+Maohong Fan
+ORCID:
+orcid.org/0000-0003-1334-7292
+7
+,
+8
+,
+Gang Feng
+ORCID:
+orcid.org/0000-0003-4828-5108
+1
+,
+Jian Sun
+ORCID:
+orcid.org/0000-0002-4191-578X
+6
+&
+…
+Jian Liu
+ORCID:
+orcid.org/0000-0002-5114-0404
+4
+,
+5
+Show authors
+Nature Synthesis
+volume
+4
+,
+pages
+288–302 (
+2025
+)
+Cite this article
+3796
+Accesses
+28
+Altmetric
+Metrics
+details
+Subjects
+Catalytic mechanisms
+Chemical engineering
+Green chemistry
+Heterogeneous catalysis
+Abstract
+CO
+2
+hydrogenation with green hydrogen is a practical approach for the reduction of CO
+2
+emissions and the generation of high-value-added chemicals. Generally, product selectivity is affected by the associated reaction mechanisms, internal catalyst identity and structure, and external reaction conditions. Here we examine typical CO
+2
+hydrogenation reaction pathways, which can provide insight useful for the atomic-level design of catalysts. We discuss how catalyst chemical states, particle sizes, crystal facets, synergistic effects and unique structures can tune product selectivity. Different catalysts, such as Fe-, Co-, Ni-, Cu-, Ru-, Rh-, Pd-based and bifunctional structured catalysts, and their influence on CO
+2
+hydrogenation products (such as CO, methane, methanol, ethanol and light olefins) are discussed. Beyond catalyst design, emerging catalytic reaction engineering methods for assisting the tuning of product selectivity are also discussed. Future challenges and perspectives in this field are explored to inspire the design of next-generation selective CO
+2
+hydrogenation processes to facilitate the transition towards carbon neutrality.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Uniting biological and chemical strategies for selective CO
+2
+reduction
+Article
+18 November 2021
+Highlights and challenges in the selective reduction of carbon dioxide to methanol
+Article
+24 June 2021
+Highly selective hydrogenation of CO
+2
+to propane over GaZrO
+x
+/H-SSZ-13 composite
+Article
+17 November 2022
+Main
+An increase in CO
+2
+emissions has led to ocean acidification, extreme weather events and many related social and environmental issues. Governments worldwide have committed to lowering CO
+2
+emissions, with some charting a path to carbon neutrality in the coming decades. Catalytic CO
+2
+reduction approaches have been proposed as vital strategies to produce high-value chemicals from waste CO
+2
+and to achieve a circular economy
+1
+,
+2
+.
+CO
+2
+can be hydrogenated using hydrogen derived from renewable energy to generate multiple products, such as methane (CH
+4
+), ethanol, light olefins and gasoline
+3
+,
+4
+. Upon further conversion of CO
+2
+hydrogenation products, cell-free chemoenzymatic starch can also be synthesized from CO
+2
+and H
+2
+by an artificial starch anabolic pathway
+5
+. Therefore, CO
+2
+hydrogenation is a versatile approach for the manufacture of multiple chemicals and fuels. Controlling product selectivity is a key challenge for CO
+2
+hydrogenation, with high product selectivity being crucial to achieve favourable process economics due to the cost of separation for mixtures of hydrocarbons. The knowledge-driven design of selective catalysts is thus of great interest.
+To achieve selectivity control, research efforts have been devoted to optimizing both external reaction factors and internal catalyst design factors. Under steady-state operation, reaction thermodynamics should be considered when selecting reaction conditions—including temperature, pressure and H
+2
+/CO
+2
+ratio—so as to improve selectivity. For example, from a thermodynamic perspective, methanol production is favourable at low temperatures and high pressure. Recent investigations have demonstrated solvent effects and the influence of external light illumination on determining product distributions for CO
+2
+hydrogenation
+6
+,
+7
+. Importantly, product selectivity can be tuned by adjusting the internal structure of catalysts, such as the nature and loading of active metals, exposed crystal facets, the physicochemical properties of the supports, promoters, metal–support interactions and catalyst morphology. By adjusting the catalyst design parameters, some products could be generated with satisfactorily high selectivity. Kattel and colleagues have published a perspective on tuning CO
+2
+hydrogenation selectivity that mainly focused on tuning the selectivity of C
+1
+compounds over a metal/oxide interface, and highlighted combinations of metals and oxides
+8
+. However, selectivity towards the generation of C–C coupled products (C
+2+
+molecules) is still low, limiting the large-scale production of most chemicals through the CO
+2
+recycling route. Interestingly, high product selectivity over some catalysts can be achieved at the expense of conversion or under strict reaction conditions. To optimize product selectivity, reaction pathways are often regulated, tuning the adsorption and desorption properties of the main reaction intermediates, such as carbon monoxide, formate and methanol. Therefore, understanding the reaction mechanism of CO
+2
+hydrogenation is essential for fine-tuning product selectivity.
+In this Review, we examine the tuning of thermo-catalytic CO
+2
+hydrogenation selectivity by the atomic-level design of catalysts with precise active sites. We first introduce the reaction mechanism of CO
+2
+hydrogenation and then present catalyst design principles, including modulation of chemical states, particle sizes, crystal facets, synergistic effects and unique structures. Emerging reaction engineering technologies to assist in tuning product selectivity and the challenges associated with regulating the product selectivity of CO
+2
+hydrogenation are also discussed. Understanding the approaches for selectivity control is pivotal for the rational design of next-generation CO
+2
+hydrogenation catalysts, and this knowledge is transferable to other reactions related to achieving carbon neutralization.
+Reaction mechanism and selectivity for CO
+2
+hydrogenation
+CO
+2
+can be hydrogenated to multiple products, and the generation of each product may feature several different reaction pathways (Fig.
+1
+). The hydrogenation reaction is sensitive to catalyst structure, with different catalyst structures leading to different reaction pathways. Due to these complicated multistep reaction mechanisms, controlling the selectivity towards each product is challenging. Given that CO
+2
+hydrogenation selectivity can be tuned via catalyst design, it is proposed that the catalyst design influences the intermediate reaction steps and related reaction pathways by optimizing the adsorption or desorption of intermediates. To regulate product selectivity, the adsorption or desorption of intermediates should thus be controlled, and the carbon chain growth or C–C coupling can be controlled by designing different active sites and catalyst structures. For example, Ni active sites have stronger *CO adsorption ability than Cu active sites, so Ni is more selective for CH
+4
+synthesis via C–O bond cleavage, and Cu is active for CO synthesis. The adsorption and desorption strengths of intermediates are related to the electronic properties of the active sites, which are determined by the chemical states, particle sizes, crystal facets and synergistic effects.
+Fig. 1: Schematic overview of the main possible reaction steps in CO
+2
+hydrogenation to C
+1
+and C
+2+
+products.
+Three typical reaction pathways are shown for the synthesis of C
+1
+products: the direct dissociation pathway, the RWGS + CO-Hydro pathway and the formate pathway. Two typical reaction pathways are shown for the synthesis of C
+2+
+products: the CO
+2
+-modified Fischer–Tropsch pathway and the methanol-mediated pathway. SMSI, strong metal–support interaction; RWGS, reverse water–gas shift; CO-Hydro, CO hydrogenation, also named Fischer–Tropsch synthesis; OX-ZEO, metal oxides and zeolites. Yellow, O in the support; aqua, metal in the support; blue, metal active sites; green in the catalyst model, metal active sites affected by MSIs; dark blue in ZEO, Si; grey in ZEO, Al.
+Full size image
+The reaction pathways for C
+1
+products (CO, CH
+4
+, CH
+3
+OH and HCOOH) are well established compared to those for C
+2+
+products (Fig.
+1
+). Generally, there are two main reaction intermediates, carbon monoxide (*CO) and formate (*HCOO). *CO can be produced from the reverse water–gas shift (RWGS, CO
+2
+hydrogenation to CO and H
+2
+O) process or CO
+2
+dissociation via direct C–O bond cleavage. The resulting *CO is hydrogenated to form the final products. Thus, the three reaction pathways for C
+1
+products are the RWGS + CO-Hydro (CO hydrogenation, also named Fischer–Tropsch synthesis) pathway, the direct C–O bond cleavage pathway and the formate pathway. If *CO or *HCOOH adsorption is weak, further hydrogenation could be inhibited, and these products can desorb from the catalyst surface to produce CO or HCOOH. Methane and methanol synthesis are proposed to involve at least four or three reaction pathways, respectively. The key determinant for the formation of CH
+4
+or methanol is dissociation of the second C–O bond, as the formation of CH
+4
+requires this dissociation. Therefore, efficient activation of the C–O bond at low reaction temperatures is essential when designing catalysts for CO
+2
+hydrogenation.
+For C
+2+
+products (such as light olefins, dimethyl ether, ethanol and gasoline), the typical reaction pathways are the methanol-mediated route with a hydrocarbon-pool mechanism or the CO
+2
+-modified Fischer–Tropsch route over bifunctional catalysts. Bifunctional catalysts contain Zn/In/Cu-based metal oxides or Fe-based metal oxides and zeolites (OX-ZEO). The metal oxides catalyse reactants to form methanol or *CO intermediates, which then further react to form C
+2+
+products via oligomerization, isomerization and aromatization steps over the zeolites. Therefore, although OX-ZEO catalysts can catalyse either route, different zeolites (HZSM-5 and SAPO-34) present different reaction pathways for the synthesis of different C
+2+
+products. For instance, ZnZrO/SAPO-34 generates 80.0% light olefins and ZnZrO/HZSM-5 generates 80.3% C
+5+
+products by CO
+2
+hydrogenation with the same methanol-mediated route (Fig.
+1
+, bottom), but with a different hydrocarbon-pool mechanism over the zeolites
+9
+,
+10
+. The Na-Fe
+3
+O
+4
+/HZSM-5 catalyst achieves 79.4% C
+5+
+products, but via the CO
+2
+-modified Fischer–Tropsch route (Fig.
+1
+, top)
+11
+. To control C
+2+
+-product selectivity, C–O activation and C–C coupling need to be regulated. Furthermore, *(CH
+2
+)
+n
+and *CH
+x
+O intermediate adsorption and desorption over bifunctional catalysts are affected by the metal-oxide species, the porous structure and Brønsted acids of the zeolites, as well as proximity effects, demonstrating the effects of different combinations of multifunctional active sites on product distributions.
+Design principles for catalysts to vary selectivity
+The results of CO
+2
+hydrogenation performance testing (including CO
+2
+conversion, product selectivity and the main reaction conditions) for some representative studies on the design of catalysts to improve selectivity are summarized in Table
+1
+. These results indicate that CO
+2
+hydrogenation product selectivity is affected by a range of parameters, which are analysed with examples in the following. Specific principles for the tuning of product selectivity are proposed, including via chemical states, particle sizes, crystal facets, synergistic effects and unique structures for catalyst design.
+Table 1 Summary of product selectivity for CO
+2
+hydrogenation based on different catalyst design principles.
+Full size table
+Chemical states
+Transition metals are often the main active components of CO
+2
+hydrogenation catalysts, so product selectivity can be regulated by the design of the metal sites. Both the geometric and electronic structures of metals determine product distributions. Accordingly, we will first look at the effect of chemical states on tuning reaction selectivity. This is an inherent catalytic property of metals that is independent of external operating conditions. For example, Ni and Ru have high activity for CO
+2
+methanation (CO
+2
+hydrogenation to CH
+4
+), whereas Cu and In tend to hydrogenate CO
+2
+to CO or methanol. Fe is usually used for the synthesis of light olefins and liquid fuels. However, product selectivity also varies greatly over the same metal-based catalysts when the geometric properties of the metals are adjusted.
+With transition-metal catalysts, before the CO
+2
+hydrogenation reaction, in situ reduction under a H
+2
+atmosphere is used to ‘activate’ the catalysts. As the chemical state of the active sites affects product selectivity, one area of focus is catalyst pretreatment methods. The formal valence states of the metals greatly affect selectivity (Fig.
+2a
+)
+12
+. The adsorption strength of CO on the metal centre is key, as the metal
+d
+orbitals donate electrons to the
+π
+* orbital of CO, which affects CO adsorption. Aitbekova and colleagues used oxygen to treat metallic Ru nanoparticles (NPs) supported on CeO
+2
+to generate a single-site RuO
+x
+/CeO
+2
+-ox catalyst, and the reaction pathways over the catalyst were altered, resulting in a switch in the reaction selectivity from CH
+4
+to CO (Fig.
+2b
+and Table
+1
+)
+13
+. This difference in selectivity is a consequence of the oxygen redispersing the initial Ru NPs into atomically dispersed RuO
+x
+species with weaker CO adsorption ability, which favours CO desorption. Metallic and oxidized Co components supported on Al
+2
+O
+3
+or TiO
+2
+can produce different products, with the oxidized CoO/TiO
+2
+-ox producing more CH
+4
+(~60%) and the metallic Co/TiO
+2
+-red producing more CO. The partial encapsulation of metallic Co by TiO
+2−
+x
+via strong metal–support interactions (SMSIs, an interaction that is usually observed between metal NPs and reducible supports)
+14
+weakens the hydrogenation ability of Co/TiO
+2
+-red to produce more CO
+12
+. Oxidized CoO/TiO
+2
+-ox has also been reported to be more favourable for C
+2+
+synthesis (11%) via the hydrogen-assisted CO
+2
+activation pathway, whereas the metallic Co/TiO
+2
+-red favours the direct dissociation pathway (Fig.
+2b
+)
+15
+.
+Fig. 2: Chemical states of metals involved in regulating CO
+2
+hydrogenation selectivity.
+a
+, Gas (O
+2
+or H
+2
+)-treated Ru/CeO
+2
+or Co/TiO
+2
+catalysts to redisperse metal particles with different valence states (ox, oxidized; red, reduced), resulting in different selectivity in hydrogenation reactions.
+b
+, Catalytic performance of Ru/CeO
+2
+or Co/TiO
+2
+catalysts for CO
+2
+hydrogenation with different product selectivity. Data from refs.
+13
+,
+15
+.
+c
+, Metal species determine the photothermal CO
+2
+hydrogenation product. Shown here is Fe
+3
+O
+4
+versus Fe
+3
+C.
+d
+, Catalytic performance of different Fe-based catalysts. Different Fe species show different CO
+2
+hydrogenation selectivities. Data from ref.
+20
+. Fe-1h, Fe-3h and Fe-10h represent Fe NPs with different CO
+2
+hydrogenation reaction times. Conv., conversion. Yellow, O in the support; aqua, metal in the support, such as Ce or Ti; blue, metal active sites, such as Ru or Co; pink, Fe; black, C; red, O in the molecule; white, H.
+Full size image
+Studies on the chemical states of Cu/Ni/Zn/Fe/Ce species have been reported
+16
+. Different metal species with similar particle sizes can influence the adsorption and conversion behaviours of both reactants and intermediates, and thus product selectivity. For instance, Cu exists as Cu
+0
+, Cu
++
+and Cu
+2+
+species. There is an interplay between Cu
++
+and Cu
+0
+. Cu
++
+species are more active for CO
+2
+adsorption and activation to methanol by stabilization of the *CO intermediates, whereas Cu
+0
+species are the active sites for H
+2
+activation
+17
+. A Ni-doped CeO
+2
+catalyst with ionic Ni and Ce
+3+
+instead of metallic Ni as the active site has been reported for high-performance CO
+2
+methanation
+18
+. Fe species (such as Fe, Fe
+3
+O
+4
+,
+θ
+-Fe
+3
+C and Fe
+5
+C
+2
+) with tunable selectivity have been studied systematically, and Fe
+3
+O
+4
+was found to be fully selective for CO synthesis, and
+θ
+-Fe
+3
+C selective for hydrocarbon products (>97%; Fig.
+2c
+and Table
+1
+)
+19
+. Density functional theory (DFT) calculations indicate that the adsorption of *CO intermediates and H
+2
+dissociation over Fe
+3
+C species are much stronger than over Fe
+3
+O
+4
+, improving the selectivity of the hydrocarbon products. The dynamic behaviour of Fe species revealed during CO
+2
+hydrogenation offers new insights into the origin of the catalytic activity. Zhu and colleagues reported the correlation between the dynamic structural evolution of Fe species and CO
+2
+hydrogenation performance, indicating that the formed Fe
+5
+C
+2
+-rich surface is favourable for C
+2+
+selectivity (Fig.
+2d
+and Table
+1
+)
+20
+. Strategies need to be developed for maintaining the active species under reaction atmospheres. Additionally, iron carbides rather than iron nitrides have been shown to be the active sites for the selective synthesis of C
+2+
+hydrocarbons
+21
+. For example, when Fe
+5
+C
+2
+was introduced to ZnFe
+2
+O
+4
+, the product selectivity switched from methanol (99.4%) to C
+2+
+OH alcohols (98.2% and Table
+1
+)
+22
+. Also, the proximity of ZnFe
+2
+O
+4
+and Fe–Zn–Na affects the selectivity of higher alcohols, with the powder-mixing method achieving the highest selectivity for C
+2+
+OH (Table
+1
+). Therefore, understanding the origin of the activity and selectivity as well as the catalyst reconstruction is a key research topic in this field.
+Particle size
+Regulating metal particle sizes is an effective strategy to control selectivity. Structure sensitivity is well known in heterogeneous catalysis, and the hydrogenation abilities of single atoms, clusters, small NPs and large NPs differ. Metal particle size can affect CO
+2
+dissociation as well as the adsorption energies of the reaction intermediates, and methanol synthesis is sensitive to cluster size
+23
+. Atomically dispersed Zn can improve the selectivity of methanol by suppressing formate decomposition over a Cu–Zn catalyst for CO
+2
+hydrogenation
+24
+. Larger Cu NPs are not active for CO
+2
+hydrogenation to methanol, but single-atom Cu
+1
+–O
+3
+units have 100% selectivity towards methanol, and small Cu clusters generate CO (Fig.
+3a,b
+)
+25
+. Zhang and colleagues used DFT to examine the effect of Cu NP size on CO
+2
+hydrogenation activity, finding that intermediate-sized Cu
+19
+clusters have the optimal CO
+2
+hydrogenation activity due to a moderate CO
+2
+coverage and a low CO
+2
+dissociation barrier. For C
+1
+products, small clusters and Ni/Ru/Re atomic species are selective for CO, but larger particle sizes of Ni/Ru/Re NPs are selective for CH
+4
+(refs.
+13
+,
+26
+,
+27
+,
+28
+). Compared to smaller Ni NPs, larger Ni NPs with more metallic states facilitate the rate-determining step of H
+2
+-assisted CO dissociation and therefore enhance CO
+2
+conversion and CH
+4
+selectivity
+27
+. Interestingly, when Ni loading and Ni NP size are precisely controlled
+29
+, different activity and selectivity over Ni/β-Ga
+2
+O
+3
+is observed, with the smaller Ni NPs exhibiting higher activity for the RWGS reaction and the larger Ni NPs favouring hydrogen dissociation for methanol synthesis. A similar metal particle size effect is observed during the synthesis of C
+2+
+products. Smaller Fe NPs are sensitive to CO production, whereas CH
+4
+and C
+2+
+products are more likely to be generated over larger Fe NPs (Fig.
+3c,d
+and Table
+1
+)
+26
+. The main reason for this difference is that larger metal particles with more terrace sites are not only favourable for the formation of *HCOO species, but also exhibit higher chain-growth probability.
+Fig. 3: Particle size effect of metals on CO
+2
+hydrogenation selectivity.
+a
+, Effect of Cu particle size on CO
+2
+hydrogenation to methanol over the Cu/ZrO
+2
+catalyst
+25
+. Single-atom Cu species are selective for methanol synthesis, whereas Cu clusters or small NPs only produce CO. Larger Cu NPs have almost no activity.
+b
+, CO
+2
+hydrogenation performance over Cu/ZrO
+2
+catalysts with different Cu loading and ZrO
+2
+crystal phase. CAZ-
+x
+-
+r
+: CAZ represents Cu loading on amorphous ZrO
+2
+,
+x
+represents Cu loading and
+r
+represents reduction. CMZ-15, Cu/monoclinic ZrO
+2
+with 15% Cu. Data from ref.
+25
+.
+c
+, Effect of Fe particle size on CO
+2
+hydrogenation to C
+2+
+products over Fe/ZrO
+2
+catalysts
+26
+. Fe/ZrO
+2
+catalysts with larger Fe NPs are selective for CH
+4
+and C
+2+
+hydrocarbons, and CO selectivity is increased over Fe/ZrO
+2
+catalysts with smaller Fe NPs.
+d
+, CO
+2
+hydrogenation performance over Fe/ZrO
+2
+catalysts with different Fe particle sizes. Data from ref.
+26
+. Panels adapted with permission from:
+a
+, ref.
+25
+, Springer Nature Limited;
+c
+, ref.
+26
+, American Chemical Society. Yellow, O in the support; violet, Zr; blue, Cu; pink, Fe; black, C; red, O in the molecule; white, H.
+Full size image
+The correlation between metal particle sizes and CO
+2
+hydrogenation is still not well established, but it suggests that catalytic performance is sensitive to catalyst structure and should therefore be investigated further. Additionally, the size of the catalyst support should also be studied due to the influence of metal–support interactions (MSIs). For example, CeO
+2
+supports calcined at different temperatures (450 and 1,000 °C) with different particle sizes (15.2 and 191.7 nm) have different MSIs and CO/H adsorption ability, resulting in different selectivity for CO compared with supported Co NPs
+30
+. The CO selectivity is tuned from 24% over Co/CeO
+2
+-450 to 49% over Co/CeO
+2
+-1000 (Table
+1
+). C–O activation and C–C coupling processes should be considered from the perspective of the correlation between particle sizes and C
+2+
+products when designing highly selective catalysts.
+Crystal facets
+Product selectivity is also affected by the exposed crystal facets and the crystal phase of the support. The crystal phase can also be transformed during CO
+2
+hydrogenation, resulting in different reaction rates and product selectivity
+31
+.
+The crystal planes of Co
+3
+O
+4
+have been shown to influence CO
+2
+hydrogenation products. Rhombic dodecahedral Co
+3
+O
+4
+with {111} and {001} phases shows high selectivity for CH
+4
+, whereas nanorod Co
+3
+O
+4
+with {110} and {001} phases is more selective for CO (ref.
+32
+). This is because Co
+3
+O
+4
+{111} can produce more oxygen vacancies that promote the CH
+3
+O* intermediate dissociation and further hydrogenation.
+The crystal phases of the support are also important for tuning product selectivity. As shown in Fig.
+4
+, TiO
+2
+with two different crystal phases used to support Ru or Co catalysts displays distinct CO
+2
+hydrogenation performances (Fig.
+4a,b
+). When Ru or Co catalysts are supported on rutile (
+r
+) TiO
+2
+they are selective for CH
+4
+, as shown with 1Ru/
+r
+-TiO
+2
+and Co/
+r
+-TiO
+2
+. However, the main product is CO when the reaction is performed over 1Ru/
+a
+-TiO
+2
+and Co/
+a
+-TiO
+2
+catalysts (
+a
+, anatase; Fig.
+4c
+and Table
+1
+)
+33
+,
+34
+. An operando diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) study indicated that differences in electron transfer from Ru to TiO
+2
+induced by hydrogen spillover (the surface migration of activated hydrogen atoms from metal active sites onto the catalyst support) influence the adsorption and hydrogenation of the *CO intermediate
+35
+, resulting in different selectivities. The operando DRIFTS results indicate that Co/TiO
+2
+catalysts with varying support crystal phases catalyse different reaction pathways; Co/
+r
+-TiO
+2
+follows the formate pathway and Co/
+a
+-TiO
+2
+the CO pathway. Accordingly, the product selectivity can be manipulated
+34
+. In
+2
+O
+3
+supported on monoclinic ZrO
+2
+(
+m
+-ZrO
+2
+) is more selective for methanol, whereas In
+2
+O
+3
+/
+t
+-ZrO
+2
+(
+t
+, tetragonal) shows relatively high selectivity for CO production (Fig.
+4c,d
+)
+36
+. This is because
+m
+-ZrO
+2
+can transfer more electrons to the In–O–In units of In
+2
+O
+3
+, enriching the electron density of In
+2
+O
+3
+, so the *HCOO intermediates are more easily hydrogenated to methanol.
+Fig. 4: Crystal facets of supports involved in regulating CO
+2
+hydrogenation selectivity.
+a
+,
+b
+, Regulation of the crystal facets of TiO
+2
+supports to tune CO
+2
+hydrogenation selectivity over Co or Ru/TiO
+2
+catalysts, where
+a
+represents anatase (
+a
+) and
+t
+represents rutile (
+b
+).
+c
+, Product selectivity of Ru/TiO
+2
+catalysts with different crystal facets. Data from ref.
+33
+.
+d
+,
+e
+, Regulation of the crystal facets of ZrO
+2
+supports to tune CO
+2
+hydrogenation selectivity over In
+2
+O
+3
+/TiO
+2
+catalysts, where
+t
+represents tetragonal (
+d
+) and
+m
+represents monoclinic (
+e
+). Yellow, O in the support; aqua, Ti; blue, Co or Ru; violet, Zr; orange, In; black, C; red, O in the molecule; white, H.
+Full size image
+These results demonstrate the importance of engineering crystal phases and planes to determine product selectivity. More extensive studies are needed to control product selectivity by engineering the crystal phases at the molecular level, which is important for obtaining the desired products. Transformation of the crystal phase under reaction conditions should be investigated to reveal the chemical states of the actual active phases.
+Synergistic effects
+Synergistic effects impact the electronic states and chemical properties of active sites as well as reaction intermediates. There can also be synergism between single atoms and NPs, interparticle interactions, metal and promoter interactions, as well as MSIs, and these can be used to tune product selectivity (Fig.
+5
+)
+37
+.
+Fig. 5: Synergistic effects of metal active sites, metals and promoters, and metals and supports for regulating CO
+2
+hydrogenation selectivity.
+a
+, Illustration of tuning of the distance between dual active sites to regulate the synergistic effects of active sites and the hydrogen spillover, and thus product selectivity.
+b
+, Synergistic effects of metals and promoters tune the product from CH
+4
+to CO.
+c
+, SMSIs tune the product selectivity from CH
+4
+to CO.
+d
+,
+e
+, Corresponding in situ DRIFTS spectra of Rh
+1
+/ZrO
+2
+(
+d
+) and 1Na-Rh
+1
+/ZrO
+2
+(
+e
+), as well as DFT calculation results of CO
+2
+activation on ZrO
+2
+(101) and Na-ZrO
+2
+(101) surfaces. The in situ DRIFTS spectra indicate that Rh
+1
+/ZrO
+2
+has HCOO* as its intermediate, whereas 1Na-Rh
+1
+/ZrO
+2
+has COOH* and CO*. DFT calculations further demonstrate that the formation of COOH* has a higher energy barrier than that for HCOO*, and the introduction of a Na promoter would decrease the energy barrier for both COOH* and HCOO*. Panels
+d
+–
+f
+adapted with permission from ref.
+46
+, Wiley. Yellow, O in the support; aqua, metal in the support; blue or orange, metal active sites; green in catalyst model, metal active sites affected by MSIs; light green, promoter; black, C; red, O in the molecule; white, H.
+Full size image
+Regulating the distance between Cu NPs in a CuZnAl catalyst by controlling the amount of silica has been demonstrated to tune methanol selectivity; this could be increased from 35.5 mol% to 88.9 mol% by increasing the distance
+38
+. This occurs because the hydrogen spillover is regulated by the distance between the Cu NPs, suppressing the RWGS reaction and thus improving methanol selectivity. This distance effect could be extended to oxide–oxide and alloy systems, and bimetallic catalysts with dual-site distances. Different distances between Co
+3
+O
+4
+and ZnO induce different remote hydrogen spillover effects and local interface confinement, allowing tuning of the selectivity ratio between CO and CH
+4
+as well as the catalyst reactivity (Table
+1
+)
+39
+. Diatomic Ir
+1
+Pd
+1
+–In
+2
+O
+3
+catalysts with different dual-site distance-dependent synergistic catalysis were designed for CO
+2
+hydrogenation to methanol. The proximity between diatomic sites could enhance methanol selectivity to 97% under high CO
+2
+conversion due to rapid hydrogen spillover on the adjacent Pd and Ir sites
+40
+. Recently, a graphene fencing approach was reported to control multiple active sites of Fe–Co bimetallic alloy catalysts, resulting in different hydrocarbon products
+41
+. For example, 50.1% light olefin could be produced over Fe–Co active sites on the surface of graphene fences. However, the product changes to 43.6% liquefied petroleum gas over spatial Fe–Co NPs separated by graphene fences. The proximity effect is more obvious in bifunctional catalysts for CO
+2
+hydrogenation to C
+2+
+products, as introduced in the next section.
+Promotion of the main metal catalytic sites (for example, Fe, Co, Ni, Cu, Ru and Pd) with other alkali, transition metals (such as Na, K, Cs, Cu and La) and non-metallic promoters (including Si, P and graphene) also alters the reaction selectivity due to modification of the electronic and chemical properties of the catalytic metals (Fig.
+5b
+)
+42
+,
+43
+,
+44
+. For instance, the steric effect induced by promoters can block some active sites, hindering the adsorption of certain reaction intermediates to reduce the formation of by-products
+45
+. Furthermore, the electronic effect induced by electron transfer between promoters and primary metals may regulate the electronic properties and therefore the adsorption and desorption of reaction intermediates. For example, alkali-ion-modified single-atom Rh
+1
+/ZrO
+2
+catalysts can switch reaction selectivity from CH
+4
+(~100%) to CO (>99%) by changing the surface intermediate from formate to carboxy species (Table
+1
+)
+46
+. Na
++
+promotes stronger electronic Rh–O interactions and enhances CO
+2
+/*COOH adsorption while suppressing hydrogen activation, resulting in higher CO selectivity (Fig.
+5d–f
+). Similarly, modifying Ni
+3
+Zn
+1
+C
+0.7
+with K can switch the major product from CH
+4
+to higher alcohols
+47
+, and a carbon buffer layer modifies the electronic properties of ZnO
+x
+–Fe
+5
+C
+2
+–Fe
+3
+O
+4
+and can enhance the ethanol yield
+48
+. Additionally, the promoter effect of phosphine ligands and electron acceptors (such as Bi, In, Sn and halogen elements) can also adjust product selectivity. For instance, Ni/TiO
+2
+modified by a P promoter and Ru/CeO
+2
+modified by Bi adjust the selectivity from CH
+4
+to CO (Table
+1
+)
+49
+,
+50
+.
+Bimetallic architectures, from core–shell structures to ideal solutions, have become important catalysts for CO
+2
+hydrogenation. Ni/Co/Ga doping has promotional effects on In- or Cu-based catalysts, generating a bimetallic system and enhancing methanol synthesis. After doping <10% wt% Ni into In
+2
+O
+3
+catalysts, CO
+2
+conversion and methanol yield are improved
+51
+. The reaction mechanism for methanol synthesis over Ni-promoted In
+2
+O
+3
+has been illustrated by Cannizzaro and colleagues
+52
+. When Ga is introduced into the Cu/SiO
+2
+system, abundant Cu
++
+–GaO
+x
+interfaces are formed, and methanol synthesis is improved
+53
+. Additionally, a series of core–shell catalysts, such as Ni@Au (ref.
+54
+), Cu@Ni (ref.
+55
+), Pd@Zn (ref.
+56
+), CoFe/Fe
+3
+O
+4
+(ref.
+57
+) and Cu@TiO
+x
+(ref.
+58
+), have been reported for CO
+2
+hydrogenation with excellent product selectivity. Core–shell structures can be reconstructed to an alloy surface or inverse oxide/metal configuration during reactions
+54
+,
+55
+,
+58
+, improving CO selectivity and highlighting that dynamic changes in surface structure should be investigated. Bimetallic solid solutions, such as M
+a
+ZrO
+x
+(M = Zn, Cd, Ga)
+59
+,
+60
+, Ni
+x
+Mg
+1−
+x
+O (ref.
+61
+), In
+2
+O
+3
+/
+m
+-ZrO
+2
+(ref.
+62
+) and Ru
+x
+Co
+1−
+x
+catalysts
+63
+, demonstrate different selectivities and high stabilities compared to conventional supported catalysts. ZnO–ZrO
+2
+is considered to be a next-generation catalyst for methanol synthesis, and its active sites have been revealed as Zn–O–Zr (ref.
+64
+). Solid-solution catalysts with synergetic active sites are therefore interesting for the design of future CO
+2
+hydrogenation catalysts.
+Different supports can influence MSIs and therefore regulate product selectivity. For instance, the MSI over Cu/CeO
+2
+is weaker than that over Cu/ZrO
+2
+catalysts, meaning that Cu/CeO
+2
+catalysts have higher Cu dispersion and more oxygen vacancies, producing *HCOO intermediates for methanol synthesis
+65
+. The main reaction intermediate over Cu/ZrO
+2
+is *COOH, generating the CO product. Therefore, MSIs can regulate structural properties to change the reaction adsorption intermediates and tune the final product selectivity. Additionally, different metal–oxide interfacial sites exhibit different *CO/*CH
+3
+O adsorption abilities, resulting in tunable product selectivity, as demonstrated on Ni–ZrO
+2
+and Ni–FeO
+x
+interfaces
+66
+, as well as by a comparison of Ni/ZnO with other Ni/MO
+x
+catalysts. CO
+2
+hydrogenation selectivity can be changed by tuning the
+d
+‑band centre over Ni–Zn dual sites, resulting in Ni/ZnO generating more CO product instead of CH
+4
+, which is produced over other Ni-based catalysts (Table
+1
+)
+67
+.
+SMSIs or electronic metal–support interactions (EMSIs) have been investigated for improving catalytic performance by correlating metals and supports
+68
+,
+69
+,
+70
+,
+71
+,
+72
+(Fig.
+5c
+). The main reason behind the effects of metal/support particle size, metal loading, metal species and metal/support crystal phases on CO
+2
+hydrogenation is modulation of the chemical state of the metal species and the nature of the metal–oxide interfaces induced by SMSIs or EMSIs. Li and colleagues demonstrated that the SMSI between Ir species and Ce–OH supports could tune product selectivity during CO
+2
+hydrogenation; metallic Ir particles were found to catalyse CH
+4
+production, whereas partially oxidized Ir species were favourable for CO production
+73
+. When Ru NPs were encapsulated by MoO
+3−
+x
+overlayers or TiO
+x
+with abundant oxygen vacancies, induced by the reaction gas and SMSI, selectivity changed from CH
+4
+to CO (Table
+1
+)
+74
+,
+75
+. Li and colleagues used NH
+3
+treatment to disrupt the SMSI and obtained a Ni/
+a-
+TiO
+2
+-NH
+3
+catalyst
+76
+. As a result, both CO
+2
+conversion and CH
+4
+selectivity were enhanced, whereas the original Ni/
+a
+-TiO
+2
+catalyst was selective for CO (Table
+1
+). It has also been observed that a Ni/ZrO
+2
+catalyst exhibits higher low-temperature activity and CH
+4
+selectivity than a Ni/SiO
+2
+catalyst due to an enhanced local electron density of active sites, and different reaction pathways induced by SMSIs and reconstructed ZrO
+2
+species
+77
+. Dynamic SMSIs under a CO
+2
+hydrogenation atmosphere and different reduction temperatures have been demonstrated by a series of operando characterizations over a Ni/TiO
+2
+catalyst. The 400-Ni/TiO
+2
+catalyst with completely disrupted SMSI at 400 °C was more selective for CH
+4
+synthesis, and the 600-Ni/TiO
+2
+catalyst with a partially re-established SMSI at 600 °C produced more C
+2+
+products because of the tunable intermediate species
+78
+.
+Unique structures
+Rational engineering of a catalyst’s structure is expected to determine its catalytic performance
+79
+. Catalytic performance is structurally sensitive, to a certain degree. In addition to conventional supported catalysts, many catalysts with unique structures, such as porous metal–organic frameworks (MOFs), core/yolk-shell structure, sandwich structures, layered double hydroxide (LDH), bifunctional oxide-zeolites (OX-ZEO)
+11
+,
+80
+and inverse structures, have been designed for CO
+2
+hydrogenation. Catalysts with unique structures influence product selectivity (Fig.
+6
+). For example, the inverse CeAlO
+x
+/Ni, ZrO
+2
+/Cu and CeO
+x
+/Cu catalysts are more efficient for CH
+4
+or methanol synthesis than their traditional counterparts
+81
+,
+82
+,
+83
+.
+Fig. 6: Unique catalyst structures for regulating CO
+2
+hydrogenation selectivity.
+a
+, Scheme of a representative core–shell structured catalyst (such as Cu@Na-Beta) for selective CO
+2
+hydrogenation.
+b
+,
+c
+, Schemes of representative 2D layered structured catalysts (for example Ni@siloxene nanosheets) for tunable product selectivity.
+d
+, Pd
+2
+Ce@Si
+16
+nanoreactor with unique structure and enriched water produces ~100% ethanol as the product
+89
+. The dimeric Pd active sites favour C–O bond cleavage and C–C coupling to ethanol, and the enriched in situ-generated water by the hydrophobic silica shell changes the reaction microenvironment to improve ethanol yield. Blue ball, Pd; yellow circle, CeO
+2
+; red circle, silica.
+e
+, Different combinations (or proximity effects) of multifunctional components (such as Na–Fe
+3
+O
+4
+and HZSM-5) over bifunctional oxide–zeolite (OX-ZEO) structured catalysts to change product distributions, with the granule-mixing method producing more C
+5+
+. Sel., selectivity; HCs, hydrocarbons
+11
+. Data from ref.
+11
+. Panel
+d
+adapted with permission from ref.
+89
+, American Chemical Society. Blue, metals; yellow, support; grey, reactor; black, C; red, O in the molecule; white, H.
+Full size image
+Core/yolk-shell structured catalysts have distinct catalytic properties for regulating product selectivity in CO
+2
+hydrogenation. Aitbekova and colleagues compared catalytic performances by engineering ruthenium–iron-oxide colloidal heterostructures
+84
+. Physical mixtures, heterodimers and core–shell structures of Ru and FeO
+x
+supported on Al
+2
+O
+3
+resulted in different product distributions, with the Ru–FeO
+x
+core–shell-based catalyst exhibiting higher selectivity to hydrocarbons, especially C
+2
+–C
+4
+products. When the active sites of ultrasmall Cu/ZnO
+x
+NPs for methanol synthesis were confined in MOFs, the resulting Cu/ZnO
+x
+@MOF catalysts were found to convert CO
+2
+to methanol with 100% selectivity, whereas CuZnAl showed only 54.8% selectivity to methanol under identical reaction conditions (Table
+1
+)
+85
+. The advantages of core–shell structured catalysts have also been demonstrated over Cu/ZIF-8 and CNTs@MoS
+2
+catalysts for methanol synthesis
+86
+,
+87
+. An example of the unique interactions between the reactive centres and their surrounding microenvironments is seen with the Cu@Na-Beta zeolite catalyst
+88
+, which demonstrates ~100% selectivity towards ethanol in organic products during CO
+2
+hydrogenation (Fig.
+6a
+and Table
+1
+). This shows how a conventional Cu-based catalyst for methanol synthesis can be transformed to perform ethanol synthesis, by achieving synergism between the irregular Cu NPs and the surrounding Na-Beta zeolitic frameworks. The intermediates were confined in the zeolitic framework for further hydrogenation, and therefore by-products could be eliminated during the hydrogenation process. Recently, a diatomic Pd catalyst was found to exhibit 97.8% selectivity to ethanol, whereas a single-atom Pd catalyst preferentially produced methanol at 90.8% selectivity (Table
+1
+)
+89
+. The diatomic Pd
+2
+Ce@Si
+16
+nanoreactor, with a hydrophobic shell for enriching water, showed selective ethanol production for 60 h owing to the multifunctional synergistic catalysis of dual active sites, and the silica layer altered the reaction microenvironment (Fig.
+6d
+)
+89
+. Inspired by the advantages of core–shell structured catalysts, high selectivity (~65%) towards C
+2+
+olefins with low selectivity (~23%) towards CO
+2
+and CH
+4
+was achieved during a 100-h stability test over a hydrophobic core–shell FeMn@Si catalyst. Although this is an example of Fischer–Tropsch synthesis, it illustrates the power of hydrophobic core–shell catalysts for tuning product selectivity
+90
+.
+Two-dimensional (2D) layered structured materials, such as layered double hydroxides (LDHs) and siloxene nanosheets, have also attracted considerable attention as CO
+2
+hydrogenation catalysts and catalyst precursors. LDHs have been used as catalyst precursors to prepare intermetallic compounds for CO
+2
+hydrogenation. A series of In–Ni catalysts derived from NiAl-LDH have been reported to exhibit excellent performance for the RWGS reaction, with >99% CO selectivity and minimal CH
+4
+production
+91
+. For siloxene nanosheets (SiXNS), traditional SiO
+2
+-supported Ni catalysts have been widely reported for CO
+2
+methanation. With careful control of the location of Ni NPs in the SiXNS, CO selectivity and CH
+4
+selectivity can be tuned (Fig.
+6b,c
+)
+92
+. These works present an approach for regulating product selectivity via control of active site location and the number of support layers.
+A sandwich MIL-101@Pt@MIL-101 with MOFs serving as effective selectivity regulators has been reported to be highly selective towards unsaturated alcohol production
+93
+. This strategy has inspired research interest into MOF-based sandwich catalysts for heterogeneous reactions such as CO
+2
+hydrogenation. For example, spherical sandwich Au@Pd@UiO-67/Pt@UiO‑
+n
+catalysts have been reported to be selective for CO production over CH
+4
+(ref.
+94
+). These findings reflect the potential of improving catalytic performance by engineering the catalyst structure.
+Bifunctional structured catalysts or tandem catalysts have recently been investigated for C
+2+
+production, for example, for dimethyl ether (DME), light olefins, gasoline fuel and aromatics such as
+para
+-xylene (PX)
+95
+,
+96
+,
+97
+. In 2016, the tandem catalyst ZnCrO
+x
+/MSAPO demonstrated light olefin selectivity of up to 80% and C
+2
+–C
+4
+hydrocarbon selectivity of 94% at a CO conversion of only 17%, which breaks through the Anderson–Schulz–Flory (ASF) distributions with a theoretical maximum selectivity of C
+2
+–C
+4
+hydrocarbons of up to 58%
+11
+,
+98
+. This approach has recently been optimized by incorporating ZnCrO
+x
+with Ge-substituted AlPO-18 zeolite, simultaneously obtaining high light olefins selectivity (83%) and high CO conversion (85%)
+99
+.
+Generally, tandem catalysts contain metal oxides and zeolites (OX-ZEO) with complementary properties, where the OX activates CO
+2
+and H
+2
+to form methanol, DME or olefin intermediates, and the ZEO contains abundant acid sites and can perform subsequent C–C coupling reactions. Notably, the type of OX-ZEO species, the relative amounts of each component, the acid and pore properties of the zeolites, and the integration manner of OX-ZEO with different proximities affects product selectivity
+100
+. For instance, an In
+2
+O
+3
+/SAPO-34 catalyst produces 81.9% C
+2
+–C
+4
+hydrocarbons
+101
+. However, more C
+5+
+hydrocarbons (78.6%) are produced over In
+2
+O
+3
+/HZSM-5, where the zeolite has been changed from SAPO-34 to HZSM-5
+100
+. If the zeolite Brønsted-acid sites are optimized, the C
+2+
+product distribution over the tandem OX-ZEO catalysts can be controlled.
+The proximity and integration of metal oxides and zeolites can also regulate product distributions. As shown in Fig.
+6e
+, hydrocarbon distributions (especially CH
+4
+and C
+5
+–C
+11
+) over a Na–Fe
+3
+O
+4
+/HZSM-5 catalyst are influenced by their manner of integration, for example, with powder-mixing, granule-mixing or dual-bed configurations (Table
+1
+)
+11
+. This is probably because of the complicated reaction mechanism. Further studies have developed additional integration approaches such as core–shell and chain structures. The composite catalyst ZnO–ZrO
+2
+@SAPO-34, with its core–shell structure, could improve the selectivity of light olefins and decrease CO selectivity from 78.2% to 45.3% compared to physically blended catalysts, due to its promoting synergistic effects
+102
+. When ZnZrO
+x
+/SAPO-34 is encapsulated in a UiO layer, more C
+2
+–C
+4
+0
+can be converted to C
+2
+–C
+4
+=
+light olefin products (Table
+1
+)
+95
+. The chain length (0.16–1.41 μm) of chainlike HZSM-5 nanocrystals affects product selectivity. More
+para
+-xylene is produced over a ZnZrO
+x
+/HZSM-5 catalyst with longer chain lengths, with tetramethylbenzene (TeMB) formation being favoured with shorter chain lengths
+103
+,
+104
+.
+In summary, more advanced catalytic structures should be designed based on literature selectivity data for CO
+2
+hydrogenation. Furthermore, the configuration, electronic state and atomic structure of active sites need to be revealed for the rational tuning of product selectivity. Knowing definitively the structures of the active sites may inspire new designs of efficient CO
+2
+hydrogenation catalysts. Additionally, the selective mechanism of emerging catalyst structures should be investigated.
+Others
+In addition to the above-mentioned five principles for tuning product selectivity, other factors also affect CO
+2
+hydrogenation selectivity, such as the active-site microenvironment
+105
+, metal–support interfaces
+69
+,
+106
+, oxygen vacancy concentration
+107
+and the coordination structure of the active sites
+108
+. For example, Rh active sites with different nanoporous environments induced by different zeolite supports tune the hydrogenation product from CH
+4
+to CO (ref.
+105
+). Furthermore, Ru active sites encapsulated in ZrSBA-15 have an amine group-tailored microenvironment, and therefore exhibit activity for formic acid synthesis
+109
+. Additionally, C
+3
+N
+4
+-supported Cu with a Cu–N
+4
+structure produced methanol as the main product, whereas the Cu–N
+3
+structure has CO as the main product
+108
+. Therefore, the factors important in the design of catalysts for selective CO
+2
+hydrogenation are complicated, and careful analysis of the active sites is necessary.
+Future perspectives
+CO
+2
+hydrogenation technologies are developing rapidly, and advances have been achieved in catalyst design, especially under the framework of a carbon-neutral and sustainable future. Catalyst design should consider active metal selection, the addition of promoters, optimization of the support and fine-tuning of MSIs. Advanced catalyst structures play a crucial role in ensuring effective end-product selectivity control and high yields. Product selectivity is the major challenge when working on CO
+2
+valorization, and there are still challenges that must be addressed. Two avenues for future exploration are discussed in the following.
+Catalyst design towards selective transformations
+Catalysts for CO
+2
+hydrogenation to CO
+To enhance CO selectivity, the active sites should have suitable hydrogenation ability, neither too high to produce CH
+4
+nor too low to achieve low CO
+2
+conversion. A number of metal-based catalysts generate CO, and Cu- or Mo-based catalysts are promising candidates, as they can produce more than 90% CO under high reaction temperatures via RWGS
+110
+. However, the Cu NP size, Cu–support interfaces and the ratio of Cu
+0
+to Cu
++
+must be further optimized to tune CO selectivity. With Ni- or Ru-based catalysts, it is also possible to produce high CO selectivity under low reaction temperatures by engineering active sites with lower metal loading, higher valence states, promoters or distinct crystal facets. The key is to regulate catalyst hydrogenation ability and therefore the reaction intermediates.
+Catalysts for CO
+2
+hydrogenation to CH
+4
+Methane selectivity over Ni- or Ru-based catalysts, for example, is typically greater than 99% and therefore does not need further optimization. However, activity and stability under low reaction temperatures (<250 °C) should be improved. One suggested route for improvement is to increase the local electron density of active sites by engineering the crystal facets and the formation of more oxygen vacancies and surface hydroxyl groups. Although silica and related zeolites have a large surface area and are low cost, they are not suitable for supporting Ni or Ru towards CO
+2
+methanation due to the weak hydrogenation ability and generation of CO. Al
+2
+O
+3
+, ZrO
+2
+and rare earth oxides are ideal support candidates, and more Ni–O
+V
+–Zr or Ni–O
+V
+–Ce interface active sites should be constructed to boost CO
+2
+activation under low reaction temperatures. The stability of Ni-based catalysts can be increased when the reaction temperatures decrease due to weakened Ni sintering. Ni active site stabilities can also be enhanced by synthesizing catalysts through an electrospinning method, where active sites are also proposed to be in situ-encapsulated into CeO
+2
+and ZrO
+2
+nanofibre supports. The NP size and the distance between isolated metal active sites also affect stability
+111
+.
+Catalysts for CO
+2
+hydrogenation to alcohols
+Cu-based catalysts are the predominant catalysts for methanol synthesis, but their stability remains low. Single-atom Cu
+1
+–O
+3
+units have 100% selectivity towards methanol, so more single-atom Cu
+1
+–O
+3
+units should be examined for this transformation. To enhance the stability of Cu-based active sites, it is beneficial to anchor them into a confined space and examine their operation at lower reaction temperatures without compromising activity. Furthermore, emerging non-Cu-based catalysts, such as In- or Pd-based catalysts and Zn or Ga–Zr solid-solution catalysts are selective for methanol synthesis, with excellent stability. For example, a ZnO–ZrO
+2
+solid solution, a supported In
+2
+O
+3
+/ZrO
+2
+catalyst and a sulfur vacancy-rich MoS
+2
+catalyst exhibited 550 h (ref.
+59
+), 1,000 h (ref.
+112
+) and 3,000 h (ref.
+16
+) of stable reactivity and methanol selectivity, respectively. The ZnO–ZrO
+2
+sample was even stable under sulfur-containing gaseous streams. However, their activity remains relatively low, and promoters are required to enhance this. For the synthesis of C
+2+
+alcohols, it is necessary to modify active sites to include C–C coupling centres. The surrounding microenvironment and synergistic effect of the active sites is of importance for C
+2+
+alcohol synthesis.
+Catalysts for CO
+2
+hydrogenation to C
+2+
+products
+Most catalysts demonstrate good selectivity for C
+1
+products. However, achieving high selectivity for C
+2+
+products, such as DME, light olefins and C
+5+
+products is challenging due to the need for precise control of C–O activation and subsequent C–C coupling. C
+2+
+product selectivity is initially high, but usually decreases quickly after the initial evaluation, so further stabilization of the active sites and optimization of the microenvironment is still necessary. Efficient catalysts should be designed to break the ASF distribution, improving the selectivity of the target product. Promoters, such as alkali metals, and designing multifunctional oxide–zeolite catalysts have been demonstrated to be effective strategies for enhancing C
+2+
+synthesis. For example, a Cu–Fe catalyst showed deactivation over 50 h for the synthesis of C
+4+
+=
+(ref.
+113
+), but co-modification of the Fe catalyst by Ba and Na stabilized the FeC
+x
+active sites, increasing the stability up to 500 h (ref.
+114
+). For future research, the balance between the precise matching of various active sites and the mechanism of carbon chain growth should be examined, in particular the precise control of C–O bond activation and C–C bond coupling over multifunctional catalysts. Current catalysts produce a mix of C
+2+
+hydrocarbons, so obtaining high selectivity for a single C
+2+
+product like ethylene or propylene is still difficult. One promising strategy is tuning catalyst properties such as the surface acidity of active sites over zeolites, the oxygen vacancy density or the chemical states of active sites over metal oxides. Therefore, we also suggest the consideration of comprehensive factors to enhance product selectivity with the assistance of machine learning.
+Catalytic reaction engineering for tuning selectivity
+Catalytic reaction engineering technologies should develop in parallel to catalyst design to exploit advanced catalysts. This section discusses emerging catalytic reaction engineering technologies to assist in tuning selectivity, including reaction conditions, reactor design, in situ characterization and mechanism investigation, technological and economic analysis, as well as industrial application.
+Reaction conditions
+The external operating conditions, such as reaction temperatures and solvents, influence product selectivity. When water, also a reaction product, is used as the CO
+2
+hydrogenation solvent, it can influence CO
+2
+conversion, product selectivity and catalyst stability. Generally, CO
+2
+hydrogenation is performed in a fixed-bed reactor without reaction solvents. However, solvents are sometimes used in stainless-steel autoclave reactors to disperse the catalyst. The effect of solvents on CO
+2
+hydrogenation performance and its reaction mechanism have been examined
+7
+,
+115
+,
+116
+. Different solvents and the amount of solvent can affect catalytic performance. The choice of solvent is crucial; for example, polar solvents favour the formation of higher alcohols. This is because solvents may be involved in the reaction and promote the reaction kinetically as well as affecting methanol selectivity via methoxy hydrolysis. The enhancing of the target product’s selectivity, as well as the long-term stability of catalysts under solvent atmospheres, should be examined via deep learning. Additionally, the use of solvents to replace hydrogen should be studied.
+CO
+2
+hydrogenation to target products under milder reaction conditions, such as low reaction temperatures, low partial pressures of CO
+2
+, low CO
+2
+concentrations and CO
+2
+conversion in confined spaces is important. However, achieving high CO
+2
+hydrogenation selectivity under mild reaction conditions is still challenging. Emerging reaction technologies such as plasma, photothermal catalytic technology, magnetic induction heating technology and electrocatalytic technology may aid this goal. An increasing number of studies have used non-thermal plasma (NTP) technology to treat catalysts or for direct use in CO
+2
+hydrogenation. The use of low-temperature plasma instead of high-temperature calcination to treat catalyst precursors can avoid thermal diffusion and the agglomeration of metal species. Thus, plasma technology can yield smaller metal NPs with a higher density of oxygen vacancies, enhance MSIs, optimize metal–support interfaces, and ultimately improve catalytic activity and product selectivity. NTP technology can also generate numerous highly energetic electrons (~1–10 eV) to facilitate the direct activation of CO
+2
+and H
+2
+molecules or change possible reaction pathways in CO
+2
+hydrogenation, ultimately breaking the thermodynamic equilibrium limitation under mild reaction conditions
+117
+. This plasma technology provides us with an additional way to tune product selectivity and yield. However, not all plasma processes can change product selectivity.
+Photo-assisted and electro-assisted CO
+2
+hydrogenation can simultaneously utilize solar or electrical energy and thermal energy to boost CO
+2
+hydrogenation and to regulate product selectivity
+118
+,
+119
+,
+120
+. The introduction of solar irradiation on catalysts can increase the catalyst surface temperature, reduce the activation energy, change the reaction intermediate species and product formation or desorption capabilities, and therefore can tune product selectivity
+19
+. CO
+2
+electrohydrogenation is also a promising strategy for CO
+2
+reduction. For example, upon tuning Ir–O hybridization over an Ir–Ce-based catalyst, selectivity for the CO or CH
+4
+product could be regulated
+118
+. Therefore photo-assisted and electro-assisted CO
+2
+hydrogenation technology can control catalytic performance and synthesize solar fuels under mild reaction conditions using renewable energy.
+Reactor design
+The reactor configuration can also tune CO
+2
+hydrogenation product distributions. CO
+2
+hydrogenation reactions are usually operated in a continuous fixed-bed reactor or one-pot batch reactor. However, hot spots and large amounts of water produced during the reaction, especially in CO
+2
+methanation, can change the product selectivity over the course of the reaction and accelerate catalyst deactivation. Future research efforts could focus on the design and optimization of reactors to enhance heat transfer and in situ separate water, altering the thermodynamic equilibrium to achieve the desired product selectivity. For instance, a membrane reactor with a Cu–ZnO–Al
+2
+O
+3
+–ZrO
+2
+catalytic layer and a zeolite membrane could in situ-adsorb water with the zeolite membrane and achieve ~100% methanol selectivity, even at 36.1% of CO
+2
+conversion
+121
+. 3D-printed self-catalytic reactors, integrating the catalyst and reactor, can effectively convert C
+1
+molecules
+122
+. For the synthesis of heavy hydrocarbons such as C
+5+
+products, the design of slurry, fluidized bed, recycle and cascade reactors should be investigated as they can better remove the generated heat. Thermal reactors have been modified with external magnetic or sunlight fields to assist CO
+2
+activation and guide hydrogenation products. Additionally, the design of catalysts as micro- or nanoreactors should be investigated, as components can be integrated into compartmentalized units and perform CO
+2
+hydrogenation like an artificial cell.
+In situ characterization and mechanism investigation
+Although there are many catalyst structures for CO
+2
+hydrogenation, there are real-time changes in catalyst structures during the reaction process. The use of operando or in situ characterization technologies to examine the real catalyst structure and reveal the reaction mechanism (especially the proximity effect), and thus bring insights about the structure–performance relationship, remains challenging, although advances are being made in this field
+24
+,
+55
+,
+113
+,
+123
+,
+124
+,
+125
+. The precise identification and exploration of active sites with advanced characterization techniques is useful for next-generation catalyst design. More-detailed applications of operando and in situ characterization technologies such as in situ synchrotron X-ray absorption spectroscopy (XAS), in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS), ambient pressure X-ray photoelectron spectroscopy (AP-XPS) and environmental transmission electron microscopy (ETEM) must be carried out to improve static models of structure–activity relationships. This could help to reveal the selective catalytic mechanism of CO
+2
+hydrogenation. For example, Park’s group used AP-XPS and in situ DRIFTS to reveal the reconstructed active sites of a Cu–Ni alloy surface for tuning CO
+2
+hydrogenation selectivity from CH
+4
+to CO (ref.
+55
+). Catalyst reconstruction necessitates gaining a fundamental understanding of active sites, which can be achieved with operando studies. The development of strategies to maintain active species in the reaction atmosphere is important. Based on operando and in situ characterization results, the relationship between catalyst structure and catalytic performance is key for revealing the reaction mechanism. Theoretical calculations have been widely used to investigate the reaction mechanism of CO
+2
+hydrogenation; however, calculations for C
+2+
+products are challenging as their reaction pathways are complicated and the main intermediates difficult to detect with in situ DRIFTS. As more data are reported, machine learning technology may be a useful tool for investigating the reaction mechanism, and to propose new catalyst design strategies. It is essential to simplify the real catalytic reaction conditions and further develop new technology based on various characterization methods to realize an approximation of the real reaction mechanism of CO
+2
+hydrogenation.
+Techno-economic analysis
+The techno-economic viability of designed catalysts applied to CO
+2
+hydrogenation should be emphasized, as this is important for further industrial application. Techno-economic analyses of CO
+2
+hydrogenation products, and the corresponding selling price, indicate that products such as CH
+4
+, methanol, DME and liquid fuels are not profitable at present
+126
+. The cost mainly comes from raw materials, capital investment and operational costs. For example, Cordero–Lanzac and colleagues reported that the cost of hydrogen comprised up to 67.5% of the ultimate methanol price
+127
+. Additionally, most catalysts are operated under a high CO
+2
+concentration without sulfur impurities, so CO
+2
+capture and compression are also costly. Capital investment is necessary, but operational costs differ according to the different catalytic systems. CO
+2
+hydrogenation is usually operated under high reaction pressures and temperatures, so some product costs also come from operating conditions. Efficient catalysts that can be operated under mild reaction conditions would lower these. To make CO
+2
+hydrogenation an economically feasible technology, governments could incentivize decreased hydrogen prices and increase CO
+2
+tax credits.
+Industrial applications
+CO
+2
+hydrogenation reactions are gathering momentum for realistic industrial applications, including synthetic natural gas, methanol, DME and gasoline production using CO
+2
+as the carbon source. Combined with green hydrogen production from water electrolysis, the pilot-scale production of CH
+4
+and methanol from CO
+2
+hydrogenation has been implemented by Audi company and Dalian Institute of Chemical Physics (DICP), respectively. The DICP has also developed a kiloton pilot device for CO
+2
+hydrogenation to gasoline based on multifunctional catalysts, and KOGAS Corp in Korea has industrialized CO
+2
+-to-DME conversion
+128
+. Apart from product selectivity, additional factors such as long-term stability, large-scale production cost and catalyst loading method should be considered during industrial application. For example, when methanol synthesis catalysts are loaded in a reactor with a high catalyst bed, the selectivity of higher alcohols increases compared to the laboratory scale. Future industrial applications require robust CO
+2
+hydrogenation catalysts and advances in related technologies such as CO
+2
+capture, green hydrogen production and optimized reactors.
+References
+Xie, Z. et al. CO
+2
+fixation into carbon nanofibres using electrochemical–thermochemical tandem catalysis.
+Nat. Catal.
+7
+, 98–109 (2024).
+CAS
+Google Scholar
+Yan, X. et al. Visualizing the birth and monitoring the life of a bimetallic methanation catalyst.
+J. Am. Chem. Soc.
+145
+, 27358–27366 (2023).
+CAS
+PubMed
+Google Scholar
+Ye, R. P. et al. CO
+2
+hydrogenation to high-value products via heterogeneous catalysis.
+Nat. Commun.
+10
+, 5698 (2019).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Karadaghi, L. R. et al. Multivariate Bayesian optimization of CoO nanoparticles for CO
+2
+hydrogenation catalysis.
+J. Am. Chem. Soc.
+146
+, 14246–14259 (2024).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Cai, T. et al. Cell-free chemoenzymatic starch synthesis from carbon dioxide.
+Science
+373
+, 1523–1527 (2021).
+CAS
+PubMed
+Google Scholar
+Rueda-Navarro, C. M. et al. Solar gas-phase CO
+2
+hydrogenation by multifunctional UiO-66 photocatalysts.
+ACS Catal.
+14
+, 6470–6487 (2024).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Ye, X. et al. Highly selective hydrogenation of CO
+2
+to ethanol via designed bifunctional Ir
+1
+-In
+2
+O
+3
+single-atom catalyst.
+J. Am. Chem. Soc.
+142
+, 19001–19005 (2020).
+CAS
+PubMed
+Google Scholar
+Kattel, S., Liu, P. & Chen, J. G. Tuning selectivity of CO
+2
+hydrogenation reactions at the metal/oxide interface.
+J. Am. Chem. Soc.
+139
+, 9739–9754 (2017).
+CAS
+PubMed
+Google Scholar
+Li, Z. et al. Highly selective conversion of carbon dioxide to lower olefins.
+ACS Catal.
+7
+, 8544–8548 (2017).
+CAS
+Google Scholar
+Li, Z. et al. Highly selective conversion of carbon dioxide to aromatics over tandem catalysts.
+Joule
+3
+, 570–583 (2019).
+CAS
+Google Scholar
+Wei, J. et al. Directly converting CO
+2
+into a gasoline fuel.
+Nat. Commun.
+8
+, 15174–15181 (2017).
+PubMed
+PubMed Central
+Google Scholar
+Melaet, G. et al. Evidence of highly active cobalt oxide catalyst for the Fischer-Tropsch synthesis and CO
+2
+hydrogenation.
+J. Am. Chem. Soc.
+136
+, 2260–2263 (2014).
+CAS
+PubMed
+Google Scholar
+Aitbekova, A. et al. Low-temperature restructuring of CeO
+2
+-supported Ru nanoparticles determines selectivity in CO
+2
+catalytic reduction.
+J. Am. Chem. Soc.
+140
+, 13736–13745 (2018).
+CAS
+PubMed
+Google Scholar
+Luo, Z., Zhao, G., Pan, H. & Sun, W. Strong metal–support interaction in heterogeneous catalysts.
+Adv. Energy Mater.
+12
+, 2201395 (2022).
+CAS
+Google Scholar
+Have, I. C. T. et al. Uncovering the reaction mechanism behind CoO as active phase for CO
+2
+hydrogenation.
+Nat. Commun.
+13
+, 324 (2022).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Hu, J. et al. Sulfur vacancy-rich MoS
+2
+as a catalyst for the hydrogenation of CO
+2
+to methanol.
+Nat. Catal.
+4
+, 242–250 (2021).
+CAS
+Google Scholar
+Yu, J. et al. Stabilizing Cu
++
+in Cu/SiO
+2
+catalysts with a shattuckite-like structure boosts CO
+2
+hydrogenation into methanol.
+ACS Catal.
+10
+, 14694–14706 (2020).
+CAS
+Google Scholar
+Barreau, M. et al. Ionic nickel embedded in ceria with high specific CO
+2
+methanation activity.
+Angew. Chem. Int. Ed.
+62
+, e202302087 (2023).
+CAS
+Google Scholar
+Song, C. et al. Photothermal conversion of CO
+2
+with tunable selectivity using Fe-based catalysts: from oxide to carbide.
+ACS Catal.
+10
+, 10364–10374 (2020).
+CAS
+Google Scholar
+Zhu, J. et al. Dynamic structural evolution of iron catalysts involving competitive oxidation and carburization during CO
+2
+hydrogenation.
+Sci. Adv.
+8
+, eabm3629 (2022).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zhao, B. et al. Unveiling the activity origin of iron nitride as catalytic material for efficient hydrogenation of CO
+2
+to C
+2+
+hydrocarbons.
+Angew. Chem. Int. Ed.
+60
+, 4496–4500 (2021).
+CAS
+Google Scholar
+Yang, H. et al. Tuning the selectivity of CO
+2
+hydrogenation to alcohols by crystal structure engineering.
+Chem
+10
+, 2245–2265 (2024).
+CAS
+Google Scholar
+Zhang, X. et al. Optimum Cu nanoparticle catalysts for CO
+2
+hydrogenation towards methanol.
+Nano Energy
+43
+, 200–209 (2018).
+Google Scholar
+Yang, M. et al. Probing the nature of zinc in copper-zinc-zirconium catalysts by operando spectroscopies for CO
+2
+hydrogenation to methanol.
+Angew. Chem. Int. Ed.
+62
+, e202216803 (2023).
+CAS
+Google Scholar
+Zhao, H. et al. The role of Cu
+1
+–O
+3
+species in single-atom Cu/ZrO
+2
+catalyst for CO
+2
+hydrogenation.
+Nat. Catal.
+5
+, 818–831 (2022).
+CAS
+Google Scholar
+Zhu, J. et al. Deconvolution of the particle size effect on CO
+2
+hydrogenation over iron-based catalysts.
+ACS Catal.
+10
+, 7424–7433 (2020).
+CAS
+Google Scholar
+Feng, K. et al. Experimentally unveiling the origin of tunable selectivity for CO
+2
+hydrogenation over Ni-based catalysts.
+Appl. Catal. B Environ.
+292
+, 120191 (2021).
+CAS
+Google Scholar
+Yang, B., Wang, Y., Gao, B., Zhang, L. & Guo, L. Size-dependent active site and its catalytic mechanism for CO
+2
+hydrogenation reactivity and selectivity over Re/TiO
+2
+.
+ACS Catal.
+13
+, 10364–10374 (2023).
+CAS
+Google Scholar
+Choi, H., Oh, S., Trung Tran, S. B. & Park, J. Y. Size-controlled model Ni catalysts on Ga
+2
+O
+3
+for CO
+2
+hydrogenation to methanol.
+J. Catal.
+376
+, 68–76 (2019).
+CAS
+Google Scholar
+Oh, R. et al. Insights into CeO
+2
+particle size dependent selectivity control for CO
+2
+hydrogenation using Co/CeO
+2
+catalysts.
+ACS Catal.
+14
+, 897–906 (2024).
+CAS
+Google Scholar
+Wang, J. et al. Variation in the In
+2
+O
+3
+crystal phase alters catalytic performance toward the reverse water gas shift reaction.
+ACS Catal.
+10
+, 3264–3273 (2019).
+Google Scholar
+Yang, C. et al. The interplay between structure and product selectivity of CO
+2
+hydrogenation.
+Angew. Chem. Int. Ed.
+58
+, 11242–11247 (2019).
+CAS
+Google Scholar
+Li, X. et al. Controlling CO
+2
+hydrogenation selectivity by metal-supported electron transfer.
+Angew. Chem. Int. Ed.
+59
+, 19983–19989 (2020).
+CAS
+Google Scholar
+Li, W. et al. CO
+2
+hydrogenation on unpromoted and M-promoted Co/TiO
+2
+catalysts (M = Zr, K, Cs): effects of crystal phase of supports and metal-support interaction on tuning product distribution.
+ACS Catal.
+9
+, 2739–2751 (2019).
+CAS
+Google Scholar
+Karim, W. et al. Catalyst support effects on hydrogen spillover.
+Nature
+541
+, 68–71 (2017).
+CAS
+PubMed
+Google Scholar
+Yang, C. et al. Strong electronic oxide–support interaction over In
+2
+O
+3
+/ZrO
+2
+for highly selective CO
+2
+hydrogenation to methanol.
+J. Am. Chem. Soc.
+142
+, 19523–19531 (2020).
+CAS
+PubMed
+Google Scholar
+Rui, N. et al. Atomic structural origin of the high methanol selectivity over In
+2
+O
+3
+-metal interfaces: metal-support interactions and the formation of a InO
+x
+overlayer in Ru/In
+2
+O
+3
+catalysts during CO
+2
+hydrogenation.
+ACS Catal.
+13
+, 3187–3200 (2023).
+CAS
+Google Scholar
+Cui, X. et al. Improving methanol selectivity in CO
+2
+hydrogenation by tuning the distance of Cu on catalyst.
+Appl. Catal. B Environ.
+298
+, 120590 (2021).
+CAS
+Google Scholar
+Dong, C. et al. Disentangling local interfacial confinement and remote spillover effects in oxide-oxide interactions.
+J. Am. Chem. Soc.
+145
+, 17056–17065 (2023).
+CAS
+PubMed
+Google Scholar
+Chen, J. et al. Photoinduced precise synthesis of diatomic Ir
+1
+Pd
+1
+‐In
+2
+O
+3
+for CO
+2
+hydrogenation to methanol via angstrom‐scale‐distance dependent synergistic catalysis.
+Angew. Chem. Int. Ed.
+63
+, e202401168 (2024).
+CAS
+Google Scholar
+Liang, J. et al. CO
+2
+hydrogenation over Fe-Co bimetallic catalysts with tunable selectivity through a graphene fencing approach.
+Nat. Commun.
+15
+, 512 (2024).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Song, T. et al. Enhanced methanol synthesis over self‐limited ZnO
+x
+overlayers on Cu nanoparticles formed via gas‐phase migration route.
+Angew. Chem. Int. Ed.
+63
+, e202316888 (2024).
+CAS
+Google Scholar
+Wang, M. et al. Stabilizing Co
+2
+C with H
+2
+O and K promoter for CO
+2
+hydrogenation to C
+2+
+hydrocarbons.
+Sci. Adv.
+9
+, eadg0167 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Pinheiro Araújo, T. et al. Low-nuclearity CuZn ensembles on ZnZrO
+x
+catalyze methanol synthesis from CO
+2
+.
+Nat. Commun.
+15
+, 3101 (2024).
+PubMed
+PubMed Central
+Google Scholar
+Liao, W. & Liu, P. Methanol synthesis from CO
+2
+hydrogenation over a potassium-promoted Cu
+x
+O/Cu(111) (
+x
+≤ 2) model surface: rationalizing the potential of potassium in catalysis.
+ACS Catal.
+10
+, 5723–5733 (2020).
+CAS
+Google Scholar
+Li, S. et al. Tuning the CO
+2
+hydrogenation selectivity of rhodium single-atom catalysts on zirconium dioxide with alkali ions.
+Angew. Chem. Int. Ed.
+135
+, e202218167 (2023).
+Google Scholar
+Wang, J. et al. In‐situ‐formed potassium‐modified nickel‐zinc carbide boosts production of higher alcohols beyond CH
+4
+in CO
+2
+hydrogenation.
+Angew. Chem. Int. Ed.
+62
+, e202311335 (2023).
+CAS
+Google Scholar
+Wang, Y. et al. Carbon‐based electron buffer layer on ZnO
+x
+‐Fe
+5
+C
+2
+‐Fe
+3
+O
+4
+boosts ethanol synthesis from CO
+2
+hydrogenation.
+Angew. Chem. Int. Ed.
+135
+, e202311786 (2023).
+Google Scholar
+Wei, X. et al. Surfactants used in colloidal synthesis modulate Ni nanoparticle surface evolution for selective CO
+2
+hydrogenation.
+J. Am. Chem. Soc.
+145
+, 14298–14306 (2023).
+CAS
+PubMed
+Google Scholar
+Xie, Y. et al. Overturning CO
+2
+hydrogenation selectivity by tailoring the local electron density of Ru/CeO
+2
+catalysts.
+ACS Catal.
+14
+, 12214–12224 (2024).
+CAS
+Google Scholar
+Frei, M. S. et al. Nanostructure of nickel-promoted indium oxide catalysts drives selectivity in CO
+2
+hydrogenation.
+Nat. Commun.
+12
+, 1960 (2021).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Cannizzaro, F., Hensen, E. J. M. & Filot, I. A. W. The promoting role of Ni on In
+2
+O
+3
+for CO
+2
+hydrogenation to methanol.
+ACS Catal.
+13
+, 1875–1892 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Hong, S., Reddy, K. P., Song, Y., Park, D. & Park, J. Y. Enhanced methanol formation in CO
+2
+hydrogenation through synergistic copper and gallium interaction.
+J. Catal.
+437
+, 115643 (2024).
+CAS
+Google Scholar
+Zhang, X. et al. Reversible loss of core–shell structure for Ni–Au bimetallic nanoparticles during CO
+2
+hydrogenation.
+Nat. Catal.
+3
+, 411–417 (2020).
+CAS
+Google Scholar
+Reddy, K. P. et al. Tuning CO
+2
+hydrogenation selectivity through reaction-driven restructuring on Cu-Ni bimetal catalysts.
+ACS Appl. Mater. Interfaces
+15
+, 9373–9381 (2023).
+CAS
+Google Scholar
+Liao, F. et al. A promising low pressure methanol synthesis route from CO
+2
+hydrogenation over Pd@Zn core-shell catalysts.
+Green Chem.
+19
+, 270–280 (2017).
+CAS
+Google Scholar
+Miao, W. et al. Architecture design and catalytic activity: non‐noble bimetallic CoFe/Fe
+3
+O
+4
+core-shell structures for CO
+2
+hydrogenation.
+Adv. Sci.
+10
+, 2205087 (2023).
+CAS
+Google Scholar
+Deng, K. et al. Observing chemical and morphological changes in a Cu@TiO
+x
+core@shell catalyst: impact of reversible metal-oxide interactions on CO
+2
+activation and hydrogenation.
+ACS Catal.
+14
+, 11832–11844 (2024).
+CAS
+Google Scholar
+Wang, J. et al. A highly selective and stable ZnO-ZrO
+2
+solid solution catalyst for CO
+2
+hydrogenation to methanol.
+Sci. Adv.
+3
+, e1701290 (2017).
+PubMed
+PubMed Central
+Google Scholar
+Wang, J. et al. High-performance M
+a
+ZrO
+x
+(M
+a
+= Cd, Ga) solid-solution catalysts for CO
+2
+hydrogenation to methanol.
+ACS Catal.
+9
+, 10253–10259 (2019).
+CAS
+Google Scholar
+Millet, M. M. et al. Highly dispersed Ni
+0
+/Ni
+x
+Mg
+1−
+x
+O catalysts derived from solid solutions: how metal and support control the CO
+2
+hydrogenation.
+ACS Catal.
+9
+, 8534–8546 (2019).
+CAS
+Google Scholar
+Tsoukalou, A. et al. Operando X-ray absorption spectroscopy identifies a monoclinic ZrO
+2
+: in solid solution as the active phase for the hydrogenation of CO
+2
+to methanol.
+ACS Catal.
+10
+, 10060–10067 (2020).
+Google Scholar
+Tang, Y. et al. Ruthenium-cobalt solid-solution alloy nanoparticles for enhanced photopromoted thermocatalytic CO
+2
+hydrogenation to methane.
+ACS Nano
+18
+, 11449–11461 (2024).
+CAS
+PubMed
+Google Scholar
+Tada, S. et al. Active sites on Zn
+x
+Zr
+1−
+x
+O
+2−
+x
+solid solution catalysts for CO
+2
+-to-methanol hydrogenation.
+ACS Catal.
+12
+, 7748–7759 (2022).
+CAS
+Google Scholar
+Wang, W., Qu, Z., Song, L. & Fu, Q. CO
+2
+hydrogenation to methanol over Cu/CeO
+2
+and Cu/ZrO
+2
+catalysts: tuning methanol selectivity via metal-support interaction.
+J. Energy Chem.
+40
+, 22–30 (2020).
+CAS
+Google Scholar
+Yan, B. et al. Tuning CO
+2
+hydrogenation selectivity via metal-oxide interfacial sites.
+J. Catal.
+374
+, 60–71 (2019).
+CAS
+Google Scholar
+Lin, S. et al. Ni-Zn dual sites switch the CO
+2
+hydrogenation selectivity via tuning of the d-band center.
+ACS Catal.
+12
+, 3346–3356 (2022).
+CAS
+Google Scholar
+Meng, C. et al. Oxygen-deficient metal oxides supported nano-intermetallic InNi
+3
+C
+0.5
+toward efficient CO
+2
+hydrogenation to methanol.
+Sci. Adv.
+7
+, eabi6012 (2021).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zhou, J. et al. Interfacial compatibility critically controls Ru/TiO
+2
+metal-support interaction modes in CO
+2
+hydrogenation.
+Nat. Commun.
+13
+, 327 (2022).
+PubMed
+PubMed Central
+Google Scholar
+Parastaev, A. et al. Boosting CO
+2
+hydrogenation via size-dependent metal–support interactions in cobalt/ceria-based catalysts.
+Nat. Catal.
+3
+, 526–533 (2020).
+CAS
+Google Scholar
+Wang, X. et al. Modulating electronic interaction over Zr-ZnO catalysts to enhance CO
+2
+hydrogenation to methanol.
+ACS Catal.
+14
+, 508–521 (2024).
+Google Scholar
+Xu, M. et al. Renaissance of strong metal-support interactions.
+J. Am. Chem. Soc.
+146
+, 2290–2307 (2024).
+CAS
+PubMed
+Google Scholar
+Li, S. et al. Tuning the selectivity of catalytic carbon dioxide hydrogenation over iridium/cerium oxide catalysts with a strong metal-support interaction.
+Angew. Chem. Int. Ed.
+56
+, 10761–10765 (2017).
+CAS
+Google Scholar
+Xin, H. et al. Overturning CO
+2
+hydrogenation selectivity with high activity via reaction-induced strong metal-support interactions.
+J. Am. Chem. Soc.
+144
+, 4874–4882 (2022).
+CAS
+PubMed
+Google Scholar
+Zhang, W. et al. Overturning CO
+2
+hydrogenation selectivity via strong metal-support interaction.
+ACS Catal.
+14
+, 2409–2417 (2024).
+CAS
+Google Scholar
+Li, J. et al. Enhanced CO
+2
+methanation activity of Ni/anatase catalyst by tuning strong metal-support interactions.
+ACS Catal.
+9
+, 6342–6348 (2019).
+CAS
+Google Scholar
+Ye, R. P. et al. Boosting low-temperature CO
+2
+hydrogenation over Ni-based catalysts by tuning strong metal-support interactions.
+Angew. Chem. Int. Ed.
+136
+, e202317669 (2024).
+Google Scholar
+Monai, M. et al. Restructuring of titanium oxide overlayers over nickel nanoparticles during catalysis.
+Science
+380
+, 644–651 (2023).
+CAS
+PubMed
+Google Scholar
+Kordus, D. et al. Shape-dependent CO
+2
+hydrogenation to methanol over Cu
+2
+O nanocubes supported on ZnO.
+J. Am. Chem. Soc.
+145
+, 3016–3030 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Dhakshinamoorthy, A., Navalón, S., Primo, A. & García, H. Selective gas‐phase hydrogenation of CO
+2
+to methanol catalysed by metal‐organic frameworks.
+Angew. Chem. Int. Ed.
+63
+, e202311241 (2024).
+CAS
+Google Scholar
+Wu, C. et al. Inverse ZrO
+2
+/Cu as a highly efficient methanol synthesis catalyst from CO
+2
+hydrogenation.
+Nat. Commun.
+11
+, 5767 (2020).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Tang, X. et al. Thermally stable Ni foam-supported inverse CeAlO
+x
+/Ni ensemble as an active structured catalyst for CO
+2
+hydrogenation to methane.
+Nat. Commun.
+15
+, 3115 (2024).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Moncada, J. et al. Structural and chemical evolution of an inverse CeO
+x
+/Cu catalyst under CO
+2
+hydrogenation: tunning oxide morphology to improve activity and selectivity.
+ACS Catal.
+13
+, 15248–15258 (2023).
+CAS
+Google Scholar
+Aitbekova, A. et al. Engineering of ruthenium-iron oxide colloidal heterostructures: improved yields in CO
+2
+hydrogenation to hydrocarbons.
+Angew. Chem. Int. Ed.
+58
+, 17451–17457 (2019).
+CAS
+Google Scholar
+An, B. et al. Confinement of ultrasmall Cu/ZnO
+x
+nanoparticles in metal-organic frameworks for selective methanol synthesis from catalytic hydrogenation of CO
+2
+.
+J. Am. Chem. Soc.
+139
+, 3834–3840 (2017).
+CAS
+PubMed
+Google Scholar
+Velisoju, V. K. et al. Copper nanoparticles encapsulated in zeolitic imidazolate framework-8 as a stable and selective CO
+2
+hydrogenation catalyst.
+Nat. Commun.
+15
+, 2045 (2024).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zhou, S., Kosari, M. & Zeng, H. C. Boosting CO
+2
+hydrogenation to methanol over monolayer MoS
+2
+nanotubes by creating more strained basal planes.
+J. Am. Chem. Soc.
+146
+, 10032–10043 (2024).
+CAS
+PubMed
+Google Scholar
+Ding, L. et al. CO
+2
+hydrogenation to ethanol over Cu@Na-Beta.
+Chem
+6
+, 2673–2689 (2020).
+CAS
+Google Scholar
+Chen, J. et al. Rationally designed water enriched nano reactor for stable CO
+2
+hydrogenation with near 100% ethanol selectivity over diatomic palladium active sites.
+ACS Catal.
+13
+, 7110–7121 (2023).
+CAS
+Google Scholar
+Xu, Y. et al. A hydrophobic FeMn@Si catalyst increases olefins from syngas by suppressing C1 by-products.
+Science
+371
+, 610–613 (2021).
+CAS
+PubMed
+Google Scholar
+Guo, J., Wang, Z., Li, J. & Wang, Z. In-Ni intermetallic compounds derived from layered double hydroxides as efficient catalysts toward the reverse water gas shift reaction.
+ACS Catal.
+12
+, 4026–4036 (2022).
+CAS
+Google Scholar
+Yan, X. L. et al. Nickel@Siloxene catalytic nanosheets for high-performance CO
+2
+methanation.
+Nat. Commun.
+10
+, 2608 (2019).
+PubMed
+PubMed Central
+Google Scholar
+Zhao, M. et al. Metal–organic frameworks as selectivity regulators for hydrogenation reactions.
+Nature
+539
+, 76–80 (2016).
+CAS
+PubMed
+Google Scholar
+Xu, H. et al. Spherical sandwich Au@Pd@UiO-67/Pt@UiO-
+n
+(
+n
+= 66, 67, 69) core-shell catalysts: Zr-based metal–organic frameworks for effectively regulating the reverse water–gas shift reaction.
+ACS Appl. Mater. Interfaces
+11
+, 20291–20297 (2019).
+Jiang, Q. et al. Converting CO
+2
+hydrogenation products from paraffins to olefins: modification of zeolite surface properties by a UiO-
+n
+membrane.
+ACS Catal.
+12
+, 5894–5902 (2022).
+Xiao, J. et al. Tandem catalysis with double-shelled hollow spheres.
+Nat. Mater.
+21
+, 572–579 (2022).
+CAS
+PubMed
+Google Scholar
+Chen, S. et al. Hydrogenation of CO
+2
+to light olefins over ZnZrO
+x
+/SSZ‐13.
+Angew. Chem. Int. Ed.
+136
+, e202316874 (2024).
+Google Scholar
+Jiao, F. et al. Selective conversion of syngas to light olefins.
+Science
+351
+, 1065–1068 (2016).
+CAS
+PubMed
+Google Scholar
+Jiao, F. et al. Disentangling the activity-selectivity trade-off in catalytic conversion of syngas to light olefins.
+Science
+380
+, 727–730 (2023).
+CAS
+PubMed
+Google Scholar
+Gao, P. et al. Direct conversion of CO
+2
+into liquid fuels with high selectivity over a bifunctional catalyst.
+Nat. Chem.
+9
+, 1019–1024 (2017).
+CAS
+PubMed
+Google Scholar
+Dang, S. et al. Role of zirconium in direct CO
+2
+hydrogenation to lower olefins on oxide/zeolite bifunctional catalysts.
+J. Catal.
+364
+, 382–393 (2018).
+CAS
+Google Scholar
+Lu, P. et al. Synergistic effects of ZnO–ZrO
+2
+@SAPO-34 core-shell catalyst in catalyzing CO
+2
+hydrogenation for the synthesis of light olefins.
+Renew. Energy
+209
+, 546–557 (2023).
+CAS
+Google Scholar
+Wang, T. et al. ZnZrO
+x
+integrated with chain-like nanocrystal HZSM-5 as efficient catalysts for aromatics synthesis from CO
+2
+hydrogenation.
+Appl. Catal. B Environ.
+286
+, 119929 (2021).
+CAS
+Google Scholar
+Han, Y. et al. Interfacing with carbonaceous potassium promoters boosts catalytic CO
+2
+hydrogenation of iron.
+ACS Catal.
+10
+, 12098–12108 (2020).
+CAS
+Google Scholar
+Wang, C. et al. Product selectivity controlled by nanoporous environments in zeolite crystals enveloping rhodium nanoparticle catalysts for CO
+2
+hydrogenation.
+J. Am. Chem. Soc.
+141
+, 8482–8488 (2019).
+CAS
+PubMed
+Google Scholar
+Araújo, T. P. et al. Reaction‐induced metal–metal oxide interactions in Pd‐In
+2
+O
+3
+/ZrO
+2
+catalysts drive selective and stable CO
+2
+hydrogenation to methanol.
+Angew. Chem. Int. Ed.
+62
+, e202306563s (2023).
+Google Scholar
+Zheng, H. et al. Unveiling the key factors in determining the activity and selectivity of CO
+2
+hydrogenation over Ni/CeO
+2
+catalysts.
+ACS Catal.
+12
+, 15451–15462 (2022).
+CAS
+Google Scholar
+Yang, T. et al. Coordination tailoring of Cu single sites on C
+3
+N
+4
+realizes selective CO
+2
+hydrogenation at low temperature.
+Nat. Commun.
+12
+, 6022 (2021).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Liu, E. et al. Microenvironment modulation of single-atom Ru in ZrSBA-15 for CO
+2
+hydrogenation to formic acid.
+Inorg. Chem.
+62
+, 21497–21507 (2023).
+CAS
+PubMed
+Google Scholar
+Khoshooei, M. A. et al. An active, stable cubic molybdenum carbide catalyst for the high-temperature reverse water-gas shift reaction.
+Science
+384
+, 540–546 (2024).
+Google Scholar
+Matsubu, J. C., Yang, V. N. & Christopher, P. Isolated metal active site concentration and stability control catalytic CO
+2
+reduction selectivity.
+J. Am. Chem. Soc.
+137
+, 3076–3084 (2015).
+CAS
+PubMed
+Google Scholar
+Martin, O. et al. Indium oxide as a superior catalyst for methanol synthesis by CO
+2
+hydrogenation.
+Angew. Chem. Int. Ed.
+55
+, 6261–6265 (2016).
+CAS
+Google Scholar
+Li, Z. et al. Ambient-pressure hydrogenation of CO
+2
+into long-chain olefins.
+Nat. Commun.
+13
+, 2396 (2022).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Orege, J. I. et al. Boosting CO
+2
+hydrogenation to high-value olefins with highly stable performance over Ba and Na co-modified Fe catalyst.
+J. Energy Chem.
+80
+, 614–624 (2023).
+CAS
+Google Scholar
+Jiang, X. et al. A combined experimental and DFT study of H
+2
+O effect on In
+2
+O
+3
+/ZrO
+2
+catalyst for CO
+2
+hydrogenation to methanol.
+J. Catal.
+383
+, 283–296 (2020).
+CAS
+Google Scholar
+Fernández-Villanueva, E. et al. Water and Cu
++
+synergy in selective CO
+2
+hydrogenation to methanol over Cu-MgO-Al
+2
+O
+3
+catalysts.
+J. Am. Chem. Soc.
+146
+, 2024–2032 (2024).
+PubMed
+Google Scholar
+Kim, D. Y. et al. Cooperative catalysis of vibrationally excited CO
+2
+and alloy catalyst breaks the thermodynamic equilibrium limitation.
+J. Am. Chem. Soc.
+144
+, 14140–14149 (2022).
+CAS
+PubMed
+Google Scholar
+Li, M. et al. Switching of metal–oxygen hybridization for selective CO
+2
+electrohydrogenation under mild temperature and pressure.
+Nat. Catal.
+4
+, 274–283 (2021).
+CAS
+Google Scholar
+Singh, S. et al. Surface plasmon-enhanced photo-driven CO
+2
+hydrogenation by hydroxy-terminated nickel nitride nanosheets.
+Nat. Commun.
+14
+, 2551 (2023).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Raziq, F. et al. Isolated Ni atoms enable near-unity CH
+4
+selectivity for photothermal CO
+2
+hydrogenation.
+J. Am. Chem. Soc.
+146
+, 21008–21016 (2024).
+CAS
+PubMed
+Google Scholar
+Yue, W. Z. et al. Highly selective CO
+2
+conversion to methanol in a bifunctional zeolite catalytic membrane reactor.
+Angew. Chem. Int. Ed.
+60
+, 18289–18294 (2021).
+CAS
+Google Scholar
+Wei, Q. et al. Metal 3D printing technology for functional integration of catalytic system.
+Nat. Commun.
+11
+, 4098 (2020).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Kang, H. et al. Generation of oxide surface patches promoting H-spillover in Ru/(TiO
+x
+)MnO catalysts enables CO
+2
+reduction to CO.
+Nat. Catal.
+6
+, 1062–1072 (2023).
+CAS
+Google Scholar
+Jensen, S. et al. Visualizing the gas-sensitive structure of the CuZn surface in methanol synthesis catalysis.
+Nat. Commun.
+15
+, 3865 (2024).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Li, M., Luo, W. & Züttel, A. Near ambient-pressure X-ray photoelectron spectroscopy study of CO
+2
+activation and hydrogenation on indium/copper surface.
+J. Catal.
+395
+, 315–324 (2021).
+CAS
+Google Scholar
+Hepburn, C. et al. The technological and economic prospects for CO
+2
+utilization and removal.
+Nature
+575
+, 87–97 (2019).
+CAS
+PubMed
+Google Scholar
+Cordero-Lanzac, T. et al. A techno-economic and life cycle assessment for the production of green methanol from CO
+2
+: catalyst and process bottlenecks.
+J. Energy Chem.
+68
+, 255–266 (2022).
+CAS
+Google Scholar
+Roy, S., Cherevotan, A. & Peter, S. C. Thermochemical CO
+2
+hydrogenation to single carbon products: scientific and technological challenges.
+ACS Energy Lett.
+3
+, 1938–1966 (2018).
+CAS
+Google Scholar
+Dang, S. et al. Rationally designed indium oxide catalysts for CO
+2
+hydrogenation to methanol with high activity and selectivity.
+Sci. Adv.
+6
+, eaaz2060 (2020).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wang, D. J. et al. Tuning selectivity of CO
+2
+hydrogenation via support composition modification adjusted the activity reduction of H species over Ce
+1 −
+x
+Pr
+x
+O
+2 −
+δ
+-supported metal (Ru, Rh) nanoclusters.
+ACS Catal.
+14
+, 10060–10076 (2024).
+CAS
+Google Scholar
+Huang, Z. et al. CO
+2
+hydrogenation over mesoporous Ni-Pt/SiO
+2
+nanorod catalysts: determining CH
+4
+/CO selectivity by surface ratio of Ni/Pt.
+Chem. Eng. Sci.
+247
+, 117106 (2022).
+CAS
+Google Scholar
+Fan, Q., Li, S., Zhang, L., Wang, P. & Wang, S. Regulation of product distribution in CO
+2
+hydrogenation by modifying Ni/CeO
+2
+catalysts.
+J. Catal.
+414
+, 53–63 (2022).
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This work was supported by the Natural Science Foundation of Jiangxi Province for Distinguished Young Scholars (no. 20232ACB213001), Thousand Talents Plan of Jiangxi Province (no. jxsq2023101072), National Natural Science Foundation of China (nos. 22005296 and 22362022), National Key Research and Development Program of China (no. 2022YFA1504500) and the Natural Science Foundation of Jiangxi Province (no. 20224BAB213015). We also thank C. Li for academic guidance and support. This paper is dedicated to C. Li on the occasion of his 65th birthday.
+Author information
+Authors and Affiliations
+Key Laboratory of Jiangxi Province for Environment and Energy Catalysis, Institute of Applied Chemistry, School of Chemistry and Chemical Engineering, Nanchang University, Nanchang, Jiangxi, People’s Republic of China
+Runping Ye, Rongbin Zhang & Gang Feng
+School of Chemical Engineering, Nanjing University of Science and Technology, Nanjing, Jiangsu, People’s Republic of China
+Jie Ding
+Department of Inorganic Chemistry and Material Sciences Institute of Seville, University of Seville-CSIC, Seville, Spain
+Tomas Ramirez Reina
+DICP-Surrey Joint Centre for Future Materials, School of Chemistry and Chemical Engineering, and Advanced Technology Institute, University of Surrey, Guilford, Surrey, UK
+Melis Seher Duyar & Jian Liu
+College of Chemistry and Chemical Engineering, Inner Mongolia University, Hohhot, Inner Mongolia, People’s Republic of China
+Haitao Li, Wenhao Luo & Jian Liu
+Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian, Liaoning, People’s Republic of China
+Haitao Li & Jian Sun
+College of Engineering and Physical Sciences, School of Energy Resources, University of Wyoming, Laramie, WY, USA
+Maohong Fan
+College of Engineering, Georgia Institute of Technology, Atlanta, GA, USA
+Maohong Fan
+Authors
+Runping Ye
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jie Ding
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tomas Ramirez Reina
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Melis Seher Duyar
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Haitao Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wenhao Luo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Rongbin Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Maohong Fan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Gang Feng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jian Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jian Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+R.Y. wrote the original draft. J.D., H.L. and R.Y. drew the diagrams. W.L., T.R.R. and M.S.D. contributed to the editing of the text. R.Z., M.F., G.F., J.S. and J.L. contributed to the conception and revision of the manuscript.
+Corresponding authors
+Correspondence to
+Maohong Fan
+,
+Gang Feng
+,
+Jian Sun
+or
+Jian Liu
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Synthesis
+thanks Feng-Shou Xiao and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Primary Handling Editor: Alexandra Groves, in collaboration with the
+Nature Synthesis
+team.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Ye, R., Ding, J., Reina, T.R.
+et al.
+Design of catalysts for selective CO
+2
+hydrogenation.
+Nat. Synth
+4
+, 288–302 (2025). https://doi.org/10.1038/s44160-025-00747-1
+Download citation
+Received
+:
+16 June 2024
+Accepted
+:
+23 January 2025
+Published
+:
+27 February 2025
+Issue Date
+:
+March 2025
+DOI
+:
+https://doi.org/10.1038/s44160-025-00747-1
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+Our publishing models
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Synthesis
+(
+Nat. Synth
+)
+ISSN
+2731-0582
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

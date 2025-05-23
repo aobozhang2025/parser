@@ -1,0 +1,2206 @@
+Tuning the thermal activation atmosphere breaks the activity–stability trade-off of Fe–N–C oxygen reduction fuel cell catalysts | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Tuning the thermal activation atmosphere breaks the activity–stability trade-off of Fe–N–C oxygen reduction fuel cell catalysts
+Download PDF
+Article
+Published:
+05 December 2023
+Tuning the thermal activation atmosphere breaks the activity–stability trade-off of Fe–N–C oxygen reduction fuel cell catalysts
+Yachao Zeng
+ORCID:
+orcid.org/0000-0001-7956-9328
+1
+na1
+,
+Chenzhao Li
+ORCID:
+orcid.org/0000-0002-6836-376X
+2
+,
+3
+na1
+,
+Boyang Li
+ORCID:
+orcid.org/0000-0002-3154-329X
+4
+na1
+,
+Jiashun Liang
+1
+na1
+,
+Michael J. Zachman
+ORCID:
+orcid.org/0000-0003-1910-1357
+5
+,
+David A. Cullen
+ORCID:
+orcid.org/0000-0002-2593-7866
+5
+,
+Raphael P. Hermann
+ORCID:
+orcid.org/0000-0002-6138-5624
+6
+,
+E. Ercan Alp
+7
+,
+Barbara Lavina
+ORCID:
+orcid.org/0000-0002-8556-7916
+7
+,
+8
+,
+Stavros Karakalos
+9
+,
+Marcos Lucero
+ORCID:
+orcid.org/0000-0003-2231-6623
+10
+,
+Bingzhang Zhang
+ORCID:
+orcid.org/0000-0003-0419-8432
+1
+,
+Maoyu Wang
+10
+,
+Zhenxing Feng
+ORCID:
+orcid.org/0000-0001-7598-5076
+10
+,
+Guofeng Wang
+ORCID:
+orcid.org/0000-0001-8249-4101
+4
+,
+Jian Xie
+ORCID:
+orcid.org/0000-0002-3546-8792
+2
+,
+Deborah J. Myers
+ORCID:
+orcid.org/0000-0001-9299-3916
+11
+,
+Jean-Pol Dodelet
+12
+&
+…
+Gang Wu
+ORCID:
+orcid.org/0000-0003-0885-6172
+1
+Show authors
+Nature Catalysis
+volume
+6
+,
+pages
+1215–1227 (
+2023
+)
+Cite this article
+16k
+Accesses
+72
+Altmetric
+Metrics
+details
+Subjects
+Chemical engineering
+Electrocatalysis
+Fuel cells
+Heterogeneous catalysis
+Abstract
+Fe–N–C catalysts are the most promising platinum group metal-free oxygen-reduction catalysts, but they suffer from a low density of active metal sites and the so-called activity–stability trade-off. Here we report an Fe–N–C catalyst prepared by adding an optimal amount of H
+2
+to the traditional inert atmosphere during the thermal activation. The presence of H
+2
+significantly increases the total density of FeN
+4
+sites, suppressing the unstable pyrrolic-N-coordinated S1 sites and favouring the stable pyridinic-N-coordinated S2 sites with shortened Fe–N bond lengths. We propose that the intrinsically stable S2 sites are probably arranged in well-graphitized carbon layers, and the S1 sites exist in less-graphitized carbon. H
+2
+could remove unstable S1 sites and retain stable S2 sites during the pyrolysis to break the challenging activity–stability trade-off. The Fe–N–C catalyst in membrane electrode assemblies maintains a current density of 67 mA cm
+−2
+at 0.8 V (H
+2
+–air) after 30,000 voltage cycles (0.60 to 0.95 V under H
+2
+–air), achieving encouraging durability and performance simultaneously.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Monosymmetric Fe-N
+4
+sites enabling durable proton exchange membrane fuel cell cathode by chemical vapor modification
+Article
+Open access
+17 May 2024
+Atomically dispersed iron sites with a nitrogen–carbon coating as highly active and durable oxygen reduction catalysts for fuel cells
+Article
+07 July 2022
+Chemical vapour deposition of Fe–N–C oxygen reduction catalysts with full utilization of dense Fe–N
+4
+sites
+Article
+10 June 2021
+Main
+The development of platinum group metal (PGM)-free catalysts significantly benefits the cost reduction of hydrogen proton-exchange membrane fuel cells (PEMFCs) for sustainable large-scale applications
+1
+,
+2
+. Atomically dispersed and nitrogen-coordinated FeN
+4
+sites hosted in carbon (Fe–N–C) are the most promising catalysts for replacing Pt for the cathodic oxygen reduction reaction (ORR) in the challenging acidic environment of PEMFCs
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+. However, over the past several decades, improvements in the performance and durability of Fe–N–C catalysts are still limited due to an insufficient understanding of the active sites, low site density, poor stability and an activity–stability trade-off
+9
+.
+Like Pt active sites, the adsorption strength of O
+2
+and ORR intermediates on FeN
+4
+active sites is too strong
+10
+,
+11
+. The activation barrier to cleave the O–O bond is too high for the preferred 4e
+−
+transfer pathway. In addition, achieving comparable or even better stability than current Pt catalysts remains a substantial challenge, primarily due to possible demetallation via Fe–N bond-breaking during the ORR
+12
+. Regulating the electronic and geometric structures of FeN
+4
+active sites to modulate the adsorption energies, reduce the activation energies and strengthen the Fe–N bonds is critical for improving the intrinsic activity and stability of FeN
+4
+sites
+13
+,
+14
+.
+One recent breakthrough is the identification of two types of FeN
+4
+site in Fe–N–C catalysts based on in situ Mössbauer and operando X-ray absorption spectroscopy experiments
+15
+. An FeN
+4
+C
+12
+moiety contains pyrrolic N ligations, often denoted S1 sites. The other FeN
+4
+C
+10
+moiety with pyridinic N environments is denoted the S2 site
+15
+. S1 sites are more intrinsically active, but irreversibly and rapidly degrade to inactive ferric oxides during the ORR, causing dramatic activity loss. S2 sites are more stable against demetallation, but are less active due to the stronger adsorption of oxygen and intermediates
+6
+. Therefore, it is highly desirable to synthesize a catalyst containing substantially increased densities of S1 and S2 sites with simultaneously enhanced intrinsic activity and stability. However, achieving this goal using traditional synthesis approaches based on previously reported catalysts in the literature
+16
+,
+17
+is nearly impossible.
+In this Article, we report that the local carbon and nitrogen coordination structures of FeN
+4
+sites and their site densities can be regulated by adding H
+2
+to a traditionally inert Ar atmosphere (that is, forming gas (FG)) for thermal activation, a critical step to creating active sites during catalyst synthesis. Importantly, due to the accelerated carbon gasification process in the presence of H
+2
+at high temperatures, the FG can favour the retention of stable S2 sites in well-graphitized carbon and remove the unstable S1 sites in amorphous carbon in the catalysts. Unlike previously identified FeN
+4
+sites, the S1 and S2 sites contain shortened Fe–N bonds due to the hydrogenation of carbon atoms adjacent to the FeN
+4
+moieties during thermal activation under the FG, which is theoretically predicted to yield enhanced intrinsic stability while maintaining high activity. The resulting Fe–N–C catalyst thus leads to exceptional activity and improved stability. A membrane electrode assembly (MEA) made from the Fe–N–C cathode achieved a current density of 50.8 mA cm
+−2
+at 0.9 V
+iR-free
+under 1.0 bar O
+2
+, exceeding the US DOE 2025 target (44 mA cm
+−2
+). Under the practical condition of 1.0 bar air, the MEA generated current densities of 191.0 and 745.4 mA cm
+−2
+at 0.80 and 0.67 V, respectively, outperforming a typical Pt/C cathode (TEC10V20E, 0.1 mg
+Pt
+cm
+−2
+) in the kinetic voltage region (>0.75 V). Due to the enhanced intrinsic stability of both S1- and S2-type FeN
+4
+sites, the degradation of MEA performance is mitigated, with the MEA capable of retaining a current density of 67 mA cm
+−2
+at 0.8 V after 30,000 cycles of a voltage accelerated stress test (AST) under H
+2
+–air conditions. The knowledge obtained from the experimental and theoretical results in this work reveals that the formation process of FeN
+4
+sites and their local coordination structures can be regulated by tuning the atmosphere during thermal activation. This is essential for breaking the activity–stability trade-off barrier and designing viable Fe–N–C catalysts with adequate performance and durability for PEMFCs.
+Results
+Catalyst synthesis, activity and stability
+The use of pyrolysing precursors under an inert atmosphere (for example, N
+2
+or Ar) has long been the prevailing approach for forming FeN
+4
+active sites in Fe–N–C catalysts
+18
+,
+19
+,
+20
+. Dodelet and Kramm and colleagues found that pyrolysis in NH
+3
+/N
+2
+can efficiently enhance ORR activity due to the formation of substantial micropores that host increased numbers of active sites
+21
+,
+22
+,
+23
+,
+24
+. In principle, NH
+3
+could be further decomposed into H
+2
+and N
+2
+at elevated temperatures of up to 900 °C during catalyst synthesis
+25
+. We hypothesized that, besides the benefits of directly using NH
+3
+, the optimal H
+2
+content combined with controlled heating temperatures and duration may play a role in tuning the active site structures and locations. Here we show that optimization of the H
+2
+content in the FG (that is, a H
+2
+–Ar mixture) can efficiently enhance ORR activity and stability by simultaneously increasing the metal site density, modifying the carbon morphologies and structures, and regulating the Fe–N bond length, as shown in Fig.
+1a
+.
+Fig. 1: Synthesis principles and catalytic properties.
+a
+, Schematic of the construction of S1 and S2 sites via control of the pyrolysis atmosphere.
+b
+, Comparison of the ORR activity of Fe–N–C catalysts prepared in Ar and FG. A commercial Pt/C catalyst (60 µg
+Pt
+cm
+−2
+) served as the baseline. The loadings for the Fe–N–C catalysts were 0.6 mg cm
+−2
+and the electrolyte was O
+2
+-saturated 0.5 M H
+2
+SO
+4
+.
+c
+, Changes in site density of Fe–N–C catalysts prepared in the different atmospheres.
+d
+, Evolution of the activity and stability of Fe–N–C catalysts prepared in the different atmospheres before and after 30,000 cycles of AST.
+Source data
+Full size image
+During catalyst synthesis, Fe
+2
+O
+3
+-enclosed ZIF-8 nanocrystals were used as a precursor due to their effectiveness in forming atomically dispersed single Fe sites with increased density
+6
+. When the H
+2
+content in the FG was increased from zero (that is, an Ar atmosphere) to 2 mol% (denoted Fe–N–C–2%FG), the ORR activity of the catalyst in 0.5 M H
+2
+SO
+4
+electrolyte was greatly promoted (Fig.
+1b
+), as evidenced by an increase in the half-wave potential (
+E
+1/2
+) from 0.84 to 0.88 V versus reversible hydrogen electrode (RHE) under established testing conditions (600 µg cm
+−2
+, 25 °C and 900 r.p.m.). When the H
+2
+content was increased to 5 mol%, the catalyst exhibited an
+E
+1/2
+of up to 0.92 V, outperforming a baseline Pt/C catalyst at a standard loading of 60 µg
+Pt
+cm
+−2
+in an acidic electrolyte (0.1 M HClO
+4
+). Further increasing the H
+2
+content to 10 mol% only led to a minor improvement in ORR activity, achieving an
+E
+1/2
+of 0.93 V with better reproducibility (Supplementary Fig.
+1
+). Reductive pyrolysis atmospheres were also explored in the preparation of the Fe–N–C catalysts
+23
+,
+24
+,
+26
+,
+27
+. A combination of ZIF-8/Fe
+2
+O
+3
+precursors, optimal H
+2
+content and favourable thermal conditions is crucial for producing active Fe–N–C catalysts (Supplementary Table
+1
+). We comprehensively studied various synthetic parameters, including the Fe content and heating procedures, which are critical to achieving high activity (Supplementary Fig.
+2
+). Also, the yield of Fe–N–C catalysts decreased with an increase of H
+2
+concentration in the pyrolysis atmosphere, probably due to the effective removal of less-graphitized carbon and residual zinc with increased porosity, which is key to hosting stable FeN
+4
+active sites with increased density in catalysts (Supplementary Fig.
+3
+and Supplementary Table
+2
+). We determined that the active site density (SD), as calculated using electrochemical stripping of nitrite
+28
+,
+29
+, increased with higher H
+2
+content in the pyrolysis atmosphere (Fig.
+1c
+and Supplementary Fig.
+4
+), improving activity for the ORR.
+Different Fe precursors, such as Fe ions, were also used to prepare Fe–N–C catalysts to evaluate the universal effectiveness of the FG in ORR activity enhancement
+5
+,
+30
+. As shown in Supplementary Fig.
+5a
+, Fe-ion-doped ZIF-8-derived catalyst prepared in the FG (denoted Fe-ion-NC-FG) also exhibited improved ORR activity (
+E
+1/2
+= 0.896 V) compared with the catalyst pyrolysed in the traditional Ar (
+E
+1/2
+= 0.834 V). A possible advantage of using Fe
+2
+O
+3
+nanoparticles over conventional Fe ions is that H
+2
+facilitates the decomposition of Fe
+2
+O
+3
+nanoparticles, generating more single Fe sites and transforming them into FeN
+4
+sites. The oxygen in Fe
+2
+O
+3
+may also react with H
+2
+and generate H
+2
+O, which is favourable for carbon gasification during pyrolysis, a critical process for creating porosity and retaining stable active sites in carbon. In addition to high activity, the catalysts pyrolysed in FG exhibited enhanced 4e
+–
+selectivity (Supplementary Fig.
+5b
+). A similar tendency to promote activity and selectivity for the Fe–N–C catalysts derived from both ZIF-8/Fe
+2
+O
+3
+and Fe-ion-doped ZIF-8 precursor further verified the advantages provided by the FG during catalyst synthesis.
+In Supplementary Fig.
+6
+, the Fe
+3+
+/Fe
+2+
+redox is presented in cyclic voltammetry (CV) profiles for all studied Fe–N–C catalysts. The potential of the Fe
+3+
+/Fe
+2+
+redox does not change notably with an increase in scanning rate, indicating that the Fe
+3+
+/Fe
+2+
+transition has good reversibility. The half-height width of the peaks is
+∼
+97 mV, very close to the theoretical value of 96 mV expected for a reversible one-electron process involving surface species
+31
+. Intriguingly, the redox potential of all Fe–N–C catalysts generally ranges from 0.64 to 0.67 V
+RHE
+, even though there are notable differences in their ORR activities. Therefore, we considered that the intrinsic ORR activity is not directly associated with Fe
+2+
+/Fe
+3+
+redox.
+The catalytic properties (activity, 4e
+−
+selectivity and stability) of the Fe–N–C catalysts prepared from different atmospheres as a function of H
+2
+content were further compared using a rotating ring-disk electrode (RRDE) in O
+2
+-saturated 0.5 M H
+2
+SO
+4
+solution by recording the initial activity and selectivity, followed by standard ASTs (0.60 to 0.95 V for 30,000 potential cycles) to study the ORR stability (Fig.
+1d
+and Supplementary Fig.
+7
+). The corresponding
+E
+1/2
+and kinetic current density values at 0.9 V
+RHE
+(
+j
+k
+@0.9 V) were identified as indicators for activity, and their changes during the AST were used to evaluate the stability. The Fe–N–C–10%FG catalyst exhibited the highest activity at the end of the AST, with an
+E
+1/2
+of 0.83 V, close to the initial
+E
+1/2
+of the Fe–N–C–Ar catalyst. Notably, the Fe–N–C–Ar and Fe–N–C–10%FG catalysts presented different degradation modes during the stability ASTs (Supplementary Fig.
+7
+). The ORR activity of the Fe–N–C–10%FG catalyst stabilized after 5,000 potential cycles, suggesting the existence of active sites with intrinsic stability. In contrast, the Fe–N–C–Ar continuously lost activity throughout the 30,000 cycles during the AST. The different degradation behaviours imply that the nature of the active sites dominating the ORR activity of these two catalysts is not the same, as will be discussed in the following characterization sections.
+Fuel cell MEA performance and durability
+The best-performing Fe–N–C–FG catalyst was further studied in both hydrogen fuel cells and direct methanol fuel cells (DMFCs). When using H
+2
+at the anode, the MEA with the Fe–N–C–10%FG cathode generated a current density of 50.8 mA cm
+−2
+at 0.9 V
+iR-free
+under 1.0 bar O
+2
+(Fig.
+2a
+). This value was obtained according to the US DOE ElectroCat Consortium’s recommended testing protocol
+32
+and notably exceeded the 2025 target (44.0 mA cm
+−2
+). Under practical air conditions (1.0 bar), the same MEA generated 191.0 and 745.0 mA cm
+−2
+at 0.80 and 0.67 V, respectively, averaged from three tests (Supplementary Fig.
+8
+and Supplementary Table
+3
+). The achieved performance already outperforms all previously reported Fe–N–C catalysts (Supplementary Fig.
+9
+and Supplementary Table
+4
+) and a typical Pt/C cathode (TEC10V20E, 0.1 mg
+Pt
+cm
+−2
+) in the kinetic voltage range (>0.75 V; Fig.
+2b
+). An optimal relative humidity (RH) of 75% was determined to mitigate water flooding within the thick PGM-free cathode (Supplementary Table
+5
+).
+Fig. 2: MEA performance of the Fe–N–C catalysts.
+a
+, Determination of the catalysts’ activities at 0.9 V
+iR-free
+under a back pressure of 150 kPa
+abs
+. The green star denotes the US DOE target for 2025.
+b
+, Comparison of H
+2
+–air fuel cell performance at begin-of-life (BOL) of Fe–N–C–10%FG and a commercial Pt/C (0.1 mg
+Pt
+cm
+−2
+) cathode under 150 kPa
+abs
+of air pressure and flow rates of 700/1,700 s.c.c.m. (H
+2
+–air).
+c
+,
+d
+, H
+2
+–air fuel cell performance at BOL and end-of-life (EOL) of the Fe–N–C–Ar (
+c
+) and the Fe–N–C–10%FG catalyst (
+d
+) cathodes recorded at 75% RH during 30,000 cycles of AST.
+e
+, Comparison of the
+I–V
+curves of the Fe–N–C–10%FG and Pt/C cathodes before and after 30,000 cycles of AST in H
+2
+–air fuel cells.
+f
+, Long-term fuel cell life test under H
+2
+–air conditions at a constant potential of 0.67 V (150 kPa
+abs
+pressure and flow rates of air 200 s.c.c.m. and H
+2
+200 s.c.c.m.).
+g
+,
+h
+, DMFC performance at BOL, middle-of-life (MOL) and EOL of the Fe–N–C–10%FG cathode during the AST (
+g
+) and a short-term life test for 20 h (
+h
+). The anode catalyst is 75% PtRu/C (Johnson Matthey) with a loading of 3.0 mg
+PtRu
+cm
+−2
+. The anode was purged with 1.0 M methanol solution with a flow rate of 0.5 s.c.c.m., the cathode was purged with dry air with a flow rate of 1,000 s.c.c.m., the cell temperature was 94 °C, and the back pressure in the cathode was 250 kPa
+abs
+. Error bars show the s.d. for three separate measurements.
+Source data
+Full size image
+A trapezoid-wave voltage cycling protocol under H
+2
+–air was used for ASTs
+32
+to evaluate catalyst durability under actual fuel cell operating conditions. The performance loss of the Fe–N–C–Ar cathode in the MEA was substantial: 90% at 0.8 V (Fig.
+2c
+and Supplementary Table
+6
+). In contrast, the Fe–N–C–10%FG cathode exhibited notably enhanced durability, retaining 67 mA cm
+−2
+at 0.8 V after 30,000 voltage cycles, corresponding to a loss of 64.9% (Fig.
+2d
+)
+33
+. Although the voltage loss at 0.8 A cm
+−2
+is still higher than US DOE targets (84 mV versus 30 mV)
+34
+(Supplementary Table
+7
+), the achieved stability enhancement is superior to those of all reported Fe–N–C catalysts
+1
+,
+2
+. Like the catalyst degradation in RRDE tests, the Fe–N–C–Ar catalyst decayed continuously during the MEA ASTs. In contrast, the Fe–N–C–10%FG catalyst stabilized after 20,000 AST cycles in H
+2
+–air. Stability ASTs for the Fe–N–C–10%FG catalyst were also performed under a H
+2
+–N
+2
+atmosphere. They exhibited comparable performance loss to the H
+2
+–air conditions (Supplementary Fig.
+10
+and Supplementary Table
+8
+), suggesting that catalyst degradation associated with possible demetallation is primarily driven by electrochemical voltage/potential cycling, rather than chemical dissolution or oxidation.
+Compared to a Pt/C (TEC10V20E) cathode (0.1 mg
+Pt
+cm
+−2
+), the Fe–N–C–10%FG cathode-based MEA demonstrated similar durability (Fig.
+2e
+), as substantial performance loss was also observed with the Pt/C cathode after an identical 30,000-cycle AST. In addition to voltage cycling AST stability evaluation, we also carried out a durability test for these Fe–N–C cathodes by holding them at a constant voltage of 0.67 V for up to 200 h (Fig.
+2f
+). Compared with a previously reported highly active Fe–N–C catalyst treated with NH
+4
+Cl (denoted Fe–AC)
+6
+, the Fe–N–C–10%FG cathode showed a much higher retention of current density, probably due to the structure change of S1 and S2 sites with simultaneously enhanced intrinsic activity and stability. The observed performance degradation, especially at the initial stage around 50 h, is probably due to the loss of S1 sites, which are intrinsically unstable during the ORR. As for the Fe–N–C–Ar catalyst, a fast initial decay of
+∼
+25 h was observed due to the rapid demetallation of the S1-type sites, followed by a similar decay rate to that of the Fe–N–C–10%FG catalyst arising from the more stable S2-type sites. All these experimental results agree well with the demetallation energy calculated, as discussed in the following sections.
+Unlike Pt, Fe–N–C catalysts are intrinsically methanol-tolerant
+35
+, which is highly desirable for DMFCs if they are to replace traditional Pt cathodes with reduced cost and mitigation of Pt poisoning. Accordingly, the Fe–N–C–10%FG was further studied as a cathode in DMFCs, which exhibited a peak power density of 275 mW cm
+−2
+at a loading of 3.0 mg
+PGM
+cm
+−2
+at the anode, exceeding the performance of a Pt/C cathode (80 mW cm
+−2
+) under similar conditions (Fig.
+2g
+). Like the behaviour in H
+2
+fuel cells, the Fe–N–C–FG cathode decayed after 10,000 voltage cycles and then stabilized up to 30,000 cycles during the AST (0.4 to 0.8 V; Fig.
+2g
+). Meanwhile, a short-term 20-h steady-state test at 0.5 V verified its promising stability under DMFC conditions (Fig.
+2h
+), as it retained a respectable current density of 240 mA cm
+−2
+.
+Catalyst characterization for mechanistic understanding
+The developed Fe–N–C–10%FG catalysts demonstrated encouraging performance and durability in hydrogen fuel cells and DMFCs. We also carried out extensive characterization to elucidate the active sites and relevant mechanisms of the performance improvements. First,
+57
+Fe Mössbauer spectra, which are highly sensitive to the oxidation state, electron configuration and atomic coordination environment of Fe nuclei
+36
+,
+37
+, were acquired at both room and low temperatures (6.5 K) to reveal the impact of pyrolysis atmosphere on the coordinating environments and local structures of the FeN
+4
+sites in the catalysts (Fig.
+3
+and Supplementary Tables
+9
+–
+11
+). Generally, the Mössbauer spectra of the Fe–N–C catalysts were mainly fit with two doublets associated with single Fe sites coordinated with nitrogen. In addition, insignificant singlet and sextet peaks were assigned to Fe nanoparticles remaining in the catalysts. In particular, D1 doublets with lower isomer shifts (δ) and quadrupole splitting (QS) values were assigned to the high-spin S1 moiety as discussed before, in which an Fe nucleus coordinates with four porphyrinic (that is, pyrrolic) nitrogen ligands. The D2 doublets featuring larger QS values were assigned to a low- or intermediate-spin S2 moiety, where the Fe nucleus coordinates with four pyridinic nitrogen ligands. At first, the S1/S2 ratios decreased from 1.56 for the Fe–N–C–Ar catalyst to 0.92 for the Fe–N–C–10%FG catalyst, indicating that the highly stable S2-type FeN
+4
+sites become dominant due to the use of FG. At room temperature, superparamagnetic Fe-nano-oxides contribute with a doublet signal similar to the D1 signal
+38
+,
+39
+. To exclude the interference Fe-nano-oxides, low-temperature
+57
+Fe Mössbauer spectroscopy was performed at 6.5 K (Fig.
+3b
+and Supplementary Table
+10
+), and showed no superparamagnetic Fe-nano-oxides in the Fe–N–C–10%FG catalyst. To quantitatively determine the absolute S1 and S2 sites in various catalysts, the Fe content was determined by inductively coupled plasma optical emission spectroscopy (ICP-OES; Supplementary Table
+12
+). The Fe content increased from 0.15 wt% in the
+57
+Fe–N–C–Ar to 0.73 wt% in the
+57
+Fe–N–C–10%FG. Notably, the Zn content of the
+57
+Fe–N–C catalysts decreased to beneath the detection limit when the H
+2
+percentage was >2 mol%. The calculated content of the S1 and S2 sites in the Fe–N–C–10%FG is 3.2 times higher than in the Fe–N–C–Ar catalysts (Fig.
+3c,d
+and Supplementary Fig.
+11
+). This is in general agreement with the increase of site density by a factor of 4.3 found by electrochemical measurements (Fig.
+1c
+). Therefore, the increased content of S1 and S2 sites and the dominant intrinsically stable S2 sites in the FG-treated catalysts contributes to improved activity and stability. Unlike the Ar atmosphere, metallic Fe was detected in FG at a low-temperature Mössbauer spectroscopy, which could catalyse the graphitization of the carbon matrix
+40
+, as evidenced by the Raman spectra (Supplementary Fig.
+12
+).
+Fig. 3: Analysis of Fe coordination environments induced from a pyrolysis atmosphere.
+a
+,
+b
+, The
+57
+Fe Mössbauer spectra of the Fe–N–C–Ar (
+a
+) and Fe–N–C–10%FG (
+b
+) catalysts at low and room temperatures.
+c
+,
+d
+, Comparison of D1, D2 and other components in the Fe–N–C–Ar and Fe–N–C–10%FG catalysts at room (
+c
+) and low (
+d
+) temperatures.
+Source data
+Full size image
+The morphologies of the Fe–N–C–Ar and Fe–N–C–10%FG catalysts were compared with respect to particles, carbon structure and atomic single-site dispersion in the carbon matrix (Fig.
+4
+). The Fe–N–C–Ar catalyst presented well-defined polyhedral particles with distinct edges and surfaces (Fig.
+4a
+). In contrast, highly curved carbon structures with pronounced deformation and roughness at the particle surface were apparent in the Fe–N–C–10%FG catalyst (Fig.
+4e
+). Supplementary Fig.
+13
+further compares the morphologies of catalysts prepared in pyrolysis atmospheres with different H
+2
+contents. Increasing the H
+2
+concentration of the pyrolysis atmosphere leads to more deformed catalyst particles with concave facets. Unlike the Fe–N–C–Ar catalyst featured with homogeneous porosity distribution, hollow structures can often be found in the Fe–N–C–10%FG catalyst (Fig.
+4f
+). Both carbon particle surfaces exhibit textured surfaces (Fig.
+4c,g
+) with porous interior structures (Fig.
+4d,h
+). Fe nanoparticles can also be sporadically observed in the Fe–N–C–10%FG catalysts, corresponding to a singlet and sextet in
+57
+Fe Mössbauer spectra. These observed Fe nanoparticles were encapsulated within compact, thick carbon shells (up to 14 layers; Fig.
+4i
+). Some of them can even catalyse the growth of nitrogen-doped multiwalled carbon nanotubes (MWCNTs; Fig.
+4j,k
+), hosting atomically dispersed metal sites according to aberration-corrected annular dark-field scanning transmission electron microscopy (ADF-STEM; Fig.
+4l
+).
+Fig. 4: Morphologies of the Fe–N–C catalysts.
+a
+–
+d
+, Secondary electron (SE) microscopy images (
+a
+,
+c
+) and high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM;
+b
+,
+d
+) images of Fe–N–C–Ar.
+e
+–
+h
+, SE microscopy images (
+e
+,
+g
+) and HAADF-STEM images (
+f
+,
+h
+) of Fe–N–C–10%FG.
+i
+–
+k
+, Bright-field-STEM images of Fe nanoparticles (
+i
+) and MWCNTs (
+j
+,
+k
+) in the Fe–N–C–10%FG, in which the Fe nanoparticle is encapsulated in a compact carbon shell.
+l
+, ADF-STEM image of an MWCNT.
+Full size image
+ADF-STEM images were further acquired to examine both catalysts at the atomic level (Fig.
+5a–d
+). The edges of the Fe–N–C–10%FG catalyst consisted of ‘crumpled’ few-layer thick graphitic structures, and similar features were observed in the Fe–N–C–Ar. Both Ar- and FG-treated catalysts presented atomically dispersed Fe sites (Fig.
+5b,d
+). Consistent with ICP-OES measurements, the STEM-energy dispersive X-ray spectroscopy (EDS) quantification indicated that the Fe–N–C–FG catalyst had considerably reduced Zn content relative to the Fe–N–C–Ar catalyst (Supplementary Table
+13
+). Brunauer–Emmett–Teller (BET) and pore analyses were performed to assess the impact of the pyrolysis atmosphere on the catalyst porosities, as microporosity is crucial to hosting active sites
+12
+,
+41
+and mesoporosity could facilitate O
+2
+transport and improve ionomer distribution in the catalyst layers (Fig.
+5e
+)
+42
+,
+43
+. BET surface areas were increased from 824.4 for the Fe–N–C–Ar to 1,187.3 m
+2
+g
+−1
+for the Fe–N–C–10%FG (Supplementary Fig.
+14
+and Supplementary Table
+14
+), corresponding to an increased micropore surface area from 753.0 to 1,047.0 m
+2
+g
+−1
+. Notably, the external surface areas, composed of meso- and macro-porosity, increased monotonically with H
+2
+concentration, probably due to the graphitic carbon shells formed in the FG causing thermal stress and uneven shrinkage of the carbon particles
+44
+,
+45
+. The presence of graphitic carbon shells and carbon nanotubes was evidenced by the appearance of a 2D peak in the Raman spectrum of the Fe–N–C–10%FG catalyst (Fig.
+5f
+and Supplementary Fig.
+12
+), along with STEM images, which is related to the stack of multilayered graphitic structures in the catalyst
+46
+. However, there was no 2D peak in the Raman spectra until the H
+2
+concentration was above 2%, indicating a less graphitized carbon structure from the H
+2
+-deficient pyrolysis atmosphere. Notably, the resulting concaved surfaces contributed to the high specific surface area
+47
+, and the increased fraction of graphitic structures could lead to stability improvement of the Fe–N–C–FG catalyst
+48
+.
+Fig. 5: Structural analysis of the Fe–N–C catalysts.
+a
+–
+d
+, ADF-STEM images of the Fe–N–C–Ar (
+a
+,
+b
+) and Fe–N–C–10%FG (
+c
+,
+d
+).
+e
+,
+f
+, Porosity distributions (
+e
+) and Raman spectra (
+f
+) of Fe–N–C–Ar and Fe–N–C–10%FG.
+g
+–
+i
+, Fe K-edge XANES spectra (
+g
+), Fourier-transformed EXAFS in real-space (
+R
+-space) (
+h
+) and FT-EXAFS fitting curves in reciprocal space (
+κ
+-space;
+i
+) for Fe–N–C–Ar, Fe–N–C–10%FG and FePc.
+Source data
+Full size image
+X-ray absorption near-edge spectroscopy (XANES) analysis indicated that the absorption edge energies of both Fe–N–C catalysts were located between those of the Fe(II) and Fe(III) references, FeO/Fe(II)Pc and Fe
+2
+O
+3
+, respectively (Fig.
+5g
+), suggesting that the valence state is between 2+ and 3+ (refs.
+49
+,
+50
+). Furthermore, the Fe–N–C–10%FG catalyst exhibited a slightly lower edge energy than the Fe–N–C–Ar, probably due to the presence of trace Fe metal, which is also evident in the Fourier transform of the extended X-ray absorption fine structure (FT-EXAFS) data (Fig.
+5h
+). Notably, the Fourier transforms of both catalysts indicate the presence of a scattering path at similar radial distances as that for the Fe(II)Pc standard, indicating that the catalysts contain a similar pyrrolic N coordination environment. The best-fitting result indicated a coordination number (C/N) of 4.0 (±1) in the first shell of the Fe species in these Fe–N–C catalysts (Supplementary Table
+15
+)
+51
+. The electronic state of the Fe–N–C catalyst will usually change during MEA preparation
+52
+. To study the electronic state of Fe in the prepared electrode, we prepared an Fe–N–C–10%FG electrode with an identical ink recipe for MEA studies. XAS with high resolution was recorded and fitted to compare the electronic state of Fe in the electrode and catalyst (Fig.
+5g
+). The XANES line shape for all the samples looks similar to that of Fe(II)Pc. The prepared electrode (Fe–10%FG–electrode) and the catalyst powder (Fe–10%FG–catalyst) have similar pre-edge and rising edge energy positions, revealing a similar electronic structure. The white line intensity in the electrode was slightly increased. However, the EXAFS results reveal similar local structure environments for the samples. The exact nature of the bonded ligands is difficult to distinguish, even in high-quality data
+52
+. It concludes that the electrode preparation process did not change the oxidation state and local coordination. EXAFS fitting suggested that a decreased Fe–N bond length was induced by the FG pyrolysis atmosphere, from 2.02 Å in the Fe–N–C–Ar catalyst to 1.95 Å in the Fe–N–C–10%FG catalyst (Fig.
+5h,i
+). The shortened Fe–N bond of the Fe–N–C–10%FG catalyst is probably the origin of the enhanced stability measured by rotating disk electrode (RDE) and MEAs, which is further elucidated in the ‘Theoretical elucidation via density functional theory calculations’ section.
+Discussion on the promotional role of H
+2
+and the possible S1 and S2 site locations
+Based on the ADF-STEM images, the ZIF-8-derived Fe–N–C catalysts often contain multilayer graphene domains (Fig.
+5b,d
+and Supplementary Fig.
+15
+). The inter-layer spacing of the carbon sheets has a relatively broad distribution of
+d
+-spacings (between 0.35 and 0.41 nm), similar to what has been measured for furnace turbostratic carbon black grades
+53
+. Between these multilayers lies a complex network of mesopores measuring up to
+∼
+20 nm, with surfaces consisting of defective N-doped carbon layers. Single Fe sites are represented by white dots in ADF-STEM images throughout the carbon support, including multiple carbon layers and less-graphitized carbon.
+When the thermal atmosphere was changed from Ar to FG, the presence of H
+2
+multiplied the gasification of the carbon structures (Supplementary Note
+1
+). The carbon layers with less graphitization react faster than the more graphitized ones. Therefore, more mesopore volume results from pyrolysis in the presence of H
+2
+, and this mesopore volume increases when more H
+2
+is added to Ar up to 10% H
+2
+, at which it saturates at
+∼
+270% relative to the mesopore volume at 0% H
+2
+(that is, Ar). Usually, FeN
+4
+sites need a carbon support to carry out the ORR in catalysts. The catalytic sites disappear if the carbon support is removed due to gasification. Therefore, on adding H
+2
+during the pyrolysis, Fe sites located on the mesoporous surfaces of the carbon could decrease due to carbon gasification. In contrast, those in the multiple graphene layers are less likely to be lost.
+Mössbauer spectroscopy analyses enabled us to identify the specific structures of the FeN
+4
+sites in the catalysts. We postulated that the S1-type FeN
+4
+site, where the four N atoms are of the pyrrolic type, is hosted on the microporous surfaces of the less graphitized carbon because it is challenging to integrate into a graphitic structure. The S2-type FeN
+4
+site, where the four N atoms are pyridinic, can easily be integrated into a graphitic structure, such as multilayer turbostratic regions. The drastic increase of mesoporosity on introducing 10% H
+2
+into Ar (that is, the FG) and the percentages of the S1 and S2 sites of the Fe species in the Mössbauer spectra (at both room and low temperatures) of the catalysts can be well linked. (1) The relative decrease of the fraction of S1 sites in Supplementary Fig.
+11b,e
+when 10% H
+2
+is introduced into the Ar during synthesis of the Fe–N–C–FG catalyst is due to enhanced gasification of the carbon structures in H
+2
+to remove less graphitized carbon-containing S1 sites. (2) There is practically no change in the absolute content of S2 sites in the same figures on introducing 10% H
+2
+. Therefore, we conclude that S1-type sites are predominantly hosted in the less-graphitized carbon layers of the carbon support mesopores, and the S2-type sites are mainly found in the more graphitized multiple graphene layers of the same supports, which is in good agreement with the structures of the two sites and their relative stability in fuel cells.
+Theoretical elucidation via density functional theory calculations
+We further performed first-principles density functional theory (DFT) calculations to understand the influence of thermal activation atmosphere on the activity and stability of S1- and S2-type FeN
+4
+sites embedded in carbon. Considering that the FG environment used in our synthesis process could introduce additional hydrogen bonded with carbon, we constructed two S1–4H and S2–4H types of site with four H atoms bonded with the C atoms immediately adjacent the FeN
+4
+moieties (Fig.
+6a
+, Supplementary Note
+2
+and Supplementary Fig.
+16
+).
+Fig. 6: DFT calculations to elucidate activity and stability improvement.
+a
+, Atomistic structure of the proposed S1 FeN
+4
+site, S2 FeN
+4
+site, S1–4H FeN
+4
+site and S2–4H FeN
+4
+site. Grey, blue, orange and white balls represent C, N, Fe and H atoms, respectively.
+b
+, Comparison of the enthalpy changes for the transitions between S2 and S1, S1–4H and S1, S2–4H and S1–4H, and S2–4H and S2 FeN
+4
+sites.
+c
+, Charge density (
+ρ
+) difference for the S1–4H and S2–4H sites, which is calculated as
+ρ
+(FeN
+4
++ 4H*) −
+ρ
+(FeN
+4
+) −
+ρ
+(4H). Cyan and yellow represent charge accumulation and depletion in the region, and the isosurface value is 0.002 e Å
+−3
+.
+d
+, Comparison of the demetallation energies for the S1, S2, S1–4H and S2–4H sites.
+e
+, Predicted free energy evolution for ORR through the 4e
+−
+associative pathway on the S1 and S1–4H sites, with solvation effect considered under electrode potential of
+U
+= 0.58 V.
+f
+, Predicted free energy evolution for ORR through the 4e
+−
+associative pathway on the FeN
+4
+–G–Fe(110) and FeN
+4
+sites under electrode potentials of
+U
+= 0.68 V.
+Source data
+Full size image
+First, we compared the formation enthalpy of the S1- and S2-type FeN
+4
+moieties with and without hydrogen bonded to carbon to estimate the formation possibility of the FeN
+4
+sites under different atmospheric environments (FG versus Ar). As shown in Fig.
+6b
+and Supplementary Fig.
+17a,b
+, we predicted that the formation enthalpy values of S1–4H and S2–4H sites are 0.27 and 0.59 eV, respectively, both lower than those of S1 and S2 sites. A lower formation enthalpy would lead to a higher possibility of the formation of FeN
+4
+sites. Thus, adding hydrogen could enhance the possibility of formation of both S1- and S2-type FeN
+4
+sites embedded in carbon, thus explaining why the Fe–N–C–FG catalyst contained more S1 and S2 sites than the Fe–N–C–Ar catalyst.
+Moreover, we also calculated the enthalpy change for the transition of a single Fe site from an S2-type to an S1-type N
+4
+moiety under different atmospheric environments. As shown in Fig.
+6b
+and Supplementary Fig.
+17c,d
+, we predicted that this enthalpy change would increase from 0.34 to 0.66 eV if a single Fe atom was converted from an S2 site to an S1 site when the carbon atoms immediately adjacent to the FeN
+4
+moiety were hydrogenated. Hence, introducing hydrogen is predicted to favour the formation of an S2 site relative to an S1 site with an increased energy barrier from the S2-to-S1 transition, explaining the higher S2/S1 ratio in the Fe–N–C–10%FG catalyst than in the Fe–N–C–Ar catalyst.
+Furthermore, electronic structure analysis was conducted to evaluate the charge transfer between the FeN
+4
+moiety and the carbon matrix. The charge density difference plot (Fig.
+6c
+) showed electron accumulation near the FeN
+4
+sites with hydrogen bonded to carbon. Bader charge analysis
+54
+quantitatively showed that such electron accumulation was 0.18e on the S1-type FeN
+4
+site and 0.37e on the S2-type FeN
+4
+site. This prediction indicates that introducing hydrogen near FeN
+4
+sites could enhance the interaction between the FeN
+4
+moiety and the graphene layer.
+In addition, DFT calculations were performed to study the stability of these possible active site structures against demetallation under electrochemical environments. The proposed demetallation process for Fe is presented in Supplementary Note
+3
+, Supplementary Table
+16
+and Supplementary Fig.
+18
+(ref.
+55
+), which show that Fe, together with adsorbed O
+2
+, moves away from a N
+4
+-coordinated state into an N
+2
+-coordinated state. At the same time, the remaining two N atoms form N–H bonds with protons from the electrolyte. The Gibbs free energy for this demetallation process was predicted to be −0.02 eV for the S1-type FeN
+4
+site, lower than the 0.26 eV for the S1–4H site (Fig.
+6d
+). This result indicates that the stability of the S1 site against demetallation could be improved by hydrogenating those carbon atoms immediately adjacent to an FeN
+4
+moiety, along with shortened Fe–N bonds caused by H
+2
+adsorption during thermal activation.
+In comparison, the S2–4H site shows a Gibbs free energy for the demetallation process of 1.32 eV, slightly higher than that of the S2-type FeN
+4
+site (1.27 eV), showing that the incorporation of hydrogen enhances the stability of the S2 site against demetallation, just to a small degree. We predicted that the Fe–N bond length was 2.09 Å in S1-type FeN
+4
+and 2.05 Å in the S1–4H site, whereas the S2–4H site showed the same Fe–N bond length of 1.89 Å as the S2 site. This prediction is consistent with the reduction in the
+R
+values of the Fe–N bond in our XAS analysis of the Fe–N–C–10%FG catalyst. Further electronic structure analysis indicated that the bonding of H on C atoms in the S1–4H site could shift all the anti-bonding orbitals of the central Fe above the Fermi energy level and thus lead to stronger Fe–N bonds with shortened length (Supplementary Note
+4
+and Supplementary Figs.
+19
+and
+20
+).
+The intrinsic catalytic activity of S1(S2) and S1(S2)–4H FeN
+4
+sites following the 4e
+−
+associative ORR pathway was investigated by considering the solvation effect. The S1–4H showed an insignificant change in limiting potential (that is, 0.01 V). In contrast, the S2–4H sites increase the potential by 0.06 V compared with the S2 site (Fig.
+6e
+, Supplementary Fig.
+21
+and Supplementary Note
+5
+). According to Bader charge analysis, introducing surface H leads to electron accumulation, thus weakening the adsorption of ORR intermediates and enhancing the intrinsic activity of the S2 sites.
+As Fe nanoparticles have been observed in the Fe–N–C–FG catalyst, DFT calculations were further performed to elucidate the role of Fe nanoparticles encapsulated by graphene layers on the ORR activity of the catalysts. According to Mössbauer spectroscopy and electron microscopy analyses, the Fe nanoparticles exist in the Fe–N–C–10%FG catalyst and are encapsulated in compact carbon shells (up to 14 layers). Here, we used the Fe(110) surface to model the extended facets of the Fe nanoparticles, as (110) was predicted to be the energetically most favourable surface in body-centred cubic Fe
+56
+. For simplification, only one layer of graphene was placed between a graphene layer containing an FeN
+4
+moiety and the Fe(110) surface (Supplementary Fig.
+22
+). We denoted this model as FeN
+4
+–G–Fe (110) and predicted its limiting potential for ORR to be 0.68 V (Fig.
+6f
+). In comparison, we predicted the limiting potential for ORR on an FeN
+4
+site without an Fe surface underneath to be 0.66 V, indicating that the encapsulated Fe(110) surface had a negligible impact on the ORR limiting potential of the FeN
+4
+site.
+Conclusions
+Current Fe–N–C catalysts still cannot provide a performance comparable to the use of Pt in hydrogen fuel cells. The primary limitations are insufficient metal site density and the challenging activity–stability trade-off involving active/unstable S1 and stable/less-active S2 sites. In this Article, we have developed an effective approach to using a H
+2
+–Ar FG for thermal activation, which significantly increases the active metal site density with improved ratios of stable S2 sites, aiming to break the activity–stability trade-off.
+The developed Fe–N–C catalyst exhibited exceptionally high activity in MEAs and generated current densities of 50.8 mA cm
+−2
+at 0.9 V
+iR-free
+(1.0 bar O
+2
+) and 191.0 mA cm
+−2
+at 0.8 V (1.0 bar air), exceeding the DOE 2025 targets. The initial activity and performance are nearly comparable to a typical Pt/C catalyst in aqueous acids and polymer electrolyte-based MEAs. Like the Pt/C catalyst, the Fe–N–C catalyst still degraded during the harsh ASTs. However, the significantly enhanced durability in MEAs was demonstrated by a retained 67 mA cm
+−2
+at 0.8 V (1.0 bar air), which is encouraging and superior to the results with other highly active Fe–N–C catalysts. Due to the intrinsic tolerance to methanol poisoning, the Fe–N–C cathode was studied in DMFCs, exhibiting a maximum power density of 275 mW cm
+−2
+, substantially surpassing the performance of the Pt/C cathode (80 mW cm
+−2
+).
+Extensive spectroscopic characterization and DFT calculations have been combined to elucidate the origin of the improved activity and stability. We theoretically elucidated that the presence of H
+2
+facilitates the formation of S1- and S2-type FeN
+4
+sites with increased active site density. Hydrogenating the C atoms immediately adjacent to FeN
+4
+moieties during the thermal activation under FG leads to shortened Fe–N bonds, as further experimentally verified using X-ray absorption spectroscopy. The shortened Fe–N bonds enhance the intrinsic stability against demetallation during the ORR.
+Meanwhile, based on extensive experimental characterizations, we suggested that these two different S1 and S2 sites may be located in different areas of carbon in the catalysts. The intrinsically stable pyridinic N-coordinated FeN
+4
+sites (S2) may be embedded in the more graphitized multiple layers. In contrast, the less durable but more active pyrrolic N-coordinated FeN
+4
+sites (S1) are primarily hosted in less graphitized and defective carbon surface planes. The proposed theory can well explain the promotional role of H
+2
+in suppressing S1 sites via the gasification of less stable carbon and retaining S2 sites in graphitized carbon in the catalysts, thus leading to increased mesoporosity and enhanced stability.
+Thus, compared to a traditional inert atmosphere, including an optimal H
+2
+content during thermal activation provides multiple benefits to simultaneously improve the activity and stability of Fe–N–C catalysts, including (1) an increase in overall S1 and S2 site density, (2) an increase in S2-to-S1 ratios, (3) shortened Fe–N bonds, (4) hydrogenated Fe–N bonds with increased demetallation energy barrier and (5) hydrogenated S2 sites with enhanced intrinsic activity. This work represents a critical step towards developing viable PGM-free catalysts with adequate performance and durability for PEMFCs.
+Methods
+Synthesis of Fe–N–C–
+n
+%FG catalysts
+In a typical procedure, 10 mg of Fe
+2
+O
+3
+nanoparticles (Alfa Aesar, 5-nm APS Powder) and 6.78 g of zinc nitrate hexahydrate were dispersed and dissolved into a 150-ml methanol solution. The other 150-ml methanol solution contained 7.88 g of 2-methylimidazole. Both solutions were mixed and heated at 60 °C for 24 h. The precipitant was then collected by centrifuging, washed with ethanol three times, dried in a vacuum oven at 60 °C overnight, and finely ground to prepare the Fe
+2
+O
+3
+@ZIF-8 composite precursors. Next, the precursor was subject to pyrolysis at 1,100 °C for 1 h under FG (2–10 mol% H
+2
+in Ar) to synthesize the Fe–N–C–
+n
+%FG catalysts. For comparison, the identical composite precursor was pyrolysed at 1,100 °C in Ar to synthesize the control sample (Fe–N–C–Ar).
+Morphology and structure characterizations
+57
+Fe Mössbauer spectra were acquired at both room and low (6.5 K) temperatures and without applying an external magnetic field using a
+57
+Co/Rh source in constant acceleration mode. The
+57
+Fe–N–C catalysts were prepared with
+57
+Fe
+2
+O
+3
+nanoparticles (
+57
+Fe enrichment >95%, American Elements) with a method identical to that described above. The spectra were analysed using the WinNormos program, a commercial package provided by WissEl–Wissenschaftliche Elektronik. Mössbauer doublets were fit using the Lorentzian mode of WinNormos.
+Scanning electron microscopy images were obtained on a focused ion beam scanning electron microscope (FIB-SEM, Carl Zeiss AURIGA CrossBeam). STEM imaging and EDS quantification were performed on an aberration-corrected JEOL NEOARM system operating at either 60 or 80 kV in the Center for Nanophase Materials Sciences at Oak Ridge National Laboratory. Fe K-edge X-ray absorption spectroscopy was measured at beamline 11-2 of the Stanford Synchrotron Radiation Light (SSRL) source. Data reduction, data analysis and EXAFS fitting were performed with the Athena, Artemis and IFEFFIT software packages.
+A Micromeritics TriStar II analyser was used to measure the N
+2
+isothermal adsorption/desorption for the catalysts at 77 K. The BET surface areas were derived with a correlation coefficient higher than 99.99% and with positive constants. The distribution of porosity was determined with the classic cylinder model calculated by the DFT method (Halsey thickness curve). The micropore surface area was calculated using
+t
+-plot.
+Electrochemical measurements
+An electrochemical workstation (CHI 760E) equipped with a Pine AFMSRCE 3005 in a three-electrode cell was employed to take all RDE measurements at room temperature in 0.5 M H
+2
+SO
+4
+solution for all PGM-free catalysts. The Hg/Hg
+2
+SO
+4
+(saturated K
+2
+SO
+4
+electrolyte) electrode and a graphite rod were used as the reference and counter electrodes, respectively. A glassy carbon RDE coated with catalyst ink was used as the working electrode with a controlled loading of 0.6 mg cm
+−2
+. The RDE was rotated at 900 r.p.m. for all measurements. During electrochemical measurements, the reference electrode was calibrated to an RHE in the same electrolyte using a Pt black coated Pt wire with a continuous H
+2
+bubble as the RHE. Steady-state polarization curves were recorded in O
+2
+-saturated 0.5 M H
+2
+SO
+4
+to determine the ORR activity using a potential staircase in steps of 0.05 V at an interval of 30 s from 1.0 to 0 V versus RHE. Four-electron selectivity and H
+2
+O
+2
+yield during the ORR were determined by applying a high potential (1.10 V versus RHE) on the ring electrode, leading to H
+2
+O
+2
+electrooxidation during the ORR. An AST was performed in O
+2
+-saturated 0.5 M H
+2
+SO
+4
+by potential cycling between 0.60 and 0.95 V
+RHE
+at 50 mV s
+−1
+. The CV profiles and ORR polarization plots were recorded after every 10,000 cycles to evaluate catalytic stability.
+In situ nitrite stripping for the determination of FeN
+x
+site density
+A catalyst loading of 0.20 mg cm
+−2
+was drop-cast onto a glassy carbon electrode (0.247 cm
+2
+) to carry out in situ nitrite adsorption/stripping to determine the active site density associated with the atomically dispersed FeN
+4
+sites, due to the unique poisoning effect of nitrite on Fe. A 0.5 M acetate buffer solution (pH 5.2) containing 125 mM NaNO
+2
+was employed as an electrolyte and prepared from sodium acetate (99.0%) and glacial acetic acid. The testing protocol developed by Kucernak and colleagues
+28
+, including electrode cleaning, ORR performance measurement, poisoning and stripping (recovery), is summarized in Supplementary Fig.
+23
+. It includes the following steps. (1) The working electrode was subjected to potential cycling between −0.4 and 1.0 V with a scan rate of 50 and 10 mV s
+−1
+in Ar-saturated electrolyte until a steady-state CV profile was obtained. (2) The ORR activity of the Fe–N–C catalysts (unpoisoned) was evaluated in O
+2
+-saturated electrolyte. Afterwards, the baseline was recorded by CV between −0.30 and 0.40 V in Ar-saturated electrolyte at a scan rate of 10 mV s
+−1
+. (3) The working electrode was immersed in 125 mM NaNO
+2
+solution at an open-circuit potential for 5 min. The working electrode was then cleaned in deionized water (5 min), electrolyte (5 min) and deionized water (5 min) at a rate of rotation of 300 r.p.m. (4) The ORR activity of the poisoned working electrode was measured in O
+2
+-saturated electrolyte with the same parameters as in step 2. (5) Nitrite stripping was performed in an Ar-saturated electrolyte with parameters identical to those in step 2. Step 2 was repeated to record the ORR activity after the recovery. A second nitrite poisoning was carried out on the recovered catalyst at the end, following the recent work by Kucernak and colleagues
+29
+, suggesting that the second nitrite adsorption/stripping is necessary to minimize any potential variation in the baseline CV profile due to the involvement of the ORR process. The site density was therefore calculated by using the second nitrite adsorption/stripping result.
+The number of FeN
+x
+active sites was quantified by the stripping charge of nitrite anions:
+$${\rm{SD}}\left[{\rm{sites}}\, {{\rm{g}}}^{-1}\right]=\frac{{Q}_{{\rm{strip}}}\left[{{\rm{C}}\,{\rm{g}}}^{-1}\right]{N}_{{\rm{A}}}\left[{\rm{atom}}\,{{\rm{mol}}}^{-1}\right]}{{n}_{{\rm{strip}}}F\,\left[{{\rm{C}}\,{\rm{mol}}}^{-1}\right]}$$
+(1)
+where
+Q
+strip
+is the coulometric charge associated with the stripping of nitrite,
+N
+A
+is Avogadro’s constant,
+n
+strip
+(= 5) is the number of electrons associated with the reduction of one adsorbed nitrite anion per site, and
+F
+is Faraday’s constant. The turnover frequency (TOF; site
+−1
+s
+−1
+) at 0.9 V can be calculated from the kinetic current density
+i
+k
+at 0.9 V and site density (SD) via
+$${\rm{TOF}}\left(@0.9\,{\rm{V}}\,{\rm{versus}}\,{\rm{RHE}}\right)\left[{{\rm{s}}}^{-1}\right]=\frac{{i}_{{\rm{k}}}\left[{{\rm{A}}{\rm{g}}}^{-1}\right]{N}_{{\rm{A}}}\left[{{\rm{mol}}}^{-1}\right]}{{\rm{SD}}\left[{\rm{sites}}\,{{\rm{g}}}^{-1}\right]F\,\left[{\rm{A}}\,{\rm{s}}\,{{\rm{mol}}}^{-1}\right]}$$
+(2)
+H
+2
+–air fuel cell MEA tests
+Both the anodes and cathodes were prepared using the catalyst-coated membrane method using ultrasonic spray-coating techniques. For the anode, the catalyst ink was prepared by mixing 20 wt% Pt/XC-72 catalyst and an ionomer dispersion (25 wt%, Aquivion D79−25BS) with an optimal ratio of ionomer to carbon (I/C) of 0.6. The solvent was a mixture of
+n
+-propanol and deionized (DI) water in a 1:6 ratio. The prepared ink was first sonicated for 30 min in a water bath at a temperature under 30 °C followed by sonicating for 4 min using a sonic dismembrator (Fisher Scientific Model 120). The prepared ink was then sprayed onto a 5-cm
+2
+square Gore membrane using an Exacta Coat spray machine (Sono-Tek), and the Pt loading at the anode was controlled at 0.1 mg
+Pt
+cm
+−2
+. Cathode preparation followed a similar protocol, but with a different
+n
+-propanol and DI water ratio of 1:1. The prepared ink was sprayed on the opposite side of the anode, and the loading was controlled between 4.0 and 4.5 mg cm
+−2
+. SGL−22BB gas diffusion layers (GDLs) were used for the fabrication, and measured by a fuel cell test station (Fuel Cell Technology). The cell was first heated to 80 °C with a N
+2
+flow of 200 ml min
+−1
+in the anode and cathode for 2 h, aiming to fully hydrate the membrane and ionomer. Then, air/oxygen flowing at 1,700 s.c.c.m. and H
+2
+(purity 99.999%) flowing at 700 s.c.c.m. were supplied to the cathode and anode, respectively. The back pressures during the fuel cell tests were set at 150 kPa
+abs
+. MEA performance under H
+2
+–O
+2
+and H
+2
+–air conditions was measured by following the latest US ElectroCat Consortium protocols
+32
+. Specifically, the polarization curves were measured using the scanning voltage method in a range of 0.96 to 0.84 V at a scan rate of 20 mV per step, holding 45 s. In the low-voltage range of <0.84 V, the scan rate was 40 mV per step for 45 s. MEA durability was evaluated by applying a trapezoid potential on the cathode under the following conditions: H
+2
+–air (200 and 400 s.c.c.m.), 100% RH, 150 kPa
+abs
+back pressure and 80 °C. The cathode was held at 0.95 V and 0.60 V each for 2.5 s. The ramping time from 0.60 to 0.95 V and back to 0.6 V was 0.25 s each way. A reference MEA with a Pt/C cathode (0.1 mg
+Pt
+cm
+−2
+) was studied under identical AST conditions. MEA tests were performed in a differential cell with 14 parallel flow channels. The polarization curves were separately recorded at 5,000, 10,000, 20,000 and 30,000 voltage cycles during the AST
+33
+.
+DMFC tests
+For the DMFC studies, the Fe–N–C cathode was the same as for the hydrogen MEA, but the anode catalyst ink was made from a PtRu/C (75 wt%, Johnson Matthey). The anode ink was a mix of PtRu/C catalyst with 2-propanol and 5 wt% Nafion dispersion (D521) at an I/C ratio of 0.8 and a total PtRu loading of 3.0 mg cm
+−2
+. Carbon fibre paper with a microporous layer (Sigracet 22BB) was used as the anode GDL. A Nafion 212 membrane was used for MEA fabrication. The anode and cathode were purged with 1.0 M methanol aqueous solution and dry air at flow rates of 0.5 and 1,000 s.c.c.m., respectively. The cell temperature was 94 °C and the back pressure was 250 kPa
+abs
+. The
+I–V
+polarization curves of the DMFC were recorded by scanning voltages from the open circuit voltage to 0.2 V with a staircase of 25 mV and holding for 60 s. The MEA durability of the DMFCs was evaluated by trapezoid-potential AST, with voltages cycled between 0.40 and 0.80 V by controlling a ramping time of 0.25 s and holding at each voltage for 2.5 s.
+Computational methods
+The first-principles DFT calculations
+57
+,
+58
+were performed using the Vienna ab initio simulation package (VASP) code
+59
+,
+60
+. The generalized gradient approximation of Perdew, Burke and Ernzerhof functionals was used to describe the electronic exchange and correlation energy
+61
+. The energy cutoff was set as 400 eV to expand the wavefunction. The Brillouin zone was sampled using the Monkhorst-Pack
+62
+scheme with a 2 × 3 × 1
+k
+-points grid for all modelled FeN
+4
+sites. A vacuum region (14 Å thick) was added in the direction normal to the carbon layer to ensure a negligible interaction between the slab and its images. The optimized structures were obtained until the forces on each ion fell below 0.01 eV Å
+−1
+. The computational hydrogen electrode method developed by Norskov et al.
+63
+was used to calculate the free energy change for the demetallation process. The aqueous environment of the electrolyte was treated with a continuum dielectric model as implemented by the Hennig group in VASPsol code
+64
+. The relative permittivity was set as 78.4 to model the water environment. Zero-point energy (ZPE) corrections were included in all the energies reported in this work. ZPE corrections were calculated as
+\({\rm{ZPE}}=\frac{{{1}}}{{{2}}}\sum {{h}}{{{\nu }}}_{{\rm{i}}}\)
+, where
+h
+is Planck’s constant and
+v
+i
+is the frequency of the vibrational mode of the binding molecules.
+Data availability
+All data supporting the findings of this study are available within the paper and
+Supplementary Information
+, or from the authors upon request.
+Source data
+are provided with this paper.
+References
+Wang, X. X., Swihart, M. T. & Wu, G. Achievements, challenges and perspectives on cathode catalysts in proton exchange membrane fuel cells for transportation.
+Nat. Catal.
+2
+, 578–589 (2019).
+Article
+CAS
+Google Scholar
+He, Y. & Wu, G. PGM-free oxygen-reduction catalyst development for proton-exchange membrane fuel cells: challenges, solutions and promises.
+Acc. Mater. Res.
+3
+, 224–236 (2022).
+Article
+CAS
+Google Scholar
+Wang, W., Jia, Q., Mukerjee, S. & Chen, S. Recent insights into the oxygen-reduction electrocatalysis of Fe/N/C materials.
+ACS Catal.
+9
+, 10126–10141 (2019).
+Article
+CAS
+Google Scholar
+Martinez, U. et al. Progress in the development of Fe-based PGM-free electrocatalysts for the oxygen reduction reaction.
+Adv. Mater.
+31
+, 1806545 (2019).
+Article
+Google Scholar
+Zhang, H. et al. Single atomic iron catalysts for oxygen reduction in acidic media: particle size control and thermal activation.
+J. Am. Chem. Soc.
+139
+, 14143–14149 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, S. et al. Atomically dispersed iron sites with a nitrogen–carbon coating as highly active and durable oxygen reduction catalysts for fuel cells.
+Nat. Energy
+7
+, 652–663 (2022).
+Article
+CAS
+Google Scholar
+Asset, T., Maillard, F. & Jaouen, F. in
+Supported Metal Single Atom Catalysis
+(eds Serp, P. & Minh, D. P.) 531–582 (Wiley, 2022).
+Glibin, V. P., Dodelet, J.-P. & Zhang, G. Energetics and thermodynamic stability of potential Fe(II)-hexa-aza-active sites for O
+2
+reduction in PEM fuel cells.
+SusMat
+2
+, 731–748 (2022).
+Article
+CAS
+Google Scholar
+Liu, S., Shi, Q. & Wu, G. Solving the activity–stability trade-off riddle.
+Nat. Catal.
+4
+, 6–7 (2021).
+Article
+Google Scholar
+Liu, K., Wu, G. & Wang, G. Role of local carbon structure surrounding FeN
+4
+sites in boosting the catalytic activity for oxygen reduction.
+J. Phys. Chem. C
+121
+, 11319–11324 (2017).
+Article
+CAS
+Google Scholar
+Mao, K., Yang, L., Wang, X., Wu, Q. & Hu, Z. Identifying iron-nitrogen/carbon active structures for oxygen reduction reaction under the effect of electrode potential.
+J. Phys. Chem. Lett.
+11
+, 2896–2901 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Shao, Y., Dodelet, J.-P., Wu, G. & Zelenay, P. PGM-free cathode catalysts for PEM fuel cells: a mini-review on stability challenges.
+Adv. Mater.
+31
+, 1807615 (2019).
+Article
+Google Scholar
+Kumar, K. et al. On the influence of oxygen on the degradation of Fe‐N‐C catalysts.
+Angew. Chem. Int. Ed.
+59
+, 3235–3243 (2020).
+Article
+CAS
+Google Scholar
+Zhu, Y. et al. Engineering local coordination environments of atomically dispersed and heteroatom-coordinated single metal site electrocatalysts for clean energy-conversion.
+Adv. Energy Mater.
+10
+, 1902844 (2020).
+Article
+CAS
+Google Scholar
+Li, J. et al. Identification of durable and non-durable FeN
+x
+sites in Fe–N–C materials for proton exchange membrane fuel cells.
+Nat. Catal.
+4
+, 10–19 (2021).
+Article
+Google Scholar
+Marshall-Roth, T. et al. A pyridinic Fe-N
+4
+macrocycle models the active sites in Fe/N-doped carbon electrocatalysts.
+Nat. Commun.
+11
+, 5283 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Menga, D. et al. Resolving the dilemma of Fe–N–C catalysts by the selective synthesis of tetrapyrrolic active sites via an imprinting strategy.
+J. Am. Chem. Soc.
+143
+, 18010–18019 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Muñoz-Becerra, K., Venegas, R., Duque, L., Zagal, J. H. & Recio, F. J. Recent advances of Fe–N–C pyrolyzed catalysts for the oxygen reduction reaction.
+Curr. Opin. Electrochem.
+23
+, 154–161 (2020).
+Article
+Google Scholar
+Lefèvre, M., Dodelet, J. P. & Bertrand, P. O
+2
+reduction in PEM fuel cells: activity and active site structural information for catalysts obtained by the pyrolysis at high temperature of Fe precursors.
+J. Phys. Chem. B
+104
+, 11238–11247 (2000).
+Article
+Google Scholar
+Wu, G., More, K. L., Johnston, C. M. & Zelenay, P. High-performance electrocatalysts for oxygen reduction derived from polyaniline, iron and cobalt.
+Science
+332
+, 443–447 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Proietti, E. et al. Iron-based cathode catalyst with enhanced power density in polymer electrolyte membrane fuel cells.
+Nat. Commun.
+2
+, 416 (2011).
+Article
+PubMed
+Google Scholar
+Lefèvre, M., Proietti, E., Jaouen, F. & Dodelet, J.-P. Iron-based catalysts with improved oxygen reduction activity in polymer electrolyte fuel cells.
+Science
+324
+, 71–74 (2009).
+Article
+PubMed
+Google Scholar
+Kramm, U. I. et al. On an easy way to prepare metal–nitrogen doped carbon with exclusive presence of MeN
+4
+-type sites active for the ORR.
+J. Am. Chem. Soc.
+138
+, 635–640 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Jaouen, F. & Dodelet, J.-P. O
+2
+reduction mechanism on non-noble metal catalysts for PEM fuel cells. Part I: experimental rates of O
+2
+electroreduction, H
+2
+O
+2
+electroreduction and H
+2
+O
+2
+disproportionation.
+J. Phys. Chem. C
+113
+, 15422–15432 (2009).
+Article
+CAS
+Google Scholar
+Tabassum, H. et al. Hydrogen generation via ammonia decomposition on highly efficient and stable Ru-free catalysts: approaching complete conversion at 450 °C.
+Energy Environ. Sci.
+15
+, 4190–4200 (2022).
+Article
+CAS
+Google Scholar
+Kumar, K. et al. Fe–N–C electrocatalysts’ durability: effects of single atoms’ mobility and clustering.
+ACS Catal.
+11
+, 484–494 (2021).
+Article
+CAS
+Google Scholar
+Workman, M. J., Serov, A., Tsui, L., Atanassov, P. & Artyushkova, K. Fe–N–C catalyst graphitic layer structure and fuel cell performance.
+ACS Energy Lett.
+2
+, 1489–1493 (2017).
+Article
+CAS
+Google Scholar
+Malko, D., Kucernak, A. & Lopes, T. In situ electrochemical quantification of active sites in Fe–N/C non-precious metal catalysts.
+Nat. Commun.
+7
+, 13285 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Mehmood, A. et al. High loading of single atomic iron sites in Fe–NC oxygen reduction catalysts for proton exchange membrane fuel cells.
+Nat. Catal.
+5
+, 311–323 (2022).
+Article
+CAS
+Google Scholar
+Zhang, H. et al. High-performance fuel cell cathodes exclusively containing atomically dispersed iron active sites.
+Energy Environ. Sci.
+12
+, 2548–2558 (2019).
+Article
+CAS
+Google Scholar
+Laviron, E. Surface linear potential sweep voltammetry: equation of the peaks for a reversible reaction when interactions between the adsorbed molecules are taken into account.
+J. Electroanal. Chem. Interf. Electrochem.
+52
+, 395–402 (1974).
+Article
+CAS
+Google Scholar
+Zhang, H. et al. Standardized protocols for evaluating platinum group metal-free oxygen reduction reaction electrocatalysts in polymer electrolyte fuel cells.
+Nat. Catal.
+5
+, 455–462 (2022).
+Article
+CAS
+Google Scholar
+Osmieri, L., Cullen, D. A., Chung, H. T., Ahluwalia, R. K. & Neyerlin, K. C. Durability evaluation of a Fe–N–C catalyst in polymer electrolyte fuel cell environment via accelerated stress tests.
+Nano Energy
+78
+, 105209 (2020).
+Article
+CAS
+Google Scholar
+Qiao, Z. et al. Atomically dispersed single iron sites for promoting Pt and Pt
+3
+Co fuel cell catalysts: performance and durability improvements.
+Energy Environ. Sci.
+14
+, 4948–4960 (2021).
+Article
+CAS
+Google Scholar
+Shi, Q. et al. Methanol tolerance of atomically dispersed single metal site catalysts: mechanistic understanding and high-performance direct methanol fuel cells.
+Energy Environ. Sci.
+13
+, 3544–3555 (2020).
+Article
+CAS
+Google Scholar
+Zitolo, A. et al. Identification of catalytic sites for oxygen reduction in iron- and nitrogen-doped graphene materials.
+Nat. Mater.
+14
+, 937–942 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Kramm, U. I., Ni, L. & Wagner, S.
+57
+Fe Mössbauer spectroscopy characterization of electrocatalysts.
+Adv. Mater.
+31
+, 1805623 (2019).
+Article
+Google Scholar
+Ni, L. et al. Identification of the catalytically dominant iron environment in iron- and nitrogen-doped carbon catalysts for the oxygen reduction reaction.
+J. Am. Chem. Soc.
+144
+, 16827–16840 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Mineva, T. et al. Understanding active sites in pyrolyzed Fe–N–C catalysts for fuel cell cathodes by bridging density functional theory calculations and
+57
+Fe Mössbauer spectroscopy.
+ACS Catal.
+9
+, 9359–9371 (2019).
+Article
+CAS
+Google Scholar
+Thompson, E., Danks, A. E., Bourgeois, L. & Schnepp, Z. Iron-catalyzed graphitization of biomass.
+Green Chem.
+17
+, 551–556 (2015).
+Article
+CAS
+Google Scholar
+Jaouen, F., Lefèvre, M., Dodelet, J.-P. & Cai, M. Heat-treated Fe/N/C catalysts for O
+2
+electroreduction: are active sites hosted in micropores?
+J. Phys. Chem. B
+110
+, 5553–5558 (2006).
+Article
+CAS
+PubMed
+Google Scholar
+Zhao, X. et al. Single-iron site catalysts with self-assembled dual-size architecture and hierarchical porosity for proton-exchange membrane fuel cells.
+Appl. Catal. B
+279
+, 119400 (2020).
+Article
+CAS
+Google Scholar
+Uddin, A. et al. High power density platinum group metal-free cathodes for polymer electrolyte fuel cells.
+ACS Appl. Mater. Interfaces
+12
+, 2216–2224 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, Y. et al. Facile synthesis of MOF-derived concave cube nanocomposite by self-templated toward lightweight and wideband microwave absorption.
+Carbon
+186
+, 574–588 (2022).
+Article
+CAS
+Google Scholar
+Zheng, L., Zhao, Y., Zhang, H., Xia, W. & Tang, J. Space-confined anchoring of Fe–N
+x
+on concave N-doped carbon cubes for catalyzing oxygen reduction.
+ChemSusChem
+15
+, e202102642 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Ferrari, A. C. et al. Raman spectrum of graphene and graphene layers.
+Phys. Rev. Lett.
+97
+, 187401–187405 (2006).
+Article
+CAS
+PubMed
+Google Scholar
+Wan, X. et al. Fe–N–C electrocatalyst with dense active sites and efficient mass transport for high-performance proton exchange membrane fuel cells.
+Nat. Catal.
+2
+, 259–268 (2019).
+Article
+CAS
+Google Scholar
+Wu, G. & Zelenay, P. Nanostructured nonprecious metal catalysts for oxygen reduction reaction.
+Acc. Chem. Res.
+46
+, 1878–1889 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, M. & Feng, Z. Pitfalls in X-ray absorption spectroscopy analysis and interpretation: a practical guide for general users.
+Curr. Opin. Electrochem.
+30
+, 100803 (2021).
+Article
+CAS
+Google Scholar
+Mohd Adli, N. et al. Engineering atomically dispersed FeN
+4
+active sites for CO
+2
+electroreduction.
+Angew. Chem. Int. Ed.
+60
+, 1022–1032 (2021).
+Article
+CAS
+Google Scholar
+Liu, S. et al. Chemical vapor deposition for atomically dispersed and nitrogen coordinated single metal site catalysts.
+Angew. Chem. Int. Ed.
+59
+, 21698–21705 (2020).
+Article
+CAS
+Google Scholar
+Saveleva, V. A. et al. Fe–N–C electrocatalyst and its electrode: are we talking about the same material?
+ACS Appl. Energy Mater.
+6
+, 611–616 (2023).
+Article
+CAS
+Google Scholar
+Hess, W. M. & Herd, C. R. in
+Carbon Black: Science and Technology
+(eds Donnet, J.-B. et al) 89–173 (Routledge, 2018).
+Yu, M. & Trinkle, D. R. Accurate and efficient algorithm for Bader charge integration.
+J. Chem. Phys.
+134
+, 064111 (2011).
+Article
+PubMed
+Google Scholar
+Xie, X. et al. Performance enhancement and degradation mechanism identification of a single-atom Co–N–C catalyst for proton exchange membrane fuel cells.
+Nat. Catal.
+3
+, 1044–1054 (2020).
+Article
+CAS
+Google Scholar
+Vitos, L., Ruban, A. V., Skriver, H. L. & Kollár, J. The surface energy of metals.
+Surf. Sci.
+411
+, 186–202 (1998).
+Article
+CAS
+Google Scholar
+Hohenberg, P. & Kohn, W. Inhomogeneous electron gas.
+Phys. Rev. B
+136
+, B864–B871 (1964).
+Article
+Google Scholar
+Kohn, W. & Sham, L. J. Self-consistent equations including exchange and correlation effects.
+Phys. Rev.
+140
+, 1133–1138 (1965).
+Article
+Google Scholar
+Kresse, G. & Furthmuller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Hafner, J. Ab initio molecular dynamics for liquid metals.
+Phys. Rev. B
+47
+, 558–561 (1993).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+PubMed
+Google Scholar
+Monkhorst, H. J. & Pack, J. D. Special points for Brillouin-zone integrations.
+Phys. Rev. B
+13
+, 5188–5192 (1976).
+Article
+Google Scholar
+Norskov, J. K. et al. Origin of the overpotential for oxygen reduction at a fuel-cell cathode.
+J. Phys. Chem. B
+108
+, 17886–17892 (2004).
+Article
+CAS
+Google Scholar
+Mathew, K., Sundararaman, R., Letchworth-Weaver, K., Arias, T. & Hennig, R. G. Implicit solvation model for density-functional study of nanocrystal surfaces and reaction pathways.
+J. Chem. Phys.
+140
+, 084106–084114 (2014).
+Article
+PubMed
+Google Scholar
+Download references
+Acknowledgements
+We acknowledge support from the US Department of Energy (DOE), Energy Efficiency and Renewable Energy, Hydrogen and Fuel Cell Technologies Office. Scanning transmission electron microscopy research was supported by the Center for Nanophase Materials Sciences (CNMS), which is a US Department of Energy, Office of Science User Facility at Oak Ridge National Laboratory. This work was in part authored by Argonne National Laboratory, which is operated for the US DOE by the University of Chicago Argonne LLC under contract no. DE-AC02-06CH11357. G. Wu also thanks the New York State’s Center of Excellence in Materials Informatics (CMI) at the University at Buffalo, as well as the National Science Foundation (CBET-1604392, 1804326 and 2223467), for partial support.
+Author information
+Author notes
+These authors contributed equally: Yachao Zeng, Chenzhao Li, Boyang Li, Jiashun Liang.
+Authors and Affiliations
+Department of Chemical and Biological Engineering, University at Buffalo, The State University of New York, Buffalo, NY, USA
+Yachao Zeng, Jiashun Liang, Bingzhang Zhang & Gang Wu
+Department of Mechanical and Energy Engineering, Purdue School of Engineering and Technology, Indiana University-Purdue University, Indianapolis, IN, USA
+Chenzhao Li & Jian Xie
+School of Mechanical Engineering, Purdue University, West Lafayette, IN, USA
+Chenzhao Li
+Department of Mechanical Engineering and Materials Science, University of Pittsburgh, Pittsburgh, PA, USA
+Boyang Li & Guofeng Wang
+Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, Oak Ridge, TN, USA
+Michael J. Zachman & David A. Cullen
+Materials Science and Technology Division, Oak Ridge National Laboratory, Oak Ridge, TN, USA
+Raphael P. Hermann
+Advanced Photon Source, Argonne National Laboratory, Lemont, IL, USA
+E. Ercan Alp & Barbara Lavina
+Center for Advanced Radiation Sources, The University of Chicago, Chicago, IL, USA
+Barbara Lavina
+Department of Chemical Engineering, University of South Carolina, Columbia, SC, USA
+Stavros Karakalos
+School of Chemical, Biological, and Environmental Engineering, Oregon State University, Corvallis, OR, USA
+Marcos Lucero, Maoyu Wang & Zhenxing Feng
+Chemical Sciences and Engineering Division, Argonne National Laboratory, Lemont, IL, USA
+Deborah J. Myers
+INRS-Énergie, Matériaux et Télécommunications, Varennes, Québec, Canada
+Jean-Pol Dodelet
+Authors
+Yachao Zeng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chenzhao Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Boyang Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiashun Liang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Michael J. Zachman
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+David A. Cullen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Raphael P. Hermann
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+E. Ercan Alp
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Barbara Lavina
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Stavros Karakalos
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Marcos Lucero
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bingzhang Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Maoyu Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhenxing Feng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Guofeng Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jian Xie
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Deborah J. Myers
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jean-Pol Dodelet
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Gang Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+G. Wu, J.-P.D. and Y.Z. were the primary writers of the paper. Y.Z., J.L., B.Z., S.K. and G. Wu designed the catalyst synthesis and performed the electrochemical experiments, characterized the catalyst and analysed the data. C.L. and J.X. carried out fuel cell tests and data analysis. D.A.C. and M.J.Z. together performed the electron microscopy imaging and further characterizations. B. Li and G. Wang designed and performed DFT calculations. M.L., M.W. and Z.F. designed and performed X-ray absorption spectroscopy and data analysis. R.P.H., E.E.A., B. Lavina and D.J.M. designed and performed Mössbauer spectroscopy experiments and data analysis. G. Wu supervised the execution of the overall project.
+Corresponding authors
+Correspondence to
+Guofeng Wang
+,
+Jian Xie
+,
+Deborah J. Myers
+or
+Gang Wu
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks Yaqiong Su, Kavita Kumar and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–23, Tables 1–16 and Notes 1–5.
+Source data
+Source Data Fig. 1
+Statistical source data.
+Source Data Fig. 2
+Statistical source data.
+Source Data Fig. 3
+Statistical source data.
+Source Data Fig. 5
+Statistical source data.
+Source Data Fig. 6
+Statistical source data.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Zeng, Y., Li, C., Li, B.
+et al.
+Tuning the thermal activation atmosphere breaks the activity–stability trade-off of Fe–N–C oxygen reduction fuel cell catalysts.
+Nat Catal
+6
+, 1215–1227 (2023). https://doi.org/10.1038/s41929-023-01062-8
+Download citation
+Received
+:
+28 January 2023
+Accepted
+:
+16 October 2023
+Published
+:
+05 December 2023
+Issue Date
+:
+December 2023
+DOI
+:
+https://doi.org/10.1038/s41929-023-01062-8
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Modifying Fe–N interaction to boost catalytic performance
+Ulrike I. Kramm
+Lior Elbaz
+Nature Catalysis
+News & Views
+20 Dec 2023
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

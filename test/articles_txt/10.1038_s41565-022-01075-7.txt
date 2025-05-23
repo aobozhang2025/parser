@@ -1,0 +1,1183 @@
+Abrading bulk metal into single atoms | Nature Nanotechnology
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature nanotechnology
+articles
+article
+Abrading bulk metal into single atoms
+Download PDF
+Article
+Published:
+10 February 2022
+Abrading bulk metal into single atoms
+Gao-Feng Han
+ORCID:
+orcid.org/0000-0001-5943-0492
+1
+,
+Feng Li
+ORCID:
+orcid.org/0000-0002-9891-8260
+1
+,
+2
+,
+Alexandre I. Rykov
+ORCID:
+orcid.org/0000-0002-0290-2337
+3
+,
+Yoon-Kwang Im
+1
+,
+Soo-Young Yu
+1
+,
+Jong-Pil Jeon
+1
+,
+Seok-Jin Kim
+ORCID:
+orcid.org/0000-0002-6052-547X
+1
+,
+Wenhui Zhou
+3
+,
+Rile Ge
+3
+,
+Zhimin Ao
+ORCID:
+orcid.org/0000-0003-0333-3727
+4
+,
+Tae Joo Shin
+ORCID:
+orcid.org/0000-0002-1438-3298
+5
+,
+Junhu Wang
+ORCID:
+orcid.org/0000-0003-1987-2522
+3
+,
+Hu Young Jeong
+ORCID:
+orcid.org/0000-0002-5550-5298
+5
+&
+…
+Jong-Beom Baek
+ORCID:
+orcid.org/0000-0003-4785-2326
+1
+Show authors
+Nature Nanotechnology
+volume
+17
+,
+pages
+403–407 (
+2022
+)
+Cite this article
+15k
+Accesses
+19
+Altmetric
+Metrics
+details
+Subjects
+Synthesis and processing
+Abstract
+Single-atom catalysts have recently attracted considerable attention because of their highly efficient metal utilization and unique properties. Finding a green, facile method to synthesize them is key to their widespread commercialization. Here we show that single-atom catalysts (including iron, cobalt, nickel and copper) can be prepared via a top-down abrasion method, in which the bulk metal is directly atomized onto different supports, such as carbon frameworks, oxides and nitrides. The level of metal loading can be easily tuned by changing the abrasion rate. No synthetic chemicals, solvents or even water were used in the process and no by-products or waste were generated. The underlying reaction mechanism involves the mechanochemical force in situ generating defects on the supports, then trapping and stably sequestering atomized metals.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+A single-atom library for guided monometallic and concentration-complex multimetallic designs
+Article
+23 May 2022
+Building up libraries and production line for single atom catalysts with precursor-atomization strategy
+Article
+Open access
+29 September 2022
+Scalable two-step annealing method for preparing ultra-high-density single-atom catalyst libraries
+Article
+25 November 2021
+Main
+Single-atom catalysts (SACs), isolated individual metal atoms stably anchored onto supports, allow up to 100% of the metal to be catalytically utilized. The strong metal–support interaction and quantum size effects lead to exceptionally distinct chemical, physical and electronic properties relative to nanoparticles and bulk metals
+1
+,
+2
+,
+3
+,
+4
+. SACs have potential applications in CO oxidation
+5
+,
+6
+,
+7
+,
+8
+, hydrogenation
+9
+, organic reactions
+10
+,
+11
+, and electrocatalytic
+12
+,
+13
+,
+14
+,
+15
+,
+16
+and photocatalytic reactions
+17
+. Accordingly, finding a simple, low-cost, eco-friendly and scalable approach to synthesize SACs is highly desirable.
+SACs are typically synthesized using bottom-up methods, employing a synthetic metal salt/complex, and nitrogen- and/or carbon-containing organic compounds as the raw materials (Fig.
+1a
+). Water or an organic liquid is used as the supporting solvent. A thermal reduction is also required to transform the metal salts into single atoms. The bottom-up process inevitably generates by-products, including salts and liquid/gaseous molecules, which require further rinsing with solvents
+1
+,
+2
+,
+3
+,
+4
+. Although several works claim that ball-milling can eliminate the need for solvent by physically mixing metal salts with support, this method requires several steps and produces hazardous wastes (Fig.
+1b
+)
+18
+,
+19
+,
+20
+,
+21
+.
+Fig. 1: Schematic comparing the different methods for preparing SACs.
+a
+, Traditional wet-synthesis method.
+b
+, Traditional ball-milling method (bottom up).
+c
+, Abrasion method (top down).
+Full size image
+Other top-down methods utilize wet-synthesized nanoparticles
+8
+,
+22
+,
+23
+or hazardous nitrogen sources
+24
+as precursors—making them costly and environmentally unfriendly. Preparation of SACs using widely available bulk elementary materials offers a low-cost and eco-friendly solution. Qu et al. used ammonia gas as a corrosion agent to transform bulk copper into copper complexes that can then be deposited on a support to produce a SAC. The limited choice of supports available and thermal deposition also restrict the scalability of SACs
+24
+.
+In this Article, we report a facile and eco-friendly top-down mechanochemical abrasion method for direct synthesis of SACs from bulk metals, nitrogen gas (N
+2
+) and graphite as precursors (Fig.
+1c
+). No synthetic chemicals or solvents (including water) are used in the preparation process and therefore no by-products or waste are generated. Because kinetic energy is the driving force of the reaction, the processing cost can be further reduced by directly using natural sources of kinetic energy, such as wind or hydro power. In some cases, mild thermal treatment can further enhance the ratio of single atoms (from 75% to 96% for the Fe–N–C system) and render the SACs more thermodynamically stable. Because one metal cluster equals tens of single atoms, these clusters are so scarce as to be very difficult to detect by morphological characterization methods. It should be noted that thermal purification is not always required depending on the system; for example, thermal treatment is not required for single atoms of iron on SiO
+2
+. The concentration of single atoms can be easily tuned by altering the abrasion parameters. The underlying mechanisms were investigated using density functional theory (DFT) calculations, which show that the large binding energy between the metal and the support facilitates the formation of SACs. We also extended our method to synthesize SACs on supports such as oxides and nitrides.
+Preparation method for SACs using abrasion
+Any mechanical movement that can give rise to abrasion between metal and support, such as friction, grinding and ball-milling, works in this experiment. Here we adopted the ball-milling method, which is often described as a commercially mature technique. Traditional ball-milling uses physical mixing, whereas our method uses mechanochemical reactions. For the synthesis of SACs, traditional ball-milling generally involves mechanical mixing of metal salts and support, whereas our method mechanochemically abrades bulk metal into single atoms.
+To prepare single-atom metal–N–C, we used the corresponding elementary substances of each element as the raw materials (
+Supplementary Notes
+), that is, bulk metal balls, N
+2
+gas and graphite. These materials are environmentally friendly and readily available. The metal atomization, N
+2
+fixation and graphite unzipping are achieved simultaneously by a one-step ball-milling method (Supplementary Tables
+1
+and
+2
+). Here the metal balls are not only the source of the atomized metal, but also transmit kinetic energy to drive the reactions. The atomization of the metal balls occurs via an atomic-scale abrasion. N
+2
+gas provides the nitrogen, which is incorporated into the graphitic framework and anchors the metal atoms. The N
+2
+gas is dissociated via a catalytic process on the activated surfaces of the metal balls, promoted by cyclic strain engineering
+25
+. The graphite is unzipped by the kinetic energy delivered by the metal balls and serves as an active matrix to accommodate the nitrogen and atomized metal. The method can be readily scaled-up by simply increasing the volume of the ball-mill container.
+Characterizations
+We have synthesized SACs of Fe–N–C, Co–N–C, Ni–N–C and Cu–N–C. We describe the results from the Fe–N–C system as a representative example for the following reasons: (1) the chemical states of iron can be characterized with ultrahigh resolution by Mössbauer spectroscopy; and (2) the single-atom nature of the iron on the carbon support can be definitively determined due to the absence of magnetism in single atoms of iron.
+To directly image the single atoms, high-resolution high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) was utilized. The single iron atoms are readily visible as bright spots on the surface of graphitic nanoparticles (GNPs) because of their higher atomic mass compared to carbon and nitrogen (Fig.
+2a
+). The results clearly suggest that single atoms are formed.
+Fig. 2: Characterizations of single-atom metal–N–C.
+a
+, HAADF-STEM image of the original sample without heat treatment. The white dot in the red circle is attributed to a typical single iron atom. Scale bar, 1 nm.
+b
+, The RDF for single-atom Fe–N–C before and after heat treatment. The RDFs were Fourier transformed (FT) from EXAFS.
+c
+,
+d
+, Mössbauer spectroscopy for single-atom Fe–N–C before (
+c
+) and after (
+d
+) heat treatment.
+e
+, Extension to different metals, their RDFs and fittings.
+f
+, Extension to Cu–Zn alloy, showing its RDFs and fittings. All the samples were prepared under optimized conditions; see
+Methods
+for more information.
+Full size image
+The overall iron loading determined by inductively coupled plasma optical emission spectrometry (ICP-OES) was found to be
+∼
+1.10 ± 0.03 wt% (Supplementary Table
+2
+), but the surface of individual GNPs was found to be nearly fully covered with single atoms. The main reason is that single atoms are only distributed on the surface of GNPs because of atomization by top-down abrasion. Energy-dispersive X-ray spectroscopy (Supplementary Fig.
+1a
+) confirmed the existence of iron.
+Powder X-ray diffraction patterns (Supplementary Fig.
+1b
+) indicated that there were no peaks from particulate iron in all samples. Only the graphite (002) and (101) facets were present. However, clusters and/or amorphous iron phases cannot be detected by X-ray diffraction, and therefore we employed low-resolution HADDF-STEM (Supplementary Fig.
+1c
+) to confirm that there were no visible iron particles on the surface of the GNPs.
+The characteristics of the single atoms were verified by extended X-ray absorption fine structure (EXAFS). The radial distribution function (RDF) derived from EXAFS results is shown in Fig.
+2b
+. The main bonding of the original sample located at around 1.5 Å (refs.
+26
+,
+27
+,
+28
+) is attributed to Fe–N/C. There is a small shoulder at 2.2 Å that corresponds to Fe–Fe bonding. This indicates that very small amounts of iron carbide clusters may be present in the sample. After carefully checking tens of HAADF-STEM images (Supplementary Fig.
+1d
+), the clusters were found to have a typical size of less than 1 nm.
+The chemical state of the sample was determined by X-ray photoelectron spectroscopy (XPS) (Supplementary Fig.
+2a,b
+). However, the Fe 2
+p
+signal did not provide any valuable information due to poor resolution. The Fe K-edge X-ray absorption near-edge structure (XANES) results confirmed that the chemical state of iron was a mixture of Fe
+II
+and Fe
+III
+(Supplementary Fig.
+2c
+).
+We also performed Mössbauer spectroscopy, one of the most powerful techniques for characterizing iron with ultrahigh sensitivity (Fig.
+2c
+and Supplementary Table
+3
+). The Mössbauer spectroscopy deconvolution results indicated that the doublets D1, D2 and D3 can be attributed to low-, intermediate- and high-spin Fe
+II
+N
+4
+(31%), respectively
+26
+,
+27
+,
+29
+,
+30
+. The doublets D4 and D5 can be attributed to low- and intermediate-spin Fe
+III
+N
+4
+(44%)
+29
+. The results indicated that after abrasion the single atoms constituted approximately 75% of the original sample, and the clusters were identified as a short-range-ordered Fe
+3
+C (sextet S1, 25%).
+Role of heat treatment on Fe–N–C SAC
+We have found that additional heat treatment can be beneficial for improving thermal stability and increasing the fraction of SACs by transforming the occasionally formed metal clusters into single atoms. After heat treatment, the absence of iron-related peaks in the X-ray diffraction pattern (Supplementary Fig.
+2d
+) indicates that the iron atoms still maintain the single-atom state and no aggregation occurs. The disappearance of the shoulder in the RDF (Fig.
+2b
+) implies that the Fe
+3
+C clusters have been transformed into single atoms. This phenomenon of heating bulk metal into single atoms is consistent with recently reported works
+22
+,
+23
+,
+24
+. Careful analysis of the Mössbauer spectroscopy (Fig.
+2d
+and Supplementary Table
+3
+) indicates only 4% untransformed clusters, which correspond to Fe
+3
+C (the minor sextet S1) after phase transition. In addition to S1, the doublets D1 and D5 also decrease; however, the doublets D2, D3 and D4 increase. These changes are thought to be intimately related to the transformations and ordering arrangements after heat treatment.
+The chemical state is also slightly altered due to the heat treatment. The XPS and XANES (Supplementary Fig.
+2b, c
+) shift to higher energy due to the transformation from Fe
+3
+C to single atoms. It is interesting to find that the atomic images of the samples after heat treatment are always clearer than those without heat treatment (Supplementary Fig.
+3
+). This phenomenon may be associated with easily adsorbing gas molecules of the samples without heat treatment.
+Abrasion kinetics
+The content and morphology of the iron can be facilely tuned by changing the input kinetic energy, graphite loading and ball-milling time. After dozens of experiments, some general rules were determined. It was established that the input kinetic energy and loading of graphite mainly influence the morphology of the iron. Lower input kinetic energy (using smaller iron balls and lower rotation speeds) and higher graphite loading are beneficial to the single-atom state. The ball-milling time mainly determines iron loading, but does not influence the morphology of the iron unless a critical value of loading is exceeded.
+A mathematical analysis (Supplementary Fig.
+4a–c
+) determined that the iron content (
+W
+) in Fe–N–C is proportional to the cube of the input kinetic energy, that is,
+W
+∝
+(
+mω
+2
+)
+3
+, where
+m
+and
+ω
+stand for mass and rotation speed, respectively. Graphite loading (
+L
+) can also influence
+W
+because graphite acts as a lubricant, which can reduce abrasion.
+W
+exponentially decreases as
+L
+increases (
+W
+∝
+e
+−
+L
+) (Supplementary Fig.
+4d,e
+).
+W
+increases when the ball-milling time is prolonged, but the effect is not linear. Possible reasons are that
+W
+is influenced by nitrogen content and the state of the graphite (Supplementary Fig.
+4f
+).
+Extension to cobalt, nickel, copper and brass
+We also extend our method to other metals (Supplementary Fig.
+5
+), which are not limited to cobalt, nickel and copper. All metals that can form a stable bond with supports should work. As shown in Fig.
+2e
+, Supplementary Fig.
+6
+and Supplementary Table
+4
+, the RDFs demonstrate that cobalt, nickel and copper exist in the single-atom state. Their morphologies are shown in Supplementary Fig.
+7
+, further confirming the single-atom state.
+In addition to unary metal balls, alloy balls can also be used to fabricate bimetallic catalysts. We selected brass balls (66 wt% Cu + 34 wt% Zn) as an example (Supplementary Fig.
+8a,b
+). HAADF-STEM images (Supplementary Fig.
+8c,d
+) demonstrate the brass alloy has been transformed into single atoms. RDFs (Fig.
+2f
+and Supplementary Fig.
+8e,f
+) further verify that the copper and zinc exist in single-atom states.
+Theoretical analysis
+In the samples without nitrogen, the N
+2
+gas simply acts as a protective gas to prevent oxidation. However, the N
+2
+plays an important role when the support is nitrogen-free graphite. We next designed a control experiment to investigate the role of N
+2
+. Using samples with a similar iron loading (2.4 wt%), we replaced N
+2
+with argon. The as-prepared Fe–C displayed a distinctly different morphology. The GNPs were fully decorated with small iron particles with a size of approximately 10 nm (Supplementary Fig.
+9
+). This result indicates that the nitrogen in the GNPs plays a pivotal role in the morphology of the prepared iron. The nitrogen might suppress the aggregation of single iron atoms into particles.
+The underlying physical nature of why single-atom iron is formed during the ball-milling process, and why the iron particles can be transformed into single atoms, has remained unclear. To unravel these questions, a DFT analysis was conducted (Supplementary Table
+5
+). It is known that repeated collisions of iron balls transform mechanical energy into structural disordering and induce surface defects
+31
+. The activated iron surface not only acts as a catalyst for nitrogen dissociation
+25
+, but also supplies iron to form the Fe–N–C. Compared with other metals, the adatoms on the iron balls are easily peeled off by the nitrogen-doped GNPs because of the high segregation energy (Δ
+E
+seg
+, −4.3 eV, Fig.
+3
+) due to the strong Fe–N bond. The α-Fe (Supplementary Fig.
+10a
+) and Fe
+3
+C (Supplementary Fig.
+10b
+) particles are also capable of transforming into single-atom states due to exothermic processes with Δ
+E
+seg
+of −3.3 eV and −2.8 eV, respectively. The transformed iron atoms migrate away from the defects by a hopping mechanism
+32
+,
+33
+. The nitrogen atoms play a pivotal role by subsequently trapping the iron atoms. When the nitrogen atoms are lost at high temperature, the surface energy will dominate again and the iron particles will reform.
+Fig. 3: Theoretical analysis.
+a
+, Schematic of the mechanism for forming a SAC.
+b
+, Theoretical analysis of the transformation of bulk iron into a single-atom model. The indicator is segregation energy (Δ
+E
+seg
+), which corresponds to the energy involved when N–C moieties capture iron atoms. Negative energy indicates released energy.
+Full size image
+Conclusions
+We report a facile, solvent-free, zero-waste and low-cost method to prepare SACs. As-prepared single-atom metal–N–C catalysts showed competitive oxygen reduction reaction performance relative to commercial Pt@C (Supplementary Fig.
+11
+). Our strategy is not only applicable for metal–N–C systems (in which the metal can be iron, cobalt, nickel, copper or their alloys), but can also be easily extended to other supports. To demonstrate this, we also successfully synthesized SACs on some typical supports used in heterogeneous catalysis, such as oxides (MgO, SiO
+2
+and CeO
+2
+; Fig.
+4a–d
+and Supplementary Fig.
+12
+–
+14
+) and nitrides (C
+3
+N
+4
+; Fig.
+4e,f
+and Supplementary Fig.
+15
+). These results confirm that our strategy could be employed as a general green method to prepare SACs.
+Fig. 4: Extension to different supports.
+a
+, EXAFS-derived RDFs of Fe–MgO, Fe–SiO
+2
+, Fe–CeO
+2
+and Fe–C
+3
+N
+4
+.
+b
+, HAADF-STEM image of single-atom Fe–MgO. The white dots in the red circles are attributed to single iron atoms.
+c
+, Mössbauer spectroscopy of Fe–SiO
+2
+. Doublet D6 is assignable to high-spin Fe
+II
+(74%), in which the single-atom iron is bonded with SiO
+2
+with a ferrosilite-like structure on the surface of SiO
+2
+. D7 is attributed to a non-stoichiometric FeO
+x
+nanocluster (26%).
+d
+, HAADF-STEM image of single-atom Fe–SiO
+2
+. It was very difficult to obtain clear high-resolution STEM images due to the strong charging effect of SiO
+2
+.
+e
+, Mössbauer spectroscopy of Fe–C
+3
+N
+4
+. All iron atoms are assignable to high-spin Fe
+II
+–N
+x
+species (100%).
+f
+, HAADF-STEM image of single-atom Fe–C
+3
+N
+4
+.
+Full size image
+Methods
+Preparation method for single-atom Fe–N–C
+A facile top-down method was used to synthesize single-atom Fe–N–C. The iron atomization, N
+2
+fixation and graphite unzipping were simultaneously achieved on a planetary ball-milling machine (Pulverisette 6, Fritsch). In typical experiments, 500 g of iron balls (hardened steel with 99 wt% Fe; diameter, 5 mm), 8 bar N
+2
+gas (KOSEM, ultrahigh purity, 99.999%, N50) and graphite (16.5 g, Alfa Aesar, 100 mesh, 99.9995%) were loaded into a hardened steel container (250 ml). Before charging with N
+2
+gas, the air in the container was first purged with N
+2
+gas at least five times with a vacuum pump. During ball-milling, the rotation was paused for 10 min after every 60 min milling to release the thermal heat. After ball-milling, the remnant N
+2
+gas in the container was vented, first at ambient environment; then the samples were collected in the glovebox. In the optimized experiment, the ball-milling was conducted at a rotation speed of 450 r.p.m. for 30 h. Safety note: samples with high iron content, that is, prepared with less than 10 g graphite loading, or when ball-milling time is longer than 10 h, require special attention because they can spark violently during collection. The container must be opened in the glovebox.
+Studying the abrasion parameters
+Fe–N–C was selected as a representative example. The rotation speed was set at 350, 400, 450 or 500 r.p.m. The ball-milling time ranged from 3 to 40 h. When the ball-milling time was longer than 10 h, the N
+2
+charging was performed several times, depending on the total ball-milling time, to ensure sufficient N
+2
+gas. The graphite loading was 5, 10, 15, 16.5 or 20 g.
+Preparation method for single-atom Co–N–C
+In the optimized experiment, 500 g of cobalt balls (99.8 wt%; diameter, 5 mm), 8 bar N
+2
+gas (KOSEM, 99.999%) and 16.5 g of graphite (Alfa Aesar, 100 mesh, 99.9995%) were loaded into a zirconium dioxide container (250 ml). The ball-milling was conducted at a rotation speed of 350 r.p.m. for 22 h. Finally, the as-prepared samples were heat-treated at 850 °C for 5 h.
+Preparation method for single-atom Ni–N–C
+In the optimized experiment, 540 g of nickel balls (99.95 wt%; diameter, 5 mm), 8 bar N
+2
+gas (KOSEM, 99.999%) and 15.5 g of graphite (Alfa Aesar, 100 mesh, 99.9995%) were loaded into a zirconium dioxide container (250 ml). The ball-milling was conducted at a rotation speed of 350 r.p.m. for 15 h. Finally, the as-prepared samples were heat treated at 850 °C for 5 h.
+Preparation method for single-atom Cu–N–C
+In the optimized experiment, 570 g of copper balls (99.9 wt%; diameter, 3 mm, 570 g), 8 bar N
+2
+gas (KOSEM, 99.999%) and 14.8 g of graphite (Alfa Aesar, 100 mesh, 99.9995%) were loaded into a zirconium dioxide container (250 ml). The ball-milling was conducted at a rotation speed of 340 r.p.m. for 12 h. Finally, the as-prepared samples were heat treated at 600 °C for 5 h.
+Preparation method for single-atom Cu,Zn–N–C
+In the optimized experimental condition, 55 g of brass balls (66 wt% Cu, 34 wt% Zn; diameter, 3 mm), 8 bar N
+2
+gas (KOSEM, 99.999%) and 15.0 g of graphite (Alfa Aesar, 100 mesh, 99.9995%) were loaded into a zirconium dioxide container (250 ml). The ball-milling was conducted at a rotation speed of 400 r.p.m. for 15 h. Finally, the as-prepared samples were heat treated at 750 °C for 5 h.
+Preparation method for single-atom Fe–MgO
+In the optimized experiment, 500 g of iron balls (hardened steel with 99 wt% Fe; diameter, 5 mm), 8 bar N
+2
+gas (KOSEM, 99.999%) and 35.0 g of MgO (Alfa Aesar, extra pure, 100 mesh, 98%) were loaded into a hardened steel container (250 ml). The ball-milling was conducted at a rotation speed of 200 r.p.m. for 13 h.
+Preparation method for single-atom Fe–SiO
+2
+In the optimized experiment, 500 g of iron balls (hardened steel with 99 wt% Fe; diameter, 5 mm), 8 bar N
+2
+gas (KOSEM, 99.999%) and 24.0 g of SiO
+2
+(0.063–0.200 mm; EMD Millipore) were loaded into a hardened steel container (250 ml). The ball-milling was conducted at a rotation speed of 300 r.p.m. for 6 h.
+Preparation method for single-atom Fe–CeO
+2
+In the optimized experiment, 500 g of iron balls (hardened steel with 99 wt% Fe; diameter, 5 mm), 8 bar N
+2
+gas (KOSEM, 99.999%) and 45 g of CeO
+2
+(Alfa Aesar, 99.5%) were loaded into a hardened steel container (250 ml). The ball-milling was conducted at a rotation speed of 350 r.p.m. for 8 h. Finally, as-prepared samples were heat treated at 850 °C for 5 h.
+Preparation method for single-atom Fe–C
+3
+N
+4
+In the optimized experiment, 500 g of iron balls (hardened steel with 99 wt% Fe; diameter, 5 mm), 8 bar N
+2
+gas (KOSEM, 99.999%) and 15 g of C
+3
+N
+4
+(home-made) were loaded into a hardened steel container (250 ml). The C
+3
+N
+4
+was prepared by calcining dicyandiamide (Alfa Aesar, 99%) at 550 °C for 4 h in a muffle furnace. The ball-milling was conducted at a rotation speed of 550 r.p.m. for 30 h. Finally, the as-prepared samples were heat treated at 550 °C for 5 h.
+Characterizations
+Low-magnification morphology was obtained with field emission scanning electron microscopy (Nova NanoSEM, FEI) and normal transmission electron microscopy (JEM-2100, JEOL). High-resolution atomic morphology was obtained with spherical-aberration-corrected HAADF-STEM (Titan G2 60-300, FEI). Energy-dispersive spectroscopy was performed with an EDAX system (AMETEK) on a Nano230 field emission scanning electron microscope (FEI). X-ray diffraction patterns were measured on a D/max2500V (Rigaku) at a scan rate of 4° min
+−1
+, using Cu Kα radiation (
+λ
+= 1.5418 Å).
+Nitrogen contents in the carbon-based samples were determined by elemental analysis, performed on a TruSpec Micro CHNS (LECO). All data were the average value of at least three separate measurements. The metal content was determined by ICP-OES (700-ES, Varian). For the carbon-based samples, calcination was conducted before the ICP-OES analysis. Because some samples only had trace iron, to minimize measurement error, a significant number of samples were used for calcination analyses. The amount was determined based on the metal content when enough metal oxide products were obtained after calcination. Typically, the masses of the samples ranged from 200 to 1,500 mg. The chemical state was studied by XPS (K-alpha XPS spectrometer, Thermo Fisher).
+X-ray absorption spectroscopy was performed at the 6D UNIST-PAL beamline in the Pohang Accelerator Laboratory (PAL), South Korea. The data were analyzed by ATHENA
+34
+. XANES spectra simulations were carried out based on the optimized models, considering the core–hole corrections. Mössbauer spectra were recorded with a Topologic 500A spectrometer (Topologic Systems) and a proportional counter at room temperature. A 50 mCi
+57
+Co (Rh) was used as a γ-ray radioactive source in constant-acceleration mode. Isomer shifts were calibrated with respect to α-Fe at room temperature.
+Computational methods
+The CASTEP program in the Materials Studio package (Accelrys) was used to conduct the DFT calculations
+35
+. A Perdew–Burke–Ernzerhof-type gradient-corrected exchange-correlation potential with ultrasoft pseudopotentials was employed. A cut-off energy of 400 eV was used for the plane-wave basis set. The atomic configurations were relaxed for residual forces smaller than 0.03 eV Å
+−1
+. To avoid interaction between periodic images, a vacuum thickness of around 15 Å was set along the
+z
+direction. Transition states were determined by a complete linear synchronous transit/quadratic synchronous transit (LST/QST) approach.
+The segregation energy Δ
+E
+seg
+is given by equation (
+1
+):
+$${\Delta}E_{{{{\mathrm{seg}}}}} = E_{{{\mathrm{S}}}} - E_{{{{\mathrm{P}}}}\,{{{\mathrm{or}}}}\,{{{\mathrm{B}}}}}$$
+(1)
+where
+E
+S
+is the energy of the atomic structure with one iron atom transformed into a single atom, while
+E
+P or B
+is the energy of the iron particle or of the bulk iron together with nitrogen-doped graphene.
+Data availability
+The data that support the findings of this study are presented in the main text and the Supplementary
+Information
+, and are available from the corresponding authors upon reasonable request.
+References
+Liu, L. & Corma, A. Metal catalysts for heterogeneous catalysis: from single atoms to nanoclusters and nanoparticles.
+Chem. Rev.
+118
+, 4981–5079 (2018).
+Article
+CAS
+Google Scholar
+Cui, X., Li, W., Ryabchuk, P., Junge, K. & Beller, M. Bridging homogeneous and heterogeneous catalysis by heterogeneous single-metal-site catalysts.
+Nat. Catal.
+1
+, 385–397 (2018).
+Article
+CAS
+Google Scholar
+Beniya, A. & Higashi, S. Towards dense single-atom catalysts for future automotive applications.
+Nat. Catal.
+2
+, 590–602 (2019).
+Article
+Google Scholar
+Wang, A., Li, J. & Zhang, T. Heterogeneous single-atom catalysis.
+Nat. Rev. Chem.
+2
+, 65–81 (2018).
+Article
+CAS
+Google Scholar
+Therrien, A. J. et al. An atomic-scale view of single-site Pt catalysis for low-temperature CO oxidation.
+Nat. Catal.
+1
+, 192–198 (2018).
+Article
+CAS
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+Google Scholar
+Nie, L. et al. Activation of surface lattice oxygen in single-atom Pt/CeO
+2
+for low-temperature CO oxidation.
+Science
+358
+, 1419–1423 (2017).
+Article
+CAS
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+Google Scholar
+Li, H. et al. Synergetic interaction between neighbouring platinum monomers in CO
+2
+hydrogenation.
+Nat. Nanotechnol.
+13
+, 411–417 (2018).
+Article
+CAS
+Google Scholar
+Yao, Y. et al. High temperature shockwave stabilized single atoms.
+Nat. Nanotechnol.
+14
+, 851–857 (2019).
+Article
+CAS
+Google Scholar
+Malta, G. et al. Identification of single-site gold catalysis in acetylene hydrochlorination.
+Science
+355
+, 1399–1403 (2017).
+Article
+CAS
+Google Scholar
+Chung, H. T. et al. Direct atomic-level insight into the active sites of a high-performance PGM-free ORR catalyst.
+Science
+357
+, 479–484 (2017).
+Article
+CAS
+Google Scholar
+Gu, J., Hsu, C. S., Bai, L., Chen, H. M. & Hu, X. Atomically dispersed Fe
+3+
+sites catalyze efficient CO
+2
+electroreduction to CO.
+Science
+364
+, 1091–1094 (2019).
+Article
+CAS
+Google Scholar
+Zhang, J. et al. Single platinum atoms immobilized on an MXene as an efficient catalyst for the hydrogen evolution reaction.
+Nat. Catal.
+1
+, 985–992 (2018).
+Article
+CAS
+Google Scholar
+Liu, D. et al. Atomically dispersed platinum supported on curved carbon supports for efficient electrocatalytic hydrogen evolution.
+Nat. Energy
+4
+, 512–518 (2019).
+Article
+CAS
+Google Scholar
+Cao, L. et al. Identification of single-atom active sites in carbon-based cobalt catalysts during electrocatalytic hydrogen evolution.
+Nat. Catal.
+2
+, 134–141 (2019).
+Article
+CAS
+Google Scholar
+Guan, J. et al. Water oxidation on a mononuclear manganese heterogeneous catalyst.
+Nat. Catal.
+1
+, 870–877 (2018).
+Article
+CAS
+Google Scholar
+He, X. et al. Mechanochemical kilogram-scale synthesis of noble metal single-atom catalysts.
+Cell Rep. Phys. Sci.
+1
+, 100004 (2020).
+Article
+Google Scholar
+Jin, H. et al. Simple and scalable mechanochemical synthesis of noble metal catalysts with single atoms toward highly efficient hydrogen evolution.
+Adv. Funct. Mater.
+30
+, 2000531 (2020).
+Article
+CAS
+Google Scholar
+Gan, T. et al. Unveiling the kilogram-scale gold single-atom catalysts via ball milling for preferential oxidation of CO in excess hydrogen.
+Chem. Eng. J.
+389
+, 124490 (2020).
+Article
+CAS
+Google Scholar
+Gan, T. et al. Facile synthesis of kilogram-scale co-alloyed Pt single-atom catalysts via ball milling for hydrodeoxygenation of 5-hydroxymethylfurfural.
+ACS Sustain. Chem. Eng.
+8
+, 8692–8699 (2020).
+Article
+CAS
+Google Scholar
+Wei, S. et al. Direct observation of noble metal nanoparticles transforming to thermally stable single atoms.
+Nat. Nanotechnol.
+13
+, 856–861 (2018).
+Article
+CAS
+Google Scholar
+Goodman, E. D. et al. Catalyst deactivation via decomposition into single atoms and the role of metal loading.
+Nat. Catal.
+2
+, 748–755 (2019).
+Article
+CAS
+Google Scholar
+Qu, Y. et al. Direct transformation of bulk copper into copper single sites via emitting and trapping of atoms.
+Nat. Catal.
+1
+, 781–786 (2018).
+Article
+CAS
+Google Scholar
+Han, G. F. et al. Dissociating stable nitrogen molecules under mild conditions by cyclic strain engineering.
+Sci. Adv.
+5
+, eaax8275 (2019).
+Article
+CAS
+Google Scholar
+Wan, X. et al. Fe–N–C electrocatalyst with dense active sites and efficient mass transport for high-performance proton exchange membrane fuel cells.
+Nat. Catal.
+2
+, 259–268 (2019).
+Article
+CAS
+Google Scholar
+Zitolo, A. et al. Identification of catalytic sites for oxygen reduction in iron- and nitrogen-doped graphene materials.
+Nat. Mater.
+14
+, 937–942 (2015).
+Article
+CAS
+Google Scholar
+Li, J. et al. Atomically dispersed manganese catalysts for oxygen reduction in proton-exchange membrane fuel cells.
+Nat. Catal.
+1
+, 935–945 (2018).
+Article
+CAS
+Google Scholar
+Kramm, U. I., Lefèvre, M., Larouche, N., Schmeisser, D. & Dodelet, J. Correlations between mass activity and physicochemical properties of Fe/N/C catalysts for the ORR in PEM fuel cell via
+57
+Fe Mössbauer spectroscopy and other techniques.
+J. Am. Chem. Soc.
+136
+, 978–985 (2014).
+Article
+CAS
+Google Scholar
+Fei, H. et al. General synthesis and definitive structural identification of MN
+4
+C
+4
+single-atom catalysts with tunable electrocatalytic activities.
+Nat. Catal.
+1
+, 63–72 (2018).
+Article
+CAS
+Google Scholar
+Tong, W. P., Tao, N. R., Wang, Z. B., Lu, J. & Lu, K. Nitriding iron at lower temperatures.
+Science
+299
+, 686–688 (2003).
+Article
+CAS
+Google Scholar
+Cretu, O. et al. Migration and localization of metal atoms on strained graphene.
+Phys. Rev. Lett.
+105
+, 196102 (2010).
+Article
+Google Scholar
+Robertson, A. W. et al. Dynamics of single Fe atoms in graphene vacancies.
+Nano Lett.
+13
+, 1468–1475 (2013).
+Article
+CAS
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+Article
+CAS
+Google Scholar
+Clark, S. J. et al. First principles methods using CASTEP.
+Z. Kristallogr. Cryst. Mater.
+220
+, 567–570 (2005).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+We thank M. Chhowalla for help and discussion. We are grateful for the use of the Pohang Accelerator Laboratory (6D UNIST-PAL beamline, South Korea). J.-B.B. acknowledges support from the Creative Research Initiative (CRI, 2014R1A3A2069102) and Science Research Center (SRC, 2016R1A5A1009405) programmes through the National Research Foundation (NRF) of Korea. J.-B.B also acknowledges the U-K Brand Project (1.200096.01) of UNIST. H.Y.J. acknowledges support from the National R&D Program (2020M3F3A2A01082618) through the National Research Foundation (NRF) of Korea. F.L. acknowledges financial support from Fudan University (JIH2203011). Funding for J.W., A.I.R., W.Z. and R.G. was provided by the International Partnership Program of the Chinese Academy of Sciences (121421KYSB20170020) and the State Key Laboratory of Catalysis in Dalian Institute of Chemical Physics (N-16-07). Z.A. acknowledges financial support (221777033) from the National Natural Science Foundation of China.
+Author information
+Authors and Affiliations
+School of Energy and Chemical Engineering/Center for Dimension-Controllable Organic Frameworks, Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea
+Gao-Feng Han, Feng Li, Yoon-Kwang Im, Soo-Young Yu, Jong-Pil Jeon, Seok-Jin Kim & Jong-Beom Baek
+Laboratory of Advanced Materials, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Fudan University, Shanghai, P. R. China
+Feng Li
+Mössbauer Effect Data Center, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian, P. R. China
+Alexandre I. Rykov, Wenhui Zhou, Rile Ge & Junhu Wang
+Institute of Environmental Health and Pollution Control, School of Environmental Science and Engineering, Guangdong University of Technology, Guangzhou, P. R. China
+Zhimin Ao
+Graduate School of Semiconductor Materials and Devices Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan, South Korea
+Tae Joo Shin & Hu Young Jeong
+Authors
+Gao-Feng Han
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Feng Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Alexandre I. Rykov
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yoon-Kwang Im
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Soo-Young Yu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jong-Pil Jeon
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Seok-Jin Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wenhui Zhou
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Rile Ge
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhimin Ao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tae Joo Shin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Junhu Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hu Young Jeong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jong-Beom Baek
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+J.-B.B. conceived the project and oversaw all the research phases. J.-B.B. and G.-F.H. designed the project. G.-F.H. carried out the sample synthesis and structural characterization. F.L. and Z.A. performed the DFT calculation. T.J.S., Y.-K.I., J.-P.J. and S.-J.K. assisted with the XAS study. H.Y.J. conducted the HAADF-STEM measurements. J.W., A.I.R., W.Z. and R.G. measured and interpreted the Mössbauer spectroscopy. S.-Y.Y. designed the scheme. Data collection and analysis were conducted by J.-B.B., G.-F.H. and F.L. All the authors contributed to the writing of the manuscript.
+Corresponding authors
+Correspondence to
+Feng Li
+,
+Hu Young Jeong
+or
+Jong-Beom Baek
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Nanotechnology
+thanks the anonymous reviewers for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary methods, notes, Figs. 1–15 and Tables 1–5.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Han, GF., Li, F., Rykov, A.I.
+et al.
+Abrading bulk metal into single atoms.
+Nat. Nanotechnol.
+17
+, 403–407 (2022). https://doi.org/10.1038/s41565-022-01075-7
+Download citation
+Received
+:
+26 May 2021
+Accepted
+:
+07 January 2022
+Published
+:
+10 February 2022
+Issue Date
+:
+April 2022
+DOI
+:
+https://doi.org/10.1038/s41565-022-01075-7
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+This article is cited by
+In-situ catalysis of green lubricants into graphitic carbon by iron single atoms to reduce friction and wear
+Wei Song
+Chongyang Zeng
+Jinjin Li
+Nature Communications
+(2025)
+Design Refinement of Catalytic System for Scale-Up Mild Nitrogen Photo-Fixation
+Xiao Hu Wang
+Bin Wu
+Hong Qun Luo
+Nano-Micro Letters
+(2025)
+Tailoring d-band center of high-valent metal-oxo species for pollutant removal via complete polymerization
+Hong-Zhi Liu
+Xiao-Xuan Shu
+Han-Qing Yu
+Nature Communications
+(2024)
+Synthesis of ultrahigh-metal-density single-atom catalysts via metal sulfide-mediated atomic trapping
+Jiangwei Chang
+Wen Jing
+Siyu Lu
+Nature Synthesis
+(2024)
+Spatial engineering of single-atom Fe adjacent to Cu-assisted nanozymes for biomimetic O2 activation
+Ying Wang
+Vinod K. Paidi
+Kwok-Yin Wong
+Nature Communications
+(2024)
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Advisory Panel
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Nanotechnology
+(
+Nat. Nanotechnol.
+)
+ISSN
+1748-3395
+(online)
+ISSN
+1748-3387
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

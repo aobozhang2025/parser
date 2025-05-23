@@ -1,0 +1,1344 @@
+Performance descriptors of nanostructured metal catalysts for acetylene hydrochlorination | Nature Nanotechnology
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature nanotechnology
+articles
+article
+Performance descriptors of nanostructured metal catalysts for acetylene hydrochlorination
+Download PDF
+Article
+Published:
+28 April 2022
+Performance descriptors of nanostructured metal catalysts for acetylene hydrochlorination
+Selina K. Kaiser
+ORCID:
+orcid.org/0000-0002-8718-4417
+1
+na1
+,
+Edvin Fako
+ORCID:
+orcid.org/0000-0002-0043-5907
+2
+na1
+,
+Ivan Surin
+1
+,
+Frank Krumeich
+ORCID:
+orcid.org/0000-0001-5625-1536
+1
+,
+Vita A. Kondratenko
+3
+,
+Evgenii V. Kondratenko
+ORCID:
+orcid.org/0000-0003-0431-6937
+3
+,
+Adam H. Clark
+ORCID:
+orcid.org/0000-0002-5478-9639
+4
+,
+Núria López
+ORCID:
+orcid.org/0000-0001-9150-5941
+2
+&
+…
+Javier Pérez-Ramírez
+ORCID:
+orcid.org/0000-0002-5805-7355
+1
+Show authors
+Nature Nanotechnology
+volume
+17
+,
+pages
+606–612 (
+2022
+)
+Cite this article
+10k
+Accesses
+73
+Citations
+42
+Altmetric
+Metrics
+details
+Subjects
+Computational chemistry
+Heterogeneous catalysis
+Synthesis and processing
+Abstract
+Controlling the precise atomic architecture of supported metals is central to optimizing their catalytic performance, as recently exemplified for nanostructured platinum and ruthenium systems in acetylene hydrochlorination, a key process for vinyl chloride production. This opens the possibility of building on historically established activity correlations. In this study, we derived quantitative activity, selectivity and stability descriptors that account for the metal-dependent speciation and host effects observed in acetylene hydrochlorination. To achieve this, we generated a platform of Au, Pt, Ru, Ir, Rh and Pd single atoms and nanoparticles supported on different types of carbon and assessed their evolution during synthesis and under the relevant reaction conditions. Combining kinetic, transient and chemisorption analyses with modelling, we identified the acetylene adsorption energy as a speciation-sensitive activity descriptor, further determining catalyst selectivity with respect to coke formation. The stability of the different nanostructures is governed by the interplay between single atom–support interactions and chlorine affinity, promoting metal redispersion or agglomeration, respectively.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Advances in heterogeneous single-cluster catalysis
+Article
+09 October 2023
+Metal–support frontier orbital interactions in single-atom catalysis
+Article
+02 April 2025
+Atomically precise control in the design of low-nuclearity supported metal catalysts
+Article
+10 September 2021
+Main
+Propelled by recent advances in the control of the atomic architecture of supported metal particles, down to the single atom limit, heterogeneous catalysis has emerged as one of the most prominent frontiers of nanoscience
+1
+,
+2
+,
+3
+,
+4
+,
+5
+, with diverse applications in energy conversion
+6
+,
+7
+,
+8
+,
+9
+,
+10
+,
+11
+,
+12
+as well as bulk and fine chemical synthesis
+13
+,
+14
+,
+15
+,
+16
+,
+17
+,
+18
+. In combination with in-depth characterization and theoretical investigations
+19
+,
+20
+,
+21
+, enhanced synthetic control over the active sites opens new perspectives for solving long-standing challenges in heterogeneous catalysis
+22
+.
+A timely example is acetylene hydrochlorination, which has regained significant attention due to the urgency to replace the toxic catalysts based on mercuric chloride used to produce the vinyl chloride monomer (VCM). Every year, 1,200 metric ton Hg is used to manufacture the catalyst, 600 metric ton Hg is wasted, and 40 metric ton Hg is emitted into the atmosphere through volatilization under the operating conditions. The process is a textbook example of sacrificing the environment for societal progress due to the high demand for polyvinyl chloride (PVC), mostly in construction and piping
+23
+,
+24
+,
+25
+,
+26
+,
+27
+,
+28
+. To produce more than 70% of PVC (13 million metric ton yr
+−1
+) by acetylene hydrochlorination, China, the key global player in the PVC market, exploits its vast coal reserves
+23
+. The pressing need for a technological solution to achieve the goals of the Minamata Convention on Mercury, avoiding the use of mercury-based catalysts, is yet to be fulfilled. To effectively guide the search for alternative candidates, catalytic descriptors are central
+3
+,
+29
+and have thus been sought since the 1960s. In early pioneering studies, Smith
+30
+and Shinoda
+31
+correlated the activities of supported metal chlorides with the electron affinity of the metal cations and the electron affinity divided by the metal valence, respectively. A decade later, Hutchings and co-workers
+31
+,
+32
+,
+33
+introduced the standard electrode potential as an optimized descriptor, directing research towards precious metals, namely carbon-supported gold-based catalysts. Detailed investigations revealed a clear dependence between catalyst synthesis conditions and activity in acetylene hydrochlorination, pointing to a pronounced structure sensitivity. This relationship was recently confirmed by the identification of distinct active-site nanostructures in the gold-
+15
+,
+34
+,
+35
+,
+36
+, ruthenium-
+37
+,
+38
+and platinum-based catalysts
+39
+employed for this reaction. Even more relevant to practical applicability than the pristine active-site architectures and their initial catalytic activity is their dynamic behaviour under the reaction conditions, which is directed by an interplay of metal-dependent nuclearity and host effects, a complexity that no activity correlation established to date can account for (vide infra). Thus, an improved understanding of speciation effects (that is, the local structure in terms of composition and metal charge) is key to building robust structure–performance relationships and guiding the rational design of practical hydrochlorination catalysts.
+In this study, we generated a platform of carbon-supported metal catalysts (Au, Pt, Pd, Ru, Rh and Ir) with different nanostructures ranging from single atoms to nanoparticles. This is pivotal to disentangling metal nuclearity and host effects, and it has allowed us to derive activity, selectivity (with respect to coke formation) and stability descriptors for acetylene hydrochlorination. To this end, we assessed the evolution of distinct metal nanostructures hosted on differently functionalized carbon supports during synthesis and under the reaction conditions by combining spectroscopic, microscopic, kinetic and mechanistic methods, as well as density functional theory.
+Platform of nanostructured catalysts
+To assess potential catalytic descriptors, a platform of metal/carbon (M/C) catalysts containing six metals (Au, Pt, Pd, Ru, Rh and Ir) with different nanostructures, varying from single atoms (SAs) to nanoparticles (NPs) of gradually increasing size, at a fixed metal loading, supported on activated and N-doped carbon (AC and NC, respectively; Fig.
+1a
+) was prepared and characterized, as detailed in
+Supplementary Information
+Section I. The carbon supports were impregnated with a solution of the metal chloride precursors, followed by thermal activation at distinct temperatures (
+T
+act
+; Supplementary Table
+1
+). By combining scanning transmission electron microscopy (STEM), X-ray diffraction (XRD), X-ray absorption spectroscopy (XAS), X-ray photoelectron spectroscopy (XPS) and density functional theory (DFT), the evolution of the metal site as a function of the metal,
+T
+act
+and host functionalization was assessed (Supplementary Figs.
+1–9
+and Supplementary Tables
+2–5
+). Although at
+T
+act
+= 473 K all metals were exclusively present as SAs, an increase in activation temperature triggered distinct behaviour for all metals, depending on the carbon host. On AC, all the metals agglomerated into either metallic (Au, Pt and Pd) or metal oxide (Ru, Rh and Ir) NPs, based on XPS and extended X-ray absorption fine structure (EXAFS) analysis. On NC, the former group of metals did not undergo agglomeration up to 1,073 K, but a change in the coordination environment from M–Cl
+x
+to M–N
+4
+SAs (that is, coordinated to four neighbouring nitrogen atoms). To rationalize these transformations, three aspects were considered: (1) metal cohesive energy,
+E
+coh
+, (2) metal oxide formation energy,
+E
+form
+(M oxide), and (3) SA formation energies. As
+E
+coh
+and
+E
+form
+(M oxide) are linearly dependent (Fig.
+2a
+), the origin of the diverging behaviour of the Au and Ru groups relates to their ability to form stable oxides. To assess the impact of metal–host interactions, DFT was employed (Extended Data Fig.
+1
+, Supplementary Figs.
+10–15
+and
+Supplementary Information
+Sections I and VII). Interactions of the single metal atoms and MCl
+x
+species with the host vary widely, depending on the specific AC or NC defect (Fig.
+2b,c
+and Extended Data Fig.
+2
+), indicating a linear dependence of the metal SA and MCl
+x
+stability on metal oxide stability. Thus, the metal oxide formation energy plays a key role in directing speciation (Fig.
+2d
+).
+Fig. 1: Synthesis and characterization of M/C catalysts.
+a
+, Evolution of metal speciation upon thermal activation (
+T
+act
+) and acetylene hydrochlorination as a function of the metal (M) and carbon host functionalization.
+b
+, STEM images exemplifying SA agglomeration in gold catalysts supported on activated carbon (top), the stability of gold catalysts supported on N-doped carbon (middle) and redispersion in ruthenium catalysts (bottom) for as-prepared catalysts and catalysts used for 12 h. M-SA, single metal atoms; M-NP, metal nanoparticles; M-SA-N
+4
+, four-fold N-coordinated single metal atoms.
+c
+, EXAFS spectra of fresh and used catalysts. Catalysts are denoted M/C-
+x
+h after use in the acetylene hydrochlorination reaction for
+x
+h time-on-stream.
+Source data
+Full size image
+Fig. 2: Speciation stability analysis via density functional theory.
+a
+, Comparison between the stability of the bulk metal (described by
+E
+coh
+) and the metal oxide phase (
+E
+form
+(M oxide)).
+b
+,
+c
+, Average interaction energies of single metal atoms (M-SA;
+b
+) and chlorinated metal atoms (MCl;
+c
+) with the anchoring sites of the support in comparison with the stability of the metal oxide phase.
+d,e
+, Stability (
+d
+) and structural representation (
+e
+) of single metal atoms with varying degrees of chlorination on a representative defect of AC (bi-epoxidic site) compared with bulk metal atoms and metal oxides, rationalizing the transformation of M-SA/C to oxidic M-NP/C for M = Ru, Rh and Ir.
+Source data
+Full size image
+Metal-dependent optimal nanostructure for activity
+The platform of M/C catalysts was studied under typical acetylene hydrochlorination operating conditions. For all catalysts, the initial activity (15 min time-on-stream (tos)), expressed as the yield of vinyl chloride (
+Y
+(VCM)) or turnover frequency (TOF) with respect to acetylene conversion, depends on the metal speciation and/or host functionalization (Fig.
+3a
+and Supplementary Figs.
+1
+,
+2
+and
+16
+). In the cases of Au and Pt, SAs are the preferred site, whereas nuclearity effects have only a marginal influence for Pd. In contrast, Ru, Rh and Ir show high activity in NP form, whereas their SA counterparts are virtually inactive. Additionally, the performance of the Ru group is affected by host functionalization, with NC enhancing the activity of the Ru-based catalyst and AC boosting the Ir- and Rh-based systems (Fig.
+3a,b
+). Clearly, these catalytic trends cannot be rationalized by a simple metal-only dependent variable (for example, electron affinity and electronegativity; Supplementary Table
+6
+and Extended Data Fig.
+3
+).
+Fig. 3: Speciation performance analysis of M/C catalysts in acetylene hydrochlorination.
+a
+, Initial catalytic activity of M/C catalysts with varying metal nanostructure and host functionalization, expressed as the TOF, as a function of the standard electrode potential (
+E
+°) of the respective metal chloride. The units
+\({\mathrm{mol}_{\rm{C}_{2}{{H}_{2}}}}\)
+mol
+site
+–1
+s
+–1
+represent moles C
+2
+H
+2
+per mole active site per second.
+b
+, Representation of the optimal active-site structure for each metal. Notably,
+E
+° accounts for a particular electrode reaction (number of electrons transferred and also the nature of the reactant, for gold, for instance, reductions starting from Au(III) and AuCl
+4
+–
+are listed). As each metal can undergo several redox reactions, depending on their initial and other attainable chemical oxidation states, a change in the metal speciation will directly affect
+E
+°. Hence, the metal speciation must be taken into account when assigning a representative (best-matching) tabulated electrode potential. Considering the material gap between the real catalyst and the metal chlorides in solution employed to derive
+E
+°, this methodology has limited reliability and masks metal speciation effects.
+Source data
+Full size image
+To identify a speciation-sensitive activity descriptor, kinetic studies were performed over the whole M/C catalyst platform. A correlation between initial activity and decreasing apparent activation energy (
+E
+a
+) can be identified (Fig.
+4a
+and Supplementary Fig.
+17
+), with the exception of Ru, Rh and Pd SA catalysts. Each of these three metals is expected to have a high affinity towards both substrates, implying rapid chlorination (Fig.
+2d
+) or coking (that is, Pd efficiently catalyses C–C cross-coupling)
+40
+, jeopardizing structure–activity correlations. The overall reaction orders with respect to HCl and C
+2
+H
+2
+were derived for Au/C, Pt/C and Ru/C, and were found to be in the range 0.5–1.1, indicating that the reaction rate depends on the surface coverage of both reactants (Supplementary Fig.
+18
+and Supplementary Table
+7
+). In most cases, a higher partial reaction order is obtained for acetylene (
+\(n_{{{{\mathrm{C}}}}_2{{{\mathrm{H}}}}_2}\)
+≈ 0.8–1.1) than for HCl (
+n
+HCl
+≈ 0.5–0.9), suggesting the former has a more critical role in the reaction mechanism, which is in line with previous literature reports
+23
+,
+28
+. In fact, there is a rough correlation between increasing initial activity and the ratio of the partial reaction orders of C
+2
+H
+2
+and HCl (Fig.
+4b
+). These results hint at the possible key role of metal speciation in balancing the interaction with the reactants and the selectivity and stability of the catalyst.
+Fig. 4: Kinetic analysis of M/C catalysts in acetylene hydrochlorination.
+a,b
+, TOF as a function of the apparent activation energy (
+E
+a
+) and the ratio of the partial reaction order of acetylene and HCl (
+b
+).
+c
+, Comparison of the ratio of adsorption (
+k
+ads,eff
+) and desorption (
+k
+des
+) constants of C
+2
+H
+2
+, HCl and VCM as determined by TAP. The green regions in all panels of
+c
+indicate the average strength of adsorption, and the dashed black lines are guides to the eye. The colour code applies to all panels.
+Source data
+Full size image
+To investigate this hypothesis, we quantitatively compared the adsorption and desorption of C
+2
+H
+2
+, HCl and VCM on the M/C catalysts by temporal analysis of products (TAP; Fig.
+4c
+, Supplementary Figs.
+19–22
+and Supplementary Table
+8
+)
+41
+. With a few exceptions, all three gases adsorbed reversibly on the catalysts (for details see the
+Supplementary Information
+)
+42
+. To enable a quantitative comparison between the adsorption and desorption, the experimental responses of C
+2
+H
+2
+, HCl and VCM were kinetically evaluated, and the adsorption (
+k
+ads,eff
+) and desorption (
+k
+des
+) constants as well as their ratio were derived. As indicated by the
+k
+ads,eff
+/
+k
+des
+ratios, the metal speciation and nature of the host significantly influence the interaction with the reactants and product (Fig.
+4c
+). The interaction of the host with HCl is generally the strongest, but no meaningful correlation can be observed between the experimental TOF and the ratio of the
+k
+ads,eff
+/
+k
+des
+constants of HCl (Fig.
+5a
+), disqualifying the HCl interaction as an activity descriptor. In line with the stability gained through the introduction of Cl ligands, identified by DFT (Fig.
+2d
+), the HCl interaction is maximized on metal SA (M-SA)/C catalysts (Fig.
+4c
+). In stark contrast, the VCM interaction is virtually insensitive to host functionalization and metal nanostructure. Notably, the interaction of acetylene with the host varies significantly as a function of nanostructure for most metals, in accordance with the initial activity trends, pinpointing its potential use as an activity descriptor. In fact, a volcano-type correlation is obtained between the TOF and ratio of the adsorption and desorption constants of C
+2
+H
+2
+derived from the TAP analysis (Fig.
+5b
+). Notably, the acetylene interaction with a given metal nanostructure can be significantly affected by the functionalization of the support, which is in line with the results of a dedicated study on the effect of the carbon support in Pt SA catalysts for acetylene hydrochlorination
+43
+. To reinforce the acetylene interaction as an activity descriptor, a volumetric chemisorption analysis of acetylene was performed, further verifying the outcome of transient kinetic analyses. The volumetric technique also yielded a volcano-type correlation between the initial activity and the quantity of acetylene chemisorbed at 473 K (Fig.
+5c
+). DFT was employed to rationalize the experimental observations. Acetylene adsorption and subsequent activation are key steps in the VCM evolution reaction mechanism (Extended Data Fig.
+4
+). The adsorption of acetylene over M-SA/C is sensitive to the presence of Cl (Supplementary Fig.
+23
+), with less coordinated centres binding acetylene more strongly. The role of HCl is twofold, acting both as a source of Cl ligands (increasing SA stability) and as reaction substrate, whereas acetylene, when present at the active site, (mostly) contributes to VCM formation. Accordingly, the volcano-like dependency between acetylene adsorption and initial catalytic activity is also captured by DFT, considering representative structures for SAs with distinct coordination environments (taking Cl coordination into account, in agreement with the simulated and measured EXAFS features; Supplementary Figs.
+8
+,
+9
+and
+15
+), oxide and metallic NPs (Fig.
+5d
+). Qualitatively, the adsorption energy of acetylene depends on the position of the
+d
+-band (or localized states)
+44
+of the respective metal in the particular material (Supplementary Fig.
+24
+). In general, highly chlorinated SA species suffer from low acetylene affinity, whereas Pt and Pd metal NPs are poisoned due to the strong adsorption of acetylene on the (111) facet. In contrast, Au NPs are comparatively inert, whereas Au SA sites with low coordination, as well as rutile (110) Ru and Rh oxide sites, show optimal acetylene affinity. The energy of the peak of the volcano corresponds to the energy at which acetylene adsorption at the carbon edge is no longer competitive with that on the metal site.
+Fig. 5: Performance descriptor for M/C catalysts in acetylene hydrochlorination.
+a,b
+, Experimentally determined TOF as a function of the ratio of adsorption (
+k
+ads,eff
+) and desorption (
+k
+des
+) constants of HCl (
+a
+) and C
+2
+H
+2
+(
+b
+), as determined by TAP analysis.
+c
+, Catalyst activity as a function of acetylene adsorption capacity, as determined by volumetric chemisorption at the reaction temperature of 473 K.
+d
+, Variation in TOF with computed acetylene adsorption energy over modelled active sites, including SA sites with varying degrees of chlorination (MCl
+1–3
+), the N-coordination environment (SA-N
+4
+), metal NPs (represented by the most stable (111) surface) and metal oxides (represented by the most stable rutile surface (110)). The SA sites represented in
+d
+are AuCl, PtCl
+2
+, PdCl
+2
+, IrCl
+3
+and RhCl
+3
+anchored on bi-epoxidic (AC) or tri-pyrrolic (NC) defects. The grey dotted lines in
+b
+–
+d
+are guides to the eye. The coloured regions in
+b
+–
+d
+indicate too weak (grey) and too strong (red) acetylene interactions. The colour code applies to all panels.
+Source data
+Full size image
+In summary, the acetylene interaction has been identified as a nanostructure-sensitive activity descriptor, based on the complementarity of the different analytical tools applied to a comprehensive catalyst platform. Even though there are differences in the approaches, with experimental techniques averaging interactions over the whole material (that is, active, spectator and host sites) and computational methods providing a single ideal structure of the active site, there is excellent agreement on the overall trends and conclusions drawn from Fig.
+5
+. This multi-technique approach ensures the robustness of descriptor identification, fulfilling the ultimate goal of providing valuable guidelines for catalyst design.
+Metal-dependent selectivity and stability descriptor
+Having identified the relevant factors that govern the initial activity of metal-based catalysts in acetylene hydrochlorination, we extended the scope of our investigation to selectivity and stability descriptors. Although the former is commonly reported to be virtually 100% in this reaction, side reactions do occur, as is evident from the gradual accumulation of coke and Cl-containing deposits on the catalyst surface (Supplementary Table
+9
+). These effects are also intimately connected with the modes of deactivation and catalyst stability. To facilitate a qualitative comparison, the M/C catalysts were evaluated in acetylene hydrochlorination for varying times on stream (accelerated deactivation conditions,
+GHSV
+(C
+2
+H
+2
+) = 650 h
+−1
+), and deactivation constants (
+k
+D
+) were derived by simple linear regression of the data obtained within the first 3 or 10 h on stream (Supplementary Fig.
+25
+). In general, the SA stability is mainly determined by the choice of metal and decreases in the order Pt > Au > Ru ≈ Ir > Rh
+≫
+Pd (Fig.
+6a
+). However, host functionalization also plays a role, with NC-based systems deactivating in most cases more rapidly than their AC-based counterparts, whereas nanostructure has only a minor effect. To evaluate the possible reasons for the observed deactivation trends, M/C catalysts with optimized nanostructure were characterized after 3 or 12 h on stream in the acetylene hydrochlorination reaction, combining STEM, XPS, XAS, thermogravimetric analysis coupled to mass spectrometry (TGA–MS) and sorption measurements. Three major deactivation modes were identified: (1) metal nuclearity changes (agglomeration or redispersion), (2) chlorination and (3) coking (Fig.
+6b,c
+). The first path depends on the choice of metal and host, and strongly affects all M/C catalysts, except for Pt-SA/C, which does not undergo any nuclearity changes. The Ru group (Ru, Rh and Ir) generally redisperses into smaller particles and even SAs on both types of support, as found by STEM (Supplementary Figs.
+1
+and
+2
+). This process is accompanied by an increase in the metal–Cl coordination number, derived from EXAFS (that is, for Ru-NP/NC from 0 to 2.9 ± 0.4 within 6 h tos) and well in line with the degree of surface chlorination determined by XPS (Supplementary Table
+3
+). Accordingly, the chlorine content in the used catalysts increases in the order Au < Pd < Pt < Rh< Ir < Ru and is generally enhanced for NC-based systems. This trend qualitatively correlates with the oxide formation energies, possibly due to the redox character of the interactions in both cases (that is, MCln and MO
+2
+). Consequently, metals forming stable oxides (Ru, Rh and Ir) tend to be more affected by the presence of Cl. Au and Pd are more prone to agglomeration on AC due to weaker interactions with the scaffold. Pt strikes a compromise between redox and covalent behaviour, binding strongly to defects and Cl to overcome its cohesive energy, but not to the extent to form metal NPs. On NC, all metals of the Au group are fully stabilized in SA form due to stronger metal–host interactions (Fig.
+2b,c
+).
+Fig. 6: Stability and deactivation of M/C catalysts in acetylene hydrochlorination.
+a
+, Correlation between TOF and deactivation constants after 1 h tos (
+k
+D,1h
+).
+b
+, Schematic outlining the principle of the triangle showing the relative contributions of the three deactivation modes.
+c
+, Estimates of the relative contributions of the deactivation paths identified over the optimal active site of each of the six metals on the carbon supports, along with their structural representations.
+Source data
+Full size image
+The degree of coking, determined by TGA–MS and corroborated by the decrease in catalyst surface area within 3 h tos, is mainly affected by the choice of metal and increases in the order Au < Pt < Rh ≈ Ir ≈ Ru < Pd (Supplementary Fig.
+26
+and Extended Data Fig.
+5
+). This trend is well in line with the high acetylene affinity of the metals. The nanostructure and host functionalization also influence (to a lesser extent) the coking behaviour, with SAs and NC
+39
+being more affected than their NP- and AC-based analogues, respectively (Supplementary Table
+9
+).
+Conclusions
+The activity, selectivity and stability of carbon-supported metal catalysts in the acetylene hydrochlorination reaction is governed by an interplay of nuclearity, coordination and host effects. We have revealed significantly different results compared with traditional screening studies (Supplementary Table
+10
+and Supplementary Fig.
+27
+)
+31
+,
+32
+. To derive robust performance descriptors that can account for the metal-dependent speciation effects, we generated a platform of Au, Pt, Pd, Ru, Rh and Ir nanostructures supported on differently functionalized carbon and assessed their evolution, combining kinetic, mechanistic and computational methods. Based on their distinct active-site nanostructure, three cases have been distinguished, namely (1) Au and Pt, (2) Ru, Rh and Ir, and (3) Pd-based systems, which exhibit the highest activity in the form of MCl
+x
+SAs, metal oxide and metallic NPs, respectively. The first-order descriptors control speciation and balance metal cohesive energy and oxide and chloride formation. Irrespective of metal speciation, the catalytic descriptor is the acetylene interaction, validated by experimental results from TAP analysis, reaction orders derived from steady-state kinetic studies, volumetric chemisorption and DFT. Despite the intrinsic features of the different methodologies, their complementarity ensures robustness in descriptor identification, with important implications for catalyst design. The optimal acetylene adsorption energy is around −1 eV, close to the acetylene adsorption energy at the carbon edge, suggesting competitive adsorption on the metal nanostructure and carbon host. Close to the maximum we found AuCl SAs and Ru or Rh oxide NPs; highly chlorinated SA sites of Ru, Rh and Ir exhibit too weak an acetylene affinity (>0 eV), whereas Pt and Pd metallic NPs interact too strongly (<−2.5 eV), promoting coking and compromising HCl accessibility. The selectivity with respect to the formation of coke is mainly determined by the acetylene affinity of the metal speciation and the functionalization of the carbon support (that is, maximized for Pd NPs and NC). Chlorination and metal nuclearity changes are relevant deactivation paths. Specifically, Au and Pd nanostructures undergo agglomeration on AC and are stabilized on NC; exceptionally, Pt is stable on both supports. Oxide NPs of Ru, Rh and Ir undergo chlorination and redisperse into SAs, regardless of the host. These trends can be rationalized by an interplay of two stability descriptors (a subset of the structural descriptors): (1) the SA–host interaction and (2) the affinity towards chlorine. Accordingly, metals forming stable oxides (Ru, Rh and Ir) are more prone to chlorination than metals with lower cohesive energies (Au and Pd), whereas Pt offers a good compromise between redox and covalent behaviour. Going beyond acetylene hydrochlorination, the herein presented strategy integrating precision material synthesis, advanced characterization tools and theory to control, systematically assess and rationalize nuclearity, coordination and host effects is generally applicable to supported metal-catalysed reactions and thus provides a complete framework to derive catalytic descriptors for various applications.
+Methods
+Catalyst preparation
+All carbon-supported metal-based catalysts (nominal metal loading 1 mass%), denoted M/C, were prepared by an incipient wetness impregnation method, employing the respective metal chloride and aqua regia
+34
+,
+37
+, HCl or deionized water as solvent
+39
+. The obtained solutions were added dropwise onto the carbon carriers (that is, polyaniline-derived NC
+45
+or commercial AC (Norit ROX 0.8). Subsequently, all samples were dried at 473 K (heating rate = 5 K min
+−1
+, 16 h, static air) to yield the respective SA catalyst, denoted M-SA/NC or M-SA/AC. In the case of Au, Pt and Pd, M-SA-N
+4
+/NC catalysts were obtained by thermal activation of the respective M-SA/NC sample (
+T
+act
+= 1,073 K, heating rate = 5 K min
+−1
+, 16 h, flowing N
+2
+). The NP-based catalysts (M-NP/NC for Ru, Rh and Ir, and M-NP/AC for all metals) were derived by thermal activation in the temperature range
+T
+act
+= 523–1,073 K (heating rate = 5 K min
+−1
+, 16 h, flowing N
+2
+). The catalysts are denoted M/C-
+x
+h after use in the acetylene hydrochlorination reaction for
+x
+h tos. Further details of the catalyst synthesis are provided in the
+Supplementary Information
+.
+Catalyst characterization
+Multiple techniques were employed to characterize the M/C catalysts in fresh form and after use in acetylene hydrochlorination. In particular, the composition of the catalyst surface, metal speciation and dispersion were determined by extended X-ray absorption fine structure (EXAFS) analysis, XPS, XRD and STEM using a high-angle annular dark-field detector. The porous properties were assessed by Ar sorption at 77 K. The interactions of the catalysts with acetylene were studied by static volumetric C
+2
+H
+2
+chemisorption at the reaction temperature (473 K). The coke deposits on the used catalysts were quantified by TGA–MS. Details of all characterization techniques and procedures are provided in the
+Supplementary Information
+.
+Catalytic evaluation
+The hydrochlorination of acetylene was evaluated at atmospheric pressure in a continuous-flow fixed-bed reactor set-up (depicted in Supplementary Fig.
+28
+and further described in the
+Supplementary Information
+). In a typical test, the catalyst (mass = 0.1 g for initial catalytic activity and kinetics tests, and 0.25 g for stability tests) was loaded into a quartz micro-reactor and pretreated in He at 393 K for 30 min. Thereafter, a total gas flow containing 40 vol% C
+2
+H
+2
+, 44 vol% HCl and 16 vol% Ar was fed at a rate of 15 cm
+3
+min
+−1
+into the reactor with a bed temperature of 453–483 K, employing a high gas hourly space velocity based on acetylene of 650–1,500 h
+−1
+to assess the catalysts under the so-called accelerated deactivation conditions. Reactants and products, including the yield of vinyl chloride, reaction rate, TOF, deactivation constants, as well as the carbon mass balances and mass and heat transfer limitations were quantified according to the protocols detailed in the
+Supplementary Information
+.
+Transient mechanistic and kinetic analyses
+The type of adsorption (reversible or irreversible) of C
+2
+H
+2
+, HCl and VCM on the bare supports and the corresponding metal-based catalysts was determined by pulse experiments in a TAP reactor (TAP-2)
+41
+,
+42
+. The kinetic parameters of these processes, that is, the effective adsorption (
+k
+ads,eff
+) and desorption (
+k
+des
+) constants and their ratio (
+k
+ads,eff
+/
+k
+des
+), were determined through kinetic evaluation of the above tests. All details are provided in the
+Supplementary Information
+.
+Computational methods
+To gain insights into the interaction of acetylene with distinct metal sites, DFT calculations were performed using the Vienna Ab initio Simulation Package with projector augmented wave core potentials and the PBE-D3 functional, as detailed in the
+Supplementary Information
+. In our model, we considered more than 280 SA configurations. Specifically, one graphitic, nine N-rich (based on pyrrolic, pyridinic and oxopyridinic sites) and six oxidic defects (hydroxy-, epoxide- and keto-based sites; Extended Data Fig.
+1
+) were populated by six different metals as SAs, chlorinated SAs and metal dimers, and evaluated on the basis of stability (that is, formation energies, dimer formation energies and chlorine affinity) and activity (that is, steric prerequisites and availability of free coordination sites at the SA centre) descriptors (Supplementary Figs.
+10–14
+). Following this exhaustive analysis, we focused on the two most representative sites, bi-epoxidic for AC and tri-pyrrolic for NC. We assessed the uncertainties in acetylene adsorption energies at the epoxidic and pyrrolic SA sites by substituting one of the defect heteroatoms (O or N) for C (Supplementary Fig.
+29
+). To test the validity of our models, we computed the simulated EXAFS spectra for the selected structural motifs (Supplementary Fig.
+15
+), allowing us to make a direct comparison between experiment and theory. All computed structures can be retrieved from the ioChem-BD database
+46
+.
+Data availability
+The experimental and DFT data supporting the findings of this study are accessible at the ioChem-BD database at
+https://doi.org/10.19061/iochem-bd-1-222
+and
+https://doi.org/10.19061/iochem-bd-1-204
+, respectively
+46
+.
+Source data
+are provided with this paper.
+References
+Catalysis by design.
+Nat. Nanotechnol
+.
+3
+, 575 (2008).
+Liu, L. & Corma, A. Metal catalysts for heterogeneous catalysis: from single atoms to nanoclusters and nanoparticles.
+Chem. Rev.
+118
+, 4981–5079 (2018).
+Article
+CAS
+Google Scholar
+Corma, A. Heterogeneous catalysis: understanding for designing, and designing for applications.
+Angew. Chem. Int. Ed.
+55
+, 6112–6113 (2016).
+Article
+CAS
+Google Scholar
+Kaiser, S. K. et al. Single-atom catalysts across the periodic table.
+Chem. Rev.
+120
+, 11703–11809 (2020).
+Article
+CAS
+Google Scholar
+Li, Z. et al. Well-defined materials for heterogeneous catalysis: from nanoparticles to isolated single-atom sites.
+Chem. Rev.
+120
+, 623–682 (2020).
+Article
+CAS
+Google Scholar
+Xiong, Y. et al. Single-atom Rh/N-doped carbon electrocatalyst for formic acid oxidation.
+Nat. Nanotechnol.
+15
+, 390–397 (2020).
+Article
+CAS
+Google Scholar
+Lin, L. et al. Low-temperature hydrogen production from water and methanol using Pt/α-MoC catalysts.
+Nature
+544
+, 80–83 (2017).
+Article
+CAS
+Google Scholar
+Liu, G. et al. MoS
+2
+monolayer catalyst doped with isolated Co atoms for the hydrodeoxygenation reaction.
+Nat. Chem.
+9
+, 810–816 (2017).
+Article
+CAS
+Google Scholar
+Sun, T. et al. Design of local atomic environments in single-atom electrocatalysts for renewable energy conversions.
+Adv. Mater.
+33
+, e2003075 (2021).
+Article
+CAS
+Google Scholar
+Yang, J., Li, W., Wang, D. & Li, Y. Electronic metal–support interaction of single-atom catalysts and applications in electrocatalysis.
+Adv. Mater.
+32
+, e2003300 (2020).
+Article
+CAS
+Google Scholar
+Zhang, J., Yang, H. & Liu, B. Coordination engineering of single‐atom catalysts for the oxygen reduction reaction: a review.
+Adv. Energy Mater.
+11
+, 2002473 (2020).
+Article
+CAS
+Google Scholar
+Li, X. et al. Supported noble-metal single atoms for heterogeneous catalysis.
+Adv. Mater.
+31
+, e1902031 (2019).
+Article
+CAS
+Google Scholar
+Lin, L. et al. A highly CO-tolerant atomically dispersed Pt catalyst for chemoselective hydrogenation.
+Nat. Nanotechnol.
+14
+, 354–361 (2019).
+Article
+CAS
+Google Scholar
+Zhang, L. et al. Single-atom catalyst: a rising star for green synthesis of fine chemicals.
+Natl Sci. Rev.
+5
+, 653–672 (2018).
+Article
+CAS
+Google Scholar
+Malta, G. et al. Identification of single-site gold catalysis in acetylene hydrochlorination.
+Science
+355
+, 1399–1403 (2017).
+Article
+CAS
+Google Scholar
+Grabow, L. C. et al. Descriptor-based analysis applied to HCN synthesis from NH
+3
+and CH
+4
+.
+Angew. Chem. Int. Ed.
+50
+, 4601–4605 (2011).
+Article
+CAS
+Google Scholar
+Goodman, E. D. et al. Supported catalyst deactivation by decomposition into single atoms is suppressed by increasing metal loading.
+Nat. Catal.
+2
+, 748–755 (2019).
+Article
+CAS
+Google Scholar
+Yan, H. et al. Atomic engineering of high-density isolated Co atoms on graphene with proximal-atom controlled reaction selectivity.
+Nat. Commun.
+9
+, 3197 (2018).
+Article
+CAS
+Google Scholar
+Greeley, J. Theoretical heterogeneous catalysis: scaling relationships and computational catalyst design.
+Annu. Rev. Chem. Biomol. Eng.
+7
+, 605–635 (2016).
+Article
+Google Scholar
+Abild-Pedersen, F. et al. Scaling properties of adsorption energies for hydrogen-containing molecules on transition-metal surfaces.
+Phys. Rev. Lett.
+99
+, 016105 (2007).
+Article
+CAS
+Google Scholar
+Medford, A. J. et al. Assessing the reliability of calculated catalytic ammonia synthesis rates.
+Science
+345
+, 197–200 (2014).
+Article
+CAS
+Google Scholar
+Pérez-Ramírez, J. & López, N. Strategies to break linear scaling relationships.
+Nat. Catal.
+2
+, 971–976 (2019).
+Article
+Google Scholar
+Lin, R., Amrute, A. P. & Pérez-Ramírez, J. Halogen-mediated conversion of hydrocarbons to commodities.
+Chem. Rev.
+117
+, 4182–4247 (2017).
+Article
+CAS
+Google Scholar
+Ren, W. et al. Mercury transformation and distribution across a polyvinyl chloride (PVC) production line in China.
+Environ. Sci. Technol.
+48
+, 2321–2327 (2014).
+CAS
+Google Scholar
+Malta, G., Freakley, S. J., Kondrat, S. A. & Hutchings, G. J. Acetylene hydrochlorination using Au/carbon: a journey towards single site catalysis.
+Chem. Commun.
+53
+, 11733–11746 (2017).
+Article
+CAS
+Google Scholar
+Zhong, J., Xu, Y. & Liu, Z. Heterogeneous non-mercury catalysts for acetylene hydrochlorination: progress, challenges, and opportunities.
+Green Chem.
+20
+, 2412–2427 (2018).
+Article
+CAS
+Google Scholar
+Oliver-Meseguer, J. et al. Partial reduction and selective transfer of hydrogen chloride on catalytic gold nanoparticles.
+Angew. Chem. Int. Ed.
+56
+, 6435–6439 (2017).
+Article
+CAS
+Google Scholar
+Johnston, P., Carthey, N. & Hutchings, G. J. Discovery, development, and commercialization of gold catalysts for acetylene hydrochlorination.
+J. Am. Chem. Soc.
+137
+, 14548–14557 (2015).
+Article
+CAS
+Google Scholar
+Bligaard, T. & Nørskov, J. K. in
+Chemical Bonding at Surfaces and Interfaces
+255–321 (Elsevier Science, 2008).
+Smith, D. Studies of silica-supported metal chloride catalysts for the vapor-phase hydrochlorination of acetylene.
+J. Catal.
+11
+, 113–130 (1968).
+Article
+CAS
+Google Scholar
+Shinoda, K. The vapor-phase hidrochlorination of acetylene over metal chlorides supported on activated carbon.
+Chem. Lett.
+4
+, 219–220 (1975).
+Article
+Google Scholar
+Hutchings, G. Vapor phase hydrochlorination of acetylene: correlation of catalytic activity of supported metal chloride catalysts.
+J. Catal.
+96
+, 292–295 (1985).
+Article
+CAS
+Google Scholar
+Nkosi, B., Coville, N. J. & Hutchings, G. J. Vapour phase hydrochlorination of acetylene with group VIII and IB metal chloride catalysts.
+Appl. Catal.
+43
+, 33–39 (1988).
+Article
+CAS
+Google Scholar
+Kaiser, S. K. et al. Controlling the speciation and reactivity of carbon-supported gold nanostructures for catalysed acetylene hydrochlorination.
+Chem. Sci.
+10
+, 359–369 (2019).
+Article
+CAS
+Google Scholar
+Ye, L. et al. Self-regeneration of Au/CeO
+2
+based catalysts with enhanced activity and ultra-stability for acetylene hydrochlorination.
+Nat. Commun.
+10
+, 914 (2019).
+Article
+CAS
+Google Scholar
+Chen, Z. et al. Single-atom Au
+I
+–N
+3
+site for acetylene hydrochlorination reaction.
+ACS Catal.
+10
+, 1865–1870 (2020).
+Article
+CAS
+Google Scholar
+Kaiser, S. K. et al. Preserved in a shell: high-performance graphene-confined ruthenium nanoparticles in acetylene hydrochlorination.
+Angew. Chem. Int. Ed.
+58
+, 12297–12304 (2019).
+Article
+CAS
+Google Scholar
+Wang, B. et al. Constructing and controlling ruthenium active phases for acetylene hydrochlorination.
+Chem. Commun.
+56
+, 10722–10725 (2020).
+Article
+CAS
+Google Scholar
+Kaiser, S. K. et al. Nanostructuring unlocks high performance of platinum single-atom catalysts for stable vinyl chloride production.
+Nat. Catal.
+3
+, 376–385 (2020).
+Article
+CAS
+Google Scholar
+Biffis, A., Centomo, P., Del Zotto, A. & Zecca, M. Pd metal catalysts for cross-couplings and related reactions in the 21st century: a critical review.
+Chem. Rev.
+118
+, 2249–2295 (2018).
+Article
+CAS
+Google Scholar
+Pérez-Ramírez, J. & Kondratenko, E. V. Evolution, achievements, and perspectives of the TAP technique.
+Catal. Today
+121
+, 160–169 (2007).
+Article
+CAS
+Google Scholar
+Gleaves, J. T., Yablonskii, G. S., Phanawadee, P. & Schuurman, Y. TAP-2: an interrogative kinetics approach.
+Appl. Catal. A
+160
+, 55–88 (1997).
+Article
+CAS
+Google Scholar
+Kaiser, S. K. et al. Design of carbon supports for metal-catalyzed acetylene hydrochlorination.
+Nat. Commun.
+12
+, 4016 (2021).
+Article
+CAS
+Google Scholar
+Hammer, B., Morikawa, Y. & Nørskov, J. K. CO chemisorption at metal surfaces and overlayers.
+Phys. Rev. Lett.
+76
+, 2141–2144 (1996).
+Article
+CAS
+Google Scholar
+Lin, R., Kaiser, S. K., Hauert, R. & Pérez-Ramírez, J. Descriptors for high-performance nitrogen-doped carbon catalysts in acetylene hydrochlorination.
+ACS Catal.
+8
+, 1114–1121 (2018).
+Article
+CAS
+Google Scholar
+Fako, E.
+ioChem-BD Collection
+(Institute of Chemical Research of Catalonia, accessed 17 March 2021);
+https://doi.org/10.19061/iochem-bd-1-222
+,
+https://doi.org/10.19061/iochem-bd-1-204
+Download references
+Acknowledgements
+This work was supported by ETH (research grant no. ETH-40 17-1) and the Swiss National Science Foundation (project no. 200021-169679). This publication was created as part of NCCR Catalysis (grant no. 180544), a National Centre of Competence in Research funded by the Swiss National Science Foundation. E.F. thanks MINECO La Caixa Severo Ochoa for a predoctoral grant through Severo Ochoa Excellence Accreditation 2014–2018 (SEV 2013 0319) and BSC-RES for providing generous computational resources. We thank R. Hauert and S. Büchele for conducting XPS and O.V. Safonova for performing XAS analyses. The Scientific Centre for Optical and Electron Microscopy (ScopeM) at ETH Zurich is acknowledged for the use of their facilities.
+Author information
+Author notes
+These authors contributed equally: Selina K. Kaiser, Edvin Fako.
+Authors and Affiliations
+Institute for Chemical and Bioengineering, Department of Chemistry and Applied Biosciences, ETH Zurich, Zurich, Switzerland
+Selina K. Kaiser, Ivan Surin, Frank Krumeich & Javier Pérez-Ramírez
+Institute of Chemical Research of Catalonia, The Barcelona Institute of Science and Technology, Tarragona, Spain
+Edvin Fako & Núria López
+Leibniz-Institut für Katalyse, Rostock, Germany
+Vita A. Kondratenko & Evgenii V. Kondratenko
+Paul Scherrer Institut, Villigen, Switzerland
+Adam H. Clark
+Authors
+Selina K. Kaiser
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Edvin Fako
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ivan Surin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Frank Krumeich
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Vita A. Kondratenko
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Evgenii V. Kondratenko
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Adam H. Clark
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Núria López
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Javier Pérez-Ramírez
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+J.P.-R. and N.L. conceived and coordinated all stages of this research. S.K.K. and I.S. synthesized the catalysts, contributed to their characterization and conducted the catalytic tests. F.K. and A.H.C. conducted electron microscopy and XAS analyses, respectively. E.V.K. and V.A.K performed temporal analysis of the products. E.F. and N.L. conducted the computational studies. All authors contributed to the writing of the manuscript.
+Corresponding authors
+Correspondence to
+Núria López
+or
+Javier Pérez-Ramírez
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Nanotechnology
+thanks Jinlong Gong and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data
+Extended Data Fig. 1 Platform of carbon defects used to represent the NC and AC supports.
+A variety of oxygen- (hydroxyl, epoxide, keto) and nitrogen- rich sites (pyrrolic, pyridinic, oxo-pyridinic) are considered to ensure high diversity in the available coordination motifs.
+Extended Data Fig. 2 Comparison of formation energies of single-atom catalysts.
+Formation energies of a, non-chlorinated single atoms and b, mono-chlorinated single atoms on AC and NC defects, referenced to the isolated gas-phase atom, the host containing the defect and 1/2Cl2
+.
+Source data
+Extended Data Fig. 3 Metal-only dependent variables as potential activity descriptors.
+Physical properties of the examined metals including Pauling electronegativity (
+PE
+, conventionally labeled χ), Allred-Rochow electronegativity (
+ARE
+), first ionization potential (
+IE
+), cohesive energy (
+E
+coh
+), electron affinity (
+EA
+), melting point of the metallic phase (
+T
+M
+), adsorption of an isolated metal atom on pristine graphite (
+E
+ads
+), and the oxide decomposition temperature (
+T
+ox
+). The values are normalized so that the highest/lowest correspond to one/zero in the plots. The numerical set of values is provided in Supplementary Table
+6
+.
+Source data
+Extended Data Fig. 4 Reaction profiles for acetylene hydrochlorination to vinyl chloride over most relevant catalysts.
+Reaction profiles of
+a
+, Pt-supported single-atom species on AC and NC and the Pt(111) surface and
+b
+, AuCl single-atom species on the NC pyrrolic defect, the 4-fold coordinated Au-4 pyridinic defect, as well as the Au(111) surface.
+Source data
+Extended Data Fig. 5 Relationship between coking and pore blockage.
+Linear correlation between the amount of coke deposits in the used catalysts, determined by TGA-MS (Supplementary Fig.
+26
+) and the decrease in the total surface area (Supplementary Table
+9
+), indicating that the former causes gradual pore blockage.
+Source data
+Supplementary information
+Supplementary Information
+Supplementary Discussions 1–7, Tables 1–11, Figs. 1–29 and references.
+Source data
+Source Data Fig. 1
+Statistical source data.
+Source Data Fig. 2
+Statistical source data.
+Source Data Fig. 3
+Statistical source data.
+Source Data Fig. 4
+Statistical source data.
+Source Data Fig. 5
+Statistical source data.
+Source Data Fig. 6
+Statistical source data.
+Source Data Extended Data Fig. 2
+Statistical source data.
+Source Data Extended Data Fig. 3
+Statistical source data.
+Source Data Extended Data Fig. 4
+Statistical source data.
+Source Data Extended Data Fig. 5
+Statistical source data.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Kaiser, S.K., Fako, E., Surin, I.
+et al.
+Performance descriptors of nanostructured metal catalysts for acetylene hydrochlorination.
+Nat. Nanotechnol.
+17
+, 606–612 (2022). https://doi.org/10.1038/s41565-022-01105-4
+Download citation
+Received
+:
+18 March 2021
+Accepted
+:
+22 February 2022
+Published
+:
+28 April 2022
+Issue Date
+:
+June 2022
+DOI
+:
+https://doi.org/10.1038/s41565-022-01105-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Collection
+Chemical Engineering Distilled
+Catalyst design via descriptors
+Zhi-Jian Zhao
+Jinlong Gong
+Nature Nanotechnology
+News & Views
+06 May 2022
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Advisory Panel
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Nanotechnology
+(
+Nat. Nanotechnol.
+)
+ISSN
+1748-3395
+(online)
+ISSN
+1748-3387
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing
