@@ -73,6 +73,118 @@ class CatalystSynthesisParser:
             print(f"Error reading text file {file_path}: {e}")
             return ""
 
+    def clean_supplementary_pdf_content(self, text: str) -> str:
+        """
+        Clean supplementary PDF content by removing title, authors, contents, and table captions.
+
+        Args:
+            text: Raw text extracted from supplementary PDF
+
+        Returns:
+            Cleaned text with unwanted sections removed
+        """
+        if not text:
+            return ""
+
+        lines = text.split('\n')
+        cleaned_lines = []
+        skip_section = False
+
+        # Patterns to identify sections to remove
+        title_patterns = [
+            r'^[A-Z\s]{10,}$',  # Long all-caps lines (likely titles)
+            r'supplementary\s+information',
+            r'supporting\s+information',
+            r'electronic\s+supplementary\s+material'
+        ]
+
+        author_patterns = [
+            r'^\s*[A-Z][a-z]+\s+[A-Z][a-z]+.*\d+[,\s]*$',  # Name with affiliation numbers
+            r'^\s*[A-Z][a-z]+\s+[A-Z]\.\s*[A-Z][a-z]+.*$',  # Name with middle initial
+            r'department\s+of',
+            r'university\s+of',
+            r'institute\s+of',
+            r'^\s*\d+\s*[A-Z][a-z]+.*university.*$'  # Affiliation lines
+        ]
+
+        contents_patterns = [
+            r'contents?\s*$',
+            r'table\s+of\s+contents',
+            r'supplementary\s+text',
+            r'supplementary\s+fig',
+            r'supplementary\s+table',
+            r'data:\s+figures?\s+and\s+tables?',
+            r'references:\s*$'
+        ]
+
+        caption_patterns = [
+            r'^\s*supplementary\s+fig',
+            r'^\s*supplementary\s+table',
+            r'^\s*fig\.\s*\d+',
+            r'^\s*figure\s+\d+',
+            r'^\s*table\s+\d+',
+            r'^\s*scheme\s+\d+',
+            r'^\s*chart\s+\d+'
+        ]
+
+        for i, line in enumerate(lines):
+            line_lower = line.lower().strip()
+
+            # Skip empty lines
+            if not line_lower:
+                cleaned_lines.append(line)
+                continue
+
+            # Check for title patterns (usually in first 20 lines)
+            if i < 20:
+                is_title = any(re.search(pattern, line_lower, re.IGNORECASE) for pattern in title_patterns)
+                if is_title:
+                    continue
+
+            # Check for author patterns (usually in first 30 lines)
+            if i < 30:
+                is_author = any(re.search(pattern, line_lower, re.IGNORECASE) for pattern in author_patterns)
+                if is_author:
+                    continue
+
+            # Check for contents section
+            is_contents_start = any(re.search(pattern, line_lower, re.IGNORECASE) for pattern in contents_patterns)
+            if is_contents_start:
+                skip_section = True
+                continue
+
+            # Stop skipping if we hit a clear section start (like "Methods" or "Materials")
+            if skip_section:
+                section_start_patterns = [
+                    r'materials\s+and\s+methods',
+                    r'experimental\s+section',
+                    r'methods',
+                    r'preparation\s+of',
+                    r'synthesis\s+of',
+                    r'catalyst\s+preparation'
+                ]
+                is_section_start = any(
+                    re.search(pattern, line_lower, re.IGNORECASE) for pattern in section_start_patterns)
+                if is_section_start:
+                    skip_section = False
+                    cleaned_lines.append(line)
+                    continue
+                else:
+                    continue
+
+            # Check for table/figure captions
+            is_caption = any(re.search(pattern, line_lower, re.IGNORECASE) for pattern in caption_patterns)
+            if is_caption:
+                continue
+
+            # Skip lines that are mostly page numbers or references
+            if re.match(r'^\s*\d+\s*$', line_lower) or re.match(r'^\s*page\s+\d+', line_lower):
+                continue
+
+            cleaned_lines.append(line)
+
+        return '\n'.join(cleaned_lines)
+
     def extract_synthesis_section(self, content: str) -> Optional[str]:
         """Extract the synthesis/preparation section from the text content."""
         if not content:
@@ -181,7 +293,7 @@ class CatalystSynthesisParser:
 
         # Different filename formats based on source
         if source_type == 'supplementary':
-            filename = f"{cleaned_doi}-synthesis.txt"
+            filename = f"{cleaned_doi}_synthesis.txt"
         else:  # main text
             filename = f"{cleaned_doi}_synthesis.txt"
 
@@ -232,7 +344,9 @@ class CatalystSynthesisParser:
             pdf_text = self.extract_text_from_pdf(supplementary_pdf_path)
 
             if pdf_text:
-                synthesis_section = self.extract_synthesis_section(pdf_text)
+                # Clean the supplementary PDF content to remove title, authors, contents, and captions
+                cleaned_pdf_text = self.clean_supplementary_pdf_content(pdf_text)
+                synthesis_section = self.extract_synthesis_section(cleaned_pdf_text)
                 if synthesis_section:
                     synthesis_content = synthesis_section
                     source_type = 'supplementary'
@@ -324,9 +438,9 @@ def main():
 
     # Configuration - UPDATE THESE PATHS
     csv_file = "D:\\pycharm-project\\parser\\single-atom-nature.csv"  # Your CSV file with DOI column
-    supplementary_pdf_folder = "D:\\pycharm-project\\parser\\new-try-20250523\\supplementary_pdfs\\"  # Folder with supplementary PDFs
-    main_text_folder = "D:\\pycharm-project\\parser\\new-try-20250523\\articles_txt\\"  # Folder with main paper text files
-    output_folder = "D:\\pycharm-project\parser\\new-try-20250523\\synthesis_output_claude\\"  # Output folder for synthesis sections
+    supplementary_pdf_folder = "D:\\pycharm-project\\parser\\new-try-20250523\\supplementary_pdfs"  # Folder with supplementary PDFs
+    main_text_folder = "D:\\pycharm-project\\parser\\new-try-20250523\\articles_txt"  # Folder with main paper text files
+    output_folder = "D:\\pycharm-project\\parser\\new-try-20250523\\synthesis_outputs"  # Output folder for synthesis sections
 
     # Verify input paths exist
     if not os.path.exists(csv_file):
