@@ -1,0 +1,1807 @@
+Breaking structure sensitivity in CO2 hydrogenation by tuning metal–oxide interfaces in supported cobalt nanoparticles | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Breaking structure sensitivity in CO
+2
+hydrogenation by tuning metal–oxide interfaces in supported cobalt nanoparticles
+Download PDF
+Article
+Published:
+17 November 2022
+Breaking structure sensitivity in CO
+2
+hydrogenation by tuning metal–oxide interfaces in supported cobalt nanoparticles
+Alexander Parastaev
+ORCID:
+orcid.org/0000-0001-7135-7240
+1
+,
+Valery Muravev
+ORCID:
+orcid.org/0000-0002-1357-1086
+1
+,
+Elisabet Huertas Osta
+1
+,
+Tobias F. Kimpel
+1
+,
+Jérôme F. M. Simons
+1
+,
+Arno J. F. van Hoof
+1
+,
+Evgeny Uslamin
+ORCID:
+orcid.org/0000-0001-5454-9582
+1
+,
+Long Zhang
+1
+,
+Job J. C. Struijs
+ORCID:
+orcid.org/0000-0002-6051-2927
+1
+,
+Dudari B. Burueva
+ORCID:
+orcid.org/0000-0002-6077-5487
+2
+,
+3
+,
+Ekaterina V. Pokochueva
+ORCID:
+orcid.org/0000-0003-0444-6619
+2
+,
+3
+,
+Kirill V. Kovtunov
+ORCID:
+orcid.org/0000-0001-7577-9619
+2
+na1
+,
+Igor V. Koptyug
+ORCID:
+orcid.org/0000-0003-3480-7649
+2
+,
+Ignacio J. Villar-Garcia
+4
+,
+Carlos Escudero
+ORCID:
+orcid.org/0000-0001-8716-9391
+4
+,
+Thomas Altantzis
+ORCID:
+orcid.org/0000-0002-4940-7931
+5
+,
+Pei Liu
+6
+,
+Armand Béché
+ORCID:
+orcid.org/0000-0002-8004-4593
+6
+,
+Sara Bals
+6
+,
+Nikolay Kosinov
+ORCID:
+orcid.org/0000-0001-8520-4886
+1
+&
+…
+Emiel J. M. Hensen
+ORCID:
+orcid.org/0000-0002-9754-2417
+1
+Show authors
+Nature Catalysis
+volume
+5
+,
+pages
+1051–1060 (
+2022
+)
+Cite this article
+12k
+Accesses
+4
+Altmetric
+Metrics
+details
+Subjects
+Catalytic mechanisms
+Heterogeneous catalysis
+Nanoparticles
+Abstract
+A high dispersion of the active metal phase of transition metals on oxide supports is important when designing efficient heterogeneous catalysts. Besides nanoparticles, clusters and even single metal atoms can be attractive for a wide range of reactions. However, many industrially relevant catalytic transformations suffer from structure sensitivity, where reducing the size of the metal particles below a certain size substantially lowers catalytic performance. A case in point is the low activity of small cobalt nanoparticles in the hydrogenation of CO and CO
+2
+. Here we show how engineering of catalytic sites at the metal–oxide interface in cerium oxide–zirconium dioxide (ceria–zirconia)-supported cobalt can overcome this structure sensitivity. Few-atom cobalt clusters dispersed on 3 nm cobalt(II)-oxide particles stabilized by ceria–zirconia yielded a highly active CO
+2
+methanation catalyst with a specific activity higher than that of larger particles under the same conditions.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Constructing matched sub-nanometric cobalt clusters with multiple oxidation and metallic states for efficient propane dehydrogenation
+Article
+Open access
+08 October 2024
+Generating active metal/oxide reverse interfaces through coordinated migration of single atoms
+Article
+Open access
+09 February 2024
+Combination of nanoparticles with single-metal sites synergistically boosts co-catalyzed formic acid dehydrogenation
+Article
+Open access
+18 September 2024
+Main
+Supported metals are an important class of industrial heterogeneous catalysts. Although increasing metal dispersion is a strategy commonly used to maximize the amount of exposed metal atoms
+1
+,
+2
+, this approach does not always lead to better catalysts because the intrinsic activity (that is, activity per exposed metal atom) can depend strongly on metal dispersion. In particular, nanoparticles <10 nm exhibit a strong size dependence of the contributions of surface terrace, corner, edge and step-edge sites, where differences in coordination numbers and surface topology may lead to substantial difference in intrinsic activity. This phenomenon is broadly known as structure sensitivity
+3
+,
+4
+and underlies the particle size dependence of important industrial reactions such as ammonia synthesis
+5
+,
+6
+, Fischer–Tropsch synthesis
+7
+, CO
+2
+methanation
+8
+, methanol synthesis
+9
+, ethylene hydrogenation
+10
+and (dry) methane reforming
+11
+. Many studies have been devoted to understanding the nature of structure sensitivity, in particular for CO and CO
+2
+hydrogenation
+12
+. For instance, the optimum size of cobalt particles for CO hydrogenation in the Fischer–Tropsch reaction is around 6–8 nm
+7
+,
+13
+, which implies that a large fraction of the metal is not directly involved in the catalytic reaction. A possible approach to overcoming conventional structure sensitivity is the design of catalysts containing additional active sites other than metal nanoparticles—that is, metal–oxide interfacial sites
+14
+,
+15
+or non-innocent supports
+16
+. Also, the presence of highly dispersed ionic species rather than metallic particles can lead to superior catalytic performance
+2
+. The promise of such approaches can be highlighted by recent examples of CO oxidation
+17
+and the water–gas shift reaction
+18
+,
+19
+. For CO and CO
+2
+hydrogenation, only a few studies have hinted at the involvement of relatively large (partially) oxidized supported and unsupported cobalt nanoparticles
+20
+,
+21
+,
+22
+,
+23
+. Because CO
+2
+hydrogenation is expected to be a key technology for storage of surplus renewable energy in chemical energy carriers
+24
+, there is a need to develop more efficient catalysts for this reaction.
+In this work, we show that the temperature of a reductive pretreatment can be used to tune the nature of the interfaces between reduced cobalt and the metal oxides present in cobalt–cerium oxide–zirconium dioxide (cobalt–ceria–zirconia; CoCZ) catalysts. In this way, one can overcome the limitations imposed by conventional structure sensitivity and obtain catalysts with a much higher cobalt utilization efficiency in CO
+2
+hydrogenation, resulting in an unusually high catalytic activity of small (3 nm) cobalt/cobalt(II) oxide nanoparticles.
+Results
+Structure sensitivity
+We recently demonstrated that the Co–O–Ce interface between large cobalt particles and ceria–zirconia is favourable for CO
+2
+methanation
+14
+. Here, we constructed metal–oxide interfacial active sites in CoCZ catalysts using cobalt oxide nanoparticles with sizes between 2.5 and 20 nm (
+Supplementary Notes
+1
+and
+2
+). To tune the nature of the interfacial metal–oxide active sites, the reduction level of CoCZ catalysts was adjusted by varying the reduction temperature in the 225–500 °C range.
+Figure
+1
+summarizes the catalytic results for different reduction temperatures and nanoparticle sizes. Cobalt catalysts completely reduced at 500 °C exhibited strong size–activity dependence (Fig.
+1a
+, volcano plot 1) that is typical for CO
+2
+hydrogenation catalysed by metallic cobalt
+7
+(Supplementary Note
+5
+). At this relatively high reduction temperature, the catalyst with the smallest cobalt particles (1% CoCZ; Fig.
+1b
+) displayed low activity in CO
+2
+methanation, with CO as the main reaction product. The highest activity was observed for the 5% CoCZ sample containing nanoparticles with sizes in the range 7–9 nm and with CH
+4
+as the main reaction product. To exclude the possibility that restructuring of cobalt nanoparticles or strong metal–support interaction (SMSI) led to a lower activity of small cobalt nanoparticles due to encapsulation of the active phase by the reducible ceria support
+25
+, we carried out in situ scanning transmission electron microscopy–electron energy loss spectroscopy (STEM–EELS) experiments (Supplementary Note
+4
+). Figure
+1d
+underlines the absence of ceria on the surface of cobalt nanoparticles following reduction of a 1% CoCZ catalyst at 500 °C. CO chemisorption, X-ray photoelectron spectroscopy (XPS), H
+2
+–D
+2
+exchange and ultraviolet–visible and infrared (IR) spectroscopy data confirmed the absence of SMSI in CoCZ catalysts (Supplementary Note
+3
+).
+Fig. 1: The influence of catalyst reduction temperature on structure sensitivity in CO
+2
+methanation.
+a
+, Catalytic activity of CoCZ catalysts reduced at different temperatures in CO
+2
+methanation at 250 °C, normalized to total metal amount (5% CO
+2
+/20% H
+2
+balanced with He, total flow 50 ml min
+1
+, 50 mg of sample). Red dashed line represents conventional volcano plot with an optimum around 7–9 nm linked to classical structure sensitivity observed for cobalt nanoparticles; orange line represents unconventional volcano plot with an optimum at reduction temperature of 300 °C.
+b
+,
+c
+, STEM–EDX maps of as-prepared 1% CoCZ (
+b
+) and 10% CoCZ (
+c
+) samples in vacuum at room temperature (RT).
+d
+, ADF-STEM image of 1Co500 obtained in 5% H
+2
+/He at 500 °C after reduction for 4 h. Inset: EELS spectra of 1Co500 obtained during line scan (Co surface–Co bulk–Co surface) in 5% H
+2
+/He at 500 °C. NPs, nanoparticles.
+Full size image
+Changing the reduction temperature in the range 275–500 °C did not have a substantial effect on the catalytic performance of CoCZ catalysts containing relatively large Co nanoparticles (>7 nm). Catalysts containing small nanoparticles, on the other hand, demonstrated different behaviour after reduction at lower temperatures (Fig.
+1a
+, volcano plot 2). The catalytic activity of 1% CoCZ notably increased when lowering the reduction temperature, with a pronounced maximum at 300 °C (referred to as 1Co300); 1Co300 displayed tenfold higher activity than 1Co500. When normalized to the amount of cobalt, 1Co300 presents a much higher catalytic activity for the Sabatier reaction than other cobalt and nickel catalysts described in the literature (Supplementary Note
+5
+).
+To summarize, Fig.
+1a
+shows two types of volcano plot. The first, as a function of particle size (volcano plot 1), exhibits an optimum around 7–9 nm, which is an example of conventional structure sensitivity observed for CO
+x
+hydrogenation over cobalt catalysts
+7
+. The second volcano plot (plot 2) has an optimum at the intermediate reduction temperature of 300 °C for low-loaded cobalt on ceriazirconia, leading to unusually high methanation activity. To understand this unexpected finding, we investigated the structure of small (1% CoCZ) and large (10% CoCZ; Fig.
+1c
+) cobalt nanoparticles reduced at different temperatures by a combination of advanced (in situ) spectroscopy and microscopy.
+Nature of active sites of partially reduced catalysts
+Typically, catalytic CO and CO
+2
+hydrogenation has been associated with metallic nanoparticles. Temperature-programmed reduction profiles and quasi-in situ XPS analysis show that the cobalt particles in 1Co500 and 10Co500 catalysts are fully metallic (
+Supplementary Notes
+2
+and
+6
+). When reduction is carried out at lower temperatures, surface analysis by laboratory-based quasi-in situ XPS shows that the cobalt nanoparticles in 10Co300 are composed of a mixture of CoO and Co metal (Supplementary Fig.
+33
+). The small nanoparticles in 1Co275 (Supplementary Fig.
+33
+) and 1Co300 (Fig.
+2a
+) are composed only of CoO according to lab-based XPS. However, because we found that these samples strongly chemisorb CO at 30 °C (Supplementary Notes
+1
+and
+3
+), we surmised the presence of reduced cobalt. To verify this, we exploited the much higher surface sensitivity of synchrotron-based in situ near-ambient pressure XPS (NAP-XPS). Figure
+2b
+demonstrates that the actual surface of 1Co300 contains metallic cobalt. Deconvolution of the Co 2
+p
+3/2
+XPS spectrum shows that the surface of this sample contains comparable amounts of Co
+0
+and Co
+2+
+. The presence of a mixture of Co
+0
+and Co
+2+
+was further confirmed by CO IR spectra recorded at low temperature (Fig.
+2c
+and Supplementary Note
+7
+).
+Fig. 2: Nature of the active sites.
+a
+, Quasi-in situ XPS spectrum of 1Co300 obtained in a vacuum after reduction for 4 h in 50 mbar H
+2
+(X-ray energy,
+h
+ν
+= 1,486 eV).
+b
+, Synchrotron NAP-XPS spectrum of 1Co300 obtained in 1 mbar H
+2
+at 300 °C after reduction for 4 h in 10 mbar H
+2
+(
+h
+ν
+= 1,050 eV).
+c
+, IR spectra of CO adsorbed on 1Co300 sample obtained at −170 °C.
+d
+, CO adsorption IR spectra at 50 °C obtained for 1% CoCZ sample reduced at 275 °C, 300 °C, 350 °C and 500 °C.
+e
+, Frequency of linearly adsorbed carbonyls as a function of CO partial pressure.
+f
+,
+g
+, Schematic representation of small (
+f
+) and large (
+g
+) Co NPs obtained after mild reduction at 300 °C (blue, CoO; black, Co
+0
+clusters and islands).
+T
+, temperature.
+Full size image
+To elucidate the nature of metallic Co sites, we analysed CO IR spectra of 1% CoCZ after reduction at different temperatures (Fig.
+2d
+), where an unusually narrow carbonyl band at 2,025–2,040 cm
+−1
+was observed for 1Co275 and 1Co300. The sharpness of this feature in comparison with CO adsorbed on cobalt metal nanoparticles is a strong indication for the presence of very small and uniform metallic clusters or even single atoms of cobalt
+26
+,
+27
+,
+28
+. It is yet more likely that the catalyst contained small cobalt clusters, because of the presence of additional relatively narrow bands at ~1,940 and ~1,870 cm
+−1
+related to multibonded carbonyls
+29
+. The observed IR features are in line with stretching vibrational frequencies computed by density functional theory (DFT) for small metallic Co
+n
+clusters placed on the CoO(111) surface (Supplementary Note
+8
+). The full-width at half-maximum (FWHM) of the linear carbonyl band in 1Co300 (14 cm
+−1
+) is slightly higher than the value of 10 cm
+−1
+for 1Co275 (Fig.
+2d
+). This difference could indicate an increasing size of metallic cobalt clusters after reduction at 300 °C. The CO IR spectrum for 1Co500 demonstrates that this sample contains predominantly metallic cobalt particles, as also indicated by the XPS results. It is well established that the carbonyl band on extended metallic cobalt surfaces shifts to higher wavenumbers with increasing CO coverage, due to lateral interactions between the adsorbed CO molecules
+29
+. The 1% CoCZ catalyst reduced at lower temperatures exhibits a different IR response with respect to CO coverage (Fig.
+2e
+). The blue shifts for 1Co275 and 1Co300, at 4 and 12 cm
+−1
+, respectively, are much smaller than the >20 cm
+−1
+shifts observed for the 1Co350 and 1Co500 catalysts. Such a difference further underpins the conclusion that 1Co275 and 1Co300 (Fig.
+2f
+) contain very small metallic cobalt clusters, unlike 1Co350 and 1Co500 samples featuring predominantly metallic surfaces. Small metallic cobalt clusters cannot be obtained by mild reduction of CoCZ samples of larger cobalt particle size (Fig.
+2g
+and Supplementary Note
+7
+). The presence of Co metal clusters on small CoO particles is probably the reason behind the unusual catalytic activity of these materials.
+Origin of unconventional structure sensitivity
+To unravel the underlying phenomenon of structure sensitivity in CO
+2
+hydrogenation, we compared the activation of CO
+2
+and H
+2
+reactants and CO as a reaction intermediate on the surface of CoCZ catalysts. CO
+2
+can be activated at the interface of metal particles and a reducible support containing oxygen vacancies, leading to the formation of formate species
+30
+. In a catalytic cycle, an oxygen vacancy in the reducible support would be healed during CO
+2
+dissociation and later regenerated by H
+2
+. It can be expected that catalytic performance within the formate pathway increases with the number of interfacial sites and rate of oxygen vacancy regeneration
+30
+. Formate species are formed on the surface of all CoCZ samples following steady-state exposure to the reaction mixture (Fig.
+3a
+), which is indicated by bands at 1,577, 1,365 (ref.
+31
+) and 2,845 cm
+−1
+(refs.
+32
+,
+33
+). The negative band at 2,115 cm
+−1
+implies that the ceria support is partially reoxidized by CO
+2
+(ref.
+31
+). We further studied the redox dynamics in CoCZ catalysts by following the transient switches between the H
+2
+and CO
+2
+/H
+2
+mixture (Fig.
+3b
+). The facile reduction–oxidation of the CZ support is confirmed by the reversible behaviour of surface hydroxyl species
+34
+and subsurface oxygen vacancies during these experiments. The observed transients are similar for all 1CoCZ and 10CoCZ catalysts and appear to be independent of reduction temperature. Accordingly, we infer that the first step in CO
+2
+methanation—that is, CO
+2
+activation—is not structure sensitive and does not depend on the extent of Co reduction.
+Fig. 3: Structure sensitivity of CO
+2
+, CO and H
+2
+activation.
+a
+, Background-subtracted spectra obtained by operando IR at 250 °C in the reaction mixture (CO
+2
+2.5%, H
+2
+10%, He 87.5%, total flow 200 ml min
+−1
+) for 1% and 10% CoCZ catalysts reduced at 300 °C and 500 °C.
+b
+, Transient CO
+2
+hydrogenation experiments (switching from H
+2
+to a CO
+2
++ H
+2
+mixture, then H
+2
+at 250 °C) followed by IR spectroscopy: position of hydroxyl species and IR intensity of the 2,115 cm
+−1
+band (normalized to the intensity of the 2,115 cm
+−1
+band of the reduced sample).
+c
+,
+d
+, RPES data of Ce 4
+d
+–4
+f
+transitions for 1Co300 and 10Co300 as a function of reaction atmosphere at 50 °C at 1 mbar H
+2
+(
+c
+) and 1 mbar CO (
+d
+). Blue lines correspond to spectra taken at 124 eV, red at 120 eV and grey at 114 eV.
+e
+, Ce oxidation state for 1% and 10% CoCZ reduced at 300 °C and 500 °C before and after exposure to 1 mbar CO at 50 °C.
+f
+,
+1
+H NMR spectrum acquired during hydrogenation of propylene with parahydrogen over 1Co300 at 250 °C and gas flow of 3.8 ml s
+−1
+(green), and stopped-flow spectrum acquired for conversion calculation (blue).
+g
+, TOF for H
+2
+–D
+2
+exchange at 200 °C as a function of reduction temperature for 1% and 10% CoCZ samples (H
+2
+:D
+2
+:Ar, 1:1:48, total flow rate 50 ml min
+1
+, 3 mg of 10% CoCZ and 10 mg of 1% CoCZ).
+h
+,
+1
+H NMR signal enhancement of propane during hydrogenation of propylene with parahydrogen at 250 °C over 1% and 10% CoCZ samples reduced at 300 °C and 500 °C.
+Full size image
+Decomposition of formates can lead to the formation of carbonyl species
+35
+. Consecutively, adsorbed CO needs to dissociate to form methane. CO dissociation can be tracked by following the oxidation state of cobalt by means of near-edge extended X-ray absorption fine structure
+36
+or synchrotron-based NAP-XPS. However, such experiments are not feasible due to the low signal-to-noise ratio for samples with low Co loading. Another approach to observation of CO dissociation on CoCZ catalysts is to determine the extent of oxygen spillover from cobalt to the CZ support
+14
+. Oxygen formed during CO dissociation on a metal or at metal–oxide interfaces can reoxidize Ce
+3+
+via oxygen spillover
+14
+. To probe this process, we performed resonant photoemission spectroscopy (RPES) measurements, offering high sensitivity to changes in Ce
+3+
+concentration at the very surface (Fig.
+3c,d
+and Supplementary Note
+9
+). Exposure of 10Co300 and 10Co500 samples to CO at 50 °C led to the oxidation of both the CZ support and metallic Co nanoparticles (Fig.
+3e
+). In contrast, exposure of the 1% CoCZ sample to CO did not result in Ce
+3+
+oxidation. The absence of CO dissociation for small, fully reduced particles in 1Co500 is in line with the literature and follows conventional structure sensitivity
+36
+. The absence of oxygen spillover for the 1Co300 sample indicates the inability of this catalyst to dissociate CO at 50 °C.
+Because CO dissociation over Co was demonstrated to be a hydrogen-assisted process
+36
+, it is strongly dependent on the ability of the catalyst to adsorb and dissociate hydrogen. To probe hydrogen activation over the studied cobalt catalysts, we investigated the hydrogenation of propylene with parahydrogen (
+p
+-H
+2
+). Pairwise insertion of parahydrogen into unsaturated molecules such as propylene leads to parahydrogen‐induced polarization (PHIP), which can be observed as nuclear magnetic resonance (NMR) signal enhancement (SE) in the hydrogenated products
+37
+. SE can be expected for supported metallic nanoparticle catalysts when the mobility of hydrogen atoms on the metallic surface is hindered by, for instance, carbonaceous deposits or when specific low-dimensional ensembles act as an isolated active site for hydrogen activation. SE was also observed for single-atom active sites
+38
+and for catalysts following the Eley–Rideal mechanism
+39
+,
+40
+. Both 1CoCZ and 10CoCZ catalysts reduced at 500 °C showed high activity in propylene hydrogenation and an expectedly low SE for propane (Fig.
+3h
+and Supplementary Note
+10
+). Although CoCZ catalysts reduced at 300 °C were substantially less active in propylene hydrogenation, these samples displayed a much higher SE than fully reduced CoCZ samples. The highest SE of 70 was observed for 1Co300 (Fig.
+3f,h
+). We explain the PHIP effect observed for 1Co300 by heterolytic dissociation of hydrogen at the Co–CoO interface, although we cannot exclude that the Co–CZ and CoO–CZ interfaces can also play a role. This interpretation is supported by the strong irreversible adsorption of hydrogen (Supplementary Note
+10
+) and the low H
+2
+–D
+2
+exchange rate (Fig.
+3g
+) observed for partially reduced CoCZ samples. Moreover, small, fully reduced cobalt particles (1Co500) showed a much higher reaction order with respect to H
+2
+for CH
+4
+formation than 1Co300, pointing to low hydrogen coverage on the 1Co500 catalyst. These findings evidence differences in hydrogen activation. We expect that these differences play a crucial role in the unusual structure sensitivity trends of low-loaded CoCZ with respect to reduction temperature. Efficient heterolytic hydrogen activation at the Co–CoO interface can have substantial influence not only on CO
+2
+and CO activation, but also on the overall reaction mechanism of CO
+2
+hydrogenation.
+Mechanistic differences in metallic and interfacial sites
+Further insight into the mechanistic differences in CO
+2
+hydrogenation between CoCZ catalysts was obtained with IR spectroscopy by following the transient behaviour of formate and carbonyl species after isotope switching between
+12
+CO
+2
+/H
+2
+and
+13
+CO
+2
+/H
+2
+mixtures (Fig.
+4a,b
+and Supplementary Note
+11
+). A first glance at the quantification of formate species for the 1Co300 sample (Fig.
+4c
+) suggests that their total residence time is much longer than that of adsorbed CO. The formate transient can be deconvoluted in two contributions, namely a fast one assigned to formates adsorbed on interfacial sites
+31
+and a slow one due to formates on the support
+35
+,
+41
+(Fig.
+4b
+). The initial rate of disappearance of fast formates is higher than that of carbonyls (Fig.
+4c
+, area marked orange), which indicates that the decomposition of formate towards CO is faster than the hydrogenation of CO to methane. It was previously reported that formate decomposition is the rate-determining step for CO formation
+35
+. To explore the influence of reduction temperature on the formation/decomposition of formates, we performed transient kinetic experiments with the 1CoCZ catalysts. Figure
+4d
+shows the intensities of the formate IR signal during switches between H
+2
+and the CO
+2
++ H
+2
+mixture. Formates were rapidly formed on the 1Co300 sample, which presents the highest CO
+2
+hydrogenation activity; the formation of formates on 1Co500 was much slower. Moreover, the large amount of accumulated formates under reaction conditions and slower hydrogenation of formates after a switch from CO
+2
+/H
+2
+to H
+2
+as compared with the other samples points to poor hydrogenation activity of the 1Co500 sample. The high H
+2
+–D
+2
+exchange activity, reversible H
+2
+chemisorption and low SE during the hydrogenation of propylene with parahydrogen, in combination with these IR results, reflect the weak adsorption of hydrogen on small metallic particles. It can explain the low activity of 1Co500 towards the decomposition of formates and, henceforth, the low activity in CO
+2
+hydrogenation (Fig.
+4e
+). The dynamics of the formation and decomposition of formate species for 1Co275 were also slower than for 1Co300, despite strong H
+2
+adsorption on the former sample. Moreover, the amount of formate species formed in 1Co275 is lower than in 1Co300. We speculate that strong adsorption of hydrogen can impede CO
+2
+and formate hydrogenation, which is in line with the low reaction orders with respect to H
+2
+in CO
+2
+hydrogenation. We also note the very low intensity of the carbonyl band on 1Co275 and 1Co300 catalysts (Fig.
+4a
+and Supplementary Note
+11
+) under reaction conditions, which is consistent with high H coverage. For the 10% CoCZ catalysts containing larger metallic nanoparticles, the transient behaviour with respect to the formation/decomposition of formate species was similar to that of 1Co300. Moreover, a faster initial rate of formate decomposition as compared with methanation of adsorbed CO was also observed. However, IR spectra clearly show much higher CO coverage for catalysts containing large cobalt nanoparticles as compared with 1%CoCZ (Supplementary Fig.
+71
+and Supplementary Note
+11
+). The latter observation is in line with the literature, where weak adsorption of CO on small nanoparticles under reaction conditions is reported
+8
+. The mechanistic insight obtained by a combination of advanced in situ spectroscopy tools allowed us to explain the unique activity of 1Co300 as compared with other CoCZ catalysts and to control CH
+4
+selectivity in CO
+2
+hydrogenation (Supplementary Note
+5
+).
+Fig. 4: CO
+2
+hydrogenation mechanism probed by transient IR spectroscopy.
+a
+,
+b
+, Contour maps of carbonyl (
+a
+) and formate (
+b
+) regions of IR spectra obtained for the 1Co300 catalyst following
+12
+CO
+2
+/H
+2
+/He →
+13
+CO
+2
+/H
+2
+/He switch at 200 °C (time resolution, 0.8 s).
+c
+, Normalized response of CO
+2
+and carbonyl and formate species.
+d
+, Formation and decomposition of formate species for 1% CoCZ catalysts reduced at 275 °C, 300 °C and 500 °C during H
+2
+→ H
+2
++ CO
+2
+→ H
+2
+switches at 300 °C (time resolution, 15 s).
+e
+, Schematic representation of surface species for 1Co300 and 1Co500 catalysts.
+Full size image
+Conclusions
+Here we have demonstrated the possibility of overcoming classical structure sensitivity in CO
+2
+hydrogenation on cobalt catalysts by engineering metal–oxide interfaces. We used cobalt loading and reduction temperature as parameters governing the nature of metal–oxide interfaces in CoCZ catalysts. Following high-temperature reduction, catalysts show the size–activity dependence typical for CO
+2
+hydrogenation, namely high activity only for sufficiently large cobalt nanoparticles. This structure sensitivity limitation in terms of activity can be overcome by partial reduction of cobalt particles at lower temperature, resulting in substantially higher intrinsic activity. Through the use of advanced spectroscopic tools, we have established that the active phase in a partially reduced 1Co300 catalyst consists of cobalt oxide covered with very small metallic clusters of a few cobalt atoms. The CO
+2
+methanation reaction over these ensembles follows the formate-mediated pathway. The outstanding catalytic activity at the metal–oxide interface relates to the optimum adsorption/coverage of both reactants and intermediates, heterolytic activation of hydrogen and fast hydrogen and oxygen spillover. The outlined approach will be highly relevant to the design of more efficient catalysts for other structure-sensitive reactions. For large-scale processes such as Fischer–Tropsch synthesis, methanol synthesis and ammonia synthesis, higher activity and selectivity could be obtained by the introduction of appropriate metal–metal oxide active sites. Moreover, the role of hydrogen activation in many of these structure-sensitive hydrogenation reactions has not yet been fully recognized. For example, the majority of studies on Fischer–Tropsch reaction are focused on C–O bond activation and chain growth reactions, while hydrogen adsorption and activation are usually not taken into account as critical steps in the reaction mechanism.
+Methods
+Chemicals
+The following chemicals were obtained from Sigma-Aldrich: cobalt acetate tetrahydrate, ammonium hydroxide solution (25% NH
+3
+in H
+2
+O) and CeZrO
+4
+, denoted as CZ (50:50 molar ratio) nanopowder.
+Preparation of CoCZ by strong electrostatic adsorption
+A series of CZ-based catalysts with different metal loadings were prepared using a wet impregnation method
+14
+. For this purpose, the desired amount of cobalt acetate was dissolved in 50 ml of deionized water. The suspension obtained by the addition of 2 g of nanocrystalline CZ was stirred for 2 h, followed by removal of water by evaporation. Catalysts were dried at 110 °C in air overnight and then calcined at 350 °C for 4 h. Before catalytic activity tests, catalysts were reduced at 225–500 °C in H
+2
+for 4 h. Catalysts reduced at different temperatures are denoted as
+x
+Co
+y
+, where
+x
+is Co loading and
+y
+reduction temperature.
+Sol-gel synthesis of single-atom CoCZ
+To obtain a solid solution of CoCZ (Co-doped CZ solid solution), a synthesis procedure reported by Yuan et al.
+42
+was modified. In a typical synthesis, 0.8 g of Pluronic P123 (Sigma-Aldrich) and the desired ratio of Ce(NO
+3
+)
+3
+⋅
+6H
+2
+O (Sigma-Aldrich), ZrOCl
+2
+⋅
+8H
+2
+O (Sigma-Aldrich) and Co(NO
+3
+)
+2
+⋅
+6H
+2
+O (total amount of Co, Ce and Zr was 5 mmol) were added to 16 ml of ethanol. After stirring for at least 2 h at room temperature, the homogeneous sol was transferred to an oven at 40 °C. After 48 h of ageing, the gel product was dried at 100 °C for 24 h. Calcination was carried out in air by slowly increasing the temperature from room temperature to 500 °C at a rate of 1 °C min
+−1
+, followed by a dwell of 4 h at 500 °C.
+Cobalt nanoparticles supported on SiO
+2
+Small cobalt nanoparticles were synthesized using wetness impregnation with a cobalt (tris)ethyleneamine precursor. Catalysts were dried at 110 °C in air overnight and then pyrolysed in a helium flow at 350 °C for 4 h. Before catalytic activity tests, catalysts were reduced at 300–500 °C in H
+2
+for 4 h.
+Characterization
+The characterization methods used in this work are largely those described in our previous study of fully reduced cobalt in CoCZ catalysts
+14
+.
+The crystalline structure of catalysts was determined by recording X-ray diffraction (XRD) patterns with a Bruker D2 Phaser diffractometer using Cu Kα-radiation. Particle size was estimated with the Scherrer equation. Reduced samples were transferred to the sample holder via a glovebox then placed in an XRD sample holder and covered with Kapton tape.
+Metal content was determined using inductively coupled plasma optical emission spectrometry with a Spectro CIROS CCD spectrometer. Before measurement, samples were dissolved in a 1.0:2.75 (by weight) mixture of (NH
+4
+)
+2
+SO
+4
+:(concentrated):H
+2
+SO
+4
+(concentrated) and diluted with water.
+Hydrogen temperature-programmed reduction (TPR) experiments were performed with a Micromeritics Autochem II 2920 instrument. Typically, 100 mg of catalyst was loaded in a tubular quartz reactor. The sample was reduced in 4 vol% H
+2
+in N
+2
+at a flow rate of 50 ml min
+−1
+while heating from room temperature to 600 °C at a rate of 10 °C min
+−1
+.
+Transmission electron microscopy (TEM) images were acquired with a Tecnai 20 transmission electron microscope (FEI, now Thermo Fisher Scientific) equipped with a LaB
+6
+filament and operated at an acceleration voltage of 200 kV. Calcined catalysts were prepared by dropping a suspension of finely ground material in analytical-grade absolute ethanol onto Quantifoil R 1.2/1.3 holey carbon films supported on a Cu grid (200 mesh). TEM images were recorded on a 4k × 4k CCD camera. Reduced catalysts were transferred to an Ar-filled glovebox and dispersed in dry n-hexane and a few droplets were placed on Cu TEM grids, which were then transported in a GATAN vacuum transfer holder (no. CHVT3007; Supplementary Fig.
+1
+).
+The morphology and nanoscale distribution of elements in samples were studied using STEM–energy-dispersive X-ray spectroscopy (STEM–EDX). Measurements were carried out on a FEI cubed Cs-corrected Titan operating at 300 kV. Calcined samples were crushed, sonicated in ethanol and dispersed on a holey Cu support grid. Reduced catalysts were passivated before sample preparation. Elemental analysis was carried out with an Oxford Instruments EDX detector X-Max
+N
+100TLE.
+Both ex and in situ STEM–EELS measurements and annular dark field STEM (ADF-STEM) imaging were carried out using an aberration-corrected Thermo Fisher Scientific Titan Cubed electron microscope, operating at 300 kV and equipped with an energy monochromator. The monochromator was excited to a value of 1.2 to achieve optimal energy resolution for EELS, giving a FWHM value of 120 meV when measured at zero-loss peak. A probe convergence semi-angle of 16 mrad was used. The gas and heating cell holder (Climate G+, DENSsolutions) comprises two chips functionalized with electron-transparent SiNx windows, forming a ‘nanoreactor’ inside the TEM column
+43
+. The thickness of the window membrane was approximately 50 nm (bottom window) and 30 nm (top window). The temperature of the sample was accurately controlled via a four-point probe method. For in situ studies, the catalyst was reduced in the nanoreactor for 4 h in a flow consisting of 5 vol% H
+2
+in He and at temperatures of 300 and 500 °C. To minimize the effect of the electron beam during EELS line scans on Co-containing nanoparticles, the electron dose was reduced by limiting the beam intensity. Measurements were performed at atmospheric pressure.
+Carbon monoxide and H
+2
+chemisorption measurements were carried out using a Micromeritics ASAP 2010C instrument. Before each measurement, samples were dried in a vacuum at 110 °C then subsequently heated in flowing H
+2
+at a rate of 10 °C min
+1
+to the final reduction temperature of 275–500 °C. A reduction time of 4 h was used, after which samples were evacuated for 60 min at a temperature  20 °C higher than the reduction temperature. The CO and H
+2
+adsorption isotherms were measured at 30 and 150 °C, respectively. CO:Co and H
+2
+:Co ratios at zero pressure were determined by extrapolation of the linear part of the first isotherm. Particle size estimations are based on the assumption of hemispherical geometry, assuming CO:Co
+s
+and H:Co
+s
+adsorption stoichiometry of 1.5 and 1.0, respectively (Co
+s
+refers to metallic Co surface sites).
+X-ray photoelectron spectroscopy was performed on a Thermo Scientific K-alpha equipped with a monochromatic small-spot X-ray source and 180° double-focusing hemispherical analyser with a 128-channel detector. For a typical sample preparation, fresh catalyst was pressed on carbon tape supported by an aluminium sample plate. Spectra were recorded using an Al Kα X-ray source (1,486.6 eV, 72 W) and a spot size of 400 µm. Survey scans were taken at a constant pass energy of 200, 0.5 eV step size and region scans at 50 eV constant pass energy with a step size of 0.1 eV. Binding energies of the Co 2
+p
+and Ce 3
+d
+regions were corrected to the U’’ component of the Ce 3
+d
+line with a characteristic position of 916.7 eV (refs.
+44
+,
+45
+,
+46
+).
+Quasi-in situ XPS
+Reduction of CoCZ catalysts under mild conditions was studied by quasi-in situ XPS using a Kratos AXIS Ultra 600 spectrometer equipped with a monochromatic Al Kα X-ray source (Al Kα energy, 1,486.6 eV). Survey and detailed region scans were recorded at pass energy of 160 and 40 eV, respectively, with a step size of 0.1 eV. Background pressure during measurements was <5 × 10
+−6
+mbar. A high-temperature reaction cell (Kratos, WX-530) was used to pretreat the sample, which was supported on an alumina stub. This set-up allowed pretreatment in different gases and in vacuo sample transfer into the XPS measurement chamber. Reduction was performed in 10% H
+2
+in Ar flow (50 ml min
+1
+) at atmospheric pressure and 300 °C for 4 h. After reduction the sample was cooled to 150 °C and subsequently transferred to the measurement chamber. Energy calibration was performed using the Ce 3d peak at 916.7 eV of the CeZrO
+4
+support, whose position is independent of reduction degree.
+Synchrotron-based NAP-XPS
+Measurements were carried out on a commercial SPECS PHOIBOS 150 NAP energy analyser at the CIRCE beamline of the ALBA synchrotron light source. The CIRCE beamline is an undulator beamline with a photon energy range of 100–2,000 eV. XPS measurements at pressures up to ~20 mbar are possible owing to a differential pumping system, which separates the electron analyser from the reaction area. The beam spot size at the sample was 100 × 65 μm
+2
+. The angle between the sample normal and photon beam was 75° and that between the sample normal and analyser axes was 40°. The gas supply to the reaction chamber consisted of calibrated mass-flow controllers, providing a total flow of 20 ml min
+−1
+. Reaction pressure was maintained using a primary pump directly connected to the analysis chamber and a manual valve. All gases used were of high purity (99.999%). Sample temperature was controlled using an IR laser (
+λ
+= 808 nm) focused on a stainless steel plate, on top of which the samples were mounted. The temperature was monitored during all experiments with a K-type thermocouple in direct contact with the samples. A standard residual gas analyser (QMS) located in the differential pumping stage of the analyser allowed monitoring of the activity of the catalyst treated in the reaction chamber during recording of XPS spectra. The total acquisition time of the survey spectrum, O 1
+s
+, C 1
+s
+, Ce 3
+d
+and Co 2
+p
+regions was around 60–70 min. A pass energy of 10 eV was typically used for high-resolution spectra (20 eV for survey), with a step size of 0.1 eV and a dwell time of 0.5 s. The binding energies of the Co 2
+p
+and Ce 3
+d
+regions were corrected to the U’’ component of the Ce 3d line with a characteristic position of 916.7 eV (refs.
+44
+,
+45
+,
+46
+). The position and shape of this peak is independent of atomic ratio of Ce
+3+
+to Ce
+4+
+(providing that Ce
+4+
+can be detected), allowing reliable energy calibration of photoelectron spectra under different reaction conditions. All spectra are presented as recorded, meaning that no normalization or other manipulations were performed.
+X-ray absorption near-edge structure spectroscopy
+The oxidation state of the Co phase was studied during catalyst reduction using X-ray absorption near-edge structure spectroscopy. Measurements were performed at the Co K-edge (7.7 keV) in transmission mode at beamline B18 of the Diamond Light Source. The energy was selected with a Si(111) monochromator. Energy calibration was performed using a Co foil (
+E
+0
+= 7.709 KeV). The photon flux of the incoming and outgoing X-ray beam was determined using two ionization chambers. The obtained X-ray absorption spectra were background subtracted and normalized using Athena software. Linear combination fitting of operando data was performed using three independently recorded reference spectra, of Co foil, CoO and Co
+3
+O
+4
+powders. In a typical experiment, around 15 mg of catalyst sample diluted with boron nitride was placed in a tubular quartz reactor as previously described
+47
+. Catalysts were reduced in this operando cell by heating at a rate of 10 °C min
+−1
+to 550 °C, followed by an isothermal dwell of 20 min in a flow of 10 vol% H
+2
+in He at a total flow rate of 50 ml min
+1
+.
+Fourier-transform IR spectroscopy
+Infrared spectra were recorded on a Bruker Vertex 70 v Fourier-transform IR (FTIR) spectrometer equipped with a DTGS detector. The experiments were performed in situ using a home-built environmental transmission IR cell. Self-supporting pellets were made by pressing approximately 12 mg of sample in a disk of diameter 13 mm. Each spectrum was collected by averaging 64 scans at a resolution of 2 cm
+−1
+in the range 4,000–1,000 cm
+−1
+. Samples were reduced in a 10% H
+2
+/He mixture at different temperatures in the range 275–500 °C for 4 h after heating at a rate of 10 °C min
+1
+. For all samples, background was subtracted and intensity normalized to the weight of the pellet.
+CO adsorption at 50 °C
+For CO adsorption experiments the samples were outgassed at a temperature 20 °C higher than the reduction temperature before cooling in a vacuum to 50 °C. IR spectra were recorded as a function of CO partial pressure in the range 0–10 mbar.
+CO adsorption at liquid nitrogen temperature
+For CO adsorption experiments the samples were outgassed at a temperature 20 °C higher than the reduction temperature before cooling in a vacuum to 50 °C. IR spectra were recorded as a function of CO partial pressure in the range 0–10 mbar.
+Operando FTIR
+For steady-state measurements following reduction, samples were cooled in a 10% H
+2
+/He mixture to reaction temperature before exposure to a 2.5% CO
+2
+/10% H
+2
+/87.5% He mixture (total flow, 200 ml min
+1
+). For transient experiments after reduction, samples were exposed to gas mixtures H
+2
+/He,
+12
+CO
+2
+/He,
+12
+CO
+2
+/H
+2
+/He and
+13
+CO
+2
+/H
+2
+/He while recording IR spectra every 0.8 or 15 s. For all samples, the background was subtracted and intensity normalized to the weight of the pellet.
+Propylene hydrogenation with parahydrogen
+The reaction was carried out in a stainless steel reactor (outside diameter 1/4'') in which 50 mg of CoCZ catalyst (sieve fraction 125–250 µm) was placed between two pieces of fibreglass tissue (Supplementary Fig.
+2
+). The reactor was heated with a tube furnace. Before reaction experiments, catalysts were reduced at 300 or 500 °C in a flow of 5 vol% H
+2
+in Ar for 4 h (30 ml min
+1
+). The reaction feed for propylene hydrogenation consisted of propylene and hydrogen in a 1:4 ratio. Hydrogen was enriched in parahydrogen up to 85% using a Bruker Parahydrogen Generator BPHG-90. The gas flow rate was controlled using an Aalborg rotameter and was frequently interrupted to acquire stopped-flow spectra for conversion calculation. The reactor effluent was led through a NMR tube placed inside the NMR spectrometer. Samples were characterized under the condition adiabatic longitudinal transport after dissociation engenders net alignment
+48
+, where the reaction is conducted in the Earth’s magnetic field and reaction products are subsequently transferred to the NMR spectrometer for detection.
+1
+H NMR spectra were acquired on a 300 MHz Bruker AV 300 NMR spectrometer using a π/2 rf pulse. All experiments were performed at atmospheric pressure. The NMR signal enhancement factor (
+SE
+) is calculated as the ratio between the integral of the signal of hyperpolarized propylene and that of the corresponding signal of thermally polarized propylene.
+H
+2
+–D
+2
+exchange
+Experiments were performed to evaluate the ability of the catalyst to active hydrogen. We compared the performance of 1% and 10% CoCZ with a bare CZ support. After reduction, samples were cooled to 200 °C and exposed to a mixture of H
+2
+/D
+2
+/Ar (1:1:48, 50 ml min
+1
+). The signals of hydrogen (
+m
+/
+z
+= 2), deuterium (
+m
+/
+z
+= 4) and HD (
+m
+/
+z
+= 3) were monitored online using mass spectrometry. The turnover frequency (TOF) of HD formation was determined by normalization of the rate to the amount of metallic cobalt sites obtained from CO chemisorption.
+CO
+2
+hydrogenation
+Measurements were performed in a ten-tube parallel microflow reactor. Samples were pressed, sieved and crushed and the fraction between 125 and 250 µm was used. Each quartz reactor was filled with 50 mg of sample diluted with 200 mg of SiC of the same sieve fraction. The obtained mixture was enclosed between two quartz wool plugs. The reaction was performed at atmospheric pressure. Before reaction, catalysts were reduced in situ in a flow consisting of 10 vol% H
+2
+in He (total flow rate of 50 ml min
+−1
+per reactor tube) whilst heating from room temperature to 500 °C at a rate of 10 °C min
+1
+, followed by an isothermal dwell of 4 h. After cooling to reaction temperature in the same flow, the pretreatment gas was replaced by a feed consisting of 5 vol% CO
+2
+and 20 vol% H
+2
+in He (total flow rate of 50 ml min
+1
+). The temperature was increased in steps of 25 °C at a rate of 5 °C min
+1
+. When the target temperature was reached, a period of 20 min was allowed for stabilization after which the effluent gas was analysed by online gas chromatography with an Interscience Compact GC equipped with Plot (TCD) and Molsieve (TCD) columns.
+DFT calculations
+Spin-polarized DFT calculations were performed with the Vienna Ab Initio Simulation Package
+49
+,
+50
+. The projector-augmented wave method was used to describe electron–ion interactions
+51
+. To account for the effect of the exchange–correlation and onsite Coulomb interaction, the Perdew–Burke–Ernzerhof functional
+52
+with Hubbard +
+U
+correction was used. Here,
+U
+= 4.1 eV for Co was chosen based on previous studies
+53
+. The cut-off energy for the plane-wave basis set was 400 eV. Geometry optimizations were assumed converged when Hellmann–Feynman forces acting on atoms were <0.05 eV Å
+1
+. For the cobalt oxide support we constructed a CoO(111) slab model with 4 × 4 unit cell and six atomic layers. The top three layers were relaxed while the bottom three were frozen to the configuration of the bulk. To mimic a large cobalt nanoparticle on the support, the stable Co(111) surface with a 3 × 3 unit cell and four atomic layers was constructed. The top two layers were relaxed while the bottom two were frozen. To study the catalytic properties of cobalt oxide-supported single-atom or cobalt clusters, we considered as structural models a single-Co atom (Co
+1
+) and Co clusters with four (Co
+4
+), six (Co
+6
+) and eight (Co
+8
+) Co atoms supported on CoO(111). A vacuum thickness of 15 Å was used, to avoid spurious interactions of adsorbates between neighbouring supercells. For Brillouin zone integration, a 3 × 3 × 1 Monkhorst–Pack
+k
+-point was adopted for the above unit cells. Vibrational stretching frequencies of adsorbed CO were computed using mass-weighted normal mode analysis under harmonic approximation. The forces obtained from VASP calculations were used to construct the relevant Hessian matrix. Vibrational frequencies were extracted from these matrices as eigenvalues.
+Data availability
+All data are available from the corresponding author upon reasonable request. Coordinates of optimized structures used for DFT modelling are contained in Supplementary Data
+1
+.
+References
+Yang, X. F. et al. Single-atom catalysts: a new frontier in heterogeneous catalysis.
+Acc. Chem. Res.
+46
+, 1740–1748 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, L. & Corma, A. Metal catalysts for heterogeneous catalysis: from single atoms to nanoclusters and nanoparticles.
+Chem. Rev.
+118
+, 4981–5079 (2018).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Somorjal, G. A. & Carrazza, J. Structure sensitivity of catalytic reactions.
+Ind. Eng. Chem. Fundam.
+25
+, 63–69 (1986).
+Article
+Google Scholar
+Van Santen, R. A. Complementary structure sensitive and insensitive catalytic relationships.
+Acc. Chem. Res.
+42
+, 57–66 (2009).
+Article
+PubMed
+Google Scholar
+Honkala, K. et al. Ammonia synthesis from first-principles calculations.
+Science
+307
+, 555–558 (2005).
+Article
+CAS
+PubMed
+Google Scholar
+Dahl, S. et al. Role of steps in N
+2
+activation on Ru(0001).
+Phys. Rev. Lett.
+83
+, 1814–1817 (1999).
+Article
+Google Scholar
+Bezemer, G. L. et al. Cobalt particle size effects in the Fischer–Tropsch reaction studied with carbon nanofiber supported catalysts.
+J. Am. Chem. Soc.
+128
+, 3956–3964 (2006).
+Article
+CAS
+PubMed
+Google Scholar
+Vogt, C. et al. Unravelling structure sensitivity in CO
+2
+hydrogenation over nickel.
+Nat. Catal.
+1
+, 127–134 (2018).
+Article
+CAS
+Google Scholar
+van den Berg, R. et al. Structure sensitivity of Cu and CuZn catalysts relevant to industrial methanol synthesis.
+Nat. Commun.
+7
+, 13057 (2016).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Crampton, A. S. et al. Structure sensitivity in the nonscalable regime explored via catalysed ethylene hydrogenation on supported platinum nanoclusters.
+Nat. Commun.
+7
+, 10389 (2016).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Vogt, C., Kranenborg, J., Monai, M. & Weckhuysen, B. M. Structure sensitivity in steam and dry methane reforming over nickel: activity and carbon formation.
+ACS Catal.
+10
+, 1428–1438 (2020).
+Article
+CAS
+Google Scholar
+Vogt, C., Monai, M., Kramer, G. J. & Weckhuysen, B. M. The renaissance of the Sabatier reaction and its applications on Earth and in space.
+Nat. Catal.
+2
+, 188–197 (2019).
+Article
+CAS
+Google Scholar
+den Breejen, J. P. et al. On the origin of the cobalt particle size effects in Fischer−Tropsch catalysis.
+J. Am. Chem. Soc.
+131
+, 7197–7203 (2009).
+Article
+Google Scholar
+Parastaev, A. et al. Boosting CO
+2
+hydrogenation via size-dependent metal–support interactions in cobalt/ceria-based catalysts.
+Nat. Catal.
+3
+, 526–533 (2020).
+Article
+CAS
+Google Scholar
+Cargnello, M. et al. Control of metal nanocrystal size reveals metal–support interface role for ceria catalysts.
+Science
+341
+, 771–773 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Ye, T. N. et al. Vacancy-enabled N
+2
+activation for ammonia synthesis on an Ni-loaded catalyst.
+Nature
+583
+, 391–395 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Fu, Q., Saltsburg, H. & Flytzani-Stephanopoulos, M. Active nonmetallic Au and Pt species on ceria-based water-gas shift catalysts.
+Science
+301
+, 935–938 (2003).
+Article
+CAS
+PubMed
+Google Scholar
+Zhai, Y. et al. Alkali-stabilized Pt–OH
+x
+species catalyze low-temperature water-gas shift reactions.
+Science
+329
+, 1633–1636 (2010).
+Article
+CAS
+PubMed
+Google Scholar
+Melaet, G. et al. Evidence of highly active cobalt oxide catalyst for the Fischer–Tropsch synthesis and CO
+2
+hydrogenation.
+J. Am. Chem. Soc.
+136
+, 2260–2263 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Zhao, K. et al. Unraveling and optimizing the metal–metal oxide synergistic effect in a highly active Co
+x
+(CoO)
+1−
+x
+catalyst for CO2 hydrogenation.
+J. Energy Chem
+53
+, 241–250 (2020).
+Article
+Google Scholar
+ten Have, I. C. et al. Uncovering the reaction mechanism behind CoO as active phase for CO
+2
+hydrogenation.
+Nat. Commun
+.
+13
+, 324 (2022).
+Shin, H. K., Nam, I. S., Lee, J. S., Chung, J. S. & Moon, S. H. Catalytic properties of partially reduced cobalt wire in CO hydrogenation.
+Korean J. Chem. Eng.
+13
+, 54–59 (1996).
+Article
+CAS
+Google Scholar
+Ra, E. C. et al. Recycling carbon dioxide through catalytic hydrogenation: recent key developments and perspectives.
+ACS Catal.
+10
+, 11318–11345 (2020).
+Article
+CAS
+Google Scholar
+Tang, H. et al. Classical strong metal–support interactions between gold nanoparticles and titanium dioxide.
+Sci. Adv.
+3
+, e1700231 (2017).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Matsubu, J. C., Yang, V. N. & Christopher, P. Isolated metal active site concentration and stability control catalytic CO
+2
+reduction selectivity.
+J. Am. Chem. Soc.
+137
+, 3076–3084 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Cao, S. et al. High-loading single Pt atom sites [Pt–O(OH)
+x
+] catalyze the CO PROX reaction with high activity and selectivity at mild conditions.
+Sci. Adv.
+6
+, 3809–3826 (2020).
+Article
+Google Scholar
+DeRita, L. et al. Catalyst architecture for stable single atom dispersion enables site-specific spectroscopic and reactivity measurements of CO adsorbed to Pt atoms, oxidized Pt clusters, and metallic Pt clusters on TiO
+2
+.
+J. Am. Chem. Soc.
+139
+, 14150–14165 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Weststrate, C. J., van de Loosdrecht, J. & Niemantsverdriet, J. W. Spectroscopic insights into cobalt-catalyzed Fischer–Tropsch synthesis: a review of the carbon monoxide interaction with single crystalline surfaces of cobalt.
+J. Catal.
+342
+, 1–16 (2016).
+Article
+CAS
+Google Scholar
+Wang, F. et al. Active site dependent reaction mechanism over Ru/CeO
+2
+catalyst toward CO
+2
+methanation.
+J. Am. Chem. Soc.
+138
+, 6298–6305 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Aldana, P. A. U. et al. Catalytic CO
+2
+valorization into CH
+4
+on Ni-based ceria–zirconia. Reaction mechanism by operando IR spectroscopy.
+Catal. Today
+215
+, 201–207 (2013).
+Article
+CAS
+Google Scholar
+Lin, S. S.-Y., Daimon, H. & Ha, S. Y. Co/CeO
+2
+–ZrO
+2
+catalysts prepared by impregnation and coprecipitation for ethanol steam reforming.
+Appl. Catal. A
+366
+, 252–261 (2009).
+Article
+CAS
+Google Scholar
+Vayssilov, G. N., Mihaylov, M., Petkov, P. S., Hadjiivanov, K. I. & Neyman, K. M. Reassignment of the vibrational spectra of carbonates, formates, and related surface species on ceria: a combined density functional and infrared spectroscopy investigation.
+J. Phys. Chem. C
+115
+, 23435–23454 (2011).
+Article
+CAS
+Google Scholar
+Daturi, M. et al. Study of bulk and surface reduction by hydrogen of Ce
+x
+Zr
+1
+–
+x
+O
+2
+mixed oxides followed by FTIR spectroscopy and magnetic balance.
+J. Phys. Chem. B
+103
+, 4884–4891 (1999).
+Article
+CAS
+Google Scholar
+Wang, X., Shi, H. & Szanyi, J. Controlling selectivities in CO
+2
+reduction through mechanistic understanding.
+Nat. Commun.
+8
+, 513 (2017).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Tuxen, A. et al. Size-dependent dissociation of carbon monoxide on cobalt nanoparticles.
+J. Am. Chem. Soc.
+135
+, 2273–2278 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Bowers, C. R. & Weitekamp, D. P. Parahydrogen and synthesis allow dramatically enhanced nuclear alignment.
+J. Am. Chem. Soc.
+109
+, 5541–5542 (1987).
+Article
+CAS
+Google Scholar
+Corma, A., Salnikov, O. G., Barskiy, D. A., Kovtunov, K. V. & Koptyug, I. V. Single-atom gold catalysis in the context of developments in parahydrogen-induced polarization.
+Chemistry
+21
+, 7012–7015 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Pokochueva, E. V., Burueva, D. B., Salnikov, O. G. & Koptyug, I. V. Heterogeneous catalysis and parahydrogen-induced polarization.
+ChemPhysChem
+22
+, 1421–1440 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Kovtunov, K. V. et al. Catalytic hydrogenation with parahydrogen: a bridge from homogeneous to heterogeneous catalysis.
+Pure Appl. Chem.
+92
+, 1029–1046 (2020).
+Article
+CAS
+Google Scholar
+Galhardo, T. S. et al. Optimizing active sites for high CO selectivity during CO
+2
+hydrogenation over supported nickel catalysts.
+J. Am. Chem. Soc.
+143
+, 4268–4280 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Yuan, Q. et al. Ordered mesoporous Ce
+1−
+x
+Zr
+x
+O
+2
+solid solutions with crystalline walls.
+J. Am. Chem. Soc.
+129
+, 6698–6699 (2007).
+Article
+CAS
+PubMed
+Google Scholar
+Altantzis, T. et al. Three-dimensional quantification of the facet evolution of Pt nanoparticles in a variable gaseous environment.
+Nano Lett.
+19
+, 477–481 (2018).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Artiglia, L. et al. Introducing time resolution to detect Ce
+3+
+catalytically active sites at the Pt/CeO
+2
+interface through ambient pressure X-ray photoelectron spectroscopy.
+J. Phys. Chem. Lett.
+8
+, 102–108 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Skála, T., Šutara, F., Prince, K. C. & Matolín, V. Cerium oxide stoichiometry alteration via Sn deposition: influence of temperature.
+J. Electron Spectros. Relat. Phenomena
+169
+, 20–25 (2009).
+Article
+Google Scholar
+Stadnichenko, A. I. et al. Study of active surface centers of Pt/CeO
+2
+catalysts prepared using radio-frequency plasma sputtering technique.
+Surf. Sci.
+679
+, 273–283 (2019).
+Article
+CAS
+Google Scholar
+Kosinov, N. et al. Confined carbon mediating dehydroaromatization of methane over Mo/ZSM-5.
+Angew. Chem. Int. Ed.
+57
+, 1016–1020 (2018).
+Article
+CAS
+Google Scholar
+Pravica, M. G. & Weitekamp, D. P. Net NMR alignment by adiabatic transport of parahydrogen addition products to high magnetic field.
+Chem. Phys. Lett.
+145
+, 255–258 (1988).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+Google Scholar
+Kresse, G. & Hafner, J. Ab initio molecular dynamics for liquid metals.
+Phys. Rev. B
+47
+, 558–561 (1993).
+Article
+Google Scholar
+Blöchl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953–17979 (1994).
+Article
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+PubMed
+Google Scholar
+Park, K. W. & Kolpak, A. M. Understanding photocatalytic overall water splitting on CoO nanoparticles: effects of facets, surface stoichiometry, and the CoO/water interface.
+J. Catal.
+365
+, 115–124 (2018).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This research was supported by the Applied and Engineering Sciences division of the Netherlands Organization for Scientific Research through the Alliander (now Qirion) Perspective programme on Plasma Conversion of CO
+2
+. We acknowledge Diamond Light Source for time on beamline B18 under proposal no. SP20715-1. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 823717 – ESTEEM3. S.B. acknowledges support from the European Research Council (ERC Consolidator Grant no. 815128 REALNANO) and T.A. acknowledges funding from the University of Antwerp Research fund (BOF). A.B. received funding from the European Union under grant agreement no. 823717 – ESTEEM3. The authors acknowledge funding through the Hercules grant (FWO, University of Antwerp) no. I003218N, ‘Infrastructure for imaging nanoscale processes in gas/vapour or liquid environments’. I.V.K., D.B.B. and E.V.P. acknowledge the Russian Ministry of Science and Higher Education (contract no. 075-15-2021-580) for financial support with parahydrogen-based studies. Experiments using synchrotron radiation XPS were performed at the CIRCE beamline at ALBA Synchrotron with the collaboration of ALBA staff. F. Oropeza Palacio and R. C. J. van de Poll are acknowledged for help with RPES measurements.
+Author information
+Author notes
+Deceased: Kirill V. Kovtunov.
+Authors and Affiliations
+Inorganic Materials and Catalysis, Eindhoven University of Technology, Eindhoven, the Netherlands
+Alexander Parastaev, Valery Muravev, Elisabet Huertas Osta, Tobias F. Kimpel, Jérôme F. M. Simons, Arno J. F. van Hoof, Evgeny Uslamin, Long Zhang, Job J. C. Struijs, Nikolay Kosinov & Emiel J. M. Hensen
+Laboratory of Magnetic Resonance Microimaging, International Tomography Center, Novosibirsk, Russia
+Dudari B. Burueva, Ekaterina V. Pokochueva, Kirill V. Kovtunov & Igor V. Koptyug
+Novosibirsk State University, Novosibirsk, Russia
+Dudari B. Burueva & Ekaterina V. Pokochueva
+ALBA Synchrotron Light Source, Cerdanyola del Vallès, Spain
+Ignacio J. Villar-Garcia & Carlos Escudero
+ELCAT, University of Antwerp, Wilrijk, Belgium
+Thomas Altantzis
+EMAT, University of Antwerp, Antwerp, Belgium
+Pei Liu, Armand Béché & Sara Bals
+Authors
+Alexander Parastaev
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Valery Muravev
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Elisabet Huertas Osta
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tobias F. Kimpel
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jérôme F. M. Simons
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Arno J. F. van Hoof
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Evgeny Uslamin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Long Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Job J. C. Struijs
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dudari B. Burueva
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ekaterina V. Pokochueva
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kirill V. Kovtunov
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Igor V. Koptyug
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ignacio J. Villar-Garcia
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Carlos Escudero
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Thomas Altantzis
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Pei Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Armand Béché
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sara Bals
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Nikolay Kosinov
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Emiel J. M. Hensen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+A.P. synthesized and characterized the set of ceria–zirconia samples (TPR, XRD and CO chemisorption and IR spectroscopy). A.P. and E.H.O. performed catalytic measurements. V.M., A.P. and N.K. performed in situ NAP-XPS and operando XAS measurements and interpreted the results. A.J.F.H. performed TEM measurements with an in situ holder. T.F.K. performed quasi-in situ XPS. J.F.M.S. and J.J.C.S. wrote the MATLAB script for rapid-scan FTIR measurements. A.P. and E.U. performed H
+2
+–D
+2
+exchange experiments. I.V.K., D.B.B. and E.V.P. performed and interpreted experiments with parahydrogen. T.A., P.L., A.B., S.B., A.P. and N.K. performed and interpreted in situ STEM–EELS experiments. A.P., V.M., N.K. and E.J.M.H. wrote the paper. All authors discussed the results and commented on the manuscript.
+Corresponding author
+Correspondence to
+Emiel J. M. Hensen
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks Jochen Lauterbach, Clifford Bowers and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–88, Notes 1–12, Tables 1–11, equation 1 and references.
+Supplementary Data
+Coordinates of optimized structures used for DFT modelling.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Parastaev, A., Muravev, V., Osta, E.H.
+et al.
+Breaking structure sensitivity in CO
+2
+hydrogenation by tuning metal–oxide interfaces in supported cobalt nanoparticles.
+Nat Catal
+5
+, 1051–1060 (2022). https://doi.org/10.1038/s41929-022-00874-4
+Download citation
+Received
+:
+09 December 2021
+Accepted
+:
+11 October 2022
+Published
+:
+17 November 2022
+Issue Date
+:
+November 2022
+DOI
+:
+https://doi.org/10.1038/s41929-022-00874-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

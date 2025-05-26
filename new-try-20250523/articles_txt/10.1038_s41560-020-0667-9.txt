@@ -1,0 +1,1786 @@
+Molecular engineering of dispersed nickel phthalocyanines on carbon nanotubes for selective CO2 reduction | Nature Energy
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature energy
+articles
+article
+Molecular engineering of dispersed nickel phthalocyanines on carbon nanotubes for selective CO
+2
+reduction
+Download PDF
+Article
+Published:
+10 August 2020
+Molecular engineering of dispersed nickel phthalocyanines on carbon nanotubes for selective CO
+2
+reduction
+Xiao Zhang
+1
+,
+2
+na1
+,
+Yang Wang
+1
+na1
+,
+Meng Gu
+ORCID:
+orcid.org/0000-0002-5126-9611
+1
+na1
+,
+Maoyu Wang
+3
+na1
+,
+Zisheng Zhang
+4
+,
+Weiying Pan
+1
+,
+Zhan Jiang
+1
+,
+Hongzhi Zheng
+1
+,
+Marcos Lucero
+ORCID:
+orcid.org/0000-0003-2231-6623
+3
+,
+Hailiang Wang
+ORCID:
+orcid.org/0000-0003-4409-2034
+5
+,
+6
+,
+George E. Sterbinsky
+7
+,
+Qing Ma
+8
+,
+Yang-Gang Wang
+ORCID:
+orcid.org/0000-0002-0582-0855
+4
+,
+Zhenxing Feng
+ORCID:
+orcid.org/0000-0001-7598-5076
+3
+,
+Jun Li
+4
+,
+9
+,
+Hongjie Dai
+ORCID:
+orcid.org/0000-0002-4906-4502
+2
+&
+…
+Yongye Liang
+ORCID:
+orcid.org/0000-0002-7416-8792
+1
+,
+10
+Show authors
+Nature Energy
+volume
+5
+,
+pages
+684–692 (
+2020
+)
+Cite this article
+30k
+Accesses
+54
+Altmetric
+Metrics
+details
+Subjects
+Electrocatalysis
+Electrochemistry
+Solar fuels
+Abstract
+Electrochemical reduction of CO
+2
+is a promising route for sustainable production of fuels. A grand challenge is developing low-cost and efficient electrocatalysts that can enable rapid conversion with high product selectivity. Here we design a series of nickel phthalocyanine molecules supported on carbon nanotubes as molecularly dispersed electrocatalysts (MDEs), achieving CO
+2
+reduction performances that are superior to aggregated molecular catalysts in terms of stability, activity and selectivity. The optimized MDE with methoxy group functionalization solves the stability issue of the original nickel phthalocyanine catalyst and catalyses the conversion of CO
+2
+to CO with >99.5% selectivity at high current densities of up to −300 mA cm
+−2
+in a gas diffusion electrode device with stable operation at −150 mA cm
+−2
+for 40 h. The well-defined active sites of MDEs also facilitate the in-depth mechanistic understandings from in situ/operando X-ray absorption spectroscopy and theoretical calculations on structural factors that affect electrocatalytic performance.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+The solvation environment of molecularly dispersed cobalt phthalocyanine determines methanol selectivity during electrocatalytic CO
+2
+reduction
+Article
+08 July 2024
+Molecular-scale CO spillover on a dual-site electrocatalyst enhances methanol production from CO
+2
+reduction
+Article
+18 February 2025
+Attenuating metal-substrate conjugation in atomically dispersed nickel catalysts for electroreduction of CO
+2
+to CO
+Article
+Open access
+14 October 2022
+Main
+Harvesting electricity from renewable energy sources and then using electrons to drive chemical transformations is an appealing scheme for sustainable production and regeneration of carbon-based chemicals and fuels
+1
+,
+2
+. Electrocatalysts are indispensable for enabling these transformations to afford lower energy losses and higher efficiencies
+3
+,
+4
+, and demand high activity and stability while based on earth-abundant elements
+5
+,
+6
+,
+7
+. However, developing such electrocatalysts still remains a major challenge
+8
+,
+9
+. For example, commonly used electrocatalysts for the carbon dioxide reduction reaction (CO
+2
+RR) to carbon monoxide, which could be readily incorporated to produce value-added chemicals
+10
+,
+11
+, still rely on noble metals such as gold
+12
+or silver
+13
+, especially for operations at high current densities. At current densities >150 mA cm
+−2
+, selectivities decreased below 90% (refs.
+14
+,
+15
+). Higher product selectivity is preferred to simplify product purification and enhance energy conversion efficiency
+16
+.
+Atomically dispersed transition metals embedded in nitrogen-doped carbon matrices (M–N–C) have recently emerged as competitive candidates for the CO
+2
+RR
+17
+,
+18
+. These M–N–C catalysts are generally synthesized by high-temperature pyrolysis and it is difficult to precisely control the structures of the active sites and further improve performance. Molecular complexes with nitrogen-coordinated metal centres (for example, metal phthalocyanine (MPc) and metal porphyrin) have attracted considerable interest as catalysts for the CO
+2
+RR because of their structural uniformity and tunability
+19
+,
+20
+,
+21
+,
+22
+. Cobalt phthalocyanine (CoPc) molecules were very recently reported to catalyse the CO
+2
+RR to CO at 50 mA cm
+−2
+for several hours with selectivities >95% in a zero-gap membrane flow reactor
+23
+. For most molecular catalysts in the heterogeneous form, catalytic performances are often limited by their aggregating and non-conducting nature, which leads to low reduction current densities
+24
+,
+25
+. Cobalt phthalocyanines and porphyrins were supported on conductive nanocarbon materials to afford higher current densities
+22
+,
+26
+,
+27
+,
+28
+, but this strategy has been less explored for designing molecules that contain other metals with well-defined active sites for CO
+2
+RR applications and/or mechanistic investigations
+29
+,
+30
+. Iron and nickel phthalocyanines were hybridized with carbon nanotubes for the CO
+2
+RR but showed inferior selectivities to their cobalt counterparts when operating under large overpotentials
+30
+.
+In this work we develop a series of molecularly dispersed electrocatalysts (MDEs) that are based on designed nickel phthalocyanine (NiPc) molecules, affording the CO
+2
+RR to CO with >99% selectivities and long-term stability at high current densities. These MDEs are constructed by supporting highly dispersed, non-aggregated NiPc molecules on multi-walled carbon nanotubes (MWCNTs, simplified as CNTs from here on). By engineering the pendant groups on phthalocyanine, a stable NiPc–OMe MDE with methoxy group functionalization is identified. NiPc–OMe MDE exhibits stable performance at −150 mA cm
+−2
+and 0.50 V overpotential with >99.5% selectivity to CO for 40 h in a gas diffusion electrode (GDE) device, which is more active, selective and stable than previous molecular electrocatalysts. The well-defined structures of these MDEs are also beneficial for mechanistic insight studies, facilitating the understanding of how molecular structures affect catalytic activity and stability.
+Molecular design and CO
+2
+RR performance of NiPc MDEs
+Ni–N–C catalysts prepared by pyrolysis were reported to drive a selective CO
+2
+RR to generate CO (refs.
+17
+,
+31
+,
+32
+,
+33
+,
+34
+). Different coordination environments of the nickel active sites (Ni–N
+x
+) were proposed
+17
+,
+33
+,
+34
+. NiPc is a large conjugated molecule that contains a Ni–N
+4
+moiety in the first coordination shell and has been reported as a moderate electrocatalyst for reducing CO
+2
+to CO (ref.
+35
+). We synthesized an electron-donating methoxy-group-substituted NiPc (nickel(
+ii
+) 2,9(10),16(17),23(24)-tetrakis(methoxy)phthalocyanine, NiPc–OMe) and an electron-withdrawing cyano-group-substituted NiPc (nickel(
+ii
+) 2,3,9,10,16,17,23,24-octacyano-phthalocyanine, NiPc–CN) to explore the role of pendant group functionalization of NiPc (see Fig.
+1a
+for molecular structures, see
+Methods
+and Supplementary Fig.
+1
+for details of synthesis and characterizations). We found that micrometre-sized aggregates were usually formed when NiPc was directly deposited on substrates by drop drying (Supplementary Fig.
+2
+)
+19
+, and the aggregating and low-conducting nature often afforded poor catalytic performance
+36
+. To overcome this problem, we anchored the original and substituted NiPc molecules onto the sidewalls of CNTs through
+π
+–
+π
+stacking to achieve a molecular dispersion of NiPcs on conducting CNT sidewalls (Fig.
+1a
+), which prevented molecular aggregation and facilitated efficient charge transfer to the active sites. The NiPc MDEs were made by ultrasonically mixing the respective
+N
+,
+N
+-dimethylformamide (DMF) suspensions of NiPc molecules and CNTs (see
+Methods
+for details), and the nickel loadings were all determined to be 0.76 ± 0.03 wt% by inductively coupled plasma–mass spectrometry.
+Fig. 1: Structure and CO
+2
+RR performance of NiPc MDEs.
+a
+, A schematic presentation of the NiPc MDEs with NiPc molecules anchored on the side-walls of CNTs. The inset shows the molecular structures of NiPc, NiPc–OMe and NiPc–CN.
+b
+, A
+Z
+-contrast HAADF-STEM image of NiPc–OMe MDE. The inset shows the EELS spectrum at the nickel L-edge of the circled bright spots. Scale bar, 2 nm.
+c
+, Linear sweep voltammetry of neat NiPc, P-NiNC, NiPc MDE, NiPc–OMe MDE and NiPc–CN MDE in CO
+2
+-saturated 0.5 M KHCO
+3
+electrolyte after activation. Scan rate, 5 mV s
+–1
+.
+d
+, FE(CO)s of NiPc–OMe MDE, NiPc MDE, NiPc–CN MDE and P-NiNC at different applied potentials. The error bars represent standard deviations of three measurements and the dashed lines are guides to the eye.
+e
+, Chronoamperometry of NiPc MDE at −0.68 V, NiPc–CN MDE at −0.56 V and NiPc–OMe MDE at −0.64 V. The stability of NiPc MDE and NiPc–CN MDE at high reduction currents is not ideal.
+Source data
+Full size image
+Well-dispersed molecules on the sidewalls of CNTs (outer diameters of ~12 nm) were observed in NiPc MDEs—free of observable aggregation of NiPcs, Supplementary Fig.
+3
+—by high-resolution aberration-corrected scanning transmission electron microscopy (STEM).
+Z
+-contrast high-angle annular dark field (HAADF) images exhibited isolated bright spots (size ~0.24 nm) on the CNT sidewalls (Fig.
+1b
+and Supplementary Fig.
+4
+), which were confirmed to be Ni
+2+
+from the nickel L-edge signal obtained by electron energy loss spectroscopy (EELS, Fig.
+1b
+inset). Energy-dispersive X-ray spectroscopy elemental mappings further supported that the nickel and nitrogen in the NiPc molecules were uniformly distributed on the CNTs (Supplementary Fig.
+5
+). These results confirmed molecular dispersion of original and substituted NiPcs that contain Ni–N
+4
+sites on the CNTs, which could serve as model Ni–N–C catalysts with well-defined structures.
+The NiPc MDEs were deposited on carbon fibre paper (CFP) substrates with a catalyst loading of 0.4 mg cm
+−2
+(0.03 mg cm
+−2
+of NiPc) before being measured in a gas-tight H-type cell for the CO
+2
+RR. All potentials were converted to versus reversible hydrogen electrode (RHE) with iR corrections. In a CO
+2
+-saturated 0.5 M KHCO
+3
+electrolyte, cathodic currents were observed from linear-sweep voltammetry with an onset potential (where the reduction current density reaches 0.1 mA cm
+−2
+) of −0.43 V using NiPc MDE (Fig.
+1c
+and Supplementary Fig.
+6
+). By contrast, neat NiPc (directly deposited on CFP from a DMF suspension without being supported on CNTs) with the same metal loading (0.03 mg cm
+−2
+of NiPc) showed no appreciable electrocatalytic activity, similar to blank CFP substrates (Supplementary Fig.
+7
+). Increasing the neat NiPc loading to 0.4 mg cm
+−2
+improved the activities, but they were still much lower than NiPc MDE (Supplementary Fig.
+7
+). The low activity of the neat NiPc electrodes can be attributed to the aggregation of the NiPc molecules (Supplementary Fig.
+2
+) and, consequently, fewer exposed active sites and inferior electron transport from the electrode to the active site to drive the reaction. Introducing electron-withdrawing cyano groups to prepare NiPc–CN MDE afforded a positive shift (50 mV) in the onset potential (Supplementary Fig.
+6
+) and improved CO
+2
+RR activities in comparison with those of NiPc MDE (Fig.
+1c
+). Although electron-donating methoxy-substituted NiPc–OMe MDE showed a slightly more negative onset potential (Supplementary Fig.
+6
+), its activities became higher than NiPc MDE at more negative potentials (Fig.
+1c
+).
+Chronoamperometric measurements were carried out at different potentials to obtain product distributions. Carbon monoxide was the only gaseous product from the CO
+2
+RR, with H
+2
+as the by-product from the hydrogen evolution reaction (HER). Faradaic efficiencies of CO and H
+2
+(FE(CO) and FE(H
+2
+), respectively) from NiPc MDEs were plotted in Fig.
+1d
+and Supplementary Fig.
+8
+. In the reduction current density range of ~1.5 to ~22 mA cm
+−2
+(where mass transport limitation of CO
+2
+is not important)
+37
+, FE(CO)s of the NiPc MDEs were greater than 96%, suggesting high CO selectivity of the CO
+2
+RR. Impressive FE(CO)s (>99%) were obtained with the NiPc–OMe MDE throughout the current density range (potential range of −0.54 to −0.68 V) (Fig.
+1d
+). To compare, we synthesized a pyrolysed Ni–N–C catalyst with atomically dispersed nickel (P-NiNC)
+33
+and observed lower reduction currents and lower FE(CO)s (for example, ~90% at −0.62 V) than the NiPc MDE under identical testing conditions (Fig.
+1c,d
+and Supplementary Fig.
+9
+). This was probably due to the competing HER active sites generated during high-temperature treatment of the pyrolysed catalyst
+18
+.
+The CO
+2
+RR stability by NiPc MDEs was also investigated by chronoamperometric measurements. The original NiPc MDE exhibited unstable electrocatalytic performance especially at high reduction current densities (Fig.
+1e
+and Supplementary Fig.
+10a
+). Note that the previously reported inferior FE(CO)s of NiPc hybridized with CNTs to the CoPc counterpart at more negative potentials (<−0.8 V versus RHE)
+30
+could be attributed to this fast deactivation of original NiPc at high reduction current densities. Similar decay was also observed in pyrolysed Ni–N–C catalysts
+17
+,
+31
+,
+32
+. The NiPc–CN MDE, although operated at lower overpotentials, still suffered from stability issues (Fig.
+1e
+and Supplementary Fig.
+10b
+). By contrast, the methoxy-substituted NiPc–OMe MDE exhibited much more stable CO
+2
+RR activities at reduction current densities of up to 22.3 mA cm
+−2
+(Fig.
+1e
+and Supplementary Fig.
+10c
+). These results showed that pendant group functionalization of NiPc molecules can tune the electrocatalytic activity, selectivity and stability of NiPc MDEs. Through molecular synthesis/screening and dispersing/anchoring on CNTs, we identified methoxy functionalized NiPc–OME MDE for an active, selective and stable CO
+2
+RR (Supplementary Table
+1
+).
+NiPc MDEs in GDEs
+To investigate high-current performance for the CO
+2
+RR electrolyser, we incorporated NiPc MDEs to fabricate GDEs (see Supplementary Fig.
+11
+for the experimental set-up and
+Methods
+for details). Gas diffusion electrodes benefit from the fast diffusion of CO
+2
+through the gas-phase to the catalyst (rather than through the electrolyte in conventional H-type cells) improving the mass transfer during the reaction and affording large operation currents (>150 mA cm
+−2
+) for the CO
+2
+RR
+6
+,
+38
+,
+39
+. The GDE cell included a vigorously stirred liquid electrolyte at the cathode compartment to ensure a well-mixed electrolyte and enable three-electrode measurements that would reveal the CO
+2
+RR performance of the catalysts. NiPc MDEs were coated on the microporous gas diffusion layers (GDLs) with a catalyst loading of 1.0 mg cm
+−2
+and 1.0 M KHCO
+3
+was used as the electrolyte. The GDE with NiPc–OMe MDE could be operated at current densities from −10 to −400 mA cm
+−2
+, with modest overpotentials (Fig.
+2a
+and Supplementary Fig.
+12a
+). Remarkably high FE(CO)s of >99.8% were obtained from −10 to −300 mA cm
+−2
+(see Fig.
+2b
+, Supplementary Fig.
+13
+and Supplementary Table
+2
+for performance summaries at various current densities). Note that polytetrafluoroethylene (PTFE) was incorporated into the catalyst layer to render hydrophobicity and enhance the diffusion of CO
+2
+to the active sites to achieve high reduction current densities (Supplementary Fig.
+14
+). Addition of PTFE to electrodes of neat MPcs slightly increased the CO
+2
+RR selectivity and overpotentials compared with electrodes that were prepared without PTFE, but stable operations at reduction current densities >100 mA cm
+−2
+still could not be achieved in both cases (Supplementary Fig.
+15
+), inferior to their MDE counterparts.
+Fig. 2: GDEs with NiPc MDEs.
+a
+, Carbon monoxide partial current of NiPc–OMe MDE, NiPc–CN MDE, NiPc–OMe and CoPc at different potentials in 1 M KHCO
+3
+electrolyte. The dashed lines are guides to the eye.
+b
+, FE(CO) of NiPc–OMe MDE, NiPc–OMe, CoPc and reported Ni–N/C (ref.
+41
+), carbonate-derived (CD) Ag/PTFE (ref.
+14
+), Ag (ref.
+42
+), MWNT/PyPBI/Au (ref.
+15
+) and Au/C (ref.
+40
+) catalysts at different total current densities. The error bars represent standard deviations of three measurements and the dashed lines are guides to the eye.
+c
+, Long-term operation of NiPc–OMe MDE at −150 mA cm
+−2
+.
+Source data
+Full size image
+The selective electrocatalysts for the CO
+2
+RR to CO reaction reported previously generally exhibited FE(CO)s of less than 97% at moderate current densities (see Supplementary Table
+3
+for a comparison with previous reports), and considerably lower selectivities at low and high current densities (Fig.
+2b
+)
+14
+,
+15
+,
+40
+,
+41
+,
+42
+. For example, the FE(CO)s of a pyrolysed Ni–N–C catalyst dropped to below 80% beyond 250 mA cm
+−2
+(ref.
+41
+), and a gold-based catalyst exhibited FE(CO)s below 83% and 90% at current densities <25 and >300 mA cm
+−2
+, respectively
+40
+. The high selectivities over a wide range of current densities obtained with NiPc–OMe MDE (FE(CO)s >99% from −10 to −400 mA cm
+−2
+) were enabled by the high intrinsic selectivities together with the well-defined structures of the Ni–N
+4
+sites, which is exceptional and unprecedented when compared with reported CO
+2
+RR-to-CO catalysts. Long-term operation at −150 mA cm
+−2
+with NiPc–OMe MDE showed stable potentials at around −0.61 V for 40 h and FE(CO)s of >99.5% were maintained during the whole process (Fig.
+2c
+). This performance was better than the reported FE(CO)s of ~90% with a carbonate-derived silver catalyst in 1 M KOH electrolyte (which required refreshing the electrolyte around every 20 h) for 100 h (ref.
+14
+) and decreasing FE(CO)s from ~88% to 80% in 20 h with a pyrolysed Ni–N–C catalyst
+41
+at similar current densities. At −400 mA cm
+−2
+, flooding of NiPc–OMe MDE electrodes by the electrolyte was observed, resulting in large fluctuation of the voltage and slight decrease of FE(CO)s to 99.1% in the 40 min measurement (Supplementary Fig.
+12a
+and Supplementary Table
+2
+). Prolonged operation at −400 mA cm
+−2
+resulted in electrode failure due to the flooding issue, which could be solved by improved design of GDE structures to enable stable operation at even higher current densities
+6
+. Although NiPc–CN MDE exhibited lower overpotentials than NiPc–OMe MDE at reduction current densities <200 mA cm
+−2
+(Fig.
+2a
+), its activities and selectivities decayed in less than 3 h at −150 mA cm
+−2
+(Supplementary Fig.
+16
+).
+The turnover frequency (TOF) of NiPc–OMe MDE at −150 mA cm
+−2
+was calculated to be 12 s
+−1
+(assuming that all of the nickel sites were electrocatalytically active), which, to the best of our knowledge, would be a record TOF value at similar current densities and much higher than the reported TOF of ~0.22 s
+−1
+with aggregated CoPc
+23
+. Although exhibiting slightly higher performance than neat NiPc-based molecules (Supplementary Figs.
+17–19
+, possibly due to better charge transport), neat CoPc tested at identical conditions was inferior to NiPc–OMe MDE (Fig.
+2a,b
+). Molecular modification of CoPc showed slight enhancement in performance, which could be operated at −75 mA cm
+−2
+for 10 h with increasing overpotentials
+43
+. Dispersing CoPc on CNTs to synthesize CoPc MDE also enhanced the activities compared to aggregated molecules (Supplementary Fig.
+20
+), but the product selectivity and stability was still inferior to NiPc–OMe MDE, showing that FE(CO)s decreased from ~97% to below 90% in 20 h at −150 mA cm
+−2
+(Supplementary Fig.
+21
+). With the high activities, selectivities and stabilities of NiPc–OMe MDE at large current densities, it could be readily incorporated into practical CO
+2
+RR electrolysers (Supplementary Table
+3
+).
+Mechanistic insights of NiPc MDEs
+Supporting NiPc molecules on CNTs allows for molecular dispersion of well-defined active sites for electrocatalysis and facilitates evolutions of the catalysts as the highly dispersed molecules are electrochemically accessible. Otherwise, it is difficult to eludicate the correlation between molecular structure and catalytic activities for aggregated heterogeneous molecular catalysts (as in neat NiPc, NiPc–OMe, NiPc–CN; Supplementary Fig.
+18
+). To understand how molecular engineering modulates the electrocatalytic properties of NiPc MDEs, we conducted in situ/operando X-ray absorption spectroscopy (XAS) measurements
+44
+,
+45
+and density functional theory (DFT) calculations to investigate the electronic structures and catalytic behaviours of NiPc MDEs.
+Cyclic voltammetries of NiPc MDEs were first performed in argon-saturated 0.1 M phosphate buffer (pH = 7.4) electrolyte to characterize the electrochemical behaviour of original and substituted NiPc MDEs without the impact from CO
+2
+RR intermediates. Two reduction peaks at −0.01 and −0.64 V were observed on NiPc MDE (Supplementary Fig.
+22
+). The second reduction peak of NiPc–CN MDE shifted positively to −0.22 V, whereas it shifted negatively to −0.69 V on NiPc–OMe MDE. Both the first and second reduction peaks of NiPc molecules were assigned to ligand reduction, in accordance with previous reports
+46
+. The occurrence of the second reduction peaks in our NiPc MDEs coincided with the onset of CO
+2
+RR activities, suggesting that the reduced NiPc molecules were responsible for them.
+The molecular dispersion of catalyst molecules in the MDEs provides an excellent platform to investigate the real active sites by in situ/operando XAS, as most of the metal centres with well-defined structures were electrochemically accessible. In situ X-ray absorption near-edge structure (XANES) spectra at the nickel K-edge of NiPc MDE showed a small shift of ~0.75 eV to lower energy in the rising edge region (~8,344 eV) when held at −0.68 V in argon-saturated 0.1 M phosphate buffer compared with those held at the open-circuit voltage (OCV) and at −0.37 V (Fig.
+3a
+), indicating that the first reduction was located on the phthalocyanine ligand, whereas the second reduction was partially on the nickel centres. Band edge shifts to lower energy were also observed at −0.37 and −0.72 V for NiPc–CN MDE and NiPc–OMe MDE, respectively (Fig.
+3a
+and Supplementary Fig.
+23
+). The partially reduced nickel centres from in situ XANES spectra (Supplementary Fig.
+23
+) and the positive/negative shifts of reduction peaks from cyclic voltammetry scans (Supplementary Fig.
+22
+) suggested that tuning of the nickel electron density with the introduction of electron-withdrawing/donating groups was successful.
+Fig. 3: In situ/operando XAS of NiPc MDEs.
+a
+, Normalized in situ nickel K-edge XANES spectra of NiPc MDE, NiPc–CN MDE and NiPc–OMe MDE in CO
+2
+-free (argon-saturated) 0.1 M phosphate buffer. The yellow arrows show the red-shift of edges, indicating reduction of the nickel centres upon applying cathodic bias.
+b
+, Normalized operando nickel K-edge XANES spectra of NiPc MDE, NiPc–CN MDE and NiPc–OMe MDE at OCV and potentials with initial current densities of around −1 (less negative potentials) and around −5 mA cm
+−2
+(more negative potentials) in CO
+2
+-saturated 0.5 M KHCO
+3
+.
+c
+, First derivatives of the spectra in
+b
+. The dashed lines show the peak positions of NiPc MDEs at the most negative measured potentials.
+Full size image
+NiPc MDEs were further characterized in CO
+2
+-saturated 0.5 M KHCO
+3
+electrolyte to gain information under the CO
+2
+RR condition. The XANES and its first derivative spectra of NiPc MDE showed slight band edge shift to lower energy (~8,346 eV) when the CO
+2
+RR was operated at −0.53 V (around −1 mA cm
+−2
+) and became more obvious at −0.68 V (around −5 mA cm
+−2
+) compared with that at OCV (Fig.
+3b,c
+), suggesting a partial reduction of the nickel centre. The pre-edge peak at ~8,336 eV (a signature of the square-planar Ni–N
+4
+structure in NiPc
+47
+) was weakened under both −0.53 V and −0.68 V, indicating structural distortion of the Ni–N
+4
+sites
+48
+. An additional component at ~1.9 Å (no phase correction) in the Fourier transforms of the extended X-ray absorption fine structure spectra (EXAFS-FT) was observed at −0.68 V (Supplementary Fig.
+24d
+), which was not observed from the same catalyst in the CO
+2
+-free phosphate buffer electrolyte at −0.68 V (Supplementary Fig.
+25
+). Quantitative fitting of the EXAFS spectra in R space suggested four Ni–N bonds (bond lengths of 1.91 Å) together with one new Ni–C bond at 2.06 Å under the CO
+2
+RR condition at −0.68 V (Supplementary Table
+4
+and Supplementary Fig.
+26
+). The new Ni–C bond can be assigned to adsorbed reaction intermediates on the nickel centres
+32
+. The ratio of the coordination numbers of the Ni–N and Ni–C bonds was ~4, indicating that most of the nickel centres had an adsorbed intermediate under the steady state of the CO
+2
+RR.
+A more profound change was found on NiPc–CN MDE operating at −0.58 V (around −5 mA cm
+−2
+). The pre-edge peak at ~8,336 eV disappeared and the first EXAFS-FT peak split into a doublet (Fig.
+3b
+and Supplementary Fig.
+24e
+), suggesting distortion from/decomposition of the Ni−N
+4
+structure during the CO
+2
+RR. Holding the electrode at the OCV after reaction only partially restored the spectral shape and the pre-edge peak compared with the fresh NiPc–CN MDE electrode (Supplementary Fig.
+24b
+), indicating an irreversible degradation of the nickel centres. Such decomposition could be the origin of instability of the NiPc MDE and NiPc–CN MDE catalysts (Supplementary Fig.
+27
+)
+49
+. By contrast, only slight changes in the oxidation state and coordination environment of the nickel centres were observed when holding NiPc–OMe MDE at −0.53 and −0.65 V, with current densities of approximately −1 and −5 mA cm
+−2
+, respectively (Fig.
+3b,c
+and Supplementary Fig.
+24c,f
+), indicating its resistance to structural changes. This is consistent with its better electrochemical stability.
+Kohn–Sham molecular orbital analysis revealed that the doubly degenerated lowest unoccupied molecular orbitals (LUMOs) of NiPc were mainly located on the phthalocyanine ligand with minor contribution from the nickel centre (Fig.
+4a
+and Supplementary Fig.
+28
+). Our theoretical results were consistent with the small change of nickel oxidation state observed in in-situ/operando XAS with the formation of reduced NiPc molecules. The LUMO energy level of NiPc shifted from −2.70 eV to −4.63 eV with the introduction of electron-withdrawing cyano groups, whereas it shifted positively to −2.40 eV with electron-donating methoxy groups (Fig.
+4a
+), agreeing with the observed order of reduction potentials from cyclic voltammetry scans. In addition, Mulliken population analysis indicated the creation of electron-rich and electron-deficient environments of nickel in NiPc–OMe and NiPc–CN compared to NiPc, respectively (Supplementary Fig.
+29
+).
+Fig. 4: DFT calculations of original and substituted NiPcs catalysing CO
+2
+RR.
+a
+, Calculated electron density distribution of the highest occupied molecular orbital (HOMO) and doubly degenerated LUMO/LUMO+1 of NiPc and the energy levels of HOMO and LUMO/LUMO+1 of NiPc-OMe, NiPc and NiPc–CN.
+b
+, Calculated free energy diagram of NiPc–CN H
+2
+, NiPc-H
+2
+and NiPc–OMe-H
+2
+catalysing CO
+2
+RR at −0.11 V versus RHE. Insets show the optimized configurations of intermediates with the NiPc-H
+2
+catalyst. White, hydrogen; grey, carbon; blue, nitrogen; red, oxygen; green, nickel.
+c
+, Ni–N bond orders of NiPc–OMe-H
+2
+, NiPc-H
+2
+and NiPc–CN-H
+2
+without and with adsorbed CO. NiPc–OMe shows the strongest Ni–N bond, which could enhance its stability in CO
+2
+RR.
+Full size image
+The Gibbs free energy diagram of the CO
+2
+RR on NiPc from DFT calculations showed that the adsorption of CO
+2
+on the active nickel centre was accompanied by a proton-coupled electron transfer step to generate *COOH, which was the rate-determining step. *COOH experienced a subsequent proton-coupled electron transfer step to form *CO and then desorbed to regenerate the free active site (Fig.
+4b
+). The reduction of NiPc, coupled with proton transfers to generate NiPc-H and NiPc-H
+2
+, markedly facilitated the rate-determining step due to the stabilization of *COOH, revealing the correlation between the formation of reduced NiPc catalysts and CO
+2
+RR activities (Supplementary Fig.
+30
+). Although NiPc–OMe-H
+2
+required the least energy to generate *COOH from the free energy diagram, NiPc–CN-H
+2
+was generated with the least negative potential and exhibited the highest initial activities in CO
+2
+RR
+50
+. To be specific, the overpotential needed to drive the reaction relied on the reduction of NiPc molecules rather than the free energy change of elementary steps with NiPc catalysts, indicating the limitations of interpreting the activities of molecular catalysts solely on the basis of the calculated free energy diagram. Furthermore, the calculated highly positive free energy change required for the formation of adsorbed hydrogen intermediate during the HER (Supplementary Fig.
+31
+) suggested the preferred high selectivities towards CO
+2
+RR of NiPc MDEs. In addition, the calculated Ni–C bond length of CO adsorbed on reduced NiPc (2.04 Å, Supplementary Fig.
+26c
+) was consistent with the new Ni–C bond (2.06 Å) observed from quantitative fitting of the EXAFS spectra of NiPc MDE under the CO
+2
+RR (Supplementary Table
+4
+).
+Analysis of Ni–N bond orders in NiPc molecules showed that NiPc–OMe possessed the strongest Ni–N bonds (Fig.
+4c
+), consistent with the resistance to structural changes during the CO
+2
+RR of NiPc–OMe MDE observed in operando XAS (Fig.
+3b
+). The strengthened Ni–N bonds and favoured CO desorption (Fig.
+4b
+) with methoxy substituents can synergistically enhance the electrochemical stability of NiPc–OMe MDE and make it a stable CO
+2
+RR catalyst.
+With the help of in situ/operando XAS and DFT calculations, knowledge of how ligand groups affect the properties of the active nickel centres was obtained. The electron-withdrawing CN groups decrease the electron density on the nickel centres, which facilitates the formation of a reduced active centre to enhance the electrocatalytic activities of NiPc–CN MDE at low overpotentials. But it still suffers from decaying activities due to structural instability at high overpotentials. By contrast with the electron-withdrawing CN groups, the electron-donating OMe groups enhance the Ni–N bond strength in the Ni–N
+4
+sites and accelerate CO desorption compared with the original NiPc MDE to improve the catalyst stability, a critical figure of merit for a practical CO
+2
+RR electrolyser. The OMe substitution also stabilizes the *COOH intermediate to further enhance the selectivity towards CO
+2
+RR over HER.
+Conclusions
+Molecular dispersion of NiPc molecules unlocked remarkable electrocatalytic properties for the CO
+2
+RR from molecular aggregates. With the fine-tuning of pendant groups on the phthalocyanine ligand, NiPc–OMe MDE exhibited FE(CO)s of >99.5% over a wide current density range of −10 to −300 mA cm
+−2
+and stable performance at the practically relevant −150 mA cm
+−2
+for 40 h. These results also emphasize that MDE cooperating with molecular engineering such as pendant group functionalization is a powerful strategy for designing affordable catalysts for critical electrochemical transformations.
+Methods
+Synthesis of NiPc–OMe
+The synthesis followed a two-step procedure with modifications
+51
+,
+52
+. 4-Nitrophthalonitrile (4 g) and 10 ml of methanol were added to 60 ml of DMF, followed by addition of potassium carbonate (K
+2
+CO
+3
+, 8 g). The reaction mixture was then heated to 70 °C and kept for 3 h with magnetic stirring and argon protection. The black mixture was then partitioned between water (150 ml) and dichloromethane (DCM, 150 ml). The aqueous phase was separated and extracted with DCM (200 ml × 3). The solvents of the combined organic phase were removed under reduced pressure and the product was purified by flash chromatography with DCM as the eluent to give 4-methoxyphthalonitrile (2.7 g, 73% yield). 4-Methoxyphthalonitrile (2.7 g) and nickel acetate tetrahydrate (1.35 g) were then added to a Schlenk flask equipped with a stir bar, followed by adding 50 ml of sulfolane. After several cycles of vacuum and refilling with argon, 1,8-diazabicyclo[5.4.0]undec-7-ene (0.6 ml) was added, followed by another three cycles of vacuum and refilling with argon. The reaction mixture was heated to 160 °C and kept for 10 h. The mixture was then precipitated from methanol (400 ml) and the collected solid was subjected to Soxhlet extraction. The solid was further extracted by DMF several times and the solvent of combined DMF solutions was removed to obtain NiPc–OMe (600 mg, 18% yield). Electrospray ionization mass spectrometry (
+m
+/
+z
+): 690.12458 (M
++
+). Analysis: C
+36
+H
+24
+O
+4
+N
+8
+Ni, 690.12685.
+Synthesis of NiPc–CN
+The synthesis followed a one-step procedure with modifications
+53
+. 1,2,4,5-Tetracyanobenzene (1.0 g) and nickel acetate tetrahydrate (0.4 g) were added to a Schlenk flask equipped with a stirring bar, followed by adding 20 ml of sulfolane. After several cycles of vacuum and refilling with argon, 1,8-diazabicyclo[5.4.0]undec-7-ene (0.2 ml) was added, followed by another three cycles of vacuum and refilling with argon. The reaction mixture was heated to 135 °C and kept for 6 h. The reaction mixture was precipitated from methanol (400 ml) and the collected solid was subjected to Soxhlet extraction. The solid was further extracted by DMF for several times and the solvent of combined DMF solutions was removed to yield NiPc–CN (410 mg, 38% yield). Electrospray ionization mass spectrometry (
+m
+/
+z
+): 770.04838 (M
++
+). Analysis: C
+40
+H
+8
+N
+16
+Ni, 770.04768.
+Preparation of MPc MDEs
+NiPc and CoPc were obtained from Alfa Aesar. To prepare MPc MDEs, 30 mg CNTs (C-Nano, FT 9000) were dispersed in 20 ml DMF by high-power sonication for 1 h (Xinzhi SB-5200D, 360 W). A calculated amount of the original or substituted NiPc/CoPc was dissolved in 10 ml DMF with high-power sonication and added to the CNT suspension. The mixed suspension was sonicated for another 30 min and stirred at room temperature for 24 h. NiPc has low solubility in DMF, and thus the high-power sonication step is important for mixing. The MPc MDE materials were separated by centrifuge and washed with DMF, ethanol and water (Milli-Q water with a resistivity of 18.2 MΩ cm at 25 °C was used throughout the experiments), followed by lyophilization to obtain the final products.
+Synthesis of P-NiNC
+The synthesis adopted a previous report with minor modifications
+33
+. Briefly, zinc nitrate hexahydrate (0.9 g) and nickel nitrate hexahydrate (0.9 g) were dissolved in 120 ml methanol. The solution was then mixed with 2-methylimidazole (2.0 g dissolved in 40 ml methanol) and stirred at room temperature for 18 h. The reaction mixture was centrifuged at 8,000 r.p.m. for 6 min to collect the precipitate, which was further washed with methanol three times and dried in a vacuum oven at 80 °C overnight. The solid was subjected to heat treatment at 1,000 °C (at a ramping rate of 5 °C min
+−1
+) in a tube furnace for 3 h under 100 sccm argon flow. The black power was used directly without any further treatments.
+Material characterizations
+Scanning transmission electron microscopy was performed on a double spherical-aberration-corrected FEI Themis G2 microscope at 60 kV with super-X energy-dispersive X-ray spectroscopy and a Quantum EELS spectrometer. Transmission electron microscopy was conducted with a FEI Tecnai G2 F30 transmission electron microscope. Scaning electron microscopy was conducted on a TESCAN MIRA3 LM model. Inductively coupled plasma–mass spectrometry was performed on an Agilent Technologies 7700 series instrument. High-resolution mass spectrometry was performed on a Q-Exactive. Ultraviolet–visible spectromotry was performed with a Shimadzu UV3600 spectrometer.
+Electrochemical measurements
+All electrochemical measurements were carried out with a CHI 760E potentiostat and a Bio-Logic VSP potentiostat (for impedance measurements). A three-electrode configuration was used for CO
+2
+RR measurements. All potentials were recorded against an Ag/AgCl (filled with saturated KCl solution) reference electrode and converted to versus RHE with
+iR
+corrections by the following equation:
+$$E_{\mathrm{RHE}} = E_{{\mathrm{Ag}}/{\mathrm{AgCl}}} + 0.0591 \times {\mathrm{pH}} + 0.197 - iR_{\rm{u}}$$
+where
+i
+is the average current and
+R
+u
+is the solution resistance.
+The gas outlet of the cathodic compartment was connected to an on-line gas chromatograph (SRI Instruments MG#3) with a gas-sampling loop (1 ml) for product quantification. The gas chromatograph was equipped with a packed molecular sieve 13X column and a HAYESEP-D column with N
+2
+(99.999%) as the carrier gas. A flame ionization detector with a methanizer was used to quantify the CO fraction, whereas a thermal conductivity detector was used to quantify the H
+2
+fraction. The Faradaic efficiencies of CO from the CO
+2
+RR were calculated with the gas fractions of CO referencing the peak areas of standard gas mixtures (0.5% CO); those of H
+2
+were calculated with gas fractions of H
+2
+referencing H
+2
+production with a platinum mesh electrode in 0.1 M HClO
+4
+electrolyte (Supplementary Fig.
+13
+); and those of CO and H
+2
+were obtained by the following equations:
+$${\mathrm{FE}} = \frac{{2gxpF}}{{iRT}}$$
+where
+g
+is the CO
+2
+flow rate,
+x
+is the fraction of CO or H
+2
+detected by GC,
+p
+is 101325 Pa,
+F
+is Faraday’s constant (96,487 C mol
+−1
+),
+i
+is the current measured by the potentiostat,
+R
+is the gas constant (8.314 J mol
+−1
+K
+−1
+) and
+T
+is 273.15 K.
+All current densities were calculated using the geometric area of the electrodes. Turnover frequencies were calculated on the basis of the catalyst loading on substrates and metal contents of catalysts, assuming that all metal sites were electrochemically accessible. This should be the lower limit of the real TOF values. The reported Faradaic efficiencies and TOFs are average values based on at least three measurements. The reported linear sweep voltammograms and chronoamperograms are representative data for these runs. The currents in chronoamperograms were recorded ~3 min after applying potentials to reach the steady state.
+The H-type cell set-up, comprising a gas-tight two-compartment electrochemical cell separated by an anion-exchange membrane (Selemion DSV), was described in detail previously
+22
+. To prepare the electrodes of MDEs, 100 μl catalyst ink (prepared by dispersing 2.0 mg catalyst in a mixture of 170 μl 0.5 wt% Nafion solution and 830 μl ethanol with the assistance of sonication) was drop-coated on CFP (Toray, TGP-H-060) to cover an active area of 0.5 × 1.0 cm
+2
+(loading: 0.4 mg cm
+−2
+). Neat NiPc electrodes were prepared by directly depositing from the DMF suspension on CFP to achieve the same metal loading as in the NiPc MDE electrode (0.03 mg cm
+−2
+) or a catalyst loading of 0.4 mg cm
+−2
+. A graphite rod and an Ag/AgCl electrode were used as the counter and reference electrodes, respectively; 0.5 M KHCO
+3
+solutions pre-saturated with CO
+2
+were used as electrolytes (35 ml of electrolyte in cathodic/anodic chambers with ~20 ml headspace). A high-purity CO
+2
+(99.999%) gas flow at 5 sccm was delivered into the cathodic compartment and kept during reaction. The electrodes were pre-scanned from 0 V to −1.5 V versus the Ag/AgCl reference electrode (without iR compensation) at 200 mV s
+−1
+for ~80 cycles or electrolysed at −1.5 mA cm
+−2
+for 40 min to activate catalysts. For EIS experiments, the catalyst ink was deposited on a glassy carbon electrode (5.0 mm in diameter) to achieve a loading of ~ 0.2 mg cm
+−2
+. Spectra were recorded at potentials where −0.5 mA cm
+−2
+current densities were achieved with that catalyst in the H-type cell with an amplitude of 5.0 mV and frequency range of 100 kHz to 0.01 Hz.
+A three-compartment (gas, cathodic and anodic chambers) home-made electrochemical cell (Supplementary Fig.
+11
+) was used to conduct three-electrode GDE experiments. The diameter of roundness window for electrolysis was set to 0.8 cm, yielding the active area of 0.50 cm
+2
+. To prepare the electrodes of MDEs, 8.0 mg of the catalyst material was dispersed in 3.6 ml ethanol with 16 μl 5.0 wt% Nafion solution and 400 μl 1.0 wt% PTFE solution (diluted from a 60 wt% stock solution with water) with sonication for 1 h. A certain amount of the catalyst ink was drop-coated on a 1.5 × 1.5 cm
+2
+gas diffusion layer (GDL, SGL25BC) with a 1.0 mg cm
+−2
+catalyst loading. The electrodes were then heated at 330 °C for 1 h under argon to remove the surfactant in the PTFE solution. To prepare electrodes with neat metal phthalocyanines, 2.0 mg of the molecules was dispersed in a mixture of 170 μl 0.5 wt% Nafion solution and 830 μl ethanol with the assistance of sonication and a certain amount of the catalyst ink was drop-coated on the 1.5 × 1.5 cm
+2
+GDL to achieve a 1.0 mg cm
+−2
+catalyst loading. A piece of copper tape or titanium foil was used as current collectors for the CO
+2
+RR cathodes. The side of cathodes with deposited catalysts faced the electrolyte. A graphite rod and an Ag/AgCl electrode (inserted in the cathodic chamber) were used as the counter and reference electrodes, respectively. The cathodic and anodic chambers were separated by an anion-exchange membrane (Selemion DSV); 1.0 M KHCO
+3
+pre-saturated with argon was used as the electrolyte. The electrolyte in the cathodic chamber (~20 ml) was vigorously stirred to minimize the thickness of the diffusion layer. Correction of iR drop (resistance of ~7 Ω) was applied to the measured potentials to extract the real working potentials of the CO
+2
+RR cathodes and eliminate the impact of GDE cell design to allow for comparison with other catalysts. To accurately quantify the Faradaic efficiencies of CO and H
+2
+under large reduction currents, argon was used as the carrier gas for gas chromatography to detect both CO and H
+2
+with the thermal conductivity detector to avoid the nonlinear response from flame ionization detector/methanizer to CO at high concentrations (>~1.5%). In addition, it is essential to consider the decrease of outlet gas flow rate caused by the neutralization of CO
+2
+with OH
+−
+generated during the cathodic reaction to eliminate the overestimation of gas fractions
+54
+. The reactions at the cathode can be written as:
+$${\mathrm{CO}}_2 + {\mathrm{H}}_2{\mathrm{O}} + 2\,e^ - \to {\mathrm{CO}} + 2\,{\mathrm{OH}}^ -$$
+$$2\,{\mathrm{CO}}_2 + 2\,{\mathrm{OH}}^ - \to 2\,{\mathrm{HCO}}_{3^ - }$$
+A high-purity CO
+2
+(99.999%) gas flow at 20 sccm was delivered into the gas chamber and went through the backside of cathode during reaction before entering the sample loop of GC. The electrodes were electrolysed at −10 mA cm
+−2
+for 40 min to activate catalysts. The electrodes were operated in constant-current mode (40 min for each current) to obtain the potentials and Faradaic efficiencies at different current densities. For electrodes exhibit unstable activities, the potentials were recorded at 20 min and injections to the gas chromatograph were made at the same time to analyse product distributions. Experiments using a three-compartment GDE cell with a 0.95 cm
+2
+active area and flowing electrolytes (100 ml 1.0 M KHCO
+3
+pre-saturated with argon recycling through the cathodic compartment by a peristaltic pump) gave similar results with the 0.5 cm
+2
+active area cell.
+In situ/operando XAS measurement
+In situ/operando XAS was performed at beamlines 5BM-D and 9-BM-B&C at the Advanced Photon Source of Argonne National Laboratory. The working electrodes were prepared by depositing 1.0 mg catalyst on a 2.5 × 1.5 cm
+2
+CFP (Toray, TGP-H-060) to form a 0.5 × 1.0 cm
+2
+active area. The working electrode, counter electrode (platinum) and reference electrode (Ag/AgCl) were mounted onto a custom-designed XAS fluorescence cell
+45
+,
+55
+. All of the electrochemical measurements were performed by a CHI 760E potentiostat. A Vortex ME4 detector was used to collect fluorescence signals at nickel K-edges. All XAS data analysis were performed with Athena and Artemis
+56
+to extract XANES and EXAFS information.
+Computational details
+All DFT calculations on metal phthalocyanine molecules in this study were performed using the Gaussian 09 program
+57
+. A PBE0 functional
+58
+with D3 correction (Becke–Johnson damping)
+59
+was adopted for its robustness and dispersion corrections, which make it widely accepted as the proper functional to study the reactions of transition metal complexes
+60
+. The Stuttgart–Dresden pseudopotential and double-ξ valence basis set were used for transition metal atoms (nickel)
+61
+. For all other main group elements (H, C, N, O), the all-electron 6–31G* basis set
+62
+,
+63
+,
+64
+was used. The geometric structures of all species were fully optimized. Harmonic vibrational frequencies were also computed, whose result showed that all reaction intermediates have no imaginary frequency. The gas-phase Gibbs free energies (
+G
+) of high- and low-spin forms of all intermediates,
+G
+, were calculated with the harmonic potential approximation at optimized structures at 298.15 K and 1 atm to determine the ground states in realistic conditions. These ground-state structures were then used in the mechanism study.
+Kohn–Sham molecular orbital analysis, Mayer bond order analysis, and atomic charge analysis by modified Mulliken atom population defined by Bickelhaupt were performed using Multiwfn software
+65
+,
+66
+,
+67
+,
+68
+. The 3D models of all reaction intermediates were visualized using the POV-Ray program
+69
+.
+The electrocatalytic mechanisms were studied based on Nørskov’s computational hydrogen electrode model. This model provides an efficient approach to study proton–electron transfer in electrocatalysis without treating solvated protons explicitly and is widely used in theoretical study of electrocatalysis
+70
+,
+71
+. In this technique, zero voltage was defined based on the potential energy (
+μ
+) of compotents involved in the reversible hydrogen electrode at all pH,
+T
+and
+p
+; therefore,
+\(\mu \left( {{\mathrm{H}}^ + } \right) + \mu \left( {e^ - } \right) = \frac{1}{2}\mu \left( {{\mathrm{H}}_2} \right)\)
+at a potential of 0 V. The effect of applied bias on a proton–electron transfer step is represented by adding a –
+eU
+term to the standard
+ΔG
+. The pathways adopted for CO
+2
+reduction to CO in this work are listed below (the asterisks represent the active sites):
+$$\ast + {\mathrm{CO}}_2 + {\mathrm{H}}^ + + e^ - \to \ast {\mathrm{COOH}}$$
+$$\ast {\mathrm{COOH}} + {\mathrm{H}}^ + + e^ - \to \ast {\mathrm{CO}} + {\mathrm{H}}_2{\mathrm{O}}$$
+$$\ast {\mathrm{CO}} \to \ast + {\mathrm{CO}}$$
+Data availability
+The authors declare that the main data supporting the findings of this study are available within the article, its
+Supplementary Information
+and source data.
+Source data
+are provided with this paper.
+References
+Lewis, N. S. & Nocera, D. G. Powering the planet: chemical challenges in solar energy utilization.
+Proc. Natl Acad. Sci. USA
+103
+, 15729–15735 (2006).
+Google Scholar
+Davis, S. J., Caldeira, K. & Matthews, H. D. Future CO
+2
+emissions and climate change from existing energy infrastructure.
+Science
+329
+, 1330–1333 (2010).
+Google Scholar
+Artero, V. & Fontecave, M. Solar fuels generation and molecular systems: is it homogeneous or heterogeneous catalysis?
+Chem. Soc. Rev.
+42
+, 2338–2356 (2013).
+Google Scholar
+Seh, Z. W. et al. Combining theory and experiment in electrocatalysis: insights into materials design.
+Science
+355
+, eaad4998 (2017).
+Google Scholar
+Gao, S. et al. Partially oxidized atomic cobalt layers for carbon dioxide electroreduction to liquid fuel.
+Nature
+529
+, 68–71 (2016).
+Google Scholar
+Dinh, C.-T. et al. CO
+2
+electroreduction to ethylene via hydroxide-mediated copper catalysis at an abrupt interface.
+Science
+360
+, 783–787 (2018).
+Google Scholar
+Fei, H. et al. General synthesis and definitive structural identification of MN
+4
+C
+4
+single-atom catalysts with tunable electrocatalytic activities.
+Nat. Catal.
+1
+, 63–72 (2018).
+Google Scholar
+Kortlever, R., Shen, J., Schouten, K. J. P., Calle-Vallejo, F. & Koper, M. T. M. Catalysts and reaction pathways for the electrochemical reduction of carbon dioxide.
+J. Phys. Chem. Lett.
+6
+, 4073–4082 (2015).
+Google Scholar
+Zheng, T., Jiang, K. & Wang, H. Recent advances in electrochemical CO
+2
+-to-CO conversion on heterogeneous catalysts.
+Adv. Mater.
+30
+, 1802066 (2018).
+Google Scholar
+De Luna, P. et al. What would it take for renewably powered electrosynthesis to displace petrochemical processes?
+Science
+364
+, eaav3506 (2019).
+Google Scholar
+Jiao, F. et al. Selective conversion of syngas to light olefins.
+Science
+351
+, 1065–1068 (2016).
+Google Scholar
+Chen, Y., Li, C. W. & Kanan, M. W. Aqueous CO
+2
+reduction at very low overpotential on oxide-derived Au nanoparticles.
+J. Am. Chem. Soc.
+134
+, 19969–19972 (2012).
+Google Scholar
+Liu, M. et al. Enhanced electrocatalytic CO
+2
+reduction via field-induced reagent concentration.
+Nature
+537
+, 382–386 (2016).
+Google Scholar
+Dinh, C.-T., García de Arquer, F. P., Sinton, D. & Sargent, E. H. High rate, selective, and stable electroreduction of CO
+2
+to CO in basic and neutral media.
+ACS Energy Lett.
+3
+, 2835–2840 (2018).
+Google Scholar
+Verma, S. et al. Insights into the low overpotential electroreduction of CO
+2
+to CO on a supported gold catalyst in an alkaline flow electrolyzer.
+ACS Energy Lett.
+3
+, 193–198 (2018).
+Google Scholar
+Jhong, H.-R. M., Ma, S. & Kenis, P. J. A. Electrochemical conversion of CO
+2
+to useful chemicals: current status, remaining challenges, and future opportunities.
+Curr. Opin. Chem. Eng.
+2
+, 191–199 (2013).
+Google Scholar
+Zhao, C. et al. Ionic exchange of metal–organic frameworks to access single nickel sites for efficient electroreduction of CO
+2
+.
+J. Am. Chem. Soc.
+139
+, 8078–8081 (2017).
+Google Scholar
+Ju, W. et al. Understanding activity and selectivity of metal-nitrogen-doped carbon catalysts for electrochemical reduction of CO
+2
+.
+Nat. Commun.
+8
+, 944 (2017).
+Google Scholar
+Lieber, C. M. & Lewis, N. S. Catalytic reduction of carbon dioxide at carbon electrodes modified with cobalt phthalocyanine.
+J. Am. Chem. Soc.
+106
+, 5033–5034 (1984).
+Google Scholar
+Costentin, C., Drouet, S., Robert, M. & Savéant, J.-M. A local proton source enhances CO
+2
+electroreduction to CO by a molecular Fe catalyst.
+Science
+338
+, 90–94 (2012).
+Google Scholar
+Lin, S. et al. Covalent organic frameworks comprising cobalt porphyrins for catalytic CO
+2
+reduction in water.
+Science
+349
+, 1208–1213 (2015).
+Google Scholar
+Zhang, X. et al. Highly selective and active CO
+2
+reduction electrocatalysts based on cobalt phthalocyanine/carbon nanotube hybrid structures.
+Nat. Commun.
+8
+, 14675 (2017).
+Google Scholar
+Ren, S. et al. Molecular electrocatalysts can mediate fast, selective CO
+2
+reduction in a flow cell.
+Science
+365
+, 367–369 (2019).
+Google Scholar
+Zhu, M., Ye, R., Jin, K., Lazouski, N. & Manthiram, K. Elucidating the reactivity and mechanism of CO
+2
+electroreduction at highly dispersed cobalt phthalocyanine.
+ACS Energy Lett.
+3
+, 1381–1386 (2018).
+Google Scholar
+Jiang, Z. et al. Revealing the hidden performance of metal phthalocyanines for CO
+2
+reduction electrocatalysis by hybridization with carbon nanotubes.
+Nano Res
+.
+12
+, 2330–2334 (2019).
+Hu, X.-M., Rønne, M. H., Pedersen, S. U., Skrydstrup, T. & Daasbjerg, K. Enhanced catalytic activity of cobalt porphyrin in CO
+2
+electroreduction upon immobilization on carbon materials.
+Angew. Chem. Int. Ed.
+56
+, 6468–6472 (2017).
+Google Scholar
+Zhu, M. et al. Covalently grafting cobalt porphyrin onto carbon nanotubes for efficient CO
+2
+electroreduction.
+Angew. Chem. Int. Ed.
+58
+, 6595–6599 (2019).
+Google Scholar
+Choi, J. et al. Steric modification of a cobalt phthalocyanine/graphene catalyst to give enhanced and stable electrochemical CO
+2
+reduction to CO.
+ACS Energy Lett.
+4
+, 666–672 (2019).
+Google Scholar
+Maurin, A. & Robert, M. Noncovalent immobilization of a molecular iron-based electrocatalyst on carbon electrodes for selective, efficient CO
+2
+-to-CO conversion in water.
+J. Am. Chem. Soc.
+138
+, 2492–2495 (2016).
+Google Scholar
+Wu, Y., Jiang, Z., Lu, X., Liang, Y. & Wang, H. Domino electroreduction of CO
+2
+to methanol on a molecular catalyst.
+Nature
+575
+, 639–642 (2019).
+Google Scholar
+Li, X. et al. Exclusive Ni–N
+4
+sites realize near-unity CO selectivity for electrochemical CO
+2
+reduction.
+J. Am. Chem. Soc.
+139
+, 14889–14892 (2017).
+Google Scholar
+Yang, H. B. et al. Atomically dispersed Ni(
+i
+) as the active site for electrochemical CO
+2
+reduction.
+Nat. Energy
+3
+, 140–147 (2018).
+Google Scholar
+Yan, C. et al. Coordinatively unsaturated nickel–nitrogen sites towards selective and high-rate CO
+2
+electroreduction.
+Energy Environ. Sci.
+11
+, 1204–1210 (2018).
+Google Scholar
+Jiang, K. et al. Isolated Ni single atoms in graphene nanosheets for high-performance CO
+2
+reduction.
+Energy Environ. Sci.
+11
+, 893–903 (2018).
+Google Scholar
+Sorokin, A. B. Phthalocyanine metal complexes in catalysis.
+Chem. Rev.
+113
+, 8152–8191 (2013).
+Google Scholar
+Zhang, Z. et al. Reaction mechanisms of well-defined metal–N
+4
+sites in electrocatalytic CO
+2
+reduction.
+Angew. Chem. Int. Ed.
+57
+, 16339–16342 (2018).
+Google Scholar
+Clark, E. L. et al. Standards and protocols for data acquisition and reporting for studies of the electrochemical reduction of carbon dioxide.
+ACS Catal.
+8
+, 6560–6570 (2018).
+Google Scholar
+Weekes, D. M., Salvatore, D. A., Reyes, A., Huang, A. & Berlinguette, C. P. Electrolytic CO
+2
+reduction in a flow cell.
+Acc. Chem. Res.
+51
+, 910–918 (2018).
+Google Scholar
+Higgins, D., Hahn, C., Xiang, C., Jaramillo, T. F. & Weber, A. Z. Gas-diffusion electrodes for carbon dioxide reduction: a new paradigm.
+ACS Energy Lett.
+4
+, 317–324 (2019).
+Google Scholar
+Yin, Z. et al. An alkaline polymer electrolyte CO
+2
+electrolyzer operated with pure water.
+Energy Environ. Sci.
+12
+, 2455–2462 (2019).
+Google Scholar
+Möller, T. et al. Efficient CO
+2
+to CO electrolysis on solid Ni–N–C catalysts at industrial current densities.
+Energy Environ. Sci.
+12
+, 640–647 (2019).
+Google Scholar
+Kutz, R. B. et al. Sustainion imidazolium-functionalized polymers for carbon dioxide electrolysis.
+Energy Technol.
+5
+, 929–936 (2017).
+Google Scholar
+Wang, M. et al. CO
+2
+electrochemical catalytic reduction with a highly active cobalt phthalocyanine.
+Nat. Commun.
+10
+, 3602 (2019).
+Google Scholar
+Wu, Y. et al. Electroreduction of CO
+2
+catalyzed by a heterogenized Zn–porphyrin complex with a redox-innocent metal center.
+ACS Cent. Sci.
+3
+, 847–852 (2017).
+Google Scholar
+Weng, Z. et al. Active sites of copper-complex catalytic materials for electrochemical carbon dioxide reduction.
+Nat. Commun.
+9
+, 415 (2018).
+Google Scholar
+Rollmann, L. D. & Iwamoto, R. T. Electrochemistry, electron paramagnetic resonance, and visible spectra of cobalt, nickel, copper, and metal-free phthalocyanines in dimethyl sulfoxide.
+J. Am. Chem. Soc.
+90
+, 1455–1463 (1968).
+Google Scholar
+Chen, L. X. et al. Capturing a photoexcited molecular structure through time-domain X-ray absorption fine structure.
+Science
+292
+, 262–264 (2001).
+Google Scholar
+Yamamoto, T. Assignment of pre-edge peaks in K-edge X-ray absorption spectra of 3
+d
+transition metal compounds: electric dipole or quadrupole?
+X-ray Spectrom.
+37
+, 572–584 (2008).
+Google Scholar
+Froehlich, J. D. & Kubiak, C. P. The homogeneous reduction of CO
+2
+by [Ni(cyclam)]
++
+: increased catalytic rates with the addition of a CO scavenger.
+J. Am. Chem. Soc.
+137
+, 3565–3573 (2015).
+Google Scholar
+Costentin, C. & Savéant, J.-M. Towards an intelligent design of molecular electrocatalysts.
+Nat. Rev. Chem.
+1
+, 0087 (2017).
+Google Scholar
+Kim, S.-J., Matsumoto, M. & Shigehara, K. Synthesis and electrical properties of poly(μ-1,4-diisocyanobenzene) octacyanophthalocyaninatoiron(
+ii
+).
+Synth. Met.
+107
+, 27–33 (1999).
+Google Scholar
+Yslas, E. I., Rivarola, V. & Durantini, E. N. Synthesis and photodynamic activity of zinc(
+ii
+) phthalocyanine derivatives bearing methoxy and trifluoromethylbenzyloxy substituents in homogeneous and biological media.
+Bioorg. Med. Chem.
+13
+, 39–46 (2005).
+Google Scholar
+Kim, S.-J., Matsumoto, M. & Shigehara, K. Synthesis and electrical properties of one-dimensional octacyanometallophthalocyanine (M≡Fe, Co) polymers.
+J. Porphyr. Phthalocyanines
+04
+, 136–144 (2000).
+Google Scholar
+Ma, M. et al. Insights into the carbon balance for CO
+2
+electroreduction on Cu using gas diffusion electrode reactor designs.
+Energy Environ. Sci.
+13
+, 977–985 (2020).
+Google Scholar
+Wang, M., Árnadóttir, L., Xu, Z. J. & Feng, Z. In situ X-ray absorption spectroscopy studies of nanoscale electrocatalysts.
+Nano-Micro Lett.
+11
+, 47 (2019).
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+Google Scholar
+Frisch, M. J. et al.
+Gaussian 09
+(Gaussian, 2009).
+Adamo, C. & Barone, V. Toward reliable density functional methods without adjustable parameters: the PBE0 model.
+J. Chem. Phys.
+110
+, 6158–6170 (1999).
+Google Scholar
+Grimme, S., Ehrlich, S. & Goerigk, L. Effect of the damping function in dispersion corrected density functional theory.
+J. Comput. Chem.
+32
+, 1456–1465 (2011).
+Google Scholar
+Steinmetz, M. & Grimme, S. Benchmark study of the performance of density functional theory for bond activations with (Ni,Pd)-based transition-metal catalysts.
+ChemistryOpen
+2
+, 115–124 (2013).
+Google Scholar
+Andrae, D., Häußermann, U., Dolg, M., Stoll, H. & Preuß, H. Energy-adjusted
+ab initio
+pseudopotentials for the second and third row transition elements.
+Theor. Chim. Acta
+77
+, 123–141 (1990).
+Google Scholar
+Hariharan, P. C. & Pople, J. A. The influence of polarization functions on molecular orbital hydrogenation energies.
+Theor. Chim. Acta
+28
+, 213–222 (1973).
+Google Scholar
+Gordon, M. S. The isomers of silacyclopropane.
+Chem. Phys. Lett.
+76
+, 163–168 (1980).
+Google Scholar
+Binning, R. & Curtiss, L. Compact contracted basis sets for third-row atoms: Ga–Kr.
+J. Comput. Chem.
+11
+, 1206–1216 (1990).
+Google Scholar
+Hirshfeld, F. L. Bonded-atom fragments for describing molecular charge densities.
+Theor. Chim. Acta
+44
+, 129–138 (1977).
+Google Scholar
+Lu, T. & Chen, F. Calculation of molecular orbital composition.
+Acta Chim. Sinica
+69
+, 2393–2406 (2011).
+Google Scholar
+Mayer, I. Charge, bond order and valence in the AB initio SCF theory.
+Chem. Phys. Lett.
+97
+, 270–274 (1983).
+Google Scholar
+Lu, T. & Chen, F. Multiwfn: A multifunctional wavefunction analyzer.
+J. Comput. Chem.
+33
+, 580–592 (2012).
+Google Scholar
+Buck, D. & Collins, A.
+Persistence of Vision Raytracer 3.6
+(Persistence of Vision, 2004).
+Chan, K. & Nørskov, J. K. Electrochemical barriers made simple.
+J. Phys. Chem. Lett.
+6
+, 2663–2668 (2015).
+Google Scholar
+Peterson, A. A., Abild-Pedersen, F., Studt, F., Rossmeisl, J. & Nørskov, J. K. How copper catalyzes the electroreduction of carbon dioxide into hydrocarbon fuels.
+Energy Environ. Sci.
+3
+, 1311–1315 (2010).
+Google Scholar
+Download references
+Acknowledgements
+Y.L. acknowledges financial support from Shenzhen fundamental research funding (grant no. JCYJ20160608140827794) and Guangdong-Hong Kong-Macao Joint Laboratory for Photonic-Thermal-Electrical Energy Materials and Devices (grant no. 2019B121205001). H.W. acknowledges funding support from the US National Science Foundation (grant no. CHE-1651717). Z.F. thanks the start-up support from Oregon State University. Y.-G.W. acknowledges financial supports from Guangdong Provincial Key Laboratory of Catalysis (grant no. 2020B121201002). J.L. is supported by National Natural Science Foundation of China (grant nos. 21590792, 91426302 and 21433005). The computational resource is supported from the Center for Computational Science and Engineering (SUSTech) and Tsinghua National Laboratory for Information Science and Technology. TEM, MS and ICP data were obtained using equipment maintained by SUSTech Core Research Facilities. We acknowledge the technical support from R. Rosenberg at 4-ID, Advanced Photon Source (APS) of Argonne National Laboratory (ANL). XAS measurements were performed at 9-BM and DND-CAT 5-BM. The use of APS of ANL is supported by Department of Energy under contract no. DE-AC02-06CH11357. DND-CAT is supported through E. I. duPont de Nemours and Company, Northwestern University and The Dow Chemical Company.
+Author information
+Author notes
+These authors contributed equally: Xiao Zhang, Yang Wang, Meng Gu, Maoyu Wang.
+Authors and Affiliations
+Department of Materials Science and Engineering, Southern University of Science and Technology, Shenzhen, China
+Xiao Zhang, Yang Wang, Meng Gu, Weiying Pan, Zhan Jiang, Hongzhi Zheng & Yongye Liang
+Department of Chemistry, Stanford University, Stanford, CA, USA
+Xiao Zhang & Hongjie Dai
+School of Chemical, Biological, and Environmental Engineering, Oregon State University, Corvallis, OR, USA
+Maoyu Wang, Marcos Lucero & Zhenxing Feng
+Department of Chemistry, Guangdong Provincial Key Laboratory of Catalysis, Southern University of Science and Technology, Shenzhen, China
+Zisheng Zhang, Yang-Gang Wang & Jun Li
+Department of Chemistry, Yale University, New Haven, CT, USA
+Hailiang Wang
+Energy Sciences Institute, Yale University, West Haven, CT, USA
+Hailiang Wang
+Advanced Photon Source, Argonne National Laboratory, Argonne, IL, USA
+George E. Sterbinsky
+DND-CAT, Synchrotron Research Center, Northwestern University, Evanston, IL, USA
+Qing Ma
+Department of Chemistry, Tsinghua University, Beijing, China
+Jun Li
+Guangdong-Hong Kong-Macao Joint Laboratory for Photonic-Thermal-Electrical Energy Materials and Devices, Southern University of Science and Technology, Shenzhen, China
+Yongye Liang
+Authors
+Xiao Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yang Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Meng Gu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Maoyu Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zisheng Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Weiying Pan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhan Jiang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hongzhi Zheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Marcos Lucero
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hailiang Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+George E. Sterbinsky
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qing Ma
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yang-Gang Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhenxing Feng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jun Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hongjie Dai
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yongye Liang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Y.L. and X.Z. conceived the project and designed the experiments. X.Z., Y.W., W.P. and Z.J. carried out the synthesis, material characterizations and electrochemical measurements. M.G. carried out the STEM characterizations. M.W., G.E.S., H.Z., M.L., Q.M. and Z.F. carried out the XAS characterizations. Z.Z., Y.-G.W. and J.L. performed the DFT calculations. Y.L., X.Z., H.W. and H.D. analysed the data. Y.L., X.Z. and H.D. prepared the manuscript with input from all the authors. All authors discussed the results and commented on the manuscript.
+Corresponding authors
+Correspondence to
+Yang-Gang Wang
+,
+Zhenxing Feng
+or
+Yongye Liang
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–31, Tables 1–4 and refs. 1–15.
+Source data
+Source Data Fig. 1
+Statistical source data for Fig. 1.
+Source Data Fig. 2
+Statistical source data for Fig. 2.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Zhang, X., Wang, Y., Gu, M.
+et al.
+Molecular engineering of dispersed nickel phthalocyanines on carbon nanotubes for selective CO
+2
+reduction.
+Nat Energy
+5
+, 684–692 (2020). https://doi.org/10.1038/s41560-020-0667-9
+Download citation
+Received
+:
+17 November 2019
+Accepted
+:
+06 July 2020
+Published
+:
+10 August 2020
+Issue Date
+:
+September 2020
+DOI
+:
+https://doi.org/10.1038/s41560-020-0667-9
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Energy
+(
+Nat Energy
+)
+ISSN
+2058-7546
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

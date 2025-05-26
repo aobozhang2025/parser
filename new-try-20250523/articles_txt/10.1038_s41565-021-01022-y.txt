@@ -1,0 +1,1625 @@
+Scalable two-step annealing method for preparing ultra-high-density single-atom catalyst libraries | Nature Nanotechnology
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature nanotechnology
+articles
+article
+Scalable two-step annealing method for preparing ultra-high-density single-atom catalyst libraries
+Download PDF
+Article
+Published:
+25 November 2021
+Scalable two-step annealing method for preparing ultra-high-density single-atom catalyst libraries
+Xiao Hai
+ORCID:
+orcid.org/0000-0002-7631-9769
+1
+na1
+,
+Shibo Xi
+ORCID:
+orcid.org/0000-0002-8521-3237
+2
+na1
+,
+Sharon Mitchell
+ORCID:
+orcid.org/0000-0002-3933-2913
+3
+na1
+,
+Karim Harrath
+4
+,
+5
+na1
+,
+Haomin Xu
+ORCID:
+orcid.org/0000-0003-3704-1810
+1
+,
+Dario Faust Akl
+3
+,
+Debin Kong
+6
+,
+Jing Li
+ORCID:
+orcid.org/0000-0002-5627-4153
+1
+,
+Zejun Li
+1
+,
+Tao Sun
+1
+,
+Huimin Yang
+ORCID:
+orcid.org/0000-0003-4949-0787
+1
+,
+Yige Cui
+1
+,
+Chenliang Su
+ORCID:
+orcid.org/0000-0002-8453-1938
+7
+,
+Xiaoxu Zhao
+ORCID:
+orcid.org/0000-0001-9746-3770
+8
+,
+Jun Li
+ORCID:
+orcid.org/0000-0002-8456-3980
+4
+,
+5
+,
+Javier Pérez-Ramírez
+ORCID:
+orcid.org/0000-0002-5805-7355
+3
+&
+…
+Jiong Lu
+ORCID:
+orcid.org/0000-0002-3690-8235
+1
+,
+9
+,
+10
+Show authors
+Nature Nanotechnology
+volume
+17
+,
+pages
+174–181 (
+2022
+)
+Cite this article
+46k
+Accesses
+42
+Altmetric
+Metrics
+details
+Subjects
+Nanoscience and technology
+Other nanotechnology
+A
+Publisher Correction
+to this article was published on 04 March 2022
+This article has been
+updated
+Abstract
+The stabilization of transition metals as isolated centres with high areal density on suitably tailored carriers is crucial for maximizing the industrial potential of single-atom heterogeneous catalysts. However, achieving single-atom dispersions at metal contents above 2 wt% remains challenging. Here we introduce a versatile approach combining impregnation and two-step annealing to synthesize ultra-high-density single-atom catalysts with metal contents up to 23 wt% for 15 metals on chemically distinct carriers. Translation to a standardized, automated protocol demonstrates the robustness of our method and provides a path to explore virtually unlimited libraries of mono- or multimetallic catalysts. At the molecular level, characterization of the synthesis mechanism through experiments and simulations shows that controlling the bonding of metal precursors with the carrier via stepwise ligand removal prevents their thermally induced aggregation into nanoparticles. The drastically enhanced reactivity with increasing metal content exemplifies the need to optimize the surface metal density for a given application. Moreover, the loading-dependent site-specific activity observed in three distinct catalytic systems reflects the well-known complexity in heterogeneous catalyst design, which now can be tackled with a library of single-atom catalysts with widely tunable metal loadings.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+A single-atom library for guided monometallic and concentration-complex multimetallic designs
+Article
+23 May 2022
+General negative pressure annealing approach for creating ultra-high-loading single atom catalyst libraries
+Article
+Open access
+06 July 2024
+Site-specific electrodeposition enables self-terminating growth of atomically dispersed metal catalysts
+Article
+Open access
+11 September 2020
+Main
+Improving the atom economy of chemical transformations and ensuring the maximal utilization of scarce catalytic materials are central targets for sustainable chemistry
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
+6
+. Heterogeneous single-atom catalysts (SACs), integrating monodisperse atomic metal centres with tailorable coordination environments, demonstrate the potential to fulfil both of these objectives in several energy-related transformations
+7
+,
+8
+,
+9
+,
+10
+,
+11
+,
+12
+,
+13
+,
+14
+,
+15
+. A fundamental challenge in implementing this pioneering class of catalysts in many technical applications is the lack of synthetic routes enabling the preparation of these catalysts with high surface densities
+16
+,
+17
+,
+18
+,
+19
+. Achieving the latter is particularly important to maximize the productivity per unit reactor volume or area in large-scale processes. Taking nickel SACs, which exhibit highly selective performance in the electrochemical reduction of carbon dioxide
+20
+, as a representative example, a literature analysis shows that most of the materials reported to date are based on carbon-related materials and contain metal contents centred around 1 wt%, with exceptional cases up to 7 wt% (Fig.
+1a
+). These values are significantly lower than the expected theoretical capacity of these carriers for anchoring metal atoms.
+Fig. 1: Synthesis of UHD-SACs.
+a
+, Literature survey on the metal contents reported in nickel SACs revealing the predominant use of carbon-based carriers.
+b
+, Comparison of the size of nickel species obtained on NC via a conventional impregnation strategy involving a single thermal treatment and the two-step annealing strategy introduced in this work as a function of the metal content.
+c
+, ADF-STEM images of 10 wt% Ni–NC samples by a single thermal treatment (top) and a two-step annealing strategy (bottom). Scale bars, 100 nm (inset, 1 nm).
+d
+, Strategy for the preparation of UHD-SACs.
+e
+, Metal loadings achieved in this study on NC, PCN and CeO
+2
+supports.
+Full size image
+Of the distinct synthesis strategies reported for SACs, the postsynthetic introduction of metals via wet deposition routes such as impregnation is among the most amenable to scale-up
+21
+,
+22
+,
+23
+,
+24
+,
+25
+,
+26
+,
+27
+,
+28
+,
+29
+,
+30
+,
+31
+. This approach also favours surface localization, unlike direct synthesis approaches such as pyrolysis, where a large fraction of the active phase may become embedded in the bulk of carrier materials
+32
+. However, when introducing high metal contents, it is difficult to prevent the undesired aggregation of metal species into clusters and nanoparticles especially after applying conventional thermal treatments to remove counterions from common metal precursors (Fig.
+1b,c
+and Supplementary Fig.
+1
+)
+17
+. Strategies to circumvent this by avoiding metal salt precipitation or using equilibrium adsorption typically restrict the amount deposited on carriers. No published study has achieved ultra-high-density (UHD) SACs—defined herein as having metal contents over 10 wt% for carbon-based catalysts—by postsynthetic routes, or demonstrated their enhanced productivity in catalytic applications. Another scarcely addressed aspect is the extension to multimetallic systems, which is relevant for the development of technical catalysts since they often incorporate two or more metals, for example, as co-catalysts, promoters or stabilizers. Beyond the selection of carriers with abundant surface anchoring sites for metal atoms, the synthesis mechanism remains poorly understood at the molecular level.
+Two-step annealing approach
+The two-step annealing approach introduced here comprises a versatile and scalable method for the preparation of mono- or multimetallic UHD-SACs of more than 15 transition metals on carriers with distinct chemical natures, such as nitrogen-doped carbon (NC), polymeric carbon nitride (PCN) and metal oxides (Supplementary Fig.
+2
+). The approach relies on controlling ligand removal from metal precursors and the associated interactions with the carrier (Fig.
+1d
+). The strength of the proposed method lies in effectively saturating the surface with metal and retaining a high metal coverage by a selective anchoring mechanism that maximizes the probability of bonding the metal to all available coordination sites and enables the removal of unbound species via washing, thereby preventing metal sintering in the subsequent high-temperature step to remove residual ligand and permitting the stabilization of much higher metal contents compared to conventional impregnation routes. The method uses aqueous solutions of common metal precursors (chlorides, sulfates or acetates) or mixtures thereof where multimetallic systems are targeted. To regulate ligand removal, the temperature of the first annealing step (
+T
+1
+) needs to be lower than that of the decomposition temperature of the metal precursor; the most labile in the preparation of multimetallic SACs. For this reason, the use of metal chlorides provides greater control due to the strong intrinsic metal–chlorine bonds, which permits the use of higher temperatures in the first annealing step (Supplementary Table
+1
+). The chemisorbed metal precursors are subsequently transformed into UHD-SACs with well-defined atomic structures by a second annealing step at a higher temperature (
+T
+2
+) to remove the remaining ligands.
+Analysis by inductively coupled plasma atomic emission spectroscopy (ICP-AES) shows that the two-step annealing method achieves metal contents higher than 10 wt%, in several cases exceeding 20 wt%, on both NC and PCN carriers for all the metals studied (Fig.
+1e
+). Lower metal loadings of between 2 and 10 wt% result when using CeO
+2
+as the carrier, reflecting its higher relative molecular weight versus carbon-based materials. To provide a universal basis for comparison, the surface areal density in atoms per square nanometre was evaluated based on the measured Brunauer–Emmett–Teller surface area of the carrier (Supplementary Fig.
+3
+). UHD-SACs derived from PCN evidenced the highest densities for all metals, consistent with the abundance of metal coordination sites presented by this carrier due to the intrinsic crystalline structure based on heptazine units. Discrete ranges of values were observed for first-row (>9 atoms per nm
+2
+), second-row (
+∼
+6 atoms per nm
+2
+) and third-row (<5 atoms per nm
+2
+) transition metals. The significantly higher values for first-row transition metals could be indicative of some percolation into the lattice. Values between 2.5 and 6 atoms per nm
+2
+for CeO
+2
+are significantly higher than previous estimates for high-loading catalysts based on this carrier
+33
+. Values between 0.4 and 1 atoms per nm
+2
+are observed for NC, approaching the upper limit of 1.3 atoms per nm
+2
+calculated from the nitrogen content in the carrier.
+To further confirm the generality of the approach, we extended the synthesis to other commonly used supports, including titanium dioxide and alumina (Supplementary Fig.
+4
+). It is noteworthy that the present strategy is based on the premise that a carrier with surface functionalities able to react with the deposited metal in the investigated temperature range is used. For this reason, platinum single atoms cannot be isolated on amorphous silica with the presented method due to the weak bond between surface oxygen and platinum (Supplementary Fig.
+5
+). Additionally, the simultaneous introduction of multiple metal precursors behaves additively and successfully yields multimetallic UHD-SACs, demonstrating the scope of the method to produce a widely tuneable materials platform (Supplementary Fig.
+6
+).
+Confirming the UHD atomic dispersion
+The atomic metal dispersions of the obtained UHD-SACs on NC were directly imaged by annular dark-field scanning transmission electron microscopy (ADF-STEM, Fig.
+2a
+), revealing densely populated features ascribed to isolated atoms. Low-magnification elemental mapping by energy-dispersive X-ray spectroscopy (EDS) of NC-based UHD-SACs confirmed the uniform metal distribution and the absence of larger aggregates (Supplementary Figs.
+7
+and
+8
+). The bright dots in the high-magnification ADF-STEM images of platinum on NC, PCN and CeO
+2
+exhibit diameters of approximately 0.2 nm, reflecting the convolution of an isolated platinum atom with the electron probe (Fig.
+2b
+and Supplementary Fig.
+9
+). PCN-supported UHD-SACs display high metal atom densities (Supplementary Fig.
+10a
+) and heavy elements such as tungsten, iridium and platinum, which are distinguishable on CeO
+2
+, also evidence atomic dispersion (Supplementary Fig.
+10b
+). Elemental uniformity is also visible at a larger scale, as seen in low-magnification EDS maps (Supplementary Figs.
+11–13
+). The metal contents determined via EDS agree well with ICP-AES-derived values (Supplementary Fig.
+14
+).
+Fig. 2: Visualization and spectroscopic characterization of UHD-SACs.
+a
+, Atomic-resolution ADF-STEM images of various metals on NC support. Scale bars, 1 nm.
+b
+, Enlarged area of the ADF-STEM image of Pt
+1
+/NC. Scale bar, 0.5 nm. The inset shows the intensity profile along the dashed white line.
+c
+,
+d
+, Fourier transformation of Pt L
+3
+-edge EXAFS (
+c
+) and DRIFTS spectra of adsorbed CO (
+d
+) of Pt
+1
+/NC, Pt
+1
+/PCN and Pt
+1
+/CeO
+2
+and reference materials.
+Full size image
+Powder X-ray diffraction patterns confirm the absence of crystalline metal compounds in all UHD-SAC samples, evidencing only reflections of the carrier materials (Supplementary Fig.
+15a–c
+). The Fourier-transformed extended X-ray absorption fine structure (EXAFS) spectra of all the UHD-SAC samples exhibit major peaks around 1.5 Å, corresponding to M–N/O bond lengths (Fig.
+2c
+and Supplementary Fig.
+15d–f
+)
+11
+,
+34
+. No signatures of metal–metal coordination between 2.1 and 2.5 Å are observed in any of the samples, confirming the absence of metal nanoparticles or clusters. Consistently, infrared spectroscopy of adsorbed CO on Pt
+1
+/NC, Pt
+1
+/PCN and Pt
+1
+/CeO
+2
+reveals only one set of CO absorption bands centred at 2,117 cm
+−1
+(Fig.
+2d
+). No infrared peaks in the range of 2,070–2,090 cm
+−1
+corresponding to platinum nanoparticles can be observed
+12
+. These results further validate the atomic-resolution ADF-STEM analyses, demonstrating the successful preparation of UHD-SACs with various metals and carriers. The Pt L
+3
+-edge X-ray absorption near-edge structure (XANES) spectra and the Pt 4
+f
+X-ray photoelectron (XPS) spectra both indicate that all the platinum species are positively charged, and the valence state on NC and PCN is slightly lower than on CeO
+2
+(Supplementary Fig.
+16
+)
+11
+,
+35
+. K-edge XANES corroborates this trend for nickel, where the intensity of the white line of Ni
+1
+/NC and Ni
+1
+/PCN is similar and lower than that observed for Ni
+1
+/CeO
+2
+(Supplementary Fig.
+17
+). ADF-STEM images of Ni and Pd and of Ni–Pd–Pt UHD-SACs also confirmed the atomic dispersion of the constituent metals in multimetallic systems (Fig.
+3a,b
+). This combination of metals was selected to facilitate characterization, permitting the local identification of multimetallic SACs based on analysis of the intensity profiles over the different atoms, wherein heavier metal atoms exhibit higher contrast and wider peaks in terms of full width at half maximum (Supplementary Fig.
+18
+). The spatial uniformity of individual elements in the Ni–Pd–Pt UHD-SAC is confirmed in the elemental maps acquired by energy-dispersive X-ray spectroscopy (Fig.
+3c
+).
+Fig. 3: Visualization of multimetallic UHD-SACs.
+a
+,
+b
+, Atomic-resolution ADF-STEM images of Ni and Pd (
+a
+) and Ni–Pd–Pt multimetallic UHD-SACs (
+b
+) on NC.
+c
+, EDS map of Ni, Pd and Pt in Ni
+1
+Pd
+1
+Pt
+1
+/NC. Scale bars, 1 nm (
+a
+and
+b
+) and 50 nm (
+c
+).
+Full size image
+Amenability to automation and scale-up
+Motivated by growing efforts across catalysis research towards automation and standardization of procedures, which are most advanced in computational chemistry and catalyst characterization and testing, we translated the two-step annealing approach to an automated synthesis protocol. The use of a robotic platform (Fig.
+4a
+) permits precise control over the quantity and speed of metal addition and over the extent of sample washing, and requires only minor adaptions of the laboratory-based protocol such as the use of shaking instead of sonication for mixing the carrier with the aqueous solution of the metal precursor (Fig.
+4b
+). Accordingly, the procedure could readily obtain nickel SACs over a broad range of metal content (Fig.
+4c
+). Slightly lower values observed in the samples prepared by the automated compared to the laboratory protocol originate from operating under ambient rather than reduced pressure during the mixing step, which decreases surface wetting of the micropores. Given the virtually limitless potential combinations of metals, carriers and stoichiometry, the possibility to automate the synthesis protocol enabling the reproducible preparation of well-defined UHD-SAC libraries is highly attractive for the derivation of more precise synthesis–property–performance relationships to guide their design in targeted applications. Besides versatility, another important feature of our approach is the scalability. Because the two-step annealing approach employs simple unit operations (impregnation, thermal treatment, washing and filtration), it readily translates to the kilogramme-scale production of UHD-SACs, with no appreciable differences in the properties of the resulting material (Supplementary Fig.
+19
+).
+Fig. 4: Automated synthesis protocol.
+a
+, Photograph of the robotic synthesis platform and assignment of tools to unit operations.
+b
+, Flowsheet of the synthesis protocol, where
+T
+is the temperature and
+t
+is the time.
+c
+, Comparison of metal content achieved by automated and manual synthesis of Ni
+1
+/NC catalysts.
+Full size image
+Mechanistic insights into the controlled ligand removal
+To understand the greater effectiveness of the two-step annealing strategy, we followed the evolution of the metal and anchor site during the synthesis by EXAFS, XANES, XPS and density functional theory (DFT) modelling. Starting from nickel chloride (NiCl
+2
+) and NC, we identify adsorbed NiCl
+2
+(NiCl
+2
+/NC), partially chlorinated (NiCl/NC) and the fully bound Ni (Ni
+1
+/NC) single atoms as key intermediates or products, respectively (Supplementary Fig.
+20a
+). Whereas X-ray diffraction analysis of the materials before and after the respective annealing steps confirms the disappearance of characteristic NiCl
+2
+reflections, it provides no information on changes in the local environment (Supplementary Fig.
+20b
+). Comparison of both XANES and EXAFS spectra evidences appreciable differences between the intermediates. A single peak at around 1.97 Å for NiCl
+2
+/NC corresponds to the Ni–Cl bond from pure NiCl
+2
+. After low-temperature annealing, a strong signal appears at around 1.40 Å for NiCl/NC, consistent with the newly formed Ni–N bonds
+20
+,
+36
+(Fig.
+5a
+). Concurrently, the peak position of the Ni–Cl bond moved from 1.97 to 1.75 Å due to the transformation of NiCl
+2
+/NC to a NiN
+4
+Cl structure. From the fitting results
+(
+Supplementary Fig.
+21
+and Supplementary Table
+2
+), the coordination numbers of the nitrogen and chlorine atoms in the first coordination sphere of nickel are around 4.8 and 0.9, respectively, with a square-pyramidal configuration for Ni–N bonding. Following the high-temperature annealing forming Ni
+1
+/NC, only the Ni–N peak at around 1.40 Å is seen with no evidence of Ni–Cl bonds, indicating that the anchored nickel atoms lose another ligand to form the Ni–N
+4
+site. The profile of the XANES spectrum of Ni
+1
+/NC (Supplementary Fig.
+20c
+) contains similar characteristic features to the nickel phthalocyanine (NiPc), which has a well-defined NiN
+4
+structure
+36
+. The shoulder at 8,340 eV of Ni
+1
+/NC and NiPc is due to a 1
+s
+−4
+p
+z
+orbital transition characteristic for a square-planar configuration with high
+D
+4
+h
+local symmetry. This feature is significantly weakened in the NiCl/NC sample, indicating a broken
+D
+4
+h
+symmetry, which agrees well with our proposed atomic model (NiN
+4
+Cl) in which the Ni–Cl bond displaces the Ni from the N
+4
+in-plane geometry.
+Fig. 5: Mechanistic investigation of the synthesis of UHD-SACs.
+a
+,
+b
+, Fourier-transformed EXAFS (
+a
+) and N 1
+s
+XPS (
+b
+) spectra of NiCl
+2
+/NC, NiCl/NC and Ni
+1
+/NC.
+R
+is the radial distance.
+c
+, DFT-calculated energy (
+E
+) pathway for the formation of Ni–N
+4
+from the NiCl
+2
+precursor with representative transition states and intermediates depicted inset. Δ
+G
+is the change in Gibbs free energy and Δ
+H
+is the change in enthalpy.
+Full size image
+Additionally, the structural evolution of the surface anchoring site was investigated by XPS. The high-resolution N 1
+s
+spectra of the anchor site can be fitted by components corresponding to C=N–C (397.9 eV, marked as N1), C=N–H (399.3 eV, marked as N2), C=N–Ni–Cl (398.3 eV, marked as N3) and C=N–Ni (398.7 eV, marked as N4) species (Fig.
+5b
+)
+20
+,
+37
+. In the pristine NC, the anchoring sites are composed of two C=N–C (N1) and two C=N–H (N2). The intensity of N2 noticeably decreases and is accompanied by a transformation of N1 to N3 during the first-step low-temperature annealing. Concurrently, N–H bonds are suggested to be replaced by newly formed N–Ni bonds (N3). The nickel precursor is expected to react with C=N–H functional groups by breaking the N–H bond and removing the hydrogen atom at elevated temperature. In the subsequent high-temperature annealing, the N–H bond completely disappears with the accompanying transformation of N3 to N4, suggesting further cleavage of the remaining N–H groups to form exclusively Ni–N4 sites. The binding energies of Ni 2
+p
+3/2
+in NiCl/NC and Ni
+1
+/NC were 855.3 and 855.4 eV, respectively (Supplementary Fig.
+20d
+), which are 1.3 and 1.2 eV lower in the NiCl
+2
+precursor (Ni
+2+
+, 856.6 eV). The binding energy of Cl 2
+p
+3/2
+in NiCl/NC (197.4 eV) is 1.6 eV lower than the precursor (199.0 eV, Supplementary Fig.
+20e
+). Interestingly, the stepwise removal of chloride ligands can be followed through the Cl 2
+p
+signal of NiCl
+2
+/NC, NiCl/NC and Ni
+1
+/NC, the latter of which shows no peak. These comprehensive structural analyses unambiguously reveal the path of the coordination of nickel atoms from the adsorbed metal precursor, through our proposed intermediate NiN
+4
+Cl and final NiN
+4
+structures.
+Based on these well-established atomic structures, DFT calculations were conducted to gain molecular-level insight into the synthesis mechanism (Fig.
+5c
+). In the first step, the anchoring of a single NiCl
+2
+entity to the N4 anchor site in the carrier leads to the first transition state (TS1) with a barrier of 1.39 eV and endothermic reaction energy of 0.14 eV. The following rearrangement releasing one HCl molecule is exothermic and occurs spontaneously, forming the first intermediate (Int1). The release of a second HCl molecule drives the transformation of NiCl/NC to Ni/NC (Int2 → Ni/NC) endergonically (−1.74 eV) without an energy barrier. Since the hydrogen and chlorine atoms need to be on the same side, the rotation of a hydrogen atom from the bottom to the top surface must be considered (Int1 → Int2). This process requires a barrier of 0.72 eV with endothermic reaction energy of 0.28 eV. Hence, the formation of Ni
+1
+/NC proceeds via two endothermic and one spontaneous step, which is in line with our experimental procedure, where two annealing steps are needed. A similar landscape is obtained for the formation of Fe
+1
+/NC, Cu
+1
+/NC and Ni
+1
+/CeO
+2
+using metal chloride precursors and of Ni
+1
+/NC using NiSO
+4
+as a metal precursor (Supplementary Figs.
+22
+and
+23
+).
+Enhanced productivity of UHD-SACs
+As a proof of concept, we evaluated the catalytic performance of representative UHD-SACs in applications where supported single atoms demonstrate promising technological potential. Nickel SACs excel in the electrochemical reduction of carbon dioxide to carbon monoxide
+38
+,
+39
+. For the Ni
+1
+/NC catalyst, the only products detected are gas-phase CO and H
+2
+and no liquids in the voltage range from 0 to −1.15 V versus a reversible hydrogen electrode (RHE). The linear sweep voltammetry (LSV) curves reveal significantly higher current density over the UHD Ni
+1
+/NC than the low-density Ni
+1
+/NC (Fig.
+6a
+). In terms of Faradaic efficiency towards CO, the UHD and low-density Ni
+1
+/NC catalysts exhibit a maximum of 97% at around −0.95 and −0.75 V versus RHE, respectively (Fig.
+6b
+). Although the nickel content in UHD Ni
+1
+/NC catalyst is ten times higher than in the low-density Ni
+1
+/NC catalyst, it conserves the high selectivity towards CO. Notably, the UHD Ni
+1
+/NC catalyst maintains greater than 86% Faradaic efficiency even at a very negative potential of −1.15 V versus RHE. The activity scaled with the nickel content, showing a gradual increase in the current density of CO for metal contents ranging from 1.6 to 16.3 wt% (Supplementary Fig.
+24
+). The site-specific activity is similar across the range of investigated loadings with a slightly lower (
+∼
+30%) activity per site for the highest metal contents in the voltage range from −0.55 to −1.05 V (Supplementary Fig.
+25
+). An approximately 30% loss in activity per site is probably due to the percolation of a small portion of nickel metal into the inner part of the carbon carrier. These nickel SAC sites buried inside would not be directly accessible by CO
+2
+, leading to a decrease in site-specific reactivity because the total amount of nickel SACs is counted in the calculation. It is expected that for metal species with small atomic radius and high thermal mobility, an increase of metal loading may also result in a slightly higher ratio of single atoms embedded in the bulk of host materials, consistent with our experimental observations (Supplementary Fig.
+25
+). DFT modelling reveals the favourable energetics of the CO
+2
+reduction reaction over parasitic hydrogen formation at the Ni
+1
+/NC site (Supplementary Fig.
+26
+). The main advantage of the UHD Ni
+1
+/NC catalyst for CO
+2
+reduction is that it delivers a much higher CO partial current density due to the high abundance of nickel active sites compared to the conventional low-density counterpart. Furthermore, it preserves stable CO
+2
+reduction at constant current density for CO (20 mA cm
+−2
+) during 48 h of continuous operation (Fig.
+6c
+); the current density and Faradaic efficiency profiles during two consecutive linear voltammetry sweeps are identical (Supplementary Fig.
+27
+). ADF-STEM images measured after the electrochemical stability test show identical well-dispersed nickel atoms as seen in the fresh Ni
+1
+/NC catalyst (Supplementary Fig.
+28
+).
+Fig. 6: Catalytic performance of UHD-SACs.
+a
+–
+c
+, Electrocatalytic CO
+2
+reduction reaction performance of Ni
+1
+/NC catalyst: LSV curve (
+a
+), Faradaic efficiency over 1.6, 4.2, 8.3 and 16.3 wt% Ni
+1
+/NC catalysts (
+b
+) and stability test of 16.3 wt% Ni
+1
+/NC UHD-SAC (
+c
+).
+d
+,
+e
+, Cu
+1
+/PCN-catalysed azide–alkyne cycloaddition of 4-ethynylanisol with benzyl azide: loading dependence on catalytic performance (
+d
+) and cycling stability test of 21.8 wt% Cu
+1
+/PCN UHD-SAC (
+e
+).
+f
+, Pt
+1
+/NC-catalysed acetylene hydrochlorination as a function of time on stream (TOS).
+Full size image
+In addition to electrochemical applications, SACs are the preferred nanostructure in several thermally driven reactions. Due to their structural similarities, they have attracted significant interest for the replacement of homogeneous catalysts in organic transformations
+14
+. Evaluation of Cu
+1
+/PCN catalysts in the azide–alkyne cycloaddition reaction of 4-ethynylanisole with benzyl azide demonstrated a remarkable enhancement in the performance with increasing metal content, from virtually negligible activity in the conventional SAC to yielding the desired product with 92% isolated yield with stable performance over ten consecutive runs (Fig.
+6d,e
+and Supplementary Fig.
+29
+). As a result, the site-specific activity for Cu
+1
+/PCN with the highest metal content is observed to be seven times higher than that for Cu
+1
+/PCN with the low metal content (Supplementary Fig.
+30
+). The enhanced productivity not only arises from the increased number of active sites per unit reactor volume or area but also receives a significant contribution from the dramatically increased site-specific activity with increasing copper loading for cross-coupling reactions. This experimental result indicates that well-isolated single-atom sites present in low-loading SACs may not be able to co-adsorb and activate the multiple reactants required for organic cross-coupling reactions, while the synergistic effect derived from the presence of neighbouring single-atom sites promotes a dramatically enhanced site-specific activity for UHD-Cu
+1
+/PCN SACs. In a more classical gas-phase application, platinum single-atom catalysts were recently shown to comprise stable and active catalysts as alternatives to currently applied mercury-based catalysts in the production of vinyl chloride monomer (VCM) via acetylene hydrochlorination
+40
+. The presence of halogen species in the reaction mixture induces mobility of supported metal atoms but increasing the strength of interaction with the carrier too much renders them inactive. Here the initial yield of VCM over Pt
+1
+/NC catalysts directly correlated with the metal content of the catalysts applied, but an optimal metal content of 4.4 wt% was observed for stable performance, above which a gradual drop in VCM yield was observed with time-on-stream due to sintering (Fig.
+6f
+). The initial yield of VCM over Pt
+1
+/NC SAC scales with platinum content, which also suggests that the reactivity of Pt
+1
+/NC SACs indeed scales with metal loading. The larger atomic radius of platinum disfavours its thermal diffusion and percolation into inner bulk. Nearly all the platinum atoms anchored on the surface of NC are readily accessible by the reactants, leading to nearly zero loss of activity per site with increasing platinum loading (Supplementary Fig.
+31
+). The enhanced performance evidenced by these results demonstrates the exciting scope of UHD-SACs to improve both the productivity and understanding of mono- or multimetallic single atom systems in a broad variety of catalytic applications in the near future.
+Discussion
+The scalable wet-chemistry method established here to prepare UHD-SACs across a broad range of transition metals on chemically distinct carriers comprises a breakthrough towards their practical implementation. Our experimental and theoretical analysis showed that the success of the two-step annealing approach at stabilizing high surface densities of isolated metal atoms derives from the selective bonding of metal precursors to the carrier. This controlled interaction enables the removal of weakly interacting species that would otherwise aggregate upon complete decomposition. Besides monometallic systems, a library of multimetallic systems can be readily accessed, evidencing the general applicability of the two-step annealing method. The reproducibility of the synthesis upon automation and at large scale demonstrates the robustness of the approach, paving the way for the widespread application of UHD-SACs in sustainable chemical and energy transformations.
+Methods
+Synthesis of NC
+A two-dimensional zeolitic imidazolate framework (2D-ZIF-8) was synthesized as the NC precursor. Typically, Zn(NO
+3
+)
+2
+·6H
+2
+O (12.75 g) and 2-methylimidazole (29.15 g) were dissolved separately in deionized water (1,000 ml). Then the two aqueous solutions were rapidly mixed and vigorously stirred for 2 h. The resulting white precipitate was left undisturbed for 12 h. The product was collected by centrifugation, then washed with water and ethanol, and subsequently dried at 80 °C overnight. To prepare NC, the 2D-ZIF-8 (5 g) was mixed with KCl (100 g) in deionized water (400 ml) and then dried under rotary evaporation. After drying (120 °C overnight), the KCl intercalated powder was heated to 700 °C (heating rate, 2 °C min
+−1
+) for 5 h in a nitrogen flow. The product was washed with hydrochloric acid (2 M), deionized water and ethanol, then dried at 80 °C overnight.
+Synthesis of Ni
+1
+/NC
+To achieve 30 wt% metal feeding, NiCl
+2
+·6H
+2
+O (174 mg) and NC (100 mg) were dispersed in 20 ml ethanol solution, sonicated for 10 min, and dried first by rotary evaporation and then in an oven at 80 °C. For low-temperature annealing, the powder was heated to 300 °C (heating rate, 5 °C min
+−1
+) for 5 h in a nitrogen flow. After thorough washing using a water–ethanol mixture, the dried powders (80 °C) were subjected to a high-temperature annealing at 550 °C (heating rate, 2 °C min
+−1
+) for 5 h in a nitrogen flow.
+Synthesis of PCN
+Bulk PCN was prepared by calcining dicyandiamide at 550 °C (heating rate, 2.3 °C min
+−1
+) in a crucible for 3 h in static air. Exfoliated PCN was obtained via the thermal exfoliation at 500 °C (heating rate, 5 °C min
+−1
+) for 5 h in static air.
+Synthesis of Ni
+1
+/PCN
+To achieve 30 wt% metal feeding, NiCl
+2
+·6H
+2
+O (174 mg) and PCN (100 mg) were dispersed in ethanol solution (20 ml) and sonicated for 10 min, followed by rotary evaporation to dry. The oven-dried powder (80 °C) was subsequently heated to 450 °C (heating rate, 5 °C min
+−1
+) for 5 h in a nitrogen flow. Using a water–ethanol mixture, the obtained powder was washed thoroughly and then dried in an oven at 80 °C. Finally, the powders were heated to 550 °C (heating rate, of 2 °C min
+−1
+) and kept for 5 h under the protection of a nitrogen flow.
+Synthesis of CeO
+2
+Ce(CH
+3
+COO)
+3
+·
+x
+H
+2
+O was heated in air at 350 °C (heating rate, 5 °C min
+−1
+) for 2 h, then the temperature was increased to 600 °C (heating rate, 5 °C min
+−1
+) for 5 h.
+Synthesis of Ni
+1
+/CeO
+2
+To achieve 10 wt% metal feeding, NiCl
+2
+·6H
+2
+O (45.5 mg) and CeO
+2
+(100 mg) were dispersed in ethanol solution (20 ml) and sonicated for 10 min, followed by rotary evaporation to remove the solvent. The powders were dried in an oven at 80 °C and then heated to 300 °C (heating rate, 5 °C min
+−1
+) in static air. The obtained powders were washed thoroughly using a water–ethanol mixture and dried in an oven at 80 °C. Finally, the powders are heated to 550 °C (heating rate, of 1 °C min
+−1
+) and kept for 5 h under static air.
+Synthesis of Ni
+1
+Pd
+1
+/NC
+NiCl
+2
+·6H
+2
+O (24 mg), PdCl
+2
+(20 mg) and NC (100 mg) were dispersed in 0.5 M HCl solution (20 ml), sonicated for 10 min and dried first by rotary evaporation and then in an oven at 80 °C. For the low-temperature annealing, the powder was heated to 200 °C (heating rate, 5 °C min
+−1
+) for 5 h in a nitrogen flow. After thorough washing using dimethylsulfoxide (DMSO) and water, the dried powder (80 °C) was subjected to a high-temperature annealing at 500 °C (heating rate, 2 °C min
+−1
+) for 5 h in a nitrogen flow.
+Synthesis of Ni
+1
+Pd
+1
+Pt
+1
+/NC
+NiCl
+2
+·6H
+2
+O (20 mg), PdCl
+2
+(14 mg), H
+2
+PtCl
+2
+.6H
+2
+O (42 mg) and NC (100 mg) were dispersed in 0.5 M HCl solution (20 ml), sonicated for 10 min, and dried by rotary evaporation and in an oven (80 °C). For the low-temperature annealing, the powder was heated to 200 °C (heating rate, 5 °C min
+−1
+) for 5 h in a nitrogen flow. After thorough washing with DMSO and water, the dried powder (80 °C) was subjected to a high-temperature annealing at 500 °C (heating rate, 2 °C min
+−1
+) for 5 h in a nitrogen flow.
+The synthesis of other metal UHD-SACs follows the same steps by using the appropriate metal precursor, solvent, annealing temperatures and atmospheres (Supplementary Table
+1
+).
+Automated synthesis
+The automated catalyst preparation was carried out in a Chemspeed Flex Isynth synthesis platform. The distinct carriers (100 mg) were dispensed into the reaction block using an in-built extruder for precision dosing. After addition of ethanol (5 ml, ACS reagent grade, Millipore Sigma), the nickel precursor solution (NiCl
+2
+·6H
+2
+O, 99.9% purity, Sigma Aldrich, in ethanol) of the desired molarity was added gravimetrically (5 ml). The resulting slurries were shaken (300 r.p.m.) for 30 min, and the solvent was subsequently removed under vacuum (80 °C, 7 h). The dry powders were transferred to ceramic boats and annealed in flowing nitrogen (20 ml min
+−1
+) at 300 °C (ramp, 5 °C min
+−1
+). The annealed powders were subsequently washed (water:ethanol, 1:1, 15 ml) and vacuum-filtered (frit pore diameter, 16–40 µm) three times and then dried (80 °C, vacuum) in the synthesis robot. Finally, the powders were subjected to a second annealing step to 550 °C (ramp, 2 °C min
+−1
+) in a flowing nitrogen atmosphere.
+Material characterization
+Wide-angle X-ray diffraction patterns were collected on a Bruker D8 Focus powder X-ray diffractometer using Cu Kα radiation (40 kV, 40 mA) at room temperature. Transmission electron microscopy (TEM) images were obtained with an FEI Titan 80-300 S/TEM or a Talos F200X instrument, both operated at 200 kV. ADF-STEM imaging was carried out in an aberration-corrected JEOL ARM-200F system equipped with a cold field emission gun operating at 60 kV. The images were collected with a half-angle range from
+∼
+81 to 280 mrad, and the convergence semiangle was set at
+∼
+30 mrad. X-ray photoelectron spectroscopy (XPS) measurements were carried out in a custom-designed ultrahigh-vacuum system with a base pressure lower than 2 × 10
+−10
+mbar. Al Kα (photon energy 1,486.7 eV) was used as the excitation source for XPS. The metal loadings in all the samples were measured by ICP-AES. N
+2
+isotherms were measured at −196 °C using a Quantachrome Instruments AutosorbiQ (Boynton Beach, FL). Fourier transform infrared spectra for CO adsorption were obtained at 25 °C on a Bruker Equinox 55 spectrometer equipped with a mercury cadmium telluride detector. The XANES and EXAFS measurements were carried out at the XAFCA beamline of the Singapore Synchrotron Light Source (SSLS)
+41
+and Shanghai Synchrotron Radiation Facility (SSRF), Shanghai Institute of Applied Physics (SINAP). A Si (111) double-crystal monochromator was used to filter the X-ray beam. Metal foils were used for the energy calibration, and all samples were measured under transmission mode at room temperature. EXAFS oscillations
+χ
+(
+k
+) were extracted and analysed using the Demeter software package
+42
+.
+Quantum-theoretical calculations
+All calculations were performed using DFT within the spin‐polarized Kohn–Sham formalism implemented in the Vienna Ab initio Simulation Package
+43
+. The projector augmented‐wave method
+44
+,
+45
+was used to represent the core electron states. The generalized gradient approximation with Perdew–Burke–Ernzerhof exchange-correlation functional
+46
+and a plane wave representation for the wave function with a cut‐off energy of 500 eV were used. Lattice parameters and all atoms were fully relaxed for total energy optimization. The convergence criterion for the maximum residual force and energy was set to 0.02 eV Å
+−1
+and 10
+−5
+eV, respectively, during the structure relaxation. A 6 × 6 × 1 supercell was used to model the graphene surface and the Brillouin zones were sampled by a Monkhorst–Pack
+k
+‐point mesh with a 3 × 3 × 1
+k
+‐point grid. A 15 Å vacuum space was set, in the
+z
+-direction, to avoid periodic image interactions. The transition states were searched using climbing image nudged elastic band and dimer methods
+47
+,
+48
+and further confirmed by having only one imaginary vibrational frequency.
+Electrochemical tests using Ni
+1
+/NC
+All CO
+2
+reduction experiments were performed using a three-electrode system connected to an electrochemical workstation (CHI 760E). Ag/AgCl with saturated KCl solution and platinum mesh served as the reference electrode and the counterelectrode, respectively. The electrocatalyst was prepared by mixing the catalyst powder (2 mg), ethanol (1 ml) and Nafion solution (10 μl, 5 wt%) followed by sonication for 1 h. Then, the catalyst suspension (100 μl) was dropped onto a dry carbonfibre paper (AvCarb P75T, 0.5 cm
+2
+), yielding a loading of 0.4 mg cm
+−2
+. All potentials were calculated with respect to the RHE scale according to the Nernst equation (
+E
+RHE
+=
+E
+Ag/AgCl
++ 0.0591 × pH +0.197 V, at 25 °C). The electrolyte was 0.5 M KHCO
+3
+saturated with CO
+2
+and had a pH of 7.2. The products and Faradaic efficiency of CO
+2
+reduction were measured using chronoamperometry at each fixed potential in an H-type electrochemical cell separated by a Nafion 117 membrane. Before the measurement, the electrolyte was saturated by bubbling gaseous CO
+2
+with a flow rate of 20 ml min
+−1
+through the cell for 30 min.
+Azide–alkyne cycloaddition using Cu
+1
+/PCN
+Azide–alkyne cycloaddition was carried out in a 20 ml glass tube with Cu
+1
+/PCN catalyst (2 mol% Cu), 0.5 mmol of 4-ethynylanisole, 1.5 mmol of benzyl azide and 8 ml of a 1:1 water/
+tert
+-butanol mixture and stirred at 60 °C for 12 h.
+1
+H NMR and
+13
+C NMR spectra were recorded on Bruker 500 MHz spectrometer using residue solvent peaks as internal standards (DMSO-
+d
+6
+). GC yield was determined by using decane as an internal standard.
+Acetylene hydrochlorination using Pt
+1
+/NC
+Using a previously reported protocol
+40
+, the Pt
+1
+/NC catalyst powder (100 mg) was loaded in a quartz reactor and preheated to the reaction temperature (200 °C) in flowing helium at ambient pressure. Upon switching to the reaction gas mixture (total flow, 15 cm
+3
+min
+−1
+, 40 vol% C
+2
+H
+2
+, 44 vol% HCl, 16 vol% Ar, balance He), the reactor outlet was sampled via gas chromatography–mass spectrometry (GC 7890B, MSD 5977 A, Agilent) every 58 min. The VCM yield was computed from the outlet VCM molar flow divided by the inlet acetylene flow.
+Data availability
+All data that support the findings of this study have been included in the main text and Supplementary
+Information
+. Any additional materials and data are available from the corresponding author upon reasonable request.
+Change history
+04 March 2022
+A Correction to this paper has been published:
+https://doi.org/10.1038/s41565-022-01090-8
+References
+Kaiser, S. K., Chen, Z., Faust Akl, D., Mitchell, S. & Pérez-Ramírez, J. Single-atom catalysts across the periodic table.
+Chem. Rev.
+120
+, 11703–11809 (2020).
+Article
+CAS
+Google Scholar
+Li, Z. et al. Well-defined materials for heterogeneous catalysis: from nanoparticles to isolated single-atom sites.
+Chem. Rev.
+120
+, 623–682 (2019).
+Article
+CAS
+Google Scholar
+Li, X., Yang, X., Huang, Y., Zhang, T. & Liu, B. Supported noble‐metal single atoms for heterogeneous catalysis.
+Adv. Mater.
+31
+, 1902031 (2019).
+Article
+CAS
+Google Scholar
+Wang, Y. et al. Catalysis with two-dimensional materials confining single atoms: concept, design, and applications.
+Chem. Rev.
+119
+, 1806–1854 (2018).
+Article
+CAS
+Google Scholar
+Lin, L. et al. Low-temperature hydrogen production from water and methanol using Pt/α-MoC catalysts.
+Nature
+544
+, 80–83 (2017).
+Article
+CAS
+Google Scholar
+Datye, A. K. & Guo, H. Single atom catalysis poised to transition from an academic curiosity to an industrially relevant technology.
+Nat. Commun.
+12
+, 895 (2021).
+Article
+CAS
+Google Scholar
+Yang, X.-F. et al. Single-atom catalysts: a new frontier in heterogeneous catalysis.
+Acc. Chem. Res.
+46
+, 1740–1748 (2013).
+Article
+CAS
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+Google Scholar
+Zhang, L., Zhou, M., Wang, A. & Zhang, T. Selective hydrogenation over supported metal catalysts: from nanoparticles to single atoms.
+Chem. Rev.
+120
+, 683–733 (2019).
+Article
+CAS
+Google Scholar
+Liu, D. et al. Atomically dispersed platinum supported on curved carbon supports for efficient electrocatalytic hydrogen evolution.
+Nat. Energy
+4
+, 512–518 (2019).
+Article
+CAS
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+Google Scholar
+Nie, L. et al. Activation of surface lattice oxygen in single-atom Pt/CeO
+2
+for low-temperature CO oxidation.
+Science
+358
+, 1419–1423 (2017).
+Article
+CAS
+Google Scholar
+Wang, A., Li, J. & Zhang, T. Heterogeneous single-atom catalysis.
+Nat. Rev. Chem.
+2
+, 65–81 (2018).
+Article
+CAS
+Google Scholar
+Chen, Z. et al. A heterogeneous single-atom palladium catalyst surpassing homogeneous systems for Suzuki coupling.
+Nat. Nanotechnol.
+13
+, 702–707 (2018).
+Article
+CAS
+Google Scholar
+Jung, E. et al. Atomic-level tuning of Co–N–C catalyst for high-performance electrochemical H
+2
+O
+2
+production.
+Nat. Mater.
+19
+, 436–442 (2020).
+Article
+CAS
+Google Scholar
+Beniya, A. & Higashi, S. Towards dense single-atom catalysts for future automotive applications.
+Nat. Catal.
+2
+, 590–602 (2019).
+Article
+CAS
+Google Scholar
+Ji, S. et al. Chemical synthesis of single atomic site catalysts.
+Chem. Rev.
+120
+, 11900–11955 (2020).
+Article
+CAS
+Google Scholar
+Ding, S., Hülsey, M. J., Pérez-Ramírez, J. & Yan, N. Transforming energy with single-atom catalysts.
+Joule
+3
+, 2897–2929 (2019).
+Article
+CAS
+Google Scholar
+DeRita, L. et al. Catalyst architecture for stable single atom dispersion enables site-specific spectroscopic and reactivity measurements of CO adsorbed to Pt atoms, oxidized Pt clusters, and metallic Pt clusters on TiO
+2
+.
+J. Am. Chem. Soc.
+139
+, 14150–14165 (2017).
+Article
+CAS
+Google Scholar
+Yang, H. B. et al. Atomically dispersed Ni(
+i
+) as the active site for electrochemical CO
+2
+reduction.
+Nat. Energy
+3
+, 140–147 (2018).
+Article
+CAS
+Google Scholar
+Liu, Y. et al. A general strategy for fabricating isolated single metal atomic site catalysts in Y zeolite.
+J. Am. Chem. Soc.
+141
+, 9305–9311 (2019).
+Article
+CAS
+Google Scholar
+Fei, H. et al. General synthesis and definitive structural identification of MN
+4
+C
+4
+single-atom catalysts with tunable electrocatalytic activities.
+Nat. Catal.
+1
+, 63–72 (2018).
+Article
+CAS
+Google Scholar
+He, X. et al. A versatile route to fabricate single atom catalysts with high chemoselectivity and regioselectivity in hydrogenation.
+Nat. Commun.
+10
+, 3663 (2019).
+Article
+CAS
+Google Scholar
+Wei, H. et al. Iced photochemical reduction to synthesize atomically dispersed metals by suppressing nanocrystal growth.
+Nat. Commun.
+8
+, 1490 (2017).
+Article
+CAS
+Google Scholar
+Yang, H. et al. A universal ligand mediated method for large scale synthesis of transition metal single atom catalysts.
+Nat. Commun.
+10
+, 4585 (2019).
+Article
+CAS
+Google Scholar
+Zhang, Z. et al. Electrochemical deposition as a universal route for fabricating single-atom catalysts.
+Nat. Commun.
+11
+, 1215 (2020).
+Article
+CAS
+Google Scholar
+Zhao, L. et al. Cascade anchoring strategy for general mass production of high-loading single-atomic metal-nitrogen catalysts.
+Nat. Commun.
+10
+, 1278 (2019).
+Article
+CAS
+Google Scholar
+Wei, S. et al. Direct observation of noble metal nanoparticles transforming to thermally stable single atoms.
+Nat. Nanotechnol.
+13
+, 856–861 (2018).
+Article
+CAS
+Google Scholar
+Yao, Y. et al. High temperature shockwave stabilized single atoms.
+Nat. Nanotechnol.
+14
+, 851–857 (2019).
+Article
+CAS
+Google Scholar
+Liu, P. et al. Photochemical route for synthesizing atomically dispersed palladium catalysts.
+Science
+352
+, 797–800 (2016).
+Article
+CAS
+Google Scholar
+Wang, L. et al. A sulfur-tethering synthesis strategy toward high-loading atomically dispersed noble metal catalysts.
+Sci. Adv.
+5
+, eaax6322 (2019).
+Article
+CAS
+Google Scholar
+Cheng, Y. et al. Atomically dispersed transition metals on carbon nanotubes with ultrahigh loading for selective electrochemical carbon dioxide reduction.
+Adv. Mater.
+30
+, 1706287 (2018).
+Article
+CAS
+Google Scholar
+Kunwar, D. et al. Stabilizing high metal loadings of thermally stable platinum single atoms on an industrial catalyst support.
+ACS Catal.
+9
+, 3978–3990 (2019).
+Article
+CAS
+Google Scholar
+Zhang, L. et al. Direct observation of dynamic bond evolution in single‐atom Pt/C
+3
+N
+4
+catalysts.
+Angew. Chem. Int. Ed.
+59
+, 6224–6229 (2020).
+Article
+CAS
+Google Scholar
+Li, H. et al. Synergetic interaction between neighbouring platinum monomers in CO
+2
+hydrogenation.
+Nat. Nanotechnol.
+13
+, 411–417 (2018).
+Article
+CAS
+Google Scholar
+Avakyan, L. et al. Atomic structure of nickel phthalocyanine probed by X-ray absorption spectroscopy and density functional simulations.
+Opt. Spectrosc.
+114
+, 347–352 (2013).
+Article
+CAS
+Google Scholar
+Kabir, S., Artyushkova, K., Serov, A., Kiefer, B. & Atanassov, P. Binding energy shifts for nitrogen‐containing graphene‐based electrocatalysts-experiments and DFT calculations.
+Surf. Interface Anal.
+48
+, 293–300 (2016).
+Article
+CAS
+Google Scholar
+Jiang, K. et al. Isolated Ni single atoms in graphene nanosheets for high-performance CO
+2
+reduction.
+Energy Environ. Sci.
+11
+, 893–903 (2018).
+Article
+CAS
+Google Scholar
+Kim, H. et al. Identification of single-atom Ni site active toward electrochemical CO
+2
+conversion to CO.
+J. Am. Chem. Soc.
+143
+, 925–933 (2021).
+Article
+CAS
+Google Scholar
+Kaiser, S. K. et al. Nanostructuring unlocks high performance of platinum single-atom catalysts for stable vinyl chloride production.
+Nat. Catal.
+3
+, 376–385 (2020).
+Article
+CAS
+Google Scholar
+Du, Y. et al. XAFCA: a new XAFS beamline for catalysis research.
+J. Synchrotron Radiat.
+22
+, 839–843 (2015).
+Article
+CAS
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169 (1996).
+Article
+CAS
+Google Scholar
+Blöchl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953 (1994).
+Article
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758 (1999).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865 (1996).
+Article
+CAS
+Google Scholar
+Henkelman, G. & Jónsson, H. A dimer method for finding saddle points on high dimensional potential surfaces using only first derivatives.
+J. Chem. Phys.
+111
+, 7010–7022 (1999).
+Article
+CAS
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+J. Lu acknowledges support from MOE grant (R-143-000-B47-114), the Ministry of Education (Singapore) through the Research Centre of Excellence program (Award EDUN C-33-18-279-V12, Institute for Functional Intelligent Materials) and the National University of Singapore Flagship Green Energy Program (R-143-000-A55-646). X.Z. acknowledges support from a Presidential Postdoctoral Fellowship, Nanyang Technological University, Singapore via grant 03INS000973C150. S.M., D.F.A., and J.P.-R. acknowledge funding from the NCCR Catalysis, a National Centre of Competence in Research funded by the Swiss National Science Foundation. Jun Li acknowledges financial support by the National Natural Science Foundation of China (grant number 22033005) and the Guangdong Provincial Key Laboratory of Catalysis (2020B121201002). Computational resources were supported by the Center for Computational Science and Engineering (SUSTech) and Tsinghua National Laboratory for Information Science and Technology. We would like to acknowledge the Facility for Analysis, Characterization, Testing and Simulation, Nanyang Technological University, Singapore, for use of their electron microscopy facilities.
+Author information
+Author notes
+These authors contributed equally: Xiao Hai, Shibo Xi, Sharon Mitchell, Karim Harrath.
+Authors and Affiliations
+Department of Chemistry, National University of Singapore, Singapore, Singapore
+Xiao Hai, Haomin Xu, Jing Li, Zejun Li, Tao Sun, Huimin Yang, Yige Cui & Jiong Lu
+Institute of Chemical and Engineering Sciences, Agency for Science, Technology and Research, Singapore, Singapore
+Shibo Xi
+Institute for Chemical and Bioengineering, Department of Chemistry and Applied Biosciences, ETH Zurich, Zurich, Switzerland
+Sharon Mitchell, Dario Faust Akl & Javier Pérez-Ramírez
+Department of Chemistry, Southern University of Science and Technology, Shenzhen, China
+Karim Harrath & Jun Li
+Department of Chemistry and Key Laboratory of Organic Optoelectronics & Molecular Engineering of the Ministry of Education, Tsinghua University, Beijing, China
+Karim Harrath & Jun Li
+CAS Key Laboratory of Nanosystem and Hierarchical Fabrication, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing, China
+Debin Kong
+SZU-NUS Collaborative Center and International Collaborative Laboratory of 2D Materials for Optoelectronic Science & Technology of Ministry of Education, Engineering Technology Research Center for 2D Materials Information Functional Devices and Systems of Guangdong Province, Institute of Microscale Optoelectronics, Shenzhen University, Shenzhen, China
+Chenliang Su
+School of Materials Science and Engineering, Nanyang Technological University, Singapore, Singapore
+Xiaoxu Zhao
+Centre for Advanced 2D Materials and Graphene Research Centre, National University of Singapore, Singapore, Singapore
+Jiong Lu
+Institute for Functional Intelligent Materials, National University of Singapore, Singapore, Singapore
+Jiong Lu
+Authors
+Xiao Hai
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shibo Xi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sharon Mitchell
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Karim Harrath
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Haomin Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dario Faust Akl
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Debin Kong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jing Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zejun Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tao Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Huimin Yang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yige Cui
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chenliang Su
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaoxu Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jun Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Javier Pérez-Ramírez
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiong Lu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+X.H. and J. Lu conceived and designed the experiments. J.P.-R. conceived the automated synthesis protocol. J. Lu and J.P.-R. supervised the project and organized the collaboration. X.H. performed materials synthesis. S.M. and D.F.A performed automated synthesis. X.H. and T.S. performed the activity test. S.X. performed the XAFS measurement. X.Z., H.X. and D.K. performed the electron microscopy experiments and data analysis. C.S. helped to perform the CO-DRIFTS measurements. Jing Li performed the XPS measurements. Z.L. performed the nitrogen sorption measurements. H.Y. and Y.C. performed the X-ray diffraction measurements. K.H. and Jun Li carried out theoretical calculations. X.H., S.M., J.P.-R., Jun Li and J. Lu co-wrote the manuscript. All authors discussed and commented on the manuscript.
+Corresponding authors
+Correspondence to
+Xiaoxu Zhao
+,
+Jun Li
+,
+Javier Pérez-Ramírez
+or
+Jiong Lu
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Nanotechnology
+thanks Abhaya Datye and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–31 and Tables 1–3.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Hai, X., Xi, S., Mitchell, S.
+et al.
+Scalable two-step annealing method for preparing ultra-high-density single-atom catalyst libraries.
+Nat. Nanotechnol.
+17
+, 174–181 (2022). https://doi.org/10.1038/s41565-021-01022-y
+Download citation
+Received
+:
+05 April 2021
+Accepted
+:
+29 September 2021
+Published
+:
+25 November 2021
+Issue Date
+:
+February 2022
+DOI
+:
+https://doi.org/10.1038/s41565-021-01022-y
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+All the lonely atoms, where do they all belong?
+John R. Regalbuto
+Abhaya K. Datye
+Nature Nanotechnology
+News & Views
+10 Feb 2022
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Advisory Panel
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Nanotechnology
+(
+Nat. Nanotechnol.
+)
+ISSN
+1748-3395
+(online)
+ISSN
+1748-3387
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

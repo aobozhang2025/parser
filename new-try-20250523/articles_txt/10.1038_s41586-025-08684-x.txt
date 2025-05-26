@@ -1,0 +1,2467 @@
+Transforming ceria into 2D clusters enhances catalytic activity | Nature
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+articles
+article
+Transforming ceria into 2D clusters enhances catalytic activity
+Download PDF
+Article
+Published:
+09 April 2025
+Transforming ceria into 2D clusters enhances catalytic activity
+Konstantin Khivantsev
+ORCID:
+orcid.org/0000-0002-4810-586X
+1
+na1
+,
+Hien Pham
+2
+na1
+,
+Mark H. Engelhard
+ORCID:
+orcid.org/0000-0002-5543-0812
+1
+na1
+,
+Hristiyan A. Aleksandrov
+ORCID:
+orcid.org/0000-0001-8311-5193
+3
+,
+Libor Kovarik
+1
+,
+Mark Bowden
+ORCID:
+orcid.org/0000-0003-3812-3340
+1
+,
+Xiaohong Shari Li
+1
+,
+Jinshu Tian
+1
+nAff7
+,
+Iskra Z. Koleva
+3
+,
+Inhak Song
+1
+,
+Wenda Hu
+1
+,
+Xinyi Wei
+4
+,
+Yipeng Sun
+4
+,
+Pascaline Tran
+4
+,
+Trent R. Graham
+1
+,
+Dong Jiang
+ORCID:
+orcid.org/0000-0003-0444-7865
+5
+nAff8
+,
+David P. Dean
+6
+,
+Christian J. Breckner
+6
+,
+Jeffrey T. Miller
+6
+,
+Georgi N. Vayssilov
+ORCID:
+orcid.org/0000-0002-5185-8002
+3
+,
+János Szanyi
+ORCID:
+orcid.org/0000-0002-8442-5465
+1
+,
+Abhaya Datye
+ORCID:
+orcid.org/0000-0002-7126-8659
+2
+&
+…
+Yong Wang
+ORCID:
+orcid.org/0000-0002-8460-7410
+1
+,
+5
+Show authors
+Nature
+volume
+640
+,
+pages
+947–953 (
+2025
+)
+Cite this article
+8830
+Accesses
+64
+Altmetric
+Metrics
+details
+Subjects
+Catalyst synthesis
+Heterogeneous catalysis
+Abstract
+Ceria nanoparticles supported on alumina are widely used in various catalytic reactions, particularly in conjunction with platinum group metals (PGMs)
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+,
+9
+. Here we found that treating these catalysts at temperatures between 750 and about 1,000 °C in the presence of CO and NO in steam (reactive treatment under reducing atmosphere) leads to the dispersion of ceria nanoparticles into high-density 2D (roughly one atomic layer thin) Ce
+x
+O
+y
+domains, as confirmed by microscopy, X-ray photoelectron spectroscopy (XPS), X-ray absorption spectroscopy (XAS), infrared spectroscopy and density functional theory (DFT) calculations. These domains, which densely cover the alumina, exhibit substantially enhanced oxygen mobility and storage capacity, facilitating easier extraction of oxygen and the formation of Ce
+3+
+sites and oxygen vacancies. As a result, these catalysts—whether with or without PGMs, such as Rh and Pt—show improved activity for several industrially important catalytic reactions, including NO and N
+2
+O reduction, as well as CO and NO oxidation, even after exposure to harsh ageing conditions. This study shows a catalyst architecture with superior redox properties under conditions that typically cause sintering, offering a pathway to more efficient metal–ceria catalysts for enhanced general catalysis.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Partially sintered copper‒ceria as excellent catalyst for the high-temperature reverse water gas shift reaction
+Article
+Open access
+14 February 2022
+Dynamic control and quantification of active sites on ceria for CO activation and hydrogenation
+Article
+Open access
+07 November 2024
+Anchoring PdO
+x
+clusters on defective alumina for improved catalytic methane oxidation
+Article
+Open access
+01 August 2024
+Main
+Ceria nanoparticles, alone or on supports, have emerged as versatile catalysts for reactions such as CO, NO and hydrocarbon oxidation, NO reduction and the water–gas shift and Deacon reactions
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+,
+9
+,
+10
+. Ceria supported on alumina has been used commercially for about 40 years in three-way catalysts for gasoline engines to remove NO and CO pollutants. Its catalytic activity is linked to its ability to cycle between Ce
+4+
+/Ce
+3+
+oxidation states and the mobility of lattice oxygen
+10
+,
+11
+,
+12
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+,
+18
+,
+19
+. Maintaining the structural integrity of ceria nanoparticles is suggested to be crucial for high catalytic activity
+4
+,
+5
+,
+6
+,
+7
+,
+8
+,
+9
+,
+10
+,
+11
+,
+12
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+,
+18
+. Despite notable progress in understanding ceria in automotive applications, questions remain about its behaviour under redox treatments with steam at elevated temperatures and its relationship to catalysis. Using advanced tools such as aberration-corrected/high-angle annular dark-field scanning transmission electron microscopy (AC-STEM/HAADF-STEM), in situ infrared spectroscopy, XPS, extended X-ray absorption fine structure (EXAFS), DFT modelling and catalytic measurements, this study provides new atomic-level insights into supported ceria nanomaterials, showing that approximately one-atomic-layer-thin Ce
+x
+O
+y
+domains have superior oxygen mobility and substantially enhanced catalytic activity under industrially relevant conditions
+12
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+,
+18
+.
+We examined three catalyst samples: two commercially available ceria on gamma alumina with 8% and 50% Ce weight loadings, denoted CeAl08 and CeAl50 (Fig.
+1
+and Supplementary Table
+1
+), respectively, and a third sample, CeAl05, prepared in-house with 5% Ce on alumina, incipient-wetness impregnated with cerium nitrate and calcined in air to form ceria particles on alumina surfaces (Supplementary Fig.
+1
+). All three samples exhibit relatively low NO reduction activity, with CeAl50 showing the highest performance owing to its higher (50%) ceria loading. However, their activity remains low without PGMs. AC-STEM images of the fresh samples (Fig.
+2
+) show ceria nanoparticles mixed with the alumina phase and a sparse population of Ce single atoms in CeAl08 (approximately 1% by weight, based on energy-dispersive X-ray spectroscopy (EDS) in regions containing exclusively single sites).
+Fig. 1: Catalytic activity of CeAl catalysts.
+a
+,
+b
+, Ceria/alumina samples tested for NO reduction by CO. Numbers indicate sequential treatments. HTA refers to ageing at a specified temperature in the presence of 10% oxygen/steam. Reactive HTA refers to ageing in the presence of reactants/steam. CeAl08 (
+a
+) and CeAl50 (
+b
+).
+Source data
+Full size image
+Fig. 2: Microscopy characterization.
+High-magnification and low-magnification HAADF-STEM images for CeAl08 (
+a
+–
+f
+) and CeAl50 (
+g
+–
+l
+).
+a
+,
+d
+, ‘Fresh’ sample.
+b
+,
+e
+, HTA at 900 °C.
+c
+,
+f
+, Reactive HTA at 900 °C.
+g
+,
+j
+, ‘Fresh’ sample.
+h
+,
+k
+, HTA at 950 °C.
+i
+,
+l
+, Reactive HTA at 950 °C. Scale bars, 20 nm (
+a
+–
+c
+,
+g
+–
+i
+), 2 nm (
+d
+–
+f
+), 5 nm (
+i
+inset,
+j
+–
+l
+).
+Full size image
+In gasoline vehicles, catalysts are typically exposed to harsh conditions (800–950 °C in the presence of pollutants and steam), leading to ceria sintering and diminished catalytic activity. Here we subjected three samples to hydrothermal ageing in the presence of reactants (referred to as ‘reactive HTA treatment’) at 800–950 °C and found that their NO reduction activity (Fig.
+1
+) increased rather than decreased after this reactive treatment (with N
+2
+, N
+2
+O and NH
+3
+being the typical reaction products, as shown in Supplementary Fig.
+2
+).
+To assess this effect, we further treated the samples in the presence of air with 10% water vapour (referred to as HTA ageing or treatment) at 800–950 °C, resulting in a reversible loss of activity. Further reactive treatment restored the enhanced activity. Therefore, reactive HTA treatment induces reversible changes that benefit catalysis. To explain this unexpected result, we performed AC-STEM/HAADF-STEM imaging on samples exposed to reactive treatments and air/steam treatments.
+Marked changes were observed in the CeAl08 sample (Fig.
+2c,f
+). Reactive treatment caused ceria nanoparticles to disintegrate into a high concentration of Ce
+x
+O
+y
+domains on the alumina surface. In HAADF-STEM, for which brightness is proportional to approximately Z
+1.7
+, Ce atoms—being much heavier than Al—appear much brighter. The alumina surfaces/edges were densely covered by non-crystalline, disordered Ce
+x
+O
+y
+domains. High-resolution STEM images of the reactively aged 0.1 wt% Rh/CeAl08 sample (Extended Data Fig.
+1
+) show a non-conformal layer of disordered Ce
+x
+O
+y
+domains about one atomic layer thick (Supplementary Fig.
+3
+). This is a previously unknown architecture for supported ceria catalysts. EDS analysis estimates that the 2D Ce
+x
+O
+y
+domains on typical high-surface-area alumina can reach up to approximately 10 wt%.
+When the sample is further treated in air/steam, these 2D Ce
+x
+O
+y
+clusters disappear, agglomerating into ceria nanoparticles. Similar trends are observed for the CeAl50 sample after 950 °C HTA ageing. The analogous behaviour of the in-house-prepared CeAl05 sample (Supplementary Fig.
+1
+) indicates that reactive treatment at 800 °C is sufficient to disperse ceria nanoparticles. Notably, samples exposed to several treatment cycles at these high temperatures with steam exhibit improved catalytic activity compared with fresh samples. Some deactivation occurs as a result of ceria sintering into particles too large to redisperse, as shown in Fig.
+2c,i
+and Supplementary Fig.
+4
+. However, the presence of 2D ceria clusters substantially enhances activity, both with (see discussion below) and without PGMs.
+We suggest that the formation of the catalytically active Ce
+x
+O
+y
+phase on alumina is driven by the reduction of ceria nanoparticles at high temperatures in a reducing gas environment. Because ceria particles can only accommodate a limited number of oxygen vacancies while retaining the fluorite crystal structure, progressive bulk reduction at high temperatures destabilizes the nanoparticles and they wet the support (in this case, alumina) surface, forming 2D Ce
+x
+O
+y
+. We further confirm this by showing that treating CeAl08 with dilute hydrogen at 800 °C similarly disperses most ceria nanoparticles into roughly one-monolayer-thin Ce
+x
+O
+y
+domains on the alumina surface (Supplementary Fig.
+5
+), consistent with a previous report showing the disappearance of crystalline ceria reflections on high-temperature H
+2
+treatment of CeO
+2
+/Al
+2
+O
+3
+(ref.
+13
+). A similar catalytic effect is observed for ceria–zirconia nanoparticles supported on alumina (Supplementary Fig.
+6
+). High-temperature reactive (reductive) treatment activates this catalyst (Extended Data Fig.
+2
+and Supplementary Figs.
+7
+–
+13
+), forming roughly one-monolayer-thin ceria–zirconia patches that densely cover the alumina surfaces, as evidenced by high-resolution AC-STEM imaging and EDS mapping (Supplementary Figs.
+9
+–
+13
+).
+To understand the state of ceria in these clusters and the mechanism behind the enhanced activity for NO reduction and redox catalysis, we conducted XPS analysis on the reactive-treated (reactive HTA) and air/steam-treated (HTA) samples (Fig.
+3a,b
+and Supplementary Figs.
+14
+–
+16
+). For HTA CeAl08, the Ce signal largely resembled typical CeO
+2
+nanoparticles
+19
+,
+20
+(Fig.
+3
+). The XPS estimate of Ce content was about 10 wt% (Supplementary Tables
+2
+and
+3
+), measured at two different spots. This value, although close to the nominal CeAl08 content, is used comparatively to assess the changes in surface ceria concentration between different treatments. For reactive-treated samples, notable changes were observed, particularly the marked presence of Ce
+3+
+species in the spectra (Fig.
+3a,b
+). The XPS-derived surface Ce concentration increased to around 14–15 wt%, consistent with HAADF-STEM data, indicating nanoparticle disintegration. While the sample was exposed to air at room-temperature post-reactive treatment before transferring to XPS, causing some reoxidation of reduced ceria nanoparticles, the 2D Ce
+x
+O
+y
+retained a substantial population of Ce
+3+
+sites, unlike CeO
+2
+nanoparticles. This suggests higher extractability/reactivity of lattice oxygen (that is, oxygen storage capacity, OSC). XPS results are treated qualitatively to avoid controversies with deconvolution of reduced ceria bands. Similar changes are observed for the CeAl50 sample (Fig.
+3b
+and Supplementary Table
+3
+), consistent with the reactivity data and AC-STEM images. However, owing to a higher Ce content, ceria nanoparticles remain visible (Fig.
+2
+), as the alumina’s saturation capacity with Ce has been reached. Subtle shifts are also noted in the XPS spectra for Al 2p and O 1s signals (Supplementary Figs.
+17
+–
+22
+). For the reactive HTA-treated CeAl08, the Al 2p signal shifts by about 0.4 eV to lower binding energies (73.8 versus 74.2 eV), consistent with the changes induced by 2D Ce
+x
+O
+y
+domains. We further used EXAFS (Supplementary Figs.
+23
+–
+26
+and Supplementary Table
+4
+) to corroborate our XPS findings and HAADF-STEM data and examine the Ce
+3+
+/Ce
+4+
+distributions. The fresh CeAl08 sample contains ceria nanoparticles, as indicated by its L
+3
+EXAFS line shape matching the CeO
+2
+standard (Supplementary Figs.
+23
+–
+25
+), consistent with HAADF-STEM data. By contrast, after in situ reduction with H
+2
+at 400 °C, the reactively treated CeAl08 (at 900 °C) with 2D Ce
+x
+O
+y
+domains shows 66% Ce
+3+
+(Supplementary Table
+4
+and Supplementary Fig.
+24
+), whereas fresh CeAl08 has about 30% of Ce
+3+
+after in situ reduction with H
+2
+. This confirms the XPS data, demonstrating that the ultrathin Ce
+x
+O
+y
+domains on alumina have much higher OSC and oxygen lability, crucial for redox reactions such as CO/NO oxidation and N
+x
+O
+y
+reduction, in which oxygen is first extracted by a reductant (CO), forming Ce
+3+
+species/oxygen vacancies essential for N
+x
+O
+y
+transformations, confirmed by infrared spectroscopy below.
+Fig. 3: Characterization and schematic.
+a
+,
+b
+, XPS scans of the Ce 3d region for CeAl08 (
+a
+) and CeAl50 (
+b
+) after various treatments.
+c
+,
+d
+, Infrared spectroscopy.
+c
+, Comparison of CO adsorption (2 Torr) at 77 K on the sample (after reactive HTA 900 °C) and following the exposure to 1 Torr O
+2
+at 800 °C for 1 h.
+d
+, CeAl08 (reactive HTA at 900 °C) exposed to NO (1 Torr after CO preadsoption) at 77 K: heating from 77 K (blue) to 298 K (red).
+e
+, Schematic representation of the CeO
+2
+(represented by the Ce
+12
+O
+24
+cluster) transformation into 2D Ce
+4
+O
+6
+clusters on alumina (100) facet. O atoms are shown in red and cerium ions are shown in yellow. For better visual representation, atoms (O in red and Al in grey) of the support are shown smaller in size. a.u., arbitrary units.
+Source data
+Full size image
+We further investigated the surfaces of reactive treated CeAl08 using Fourier transform infrared (FTIR) spectroscopy with CO probe molecule (Fig.
+3c
+). Room-temperature measurements showed no discernible CO signatures, indicating the absence of pentacoordinate Al sites, as these are the only sites capable of strongly adsorbing CO under ambient conditions on alumina surfaces
+21
+. This is consistent with high-field solid-state
+27
+Al nuclear magnetic resonance (NMR) data (Supplementary Fig.
+27
+), which show no measurable pentacoordinate Al
+3+
+ions. We then performed CO adsorption at liquid-nitrogen temperature (77 K; Fig.
+3c
+), yielding an intense C–O stretching band at 2,173 cm
+−1
+from OH groups interacting with CO and no bands from CO adsorption on pentacoordinate or tetra-coordinate Al sites. After heating the sample in approximately 1 Torr oxygen at 800 °C for 1 h and investigating with CO at 77 K, a shift in the C–O stretching band of the Al–OH–CO complex from 2,173 to 2,178 cm
+−
+1
+(Fig.
+3c
+) was observed, consistent with XPS Al 2p data showing a slight increase in positive charge on Al owing to Ce
+3+
+agglomeration into CeO
+2
+nanoparticles. A new C–O stretching band appears (about 2,220 cm
+−
+1
+), indicating CO adsorption on tetra-coordinate Al sites
+21
+exposed after O
+2
+treatment removed dispersed Ce
+3+
+-rich species. Notably, no bands were observed for pentacoordinate Al sites (about 2,235–2,240 cm
+−
+1
+), suggesting that they remain occupied by Ce cations and unavailable for CO adsorption. Apparently, two types of dispersed Ce site are present on alumina surfaces. (1) Ce associated with pentacoordinate Al sites, confirmed by AC-STEM images (Fig.
+2
+), showing a small amount (about 1 wt%) of atomically dispersed Ce persisting, even after harsh O
+2
+/H
+2
+O treatments. These pentacoordinate Al sites adsorb metal cations strongly
+21
+,
+22
+and remain on the surface during reactive/steam and air/steam treatment. (2) 2D Ce
+x
+O
+y
+domains that form during high-temperature reactive-steam treatments from redispersed ceria nanoparticles, containing abundant Ce
+3+
+cations and oxygen vacancies, which are substantially more catalytically active than ceria nanoparticles. To examine activity, we performed in situ co-adsorption of NO/CO on the reactive-treated CeAl08 sample containing Ce
+x
+O
+y
+clusters (Supplementary Fig.
+28
+). NO was adsorbed at 77 K on a CO-saturated surface, followed by heating to 298 K. An absorption band developed at 2,247 cm
+−
+1
+, substantiating the formation of N
+2
+O (Fig.
+3d
+), owing to the presence of Ce
+3+
+, which participates in NO reduction
+23
+. Ce
+4+
+sites on oxidized ceria are inactive for NO adsorption and transformation, as confirmed by infrared experiments (Supplementary Fig.
+29a
+). Only when the ceria surface is reduced (for example, by CO at 500 °C), forming Ce
+3+
+and oxygen vacancies, did NO adsorption and activation occur, leading to N
+2
+O and N
+2
+formation (Supplementary Fig.
+29b
+). Thus, Ce
+3+
+sites are essential for ceria reactivity towards NO (refs.
+23
+,
+24
+). Once N
+2
+O forms, the oxygen vacancy is refilled:
+$${\rm{Ce}}({\rm{III}})(2{\rm{NO}}){\rm{Ce}}({\rm{III}})\to {\rm{Ce}}({\rm{IV}})-{{\rm{N}}}_{2}{{\rm{O}}}_{2}-{\rm{Ce}}({\rm{IV}})\to {\rm{Ce}}({\rm{IV}})-{\rm{O}}-{\rm{Ce}}({\rm{IV}})+{{\rm{N}}}_{2}{\rm{O}}$$
+To demonstrate that NO reaction with ceria restores active oxygen, the sample was exposed to CO after the NO reaction, resulting in carbonate formation owing to CO
+2
+adsorption on the ceria surface (Supplementary Fig.
+30
+). In reactive-treated ceria/alumina, even after air exposure, Ce
+x
+O
+y
+retains abundant Ce
+3+
+sites that can activate NO below room temperature, forming N
+2
+O (about 2,247 cm
+−
+1
+; Fig.
+3d
+), showing higher reactivity of 2D Ce
+x
+O
+y
+domains compared with ceria nanoparticles, which remain inactive at room temperature (Supplementary Fig.
+29a
+). Only Ce
+3+
+sites combined with oxygen vacancies are highly reactive. The key role of Ce is to shuttle between 4+ and 3+ oxidation states during catalysis. In ceria nanoparticles, most Ce is buried in the bulk, limiting the surface availability of Ce
+3+
+for redox reactions. In Ce
+x
+O
+y
+on alumina, up to about 10 wt% of ceria is fully dispersed as 2D Ce
+x
+O
+y
+domains, providing: (1) full exposure of Ce atoms to reactants; (2) increased OSC; and (3) abundant Ce
+3+
+.
+DFT calculations confirm thermodynamically favourable transformation of CeO
+2
+nanoparticles into Ce
+3+
+-rich, single-atomic-layer clusters on (100) alumina facets (Fig.
+3e
+and Supplementary Fig.
+31
+).
+A Ce
+12
+O
+24
+cluster was modelled on Al
+2
+O
+3
+(100) facets, common on γ-alumina, and reaction energies were calculated for its decomposition into fragments involving four cerium ions.
+With four Ce
+3+
+cations, model Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100):
+$${{\rm{Ce}}}_{12}{{\rm{O}}}_{24}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)+2\times {{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)\to {3{\rm{Ce}}}_{4}{{\rm{O}}}_{6}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)+{3{\rm{O}}}_{2}$$
+The process is strongly exothermic by 12.09 eV (about 1 eV per Ce
+3+
+cation).
+With two Ce
+3+
+and two Ce
+4+
+cations, model Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100):
+$${{\rm{Ce}}}_{12}{{\rm{O}}}_{24}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)+2\times {{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)\to {3{\rm{Ce}}}_{4}{{\rm{O}}}_{7}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)+{1.5{\rm{O}}}_{2}$$
+The process is exothermic by 17.52 eV (about 1.46 eV per cerium cation).
+The adsorption of four and 12 NO molecules on Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) (with all Ce
+3+
+cations) and Ce
+12
+O
+24
+/Al
+2
+O
+3
+(100) structures, respectively, was modelled to explore the reaction 12NO/Ce
+12
+O
+24
+/Al
+2
+O
+3
+(100) + 2 × Al
+2
+O
+3
+(100) → 3 × 4NO/Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) + 3O
+2
+. This reaction was found to be strongly exothermic by 17.48 eV (about 1.46 eV per cerium cation), even more so than in the absence of NO ligands, indicating that adsorption of NO promotes ceria particle fragmentation on the alumina support. These results confirm that the formation of Ce
+3+
+-rich, atomically thin 2D Ce
+x
+O
+y
+domains in the ceria/Al
+2
+O
+3
+system is thermodynamically favourable, which agrees with experimental observations of Ce
+3+
+prevalence even in air-exposed 2D Ce
+x
+O
+y
+on alumina. DFT-calculated XPS features for Ce
+3+
+and Ce
+4+
+in 2D Ce
+x
+O
+y
+(Supplementary Table
+6
+) are in general agreement with the experimentally observed bands. DFT modelling of NO interaction with Ce
+3+
+/alumina centres showed agreement with observed NO stretching frequencies for the calculated polynitrosyl NO complexes (Supplementary Fig.
+31
+and Supplementary Table
+5
+).
+The ability of ceria nanoparticles to form 2D Ce
+x
+O
+y
+with superior redox properties, while remaining stable under harsh conditions, offers new insights for more effective catalysts. As well as metal interactions, the mobility of oxides must be considered, adding a crucial dimension to ceria-supported materials—especially because industrially relevant ceria is alumina-supported
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+,
+9
+,
+10
+,
+11
+,
+12
+,
+13
+,
+14
+,
+15
+,
+25
+,
+26
+,
+27
+. To demonstrate the catalytic potential of 2D Ce
+x
+O
+y
+architecture, we show that PGMs (Rh and Pt) in contact with these 2D Ce
+x
+O
+y
+domains substantially enhance catalytic efficiency for key reactions, including NO and N
+2
+O reduction by CO (for both Rh and Pt), CO oxidation (Pt and Rh) and NO oxidation (Pt). CeAl08 and CeAl50 samples were loaded with 0.1% and 0.5 wt% Rh. Contrary to expectations, reactive treatment did not deteriorate catalytic activity; instead, Rh on ceria/alumina showed improved performance (Fig.
+4a,b
+and Supplementary Fig.
+32
+). High-temperature ageing in air/steam led to diminished NO reduction activity, explained by the agglomeration of 2D Ce
+x
+O
+y
+into ceria nanoparticles, which buried Rh ions, leaving them unavailable for adsorption and reaction. During reactive treatment, Ce redispersion at high temperatures reexposed Rh and Ce
+3+
+sites, restoring catalytic activity. This positive effect occurred even in the presence of oxygen during reactive treatment and reaction (Supplementary Fig.
+33
+). We further analysed the 0.1 wt% Rh/CeAl08 sample after eight ageing cycles (Fig.
+4a
+, the final eighth reactive HTA) using several characterization techniques (Supplementary Figs.
+34
+–
+38
+). High-resolution HAADF-STEM images (Supplementary Figs.
+3
+,
+4
+,
+35
+and
+36
+) confirmed the presence of a 2D Ce
+x
+O
+y
+phase densely covering the alumina surface with abundant Ce
+3+
+sites confirmed by XPS (Supplementary Fig.
+34
+). EDS maps (Supplementary Fig.
+35
+) showed atomically dispersed Rh with loadings close to nominal, together with Rh nanoparticles (Supplementary Fig.
+36
+). Both isolated Rh sites and nanoparticles were in contact with the 2D Ce
+x
+O
+y
+phase, aligning with FTIR spectroscopy results (Supplementary Fig.
+37
+). Lower-resolution TEM images (Supplementary Fig.
+4
+) revealed larger ceria crystallites without Rh, consistent with X-ray diffraction (XRD) data (Supplementary Fig.
+38
+). These larger crystallites contributed to some deactivation during ageing between measurements 1 and 8 in Fig.
+4a
+, as ceria nanoparticles sintered into larger crystallites that became more difficult to disperse
+28
+,
+29
+. Despite this, the sample retained higher activity than the fresh one owing to the abundant 2D Ce
+x
+O
+y
+phase, densely covering alumina, with superior OSC. We explored whether cerium aluminate formation
+30
+,
+31
+could occur under these conditions and contribute to catalytic promotion. Typically synthesized at >1,400 °C under reducing conditions with large crystalline domains
+31
+, we successfully synthesized nanosized cerium aluminate from CeAl50. Reactive HTA treatment at 1,150 °C transformed ceria into CeAlO
+3
+with an average crystal size of around 25 nm, as confirmed by XRD (Supplementary Fig.
+39
+); treatment below this temperature did not yield CeAlO
+3
+. HAADF-STEM imaging showed that CeAlO
+3
+forms as nanoparticles with highly ordered Ce atoms (Supplementary Figs.
+40
+–
+43
+), unlike the disordered 2D Ce
+x
+O
+y
+domains. Catalytic measurements showed nearly no catalytic activity (Supplementary Fig.
+44
+), suggesting that CeAlO
+3
+formation leads to deactivation, unlike the activity enhancement from Ce
+x
+O
+y
+clusters. Infrared spectroscopy with NO probe molecules confirmed CeAlO
+3
+’s lack of reactivity (Supplementary Fig.
+45
+), probably because of the highly 12-coordinated Ce cations in its unit cell (Supplementary Fig.
+46
+), excluding them from redox catalysis.
+Fig. 4: Catalytic activity of Rh/CeAl catalysts.
+a
+,
+b
+, NO conversion for catalysts containing 0.1 wt% (
+a
+) and 0.5 wt% (
+b
+) Rh on CeAl08. Numbers 1–8 in
+a
+and 1–5 in
+b
+denote activity measurements after each sequential treatment. Treatment time during each step (air/steam or reactive/steam) is 5 h, unless noted otherwise.
+c
+, CO oxidation on 0.5 wt% Rh on CeAl08. For 3, after reactive treatment in 460 ppm NO, 1,750 ppm CO, about 10% H
+2
+O for 1 h at 820 °C, the CO and NO flow was stopped to ensure full desorption of CO and NO, the sample was cooled to 50 °C and the CO oxidation was started. Conditions: 120 mg catalyst, 300 sccm min
+−1
+total flow, CO concentration approximately 630 ppm, O
+2
+concentration approximately 14%, H
+2
+O approximately 2.6%, GHSV approximately 150 l (g h)
+−1
+, ramp rate 4 °C min
+−1
+.
+Source data
+Full size image
+We extended our findings to other critical catalytic reactions, such as CO/NO oxidation and N
+2
+O reduction. Exposing a 0.5 wt% Rh/CeO
+2
+–Al
+2
+O
+3
+catalyst to reactive treatment at 820 °C shifted the CO oxidation curve by about 100 °C, achieving CO conversion at 150 °C (Fig.
+4c
+). A similar reactivity promotion was observed for N
+2
+O reduction with the Rh/CeAl08 catalyst by reactive treatment shifting the curve by about 100 °C (Supplementary Fig.
+47
+). We further explored this by loading Pt, important for diesel oxidation. For reactions relevant to diesel oxidation (NO and CO oxidation; Supplementary Fig.
+48
+), the activity of the reactively treated sample was higher than that of the fresh catalyst or those mildly reduced. Moreover, NO reduction activity for Pt/CeAl08 increased similarly to Rh samples after reactive treatment (Supplementary Fig.
+49
+). Our findings show that 2D Ce
+x
+O
+y
+domains formed on commercial catalysts exhibit superior redox properties and reactivity for key industrial reactions (CO and NO oxidation and NO and N
+2
+O reduction), outperforming ceria nanoparticles.
+Methods
+Materials
+We purchased cerium nitrate hexahydrate with purity 99.999% from Sigma. Commercially available SBA-90 gamma alumina with surface area 90 m
+2
+g
+−1
+was used for the synthesis of 5 wt% ceria/alumina sample. Commercial samples with nominal 8% and 50% ceria supported on gamma alumina were supplied by BASF. Commercial sample with about 25 wt% ceria–zirconia on alumina (zirconia to ceria weight ratio approximately 60:40) was supplied by BASF. Commercial pure gamma alumina powder with surface area about 180 m
+2
+g
+−1
+was supplied by BASF.
+Polyhedral ceria nanoparticles were prepared by decomposing cerium nitrate in the muffle furnace at 650 °C (referred to as standard ceria nanoparticles).
+To prepare the loadings of Rh on supports of 0.1 wt% and 0.5 wt%, the desired amount of Rh precursor (rhodium nitrate hydrate; Sigma) was dissolved in the minimum amount of water (total volume approximately equivalent to the pore of support) and added with a micropipette to the desired amount of sample while continuously stirring with the spatula to ensure uniformity. The obtained powder was dried under N
+2
+flow at 80 °C and then calcined at 600 °C for 1 h in a normal muffle furnace with a ramp rate of 5 °C min
+−1
+. The as-prepared Rh-containing catalysts were pressed, crushed and sieved to 60–80 mesh.
+The analogous synthesis method was used to prepare the desired amounts of Pt on supports: platinum tetramine nitrate (from Sigma) was used as a Pt precursor.
+Catalytic experiments
+Catalytic experiments were conducted in a plug-flow reactor system with powder samples (120 mg, 60–80 mesh) loaded in a quartz tube, using a synthetic gas mixture containing 460 ppm of NO and 1,750 ppm of CO balanced with N
+2
+at a flow rate of 300 sccm (corresponding to gas hourly space velocity (GHSV) 150 l (g h)
+−1
+) in the presence of 2.6% water vapour. CO oxidation experiments were performed in the presence of 620 ppm CO, 14% O
+2
+and 2.6% H
+2
+O balanced with nitrogen. All of the gas lines were heated to more than 100 °C. Concentrations of reactants and products were measured by an online MKS MultiGas 2030 FTIR Gas Analyzer with a gas cell maintained at 191 °C. Two four-way valves were used for gas switching between the reactor and the bypass. The heating rate was 4 K min
+−1
+.
+We performed hydrothermal ageing with oxygen (HTA) at the desired temperature for 5 h (unless noted otherwise in the text) in a flow reactor with GHSV ≈ 150 l (g h)
+−1
+. The gas mix, used for HTA, contained air and 10% H
+2
+O.
+We performed reactive HTA treatment at the desired temperature in the presence of CO, NO, nitrogen and 10% H
+2
+O with GHSV ≈ 150 l (g h)
+−1
+for 5 h (unless noted otherwise in the text).
+We conducted CO and NO oxidation on 1 wt% Pt/CeAl08 using a gas mixture of about 250 ppm NO, about 650 ppm CO, 10% O
+2
+, about 3% H
+2
+O, balanced with N
+2
+at GHSV ≈ 150 l (g h)
+−1
+. Treatments were performed at GHSV ≈ 150 l (g h)
+−1
+with a fresh catalyst for 1 h. Reactive HTA treatment at 800 °C was with 450 ppm NO, 2,000 ppm CO and 10% H
+2
+O. HTA treatment at 800 °C was with 10% O
+2
+/10% H
+2
+O/N
+2
+. A light-off curve was also obtained after exposing the catalyst to reducing treatment with CO at 375 °C (for 30 min), as it was previously shown to improve the CO oxidation reactivity of Pt/ceria catalysts. CO oxidation activity was the best for reactive-treated sample. NO oxidation activity was the best for reactive-treated sample.
+We performed N
+2
+O reduction by CO activity of the 0.5 wt% Rh/CeAl08 sample after reactive HTA (800 °C) and HTA (800 °C) for 1 h for either high-temperature treatment. Concentrations: 500 ppm N
+2
+O, about 2,000 ppm CO, about 3% H
+2
+O, balanced with N
+2
+. GHSV ≈ 150 l (g h)
+−1
+.
+Characterization
+We conducted Brunauer–Emmett–Teller (BET) surface-area analysis on a Micromeritics ASAP 2000 instrument with Ar as the adsorbate. Before analysis, the samples were dehydrated under vacuum for 3 h at 250 °C.
+Microscopy samples were dispersed in ethanol and mounted on holey carbon grids for examination in a JEOL NeoARM 200CF transmission electron microscope equipped with spherical aberration correction to allow atomic resolution imaging and an Oxford AZtec Energy Dispersive Spectroscopy system for elemental analysis (for microscopy imaging at the University of New Mexico). The microscope is equipped with two large-area JEOL EDS detectors for higher throughput in the acquisition of X-ray fluorescence signals. Images were recorded in annular dark field (ADF) mode and in annular bright field (ABF) mode.
+We performed microscopy analysis at Pacific Northwest National Laboratory (PNNL) with a FEI Titan 80-300 microscope operated at 300 kV. The instrument is equipped with a CEOS GmbH double-hexapole aberration corrector for the probe-forming lens, which allows for imaging with 0.1 nm resolution in STEM mode. HAADF-STEM images were acquired with a HAADF detector with inner collection angle set to 52 mrad.
+We performed XPS experiments using a Physical Electronics Quantera scanning X-ray microprobe. This system uses a focused monochromatic Al Kα X-ray (1,486.7 eV) source for excitation and a spherical section analyser. The instrument has a 32-element multichannel detection system. The 80-W X-ray beam focused to 100 μm diameter was rastered over a 1.1 × 0.1-mm rectangle on the sample. The X-ray beam was incident normal to the sample and the photoelectron detector was at 45° off-normal. High-energy-resolution spectra were collected using a pass energy of 69.0 eV with a step size of 0.125 eV. Note that the samples experienced variable amounts of charging. Low-energy electrons at about 1 eV, 20 μA and low-energy Ar
++
+ions were used to minimize this charging. The samples were loaded into the XPS cell after certain treatments in the flow-through reactor. After hydrothermal and reactive treatments, the samples were taken out of the reactor (exposed to ambient air) and then transferred to the XPS cell.
+We collected XRD patterns on a Rigaku SmartLab SE X-ray diffractometer using a Cu–Kα radiation of 0.154056 nm (40 kV and 44 mA) and a D/teX Ultra 250 1D detector. Data were collected from a powder sample holder in a 2
+θ
+range 2–100°, with a step size of 0.01° s
+−1
+. All measurements were performed under ambient conditions. Rietveld fitting was carried out using TOPAS (v6; Bruker AXS) with all atomic coordinates fixed. The contribution from Al
+2
+O
+3
+was modelled using the structure by Zhou and Snyder.
+We performed
+27
+Al magic angle spinning (MAS) NMR spectroscopy using a 14.1-T Bruker NMR. At this field strength, the corresponding
+27
+Al Larmor frequency is 156.375 MHz. Spectra were acquired using a MASDVT600W2 BL2.5 X/Y/H probe at room temperature. Spectra were acquired following a single direct excitation pulse, with a total collection of 512 transients and an acquisition time of 9.9 ms. A delay between transients of 0.5 s was used and the excitation pulse was a single, π/20 liquid-state pulse of 0.450-μs duration. The liquid-state pulse widths are referenced by nutation experiments performed on a 1 M Al(H
+2
+O)
+6
+3+
+solution, which was prepared by means of dissolution of aluminium chloride hexahydrate (AlCl
+3
+·6H
+2
+O, ≥99%;, Sigma-Aldrich) in H
+2
+O. The chemical shifts of the
+27
+Al MAS NMR spectra are also referenced to this 1 M
+\({{\rm{Al}}({{\rm{H}}}_{2}{\rm{O}})}_{6}^{3+}\)
+solution, for which the resonance of the reference solution was assigned to 0 ppm. The
+27
+Al MAS NMR spectra were collected at a MAS spin rate of 20 kHz. The MAS NMR spectra were then processed in Mestrenova (version 14.01-23,559, released 2019-06-07; Mestrelab Research S.L.), in which the free induction decay was zero-filled once to 18.8 ms and then 5 Hz of exponential line broadening was applied.
+We conducted the in situ transmission infrared experiments in a home-built cell housed in the sample compartment of a Bruker VERTEX 80 spectrometer, equipped with a mercury cadmium telluride detector and operated at 4 cm
+−
+1
+resolution. The powder sample was pressed onto a tungsten mesh, which—in turn—was mounted onto a copper heating assembly attached to a ceramic feedthrough. The sample could be resistively heated and the sample temperature was monitored by a thermocouple spot-welded onto the top centre of the W grid. The cold finger on the glass bulb containing CO was cooled with liquid nitrogen to eliminate any contamination originating from metal carbonyls, whereas NO was cleaned with several freeze–pump–thaw cycles. Before spectrum collection, a background with the sample in the infrared beam was collected. Each spectrum reported is obtained by averaging 64 scans.
+We conducted in situ XAS measurements in transmission mode at the 10-BM-B beamline at the Advanced Photon Source of Argonne National Laboratory at the Ce LIII edge (5.723 keV) to determine the Ce oxidation state and coordination environment. Data were collected at room temperature in He for the as-received samples and after heating in 5% H
+2
+/He at 400 °C for 30 min and cooling to room temperature in He. Trace oxidants were removed from the He by an Oxy-Trap. All samples were ground into a fine powder, pressed into a six-shooter sample holder and sealed in a sample cell with Kapton end caps. Energy calibration was done using a Mn foil (K edge, 6.539 keV). XAS data were fit using WinXAS 3.1. Linear combination fitting from 5.68 to 5.75 keV of X-ray absorption near edge structure (XANES) was used to estimate the fraction of Ce
+3+
+and Ce
+4+
+, respectively, using CeO
+2
+and Ce(NO
+3
+)
+3
+·6H
+2
+O references. Fits of the EXAFS data were obtained on the isolated, k2-weighted EXAFS spectra. Least-squares regression of the Fourier transform data from 2.5 to 10.0 Å
+−
+1
+in k-space was used to obtain the fitting parameters. All samples were fit using experimental Ce–O phases and amplitude functions using a CeO
+2
+standard with eight Ce–O at 2.34 Å.
+Theoretical methods
+We performed periodic DFT + U calculations using the Perdew-Wang 1991 (PW91) functional
+32
+,
+33
+, as implemented in the Vienna Ab initio Simulation Package (VASP)
+34
+,
+35
+,
+36
+,
+37
+. The U parameter was set to 4.0 eV (refs.
+38
+,
+39
+). The valence wave functions were expanded to a plane-wave basis with energy cut-off of 415 eV. For the description of core–valence electron interactions, pseudopotentials within the projector augmented wave (PAW) approach were used
+40
+. The Brillouin zone was sampled using the Γ point only
+41
+. All structures that contain reduced ceria species and/or NO molecules were optimized in spin-polarized fashion.
+We used a crystal structure of bulk γ-Al
+2
+O
+3
+with space group P21/m and unit cell parameters:
+a
+= 5.587 Å,
+b
+= 8.413 Å,
+c
+= 8.068 Å and
+β
+= 90.59 Å, according to ref.
+42
+. In our (100) slab model surface, we used double unit cell size in all directions, as the bulk structure was cut perpendicular to direction
+a
+. The parameters of the optimized unit cell are
+a
+= 11.046 Å,
+b
+= 16.650 Å and
+c
+= 16.016 Å and contain a further 10-Å vacuum space in direction
+a
+. The slab model contains 64 Al
+2
+O
+3
+units (320 atoms).
+The binding energy (BE) per NO adsorbate was calculated as: BE = [−
+n
+× E(NO) − E(CeO
+2
+/Al
+2
+O
+3
+(100)) + E(
+n
+NO/CeO
+2
+/Al
+2
+O
+3
+(100))]/
+n
+, in which E(NO) is the total energy of the NO adsorbate in the gas phase (ground state), E(CeO
+2
+/Al
+2
+O
+3
+(100)) is the total energy of the pristine substrate and E(
+n
+NO/CeO
+2
+/Al
+2
+O
+3
+(100)) is the total energy of the substrate together with the NO adsorbates in the optimized geometry. With the above definition, negative values of BE imply a favourable interaction. To address the experimental findings, we have modelled four CeO
+2
+species located close to each other on Al
+2
+O
+3
+(100), Ce
+4
+O
+8
+. Notably, removal of O
+2
+(creation of two O vacancies) from this structure and formation of Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) is exothermic by about 1 eV. We also modelled a Ce
+12
+O
+24
+cluster adsorbed on the Al
+2
+O
+3
+(100) and calculated the reaction energies of two formal reactions of its decomposition to fragments involving four cerium ions.
+With four Ce
+3+
+cations, model Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) (Supplementary Fig.
+31
+):
+$${{\rm{Ce}}}_{12}{{\rm{O}}}_{24}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)+2\times {{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)\to {3{\rm{Ce}}}_{4}{{\rm{O}}}_{6}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)+{3{\rm{O}}}_{2}$$
+The process is strongly exothermic by 12.09 eV (about 1 eV per Ce
+3+
+cation).
+With two Ce
+3+
+and two Ce
+4+
+cations, model Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100) (Supplementary Fig.
+31
+):
+$${{\rm{Ce}}}_{12}{{\rm{O}}}_{24}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)+2\times {{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)\to {3{\rm{Ce}}}_{4}{{\rm{O}}}_{7}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)+{1.5{\rm{O}}}_{2}$$
+The process is exothermic by 17.52 eV (about 1.46 eV per cerium cation).
+Complexes with small amount of NO
+NO/Ce
+4
+O
+6
+complexes
+We also considered NO adsorption on Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100), on which four Ce
+3+
+cations exist, and on Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100) systems, on which two Ce
+3+
+and two Ce
+4+
+cations are present. The second system allows the possibility for NO oxidization to NO
++
+, which will be accompanied by the reduction of Ce
+4+
+to Ce
+3+
+. However, in none of the considered examples was such possibility realized. In both cases, when only one NO molecule is adsorbed, it interacts with three cerium cations (N interacts with two cerium cations, whereas O atom interacts with one). In NO/Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100), these three cerium cations are in oxidation state +3, whereas the fourth cerium cation, which does not interact with the NO, is oxidized to Ce
+4+
+, which means that the NO molecule is reduced to NO
+−
+. The binding of NO in that complex is strong, BE(NO) = −1.98 eV. In NO/Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100), NO interacts with two Ce
+4+
+and one Ce
+3+
+cations. This leads to lower binding energy of NO, −1.10 eV. The N–O vibrational frequencies in the two cases are 1,428 and 1,488 cm
+−
+1
+(Supplementary Table
+5
+).
+2NO/Ce
+4
+O
+6
+complexes
+We considered five different complexes 2NO/Ce
+4
+O
+6
+, in which the two NO molecules are located close to the same cerium ion. In the most stable ones, there is a bond between the N atoms of the NO ligands, thus hyponitrite ONNO moiety is formed. Those complexes are considered as possible intermediates for N
+2
+O formation during deNOx processes. There are two Ce
+3+
+and two Ce
+4+
+centres in these structures, thus hyponitrite should be dianions, [ONNO]
+2−
+. The BE values per NO molecule in the two most stable structures are high, −2.56 and −2.44 eV, and the bonding of the hyponitrite moiety is similar (Supplementary Table
+5
+). The highest calculated vibrational frequencies are at 1,342–1,318 and 1,014–1,001 cm
+−
+1
+, which are close to the regions reported earlier for such types of hyponitrites on ceria
+23
+.
+Complexes with large amount of NO
+12NO/Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) and 7NO/Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100) complexes
+We also considered the Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) structure, on which initially three NO ligands per each Ce
+3+
+cation were adsorbed, for example, the 12NO/Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) model. After the geometry optimization, Ce
+3+
+(NO)
+4
+, Ce
+4+
+(NO)
+3
+and Ce
+3+
+(NO)
+2
+complexes were formed, whereas nitrite species are found at the fourth Ce
+3+
+cation and, also, one of the NO ligands is very weakly interacting with it. To check the stability and oxidation state of cerium cations in the trinitrosyl and tetranitrosyl complexes, we also studied the 7NO/Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100) structure, in which two of the cerium ions are in 3+ and the other two are in 4+ oxidation states (Supplementary Fig.
+31
+). Initially, the oxidation state of both cerium ions, at which the NO ligands were coordinated, was +3, but after optimization of the cation involved in the tetranitrosyl complex, it was oxidized to +4. Thus, Ce
+3+
+(NO)
+4
+and Ce
+4+
+(NO)
+3
+complexes are formed. The obtained dinitrosyl, trinitrosyl and tetranitrosyl complexes have N–O vibrational frequencies at 1,846, 1,797, 1,763, 1,727, 1,718, 1,675, 1,656, 1,648 and 1,638 cm
+−
+1
+in the structure with 12 NO molecules and 1,889, 1,840, 1,799, 1,751, 1,716, 1,703 and 1,680 cm
+−
+1
+in the structure with seven NO ligands. These frequencies cover the range of our experimental bands, 1,898–1,752 cm
+−
+1
+(Supplementary Table
+5
+).
+The adsorption of four and 12 NO molecules on the structures Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) and Ce
+12
+O
+24
+/Al
+2
+O
+3
+(100), respectively, was also modelled (Supplementary Fig.
+31
+). We initially put one NO molecule per each Ce
+3+
+cation in the 4NO/Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) model; however, after the geometry optimization, one NO migrated to the neighbouring cerium cation and thus a dinitrosyl complex was formed. The following stretching frequencies for the NO ligands were calculated: 1,763, 1,718, 1,690 and 1,627 cm
+−
+1
+.
+We considered several initial structures for the 12NO/Ce
+12
+O
+24
+/Al
+2
+O
+3
+(100) model, such as: one NO molecule per each Ce
+4+
+cation; one trinitrosyl complex and nine mononitrosyls; two trinitrosyl complexes and six mononitrosyls; one tetranitrosyl and eight mononitrosyls; six dinitrosyl complexes. However, during the geometry optimization, spontaneous desorption of some of the NO molecules was observed. Only in the case of six dinitrosyl complexes are all 12 NO molecules bound to the cerium cations, although part of the NO ligands interact more weakly with cerium cations with respect to the situation with the 4NO/Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) structure. For comparison, the Ce–N bond lengths in the 4NO/Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) model are 250–256 pm, whereas in the case of 12NO/Ce
+12
+O
+24
+/Al
+2
+O
+3
+(100), the corresponding values are 262–279 pm, as one bond is much longer (292 pm). The weaker adsorption could also be concluded from the substantial decrease of the average binding energy of the NO ligands from −1.02 eV to −0.57 eV for the 4NO/Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) and 12NO/Ce
+12
+O
+24
+/Al
+2
+O
+3
+(100) models, respectively. The calculated frequencies of the N–O stretching vibrations for the dinitrosyl complexes in the 12NO/Ce
+12
+O
+24
+/Al
+2
+O
+3
+(100) model are at 1,909, 1,876, 1,855, 1,850, 1,831, 1,809, 1,782, 1,758, 1,745, 1,742, 1,735 and 1,725 cm
+−
+1
+(Supplementary Table
+5
+).
+To estimate the stability of the system with isolated nitrosyl complexes, Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100), with respect to the NO adsorption on small ceria particles, we considered the following model reaction:
+$$12{\rm{NO}}/{{\rm{Ce}}}_{12}{{\rm{O}}}_{24}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)+2\times {{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)\to 3\times 4{\rm{NO}}/{{\rm{Ce}}}_{4}{{\rm{O}}}_{6}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}(100)+{3{\rm{O}}}_{2}$$
+Our calculations showed that the reaction is strongly exothermic by 17.48 eV, suggesting that isolated supported cerium nitrosyls are much more stable than ceria particles interacting with NO molecules.
+Calculation of 3d core-level energies for cerium cations
+The 3d core energies of the cerium cations in selected structures were calculated using different approximations for the excitation of the electrons
+43
+(Supplementary Table
+6
+). In the structures Ce
+4
+O
+8
+/Al
+2
+O
+3
+(100) and Ce
+12
+O
+24
+/Al
+2
+O
+3
+(100), all Ce cations are in oxidation state 4+, whereas in Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100), two are Ce
+4+
+and two are Ce
+3+
+. In bulk CeAlO
+3
+and Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100), all Ce cations are in oxidation state 3+. The results obtained through the initial state approximation show that the energies of the 3d core levels of Ce
+4+
+in the Ce
+4
+O
+8
+/Al
+2
+O
+3
+(100) model are lower than those of the Ce
+3+
+cations in structures Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100) and Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) by about 5 eV. The 3d levels of Ce
+4+
+are within 0.3 eV for Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100) and Ce
+12
+O
+24
+/Al
+2
+O
+3
+(100). Notably, when Ce
+3+
+cations are in a bulk system such as CeAlO
+3
+, the 3d core levels are about 3.5 eV lower with respect to the corresponding values for the same cations in Ce
+4
+O
+6
+/Al
+2
+O
+3
+(100) and Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100). Using the Janak–Slater (JS) approach in which a half-electron is excited to the LUMO, similar results to in the case of the initial state approximation were obtained. The 3d levels of Ce
+3+
+cations are calculated at higher energies by 1.65 еV with respect to Ce
+4+
+cations in the Ce
+4
+O
+8
+/Al
+2
+O
+3
+(100) system. This is not the case for the JS
+n
+approach, in which half an electron is removed from the system. The 3d levels of Ce
+3+
+cations in the Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100) model appear at lower energies by 0.34 eV with respect to the 3d levels of Ce
+4+
+cations in the same structure. The calculated core-level binding energies by final state approaches, FS and FS
+n
+, are also higher for Ce
+4+
+cations compared with that obtained for Ce
+3+
+cations in the Ce
+4
+O
+7
+/Al
+2
+O
+3
+(100) model. In conclusion, the initial state and JS approximations show similar trends and, in both cases, the 3d core levels of the Ce
+4+
+cations have lower energies compared with Ce
+3+
+and could be easily distinguished from those for Ce
+3+
+cations, as the shift is large enough—around 5 еV and 1.7 eV, respectively.
+Data availability
+All data are available in the main text or the
+Supplementary Information
+and are also available from the corresponding authors on request. The structures from the DFT calculations are available at Zenodo:
+https://doi.org/10.5281/zenodo.14030546
+(ref.
+44
+).
+Source data
+are provided with this paper.
+References
+Summers, J. C. & Ausen, S. A. Interaction of cerium oxide with noble metals.
+J. Catal.
+58
+, 131–143 (1979).
+Article
+CAS
+Google Scholar
+Trovarelli, A. Catalytic properties of ceria and CeO
+2
+-containing materials.
+Catal. Rev. Sci. Eng.
+38
+, 439–520 (1996).
+Article
+CAS
+Google Scholar
+Montini, T., Melchionna, M., Monai, M. & Fornasiero, P. Fundamentals and catalytic applications of CeO
+2
+-based materials.
+Chem. Rev.
+116
+, 5987–6041 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Gorte, R. J. Ceria in catalysis: from automotive applications to the water–gas shift reaction.
+AIChE J
+56
+, 1126–1135 (2010).
+Article
+CAS
+ADS
+Google Scholar
+Rodriguez, J. A., Grinter, D. C., Liu, Z., Palomino, R. M. & Senanayake, S. D. Ceria-based model catalysts: fundamental studies on the importance of the metal–ceria interface in CO oxidation, the water–gas shift, CO
+2
+hydrogenation, and methane and alcohol reforming.
+Chem. Soc. Rev.
+46
+, 1824–1841 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Farmer, J. A. & Campbell, C. T. Ceria maintains smaller metal catalyst particles by strong metal-support bonding.
+Science
+329
+, 933–936 (2010).
+Article
+CAS
+PubMed
+ADS
+Google Scholar
+Meunier, F. C. et al. Synergy between metallic and oxidized Pt sites unravelled during room temperature CO oxidation on Pt/ceria.
+Angew. Chem. Int. Ed.
+60
+, 3799–3805 (2021).
+Article
+CAS
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+PubMed
+ADS
+Google Scholar
+Vayssilov, G. N. et al. Support nanostructure boosts oxygen transfer to catalytically active platinum nanoparticles.
+Nat. Mater.
+10
+, 310–315 (2011).
+Article
+CAS
+PubMed
+ADS
+Google Scholar
+Mudiyanselage, K. et al. Importance of the metal–oxide interface in catalysis: in situ studies of the water–gas shift reaction by ambient-pressure X-ray photoelectron spectroscopy.
+Angew. Chem. Int. Ed.
+52
+, 5101–5105 (2013).
+Article
+CAS
+Google Scholar
+Daturi, M. et al. Evidence of a lacunar mechanism for deNO
+x
+activity in ceria-based catalysts.
+Phys. Chem. Chem. Phys.
+3
+, 252–255 (2001).
+Article
+CAS
+Google Scholar
+Datye, A. & Wang, Y. Atom trapping: a novel approach to generate thermally stable and regenerable single-atom catalysts.
+Natl Sci. Rev.
+5
+, 630–632 (2018).
+Article
+CAS
+Google Scholar
+Shyu, J. Z., Weber, W. H. & Gandhi, H. S. Surface characterization of alumina-supported ceria.
+J. Phys. Chem.
+92
+, 4964–4970 (1988).
+Article
+CAS
+Google Scholar
+Shyu, J. Z. et al. Characterization of Pd/γ-alumina catalysts containing ceria.
+J. Catal.
+114
+, 23–33 (1988).
+Article
+CAS
+Google Scholar
+Koleva, I. Z., Aleksandrov, H. A., Vayssilov, G. N., Duarte, R. & van Bokhoven, J. A. Relative stability and reducibility of CeO
+2
+and Rh/CeO
+2
+species on the surface and in the cavities of γ-Al
+2
+O
+3
+: a periodic DFT study.
+Phys. Chem. Chem. Phys.
+17
+, 22389–22401 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Khivantsev, K. et al. Economizing on precious metals in three-way catalysts: thermally stable and highly active single-atom rhodium on ceria for NO abatement under dry and industrially relevant conditions.
+Angew. Chem. Int. Ed.
+60
+, 391–398 (2021).
+Article
+CAS
+Google Scholar
+Bourges, P., Lunati, S. & Mabilon, G. N
+2
+O and NO
+2
+formation during NO reduction on precious metal catalysts.
+Stud. Surf. Sci. Catal.
+116
+, 213–222 (1998).
+Article
+CAS
+Google Scholar
+Getsoian, A. B., Theis, J. R., Paxton, W. A., Lance, M. J. & Lambert, C. K. Remarkable improvement in low temperature performance of model three-way catalysts through solution atomic layer deposition.
+Nat. Catal.
+2
+, 614–622 (2019).
+Article
+CAS
+Google Scholar
+Henderson, M. A., Perkins, C. L., Engelhard, M., Thevuthasan, S. & Peden, C. H. F. Redox properties of water on the oxidized and reduced surfaces of CeO2(111).
+Surf. Sci.
+526
+, 1–18 (2003).
+Article
+CAS
+ADS
+Google Scholar
+Kuchibhatla, S. et al. Influence of aging and environment on nanoparticle chemistry – implication to confinement effects in nanoceria.
+J. Phys. Chem. C
+116
+, 14108–14114 (2012).
+Article
+CAS
+Google Scholar
+Khivantsev, K., Jaegers, N. R., Kwak, J.-H., Szanyi, J. & Kovarik, L. Precise identification and characterization of catalytically active sites on the surface of γ-alumina.
+Angew. Chem. Int. Ed.
+133
+, 17663–17671 (2021).
+Article
+ADS
+Google Scholar
+Kwak, J. H. et al. Coordinatively unsaturated Al
+3+
+centers as binding sites for active catalyst phases of platinum on γ-Al
+2
+O
+3
+.
+Science
+325
+, 1670–1673 (2009).
+Article
+CAS
+PubMed
+ADS
+Google Scholar
+Mihaylov, M. Y. et al. FTIR and density functional study of NO interaction with reduced ceria: identification of
+\({{\rm{N}}}_{3}^{-}\)
+and NO
+2−
+as new intermediates in NO conversion.
+Appl. Catal. B: Environ.
+176
+, 107–119 (2015).
+Article
+Google Scholar
+Mihaylov, M. Y., Ivanova, E. Z., Vayssilov, G. N. & Hadjiivanov, K. I. Revisiting ceria-NO
+x
+interaction: FTIR studies.
+Catal. Today
+357
+, 613–620 (2020).
+Article
+CAS
+Google Scholar
+Kašpar, J., de Leitenburg, C., Fornasiero, P., Trovarelli, A. & Graziani, M. NO reduction by CO over Rh/Al
+2
+O
+3
+. Effects of rhodium dispersion on the catalytic properties.
+J. Catal.
+146
+, 136–143 (1994).
+Article
+Google Scholar
+Malecka, M. & Kepinski, L.
+\({{\rm{Ce}}}_{0.4}^{{\rm{III}}}{{\rm{Ce}}}_{0.6}^{{\rm{IV}}}{{\rm{AlO}}}_{3.3}\)
+– an unexpected product of a solid state reaction in the CeO
+2
+–Al
+2
+O
+3
+system.
+CrystEngComm
+17
+, 8282–8288 (2015).
+Article
+CAS
+Google Scholar
+Skála, T., Tsud, N., Prince, K. C. & Matolín, V. Formation of alumina–ceria mixed oxide in model systems.
+Appl. Surf. Sci.
+257
+, 3682–3687 (2011).
+Article
+ADS
+Google Scholar
+Song, I. et al. Understanding reactivity and stability of rhodium supported on different ceria facets in catalytic NO reduction and CO/hydrocarbon oxidation reactions. Preprint at
+https://doi.org/10.26434/chemrxiv-2023-9ldvr-v2
+(2024).
+Schmieg, S. J. & Belton, D. N. Effect of hydrothermal aging on oxygen storage/release and activity in a commercial automotive catalyst.
+Appl. Catal. B: Environ.
+6
+, 127–144 (1995).
+Article
+CAS
+Google Scholar
+Sayle, D. C. et al. Aging mechanisms of nanoceria and pathways for preserving optimum morphology.
+Nano Today
+51
+, 101916 (2023).
+Article
+CAS
+Google Scholar
+Fu, W. T. & Ijdo, D. J. W. The structure of CeAlO
+3
+by Rietveld refinement of X-ray powder diffraction data.
+J. Solid State Chem.
+177
+, 2973–2976 (2004).
+Article
+CAS
+ADS
+Google Scholar
+Perdew, J. P. et al. Atoms, molecules, solids, and surfaces: applications of the generalized gradient approximation for exchange and correlation.
+Phys. Rev. B
+46
+, 6671–6687 (1992).
+Article
+CAS
+ADS
+Google Scholar
+Perdew, J. P. et al. Erratum: Atoms, molecules, solids, and surfaces: applications of the generalized gradient approximation for exchange and correlation.
+Phys. Rev. B
+48
+, 4978 (1993).
+Article
+CAS
+ADS
+Google Scholar
+Kresse, G. & Hafner, J.
+Ab initio
+molecular dynamics for liquid metals.
+Phys. Rev. B
+47
+, 558–561 (1993).
+Article
+CAS
+ADS
+Google Scholar
+Kresse, G. & Hafner, J.
+Ab initio
+molecular-dynamics simulation of the liquid-metal–amorphous-semiconductor transition in germanium.
+Phys. Rev. B
+49
+, 14251–14269 (1994).
+Article
+CAS
+ADS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for
+ab initio
+total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+ADS
+Google Scholar
+Migani, A., Vayssilov, G. N., Bromley, S. T., Illas, F. & Neyman, K. M. Dramatic reduction of the oxygen vacancy formation energy in ceria particles: a possible key to their remarkable reactivity at the nanoscale.
+J. Mater. Chem.
+20
+, 10535–10546 (2010).
+Article
+CAS
+Google Scholar
+Vayssilov, G. N., Mihaylov, M., St. Petkov, P., Hadjiivanov, K. I. & Neyman, K. M. Reassignment of the vibrational spectra of carbonates, formates, and related surface species on ceria: a combined density functional and infrared spectroscopy investigation.
+J. Phys. Chem. C
+115
+, 23435–23454 (2011).
+Article
+CAS
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+CAS
+ADS
+Google Scholar
+Monkhorst, H. J. & Pack, J. D. Special points for Brillouin-zone integrations.
+Phys. Rev. B
+13
+, 5188–5192 (1976).
+Article
+MathSciNet
+ADS
+Google Scholar
+Digne, M., Sautet, P., Raybaud, P., Euzen, P. & Toulhoat, H. Use of DFT to achieve a rational understanding of acid–basic properties of
+γ
+-alumina surfaces.
+J. Catal.
+226
+, 54–68 (2004).
+Article
+CAS
+Google Scholar
+Pueyo Bellafont, N., Viñes, F., Hieringer, W. & Illas, F. Predicting core level binding energies shifts: suitability of the projector augmented wave approach as implemented in VASP.
+J. Comput. Chem.
+38
+, 518–522 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Aleksandrov, H. Dataset for the article “Transforming ceria into 2-dimensional clusters enhances catalytic activity”.
+Zenodo
+https://doi.org/10.5281/zenodo.14030546
+(2024).
+Download references
+Acknowledgements
+Y.W., A.D., and H.P. acknowledge the financial support by the U.S. Department of Energy’s Basic Energy Sciences (DOE/BES) Catalysis Science programme, grant DE-FG02-05ER15712. K.K., J.S., L.K., M.B., D.J., and W.H. were supported by the U.S. Department of Energy’s Basic Energy Sciences (DOE/BES), Division of Chemical Sciences, Geosciences, and Biosciences within the Catalysis Science programme (DE-AC05-RL01830, FWP-47319). K.K., M.H.E., X.S.L, J.T., and I.S. acknowledge the financial support by the U.S. Department of Energy, Energy Efficiency and Renewable Energy, Vehicle Technology Office. PNNL is a multi-programme national laboratory operated for the DOE by Battelle Memorial Institute under contract DE-AC06-76RL01830. The 14.1-T NMR spectrometer was acquired with support from the BES Chemical Sciences, Geosciences, & Biosciences (CSGB) Division. D.P.D., C.J.B. and J.T.M. were supported in part by the National Science Foundation under Cooperative Agreement No. EEC-1647722. Use of the Advanced Photon Source was supported by the U.S. Department of Energy Office of Basic Energy Sciences under contract no. DE-AC02-06CH11357. MRCAT operations, beamlines 10-BM and 10-ID, are supported by the Department of Energy and the MRCAT member institutions. H.A.A. and I.Z.K. are grateful to the European Union’s NextGenerationEU, through the National Recovery and Resilience Plan of the Republic of Bulgaria, project no. BG-RRP-2.004-0008, for the financial support. Computational resources at the Nestum computational facility of Sofia Tech Park (Bulgaria) have been used. The authors thank COST Action CA18234 for stimulating this study.
+Author information
+Author notes
+Jinshu Tian
+Present address: Zhejiang University of Technology, Hangzhou, China
+Dong Jiang
+Present address: Dow Performance Silicones, Dow Inc., Midland, MI, USA
+These authors contributed equally: Konstantin Khivantsev, Hien Pham, Mark H. Engelhard
+Authors and Affiliations
+Pacific Northwest National Laboratory, Richland, WA, USA
+Konstantin Khivantsev, Mark H. Engelhard, Libor Kovarik, Mark Bowden, Xiaohong Shari Li, Jinshu Tian, Inhak Song, Wenda Hu, Trent R. Graham, János Szanyi & Yong Wang
+Department of Chemical & Biological Engineering, University of New Mexico, Albuquerque, NM, USA
+Hien Pham & Abhaya Datye
+Faculty of Chemistry and Pharmacy, Sofia University “St. Kliment Ohridski”, Sofia, Bulgaria
+Hristiyan A. Aleksandrov, Iskra Z. Koleva & Georgi N. Vayssilov
+BASF Environmental Catalyst and Metal Solutions, Iselin, NJ, USA
+Xinyi Wei, Yipeng Sun & Pascaline Tran
+Voiland School of Chemical Engineering and Bioengineering, Washington State University, Pullman, WA, USA
+Dong Jiang & Yong Wang
+Davidson School of Chemical Engineering, Purdue University, West Lafayette, IN, USA
+David P. Dean, Christian J. Breckner & Jeffrey T. Miller
+Authors
+Konstantin Khivantsev
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hien Pham
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mark H. Engelhard
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hristiyan A. Aleksandrov
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Libor Kovarik
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mark Bowden
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaohong Shari Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jinshu Tian
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Iskra Z. Koleva
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Inhak Song
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wenda Hu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xinyi Wei
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yipeng Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Pascaline Tran
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Trent R. Graham
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dong Jiang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+David P. Dean
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Christian J. Breckner
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jeffrey T. Miller
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Georgi N. Vayssilov
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+János Szanyi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Abhaya Datye
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yong Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+K.K. designed the research and carried out most of the catalytic tests, syntheses, infrared characterization measurements, data analysis and drafted the manuscript; K.K., H.A.A., J.S., A.D. and Y.W. supervised the project; K.K., H.A.A., J.S., A.D. and Y.W. revised the manuscript; Y.S., P.T. and X.W. supplied the commercial supports; L.K., H.P. and A.D. performed microscopy measurements; M.H.E. performed XPS; T.R.G. performed NMR spectroscopy; I.Z.K., G.N.V. and H.A.A. performed the DFT calculations; M.B. performed XRD measurements and Rietveld refinement; D.P.D., C.J.B. and J.T.M. performed XAS and analysed the XAS data; K.K., Y.W., D.J., J.S. and A.D. discussed the H
+2
+treatment experiments; I.S., J.T. and W.H. contributed to synthesis efforts; X.S.L. performed BET surface-area measurements; all of the authors contributed to the discussion of the results and commented on the manuscript.
+Corresponding authors
+Correspondence to
+Konstantin Khivantsev
+,
+Hristiyan A. Aleksandrov
+,
+János Szanyi
+,
+Abhaya Datye
+or
+Yong Wang
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature
+thanks Frédéric Meunier, Martin Votsmeier and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Peer reviewer reports
+are available.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data figures and tables
+Extended Data Fig. 1 HAADF-STEM microscopy.
+a
+–
+f
+, HAADF-STEM images of 0.1 wt% Rh/CeAl08 sample (imaged after last reactive treatment 8 as specified in Fig.
+4a
+). The images corroborate the formation of approximately one-monolayer-thin Ce
+x
+O
+y
+patches on the surface of alumina. Scale bars, 5 nm.
+Extended Data Fig. 2 HAADF-STEM microscopy.
+a
+–
+d
+, High-magnification HAADF-STEM image of ceria–zirconia/alumina sample after 1,000 °C reactive treatment 4 in Supplementary Fig.
+6
+. The alumina surfaces are covered with a dense layer of ultrasmall ceria–zirconia clusters (they are ceria–zirconia clusters as evidenced by EDS maps) after reactive treatment.
+Supplementary information
+Supplementary Information
+Peer Review file
+Source data
+Source Data Fig. 1
+Source Data Fig. 3
+Source Data Fig. 4
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Khivantsev, K., Pham, H., Engelhard, M.H.
+et al.
+Transforming ceria into 2D clusters enhances catalytic activity.
+Nature
+640
+, 947–953 (2025). https://doi.org/10.1038/s41586-025-08684-x
+Download citation
+Received
+:
+25 July 2022
+Accepted
+:
+22 January 2025
+Published
+:
+09 April 2025
+Issue Date
+:
+24 April 2025
+DOI
+:
+https://doi.org/10.1038/s41586-025-08684-x
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+News
+Opinion
+Research Analysis
+Careers
+Books & Culture
+Podcasts
+Videos
+Current issue
+Browse issues
+Collections
+Subjects
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Journal Staff
+About the Editors
+Journal Information
+Our publishing models
+Editorial Values Statement
+Journal Metrics
+Awards
+Contact
+Editorial policies
+History of Nature
+Send a news tip
+Publish with us
+For Authors
+For Referees
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature
+(
+Nature
+)
+ISSN
+1476-4687
+(online)
+ISSN
+0028-0836
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

@@ -1,0 +1,1929 @@
+Unified mechanistic understanding of CO2 reduction to CO on transition metal and single atom catalysts | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Unified mechanistic understanding of CO
+2
+reduction to CO on transition metal and single atom catalysts
+Download PDF
+Article
+Published:
+25 November 2021
+Unified mechanistic understanding of CO
+2
+reduction to CO on transition metal and single atom catalysts
+Sudarshan Vijay
+1
+na1
+,
+Wen Ju
+ORCID:
+orcid.org/0000-0002-6485-1133
+2
+na1
+,
+Sven Brückner
+2
+,
+Sze-Chun Tsang
+ORCID:
+orcid.org/0000-0002-8033-0485
+1
+,
+Peter Strasser
+ORCID:
+orcid.org/0000-0002-3884-436X
+2
+na2
+&
+…
+Karen Chan
+ORCID:
+orcid.org/0000-0002-6897-1108
+1
+na2
+Show authors
+Nature Catalysis
+volume
+4
+,
+pages
+1024–1031 (
+2021
+)
+Cite this article
+18k
+Accesses
+5
+Altmetric
+Metrics
+details
+Subjects
+Catalytic mechanisms
+Electrocatalysis
+Abstract
+CO is the simplest product from CO
+2
+electroreduction (CO
+2
+R), but the identity and nature of its rate-limiting step remain controversial. Here we investigate the activity of transition metals (TMs), metal–nitrogen-doped carbon catalysts (MNCs) and a supported phthalocyanine, and present a unified mechanistic picture of the CO
+2
+R to CO for these catalysts. Applying the Newns–Andersen model, we find that on MNCs, like TMs, electron transfer to CO
+2
+is facile. We find CO
+2
+* adsorption to generally be limiting on TMs, whereas MNCs can be limited by either CO
+2
+* adsorption or by the proton–electron transfer reaction to form COOH*. We evaluate these computed mechanisms against pH-dependent experimental activity measurements on the CO
+2
+R to CO activity. We present a unified activity volcano that includes the decisive CO
+2
+* and COOH* binding strengths. We show that the increased activity of MNC catalysts is due to the stabilization of larger adsorbate dipoles, which results from their discrete and narrow
+d
+states.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Nickel dual-atom sites for electrochemical carbon dioxide reduction
+Article
+18 August 2022
+Mechanistic insights into CO
+2
+conversion chemistry of copper bis-(terpyridine) molecular electrocatalyst using accessible operando spectrochemistry
+Article
+Open access
+13 October 2022
+Molecular-level insights into the electronic effects in platinum-catalyzed carbon monoxide oxidation
+Article
+Open access
+25 November 2021
+Main
+The electrochemical reduction of CO
+2
+(CO
+2
+R) has the potential to store renewable energy in the form of high-value chemicals
+1
+,
+2
+,
+3
+. The simplest product obtained during the reduction of CO
+2
+is CO, which can be used as a renewable feedstock for the Fischer–Tropsch reaction
+4
+. This process is also the first CO
+2
+R reaction to be realized commercially, with Ag gas-diffusion electrodes that yield up to 300 mA cm
+−2
+CO towards the production of polymers
+5
+. Nanostructured forms of gold and silver are currently the state-of-the-art catalysts for this reaction. Aside from their cost, these transition metal (TM) catalysts also catalyse the competing hydrogen evolution reaction, which reduces the selectivity for CO. A recently proposed alternative for CO
+2
+R to CO is metal–nitrogen-doped carbon (MNC), which is low cost and Earth abundant
+6
+. These catalysts also have the advantage that they are less selective towards the hydrogen evolution reaction than are TM catalysts, with Faradaic efficiencies of H
+2
+of less than 20% under typical operating conditions of −0.6 V versus the reversible hydrogen electrode
+7
+,
+8
+, which is consistent with the scaling of the H* and CO* binding energies on these materials
+6
+.
+CO
+2
+R to CO requires two proton–electron transfers. In acid:
+$${{{\mathrm{CO}}}}_2({{{\mathrm{g}}}}) + 2{{{\mathrm{H}}}}^ + + {{{\mathrm{e}}}}^ - \to {{{\mathrm{CO}}}}({{{\mathrm{g}}}}) + {{{\mathrm{H}}}}_2{{{\mathrm{O}}}}({{{\mathrm{l}}}})$$
+(1)
+Despite its apparent simplicity, its mechanism remains debated in recent work. First, the rate-limiting step has been proposed to be CO
+2
+adsorption on Au (refs.
+9
+,
+10
+), Fe- and Ni-doped MNC catalysts (FeNC and NiNC)
+8
+,
+11
+, COOH* formation on noble metals
+12
+,
+13
+or COOH* to CO(g) on Ag from C–O bond breaking
+14
+. Tafel slopes of 60 or 120 mV dec
+–1
+are sometimes taken as indicators of certain rate-limiting steps
+9
+,
+12
+; however, a recent comprehensive analysis of existing data showed silver, gold, copper, zinc and tin catalysts to have no intrinsic preference for such cardinal values, consistent with models of electron transfer in electrochemistry
+15
+.
+Furthermore, the nature of the CO
+2
+adsorption step is a source of some controversy. CO
+2
+adsorption was suggested to give rise to a unit-charged CO
+2
+–
+species on both Au (refs.
+16
+,
+17
+) and FeNC catalysts, which is untreatable with ground-state density functional theory (DFT) methods
+18
+. This hypothesis may originate from the reduction process of CO
+2
+(aq) to CO
+2
+–
+(aq), which occurs at extremely negative potentials of −1.9 V versus the standard hydrogen electrode (SHE)
+19
+, or from homogeneous catalysis
+20
+,
+21
+. Solvent reorganization, as first considered through Marcus theory, has also been hypothesized to be a major contributor to the energetics of CO
+2
+adsorption
+17
+,
+22
+. Alternatively, it has been proposed that CO
+2
+* adsorption is driven by the interaction of the dipole of CO
+2
+* with the interfacial electric field
+23
+,
+24
+; given the facile electron transfer on metals, there is no distinct, extra-charged CO
+2
+–
+species versus a polarized CO
+2
+* adsorbate, no different from any other surface adsorbate, such as CO* and OH* (ref.
+25
+). The CO
+2
+* dipole has similarly been described in terms of a partial charge transfer from the metal to adsorbate
+11
+,
+26
+.
+In this work, we present a unified mechanistic picture of CO
+2
+R to CO on both these classes of catalysts. By consideration of the width of adsorbate-induced density of states, we found that on MNCs, as for TMs, electron transfer to CO
+2
+is extremely facile, such that a field-driven CO
+2
+adsorption step is treatable with standard ground state DFT methods. Using DFT with an explicit consideration of adsorbate–field interactions, we found CO
+2
+* formation to generally be limiting on TMs, whereas MNCs could be limited by either CO
+2
+* adsorption or COOH* formation. We evaluated these computed mechanisms against pH-dependent activity measurements on the CO
+2
+R to CO activity for Au, FeNC, NiNC and supported cobalt phthalocyanine (CoPc). We present a unified kinetic activity volcano with CO
+2
+* and COOH* binding strengths as the descriptors, which reflects how the formation of either can be rate limiting, and with consideration of the decisive adsorbate–dipole interactions. We furthermore showed that MNC catalysts are tunable towards a higher activity away from TM scaling, due to the stabilization of larger CO
+2
+* dipoles that result from narrower metal
+d
+states. We discuss the implications of these findings for catalyst design, namely that the optimization of the CO
+2
+* dipole is a critical descriptor in addition to the adsorption energies of key intermediates.
+Results
+Electron transfer is not rate-limiting on MNC catalysts
+Previous reports proposed the formation of a CO
+2
+–
+state as the rate-limiting step for CO
+2
+R to CO. This step has been suggested to be limited by solvent reorganization
+17
+,
+22
+or by electron transfer to an uncharged CO
+2
+* state to give an excited, charged CO
+2
+–
+state, which cannot be modelled with workhorse, ground-state periodic DFT methods
+18
+. Here we show that electron transfer to adsorbates is not limiting (and therefore adiabatic) on MNC catalysts, which allows us to determine the CO
+2
+R energetics by computing the one and only CO
+2
+* state using conventional, periodic DFT, along with the application of a stabilizing surface charge.
+As in Gauthier et al.
+25
+for an Au surface, we determined the rate of electron hopping between the
+s
+and
+p
+states of the adsorbate and the states of the surface,
+k
+. We compared this rate against concurrent processes, such as the adsorbate diffusion to the surface. If the timescale for the electron transfer is very small in comparison, it will not be rate-limiting to species such as CO
+2
+*, and we would only need to consider the adiabatic pathway for CO
+2
+adsorption. In the Newns–Anderson
+27
+,
+28
+,
+29
+model of chemisorption, the width of the adsorbate-induced states is
+\({\it{\varDelta}} = {{{\mathrm{{\Sigma}}}}}_k\left| {V_{ak}} \right|^2\updelta \left( {{\it{\epsilon }} - {\it{\epsilon }}_k} \right)\)
+, where
+V
+ak
+is the coupling matrix element between
+k
+and individual
+s
+and
+p
+states,
+ε
+is the single particle energy of the adsorbate
+s
+and
+p
+states and
+ε
+k
+is the energy of the surface states.
+Δ
+can be determined from the projected density of states (PDOS) onto the
+s
+and
+p
+states of CO
+2
+through the width of the peak at the Fermi level
+25
+. We obtained the rate of electron transfer from Fermi’s Golden Rule,
+\(\frac{{2\uppi }}{\hbar }{\it{\varDelta}}\)
+. To illustrate this idea, Fig.
+1a
+shows the rates of electron transfer associated with a range of idealized peaks of different width, shown in Fig.
+1b
+. For a very small width of 0.1 eV, the rate of electron hopping is extremely fast, greater than 10
+14
+s
+–1
+, and is larger with increased broadening. For comparison, an estimate for the diffusion rate of ions in solution is of the order 10
+12
+s
+−1
+, shown by the dashed line in Fig.
+1a
+30
+.
+Fig. 1: Rate of electron transfer on MNC ≈ 10
+14
+s
+–1
+.
+a
+,
+b
+, Rate of electron hopping (
+a
+) for the different idealized Lorentzian peaks shown in
+b
+.
+c
+–
+g
+, Densities of states projected onto CO
+2
+s
+and/or
+p
+-states for selected images of a CO
+2
+adsorption climbing image nudged elastic band run on FeNC show a short timescale of electron transfer. Insets: zoomed-in parts of the highlighted region; red bands indicate the estimated width of the states at the Fermi level,
+ε
+f
+. a.u., arbitrary units.
+Full size image
+We then applied this methodology to PDOS obtained from DFT computations. Figure
+1c–g
+shows the PDOS for the reaction path of CO
+2
+adsorption on FeN
+4
+(a prototype for MNC). The
+s
+and
+p
+states of CO
+2
+broaden as it approaches the surface, which is expected for adsorption processes in general
+31
+. At the transition state (TS) and further along the reaction pathway, the peaks at the Fermi level are greater than 0.1 eV. The corresponding rate of electron transfer is approximately 10
+14
+s
+−1
+, which implies a timescale of 10
+−14
+s. This rate is, in turn, two orders of magnitude greater than that of competing processes, which implies that it will not be rate limiting on FeN
+4
+. As the states at the Fermi level on MNC catalysts are typically the
+s
+and
+p
+states of graphene at reducing potentials, at which oxide species are absent (Supplementary Note
+2
+), we expect this analysis to hold for all MNC catalysts considered in this work
+32
+. Thus, only the adiabatic pathway for CO
+2
+adsorption needs to be calculated to obtain the energetics for all the elementary steps on the MNC and TM catalysts. Non-adiabatic behaviour might be present in molecules such as CoPc adsorbed on a support, with rates of electron transfer on the order of the magnitude of diffusion as shown in Fig.
+1
+33
+. In Supplementary Note
+2
+we show that with even a slight increase in doping concentration on the graphene sheet, hybridization between all the components of the system (CO
+2
+, CoPc and
+n
+-doped graphene) improves, which would lead to an increase in the rate of electron transfer through a larger value of
+Δ
+.
+We do not exclude the possibility here that solvent reorganization could contribute to the energetics of the CO
+2
+adsorption step, as has been considered in Brown et al.
+17
+. The magnitude of this contribution, however, has been estimated to be only ~0.2 eV from the timescale of reorganization
+34
+,
+35
+. Recent investigations based on the Marcus–Hush–Chidsey model suggest that it can be up to 0.6 eV in the presence of certain electrolytes
+36
+.
+Both CO
+2
+* adsorption and COOH* formation can be rate limiting
+We now present the mechanism and rate-limiting step for Au, FeNC, NiNC and carbon nanotube (CNT)-supported CoPc determined from potential-dependent DFT calculations and evaluate them against pH-dependent activity measurements. We considered the following reaction pathway (written for acidic solutions):
+$${{{\mathrm{CO}}}}_2({{{\mathrm{g}}}}) + \ast \to {{{\mathrm{CO}}}}_2^ \ast$$
+(2)
+$${{{\mathrm{CO}}}}_2^ \ast + {{{\mathrm{H}}}}^ + + {{{\mathrm{e}}}}^ - \to {{{\mathrm{COOH}}}}^ \ast$$
+(3)
+$${{{\mathrm{COOH}}}}^ \ast + {{{\mathrm{H}}}}^ + + {{{\mathrm{e}}}}^ - \to {{{\mathrm{CO}}}}^ \ast + {{{\mathrm{H}}}}_2{{{\mathrm{O}}}}\left( {{{\mathrm{g}}}} \right)$$
+(4)
+$${{{\mathrm{CO}}}}^ \ast \to {{{\mathrm{CO}}}}\left( {{{\mathrm{g}}}} \right) + \ast$$
+(5)
+We assumed that the barriers associated with all steps are small. As evaluated in Vijay et al.
+24
+for FeN
+2
+and FeN
+4
+, the CO
+2
+adsorption barrier is well approximated by the adsorption energy (differences between barrier and reaction energies of at most 0.2 eV); the protonation of CO
+2
+* is facile, in line with general trends in electrochemical barriers for the protonation of oxygen
+37
+, and the COOH* to CO* step for CO-producing catalysts is generally so downhill under reducing potentials that the corresponding barriers are unlikely to be limiting (Fig.
+2b–d
+). This reduction of the barrier for COOH* protonation is due to the two preceding potential-dependent steps and the reducing potentials at which CO
+2
+R occurs. The rate-limiting step at a given potential is, in this case, determined by the state with the highest free energy, Δ
+G
+. Each Δ
+G
+derives its potential dependence either from the presence of a proton–electron pair as the reactants and/or from the interaction between the dipoles of participating reaction intermediates with the interfacial field. The energetic stabilisation caused by the interaction of a dipole
+μ
+with an interfacial field
+\(\xi\)
+is
+μξ
+(ref.
+38
+). At reducing potentials, fields set up by the double layer can be as large as 10
+10
+V m
+–1
+, which gives rise to a large stabilization of CO
+2
+* on MNCs of 0.75–1 eV on MNCs (see Supplementary Note
+1
+for detailed information about the methodology used). Figure
+2a
+shows the free energy diagram for Au(211) at −0.6, −0.8 and −1 V
+SHE
+at a pH of 2. At −0.6 V
+SHE
+, COOH* is the intermediate with the highest Δ
+G
+, whereas at −0.8 V
+SHE
+and −1 V
+SHE
+, it is CO
+2
+*. Thus, the computations predicted a change in rate-limiting step from COOH* formation to CO
+2
+* adsorption when the overpotential is increased, in line with previous work
+23
+. We note that this change in rate-limiting step occurs at −0.7 V versus SHE.
+Fig. 2: Both CO
+2
+* adsorption and COOH* formation can be rate limiting.
+a
+–
+c
+, Free energy diagram of CO
+2
+to CO for Au(211) at
+U
+= –0.6, –0.8 and −1.0 V
+SHE
+(
+a
+), FeNC (
+b
+), NiN
+C
+(
+c
+) and CoPc adsorbed on graphene (
+d
+) at
+U
+= −0.8 V
+SHE
+and pH = 2. The schematics of the calculated surfaces are shown above their respective free energy diagrams, with the four double-vacancy MNCs.
+e
+–
+h
+, Experimental current densities plotted against NHE potential for polycrystalline Au (from Ringe et al.
+23
+) (
+e
+), FeNC (from Varela et al.
+8
+and Gu et al.
+74
+(reversed triangles)) (
+f
+), NiNC (this work) (
+g
+) and CoPc on CNT (this work) (
+h
+).
+Full size image
+We evaluated the rate-limiting step with pH-dependent measurements. The activity was pH dependent on an absolute scale (for example, versus the SHE or normal hydrogen electrode (NHE)) when COOH* formation was rate-limiting, as a proton–electron transfer was involved. CO
+2
+* adsorption, however, did not involve a proton–electron transfer, so when it was rate limiting, the activity was pH independent on an absolute scale. Figure
+2e
+shows the measured current densities versus potential on a NHE scale. The current densities show no pH dependence at high potentials (greater than −0.8 V
+SHE
+). At lower overpotentials, the scatter in the points could be indicative of COOH* formation being the rate-limiting step.
+With the same arguments, we show that the FeNC catalysts were limited by the energetics of CO
+2
+* adsorption, whereas the NiNC catalysts and supported CoPc catalysts were limited by the CO
+0
+* → COOH* step. Figure
+2b
+shows the free energy diagram for FeNC catalysts computed at −0.8 V
+SHE
+and a pH of 2 for various nitrogen coordinations around the metal centre for double vacancies (DVs) (metals on single vacancies (SVs) tend to overbind CO*, see below). For FeN
+2
+, FeN
+3
+and FeN
+4
+, the computations predict CO
+2
+* adsorption to be rate limiting for potentials more cathodic than −0.8 V
+SHE
+, which is in line with the completely pH-independent experimental rates (Fig.
+2f
+, Strasser data
+8
+). The FeN
+4
+vacancy configuration has also been stipulated to be the active site for CO
+2
+R based on a comparison of the cyclic voltammograms and X-ray spectral features with those of molecular analogues
+39
+. In contrast, FeN
+1
+was limited by COOH* formation at this potential, and the lack of pH dependence in the experiments suggests that its population on the catalyst surface was small. All the NiNC catalysts investigated (Fig.
+2c
+), except for NiN
+2
+, were limited by COOH* formation, consistent with the pH dependence of experimental rates, as shown in Fig.
+2g
+(see Supplementary Note
+3
+for the total currents and Faradaic efficiencies). Recent works
+40
+,
+41
+also reported large COOH* free energies for NiN
+4
+, in line with the results shown in Fig.
+2c
+. Molecular NiN
+4
+analogues also showed large COOH* free energies in comparison with that of CO
+2
+* (ref.
+42
+). Similarly, supported CoPc catalysts also had COOH* formation as the rate-limiting step, as shown in Fig.
+2d
+, which were realized in the pH-dependent experiments shown in Fig.
+2h
+. Thus, the combination of simple field-dependent thermodynamic computations and pH-dependent measurements suggests that CO
+2
+* adsorption is rate limiting at higher overpotentials on Au and for all potentials on FeNC, and that CO
+2
+* → COOH* is rate limiting on NiNC and supported CoPc catalysts.
+The adsorbate binding strengths would shift in more detailed models of the electrochemical interface, but the electrostatic effects are in line with experimentally observed pH dependencies for the systems considered here, which suggests they are the predominant factor in the energetics. In Supplementary Note
+6
+, we show, with an ab initio molecular dynamics simulation of explicit water on FeNC, an explicit solvation energy of ~0.3 eV for CO* versus the solvation energy self-consistently determined through an implicit solvent model in this work; in contrast, the 0.75 eÅ dipole moment of CO
+2
+* gives rise to a much larger −0.75 eV change in its adsorption energy over a 1 V range.
+Finally, the experimental Tafel slopes in Fig.
+2e–h
+do not show the cardinal values of 60 or 120 mV dec
+–1
+, which echoes a comprehensive study of the recent literature of TM catalysts for CO
+2
+R
+15
+. These slopes reflect the magnitude of the dipole (
+\({{{\mathrm{slope}}}}^{ - 1}\approx \frac{C}{{\it{\epsilon }}}\mu\)
+, where
+C
+is the capacitance)
+23
+,
+24
+and/or the symmetry factor (0<
+α
+< 1) of the associated proton–electron transfer and therefore are not constrained to these values. The slopes may also be affected by mass transport and buffer equilibria
+23
+,
+43
+. Furthermore, the fitted value depends on the number of points used to make the fit. For example, by changing the number of fitted points in Fig.
+2a
+by two, we would obtain a value different from the Tafel slope of 167 mV dec
+–1
+. We therefore considered mechanistic interpretations of the experiments only on the basis of the pH dependence, and not the specific Tafel slopes obtained.
+Activity volcano determined by both COOH* and CO
+2
+* free energies
+In this section we consolidate the mechanistic insights into a general kinetic activity volcano for CO
+2
+R to CO determined by two activity descriptors, the free energy of adsorption of CO
+2
+,
+\({{{\mathrm{{\Delta}}}}}G_{{{{\mathrm{CO}}}}_2}\)
+, and that of COOH, Δ
+G
+COOH
+. Figure
+3a
+shows this unified activity volcano for the CO production for both TM and MNC catalysts, and corresponds to the energetics in Fig.
+2
+. The theoretical maximum in activity (represented by the turnover frequency (TOF)) occurs at intermediate
+\({{{\mathrm{{\Delta}}}}}G_{{{{\mathrm{CO}}}}_2}\)
+values and at Δ
+G
+COOH
+≈ 0, that is, where both the CO
+2
+and COOH formation steps are facile. The parity line corresponds to the case in which the free energies of COOH* and CO
+2
+* are equal,
+\({{{\mathrm{{\Delta}}}}}G_{{{{\mathrm{CO}}}}_2} = {{{\mathrm{{\Delta}}}}}G_{{{{\mathrm{COOH}}}}}\)
+. The CO adsorption energy generally scales with those of the other two intermediates
+13
+; thus, its energetics are included in the volcano through the calculated scaling relationships in the kinetic model (Supplementary Note
+4
+).
+Fig. 3: General activity volcano for CO
+2
+R to CO.
+a
+, Rate map at −0.8 V
+SHE
+and pH 2 for CO
+2
+R to CO obtained from the (211) TM scaling line. The annotated points show MNCs either at SVs or DVs. The (211) scaling line has the best fit.
+\({{{\mathrm{{\Delta}}}}}G_{{{{\mathrm{CO}}}}_2} = 0.94{{{\mathrm{{\Delta}}}}}G_{{{{\mathrm{COOH}}}}} + 0.51\)
+.
+b
+, Coverage map
+θ
+, in monolayers (ML) with the same points showing which surfaces are poisoned by CO.
+Full size image
+Figure
+3a
+shows several trends in the binding of CO
+2
+R intermediates for TMs and MNCs. First, the TMs show a scaling line (the dashed black line) between
+\({{{\mathrm{{\Delta}}}}}G_{{{{\mathrm{CO}}}}_2}\)
+and Δ
+G
+COOH
+, whereas the MNCs show more scatter. Furthermore, metals doped into SVs tend to bind reaction intermediates more strongly than those in DVs, and are poisoned by CO. Fig.
+3a,b
+also allows us to determine which step is rate limiting in CO
+2
+R to CO at any given potential, using computed CO
+2
+*, COOH* and CO* free energies. In Fig.
+3a
+, if the point lies below the parity line, then
+\({{{\mathrm{CO}}}}_2^ \ast \to {{{\mathrm{COOH}}}} ^\ast\)
+is the rate-limiting step. Meanwhile, if it is above the parity line, CO
+2
+adsorption is rate limiting. At very negative adsorption energies, the surface is poisoned by CO, as shown in Fig.
+3b
+, which leads to CO* desorption being rate limiting on TMs, such as Pd and Pt. All the TM (211) facets lie above the parity line, which indicates that CO
+2
+adsorption or CO desorption is rate limiting at the studied potentials. Some NiNC catalysts lie below the parity line, which shows that CO
+2
+* → COOH* is rate-limiting, in line with the experimental finding in Fig.
+3f
+. Note that our approach, in contrast to that of Hansen et al.
+13
+, includes the effects of the adsorbate–field interactions for all the intermediates (Supplementary Note
+1
+) and the consideration of CO
+2
+adsorption as an elementary step, these effects that are critical to determining the activity trends. Supplementary Note
+4
+also shows the potential dependence versus SHE of the rate map shown in Fig.
+3a
+.
+We generally do not expect there to be only a single site motif present after the synthesis procedure for these materials
+44
+,
+45
+,
+46
+,
+47
+. Temperature-programmed desorption experiments (Supplementary Fig.
+12
+and Supplementary Note
+5
+) show that FeNC, but not NiNC, have a peak above 300 K. This result suggests strong binding sites, such as those from SVs to be present on FeNC to a greater extent than on NiNC (ref.
+48
+). Note that doped SV sites, or other binding sites of similar binding strength that we have not considered, are not active sites for CO
+2
+R, as they would be poisoned by CO.
+MNCs have a higher activity because they stabilize larger dipoles
+We now show that MNCs deviate from TM scaling because they stabilize large dipole moments on CO
+2
+*. Figure
+4b
+shows charge density difference isosurfaces for CO
+2
+* on NiN
+4
+C, which shows a perturbation of the electron density near the surface on adsorption. This change in electron density is captured by the dipole moment, given by
+\(\mu = {\int} {\rho {\rm{d}}z}\)
+, where
+\(\rho\)
+is the charge density and
+z
+is the axis of integration, and is shown in Fig.
+4a
+for (211) and (100) TM surfaces, as well as Fe- and Ni-doped MNC catalysts in both SVs and DVs of various N concentrations. The figure shows that the dipole moments for CO
+2
+* are larger than those for other adsorbates, such as CO* and COOH*. Furthermore, the CO
+2
+* dipoles are significantly higher on MNCs than on TMs. MNCs therefore have CO
+2
+* adsorption energies that are stabilized more at reducing potentials, at which the surface is generally negatively charged. This electrostatic stabilization caused by the dipole-field interaction gives rise to the offset of MNCs from the TM scaling line shown in Fig.
+3
+.
+Fig. 4: Narrow
+d
+states stabilize larger dipoles.
+a
+, Vacuum dipole moments for (211) and (100) TM surfaces (blue) and Fe and Ni MNCs (red). The MNCs (first index indicates the type of vacancy, 1 for single and 2 for double; second index indicates the number of substituting N atoms) have larger dipole moments as compared with those of the TMs.
+b
+, Charge density difference plot for CO
+2
+adsorbed on NiN
+4
+C.
+c
+, Density of states projected onto the
+s
+and
+p
+states of CO
+2
+* (green) and the
+d
+states of TMs (purple) show that the adsorbate states are much narrower on MNCs than they are on TMs.
+Full size image
+We rationalize the differences in dipole moments with the PDOS on the
+s
+and
+p
+states of CO
+2
+*. The strength of the adsorbate–surface interaction is determined by both the position and shape of the
+d
+states, and is reflected in the width of the
+s
+and/or
+p
+adsorbate states
+49
+. As shown in Fig.
+4c
+for a selected set of surfaces (in green), the width of the
+s
+and
+p
+states increases in the order FeN
+4
+, NiN
+4
+, Ag, Au, Pd and Pt.
+In FeN
+4
+and NiN
+4
+catalysts, the sharp
+s
+and/or
+p
+states of CO
+2
+* mean they resemble those of their molecular counterpart, which indicates a weak interaction (poor hybridization) with the surface. A poor overlap between the
+s
+and or
+p
+states close to the Fermi level (±1 eV in either direction) of CO
+2
+and the
+d
+states of the surface means that CO
+2
+* retains a greater charge polarization between its two poles, that is a larger dipole (see Supplementary Note
+7
+for an explanation of this effect through the Newns–Muscat model). The same effect is present to a lesser extent on the weakly binding metals, Ag and Au, which, in comparison with the strongly binding ones, have slightly narrower
+d
+states and correspondingly slightly larger dipoles. In the strongly binding Pt and Pd catalysts, the broadened states indicate a large interaction
+27
+, and a lower charge polarization results from the mixing of adsorbate states with those of the surface and a lower resultant surface dipole. Overall, the trends in the width of the
+s
+and/or
+p
+PDOS of CO
+2
+* are consistent with the larger dipole moments of MNC catalysts.
+TM alloys, in contrast to MNC catalysts, generally have wide
+d
+states, as with pure TMs
+50
+. In view of the results, improvements in activity through alloying can be attributed not to the stabilization of larger dipoles, but to the tuning of the CO
+2
+* binding strengths through the degree of hybridization with the surface.
+The activity volcano of Fig.
+3
+and electronic structure arguments of Fig.
+4
+give two simple design principles. As shown in the TOF of Fig.
+3
+, the ideal CO
+2
+R catalyst has moderate
+\({{{\mathrm{{\Delta}}}}}G_{{{{\mathrm{CO}}}}_2}\)
+and Δ
+G
+COOH
+of 0.25–0.5 eV and Δ
+G
+CO
+> 0 eV (to prevent CO* poisoning). It must, additionally, be able to stabilize a large dipole moment of CO
+2
+*, such that CO
+2
+adsorption does not require a significant overpotential (and thereby deviate from the scaling of TMs in the direction of a higher activity, shown in Fig.
+3
+). These larger dipole moments are stabilized for MNC catalyst materials through their narrow
+d
+states. We suggest that other materials that have similar discrete and narrow
+d
+states, such as supported single atoms
+51
+,
+52
+, molecules and clusters
+53
+,
+54
+, as well as two-dimensional materials and ionic compounds
+32
+,
+55
+,
+56
+, could also be active CO
+2
+R catalysts, provided that hydrogen evolution is not competitive or suppressed through a decrease in water activity
+57
+. This principle could also be relevant for other processes in which dipole -field interactions are decisive, such as in C
+2
+product formation
+4
+,
+58
+.
+Conclusions
+In summary, we present a unified picture of CO
+2
+R to CO on both TM and MNC catalysts that resolves the existing controversies on the identity and nature of the rate-limiting step. Considering the widths of the projected densities of states of an adsorbing CO
+2
+, we showed that, as for TMs, the electron transfer to CO
+2
+is not limiting in MNCs, and that CO
+2
+adsorption is driven by adsorbate dipole-field interactions. With a combination of field-dependent DFT and pH-dependent activity measurements, we showed that CO
+2
+* adsorption is limiting on TMs over relevant potentials, whereas either CO
+2
+* adsorption or COOH* formation is rate limiting on MNCs. We present a unified kinetic activity volcano, based on critical COOH* and CO
+2
+* binding as the descriptors, that accounts for the decisive adsorbate dipole-field interactions. The volcano shows that ideal catalysts should have both a moderate binding strength of COOH* and CO
+2
+*, as well as large adsorbate dipoles on CO
+2
+*. We furthermore showed that MNCs deviate favourably from TM scaling through the stabilization of large CO
+2
+* dipoles, due to the localized narrow
+d
+states of these materials.
+These results suggest that MNCs or other materials with similarly narrow
+d
+states, such as supported single atoms, molecules and clusters, as well as two-dimensional materials and ionic compounds, can be optimized for large dipoles and correspondingly higher catalytic activity beyond TM scaling. This principle can be relevant for other processes in which adsorbate–field interactions are decisive. The presented kinetic activity volcano and catalyst design rules should be used as the basis for computation-guided catalyst development of CO
+2
+R to CO catalysts.
+Methods
+Computational methods
+DFT calculations were carried out using the Vienna Ab Initio Software Package (VASP)
+59
+. Core electrons were described using projector augmented wave potentials
+60
+. Valence electrons were described with plane waves with a kinetic energy up to 500 eV. Gaussian smearing with a width of 0.1 eV was used. In the case of density of states plots, smearing was reduced to 0.05 eV. For relaxations, we applied the RPBE
+61
+functional. Hybrid calculations with the HSE06
+62
+,
+63
+were performed for the density of states calculations in Fig.
+1
+. In the case of FeNC calculations, a Hubbard-U
+64
+parameter of
+U
+= 2 eV was added to the
+d
+orbitals of iron, in line with previous benchmark calculations
+24
+.
+TMs were modelled using a 3 × 3 × 3 slab, with the bottom two layers fixed. MNC systems were modelled using a 3 × 3 graphene layer. All the structures were prepared using the Atomic Simulation Environment
+65
+. The lattice for all the TM and MNC catalysts were relaxed using a 12 × 12 × 1 Monkhorst–Pack
+66
+k
+-point mesh. All the supercells were treated with a 4 × 4 × 1 Monkhorst–Pack
+k
+-point mesh. All the geometries were optimized until the forces were lower than 0.025 eV Å
+−1
+. TS geometries and energies were obtained using the climbing image nudged elastic band
+67
+implemented within VASP. All the density of states plots used twice the
+k
+-point sampling used in the relaxation and/or TS calculations. DFT energies were converted into free energies at 298.15 K using vibrations obtained from VASP calculations using IBRION = 5. The ASE
+65
+Thermochemistry class was used to determine the Helmholtz free energy from harmonic thermochemistry and the Gibbs free energy from ideal gas thermochemistry.
+Implicit solvation and continuum charge were added using VASPsol
+68
+. A Debye screening length of 3 Å was chosen, as it corresponds to a bulk ion concentration of 1 M. The non-electrostatic parameter, TAU, was set to zero for purposes of convergence
+30
+. Continuum charge was varied in increments of 0.25 e.
+The computational hydrogen electrode
+69
+was used to determine the reaction energetics as a function of the potential with a proton–electron pair was in the reactant. The chemical potential of the proton can be related to that of H
+2
+at 0 V versus the reversible hydrogen electrode:
+$$\mu _{{{{\mathrm{H}}}}^ + } + \mu _{{{{\mathrm{e}}}}^ - } = \frac{1}{2}\mu _{{{{\mathrm{H}}}}_2\left( {{{\mathrm{g}}}} \right)}$$
+(6)
+The incorporation of the dipole-field interactions is described in detail in Supplementary Note
+1
+.
+Microkinetic modelling was performed using CatMAP
+70
+. The rate of a given elementary step was
+\({{{\mathrm{rate}}}} = k_ + {{{\mathrm{{\Pi}}}}}\theta _i{{{\mathrm{{\Pi}}}}}p_j - k_ - {{{\mathrm{{\Pi}}}}}\theta _i{{{\mathrm{{\Pi}}}}}p_j\)
+, where ‘+’ indicates the forward reaction and ‘−’ the reverse reaction. The rate constants are
+\(k_ + = \exp \left( { - \frac{{G_{a, + }}}{{k_{\rm{B}}T}}} \right)\)
+and
+\(k_ - = \exp \left( { - \frac{{G_{a, - }}}{{k_{\rm{B}}T}}} \right)\)
+, where
+G
+a
+,+
+and
+G
+a
+,–
+are the free energy barriers. In the absence of electrochemical barriers, the free energy is used, which is given as Δ
+G
+= Δ
+G
+° +
+neU
++ Δ
+G
+field
+, where Δ
+G
+° is the free energy for the reaction at the potential of zero charge,
+n
+is the number of proton–electron pairs transferred and Δ
+G
+field
+is the dipole-field contribution.
+A multiprecision Newton root-finding algorithm was used to determine the steady-state rates and coverages. A decimal precision of 100 along with a convergence tolerance value of 10
+−25
+were used.
+Synthesis
+The polyaniline-derived NiNC catalyst is identical to that reported in our previous studies
+71
+,
+72
+. Aniline (3 ml), NiCl
+2
+·6H
+2
+O (5 g) and ammonium persulfate (5 g) were added to 0.5 l of 1 M HCl and stirred for 1 h. This suspension was then mixed with 0.4 g of a dispersed activated Ketjen 600 carbon black support (washed in HCl for purification and HNO
+3
+for oxygen doping), stirred for 48 h and then dried in the air at 95 °C for 24 h. The residual solid-state mixture was ball milled with Zr
+2
+O
+3
+balls for 20 min. We conducted the pyrolysis protocol in a furnace at 900 °C (ramp of 30 °C min
+–1
+) for 1 h under N
+2
+conditions, followed by acid washing steps (2 M H
+2
+SO
+4
+at 90 °C overnight) to remove the excessive Ni particles. We performed heat treatment four times and acid washing three times and the catalyst was obtained after the fourth pyrolysis.
+Synthesis of CoPc/CNT
+CoPc/CNT was synthesized following an analogous protocol reported in the literature
+73
+. CoPc (1 mg) was mixed with 30 mg of a multiwall CNT in 30 ml dimethylformamide solution and stirred for 24 h. The suspension became transparent. The final suspension was washed using EtOH and H
+2
+O within a centrifuge to remove the dimethylformamide, and after that was freeze-dried to give the final catalyst.
+Electrode preparation
+Carbon paper (1 cm × 2.5 cm, Freudenberg C2H23) was sonicated in ethanol and deionized water for 15 min and dried as the electrode substrate. The catalyst ink was prepared using 4.0 mg of catalyst mixed with 60 μl of Nafion solution (5% in ethanol, Sigma-Aldrich), 200 μl of isopropanol and 200 μl of deionized water. After 15 min of sonification, the ink was deposited on the microporous layer of carbon paper to achieve an area of 1 cm
+2
+with catalyst loading of 1 mg cm
+–2
+.
+Electrochemical measurement
+The electrochemical CO
+2
+R performance was measured in a regular three-electrode H-cell divided by a Nafion N117 membrane. The working electrode was the catalyst-coated carbon paper mentioned above, and a Pt mesh was deployed as the counter electrodes. A leak-free Ag/AgCl electrode was used as the reference. The current density was normalized to the working electrode’s geometrical area (1 cm
+2
+). All the electrochemical experiments were performed in a CO
+2
+-purged electrolyte (CO
+2
+flow rate, 30 ml min
+–1
+). The pH value of each is presented in Supplementary Table
+1
+.
+Product analysis
+A Shimadzu 2014 on-line gas chromatograph was utilized for product quantification. The gas stream was separated by Hayesep Q + R columns and then analysed by a thermoconductivity detector and flame ionization detector. The thermoconductivity detector detects the volume percentage of the H
+2
+product, and the flame ionization detector measures the CO after methanization. On all the NiNC type catalysts, no liquid product was found after the electrolysis. Calculations of the production rate, partial current density and Faradaic efficiency are given in the
+Supplementary Methods
+.
+Data availability
+All computational data, which include the adsorption energies of CO
+2
+, COOH and CO, optimized atomic coordinates, data for plotting density of states and microkinetic analysis are available at
+https://doi.org/10.24435/materialscloud:ws-7t
+.
+Code availability
+Python analysis scripts to reproduce all the figures in the manuscript are available at
+https://github.com/CatTheoryDTU/kinetic-modelling-CO2R
+.
+References
+Jouny, M., Luc, W. & Jiao, F. General techno-economic analysis of CO
+2
+electrolysis systems.
+Ind. Eng. Chem. Res.
+57
+, 2165–2177 (2018).
+Article
+CAS
+Google Scholar
+Seh, Z. W. Combining theory and experiment in electrocatalysis: insights into materials design.
+Science
+355
+, aad4998 (2017).
+Article
+Google Scholar
+Anastasiadou, D., Hensen, E. J. M. & Figueiredo, M. C. Electrocatalytic synthesis of organic carbonates.
+Chem. Commun.
+56
+, 13082–13092 (2020).
+Article
+CAS
+Google Scholar
+Nitopi, S. et al. Progress and perspectives of electrochemical CO
+2
+reduction on copper in aqueous electrolyte.
+Chem. Rev.
+119
+, 7610–7672 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Haas, T., Krause, R., Weber, R., Demler, M. & Schmid, G. Technical photosynthesis involving CO
+2
+electrolysis and fermentation.
+Nat. Catal.
+1
+, 32–39 (2018).
+Article
+CAS
+Google Scholar
+Bagger, A., Ju, W., Varela, A. S., Strasser, P. & Rossmeisl, J. Single site porphyrine-like structures advantages over metals for selective electrochemical CO
+2
+reduction.
+Catal. Today
+288
+, 74–78 (2017).
+Article
+CAS
+Google Scholar
+Clark, E. L. et al. Influence of atomic surface structure on the activity of Ag for the electrochemical reduction of CO
+2
+to CO.
+ACS Catal.
+9
+, 4006–4014 (2019).
+Article
+CAS
+Google Scholar
+Varela, A. S. et al. pH effects on the selectivity of the electrocatalytic CO
+2
+reduction on graphene-embedded Fe–N–C motifs: bridging concepts between molecular homogeneous and solid-state heterogeneous catalysis.
+ACS Energy Lett.
+3
+, 812–817 (2018).
+Article
+CAS
+Google Scholar
+Wuttig, A., Yaguchi, M., Motobayashi, K., Osawa, M. & Surendranath, Y. Inhibited proton transfer enhances Au-catalyzed CO
+2
+-to-fuels selectivity.
+Proc. Natl Acad. Sci. USA
+113
+, E4585–E4593 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Verma, S. et al. Insights into the low overpotential electroreduction of CO
+2
+to CO on a supported gold catalyst in an alkaline flow electrolyzer.
+ACS Energy Lett.
+3
+, 193–198 (2018).
+Article
+CAS
+Google Scholar
+Prslja, P. & López, N. Stability and redispersion of Ni nanoparticles supported on N-doped carbons for the CO
+2
+electrochemical reduction.
+ACS Catal.
+11
+, 88–94 (2021).
+Article
+CAS
+Google Scholar
+Dunwell, M. et al. The central role of bicarbonate in the electrochemical reduction of carbon dioxide on gold.
+J. Am. Chem. Soc.
+139
+, 3774–3783 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Hansen, H. A., Varley, J. B., Peterson, A. A. & Nørskov, J. K. Understanding trends in the electrocatalytic activity of metals and enzymes for CO
+2
+reduction to CO.
+J. Phys. Chem. Lett.
+4
+, 388–392 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, L. D., Urushihara, M., Chan, K. & Nørskov, J. K. Electric field effects in electrochemical CO
+2
+reduction.
+ACS Catal.
+6
+, 7133–7139 (2016).
+Article
+CAS
+Google Scholar
+Limaye, A. M., Zeng, J. S., Willard, A. P. & Manthiram, K. Bayesian data analysis reveals no preference for cardinal Tafel slopes in CO
+2
+reduction electrocatalysis.
+Nat. Commun.
+12
+, 703 (2021).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Hori, Y., Wakebe, H., Tsukamoto, T. & Koga, O. Electrocatalytic process of CO selectivity in electrochemical reduction of CO
+2
+at metal electrodes in aqueous media.
+Electrochim. Acta
+39
+, 1833–1839 (1994).
+Article
+CAS
+Google Scholar
+Brown, S. M. et al. Electron transfer limitation in carbon dioxide reduction revealed by data-driven Tafel analysis. Preprint at
+ChemRxiv
+https://doi.org/10.26434/chemrxiv.13244906.v1
+(2020).
+Ju, W. et al. Unraveling mechanistic reaction pathways of the electrochemical CO
+2
+reduction on Fe–N–C single-site catalysts.
+ACS Energy Lett.
+4
+, 1663–1671 (2019).
+Article
+CAS
+Google Scholar
+Benson, E. E., Kubiak, C. P., Sathrum, A. J. & Smieja, J. M. Electrocatalytic and homogeneous approaches to conversion of CO
+2
+to liquid fuels.
+Chem. Soc. Rev.
+38
+, 89–99 (2009).
+Article
+CAS
+PubMed
+Google Scholar
+Göttle, A. J. & Koper, M. T. M. Proton-coupled electron transfer in the electrocatalysis of CO
+2
+reduction: prediction of sequential vs. concerted pathways using DFT.
+Chem. Sci.
+8
+, 458–465 (2016).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Gennaro, A. et al. Mechanism of the electrochemical reduction of carbon dioxide at inert electrodes in media of low proton availability.
+J. Chem. Soc. Faraday Trans.
+92
+, 3963–3968 (1996).
+Article
+CAS
+Google Scholar
+Zhang, B. A., Costentin, C. & Nocera, D. G. Driving force dependence of inner-sphere electron transfer for the reduction of CO
+2
+on a gold electrode.
+J. Chem. Phys.
+153
+, 094701 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Ringe, S. et al. Double layer charging driven carbon dioxide adsorption limits the rate of electrochemical carbon dioxide reduction on gold.
+Nat. Commun.
+11
+, 33 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Vijay, S. et al. Dipole-field interactions determine the CO
+2
+reduction activity of 2D Fe–N–C single atom catalysts.
+ACS Catal.
+10
+, 7826–7835 (2020).
+Article
+CAS
+Google Scholar
+Gauthier, J. A. et al. Facile electron transfer to CO
+2
+during adsorption at the metal|solution interface.
+J. Phys. Chem. C
+123
+, 29278–29283 (2019).
+Article
+CAS
+Google Scholar
+Verma, A. M., Honkala, K. & Melander, M. M. Computational screening of doped graphene electrodes for alkaline CO
+2
+reduction.
+Front. Energy Res.
+8
+, 388 (2021).
+Article
+Google Scholar
+Newns, D. M. Self-consistent model of hydrogen chemisorption.
+Phys. Rev.
+178
+, 1123–1135 (1969).
+Article
+CAS
+Google Scholar
+Anderson, P. W. Localized magnetic states in metals.
+Phys. Rev.
+124
+, 41–53 (1961).
+Article
+CAS
+Google Scholar
+Grimley, T. B. Overlap effects in the theory of adsorption using Anderson’s Hamiltonian.
+J. Phys. C
+3
+, 1934–1942 (1970).
+Article
+CAS
+Google Scholar
+Gauthier, J. A. et al. Challenges in modeling electrochemical reaction energetics with polarizable continuum models.
+ACS Catal.
+9
+, 920–931 (2019).
+Article
+CAS
+Google Scholar
+Nørskov, J. K., Studt, F., Abild-Pedersen, F. & Bligaard, T.
+Fundamental Concepts in Heterogeneous Catalysis
+(Wiley, 2014).
+Kim, D., Shi, J. & Liu, Y. Substantial impact of charge on electrochemical reactions of two-dimensional materials.
+J. Am. Chem. Soc.
+140
+, 9127–9131 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Mehdipour, H. et al. Dependence of electron transfer dynamics on the number of graphene layers in
+π
+-stacked 2
+d
+materials: insights from ab initio nonadiabatic molecular dynamics.
+Phys. Chem. Chem. Phys.
+21
+, 23198–23208 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Hansen, H. A., Viswanathan, V. & Nørskov, J. K. Unifying kinetic and thermodynamic analysis of 2 e
+–
+and 4 e
+–
+reduction of oxygen on metal surfaces.
+J. Phys. Chem. C
+118
+, 6706–6718 (2014).
+Article
+CAS
+Google Scholar
+Limmer, D. T., Willard, A. P., Madden, P. & Chandler, D. Hydration of metal surfaces can be dynamically heterogeneous and hydrophobic.
+Proc. Natl Acad. Sci. USA
+110
+, 4200–4205 (2013).
+Article
+CAS
+PubMed Central
+Google Scholar
+Huang, B. et al. Cation-dependent interfacial structures and kinetics for outer-sphere electron-transfer reactions.
+J. Phys. Chem. C
+125
+, 4397–4411 (2021).
+Article
+CAS
+Google Scholar
+Patel, A. M. et al. Theoretical approaches to describing the oxygen reduction reaction activity of single-atom catalysts.
+J. Phys. Chem. C
+122
+, 29307–29318 (2018).
+Article
+CAS
+Google Scholar
+Mortensen, J. J., Hammer, B. & Nørskov, J. K. Alkali promotion of N
+2
+dissociation over Ru(0001).
+Phys. Rev. Lett.
+80
+, 4333–4336 (1998).
+Article
+CAS
+Google Scholar
+Marshall-Roth, T. et al. A pyridinic Fe–N
+4
+macrocycle models the active sites in Fe/N-doped carbon electrocatalysts.
+Nat. Commun.
+11
+, 5283 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Sa, Y. J. et al. Thermal transformation of molecular Ni
+2+
+–N
+4
+sites for enhanced CO
+2
+electroreduction activity.
+ACS Catal.
+10
+, 10920–10931 (2020).
+Article
+CAS
+Google Scholar
+Hossain, M. D., Huang, Y., Yu, T. H., Goddard, W. A. & Luo, Z. Reaction mechanism and kinetics for CO
+2
+reduction on nickel single atom catalysts from quantum mechanics.
+Nat. Commun.
+11
+, 2256 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Kim, H. et al. Identification of single-atom Ni site active toward electrochemical CO
+2
+conversion to CO.
+J. Am. Chem. Soc.
+143
+, 925–933 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Marcandalli, G., Villalba, M. & Koper, M. T. M. The importance of acid–base equilibria in bicarbonate electrolytes for CO
+2
+electrochemical reduction and CO reoxidation studied on Au(
+hkl
+) electrodes.
+Langmuir
+37
+, 5707–5716 (2021).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Luo, F. et al. Accurate evaluation of active-site density (SD) and turnover frequency (TOF) of PGM-free metal–nitrogen-doped carbon (MNC) electrocatalysts using CO cryo adsorption.
+ACS Catal.
+9
+, 4841–4852 (2019).
+Article
+CAS
+Google Scholar
+Kramm, U. I. et al. Structure of the catalytic sites in Fe/N/C-catalysts for O
+2
+-reduction in PEM fuel cells.
+Phys. Chem. Chem. Phys.
+14
+, 11673–11688 (2012).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Jiang, K. et al. Transition-metal single atoms in a graphene shell as active centers for highly efficient artificial photosynthesis.
+Chem
+3
+, 950–960 (2017).
+Article
+CAS
+Google Scholar
+Jiang, K. et al. Isolated Ni single atoms in graphene nanosheets for high-performance CO
+2
+reduction.
+Energy Environ. Sci.
+11
+, 893–903 (2018).
+Article
+CAS
+Google Scholar
+Luo, F. et al. Surface site density and utilization of platinum group metal (PGM)-free Fe–NC and FeNi–NC electrocatalysts for the oxygen reduction reaction.
+Chem. Sci.
+12
+, 384–396 (2021).
+Article
+CAS
+Google Scholar
+Vojvodic, A., Nørskov, J. K. & Abild-Pedersen, F. Electronic structure effects in transition metal surface chemistry.
+Top. Catal.
+57
+, 25–32 (2014).
+Article
+CAS
+Google Scholar
+Xin, H., Vojvodic, A., Voss, J., Nørskov, J. K. & Abild-Pedersen, F. Effects of
+d
+-band shape on the surface reactivity of transition-metal alloys.
+Phys. Rev. B
+89
+, 115114 (2014).
+Article
+Google Scholar
+Greiner, M. T. et al. Free-atom-like
+d
+states in single-atom alloy catalysts.
+Nat. Chem.
+10
+, 1008–1015 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Thirumalai, H. & Kitchin, J. R. Investigating the reactivity of single atom alloys using density functional theory.
+Top. Catal.
+61
+, 462–474 (2018).
+Article
+CAS
+Google Scholar
+Larsen, A. H., Kleis, J., Thygesen, K. S., Nørskov, J. K. & Jacobsen, K. W. Electronic shell structure and chemisorption on gold nanoparticles.
+Phys. Rev. B
+84
+, 245429 (2011).
+Article
+Google Scholar
+Li, L. et al. Investigation of catalytic finite-size-effects of platinum metal clusters.
+J. Phys. Chem. Lett.
+4
+, 222–226 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Ji, Y., Nørskov, J. K. & Chan, K. Scaling relations on basal plane vacancies of transition metal dichalcogenides for CO
+2
+reduction.
+J. Phys. Chem. C
+123
+, 4256–4261 (2019).
+Article
+CAS
+Google Scholar
+Zhao, X. & Liu, Y. Unveiling the active structure of single nickel atom catalysis: critical roles of charge capacity and hydrogen bonding.
+J. Am. Chem. Soc.
+142
+, 5773–5777 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Singh, A. R. et al. Computational design of active site structures with improved transition-state scaling for ammonia synthesis.
+ACS Catal.
+8
+, 4017–4024 (2018).
+Article
+CAS
+Google Scholar
+Birdja, Y. Y. et al. Advances and challenges in understanding the electrocatalytic conversion of carbon dioxide to fuels.
+Nat. Energy
+4
+, 732–745 (2019).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+Google Scholar
+Hammer, B., Hansen, L. B. & Nørskov, J. K. Improved adsorption energetics within density-functional theory using revised Perdew–Burke–Ernzerhof functionals.
+Phys. Rev. B
+59
+, 7413–7421 (1999).
+Article
+Google Scholar
+Heyd, J., Scuseria, G. E. & Ernzerhof, M. Hybrid functionals based on a screened Coulomb potential.
+J. Chem. Phys.
+118
+, 8207–8215 (2003).
+Article
+CAS
+Google Scholar
+Heyd, J., Scuseria, G. E. & Ernzerhof, M. Erratum: hybrid functionals based on a screened Coulomb potential.
+J. Chem. Phys.
+124
+, 219906 (2006).
+Article
+Google Scholar
+Dudarev, S. & Botton, G. Electron-energy-loss spectra and the structural stability of nickel oxide: an LSDA+U study.
+Phys. Rev. B
+57
+, 1505–1509 (1998).
+Article
+CAS
+Google Scholar
+Hjorth Larsen, A. et al. The atomic simulation environment—a Python library for working with atoms.
+J. Phys. Condens. Matter
+29
+, 273002 (2017).
+Article
+PubMed
+Google Scholar
+Monkhorst, H. J. & Pack, J. D. Special points for Brillouin-zone integrations.
+Phys. Rev. B
+13
+, 5188–5192 (1976).
+Article
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. Climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+Article
+CAS
+Google Scholar
+Mathew, K., Kolluru, V. S. C., Mula, S., Steinmann, S. N. & Hennig, R. G. Implicit self-consistent electrolyte model in plane-wave density-functional theory.
+J. Chem. Phys.
+151
+, 234101 (2019).
+Article
+PubMed
+Google Scholar
+Nørskov, J. K. et al. Origin of the overpotential for oxygen reduction at a fuel-cell cathode.
+J. Phys. Chem. B
+108
+, 17886–17892 (2004).
+Article
+Google Scholar
+Medford, A. J. et al. CatMAP: a software package for descriptor-based microkinetic mapping of catalytic trends.
+Catal. Letters
+145
+, 794–807 (2015).
+Article
+CAS
+Google Scholar
+Luo, F. et al. P-block single-metal-site tin/nitrogen-doped carbon fuel cell cathode catalyst for oxygen reduction reaction.
+Nat. Mater.
+19
+, 1215–1223 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Möller, T. et al. Efficient CO
+2
+to CO electrolysis on solid Ni–N–C catalysts at industrial current densities.
+Energy Environ. Sci.
+12
+, 640–647 (2019).
+Article
+Google Scholar
+Zhang, X. et al. Molecular engineering of dispersed nickel phthalocyanines on carbon nanotubes for selective CO
+2
+reduction.
+Nat. Energy
+5
+, 684–692 (2020).
+Article
+CAS
+Google Scholar
+Gu, J., Hsu, C. S., Bai, L., Chen, H. M. & Hu, X. Atomically dispersed Fe
+3+
+sites catalyze efficient CO
+2
+electroreduction to CO.
+Science
+364
+, 1091–1094 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Download references
+Acknowledgements
+The research leading to these results received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement no. 851441, SELECTCO2, and from the VILLUM Centre for the Science of Sustainable Fuels and Chemicals (no. 9455) from VILLUM FONDEN. Research leading to some of these results received funding from the Fuel Cells and Hydrogen 2 Joint Undertaking under grant agreement no. 779366, CRESCENDO. The authors acknowledge computational resource from PRACE (project ID: prpa85) and the Juelich Supercomputing Centre. We thank G. Kastlunger for helpful discussions.
+Author information
+Author notes
+These authors contributed equally: Sudarshan Vijay and Wen Ju.
+These authors jointly supervised: Peter Strasser and Karen Chan.
+Authors and Affiliations
+CatTheory, Department of Physics, Technical University of Denmark, Lyngby, Denmark
+Sudarshan Vijay, Sze-Chun Tsang & Karen Chan
+Department of Chemistry, Chemical Engineering Division, Technical University Berlin, Berlin, Germany
+Wen Ju, Sven Brückner & Peter Strasser
+Authors
+Sudarshan Vijay
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wen Ju
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sven Brückner
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sze-Chun Tsang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Peter Strasser
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Karen Chan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+S.V. and K.C. designed the computational study and wrote the first draft of the paper. S.V. and S.-C.T. performed the DFT calculations and the data analysis. P.S. designed the experiments, and W.J. and S.B. performed them. All the authors contributed to revising the manuscript.
+Corresponding authors
+Correspondence to
+Peter Strasser
+or
+Karen Chan
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Catalysis
+thanks Yang Hou, Hyungjun Kim and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–15 and Tables 1 and 2.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Vijay, S., Ju, W., Brückner, S.
+et al.
+Unified mechanistic understanding of CO
+2
+reduction to CO on transition metal and single atom catalysts.
+Nat Catal
+4
+, 1024–1031 (2021). https://doi.org/10.1038/s41929-021-00705-y
+Download citation
+Received
+:
+16 April 2021
+Accepted
+:
+13 October 2021
+Published
+:
+25 November 2021
+Issue Date
+:
+December 2021
+DOI
+:
+https://doi.org/10.1038/s41929-021-00705-y
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

@@ -1,0 +1,1517 @@
+Organic carbon transfer process in advanced oxidation systems for water clean-up | Nature Water
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature water
+articles
+article
+Organic carbon transfer process in advanced oxidation systems for water clean-up
+Download PDF
+Article
+Published:
+28 February 2025
+Organic carbon transfer process in advanced oxidation systems for water clean-up
+Zhuan Chen
+1
+,
+Jiayi Wang
+1
+,
+Bo Yang
+1
+,
+Jun Li
+1
+,
+Zhiyan Liang
+1
+,
+Xinyue Liu
+1
+,
+Yan Bao
+1
+,
+Jiazhen Cao
+2
+&
+…
+Mingyang Xing
+ORCID:
+orcid.org/0000-0002-0518-2849
+1
+,
+2
+,
+3
+Show authors
+Nature Water
+volume
+3
+,
+pages
+334–344 (
+2025
+)
+Cite this article
+2395
+Accesses
+3
+Altmetric
+Metrics
+details
+Subjects
+Pollution remediation
+Abstract
+Although Fenton and Fenton-like technologies have long been of great interest for application to environmental remediation, the transformation and final form of pollutants during the reaction have rarely been studied in depth. Here we report a pollutant transformation process, termed organic carbon transfer process (OCTP), in a Fenton-like reaction. Compared with the Fenton reaction previously reported for treating organic wastewater, the OCTP is very different and widely observed in reaction systems. In the OCTP, as oxidation proceeds and pollutant derivatives interact, the pollutants’ polarity changes and the pollutants predominantly accumulate on the catalyst surface. The OCTP occurs during the degradation of various wastewater types and accounts for up to 90.1% of the total substances accumulated on catalyst surfaces, even during industrial wastewater treatment. The in-depth study of OCTP has to some extent revealed the main reasons for the deactivation of heterogeneous catalysts during the reaction process and provided new research directions for the future study of heterogeneous catalytic systems.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Organic wastewater treatment by a single-atom catalyst and electrolytically produced H
+2
+O
+2
+Article
+09 November 2020
+Metal oxyhalide-based heterogeneous catalytic water purification with ultralow H
+2
+O
+2
+consumption
+Article
+08 August 2024
+Recent developments in hazardous pollutants removal from wastewater and water reuse within a circular economy
+Article
+Open access
+12 April 2022
+Main
+Fenton and Fenton-like reactions are widely applied in wastewater treatment because they can generate substantial reactive oxygen species (ROS)
+1
+,
+2
+,
+3
+,
+4
+,
+5
+. In recent years, the utilization of heterogeneous catalysts in Fenton and Fenton-like reactions has attracted increasing research attention for enhancing the effectiveness of traditional Fenton technologies
+6
+,
+7
+,
+8
+. Heterogeneous catalysts can maintain high reaction activities while reducing metal leaching and secondary pollution, rendering them as being cost effective, recyclable and suitable for practical applications. Furthermore, the focus of recent studies is the post-reaction catalyst rather than solely concentrating on the reaction liquid. Model pollutants may polymerize under the influence of Fenton-like reactions to form polymers on the catalyst surface
+9
+,
+10
+. Consequently, the pollutants are not fully mineralized but instead accumulate on the catalyst surface, which is very concerning because this may poison the catalyst and complicate the subsequent pollutant degradation. Although model pollutants rapidly degrade in many reaction systems, whether pollutants are ultimately mineralized into CO
+2
+and H
+2
+O still requires further investigation, especially for systems comprising lower reduction–oxidation-potential ROS. In environmental pollution remediation, single-atom catalysts (SACs) are emerging as particularly popular choices because of their exceptional physical and chemical properties
+11
+,
+12
+,
+13
+. In current research, the utilization of SACs in the Fenton system is predominantly associated with
+1
+O
+2
+and high-valent metals
+14
+,
+15
+,
+16
+,
+17
+,
+18
+.
+1
+O
+2
+(standard oxidation reduction potential (
+E
+0
+) = 1.88 V versus a normal hydrogen electrode) and high-valent metals (Fe(IV) = O,
+E
+0
+= 1.19 V, pH 7) exhibit relatively lower oxidation potentials compared to free radicals (•OH,
+E
+0
+= 2.80 V) (refs.
+19
+,
+20
+,
+21
+). Paradoxically, the SAC-catalysed Fenton reaction degrades model pollutants exceptionally rapidly, further complicating the degradation. In such reaction systems, whether organic pollutants are mineralized remains to be further investigated. Additionally, in some high-mineralization-rate reaction systems, whether organic pollutants accumulating on the catalyst surface contribute to the increased mineralization rate remains unclear. Therefore, the evolution and ultimate form of pollutants must urgently be investigated during the treatment of organic wastewater using Fenton and Fenton-like technologies, especially in reaction systems involving SACs.
+This study explored the organic carbon transfer process (OCTP) in heterogeneous Fenton and Fenton-like reactions using the Fe–SAC–peroxomonosulfate (PMS) system and refined its mechanism. OCTP reveals that many pollutant intermediates are not fully mineralized but accumulate on solid surfaces due to polarity changes. It is influenced by material polarity, ROS and pollutant oxidation levels and can be optimized to enhance advanced oxidation processes. Using Fe–N–C/PMS, we investigated phenol degradation under various conditions. Data from nuclear magnetic resonance (NMR), thermogravimetric analysis (TGA) and multiple characterization methods confirmed that organic pollutants aggregate on catalyst surfaces as their polarity changes during reactions. Chemical oxygen demand (COD) analysis quantified the transferred organic carbon for different pollutants and catalysts. This work has explored previously uncharted territory in Fenton and Fenton-like heterogeneous reactions for environmental pollutant remediation, highlighting the importance of the OCTP in pollutant degradation.
+Results
+Synthesis and characterization of catalysts
+Fe–N–C was synthesized using a simple method. As shown in Fig.
+1a
+, o-phenanthroline and Fe(acac)
+3
+were ultrasonically mixed and then dried, and the resulting solid was calcined at 700 °C and subsequently washed with 1 M HNO
+3
+. As shown in Fig.
+1b
+, the calcination-derived Fe–N–C did not possess a distinctive morphology. However, transmission electron microscopy (TEM) images (Fig.
+1c
+) revealed that the Fe–N–C edges exhibited a thin sheet-like structure. According to spherical-aberration-corrected TEM images, in Fe–N–C, individual iron atoms were present on the carrier surface (Fig.
+1d
+), which was also supported by the X-ray diffraction pattern of the Fe–N–C (supplementary Fig.
+1
+), which indicated that the catalyst primarily comprised amorphous carbon and no crystalline substances. This ruled out both iron aggregation and oxides in the catalyst. The elemental maps of the catalyst also revealed that Fe, C, N and O were uniformly distributed in the Fe–N–C (Fig.
+1e
+).
+Fig. 1: Preparation and characterization of catalyst.
+a
+, Brief preparation process of Fe–N–C.
+b
+, SEM image of Fe–N–C.
+c
+, TEM image of Fe–N–C.
+d
+, Aberration-corrected HAADF-STEM image of Fe–N–C.
+e
+, Elemental mapping for Fe–N–C.
+f
+, EXAFS in R space for FeS
+2
+, FeO, Fe
+3
+O
+4
+, FePc, Fe foil and Fe–N–C.
+k
+2
+χ
+(
+k
+) represents the
+k
+2
+-weighted processing of
+k
+-space data.
+g
+, XANES of Fe element in FeS
+2
+, FeO, Fe
+3
+O
+4
+, FePc, Fe foil and Fe–N–C.
+h
+, XPS tests of Fe element in Fe–N–C.
+Source data
+Full size image
+The Fe chemical states and local environment were further investigated using the X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) spectra. As shown in Fig.
+1f
+, the
+k
+2
+-weighted Fourier-transform EXAFS (FT-EXAFS) spectrum showed that in Fe–N–C, Fe was mainly coordinated with N atoms, with a bond length of 1.46 Å, corresponding to the Fe–N bond in iron (II) phthalocyanine (FePc). Meanwhile, no obvious peaks corresponding to the Fe–Fe bond appeared at 2.2 Å, implying the absence of Fe clusters and crystalline particles. As shown in Fig.
+1g
+, the Fe K-edge XANES spectrum and valence analysis suggested that in Fe–N–C, the Fe valence state was between +2 and +3. The oxidation states or forms of each element in Fe–N–C were further characterized using X-ray photoelectron spectroscopy (XPS) (Fig.
+1h
+). In the spectrum of the calcined Fe–N–C, the main Fe peak was near 710 eV, which means that Fe primarily existed in both the +2 and +3 oxidation states. The catalyst contained pyrrolic, pyridinic, graphitic and pyridine oxide N, O predominantly in C–O bonds and
+sp
+2
+-hybridized C atoms (supplementary Fig.
+2
+).
+Fenton-like reaction for model pollutant degradation
+As shown in Fig.
+2a,b
+, when both the catalyst and PMS dosages were 200 mg l
+−1
+, the phenol degradation rate was maximized. Increasing the catalyst and PMS amounts did not further enhance the phenol degradation rate. According to supplementary Fig.
+3
+, when the PMS dosage ranged from 20 to 400 mg l
+−1
+, the pH change was not substantial (from 3.84 to 2.47). Therefore, the optimal Fe–N–C catalyst and PMS dosages should both be 200 mg l
+−1
+from the perspective of reducing cost. To assess the superiority of Fe–N–C in the Fenton-like reaction, FeSO
+4
+·7H
+2
+O and CoCl
+2
+were used as controls. Figure
+2c
+shows that even when 10 mg of FeSO
+4
+·7H
+2
+O and CoCl
+2
+, far exceeding the equivalent Fe content in the Fe–N–C (Fe mass fraction = 0.91%; Supplementary Table
+1
+), were used as catalysts, these two catalytic systems still could not match the phenol degradation rate achieved using Fe–N–C/PMS. The kinetic constant for phenol degradation with Fe–N–C/PMS was eight times higher than that for phenol degradation with FeSO
+4
+·7H
+2
+O/PMS (Fig.
+2d
+). However, the experiment conducted using PMS-free Fe–N–C demonstrated that Fe–N–C alone negligibly adsorbed phenol. According to Supplementary Fig.
+4
+, the experimental results showed that the activities of Fe–N–C and CoCl
+2
+catalysts remained stable under neutral conditions demonstrating the applicability in complex situation, whereas the activity of FeSO
+4
+·7H
+2
+O decreased. Furthermore, in the presence of humic acid, the activities of FeSO
+4
+·7H
+2
+O and CoCl
+2
+catalysts both showed a marked decrease, whereas the activity of Fe–N–C remained unaffected. In addition, after the reaction, the concentration of Fe ions in the reaction solution was 0.4 mg l
+−1
+indicating non-homogeneous properties (Supplementary Table
+2
+).
+Fig. 2: Catalytic activity testing of Fe–N–C.
+a
+, Degradation rate of phenol in Fe–N–C/PMS at different PMS dosages. Reaction conditions: 200 mg l
+−1
+Fe–N–C and 20 mg l
+−1
+phenol.
+C
+/
+C
+0
+represents normalized concentration of pollutants.
+b
+, Degradation rate of phenol in Fe–N–C/PMS at different Fe–N–C dosages. Reaction conditions: 200 mg l
+−1
+Fe–N–C and 20 mg l
+−1
+phenol.
+c
+, Comparison of phenol degradation rates using Fe–N–C or FeSO
+4
+·7H
+2
+O and CoCl
+2
+with PMS. Reaction conditions: 200 mg l
+−1
+Fe–N–C or 200 mg l
+−1
+FeSO
+4
+·7H
+2
+O and CoCl
+2
+and 20 mg l
+−1
+phenol. All the estimations were made on the basis of the average data from three repeated experiments unless otherwise specified. The data are presented as the mean ± SD (
+n
+= 3).
+d
+, Kinetic constants for
+c
+.
+e
+, Sacrificial agent experiments using 10 mM sacrificial agent. All the estimations were made on the basis of the average data from three repeated experiments unless otherwise specified. The data are presented as the mean ± SD (
+n
+= 3).
+f
+, Degradation rate of phenol in Fe–N–C/PMS under different pH conditions. All the estimations were made on the basis of the average data from three repeated experiments unless otherwise specified. The data are presented as the mean ± SD (
+n
+= 3). Different colours represent different pH in the reaction condition.
+g
+, Long-term phenol degradation in Fe–N–C/PMS. Reaction conditions: 200 mg l
+−1
+Fe–N–C and PMS and 20 mg l
+−1
+phenol in every round. Different coloured shadows represent different days of the experiment.
+h
+, Phenol degradation cycling in Fe–N–C/PMS. Reaction conditions: 200 mg l
+−1
+for both Fe–N–C and PMS and 20 mg l
+−1
+phenol.
+Source data
+Full size image
+To clarify the mechanism for phenol degradation in Fe–N–C/PMS, various sacrificial agents were introduced to investigate the ROS generated during the reaction (Fig.
+2e
+). Except for 2,2,6,6-tetramethylpiperidine (TEMP) and dimethyl sulfoxide (DMSO), MeOH, TBA and
+p
+-benzoquinone (
+p
+-BQ) negligibly inhibited phenol degradation in Fe–N–C/PMS. TEMP substantially inhibited the degradation indicating that singlet oxygen (
+1
+O
+2
+) was the primary ROS responsible for oxidation and the existence of the high-valent iron still required further verification due to the slight inhibition of DMSO on the degradation process.
+As shown in Supplementary Figs.
+5
+and
+6
+, the conversion of methyl phenyl sulfone (PMSO) to PMSO
+2
+confirmed the presence of high-valent iron in the system (equation (
+1
+)). And this finding was further validated by the probe experiment using (E)-1,2-diphenylethene (Supplementary Fig.
+7
+)
+22
+. Here to further investigate the contribution of high-valent iron in the degradation of pollutants within the Fe–N–C/PMS system, both DMSO and TEMP were introduced into the degradation system as scavengers. The results showed that the simultaneous addition of DMSO and TEMP completely inhibited phenol degradation. Additionally, because the increase in phenol degradation rate in the presence of TEMP as a scavenger primarily occurred in the initial stage of the reaction, it suggests that the contribution of high-valent iron is probably concentrated in the early stage of the degradation process. Meanwhile, the oxidation effect of high-valent iron in the Fe–N–C/PMS system cannot be ignored.
+$$\eta =\frac{\mathrm{PMS}\mathrm{O}_{2}(2,3\mbox-\mathrm{Diphenyloxirane})}{\Delta\mathrm{PMSO}((\mathrm{E})\mbox-1,2\mbox-\mathrm{Diphenylethene})}$$
+(1)
+ROS was also confirmed using electron paramagnetic resonance (EPR) spectroscopy. As shown in Supplementary Fig.
+8
+, a triplet signal corresponding to singlet oxygen was observed and the seven-peak signal obtained for the reaction with 5,5-dimethyl-1-pyrrolidine-
+N
+-oxide did not correspond to the ROS in the reaction system
+23
+. Fluorescence probe experiments using terephthalic acid (Supplementary Figs.
+9
+and
+10
+) and coumarin (Supplementary Figs.
+11
+and
+12
+) also ruled out the possible presence of adsorbed ROSs in the system
+24
+. On the basis of the above experimental results, the ROS reaction in this system is represented by equations (
+2
+)–(
+5
+) as follows
+7
+,
+25
+:
+$$\equiv\mathrm{Fe}\left(\mathrm{II}\right)+\mathrm{HS}\mathrm{O}_{5}^{-}\to \equiv\mathrm{F{e}}^{\mathrm{IV}}\mathrm{O}^{2+}+\mathrm{S{O}}_{4}^{2-}+\mathrm{H}^{+}$$
+(2)
+$${[\mathrm{Fe}\left(\mathrm{III}\right)\mathrm{OOS}\mathrm{O}_{3}]}^{+}\to \equiv\mathrm{Fe}\left(\mathrm{IV}\right)=\mathrm{O}+\mathrm{S{O}}_{4}^{\cdot -}$$
+(3)
+$$\equiv\mathrm{Fe}\left(\mathrm{III}\right)+\mathrm{HS}\mathrm{O}_{5}^{-}\to \equiv\mathrm{Fe}\left(\mathrm{II}\right)+\mathrm{S{O}}_{5}^{\cdot -}+\mathrm{H}^{+}$$
+(4)
+$$2\mathrm{SO}_{5}^{\cdot -}\to 2\mathrm{SO}_{4}^{2-}+{{1}\atop}{\mathrm{O}}_{2}$$
+(5)
+Additionally, the experiment also conducted quantitative studies on high-valent iron and singlet oxygen in the system using (E)-1,2-diphenylethene and 1,3-Diphenylisobenzofuran (DPBF)
+26
+,
+27
+,
+28
+. Specifically, according to the high-valent metal–oxygen transfer process shown in Supplementary Fig.
+13
+, it can be concluded that: under typical experimental conditions, 800 mg l
+−1
+of PMS reacts with 200 mg l
+−1
+of the Fe–N–C catalyst to produce more than 74 mg l
+−1
+(1.03 mM) of high-valent iron based on the linear relationship between the amount of PMS used and the yield of 2,3-Diphenyloxirane. In the probe experiment, the molar ratio between DPBF and
+1
+O
+2
+is 1:1, with the reaction product exhibiting UV absorption at 410 nm. As illustrated in Supplementary Fig.
+14
+, at 60 minutes, 200 mg l
+−1
+Fe–N–C was able to activate 800 mg l
+−1
+PMS to react with 20 mM DPBF, resulting in the production of 10.28 mM of the reaction product and
+1
+O
+2
+.
+During phenol degradation with Fe–N–C/PMS, the solution pH further decreased with increasing PMS content. As shown in Supplementary Fig.
+15
+, the solution pH decreased from 4.08 to 2.85 with increasing PMS content. Additionally, as shown in Fig.
+2f
+, Fe–N–C/PMS exhibited excellent reactivity under both alkaline and acidic conditions. In a long-term degradation experiment spanning ten days and 30 cycles, the Fe–N–C catalyst maintained its catalytic activity in the first 25 cycles (Fig.
+2g
+). After 30 cycles, approximately 40 mg l
+−1
+of the initial 600 mg l
+−1
+of phenol remained in the reaction solution. During cycling, Fe–N–C/PMS consistently exhibited rapid reactions and a high degradation efficiency over five cycles (Fig.
+2h
+). Fe–N–C/PMS also effectively enhanced the biodegradability of industrial wastewater. After treatment with Fe–N–C/PMS, the COD of the industrial pharmaceutical wastewater decreased, whereas the biochemical oxygen demand/COD ratio increased (Supplementary Table
+3
+).
+Pollutant degradation in Fe–N–C/PMS is driven by
+1
+O
+2
+and high-valent iron, which have long lifetimes but low oxidation potentials. The high reaction rates and degradation efficiencies achieved with these species are intriguing, prompting further investigation into the fate of phenol in this system.
+Reaction mechanism of Fe–N–C/PMS
+Phenol extremely rapidly degraded with Fe–N–C/PMS. Although liquid chromatography was used to measure the phenol content in the solution, it did not indicate the extent of phenol mineralization during the reaction. Therefore, liquid NMR-H spectroscopy was initially employed to preliminarily determine the types of pollutant present after the degradation of 20 mg l
+−1
+phenol. As shown in Supplementary Fig.
+16
+, the NMR-H spectrum only displayed peaks corresponding to D
+2
+O, indicating the absence of abundant pollutants in the reaction solution. The reaction solution was analysed by liquid chromatography-mass spectrometry and was found to contain only a few substances at very low concentrations (Supplementary Fig.
+17
+). Total organic carbon (TOC) of the 100 mg l
+−1
+phenol reaction solution was also analysed before and after the reaction. The TOC of the reaction solution decreased from 4.021 to 1.502 mg l
+−1
+after the reaction, respectively (Supplementary Table
+4
+), indicating that the phenol mineralization rate was very high. However, the achievement of a high degree of mineralization in
+1
+O
+2
+-dominated reaction systems is challenging.
+According to the XPS spectra of the post-reaction catalyst (Fig.
+3a
+), the proportion of
+sp
+3
+-hybridized C atoms on the Fe–N–C surface increased from 16.74% to 18.82% according to Table
+1
+. Additionally, peaks corresponding to the C = O bond appeared in the spectrum. However, the proportions of C and O on the Fe–N–C surface increased from 80.9% and 11.38% to 82.16% and 15.7%, respectively, whereas the proportions of Fe and N on the Fe–N–C surface decreased from 0.41% and 7.31% to 0.21% and 1.94%, respectively. Because all the elements are uniformly distributed on the Fe–N–C surface, the XPS spectra suggest that a certain amount of materials bearing saturated carbon atoms and C = O bonds appeared on the Fe–N–C surface after the reaction. Additionally, because these materials covered the Fe–N–C surface, the Fe XPS signal weakened (Supplementary Fig.
+18
+). In elemental analysis test of Fe–N–C before and after reaction, the total proportion of C and H elements in the catalyst increased from 63.96% and 1.635% to 67.06% and 2.323%, respectively, whereas the proportion of N decreased from 7.56% to 1.635% (Supplementary Table
+5
+). In addition, ethanol was utilized to wash the post-reaction Fe–N–C and subsequently removed using rotary evaporation. As depicted in Fig.
+3b,c
+, the material washed off the post-reaction Fe–N–C appeared yellow–brown, whereas no yellow–brown substance was observed when ethanol was used to wash the pristine catalyst. These results further indicated that considerable C/H-containing organic substances aggregated on the catalyst surface after the Fenton-like reaction. In the long-term experiments, considerable pollutants accumulated on the Fe–N–C/PMS surface and deactivated the catalyst during the late stages of phenol degradation (Fig.
+2g
+). However, the activity was recovered by washing the Fe–N–C catalyst with ethanol, indicating that catalyst was deactivated primarily because of the substantial accumulation of surface substances. Ethanol washing effectively removed these accumulated substances, thereby restoring the catalytic activity.
+Fig. 3: Detection and quantification of surface substances on catalysts.
+a
+, XPS test results for C/N/O elements of Fe–N–C after reaction.
+b
+,
+c
+, Ethanol solutions of the product washed off the catalyst surface after the reaction (
+b
+) and the substance obtained after drying of
+b
+(
+c
+).
+d
+, FTIR of Fe–N–C before and after the reaction and ethanol washings of Fe–N–C after the reaction.
+e
+, CODs measured for the solution and Fe–N–C before and after the reaction. Reaction conditions: 100 mg l
+−1
+pollutant, 800 mg l
+−1
+PMS and 200 mg l
+−1
+catalyst for 1 h. All the estimations were made on the basis of the average data from three repeated experiments unless otherwise specified. The data are presented as the mean ± SD (
+n
+= 3).
+f
+, TG analysis of Fe–N–C before and after the reaction.
+g
+, Proportion of organic pollutants accumulating on the catalyst surface via the OCTP during phenol degradation in systems dominated by different ROS. Experimental conditions: 400 mg l
+−1
+phenol, 800 mg l
+−1
+PMS, 200 mg l
+−1
+catalyst and 800 μl l
+−1
+H
+2
+O
+2
+. The pH of CoFe
+2
+O
+4
+/PMS was maintained at 7 and was not adjusted in the other reaction systems.
+Source data
+Full size image
+Table 1 XPS results revealing proportions of various elements on the catalyst surface before and after the reaction
+Full size table
+This result directly indicated that after the reaction between phenol and Fe–N–C/PMS, phenol oxidation species migrated to the Fe–N–C surface. First, we considered whether pollutants polymerized during degradation. Here the sacrificial agent experiments of 2,6-di-tert-butyl-4-methylphenol and ethanol, and the Co
+3
+O
+4
+/PMS/borate buffer control experiment, excluded the polymerization of potential pollutants in the system (Supplementary Figs.
+19
+and
+20
+)
+29
+. To investigate the components of the substances washed off the surface of the post-reaction catalyst, gas chromatography–mass spectrometry was employed. By comparing the experimental data with data in a database, various phenol transformation products formed through complex reactions between organic intermediates (Supplementary Figs.
+21
+and
+22
+). The intermediate products during the degradation of aniline in this system are different, as aniline contains the element N (Supplementary Fig.
+23
+). The comparison revealed complex products exhibiting solubilities that were substantially different from that of phenol. The difference in solubility was also demonstrated through high-performance liquid chromatography testing under different solvents (Supplementary Figs.
+24
+and
+25
+). Furthermore, the pristine and cycled catalysts and the substances washed off the catalyst after the reaction were analysed using Fourier-transform infrared (FTIR) spectroscopy. As shown in Fig.
+3d
+, the peaks and bands characteristic of functional groups were in ranges 3,750–3,000 cm
+−1
+(–OH and N–H); 3,100–2,750 cm
+−1
+(aliphatic –C–H–); 1,800–1,500 cm
+−1
+(C = O); 1,690–1,500 cm
+−1
+(C = C); 1,275–1,210 cm
+−1
+(R–O–Rʹ) and 820–750 cm
+−1
+(C–H)
+30
+,
+31
+. In the spectrum of the cycled catalyst, the characteristic peaks corresponding to N–H/–OH/C = O/C = C/R–O–Rʹ intensified with increasing phenol content. In the FTIR spectrum of the product washed from catalyst, the peaks corresponding to the functional groups -CH-, -C = C-, C = O and R-O-R’ showed high intensity. In the FTIR spectrum of the post-reaction catalyst, the peaks corresponding to C = C, C = O and R-O-R’ also exhibit an obvious increase in intensity. Therefore, the FTIR analysis confirmed the accumulation of oxygen-containing organic compounds on the surface of the catalyst.
+Then, the CODs were measured for the pristine and cycled catalysts and reaction solution before and after the reaction. Phenol, aniline, rhodamine B (RhB) and tetracycline (100 mg l
+−1
+each) were selected as model organic pollutants for the degradation experiment. As shown in Fig.
+3e
+, the COD of the pristine Fe–N–C solution was approximately 348 mg l
+−1
+. After the reactions, the CODs of Fe–N–C increased to 530, 512, 391 and 398 mg l
+−1
+, whereas the corresponding CODs of the phenol, aniline, RhB and tetracycline solutions decreased from 228, 223, 165 and 80 to 42, 40, 101 and 32 mg l
+−1
+, respectively. These results confirm the accumulation of organic pollutant reaction intermediates on the catalyst surface during the heterogeneous Fenton-like reaction in the OCTP, and the proportion of organic pollutants accumulating on the catalyst surface via the OCTP can be determined using equation (
+6
+), as follows:
+$$\mathrm{OCTP} \% =\frac{\Delta \mathrm{COD}\; \mathrm{of}\; \mathrm{Catalyst}/\mathrm{Solid}}{\Delta \mathrm{COD}\; \mathrm{of}\; \mathrm{Pollutant}}$$
+(6)
+Furthermore, the organic matter aggregated on the catalyst surface was experimentally quantified and theoretically predicted. First, Fe–N–C was analysed using TGA before and after the reaction. As shown in Fig.
+3f
+, the Fe–N–C mass loss was apparently negligible during heating before reaction. Fe–N–C was calcined at 700 °C in nitrogen, suggesting that the catalyst remained stable during heating. However, regardless of whether Fe–N–C reacted with 400 or 800 mg l
+−1
+of phenol, both catalysts exhibited over 60% mass reduction, indicating that during phenol degradation with Fe–N–C/PMS, substantial organic material transferred to the Fe–N–C surface, and organic compounds that accumulate on catalyst surfaces are prone to carbonization during TGA under nitrogen. The difference between the mass reductions of the Fe–N–C catalysts that reacted with 400 and 800 mg l
+−1
+of phenol is negligible probably because after Fe–N–C reacted with 400 mg l
+−1
+of phenol, the catalyst sites for accommodating pollutants were nearly saturated. Therefore, increasing the phenol mass during the reaction negligibly increased the mass of pollutants transferred to the Fe–N–C surface.
+Next, experiments were conducted to elucidate the OCTP mechanism. First, we investigated whether the OCTP occurred in the traditional homogeneous Fenton reaction. Solid TiO
+2
+was added to the homogeneous Fenton reaction, and the proportions of the organic pollutants accumulating on the surface of TiO
+2
+via the OCTP during phenol degradation were measured. In the traditional Fenton reaction for degrading organic pollutants, the reaction intermediates also aggregated on solid surfaces in the reaction system. As shown in Supplementary Table
+6
+, the COD of the TiO
+2
+substantially increased from 1 to 180 mg l
+−1
+, corresponding to 91.8% of the organic pollutants accumulating on the catalyst surface via the OCTP. Therefore, although •OH was the main ROS, the OCTP still occurs, suggesting that the OCTP may be present in various reaction systems. Next, the existence of OCTP in different heterogeneous Fenton systems has been further verified. The ROS in the various reaction systems were first determined through scavenger experiments (Supplementary Fig.
+26
+). As shown in Fig.
+3g
+and Supplementary Table
+7
+, although the proportion of OCTP in the COD removal rate of the reaction solution varies, OCTP exists in heterogeneous Fenton-like reaction systems dominated by different ROS. This means that OCTP is a universal phenomenon, and although different reaction systems have different activities, ROS and physico-chemical properties, OCTP in their reaction systems is inevitable.
+Next, the relationship between OCTP and the hydrophilicity/hydrophobicity of materials was first tested. A good correlation was observed between the proportion of OCTP and the water contact angle of the materials (Supplementary Figs.
+27
+and
+28
+) and the fluorinated hydrophobic modification of the Co–N–C catalyst increased the proportion of OCTP in this system from 64.2% to 91.8% (Fig.
+4a
+). The results from testing the OCTP proportion of superhydrophobic SiO
+2
+indicate that hydrophilicity/hydrophobicity is not an optimal and universal factor for determining the extent of OCTP (Supplementary Fig.
+29
+).
+Fig. 4: Exploration of OCTP mechanism.
+a
+, The contact angles of Co–N–C and Co–N–C–F and the proportion of OCTP in the activation of PMS for phenol degradation. Experimental conditions: 100 mg l
+−1
+phenol, 800 mg l
+−1
+PMS, 200 mg l
+−1
+catalyst.
+b
+, Polarity of Fe–N–C modified with different concentrations of TEOS and the proportion of OCTP in the degradation of phenol. Experimental conditions: 100 mg l
+−1
+phenol, 800 mg l
+−1
+PMS, 200 mg l
+−1
+catalyst. All the estimations were made on the basis of the average data from three repeated experiments unless otherwise specified. The data are presented as the mean ± SD (
+n
+= 3).
+c
+, The change of the proportion of OCTP and COD removal rate in the three systems with the increase of oxidant dosage. Experimental conditions: 100 mg l
+−1
+phenol; 800, 1,200 and 1,600 mg l
+−1
+PMS or 800, 1,200 and 1,600 μl l
+−1
+H
+2
+O
+2
+; 200 mg l
+−1
+catalyst.
+d
+, Proportion of organic pollutants accumulating on the catalyst surface via the OCTP at different PMS dosages. Experimental conditions: 100 mg l
+−1
+phenol and 200 mg l
+−1
+catalyst. All the estimations were made on the basis of the average data from three repeated experiments unless otherwise specified. The data are presented as the mean ± SD (
+n
+= 3).
+e
+, The proportion of OCTP in the degradation process of pollutants with different ionization potential (IP) models in Fe–N–C/PMS system. Experimental conditions: 800 mg l
+−1
+PMS, 100 mg l
+−1
+pollutant and 200 mg l
+−1
+catalyst.
+f
+, Mechanism of OCTP during phenol degradation with Fe–N–C/PMS.
+Source data
+Full size image
+In addition, the washing solutions of the cycled catalysts were analysed using NMR-H spectroscopy. As shown in Supplementary Fig.
+30
+, the signals of the experimental group using the deuterated DMSO solvent were substantially more intense than those of the experimental group using the D
+2
+O solvent, indicating the substances washed off the cycled catalysts dissolved more in the less-polar solvent (DMSO). Therefore, the aggregation of pollutant reaction intermediates on the material surface may be attributed to the decrease in their polarity. And the polarity of catalyst in the reaction system could be a critical factor influencing OCTP. In this study, the polarity of Fe–N–C was regulated by varying concentrations of tetraethyl orthosilicate (TEOS), and the polarity of catalyst was measured through zeta potential. As shown in the Fig.
+4b
+, the zeta potential of 90T-FNC, prepared with the highest TEOS concentration, was −23.1 mV, whereas that of Fe–N–C was −16.6 mV. This indicates that TEOS effectively reduced the zeta potential of the Fe–N–C catalyst, enhancing its surface polarity. In the corresponding degradation experiments, the proportion of OCTP decreased as the TEOS concentration increased, dropping from 89.1% to 32.2%. Moreover, there was a clear correlation between the proportion of OCTP and the zeta potential of catalyst. In OCTP, hydrophobic interactions play a key role. Hydrophobic substances disrupt water’s hydrogen-bond network, causing water molecules to organize around non-polar regions, increasing free energy. To minimize this, hydrophobic molecules aggregate, reducing interactions with water. Unlike traditional adsorption–degradation driven by electrostatic or van der Waals forces, OCTP involves the aggregation of low-polarity, poorly water-soluble intermediates on the catalyst surface, driven by their intrinsic properties. From this perspective, the Co
+3
+O
+4
+/PMS/borate buffer system was also modified with TEOS to eliminate the potential presence of polymerization in the Fe–N–C/PMS system. As shown in Supplementary Fig.
+31
+, although the polarity of the modified Co
+3
+O
+4
+was enhanced, the increase in the COD of catalyst was not suppressed. This indirectly suggests that there was no substantial polymerization in the OCTP. 90T-FNC was further characterized, and the results indicated that its structure did not undergo obvious changes (Supplementary Fig.
+32
+). Meanwhile, the structures analysed by XPS and FTIR confirmed the successful modification of the material (Supplementary Figs.
+33
+and
+34
+). When activating PMS to degrade pollutants, the pH and temperature of the system with 90T-FNC showed no important difference compared to Fe–N–C (Supplementary Figs.
+35
+and
+36
+).
+The characterization results confirm two key points: first, the successful modification of the Fe–N–C catalyst by TEOS; and second, the mechanism by which TEOS enhances the polarity of material lies in the construction of ethoxy groups on the material surface. Furthermore, according to the test results, the pH and temperature of the reaction system during the degradation of model pollutant phenol by PMS activated with 90T-FNC modified with TEOS showed no notable changes compared to those before modification (Supplementary Figs.
+35
+and
+36
+). Therefore, the mechanism by which TEOS modification reduces OCTP primarily stems from the enhanced polarity of the material.
+The influence of different reactive oxygen species (ROSs) on the pollutant degradation process within the reaction system is substantial. To investigate the contribution of various ROS to OCTP, three ROS-selective systems were designed and tested: the ZnFe–LDH/PMS system, which selectively generates high-valent iron species; the Co–N–C/PMS system, which selectively generates singlet oxygen; and the Fe
+2+
+/H
+2
+O
+2
+/N
+2
+system, which selectively produces radical ROS (with TiO
+2
+added to ensure the occurrence of OCTP; Supplementary Fig.
+37
+). As shown in the Fig.
+4c
+, in both the ZnFe–LDH/PMS system and the Fe
+2+
+/H
+2
+O
+2
+/N
+2
+system, the COD removal efficiency of the reaction solution increased with the oxidant dosage, whereas the proportion of OCTP decreased as the oxidant dosage increased. In contrast, within the Co–N–C/PMS system, neither the COD removal efficiency nor the proportion of OCTP showed notable changes with increasing oxidant dosage, and the proportion of OCTP even exhibited an upward trend. This suggests that radicals and high-valent iron can continuously mineralize pollutants, whereas singlet oxygen is unable to further oxidize pollutants once they reach a certain level of oxidation. As a result, OCTP is more likely to occur in singlet oxygen-dominated systems, whereas in high-valent iron and radical systems, OCTP can also occur but its proportion decreases with increasing oxidant dosage.
+In addition, the occurrence of OCTP is fundamentally based on the partial oxidation of pollutants, and the extent of pollutant oxidation is closely related to the dosage of the oxidant. As shown in Fig.
+4d
+and Supplementary Table
+8
+, the proportion of OCTP first increased and then decreased with increasing PMS dosage, implying that for Fe–N–C/PMS, the mineralization rate gradually increases and the organic matter accumulating on the catalyst surface also first increases and then decreases with increasing PMS dosage. This result was further validated by adding different amounts of pollutants in the same oxidation system (Supplementary Fig.
+38
+). Furthermore, the proportion of OCTP during the degradation process of pollutants with different ionization potential (IP) in the Fe–N–C/PMS system was examined. IP represents the energy required for a molecule to lose an electron. As shown in the Fig.
+4e
+, a positive correlation was observed between the proportion of OCTP and the IP of the pollutants in the Fe–N–C/PMS system. Therefore, it is likely that there is a close relationship between OCTP and the IP of the pollutants. Pollutants with higher IP may be more difficult to oxidize deeply and thus tend to generate more reaction intermediates that accumulate on the surface of catalyst.
+The plausible reaction pathways for phenol degradation with Fe–N–C/PMS in Fig.
+4f
+were elucidated based on comprehensive analysis of the sacrificial agent experiments (Fig.
+2e
+) combining with high-performance liquid chromatography curves during pollutant degradation (Supplementary Figs.
+39
+and
+40
+) and sacrificial agent experiments (Supplementary Fig.
+41
+)
+22
+,
+32
+. Initially, phenol was hydroxylated by
+1
+O
+2
+generated in the reaction system, which helped to reduce the IP of the pollutants, rendering them as being more susceptible to oxidation. Subsequently, these low-IP pollutants were further oxidized to various organic pollutants via complex reactions with either
+1
+O
+2
+or high-valent iron. However, high-valent iron itself can also directly oxidize phenol without
+1
+O
+2
+, mainly during the early stage of the reaction. During this process, the polarity and water solubility of pollutant degradation intermediates continuously change, and the pollutants accumulated on the catalyst surface. After long-term phenol degradation, the Fe–N–C catalyst was rewashed with ethanol and further assessed. As shown in Fig.
+2g
+, the activity of the rewashed catalyst was recovered and further maintained for multiple degradations, suggesting the OCTP does not cause permanent catalyst poisoning. Additionally, the effective utilization of this process can contribute to improved COD and pollutant removal from contaminated water bodies.
+OCTP optimized water treatment technology
+The first approach is to enhance the proportion of OCTP, thereby indirectly removing COD from water. According to Fig.
+5a
+, adding TiO
+2
+as an aggregation centre of low-polarity degradation intermediate to the Co
+2+
+/PMS system followed by filtration resulted in a 45.5% removal of COD from the water and TiO
+2
+noticeably turned brown after the reaction (Fig.
+5b
+). In contrast, the COD could not be removed in the system containing only Co
+2+
+and PMS, even after filtration. This optimized water treatment method substantially improves the effectiveness of traditional homogeneous Fenton and Fenton-like reactions for COD removal. Additionally, the OCTP was further investigated in homogeneous advanced oxidation processes using other oxidants. According to Supplementary Table
+9
+, in homogeneous reaction systems using peroxydisulfate, periodate oxidants, the OCTP accounted for 46.9%, 18.5% of the total COD reductions, respectively. This also provides the possibility for OCTP to optimize its related water treatment technologies in the future. From this perspective, polymerization is based on direct electron transfer between PMS and the material substrate, whereas OCTP relies on the partial oxidation of pollutants by the oxidation system and does not depend on heterogeneous catalysts. Therefore, there is no obvious presence of polymerization in the OCTP.
+Fig. 5: OCTP optimized water treatment technology.
+a
+, TiO
+2
+removed COD through OCTP in the Co
+2+
+/PMS system. Experimental conditions: 60 mg l
+−1
+CoCl
+2
+, 800 mg l
+−1
+PMS, 200 mg l
+−1
+TiO
+2
+.
+b
+, TiO
+2
+before and after reaction.
+c
+, Absolute values of zeta potential and ΔCOD of TiO
+2
+after reaction at different pH values. Experimental conditions: 800 mg l
+−1
+PMS, 100 mg l
+−1
+phenol, 100 mg l
+−1
+CoCl
+2
+, 200 mg l
+−1
+TiO
+2.
+All the estimations were made on the basis of the average data from three repeated experiments unless otherwise specified. The data are presented as the mean ± SD (
+n
+= 3).
+d
+, Zeta potential and ΔCOD of TiO
+2
+after reaction with the addition of different inorganic salts. Experimental conditions: 2 g l
+−1
+inorganic salts, 800 mg l
+−1
+PMS, 100 mg l
+−1
+phenol, 100 mg l
+−1
+CoCl
+2
+, 200 mg l
+−1
+TiO
+2.
+e
+, Removal of PFCs with Fe–N–C/PMS system. Experimental conditions: 800 mg l
+−1
+PMS, 200 mg l
+−1
+catalyst, 500 μg l
+−1
+perfluorooctanoic acid.
+f
+, Proportions of different organic pollutants accumulating on the catalyst surface via the OCTP during degradation with Fe–N–C/PMS. Experimental conditions: 400 mg l
+−1
+pollutant, 800 mg l
+−1
+PMS, 200 mg l
+−1
+catalyst.
+g
+, Long-term experiment of 90T-FNC modified by TEOS. Reaction conditions: 200 mg l
+−1
+Fe–N–C and PMS and 20 mg l
+−1
+phenol in every round. Different coloured shadows represent different days of the experiment.
+Source data
+Full size image
+To further improve the theory of OCTP, the process of TiO
+2
+-assisted Co
+2+
+/PMS system in removing pollutants is further discussed here. TiO
+2
+, as an amphoteric oxide, exhibits surface charges that are influenced by pH, ionic strength, temperature and so on. As shown in Fig.
+5c
+, with pH adjusted from 3 to 12, the absolute value of the zeta potential initially declined and then increased, indicating that the surface charge and polarity of TiO
+2
+showed a decreasing-then-increasing trend. The COD increment of TiO
+2
+reached its peak of 149 mg l
+−1
+at pH = 7.5, where the absolute value of the zeta potential was at its lowest, at only 2.01 mV. In addition, the zeta potential of TiO
+2
+is also influenced by ionic strength. When NaNO
+3
+, NaCl or KCl was added to the reaction solution, the zeta potential and polarity of TiO
+2
+increased (Fig.
+5d
+) with the decrease of OCTP. Conversely, the addition of Na
+2
+SO
+4
+resulted in a decrease in the zeta potential of TiO
+2
+with the COD increment reached 155 mg l
+−1
+. The reduction in the zeta potential of TiO
+2
+caused by SO
+4
+2−
+may be due to the shielding effect of large ions and multivalent ions on the surface charge of the material. On the other hand, the Cl⁻ ions may engage in side reactions with ROS in the Co
+2+
+/PMS system and lead to problems in the degradation process of pollutants. Besides, under both room temperature and the actual experimental temperature (18 °C), no notable changes were observed in the zeta potential and COD increase of TiO
+2
+, according to Supplementary Fig.
+42
+. On the other hand, the influence of the material’s intrinsic properties on OCTP was further investigated. Results from tests on specific surface area (Supplementary Figs.
+43
+and
+44
+), surface acidity/basicity (Supplementary Fig.
+45
+), surface charge (Supplementary Figs.
+46
+and
+47
+), crystal phase (Supplementary Figs.
+48
+) and crystal plane (Supplementary Figs.
+49
+and
+50
+) revealed that polarity (zeta potential) remains a key factor affecting OCTP
+33
+,
+34
+. The ability of TEOS to regulate material polarity and reduce OCTP has also been validated in TiO
+2
+modification experiments (Supplementary Fig.
+51
+). By analysing all data involving TiO
+2
+and COD increase from this study, a negative correlation was observed between the COD increase and the absolute value of the zeta potential of TiO
+2
+, though no distinct linear relationship was established (Supplementary Fig.
+52
+). OCTP is influenced not only by the adsorption of pollutant intermediates but also by their advanced oxidation. In the Co
+2+
+/PMS system, factors such as pH and ionic composition affect degradation. However, under similar conditions, OCTP is primarily determined by material polarity and surface charge, showing a negative correlation with both.
+In addition, the factory wastewater was initially treated with Fe–N–C/PMS. As shown in Supplementary Fig.
+53
+, the reduced COD of the reaction solution accounted for only 51.1% of the total COD reduction; within this 51.1%, 79.2% was attributed to the OCTP. For printing and dyeing wastewater, this proportion reached approximately 90.1%. Additionally, the inorganic salts common in actual wastewater do not affect the Fe–N–C/PMS-dominated OCTP. During phenol degradation with Fe–N–C/PMS and 20 mM Na
+2
+CO
+3
+or NaCl, the proportions of OCTP remain as high as 83.9% and 80.8%, respectively (Supplementary Table
+10
+). OCTP may be effectively utilized for the removal of low-polarity micropollutants. In the case of perfluorinated compounds (PFCs), in simulated wastewater containing 500 µg l
+−1
+of perfluorooctanoic acid, Fe–N–C/PMS system effectively removes 95.4% of the pollutant, whereas the Co
+2+
+/PMS system achieves only a removal rate of 40.3% (Fig.
+5e
+). As shown in Fig.
+5f
+and Supplementary Table
+11
+, during aniline degradation, the OCTP accounted for 52.3% of the total COD reduction. For RhB, tetracycline, sulfamethoxazole (SMX) and BPA degradations, these proportions reached 42.1%, 34.1%, 50% and 76.2%, respectively. Therefore, OCTP should be applicable to the degradation of a wide range of pollutants.
+Another method for optimizing water treatment technology using OCTP involves reducing the occurrence of OCTP through polarity regulation, thereby improving the long-term stability of the reaction system. In a long-term experiment over ten days and 30 cycles, the 90T-FNC/PMS system exhibited less accumulation of pollutants and better long-term stability compared to Fe–N–C/PMS system (Fig.
+5g
+).
+Discussion
+This study highlights the deactivation of catalysts due to the aggregation of partially oxidized organic pollutants on catalyst surfaces during heterogeneous Fenton and Fenton-like reactions. Using Fe–N–C/PMS as an example, it demonstrates that in low-mineralization advanced oxidation systems, many pollutants are not fully mineralized but instead accumulate on catalyst surfaces after partial oxidation. The OCTP arises from the aggregation of reaction intermediates on catalysts or low-polarity materials and is observed across various reaction systems, catalysts and pollutants. In industrial wastewater treatment, up to 90.1% of the total pollutant COD was found to accumulate on catalyst surfaces. Importantly, catalyst active sites were not fully deactivated after OCTP, and activity was restored by removing the surface-adsorbed organics. Leveraging OCTP can substantially reduce COD and improve the removal of pollutants, offering a more comprehensive assessment of catalyst efficiency. Promoting OCTP enhances pollutant removal across various advanced oxidation processes, including homogeneous Fenton reactions, while regulating material polarity can reduce OCTP occurrence and improve catalyst stability. OCTP shows important potential for wastewater treatment, offering an energy-efficient and effective solution to current challenges. Beyond wastewater treatment, OCTP may have broader applications in heterogeneous reactions in aquatic environments.
+Methods
+Catalyst preparation
+First, ferric acetylacetonate (Fe(acac)
+3
+) and 1,10-
+ortho
+-phenanthroline were added to ethanol, and the mixture was stirred well to evenly distribute the components and then ultrasonicated for 30 min. Then, magnesium hydroxide (Mg(OH)
+2
+) was added to the mixture, which was ultrasonicated for another 30 min and then dried using a rotary evaporator. The obtained solid was dried in an oven at 60 °C and then calcined in nitrogen at 700 °C. The calcined product was washed with 1 M nitric acid, centrifuged and dried to obtain Fe–N–C. Similarly, Co–N–C was synthesized using essentially the same method but with cobalt acetate instead of Fe(acac)
+3
+. The Mo–Co
+3
+O
+4
+and MoS
+2
+/Fe
+2
+O
+3
+samples were prepared using a simple method, as detailed in the Supplementary Information.
+Pollutant degradation for wastewater treatment
+The model pollutant solution or wastewater was first prepared, and a certain amount of Fe–N–C was added. If necessary, the pH of the reaction solution was adjusted to the target value using NaOH or HCl. The mixture was stirred well to evenly distribute the components, and PMS was then added. At the required time, the sample was removed from the reaction solution, filtered and detected in a timely manner.
+Long-term degradation experiment
+The catalyst (20 mg) was introduced before the start of the reaction. To 100 ml of the reaction solution, 20 mg l
+−1
+of phenol and 20 mg of PMS were added during each reaction cycle, and the phenol concentration in the reaction solution was measured at the end of each cycle. Three long-term degradation cycles were conducted daily. When the catalyst became deactivated, it was washed with ethanol and reused for pollutant degradation.
+Measurement of CODs for catalyst and reaction solution
+For measuring the COD of the solution, 3 ml of the suspension was withdrawn and filtered, and 2 ml of the filtrate was used as the sample. For measuring the COD of catalyst, 50 ml of the reaction mixture was membrane filtered, and the powder was collected and ultrasonically redispersed in an equal volume of pure water. Subsequently, 2 ml of the dispersion was used as the sample for measuring the COD.
+Data availability
+The data that support the conclusions of this study are available within the manuscript and Supplementary information.
+References
+Tang, Z., Liu, Y., He, M. & Bu, W. Chemodynamic therapy: tumour microenvironment‐mediated Fenton and Fenton‐like reactions.
+Angew. Chem. Int. Ed.
+58
+, 946–956 (2019).
+CAS
+Google Scholar
+Feng, Y. et al. Degradation of
+14
+C-labeled few layer graphene via Fenton reaction: reaction rates, characterization of reaction products, and potential ecological effects.
+Water Res.
+84
+, 49–57 (2015).
+CAS
+PubMed
+Google Scholar
+Yang, Z., Shan, C., Pignatello, J. J. & Pan, B. Mn(II) acceleration of the picolinic acid-assisted Fenton reaction: new insight into the role of manganese in homogeneous Fenton AOPs.
+Environ. Sci. Technol.
+56
+, 6621–6630 (2022).
+CAS
+PubMed
+Google Scholar
+Luan, X. et al. Degradation of structurally defined graphene nanoribbons by myeloperoxidase and the photo‐Fenton reaction.
+Angew. Chem. Int. Ed.
+59
+, 18515–18521 (2020).
+CAS
+Google Scholar
+Zhang, S., Zheng, H. & Tratnyek, P. G. Advanced redox processes for sustainable water treatment.
+Nat. Water
+1
+, 666–681 (2023).
+CAS
+Google Scholar
+Wang, B. et al. A site distance effect induced by reactant molecule matchup in single‐atom catalysts for Fenton‐like reactions.
+Angew Chem. Int. Ed.
+134
+, e202207268 (2022).
+Google Scholar
+Yang, L. et al. Fe single‐atom catalyst for efficient and rapid Fenton‐like degradation of organics and disinfection against bacteria.
+Small
+18
+, 2104941 (2022).
+CAS
+Google Scholar
+Tang, W. et al. Ru single atom catalyst with dual reaction sites for efficient Fenton-like degradation of organic contaminants.
+Appl. Catal. B
+320
+, 121952 (2023).
+CAS
+Google Scholar
+Liu, L. et al. Nonradical activation of peroxydisulfate promoted by oxygen vacancy-laden NiO for catalytic phenol oxidative polymerization.
+Appl. Catal. B
+254
+, 166–173 (2019).
+CAS
+Google Scholar
+Zhang, Y.-J. et al. Simultaneous nanocatalytic surface activation of pollutants and oxidants for highly efficient water decontamination.
+Nat. Commun.
+13
+, 3005 (2022).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Cheng, C. et al. Generation of Fe
+IV
+=O and its contribution to Fenton‐like reactions on a single‐atom iron−N−C catalyst.
+Angew Chem. Int. Ed.
+62
+, e202218510 (2023).
+CAS
+Google Scholar
+Yin, K. et al. Microenvironment modulation of cobalt single-atom catalysts for boosting both radical oxidation and electron-transfer process in Fenton-like system.
+Appl. Catal. B
+329
+, 122558 (2023).
+CAS
+Google Scholar
+Liang, X. et al. Coordination number dependent catalytic activity of single‐atom cobalt catalysts for Fenton‐like reaction.
+Adv. Funct. Mater.
+32
+, 2203001 (2022).
+CAS
+Google Scholar
+Chen, F. et al. Single‐atom iron anchored tubular g‐C
+3
+N
+4
+catalysts for ultrafast Fenton‐like reaction: roles of high‐valency iron‐oxo species and organic radicals.
+Adv. Mater.
+34
+, 2202891 (2022).
+CAS
+Google Scholar
+Xiong, Y. et al. Single‐atom Fe catalysts for Fenton‐like reactions: roles of different N species.
+Adv. Mater.
+34
+, 2110653 (2022).
+CAS
+Google Scholar
+Song, J. et al. Unsaturated single-atom CoN
+3
+sites for improved Fenton-like reaction towards high-valent metal species.
+Appl. Catal. B
+325
+, 122368 (2023).
+CAS
+Google Scholar
+Yang, M. et al. Versatile pathways for oxidating organics via peroxymonosulfate activation by different single atom catalysts confining with Fe–N
+4
+or Cu–N
+4
+sites.
+Chem. Eng. J.
+451
+, 138606 (2023).
+CAS
+Google Scholar
+Zou, Y. et al. Tailoring the coordination environment of cobalt in a single-atom catalyst through phosphorus doping for enhanced activation of peroxymonosulfate and thus efficient degradation of sulfadiazine.
+Appl. Catal. B
+312
+, 121408 (2022).
+CAS
+Google Scholar
+Li, Y., Zhang, W., Niu, J. & Chen, Y. Mechanism of photogenerated reactive oxygen species and correlation with the antibacterial properties of engineered metal-oxide nanoparticles.
+ACS Nano
+6
+, 5164–5173 (2012).
+CAS
+PubMed
+Google Scholar
+Yan, Q., Zhang, J. & Xing, M. Cocatalytic Fenton reaction for pollutant control.
+Cell Rep. Phys. Sci.
+1
+, 100149 (2020).
+CAS
+Google Scholar
+Pattanayak, S. et al. Spectroscopic and reactivity comparisons of a pair of bTAML complexes with Fe
+V
+=O and Fe
+IV
+=O units.
+Inorg. Chem.
+56
+, 6352–6361 (2017).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Yan, Q. et al. Constructing an acidic microenvironment by MoS
+2
+in heterogeneous Fenton reaction for pollutant control.
+Angew Chem. Int. Ed.
+60
+, 17155–17163 (2021).
+CAS
+Google Scholar
+Lee, H. et al. Activation of persulfates by carbon nanotubes: oxidation of organic compounds by nonradical mechanism.
+Chem. Eng. J.
+266
+, 28–33 (2015).
+CAS
+Google Scholar
+Ling, C. et al. Sulphur vacancy derived anaerobic hydroxyl radical generation at the pyrite-water interface: pollutants removal and pyrite self-oxidation behavior.
+Appl. Catal. B
+290
+, 120051 (2021).
+CAS
+Google Scholar
+Li, X. et al. Enhanced atrazine degradation in the Fe(III)/peroxymonosulfate system via accelerating Fe(II) regeneration by benzoquinone.
+Chem. Eng. J.
+427
+, 131995 (2022).
+CAS
+Google Scholar
+Zhao, Y. et al. α-Fe
+2
+O
+3
+as a versatile and efficient oxygen atom transfer catalyst in combination with H
+2
+O as the oxygen source.
+Nat. Catal.
+4
+, 684–691 (2021).
+CAS
+Google Scholar
+Chen, F. et al. Efficient decontamination of organic pollutants under high salinity conditions by a nonradical peroxymonosulfate activation system.
+Water Res.
+191
+, 116799 (2021).
+CAS
+PubMed
+Google Scholar
+Jiang, J. et al. Photo-Fenton degradation of emerging pollutants over Fe-POM nanoparticle/porous and ultrathin g-C
+3
+N
+4
+nanosheet with rich nitrogen defect: degradation mechanism, pathways, and products toxicity assessment.
+Appl. Catal. B
+278
+, 119349 (2020).
+CAS
+Google Scholar
+Feng, C. & Loh, T.-P. Copper-catalyzed olefinic trifluoromethylation of enamides at room temperature.
+Chem. Sci.
+3
+, 3458–3462 (2012).
+CAS
+Google Scholar
+Geng, W., Nakajima, T., Takanashi, H. & Ohki, A. Analysis of carboxyl group in coal and coal aromaticity by Fourier transform infrared (FT-IR) spectrometry.
+Fuel
+88
+, 139–144 (2009).
+CAS
+Google Scholar
+Osmieri, L., Videla, A. H. M. & Specchia, S. Optimization of a Fe–N–C electrocatalyst supported on mesoporous carbon functionalized with polypyrrole for oxygen reduction reaction under both alkaline and acidic conditions.
+Int. J. Hydrogen Energy
+41
+, 19610–19628 (2016).
+CAS
+Google Scholar
+Chen, X. et al. A novel double S-scheme photocatalyst Bi
+7
+O
+9
+I
+3
+/Cd
+0. 5
+Zn
+0. 5
+S QDs/WO
+3−
+x
+with efficient full-spectrum-induced phenol photodegradation.
+Appl. Catal. B
+318
+, 121839 (2022).
+CAS
+Google Scholar
+Xing, M., Zhang, J., Chen, F. & Tian, B. An economic method to prepare vacuum activated photocatalysts with high photo-activities and photosensitivities.
+Chem. Commun.
+47
+, 4947–4949 (2011).
+CAS
+Google Scholar
+Xing, M. Y., Qi, D. Y., Zhang, J. L. & Chen, F. One‐step hydrothermal method to prepare carbon and lanthanum co‐doped TiO
+2
+nanocrystals with exposed {001} facets and their high UV and visible‐light photocatalytic activity.
+Chem. Eur. J.
+41
+, 11432–11436 (2011).
+Google Scholar
+Download references
+Acknowledgements
+This work was supported by the National Natural Science Foundation of China (numbers 22325602 and 22176060) and Program of Shanghai Academic/Technology Research Leader (23XD1421000) and a project supported by Shanghai Municipal Science and Technology Major Project (grant number 2018SHZDZX03) and the Program of Introducing Talents of Discipline to Universities (B16017), as well as the Science and Technology Commission of Shanghai Municipality (20DZ2250400). Thanks to Q. Sui for helping us with PFCs detection. We thank the Research Center of Analysis and Test of East China University of Science and Technology for the help on the characterization.
+Author information
+Authors and Affiliations
+Key Laboratory for Advanced Materials and Joint International Research Laboratory of Precision Chemistry and Molecular Engineering, Feringa Nobel Prize Scientist Joint Research Center, School of Chemistry and Molecular Engineering, East China University of Science and Technology, Shanghai, China
+Zhuan Chen, Jiayi Wang, Bo Yang, Jun Li, Zhiyan Liang, Xinyue Liu, Yan Bao & Mingyang Xing
+Key Laboratory for Advanced Materials and Institute of Fine Chemicals, School of Resources and Environmental Engineering, East China University of Science and Technology, Shanghai, China
+Jiazhen Cao & Mingyang Xing
+Shanghai Engineering Research Center for Multimedia Environmental Catalysis and Resource Utilization, East China University of Science and Technology, Shanghai, China
+Mingyang Xing
+Authors
+Zhuan Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiayi Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bo Yang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jun Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhiyan Liang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xinyue Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yan Bao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiazhen Cao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mingyang Xing
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+M.X. proposed the experimental concepts and supervised the project. M.X. and Z.C. designed the experiments and prepared the paper. Z.C., J.W., B.Y., J.L., Z.L., X.L. and Y.B. carried out the experiments and conducted the materials characterization. M.X., Z.C. and J.C. revised the paper. All authors have reviewed and agreed to submit the manuscript version and agree to be listed as co-authors.
+Corresponding author
+Correspondence to
+Mingyang Xing
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Water
+thanks Lizhi Zhang and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Texts 1–14, Figs. 1–53 and Tables 1–11.
+Supplementary Data 1
+Source data for supplementary figures.
+Source data
+Source Data Fig. 1
+Statistical source data.
+Source Data Fig. 2
+Statistical source data.
+Source Data Fig. 3
+Statistical source data.
+Source Data Fig. 4
+Statistical source data.
+Source Data Fig. 5
+Statistical source data.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Chen, Z., Wang, J., Yang, B.
+et al.
+Organic carbon transfer process in advanced oxidation systems for water clean-up.
+Nat Water
+3
+, 334–344 (2025). https://doi.org/10.1038/s44221-025-00399-7
+Download citation
+Received
+:
+01 August 2024
+Accepted
+:
+31 January 2025
+Published
+:
+28 February 2025
+Issue Date
+:
+March 2025
+DOI
+:
+https://doi.org/10.1038/s44221-025-00399-7
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+Our publishing models
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Water
+(
+Nat Water
+)
+ISSN
+2731-6084
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

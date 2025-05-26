@@ -1,0 +1,1931 @@
+Identification of the active complex for CO oxidation over single-atom Ir-on-MgAl2O4 catalysts | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Identification of the active complex for CO oxidation over single-atom Ir-on-MgAl
+2
+O
+4
+catalysts
+Download PDF
+Article
+Published:
+31 December 2018
+Identification of the active complex for CO oxidation over single-atom Ir-on-MgAl
+2
+O
+4
+catalysts
+Yubing Lu
+ORCID:
+orcid.org/0000-0002-5791-9697
+1
+,
+Jiamin Wang
+1
+,
+Liang Yu
+1
+,
+Libor Kovarik
+2
+,
+Xiwen Zhang
+1
+,
+Adam S. Hoffman
+3
+,
+Alessandro Gallo
+4
+,
+5
+,
+Simon R. Bare
+3
+,
+Dimosthenis Sokaras
+3
+,
+Thomas Kroll
+3
+,
+Vanessa Dagle
+2
+,
+Hongliang Xin
+1
+&
+…
+Ayman M. Karim
+ORCID:
+orcid.org/0000-0001-7449-542X
+1
+Show authors
+Nature Catalysis
+volume
+2
+,
+pages
+149–156 (
+2019
+)
+Cite this article
+14k
+Accesses
+55
+Altmetric
+Metrics
+details
+Subjects
+Catalytic mechanisms
+Density functional theory
+Heterogeneous catalysis
+Abstract
+Supported single atoms provide an opportunity to design new heterogeneous catalysts while optimizing the utilization of noble metals. However, identification of the active single-atom structure is required for understanding the reaction mechanism and guiding catalyst design. Here, we use in situ infrared spectroscopy, operando X-ray absorption spectroscopy and quantum chemical calculations to identify the active single-atom complex as well as the resting state of the Ir/MgAl
+2
+O
+4
+catalysts during the low-temperature CO oxidation. In contrast to poisoning of iridium nanoparticles by CO, here we show that the formation of Ir(CO) on single atoms results in a different reaction mechanism and high activity for low-temperature CO oxidation. This is due to the ability of single atoms to coordinate with multiple ligands, where Ir(CO) provides an interfacial site for facile O
+2
+activation between Ir and Al and lowers the reaction barrier between gas-phase CO(g) and *O in Ir(CO)(O) through an Eley–Rideal mechanism.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Out-of-plane coordination of iridium single atoms with organic molecules and cobalt–iron hydroxides to boost oxygen evolution reaction
+Article
+Open access
+21 October 2024
+Atomically precise Ni clusters inducing active NiN
+2
+sites with uniform-large vacancies towards efficient CO
+2
+-to-CO conversion
+Article
+Open access
+22 April 2025
+A replacement strategy for regulating local environment of single-atom Co-S
+x
+N
+4−x
+catalysts to facilitate CO
+2
+electroreduction
+Article
+Open access
+10 January 2024
+Main
+The catalytic oxidation of carbon monoxide (CO) to carbon dioxide (CO
+2
+) is an important reaction for several processes, including removal of CO from H
+2
+for fuel cell applications
+1
+,
+2
+and automotive emission control
+3
+,
+4
+. Supported single atoms make the best utilization of noble metals
+5
+, offer unique electronic properties
+6
+,
+7
+,
+8
+,
+9
+and also provide an ideal system to understand the reaction mechanisms on a molecular level and guide the development of optimized catalysts
+10
+. Additionally, single-atom catalysts (SACs) provide valuable information to bridge homogeneous and heterogeneous catalysis
+7
+,
+9
+,
+11
+. Currently, the reaction mechanism for low-temperature CO oxidation on supported metal single atoms is highly debated and there is no agreement in the literature on whether single atoms exhibit higher intrinsic activity than their larger nanoparticle (NP) counterparts, especially on non-reducible metal oxide supports. For instance, Pt single atoms supported on FeO
+x
+(ref.
+12
+) and Al
+2
+O
+3
+(refs
+13
+,
+14
+) catalysts were reported to be active for low-temperature CO oxidation. Additionally, mononuclear Pt (and Au) coordinated with O(OH)
+x
+–(Na or K) ensembles were found to be active for low-temperature water gas shift
+15
+,
+16
+. On the other hand, other reports indicated that isolated Pt sites on Al
+2
+O
+3
+and CeO
+2
+were not active for low-temperature CO oxidation
+17
+,
+18
+,
+19
+or water gas shift
+17
+. Recently, steam treatment of Pt
+1
+/CeO
+2
+(at 750 °C) led to a much higher activity for CO oxidation by activating the CeO
+2
+surface lattice oxygen. However, using infrared spectroscopy, a CO band at 2,096 cm
+−1
+was observed during CO oxidation and in O
+2
+flow at 180 °C
+20
+, indicating strong CO adsorption on Pt single atoms. To resolve some of these discrepancies, identification of the active structure (ligand configuration) under reaction conditions is required. Therefore, detailed kinetic studies coupled with in situ/operando spectroscopy and quantum chemical calculations are critical for understanding the reaction mechanism and identifying the relationship between catalytic activity and ligand configuration on supported single atoms to help design catalysts on a molecular level.
+Here, we used in situ and operando infrared and X-ray absorption spectroscopies and quantum chemical calculations to identify the Ir single-atom complex formed during CO oxidation and probed its reactivity towards CO, O
+2
+and CO + O
+2
+, thereby providing insights into the individual reaction steps. Additionally, we benchmarked the low-temperature CO oxidation kinetics on supported Ir single atoms and Ir NPs to elucidate the differences in reaction mechanisms. MgAl
+2
+O
+4
+was used as a support because it has been shown to stabilize noble metal clusters and single atoms against sintering
+21
+,
+22
+,
+23
+. Ir was chosen for this study since Ir NPs have similar catalytic properties to Pt for CO oxidation and Ir single atoms have been more widely characterized using X-ray absorption spectroscopy and infrared spectroscopy of adsorbed CO
+5
+,
+24
+,
+25
+,
+26
+.
+Results
+Atomic-resolution characterization
+Figure
+1
+shows aberration-corrected high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) images of 1% Ir/MgAl
+2
+O
+4
+after calcination at 500 °C before (Fig.
+1a
+) and after (Fig.
+1b
+) reduction in H
+2
+at 800 °C. It can be seen that Ir is predominantly atomically dispersed after calcination but agglomeration occurs during reduction and the relative amount of single atoms compared with NPs decreases at higher reduction temperatures. Despite the high reduction temperature, the size of Ir NPs was limited to less than 2 nm, which was also observed when MgO was used as the support
+27
+. By lowering the loading (0.0025 wt%) only atomically dispersed Ir was detected after pretreatment and a representative image after reduction in H
+2
+at 500 °C is shown in Fig.
+1c
+and no NPs were detected (Supplementary Fig.
+1
+). MgAl
+2
+O
+4
+resulted in the stabilization of a significant fraction of Ir single atoms when iridium nitrate was used for the synthesis even at high Ir weight loadings and after high reduction temperatures as shown in Fig.
+1a,b
+. Therefore, to obtain a reference sample without single atoms, we also synthesized 0.2% Ir/MgAl
+2
+O
+4
+using Ir(CO)
+2
+(acac) as the precursor, which after removal of the ligands in H
+2
+at 500 °C resulted in the formation of almost exclusively ~1 nm NPs, as shown in the HAADF-STEM image and the histogram in Fig.
+1d
+and Supplementary Fig.
+2
+.
+Fig. 1: HAADF-STEM images of different Ir SAC and NP samples.
+The insets show the size distribution (in nm) of Ir species from multiple STEM images.
+a
+,
+b
+, Representative HAADF-STEM images of 1% Ir/MgAl
+2
+O
+4
+calcined at 500 °C, before (
+a
+) and after (
+b
+) H
+2
+reduction at 800 °C.
+c
+, 0.0025% Ir/MgAl
+2
+O
+4
+catalyst (SAC) after reduction at 500 °C; the single atoms are identified by red circles; no NPs were detected in lower-magnification images for the 0.0025% Ir/MgAl
+2
+O
+4
+; see Supplementary Fig.
+1
+.
+d
+, 0.2% Ir/MgAl
+2
+O
+4
+(NP) prepared with Ir(CO)
+2
+(acac) precursor with an average particle size of ~1 nm.
+Full size image
+CO oxidation kinetics
+The catalytic activities for the 0.0025% Ir
+1
+/MgAl
+2
+O
+4
+SAC and the 0.2% Ir/MgAl
+2
+O
+4
+NP catalyst were evaluated for CO oxidation under strict kinetic control; and no deactivation or sintering was observed for the SAC (see Supplementary Fig.
+1
+and other details in the
+Supplementary Information
+). The effect of CO (
+P
+CO
+) and O
+2
+(
+\({P}_{{\mathrm{O}}_2}\)
+) partial pressures on the turnover frequency (TOF) was measured at 155 °C and the results are reported in Fig.
+2
+and Supplementary Fig.
+3
+. On Ir NPs (~1 nm), the measured CO and O
+2
+reaction orders were −1.0 ± 0.1 and 0.9 ± 0.1, respectively. The reaction orders are consistent with the widely accepted CO oxidation mechanism on noble metals (Ir, Pt, Pd and Rh) where, at low reaction temperatures, the reaction is limited by O
+2
+activation on a CO-saturated surface
+3
+,
+28
+,
+29
+. On Ir single atoms, the measured CO and O
+2
+reaction orders under the same conditions were 0.9 ± 0.1 and 0.1 ± 0.05, respectively, indicating a different mechanism from that on NPs (Fig.
+2
+and Supplementary Fig.
+3
+). In contrast to NPs, the positive CO order of ~1 indicates that Ir single atoms are not poisoned by CO during CO oxidation and the O
+2
+order of ~ 0 suggests a facile O
+2
+activation. More importantly, Ir single atoms are much more active at high CO partial pressure (~7× higher than NPs) while NPs are slightly more active at low CO partial pressure. The different CO reaction orders can be clearly seen for the CO oxidation activity of the catalyst containing a mixture of single atoms and NPs (1% catalyst reduced at 800 °C, STEM image in Fig.
+1c
+and Supplementary Fig
+4
+), which displayed a CO reaction order that changed from negative to positive as the CO partial pressure increased (Fig.
+2c
+). The differences in the reaction orders of CO and O
+2
+on Ir SAC and NP show that kinetic measurements provide a sensitive probe for the detection of single atoms due to different reaction mechanisms. Additionally, these results could help explain some of the disagreements in the literature on whether single atoms are more active than NPs since the catalyst activities were reported at different reaction conditions.
+Fig. 2:
+CO oxidation kinetic measurements on Ir SAC, Ir NP and SAC
++
+NP mixture.
+a
+,
+b
+, Effect of CO (
+a
+) and O
+2
+(
+b
+) partial pressure on the TOF on supported 0.0025% Ir/MgAl
+2
+O
+4
+(SAC) and 0.2% Ir/MgAl
+2
+O
+4
+prepared with Ir(CO)
+2
+(acac) precursor (NP) (the MgAl
+2
+O
+4
+support activity was negligible under the conditions tested).
+\({P}_{{\mathrm{O}}_2}\)
+= 10 kPa,
+P
+CO
+= 0.3–1 kPa in
+a
+;
+P
+CO
+= 1 kPa,
+\({P}_{{\mathrm{O}}_2}\)
+= 2–14 kPa in
+b
+. All measured at 155 °C.
+c
+, Effect of CO partial pressure on the TOF on the catalyst containing a mixture of Ir single atoms and NPs, 1% Ir/MgAl
+2
+O
+4
+calcined at 500 °C, and reduced at 800 °C. In
+c
+, estimates of the CO reaction order based on two points at each of the low and high
+P
+CO
+are listed to show the change in order from negative to positive resulting from the NPs and SAC, respectively. The data points and error bars represent the average and standard deviation based on multiple measurements on the same catalyst at different times during one experiment and from experiments using different catalyst aliquots/batches.
+Full size image
+In situ characterization at room temperature
+In situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) and high-energy-resolution fluorescence-detected (HERFD) X-ray absorption near edge spectroscopy (XANES) experiments provide important structural and chemical details to better understand the unique CO and O
+2
+reaction orders on Ir single atoms. Figure
+3a
+shows the DRIFTS spectrum after adsorption of CO on the 0.0025% Ir/MgAl
+2
+O
+4
+catalyst (SAC) at −60 °C where two bands (2,070 and 1,989 cm
+−1
+) can be seen in the C−O vibrational frequency region. These two bands are assigned to the symmetric (
+v
+s
+) and the anti-symmetric vibrational modes (
+v
+as
+) of the Ir gem-dicarbonyl, Ir(CO)
+2
+, respectively, on the basis of reports of atomically dispersed Ir(CO)
+2
+gem-dicarbonyl supported on MgO and γ-Al
+2
+O
+3
+(ref.
+25
+). The intensity of the anti-symmetric vibrational band (
+I
+as
+) is slightly higher than that of the symmetric vibrational (
+I
+s
+) band and the bond angle between the two CO (
+θ
+) can be estimated as 98° based on
+\(\frac{{{I}_{{\mathrm{as}}}}}{{{I}_{\mathrm{s}}}} = {\mathrm{tan}}^2\left( {\frac{{\mathrm{\theta }}}{2}} \right)\)
+(ref.
+30
+). On flowing O
+2
+(0.1 kPa) at −20 °C over the Ir(CO)
+2
+, a new single band was observed at a higher frequency (2,092 cm
+−1
+, a shift of 22 cm
+−1
+from the
+v
+s
+of Ir(CO)
+2
+), suggesting partial oxidation of the Ir single atoms, probably forming Ir(CO)(O). This assignment is made according to a study on Al
+2
+O
+3
+-supported Rh single atoms where O
+2
+(activated by ultraviolet irradiation at −100 °C) reacted with Rh(CO)
+2
+to form Rh(CO)(O) and the observed shift between the Rh(CO)(O) and the symmetric band of Rh(CO)
+2
+was 22 cm
+−1
+(from 2,100 (symmetric band) to 2,122 cm
+−1
+)
+31
+,
+32
+. As a reference, almost no shift of
+v
+CO
+was observed when flowing O
+2
+on Ir NPs (0.2% Ir/MgAl
+2
+O
+4
+), as shown in Supplementary Fig.
+5
+.
+Fig. 3:
+In situ infrared and operando HERFD-XANES spectra (experimental and DFT) of Ir single atoms
+.
+a
+, In situ infrared spectra in the
+v
+CO
+region characterizing 0.0025% Ir/MgAl
+2
+O
+4
+(SAC) with CO adsorbed at −60 °C and atmospheric pressure (red), after flowing 5 kPa O
+2
+on CO-adsorbed surfaces at −20 °C and cooled down to −60 °C in He (blue).
+b
+, HERFD-XANES spectra of supported Ir SAC after dosing 1 kPa CO at room temperature and atmospheric pressure (red) and then after flowing 5 kPa O
+2
+at room temperature (blue).
+c
+, Ir L
+3
+-edge spectra of 0.0025% Ir/MgAl
+2
+O
+4
+(SAC) under He after CO reaction conditions (1 kPa CO and 8 kPa O
+2
+) at 100 °C (green), followed by flowing 2 kPa CO at the same temperature (magenta), and then flowing 1 kPa CO and 8 kPa O
+2
+again at 100 °C (blue).
+d
+, DFT simulation of Ir L
+3
+-edge spectra of the Ir single atoms with two CO ligands and a surface oxygen vacancy (magenta, Ir(CO)
+2
+–(Al–v)), and with a (CO)(O) (blue, Ir(CO)(O)), and with (CO)(O) and adsorbed *O
+2
+on the vacancy on the nearest two Al atoms (green, Ir(CO)(O)–(Al–O
+2
+)). The structures in
+d
+are provided in Supplementary Fig.
+10
+.
+Full size image
+To complement the DRIFTS results and directly probe the Ir electronic structure, a similar experiment was performed using in situ HERFD-XANES at the Ir L
+3
+-edge (Fig.
+3b
+). HERFD-XANES has been used to identify the interaction of CO with single metal atoms and NPs and has proved to be a sensitive probe for the detection of ligands bound to metal centres
+26
+,
+33
+,
+34
+,
+35
+,
+36
+; for example, the detection of ethylene and CO ligands adsorbed on catalytically active iridium centres isolated on zeolite HY and on MgO supports
+26
+. After pretreating the sample in a similar manner to the DRIFTS experiment, and flowing CO at room temperature, the resulting spectrum (Fig.
+3b
+red) is assigned to Ir(CO)
+2
+(ref.
+26
+). After flowing O
+2
+on the carbonylated Ir single atoms (Ir(CO)
+2
+), part of the carbonylated feature was replaced by a higher-energy feature (blue), suggesting partial oxidation of the Ir, which is consistent with the DRIFTS results in Fig.
+3a
+(facile O
+2
+activation and partial oxidation of Ir). Additionally, CO
+2
+was detected in the reactor effluent by mass spectrometry (Supplementary Fig.
+6
+). Notably, a similar, but not as significant higher-energy feature was also observed (Supplementary Fig.
+7
+) on the 1% Ir sample containing a mixture of single atoms and NPs (STEM in Fig.
+1b
+) when flowing O
+2
+on the CO-adsorbed-saturated catalyst at room temperature.
+Mechanistic elucidation of the facile O
+2
+activation
+To provide more details on the ligand (CO, O) configuration on Ir single atoms and the O
+2
+activation step at low temperature, we performed density functional theory (DFT) calculations of supported Ir single atoms at defect sites of the MgAl
+2
+O
+4
+support. We have compared two model systems, including: Ir single atoms supported on MgAl
+2
+O
+4
+(111); and Ir replacing the Al atom close to the step of MgAl
+2
+O
+4
+(211). The O
+2
+(Al)-termination was used because of its high thermodynamic stability
+37
+. We found that the second model (Ir replacing the Al atom on the MgAl
+2
+O
+4
+(211) step surface) is more plausible to represent the structure of the active site because the 3CO ligand configuration is favourable on the (111) model, in contradiction with 2CO ligands observed in the experiments (see those two model structures with CO ligands in Supplementary Table
+3
+). We used the MgAl
+2
+O
+4
+(211) as the model system in the following discussion (see Supplementary Tables
+3
+–
+6
+for model systems; computational details can be found in the
+Supplementary Information
+). Our DFT calculations showed that Ir forms a dicarbonyl in a 6-coordinate structure with 4 oxygens from the support with the differential CO adsorption energy of −1.98 eV. Under a CO gas stream, the Ir(CO)
+2
+structure will probably be surrounded by oxygen vacancies or carbonate, forming a locally stable structure. DFT calculations show that O
+2
+would adsorb on a nearby vacancy with an adsorption energy of −1.05 eV relative to a gas phase O
+2
+. The adsorbed *CO can react with the *O
+2
+, forming CO
+2
+with a DFT-calculated kinetic barrier of ~0.58 eV. This pathway for O
+2
+adsorption and reaction between one *CO in Ir(CO)
+2
+and *O
+2
+to form Ir(CO)(O) (Supplementary Fig.
+8
+) can explain the ability of Ir single atoms to activate O
+2
+in our low-temperature DRIFTS experiments (Fig.
+3a
+). On the other hand, the diffusion of one of the CO ligands in Ir(CO)
+2
+to a slightly farther surface oxygen forming CO
+2
+is associated with a high barrier of ~2 eV (Supplementary Fig.
+8
+). We note that if the vacancy site is occupied by atomic *O instead of *O
+2
+, the CO ligand (in Ir(CO)
+2
+) diffusion to this surface oxygen forming CO
+2
+has a low barrier of ~0.45 eV. This locally stable Ir(CO)
+2
+structure suggests that under a CO gas stream it will be surrounded by some oxygen vacancies. The bond angle between the two CO from DFT (
+θ
+= 90°) is similar to the experimentally estimated angle of 98°. We also note that the Bader charges of the Ir(CO)
+2
+and Ir(CO)(O) complexes calculated by DFT (+0.8 versus +1.4, Supplementary Table
+7
+) are consistent with the partial oxidation of Ir observed in DRIFTS (Fig.
+3a
+). Therefore, both in situ techniques (DRIFTS and HERFD-XANES) and DFT calculations indicate that on CO adsorption at low temperature on the reduced catalyst, Ir single atoms form Ir(CO)
+2
+, likely with surface oxygen vacancies. Additionally, the exposure of Ir(CO)
+2
+to O
+2
+results in facile O
+2
+activation and the formation of the stable complex Ir(CO)(O) through an incomplete CO oxidation reaction cycle; that is, Ir(CO)
+2
++ O
+2
+→ Ir(CO)(O) + CO
+2
+.
+Operando identification of the resting state and active complex
+To determine the stability of the Ir(CO)(O) complex and identify the active complex of Ir single atoms during CO oxidation, we performed an operando HERFD-XANES experiment at higher temperatures on the 0.0025% Ir/MgAl
+2
+O
+4
+(SAC) (Fig.
+3c
+). After CO oxidation at 155 °C, the temperature was lowered in pure He to 100 °C, and the spectrum at 100 °C in He is shown as the green spectrum in Fig.
+3c
+. The spectra in pure He and in CO + O
+2
+at 100 and 155 °C were almost identical (Supplementary Fig.
+9
+) and very similar to the spectrum obtained at room temperature after dosing O
+2
+on Ir(CO)
+2
+, which we assigned to Ir(CO)(O) as discussed above. While Ir(CO)(O) is stable in He and in O
+2
+at 100 °C, dosing CO on this Ir(CO)(O) complex resulted in the removal of the partially oxidized Ir carbonyl feature in the blue spectrum (CO
+2
+was detected in the reactor effluent by the mass spectrometer, see Supplementary Fig.
+6
+) and the resulting spectrum (pink spectrum in Fig.
+3c
+) was similar to that of Ir(CO)
+2
+obtained at room temperature (red spectrum in Fig.
+3b
+). After dosing CO, we flowed CO and O
+2
+again at 100 °C, and the final spectrum (blue, Fig
+3c
+) shifted back and is almost identical to the original spectrum (green, Fig
+3c
+) before dosing CO. The changes in the spectra were reversible and indicate that Ir(CO)(O) is the most stable complex/intermediate under reaction conditions and that Ir(CO) is the active complex (that is, CO is present as a ligand during the entire reaction cycle). We note that the most stable complex/intermediate for a single atom represents the resting state of the catalyst since this intermediate is involved in the rate-determining step. For NPs, on the other hand, the most stable intermediate can often be a spectator species that blocks most of the surface sites.
+DFT-calculated CO oxidation mechanism
+The stability of Ir(CO)(O) in He and O
+2
+while reacting with CO (Fig.
+3c
+and Supplementary Fig.
+9
+) suggests that the reaction follows an Eley–Rideal (E–R) instead of Langmuir–Hinshelwood (L–H) mechanism. To provide further insights into the reaction mechanism, we calculated the free-energy diagram for the different possible pathways starting from Ir(CO)(O) with a surface oxygen vacancy (Fig.
+4
+and Supplementary Table
+8
+). Our DFT results show that it is energetically favourable to adsorb oxygen forming *O
+2
+at the vacancy site. In the following step, the reaction between gas phase CO and adsorbed *O in the Ir(CO)(O) complex (that is, the E–R pathway) has a free-energy barrier ~1.1 eV (transition state (TS)I), suggesting that this step is kinetically accessible only at higher temperatures. In contrast, there is a higher activation barrier, 2.1 eV (TSII), between adsorbed *CO and *O in the Ir(CO)(O); that is, the L–H pathway (see Fig.
+4
+). This is consistent with the stability of Ir(CO)(O) in He observed experimentally at 100 °C (Supplementary Fig.
+9
+) while reacting with gas phase CO to form Ir(CO)
+2
+(Fig.
+3c
+). Our DFT calculations of the hypothetical pathway without CO adsorbed on Ir show that the reason for the E–R pathway being favourable is that the adsorption of CO weakens the O binding strength on Ir sites by ~3 eV. After the creation of an open coordination at Ir single atoms, the adsorbed O
+2
+(*O
+2
+) can readily dissociate to heal the vacancy with negligible barrier (structure III to IV). This step is more favourable than adsorption of a second CO from the gas phase, which is typically associated with an entropic barrier, consistent with our operando HERFD-XANES where we did not observe Ir(CO)
+2
+. In contrast, the O
+2
+dissociation on the bare support with two adjacent vacancies has a barrier of ~1.78 eV, indicating the promoting role of Ir single atoms in O
+2
+activation (Supplementary Fig.
+10
+). To complete the reaction cycle, gas-phase CO can react with a nearby surface oxygen (~0 eV free-energy barrier), forming a vacancy, while the L–H pathway through TSIII has a ~1.6 eV barrier. The full reaction is kinetically limited by the E–R step for creating an open Ir coordination site in the Ir(CO)(O) structure for a facile O
+2
+activation. This reaction mechanism is consistent with the measured CO order of ~1 and O
+2
+order of ~0 on Ir single atoms (Fig.
+2
+).
+Fig. 4:
+DFT-calculated free-energy diagram of CO oxidation on Ir single atoms supported on MgAl
+2
+O
+4
+.
+Adsorbed *CO and *O on Ir single atoms on an O
+2
+(Al)-terminated MgAl
+2
+O
+4
+(211) surface with a nearby O vacancy (structure I, Ir(CO)(O)). It is energetically favourable to adsorb oxygen, forming *O
+2
+at the vacancy site (structure I to II). Gas-phase CO then reacts with the adsorbed *O in the Ir(CO)(O) (that is, E–R pathway, structure II to III) with a free-energy barrier ~1.1 eV (TSI). In contrast, there is a 2.1 eV (TSII) free-energy barrier for the reaction between adsorbed *CO and *O in the Ir(CO)(O), that is, the L–H pathway, which is unfavourable. *O
+2
+can then readily dissociate to heal the vacancy (structure III to IV, no barrier). To complete the reaction cycle (structure IV to I), gas-phase CO reacts with a surface oxygen (~0 eV free-energy barrier), forming a vacancy, while the L–H pathway through TSIII has a ~1.6 eV barrier. The reaction cycle is limited by the E–R step (gas-phase CO reacts with the *O in Ir(CO)(O) (structure II to III)).
+Full size image
+To further validate the structure of reaction intermediates, we calculated the Ir L
+3
+-edge XANES spectra of various Ir structures as shown in Fig.
+3d
+and Supplementary Fig.
+11
+using DFT within the full core-hole approximation
+38
+. The calculated spectrum (Fig.
+3d
+) for Ir(CO)
+2
+shows a sharp peak with a long tail, similar to the shape of measured spectrum after dosing CO (Fig.
+3b
+). The steady-state spectra exhibit shoulders at higher energies, which are assigned to a combination of reaction intermediates, Ir(CO)(O)–(Al–v), Ir(CO)(O) and Ir(CO)(O) with O
+2
+adsorbed on the vacancy (structures I, II and IV in Fig.
+4
+; spectra for other possible structures along the reaction pathway are provided in Supplementary Fig.
+11
+). We note that all of the complexes/intermediates in the reaction cycle have a strongly bound CO (about −2.0 eV binding energy, see Supplementary Table
+6
+), which is consistent with our in situ/operando experimental results showing that Ir(CO) is the active complex for CO oxidation. We also note that DFT calculations on Ir on MgAl
+2
+O
+4
+(111) showed that the E–R pathway was more favourable than L–H (barrier lower by 0.6–1 eV) and the XANES spectra for Ir(CO)
+2
+and Ir(CO)(O) on this site were also very similar to those measured experimentally (Fig.
+3b,c
+), suggesting that the electronic structure and catalytic properties of Ir single atoms are not sensitive to the chosen model.
+Discussion
+The in situ and operando spectroscopy results supported by quantum chemical calculations provide remarkable molecular-level details on the mechanism of CO oxidation on supported Ir single atoms. The low-temperature in situ DRIFTS and HERFD-XANES results (Fig.
+3a,b
+, respectively) show that O
+2
+activation is a kinetically facile step (that is, it does not affect the overall reaction rate) since it can proceed at and below room temperature, resulting in an incomplete reaction cycle Ir(CO)
+2
++ O
+2
+→ Ir(CO)(O) + CO
+2
+. This is consistent with the ~0 reaction order measured for O
+2
+(Fig.
+2
+) and the negligible barrier for O
+2
+activation calculated by DFT. The HERFD-XANES spectra at higher temperatures confirm that Ir(CO)(O) is the most stable complex (resting state) during CO oxidation (Fig.
+3c
+and Supplementary Fig.
+9
+). Furthermore, the stability of Ir(CO)(O) in helium at the reaction temperature (Supplementary Fig.
+9
+) indicates that the surface reaction between *CO and *O on Ir
+1
+is not favourable at the investigated temperatures. However, dosing CO on this structure resulted in the formation of Ir(CO)
+2
+(Fig.
+3c,d
+), indicating that at 100 °C, gas-phase CO reacts with the *O in Ir(CO)(O) to form CO
+2
+(Supplementary Fig.
+6
+), followed by CO adsorption to form Ir(CO)
+2
+. These experimental results are further supported by the DFT-calculated reaction mechanism where O
+2
+activation has a negligible barrier and the rate-limiting step is the creation of an open coordination at Ir single atoms through an E–R pathway (barrier of 1.1 eV versus 2.1 eV for the L–H pathway). Furthermore, the apparent activation barrier estimated from DFT is ~0.6 eV = 58 kJ mol
+−1
+(E–R intrinsic barrier of 1.1 eV corrected by the O
+2
+free energy of adsorption −0.49 eV while assuming the coverage of other intermediates is small) is in agreement with the apparent activation energy of 62 kJ mol
+−1
+measured experimentally on Ir single atoms (0.0025% Ir/MgAl
+2
+O
+4
+, SAC, Supplementary Fig.
+12
+and Supplementary Table
+9
+). Therefore, our experimental and DFT results provide strong evidence for an E–R mechanism for CO oxidation on Ir single atoms supported on MgAl
+2
+O
+4
+. More importantly, the results show that Ir(CO) is the active supported complex and Ir(CO)(O) is the most stable intermediate (resting state) during reaction.
+Supported metal single atoms present tremendous opportunities for designing catalysts at the atomic scale. A few research groups have shown that supports
+7
+,
+25
+,
+39
+and other ligands
+10
+,
+40
+can be used to modify their electronic and catalytic properties analogous to modifying the ligands in a homogeneous catalyst
+8
+,
+27
+,
+38
+. For example, CO was reported to promote the selective hydrogenation of 1,3-butadiene on Rh single atoms and dimers supported on MgO
+40
+and promote the formation of methanol from methane oxidation on Rh
+1
+/ZSM-5 (CO was required for methanol formation despite not being a reactant)
+10
+. In this work, using in situ and operando Fourier transform infrared spectroscopy, HERFD-XANES and DFT calculations we show that the active metal single-atom complex is formed under reaction conditions and contains one of the reactants as a ligand. Our results demonstrate that Ir(CO) is the active complex and the formation of this Ir single-atom complex on MgAl
+2
+O
+4
+promotes CO oxidation via an E–R mechanism where Ir(CO)(O) is the resting state of the catalyst. More importantly, our results show that detection of adsorbed CO on metal single atoms by infrared spectroscopy under reaction conditions or under O
+2
+flow (both indicate strong CO adsorption)
+17
+,
+18
+,
+20
+does not necessarily indicate low activity for CO oxidation. More generally, the results show that due to the ability of single atoms to bind to more than one ligand, strong adsorption by a ligand (or one of the reactants; for example, CO) does not necessarily lead to catalyst poisoning. Our DFT results indicate that Ir single atoms play a crucial role in facilitating O
+2
+activation, while the CO ligand lowers the barrier for the E–R rate-limiting step. The results highlight the importance of combining in situ/operando spectroscopy, together with quantum chemical calculations, and kinetic measurements to identify the active complex, most stable intermediate (resting state) and reaction mechanism. Additionally, we anticipate that due to the ability of supported SACs to bind to multiple ligands, the work can be extended to other metals where a strongly adsorbed ligand (for example, CO) can be an integral part of the active metal single-atom complex, providing an avenue to promote specific reaction pathways and control the catalyst activity and selectivity.
+Methods
+Synthesis and pretreatment
+The 0.0025% SAC was prepared by wet impregnation. The MgAl
+2
+O
+4
+support (Puralox MG 28, Sasol) was calcined at 500 °C for 4 h before impregnation. Deionized water (20 ml) was added to a Pyrex bottle and the pH was adjusted with nitric acid to 2.8. The Ir nitrate precursor (8.7 wt% Ir, Furuya Metal Co.) was added into the pH-adjusted solution. The MgAl
+2
+O
+4
+support was then added into the solution while stirring. The final pH of the solution was 9.5. The nominal Ir weight loading was 0.0025%. After 12 h of stirring, the solution was filtered out and the solid sample was dried in air for 24 h at room temperature. The sample was then dried at 80 °C and 100 °C before calcination at 500 °C for 4 h. The Ir in the solution after filtration was measured by inductively coupled plasma atomic emission spectroscopy and no Ir was detected. The 1% Ir/MgAl
+2
+O
+4
+samples were synthesized by incipient impregnation. The proper amount of Ir nitrate precursor was added to the MgAl
+2
+O
+4
+support (Puralox MG30, Sasol) drop by drop, and the sample was then dried at 80 °C and 100 °C (at 0.5 °C min
+−1
+) for 4 h respectively. The dried sample was then calcined at 500 °C in air for 4 h. The 0.2% Ir/MgA
+2
+O
+4
+NP sample was prepared by wet impregnation. The proper amount of Ir(CO)
+2
+(acac) (Sigma Aldrich) precursor was dissolved in 8 ml of toluene (Sigma Aldrich) in a 20 ml vial while flowing N
+2
+at room temperature. Then the dissolved Ir(CO)
+2
+(acac) toluene solution was injected into another vial containing 5 g MgAl
+2
+O
+4
+(Puralox MG 28, Sasol) under N
+2
+flow. The sample was then dried under N
+2
+flow at room temperature overnight to evaporate the toluene. No calcination was performed on this catalyst. The CO and acac ligands were removed in situ by treatment in H
+2
+at 500 °C, which led to the formation of 1 nm NPs as detailed in the Results.
+All of the in situ characterizations and the CO oxidation reaction followed the same pretreatment procedure. For the Ir SAC, the sample was calcined in 5 kPa O
+2
+(certified grade, Airgas) at 100 °C for 30 min (1 °C min
+−1
+ramp rate) and 400 °C for 30 min (5 °C min
+−1
+ramp rate). The calcined sample was then pretreated in He (99.999% Airgas) at 650 °C for 30 min with a 15 °C min
+−1
+ramp rate. The temperature was then cooled in He to 110 °C and purged for 10 min before switching to 20 kPa H
+2
+(balance He). The sample was then reduced in H
+2
+(99.999% Airgas) at 500 °C (15 °C min
+−1
+ramp rate) for 2 h. After reduction, He was used to flush the H
+2
+at 650 °C for 30 min followed by cooling down in He to 35 °C. For the 1% Ir catalyst, after calcination at 500 °C, the catalyst was reduced in 20 kPa H
+2
+at 800 °C (15 °C min
+−1
+) for 2 h followed by flushing with He for 30 min at the same temperature and then cooling down in He to 35 °C. The 0.2% Ir/MgA
+2
+O
+4
+NP sample (prepared with Ir(CO)
+2
+(acac) precursor) was pretreated with 20 kPa H
+2
+at 500 °C (10 °C min
+−1
+ramp rate) for 2 h to remove the CO and acac ligands and then cooled down in 20% H
+2
+to room temperature and then purged with He for 10 min.
+DRIFTS
+DRIFTS was used to characterize the interaction of the supported Ir catalysts with CO. The in situ DRIFTS experiments were performed using a Thermo Scientific IS-50R Fourier transform infrared spectrometer equipped with an MCT/A detector. A spectral resolution of 4 cm
+−1
+was used to collect spectra, which are reported in Kubelka–Munk units. An approximately 50 mg sample (25–90 μm) was loaded in the Harrick Praying Mantis high-temperature DRIFTS reaction chamber. The chamber was sealed and connected to a flow system with temperature control, and gases were flown through the sample at atmospheric pressure. Each reported spectrum is an average of 32 scans. The supported Ir samples were pretreated in situ in the DRIFTS cell before collecting the spectra. The gas pretreatment procedure was the same as previously mentioned. The composition of the effluent gases was measured by an online quadrupole mass spectrometer (Pfeiffer Omni Star, QMG220). A secondary electron multiplier detector was used to monitor signals for CO
+2
+(
+m
+/
+z
+= 44 and
+m
+/
+z
+= 28), CO (
+m
+/
+z
+= 28), O
+2
+(
+m
+/
+z
+= 32) and He (
+m
+/
+z
+= 4). The CO line (5% CO certified grade, Airgas) connected to the DRIFTS cell and the flow reactor for kinetic measurements was equipped with a metal carbonyl purifier (Matheson, NanoChem Metal-X) to remove the trace amount of metal carbonyl as well as a molecular sieve 3A (8–12 mesh) trap to remove trace (ppm) levels of CO
+2
+. No CO
+2
+was detected in the mass spectrometer with the CO or O
+2
+flowing during a blank test. The CO adsorption measurement was conducted at 35 °C unless otherwise stated. The samples were exposed to CO doses by varying the time and also increasing the partial pressure of CO (5% CO certified grade, Airgas). As a reference experiment, the MgAl
+2
+O
+4
+support was pretreated with the same procedure as the 0.0025% Ir/MgAl
+2
+O
+4
+(SAC), and no infrared band was detected in the
+v
+CO
+region.
+HERFD-XANES
+HERFD-XANES measurements were collected at Beamline 6-2 at the Stanford Synchrotron Radiation Light Source (SSRL)
+41
+. A liquid-nitrogen-cooled double-crystal Si(311) monochromator was equipped to select the energy of the incident beam with a flux of 3 × 10
+12
+photons per second. A Rowland circle spectrometer (radius 1 m) equipped with three spherically bent Si (800) analysers and a silicon drift detector were used to select the Ir L
+α
+(9,175 eV) emission line with a measured resolution of 1.3 eV. An iridium foil was scanned in the transmission mode for initial energy calibration.
+Each sample (120 mg in mass, 25–90 μm) was loaded into a packed bed flow reactor. The in situ packed bed reactor consists of a Be tube (Materion; PF-60 Grade) (outer diameter 5 mm and inner diameter 3.8 mm) connected to the gas line using graphite ferrules and heated by a stainless-steel heating block equipped with four 100 W heating cartridges (Watlow). The in situ reactor assembly was protected from oxidation by an air-free box with polyimide film X-ray windows and continuous He or N
+2
+flow. Two type-K thermocouples were used to monitor and control the heating block and the catalytic bed temperature. A portable gas delivery system equipped with five mass flow controllers (Brooks - SLA5800) was used to control the gas flow. The composition of effluent gases was measured by an online quadrupole mass spectrometer (Hiden HPR20). The 0.0025% Ir/MgAl
+2
+O
+4
+(SAC) was first heated in a flow of 10 kPa O
+2
+, balance He (certified grade Airgas) to 400 °C at 10 °C min
+−1
+followed by a dwell of 20 min. Then the sample was pretreated with He (99.999% Airgas) at 650 °C for 30 min and cooled down to room temperature, and then H
+2
+(99.999% Airgas) 500 °C and He 650 °C steps as described in the previous synthesis and pretreatment section. The pretreated sample was then cooled down in He to room temperature. At room temperature, 5 kPa CO (certified grade Airgas) was introduced into the reactor and HERFD-XANES spectra were collected during CO flow. After CO flow, the reactor was purged with He. Then, 5 kPa O
+2
+was introduced into the reactor and HERFD-XANES spectra were collected during O
+2
+flow. The sample was then heated in 0.4 kPa CO + 2 kPa O
+2
+to 155 °C. After CO oxidation with 1 kPa CO + 8 kPa O
+2
+at 155 °C for 1 h, the reactor was cooled down to 100 °C under He flow. At 100 °C, 2 kPa CO was pulsed into the reactor chamber multiple times. After HERFD-XANES spectra were stabilized, 1 kPa CO + 8 kPa O
+2
+were flowed through the sample. HERFD-XANES spectra were collected the entire time at 155 and 100 °C. The total flow rate was kept at 50 sscm during pretreatment and measurement.
+All HERFD-XANES spectra were measured within 2 min and 3 to 6 scans were averaged to improve the signal-to-noise ratio. The analysis of the HERFD- XANES data was carried out with the software ATHENA of the IFEFFIT package
+42
+,
+43
+. The edge, determined by the first inflection point of the absorption edge of the Ir foil, was calibrated to the reported Ir L
+3
+energy, 11,215 eV. This calibration was used to calibrate a known glitch in the monochromator observed in the
+I
+0
+signal of each scan. A least-squares Gaussian fit of the glitch determined the error in the energy calibration of the samples to be 0.022 eV. Energy calibration was achieved by aligning the glitch in each scan to the glitch in the Ir foil reference scans. Three to six scans per sample were averaged with the averaged spectra being used for deglitching and normalization. The averaged spectrum was processed by fitting a second-order polynomial to the pre-edge region and subtracting this from the entire spectrum. Edge energy was determined by the first derivative of the normalized absorbance. The data were normalized by dividing the absorption intensity by the height of the absorption edge.
+Volumetric chemisorption
+Volumetric O
+2
+/CO chemisorption was performed with a Mircromeritics 3Flex. The catalyst (0.6 g) was packed in a quartz sample holder and pretreated with the same procedure described in the synthesis section. The total flow rate for each step was 80 sccm. The sample with pellet size between 425 and 710 μm was evacuated at 35 °C for 1 h before the O
+2
+/CO (99.999%, Airgas) chemisorption analysis. Two O
+2
+/CO chemisorption isotherms were performed between 5 mmHg and 450 mmHg at 35 °C with an evacuation step between the 2 isotherms to remove the physically adsorbed O
+2
+/CO. The first isotherm represents both the chemisorbed and the physisorbed O
+2
+/CO. The second isotherm indicates the amount of physisorbed O
+2
+/CO. The difference in the two O
+2
+/CO isotherms is reported as the amount of chemisorbed O
+2
+/CO. The dispersion of 1% Ir/MgAl
+2
+O
+4
+catalyst (calcined at 500 °C and reduced at 800 °C) was measured as 90% with stoichiometry of 1 CO:1 Ir. Stoichiometry of 1 CO:1 Ir was used to calculate the dispersion of Ir NP catalyst (0.2% Ir/MgAl
+2
+O
+4
+) (Supplementary Table
+5
+)
+44
+and 100% dispersion was used for calculating the TOF on the 0.0025% Ir/MgAl
+2
+O
+4
+(SAC) considering the low weight loading of Ir.
+Brunauer–Emmett–Teller surface area
+The Brunauer–Emmett–Teller surface area was measured by multiple-point N
+2
+adsorption and desorption cycles in a Micromeritics 3Flex at 77.35 K. All samples were degassed at 200 °C with N
+2
+flow overnight before measurement.
+CO oxidation kinetic measurements
+CO oxidation kinetic measurements were performed under differential conditions in a conventional laboratory tubular plug flow reactor (7-mm-inner-diameter quartz tube). Dilution experiments were performed according to the Koros–Nowak test to determine the necessary dilution ratio for measurements under strict kinetic control without mass and heat transfer effects
+45
+,
+46
+,
+47
+. The catalysts (after intraparticle dilution) were pressed into 106–250 μm pellets. The dilution ratio test to eliminate transport limitations was performed on a 2% Pt/γ-Al
+2
+O
+3
+catalyst using γ-Al
+2
+O
+3
+as the diluent. Intraparticle dilution ratios of 1:200 and 1:1,000 showed no difference in activity under different CO and O
+2
+conditions between 145 °C and 170 °C, which indicates that the measured catalytic activity was evaluated under kinetic control without any transport artefacts. On the basis of the dilution test, the 0.2% Ir/MgAl
+2
+O
+4
+was diluted with silica at a 1:40 ratio, and the 1% Ir/MgAl
+2
+O
+4
+was diluted with silica at a 1:200 ratio, and the 0.0025% Ir/MgAl
+2
+O
+4
+(SAC) required no dilution because of the low Ir loading. Negligible activity was measured on the MgAl
+2
+O
+4
+support compared with all of the catalysts. Each catalyst pretreatment was the same as mentioned above, and the total flow rate during pretreatment was kept at 80 sccm. After pretreatment, 5% CO (certified grade Airgas) was mixed with 100% O
+2
+(99.999% Airgas) and He (99.999% Airgas) at 35 °C. The catalyst temperature was measured by a K-type thermocouple (OMEGA) attached at the centre of the catalyst bed on the outside of the tube. The reactor was heated from room temperature to the reaction temperature at 3 °C min
+−1
+in 0.1 kPa CO and 2 kPa O
+2
+balanced with He. During the steady-state kinetic measurements, the conversion of CO was always below 3% by varying the total flow rate between 50 and 100 sccm. To investigate the effect of CO partial pressure on reaction rate, the partial pressure of O
+2
+was held constant at 10 kPa (Fig.
+2a,c
+) and the partial pressure of CO was varied between 0.1 and 1 kPa. To investigate the effect of O
+2
+partial pressure, the CO partial pressure was held constant at 1 kPa (Fig.
+2b
+) and the partial pressure of O
+2
+was varied between 2 and 14 kPa, and then the measurements were repeated at 0.2 kPa CO partial pressure (Supplementary Fig.
+3
+). The kinetic measurements for each catalyst took between 12 and 18 hours for each experiment. The 0.2% Ir/MgAl
+2
+O
+4
+(NP) catalyst stability was not affected by the higher CO partial pressures during the CO or O
+2
+reaction order measurements. The kinetic experiments were reproduced using two different aliquots from the same batch and also reproduced using two different batches. Error bars of the kinetic measurements were calculated on the basis of multiple points on the same catalyst at different times during one experiment and from experiments using different catalyst aliquots/batches.
+The composition of the effluent gases was measured by a gas chromatograph (Inficon Micro GC Fusion). TOFs were calculated by normalizing the reaction rate (
+\({{\rm{mol}}\,{\rm{g}}^{-1}_{{\rm{cat}}}\,{\rm{s}}^{-1}}\)
+)to the number of Ir sites per gram of catalyst (
+\({{\rm{mol}}_{{\rm{Ir}}}\,{\rm{g}}^{-1}_{{\rm{cat}}}}\)
+) measured by using CO chemisorption as discussed in the volumetric chemisorption section.
+It should be noted that we rigorously monitored the catalyst stability by re-measuring the catalyst periodically throughout the experiment under the first condition measured and the catalyst activity was very stable (±5%) during the entire kinetic measurement. HAADF-STEM images of the catalysts after CO oxidation (Supplementary Fig.
+1
+) indicate that Ir remains atomically dispersed during the reaction.
+STEM
+Aberration-corrected electron microscopy images for Ir/MgAl
+2
+O
+4
+samples were taken on an FEI TITAN 80–300 in STEM mode using a HAADF detector. The resolution is 0.1 nm, with the CEOS GmbH double-hexapole aberration corrector. To calculate the atomic percentage of each catalyst from multiple STEM images, the number of atoms per particle (
+N
+) was estimated with a spherical model
+48
+:
+$${N} = \frac{{{\mathrm{\pi} D}^3{\rho N}_{\mathrm{A}}}}{{6M_{\mathrm{w}}}}$$
+(1)
+where
+D
+is the NP diameter,
+ρ
+is the bulk metal density,
+N
+A
+is Avogadro’s number and
+M
+w
+is the metal molecular weight.
+DFT calculations of reaction pathways
+All DFT calculations were performed by QUICKSTEP in the CP2K package
+49
+. The exchange-correlation potential was treated with the generalized gradient approximation parameterized by the spin-polarized Perdew–Burke–Ernzerhof functional
+50
+. The wavefunctions were expanded in molecular optimized double-ζ valence polarized Gaussian basis sets (DZVP-MOLOPT-SR-GTH) for Al, Mg and Ir elements, and triple-ζ valence basis sets (TZV2P-MOLOPT-GTH) for O and C elements, with an auxiliary plane-wave basis set with a cutoff energy of 480 Ry. Brillouin zone integration is performed with a reciprocal space mesh consisting of only the gamma point. The DFT-D3 van der Waals correction by Grimme et al.
+51
+was applied. Core electrons have been modelled by the scalar relativistic norm-conserving Goedecker–Teter–Hutter (GTH) potentials with 10, 3, 6, 4 and 17 valence electrons for Mg, Al, O, C and Ir, respectively. The spinel MgAl
+2
+O
+4
+bulk structure has a face-centred cubic Bravais lattice with space group
+Fd
+3
+m
+. The optimized lattice constant with
+a
+= 8.146 Å is close to the experimental value
+a
+= 8.086 Å
+37
+. The O
+2
+(Al)-termination was shown to be the most stable for MgAl
+2
+O
+4
+(ref.
+37
+). Therefore, the model systems used for the DFT calculations are O
+2
+(Al)-terminated MgAl
+2
+O
+4
+(111) and (211) surfaces with periodic boundary condition along the
+x
+,
+y
+and
+z
+directions. Ir single atoms were adsorbed at different sites (Supplementary Table
+3
+). Vacuum of 15 Å distance was added along the
+z
+direction to avoid interactions with adjacent cells. In cell and geometry optimizations, the maximum forces were converged to 4.5 × 10
+−4
+Hartree/Bohr. The zero-point energy and entropy correction were obtained from the quasi-harmonic approximation. For molecules, the translational and rotational contributions to internal energy and entropy are taken into account using statistical thermodynamics. To locate the transition state, we use the climbing image nudged-elastic-band method
+52
+. Vibrational analysis was used to further verify transition states; only one imaginary frequency mode indicates that the transition states are the true saddle points.
+XANES simulations
+XANES spectrum calculations are performed using the plane-wave-based PWSCF (Quantum-ESPRESSO) code. The ultrasoft Vanderbilt pseudopotential method with the Perdew–Burke–Ernzerhof exchange-correlation functional is adopted. A cutoff energy of 700 eV for the wavefunctions is used. The Monkhorst–Pack scheme is used for sampling the Brillouin zone. To determine Ir L
+3
+-edge spectra, we create a special pseudopotential for the Ir atom, which contains an Ir 2p core hole. In the self-consistent field (SCF) calculation to obtain the converged wavefunction and charge density, spin-polarization is not considered and the total charge of the system is specified as +1 to compensate the extra electron in the empty states, that is, the excited-state core-hole approximation. The spectrum is calculated using the XSpectra program, which gives the X-ray absorption cross-section as a function of excitation energy relative to the lowest unoccupied molecular orbital (LUMO) energy. A Lorentzian broadening factor of 1.5 eV related to the core-hole lifetime is chosen for all spectrum calculations. Since the absorbing Ir atoms with different ligands are non-equivalent, we need to obtain the absolute energy scale. To properly align spectra of different structures, the delta Kohn–Sham energy is calculated to represent the transition energy by lifting a core electron from the ground state to the first core-excited state of the LUMO
+38
+using the GPAW program. To have a spin-up core hole and an electron in the lowest unoccupied spin-up state, the magnetic moment of the Ir atom with the hole is set to one and the total magnetic moment is fixed in spin-polarized calculations. The absolute energy of calculated spectra is corrected using the measured edge energy of the Ir(CO)
+2
+(Al-v) system where 2CO ligands are adsorbed at Ir/MgAl
+2
+O
+4
+with a surface oxygen vacancy near the active site.
+Data availability
+The data that support the findings of this study are available from the corresponding authors upon reasonable request.
+References
+Oh, S. H. & Sinkevitch, R. M. Carbon monoxide removal from hydrogen-rich fuel cell feedstreams by selective catalytic oxidation.
+J. Catal.
+142
+, 254–262 (1993).
+Article
+CAS
+Google Scholar
+Alayoglu, S., Nilekar, A. U., Mavrikakis, M. & Eichhorn, B. Ru–Pt core–shell nanoparticles for preferential oxidation of carbon monoxide in hydrogen.
+Nat. Mater.
+7
+, 333–338 (2008).
+Article
+CAS
+Google Scholar
+Allian, A. D. et al. Chemisorption of CO and mechanism of CO oxidation on supported platinum nanoclusters.
+J. Am. Chem. Soc.
+133
+, 4498–4517 (2011).
+Article
+CAS
+Google Scholar
+Twigg, M. V. Progress and future challenges in controlling automotive exhaust gas emissions.
+Appl. Catal. B
+70
+, 2–15 (2007).
+Article
+CAS
+Google Scholar
+Lin, J. et al. Remarkable performance of Ir
+1
+/FeO
+x
+single-atom catalyst in water gas shift reaction.
+J. Am. Chem. Soc.
+135
+, 15314–15317 (2013).
+Article
+CAS
+Google Scholar
+Yang, X. F. et al. Single-atom catalysts: a new frontier in heterogeneous catalysis.
+Acc. Chem. Res.
+46
+, 1740–1748 (2013).
+Article
+CAS
+Google Scholar
+Lu, J., Serna, P., Aydin, C., Browning, N. D. & Gates, B. C. Supported molecular iridium catalysts: resolving effects of metal nuclearity and supports as ligands.
+J. Am. Chem. Soc.
+133
+, 16186–16195 (2011).
+Article
+CAS
+Google Scholar
+Kyriakou, G. et al. Isolated metal atom geometries as a strategy for selective heterogeneous hydrogenations.
+Science
+335
+, 1209–1212 (2012).
+Article
+CAS
+Google Scholar
+Liu, J. Catalysis by supported single metal atoms.
+ACS Catal.
+7
+, 34–59 (2017).
+Article
+CAS
+Google Scholar
+Shan, J., Li, M., Allard, L. F., Lee, S. & Flytzani-Stephanopoulos, M. Mild oxidation of methane to methanol or acetic acid on supported isolated rhodium catalysts.
+Nature
+551
+, 605–608 (2017).
+Article
+CAS
+Google Scholar
+Cui, X., Li, W., Ryabchuk, P., Junge, K. & Beller, M. Bridging homogeneous and heterogeneous catalysis by heterogeneous single-metal-site catalysts.
+Nat. Catal.
+1
+, 385–397 (2018).
+Article
+Google Scholar
+Qiao, B. T. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+Google Scholar
+Moses-DeBusk, M. et al. CO oxidation on supported single Pt atoms: experimental and ab initio density functional studies of CO interaction with Pt atom on theta-Al
+2
+O
+3
+(010) surface.
+J. Am. Chem. Soc.
+135
+, 12634–12645 (2013).
+Article
+CAS
+Google Scholar
+Kistler, J. D. et al. A single-site platinum CO oxidation catalyst in zeolite KLTL: microscopic and spectroscopic determination of the locations of the platinum atoms.
+Angew. Chem. Int. Ed.
+53
+, 8904–8907 (2014).
+Article
+CAS
+Google Scholar
+Yang, M. et al. Catalytically active Au-O(OH)
+x
+-species stabilized by alkali ions on zeolites and mesoporous oxides.
+Science
+346
+, 1498–1501 (2014).
+Article
+CAS
+Google Scholar
+Yang, M. et al. A common single-site Pt(II)-O(OH)
+x
+-
+species stabilized by sodium on “active” and “inert” supports catalyzes the water-gas shift reaction.
+J. Am. Chem. Soc.
+137
+, 3470–3473 (2015).
+Article
+CAS
+Google Scholar
+Ding, K. et al. Identification of active sites in CO oxidation and water-gas shift over supported Pt catalysts.
+Science
+350
+, 189–192 (2015).
+Article
+CAS
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+Google Scholar
+Stephens, I. E. L., Elias, J. S. & Shao-Horn, Y. The importance of being together.
+Science
+350
+, 164–165 (2015).
+Article
+CAS
+Google Scholar
+Nie, L. et al. Activation of surface lattice oxygen in single-atom Pt/CeO
+2
+for low-temperature CO oxidation.
+Science
+358
+, 1419–1423 (2017).
+Article
+CAS
+Google Scholar
+Luo, J. Y. et al. Advantages of MgAlO
+x
+over gamma-Al
+2
+O
+3
+as a support material for potassium-based high-temperature lean NO
+x
+traps.
+ACS Catal.
+5
+, 4680–4689 (2015).
+Article
+CAS
+Google Scholar
+Li, W.-Z. et al. A general mechanism for stabilizing the small sizes of precious metal nanoparticles on oxide supports.
+Chem. Mater.
+26
+, 5475–5481 (2014).
+Article
+CAS
+Google Scholar
+Li, W.-Z. et al. Stable platinum nanoparticles on specific MgAl
+2
+O
+4
+spinel facets at high temperatures in oxidizing atmospheres.
+Nat. Commun.
+4
+, 2481 (2013).
+Article
+Google Scholar
+Lin, J. et al. Design of a highly active Ir/Fe(OH)
+x
+catalyst: versatile application of Pt-group metals for the preferential oxidation of carbon monoxide.
+Angew. Chem. Int. Ed.
+51
+, 2920–2924 (2012).
+Article
+CAS
+Google Scholar
+Lu, J., Aydin, C., Browning, N. D. & Gates, B. C. Oxide- and zeolite-supported isostructural ir(C
+2
+H
+4
+)
+2
+complexes: molecular-level observations of electronic effects of supports as ligands.
+Langmuir
+28
+, 12806–12815 (2012).
+Article
+CAS
+Google Scholar
+Hoffman, A. S. et al. High-energy-resolution X-ray absorption spectroscopy for identification of reactive surface species on supported single-site iridium catalysts.
+Chem. Eur. J.
+23
+, 14760–14768 (2017).
+Article
+CAS
+Google Scholar
+Aydin, C., Lu, J., Browning, N. D. & Gates, B. C. A “smart” catalyst: sinter-resistant supported iridium clusters visualized with electron microscopy.
+Angew. Chem. Int. Ed.
+51
+, 5929–5934 (2012).
+Article
+CAS
+Google Scholar
+Berlowitz, P. J., Peden, C. H. F. & Goodman, D. W. Kinetics of CO oxidation on single-crystal Pd, Pt, and Ir.
+J. Phys. Chem.
+92
+, 5213–5221 (1988).
+Article
+CAS
+Google Scholar
+Cargnello, M. et al. Control of metal nanocrystal size reveals metal-support interface role for ceria catalysts.
+Science
+341
+, 771–773 (2013).
+Article
+CAS
+Google Scholar
+Mihaylov, M. et al. New types of nonclassical iridium carbonyls formed in Ir-ZSM-5: a Fourier transform infrared spectroscopy investigation.
+J. Phys. Chem. B
+110
+, 10383–10389 (2006).
+Article
+CAS
+Google Scholar
+Wovchko, E. A. & Yates, J. T. Activation of O
+2
+on a photochemically generated Rh
+I
+site on an Al
+2
+O
+3
+surface: low-temperature O
+2
+dissociation and CO oxidation.
+J. Am. Chem. Soc.
+120
+, 10523–10527 (1998).
+Article
+CAS
+Google Scholar
+Abbet, S., Heiz, U., Hakkinen, H. & Landman, U. CO oxidation on a single Pd atom supported on magnesia.
+Phys. Rev. Lett.
+86
+, 5950–5953 (2001).
+Article
+CAS
+Google Scholar
+Atkins, A. J., Bauer, M. & Jacob, C. R. High-resolution X-ray absorption spectroscopy of iron carbonyl complexes.
+Phys. Chem. Chem. Phys.
+17
+, 13937–13948 (2015).
+Article
+CAS
+Google Scholar
+Boubnov, A. et al. Selective catalytic reduction of NO over Fe-ZSM-5: mechanistic insights by operando HERFD-XANES and valence-to-core X-ray emission spectroscopy.
+J. Am. Chem. Soc.
+136
+, 13006–13015 (2014).
+Article
+CAS
+Google Scholar
+van Bokhoven, J. A. et al. Activation of oxygen on gold/alumina catalysts: in situ high-energy-resolution fluorescence and time-resolved X-ray spectroscopy.
+Angew. Chem. Int. Ed.
+45
+, 4651–4654 (2006).
+Article
+CAS
+Google Scholar
+Safonova, O. V. et al. Identification of CO adsorption sites in supported Pt catalysts using high-energy-resolution fluorescence detection X-ray spectroscopy.
+J. Phys. Chem. B
+110
+, 16162–16164 (2006).
+Article
+CAS
+Google Scholar
+Cai, Q. X., Wang, J. G., Wang, Y. & Mei, D. H. First-principles thermodynamics study of spinel MgAl
+2
+O
+4
+surface stability.
+J. Phys. Chem. C
+120
+, 19087–19096 (2016).
+Article
+CAS
+Google Scholar
+Ljungberg, M. P., Mortensen, J. J. & Pettersson, L. G. M. An implementation of core level spectroscopies in a real space projector augmented wave density functional theory code.
+J. Electron Spectrosc.
+184
+, 427–439 (2011).
+Article
+CAS
+Google Scholar
+Lu, J., Serna, P. & Gates, B. C. Zeolite- and MgO-supported molecular iridium complexes: support and ligand effects in catalysis of ethene hydrogenation and H–D exchange in the conversion of H
+2
++ D
+2
+.
+ACS Catal.
+1
+, 1549–1561 (2011).
+Article
+CAS
+Google Scholar
+Yardimci, D., Serna, P. & Gates, B. C. Tuning catalytic selectivity: zeolite- and magnesium oxide-supported molecular rhodium catalysts for hydrogenation of 1,3-butadiene.
+ACS Catal.
+2
+, 2100–2113 (2012).
+Article
+CAS
+Google Scholar
+Sokaras, D. et al. A seven-crystal Johann-type hard X-ray spectrometer at the Stanford Synchrotron Radiation Lightsource.
+Rev. Sci. Instrum
+.
+84
+, 053102 (2013).
+Article
+CAS
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron. Radiat.
+12
+, 537–541 (2005).
+Article
+CAS
+Google Scholar
+Newville, M. IFEFFIT: interactive XAFS analysis and FEFF fitting.
+J. Synchrotron. Radiat.
+8
+, 322–324 (2001).
+Article
+CAS
+Google Scholar
+Brooks, C. S. Characterization of iridium catalyst surfaces by gas chemisorption.
+J. Colloid Interface Sci.
+34
+, 419–427 (1970).
+Article
+CAS
+Google Scholar
+Bonet, F. et al.
+Kinetics of Heterogeneous Catalytic Reactions
+(Princeton Univ. Press, Princeton, NJ, 984).
+Koros, R. M. & Nowak, E. J. A diagnostic test of the kinetic regime in a packed bed reactor.
+Chem. Eng. Sci.
+22
+, 470 (1967).
+Article
+CAS
+Google Scholar
+Madon, R. J. & Boudart, M. Experimental criterion for the absence of artifacts in the measurement of rates of heterogeneous catalytic reactions.
+Ind. Eng. Chem. Fund.
+21
+, 438–447 (1982).
+Article
+CAS
+Google Scholar
+Mozaffari, S. et al. Colloidal nanoparticle size control: experimental and kinetic modeling investigation of the ligand metal binding role in controlling the nucleation and growth kinetics.
+Nanoscale
+9
+, 13772–13785 (2017).
+Article
+CAS
+Google Scholar
+Hutter, J., Iannuzzi, M., Schiffmann, F. & VandeVondele, J. CP2K: atomistic simulations of condensed matter systems.
+Wires Comput. Mol. Sci.
+4
+, 15–25 (2014).
+Article
+CAS
+Google Scholar
+Paier, J., Hirschl, R., Marsman, M. & Kresse, G. The Perdew–Burke–Ernzerhof exchange-correlation functional applied to the G2-1 test set using a plane-wave basis set.
+J. Chem. Phys
+.
+122
+, 234102 (2005).
+Grimme, S., Antony, J., Ehrlich, S. & Krieg, H. A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu.
+J. Chem. Phys
+.
+132
+, 154104 (2010).
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901 (2000).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This research was primarily sponsored by the Army Research Office and was accomplished under grant number W911NF-16-1-0400. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of the Army Research Office or the US Government. The US Government holds copyright license rights specified under the aforementioned grant. Additional support by SABIC (Saudi Basic Industries Corporation) and by the US Department of Energy (DOE) Office of Basic Energy Sciences to the SUNCAT Center for Interface Science and Catalysis is acknowledged. Use of the Stanford Synchrotron Radiation Light Source (SSRL, beamlines 6-2, user proposal 4645), SLAC National Accelerator Laboratory is supported by the US Department of Energy, Office of Basic Energy Sciences under contract no. DE-AC02-76SF00515. STEM imaging was performed at the William R. Wiley Environmental Molecular Science Laboratory (EMSL) sponsored by the US Department of Energy, Office of Biological and Environmental Research located at Pacific Northwest National Laboratory (PNNL) under science theme proposal 49326. Computing time was awarded at EMSL under the same proposal. L.Y. and H.X. acknowledge the partial financial support from the American Chemical Society Petroleum Research Fund (ACS PRF 55581-DNI5) and computational support from the Advanced Research Computing group at Virginia Polytechnic Institute and State University.
+Author information
+Authors and Affiliations
+Department of Chemical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA, USA
+Yubing Lu, Jiamin Wang, Liang Yu, Xiwen Zhang, Hongliang Xin & Ayman M. Karim
+Pacific Northwest National Laboratory, Richland, WA, USA
+Libor Kovarik & Vanessa Dagle
+Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, Menlo Park, CA, USA
+Adam S. Hoffman, Simon R. Bare, Dimosthenis Sokaras & Thomas Kroll
+Department of Chemical Engineering, Stanford University, Stanford, CA, USA
+Alessandro Gallo
+SUNCAT Center for Interface Science and Catalysis, SLAC National Accelerator Laboratory, Menlo Park, CA, USA
+Alessandro Gallo
+Authors
+Yubing Lu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiamin Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Liang Yu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Libor Kovarik
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiwen Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Adam S. Hoffman
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Alessandro Gallo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Simon R. Bare
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dimosthenis Sokaras
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Thomas Kroll
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Vanessa Dagle
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hongliang Xin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ayman M. Karim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Y.L. performed the synthesis, characterizations (including helping with HERFD) and catalytic tests and wrote the first draft of the paper. J.W. performed the DFT calculations for the reaction barriers and infrared frequencies. L.Y. performed the XANES DFT calculations. L.K. conducted the STEM analysis and contributed to the writing of the STEM section. X.Z. performed synthesis and catalytic reproducibility tests. A.S.H., A.G. and S.R.B. designed and performed the HERFD experiments and data analysis and contributed to writing the XAS section. D.S. and T.K. were responsible for optimizing the crystal optics, developing the scripts to allow the HERFD data to be collected, and monitoring the initial data quality. V.D. synthesized and characterized the 1% Ir/MgAl
+2
+O
+4
+catalyst. H.X. designed and directed the computational part of the study and the writing of the DFT results. A.M.K. conceived the idea, and planned and directed the project. Y.L., H.X. and A.M.K. co-wrote the paper. All of the authors discussed the results and commented on the paper.
+Corresponding authors
+Correspondence to
+Hongliang Xin
+or
+Ayman M. Karim
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note:
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Discussion; Supplementary Figs 1-15; Supplementary Tables 1-10; Supplementary References
+Supplementary Data Set
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Lu, Y., Wang, J., Yu, L.
+et al.
+Identification of the active complex for CO oxidation over single-atom Ir-on-MgAl
+2
+O
+4
+catalysts.
+Nat Catal
+2
+, 149–156 (2019). https://doi.org/10.1038/s41929-018-0192-4
+Download citation
+Received
+:
+19 February 2018
+Accepted
+:
+31 October 2018
+Published
+:
+31 December 2018
+Issue Date
+:
+February 2019
+DOI
+:
+https://doi.org/10.1038/s41929-018-0192-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

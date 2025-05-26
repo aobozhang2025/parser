@@ -1,0 +1,2540 @@
+Ferromagnetic single-atom spin catalyst for boosting water splitting | Nature Nanotechnology
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature nanotechnology
+articles
+article
+Ferromagnetic single-atom spin catalyst for boosting water splitting
+Download PDF
+Article
+Published:
+25 May 2023
+Ferromagnetic single-atom spin catalyst for boosting water splitting
+Tao Sun
+ORCID:
+orcid.org/0000-0002-7080-0180
+1
+,
+2
+na1
+,
+Zhiyuan Tang
+3
+na1
+,
+Wenjie Zang
+4
+na1
+,
+Zejun Li
+ORCID:
+orcid.org/0000-0002-7582-0674
+5
+,
+Jing Li
+ORCID:
+orcid.org/0000-0002-5627-4153
+1
+,
+Zhihao Li
+6
+,
+Liang Cao
+ORCID:
+orcid.org/0000-0001-7453-7060
+6
+,
+Jan Sebastian Dominic Rodriguez
+7
+,
+8
+,
+Carl Osby M. Mariano
+ORCID:
+orcid.org/0009-0004-5709-9520
+7
+,
+Haomin Xu
+1
+,
+Pin Lyu
+1
+,
+Xiao Hai
+ORCID:
+orcid.org/0000-0002-7631-9769
+1
+,
+Huihui Lin
+1
+,
+Xiaoyu Sheng
+1
+,
+Jiwei Shi
+ORCID:
+orcid.org/0000-0003-3625-9324
+1
+,
+Yi Zheng
+ORCID:
+orcid.org/0000-0002-9487-1151
+9
+,
+Ying-Rui Lu
+ORCID:
+orcid.org/0000-0002-6002-5627
+10
+,
+Qian He
+ORCID:
+orcid.org/0000-0003-4891-3581
+4
+,
+Jingsheng Chen
+ORCID:
+orcid.org/0000-0003-3188-2803
+4
+,
+Kostya S. Novoselov
+ORCID:
+orcid.org/0000-0003-4972-5371
+4
+,
+11
+,
+Cheng-Hao Chuang
+ORCID:
+orcid.org/0000-0001-8161-1521
+7
+,
+Shibo Xi
+ORCID:
+orcid.org/0000-0002-8521-3237
+12
+,
+Xin Luo
+ORCID:
+orcid.org/0000-0002-7997-3934
+3
+&
+…
+Jiong Lu
+ORCID:
+orcid.org/0000-0002-3690-8235
+1
+,
+11
+Show authors
+Nature Nanotechnology
+volume
+18
+,
+pages
+763–771 (
+2023
+)
+Cite this article
+22k
+Accesses
+49
+Altmetric
+Metrics
+details
+Subjects
+Electrocatalysis
+Abstract
+Heterogeneous single-atom spin catalysts combined with magnetic fields provide a powerful means for accelerating chemical reactions with enhanced metal utilization and reaction efficiency. However, designing these catalysts remains challenging due to the need for a high density of atomically dispersed active sites with a short-range quantum spin exchange interaction and long-range ferromagnetic ordering. Here, we devised a scalable hydrothermal approach involving an operando acidic environment for synthesizing various single-atom spin catalysts with widely tunable substitutional magnetic atoms (M
+1
+) in a MoS
+2
+host. Among all the M
+1
+/MoS
+2
+species, Ni
+1
+/MoS
+2
+adopts a distorted tetragonal structure that prompts both ferromagnetic coupling to nearby S atoms as well as adjacent Ni
+1
+sites, resulting in global room-temperature ferromagnetism. Such coupling benefits spin-selective charge transfer in oxygen evolution reactions to produce triplet O
+2
+. Furthermore, a mild magnetic field of ~0.5 T enhances the oxygen evolution reaction magnetocurrent by ~2,880% over Ni
+1
+/MoS
+2
+, leading to excellent activity and stability in both seawater and pure water splitting cells. As supported by operando characterizations and theoretical calculations, a great magnetic-field-enhanced oxygen evolution reaction performance over Ni
+1
+/MoS
+2
+is attributed to a field-induced spin alignment and spin density optimization over S active sites arising from field-regulated S(
+p
+)–Ni(
+d)
+hybridization, which in turn optimizes the adsorption energies for radical intermediates to reduce overall reaction barriers.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Ferromagnetic Fe-TiO
+2
+spin catalysts for enhanced ammonia electrosynthesis
+Article
+Open access
+28 January 2025
+Spin-state reconfiguration induced by alternating magnetic field for efficient oxygen evolution reaction
+Article
+Open access
+10 August 2021
+Spin-related and non-spin-related effects of magnetic fields on water oxidation
+Article
+24 April 2025
+Main
+Worldwide interest in hydrogen production from water electrolysis with renewable electricity has surged in recent years, since a hydrogen-based economy represents one of the best energy alternatives to the increasing concerns over carbon emissions and climate change
+1
+,
+2
+,
+3
+,
+4
+. However, the bottleneck for efficient hydrogen production via water electrolysis lies in the sluggish kinetics of the oxygen evolution reaction (OER) with the use of scarce precious-metal-based electrocatalysts
+4
+,
+5
+,
+6
+. The sluggish OER kinetics can be attributed to a multiple electron transfer process with the formation of triplet-state molecular oxygen (↑O=O↑) that involves the spin change
+7
+,
+8
+. Despite extensive efforts being devoted to it, the design of efficient and robust non-precious-metal OER spin catalysis with an abundance of desired active sites for the optimization of the adsorption/desorption strength of oxygen intermediates is still recognized as a major challenge
+9
+,
+10
+,
+11
+,
+12
+,
+13
+,
+14
+. Moreover, OER spin catalysts may also boost reactions by a mild external magnetic field to further increase the overall efficiency for water splitting towards green H
+2
+production
+11
+,
+12
+,
+13
+,
+14
+,
+15
+.
+Nature has evolved excellent spin catalysis from abundant 3
+d
+metals for photosynthesis and biochemical processes (for example, bird’s migration)
+16
+,
+17
+,
+18
+, whose reaction kinetics over spin catalysis can be influenced by an external magnetic field through changing the spin multiplicity of the reactants and allowing the switch from spin-forbidden into spin-allowed reaction pathways
+16
+,
+19
+. Inspired by this, heterogeneous OER electrocatalysts including ferromagnetic mixed-metal oxides/metals have been developed to boost OER performance under an external magnetic field
+11
+,
+12
+,
+13
+,
+14
+,
+15
+,
+19
+,
+20
+,
+21
+,
+22
+,
+23
+,
+24
+. These ferromagnetic OER catalysts often yield a mild enhancement of OER currents under the external magnetic field (typically lower than 200%), attributed to the fact that a magnetic field favours the parallel alignment of oxygen radicals towards the formation of triplet-state molecular oxygen (↑O=O↑)
+13
+,
+19
+. In addition, the surface reconstruction of active sites in these materials during the OER reaction makes it challenging to establish the structure–performance relationship
+12
+,
+13
+,
+14
+,
+15
+,
+20
+. To date, a fundamental understanding of the magnetic field enhancement (MFE) to further improve the efficiency of water electrolysis has remained elusive due to the challenge in the identification of well-defined active sites in these systems. Therefore, the rational design of a heterogeneous spin catalyst with atomically precise active sites, enabling a giant MFE with maximized atom and energy efficiencies, is highly desired to create industrially relevant water splitting technologies. To realize this goal, one must tackle multiple challenges including the ability to engineer a high density of well-defined active sites with both short-range quantum spin exchange interaction and long-range room-temperature ferromagnetic ordering, as well as weakly interacting spin centres that can be altered under commonly accessible magnetic fields (for example, permanent magnets).
+Rational design and synthesis
+To tackle these challenges, we devised a general and scalable method for the synthesis of a series of single-atom spin catalysts (SASCs) consisting of substitutional magnetic atoms embedded in the MoS
+2
+host. M
+1
+/MoS
+2
+SASCs with tunable metal content were synthesized via a well-designed hydrothermal approach by introducing different molecular precursors including metal salts (M
+2+
+), ammonium molybdate tetrahydrate and thioacetamide in one step (
+Methods
+), distinct from the chemical vapour deposition growth of a single-atom-doped MoS
+2
+monolayer and two-step hydrothermal methods
+25
+,
+26
+,
+27
+,
+28
+,
+29
+. Particularly, the decomposition of thioacetamide during the hydrothermal reaction not only provides S sources for the formation of a 2H-phase MoS
+2
+host but also creates the desired ‘operando acidic environment’ to facilitate the synthesis of atomically dispersed single atoms embedded into the carrier lattice (Fig.
+1a
+) by suppressing the formation of metallic nanoparticles. The generation of an operando acidic environment during synthesis and its related chemical reactions are further illustrated in Supplementary Fig.
+1
+(refs.
+27
+,
+28
+,
+29
+). As a result, such a general synthetic protocol allows for the scalable synthesis of various M
+1
+/MoS
+2
+SASCs (M
+1
+= Mn, Fe, Ni, Co) with a widely tunable atomic doping ratio (M
+1
+/Mo) of up to ~20:100 (Supplementary Table
+1
+). Generally, a high doping density shortens the averaged spacing between adjacent magnetic dopant sites to promote their magnetic exchange interaction into long-range magnetic order (Fig.
+1a
+). Atomic dispersion of single magnetic dopants in MoS
+2
+with different loadings can be confirmed using different characterization techniques including X-ray absorption fine-structure spectroscopy (XAFS), X-ray diffraction analysis, Raman spectra and electron microscopy imaging (Fig.
+1b–f
+, Extended Data Fig.
+1a–c
+and Supplementary Figs.
+2
+–
+7
+).
+Fig. 1: Synthesis and characterization of a series of M
+1
+/MoS
+2
+SASCs.
+a
+, Illustration of the hydrothermal synthesis of M
+1
+/MoS
+2
+SASCs under acidic conditions and the giant magnetic field enhancement of ferromagnetic SASCs for water splitting.
+b
+, Metal dopant K-edge Fourier-transformed EXAFS spectra of M
+1
+/MoS
+2
+(Mn
+1
+, Fe
+1
+, Co
+1
+). R denotes the bonding distance of chemical bonds.
+c
+, Trigonal prismatic geometry of M
+1
+/MoS
+2
+(Mn
+1
+, Fe
+1
+, Co
+1
+). The colour circled atom refers to M atom.
+d
+, Ni K-edge Fourier-transformed EXAFS spectra of Ni
+1
+/MoS
+2
+SASCs with different Ni contents, and the reference samples.
+e
+, Non-centrosymmetric distorted tetragonal structure of Ni
+1
+/MoS
+2
+. Yellow, blue and green spheres denote S, Mo and Ni atoms, respectively.
+f
+, Transmission electron microscopy image of Ni
+1
+/MoS
+2
+.
+g
+, Scanning transmission electron microscopy image of Ni
+1
+/MoS
+2
+shows a characteristic triangular lattice consisting of brighter sites and darker sites (red circles), which can be assigned to Mo and Ni atomic sites, respectively.
+h
+, A zoomed-in HAADF-STEM image of a single Ni
+Mo
+site (marked by a red circle) with a darker contrast than that of the surrounding sites.
+i
+, The simulated HAADF-STEM image of the DFT-optimized Ni
+Mo
+structure. The blue circled atom in 1i is Ni atom.
+Source data
+Full size image
+We will first present the detailed structural characterization of Ni
+1
+/MoS
+2
+SASCs with ferromagnetism in contrast to other paramagnetic M
+1
+/MoS
+2
+SASCs. XAFS and high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) imaging were used to further elucidate the coordination environment of M atoms in M
+1
+/MoS
+2
+(Supplementary Fig.
+3
+and Supplementary Table
+2
+)
+30
+. The HAADF-STEM image resolves a characteristic triangular lattice of Ni
+1
+/MoS
+2
+consisting of brighter and darker sites (red circles in Fig.
+1g
+and Supplementary Fig.
+8
+), which can be assigned to Mo and Ni atomic sites, respectively. A zoomed-in HAADF-STEM image (Fig.
+1h
+and Extended Data Fig.
+1d
+) further reveals that a single Ni atom (marked by a red circle) substitutes for a Mo atom (denoted as Ni
+Mo
+), consistent with the contrast observed in the simulated HAADF-STEM image of a density functional theory (DFT)-optimized Ni
+Mo
+structure (Fig.
+1i
+). In addition, the Ni K-edge Fourier-transformed extended XAFS (EXAFS) spectrum of Ni
+1
+/MoS
+2
+reveals an absence of any feature associated with the Ni−Ni or Ni−O bond, but a prominent feature peaks at 1.779 Å (refs.
+31
+,
+32
+), similar to the features of commercial NiS
+2
+, which can be associated with the Ni−S bonding (Fig.
+1d
+). The Ni−S bond length and local coordination number of Ni
+Mo
+were determined to be 2.27 ± 0.02 Å and 4.3 ± 0.2 via a detailed EXAFS fitting (Supplementary Table
+3
+). Among all the proposed structures, DFT-relaxed Ni
+Mo
+consisting of Ni in the replacement of Mo coordinated with the adjacent four S atoms (denoted as NiS
+4
+) in a non-centrosymmetric octahedral configuration shows the best agreement between the experimental X-ray absorption near-edge structure (XANES) and a simulated spectrum (Fig.
+1e
+, Extended Data Fig.
+1e,f
+and Supplementary Fig.
+9
+). Unlike Ni
+1
+/MoS
+2
+, other substitutional dopants in M
+1
+/MoS
+2
+(M = Mn, Fe and Co) are coordinated with six adjacent S atoms to form the trigonal prismatic MS
+6
+configuration (Fig.
+1b,c
+, Supplementary Figs.
+10
+–
+14
+and Supplementary Tables
+3
+and
+4
+). The distinct coordination environment of the Ni atom in Ni
+1
+/MoS
+2
+is also evidenced by the presence of a new feature at 6 eV above the absorption edge energy (
+E
+0
+) in Ni K-edge XANES as compared to M
+1
+/MoS
+2
+(M = Mn, Fe and Co; Supplementary Fig.
+15
+). The individual NiS
+4
+site in MoS
+2
+contains four Ni−S bonds, wherein the shortest Ni−S bond length is 2.285 Å, which is further supported by a comparison of the calculated formation energies of various single-metal-doped MoS
+2
+species (Supplementary Fig.
+16
+). The in-plane displacement of the Ni dopant breaks the rotation symmetry in the trigonal prismatic configuration (
+D
+3
+h
+) to form a single Ni
+Mo
+site with a non-centrosymmetric distorted tetragonal structure (
+C
+2
+v
+), leading to the increasing strength of the crystal field and reduced level degeneracy (Fig.
+2f
+, Extended Data Fig.
+2d
+and Supplementary Fig.
+17
+). Such a local bonding configuration of a Ni
+Mo
+site yields a valence state of Ni
+Mo
+(III), as evidenced by the characteristic adsorption edge in soft X-ray absorption spectroscopy (Supplementary Fig.
+18
+).
+Fig. 2: Ferromagnetism of Ni
+1
+/MoS
+2
+.
+a
+, Magnetization curves (
+M
+–
+H
+) of ferromagnetic Ni
+1
+/MoS
+2
+with different Ni contents at 300 K. Ni/Mo = 0.8:100 (0.20 wt%), 1.6:100 (0.38 wt%), 4:100 (0.95 wt%), 6:100 (1.42 wt%), 10:100 (2.41 wt%), 14:100 (3.12 wt%), 19:100 (4.20 wt%). M
+s
+represents the saturation magnetization.
+b
+,
+M
+–
+H
+curve of Ni
+1
+/MoS
+2
+with an extremely low loading of 0.05 wt% Ni (Ni/Mo = 0.2:100).
+c
+, The saturated magnetization and coercivity of Ni
+1
+/MoS
+2
+with different Ni contents at 300 K. The average value in
+c
+, including its error bar, is obtained from the analysis of three data points: the maximum value and its adjacent points to the right and left, with an interval of 100 mT.
+d
+, Temperature-dependent electron spin resonance spectra of Ni
+1
+/MoS
+2
+(14:100).
+e
+, Temperature-dependent
+M
+–
+H
+curves of Ni
+1
+/MoS
+2
+(14:100).
+f
+, The
+d
+-orbital splitting of a Ni
+Mo
+site with the distorted tetragonal geometry. E
+s
+represents the energy splitting of 3
+d
+orbitals for Ni atom in Ni
+1
+/MoS
+2
+.
+Source data
+Full size image
+Magnetic property and OER performance
+Ni
+Mo
+(III) with a
+C
+2
+v
+symmetry is expected to yield an unpaired 3
+d
+electron, leading to the formation of a local magnetic moment around the Ni
+Mo
+site and potentially creating long-range magnetic order in Ni
+1
+/MoS
+2
+at an increased doping density. To verify this, we performed both electron spin resonance spectroscopy and superconducting quantum interference device (SQUID) measurements to probe the magnetism of a Ni
+1
+/MoS
+2
+sample with different metal loadings (Fig.
+2
+). First, Ni
+1
+/MoS
+2
+with the lowest Ni content of 0.05 wt% reveals only paramagnetism without long-range magnetic ordering (Fig.
+2b
+). By contrast, ferromagnetism emerges in Ni
+1
+/MoS
+2
+samples with an increased Ni loading of 0.20, 0.38, 0.95, 1.42, 2.41, 3.12 and 4.20 wt%, whose saturated magnetization and coercivity increase monotonically as a function of Ni content (Fig.
+2a–c
+), similar to transition-metal dichalcogenide materials doped by other metals
+33
+,
+34
+,
+35
+,
+36
+. We then conducted detailed characterizations of the ferromagnetic properties of one representative Ni
+1
+/MoS
+2
+species with a metal loading of 3.12 wt%. Temperature-dependent electron spin resonance spectra of this Ni
+1
+/MoS
+2
+acquired from 2 K to 300 K (Fig.
+2d
+and Supplementary Fig.
+19
+) reveal a feature with a characteristic line shape at a magnetic field of ~335 mT, consistent with the expected absorption behaviour of Ni(III) (Supplementary Fig.
+19
+)
+37
+,
+38
+. In addition, the linewidth of the electron spin resonance signal of Ni
+1
+/MoS
+2
+(Extended Data Fig.
+2a
+), defined as the peak-to-peak distance, decreases as a function of temperature, indicating the emergence of ferromagnetic order
+39
+,
+40
+. The ferromagnetism of Ni
+1
+/MoS
+2
+is also reflected in the field-dependent magnetization (
+M
+) measurements (
+M
+–
+H
+, where
+H
+is magnetic field intensity) acquired from 50 to 300 K (Fig.
+2e
+and Supplementary Fig.
+20
+), revealing a clear hysteresis loop and a saturation magnetic field of ~5,000 Oe. Unlike Ni
+1
+/MoS
+2
+, pure MoS
+2
+and other M
+1
+/MoS
+2
+species (M = Mn, Fe and Co) show paramagnetism at room temperature (Supplementary Figs.
+21
+and
+22
+). All these observations confirm that a high doping density of Ni atoms leads to ferromagnetism in Ni
+1
+/MoS
+2
+, which may boost its OER performance under an external magnetic field (a
+B
+field).
+We then evaluated the
+B
+-field-dependent OER performance of ferromagnetic Ni
+1
+/MoS
+2
+samples by performing linear scan voltammetry and chronoamperometric response measurements in 1 M KOH. The current density increases from 3.52 to 64.19 mA cm
+−2
+at 1.6 V versus the reversible hydrogen electrode (RHE) as the
+B
+field increases from zero to 502 mT (Fig.
+3a
+), while the overpotential at 20 mA cm
+−2
+decreases from 465 to 174 mV. The enhanced OER performance can be directly visualized with the more-rigorous oxygen gas bubbling over the Ni
+1
+/MoS
+2
+electrode under the
+B
+field (inset of Fig.
+3a
+and Supplementary Fig.
+23
+). At 502 mT, OER current densities can be improved by 5 to 28 times at 1.7 and 1.55 V versus RHE, respectively (Fig.
+3b
+). The
+B
+-field-enhanced current density and Tafel slope reach a plateau above 502 mT, consistent with the saturation magnetic field determined from the M–H curve. In addition, the overpotential at 40 mA cm
+−2
+decreases from 547 to 283 mV, and Tafel slopes also gradually decrease from 75 to 44 mV dec
+−1
+upon the increase of the
+B
+field from 0 to 502 mT (Extended Data Fig.
+3a
+and Supplementary Fig.
+24
+). A small reduction of overpotential can generate a rapid increase of the OER current density
+41
+,
+42
+. The electrochemically active surface area shows a negligible change under the
+B
+field. All these results indicate that the giant MFE of the OER activity of Ni
+1
+/MoS
+2
+results from the ferromagnetic spin alignment under a mild
+B
+field (Fig.
+2e
+and Supplementary Figs.
+25
+and
+26
+).
+Fig. 3: Giant MFE of ferromagnetic Ni
+1
+/MoS
+2
+for OER and water splitting.
+a
+, Linear scan voltammetry curves of Ni
+1
+/MoS
+2
+under different magnetic fields. Inset shows photo images of Ni
+1
+/MoS
+2
+as OER catalysts in water splitting cells at 1.65 V without (left) and with (right) magnetic fields. The oxygen bubbles formed on the catalyst surface are highlighted with a blue false colour for visual guidance. Scale bars, 100 µm.
+b
+, Giant MFE of Ni
+1
+/MoS
+2
+with dramatically increased magnetocurrent density for OER.
+c
+, Current density plot of IrO
+2
+and Ni
+1
+/MoS
+2
+at 1.5–1.8 V before and after applying a magnetic field of 502 mT in water splitting cells.
+d
+, Current density versus time curves of Ni
+1
+/MoS
+2
+under the magnetic field to compare with that of the IrO
+2
+catalyst in water splitting cells.
+e
+, Current density plot of IrO
+2
+and Ni
+1
+/MoS
+2
+at 1.5–1.8 V before and after applying a magnetic field of 502 mT in seawater splitting cells.
+f
+, Current density versus time curves of Ni
+1
+/MoS
+2
+under the magnetic field to compare with that of the IrO
+2
+catalyst in seawater splitting cells.
+Source data
+Full size image
+Next, we carried out systematic experimental studies to probe the origin of the
+B
+-field-enhanced OER activity. First, we found that the OER current density after removing the
+B
+field does not immediately return to its initial value with respect to Ni
+1
+/MoS
+2
+under zero field (Extended Data Fig.
+3d,f
+). The retention ratio of the current density between the
+B
+field’s off and on states gradually decreases from 92% to 54% at 1.6 V versus RHE, when the applied
+B
+field increases from 118 to 502 mT (Supplementary Fig.
+27
+). In addition, the OER activity also undergoes a slow decay and returns to its initial status four hours after switching off the
+B
+field (Extended Data Fig.
+3e
+). Such behaviour in the evolution of OER activity between the
+B
+field on and off states is presumably associated with the rotation of ferromagnetic domains, in accordance with the characteristics of the ferromagnetic alignment and relaxation between the
+B
+field on and off states. The ferromagnetic domains tend to align with the magnetic field, but such aligned domains usually don't immediately return to the original randomized magnetization state, and the domains retain some of the net magnetization due to the intrinsic spin exchange interactions after switching off the
+B
+field
+43
+,
+44
+,
+45
+. In addition, we also found that Ni
+1
+/MoS
+2
+with a Ni content lower than 0.20 wt% exhibits a negligible MFE of the OER (Extended Data Fig.
+3c
+), presumably due to the low density of ferromagnetic domains. As-synthesized Mn-, Co- and Fe-doped MoS
+2
+with paramagnetic behaviour also show an OER performance independent of the
+B
+field (Supplementary Fig.
+28
+). Furthermore, the conductivity of both Co
+1
+/MoS
+2
+and undoped MoS
+2
+can be improved upon the application of a
+B
+field, but their OER current densities remain nearly unchanged, ruling out the role of improved conductivity in the MFE of OER activity (Extended Data Fig.
+3b
+and Supplementary Fig.
+29
+). Although the ion transfer rate can be improved under a magnetic field, the intrinsic OER activity of the catalyst is largely determined by its electronic structure of active sites
+11
+,
+19
+. Therefore, all these results show that the ferromagnetic spin alignment can be attributed to the
+B
+-field-enhanced OER activity over Ni
+1
+/MoS
+2
+regardless of the orientation of the magnetic field (Fig.
+3a
+and Supplementary Figs.
+29
+–
+33
+).
+Mechanistic insights into giant MFE of Ni
+1
+/MoS
+2
+We performed DFT calculations to gain an atomic-level understanding of the origin of ferromagnetism in Ni
+1
+/MoS
+2
+and its
+B
+-field enhancement of OER performance. First, spin-polarized DFT calculations reveal the presence of an unpaired Ni 3
+d
+electron over Ni
+Mo
+and induced ferromagnetic spin polarization over nearby Mo and S atoms, yielding a net spin of ~1.610 µ
+B
+for Ni
+Mo
+and its surrounding S and Mo atoms (defined as the Ni
+Mo
+–S–Mo region; Fig.
+4a
+and Supplementary Figs.
+34
+and
+35
+). The ferromagnetic ground state of Ni
+Mo
+–S–Mo arises from the spin exchange interactions of the itinerant electron in the region, which can be described from the Stoner criteria (Supplementary Figs.
+36
+–
+38
+and Supplementary Tables
+5
+and
+6
+). According to the ratio of Ni/Mo for ferromagnetic Ni
+1
+/MoS
+2
+, we further construct a supercell of Ni
+2
+Mo
+14
+S
+32
+to calculate the magnetic ground states of two adjacent Ni
+Mo
+sites. Among all the possible configurations with different Ni–Ni separation distances (Supplementary Fig.
+35
+and Supplementary Table
+7
+), the one with a Ni–Ni distance of ~6.390 Å represents the most stable configuration due to its lowest formation energy. Importantly, our DFT calculations reveal that the ferromagnetic coupling between these two Ni
+Mo
+sites is favourable by 30.67 meV per Ni atom over the antiferromagnetic coupling (Fig.
+4b,c
+), consistent with the room temperature ferromagnetism observed in the experiment. The ferromagnetic ground state of Ni
+1
+/MoS
+2
+is further reflected in the density of states plot of the Ni
+Mo
+–S–Mo region, which shows an asymmetric distribution of spin-up and spin-down electron densities near the Fermi level (
+E
+F
+; Fig.
+4d
+). Specifically, spin-polarized states near
+E
+F
+are mainly from the 3
+d
+xz
+and 3
+d
+yz
+orbitals of the Ni dopant, the 3
+p
+x
+and 3
+p
+y
+orbitals of six nearest-neighbouring S atoms and the
+\(4d_{z^2}\)
+orbitals of six nearest-neighbouring Mo atoms, as revealed in the projected density of states in Fig.
+4d
+. The electron localized function plot of Ni
+1
+/MoS
+2
+demonstrates that the Ni dopants increase electron delocalization involving a large charge transfer with the surrounding S atoms, as further reflected from the Bader charge analysis (Extended Data Fig.
+2e
+and Supplementary Table
+8
+). According to Hund’s rules, the half-filled
+p
+x
+/
+p
+y
+orbitals of S atoms will be occupied by two parallel spin-polarized electrons. To facilitate the transfer of spin-polarized electrons from Ni to S, the direction of spin polarization of S has to be opposite to that of the transferred electrons from Ni. As a result, the direction of the magnetic moment in the vicinal Ni
+Mo
+–S–Mo region tends to align with the Ni atoms (Supplementary Fig.
+39
+).
+Fig. 4: The origin of ferromagnetic Ni
+1
+/MoS
+2
+.
+a
+–
+c
+, Spin density plots of a single Ni
+Mo
+site (
+a
+), and two adjacent Ni
+Mo
+sites with ferromagnetic (
+b
+) and antiferromagnetic (
+c
+) coupling. Yellow, blue and green spheres denote S, Mo and Ni atoms, respectively. The light blue and purple isosurfaces represent the spin-up and spin-down states of Ni
+1
+/MoS
+2
+, respectively.
+d
+, Total density of states and projected density of states (PDOS) of an individual Ni
+Mo
+site with six neighbouring S and Mo atoms in ferromagnetic Ni
+1
+/MoS
+2
+, as shown in Fig.
+4b
+.
+Source data
+Full size image
+The key question that remains to be addressed lies in mechanistic insights into the remarkable MFE of the OER performance of Ni
+1
+/MoS
+2
+. We first used DFT calculations to identify the active site of the individual Ni
+Mo
+site for OER. To facilitate the discussion, we label three types of S atoms nearest to the individual Ni
+Mo
+site as S
+1
+, S
+2
+and S
+3
+, which represent an adjacent S atom with a Ni–S bond length of 2.521 Å, an adjacent S atom with a Ni–S bond length of 2.285 Å and a nearby S atom located at the centre of a Mo prism, respectively (Fig.
+5a
+). The adsorption of *OH over S
+1
+is energetically favourable by 0.475 eV, 0.715 eV, 1.703 eV and 1.809 eV compared to that over S
+2
+, S
+3
+, Ni and the nearest Mo site, respectively. This suggests that the S
+1
+site is the most favourable active site for the OER, mainly due to the strong electronic interaction between S
+1
+and the *OH (Fig.
+5a
+, Supplementary Fig.
+40
+and Supplementary Table
+9
+), as evidenced by the large electron difference density, the dominant electron states at
+E
+F
+and the largest localized potential of S
+1
+among all three types of S atoms (Fig.
+5b
+and Supplementary Fig.
+41
+). As a result, more charge transfer to the *OH facilitates the occurrence of the first step of the OER process (Fig.
+5b
+), which can greatly improve the intrinsic activity of the OER over S atoms.
+Fig. 5: The origin of the giant MFE of ferromagnetic Ni
+1
+/MoS
+2
+.
+a
+, Adsorption energy contour map of a single *OH in the Ni
+Mo
+region; three different S sites are labelled as S
+1
+, S
+2
+and S
+3
+.
+b
+, The corresponding charge difference density of a single Ni
+Mo
+site upon the adsorption of *OH. e
+–
+, electron.
+c
+, Projected density of states of S
+1
+and S
+2
+atoms of Ni
+1
+/MoS
+2
+models (shown in
+d
+) consisting of two adjacent Ni
+Mo
+sites with ferromagnetic (FM; dark blue) and antiferromagnetic (AFM; pink) coupling.
+d
+, Free energy (
+G
+) profile of the OER with the corresponding adsorption configurations of reaction intermediates over ferromagnetic (dark blue) and antiferromagnetic (pink) Ni
+1
+/MoS
+2
+. Insets show the spin density plot of *OOH on a S site over the ferromagnetic (top) and antiferromagnetic (bottom) Ni
+1
+/MoS
+2
+model towards the transition from *OOH to O
+2
+. The light blue and purple isosurfaces represent the spin-up and spin-down states, respectively. * represents the species adsorbed over the catalytic sites, and * + represents the species before adsorption.
+e
+,
+f
+, Operando S K-edge XANES spectra for Ni
+1
+/MoS
+2
+under 112 mT (
+e
+) and 0 mT (
+f
+). OCP, open circuit potential.
+g
+, The first derivative curves at 1.8 V versus RHE under 0 and 112 mT.
+Source data
+Full size image
+An increase in the
+B
+field increases the total magnetic polarization and the density of aligned magnetic moments from neighbouring Ni
+Mo
+sites. To mimic this picture, we calculated the OER energy profiles over two neighbouring Ni
+Mo
+sites under two representative magnetic configurations including ferromagnetic and antiferromagnetic ordering (Fig.
+5d
+and Extended Data Fig.
+4a
+). The ferromagnetic-coupled active site exhibits a lower energy barrier of 0.315 eV in the rate-limiting step of the OER (the process from *OOH to O
+2
+), compared to the antiferromagnetic-coupled active sites with a higher energy barrier of 0.387 eV (Fig.
+5d
+). As shown in Fig.
+5c
+, the near-
+E
+F
+occupied spin density of S
+1
+of two ferromagnetic-coupled Ni
+Mo
+sites is significantly reduced, but the empty state above
+E
+F
+increases, as compared to that of antiferromagnetic-coupled counterparts. Therefore, the reduction of the energy barrier in the ferromagnetic configuration can be attributed to the optimization of spin density over S active sites upon spin alignment under a mild magnetic field, which gives rise to the optimal adsorption energy for a radical intermediate with a reduced reaction barrier. Meanwhile, it is also found that the spin density of *OH and *O species exhibits a parallel alignment over S
+1
+and S
+2
+sites in the ferromagnetic configuration, but shows an antiparallel spin alignment in the antiferromagnetic configuration (Fig.
+5d
+, inset). Therefore, the desorption of *OH and *O to form a spin-triplet-state O
+2
+over ferromagnetic-coupled NiS
+4
+sites is energetically more favourable by 0.072 eV than that on the antiferromagnetic-coupled sites, leading to a lower energy barrier of O
+2
+formation. The current OER profile is the one with the lowest barrier as compared with other reaction paths (Supplementary Figs.
+42
+and
+43
+and Supplementary Table
+10
+). In addition, we also considered another OER pathway involving the formation of a bridge-type O–H–O intermediate and evaluated the corresponding OER energy profile (Extended Data Fig.
+4a
+). The ferromagnetic-coupled configuration shows a superior OER activity with an energy barrier of 0.418 eV in the rate-limiting step of *OOH to O
+2
+, lower than that of the antiferromagnetic-coupled configuration (0.668 eV). Similarly, two O atoms in the *OOH species show the parallel spin alignment over ferromagnetic-coupled active sites, whereas the antiparallel spin alignment of *OOH over antiferromagnetic-coupled active sites does not favour the *OOH desorption (Extend Data Figs.
+4b,c
+). The theoretical insights discussed above are further supported by the operando XANES spectroscopic measurements during OER reactions with and without a
+B
+field (Fig.
+5e–g
+, Extended Data Fig.
+5
+and Supplementary Fig.
+44
+). The rising edge of the S K edge for Ni
+1
+/MoS
+2
+shows a higher redshift at 1.8 V versus RHE under 112 mT than under zero magnetic field (Fig.
+5e,f
+and Supplementary Figs.
+45
+and
+46
+), which indicates that the S atom at the basal plane serves as a catalytic site, with the accumulation of more electron density under a magnetic field that facilitates the electron transfer from O*-related species to the active site during the OER. In addition, a pre-edge feature around 2,469.2 eV emerges in the first derivative curve of S K-edge X-ray absorption spectra acquired at 112 mT (Fig.
+5g
+). This indicates that the electronic hybridization between S 3
+p
+and Ni 3
+d
+electron orbitals becomes stronger under a
+B
+field, consistent with a larger overlap between the calculated projected density of states for Ni and S under the ferromagnetic-coupled configuration as compared to the antiferromagnetic-coupled one (Extended Data Fig.
+5
+). A strong Ni–S hybridization will modulate the spin density over the S site, whereby the adsorption strength of O*-related intermediate species can be further optimized to facilitate the O
+2
+formation, consistent with DFT calculations, as discussed above (Fig.
+5d
+).
+MFE for water splitting using Ni
+1
+/MoS
+2
+After gaining new insights into the mechanism of the MFE of the OER performance of Ni
+1
+/MoS
+2
+, we also tested its technological relevance by evaluating the
+B
+-field-dependent electrocatalytic performance in both water and seawater splitting cells. Ni
+1
+/MoS
+2
+(3.12 wt%) gives an outstanding OER performance under a
+B
+field for water splitting, much superior to that of commercial IrO
+2
+(Fig.
+3c
+and Supplementary Fig.
+47
+). The current density of Ni
+1
+/MoS
+2
+at 502 mT is determined to be ~5.2–11.7 times higher than that under zero
+B
+field in the potential range of 1.5–1.8 V. Moreover, Ni
+1
+/MoS
+2
+at 502 mT also presents a high stability with a minor current density drop from 39.8 to 38.4 mA cm
+−2
+within 25 h, in contrast to the commercial IrO
+2
+catalyst with its large current density decrease from 17.8 to 8.7 mA cm
+−2
+within the same period (Fig.
+3d
+). In addition, Ni
+1
+/MoS
+2
+(3.12 wt%) reveals a remarkably improved OER performance at 502 mT for seawater splitting, much better than that of commercial IrO
+2
+in terms of current density, in a wide potential range of 1.5–1.8 V (Fig.
+3e
+and Supplementary Fig.
+48
+). Seawater splitting is recognized as a more economically vital water splitting technology. However, the catalyst instability due to the presence of a variety of components in seawater, especially chloride ions
+46
+, poses a great challenge for the practical use of seawater in water splitting technology. The commercial IrO
+2
+catalyst shows a rapid decay and drops in current density by 19.2 mA cm
+−2
+within 25 h. By contrast, Ni
+1
+/MoS
+2
+demonstrates a negligible decrease in current density by 2.3 mA cm
+−2
+within the same period, revealing an excellent OER stability in seawater. This is likely due to a high tolerance of Ni
+1
+/MoS
+2
+to the Cl adsorption against the catalyst deactivation (Fig.
+3f
+, Supplementary Figs.
+49
+and
+50
+and Supplementary Table
+12
+), corroborated by our DFT calculations (Supplementary Figs.
+51
+and
+52
+). A large cell with an electrode (6 cm × 7 cm) loading Ni
+1
+/MoS
+2
+exhibits promising application in water splitting technology (Extended Data Fig.
+6
+).
+Conclusions
+In summary, we have demonstrated a general and scalable approach for the synthesis of a series of SASCs (M
+1
+/MoS
+2
+) with widely tunable loadings. High-loading Ni
+1
+/MoS
+2
+also exhibits room-temperature ferromagnetism arising from the ferromagnetic coupling between adjacent NiS
+4
+sites embedded in the MoS
+2
+lattice, offering a giant MFE of OER activity. In the water splitting cells, Ni
+1
+/MoS
+2
+delivers an excellent catalytic performance with a large current density under a magnetic field up to 502 mT, approximately one order of magnitude higher than that without applying a magnetic field, in the range 1.5–1.8 V, outperforming the commercial IrO
+2
+catalyst. A large
+B
+-field enhancement of the OER performance of Ni
+1
+/MoS
+2
+is attributed to a field-induced spin alignment and the optimization of spin density over S active sites arising from field-regulated Ni–S electronic hybridization, which yields the optimal adsorption/desorption energy for a radical intermediate with a reduced reaction barrier, as corroborated by our operando characterizations and DFT calculations. In addition, the stability of Ni
+1
+/MoS
+2
+as an OER catalyst is also superior to that of IrO
+2
+in a pure water and seawater splitting cell, demonstrating its great potential in practical seawater splitting technology. Our findings reveal that ferromagnetic SASCs provide a powerful magnetoelectric effect to accelerate both water and saline water electrolysis.
+Methods
+Synthesis of M
+1
+/MoS
+2
+catalysts
+A series of M
+1
+/MoS
+2
+SASCs were prepared according to the designed synthetic protocol as follows. First, 1 mmol Mo source (176 mg, (NH
+4
+)
+6
+Mo
+7
+O
+24
+·4H
+2
+O), a certain amount of metal salts (Mn(CH
+3
+COO)
+2
+·4H
+2
+O, Fe(CH
+3
+COO)
+2
+·4H
+2
+O, Co(CH
+3
+COO)
+2
+·4H
+2
+O and Ni(CH
+3
+COO)
+2
+·4H
+2
+O) and 750 mg CH
+3
+CSNH
+2
+(10.0 mmol) were dissolved in 70 ml distilled water. The solution containing precursors was then transferred into a Teflon-lined autoclave (100 ml). Subsequently, it was sealed and maintained at 180 °C for 20 h and then naturally cooled to room temperature. The resulting product was washed with distilled water and absolute ethanol several times, and dried under vacuum at 60 °C for 12 h. Under an Ar flow of 100 sccm, the dried product was heated to 400 °C at a rate of 10 °C min
+−1
+and kept there for 2 hours in a furnace, and then cooled to room temperature. A series of M
+1
+/MoS
+2
+SASCs can be obtained using this approach by tuning the contents and types of metal salt precursors (
+n
+M
+/
+n
+Mo max
+= 20 at.%).
+Electrochemical measurements
+The OER measurements including cyclic voltammetry and linear sweep voltammetry polarization curves were performed using a CHI 760D workstation (CH Instruments) with a counter electrode of a graphite rod (diameter, 5 mm; 99.999%) and a reference electrode of Hg/Hg
+2
+Cl
+2
+(saturated KCl). Electrochemical impedance spectroscopy was carried out in the frequency range of 0.01 Hz to 100,000 Hz. All the potentials were calibrated against the reversible hydrogen electrode (RHE), where
+E
+RHE
+=
+E
+ref
++ 0.059pH + 0.241.
+E
+ref
+is the experimental potential measured against the Hg/Hg
+2
+Cl
+2
+reference electrode, and 0.241 is the standard potential of Hg/Hg
+2
+Cl
+2
+at 25 °C (refs.
+47
+,
+48
+).
+Electrode fabrication
+A piece of copper (Cu) foam was sonicated in acetone, ethanol and distilled water for several minutes, prior to the preparation of the electrode. Some 15 mg MoS
+2
+-based catalyst was added into a mixture of 0.90 ml ethanol and 100 μl Nafion (Dupont, 5 wt%) with 1 h ultrasonic treatment. Some 100 μl fresh catalyst ink was dropped onto a piece of Cu foam (0.5 cm × 2 cm; the surface area of the catalyst deposited on the electrode is 0.5 cm
+2
+) and dried at room temperature for 12 h. All tests were performed in 1.0 M KOH solution saturated with oxygen gas (O
+2
+). For a comparison, 10 mg IrO
+2
+catalyst was added into a mixture of 0.90 ml ethanol and 100 μl Nafion with 1 h ultrasonic treatment. Some 100 μl of fresh catalyst ink was dropped onto a piece of Cu foam, and the loading of IrO
+2
+on the Cu foam was 1 mg cm
+−2
+. The samples were run for ten cycles to reach a steady state. The linear scan voltammetry measurements for the MoS
+2
+and IrO
+2
+catalysts were recorded in O
+2
+-saturated electrolyte at a scan rate of 5 mV s
+−1
+. Cyclic voltammetry curves were recorded from 0.37 to 0.57 V versus RHE with a scan rate of 10 mV s
+−1
+to 120 mV s
+−1
+to measure the electrochemical double-layer capacitance (
+C
+dl
+). The long-term stability was measured by chronoamperometric response under magnetic stirring. OER performances under different magnetic fields were performed by tuning the distances between the electrode and magnets. Seawater was collected from Sentosa beach (Singapore), and filtrated by filter paper.
+The Cu foil loaded with the catalyst (0.2 mg cm
+−2
+) acted as the work electrode (anode), and the Pt wire was the cathode. Ten neodymium magnets (one magnet, 3 cm × 2 cm × 0.5 cm) were stacked and placed near the anode of the water splitting cell. The magnetic field experienced by the electrode was carefully calibrated using a Gauss meter (TD8620, Shenzhen; Supplementary Fig.
+53
+). A large water splitting cell was constructed using two 6 cm × 10 cm carbon papers loaded with Ni
+1
+/MoS
+2
+(3 mg cm
+−2
+, 6 cm × 7 cm) and Pt/C (20 wt% Pt, 3 mg cm
+−2
+, 6 cm × 7 cm) as the anode and cathode, respectively. One hundred neodymium magnets (3 cm × 2 cm × 0.5 cm) were compiled into a large magnet and placed near the anode.
+DFT calculations
+The first-principles calculations were performed by using DFT implemented in the Vienna Ab initio Simulation Package
+49
+,
+50
+,
+51
+. The electron exchange and correction were calculated with the generalized gradient approximation in the parametrization of Perdew–Burke–Ernzerhof
+52
+pseudopotentials including Coulomb repulsion term U in the Hubbard Hamiltonian (DFT +
+U
+formalism) based on Dudarev’s approach
+53
+. The projector augmented-wave method with a plane-wave cut-off of 500 eV was used. The electronic states of 4
+d
+5
+5
+s
+1
+, 3
+s
+2
+3
+p
+4
+, 3
+p
+6
+3
+d
+8
+4
+s
+2
+, 2
+p
+2
+2
+p
+4
+and 1
+s
+1
+were treated as valence states for Mo, S, Ni, O and H atoms, respectively. According to the experimental Ni loading concentration, the 4 × 4 × 1 supercell of MoS
+2
+with one Mo atom replaced by a Ni atom was used to simulate the doping effect. A vacuum slab of 16 Å was added to avoid the interlayer interaction. The structures were relaxed with a 2 × 2 × 1 gamma-centred k-point mesh for the supercell, and the electronic self-consistent calculations were performed using the 5 × 5 × 1 k-point mesh. The relaxation was considered to be converged if the Hellmann–Feynman force was less than 0.01 eV Å
+–1
+, and the energy convergence was set as 10
+−7
+eV for all calculations with a Gaussian smearing of 0.05 eV. The gas-phase O
+2
+and H
+2
+O were performed in a cubic box with a lattice constant of 15 Å using a single gamma k point. To consider the strong electron correlation effect, a
+U
+eff
+= 2.5 eV was assigned to 3
+d
+electrons for Ni atoms
+54
+,
+55
+.
+The charge transfer was analysed by the Bader charge with a grid of 384 × 384 × 480 (ref.
+56
+). The differential electron density was also implemented to analyse the charge transfers during the adsorption process. The differential electron density was attained by the formula
+$$\Delta {\rm{\rho }}={\rho }_{{\mathrm{AB}}}-{\rho }_{{\mathrm{A}}}-{\rho }_{{\mathrm{B}}}$$
+where
+ρ
+AB
+represents the charge density of the whole system after absorption, and
+ρ
+A
+and
+ρ
+B
+represent the charge densities of the adsorbed species and catalyst, respectively.
+Data availability
+Source data
+are provided with this paper. Any additional material is available from the corresponding authors upon reasonable request.
+References
+Seh, Z. W. et al. Combining theory and experiment in electrocatalysis: insights into materials design.
+Science
+355
+, eaad4998 (2017).
+Google Scholar
+Glenk, G. et al. Economics of converting renewable power to hydrogen.
+Nat. Energy
+4
+, 216–222 (2019).
+CAS
+Google Scholar
+Davis, S. J. et al. Net-zero emissions energy systems.
+Science
+360
+, eaas9793 (2018).
+Google Scholar
+Tong, W. M. et al. Electrolysis of low-grade and saline surface water.
+Nat. Energy
+5
+, 367–377 (2020).
+CAS
+Google Scholar
+Song, F. et al. Transition metal oxides as electrocatalysts for the oxygen evolution reaction in alkaline solutions: an application-inspired renaissance.
+J. Am. Chem. Soc.
+140
+, 7748–7759 (2018).
+CAS
+Google Scholar
+Sun, T. et al. Design of local atomic environments in single-atom electrocatalysts for renewable energy conversions.
+Adv. Mater.
+33
+, 2003073 (2021).
+Google Scholar
+Gracia, J. Spin dependent interactions catalyse the oxygen electrochemistry.
+Phys. Chem. Chem. Phys.
+19
+, 20451–20456 (2017).
+CAS
+Google Scholar
+Gracia, J. et al. Principles determining the activity of magnetic oxides for electron transfer reactions.
+J. Catal.
+361
+, 331–338 (2018).
+CAS
+Google Scholar
+Zhang, Y. Y. et al. Recent advances in magnetic field-enhanced electrocatalysis.
+ACS Appl. Energy Mater.
+3
+, 10303–10316 (2020).
+CAS
+Google Scholar
+Li, X. N. et al. Optimized electronic configuration to improve the surface absorption and bulk conductivity for enhanced oxygen evolution reaction.
+J. Am. Chem. Soc.
+141
+, 3121–3128 (2019).
+CAS
+Google Scholar
+Ren, X. et al. Spin-polarized oxygen evolution reaction under magnetic field.
+Nat. Commun.
+12
+, 2608 (2021).
+CAS
+Google Scholar
+Yan, J. H. et al. Direct magnetic reinforcement of electrocatalytic ORR/OER with electromagnetic induction of magnetic catalysts.
+Adv. Mater.
+33
+, 2007525 (2021).
+CAS
+Google Scholar
+Wu, T. Z. et al. Spin pinning effect to reconstructed oxyhydroxide layer on ferromagnetic oxides for enhanced water oxidation.
+Nat. Commun.
+12
+, 3634 (2021).
+CAS
+Google Scholar
+Zhou, G. et al. Spin-state reconfiguration induced by alternating magnetic field for efficient oxygen evolution reaction.
+Nat. Commun.
+12
+, 4827 (2021).
+CAS
+Google Scholar
+Sun, Z. M. et al. Regulating the spin state of Fe
+III
+enhances the magnetic effect of the molecular catalysis mechanism.
+J. Am. Chem. Soc.
+144
+, 8204–8213 (2022).
+CAS
+Google Scholar
+Buchachenko, A. L. et al. Electron spin catalysis.
+Chem. Rev.
+102
+, 603–612 (2002).
+CAS
+Google Scholar
+Naaman, R. et al. Chiral molecules and the electron spin.
+Nat. Rev. Chem.
+3
+, 250–260 (2019).
+CAS
+Google Scholar
+McCusker, J. M. Electronic structure in the transition metal block and its implications for light harvesting.
+Science
+363
+, 484–488 (2019).
+CAS
+Google Scholar
+Garcés-Pineda, F. A. et al. Direct magnetic enhancement of electrocatalytic water oxidation in alkaline media.
+Nat. Energy
+4
+, 519–525 (2019).
+Google Scholar
+Chen, R. R. et al. SmCo
+5
+with a reconstructed oxyhydroxide surface for spin-selective water oxidation at elevated temperature.
+Angew. Chem. Int. Ed.
+60
+, 25884–25890 (2021).
+CAS
+Google Scholar
+Hunt, C. et al. Quantification of the effect of an external magnetic field on water oxidation with cobalt oxide anodes.
+J. Am. Chem. Soc.
+144
+, 733–739 (2022).
+CAS
+Google Scholar
+Zhang, Z. M. et al. Significant change of metal cations in geometric sites by magnetic-field annealing FeCo
+2
+O
+4
+for enhanced oxygen catalytic activity.
+Small
+18
+, 210418 (2022).
+Google Scholar
+Zhang, Y. Y. et al. Magnetic field assisted electrocatalytic oxygen evolution reaction of nickel-based materials.
+J. Mater. Chem. A
+10
+, 1760–1767 (2020).
+Google Scholar
+Niether, C. et al. Improved water electrolysis using magnetic heating of FeC–Ni core–shell nanoparticles.
+Nat. Energy
+3
+, 476–483 (2018).
+CAS
+Google Scholar
+Duan, H. L. et al. Single-atom-layer catalysis in a MoS
+2
+monolayer activated by long-range ferromagnetism for the hydrogen evolution reaction: beyond single-atom catalysis.
+Angew. Chem. Int. Ed.
+60
+, 7251–7258 (2021).
+CAS
+Google Scholar
+Fu, S. C. et al. Enabling room temperature ferromagnetism in monolayer MoS
+2
+via in situ iron-doping.
+Nat. Commun.
+11
+, 2034 (2020).
+CAS
+Google Scholar
+Zhang, J. et al. Engineering water dissociation sites in MoS
+2
+nanosheets for accelerated electrocatalytic hydrogen production.
+Energy Environ. Sci.
+9
+, 2789–2793 (2016).
+CAS
+Google Scholar
+Deng, J. et al. Multiscale structural and electronic control of molybdenum disulfide foam for highly efficient hydrogen production.
+Nat. Commun.
+8
+, 14430 (2017).
+CAS
+Google Scholar
+Zheng, Z. et al. Boosting hydrogen evolution on MoS
+2
+via co-confining selenium in surface and cobalt in inner layer.
+Nat. Commun.
+11
+, 3315 (2020).
+CAS
+Google Scholar
+Liu, J. L. et al.
+In situ
+tracing of atom migration in Pt/NiPt hollow spheres during catalysis of CO oxidation.
+Chem. Commun.
+50
+, 1804–1807 (2014).
+CAS
+Google Scholar
+Hai, X. et al. Scalable two-step annealing method for preparing ultra-high-density single-atom catalyst libraries.
+Nat. Nanotechnol.
+17
+, 174–181 (2022).
+CAS
+Google Scholar
+Zhang, H. B. et al. Surface modulation of hierarchical MoS
+2
+nanosheets by Ni single atoms for enhanced electrocatalytic hydrogen evolution.
+Adv. Funct. Mater.
+28
+, 1807086 (2018).
+Google Scholar
+Li, J. F. et al. Robust ferromagnetism in Cr-doped ReS
+2
+nanosheets demonstrated by experiments and density functional theory calculations.
+Nanotechnology
+31
+, 175702 (2020).
+CAS
+Google Scholar
+Zhang, F. et al. Monolayer vanadium-doped tungsten disulfide: a room-temperature dilute magnetic semiconductor.
+Adv. Sci.
+7
+, 2001174 (2020).
+CAS
+Google Scholar
+Ahmed, S. et al. High coercivity and magnetization in WSe
+2
+by codoping Co and Nb.
+Small
+16
+, 1903173 (2020).
+CAS
+Google Scholar
+Ahmed, S. et al. Colossal magnetization and giant coercivity in ion-implanted (Nb and Co) MoS
+2
+crystals.
+ACS Appl. Mater. Interfaces
+12
+, 58140–58148 (2020).
+CAS
+Google Scholar
+Zhecheva, E. et al. EPR analysis of the local structure of Ni
+3+
+ions in Ni-based electrode materials obtained under high-pressure.
+J. Mater. Sci.
+42
+, 3343–3348 (2007).
+CAS
+Google Scholar
+Wongnate, T. et al. The radical mechanism of biological methane synthesis by methyl-coenzyme M reductase.
+Science
+352
+, 953–958 (2016).
+CAS
+Google Scholar
+Krellner, C. et al. Relevance of ferromagnetic correlations for the electron spin resonance in Kondo lattice systems.
+Phys. Rev. Lett.
+100
+, 066401 (2008).
+CAS
+Google Scholar
+Yahya, M. et al. ESR studies of transition from ferromagnetism to superparamagnetism in nano-ferromagnet La
+0.8
+Sr
+0.2
+MnO
+3
+.
+J. Magn. Magn. Mater.
+466
+, 341–350 (2018).
+CAS
+Google Scholar
+Wu, Z. P. et al. Non-noble-metal-based electrocatalysts toward the oxygen evolution reaction.
+Adv. Funct. Mater.
+30
+, 1910274 (2020).
+CAS
+Google Scholar
+Wang, Y. Y. et al. Recent progress on layered double hydroxides and their derivatives for electrocatalytic water splitting.
+Adv. Sci.
+5
+, 1800064 (2018).
+Google Scholar
+Meng, L. J. et al. Anomalous thickness dependence of Curie temperature in air-stable two-dimensional ferromagnetic 1T-CrTe
+2
+grown by chemical vapor deposition.
+Nat. Commun.
+12
+, 809 (2021).
+CAS
+Google Scholar
+Shi, S. Y. et al. All-electric magnetization switching and Dzyaloshinskii–Moriya interaction in WTe
+2
+/ferromagnet heterostructures.
+Nat. Nanotechnol.
+14
+, 945–949 (2019).
+CAS
+Google Scholar
+Gambardella, P. et al. Ferromagnetism in one-dimensional monatomic metal chains.
+Nature
+416
+, 301–304 (2002).
+CAS
+Google Scholar
+Yu, J. et al. Seawater electrolyte-based metal–air batteries: from strategies to applications.
+Energy Environ. Sci.
+13
+, 3253–3268 (2020).
+CAS
+Google Scholar
+Wang, Q. C. et al. Pyridinic-N-dominated doped defective graphene as a superior oxygen electrocatalyst for ultrahigh-energy-density Zn–air batteries.
+ACS Energy Lett.
+3
+, 1183–1191 (2018).
+CAS
+Google Scholar
+Chen, R. et al. Layered structure causes bulk NiFe layered double hydroxide unstable in alkaline oxygen evolution reaction.
+Adv. Mater.
+31
+, 1903909 (2019).
+CAS
+Google Scholar
+Kresse, G. et al.
+Ab initio
+molecular dynamics for liquid metals.
+Phys. Rev. B
+47
+, 558–561 (1993).
+CAS
+Google Scholar
+Kresse, G. et al. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+CAS
+Google Scholar
+Blöchl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953–17979 (1994).
+Google Scholar
+Perdew, J. P. et al. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+CAS
+Google Scholar
+Dudarev, S. L. et al. Electron-energy-loss spectra and the structural stability of nickel oxide: an LSDA+U study.
+Phys. Rev. B
+57
+, 1505–1509 (1998).
+CAS
+Google Scholar
+Andriotis, A. N. et al. Tunable magnetic properties of transition metal doped MoS
+2
+.
+Phys. Rev. B
+90
+, 125304 (2014).
+Google Scholar
+Mishra, R. et al. Long-range ferromagnetic ordering in manganese-doped two-dimensiaonal dichalcogenides.
+Phys. Rev. B
+88
+, 144409 (2013).
+Google Scholar
+Tang, W. et al. A grid-based Bader analysis algorithm without lattice bias.
+J. Phys. Condens. Matter
+21
+, 084204 (2009).
+CAS
+Google Scholar
+Download references
+Acknowledgements
+J. Lu acknowledges the support from the Singapore Ministry of Education Tier 2 (MOE2019-T2-2-044 and MOE-T2EP50121-0008) and from the Singapore Ministry of Education through the Research Centre of Excellence programme (grant EDUN C-33-18-279-V12, I-FIM). X.L. acknowledges the support from the National Natural Science Foundation of China (12172386 and 12132020), National Natural Science Foundation of Guangdong Province, China (2021B1515020021) and the Guangdong Provincial Key Laboratory of Magnetoelectric Physics and Devices (LaMPad) (Grant No. 2022B1212010008). Q.H. acknowledges the support by the National Research Foundation (NRF) Singapore, under its NRF Fellowship (NRF-NRFF11-2019-0002). T.S. acknowledges the support from the Qin Chuangyuan project of Shaanxi Province (QCYRCXM-2022-213). A portion of this work was performed on the Steady High Magnetic Field Facilities, High Magnetic Field Laboratory, Chinese Academy of Sciences. The computational work for this article was partially performed on resources of the National Supercomputing Centre, Singapore. W. J. Zang is working at Department of Materials Science and Engineering, University of California, Irvine, Irvine 92617, and acknowledges the support from University of California to perform some STEM images. C.H. Chuang acknowledges the financial grants from MOST 110-2112-M-032-015 and MOST 110-2112-M-032-001.
+Author information
+Author notes
+These authors contributed equally: Tao Sun, Zhiyuan Tang, Wenjie Zang.
+Authors and Affiliations
+Department of Chemistry, National University of Singapore, Singapore, Singapore
+Tao Sun, Jing Li, Haomin Xu, Pin Lyu, Xiao Hai, Huihui Lin, Xiaoyu Sheng, Jiwei Shi & Jiong Lu
+School of Chemical Engineering, Xi’an Key Laboratory of Special Energy Materials, Northwest University, Xi’an, China
+Tao Sun
+State Key Laboratory of Optoelectronic Materials and Technologies, Guangdong Provincial Key Laboratory of Magnetoelectric Physics and Devices, Centre for Physical Mechanics and Biophysics, School of Physics, Sun Yat-sen University, Guangzhou, China
+Zhiyuan Tang & Xin Luo
+Department of Materials Science and Engineering, Faculty of Engineering to College of Design and Engineering, National University of Singapore, Singapore, Singapore
+Wenjie Zang, Qian He, Jingsheng Chen & Kostya S. Novoselov
+School of Physics, Frontiers Science Center for Mobile Information Communication and Security, Southeast University, Nanjing, China
+Zejun Li
+Anhui Province Key Laboratory of Condensed Matter Physics at Extreme Conditions, High Magnetic Field Laboratory, HFIPS, Chinese Academy of Sciences, Hefei, China
+Zhihao Li & Liang Cao
+Department of Physics, Tamkang University, New Taipei City, Taiwan
+Jan Sebastian Dominic Rodriguez, Carl Osby M. Mariano & Cheng-Hao Chuang
+Leiden Institute of Chemistry, Leiden University, Leiden, The Netherlands
+Jan Sebastian Dominic Rodriguez
+Zhejiang Province Key Laboratory of Quantum Technology and Device, Department of Physics, Zhejiang University, Hangzhou, China
+Yi Zheng
+National Synchrotron Radiation Research Center, Hsinchu, Taiwan
+Ying-Rui Lu
+Institute for Functional Intelligent Materials, National University of Singapore, Singapore, Singapore
+Kostya S. Novoselov & Jiong Lu
+Institute of Sustainability for Chemicals, Energy and Environment (ISCE2), Agency for Science, Technology and Research (A*STAR), 1 Pesek Road Jurong Island, Singapore, Singapore
+Shibo Xi
+Authors
+Tao Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhiyuan Tang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wenjie Zang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zejun Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jing Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhihao Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Liang Cao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jan Sebastian Dominic Rodriguez
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Carl Osby M. Mariano
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Haomin Xu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Pin Lyu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiao Hai
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Huihui Lin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaoyu Sheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiwei Shi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yi Zheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ying-Rui Lu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qian He
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jingsheng Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kostya S. Novoselov
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Cheng-Hao Chuang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shibo Xi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xin Luo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiong Lu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+T.S. and J. Lu conceived and designed the experiments. W.Z., H.X. and Q.H. performed the electron microscopy experiments and data analysis. T.S. performed the materials synthesis and OER test. Z.J.L., Z.H.L. and L.C. performed the electron spin resonance spectroscopy and analysis. J.S.D.R., C.O.M.M. and Y.-R.L. performed the S K-edge XANES spectra under magnetic field. C.-H.C. and S.X. analysed the data of the S K-edge XANES spectra. J. Li, X.H. and P.L. performed the Raman spectra and X-ray absorption spectroscopy analysis. J.S. and H.L. took the photos of the large cell. S.X. performed the XAFS measurement and XANES simulations. H.L. and X.S. performed the X-ray diffraction measurement. Z.J.L., Y.Z., J.C. and K.S.N. participated in the discussion and analysis. Z.T. and X.L. carried out theoretical calculations. T.S., Z.T., X.L. and J. Lu wrote the manuscript. All authors discussed and commented on the manuscript.
+Corresponding authors
+Correspondence to
+Cheng-Hao Chuang
+,
+Shibo Xi
+,
+Xin Luo
+or
+Jiong Lu
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Nanotechnology
+thanks Eui-Hyeok Yang and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data
+Extended Data Fig. 1 Structural characterization of Ni
+1
+/MoS
+2
+with different metal loading.
+a
+, HRTEM image of Ni
+1
+/MoS
+2
+(14:100).
+b
+, HAADF-STEM image and corresponding EDS maps of Ni
+1
+/MoS
+2
+(14:100).
+c
+, XRD patterns of Ni
+1
+/MoS
+2
+with different Ni contents.
+d
+, The experimental (green) linear intensity profile of STEM (Fig.
+1h
+) and the calculated data (Fig.
+1i
+) (yellow) of Ni
+1
+/MoS
+2
+.
+e
+, The experimental (solid line) and simulation (dotted line) curves of Ni K-edge XANES spectra.
+f
+, Comparison of the experimental (solid line) FT-EXAFS curves with the calculated data (dotted line).
+Source data
+Extended Data Fig. 2 Characterization and the origin of ferromagnetism in Ni
+1
+/MoS
+2
+.
+a
+, The peak separation of ESR spectra for Ni
+1
+/MoS
+2
+(14:100) under different temperatures.
+b, c
+, Comparison of the Ni K-edge XANES (b) and FT-EXAFS (c) spectra for Ni
+1
+/MoS
+2
+(14:100) with and without magnetic field.
+d
+,
+d
+-orbital splitting of a Ni
+Mo
+site for six (left, Es = 0.461 eV, C
+3h
+) and four (right, Es = 1.129 eV, C
+2v
+) coordination numbers.
+e
+, The energy localized function (ELF) of one Ni dopant-substituted Mo site in MoS
+2
+.
+f
+, Total and projected DOS of individual Ni
+Mo
+site with neighbouring six S and Mo atoms in antiferromagnetic Ni
+1
+/MoS
+2
+as shown in Fig.
+4c
+. Yellow, blue and green spheres are S, Mo and Ni atoms, respectively.
+Source data
+Extended Data Fig. 3 MFE of Ni
+1
+/MoS
+2
+for OER and the comparison with commercial IrO
+2
+catalysts.
+a
+, Overpotentials of Ni
+1
+/MoS
+2
+(14:100) at current density of 40 mA cm
+−2
+and Tafel slopes. The averaged value in (a) together with the error bar is obtained from the analysis of five sets of experimental results.
+b
+, EIS spectra of MoS
+2
+and Co
+1
+/MoS
+2
+with and without magnetic field.
+c
+, LSV curves of Ni
+1
+/MoS
+2
+(0.8:100).
+d
+, I-T curves of Ni
+1
+/MoS
+2
+upon switching on and switching off different magnetic fields at 1.6 V vs. RHE.
+e
+, I-T curves of Ni
+1
+/MoS
+2
+after switching off magnetic fields at 1.6 V vs. RHE.
+f
+, I-T curves of Ni
+1
+/MoS
+2
+at different voltages upon switching on and switching off the magnetic field at 502 mT.
+g
+, I-T curves of Ni
+1
+/MoS
+2
+under 502 mT and IrO
+2
+catalyst at 1.6 V vs. RHE.
+Source data
+Extended Data Fig. 4 The origin of giant MFE of ferromagnetic Ni
+1
+/MoS
+2
+.
+a
+, The second possible free energy profile of OER with the corresponding adsorption configurations of reaction intermediates over ferromagnetic (cyan) and antiferromagnetic (dark red) Ni
+1
+/MoS
+2
+.
+b, c
+, The spin density plot of *OOH on S site over ferromagnetic (b) and antiferromagnetic (c) Ni
+1
+/MoS
+2
+model towards the transition from *OOH to O
+2
+. Yellow, blue, green, red and light blue spheres are S, Mo, Ni, O and H atoms, respectively. The light blue and purple isosurfaces represent the spin-up and spin-down density, respectively.
+Source data
+Extended Data Fig. 5 Probe the catalytic OER site and the origin of giant MFE for ferromagnetic Ni
+1
+/MoS
+2.
+a, b
+, The first derivative curves of operando S K-edge XANES at different potentials under 0 mT (a) and 112 mT (b).
+c, d
+, PDOS of O species over AFM (c) and FM (d) coupled counterparts of Ni
+1
+/MoS
+2
+.
+Source data
+Extended Data Fig. 6 Giant MFE of 2.4 inch-sized ferromagnetic Ni
+1
+/MoS
+2
+(14:100) electrode for a large water splitting cell.
+a
+, Photograph of the inch-sized Ni
+1
+/MoS
+2
+and Pt/C electrodes.
+b–c
+, inch-sized Ni
+1
+/MoS
+2
+as anode (b) for magnetic-field enhanced water splitting (c).
+Source data
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–53, Tables 1–12 and Discussion.
+Supplementary Video 1
+The giant MFE for water splitting over Ni
+1
+/MoS
+2
+SASCs under a magnetic field.
+Source data
+Source Data Fig. 1
+Synthesis and characterization of a series of M
+1
+/MoS
+2
+SASCs.
+Source Data Fig. 2
+Ferromagnetism of Ni
+1
+/MoS
+2
+.
+Source Data Fig. 3
+Giant MFE of ferromagnetic Ni
+1
+/MoS
+2
+for the OER and water splitting.
+Source Data Fig. 4
+The origin of ferromagnetic Ni
+1
+/MoS
+2
+.
+Source Data Fig. 5
+The origin of the giant MFE of ferromagnetic Ni
+1
+/MoS
+2
+.
+Source Data Extended Data Fig. 1
+Structural characterization of Ni
+1
+/MoS
+2
+with different metal loadings.
+Source Data Extended Data Fig. 2
+Characterization and origin of ferromagnetism in Ni
+1
+/MoS
+2
+.
+Source Data Extended Data Fig. 3
+MFE of Ni
+1
+/MoS
+2
+for the OER and the comparison with commercial IrO
+2
+catalysts.
+Source Data Extended Data Fig. 4
+The origin of the giant MFE of ferromagnetic Ni
+1
+/MoS
+2
+.
+Source Data Extended Data Fig. 5
+Probe of the catalytic OER site and the origin of the giant MFE for ferromagnetic Ni
+1
+/MoS
+2
+.
+Source Data Extended Data Fig. 6
+Giant MFE of 2.4 inch ferromagnetic Ni
+1
+/MoS
+2
+(14:100) electrode for a large water splitting cell.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Sun, T., Tang, Z., Zang, W.
+et al.
+Ferromagnetic single-atom spin catalyst for boosting water splitting.
+Nat. Nanotechnol.
+18
+, 763–771 (2023). https://doi.org/10.1038/s41565-023-01407-1
+Download citation
+Received
+:
+21 February 2022
+Accepted
+:
+20 April 2023
+Published
+:
+25 May 2023
+Issue Date
+:
+July 2023
+DOI
+:
+https://doi.org/10.1038/s41565-023-01407-1
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Advisory Panel
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Nanotechnology
+(
+Nat. Nanotechnol.
+)
+ISSN
+1748-3395
+(online)
+ISSN
+1748-3387
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

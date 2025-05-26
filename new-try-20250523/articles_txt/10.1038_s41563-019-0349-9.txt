@@ -1,0 +1,1630 @@
+Structural evolution of atomically dispersed Pt catalysts dictates reactivity | Nature Materials
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature materials
+articles
+article
+Structural evolution of atomically dispersed Pt catalysts dictates reactivity
+Download PDF
+Article
+Published:
+22 April 2019
+Structural evolution of atomically dispersed Pt catalysts dictates reactivity
+Leo DeRita
+1
+na1
+,
+Joaquin Resasco
+1
+na1
+,
+Sheng Dai
+2
+na1
+,
+Alexey Boubnov
+3
+,
+Ho Viet Thang
+4
+,
+Adam S. Hoffman
+ORCID:
+orcid.org/0000-0002-7682-4108
+3
+,
+Insoo Ro
+ORCID:
+orcid.org/0000-0002-4704-142X
+1
+,
+George W. Graham
+2
+,
+5
+,
+Simon R. Bare
+3
+,
+Gianfranco Pacchioni
+4
+,
+Xiaoqing Pan
+2
+,
+6
+,
+7
+&
+…
+Phillip Christopher
+ORCID:
+orcid.org/0000-0002-4898-5510
+1
+Show authors
+Nature Materials
+volume
+18
+,
+pages
+746–751 (
+2019
+)
+Cite this article
+32k
+Accesses
+55
+Altmetric
+Metrics
+details
+Subjects
+Characterization and analytical techniques
+Heterogeneous catalysis
+Abstract
+The use of oxide-supported isolated Pt-group metal atoms as catalytic active sites is of interest due to their unique reactivity and efficient metal utilization. However, relationships between the structure of these active sites, their dynamic response to environments and catalytic functionality have proved difficult to experimentally establish. Here, sinter-resistant catalysts where Pt was deposited uniformly as isolated atoms in well-defined locations on anatase TiO
+2
+nanoparticle supports were used to develop such relationships. Through a combination of in situ atomic-resolution microscopy- and spectroscopy-based characterization supported by first-principles calculations it was demonstrated that isolated Pt species can adopt a range of local coordination environments and oxidation states, which evolve in response to varied environmental conditions. The variation in local coordination showed a strong influence on the chemical reactivity and could be exploited to control the catalytic performance.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Distribution of Pt single atom coordination environments on anatase TiO
+2
+supports controls reactivity
+Article
+Open access
+02 February 2024
+The dynamics of overlayer formation on catalyst nanoparticles and strong metal-support interaction
+Article
+Open access
+26 June 2020
+Photochemical tuning of dynamic defects for high-performance atomically dispersed catalysts
+Article
+05 February 2024
+Main
+The synthesis of oxide-supported Pt-group catalysts typically produces metal particles with dimensions of a few nanometres
+1
+. Recent work has shown that Pt-group species can coexist as nanoparticles and single atoms
+2
+,
+3
+,
+4
+, and that careful synthetic approaches can produce exclusively single atoms
+4
+,
+5
+,
+6
+,
+7
+,
+8
+. Interest in the reactivity of supported isolated Pt atoms (Pt
+iso
+) and other rare metals stems from the maximized metal utilization efficiency, unique reactivity or selectivity, connection to organometallic catalysis and the potential for making well-defined active sites
+8
+,
+9
+,
+10
+. It has proved challenging to characterize the intrinsic catalytic activity of these dispersed active sites on oxide supports at a level that relates local electronic and geometric structure to function. The difficulty arises from their atomic dispersion, heterogeneity in the local coordination of active sites on most catalysts (that is, isolated species sit at different sites on the support)
+11
+, dynamic changes in local coordination under reactive environments
+12
+and often the low loading of metal that is required to achieve site isolation
+13
+. Exploring the dynamic restructuring of supported metal catalysts has long been of interest
+14
+,
+15
+,
+16
+, with recent experimental work analysing the dynamic formation and fragmentation of supported ~1 nm metal clusters under reactive environments
+17
+,
+18
+,
+19
+, but similar insights into the dynamic behaviour of dispersed Pt-group species have been difficult to develop
+20
+.
+In this work, using a sinter-resistant catalyst consisting of Pt
+iso
+species uniformly deposited at a well-defined location on a nanoparticle anatase TiO
+2
+support, we demonstrate that environmental conditions dictate the local coordination and charge state of Pt
+iso
+species, which are related to chemical and catalytic reactivity. Insights into the evolution of local coordination and properties of Pt
+iso
+species in response to varying environmental conditions were provided by in situ spectroscopy and microscopy correlated to first-principles calculations.
+Catalysts were synthesized via strong electrostatic adsorption
+21
+(see Supplementary Fig.
+1
+) to deposit [Pt(NH
+3
+)
+4
+]
+2+
+complexes onto 5-nm-diameter anatase TiO
+2
+nanocrystals at a weight loading of ~0.025%, which correlates to nominally ~0.5 Pt atoms per TiO
+2
+particle
+22
+. Through controlled deposition of on average <1 Pt atom per TiO
+2
+particle, Pt cluster formation was mitigated by the energetically difficult transfer of Pt atoms between TiO
+2
+particles, enabling analysis of Pt
+iso
+species under conditions where they are mobile but unable to form clusters. Before analysis, catalysts were calcined in air at 450 °C to remove remaining ligands from synthesis.
+To understand the influence of environmental conditions on the local environment of Pt
+iso
+species, CO probe molecule Fourier transform infrared (FTIR) spectroscopy was executed at −140 °C following pretreatment of the catalyst in oxidative and reductive conditions. Figure
+1a
+shows normalized FTIR spectra of CO adsorbed at −140 °C on Pt
+iso
+/TiO
+2
+following pretreatment via in situ oxidation (300 °C in O
+2
+), mild reduction (250 °C in H
+2
+) or harsh reduction (450 °C in H
+2
+). Different characteristics of adsorbed CO were observed: (1) oxidation resulted in an adsorbed CO stretching frequency of 2,135 cm
+−1
+with a full-width at half-maximum (FWHM) of 13.5 cm
+−1
+, (2) mild reduction resulted in an adsorbed CO stretching frequency of 2,112 cm
+−1
+and a FWHM of 10.5 cm
+−1
+and (3) harsh reduction resulted in two CO stretching frequencies centred at 2,077 and 2,050 cm
+−1
+with a FWHM of 28 and 36 cm
+−1
+, respectively. These vibrational frequencies are generally consistent with CO bound to (1, 2) cationic Pt
+22
+, and (3) near-neutral, Pt
+δ+
+, sites
+23
+,
+24
+,
+25
+,
+26
+. The local coordination and oxidation state of the Pt
+iso
+species can influence the vibrational frequency of CO. Thus, unambiguous determination of the Pt
+iso
+oxidation state on the basis of adsorbed CO stretching frequency alone is not possible
+27
+. Re-oxidation of the catalyst following harsh reduction and exposure to CO showed the same sharp stretches and desorption below room temperature observed for Pt
+iso
+exposed to oxidation conditions (see Supplementary Fig.
+2
+for details), which is in contrast to Pt
+x
+O
+y
+clusters produced by oxidation of 1 nm Pt nanoparticles that bind CO strongly (desorption above 200 °C)
+22
+. This suggested retained existence of Pt
+iso
+species following harsh reduction.
+Fig. 1: Controlling chemical and catalytic reactivity of Pt
+iso
+via pretreatment.
+a
+, FTIR spectra of CO adsorbed at saturation coverage and −140 °C to Pt
+iso
+/TiO
+2
+following pretreatment via in situ oxidation (300 °C in 760 torr O
+2
+), mild reduction (250 °C in 760 torr H
+2
+) and harsh reduction (450 °C in 760 torr H
+2
+). The spectra are normalized to the maximum intensity of the CO stretch for each pretreatment condition. The band centre is listed above each spectrum and the FWHM within.
+b
+, Normalized intensity of the CO stretch absorbance as a function of temperature during TPD experiments associated with the three different catalyst pretreatments.
+c
+, Arrhenius plots showing the temperature dependence of the per-gram Pt rate (mol s
+−1
+g
+Pt
+−1
+) for CO oxidation on each catalyst from 150 to 200 °C in a 200 sccm flow of 1% CO, 1% O
+2
+and balance He at 760 torr. The apparent activation energy (
+E
+a
+) is shown for each pretreatment condition with error bars indicating standard error.
+Full size image
+The FWHM of adsorbed CO stretches after oxidation (13.5 cm
+−1
+) and mild reduction (10.5 cm
+−1
+) were narrower than reports of zeolite-supported Pt
+iso
+species, where well-defined anchoring sites are present (15–25 cm
+−1
+)
+28
+, and Pt
+iso
+species on other oxide supports (>25 cm
+−1
+for Pt
+iso
+/CeO
+2
+, FeO
+x
+and so on)
+4
+,
+5
+,
+6
+. A comparable ~10 cm
+−1
+FWHM for the adsorbed CO stretch was reported for Pt
+iso
+species at a well-defined location on a Cu
+2
+O model system in a surface science study
+25
+, which provides evidence that following oxidation and mild reduction pretreatments the Pt
+iso
+species observed here were predominately located at a single adsorption site on the support
+11
+. The similar FWHM of the CO stretch following both pretreatments suggests that Pt
+iso
+species did not move significantly between the two pretreatments, and that a modification in local coordination or Pt oxidation state induced the change in adsorbed CO stretch frequency. By contrast, harsh reduction resulted in broadened CO stretches with FWHMs of 28 cm
+−1
+and 36 cm
+−1
+, accompanied by a decrease in vibrational frequency. This suggests that Pt
+iso
+species were reduced to a near-neutral charge state, became mobile on the TiO
+2
+surface and adopted a range of coordination environments.
+Following CO adsorption at −140 °C, temperature-programmed desorption (TPD) experiments were executed (Supplementary Fig.
+3
+). The intensities of the CO stretches were normalized to saturation coverage (Fig.
+1a
+), and are shown as a function of temperature in Fig.
+1b
+. During the TPD measurement, the CO stretch frequency, symmetry and FWHM were essentially constant for the oxidized and mildly reduced cases, providing evidence that Pt
+iso
+species were spatially separated and existed in a predominant local environment (Supplementary Fig.
+3
+). CO adsorption energies estimated using Redhead analysis
+29
+on mildly and harshly reduced Pt
+iso
+/TiO
+2
+were 84 kJ mol
+−1
+and 115–145 kJ mol
+−1
+, respectively (see Supplementary Fig.
+3
+and associated discussion
+30
+). The inferred CO binding energy for the harshly reduced case is significantly weaker than what has been reported for small Pt clusters, substantiating the assertion that Pt remained as isolated atoms throughout all pretreatments
+30
+. In the case of oxidized Pt
+iso
+/TiO
+2
+, CO
+2
+evolution was observed to occur simultaneously with CO desorption initiating at −110 °C, and thus a CO adsorption energy was not estimated (Supplementary Figs.
+4
+and
+5
+).
+To relate variations in Pt
+iso
+properties to catalytic reactivity, CO oxidation was performed under strict kinetic control (Supplementary Fig.
+6
+). This reaction has been extensively studied with atomically dispersed Pt catalysts due to the interest in decreasing Pt loading in automotive exhaust applications
+31
+. Figure
+1c
+shows that the reactivities of Pt
+iso
+sites following oxidation and mild reduction were similar, with apparent activation energies,
+E
+a
+, in the range of 70–80 kJ mol
+−1
+. By contrast, following harsh reduction, Pt
+iso
+sites showed an increase in activity of two- to fivefold, depending on temperature, and a decrease in
+E
+a
+to 48 kJ mol
+−1
+, close to the
+E
+a
+for small Pt clusters on TiO
+2
+of 53 kJ mol
+−1
+(ref.
+22
+). CO and O
+2
+partial-pressure-dependent measurements and microkinetic modelling suggested that CO oxidation proceeded by a Mars–van Krevelen mechanism with kinetically relevant O
+2
+dissociation at the interface of an oxygen vacancy in TiO
+2
+and Pt
+iso
+for all pretreatment conditions (see Supplementary Figs.
+7
+and
+8
+and associated discussion). The rate law is consistent with reports of metal clusters on reducible oxide supports, where metal atoms at the interface with the support serve as the active site
+32
+. Pt
+iso
+/TiO
+2
+catalysts exhibited comparable apparent activation barriers and turnover frequencies to the smallest Pt clusters on reducible oxides
+22
+, which have enhanced CO oxidation activity per surface metal atom compared to small Pt clusters supported on irreducible oxides
+33
+and unsupported Pt
+34
+.
+The results in Fig.
+1
+suggest that during oxidation and mild reduction pretreatments Pt
+iso
+species did not significantly move on the TiO
+2
+surface, but existed in distinct local coordination environments when probed by CO at −140 °C. On the basis of the similarities in site location and steady-state catalytic reactivity, it is hypothesized Pt
+iso
+species pretreated by oxidation and mild reduction dynamically evolved to similar local coordination environments under CO oxidation conditions. By contrast, harsh reduction induced mobility and left Pt
+iso
+species in close-to-neutral states. It is hypothesized that the near-neutral Pt charge state facilitated the rate-limiting O
+2
+dissociation step in CO oxidation, as compared to the more cationic state of Pt
+iso
+species that existed following pre-oxidation and mild reduction (see discussion in
+Supplementary Information
+, step 4 in mechanism).
+In situ aberration-corrected scanning transmission electron microscopy (AC-STEM) at atmospheric pressure was executed to examine the mobility of Pt atoms on the TiO
+2
+support and corroborate inferences from infrared measurements. An in situ AC-STEM experiment was performed on Pt
+iso
+/TiO
+2
+during sequential exposure to 760 torr of O
+2
+at 300 °C, 760 torr of 5% H
+2
+at 250 °C and 760 torr of 5% H
+2
+at 450 °C. Small probe currents and minimal acquisition times were used to minimize beam effects (see
+Supplementary Information
+for discussion). Previous studies have demonstrated the ability to conduct these measurements without artefacts from electron beam effects or sample drift
+24
+,
+35
+,
+36
+.
+Figure
+2a
+shows a high-angle annular dark-field (HAADF)-STEM image of one Pt
+iso
+species on TiO
+2
+following 30 min of in situ oxidation treatment. After 30 min of exposure to H
+2
+at 250 °C, this Pt atom remained at the same location on the TiO
+2
+support (Fig.
+2b
+). Following 30 min of exposure to H
+2
+at 450 °C, the Pt atom moved 1.6 nm, demonstrating mobility imparted to the single Pt atom without the formation of a Pt cluster. Line-scan intensity analysis and in situ STEM experiments as a function of time were used to substantiate the identification of Pt
+iso
+species and demonstrate that the electron beam did not induce Pt motion (Fig.
+2d
+and Supplementary Fig.
+9
+). While exposure to H
+2
+at 450 °C induced mobility of the Pt atom, a relatively stable adsorption site must have been reached to allow the atom to be imaged. Exposure to H
+2
+at 450 °C also induced minor structural changes in TiO
+2
+, demonstrated by the loss of visible lattice fringes in Fig.
+2c
+and Supplementary Fig.
+9
+. The direct imaging of induced Pt
+iso
+mobility only during the harsh reduction pretreatment and the structural modification of TiO
+2
+are consistent with inferences made on the basis of sample-averaged infrared measurements, substantiating the hypothesis that Pt
+iso
+species adopted a range of local coordination environments following harsh reduction.
+Fig. 2: In situ AC-STEM characterization of Pt
+iso
+/TiO
+2
+.
+a
+–
+c
+, In situ AC-STEM images of Pt
+iso
+/TiO
+2
+after 30 min at different annealing conditions: 300 °C, 760 torr of O
+2
+for 30 min (
+a
+); 250 °C, 760 torr of 5% H
+2
+(balanced with Ar) for 30 min (
+b
+); 450 °C, 760 torr of 5% H
+2
+(balanced with Ar) for 30 min (
+c
+). The yellow circles identify the same Pt single atom. A false-colouring scale was used in
+a
+–
+c
+to enhance contrast on the Pt atom.
+d
+, Intensity profile of a line scan (along the yellow arrows) shown in
+a
+and
+c
+normalized to the identified Pt atom.
+Full size image
+In situ X-ray absorption spectroscopy (XAS) experiments were executed under pretreatment and reaction conditions to provide complementary sample-averaged information regarding the evolution of the Pt
+iso
+oxidation state and local coordination
+37
+. Figure
+3a
+shows in situ Pt L
+3
+-edge X-ray absorption near-edge structure (XANES) spectra for each state of the catalyst (see
+Supplementary Information
+for experimental details). For the pretreated samples (before CO oxidation), the white-line intensity decreased in the order of oxidized > mildly reduced > harshly reduced, consistent with the trends in oxidation state inferred from the infrared measurements, although again we refrain from explicitly assigning oxidation states based on the XANES alone (see
+Supplementary Information
+for discussion). Extended X-ray absorption fine-structure (EXAFS) spectra associated with these states of the catalyst (shown in Fig.
+3c
+and Supplementary Table
+1
+) demonstrate: lack of measurable Pt–Pt scattering for all pretreatments, consistent with the assertion that Pt remained atomically dispersed in all explored conditions; a decrease in the extent of Pt–O coordination comparing oxidizing to reducing conditions; and well-defined Pt–O and Pt–Ti scattering paths for the pre-oxidized and mildly reduced catalysts, indicating uniformity in the local coordination of the Pt single atoms.
+Fig. 3: XAS of Pt
+iso
+/TiO
+2
+catalysts.
+a
+, XANES spectra collected at 200 °C immediately following various pretreatments (shown using solid lines).
+b
+, XANES spectra collected under CO oxidation reaction conditions (200 °C, 1% CO, 1% O
+2
+, balance He). Corresponding spectra following pretreatment are shown using dotted lines to emphasize changes induced by exposure to reaction conditions. The arrows show the change induced by exposure to CO oxidation conditions.
+c
+, EXAFS of catalysts after each pretreatment and under CO oxidation reaction conditions. The magnitude and imaginary portion of the Fourier transforms of the EXAFS spectra are shown using solid and dotted lines, respectively. Fits are shown in magenta. See also Supplementary Fig.
+10
+for EXAFS spectra.
+Full size image
+XANES and EXAFS measurements obtained under CO oxidation reaction conditions showed that the Pt
+iso
+species evolved, with the Pt in the oxidized and mildly reduced states approaching a similar oxidation state and local coordination environment under CO oxidation conditions (Fig.
+3b,c
+). This rationalizes the similarity in observed reactivity and is consistent with the similar location of the Pt atom in both cases. Measurements under CO oxidation conditions following harsh reduction showed that the nearly neutral Pt state was maintained. This is consistent with the enhanced reactivity in CO oxidation observed for this sample, as a more neutral Pt atom would be expected to more effectively facilitate the rate-limiting O
+2
+dissociation step.
+To develop structural models of the local coordination of Pt
+iso
+species on TiO
+2
+, ex situ STEM images were collected along various zone axes of the TiO
+2
+support for Pt
+iso
+/TiO
+2
+following 250 ˚C reduction in H
+2
+(see
+Supplementary Information
+). Figure
+4a
+presents a HAADF-STEM image taken along the [021] zone axis of anatase TiO
+2
+, where (100) and (
+\(01\bar 2\)
+) planes are indexed in the atomic-resolution image. Ti and O atomic columns are not overlapping in this projection and from the
+Z
+-contrast the visible spots in Fig.
+4a
+must correspond to Ti atoms
+38
+. The brighter spots (highlighted by the yellow circles), exhibited a higher
+Z
+-contrast than surrounding Ti columns, corresponding to the existence of Pt single atoms
+22
+. The intensity profile (Fig.
+4b
+) taken along the lines indicated by the yellow arrows in Fig.
+4a
+, and along the perpendicular direction across the same Pt atom (Supplementary Fig.
+11
+), demonstrates that this is the case. Thus, following 250 °C reduction Pt atoms sat in place of, or above the position of Ti columns (see also Supplementary Fig.
+12
+). On the basis of the in situ STEM in Fig.
+2
+, it is assumed that Pt
+iso
+species must also sit in place of, or above, the position of Ti columns following oxidation, and probably at a range of positions on the TiO
+2
+surface following harsh reduction.
+Fig. 4: Structural models of Pt
+iso
+/TiO
+2
+.
+a
+, An ex situ AC-STEM image of Pt
+iso
+/TiO
+2
+following reduction at 250 °C along the <021> zone axis of TiO
+2
+. The yellow circles highlight the Pt single atoms.
+b
+, Normalized intensity profile taken along the line indicated by the yellow arrows in
+a
+(see Supplementary Fig.
+11
+for additional line scans).
+c
+, DFT-calculated model of the Pt
+iso
+/TiO
+2
+along the anatase TiO
+2
+<021> zone axis (ZA) for the (PtO
+2
+)
+ads
+structure. It is seen that the Pt is in line with Ti columns, consistent with the STEM image in
+a
+.
+d
+, Schematic showing the proposed dynamic evolution of Pt
+iso
+/TiO
+2
+catalysts following oxidation, mild reduction and harsh reduction (shown left to right, respectively). Structures were derived from DFT calculations and are consistent with experimental data. Ti, O, Pt and H atoms are blue, red, white and light-pink spheres, respectively.
+Full size image
+Density functional theory (DFT) calculations were performed to identify stable Pt
+iso
+structures on the (101) terrace and (145) stepped surfaces of anatase TiO
+2
+(ref.
+39
+), and to supplement recently reported calculations (see Supplementary Figs.
+13
+–
+16
+and
+Supplementary Information
+for details
+30
+). Among the considered structures, (PtO
+2
+)
+ads
+species at the (101) anatase TiO
+2
+terrace, where the Pt atom is bound to two extra O atoms on the surface, showed excellent agreement with observed characteristics for mildly reduced Pt
+iso
+/TiO
+2
+including the CO vibrational frequency (2,112 cm
+−1
+measured versus 2,121 cm
+−1
+calculated) and CO adsorption energy (84 kJ mol
+−1
+measured versus 103 kJ mol
+−1
+calculated). Good agreement was also found between characteristics of (PtO
+2
+)
+ads
+at the (145) TiO
+2
+step site and the experimental results, with calculated CO vibrational frequency and adsorption energy of 2,107 cm
+−1
+and 50 kJ mol
+−1
+, respectively. The (PtO
+2
+)
+ads
+structures at either the step or terrace site of TiO
+2
+are consistent with STEM measurements, showing Pt in line with Ti cation columns when observed along the [021] axis (see Fig.
+4c
+).
+Calculations of CO adsorbing to Pt
+iso
+species replacing a six-fold coordinated Ti (Ti
+6c
+) atom at the bottom of the (145) step edge, or on the (101) terrace, showed barrierless CO
+2
+formation, which agreed with experimental observations for oxidized Pt
+iso
+/TiO
+2
+(Supplementary Figs.
+4
+and
+5
+). This Ti
+6c
+-substituted Pt position is vertically in line with (PtO
+2
+)
+ads
+along the <021> zone axis, consistent with the lack of lateral motion observed for Pt
+iso
+species between oxidation and mild reduction conditions via in situ STEM. Finally, CO adsorbed to (PtOH)
+ads
+species on the TiO
+2
+step and terrace sites showed reasonable agreement with the measured vibrational frequencies (2,068 cm
+−1
+, step, and 2,087 cm
+−1
+, terrace, calculated, versus 2,050 and 2,077 cm
+−1
+, measured) and adsorption energies (184 kJ mol
+−1
+, step, and 210 kJ mol
+−1
+, terrace, versus 115–145 kJ mol
+−1
+, measured), given the known over-prediction of CO binding energy in DFT calculations
+40
+. Observable changes to the TiO
+2
+support after harsh reduction indicate that this pretreatment introduced surface defects, resulting in a variety of sites for (PtOH)
+ads
+species to occupy.
+The DFT-calculated structures described above (Pt at the Ti
+6c
+site, (PtO
+2
+)
+ads
+and (PtOH)
+ads
+) were used to calculate Pt L
+3
+-edge XANES spectra, which showed agreement in shape and white-line intensity with the experimental measurements (Supplementary Fig.
+17
+). Fitting of EXAFS data after pretreatment showed close agreement in coordination numbers (CNs) and bond distances with the DFT-predicted structures (Supplementary Tables
+1
+and
+2
+, respectively). In particular, oxidation resulted in Pt–O CNs of 6.0 ± 0.7 with a bond distance of 2.0 ± 0.1 Å, consistent with the calculated structure of Pt sitting in an octahedral Ti site at the (145) step edge (CN of 6, bond distance of 1.97–2.04 Å). Mild reduction decreased the total first shell Pt–O coordination, with two distinct Pt–O bond distances of 1.90 ± 0.05 (CN 1.2 ± 0.6) and 2.10 ± .05 (CN 1.7 ± 0.7). This showed agreement with the calculated structure of (PtO
+2
+)
+ads
+at the (145) step edge, with 1 Pt–O bond distance of 1.83 (CN 2) and 1 Pt–O bond distance of 2.13 (CN 2). Agreement between fits to experimental spectra and theory was also found beyond first-shell fits. EXAFS fitting was not performed on spectra taken under reaction conditions, due to uncertainty in description of a physical model for these structures.
+On the basis of the comparison of the experimental and calculated characteristics of the different states of the Pt
+iso
+species, it is proposed that oxidation of Pt
+iso
+/TiO
+2
+resulted in Pt substituting into the Ti
+6c
+position; mild reduction pulled Pt
+iso
+out of the lattice to form (PtO
+2
+)
+ads
+species; and harsh reduction induced the formation of (PtOH)
+ads
+species that were mobile and adsorbed to both step and terrace sites on the support (Fig.
+4d
+). Based on the better agreement of the calculated and measured XANES and EXAFS characteristics for the oxidized and mildly reduced Pt
+iso
+species at the TiO
+2
+(145) step edge, as compared to the (101) terrace, it is hypothesized that Pt
+iso
+species were predominantly located at TiO
+2
+step edges. The proposed Pt
+iso
+structures have formal oxidation states of +4 for Pt substituted at the Ti
+6c
+site, +2 for (PtO
+2
+)
+ads
+and +1 for (PtOH)
+ads
+. These charge assignments are consistent with trends from XANES, infrared and Bader charge analysis (see Supplementary Tables
+2
+and
+3
+and
+Supplementary Information
+for discussion). While Pt charge-state estimations showed consistent trends, each method has unique limitations in the ability to quantitatively describe charge states and exact values are dependent on the method used
+41
+.
+Future analysis aims to interrogate the mechanism of transformations between these various states of the Pt
+iso
+species and how these states are modified by exposure to CO oxidation conditions. We expect that these changes were driven not only by energetics of the Pt cation, but also by structural transformations of reducible supports. For example, TiO
+2
+surfaces are known to become mobile following high-temperature reduction
+14
+. Future work will investigate how these structural transformations depend on choice of support. It is hypothesized that here the transition from (PtO
+2
+)
+ads
+to (PtOH)
+ads
+occurs by release of the first O atom, forming H
+2
+O, and hydroxylation of the second O atom during high-temperature reduction, consistent with observations of temperature-programmed reduction experiments (Supplementary Fig.
+18
+).
+Pt
+iso
+species can adopt a range of local coordination environments, which dynamically form in response to varied environmental conditions, analogous to the dynamic behaviour of metal ions in zeolites
+42
+. This variation in local coordination showed a strong influence on the chemical reactivity and catalytic performance for systems where the Pt
+iso
+active site was adsorbed at well-defined locations on the support. This work demonstrates that to understand the behaviour of atomically dispersed catalysts at the level of defining structure–function relationships, it is not sufficient to merely show that all metal species are atomically dispersed; a detailed characterization of the uniformity of the local coordination environment and how this local coordination responds to environmental conditions must be considered.
+Methods
+Catalyst preparation
+The synthesis of Pt
+iso
+catalysts on TiO
+2
+has been reported previously
+22
+. Briefly, a pH-adjusted solution (12.2) containing tetraammineplatinum(II) nitrate was slowly injected into a solution containing TiO
+2
+(anatase, 5 nm diameter, 290 m
+2
+g
+−1
+, US Research Nanomaterials). After drying, the catalyst was calcined in a tube furnace at 450 °C for 4 h in flowing air after ramping up the temperature at a rate of 10 °C min
+−1
+.
+Infrared spectroscopy
+FTIR experiments were carried out in a diffuse reflectance reaction chamber (Harrick Scientific) equipped with ZnSe windows, mounted inside a Praying Mantis diffuse reflectance adapter (Harrick Scientific), and coupled to a Thermo Scientific Nicolet iS10 FTIR spectrometer with a liquid-nitrogen-cooled HgCdTe (MCT-A) detector. During measurements, the FTIR and Praying Mantis diffuse reflection accessory were purged with dry N
+2
+.
+Electron microscopy
+AC-STEM was performed on a JEOL Grand ARM300CF microscope equipped with two spherical aberration correctors, operated at 200 kV. HAADF-STEM images were recorded using a convergence semi-angle of 22 mrad, and inner- and outer- collection angles of 83 and 165 mrad, respectively. To minimize beam irradiation, a small beam current (<10 pA) was used for imaging, while the acquisition time was always controlled to be less than 12 s for each frame. In situ STEM experiments were performed in a Protochips Atmosphere gas cell system, which allows for dynamic observation of nanomaterials heated under atmospheric pressure inside a transmission electron microscope.
+XAS measurements
+XAS spectra were collected at beamline 9-3 at the Stanford Synchrotron Radiation Lightsource at the SLAC National Laboratory. In the experiments, 16 mg of 0.025 wt% Pt/TiO
+2
+was diluted in mesoporous silica (MCM-41) and loaded into a flow-through quartz tube, with an outer diameter of 3.0 mm and an inner diameter of 2.8 mm, held at a 45° angle relative to the X-ray beam
+43
+. Fluorescence XAS measurements were collected using a Canberra 100-element Ge detector orthogonal (90°) to the beam path with 4 layers of Al foil to filter Ti fluorescence lines, as well as lead shielding to minimize contributions from scattering of beamline optics. A Pt foil reference was scanned simultaneously for energy calibration.
+The raw data were processed using the Athena interface of the Demeter software package
+44
+. The spectra were energy-calibrated, merged and normalized. The EXAFS was extracted in
+k
+-space and Fourier-transformation was conducted on the
+k
+2
+-weighted EXAFS function (
+k
+= 3.0–12.0 Å
+−1
+) to amplify the oscillations at high
+k
+-values. Phase shifts and amplitudes for relevant back-scattering paths were calculated using FEFF6.
+Kinetic control and reactivity experimental details
+After pretreatment and 12 h exposure at 200 °C in a feed of 1% CO, 1% O
+2
+and 98% He, temperature-dependent measurements were taken between 150 °C and 200 °C, for 2 h at each temperature. Catalyst dilution studies showed that differences in activity between the catalysts are of kinetic origins, rather than a result of mass and heat transport limitations. Partial-pressure-dependent measurements were executed at 200 °C.
+DFT computational methods
+Spin-polarized periodic DFT calculations were performed using the Vienna Ab initio Simulation Package
+45
+. The Perdew–Burke–Ernzerhof generalized gradient approximation was used
+46
+. The self-interaction error inherent in DFT calculations was partly corrected using the DFT +
+U
+approach where the Hubbard’s
+U
+parameter was empirically set to 3 eV
+47
+. The projector augmented wave
+48
+,
+49
+method was used and the valence electrons explicitly treated were: Ti(3
+s
+2
+, 3
+p
+6
+, 3
+d
+2
+, 4
+s
+2
+), Pt (5
+p
+6
+, 5
+d
+9
+, 6
+s
+1
+), O (2
+s
+2
+, 2
+p
+4
+), C (2
+s
+2
+, 2
+p
+2
+) and H (1
+s
+1
+). We used a plane-wave basis set with a cutoff energy of 400 eV and the calculation was performed at the gamma point. The optimized structures were considered converged when the ionic forces were <0.01 eV Å
+−1
+.
+We adopted the models of (3 × 1) and (2 × 1) supercell slabs including five atomic layers for the anatase TiO
+2
+(101) or the stepped TiO
+2
+(145) surfaces, respectively. A vacuum of more than 15 Å was used to avoid the interaction between slabs
+50
+. The TiO
+2
+(101) surface terminates with two types of Ti cation, five-fold coordinated Ti (Ti
+5c
+) and six-fold coordinated Ti (Ti
+6c
+), and two types of O anion, two-fold coordinated O sites (O
+2c
+) and three-fold coordinated O sites (O
+3c
+).
+CO adsorption energies were calculated as the difference between isolated species and the adsorption complexes. The CO frequencies were computed within the harmonic approximation, in which CO and its first neighbouring atoms were considered in the calculation. In the gas phase, the CO bond length (1.144 Å) and stretching frequency (2,125 cm
+−1
+) were obtained at the Perdew–Burke–Ernzerhof level. A scaling factor
+α
+= 2,143/2,125 = 1.0085 was applied to all frequencies to take into account the difference with respect to the experimental CO frequency in the gas phase (2,143 cm
+−1
+).
+Data availability
+All the data reported in this paper are available from the corresponding author upon request.
+References
+Campbell, C. T., Parker, S. C. & Starr, D. E. The effect of size-dependent nanoparticle energetics on catalyst sintering.
+Science
+298
+, 811–814 (2002).
+Article
+CAS
+Google Scholar
+Fu, Q., Saltsburg, H. & Flytzani-Stephanopoulos, M. Active nonmetallic Au and Pt species on ceria-based water-gas shift catalysts.
+Science
+301
+, 935–938 (2003).
+Article
+CAS
+Google Scholar
+Van’t Blik, H. F. J. et al. Structure of rhodium in an ultradispersed Rh/Al
+2
+O
+3
+catalyst as studied by EXAFS and other techniques.
+J. Am. Chem. Soc.
+107
+, 3139–3147 (1985).
+Article
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+Google Scholar
+Ding, K. et al. Identification of active sites in CO oxidation and water-gas shift over supported Pt catalysts.
+Science
+350
+, 189–192 (2015).
+Article
+CAS
+Google Scholar
+Kistler, J. D. et al. A single-site platinum CO oxidation catalyst in zeolite KLTL: microscopic and spectroscopic determination of the locations of the platinum atoms.
+Angew. Chem.
+126
+, 9050–9053 (2014).
+Article
+Google Scholar
+Matsubu, J. C., Yang, V. N. & Christopher, P. Isolated metal active site concentration and stability controls catalytic CO
+2
+reduction selectivity.
+J. Am. Chem. Soc.
+137
+, 3076–3084 (2015).
+Article
+CAS
+Google Scholar
+Flytzani-Stephanopoulos, M. & Gates, B. C. Atomically dispersed supported metal catalysts.
+Annu. Rev. Chem. Biomol. Eng.
+3
+, 545–574 (2012).
+Article
+CAS
+Google Scholar
+Bruix, A. et al. Maximum noble-metal efficiency in catalytic materials: atomically dispersed surface platinum.
+Angew. Chem. Int. Ed.
+53
+, 10525–10530 (2014).
+Article
+CAS
+Google Scholar
+Hoffman, A. S., Fang, C.-Y. & Gates, B. C. Homogeneity of surface sites in supported single-site metal catalysts: assessment with band widths of metal carbonyl infrared spectra.
+J. Phys. Chem. Lett.
+7
+, 3854–3860 (2016).
+Article
+CAS
+Google Scholar
+Parkinson, G. S. et al. Carbon monoxide-induced adatom sintering in a Pd–Fe
+3
+O
+4
+model catalyst.
+Nat. Mater.
+12
+, 724–728 (2013).
+Article
+CAS
+Google Scholar
+Hoffman, A. S. et al. Beating heterogeneity of single-site catalysts: MgO-supported iridium complexes.
+ACS Catal.
+8
+, 3489–3498 (2018).
+Article
+CAS
+Google Scholar
+Tauster, S. J., Fung, S. C. & Garten, R. L. Strong metal-support interactions. Group 8 noble metals supported on titanium dioxide.
+J. Am. Chem. Soc.
+100
+, 170–175 (1978).
+Article
+CAS
+Google Scholar
+Gänzler, A. M. et al. Tuning the structure of platinum particles on ceria in situ for enhancing the catalytic performance of exhaust gas catalysts.
+Angew. Chemie Int. Ed.
+56
+, 13078–13082 (2017).
+Article
+Google Scholar
+Zugic, B. et al. Dynamic restructuring drives catalytic activity on nanoporous gold–silver alloy catalysts.
+Nat. Mater.
+16
+, 558–564 (2016).
+Article
+Google Scholar
+Liu, L. et al. Generation of subnanometric platinum with high stability during transformation of a 2D zeolite into 3D.
+Nat. Mater.
+16
+, 132–138 (2017).
+Article
+CAS
+Google Scholar
+Moliner, M. et al. Reversible transformation of Pt nanoparticles into single atoms inside high-silica chabazite zeolite.
+J. Am. Chem. Soc.
+138
+, 15743–15750 (2016).
+Article
+CAS
+Google Scholar
+Wei, S. et al. Direct observation of noble metal nanoparticles transforming to thermally stable single atoms.
+Nat. Nanotechnol.
+13
+, 856–861 (2018).
+Article
+CAS
+Google Scholar
+Liu, L. & Corma, A. Metal catalysts for heterogeneous catalysis: from single atoms to nanoclusters and nanoparticles.
+Chem. Rev.
+118
+, 4981–5079 (2018).
+Article
+CAS
+Google Scholar
+Schreier, M. & Regalbuto, J. R. A fundamental study of Pt tetraammine impregnation of silica: 1. The electrostatic nature of platinum adsorption.
+J. Catal.
+225
+, 190–202 (2004).
+Article
+CAS
+Google Scholar
+DeRita, L. et al. Catalyst architecture for stable single atom dispersion enables site-specific spectroscopic and reactivity measurements of CO adsorbed to Pt atoms, oxidized Pt clusters, and metallic Pt clusters on TiO
+2
+.
+J. Am. Chem. Soc.
+139
+, 14150–14165 (2017).
+Article
+CAS
+Google Scholar
+Kale, M. J. & Christopher, P. Utilizing quantitative in situ FTIR spectroscopy to identify well-coordinated Pt atoms as the active site for CO oxidation on Al2O
+3
+-supported Pt catalysts.
+ACS Catal.
+6
+, 5599–5609 (2016).
+Article
+CAS
+Google Scholar
+Avanesian, T. et al. Quantitative and atomic-scale view of CO-induced Pt nanoparticle surface reconstruction at saturation coverage via DFT calculations coupled with
+in situ
+TEM and IR.
+J. Am. Chem. Soc.
+139
+, 4551–4558 (2017).
+Article
+CAS
+Google Scholar
+Therrien, A. J. et al. An atomic-scale view of single-site Pt catalysis for low-temperature CO oxidation.
+Nat. Catal.
+1
+, 192–198 (2018).
+Article
+CAS
+Google Scholar
+Ivanova, E., Mihaylov, M., Thibault-Starzyk, F., Daturi, M. & Hadjiivanov, K. FTIR spectroscopy study of CO and NO adsorption and co-adsorption on Pt/TiO
+2
+.
+J. Mol. Catal. A
+274
+, 179–184 (2007).
+Article
+CAS
+Google Scholar
+Aleksandrov, H. A., Neyman, K. M., Hadjiivanov, K. I. & Vayssilov, G. N. Can the state of platinum species be unambiguously determined by the stretching frequency of an adsorbed CO probe molecule?
+Phys. Chem. Chem. Phys.
+18
+, 22108–22121 (2016).
+Article
+CAS
+Google Scholar
+Zholobenko, V. L., Lei, G.-D., Carvill, B. T., Lerner, B. A. & Sachtler, W. M. H. Identification of isolated Pt atoms in H-mordenite.
+J. Chem. Soc. Faraday Trans.
+90
+, 233–238 (1994).
+Article
+CAS
+Google Scholar
+Redhead, P. A. Thermal desorption of gases.
+Vacuum
+12
+, 203–211 (1962).
+Article
+CAS
+Google Scholar
+Thang, H. V., Pacchioni, G., DeRita, L. & Christopher, P. Nature of stable single atom Pt catalysts dispersed on anatase TiO
+2
+.
+J. Catal.
+367
+, 104–114 (2018).
+Article
+CAS
+Google Scholar
+Freund, H.-J., Meijer, G., Scheffler, M., Schlögl, R. & Wolf, M. CO oxidation as a prototypical reaction for heterogeneous processes.
+Angew. Chem. Int. Ed.
+50
+, 10064–10094 (2011).
+Article
+CAS
+Google Scholar
+Bunluesin, T., Cordatos, H. & Gorte, R. J. Study of CO oxidation kinetics on Rh/ceria.
+J. Catal.
+157
+, 222–226 (1995).
+Article
+CAS
+Google Scholar
+Allian, A. D. et al. Chemisorption of CO and mechanism of CO oxidation on supported platinum nanoclusters.
+J. Am. Chem. Soc.
+133
+, 4498–4517 (2011).
+Article
+CAS
+Google Scholar
+Berlowitz, P. J., Peden, C. H. F. & Goodman, D. W. Kinetics of carbon monoxide oxidation on single-crystal palladium, platinum, and iridium.
+J. Phys. Chem.
+92
+, 5213–5221 (1988).
+Article
+CAS
+Google Scholar
+Dai, S. et al. In situ atomic-scale observation of oxygen-driven core–shell formation in Pt
+3
+Co nanoparticles.
+Nat. Commun
+.
+8
+, 204 (2017).
+Matsubu, J. C. et al. Adsorbate-mediated strong metal–support interactions in oxide-supported Rh catalysts.
+Nat. Chem.
+9
+, 120–127 (2017).
+Article
+CAS
+Google Scholar
+Resasco, J., Dai, S., Graham, G., Pan, X. & Christopher, P. Combining in-situ transmission electron microscopy and infrared spectroscopy for understanding dynamic and atomic-scale features of supported metal catalysts.
+J. Phys. Chem. C
+122
+, 25143–25157 (2018).
+Article
+CAS
+Google Scholar
+Crewe, A. V., Wall, J. & Langmore, J. Visibility of single atoms.
+Science
+168
+, 1338–1340 (1970).
+Article
+CAS
+Google Scholar
+Diebold, U., Ruzycki, N., Herman, G. S. & Selloni, A. One step towards bridging the materials gap: surface studies of TiO
+2
+anatase.
+Catal. Today
+85
+, 93–100 (2003).
+Article
+CAS
+Google Scholar
+Schimka, L. et al. Accurate surface and adsorption energies from many-body perturbation theory.
+Nat. Mater.
+9
+, 741–744 (2010).
+Article
+CAS
+Google Scholar
+Walsh, A., Sokol, A. A., Buckeridge, J., Scanlon, D. O. & Catlow, C. R. A. Oxidation states and ionicity.
+Nat. Mater.
+17
+, 958–964 (2018).
+Article
+CAS
+Google Scholar
+Paolucci, C. et al. Dynamic multinuclear sites formed by mobilized copper ions in NO
+x
+selective catalytic reduction.
+Science
+357
+, 898–903 (2017).
+Article
+CAS
+Google Scholar
+Hoffman, A. S., Singh, J. A., Bent, S. F. & Bare, S. R. In situ observation of phase changes of a silica-supported cobalt catalyst for the Fischer–Tropsch process by the development of a synchrotron-compatible in situ/operando powder X-ray diffraction cell.
+J. Synchrotron Radiat.
+25
+, 1673–1682 (2018).
+Article
+CAS
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+78
+, 1396–1399 (1997).
+Article
+CAS
+Google Scholar
+Chen, H.-Y. T. Y. T., Tosoni, S. & Pacchioni, G. Adsorption of ruthenium atoms and clusters on anatase TiO
+2
+and tetragonal ZrO
+2
+(101) surfaces: a comparative DFT study.
+J. Phys. Chem. C
+119
+, 10856–10868 (2015).
+Article
+CAS
+Google Scholar
+Blöchl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953–17979 (1994).
+Article
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758 (1999).
+Article
+CAS
+Google Scholar
+Chen, H.-Y. T., Tosoni, S. & Pacchioni, G. A. DFT study of the acid–base properties of anatase TiO
+2
+and tetragonal ZrO
+2
+by adsorption of CO and CO
+2
+probe molecules.
+Surf. Sci.
+652
+, 163–171 (2016).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+We acknowledge S. Hanukovich for his assistance with the microkinetic modelling in Supplementary Fig.
+8
+and the TPR experiment in Supplementary Fig.
+18
+. P.C. acknowledges funding from National Science Foundation (NSF) CAREER grant number CBET-1823189. The UCSB MRL Shared Experimental Facilities are acknowledged for use of the inductively coupled plasma–optical emission spectrometry equipment and are supported by the MRSEC Program of the NSF under award no. DMR 1720256; a member of the NSF-funded Materials Research Facilities Network (
+www.mrfn.org
+). The work of H.V.T. and G.P. was supported by the Italian MIUR through the PRIN Project 2015K7FZLH SMARTNESS. Use of the Stanford Synchrotron Radiation Lightsource, SLAC National Accelerator Laboratory, is supported by the US Department of Energy, Office of Science, Office of Basic Energy Sciences under contract no. DE-AC02-76SF00515. Co-ACCESS is supported by the US Department of Energy, Office of Science, Office of Basic Energy Sciences. TEM experiments was conducted using the facilities in the Irvine Materials Research Institute at the University of California-Irvine. The work at UC Irvine was supported by the National Science Foundation through the grant number DMR-1506535.
+Author information
+Author notes
+These authors contributed equally: Leo DeRita, Joaquin Resasco, Sheng Dai.
+Authors and Affiliations
+Department of Chemical Engineering, University of California Santa Barbara, Santa Barbara, CA, USA
+Leo DeRita, Joaquin Resasco, Insoo Ro & Phillip Christopher
+Department of Materials Science and Engineering, University of California Irvine, Irvine, CA, USA
+Sheng Dai, George W. Graham & Xiaoqing Pan
+Stanford Synchrotron Radiation Light Source, SLAC National Accelerator Laboratory, Menlo Park, CA, USA
+Alexey Boubnov, Adam S. Hoffman & Simon R. Bare
+Dipartimento di Scienza dei Materiali, Università di Milano-Bicocca, Milano, Italy
+Ho Viet Thang & Gianfranco Pacchioni
+Department of Materials Science and Engineering, University of Michigan, Ann Arbor, MI, USA
+George W. Graham
+Department of Physics and Astronomy, University of California Irvine, Irvine, CA, USA
+Xiaoqing Pan
+Irvine Materials Research Institute (IMRI), University of California Irvine, Irvine, CA, USA
+Xiaoqing Pan
+Authors
+Leo DeRita
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Joaquin Resasco
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sheng Dai
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Alexey Boubnov
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ho Viet Thang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Adam S. Hoffman
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Insoo Ro
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+George W. Graham
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Simon R. Bare
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Gianfranco Pacchioni
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaoqing Pan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Phillip Christopher
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+L.D. developed the catalyst synthesis; L.D. and J.R. performed infrared characterization and catalytic measurements; S.D. performed and analysed TEM measurements with supervision by X.P. and G.W.G.; L.D., A.S.H., A.B. and I.R. performed the XAS supervised by S.R.B.; A.B. performed the XAFS analysis; H.V.T. performed the DFT calculations supervised by G.P.; I.R. performed the inductively coupled plasma–optical emission spectrometry measurements. All authors analysed and interpreted the results and contributed to the preparation of the manuscript. P.C. conceived the project and oversaw all portions.
+Corresponding author
+Correspondence to
+Phillip Christopher
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note:
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Extended materials and methods, text, Figs. 1–18, Tables 1–5, refs. 1–34
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+DeRita, L., Resasco, J., Dai, S.
+et al.
+Structural evolution of atomically dispersed Pt catalysts dictates reactivity.
+Nat. Mater.
+18
+, 746–751 (2019). https://doi.org/10.1038/s41563-019-0349-9
+Download citation
+Received
+:
+07 January 2019
+Accepted
+:
+15 March 2019
+Published
+:
+22 April 2019
+Issue Date
+:
+July 2019
+DOI
+:
+https://doi.org/10.1038/s41563-019-0349-9
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Catalytic sites are finally in sight
+E. Charles H. Sykes
+Nature Materials
+News & Views
+19 Jun 2019
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Subjects
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Our publishing models
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Materials
+(
+Nat. Mater.
+)
+ISSN
+1476-4660
+(online)
+ISSN
+1476-1122
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

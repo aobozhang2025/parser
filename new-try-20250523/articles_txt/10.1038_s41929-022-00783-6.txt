@@ -1,0 +1,2938 @@
+Intramolecular hydroxyl nucleophilic attack pathway by a polymeric water oxidation catalyst with single cobalt sites | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Intramolecular hydroxyl nucleophilic attack pathway by a polymeric water oxidation catalyst with single cobalt sites
+Download PDF
+Download PDF
+Article
+Open access
+Published:
+25 May 2022
+Intramolecular hydroxyl nucleophilic attack pathway by a polymeric water oxidation catalyst with single cobalt sites
+Hao Yang
+1
+na1
+,
+Fusheng Li
+ORCID:
+orcid.org/0000-0003-3455-0855
+2
+na1
+,
+Shaoqi Zhan
+3
+,
+Yawen Liu
+4
+,
+Wenlong Li
+2
+,
+Qijun Meng
+1
+,
+Alexander Kravchenko
+1
+,
+Tianqi Liu
+ORCID:
+orcid.org/0000-0002-0672-9965
+1
+,
+Yi Yang
+ORCID:
+orcid.org/0000-0001-6595-4583
+1
+,
+Yuan Fang
+1
+,
+Linqin Wang
+ORCID:
+orcid.org/0000-0001-6293-6742
+5
+,
+Jiaqi Guan
+6
+,
+István Furó
+1
+,
+Mårten S. G. Ahlquist
+ORCID:
+orcid.org/0000-0002-1553-4027
+3
+&
+…
+Licheng Sun
+ORCID:
+orcid.org/0000-0002-4521-2870
+1
+,
+2
+,
+5
+Show authors
+Nature Catalysis
+volume
+5
+,
+pages
+414–429 (
+2022
+)
+Cite this article
+27k
+Accesses
+14
+Altmetric
+Metrics
+details
+Subjects
+Catalytic mechanisms
+Electrocatalysis
+Energy
+Heterogeneous catalysis
+Abstract
+Exploration of efficient water oxidation catalysts (WOCs) is the primary challenge in conversion of renewable energy into fuels. Here we report a molecularly well-defined heterogeneous WOC with Aza-fused, π-conjugated, microporous polymer (Aza-CMP) coordinated single cobalt sites (Aza-CMP-Co). The single cobalt sites in Aza-CMP-Co exhibited superior activity under alkaline and near-neutral conditions. Moreover, the molecular nature of the isolated catalytic sites makes Aza-CMP-Co a reliable model for studying the heterogeneous water oxidation mechanism. By a combination of experimental and theoretical results, a pH-dependent nucleophilic attack pathway for O-O bond formation was proposed. Under alkaline conditions, the intramolecular hydroxyl nucleophilic attack (IHNA) process with which the adjacent -OH group nucleophilically attacks Co
+4+
+=O was identified as the rate-determining step. This process leads to lower activation energy and accelerated kinetics than those of the intermolecular water nucleophilic attack (WNA) pathway. This study provides significant insights into the crucial function of electrolyte pH in water oxidation catalysis and enhancement of water oxidation activity by regulation of the IHNA pathway.
+Similar content being viewed by others
+{Co
+4
+O
+4
+} Cubanes in a conducting polymer matrix as bio-inspired molecular oxygen evolution catalysts
+Article
+Open access
+29 September 2024
+Stabilizing atomic Ru species in conjugated sp
+2
+carbon-linked covalent organic framework for acidic water oxidation
+Article
+Open access
+26 June 2024
+Engineering
+β
+-ketoamine covalent organic frameworks for photocatalytic overall water splitting
+Article
+Open access
+03 February 2023
+Main
+The oxygen evolution reaction (OER) is an ideal anodic reaction that provides electrons and protons for hydrogen generation, CO
+2
+and N
+2
+reduction and other electrochemical reactions. However, OER is hampered by the complex removal of four electrons from two water molecules, O-H bond cleavage and energy-intensive O-O bond formation
+1
+,
+2
+,
+3
+,
+4
+. Thus, the development of efficient, stable catalysts for OER is the premier challenge in conversion of renewable energy into chemical fuels, requiring a comprehensive mechanistic understanding of the catalytic process
+5
+. Significant efforts have been devoted to discovery of transition-metal-based OER catalysts
+6
+. An in-depth understanding of the OER mechanism and structure–function relationship of catalysts is indispensable for development of advanced catalytic systems. Owing to the facile tunability of the structural and electronic properties, and the ability to mediate multiple proton–electron transfer reactions, molecular WOCs with defined structures have drawn much attention and facilitated comprehensive mechanistic studies
+7
+. However, their instability and cumbersome synthesis and immobilization processes have limited their wide application. By contrast, the use of the more durable transition-metal-based heterogenous catalysts suffers from a lack of comprehensive elucidation of the water oxidation mechanism and structure–activity relationships. In particular, the existence of different catalytic sites in a single catalyst sample hinders elucidation of the heterogeneous WOC mechanism
+8
+. For instance, the disordered, uncertain chemical environment of catalytic sites in amorphous materials implies complex catalytic mechanisms; meanwhile, phase segregation, defect states and facet effects enable multiple potential catalytic pathways for crystalline materials
+9
+,
+10
+,
+11
+. Mixed mechanisms in a single-reaction system may complicate the interpretation and assignment of experimental kinetic results.
+The development of various support materials that can anchor isolated single-metal sites has progressed tremendously. However, most support materials used to immobilize single-metal sites are non-uniform (in size, edges and so on), which results in metal atoms being surrounded by different chemical environments. The overall heterogeneity of these catalytic sites has restricted their application in catalytic mechanism investigations
+12
+. Therefore, a catalytic system that can provide definite coordination environments to form structurally defined transition-metal active sites is crucial for reliable mechanistic studies of heterogeneous OER.
+Among known materials, covalent organic frameworks (COFs) provide abundant, uniform coordination sites through facile synthetic procedures
+13
+. Aza-CMP (Fig.
+1
+and Supplementary Fig.
+1
+), which is synthesized by the polycondensation of 1,2,4,5-benzenetetramine tetrahydrochloride and triquinoyl octahydrate, contains numerous well-dispersed and periodic pyridinic nitrogen coordination sites. Compared with two-dimensional (2D) graphene-based heterogeneous single-atom catalysts (SACs) that contain various binding modes, Aza-CMP contains only one type of pyridinic nitrogen functionality
+14
+. Its periodic microporous structure offers high chemical stability and good conductivity, which is essential for the construction of transition-metal sites–grafted heterogeneous catalysts with uniform chemical environments and virtually nonexistent structural evolution
+15
+,
+16
+.
+Fig. 1: Schematic diagram of the oxygen evolution reaction over Aza-CMP-Co under alkaline conditions.
+The Co-OOH fragment was generated via an intramolecular hydroxyl nucleophilic attack pathway where the adjacent -OH attacks the oxo ligand in Co
+4+
+=O to form an intramolecular O-O bond.
+Full size image
+Herein, a facile synthesis of Aza-CMP coordinated single cobalt sites as a heterogeneous catalyst for OER is reported (Fig.
+1
+). Subsequently, the OER kinetic features of the cobalt sites of Aza-CMP-Co under alkaline, near-neutral and non-aqueous conditions were systematically investigated. By combining kinetic features with theoretical calculations, a pH-related nucleophilic attack pathway was proposed for the O-O bond formation process over the cobalt sites. The IHNA, where the adjacent -OH attacks Co
+4+
+=O to form the O-O bond, occurred under alkaline conditions, leading to much lower activation energy than intermolecular WNA under neutral conditions, and resulted in considerable performance enhancement in NaOH electrolytes compared with NaBi solutions. Our results provide prospective insights into the design and mechanism of high-performance catalysts for water oxidation electrocatalysis under both neutral and alkaline conditions.
+Results
+Synthesis and characterization of the catalyst
+Aza-CMP was prepared according to a method previously reported
+17
+. The chemical structure and composition of as-fabricated Aza-CMP were confirmed by multiple techniques (Supplementary Note
+1
+). Subsequently, Aza-CMP was treated with cobalt(II) acetate/dimethylformamide solution under ultrasonic conditions to introduce cobalt ions into the CMP structure (Fig.
+2a
+). The cobalt component in Aza-CMP-Co was examined using inductively coupled plasma–optical emission spectroscopy (ICP–OES). The total Co
+2+
+content of as-fabricated Aza-CMP-Co was 1.86 wt%, corresponding to a cobalt loading level of 10
+−7
+mol mg
+Aza-CMP
+–1
+. This Co
+2+
+content is much lower than the theoretical maximum loading amount for Aza-CMP-Co (40 wt%, assuming that all N sites are coordinated with 1/2 of a cobalt atom). Interestingly, after liquid-phase protonation-assisted exfoliation of Aza-CMP in 37% HCl
+18
+, ICP–OES analysis results showed that the synthesized Aza-CMP-Co (exfoliated) accommodated tenfold higher Co
+2+
+loading (19.2 wt%) than that of untreated Aza-CMP-Co. Considering that two cobalt atoms coordinated to adjacent phenanthroline units would cause crowding, 20 wt% was considered the theoretical maximum, which can be achieved by exfoliation treatment.
+Fig. 2: Compositional, structural and morphological characterization of Aza-CMP-Co catalysts.
+a
+, Chemical structure of Aza-CMP-Co catalysts.
+b
+–
+d
+, PDXR (
+b
+), Raman (
+c
+) and FT–IR (
+d
+) spectra of Aza-CMP-Co and Aza-CMP-Co (exfoliated).
+e
+–
+g
+, High-resolution XPS spectra of Aza-CMP-Co and Aza-CMP-Co (exfoliated) for regions Co 2p (
+e
+), N 1s (
+f
+) and C 1s (
+g
+).
+h
+,
+i
+, Normalized Co K-edge XANES spectra (
+h
+) and k
+2
+-weighted Co K-edge FT EXAFS spectra (
+i
+) of Aza-CMP-Co, Aza-CMP-Co (exfoliated) and reference materials.
+j
+, Experimental and fitted Co K-edge EXAFS curves of Aza-CMP-Co and Aza-CMP-Co (exfoliated). Inset: schematic model of Aza-CMP-Co for FEFF calculation.
+k
+, WTs of Aza-CMP-Co, Aza-CMP-Co (exfoliated) and reference materials.
+l
+, Atomic-resolution image of Aza-CMP-Co (red circles indicate single molecular sites).
+m
+, AFM image of Aza-CMP-Co.
+n
+, Atomic-resolution image of Aza-CMP-Co (exfoliated) (red circles indicate single molecular sites).
+o
+, AFM image of Aza-CMP-Co (exfoliated). au, Arbitrary units.
+Full size image
+Complexation between Co
+2+
+and Aza-CMP was further examined using X-ray photoelectron spectroscopy (XPS). The high-resolution XPS spectra of Co 2p, C 1s, N 1s and O 1s regions are presented in Fig.
+2e–g
+and Supplementary Fig.
+2
+. The Co 2p spectra of Aza-CMP-Co and Aza-CMP-Co (exfoliated) show doublet peaks centred respectively at ~781.2 (2p
+3/2
+) and 796.7 eV (2p
+1/2
+) with three satellite features, corresponding to peaks observed in Co
+2+
+complexes containing nitrogen ligands rather than cobalt oxides
+19
+,
+20
+. The Aza-CMP-Co and Aza-CMP-Co (exfoliated) spectra show signals similar to those of pristine Aza-CMP in the N 1s and C 1s energy regions. The characteristic band for N 1s appears at 399.5 eV, indicating the presence of sp
+2
+-hybridized nitrogen components in the holey 2D structure
+21
+. Additionally, the binding energy peaks at 283.9 and 284.8 eV in the C 1s spectra can be assigned to sp
+2
+- and sp
+3
+-hybridized carbon (contributed by surface contaminations), respectively. The two central peaks at 285.5 and 287.7 eV correspond to sp
+2
+C-N bonding and sp
+3
+C-N/other superficial C=O species, respectively
+22
+. The O 1s spectra can be deconvoluted into three peaks attributed to -OH, OH
+2
+and C=O groups. The absence of an O 1s signal from metal oxides at ~529 eV implies that no metal oxide phase is generated on the surface of either catalyst
+23
+. The powder X-ray diffraction (PDXR) patterns of Aza-CMP-Co and Aza-CMP-Co (exfoliated) are consistent with those of pristine Aza-CMP and Aza-CMP (exfoliated), indicating that the layered and crystalline COF matrix was maintained after Co
+2+
+immobilization (Fig.
+2b
+). The porous structure was evaluated by nitrogen adsorption–desorption isotherms measured at 77 K, which revealed that Aza-CMPs and Aza-CMP-Co are microporous materials (Supplementary Fig.
+3
+). Pore size distribution information was analysed by the non-local density functional theory (NLDFT) method. Aza-CMP and Aza-CMP (exfoliated) powders show a pore size of ~1.36 nm, which matches that of the Aza-CMP structure in the literature (1.37 nm)
+24
+,
+25
+. Due to relatively low metal loading (1.86 wt%), Aza-CMP-Co shows an almost identical pore size distribution to that of Aza-CMP and Aza-CMP (exfoliated). However, Aza-CMP-Co (exfoliated), with nearly 20 wt% metal loading, demonstrates distinctively smaller pore size (1.25 nm) and sub-nanostructure compared with those of other samples, indicating that complexation between Co
+2+
+and Aza-CMP occurs within the micropores of Aza-CMP. The chemical structure of Aza-CMP-Co was further examined by solid-state
+13
+C cross-polarization/magic angle-spinning nuclear magnetic resonance (
+13
+C CP/MAS NMR) spectroscopy. As shown in Supplementary Fig.
+4
+, the loading of paramagnetic Co
+2+
+broadens NMR peaks but chemical shifts from the CMP matrix can still be identified for the Aza-CMP-Co sample. Fourier transform–infrared (FT–IR) and Raman spectroscopy were used to further confirm the functional groups in Aza-CMP-Co and Aza-CMP-Co (exfoliated). The similar Raman spectra obtained for Aza-CMP-Co, Aza-CMP-Co (exfoliated), Aza-CMP and Aza-CMP (exfoliated) prove that no cobalt oxide phases are generated during complexation (Fig.
+2c
+). In the FT–IR spectra, characteristic peaks attributed to C-C, C=C and C=N vibrations remained after Co
+2+
+binding, proving that the chemical structure of the Aza-CMP backbone is preserved well after Co
+2+
+modification (Fig.
+2d
+). A blue shift for ν(C=N) was observed after complexation, when more Co
+2+
+ions were anchored on N sites and ν(C=N) of Aza-CMP-Co (exfoliated) further shifted to 1,251 cm
+−1
+, indicating coordination between Co
+2+
+and the phenanthroline-like structure in Aza-CMP
+26
+. A similar blue-shift tendency was observed for the -C=C- vibration. In addition, the intensity of the -C-C- vibration diminished as cobalt loading increased, demonstrating the change in the local coordination environment. The valence states and local bonding symmetry of as-fabricated catalysts were probed using the X-ray absorption near-edge structure (XANES) technique. Figure
+2h
+shows the XANES spectra for Aza-CMP-Co and Aza-CMP-Co (exfoliated) with their corresponding reference samples. The XANES profiles of Aza-CMP-Co and Aza-CMP-Co (exfoliated) are virtually identical, suggesting that the same coordination environment was adopted by both catalysts. However, the overall profile of Aza-CMP-Co and Aza-CMP-Co (exfoliated) drastically deviates from those of Co foil, CoO and Co
+2
+O
+3
+because of their intrinsically different coordination environments. The normalized Co K-edge absorption thresholds of as-fabricated catalysts are similar to those of CoO, indicating that the valence state of cobalt is approximately +2. Moreover, the weak intensity of the pre-edge peak at 7,710.4 eV indicates a broken square-planar configuration and the presence of axial ligands
+27
+. The coordination configurations for the as-fabricated catalysts were further investigated by extended X-ray absorption fine structure (EXAFS) analysis. As shown in Fig.
+2i
+and Supplementary Fig.
+5
+, the FT EXAFS spectra of Aza-CMP-Co and Aza-CMP-Co (exfoliated) feature almost identical dominant peaks in the first-shell region, indicating the same coordination configuration. Specifically, the dominant peaks located at ~1.65 Å are ascribed to the Co-N/O scattering path. The absence of peaks in the second-shell region suggests the absence of a Co-based metal or an oxide phase, which further corroborates the formation of single-site cobalt ions in Aza-CMP-Co catalysts. EXAFS wavelet transform (WT) analysis in Fig.
+2k
+provides additional k-space resolution to discriminate backscattering atoms despite their considerable overlap in the R space
+28
+. WT analysis of Aza-CMP-Co and Aza-CMP-Co (exfoliated) detected only one intensity maximum (assigned to the Co-N/O contributions) at 3.90 and 3.91 Å
+−1
+, respectively, which can be clearly distinguished from the Co-Co (Co foil, k = 7.3 Å
+−1
+), Co-O (Co
+2
+O
+3
+, k = 4.7 Å
+−1
+) and Co-O paths (CoO, k = 3.7 Å
+−1
+), suggesting that cobalt ions in Aza-CMP-Co exist as mononuclear metal centres even when cobalt loading reaches 20 wt%. The least-squares EXAFS fitting of Aza-CMP-Co and Aza-CMP-Co (exfoliated) in R space was then performed to acquire quantitative structural parameters. EXAFS spectra were analysed using Co-N and Co-O paths from FEFF calculations based on the DFT model of Aza-CMP-Co (Fig.
+2j
+and Supplementary Fig.
+6
+). For Aza-CMP-Co, the best-fitting analyses show that the primary peak at 1.65 Å originates from two paths with distances of 2.00 and 2.10 Å. Considering the potential coordination between Co and the phenanthroline-like structure in Aza-CMP, the shorter path is attributed to Co-N bonds and the coordination numbers were constrained as 2; the longer bond is assigned to Co-O bonds, with the O atom originating from the absorbed hydroxyl or water group. The corresponding coordination number of the longer Co-O path is calculated to be 3.8 (Supplementary Table
+1
+), thus revealing a Co-N
+2
+/O
+4
+moiety shown in Fig.
+2a
+.
+The morphologies of Aza-CMP-Co and Aza-CMP-Co (exfoliated) were studied by atomic force microscopy (AFM), field-emission scanning electron microscopy (FE–SEM) and high-angle annular dark-field scanning transmission electron microscopy (HAADF–STEM). As shown in Fig.
+2m
+and Supplementary Fig.
+7
+, a layered structure of approximately 4 nm in thickness was observed in the AFM images of catalyst films on a silicon wafer, which implies that the layered CMP matrix maintained its structure after Co
+2+
+complexation. No noticeable morphological changes were observed in comparison of SEM images of Aza-CMP and Aza-CMP (exfoliated) (Supplementary Note
+1
+) with those of Aza-CMP-Co and Aza-CMP-Co (exfoliated) (Supplementary Fig.
+8
+). The single metal element is readily visible in the atomic-resolution HAADF–STEM image. The bright dots in Fig.
+2l
+suggest that Co is atomically dispersed in Aza-CMP-Co without aggregated nanoparticles. The high density of bright dots in Fig.
+2n
+indicates that the exfoliated catalyst contains more cobalt sites than in Aza-CMP-Co, which is in agreement with ICP–OES results. The Z-contrast HAADF–STEM images and corresponding energy-dispersive X-ray (EDX) elemental mapping images obtained under different magnifications show a uniform distribution of Co, C, N and O in the nano-porous 2D–CMP framework without aggregation (Supplementary Figs.
+9
+and
+10
+).
+OER electrocatalysis
+The successful construction of the Aza-CMP-Co catalyst containing single cobalt sites provides a great opportunity to study the OER mechanism on isolated cobalt active sites. Before conducting the OER mechanistic study of Aza-CMP-Co, the electrocatalytic OER performance of Aza-CMP-Co was first explored using 1.0 M NaOH solutions at a mass loading of 0.4 mg cm
+−2
+on a carbon paper (CP) electrode (Aza-CMP-Co (exfoliated)/CP and Aza-CMP-Co/CP). A typical Co(OH)
+2
+catalyst was electrodeposited on a CP substrate (Co(OH)
+2
+/CP) for direct comparison with Aza-CMP-Co, and the pristine Aza-CMP/CP sample was included as a control. In Fig.
+3a
+, the polarization curves show that Aza-CMP-Co (exfoliated)/CP exhibited the highest catalytic activity.
+Fig. 3: OER catalytic performance of Aza-CMP-Co catalysts.
+a
+,
+b
+, LSV curves of Aza-CMP-Co and reference samples in 1.0 M NaOH (
+a
+, scan rate, 1 mV s
+−1
+) and corresponding Tafel slopes (
+b
+).
+c
+, TOFs of Aza-CMP-Co based on redox-active cobalt and current densities versus various overpotentials in 1.0 M NaOH.
+d
+,
+e
+, LSV curves of Aza-CMP-Co and reference electrodes in 0.5 M NaBi buffer (
+d
+, pH 9.2, scan rate 5 mV s
+−1
+) and corresponding Tafel slopes (
+e
+).
+f
+, TOFs of Aza-CMP-Co based on redox-active cobalt and current densities versus various overpotentials in 0.5 M NaBi buffer.
+Full size image
+The onset potentials of Aza-CMP-Co (exfoliated)/CP and Aza-CMP-Co/CP were ~1.47 and 1.48 V, respectively (defined as potential at 0.1 mA cm
+−2
+versus reversible hydrogen electrode, RHE). By contrast, an onset potential of 1.58 V was observed for the Co(OH)
+2
+/CP electrodes. Corresponding Tafel plots were extracted from polarization curves (Fig.
+3b
+); Aza-CMP-Co (exfoliated)/CP and Aza-CMP-Co/CP exhibit similar Tafel slopes, of approximately 44 mV dec
+−1
+, while the electrodeposited Co(OH)
+2
+/CP exhibits a higher Tafel slope of 65.4 mV dec
+−1
+, implying that Aza-CMP-Co (exfoliated) and Aza-CMP-Co undergo the same OER reaction pathway that deviates significantly from that of Co(OH)
+2
+. Benefitting from rapid catalytic kinetics, the overpotential requirements at current densities of 10 and 100 mA cm
+−2
+were only 289 and 335 mV, respectively, for the Aza-CMP-Co (exfoliated)/CP electrode. Owing to the relatively low metal loading level (~2 wt%), the Aza-CMP-Co/CP electrode required overpotentials of 324 and 370 mV to reach current densities of 10 and 100 mA cm
+−2
+, respectively. Supplementary Fig.
+11
+shows the differential pulse voltammetry (DPV) curves of Aza-CMP-Co (exfoliated) and Aza-CMP-Co in a potential range of 0.95–1.55 V versus RHE. Two redox peaks, assignable to redox potentials of the Co
+2+/3+
+couple at ~1.07 V versus RHE and the Co
+3+/4+
+redox couple at ~1.45 V versus RHE, were observed for both samples before OER onset. Notably, the cyclic voltammetry (CV) curve of Aza-CMP-Co showed the oxidation potential (
+E
+po
+) of Co
+2+/3+
+, which is consistent with the reverse reduction potential (
+E
+pr
+) of Co
+3+/2+
+(
+E
+po
+=
+E
+pr
+), corresponding to the behaviour of molecules immobilized on the surface
+29
+. This phenomenon also suggests rapid reactant diffusion at the cobalt sites, which is required for further reaction kinetics investigations (Supplementary Fig.
+12
+explains the reason for avoiding the strongly acidic Nafion binding glue in our test system)
+30
+. The level of redox-active Co
+2+
+sites on the electrode was calculated according to the linear relationship between the peak current of Co
+2+/3+
+and scan rate
+30
+,
+31
+,
+32
+. Aza-CMP-Co contains active cobalt sites of 8.52 × 10
+−9
+mol cm
+−2
+, and the order of magnitude of catalyst loading is consistent with that of molecules immobilized on the surface of porous substrates (Supplementary Fig.
+13
+)
+33
+. Consistent with the ICP–OES results, the active cobalt site loading of Aza-CMP-Co (exfoliated) is 8.50 × 10
+−8
+mol cm
+−2
+, which is tenfold higher than that of Aza-CMP-Co (Supplementary Fig.
+14
+). Turnover frequencies (TOFs) of both catalysts were calculated based on the redox-active Co
+2+
+sites (TOF
+redox-active
+) and total Co content (TOF
+total-content
+) (Fig.
+3c
+). The TOF logarithm varies linearly as a function of the applied overpotentials between 280 and 360 mV. Aza-CMP-Co exhibited the best TOFs over the entire potential range, achieving a TOF
+redox-active
+of 0.95 s
+−1
+at an overpotential of 300 mV that further reached 10.6 s
+−1
+at an overpotential of 350 mV (Supplementary Fig.
+15a
+). For the exfoliated sample, lower TOF
+redox-active
+values of 0.73 and 7.7 s
+−1
+were achieved at overpotentials of 300 and 350 mV, respectively. In addition, the TOF
+total-content
+values of Aza-CMP-Co and Aza-CMP-Co (exfoliated) reached 0.1 s
+−1
+at overpotentials of 313 and 321 mV, respectively; these results are superior to those achieved by most cobalt oxide/hydroxide-based catalysts applied in electrocatalytic alkaline water oxidation (Supplementary Table
+2
+). The durability of the Aza-CMP-Co (exfoliated)/CP and Aza-CMP-Co/CP electrodes was measured in 1.0 M NaOH. After a 5 h electrolysis test, constant overpotentials of 1.522 and 1.557 V were required to achieve a current density of 10 mA cm
+−2
+for Aza-CMP-Co (exfoliated)/CP and Aza-CMP-Co/CP electrodes, respectively (Supplementary Fig.
+16a
+). These values indicate good catalytic stability of the catalysts under operating conditions.
+The OER performance of Aza-CMP-Co was further investigated under near-neutral conditions (0.5 M sodium borate buffer, pH 9.2). The Aza-CMP-Co (exfoliated) catalyst required overpotentials of 309 and 400 mV to reach current densities of 1 and 10 mA cm
+−2
+, respectively (Fig.
+3d
+). The corresponding Tafel slope of Aza-CMP-Co (exfoliated)/CP was calculated at 75.4 mV dec
+−1
+, indicating relatively rapid OER kinetics under near-neutral conditions (Fig.
+3e
+). By comparison, the geometric current density of Aza-CMP-Co/CP was lower than that of the exfoliated samples. The overpotential requirements at current densities of 1.0 and 10 mA cm
+−2
+were 388 and 446 mV, respectively, for the Aza-CMP-Co/CP electrode. The levels of active cobalt sites were calculated using a Co
+2+/3+
+redox method in a buffer (pH 9.2). The loading levels of 7.69 × 10
+−8
+and 8.46 × 10
+−9
+mol cm
+−2
+for Aza-CMP-Co (exfoliated)/CP and Aza-CMP-Co/CP, respectively, are remarkably similar to those obtained under alkaline conditions (Supplementary Figs.
+17
+and
+18
+). The TOF
+redox-active
+and TOF
+total-content
+values of Aza-CMP-Co (exfoliated)/CP and Aza-CMP-Co/CP under near-neutral conditions increased exponentially at the applied overpotentials between 360 and 440 mV (Fig.
+3f
+and Supplementary Fig.
+15b
+). The TOF
+redox-active
+of Aza-CMP-Co/CP reached 1.0 s
+−1
+per redox-active Co
+2+
+site at an applied overpotential of 425 mV, and further increased to 2.9 s
+−1
+at an overpotential of 450 mV, while that of the exfoliated sample was 1.0 s
+−1
+at an overpotential of 439 mV.
+The OER performance of Aza-CMP-Co is superior to that of most cobalt-based electrocatalysts under near-neutral conditions (Supplementary Table
+3
+); despite the common phenomenon of performance loss when switching from alkaline to near-neutral conditions, Aza-CMP-Co catalysts maintained high activity and outperformed state-of-the-art Co-based electrocatalysts operating under identical conditions. The durability of Aza-CMP-Co during OER in NaBi buffer (pH 9.2) was assessed via chronopotentiometry. The Aza-CMP-Co (exfoliated)/CP and Aza-CMP-Co/CP electrodes required approximately 1.66 and 1.72 V, respectively, to achieve an OER current density of 10 mA cm
+−2
+(without ohmic drop (iR) compensation), indicating excellent catalytic stability under near-neutral conditions (Supplementary Fig.
+16b
+).
+Characterizations after OER catalysis are necessary to prove the structural stability of catalysts, and are prerequisites for investigating the reaction mechanism of as-fabricated catalysts. The STEM technique was first used to examine the evolution of cobalt sites in both catalysts. EDX elemental mapping confirmed the uniform distribution of cobalt sites in Aza-CMP-Co after OER (Fig.
+4a
+); the HAADF–STEM image (Fig.
+4b
+) suggests that cobalt atoms in the Aza-CMP framework maintain atomic dispersion without aggregation. The STEM image of the thinner edge of the sample shows the layered structure of Aza-CMP, and the existence of single-metal sites is apparent (Fig.
+4c
+). The composition and electronic states of Aza-CMP-Co after OER were analysed using XPS. The high-resolution spectra of used Aza-CMP-Co correspond to those of the pristine sample, with no oxide phase present in the Co 2p and O 1s areas (Fig.
+4d,e
+and Supplementary Fig.
+19
+). Raman spectra of Aza-CMP-Co on the electrode were recorded before and after the OER test (Supplementary Fig.
+20
+), and showed that no oxide phases were present after OER. XANES and EXAFS spectra in R and k spaces were plotted to further illustrate the change in coordination environments after photo-driven oxygen evolution (see
+Methods
+for details about OER post treatment). The almost coincident curves in Fig.
+4f–h
+suggest minimal changes in the first-coordination shell around cobalt sites after OER. Moreover, WT analysis results of Aza-CMP-Co and Aza-CMP-Co (posted) exhibit similar intensity maxima at 3.90 and 3.87 Å
+−1
+, respectively, suggesting that Aza-CMP-Co exists as mononuclear metal centres after OER (Fig.
+4i
+). Notably, the redox features and catalytic current density of Aza-CMP-Co are preserved after 400 CV scans in various electrolytes, revealing good stability of single-site cobalt toward OER under broad pH conditions (Supplementary Fig.
+21
+). For Aza-CMP-Co (exfoliated), aggregation of the cobalt component was observed in EDX elemental mapping images (Fig.
+4j–l
+and Supplementary Fig.
+22
+). Figure
+4m
+shows numerous cobalt sites present in the selected area after catalysis. However, nano-oxide clusters and crystalline oxide slices were also generated during OER (Fig.
+4n,o
+). Compared with the XPS spectra of Aza-CMP-Co (exfoliated) before and after catalysis, the shifted Co 2p peak at 779.7 eV and the new O 1s peak at 529.8 eV confirm the presence of cobalt oxide species (Fig.
+4p,q
+). The FT–IR features of the used Aza-CMP-Co (exfoliated) correspond to those of Aza-CMP-Co rather than those of pristine Aza-CMP-Co (exfoliated) in the sections marked 1, 2 and 3, implying a decrease in coordinated cobalt sites after catalysis (Fig.
+4r
+). In summary, the dynamic evolution of the cobalt composition in Aza-CMP varied with metal site loading: with a relatively low metal loading, Aza-CMP-Co showed excellent structural stability while the increase in cobalt site loading to approximately 20 wt% (most SACs have a low metal content of <1 wt% (ref.
+34
+)) resulted in distinct decomposition of cobalt sites owing to the high concentration of molecular cobalt in the confined local area. Additionally, the formation of oxide phases explains the lower TOFs of Aza-CMP-Co (exfoliated) compared with those of Aza-CMP-Co and the asymmetric redox peak in Supplementary Fig.
+11b
+.
+Fig. 4: Compositional, structural and morphological characterization of tested Aza-CMP-Co catalysts.
+a
+, Elemental mapping images.
+b
+,
+c
+, Atomic-resolution HAADF images of used Aza-CMP-Co in bulk (
+b
+) and thinner edge (
+c
+) (red circles indicate molecular sites).
+d
+,
+e
+, XPS spectra of used Aza-CMP-Co/CP in regions Co 2p (
+d
+) and O 1s (
+e
+).
+f
+, Normalized Co K-edge XANES spectra of Aza-CMP-Co and Aza-CMP-Co (posted).
+g
+,
+h
+, k
+2
+-Weighted Co K-edge FT EXAFS spectra of Aza-CMP-Co and Aza-CMP-Co (posted) in R (
+g
+) and k space (
+h
+).
+i
+, WT of Aza-CMP-Co (posted).
+j
+–
+l
+, HAADF–STEM image (
+j
+), merged elemental mapping image (
+k
+) and cobalt mapping image (
+l
+) of used Aza-CMP-Co (exfoliated).
+m
+–
+o
+, Atomic-resolution HAADF images of used Aza-CMP-Co (exfoliated) in single-atom area (
+m
+), mixed area (
+n
+) and crystalline area (
+o
+);
+o
+, inset: FT pattern of the selected area.
+p
+,
+q
+, XPS spectra of used Aza-CMP-Co (exfoliated)/CP for regions Co 2p (
+p
+) and O 1s (
+q
+).
+r
+, FT–IR spectra of used Aza-CMP-Co (exfoliated)/CP.
+Full size image
+OER mechanistic insights
+Oxygen evolution reaction under mild pH conditions generally suffers from low activity and high overpotential. Although Aza-CMP-Co catalysts exhibited good performance under near-neutral conditions compared with other reported systems, significant performance loss in terms of overpotential, onset potential, Tafel slopes and TOFs occurred when the alkaline electrolyte was exchanged for a mildly basic example. Molecularly well-defined Aza-CMP-Co catalysts, containing Co
+2+
+active sites on a regular CMP matrix, provide an excellent platform for mechanistic studies. Aza-CMP-Co (exfoliated) showed the highest geometric current density but suffered from active site decomposition during catalysis. In addition, because Aza-CMP-Co exhibited higher TOFs than those of Aza-CMP-Co (exfoliated) under basic and near-neutral conditions, the former was selected for kinetic studies. The level of oxygen electrochemically generated from the Aza-CMP-Co system was confirmed using a pressure transducer. Quantitative yields of Aza-CMP-Co were 98.8% in 1.0 M NaOH and 98.3% in 0.5 M NaBi, indicating that the accumulated charge passed through Aza-CMP-Co electrodes can be almost quantitatively consumed in OER (Supplementary Fig.
+23
+). To confirm that the cobalt sites in Aza-CMP-Co induced OER activity, an EDTA treatment experiment was performed. The presence of a strongly chelating EDTA ligand in the solution resulted in detachment of Co ions from the coordination sites in Aza-CMP-Co
+35
+. As shown in Supplementary Fig.
+24
+, the treated sample lost its redox features and OER activity. Thus, water oxidation currents were achieved by the coordinated cobalt sites in Aza-CMP-Co during catalysis.
+Kinetics under aqueous conditions
+Linear sweep voltammetry (LSV) of Aza-CMP-Co/CP shows similar OER current densities under both stationary and rotating conditions, demonstrating efficient mass transport on the electrode surface during water oxidation, which is expected for 2D porous structures (Supplementary Fig.
+25
+). Kinetic studies were conducted to understand OER catalysis by cobalt sites, and the performance gap, along with a wide range of pH conditions. The pH-dependent performance studies were conducted in NaOH solutions in the absence of buffer anions to investigate the proton–electron transfer process of cobalt active sites under alkaline conditions. The distinct electrochemical signal of the higher-valence cobalt states facilitates tracking and interpretation of the evolution of active cobalt sites during the OER cycle. CV and DPV performed at the normal hydrogen electrode (NHE) scale were used to determine proton participation in the Co
+2+/3+
+and Co
+3+/4+
+redox and oxygen evolution processes (Fig.
+5a
+). As illustrated on the Pourbaix diagram (Fig.
+5b
+), the slope of the Co
+2+/3+
+redox was −117 mV pH
+−1
+, corresponding to a two-proton/one-electron transfer process (2H
++
+/1e
+−
+). For the Co
+3+/4+
+redox couple, the slope was −63 mV pH
+−1
+, corresponding to a 1H
++
+/1e
+−
+transfer process. Notably, these proton-coupled electron transfer (PCET) features are consistent with those of reported molecular cobalt-based heterogeneous electrocatalysts
+35
+, and different from cobalt hydroxides under alkaline conditions (Supplementary Note
+2
+)
+36
+. The pH-dependence studies were also conducted under near-neutral conditions using either borate (Fig.
+5e
+and Supplementary Fig.
+26
+) or phosphate (Supplementary Fig.
+27
+) buffer anions. As illustrated in the Pourbaix diagram, the redox potentials plotted in the pH 6.0–13.0 range are independent of the type of buffer anion (Fig.
+5f
+and Supplementary Fig.
+27c
+). The first redox process observed in the pH 6.0– 9.0 range was assigned to the oxidation of [N
+2
+L
+2
+Co
+2+
+(OH
+2
+)
+2
+] to [N
+2
+L
+2
+Co
+3+
+(OH
+2
+)(OH)], with concomitant loss of one proton (L represents a OH or H
+2
+O ligand according to the Co-N
+2
+/O
+4
+moiety as determined by EXAFS analysis, and N denotes a coordinated nitrogen atom of Aza-CMP). Interestingly, a clear inflection point occurred in the Co
+2+/3+
+line at pH >9.0, and a two-proton transfer process from [N
+2
+L
+2
+Co
+2+
+(OH
+2
+)
+2
+] to [N
+2
+L
+2
+Co
+3+
+(OH)
+2
+] is proposed according to the slope value of −115 mV pH
+−1
+. This slope is also consistent with the Pourbaix diagram of Aza-CMP-Co in unbuffered alkaline solution (Fig.
+5b
+). Therefore, the p
+K
+a
+value of [N
+2
+L
+2
+Co
+3+
+(OH
+2
+)(OH)] is close to 9.0. In addition, the line attributed to the PCET process of Co
+3+/4+
+maintained its 1H
++
+/1e
+−
+feature over a wide range of pH (6.0–13.0), which implies that cobalt sites can undergo a similar Co
+3+/4+
+pathway over a wide range of pH, rendering pH crucial in accessing reactive catalytic species. Notably, the redox properties of Co
+2+/3+
+and Co
+3+/4+
+in Aza-CMP-Co are similar to those of Ru
+2+/3+
+and Ru
+3+/4+
+in
+cis
+-[(bpy)
+2
+Ru
+II
+(OH
+2
+)
+2
+]
+2+
+(bpy, 2,2′-bipyridine), in which the inflection point is observed in the Ru
+2+/3+
+line at pH 5.5 (ref.
+37
+).
+Fig. 5: pH dependency, KIEs and redox state investigations of Aza-CMP-Co catalysts.
+a
+,
+b
+, CV and DPV curves of Aza-CMP-Co under different pH conditions (unbuffered NaOH solutions) (
+a
+) and corresponding Pourbaix diagram (scan rate, 50 mV s
+−1
+, without iR compensation) (
+b
+).
+c
+, pH-dependent OER activity (potential determined at 2.0 mA cm
+−2
+).
+d
+, LSV curves of Aza-CMP-Co in 1.0 M NaOD/D
+2
+O and NaOH/H
+2
+O solutions (scan rate, 5 mV s
+−1
+); inset: KIE against potential.
+e
+,
+f
+, CV curves of Aza-CMP-Co under different pH conditions (borate buffered solutions) (
+e
+) and corresponding Pourbaix diagram (scan rate, 50 mV s
+−1
+, without iR compensation) (
+f
+).
+g
+, pH-dependent OER activity (potential determined at 2.0 mA cm
+−2
+in NaBi buffer).
+h
+, LSV curves of Aza-CMP-Co in 0.1 M NaBi/D
+2
+O and NaBi/H
+2
+O solutions (scan rate, 5 mV s
+−1
+); inset, KIE against overpotential.
+i
+, CV curves of Aza-CMP-Co and Aza-CMP on CP in dry acetonitrile (scan rate, 50 mV s
+−1
+).
+j
+, CV curves of Aza-CMP-Co following addition of water and NaOH to the non-aqueous electrolyte.
+k
+, DPV curves of Aza-CMP-Co in acetonitrile and water/NaOH with acetonitrile electrolytes added.
+l
+, CV calculated for Aza-CMP-Co (1.0 M NaOH; scan rate, 50 mV s
+−1
+).
+Full size image
+Density functional theory calculations were applied to verify the configuration of cobalt sites under different oxidation states. The functional choice was rationalized by screening several non-hybrid and hybrid functionals, and comparing the calculated results with experimental values (Supplementary Note
+3
+). Different spin states of the catalytic Co atom in Aza-CMP-Co were calculated under different oxidation states to determine the corresponding structure with the lowest energy. For the Co
+2+
+state, the quartet [Co
+2+
+(OH)(OH
+2
+)
+3
+]
++
+was calculated to be the ground state at the experimental pH, corresponding to the Co-N
+2
+/O
+4
+moiety in EXAFS analysis (Supplementary Fig.
+41
+). After oxidization to the Co
+3+
+state, a p
+K
+a
+of 8.3 was calculated for the [Co
+3+
+(OH)
+2
+(OH
+2
+)
+2
+]
++
+/[Co
+3+
+(OH)
+3
+(OH
+2
+)] redox, which agrees well with the experimental value of 9.0 from the Pourbaix diagram. Meanwhile, further deprotonation of [Co
+3+
+(OH)
+3
+(OH
+2
+)] to form [Co
+3+
+(OH)
+4
+]
+−
+proved unfavourable due to high p
+K
+a
+(25.3). Although the singlet state of [Co
+3+
+(OH)
+2
+(OH
+2
+)
+2
+]
++
+has lower energy than both the triplet and quintet, the triplet state of [Co
+3+
+(OH)
+3
+(OH
+2
+)] has lower energy than both the singlet and quintet. Therefore, {[Co
+2+
+(OH)(OH
+2
+)
+3
+]
++
+}
+Q
+is oxidized via a 1H
++
+/1e
+−
+process to form {[Co
+3+
+(OH)
+2
+(OH
+2
+)
+2
+]
++
+}
+S
+under relatively low-pH (<8.3) conditions, and undergoes a 2H
++
+/1e
+−
+process to form [Co
+3+
+(OH)
+3
+(OH
+2
+)]
+T
+under high-pH (>8.3) conditions. For the Co
+4+
+state, the calculated p
+K
+a
+of [Co
+4+
+=O(OH)(OH
+2
+)
+2
+]
++
+/[Co
+4+
+=O(OH)
+2
+(OH
+2
+)] is 10.4. Further deprotonation of [Co
+4+
+=O(OH)
+2
+(OH
+2
+)]/[Co
+4+
+=O(OH)
+3
+]
+–
+is also unfavourable due to high p
+K
+a
+(31.9). The p
+K
+a
+analysis indicates that at low (<10.4) and high pH (>10.4), Co
+4+
+species exist as [Co
+4+
+=O(OH)(OH
+2
+)
+2
+]
++
+and [Co
+4+
+=O(OH)
+2
+(OH
+2
+)], respectively. Specifically, the quartet states of [Co
+4+
+=O(OH)(OH
+2
+)
+2
+]
++
+and [Co
+4+
+=O(OH)
+2
+(OH
+2
+)] have lower energies than their doublet and sextet states. Therefore, at low pH (<8.3), {[Co
+3+
+(OH)
+2
+(OH
+2
+)
+2
+]
++
+}
+S
+is oxidized to {[Co
+4+
+=O(OH)(OH
+2
+)
+2
+]
++
+}
+Q
+via a 1H
++
+/1e
+−
+process; at high pH (>10.4), oxidation from [Co
+3+
+(OH)
+3
+(OH
+2
+)]
+T
+to [Co
+4+
+=O(OH)
+2
+(OH
+2
+)]
+Q
+represent an additional 1H
++
+/1e
+−
+process. Further oxidation of {[Co
+4+
+=O(OH)(OH
+2
+)
+2
+]
++
+}
+Q
+or [Co
+4+
+=O(OH)
+2
+(OH
+2
+)]
+Q
+leads to Co
+3+
+state geometry with a coupled O-O bond, indicating that Co
+4+
+=O is the highest oxidation state. The formation of an O-O bond from Co
+4+
+=O species has previously been proposed and is widely accepted
+35
+,
+38
+,
+39
+,
+40
+,
+41
+,
+42
+. Additionally, the redox potentials of Co
+2+
+/Co
+3+
+and Co
+3+
+/Co
+4+
+under different pH conditions were calculated accordingly (Supplementary Table
+7
+). At low pH (8.0), the calculated redox potentials of {[Co
+2+
+(OH)(OH
+2
+)
+3
+]
++
+}
+Q
+/{[Co
+3+
+(OH)
+2
+(OH
+2
+)
+2
+]
++
+}
+s
+and {[Co
+3+
+(OH)
+2
+(OH
+2
+)
+2
+]
++
+}
+s
+/{[Co
+4+
+=O(OH)(OH
+2
+)
+2
+]
++
+}
+Q
+were 1.18 and 1.40 V (versus NHE), respectively; while those of {[Co
+2+
+(OH)(OH
+2
+)
+3
+]
++
+}
+Q
+/[Co
+3+
+(OH)
+3
+(OH
+2
+)]
+T
+and [Co
+3+
+(OH)
+3
+(OH
+2
+)]
+T
+/[Co
+4+
+=O(OH)
+2
+(OH
+2
+)]
+Q
+under high pH (13.0) were 0.62 and 1.05 V (versus NHE), respectively. The calculated p
+K
+a
+and redox potential values agree well with experimental data, indicating the validity of computational models and approaches.
+The O-H bond (or hydrogen bond) cleavage is clearly involved in the concerted solution atom–proton transfer (APT) process (Supplementary Note
+2
+), with the reaction exhibiting primary deuterium kinetic isotope effects (KIE
+H/D
+> 1.5)
+43
+,
+44
+,
+45
+,
+46
+. Therefore, the KIE
+H/D
+of Aza-CMP-Co was determined to confirm the proton transfer process during the catalytic rate-determining step (RDS). The LSV of Aza-CMP-Co/CP in a 1.0 M NaOD D
+2
+O solution shows a lower current density compared with that in 1.0 M NaOH aqueous solution (Fig.
+5d
+). The corresponding KIE
+H/D
+values are <1.5 over the catalytic overpotential range 0.30–0.36 V. Meanwhile, consistent with LSV-derived results, KIEs measured by chronoamperometry were close to 1.4 within the overpotential range of 0.30–0.36 V under alkaline conditions. KIE values under alkaline conditions were further examined with different fractions of deuterium (n). As OD
+–
+concentration increased, the KIE kept increasing but always remained <1.5, indicating a secondary KIE where O-H bond cleavage may not be directly involved in the RDS (Supplementary Fig.
+28
+). For near-neutral conditions, larger KIE
+H/D
+values (>1.8) could be determined in borate buffer over the catalytic overpotential range, demonstrating a primary KIE effect (Fig.
+5h
+). The absence of primary KIE in Aza-CMP-Co suggested that, under alkaline conditions, (1) O-H bond cleavage was not involved in the RDS and (2) the decoupled ET process may be the RDS of OER. By contrast, a markedly different behaviour was observed for the cobalt hydroxide electrode (Supplementary Note
+2
+): a KIE value of ~2.4 was observed at the catalytic potential, suggesting that O-H bond cleavage is involved in the RDS under alkaline conditions.
+To a certain extent, pH-dependent OER activity can reflect the concerted or non-concerted proton–electron transfer characteristic of the RDS
+47
+,
+48
+. Potential shifts at the catalytic current density of 2.0 mA cm
+−2
+were calculated to evaluate the pH-dependent OER activity of Aza-CMP-Co. Under near-neutral and alkaline conditions, the potentials of OER catalytic waves shifted with pH and slopes close to −59 mV pH
+−1
+were determined by linear fitting, indicating that Aza-CMP-Co exhibits negligible pH-dependent OER activities with a zero-order dependence on OH
+−
+concentration at the RHE scale (Fig.
+5c,g
+)
+48
+. As shown in Fig.
+5a,e
+and Supplementary Fig.
+27a
+, the peak currents of Co
+2+/3+
+redox remained consistent under different pH conditions, suggesting that the number of reaction active sites in Aza-CMP-Co is not sensitive to changes in pH. The pH-independent OER activities and reaction active sites suggested that catalysis of OER by Aza-CMP-Co is a typical heterogeneous catalytic reaction in which the reaction rate depends on the number of active sites on the catalyst and catalytic driving forces, but not on reactant concentration
+49
+. Meanwhile, pH-independent activities and primary KIEs satisfy the behaviour of a concerted APT mechanism for Aza-CMP-Co under near-neutral conditions. However, the absence of primary KIEs suggested that a non-concerted proton–electron transfer RDS occurred for Aza-CMP-Co under alkaline conditions. Thus, the detailed proton–electron transfer processes of Aza-CMP-Co during OER were systematically studied.
+Non-aqueous redox and quantitative CV analysis
+The presence of Co
+4+
+is crucial for O-O bond formation
+40
+. To prove the occurrence of successive redox states in the system during OER, CV was performed in a non-aqueous electrolyte (acetonitrile) in which the concentration of the substrate (H
+2
+O, HO
+−
+) was considerably reduced. This suppressed OER allowed the electrochemical detection of higher-valent reactive intermediates
+50
+. As shown in Fig.
+5i
+and Supplementary Fig.
+29
+, as-fabricated Aza-CMP shows no dominant redox peaks in both CV and DPV while several oxidation peaks are present in the voltammogram of Aza-CMP-Co cast onto CP under anhydrous conditions. The chemical potentials of these oxidations were determined using DPV (Fig.
+5k
+). Oxidation peaks at 0.13 and 0.47 V were assigned to the sequential oxidations of Co
+2+/3+
+and Co
+3+/4+
+, respectively, while the peaks at 0.67 and 0.88 V, which were undetectable under aqueous conditions, could be attributed to successive PCET processes. Closely spaced redox couples are common in PCET steps of molecular species
+51
+. Aza-CMP-Co features four closely spaced redox couples from the 2+ oxidation state at a potential of 0.8 V. When water and NaOH were added to electrolyte, an apparent catalytic current was observed. The third and fourth redox peaks attributed to successive redox processes are immersed in the catalytic current when OER occurs (Fig.
+5j
+). Since pH-independent activity and KIEs demonstrated the non-concerted proton–electron transfer characteristic of the RDS under alkaline conditions, one of the additional redox features may be attributed to the ET process of the RDS.
+The experimental CV of Aza-CMP-Co was compared with theoretically expected CV behaviour based on a model with an irreversibly adsorbed monolayer of reactants attached to electrode surfaces. A complete mathematical description of electrochemical response equations is presented in Supplementary Note
+4
+. The CV of Aza-CMP-Co produces a good quantitative match with the prediction based on an irreversible monolayer adsorption model (Fig.
+5l
+). For the Co
+2+/3+
+redox couple, the current–potential data calculated are shown by the points plotted in Supplementary Fig.
+44
+. This plot is in excellent agreement with the experimental curve, indicating that Aza-CMP-Co could be treated as adsorbed cobalt monolayers (loading of 8.5 × 10
+–9
+mol cm
+–2
+) with nearly ideal Nernstian reaction properties, further corroborating the molecular nature of Aza-CMP-Co. Co
+3+/4+
+oxidation is an irreversible, one-step, one-electron reaction. With a transfer coefficient of 0.35 and loading of 8.5 × 10
+–9
+mol cm
+–2
+, the calculated and experimental voltammograms are similar in onset shape but significantly different after the peak current. Similarly, the calculated Co
+4+/3+
+reduction wave is consistent with the experimental result at potentials lower than the peak point. The current mismatch after Co
+3+/4+
+peak potential indicated that OER had been triggered by additional oxidized Co
+4+
+species (Supplementary Fig.
+45
+). For OER current calculation at the foot of the wave area, the irreversible Co
+4+
+oxidation reaction is assumed to be the RDS for OER, and the formal potential of Co
+4+
+oxidation was obtained by DPV under non-aqueous conditions in Fig.
+5k
+, but with intrinsic limitations. As shown in Fig.
+5l
+, after all currents had been integrated, the calculated forward and backward scan currents matched well with the experimental CV. The electrochemical properties of the catalyst were evaluated using the above quantitative analysis, and the molecular nature of as-fabricated Aza-CMP-Co was examined based on an irreversible monolayer adsorption model. Electrochemical quantitative CV analysis provides a good way of proving the molecular features and uniformity of the chemical environment of the catalytic centre compared with other advanced physical characterization techniques; therefore, CV analysis should be considered, especially for so-called single-atom catalysts, to identify the homogeneity of redox species in a specific molecular structure before corresponding reaction mechanism studies are carried out.
+pH-related nucleophilic attack
+When the catalytically rate-limiting O-O bond formation involves the APT in the WNA pathway, the addition of an anion (such as phosphate, acetate or borate) as a proton acceptor significantly increases the water oxidation reaction rate
+46
+,
+52
+,
+53
+. To gain insight into the RDS intermediate states under different pH values, the role(s) of mediated APT in cobalt site-catalysed water oxidation was investigated by the addition of different concentrations of borate or phosphate under varying pH (Fig.
+6b–d
+and Supplementary Fig.
+30
+; see
+Methods
+for definition of borate and phosphate reaction order, ρ
+[borate]
+and ρ
+[phosphate]
+). The diffusion-controlled solution APT process is influenced by the concentration of external anions in the electrolyte, and first-order reactions with respect to the anions are widely observed in catalyst-modified electrodes when the RDS of OER proceeds through the APT pathway (Fig.
+6a
+)
+47
+,
+54
+,
+55
+,
+56
+. For borate buffer, the anion effect is absent at pH 11.0 and 13.3 but pronounced at pH 7.7 (Fig.
+6b–d
+). The ρ
+[borate]
+for the cobalt sites is approximately 0.5–0.7 over the entire catalytic potential range under pH 7.7 electrolyte. Similarly, ρ
+[phosphate]
+for cobalt sites is approximately 0.4–0.5 under pH 7.0 conditions (Supplementary Fig.
+30a
+). Considering the relatively small KIE
+H/D
+value under near-neutral conditions (~1.8) and the presence of nearby uncoordinated N sites in Aza-CMP, the solution APT process—combined with a second-coordination-sphere-involved proton transfer process—occurs at cobalt sites under neutral conditions
+37
+. However, the ρ
+[borate]
+values for pH 11.0 and 13.3, as well as the ρ
+[phosphate]
+values for pH 12.6, are close to zero over the entire catalytic potential range. By contrast, the reaction order with respect to phosphate (ρ
+[phosphate]
+) for cobalt hydroxide is calculated at ~0.4 under pH 12.6 conditions, indicating different reaction mechanisms from those of Aza-CMP-Co and closer involvement of anions in RDS (Supplementary Fig.
+40a
+). As the counterpart of anions, cations also show significant interactions with the active oxygenated intermediates generated in OER. Alkaline earth cations disturb the hydrogen bond network of water molecules
+57
+, thereby influencing the interaction with surface intermediates
+58
+,
+59
+,
+60
+,
+61
+. Meanwhile, cations possess different solvation strengths (Li
++
+> Na
++
+> K
++
+). The kinetics associated with the nucleophilic attack of water on oxidized electrophilic species decreases with increasing solvation strength
+62
+. Because the cation effect is related to interaction of the cation with active oxygenated species, the oxidation behaviour of Aza-CMP-Co was studied by LSV in 1.0 M MOH (M, Li, Na and K) and 0.5 M MBi solutions. As shown in Fig.
+6f
+, for OER in borate buffers, activity decreased between alkaline cations K
++
+and Li
++
+, indicating the significant influence of the hydrogen bond network and solvation strength in a solution APT process. However, the catalytic performance of Aza-CMP-Co under alkaline pH is independent of cationic species (Fig.
+6e
+and Supplementary Fig.
+40c
+). Figure
+6g
+lists the kinetic features of Aza-CMP-Co under near-neutral and alkaline conditions. In addition to catalytic performance, many differences in catalytic kinetics were observed under different pH conditions (the OER mechanism under alkaline conditions is clarified in Supplementary Note
+2
+). Specifically, OER activities of Aza-CMP-Co clearly show dependency on anion concentration and cation species under near-neutral conditions, indicating that a solution APT process is the RDS. Under alkaline conditions, Co(OH)
+2
+—as reference material—is fully in line with the estimated behaviours in a solution APT process (Supplementary Note
+2
+). However, OER catalysed by Aza-CMP-Co exhibits completely different characteristics from the solution APT process under alkaline conditions: no such dependencies were observed, which means that the RDS is not influenced by an additional proton acceptor and varying solvation strength. The absence of KIEs for Aza-CMP-Co under alkaline conditions suggests that direct O-H bond cleavage is not involved in the RDS. Logically, increased anion concentration cannot accelerate OER because the proton transfer process is not involved in the RDS. If not directly from H
+2
+O/OH
+–
+molecules in the inner Helmholtz plane, then the O atom for O-O bond formation possibly originates from the adjacent pre-deprotonated H
+2
+O molecules (OH ligand) generated by the decoupled 2H
++
+/1e
+−
+Co
+2+/3+
+redox. Therefore, the absence of solvation strength dependency under alkaline conditions is caused by the intramolecular hydroxyl transfer process in RDS (Fig.
+6a
+). The combination of redox properties, absence of kinetic isotope effect (H/D), added anion and cation effect under basic conditions provides sufficient evidence that the intramolecular O-O bond formation pathway of Aza-CMP-Co is the RDS under alkaline catalytic conditions.
+Fig. 6: Electrochemical investigations on the effect of outer-sphere environment.
+a
+, Schematic diagram of potential anion and cation effects for the O-O bond formation process.
+b
+–
+d
+, LSV curves of Aza-CMP-Co as a function of [NaBi] at pH 13.3 (
+b
+), pH 11.0 (
+c
+) and pH 7.7 (
+d
+); inset: corresponding reaction order of [Bi] at pH 13.3, 11.0 and 7.7 (scan rate, 5 mV s
+−1
+).
+e
+, LSV curves of Aza-CMP-Co in 1.0 M KOH, NaOH and LiOH; inset, comparison of catalytic current at different potentials (scan rate, 5 mV s
+−1
+).
+f
+, LSV curves of Aza-CMP-Co in 0.5 M KBi, NaBi and LiBi; inset, comparison of catalytic current at different potentials (scan rate, 5 mV s
+−1
+).
+g
+, Comparison of kinetic phenomena and effects under different conditions.
+Full size image
+The OER is a sluggish reaction involving four-electron/proton transfer steps and multiple intermediates. The RDS of OER is often not definitive, because of experimental difficulties in establishing the operational reaction mechanism. Activation energy is dependent only on the intrinsic properties of the reaction pathway for a given catalyst. Therefore, to gain insights into intrinsic OER activity and explore the differences in cobalt sites in both alkaline and near-neutral OER catalysis, activation energy was measured in both NaOH and NaBi buffer solutions through temperature-controlled electrocatalysis (Supplementary Note
+5
+). As shown in Fig.
+7a,c
+, the OER activities of Aza-CMP-Co exhibit an exact temperature-dependent feature in both NaOH and NaBi solutions. The corresponding Arrhenius plots of the natural logarithm of current at various potentials (ln
+i
+) against 1/T were calculated and are illustrated in Fig.
+7b,d
+. Activation energy
+W
+was plotted against the overpotential, and the linear relationship is shown in Fig.
+7e
+, which verifies the speculation in Supplementary Equation
+37
+. The value of
+W
+under alkaline conditions (
+W
+alkaline
+) is significantly lower than that under near-neutral conditions (
+W
+neutral
+); in the OER catalytic overpotential range of 0.3–0.5 V, the difference between
+W
+alkaline
+and
+W
+neutral
+at a specific overpotential (Δ
+W
+) changed linearly, from 4.45 to 0.96 kcal mol
+−1
+, suggesting a TOF gap of 10
+3
+- to 10
+1
+-fold at different reaction overpotentials. Because activation energy is independent of extrinsic factors, the observed difference in
+W
+indicates different RDS intermediate states, which could lead to substantial differences in intrinsic performance.
+Fig. 7: Experimental and theoretical reaction activation energies.
+a
+,
+b
+, Temperature-dependent LSV curves (
+a
+) and corresponding Arrhenius plots (
+b
+) of Aza-CMP-Co-catalysed OER at different overpotentials under alkaline conditions (1.0 M NaOH; scan rate, 5 mV s
+−1
+).
+c
+,
+d
+, Temperature-dependent LSV curves (
+c
+) and corresponding Arrhenius plots (
+d
+) of Aza-CMP-Co-catalysed OER at different overpotentials under near-neutral conditions (pH 9.0 NaBi buffer; scan rate, 5 mV s
+−1
+).
+e
+, Plots of overpotential-dependent activation energy (
+W
+) against reaction overpotential.
+f
+, Calculated energy profiles of WNA (blue) and IHNA (red) pathways. Relative solvation-corrected electronic energies are given in eV, and O-O distances at transition states in Å.
+g
+, Chemical structure of O-O formation intermediates in WNA and IHNA pathways.
+Full size image
+Density functional theory calculations were performed to elucidate the reaction mechanism of the electrochemically driven water oxidation catalysed by Aza-CMP-Co. O-O bond formation from {[Co
+4+
+=O(OH)(OH
+2
+)
+2
+]}
++
+Q
+(intermediate 3; Fig.
+7f
+) was computed via the WNA pathway under neutral conditions. The endergonic reaction requires reaction and activation energies of 8.2 and 24.6 kcal mol
+−1
+, respectively (transition state 1, TS-1; Fig.
+7f
+and Supplementary Fig.
+42
+). The proton generated from WNA is transferred to OH, forming [Co
+2+
+-OOH(OH)(OH
+2
+)
+2
+] (intermediate 6; Fig.
+7f
+and Supplementary Fig.
+43
+). By contrast, O-O bond formation via IHNA from [Co
+4+
+=O(OH)
+2
+(OH
+2
+)]
+Q
+(intermediate 5; Fig.
+7f
+) is more favourable under basic conditions than that via WNA. The corresponding transition states are shown in Fig.
+7f
+and Supplementary Fig.
+42
+(transition state 2, TS-2), in which the O-O distance is 1.77 Å. In this pathway the O-O bond formation step is favourable, with reaction energy and activation energies of −1.8 and 21.5 kcal mol
+−1
+, respectively. A similar OH
+−
+nucleophilic attack of the highly oxidized metal centre is reported under basic conditions
+35
+,
+62
+. Here, the computed activation energy difference for the two reaction pathways is 3.1 kcal mol
+−1
+, which agrees well with the experimental Δ
+W
+values obtained at reaction overpotential between 0.32 V (4.1 kcal mol
+−1
+) and 0.45 V (2.1 kcal mol
+−1
+). Compared with results obtained under neutral conditions, experimental and calculation results for the cobalt sites in alkaline electrolytes demonstrated lower activation energies, different pH-dependent redox features, lower KIEs, negligible reaction order with respect to the external anion and absence of cation effects (Fig.
+6g
+). Based on these results, the key to understanding the wide performance gap between catalysed OER performances in alkaline and near-neutral electrolytes is the p
+K
+a
+-induced, pH-related, nucleophilic attack pathway.
+Cobalt-based materials can function as effective electrocatalysts under strongly alkaline conditions
+6
+,
+40
+,
+63
+,
+64
+,
+65
+,
+66
+,
+67
+, while the electrochemical oxidation activity of cobalt-based materials drops drastically under neutral pH conditions. To date, most catalysts have required large overpotentials, ranging from 400 to 600 mV, to reach dominant catalytic current densities under neutral pH
+64
+. For further application of cobalt-based catalysts as components for solar fuel utilization, an improvement in water oxidation activity and understanding of water oxidation mechanisms, particularly under neutral conditions, is essential. Although a few studies have investigated the mechanisms of water oxidation for cobalt catalysts
+38
+,
+40
+,
+41
+,
+68
+, the mechanism behind the sharp decline in catalytic performance of cobalt-based catalysts under neutral conditions remains unclear. After determination of nucleophilic attack pathways for O-O bond formation by experimental observations and calculations, catalytic cycles that included four PCET processes were proposed for cobalt sites catalysing the OER (Fig.
+8
+). Deprotonation occurs during the conversion of Co
+2+
+to Co
+3+
+, and two protons detach when pH is increased above the p
+K
+a
+value of the Co
+3+
+complex. According to the Pourbaix diagram, one OH
+−
+ligand is deprotonated when Co
+3+
+is further oxidized to Co
+4+
+, forming a Co
+4+
+=O fragment under both near-neutral and alkaline conditions. When reactions are conducted in a buffered medium, the anionic component of the buffer may serve as a proton acceptor in the solution APT mechanism. In the basic pH range, concerted proton–electron oxidations involve OH
+−
+as a proton acceptor occur
+48
+. A minimum of two successive redox processes was observed after Co
+3+
+/Co
+4+
+potential in a non-aqueous solution, and these redox features immediately diminished when OER occurred. Therefore, RDS step 3 is the O-O bond formation process that involves a concerted solution APT process with the formation of a Co-OOH fragment under near-neutral conditions, which results in a normal KIE
+H/D
+and pH-independent OER activity on the RHE scale. However, O-O formation mechanisms differ significantly at different pH values, as demonstrated by the experimental evidence and calculation results. Owing to the formation of extra -OH groups during the non-concerted PCET process of Co
+2+
+/Co
+3+
+in alkaline electrolytes, the Co-OOH fragment tends to be generated via an intramolecular hydroxyl nucleophilic attack pathway where the adjacent -OH attacks the oxo ligand in Co
+4+
+=O to form an intramolecular O-O bond, yielding a secondary KIE
+H/D
+and pH-independent OER activity on the RHE scale. This pathway requires a significantly lower activation energy than that of intermolecular WNA under neutral conditions. Finally, the -OOH ligand transforms into dioxygen after a further 1H
++
+/1e
+−
+PCET process and O
+2
+is released with substrate reattachment to complete the catalytic cycle. Therefore, the intermolecular WNA pathway, which has higher apparent activation energy compared with the IHNA pathway, predominates under neutral conditions and hampers rapid OER kinetics.
+Fig. 8: Proposed OER mechanisms.
+a,b
+, WNA (
+a
+) and IHNA (
+b
+); under the basic pH range, the non-concerted PCET process in Co
+2+/3+
+redox facilitates the IHNA pathway.
+Full size image
+Conclusions
+In summary, single-site cobalt ions anchored on Aza-CMP served as active centres for OER. The resultant Aza-CMP-Co was highly efficient in catalysis of OER under both neutral and alkaline conditions, resulting in higher TOFs than those of state-of-the-art, material-based catalysts. Experimental and theoretical results based on this model catalyst, with well-defined catalytic single-site cobalt decoration, demonstrated that OER catalysed by a single cobalt site triggered a pH-controlled nucleophilic attack pathway. This transition of O-O bond formation pathways was controlled by PCET features of the pre-redox states—that is, p
+K
+a
+of the Co
+3+
+intermediates. When the pH is higher than the p
+K
+a
+value, electrochemically driven deprotonation results in the transport of an additional proton, which facilitates the IHNA pathway where the adjacent OH
+−
+attacks Co
+4+
+=O to form the O-O bond. As established through temperature-controlled experiments and DFT calculations, the IHNA pathway requires much lower activation energy compared with that of the intermolecular WNA pathway, further clarifying the origin of the significant performance loss in terms of overpotential, Tafel slopes and TOFs when the alkaline electrolyte is changed to a neutral electrolyte. The proposed facile strategy of fabricating heterogeneous molecular electrocatalysts and the series of OER kinetic studies, including pH-dependent effects, kinetic isotope effects, APT studies, quantitative cyclic voltammetry analysis, electrochemical activation energy measurements and theoretical calculations, can be extended to various transition-metal ions, unlocking opportunities for the investigation of heterogeneous molecular electrocatalytic systems.
+Methods
+Chemicals
+All reagents and solvents were used as received from commercial sources, unless otherwise noted. 1,2,4,5-benzenetetraamine tetrahydrochloride (technical grade), cobalt(II) acetate tetrahydrate (≥99%) and anhydrous N,N-dimethylformamide (DMF, >99%) were purchased from Sigma-Aldrich. Hexaketocyclohexane octahydrate (>98.0%) was purchased from TCI Chemicals. Sodium hydroxide (semiconductor grade, 99.99%), potassium hydroxide (semiconductor grade, 99.99%), lithium hydroxide (99.995%), potassium tetraborate (tetrahydrate, 99.5%), lithium tetraborate (anhydrous, 99.9%), potassium phosphate tribasic (≥98%), boric acid (99.5%), deuterium oxide (D
+2
+O), deuterium sodium oxide solution (NaOD in D
+2
+O, 40 wt%) and sodium tetraborate (anhydrous, 99.95%) were purchased from Sigma-Aldrich and used as received without further purification. Cobalt(II) hydroxide (99.9%) was purchased from Alfa Aesar. High-purity water (18.2 MΩ cm
+−1
+), supplied with a Milli-Q system (Millipore, Direct 8), was used in all experiments. CP substrate was purchased from a local company; prior to use, CP was sequentially ultrasonically cleaned in concentrated nitric acid, deionized water, ethanol and acetone for 20 min. All other reagents were commercially available and used as received. Organic solvents were of analytical reagent grade and used without further purification.
+Synthesis of Aza-CMP
+A total of 532.5 mg (1.875 mmol) of 1,2,4,5-benzenetetramine tetrahydrochloride in 15 ml of anhydrous DMF and 390 mg (1.25 mmol) of hexaketocyclohexane octahydrate in 5 ml of anhydrous DMF were mixed and refluxed for 48 h under Ar. The resulting dark-brown solid was purified via hot extraction with methanol for 48 h using a Soxhlet extractor, then dried under vacuum at 150 °C for 24 h. Protonation-assisted exfoliation of the as-prepared bulk polymer was performed according to the reported literature
+18
+. To summarize, Aza-CMP (100 mg) was dispersed in 100 ml of 12 M HCl, and the suspension was subjected to ultrasonication for 24 h. The mixture was diluted with deionized water and centrifuged at 2,000 r.p.m. for 10 min to separate large aggregates. Exfoliated nanosheets were collected by filter (polytetrafluoroethylene (PTFE), 45 μm) and washed thoroughly with water.
+Synthesis of Aza-CMP-Co
+Aza-CMP material was modified with Co
+2+
+using cobalt(II) acetate. Aza-CMP (20 mg) was immersed in 10 ml of anhydrous DMF and the suspension stirred for 1 h under an Ar atmosphere, with the gas bubbling through the solution. Next, 85 mg (1.5 eq. with respect to phenanthroline units) of cobalt(II) acetate was dissolved in 10 ml of anhydrous DMF under Ar. The Co solution was slowly added to the suspension under Ar, and the mixture was maintained in a dispersed state by ultrasonication for 8 h at room temperature. The solid was filtered and then washed with DMF, water, methanol and ethanol until the filtrate became colourless. Finally, the product was dried at 80 °C under vacuum conditions. Aza-CMP-Co (exfoliated) was fabricated via the same procedure while replacing the as-prepared bulk Aza-CMP with exfoliated Aza-CMP.
+Physical characterization methods
+Atomic force microscope techniques were performed in dynamic mode using a Cypher ES system operating at room temperature under ambient air conditions. A commercial Oxford probe (no. HQ-150-Au) was used with a nominal force constant of 8 N m
+−1
+. The surfaces used for AFM experiments were SiO
+2
+/Si. AFM images were processed using Gwyddion software. Scanning tunnelling microscopy (STM) experiments were carried out using a low-temperature qPlus-equipped commercial Omicron LT-STM (Omcron LT-STM QPlus pre4) at 4.2 K. As-synthesized Aza-CMP was deposited on the pre-cleaned Au(111) substrate by in situ thermal evaporation under ultra-high vacuum condition. The STM image was obtained at a sample bias of 0.2 V and a tunnelling current of 50 pA. Nitrogen sorption isotherms were measured at 77 K with a Micromeritics 3Flex adsorption analyser. Samples were degassed in a vacuum at 150 °C for 12 h. The Brunauer–Emmett–Teller method was applied to calculate specific surface areas. The NLDFT models were used to determine the porosity of samples in SAIEUS software. XRD studies were performed on a Bruker D8 Advance Power X-Ray Diffractometer (Cu–Kα radiation,
+λ
+= 1.5418 Å). The morphology and composition of the fabricated films were characterized using a Hitachi field-emission scanning electron microscope (Regulus 8230) and an energy-dispersive X-ray spectroscopy detector (Oxford Ultim EXTREME). HAADF–STEM images and EDX mapping were collected on a JEM ARM-200F and FEI Talos F200X field-emission transmission electron microscope operating at 200 kV. Surface composition of electrode films was investigated using XPS on an ESCALAB Xi
++
+(Thermo Scientific). Raman spectroscopy was measured using a DXR Microscope (Thermo Fisher) and FT–IR with a Nicolet 6700 Flex (Thermo Fisher). High-resolution, solid-state NMR (SS-NMR) spectra were recorded on a Bruker Avance III spectrometer at Larmor frequency of 125.7 MHz using a 4 mm broadband cross-polarization magic angle-spinning (MAS) probe head. Alanine was used as an external reference (178 ppm)
+69
+. The MAS sample spinning rate was 8 kHz. Cross-polarization was applied at a contact pulse duration of 1 ms and recycle delay of 5 s. A total of 2,740 transients were needed for a good signal-to-noise ratio. The concentration of Co was measured using ICP–OES with a Thermo Scientific iCAP 6000 series instrument. Samples on electrodes were digested in 1 ml of aqua regia with ultrasonication in a closed vessel and then diluted ten times to make a sample solution. Co standard solutions were measured prior to sampling, to calibrate and obtain standard curves. Co concentrations were determined using four different wavelengths: 231.1, 235.3, 237.8 and 238.8 nm, with average concentrations obtained at different wavelengths taken for data evaluation. Faraday efficiency measurements were carried out with an Omega PXM409 pressure transducer and a laboratory-made H-cell. EXAFS measurements were carried out on samples at beamline 07A1 of Taiwan Light Source at the National Synchrotron Radiation Research Center. This beamline adopts a fixed-exit, double-crystal Si(111) monochromator to provide X-ray energy in the range 5–23 keV. The end-station was equipped with three ionization chambers and a Lytle detector for transmission and fluorescence-mode X-ray absorption spectroscopy. The beam size of the X-ray used on samples was ~0.5 × 0.25 mm (H × V), with flux >1 × 1,010 photons s
+−1
+. XAFS Co K-edge readings were collected at this beamline. Data were collected in fluorescence mode using a Lytle detector, while the corresponding reference sample was collected in transmission mode. Samples were ground and uniformly daubed on special adhesive tape. Raw EXAFS data were analysed according to standard procedures with ATHENA software packages. Quantitative curve fittings were carried out in R space (1.0–3.0 Å) with a FT K-space range of 2.5–12 Å
+−1
+using the module ARTEMIS from IFEFFIT. The amplitude reduction factor (
+S
+0
+2
+) was fixed at 0.9. Energy shift (Δ
+E
+0
+) was constrained to be the same for all scatter. Path length
+R
+, coordination number
+N
+and Debye–Waller factor
+σ
+2
+were left as free parameters.
+Preparation of catalyst inks and film on the electrode
+The catalyst was dispersed in a water/ethanol 1:1 solution to form an ink, which was prepared by immersion of 5 mg of catalyst in a solution containing 0.25 ml each of water and ethanol. The catalyst ink was transferred to an ultrasonic bath and sonicated for 60 min, then 10 μl of the ink was deposited onto the CP electrode (5 × 5 mm
+2
+). For drying of ink droplets, the electrode was kept under an Ar atmosphere until the film was completely dry.
+Electrochemical characterizations
+All electrochemical characterizations were carried out at 25 °C unless otherwise noted, with temperature controlled by a thermostatic water bath. OERs were studied in a standard three-electrode cell connected to a CHI 660e workstation, using the prepared materials as the working electrode, a Pt mesh as the counter electrode and Hg/HgO (1.0 M KOH) or Ag/AgCl (saturated KCl) as the reference electrode. The cell is made from PTFE to avoid potential iron contamination from glassware. All measured potentials were converted to values relative to a RHE according to the equation: potential =
+E
+ref
++
+E
+(ref versus RHE)
+, with
+E
+(ref versus RHE)
+the potential difference between the reference electrode and RHE at 25 °C for the electrolytes and corrected by a commercialized RHE (HydroFlex of Gaskatel). All LSV curves were measured in a three-electrode configuration at a scan rate of 1 mV s
+−1
+with iR correction (95%) unless otherwise noted. The correction was done manually according to the equation
+E
+corr
+=
+E
+meas
+–
+iR
+u
+, where
+E
+corr
+is iR-corrected potential,
+E
+meas
+is an experimentally measured potential and
+R
+u
+is the equivalent series resistance extracted from Nyquist plots
+70
+,
+71
+,
+72
+. The
+R
+u
+values in our test system were in the range ~3.3 Ω (1 M NaOH) to ~6 Ω (0.5 M NaBi) for CP support. Tafel slopes were calculated based on polarization curves by fitting to the following equation:
+$$\eta = b\;\log \left( j \right) + a,$$
+(1)
+where
+η
+is overpotential (mV),
+j
+is current density (mA cm
+−2
+) and
+b
+is Tafel slope. Chronopotentiometry was recorded under the same experimental set-up without decreased iR. The Aza-CMP-Co/CP electrodes were activated by CV in 1 M NaOH solution (50 mV s
+−1
+, 20 scans, potential window 0–0.7 V versus Hg/HgO), before CV and DPV were performed in a non-aqueous acetonitrile solution (0.1 M
+n
+Bt
+4
+NPF
+6
+).
+Characterization of used samples
+Characterizations of catalysts following OER catalysis were implemented according to the following protocols. For TEM, XPS, FT–IR and Raman measurements, catalyst-loaded electrodes were aged in solutions of 1.0 M NaOH (potential window 0–0.75 V versus Hg/HgO, 50 mV s
+−1
+) and 0.5 M NaBi (potential window 0.4–1.05 V versus Ag/AgCl, 50 mV s
+–1
+), respectively, for 200 CV scans. Aged electrodes were rinsed with water and dried in ambient air before tests. For TEM measurements, sample dispersions were obtained by ultrasonic treatment of aged electrodes in EtOH. Sample dispersions were directly used by following standard TEM characterization procedures. To gather several centigrams (~40 mg) of Aza-CMP-Co powders after OER for XAFS measurements, post treatment based on photo-electrochemically-driven oxygen evolution was carried out using Ru(bpy)
+3
+(PO
+3
+H
+2
+)
+2
+as photosensitizer (P), Na
+2
+S
+2
+O
+8
+as electron sacrificial agent and as-fabricated Aza-CMP-Co as OER catalyst (Cat.) under light illumination conditions (
+hv
+). The oxidation potential of [Ru(bpy)
+3
+]
+3+
+is 1.27 V versus a saturated calomel electrode (SCE), which means that the excited photosensitizer can provide sufficient driven force to run the OER
+73
+. The reaction mechanism is shown thus:
+$${\mathrm{P}}\mathop { \to }\limits^{hv} {\mathrm{P}}^ \ast$$
+(2)
+$${\mathrm{S}}_{2}{\mathrm{O}}_{8}^{2 - } + 2{\mathrm{P}}^ \ast \to 2{\mathrm{SO}}_4^{2 - } + 2{\mathrm{P}}^{+}$$
+(3)
+$$4{\mathrm{P}}^ + + {{{\mathrm{Cat}}}}. \Rightarrow {\mathrm{OER}}.$$
+(4)
+Calculation of turnover frequency
+The loading of Co
+2+
+cation
+Γ
+(mol cm
+−2
+) has a linear relationship with peak current
+i
+p
+(the redox peak of Co
+2+/3+
+), given by the following equation:
+$$i_{{\mathrm{p}}({\mathrm{Co}}^{2 + /3 + })} = \frac{{n^2F^2\upsilon A\Gamma }}{{4RT}}.$$
+(5)
+where
+n
+is the number of electrons (for Co
+2+/3+
+,
+n
+= 1),
+ν
+is scan rate (V s
+−1
+),
+A
+is surface area (cm
+2
+),
+F
+is the Faraday constant (96,485 C mol
+−1
+),
+R
+is the ideal gas constant (8.314 J K
+−1
+mol
+−1
+) and
+T
+is temperature (298 K)
+30
+.
+Loading of the redox-active Co
+2+
+cation was estimated according to the linear relationship between the peak current of the Co
+2+/3+
+redox wave and scan rate:
+$${\mathrm{Slope}} = \frac{{n^2F^2A\Gamma }}{{4RT}}$$
+(6)
+The TOF of the catalyst was calculated by the following equation:
+$${\mathrm{TOF}} = \frac{{JA}}{{4F\Gamma {\rm A}}},$$
+(7)
+where
+J
+is OER current density (obtained from CV under a low scan rate),
+A
+is electrode surface area and
+Γ
+is the amount of electroactive Co
+2+
+cation obtained from equation
+(5
+) or total Co content from the ICP–OES test
+74
+.
+KIE experiments
+Kinetic isotope effects were studied via electrochemical methods. LSV or CV was recorded at a scan rate of 5 mV s
+−1
+and iR compensated (95%). For KIE calculation under alkaline conditions, experiments were carried out in NaOH aqueous solution (1.0 M) or NaOD D
+2
+O solution (1.0 M). For KIE calculation under near-neutral conditions, anhydrous sodium tetraborate in H
+2
+O solution ([Bi] = 0.1 M) and D
+2
+O solution ([Bi] = 0.1 M) were used for KIE measurements; pH of the borate buffer (H
+2
+O) was measured as 9.1 and pH of the borate buffer (D
+2
+O) was measured as 9.2. The corresponding current densities at a certain overpotential
+η
+were abbreviated as
+j
+H2O
+and
+j
+D2O
+; then, KIE
+(H/D)
+was defined according to the following equation:
+$${\mathrm{KIE}}_{({{\mathrm{H/D}}})} = {\left[ \frac{{j}_{{\mathrm{H}}_{2}{\mathrm{O}}}} {{j}_{{\mathrm{D}}_{2}{\mathrm{O}}}} \right]}_\eta$$
+(8)
+For KIE
+(H/D)
+measurements via electrochemical methods, catalytic activity will rise with increase in catalyst overpotential. Also, the equilibrium potentials for the D
+2
+/D
++
+reaction and O
+2
+/D
+2
+O electrochemical reactions are different from their equivalent reactions in H
+2
+O. Thus, overpotential was corrected according to our previously reported method
+20
+,
+47
+. [KIE
+(H/D)
+]
+n
+, as a function of fractional deuteration concentration (
+n
+= [D
+2
+O]/([D
+2
+O] + [H
+2
+O])), was measured following a similar protocol and electrolytes were made by mixing different proportions of aqueous NaOH (1.0 M) and NaOD D
+2
+O solutions (1.0 M). The currents for KIE calculation are averages of those at different potentials: 0.68, 0.69, 0.70, 0.71, 0.72 and 0.73 V (versus Hg/HgO).
+pH-dependence characterizations
+Both LSV and CV curves were recorded in NaOH solutions of varying concentration: 0.0625, 0.125, 0.25, 0.5 and 1.0 M. The pH values of NaOH solutions were obtained using a pH electrode pHydrunio that directly determines hydrogen ion activity and is suitable for highly concentrated alkaline solutions, unlike conventional pH glass electrodes. The measured pH values of NaOH solutions of 0.0625, 0.125, 0.25, 0.5 and 1.0 M were 12.49, 12.81, 13.11, 13.37 and 13.61, respectively. The pH values of NaBi buffered solutions for pH-dependence characterizations in near-neutral solutions were adjusted using H
+3
+BO
+3
+(0.5 M) and NaOH (0.5 M) solutions; pH values were obtained directly by a conventional pH meter. The reaction order based on OH
+−
+was calculated according to the following equation:
+$${\mathrm{\rho}} _{[{\mathrm{OH}}^ - ]} = \left[ {\frac{{\partial {\mathrm{log}}j}}{{\partial ( - 14 + {\mathrm{pH}})}}} \right]_\eta = \left[ {\frac{{\partial {\mathrm{log}}j}}{{\partial {\mathrm{pH}}}}} \right]_\eta ,$$
+(9)
+where
+j
+is current density (mA cm
+−2
+) at a certain overpotential,
+η
+, and [OH
+−
+] is the concentration of hydroxide in electrolytes (mol l
+−1
+).
+Determination of reaction order for external anions (borate and phosphate)
+The reaction order of additional anions (
+ρ
+[B]) can be calculated according to the following equation, where
+j
+is current (mA) and [B] is the concentration of additional anions (mol l
+−1
+):
+$$\rho _{[{\mathrm{B}}]} = \left[ {\frac{{\partial \log j}}{{\partial \log \left[ {\mathrm{B}} \right]}}} \right]_\eta$$
+(10)
+Current density will be in a linear relationship with respect to the concentration of anions for APT-assisted catalytic water oxidation, as described in equation (
+11
+) (ref.
+47
+), which means that it should be a first-order reaction based on the added anions, according to equation (
+10
+):
+$$\left[ {\frac{{jA}}{{4F\Gamma }}} \right]_\eta = k^{{\mathrm{H}}_{2}{\mathrm{O}}} + k^{\mathrm{B}}\left[ {\mathrm{B}} \right],$$
+(11)
+where
+A
+is the surface area (cm
+2
+) of the electrode.
+ρ
+[borate]
+and ρ
+[phosphate]
+were calculated according to equation (
+10
+). The total concentration of buffer components was increased while pH was held constant in these experiments. The borate buffers at pH 7.7 and 11.0 and at different concentrations were prepared by dissolving boric acid in water, with pH adjusted by 10 M NaOH. Borate solutions at pH 13.3 and at different concentrations were prepared by dissolving sodium tetraborate in water, with pH adjusted by 10 M NaOH. Phosphate buffers at pH 12.6 and at different concentrations were prepared by dissolving tripotassium phosphate in water, with pH adjusted by 10 M KOH. Phosphate buffers at pH 7.0 and at different concentrations were prepared by dissolving monopotassium phosphate in water, with pH adjusted to 7.0 by the addition of tripotassium phosphate solution at the same Pi concentration.
+Cation effects experiments
+Both LSV and CV curves were recorded with iR compensation (95%) in sodium, potassium and lithium hydroxide solutions at a concentration of 1.0 M. The pH levels of 1.0 M NaOH, KOH and LiOH solutions were obtained using a pH electrode pHydrunio. The measured pH values of 1 M NaOH, KOH and LiOH solutions were 13.61, 13.63 and 13.34, respectively. For near-neutral conditions, LSV and CV curves were recorded with iR compensation (95%) in sodium, potassium and lithium borate buffers at a concentration of 0.5 M. The pH values of 0.5 M NaBi, KBi and LiBi solutions were 9.28, 9.43 and 9.10, respectively. All potentials were converted to the RHE scale when comparing current densities.
+Computational details
+All DFT calculations for estimation of electronic energies were carried out with the Jaguar 8.3 programme package from ref.
+75
+. Molecular geometries were optimized using Becke’s three-parameter hybrid functional and the LYP correlation functional (B3LYP)
+76
+with D3 correction from refs.
+77
+,
+78
+and the LACVP** basis set
+79
+. Use of the B3LYP-D3 functional in this work was rationalized by comparison with several functionals, including pure functionals such as BLYP and PBE and hybrid functionals such as PBE-D3, PBE0-D3, M06, M06-L and BLYP-D3, in p
+K
+a
+and redox potential calculations. To identify transition states for O-O bond formation, we searched the potential energy surface by scanning the terminal O-O bond distance. Single-point energy corrections were performed with the B3LYP-D3 functional using the LACV3P**++ basis set augmented with two
+f
+-functions on the metal. Based on gas-phase-optimized geometries, implicit solvation energies were estimated by single-point calculations using the Poisson–Boltzmann reactive field implemented in Jaguar (PBF) in water. The free energy of the standard hydrogen electrode of −4.44 eV was used, as recommended by the International Union of Pure and Applied Chemistry.
+Data availability
+The complete dataset in the main text is available at
+http://zenodo.org
+with the identifier 10.5281/zenodo.6400187. Other data that support the findings of this study are available from the corresponding author upon reasonable request.
+References
+Kanan, M. W., Surendranath, Y. & Nocera, D. G. Cobalt-phosphate oxygen-evolving compound.
+Chem. Soc. Rev.
+38
+, 109–114 (2009).
+Article
+CAS
+PubMed
+Google Scholar
+Coridan, R. H. et al. Methods for comparing the performance of energy-conversion systems for use in solar fuels and solar electricity generation.
+Energy Environ. Sci.
+8
+, 2886–2901 (2015).
+Article
+CAS
+Google Scholar
+Hwang, J. et al. Perovskites in catalysis and electrocatalysis.
+Science
+358
+, 751–756 (2017).
+Article
+PubMed
+CAS
+Google Scholar
+Xia, B. Y. et al. A metal-organic framework-derived bifunctional oxygen electrocatalyst.
+Nat. Energy
+1
+, 15006 (2016).
+Article
+CAS
+Google Scholar
+Haschke, S. et al. Direct oxygen isotope effect identifies the rate-determining step of electrocatalytic OER at an oxidic surface.
+Nat. Commun.
+9
+, 4565 (2018).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Roger, I., Shipman, M. A. & Symes, M. D. Earth-abundant catalysts for electrochemical and photoelectrochemical water splitting.
+Nat. Rev. Chem.
+1
+, 0003 (2017).
+Article
+CAS
+Google Scholar
+Matheu, R. et al. The development of molecular water oxidation catalysts.
+Nat. Rev. Chem.
+3
+, 331–341 (2019).
+Article
+CAS
+Google Scholar
+Reier, T., Nong, H. N., Teschner, D., Schlögl, R. & Strasser, P. Electrocatalytic oxygen evolution reaction in acidic environments – reaction mechanisms and catalysts.
+Adv. Energy Mater.
+7
+, 1601275 (2017).
+Article
+CAS
+Google Scholar
+Friebel, D. et al. Identification of highly active Fe sites in (Ni,Fe)OOH for electrocatalytic water splitting.
+J. Am. Chem. Soc.
+137
+, 1305–1313 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Buvat, G. et al. Effect of IrO
+6
+octahedron distortion on the OER activity at (100) IrO
+2
+thin film.
+ACS Catal.
+10
+, 806–817 (2020).
+Article
+CAS
+Google Scholar
+Stoerzinger, K. A. et al. The role of Ru redox in pH-dependent oxygen evolution on rutile ruthenium dioxide surfaces.
+Chem
+2
+, 668–675 (2017).
+Article
+CAS
+Google Scholar
+Sun, J.-F. et al. Isolated single atoms anchored on N-doped carbon materials as a highly efficient catalyst for electrochemical and organic reactions.
+ACS Sustain. Chem. Eng.
+8
+, 14630–14656 (2020).
+Article
+CAS
+Google Scholar
+Dong, J., Han, X., Liu, Y., Li, H. & Cui, Y. Metal–covalent organic frameworks (MCOFs): a bridge between metal–organic frameworks and covalent organic frameworks.
+Angew. Chem. Int. Ed. Engl.
+59
+, 13722–13733 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Zhuo, H.-Y. et al. Theoretical understandings of graphene-based metal single-atom catalysts: stability and catalytic performance.
+Chem. Rev.
+120
+, 12315–12341 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Yang, Z.-D., Wu, W. & Zeng, X. C. Electronic and transport properties of porous graphenes: two-dimensional benzo- and aza-fused π-conjugated-microporous-polymer sheets and boron–nitrogen co-doped derivatives.
+J. Mater. Chem. C
+2
+, 2902–2907 (2014).
+Article
+CAS
+Google Scholar
+Jiang, L. et al. Doping of graphitic carbon nitride for photocatalysis: a reveiw.
+Appl. Catal. B
+217
+, 388–406 (2017).
+Article
+CAS
+Google Scholar
+Briega-Martos, V. et al. An aza-fused π-conjugated microporous framework catalyzes the production of hydrogen peroxide.
+ACS Catal.
+7
+, 1015–1024 (2017).
+Article
+CAS
+Google Scholar
+Zhang, X., Luo, X., Zheng, X., Wu, X. & Xu, H. Protonation-assisted exfoliation of N-containing 2D conjugated polymers.
+Small
+15
+, 1903643 (2019).
+Article
+CAS
+Google Scholar
+Ivanova, T., Naumkin, A., Sidorov, A., Eremenko, I. & Kiskin, M. X-ray photoelectron spectra and electron structure of polynuclear cobalt complexes.
+J. Electron. Spectrosc. Relat. Phenom.
+156–158
+, 200–203 (2007).
+Article
+CAS
+Google Scholar
+Li, F. et al. A cobalt@cucurbit[5]uril complex as a highly efficient supramolecular catalyst for electrochemical and photoelectrochemical water splitting.
+Angew. Chem. Int. Ed. Engl.
+60
+, 1976–1985 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Mahmood, J. et al. Nitrogenated holey two-dimensional structures.
+Nat. Commun.
+6
+, 6486 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Wei, J., Hing, P. & Mo, Z. Q. TEM, XPS and FTIR characterization of sputtered carbon nitride films.
+Surf. Interface Anal.
+28
+, 208–211 (1999).
+Article
+CAS
+Google Scholar
+Dupin, J.-C., Gonbeau, D., Vinatier, P. & Levasseur, A. Systematic XPS studies of metal oxides, hydroxides and peroxides.
+Phys. Chem. Chem. Phys.
+2
+, 1319–1324 (2000).
+Article
+CAS
+Google Scholar
+Kim, S. & Choi, H. C. Light-promoted synthesis of highly-conjugated crystalline covalent organic framework.
+Commun. Chem
+2
+, 60 (2019).
+Article
+Google Scholar
+Wang, L. et al. Photocatalytic oxygen evolution from low-bandgap conjugated microporous polymer nanosheets: a combined first-principles calculation and experimental study.
+Nanoscale
+9
+, 4090–4096 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Eni, D. B., Yufanyi, D. M., Nono, J. H., Tabong, C. D. & Agwara, M. O. Synthesis, characterization and thermal properties of 1,10-phenanthroline mixed-ligand complexes of cobalt(II) and copper(II): metal-mediated transformations of the dicyanamide ion.
+Chem. Pap.
+74
+, 3003–3016 (2020).
+Article
+CAS
+Google Scholar
+Westre, T. E. et al. A multiplet analysis of Fe K-edge 1s → 3d pre-edge features of iron complexes.
+J. Am. Chem. Soc.
+119
+, 6297–6314 (1997).
+Article
+CAS
+Google Scholar
+Funke, H., Chukalina, M. & Scheinost, A. C. A new FEFF-based wavelet for EXAFS data analysis.
+J. Synchrotron Rad.
+14
+, 426–432 (2007).
+Article
+CAS
+Google Scholar
+Soriaga, M. P. & Hubbard, A. T. Determination of the orientation of aromatic molecules adsorbed on platinum electrodes. The effect of solute concentration.
+J. Am. Chem. Soc.
+104
+, 3937–3945 (1982).
+Article
+CAS
+Google Scholar
+Bard, A. J. & Faulkner, L. R.
+Electrochemical Methods: Fundamentals and Applications
+(Wiley, 1980).
+Tong, L., Gothelid, M. & Sun, L. Oxygen evolution at functionalized carbon surfaces: a strategy for immobilization of molecular water oxidation catalysts.
+Chem. Commun.
+48
+, 10025–10027 (2012).
+Article
+CAS
+Google Scholar
+Li, F. et al. Immobilization of a molecular catalyst on carbon nanotubes for highly efficient electro-catalytic water oxidation.
+Chem. Commun.
+50
+, 13948–13951 (2014).
+Article
+CAS
+Google Scholar
+Yamamoto, M. et al. Visible light-driven water oxidation with a subporphyrin sensitizer and a water oxidation catalyst.
+Chem. Commun.
+52
+, 13702–13705 (2016).
+Article
+CAS
+Google Scholar
+Jeong, H., Shin, S. & Lee, H. Heterogeneous atomic catalysts overcoming the limitations of single-atom catalysts.
+ACS Nano
+14
+, 14355–14374 (2020).
+Article
+PubMed
+CAS
+Google Scholar
+Wang, J. et al. Heterogeneous electrocatalyst with molecular cobalt ions serving as the center of active sites.
+J. Am. Chem. Soc.
+139
+, 1878–1884 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Moysiadou, A., Lee, S., Hsu, C.-S., Chen, H. M. & Hu, X. Mechanism of oxygen evolution catalyzed by cobalt oxyhydroxide: cobalt superoxide species as a key intermediate and dioxygen release as a rate-determining step.
+J. Am. Chem. Soc.
+142
+, 11901–11914 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Dobson, J. C. & Meyer, T. J. Redox properties and ligand loss chemistry in aqua/hydroxo/oxo complexes derived from cis- and trans-[(bpy)
+2
+Ru
+II
+(OH
+2
+)
+2
+]
+2
+.
+Inorg. Chem.
+27
+, 3283–3291 (1988).
+Article
+CAS
+Google Scholar
+Pasquini, C. et al. H/D isotope effects reveal factors controlling catalytic activity in co-based oxides for water oxidation.
+J. Am. Chem. Soc.
+141
+, 2938–2948 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Huang, Z.-F. et al. Chemical and structural origin of lattice oxygen oxidation in Co–Zn oxyhydroxide oxygen evolution electrocatalysts.
+Nat. Energy
+4
+, 329–338 (2019).
+Article
+CAS
+Google Scholar
+Zhang, M., de Respinis, M. & Frei, H. Time-resolved observations of water oxidation intermediates on a cobalt oxide nanoparticle catalyst.
+Nat. Chem.
+6
+, 362–367 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Gerken, J. B. et al. Electrochemical water oxidation with cobalt-based electrocatalysts from pH 0–14: the thermodynamic basis for catalyst structure, stability, and activity.
+J. Am. Chem. Soc.
+133
+, 14431–14442 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Brodsky Casey, N. et al. In situ characterization of cofacial Co(IV) centers in Co
+4
+O
+4
+cubane: modeling the high-valent active site in oxygen-evolving catalysts.
+Proc. Natl Acad. Sci. USA
+114
+, 3855–3860 (2017).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Moonshiram, D., Purohit, V., Concepcion, J., Meyer, T. & Pushkar, Y. Mechanism of catalytic water oxidation by the ruthenium blue dimer catalyst: comparative study in D
+2
+O versus H
+2
+O.
+Materials
+6
+, 392–409 (2013).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Yamada, H., Siems, W. F., Koike, T. & Hurst, J. K. Mechanisms of water oxidation catalyzed by the cis,cis-[(bpy)
+2
+Ru(OH
+2
+)]
+2
+O
+4
++
+ion.
+J. Am. Chem. Soc.
+126
+, 9786–9795 (2004).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, F. et al. Mechanisms of water oxidation from the blue dimer to photosystem II.
+Inorg. Chem.
+47
+, 1727–1752 (2008).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, Z. et al. Concerted O atom–proton transfer in the O–O bond forming step in water oxidation.
+Proc. Natl Acad. Sci. USA
+107
+, 7225–7229 (2010).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Li, W. et al. A bio-inspired coordination polymer as outstanding water oxidation catalyst via second coordination sphere engineering.
+Nat. Commun.
+10
+, 5074 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Costentin, C., Robert, M. & Savéant, J.-M. Concerted proton-electron transfer reactions in water. Are the driving force and rate constant depending on pH when water acts as proton donor or acceptor?
+J. Am. Chem. Soc.
+129
+, 5870–5879 (2007).
+Article
+CAS
+PubMed
+Google Scholar
+Boudart, M. & Djéga-Mariadassou, G.
+Kinetics of Heterogeneous Catalytic Reactions
+(Princeton Univ. Press, 2014).
+Hunter, B. M. et al. Trapping an iron(VI) water-splitting intermediate in nonaqueous media.
+Joule
+2
+, 747–763 (2018).
+Article
+CAS
+Google Scholar
+Zhang, B. & Sun, L. Artificial photosynthesis: opportunities and challenges of molecular catalysts.
+Chem. Soc. Rev.
+48
+, 2216–2264 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, Y. et al. Pivotal role and regulation of proton transfer in water oxidation on hematite photoanodes.
+J. Am. Chem. Soc.
+138
+, 2705–2711 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, Y. et al. Bond formation pathways for water oxidation on hematite photoanode.
+J. Am. Chem. Soc.
+140
+, 3264–3269 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Sheridan, M. V. et al. Electron transfer mediator effects in the oxidative activation of a ruthenium dicarboxylate water oxidation catalyst.
+ACS Catal.
+5
+, 4404–4409 (2015).
+Article
+CAS
+Google Scholar
+Takashima, T., Ishikawa, K. & Irie, H. Efficient oxygen evolution on hematite at neutral pH enabled by proton-coupled electron transfer.
+Chem. Commun.
+52
+, 14015–14018 (2016).
+Article
+CAS
+Google Scholar
+Chen, Z., Vannucci Aaron, K., Concepcion Javier, J., Jurss Jonah, W. & Meyer Thomas, J. Proton-coupled electron transfer at modified electrodes by multiple pathways.
+Proc. Natl Acad. Sci. USA
+108
+, E1461–E1469 (2011).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Imberti, S. et al. Ions in water: the microscopic structure of concentrated hydroxide solutions.
+J. Chem. Phys.
+122
+, 194509 (2005).
+Article
+CAS
+PubMed
+Google Scholar
+Zaffran, J. et al. Influence of electrolyte cations on Ni(Fe)OOH catalyzed oxygen evolution reaction.
+Chem. Mater.
+29
+, 4761–4767 (2017).
+Article
+CAS
+Google Scholar
+Garcia, A. C., Touzalin, T., Nieuwland, C., Perini, N. & Koper, M. T. M. Enhancement of oxygen evolution activity of nickel oxyhydroxide by electrolyte alkali cations.
+Angew. Chem. Int. Ed. Engl.
+58
+, 12999–13003 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Suntivich, J., Perry, E. E., Gasteiger, H. A. & Shao-Horn, Y. The influence of the cation on the oxygen reduction and evolution activities of oxide surfaces in alkaline electrolyte.
+Electrocatalysis
+4
+, 49–55 (2013).
+Article
+CAS
+Google Scholar
+Monteiro, M. C. O., Goyal, A., Moerland, P. & Koper, M. T. M. Understanding cation trends for hydrogen evolution on platinum and gold electrodes in alkaline media.
+ACS Catal
+.
+11
+, 14328–14335 (2021).
+Yang, C., Fontaine, O., Tarascon, J.-M. & Grimaud, A. Chemical recognition of active oxygen species on the surface of oxygen evolution reaction electrocatalysts.
+Angew. Chem. Int. Ed. Engl.
+56
+, 8652–8656 (2017).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Jamesh, M.-I. & Sun, X. Recent progress on earth abundant electrocatalysts for oxygen evolution reaction (OER) in alkaline medium to achieve efficient water splitting – a review.
+J. Power Sources
+400
+, 31–68 (2018).
+Article
+CAS
+Google Scholar
+Li, P. et al. Recent advances in the development of water oxidation electrocatalysts at mild pH.
+Small
+15
+, 1805103 (2019).
+Article
+CAS
+Google Scholar
+Chang, X. et al. Enhanced surface reaction kinetics and charge separation of P–N heterojunction Co
+3
+O
+4
+/BiVO
+4
+photoanodes.
+J. Am. Chem. Soc.
+137
+, 8356–8359 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Zhu, Y.-P., Liu, Y.-P., Ren, T.-Z. & Yuan, Z.-Y. Self-supported cobalt phosphide mesoporous nanorod arrays: a flexible and bifunctional electrode for highly active electrocatalytic water reduction and oxidation.
+Adv. Funct. Mater.
+25
+, 7337–7347 (2015).
+Article
+CAS
+Google Scholar
+Lyu, F., Wang, Q., Choi, S. M. & Yin, Y. Noble-metal-free electrocatalysts for oxygen evolution.
+Small
+15
+, 1804201 (2019).
+Article
+CAS
+Google Scholar
+Zhou, J. et al. Voltage- and time-dependent valence state transition in cobalt oxide catalysts during the oxygen evolution reaction.
+Nat. Commun.
+11
+, 1984 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Ye, C., Fu, R., Hu, J., Hou, L. & Ding, S. Carbon-13 chemical shift anisotropies of solid amino acids.
+Magn. Reson. Chem.
+31
+, 699–704 (1993).
+Article
+CAS
+Google Scholar
+Li, W. et al. From water reduction to oxidation: Janus Co-Ni-P nanowires as high-efficiency and ultrastable electrocatalysts for over 3000 h water splitting.
+J. Power Sources
+330
+, 156–166 (2016).
+Article
+CAS
+Google Scholar
+Anantharaj, S. et al. Precision and correctness in the evaluation of electrocatalytic water splitting: revisiting activity parameters with a critical assessment.
+Energy Environ. Sci.
+11
+, 744–771 (2018).
+Article
+CAS
+Google Scholar
+Stevens, M. B. et al. Measurement techniques for the study of thin film heterogeneous water oxidation electrocatalysts.
+Chem. Mater.
+29
+, 120–140 (2017).
+Article
+CAS
+Google Scholar
+Troian-Gautier, L. & Moucheron, C. Ruthenium
+II
+complexes bearing fused polycyclic ligands: from fundamental aspects to potential applications.
+Molecules
+19
+, 5028–5087 (2014).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Wang, J. et al. In situ formation of molecular Ni-Fe active sites on heteroatom-doped graphene as a heterogeneous electrocatalyst toward oxygen evolution.
+Sci. Adv.
+4
+, eaap7970 (2018).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Bochevarov, A. D. et al. Jaguar: a high-performance quantum chemistry software program with strengths in life and materials sciences.
+Int. J. Quantum Chem.
+113
+, 2110–2142 (2013).
+Article
+CAS
+Google Scholar
+Zhao, Y. & Truhlar, D. G. The M06 suite of density functionals for main group thermochemistry, thermochemical kinetics, noncovalent interactions, excited states, and transition elements: two new functionals and systematic testing of four M06-class functionals and 12 other functionals.
+Theor. Chem. Acc.
+120
+, 215–241 (2008).
+Article
+CAS
+Google Scholar
+Grimme, S., Antony, J., Ehrlich, S. & Krieg, H. A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu.
+J. Chem. Phys.
+132
+, 154104 (2010).
+Article
+PubMed
+CAS
+Google Scholar
+Goerigk, L. & Grimme, S. A thorough benchmark of density functional methods for general main group thermochemistry, kinetics, and noncovalent interactions.
+Phys. Chem. Chem. Phys.
+13
+, 6670–6688 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Christiansen, P. A., Lee, Y. S. & Pitzer, K. S. Improved ab initio effective core potentials for molecular calculations.
+J. Chem. Phys.
+71
+, 4445–4450 (1979).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This work was conducted by the Fundamental Research Center of Artificial Photosynthesis, financially supported by the National Natural Science Foundation of China (grant nos. 22172011 and 22088102), the Swedish Research Council (no. 2017-00935) and the K & A Wallenberg Foundation (no. KAW 2016.0072). All calculations were performed using resources provided by the Swedish National Infrastructure for Computing (SNIC) (allocation nos. SNIC 2020/5-41, SNIC 2019/3-284 and SNIC 2019/3-6) at the National Supercomputing Center in Linköping, Sweden. The authors thank the Instrumentation and Service Center for Physical Sciences at Westlake University for facility support and technical assistance. Q.M. and T.L. thank the China Scholarship Council for special scholarship awards. L.W. thanks Zhejiang Province Selected Funding for Postdoctoral Research Projects (no. ZJ2021001) for financial support.
+Funding
+Open access funding provided by Royal Institute of Technology.
+Author information
+Author notes
+These authors contributed equally: Hao Yang, Fusheng Li.
+Authors and Affiliations
+Department of Chemistry, School of Engineering Sciences in Chemistry, Biotechnology and Health, KTH Royal Institute of Technology, Stockholm, Sweden
+Hao Yang, Qijun Meng, Alexander Kravchenko, Tianqi Liu, Yi Yang, Yuan Fang, István Furó & Licheng Sun
+State Key Laboratory of Fine Chemicals, Institute of Artificial Photosynthesis, DUT-KTH Joint Education and Research Centre on Molecular Devices, Dalian University of Technology, Dalian, China
+Fusheng Li, Wenlong Li & Licheng Sun
+Department of Theoretical Chemistry & Biology, School of Engineering Sciences in Chemistry Biotechnology and Health, KTH Royal Institute of Technology, Stockholm, Sweden
+Shaoqi Zhan & Mårten S. G. Ahlquist
+Department of Chemistry-Ångström, Physical Chemistry, Uppsala University, Uppsala, Sweden
+Yawen Liu
+Center of Artificial Photosynthesis for Solar Fuels and Department of Chemistry, School of Science, Westlake University, Hangzhou, China
+Linqin Wang & Licheng Sun
+Instrumentation and Service Center for Physical Sciences, Westlake University, Hangzhou, China
+Jiaqi Guan
+Authors
+Hao Yang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Fusheng Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shaoqi Zhan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yawen Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wenlong Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qijun Meng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Alexander Kravchenko
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tianqi Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yi Yang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yuan Fang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Linqin Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiaqi Guan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+István Furó
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mårten S. G. Ahlquist
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Licheng Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+H.Y., F.L. and L.S. conceived the project design and initiated the project. H.Y. performed catalyst synthesis, most of the structural characterization and electrochemical measurements. All spectra and electrochemical kinetics data were analysed and interpreted by H.Y. and F.L. S.Z. and M.S.G.A. performed DFT calculations. Y.L. performed FT–IR, XRD and XPS measurements and data analysis. W.L. performed Raman measurements and data analysis. Y.Y. performed ICP–OES measurements and data analysis. Y.F. and I.F. performed SS-NMR measurements and data analysis. L.W. and J.G. performed STM measurements and data analysis. All authors contributed to discussions. H.Y. wrote the paper with inputs from the other authors, and F.L. and L.S. revised the manuscript. All authors reviewed the paper. L.S. supervised the research.
+Corresponding author
+Correspondence to
+Licheng Sun
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks the anonymous reviewers for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–48, Notes 1–5 and Tables 1–8.
+Supplementary Data 1
+Atomic coordinates of key intermediates.
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+.
+Reprints and permissions
+About this article
+Cite this article
+Yang, H., Li, F., Zhan, S.
+et al.
+Intramolecular hydroxyl nucleophilic attack pathway by a polymeric water oxidation catalyst with single cobalt sites.
+Nat Catal
+5
+, 414–429 (2022). https://doi.org/10.1038/s41929-022-00783-6
+Download citation
+Received
+:
+05 May 2021
+Accepted
+:
+11 April 2022
+Published
+:
+25 May 2022
+Issue Date
+:
+May 2022
+DOI
+:
+https://doi.org/10.1038/s41929-022-00783-6
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

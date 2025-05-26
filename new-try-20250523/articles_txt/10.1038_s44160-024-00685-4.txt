@@ -1,0 +1,1974 @@
+Synthesis of isolated Ru–O3 sites on hexagonal close-packed intermetallic penta-metallene for hydrogen oxidation electrocatalysis | Nature Synthesis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature synthesis
+articles
+article
+Synthesis of isolated Ru–O
+3
+sites on hexagonal close-packed intermetallic penta-metallene for hydrogen oxidation electrocatalysis
+Download PDF
+Article
+Published:
+03 December 2024
+Synthesis of isolated Ru–O
+3
+sites on hexagonal close-packed intermetallic penta-metallene for hydrogen oxidation electrocatalysis
+Fangxu Lin
+ORCID:
+orcid.org/0009-0008-4589-6302
+1
+na1
+,
+Heng Luo
+1
+na1
+,
+Lu Li
+1
+na1
+,
+Fan Lv
+ORCID:
+orcid.org/0000-0002-6393-0112
+1
+,
+Yanyan Chen
+1
+,
+Qinghua Zhang
+ORCID:
+orcid.org/0000-0001-9086-7000
+2
+,
+Xiaocang Han
+ORCID:
+orcid.org/0000-0001-8458-5568
+1
+,
+Dawei Wang
+1
+,
+Menggang Li
+ORCID:
+orcid.org/0000-0003-1354-2645
+1
+,
+Yan Luo
+1
+,
+Kai Wang
+ORCID:
+orcid.org/0000-0002-1271-2094
+1
+,
+Lin Gu
+ORCID:
+orcid.org/0000-0002-7504-031X
+2
+,
+Qian Wang
+ORCID:
+orcid.org/0000-0002-9766-4617
+1
+,
+Xiaoxu Zhao
+ORCID:
+orcid.org/0000-0001-9746-3770
+1
+,
+Mingchuan Luo
+ORCID:
+orcid.org/0000-0001-9772-2154
+1
+&
+…
+Shaojun Guo
+ORCID:
+orcid.org/0000-0002-5941-414X
+1
+Show authors
+Nature Synthesis
+volume
+4
+,
+pages
+399–409 (
+2025
+)
+Cite this article
+3323
+Accesses
+13
+Altmetric
+Metrics
+details
+Subjects
+Catalyst synthesis
+Electrocatalysis
+Abstract
+Atomically thin two-dimensional alloys are interesting for electrocatalysis but suffer from poor functional robustness and wide active-site heterogeneity. Here the synthesis of an unconventional hexagonal close-packed-phase intermetallic Pd-based multi-metallene, on which isolated Ru–O
+3
+atomic sites are homogeneously dispersed, overcomes these obstacles. This structure exhibits excellent hydrogen oxidation reaction (HOR) activity, durability and anti-CO poisoning performance. The mass activity and exchange current density reach 11.5 mA μg
+−1
+and 1.0 mA cm
+−2
+, respectively, showing some of the fastest reaction kinetics reported for Pd-based HOR catalysts. In situ Raman spectroscopy and theoretical investigations confirm that the intensified ligand effect derived from orderly atomic arrangement tends to strengthen the adsorption of hydroxyl and water, while the homogeneous Ru–O
+3
+sites contribute to weakened binding of HOR-involved intermediates (
+*
+H,
+*
+OH and
+*
+H
+2
+O), leading to a favourable reaction pathway. This work demonstrates the importance of high-valence Ru and surface O species in enhancing the synergetic process and water reorganization.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Ultrafine nanoporous intermetallic catalysts by high-temperature liquid metal dealloying for electrochemical hydrogen production
+Article
+Open access
+02 September 2022
+Coherent hexagonal platinum skin on nickel nanocrystals for enhanced hydrogen evolution activity
+Article
+Open access
+27 April 2023
+Moving beyond bimetallic-alloy to single-atom dimer atomic-interface for all-pH hydrogen evolution
+Article
+Open access
+19 November 2021
+Main
+Addressing the sluggish kinetics of the anodic hydrogen oxidation reaction (HOR) to realize worthwhile intrinsic catalytic activity is necessary in improving state-of-the-art anion exchange membrane fuel cells (AEMFCs)
+1
+,
+2
+,
+3
+. Subject to over-strong hydrogen binding energy (HBE), especially under an alkaline environment, platinum group metals (PGMs) suffer from an unfavourable desorption process and have a high energy barrier in the Volmer step
+4
+,
+5
+. Introducing oxyphilic alloying elements to either modulate the electronic structure of host PGMs (refs.
+6
+,
+7
+) or provide additional active sites for hydroxyl adsorption
+8
+,
+9
+,
+10
+has proved effective in stimulating smooth hydrogen detachment, accelerating the reaction kinetics. However, most current HOR catalysts lack sufficient capacity to provide multi-catalytic sites for reconciling the binding energy of hydrogen and hydroxyl species. In addition, they do not take interfacial water reorganization energy into consideration
+11
+and therefore fail to achieve promising catalytic behaviours.
+Endowed with ultrathin two-dimensional scale-induced high surface area, the ligand effect and inherent lattice strain as well as the quantum size effect, emerging metallene materials exhibit an extraordinary ability for electronic structure regulation to achieve outstanding intrinsic activity
+12
+,
+13
+,
+14
+. Unfortunately, they are constrained by inferior stability derived from foreign element leaching and mechanism ambiguity caused by non-uniformity of active sites. Constructing orderly atomic arrangements not only helps increase the catalytic stability, but also provides homogeneous isolated active sites, presenting greater capability to influence the
+d
+-band centre
+15
+,
+16
+,
+17
+. Given the ideal potential of ruthenium (Ru) to balance the binding energy between hydrogen and hydroxyl
+18
+,
+19
+, precisely controlling the distribution and coordination configuration of identical Ru-based active sites serves as an attractive topic for HOR (refs.
+20
+,
+21
+,
+22
+). Nonetheless, precise synthesis of such intermetallic metallene materials with multiple active sites including a tailored single-type Ru moiety is challenging.
+In this Article, we realize uniform distribution of Ru atoms on the surface of a Pd-based metallene material via a Pt-induced auto-catalysis deposition method. The as-obtained penta-metallene (PMene-Ru
+0.18
+) exhibits the unconventional metastable hexagonal close-packed (hcp) phase. Extended X-ray absorption fine structure (EXAFS) fitting verifies that surface Ru atoms have an isolated Ru–O
+3
+coordination environment, which serves as the key promotor for HOR performance. As a result, PMene-Ru
+0.18
+presents a high electrochemical surface area (ECSA) and fast HOR kinetics, with a mass activity of 11.5 mA μg
+−1
+(
+j
+k, m
+) and an exchange current density of 1.0 mA cm
+−2
+(
+j
+0, s
+), surpassing Pt/C by 32.5 and 5.2 times, respectively. It also shows excellent stability and anti-CO poisoning performance. In situ surface enhanced Raman spectroscopy (SERS) measurements and density functional theory (DFT) calculations further show that the origin of the HOR kinetics is derived from two-tier adsorption tunings: the hcp intermetallics induces reinforced hydroxyl binding energy (OHBE) and water binding energy (H
+2
+OBE) while Ru–O
+3
+sites contribute to weakened adsorption of all the relative intermediates. This work highlights an intermetallic multi-element metallene material that balances the binding energy of all-round intermediates and offers a platform to study the role of the oxyphilic Ru moiety in an alkaline HOR.
+Results and discussion
+Material synthesis and characterization
+A PdIr metallene, with a downshifted
+d
+-band and weakened HBE relative to those of crude Pd and Ir, was chosen as the model catalyst in this study
+23
+,
+24
+. Unfortunately, impeded by the large diffusion resistance caused by Ir atoms, successful alloying of exotic Ru was found to be difficult even under a CO atmosphere at 220 °C (Supplementary Fig.
+1a
+). Additional Pt precursor was applied to realize the introduction and enrichment of Ru on the surface of the metallene, since Pt is reported to induce under-temperature reduction of mononuclear noble metal acetylacetonates through the auto-catalytic effect
+25
+(Supplementary Fig.
+1b
+). We find that a PdIr bimetallene (BMene) is obtained without Pt precursor, regardless of the addition of Ru or Mo precursors. By contrast, after introducing proper amounts of Pt(acac)
+2
+, Mo and Ru atoms can be introduced through the galvanic-like auto-catalytic reaction to give a quaternary PdIrMoPt metallene (QMene) and a pentabasic PdIrRuMoPt metallene (PMene) (
+Methods
+and Supplementary Fig.
+1c
+).
+High-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM, Fig.
+1a
+) and transmission electron microscopy (TEM, Supplementary Fig.
+2a,b
+) images of PMene-Ru
+0.18
+confirm its uniform hexagonal morphology and ~35 nm average diameter. Atomic force microscopy (AFM, Fig.
+1b
+and Supplementary Fig.
+2c,d
+) measurement of PMene-Ru
+0.18
+verifies its sub-nano thickness to be approximately 0.9 nm. Such ultrathin thickness is further proved by its side-view TEM and HAADF-STEM images, with typically 4–5 atomic layers and preferential crystallographic orientation along the close-packed planes (Supplementary Figs.
+3
+and
+4
+). High-resolution HAADF-STEM images of PMene-Ru
+0.18
+(Fig.
+1c
+, Supplementary Fig.
+5a,b,d,e,g,h
+and Supplementary Fig.
+7a
+) show that it has a prominent hcp-type atomic arrangement with obvious heavy element enrichment on the edge of the metallene measured to be classic face-centred cubic (fcc)-{220} facets. Combined with energy-dispersive X-ray spectroscopy (EDS, Fig.
+1d
+and Supplementary Fig.
+6
+) mappings, the existence of marginal Ir skin and uniform distribution of multiple elements throughout the metallene can be deduced. The composition of PMene-Ru
+0.18
+was further found to be Pd:Ir:Ru:Mo:Pt = 46:18:18:14:4 using an inductively coupled plasma atomic emission spectrometer (ICP-AES) (Supplementary Fig.
+2e
+and Supplementary Table
+1
+).
+Fig. 1: Morphological, compositional and structural characterizations of PMene-Ru
+0.18
+.
+a
+, HAADF-STEM image.
+b
+, AFM image. Panel scale bar indicates length of metallene; individual bars indicate thickness of each metallene.
+c
+, High-resolution HAADF-STEM image.
+d
+, EDS mapping images. Scale bar, 25 nm.
+e
+,
+f
+, Magnified HAADF-STEM image (
+e
+) (scale bar, 0.5 nm) and corresponding FFT pattern (
+f
+) (scale bar, 5 nm
+−
+1
+).
+g
+, XRD patterns of different metallenes where the stellate symbols represent intermetallics-related diffraction peaks. a.u., arbitrary units.
+h
+, Hypothetical model for PMene-Ru
+0.18
+.
+Source data
+Full size image
+To gain insight into the structure of PMene-Ru
+0.18
+, the magnified HAADF-STEM image (Fig.
+1e
+) and corresponding fast Fourier transform (FFT, Fig.
+1f
+and Supplementary Fig.
+5c,f,i
+) patterns were studied. A dominant alternating arrangement can be seen with bright heavier atoms occupying the vertex of the hexatomic ring wherein the dark lighter atoms are situated at the centre, implying an hcp intermetallic phase for PMene-Ru
+0.18
+. A
+d
+-spacing of 0.24 nm was measured for two adjacent heavy-atom columns (Supplementary Fig.
+7a
+), which is smaller than that for classic hcp structures. An apparent boundary separates the lattice into an fcc-{111}-exposed side and an hcp-{0001}-oriented interior body (Supplementary Fig.
+7b–d
+), a classic structure that can also be seen in other similar two-dimensional systems
+26
+,
+27
+. Despite the fcc-Ir shell, the FFT pattern of the whole individual metallene (Fig.
+1f
+) presents a typical hcp feature, with external reciprocal spots representing two groups of {210} and one group of {110} facets, while the extra inner ones index {100} and {1-10} planes. Consistent with the
+d
+-spacing measurement, the FFT pattern also indicates smaller interplanar spacings (~0.24 nm/~0.14 nm) for {100}&{1-10}/{210}&{110} facets than the standard hcp phase, for example 0.32 nm/0.22 nm for PtPb (JCPDS No. 06-0374), implying a contracted hcp lattice for PMene-Ru
+0.18
+. The packing density within the exposed facet was also calculated, indicating metal-level close-packed atomic distribution, which further verifies the unconventional hcp intermetallic phase of PMene-Ru
+0.18
+(Supplementary Fig.
+8
+). Additionally, substantial variation of atom positions can also be seen in Fig.
+1e
+as an obtuse rather than orthogonal angle emerges. This is attributed to the difference of atomic radii and complicated interaction among multiple elements. In short, these observations confirm the hcp intermetallic nature and the contracted lattice for PMene-Ru
+0.18
+.
+The X-ray diffraction (XRD) pattern of PMene-Ru
+0.18
+displays two characteristic peaks at 31.0 and 33.5° (Fig.
+1g
+). These are not consistent with any oxide impurities of Ru or Mo, suggesting a potential ordered structure within the metallene lattice, while a typical fcc alloy phase is seen for BMene (
+Methods
+, Supplementary Fig.
+9a,b
+and Supplementary Table
+1
+) and QMene (
+Methods
+, Supplementary Fig.
+9c,d
+and Supplementary Table
+1
+). To further examine the origin of these two peaks, an XRD simulation was performed to predict the possible occupation of each element (Supplementary Figs.
+10
+–
+12
+) and a hypothetical model of PMene-Ru
+0.18
+with a layered-ordered structure and preferential enrichment of Pd, Mo and Ru on the surface was determined (Fig.
+1h
+). A compressed unit cell was confirmed for PMene-Ru
+0.18
+with a typical hcp-type stacking sequence (Supplementary Table
+2
+), agreeing with the microscopy observation. Aberration corrected (AC)-TEM characterization and XRD simulation mutually demonstrate that PMene-Ru
+0.18
+possesses an unconventional hcp intermetallic structure with contracted lattices and a layered-ordered structure at the atomic level.
+X-ray photoelectron spectra (XPS) and X-ray absorption fine structure (XAFS) analyses were then carried out to investigate the electronic structure of PMene-Ru
+0.18
+. Compared with fresh Ru/C catalyst, carbon-supported PMene-Ru
+0.18
+exhibits a more positive binding energy and increased proportion of Ru
+4+
+(Fig.
+2a
+), implying a high valence of Ru. Accordingly, Pd mainly exists in the metallic state with gradually increasing binding energy, while Ir displays an opposite tendency (Supplementary Fig.
+13
+). X-ray absorption near edge structure (XANES) spectra of the Ru K edge show a higher edge energy for PMene-Ru
+0.18
+than for Ru foil (22,117 eV) and comparable 5
+p
+empty orbital density to RuO
+2
+(Fig.
+2b
+). This further implies that Ru atoms in PMene-Ru
+0.18
+present high oxidation states of +1.96 (inset of Fig.
+2b
+), in good agreement with the outcome of +1.83 estimated by the XPS integral area. This value is half of that in RuO
+2
+(IV).
+Fig. 2: Fine structural characterizations and electrochemical properties of PMene-Ru
+0.18
+.
+a
+, Ru 3
+p
+XPS spectra.
+b
+, XANES Ru K edge spectra. The inset shows the fitting of Ru charge state.
+c
+,
+d
+,
+k
+3
+-weighted FT-EXAFS spectra in
+R
+-space (
+c
+) and the corresponding WT-EXAFS patterns (
+d
+).
+e
+, XPS O 1
+s
+spectra.
+f
+, XPS-VB spectra of different metallene samples.
+g
+, CVs of different metallene samples recorded in 0.1 M KOH. The inset shows the magnified H
+upd
+peak.
+h
+, CO-stripping curves of different metallene samples tested in 0.1 M KOH. a.u., arbitrary units.
+Source data
+Full size image
+Fitting was then performed with extended X-ray absorption fine structure (EXAFS) data for both Ru K edge (Supplementary Fig.
+14
+and Supplementary Table
+3
+) and Pd K edge (Supplementary Fig.
+15
+and Supplementary Table
+4
+). The Fourier transform (FT)-EXAFS results suggest that only the trace Ru–Ru metallic bond can be detected for PMene-Ru
+0.18
+and the dominant existing form of Ru is the prolonged Ru–O pairs (Fig.
+2c
+). The Ru–O(–M) (M = other elements like Pd, Ir or Mo) bonds in PMene-Ru
+0.18
+were assessed to be 2.17 Å, much longer than the Ru–O(–Ru) bonds of ~1.96 Å in RuO
+2
+. Similar asymmetric and extended bonds can be seen for displacement of heteroatoms in oxide systems
+28
+,
+29
+. The coordination number (CN) of the Ru–O scattering path of PMene-Ru
+0.18
+was fitted to be ~3 (Supplementary Table
+3
+). This is half of that in RuO
+2
+and agrees well with the valence outcomes and prediction of the formation of a half oxidation layer comprising of uniform Ru–O
+3
+sites on the surface of PMene-Ru
+0.18
+, which is thin enough to allow H penetration and HOR catalysis
+30
+,
+31
+,
+32
+. The correlative wavelet transformation (WT)-EXAFS pattern of PMene-Ru
+0.18
+shows a centralized strong intensity region at short
+R
+range (1–2 Å), resembling neither metallic Ru foil nor completely oxidized RuO
+2
+, suggesting isolated properties of Ru–O
+3
+atomic sites (Fig.
+2d
+). By contrast, Pd in all three metallenes remains in the metallic state (Supplementary Fig.
+16a
+) and has similar tensile strain (Supplementary Fig.
+16b–d
+). The CN (Pd–Pd) also shows no reasonable trend in variation (Supplementary Fig.
+16e
+), therefore excluding the regulation of HOR activity through strain and CN effects.
+XPS O 1
+s
+spectra were collected and differentiated to further validate the surface Ru–O coordination (Supplementary Table
+5
+)
+33
+,
+34
+,
+35
+. As shown in Fig.
+2e
+, all three metallenes hold a certain percentage of surface coordinated oxygen (M–O), which exhibits much higher O 1
+s
+binding energy than the reported values for lattice oxygen. In the wake of Ru introduction, the proportion of M–O for PMene-Ru
+0.18
+rises to 46.0% relative to that of QMene (36.0%). Given the reduction of Ir binding energy as well as the similar Mo content, this elevated ratio can be mainly ascribed to the newly formed Ru–O bonds. Moreover, the surface oxidation degree was also calculated here to verify the exclusive distribution of O species on the surface of PMene-Ru
+0.18
+, also providing evidence for the abundant formation of Ru–O
+3
+sites derived from partial surface oxidation (Supplementary Fig.
+17
+). In general, EXAFS fitting outcomes and XPS O 1
+s
+spectra collaboratively suggest the existence of isolated Ru–O
+3
+atomic sites in PMene-Ru
+0.18
+, which may be distributed on the surface of the metallene and participate in HOR catalysis.
+XPS valence band (VB) spectra were then used to analyse the
+d
+-band structures for all three metallenes. Benefitting from the multiple ligand effects and the introduction of Ru–O
+3
+sites, PMene-Ru
+0.18
+has a downshifted
+d
+-band centre of −3.82 eV (Fig.
+2f
+), with an almost 0.5 and 0.3 eV shift compared with the corresponding pure metals (Supplementary Fig.
+18
+) and BMene/QMene samples, respectively. Such an obvious shift also relates to the reinforced electronic interaction due to the intermetallic structure. Cyclic voltammogram (CV) tests were then conducted to check their HBEs since the under potential deposition of hydrogen (H
+upd
+) peaks are indicators of hydrogen binding ability
+7
+,
+36
+. CVs of PMene-Ru
+0.18
+measured in 0.1 M KOH show that the H
+upd
+peak displays an apparent left shift (Fig.
+2g
+) to reach ~0.2 V versus reversible hydrogen electrode (RHE), in good agreement with the prediction of the
+d
+-band centre that PMene-Ru
+0.18
+possesses the most weakened HBE. The peak of Ru–
+*
+H adsorption usually occurs below 0.2 V versus RHE (Supplementary Fig.
+19
+)
+37
+. Hence, the as-measured signal may forecast the participation of other
+*
+H-adsorbed sites instead of Ru. CVs of PMene-Ru
+0.18
+in acid medium also support the same conclusion (Supplementary Fig.
+20a
+). CO-stripping experiments for PMene-Ru
+0.18
+show that both CO-oxidation peaks collected in acid and alkali commence and reach a maximum under a gradually left-shifted potential (Fig.
+2h
+and Supplementary Fig.
+20b
+), implying the most enhanced OHBE and the best detachment ability of CO for PMene-Ru
+0.18
+(ref.
+6
+).
+Electrocatalytic performance towards alkaline HOR
+The ECSAs of Pt/C and PtRu/C catalysts were determined to be 66.5 m
+2
+g
+−1
+and 66.3 m
+2
+g
+−1
+, respectively, by applying the H
+upd
+regions (Supplementary Fig.
+21
+). For metallenes, the underpotential deposition of copper (Cu
+upd
+) method was chosen considering the multi-element composition, where PMene-Ru
+0.18
+has an ECSA as high as 94.5 m
+2
+g
+−1
+(Supplementary Fig.
+22
+). Linear sweep voltammetry (LSV) curves were then recorded in 0.1 M H
+2
+-saturated KOH solution from −0.1 to 0.6 V versus RHE (Fig.
+3a
+). All metallene catalysts show limiting diffusion current platforms with no obvious decay, unlike when metallic Ru serves as the primary active site (Supplementary Fig.
+19e
+)
+38
+,
+39
+,
+40
+,
+41
+. This indicates participation of PGMs as adsorption sites
+42
+and the non-metallic form of surface Ru for PMene-Ru
+0.18
+(refs.
+43
+,
+44
+). Compared with commercial catalysts and BMene/QMene samples, PMene-Ru
+0.18
+presents a more rapidly rising onset current co-controlled by diffusion and the reaction dynamics, implying its fast HOR kinetics. Mass-normalized micro-polarization region curves (Fig.
+3b
+) and Tafel slopes (Supplementary Fig.
+23
+) further confirm that PMene-Ru
+0.18
+has excellent catalytic dynamics, demonstrating the importance of structural conversion to intermetallics and the introduction of Ru–O
+3
+sites towards high-efficiency HOR catalysis.
+Fig. 3: Electrochemical HOR performances.
+a
+, HOR polarization curves of different catalysts.
+b
+, Mass-normalized micro-polarization region curves.
+c
+,
+d
+, Comparisons of mass and ECSA-normalized kinetic current density (
+j
+k, m
+/
+j
+k, s
+) at 50 mV versus RHE (
+c
+) and mass and ECSA-normalized exchange current density (
+j
+0, m
+/
+j
+0, s
+) (
+d
+) among different metallene and reference catalysts.
+e
+, Comparison of
+j
+k, m
+,
+j
+k, s
+,
+j
+0, m
+and
+j
+0, s
+with previously reported catalysts.
+f
+, HOR polarization curves of PMene-Ru
+0.18
+before (solid line) and after (dashed line) ADT.
+g
+, CO-poisoning experiments of different catalysts.
+Source data
+Full size image
+PMene-Ru
+0.18
+presents fast kinetics with
+j
+k, m
+of 11.51 mA μg
+−1
+and
+j
+k, s
+of 12.18 mA cm
+−2
+, exceeding Pt/C by 32.5 and 22.9 times, respectively (Fig.
+3c
+and Supplementary Table
+6
+). Exchange current density (
+j
+0
+) was then calculated by fitting the Butler–Volmer equation within the micro-polarization region and normalized by the total mass of noble metals and ECSA, respectively (
+Methods
+and Supplementary Table
+7
+). As shown in Fig.
+3d
+, PMene-Ru
+0.18
+possesses remarkable values with
+j
+0, m
+of 0.94 mA μg
+−1
+and
+j
+0, s
+of 1.00 mA cm
+−2
+. The high exchange current density of PMene-Ru
+0.18
+implies predominant reversibility of HOR, also verified by the large transfer coefficient (Supplementary Table
+7
+), indicating that the HOR process has faster kinetics than HER in all the metallene systems. A well-tuned electronic structure, high ECSA and Ru–O
+3
+-assisted synergetic reaction pathway provide PMene-Ru
+0.18
+with some of the best specific and mass activities reported for Pd-based HOR electrocatalysts (Fig.
+3e
+and Supplementary Tables
+8
+and
+9
+).
+The Levich plot between geometric area-normalized current density and
+ω
+−1/2
+shows that PMene-Ru
+0.18
+has a slope of 4.65 cm
+2
+mA
+−1
+s
+−1/2
+(Supplementary Fig.
+24
+), close to the theoretical value of 4.78 cm
+2
+mA
+−1
+s
+−1/2
+, indicating a two-electron transfer for HOR on PMene-Ru
+0.18
+(ref.
+45
+). PMene-Ru
+0.18
+also exhibits excellent stability with negligible decay after a 5,000-cycle accelerated durability test (ADT, Fig.
+3f
+), a process during which the valence states of various elements and especially, the significant Ru–O
+3
+coordination mode, remain stable (Supplementary Figs.
+25
+and
+26
+and Supplementary Table
+3
+). An anti-CO poisoning ability with only 19% loss during the chronoamperometry measurement was also observed for PMene-Ru
+0.18
+, which represents an improvement over the commercial PtRu counterpart (Fig.
+3g
+).
+Mechanism study and theoretical investigation
+To show the function of Ru–O
+3
+atomic sites towards enhanced HOR electrocatalysis, PMene-Ru
+0.1
+and PMene-Ru
+0.4
+were prepared with similar morphology and size to PMene-Ru
+0.18
+(
+Methods
+, Supplementary Fig.
+27
+and Supplementary Table
+1
+). XRD patterns suggest gradually distinct characteristic peaks with increased Ru concentration (Fig.
+4a
+), suggesting a more prominent intermetallic nature. Ru K edge XANES spectra (Supplementary Fig.
+28a
+) and EXAFS fitting (Supplementary Fig.
+28b
+and Supplementary Fig.
+29
+) of all three PMenes illustrate that with the increase of Ru content, higher valence and an increased proportion of Ru–O configuration emerge gradually. Interestingly, introduction of a small amount of Ru tends to leave a larger amount of metallic Ru (Fig.
+4b
+), which probably refers to an incipient or incomplete auto-catalytic process because a high residue of Pt can also be detected in PMene-Ru
+0.1
+. By contrast, both PMene-Ru
+0.18
+and PMene-Ru
+0.4
+contain exclusively Ru–O bonds with approximate CN of about 3.
+Fig. 4: Structural characterizations and HOR performances of other PMene catalysts.
+a
+, XRD patterns of different PMenes. a.u., arbitrary units.
+b
+, WT-EXAFS spectra of different PMene samples.
+c
+, XPS data statistics. The Y axis represents the difference value of the binding energy between PMene-Ru
+0.18
+and other PMene samples.
+d
+,
+e
+, XPS O 1
+s
+spectra (
+d
+) and correlative VB data (
+e
+) of different PMene samples.
+f
+, Comparisons of mass and ECSA-normalized kinetic current density (
+j
+k, m
+/
+j
+k, s
+) at 50 mV versus RHE and mass and ECSA-normalized exchange current density (
+j
+0, m
+/
+j
+0, s
+) of different PMene catalysts. The cones representing
+j
+0
+values refer to the left axis (
+j
+0,m
+(mA µg
+noble metal
+−
+1
+);
+j
+0,s
+(mA cm
+ECSA
+−
+2
+)), while the columns representing
+j
+k
+values refer to the right axis (
+j
+k,m
+(mA µg
+noble metal
+−
+1
+);
+j
+k,s
+(mA cm
+ECSA
+−
+2
+)).
+Source data
+Full size image
+Electron paramagnetic resonance (EPR, Supplementary Fig.
+30
+) data demonstrate that the extra O atoms from PMene-Ru
+0.18
+to PMene-Ru
+0.4
+originate from the reductive uncoordinated oxygen sites. Furthermore, similar fitting results can be found for Pd in all three PMenes, again, excluding the influence of strain and coordination effects (Supplementary Fig.
+31
+). More advanced, general analysis of XPS spectra of Pd 3
+d
+, Ir 4
+f
+, Ru 3
+p
+and Mo 3
+d
+(Supplementary Fig.
+32
+) indicates that only the binding energy of high-valence Ru experiences significant change when adjusting its content (Fig.
+4c
+), wherein other elements remain in similar states, indicating the decisive role of Ru–O
+3
+sites. XPS O 1
+s
+spectra of three PMenes further confirm the lower Ru–O proportion in PMene-Ru
+0.1
+and decreased unsaturated surface coordinated oxygen (M–O
+*
+) in PMene-Ru
+0.4
+(Fig.
+4d
+).
+The ECSAs of PMene-Ru
+0.1
+and PMene-Ru
+0.4
+were calculated using the Cu
+upd
+methods (Supplementary Fig.
+33
+). XPS-VB spectra confirm that the most downshifted
+d
+-band centre is PMene-Ru
+0.18
+among all three PMenes (Fig.
+4e
+). CV and CO-stripping curves of different PMenes show more weakened HBE and apparently enhanced OHBE over PMene-Ru
+0.18
+/PMene-Ru
+0.4
+than those of PMene-Ru
+0.1
+(Supplementary Figs.
+34
+and
+35
+), demonstrating the crucial effect of Ru–O
+3
+sites rather than metallic Ru for the electrochemical property regulation of the catalyst surfaces. The HOR LSVs, micro-polarization regions (Supplementary Fig.
+36
+) and the fitted
+j
+k
+/
+j
+0
+values (Supplementary Tables
+6
+and
+7
+) of three PMenes show a volcano trend between HOR activity and Ru–O
+3
+content rather than a monotonically increasing relationship, with PMene-Ru
+0.18
+achieving the highest performances (Fig.
+4f
+). This indicates that Ru–O
+3
+cannot be the only active site involved in HOR catalysis.
+To further verify the hypothetical role of Ru–O
+3
+and ensure an authentic pathway along the HOR reaction coordinate, density functional theory (DFT) calculations were carried out on representative models. Considering the sophisticated active sites on the surface of multi-element PMene-Ru
+0.18
+, extended high-potential HOR LSV curves were recorded to help deduce the possible H-adsorbed location since the characteristic break-down potential at which Faradic current starts to decay can to some extent reflect the chemical nature of active sites
+46
+,
+47
+. As shown in Supplementary Fig.
+37a
+, we extended the regular sweeping window from 0.6 to 1.5 V (versus RHE) and observed gradually increasing adsorption peaks of Pt–
+*
+H and Pt–
+*
+OH for the PtRu/C catalyst with the decrease of metallic Ru-related Ru–
+*
+H and Ru oxidation peaks as the number of scans increased. This indicates the definite participation of surface Ru atoms as original
+*
+H-adsorbed active sites under formal HOR conditions in the PtRu system. Its low break-down potential (0.63 V versus RHE) further confirms this deduction. Metallenes, in contrast, exhibit no obvious Ru–
+*
+H peak, implying that there are fewer metallic Ru atoms on the surface or they are not included in the hydrogen capture procedure (Supplementary Fig.
+37b
+). Either apparent M–
+*
+H (M = Pt or Pd) peak situated at ~0.3 V versus RHE of BMene and QMene or higher break-down potential at about 0.8 V versus RHE demonstrates that a PGM, suggested to be Pd here, serves as a main H-adsorbed site in all metallene materials. We applied the H
+upd
+peak potential and the CO oxidation peak potential as descriptors for HBE and OHBE, respectively and correlated them with the intrinsic HOR kinetics (represented here as
+j
+k, s
+). As a result, non-linear trends were obtained for each descriptor (Supplementary Fig.
+38
+), showing poor consistency with the classic volcano prediction and thus indicating an independent dual determination from both HBE and OHBE (ref.
+46
+).
+Based on the above analysis, we built four typical models, calculated the adsorption energies of
+*
+H,
+*
+OH and
+*
+H
+2
+O with proper selection of active sites for each and selected the
+*
+OH-involved synergistic mechanism for the HOR pathway. The four conceptual models include quinary intermetallics with O (QI+O, using an XRD-simulated model with extra added surface O atoms corresponding to PMene-Ru
+0.18
+, Supplementary Fig.
+39
+), quinary intermetallics without O (QI, Supplementary Fig.
+40
+), quinary fcc-alloy with O (QA+O, Supplementary Fig.
+41
+) and quinary fcc-alloy without O (QA, Supplementary Fig.
+42
+), allowing us the opportunity to assess the function of the hcp intermetallic structure and Ru–O
+3
+configuration separately. Firstly, the Bader charges of surface Pd sites were calculated, both with and without extra O species connected to adjacent Ru atoms, to evaluate their H-adsorption behaviours. As shown in Fig.
+5a
+, the formation of Ru–O
+3
+induces reduced electron density around the Pd site that increases its Bader charge from −0.275
+e
+in QI to −0.004
+e
+in QI+O, in good agreement with the XPS data. This further leads to an impaired Pd–H bond (elongated from 1.846 to 1.877 Å), indicating that the introduction of Ru–O
+3
+sites weakens the hydrogen adsorption ability of the less negative Pd site through a reduced Coulomb interaction. Furthermore, the OHBEs of each model were also obtained, from which one can perceive a properly enhanced OHBE for QI+O compared with that of QA+O (Supplementary Fig.
+43
+and Supplementary Table
+10
+).
+Fig. 5: DFT investigation and in situ mechanism study.
+a
+, Bader charge of Pd in QI and QI+O.
+b
+, Calculated free energy profile for HOR at different reaction coordinates of four typical models.
+c
+, In situ SERS spectra of PMene-Ru
+0.18
+.
+d
+, In situ SERS spectra of reference PdRu nanosheet.
+e
+, Schematic illustration of promotion mechanism of HOR on PMene-Ru
+0.18
+. Both intermetallic structure and Ru–O
+3
+configuration are important for fast HOR kinetics.
+Source data
+Full size image
+The free-energy trend along each reaction coordinate was also investigated to examine the HOR mechanism on PMene-Ru
+0.18
+(Fig.
+5b
+). Subject to rather high nucleophilicity, Pd atoms in both QA and QI suffer from over-strong hydrogen adsorption, the HBEs of which get effectively weakened only when surface oxygen species are introduced so as to meet QA+O and QI+O. As for the crucial synergistic step, the surface O species inevitably provide a repulsion force against
+*
+OH groups to account for the weakened hydroxyl adsorption. The intensified electronic interaction originates from the intermetallic atomic arrangement and this regulates the
+d
+-band structure of QI+O, resulting in a moderately strengthened OHBE. The optimal H
+2
+OBE can also be attributed to the influence of reinforcement from intermetallics-induced adsorption and reduction from Ru–O
+3
+site-derived adsorption. Such a two-tier tuning guarantees that QI+O has the smallest energy barrier of ~0.45 eV for its favourable water formation, 0.07 and 0.36 eV lower than those of QI and QA, respectively. Contrarily, the potential-determining step (PDS) of QA+O is the step of
+*
+OH adsorption, a thermodynamically unfavourable process with a high energy barrier up to 0.65 eV. This indicates it is less likely to undergo the bi-functional pathway. As such, a reconciled balance on adsorption was achieved between different HOR-involved intermediates so that poisoning of active sites by either too strong
+*
+H intermediates or over-intensified
+*
+OH/
+*
+H
+2
+O species is avoided.
+In situ surface enhanced Raman spectroscopy (SERS) was used to verify the adsorption behaviours of PMene-Ru
+0.18
+. In Fig.
+5c
+, a dominant Ru–
+*
+OH adsorption peak was detected at 776 cm
+−1
+at 0.05 V versus RHE and this gradually red-shifted to 769 cm
+−1
+at 0.4 V versus RHE for PMene-Ru
+0.18
+(ref.
+48
+), while a stronger Ru–
+*
+OH binding was probed for PtRu nanosheets at 775–781 cm
+−1
+(Fig.
+5d
+). Moreover, the strengthened adsorption of H
+2
+O was also confirmed for PMene-Ru
+0.18
+by its blue-shifting H–O–H stretching vibration peaks
+49
+from 1,647 to 1,658 cm
+−1
+, much higher than those of PdRu
+0
+red-shifting from 1,636 to 1,628 cm
+−1
+. Such spectroscopy outcomes agree well with previous DFT calculations, both of which are supportive of our mechanistic proposals. We summarize the promotion mechanism of HOR catalysis on PMene-Ru
+0.18
+in Fig.
+5e
+, where the intrinsic hcp intermetallic nature plays vital roles in strengthening OHBE and H
+2
+OBE. The tailored surface Ru–O
+3
+atomic sites help weaken the adsorptions of all the related intermediates including
+*
+H,
+*
+OH and
+*
+H
+2
+O, two of which mutually contribute to a preferential reaction pathway with the lowest energy barrier.
+In summary, we report the synthesis of a Pd-based multi-element penta-metallene with sub-nano thickness and an unconventional hcp phase via an auto-catalytic method. The intermetallic structure and uniformly distributed isolated Ru–O
+3
+atomic sites mutually realize the optimally balanced modulation of intermediate binding energy. In situ SERS spectra and DFT calculations demonstrate a two-tier tuning from the intermetallics-induced strong ligand effect and intrinsic repulsion between oxygen moieties, leading to intensively weakened HBE and moderately enhanced OHBE and H
+2
+OBE. As a result, the as-made PMene-Ru
+0.18
+provides excellent HOR performance, with fast kinetics and excellent durability and anti-CO poisoning ability. This is promising for lowering the noble metal loading of fuel cell devices.
+Methods
+Synthesis of PMene-Ru
+0.18
+In a typical synthesis of PMene-Ru
+0.18
+with an element ratio of Pd:Ir:Mo:Pt:Ru = 46:18:14:4:18, 6.0 mg Pd(acac)
+2
+, 7.8 mg Pt(acac)
+2
+, 3.8 mg Ru(acac)
+3
+, 5.5 mg Ir
+4
+(CO)
+12
+, 10.0 mg NH
+4
+Br, 15.0 mg Mo(CO)
+6
+and 5 ml OAm were added into a 15 ml glass vial and stirred in an oil bath at 50 °C for 1 h. The as-obtained dark-purple solution was then heated to 220 °C with a slow heating rate (3–4 °C min
+−1
+) and this was maintained for 3 h. After the solution was cooled down to room temperature, the black product was collected by centrifugation at 8,900
+g
+and washed twice with cyclohexane for further processing. For PMene-Ru
+0.1
+and PMene-Ru
+0.4
+, the same procedures were followed except that the amount of Ru(acac)
+3
+was changed from 3.8 mg to 1.9 mg and 7.5 mg, respectively.
+QMene was synthesized following a similar procedure without the addition of Ru(acac)
+3
+. For BMene, the same method was applied without the addition of both Pt(acac)
+2
+and Ru(acac)
+3
+.
+Preparation of Mene/C catalysts
+The as-prepared BMene, QMene and PMene-Ru
+x
+(
+x
+= 0.1, 0.18, 0.4) catalysts were loaded onto carbon supports for electrochemical tests. Typically, the cyclohexane dispersion of different Menes was mixed with a certain amount of Vulcan XC-72 in ethanol/cyclohexane mixture (volume ratio ≈ 1:4) under ambient sonication for 1 h. The product was then collected by centrifugation at 11,125
+g
+, washed twice with ethanol and dried at 60 °C for 1 h without any other postprocessing.
+XAFS experiments and EXAFS data processing
+XAFS measurements were carried out at the BL14W1 and BL11B beamlines of the Shanghai Synchrotron Radiation Facility (SSRF) as well as at the 1W1B beamline at the Beijing Synchrotron Radiation Facility (BSRF). A Lytle detector was used to collect fluorescence signals for the element Ru. The EXAFS data analysis was performed using Athena and Artemis software packages according to the standard data analysis procedures. FT-EXAFS spectra were obtained with a similar
+k
+region as shown in this profile (Fig.
+2c
+) so as to acquire comparable CNs. Finally, wavelet transform (WT)-EXAFS images were obtained from
+k
+3
+-weighted EXAFS data using the Morlet function in a Fortran program.
+Electrochemical measurements
+To get homogeneous catalyst ink of 1 mg ml
+−1
+, as-obtained Mene/C products were subsequently dispersed in a mixture of ultrapure water, isopropanol and Nafion D-521 solution (volume ratio = 1:1:0.04) by sonication for 1 h. A three-electrode system (glass carbon with a diameter of 5 mm coated with catalyst ink as the working electrode, carbon as the counter electrode and a saturated calomel electrode in saturated KCl solution calibrated to be 1.008–1.011 V versus RHE as the reference electrode) and a specifically designed cell with good sealing performance were used to conduct alkaline HOR tests on a rotating disk electrode (RDE). The metal loading (total noble metal, including Pd, Ir, Ru and Pt) on the electrode of every test was controlled to be approximately 10 μg cm
+−2
+.
+For electrochemical assessments, fast CVs (500 mV s
+−1
+, 0.05–1.1 V, in 0.1 M N
+2
+-saturated KOH solution) were conducted to activate the catalysts until stable surface states were obtained and then slow CVs at 50 mV s
+−1
+for the same potential region were recorded. HOR polarization curves were recorded from −0.1 to 0.6 V versus RHE in 0.1 M H
+2
+-saturated KOH solution at a sweep rate of 10 mV s
+−1
+and a rotation speed of 1,600 r.p.m. All HOR curves were 95%-iR-compensated (where iR is Ohmic drop) before applying the Koutecky–Levich equation
+$${j}_{{\rm{k}}}=({j}_{{\rm{d}}}\times j)/({j}_{{\rm{d}}}-j)$$
+(1)
+where
+j
+d
+represents the limiting current density, recorded as the average value under 0.4–0.5 V versus RHE and
+j
+represents the measured current density at 50 mV versus RHE. ECSAs of Pt/C and commercial PtRu/C catalysts were calculated using their hydrogen under potential deposition (H
+upd
+) peak (0.05–0.4 V versus RHE, desorption only) tested in 0.1 M HClO
+4
+while those of Mene/C samples were calculated through their Cu
+upd
+integrated area (
+i–t
+: 0.3 V versus RHE, 100 s).
+The accelerated durability test (ADT) was recorded by cycling between 0 and 0.3 V versus RHE at 100 mV s
+−1
+for 5,000 cycles in 0.1 M H
+2
+-saturated KOH solution at 1,600 r.p.m. For the CO-stripping measurements, high-purity CO gas was bubbled into 0.1 M KOH and 0.1 M HClO
+4
+solution for 20 min at a constant potential of 0.1 V versus RHE before stripping curves were collected in N
+2
+-saturated solutions at 20 mV s
+−1
+. For anti-CO performance assessment, the same procedures were performed as above except that the LSV curves were replaced by a chronoamperometry test (
+i-t
+) performed at 0.1 V versus RHE at 1,600 r,p.m. in 0.1 M H
+2
+per 1,000 ppm CO-saturated KOH.
+The theoretical K–L slope of each Levich plot, represented by
+B
+L
+, was calculated according to the following equation
+$${{{B}}}_{\mathrm{L}}=0.62{{{n{\mathrm{F}}D}}}_{0}^{2/3}{\nu }^{-1/6}{{{C}}}_{0}$$
+(2)
+where
+B
+L
+is the Levich constant,
+n
+is the theoretical electron transfer number (2), F is the Faraday constant (96,485 C mol
+−1
+),
+D
+0
+represents the diffusion coefficient of H
+2
+in 0.1 M KOH (3.7 × 10
+−5
+cm
+2
+s
+−1
+),
+ν
+is the electrolyte kinematic viscosity (0.01009 cm
+2
+s
+−1
+) and
+C
+0
+is the bulk concentration of H
+2
+solubility (7.33 × 10
+−4
+mol dm
+−3
+). The constant 0.62 is adopted when the rotation speed of
+ω
+is expressed in rad s
+−1
+. The practical K–L slope was obtained by applying different rotating rates (
+ω
+) to obtain the HOR LSV curves and then referring to the equation
+$${j}^{-1}={j}_{\mathrm {k}}^{-1}+{({{{BC}}}_{0})}^{-1}{\omega }^{-1/2}$$
+(3)
+Two related factors about HOR, namely exchange current density (
+j
+0
+) and transfer coefficient
+α
+, can be obtained by fitting the Butler-Volmer equation
+$${j}_{\mathrm {k}}={j}_{0}\times \left\{{\rm{e}}^{\left(\alpha {\mathrm{F}}\eta /{\mathrm{R}}{T}\right)}-{\rm{e}}^{\left[\left(\alpha -1\right){\mathrm{F}}\eta /\left.{\mathrm{R}}{T}\right)\right]}\right\}$$
+(4)
+where R is the universal gas constant (8.314 J mol
+−1
+K
+−1
+),
+T
+is the Kelvin temperature (298.15 K) and
+η
+accounts for overpotential.
+In situ Raman experimental setup
+The electrochemical Raman measurements were carried out on a Horiba Jobin Yvon HR evolution system, with a gas-cooled light source of 532 nm excitation wavelength and a 50× Olympus microscope objective (Olympus, 0.50 numerical aperture). A multi-channel charge-coupled device (1,024 × 256 pixels) was used and the Raman frequency was calibrated with a Si wafer during each experiment. In situ electrochemical Raman experiments were used with a resolution of 3 cm
+−1
+.
+Computational details for XRD simulation and DFT calculation
+The simulation of XRD patterns for all the optimized models was performed with the VESTA program using Cu radiation (
+λ
+= 1.5406 Å) in the 2
+θ
+range 5–45°. The DFT calculations were carried out using VASP (refs.
+50
+,
+51
+) while the exchange–correlation function was described within the generalized gradient approximation (GGA)
+52
+,
+53
+parameterized by the Perdew–Burke-Enzerhof (PBE) functional. The cut-off energy for the plane wave basis was set to 450 eV. The convergence criteria for electronic structure and geometry relaxation were 5 × 10
+−5
+eV and 0.02 eV Å
+−1
+, respectively. The structures of QI+O/OI were based on the results of XRD simulations demonstrated above. The hcp-(0001)/fcc-(111) facet was constructed by cutting the bulk model along the 0001/111 direction and four layers were selected, in which the top two atomic layers were allowed to relax. A vacuum spacing of 20 Å was added in the
+z
+-direction to avoid the interaction between the slab and its repeated motif. This leads to reasonable relaxation of the as-applied XRD-simulated model, causing its lattice to expand along the
+c
+axis. The Monkhorst–Pack method was used for sampling the Brillouin zone with a 3 × 3 × 1 mesh.
+Data availability
+All of the data supporting the conclusions of this study are available within the Article and its
+Supplementary Information
+.
+Source Data
+are provided with this paper.
+References
+Setzler, B. P., Zhuang, Z., Wittkopf, J. A. & Yan, Y. Activity targets for nanostructured platinum-group-metal-free catalysts in hydroxide exchange membrane fuel cells.
+Nat. Nanotech.
+11
+, 1020–1025 (2016).
+CAS
+Google Scholar
+Serov, A. Nickel catalysts for affordable fuel cells.
+Nat. Catal.
+5
+, 971–972 (2022).
+CAS
+Google Scholar
+Yang, Y. et al. Electrocatalysis in alkaline media and alkaline membrane-based energy technologies.
+Chem. Rev.
+122
+, 6117–6321 (2022).
+PubMed
+CAS
+Google Scholar
+Wilson, J. C., Caratzoulas, S., Vlachos, D. G. & Yan, Y. Insights into solvent and surface charge effects on Volmer step kinetics on Pt (111).
+Nat. Commun.
+14
+, 2384 (2023).
+PubMed
+PubMed Central
+CAS
+Google Scholar
+An, L., Zhao, X., Zhao, T. & Wang, D. Atomic-level insight into reasonable design of metal-based catalysts for hydrogen oxidation in alkaline electrolytes.
+Energy Environ. Sci.
+14
+, 2620–2638 (2021).
+CAS
+Google Scholar
+Wang, Y. et al. Pt–Ru catalyzed hydrogen oxidation in alkaline media: oxophilic effect or electronic effect?
+Energy Environ. Sci.
+8
+, 177–181 (2015).
+CAS
+Google Scholar
+Hu, J., Kuttiyiel, K. A., Sasaki, K., Zhang, C. & Adzic, R. R. Determination of hydrogen oxidation reaction mechanism based on Pt–H
+ad
+energetics in alkaline electrolyte.
+J. Electrochem. Soc.
+165
+, J3355–J3362 (2018).
+CAS
+Google Scholar
+Strmcnik, D. et al. Improving the hydrogen oxidation reaction rate by promotion of hydroxyl adsorption.
+Nat. Chem.
+5
+, 300–306 (2013).
+PubMed
+CAS
+Google Scholar
+Zhan, C. et al. Subnanometer high-entropy alloy nanowires enable remarkable hydrogen oxidation catalysis.
+Nat. Commun.
+12
+, 6261 (2021).
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Su, L. et al. Electric-double-layer origin of the kinetic pH effect of hydrogen electrocatalysis revealed by a universal hydroxide adsorption-dependent inflection-point behavior.
+J. Am. Chem. Soc.
+145
+, 12051–12058 (2023).
+PubMed
+CAS
+Google Scholar
+Sun, Q. et al. Understanding hydrogen electrocatalysis by probing the hydrogen-bond network of water at the electrified Pt–solution interface.
+Nat. Energy
+8
+, 859–869 (2023).
+CAS
+Google Scholar
+Luo, M. et al. PdMo bimetallene for oxygen reduction catalysis.
+Nature
+574
+, 81–85 (2019).
+PubMed
+CAS
+Google Scholar
+Prabhu, P. & Lee, J.-M. Metallenes as functional materials in electrocatalysis.
+Chem. Soc. Rev.
+50
+, 6700–6719 (2021).
+PubMed
+CAS
+Google Scholar
+Yang, X., Yuan, Q., Sheng, T. & Wang, X. Mesoporous Mo-doped PtBi intermetallic metallene superstructures to enable the complete electrooxidation of ethylene glycol.
+Chem. Sci.
+15
+, 4349–4357 (2024).
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Liang, J. et al. Atomic arrangement engineering of metallic nanocrystals for energy-conversion electrocatalysis.
+Joule
+3
+, 956–991 (2019).
+CAS
+Google Scholar
+Yang, C.-L. et al. Sulfur-anchoring synthesis of platinum intermetallic nanoparticle catalysts for fuel cells.
+Science
+374
+, 459–464 (2021).
+PubMed
+CAS
+Google Scholar
+Cheng, H. et al. Subsize Pt-based intermetallic compound enables long-term cyclic mass activity for fuel-cell oxygen reduction.
+Proc. Natl Acad. Sci. USA
+118
+, e2104026118 (2021).
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Okubo, K., Ohyama, J. & Satsuma, A. Surface modification of Pt nanoparticles with other metals boosting the alkaline hydrogen oxidation reaction.
+Chem. Commun.
+55
+, 3101–3104 (2019).
+CAS
+Google Scholar
+Zhang, X. B. et al. Toward the fast and durable alkaline hydrogen oxidation reaction on ruthenium.
+Energy Environ. Sci.
+15
+, 4511–4526 (2022).
+CAS
+Google Scholar
+Hsieh, Y.-C. et al. Ordered bilayer ruthenium-platinum core-shell nanoparticles as carbon monoxide-tolerant fuel cell catalysts.
+Nat. Commun.
+4
+, 2466 (2013).
+PubMed
+Google Scholar
+Zhou, Y. et al. Lattice-confined Ru clusters with high CO tolerance and activity for the hydrogen oxidation reaction.
+Nat. Catal.
+3
+, 454–462 (2020).
+CAS
+Google Scholar
+Zhu, S. et al. The role of ruthenium in improving the kinetics of hydrogen oxidation and evolution reactions of platinum.
+Nat. Catal.
+4
+, 711–718 (2021).
+CAS
+Google Scholar
+Zhang, B. et al. Lattice-confined Ir clusters on Pd nanosheets with charge redistribution for the hydrogen oxidation reaction under alkaline conditions.
+Adv. Mater.
+33
+, 2105400 (2021).
+CAS
+Google Scholar
+Lv, F. et al. A highly efficient atomically thin curved PdIr bimetallene electrocatalyst.
+Natl Sci. Rev.
+8
+, nwab019 (2021).
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Broge, N. L. N., Bondesgaard, M., Søndergaard-Pedersen, F., Roelsgaard, M. & Iversen, B. B. Autocatalytic formation of high-entropy alloy nanoparticles.
+Angew. Chem. Int. Ed.
+59
+, 21920–21924 (2020).
+CAS
+Google Scholar
+Bu, L. et al. Biaxially strained PtPb/Pt core/shell nanoplate boosts oxygen reduction catalysis.
+Science
+354
+, 1410–1414 (2016).
+PubMed
+CAS
+Google Scholar
+Zhang, J. et al. Atomic-thick metastable phase RhMo nanosheets for hydrogen oxidation catalysis.
+Nat. Commun.
+14
+, 1761 (2023).
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Mu, X. et al. Breaking the symmetry of single-atom catalysts enables an extremely low energy barrier and high stability for large-current-density water splitting.
+Energy Environ. Sci.
+15
+, 4048–4057 (2022).
+CAS
+Google Scholar
+Wang, J. et al. Single-site Pt-doped RuO
+2
+hollow nanospheres with interstitial C for high-performance acidic overall water splitting.
+Sci. Adv.
+8
+, eabl9271 (2022).
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Speck, F. D. et al. Improved hydrogen oxidation reaction activity and stability of buried metal-oxide electrocatalyst interfaces.
+Chem. Mater.
+32
+, 7716–7724 (2020).
+CAS
+Google Scholar
+Geppert, T. N. et al. HOR activity of Pt-TiO
+2-Y
+at unconventionally high potentials explained: the influence of SMSI on the electrochemical behavior of Pt.
+J. Electrochem. Soc.
+167
+, 084517 (2020).
+CAS
+Google Scholar
+Wang, T. et al. High CO-tolerant Ru-based catalysts by constructing an oxide blocking layer.
+J. Am. Chem. Soc.
+144
+, 9292–9301 (2022).
+PubMed
+CAS
+Google Scholar
+Qiao, Y. et al. Reversible anionic redox activity in Na
+3
+RuO
+4
+cathodes: a prototype Na-rich layered oxide.
+Energy Environ. Sci.
+11
+, 299–305 (2018).
+CAS
+Google Scholar
+Hao, S. et al. Dopants fixation of ruthenium for boosting acidic oxygen evolution stability and activity.
+Nat. Commun.
+11
+, 5368 (2020).
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Gao, Y. et al. 3D Co
+3
+O
+4
+-RuO
+2
+hollow spheres with abundant interfaces as advanced trifunctional electrocatalyst for water-splitting and flexible Zn–air battery.
+Adv. Func. Mater.
+32
+, 2203206 (2022).
+CAS
+Google Scholar
+Nash, J., Zheng, J., Wang, Y., Xu, B. & Yan, Y. Mechanistic study of the hydrogen oxidation/evolution reaction over bimetallic PtRu catalysts.
+J. Electrochem. Soc.
+165
+, J3378–J3383 (2018).
+CAS
+Google Scholar
+Li, J. et al. Experimental proof of the bifunctional mechanism for the hydrogen oxidation in alkaline media.
+Angew. Chem. Int. Ed.
+56
+, 15594–15598 (2017).
+CAS
+Google Scholar
+Wang, H. & Abruña, H. D. IrPdRu/C as H
+2
+oxidation catalysts for alkaline fuel cells.
+J. Am. Chem. Soc.
+139
+, 6807–6810 (2017).
+PubMed
+CAS
+Google Scholar
+Xue, Y. et al. A highly-active, stable and low-cost platinum-free anode catalyst based on RuNi for hydroxide exchange membrane fuel cells.
+Nat. Commun.
+11
+, 5651 (2020).
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Zhang, J. et al. Kinetic-modulated crystal phase of Ru for hydrogen oxidation.
+Small
+19
+, 2207038 (2023).
+CAS
+Google Scholar
+Dong, Y. et al. Lattice and surface engineering of ruthenium nanostructures for enhanced hydrogen oxidation catalysis.
+Adv. Funct. Mater.
+33
+, 2210328 (2023).
+CAS
+Google Scholar
+Men, Y. et al. Understanding alkaline hydrogen oxidation reaction on PdNiRuIrRh high-entropy-alloy by machine learning potential.
+Angew. Chem. Int. Ed.
+62
+, e202217976 (2023).
+CAS
+Google Scholar
+Meng, G. et al. Highly dispersed Ru clusters toward an efficient and durable hydrogen oxidation reaction.
+Chem. Commun.
+58
+, 11839–11842 (2022).
+CAS
+Google Scholar
+Qin, X. et al. The role of Ru in improving the activity of Pd toward hydrogen evolution and oxidation reactions in alkaline solutions.
+ACS Catal.
+9
+, 9614–9621 (2019).
+CAS
+Google Scholar
+Gao, F.-Y. et al. Towards reliable assessment of hydrogen oxidation electrocatalysts for anion-exchange membrane fuel cells.
+Nano Res.
+16
+, 10787–10795 (2023).
+CAS
+Google Scholar
+Ni, W. et al. An efficient nickel hydrogen oxidation catalyst for hydroxide exchange membrane fuel cells.
+Nat. Mater.
+21
+, 804–810 (2022).
+PubMed
+CAS
+Google Scholar
+Ni, W. et al. Ni
+3
+N as an active hydrogen oxidation reaction catalyst in alkaline medium.
+Angew. Chem. Int. Ed.
+58
+, 7445–7449 (2019).
+CAS
+Google Scholar
+Lin, X.-M. et al.
+In situ
+probe of the hydrogen oxidation reaction intermediates on PtRu a bimetallic catalyst surface by core-shell nanoparticle-enhanced Raman spectroscopy.
+Nano Lett.
+22
+, 5544–5552 (2022).
+PubMed
+CAS
+Google Scholar
+Wang, Y.-H. et al. Spectroscopic verification of adsorbed hydroxy intermediates in the bifunctional mechanism of the hydrogen oxidation reaction.
+Angew. Chem. Int. Ed.
+60
+, 5708–5711 (2021).
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab
+initio
+total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+CAS
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+CAS
+Google Scholar
+Hu, Y. F. & Storey, C. Efficient generalized conjugate gradient algorithms, part 2: implementation.
+J. Optim. Theory Appl.
+69
+, 139–152 (1991).
+Google Scholar
+Vladimir, I. A., Jan, Z. & Ole, K. A. Band theory and Mott insulators: Hubbard
+U
+instead of Stoner
+I
+.
+Phys. Rev. B
+44
+, 943 (1991).
+Google Scholar
+Download references
+Acknowledgements
+This study was financially supported by the National Science Fund for Distinguished Young Scholars (No. 52025133), the National Key R&D Program of China (No. 2022YFE0128500), the National Natural Science Foundation of China (Nos. 52261135633 & 22479002), the Beijing Outstanding Young Scientist Program, the China National Petroleum Corporation–Peking University Strategic Cooperation Project of Fundamental Research, the Beijing Natural Science Foundation (No. Z220020), the Tencent Foundation through the XPLORER PRIZE and the CNPC Innovation Fund (2021DQ02-1002). We thank the BL11B and BL14W1 photoemission photoendstations at the Shanghai Synchrotron Radiation Facility (SSRF) and the 1W1B beamline at the Beijing Synchrotron Radiation Facility (BSRF) for help with XAFS characterizations. We also acknowledge Y. Wei from M. Luo’s group at Peking University for microscopy operations, X. Liu from D. Su’s group at the Institute of Physics CAS for assistance with phase analysis and P. Zhou from Peking University Shenzhen Graduate School for DFT modelling advice.
+Author information
+Author notes
+These authors contributed equally: Fangxu Lin, Heng Luo, Lu Li.
+Authors and Affiliations
+School of Materials Science and Engineering, Peking University, Beijing, People’s Republic of China
+Fangxu Lin, Heng Luo, Lu Li, Fan Lv, Yanyan Chen, Xiaocang Han, Dawei Wang, Menggang Li, Yan Luo, Kai Wang, Qian Wang, Xiaoxu Zhao, Mingchuan Luo & Shaojun Guo
+Institute of Physics, Chinese Academy of Sciences, Beijing, People’s Republic of China
+Qinghua Zhang & Lin Gu
+Authors
+Fangxu Lin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Heng Luo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lu Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Fan Lv
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yanyan Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qinghua Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaocang Han
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dawei Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Menggang Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yan Luo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kai Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lin Gu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qian Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaoxu Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mingchuan Luo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shaojun Guo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+S.G. conceived and supervised the project. M. Luo and F. Lv guided and supervised the whole research. F. Lin and H.L. conducted all the experiments and jointly analysed the data. L.L. carried out the DFT calculations. Y.C. and Q.W. helped with XRD simulation. X.H., Y.L., X.Z., Q.Z. and L.G. contributed to aberration-corrected TEM characterization. D.W. and M. Li participated in part of the basic experiments. K.W. assisted with the electrochemical tests. F. Lin wrote the manuscript. All authors took part in the discussion of data and gave comments on the manuscript.
+Corresponding authors
+Correspondence to
+Fan Lv
+or
+Shaojun Guo
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Synthesis
+thanks Carsten Streb, Huabing Tao and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Primary Handling Editor: Alexandra Groves, in collaboration with the
+Nature Synthesis
+team.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary information
+Supplementary Experimental Section, Figs. 1–43 and Tables 1-10.
+Source data
+Source Data Fig. 1
+Statistical source data for Fig. 1g (the XRD pattern).
+Source Data Fig. 2
+Statistical source data for Fig. 2a–h.
+Source Data Fig. 3
+Statistical source data for Fig. 3a–g.
+Source Data Fig. 4
+Statistical source data for Fig. 4a–f.
+Source Data Fig. 5
+Statistical source data for Fig. 5c,d.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Lin, F., Luo, H., Li, L.
+et al.
+Synthesis of isolated Ru–O
+3
+sites on hexagonal close-packed intermetallic penta-metallene for hydrogen oxidation electrocatalysis.
+Nat. Synth
+4
+, 399–409 (2025). https://doi.org/10.1038/s44160-024-00685-4
+Download citation
+Received
+:
+15 October 2023
+Accepted
+:
+18 October 2024
+Published
+:
+03 December 2024
+Issue Date
+:
+March 2025
+DOI
+:
+https://doi.org/10.1038/s44160-024-00685-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+Our publishing models
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Synthesis
+(
+Nat. Synth
+)
+ISSN
+2731-0582
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

@@ -1,0 +1,2111 @@
+Floatable photocatalytic hydrogel nanocomposites for large-scale solar hydrogen production | Nature Nanotechnology
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature nanotechnology
+articles
+article
+Floatable photocatalytic hydrogel nanocomposites for large-scale solar hydrogen production
+Download PDF
+Article
+Published:
+27 April 2023
+Floatable photocatalytic hydrogel nanocomposites for large-scale solar hydrogen production
+Wang Hee Lee
+1
+,
+2
+na1
+,
+Chan Woo Lee
+ORCID:
+orcid.org/0000-0002-9358-6893
+1
+,
+2
+na1
+,
+Gi Doo Cha
+ORCID:
+orcid.org/0000-0002-4771-3396
+1
+,
+2
+na1
+,
+Byoung-Hoon Lee
+1
+,
+2
+,
+Jae Hwan Jeong
+ORCID:
+orcid.org/0000-0001-6998-785X
+2
+,
+Hyunseo Park
+ORCID:
+orcid.org/0009-0001-7167-557X
+1
+,
+2
+,
+Junhyeok Heo
+1
+,
+2
+,
+Megalamane S. Bootharaju
+1
+,
+2
+,
+Sung-Hyuk Sunwoo
+1
+,
+2
+,
+Jeong Hyun Kim
+ORCID:
+orcid.org/0000-0002-9827-8427
+1
+,
+Kyung Hyun Ahn
+2
+,
+Dae-Hyeong Kim
+ORCID:
+orcid.org/0000-0002-4722-1893
+1
+,
+2
+,
+3
+&
+…
+Taeghwan Hyeon
+ORCID:
+orcid.org/0000-0001-5959-6257
+1
+,
+2
+Show authors
+Nature Nanotechnology
+volume
+18
+,
+pages
+754–762 (
+2023
+)
+Cite this article
+25k
+Accesses
+68
+Altmetric
+Metrics
+details
+Subjects
+Devices for energy harvesting
+Nanocomposites
+Nanoparticles
+Photocatalysis
+Abstract
+Storing solar energy in chemical bonds aided by heterogeneous photocatalysis is desirable for sustainable energy conversion. Despite recent progress in designing highly active photocatalysts, inefficient solar energy and mass transfer, the instability of catalysts and reverse reactions impede their practical large-scale applications. Here we tackle these challenges by designing a floatable photocatalytic platform constructed from porous elastomer–hydrogel nanocomposites. The nanocomposites at the air–water interface feature efficient light delivery, facile supply of water and instantaneous gas separation. Consequently, a high hydrogen evolution rate of 163 mmol h
+–1
+m
+–2
+can be achieved using Pt/TiO
+2
+cryoaerogel, even without forced convection. When fabricated in an area of 1 m
+2
+and incorporated with economically feasible single-atom Cu/TiO
+2
+photocatalysts, the nanocomposites produce 79.2 ml of hydrogen per day under natural sunlight. Furthermore, long-term stable hydrogen production in seawater and highly turbid water and photoreforming of polyethylene terephthalate demonstrate the potential of the nanocomposites as a commercially viable photocatalytic system.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Stable water splitting using photoelectrodes with a cryogelated overlayer
+Article
+Open access
+19 February 2024
+Interfacial assembly of self-healing and mechanically stable hydrogels for degradation of organic dyes in water
+Article
+Open access
+14 July 2020
+Hydrogel-embedded vertically aligned metal-organic framework nanosheet membrane for efficient water harvesting
+Article
+Open access
+11 November 2024
+Main
+Harvesting solar energy is critical in the heterogeneous photocatalysis for the effective generation of renewable energy sources
+1
+,
+2
+, mitigation of carbon emission
+3
+,
+4
+,
+5
+and remediation of water pollution
+6
+,
+7
+. Over the past decades, notable efforts have been devoted to enhance the intrinsic activities of photocatalysts
+8
+,
+9
+,
+10
+through various approaches, including morphological control
+11
+,
+12
+, elemental doping
+13
+,
+14
+, construction of heterojunction
+15
+,
+16
+and defect engineering
+17
+,
+18
+. Despite recent progress in the design of highly active photocatalysts
+19
+,
+20
+such as semiconductor biohybrids
+21
+,
+22
+, organic semiconductors
+23
+,
+24
+and plasmonic nanoparticles (NPs)
+25
+,
+26
+, the development of photocatalytic platforms and their large-scale applications for efficient solar hydrogen (H
+2
+) production have not been well explored.
+For the efficient scale up of photocatalysis, in addition to the intrinsic activity of photocatalysts
+27
+,
+28
+, several additional factors need to be considered, particularly the design of photocatalytic systems
+29
+. For example, the slurry reactor, a primary form for large-scale photocatalysis, is not ideal due to the aggregation of catalyst particles, severe light scattering and the high cost of continuous agitation. Recently, reactors with immobilized photocatalysts such as particulate-sheet-type
+30
+, film-type
+31
+and flat-panel-type
+32
+systems have been proposed to enhance the photocatalytic efficiency. Nevertheless, these platforms still have many practical limitations, including the additional requirement of photoelectrodes and forced convection, potential reverse reactions during product separation, continuous leaching of photocatalysts, and poor mass transfer to and from closely packed photocatalysts.
+Adopting a hydrogel as a macroporous matrix to immobilize photocatalysts may prevent the leaching of catalysts, increase the catalyst-loading capacity and improve mass transfer
+33
+,
+34
+. Therefore, compared with the systems using closely packed photocatalyst films, photocatalysts embedded in the hydrogel have the potential to enhance the photocatalytic efficiency
+35
+,
+36
+. Furthermore, the hydrogel matrix has the flexibility to accommodate various types of nanosized filler material
+37
+,
+38
+, which guarantees the broad applicability of the hydrogel nanocomposites with various photocatalytic filler materials. Unfortunately, conventional hydrogel–photocatalyst nanocomposites are typically submerged in water, which leads to poor catalytic performance. For example, due to the attenuation of underwater light intensity
+39
+, only ~30% of the light reaches the hydrogel placed at 2 m below the surface. Additional challenges such as the lack of long-term stability of the underwater hydrogel and the possibility of reverse reactions due to inefficient product separation prevent the wider utility of this approach.
+To address these issues and maximize the photocatalytic activity, we present here a floatable photocatalytic platform using porous elastomer–hydrogel nanocomposites. Located at the air–water interface, the floatable nanocomposites feature efficient light delivery, facile gas separation and reduced back-oxidation of H
+2
+. Immobilizing photocatalysts in the porous elastomer–hydrogel hybrid and additional engineering of the material components allow excellent reactant supply, enable high floatability, prevent leaching of catalysts and provide long-term material stability
+40
+,
+41
+,
+42
+. These unique advantages are experimentally and theoretically verified, and large-scale solar H
+2
+production is demonstrated. The floatable nanocomposites exhibit practical advantages for solar H
+2
+production from the perspective of product recovery, cost, performance and scalability.
+Overview of floatable photocatalytic nanocomposites
+The nanocomposites have a bilayer structure (Fig.
+1a
+). The upper layer is a photocatalytic layer composed of hydrophilic polyurethane (HPU) and poly(propylene glycol) (PPG) polymers along with photocatalysts. The lower layer, which is a supporting layer and is composed of the same backbone polymers of HPU and PPG, keeps the nanocomposites afloat (Extended Data Fig.
+1a–d
+). The floatable nanocomposites expose the upper photocatalytic layer above the water surface, enabling both efficient light delivery with minimum water-induced light attenuation (Fig.
+1a(i)
+) and facile separation of the generated H
+2
+gas (Fig.
+1a(ii)
+). The hydrophobic silica aerogel on top of the catalytic layer maximizes floatability and minimizes the chances of sinking by enhancing the surface tension of the nanocomposites (Fig.
+1a(iii)
+). Furthermore, highly durable elastomer–hydrogel (HPU–PPG) composites enable the immobilization of photocatalysts for a long-term period with retained activity (Fig.
+1a(iv)
+). As the mass flow of the reactant (water) and product (H
+2
+) is directed from the bottom to the top, the floatable nanocomposites facilitate the gas separation and suppress the back-oxidation of H
+2
+(Fig.
+1a(v)
+). The high porosity and hydrophilicity of the nanocomposites also play crucial roles in providing easy access to water for the photocatalyst (Fig.
+1a(vi)
+).
+Fig. 1: Overview of the floatable photocatalytic nanocomposites.
+a
+, Schematic of the nanocomposites and their advantages for photocatalytic HER: efficient light delivery (i), facile gas separation (ii), enhanced surface tension (floatability) (iii), stable catalyst immobilization (iv), suppressed back-oxidation (v) and facile reactant supply (mass transfer) (vi).
+b
+, Schematic (first row) and optical images (second row, Pt/TiO
+2
+cryoaerogel nanocomposites; third row, Cu-SA/TiO
+2
+NP nanocomposites) of the fabrication process. Photocatalysts are embedded in the HPU–PPG–NaCl gel (i). A photocatalytic layer is formed after drying and swelling (ii). A photocatalytic layer with a Janus structure is formed by the addition of silica aerogel (iii). A bilayer system is fabricated by the integration of a photocatalytic layer and a supporting layer with the aid of EtOH (iv).
+Full size image
+Schematic (Fig.
+1b
+, first row) and photographs show the fabrication process of the nanocomposites incorporated with platinum/titanium oxide (Pt/TiO
+2
+) cryoaerogel (Fig.
+1b
+, second row) and single-atom copper/titanium oxide NPs (Cu-SA/TiO
+2
+NPs; Fig.
+1b
+, third row) that were prepared by following the previous report
+2
+show the fabrication process of the nanocomposites. First, HPU (brown chain) and PPG (red chain) mixed with sodium chloride (NaCl) (blue circle) are crosslinked by hydrogen bonding to form the HPU–PPG–NaCl gel, in which the photocatalysts (Pt/TiO
+2
+cryoaerogel or Cu-SA/TiO
+2
+NPs) are embedded (Fig.
+1b(i)
+). The solvent evaporation followed by swelling in water produces highly porous nanocomposites due to the space left after the dissolution of NaCl incorporated in the gelation process (Fig.
+1b(ii)
+). Then, the photocatalytic layer is fabricated by adding hydrophobic silica aerogel (white circle) on top of the nanocomposites. The addition of hydrophobic silica aerogel introduces a Janus structure onto the photocatalytic layer with two contrasting surface properties (top, hydrophobic; bottom, hydrophilic) (Fig.
+1b(iii)
+). The supporting layer is separately fabricated by following the same process used for the photocatalytic layer, but without incorporating photocatalysts and silica aerogel. Finally, the photocatalytic layer is bonded with the supporting layer using ethanol (EtOH) (Fig.
+1b(iv)
+). The bonding procedure and seamless interface are shown in Extended Data Fig.
+1e–i
+.
+Material design and characterization of the nanocomposites
+The floatability of the nanocomposites (Fig.
+2a
+) is expected to yield unique features that are advantageous for photocatalysis, such as efficient light delivery and facile gas separation, as well as suppressed back-oxidation of H
+2
+(ref.
+43
+). Therefore, for achieving high floatability, the overall density of the nanocomposites is decreased by minimizing the density of photocatalysts (Fig.
+2b
+). Specifically, we lowered the density of Pt/TiO
+2
+, the heaviest among all the components, by ~50% by reforming it into cryoaerogel through the flash-freezing technique
+44
+(Extended Data Fig.
+2a
+). Electron microscopy and elemental analysis of Pt/TiO
+2
+cryoaerogel and Cu-SA/TiO
+2
+NPs validate their morphology and composition (Extended Data Fig.
+2b–k
+provides the detailed characterization data). The porous structure of the backbone polymers also contributes to reducing the density of the nanocomposites (Fig.
+2c,d
+).
+Fig. 2: Material design and characterization of the nanocomposites.
+a
+, Optical image of the nanocomposites floating on water.
+b
+, Density of pristine Pt/TiO
+2
+(blue; theoretical density), Pt/TiO
+2
+cryoaerogel (black;
+n
+= 3) and Cu-SA/TiO
+2
+NPs (green;
+n
+= 3).
+c
+, Scanning electron microscopy image of the elastomer–hydrogel nanocomposite.
+d
+, Porosity of the supporting layer (white;
+n
+= 8) and photocatalytic layer (black;
+n
+= 8).
+e
+, EDS cross-sectional mapping (left) and cross-sectional scanning electron microscopy (centre) image of the nanocomposite. The Si mass ratio (right) is calculated from the EDS data (
+n
+> 4,000).
+f
+, Contact angle measurement at various locations of the nanocomposites: the top surface of the photocatalytic layer (left), the bottom surface of the photocatalytic layer (centre) and the bottom surface of the supporting layer (right).
+g
+, Equilibrium density of the supporting layer (white;
+n
+= 4), photocatalytic layer without silica aerogel (grey and cyan;
+n
+= 4) and photocatalytic layer with silica aerogel (black and green;
+n
+= 3).
+h
+, Catalyst leaching percentage from the PAM composite (left;
+n
+= 8) and HPU–PPG composite (right;
+n
+= 7).
+i
+, Optical images of the PAM composite (top) and HPU–PPG composite (bottom) before (left) and after (right) swelling in water for 14 days.
+j
+,
+k
+, Elastic modulus of the HPU–PPG composite (
+n
+= 5,
+n
+= 4) (
+j
+) and PAM composite (
+n
+= 3,
+n
+= 5) (
+k
+) before and after swelling in water for 14 days; NS,
+p
+> 0.05; ***
+p
+< 0.001 by independent-sample
+t
+-test. All the data in the bar charts are presented as mean values plus standard deviation.
+Source data
+Full size image
+Furthermore, a Janus structure with a hydrophilic body and hydrophobic surface was exploited to maximize the floatability by enhancing the surface tension
+45
+as a facile water supply is maintained. This structure is made by the heterogeneous incorporation of hydrophobic silica aerogel on the surface of the photocatalytic layer (Fig.
+2e
+). The concentration gradient of the silica aerogel induces a gradual change in hydrophobicity–hydrophilicity in the nanocomposites (Fig.
+2f
+and Extended Data Fig.
+3a
+). The floatability can be quantified using the equilibrium density, the density of a solution at which the nanocomposites sink (Extended Data Fig.
+3b
+). The catalytic layers exhibit a lower floatability than the supporting layers due to heavy catalysts, but their floatability can be improved by adding hydrophobic silica aerogel (Fig.
+2g
+and Extended Data Fig.
+3c
+). Meanwhile, the existence of silica aerogel rarely affects the light absorption of the hydrogel nanocomposites (Extended Data Fig.
+3d
+).
+The advantage of the floatable nanocomposites is valid only if the reactant of the catalytic reaction is steadily supplied to the catalytic layer. Since the nanocomposites are composed of elastomer–hydrogel backbone polymers with a porous structure, water—a reactant of the H
+2
+evolution reaction (HER)—can reach the catalytic components with minimal resistance. The water surface covered by the nanocomposites still exhibited notable evaporation (Extended Data Fig.
+3e,f
+), and the dye solution reaches the upper layer through the lower layer (Extended Data Fig.
+3g
+), which confirms the facile mass transfer of water through the nanocomposites (Extended Data Fig.
+3e,f
+). Hydrogels such as polyacrylamide (PAM) hydrogel typically show a rapid swelling behaviour
+46
+, which leads to relatively fast catalyst leaching (Fig.
+2h
+, left). The HPU–PPG composite provides an effective solution to this problem, achieving long-term material stability and reliable immobilization of the photocatalysts (Fig.
+2h,
+right, and Extended Data Fig.
+3h
+) even under harsh environments such as strong alkaline solutions or seawater with organic solvents. In addition, the silica aerogel in the composites exhibits negligible leaching, implying its long-term floatability (Extended Data Fig.
+3h
+). Unlike a large increase in the volume in the control group (PAM) after two weeks (Fig.
+2i
+, top), a negligible change was observed in the HPU–PPG composite (Fig.
+2i
+, bottom), which is consistent with the small swelling ratios (Extended Data Fig.
+3i
+). Furthermore, the nanocomposites showed little change in their elastic modulus (Fig.
+2j
+), whereas a notable decrease in elastic modulus was observed in the control group (Fig.
+2k
+).
+H
+2
+production of the nanocomposites
+The photocatalytic H
+2
+production was measured under the light intensity similar to the air mass (AM) 1.5G condition for the floatable and sunken nanocomposites (Fig.
+3a
+and Extended Data Fig.
+4a
+), in which Pt/TiO
+2
+cryoaerogel was embedded as a photocatalyst. The sunken nanocomposites were prepared as the control group by adding weight to the floatable nanocomposites to demonstrate the advantage of flotation. The floatable nanocomposites exhibited a twofold increase in the H
+2
+evolution rate (163 mmol h
+–1
+m
+–2
+; data from three samples were averaged), compared with the sunken nanocomposites (77.2 mmol h
+–1
+m
+–2
+) (Fig.
+3b,c
+). Gas chromatography (GC) peaks were monitored during H
+2
+production (Extended Data Fig.
+4b,c
+), whose procedure is shown in Supplementary Video
+1
+(Extended Data Fig.
+4d–f
+shows the captured images). With an increase in Pt wt% in the Pt/TiO
+2
+cryoaerogel, H
+2
+production is enhanced (Extended Data Fig.
+4g–i
+) due to the availability of more catalytic centres for proton reduction. Therefore, an optimum concentration of Pt can be chosen according to the desired demand by considering the catalytic activity and fabrication cost. Furthermore, the H
+2
+evolution rates are dependent on the intensity of simulated sunlight (Extended Data Fig.
+4j
+), which confirms the influence of light attenuation by water (Extended Data Fig.
+4k
+) on the HER performance.
+Fig. 3: H
+2
+production of the nanocomposites.
+a
+, Schematic of the photocatalytic HER experiment using floatable and sunken nanocomposites.
+b
+, H
+2
+evolution rate of the floatable (blue; 163.0 mmol h
+–1
+m
+–2
+,
+n
+= 3) and sunken (red; 77.2 mmol h
+–1
+m
+–2
+,
+n
+= 3) nanocomposites (
+p
+= 0.0003). Data are presented as mean values plus standard deviation.
+c
+, Time course of H
+2
+of the floatable (blue) and sunken (red) nanocomposites under photoirradiation.
+d
+,
+e
+, H
+2
+concentration distribution of the floatable (
+d
+) and sunken (
+e
+) nanocomposites at various time points (for example, 10, 200 and 400 min) during photocatalytic HER. Scale bar, 1 cm.
+f
+,
+g
+, H
+2
+concentration as a function of depth (
+z
+) in water at various time points, namely, 10 min (black), 30 min (purple), 60 min (blue), 200 min (green), and 400 min (red), for the floatable (
+f
+) and sunken (
+g
+) nanocomposites.
+h
+, Time course of H
+2
+during the cyclic HER test of the floatable nanocomposites.
+i
+, Time course of H
+2
+of the floatable nanocomposites measured at various time points (for example, day 0, day 7 and day 14) during long-term HER measurements. ***
+p
+< 0.001 by independent-sample t-test.
+Source data
+Full size image
+To corroborate the result that the floatable nanocomposites enable a more efficient HER, numerical simulations were performed on the floatable and sunken nanocomposites, by taking into account light delivery, gas separation and H
+2
+back-oxidation (Extended Data Fig.
+5a
+). The H
+2
+concentration distribution in the floatable and sunken nanocomposites at various time points (10, 30, 60, 200 and 400 min) after light illumination was numerically simulated (Fig.
+3d,e
+). The H
+2
+concentration in air, which is critical to capture the generated H
+2
+, rapidly increases with time in the case of the floatable nanocomposites (Fig.
+3f
+), whereas the sunken nanocomposites exhibit a much slower increase in H
+2
+concentration in air (Fig.
+3g
+). This is mainly due to the notably lower diffusion coefficient of H
+2
+in water (5.1 × 10
+−9
+m
+2
+s
+–1
+) than that in air (7.0 × 10
+−5
+m
+2
+s
+–1
+). The tendency of decreasing HER performance with an increase in water depth was also confirmed via numerical simulations (Extended Data Fig.
+5b–d
+).
+The long-term stability of the elastomer–hydrogel nanocomposites allows stable photocatalytic activity during three cycles of HER (Fig.
+3h
+). A comparison of H
+2
+evolution performance on day 0, day 7 and day 14 also confirms its long-term stability (Fig.
+3i
+). This stability is one of the key requirements for commercially viable photocatalytic platforms. Furthermore, the nanocomposites can also be applied to other photocatalysts such as Pt/graphitic carbon nitride NPs (Pt/g-C
+3
+N
+4
+NPs) and Cu-SA/TiO
+2
+NPs (Extended Data Fig.
+6
+). The floatability and catalytic results of the nanocomposites incorporating Pt/g-C
+3
+N
+4
+NPs are shown in Extended Data Fig.
+6a–e
+. In particular, in addition to photoactivation (Extended Data Fig.
+6f
+) similar to pristine Cu-SA/TiO
+2
+NPs (ref.
+2
+), the Cu-SA/TiO
+2
+NP nanocomposite exhibits a stable HER performance (Extended Data Fig.
+6g
+). The floatability and catalytic results of the nanocomposites incorporating Pt/g-C
+3
+N
+4
+NPs are shown in Extended Data Fig.
+6a–e
+. Especially, in addition to photoactivation (Extended Data Fig.
+6f
+) similar to pristine Cu-SA/TiO
+2
+NPs (ref.
+2
+), the Cu-SA/TiO
+2
+NP nanocomposites exhibit a stable HER performance (Extended Data Fig.
+6g
+).
+Practical applications of the nanocomposites
+The stable immobilization of photocatalysts and high durability of nanocomposites resulted in high HER performance even in seawater (Fig.
+4a,b
+), which is comparable with the HER activity in deionized water (Fig.
+3h
+). Comparison of H
+2
+evolution performance on day 0, day 7 and day 14 confirms its long-term stability in the natural seawater environment (Fig.
+4b
+). The volume change or material degradation of the nanocomposites was not observed with seawater (Extended Data Fig.
+7a
+).
+Fig. 4: Practical applications of the nanocomposites.
+a
+, Schematic that exemplifies the real-environment application of the nanocomposites.
+b
+, Long-term time course of H
+2
+production in seawater (for example, day 0, day 7 and day 14).
+c
+, Time course of H
+2
+production of the sunken Pt/TiO
+2
+cryoaerogel (black square) and floatable nanocomposites (green circle) in the orange (orange line) and blue (blue line) dye solutions, which mimic turbid seawater.
+d
+, Schematic of the plastic photoreforming process.
+e
+, Optical images of a PET bottle (inset; scale bar, 5 cm), cut PET (left) and solubilized PET in 1 M KOH solution (right).
+f
+, Long-term time course of H
+2
+production in the PET photoreforming process (for example, day 0, day 7 and day 14).
+Source data
+Full size image
+Furthermore, to mimic highly turbid water conditions that are often found in real environments, two commercial dyes were dissolved in the reaction solution. Since the orange dye (Sudan I) incompletely dissolves in the aqueous solution, the dye agglomerates can act as a scattering centre and hamper light penetration through the solution. The blue dye (Trypan blue) fully dissolves in the aqueous solution, imitating light-absorbing components in real-water conditions. Since the artificial convection force is not applicable in real environments, Pt/TiO
+2
+cryoaerogel, a control group representing the conventional photocatalytic platform, was placed at the bottom of the reaction solution (Extended Data Fig.
+7b
+). Our nanocomposites remained afloat on the dye solutions (Extended Data Fig.
+7c
+) and showed a negligible reduction in HER activity (Fig.
+4c
+), whereas the sunken photocatalysts exhibited notably lower photocatalytic performance than the floatable nanocomposites due to light attenuation induced by the dyes (Fig.
+4c
+). The dyes are not involved in the competitive reactions for HER.
+Photoreforming of plastics, which has been regarded as one of the most important photocatalytic reactions as it can produce H
+2
+together with reducing environmentally problematic plastic waste
+47
+, to H
+2
+by the nanocomposites (Fig.
+4d,e
+) could also be demonstrated due to its high material durability even in a strong alkaline solution (Extended Data Fig.
+7d
+). The nanocomposites exhibited an H
+2
+evolution rate of 0.154 l h
+–1
+m
+–2
+(3.45 mmol h
+–1
+m
+–2
+) for the photoreforming of polyethylene terephthalate (PET). The observation of the performance of the device on day 0, day 7 and day 14 confirms its long-term viability (Fig.
+4f
+and Extended Data Fig.
+7e
+).
+The scale up of the HER platform is highly important for practical applications. The size of the floatable photocatalytic nanocomposites was scaled up in two steps (from 0.00283 to 0.01320 m
+2
+and then to 1.00000 m
+2
+) to demonstrate the scalable production of H
+2
+. First, 11.5 cm × 11.5 cm nanocomposites, in which Pt/TiO
+2
+cryoaerogel was used as a photocatalyst, were fabricated (Extended Data Fig.
+8a–c
+). The nanocomposites were irradiated with simulated solar light and exhibited an H
+2
+evolution rate of 0.504 l h
+–1
+m
+–2
+(11.3 mmol h
+–1
+m
+–2
+) under the one-sun intensity condition (Extended Data Fig.
+8d–f
+).
+Next, arrayed nanocomposites with a total area of 1 m
+2
+were fabricated (Fig.
+5a,b
+). In these large-scale nanocomposites, Cu-SA/TiO
+2
+NPs were used as a photocatalyst instead of Pt/TiO
+2
+cryoaerogel to demonstrate the economic feasibility of the nanocomposites (Extended Data Fig.
+9a–c
+). The 1-m
+2
+-scale nanocomposites can produce 79.2 ml of H
+2
+per day under natural sunlight irradiation with an average intensity of 0.732 kW m
+–2
+(Fig.
+5c
+). Computational simulation of 1-m
+2
+-scale H
+2
+production by floatable and sunken nanocomposites corroborates the advantage of floatable nanocomposites (Extended Data Fig.
+9d–h
+). Also, the computational simulation of H
+2
+production using the floatable nanocomposites with an area of 100 m
+2
+presents a possibility for industrial-scale production of H
+2
+(Fig.
+5d–f
+and Extended Data Fig.
+10
+).
+Fig. 5: Scale up of the nanocomposites.
+a
+, Optical image of arrayed nanocomposites with a total area of 1 m
+2
+.
+b
+, Schematic of the overview of a 1-m
+2
+-scale H
+2
+production facility.
+c
+, Solar radiation intensity variation (red) and production rate of H
+2
+by the 1-m
+2
+-scale nanocomposites (blue).
+d
+, Schematic of the 100-m
+2
+-scale simulation domain.
+e
+,
+f
+, H
+2
+concentration distribution of the floatable (
+e
+) and sunken (
+f
+) nanocomposites at various time points (for example, 1,000 and 4,000 min and day 70, day 1,400, day 7,000, day 28,000 and day 70,000) during photocatalytic HER. Scale bar, 5 m.
+Source data
+Full size image
+Conclusions
+We presented a floatable photocatalytic platform constructed from elastomer–hydrogel nanocomposites, demonstrating its superiority over conventional systems in solar H
+2
+production. These floatable nanocomposites, located at the air–water interface, dramatically enhance the photocatalytic performance by implementing efficient light delivery, facile gas separation and reduced back-oxidation of H
+2
+. Consequently, even without the forced convection of water, the floatable photocatalytic nanocomposites exhibit a high H
+2
+evolution rate of 163 mmol h
+–1
+m
+–2
+using Pt/TiO
+2
+cryoaerogel. The potential of the nanocomposites for general photocatalytic applications was experimentally explored by 1-m
+2
+-scale H
+2
+production using economically feasible Cu-SA/TiO
+2
+photocatalyst and the simulation study of 100-m
+2
+-scale nanocomposites as well as H
+2
+generation from seawater and the photoreforming of environmentally problematic plastic wastes. These demonstrations of scalability, material durability and photocatalytic activity under various realistic environmental conditions prove the potential of floatable photocatalytic nanocomposites.
+However, further developments should be accompanied to realize solar H
+2
+production at commercial scales using floatable nanocomposites. The development of high-performance photocatalysts and their monolithic integration with nanocomposites are required to enhance the photocatalytic efficiency. The utilization of water-splitting catalysts is also needed in consideration of cost and environmental issues. In addition, the HER performance may be improved further through material engineering, such as the implementation of a transparent elastomer–hydrogel hybrid matrix, which facilitates the efficient use of incident light energy. The suggested platform, with future developments, will have a great impact on the industrialization of photocatalysis.
+Methods
+Materials
+PPG, titanium (
+iv)
+oxide (P25), sodium borohydride, acrylamide, acrylamide/bis-acrylamide (19:1) solution, ammonium persulfate, tetramethylethylenediamine, Sudan I, urea, titanium (
+iv
+) butoxide and chloroplatinic acid hexahydrate were purchased from Sigma-Aldrich. Acetonitrile, sodium hydroxide, NaCl, EtOH, potassium hydroxide (KOH), copper (
+ii
+) chloride dihydrate, polyvinylpyrrolidone (
+M
+w
+, 55,000), tetraethyl orthosilicate and methanol were purchased from Samchun Chemicals. Trisodium citrate dihydrate and Trypan blue were purchased from Alfa Aesar. Platinum chloride was purchased from TCI Korea. HPU was purchased from Aekyung Chemical. Silica aerogel was purchased from JIOS Aerogel. PET was purchased from Goodfellow. Seawater was obtained from the Yellow Sea, Korea.
+Synthesis of Pt NPs
+Pt NPs were synthesized by following a previously reported method with a slight modification
+43
+. Platinum chloride was dissolved in deionized water (0.002 g ml
+–1
+) and boiled at 100 °C for 1 min. Subsequently, the prepared trisodium citrate solution (0.011 g ml
+–1
+) and sodium borohydride solution (0.76 mg ml
+–1
+) were added to the platinum chloride solution. The resulting mixture solution was stirred at 80 °C for 10 min, and the colour change of the solution from yellow to black indicated the successful synthesis of Pt NPs. The final Pt NP solution, with acetone as an anti-solvent, was centrifuged at 1,555 rpm for 20 min. The concentration of Pt NPs was measured using an inductively coupled plasma atomic emission spectrometer (ICPS-8100) at the National Center for Inter-University Research Facilities, Seoul National University.
+Synthesis of Pt/TiO
+2
+cryoeaeorgels
+The Pt NP solution (20 mg ml
+–1
+) was added to TiO
+2
+NP dispersion to obtain a Pt/TiO
+2
+colloidal solution (17 wt% Pt). The Pt/TiO
+2
+colloidal solution was homogeneously mixed using an ultrasonic liquid processor (Vibcra-Cell, VCX-750) for 2 h (40% amplitude), and the mixed solution was added dropwise to liquid nitrogen. After flash freezing for 10 min, the frozen solution was brought to a freeze dryer (Operon, FDU-7003) and kept under a vacuum (<20 mtorr) for 48 h.
+Synthesis of Cu-SA/TiO
+2
+NPs
+The synthesis procedure is based on a previously reported method
+2
+with appropriate modifications.
+(1)
+Synthesis of silica NP template. Tetraethyl orthosilicate (0.86 ml) was added into mixed solutions of H
+2
+O (4.30 ml) and EtOH (23.00 ml) and stirred for 6 h. The products were centrifuged and washed with water and EtOH and redispersed in anhydrous EtOH (40 ml) for the next procedure.
+(2)
+TiO
+2
+coating on the SiO
+2
+template. Acetonitrile (14.0 ml) and 28–30 wt% ammonia solution (0.4 ml) were added into the previously made SiO
+2
+NP solution (solution 1). The mixture was sonicated for 10 min. Another solution (solution 2) was made with titanium (
+iv
+) butoxide (0.8 ml) dissolved in a mixture of anhydrous EtOH (6.0 ml) and acetonitrile (2.0 ml). Solution 2 was added to solution 1 and stirred for 3 h. The products were centrifuged and washed with EtOH and water twice each and redispersed in H
+2
+O (40 ml) for the next step.
+(3)
+Cu-SA adsorption on TiO
+2
+-coated SiO
+2
+NPs. Copper (
+ii
+) chloride dihydrate (4.0 mg) was added to the previously made TiO
+2
+-coated SiO
+2
+NP solution. The mixture was stirred for 3 h. The light-blue powder was centrifuged, washed with water and redispersed in H
+2
+O for the following procedure.
+(4)
+Wrapping SiO
+2
+. Polyvinylpyrrolidone (0.4 g) was added to the solution in (3) above and stirred overnight. The polyvinylpyrrolidone-coated product was centrifuged and redispersed in a solution of EtOH (46 ml) and H
+2
+O (9 ml). Tetraethyl orthosilicate (1.6 ml) and 28–30 wt% ammonia solution (1.2 ml) were added to the above solution. The reaction was conducted for 4 h. The product was centrifuged and washed with EtOH and water. The resulting powders were dried at 80 °C in an electric oven overnight.
+(5)
+Redistribution of Cu atoms. The product obtained in step (4) was calcined at 900 °C for 2 h.
+(6)
+Etching SiO
+2
+for hollow Cu-SA/TiO
+2
+NPs. The calcined powder in step (5) was dispersed in a 0.5 M sodium hydroxide solution. The solution was heated to 180 °C with stirring. After 6 h of reaction, the product was centrifuged and washed with H
+2
+O and EtOH. The resulting powder was dried at 80 °C in an electric oven overnight.
+Synthesis of Pt/g-C
+3
+N
+4
+NPs
+For the synthesis of g-C
+3
+N
+4
+, 5 g of urea was transferred to an alumina boat and calcined at 550 °C for 2 h inside a muffle furnace. Then, 50 mg of the synthesized g-C
+3
+N
+4
+was dispersed in a 20 ml gas-tight vial with 10 ml of 20% methanol aqueous solution. Chloroplatinic acid with an equivalent amount of 4 wt% Pt regarding g-C
+3
+N
+4
+was added to the reaction solution. The solution in the reaction cell was irradiated with ultraviolet–visible light (100 mW cm
+–2
+) under vigorous stirring. After 2 h, the product was washed with water and EtOH and dried at 50 °C in an electric oven overnight.
+Fabrication of floatable photocatalytic elastomer–hydrogel nanocomposites
+To fabricate the photocatalytic layer, 3 ml HPU solution (HPU in water, 50.0 wt%) was prepared and EtOH was added to set the concentration of HPU as 10.5 wt%. NaCl was added to the HPU solution (final concentration of NaCl, 0.032 g ml
+–1
+), and 30 mg of photocatalysts was added to the HPU solution. After vigorous stirring, PPG was added to the HPU solution with a volume ratio of 1:2 (PPG:HPU). A mixed sol–gel state was obtained after the addition of PPG, and the gel phase was separated after 24 h. After moulding the gel into a circular shape with a diameter of 6 cm, EtOH and water in the gel phase were removed by drying at 60 °C for two days, and the gel phase was reswollen in water to remove NaCl granules in the HPU–PPG elastomer–hydrogel nanocomposite. The separated gel phase (photocatalytic layer) was fully swollen in water, and hydrophobic silica aerogel was added to the top surface of the photocatalytic layer. The fabrication of a supporting layer follows the same procedures, except starting with 16 ml HPU solution (HPU in water, 50 wt%) and skipping the addition of photocatalysts. The bilayer system of the nanocomposite was fabricated by integrating the photocatalytic layer and supporting layer with the aid of EtOH. EtOH was added dropwise on the top surface of the supporting layer, and the photocatalytic layer was attached to the supporting layer. The bilayer system was dried at 60 °C for 24 h to remove EtOH and reswollen in water.
+Fabrication of PAM nanocomposites
+The acrylamide/bis-acrylamide solution (19:1) was added to the as-prepared acrylamide solution (0.156 g ml
+–1
+). Subsequently, a 10 wt% ammonium persulfate solution was added to the solution. The solution was degassed for 5 min. Then, 30 mg Pt/TiO
+2
+cryoaerogel and tetramethylethylenediamine solution were sequentially added. The resulting solution was poured into a circular mould with a diameter of 6 cm, and cured under ultraviolet irradiation for 2 h.
+Material characterizations
+(1)
+Molecular weight analysis of HPU was performed by gel permeation chromatography at the National Instrumentation Center for Environmental Management (NICEM), Seoul National University.
+(2)
+Transmission electron microscopy (JEOL JEM-2100F) observation was performed at 200 kV. Energy-dispersive spectroscopy (EDS; Oxford, X-MAX 80T) was operated at 200 kV.
+(3)
+The absorption spectra of the catalysts were measured using ultraviolet–visible spectroscopy (V-770) at the Research Institute of Advanced Materials, Seoul National University. Powder-type photocatalysts were placed on the detection spot. Then, the absorption spectra of the photocatalysts were measured from 200 to 800 nm. The absorption intensity was normalized by dividing the intensity by the maximum absorption intensity.
+(4)
+The density of the photocatalysts was obtained by calculating the ratio of mass and volume. Since the weight of the photocatalysts underwater is equal to its volume, the volume of the photocatalysts was set as the weight of the photocatalysts in the aqueous solution.
+(5)
+The cross section of the HPU–PPG elastomer–hydrogel nanocomposite was observed using a field-emission scanning electron microscope (Carl Zeiss) operated at 2.00 kV at NICEM, Seoul National University. The mass ratio of Si at each point of the cross section of the HPU–PPG elastomer–hydrogel nanocomposite was obtained by EDS (FlatQuad, AURIGA) operated at 11.3 kV at NICEM, Seoul National University.
+(6)
+The contact angles were measured using a contact angle analyser (KRÜSS, DSA25). A sessile drop method was used at room temperature (20.0 °C) for the measurement.
+(7)
+The porosity was calculated using the following equation:
+\({{{\mathrm{Porosity}}}}\left( {{{\mathrm{\% }}}} \right) = \left( {1 - \frac{{W_\mathrm{d}}}{{W_{\mathrm{fs}}}}} \right) \times 100\)
+, where
+W
+fs
+and
+W
+d
+denote the mass of the fully swollen hydrogel sample and mass of the hydrogel sample of which water in the pores was eliminated, respectively.
+(8)
+The floatability of the HPU–PPG elastomer–hydrogel composite was determined by measuring the equilibrium density. The floatable nanocomposites were located in deionized water (density, 1.000 g ml
+–1
+), and the pre-calculated amount of acetonitrile (density, 0.786 g ml
+–1
+) was continuously added to the aqueous solution to control the density of the mixed solution. The equilibrium density was determined as the density of the external solution at which the nanocomposites sink.
+(9)
+The facile water supply to the elastomer–hydrogel composite without silica aerogel was evaluated by the evaporated amount of water covered with the composite. The evaporated amount was measured by the weight change in the remaining water in the vial for 36 h in the oven. The evaporated amount in an open state and closed state was used as the positive control and negative control, respectively.
+(10)
+Catalyst leaching was calculated by measuring the Pt concentration in the solution, in which the HPU–PPG elastomer–hydrogel nanocomposite and the PAM composite were contained for 14 days. The Pt concentration was detected using an inductively coupled plasma atomic emission spectrometer (ICPS-8100).
+(11)
+The swelling ratio was calculated according to the following equation:
+\({{{\mathrm{Swelling}}}}\,{{{\mathrm{ratio}}}}\left( {{{{Q}}}} \right) = \frac{{W_{\mathrm{fs}}}}{{W_{\mathrm{fd}}}}\)
+, where
+W
+fs
+and
+W
+fd
+denote the mass of the fully swollen hydrogel sample and mass of the fully dried hydrogel sample, respectively.
+(12)
+The tensile test was conducted to measure the elastic modulus of the bilayer HPU–PPG elastomer–hydrogel nanocomposite and the PAM composite with a universal testing machine (1 kN load cell, Instron 5543) at the speed of 2.10 mm s
+–1
+by following a modified version of ISO 527. A bilayer HPU–PPG elastomer–hydrogel nanocomposite sample with a width of 7 mm, length of 3 mm and thickness of 4 mm was used for the tensile test. The PAM composite sample of the same size was attached to the PET substrate and used for the tensile test.
+(13)
+Thermal imaging was conducted to measure the surface temperature of the nanocomposites with an infrared camera (685-FLIR-I5, FLIR).
+Photocatalytic measurements
+General procedure for photocatalytic HER measurements
+The photocatalytic HER was conducted in a gas-closed quartz cell reactor. The photocatalytic elastomer–hydrogel nanocomposite was floated on the 20% methanol aqueous solution. The closed reaction system was purged with Ar gas for 20 min, and the sample was irradiated with a xenon lamp (MAX-302, Ashai Spectra). Light irradiated on top of the sample with a square-shaped projection (2.6 cm
+2
+) using a light-guide cable. The light intensity was measured using a detector equipped with a thermophile sensor (919P-003-10, Newport) and fixed at 122 mW cm
+–2
+. The reaction temperature was maintained at around room temperature using a cooling fan. H
+2
+generation was quantified using GC (iGC7200A, DS Science) with a thermal conductivity detector. All the other measurement conditions are identical for the sunken Pt/TiO
+2
+cryoaerogel and sunken elastomer–hydrogel nanocomposite, except that those samples were placed inside the solution.
+Photocatalytic HER measurements with two commercial dyes
+Approximately 10 mg of Sudan I dye and 5 mg of Trypan blue dye were added to 20% methanol aqueous solution and sonicated for 1 min for each reaction. All the other measurement conditions are the same as the general photocatalytic HER measurements.
+Photocatalytic HER measurements with seawater
+All the other measurement conditions are the same as the general photocatalytic HER measurements, but deionized water was replaced by the same volume of seawater.
+Photocatalytic HER measurements during photoreforming of PET
+Pretreatment of PET substrates was performed by soaking the PET in 1 M KOH solution (5 g l
+–1
+) for seven days at room temperature with stirring at 300 rpm. All the other measurement conditions are the same as the general photocatalytic HER measurement conditions, but the same volume of solubilized PET in 1 M KOH solution was used instead of methanol aqueous solution.
+Photocatalytic HER measurements of the nanocomposites with dimensions of 11.5 × 11.5 cm
+2
+The photocatalytic hydrogel nanocomposite was floated on the 20% methanol aqueous solution inside a quartz cell reactor with dimensions of 14.5 × 14.5 × 5 cm
+3
+. After complete sealing, the closed reaction system was purged with Ar gas for 1 h, and the sample was irradiated with a solar simulator (ASTM E 927-05, Newport). Then, 100 mW cm
+–2
+of simulated solar light (AM 1.5G) with square-shaped projection (8.5 × 8.5 cm
+2
+) was irradiated on the photocatalytic nanocomposite. The amount of produced H
+2
+was measured using a GC system (iGC7200A, DS Science) with a thermal conductivity detector. The gas extracted from the reaction cell was manually injected into the GC once every hour using a syringe.
+Photocatalytic HER measurements of the nanocomposites in an area of 1 m
+2
+Sixteen elastomer–hydrogel nanocomposites (25 × 25 cm
+2
+) with Cu-SA/TiO
+2
+NPs embedded were floated on a 20% methanol aqueous solution inside a 113 × 113 × 7 cm
+3
+steel cell reactor. Four quartz windows (51 × 51 cm
+2
+) were attached to the steel cell. After complete sealing, the closed reaction system was purged with N
+2
+gas for 6 h, and the samples were irradiated with natural sunlight. Solar light intensity was measured using an energy meter (Nova II, Ophir). The amount of produced H
+2
+was measured using a GC system (iGC7200A, DS Science) with a thermal conductivity detector.
+Numerical simulation
+Simulation domain
+Extended Data Fig.
+7a
+shows a schematic of the simulation domain. We constructed a two-dimensional simulation domain with the same length scale as in the experiment. H
+2
+generation was set as a constant flux of 0.04 mmol h
+–1
+, in the hydrogel region represented by the red box. In the water region represented by the purple colour, only water exists at first, and H
+2
+generated in the hydrogel region diffuses to the water region. In the air region above the water region, only air exists at first, and H
+2
+diffuses to this region. The red dotted line indicates the outlet of the domain, and the open-boundary condition is assigned. We measure distance
+d
+H
+from the bottom to the hydrogel region in the experimental system and apply it to the simulation. Here
+d
+H
+is 1.9 cm in the floatable bilayer system and 0 cm in the sunken bilayer system.
+Governing equations
+In this study, we describe the diffusion process of H
+2
+from the hydrogel into water and air. In addition, we consider the reverse reaction of the H
+2
+formation reaction, which occurs in water. Both diffusion and reverse reactions of H
+2
+are included in the two-dimensional conservation equation as follows:
+$$\frac{{\partial c}}{{\partial t}} = D\nabla ^2c + R,$$
+(1)
+where
+c
+is the H
+2
+concentration,
+t
+is time and
+D
+is the diffusion coefficient of H
+2
+. We set the diffusion coefficient of H
+2
+as 5 × 10
+−5
+cm
+2
+s
+–1
+in water
+47
+and 0.7 cm
+2
+s
+–1
+in air
+48
+,
+49
+. Here
+R
+indicates the reverse reaction rate of H
+2
+, and we assume the reverse reaction rate is proportional to H
+2
+concentration, namely,
+R
+= –
+k
+r
+c
+, instead of considering the complex mechanism of the reverse reaction. Here
+k
+r
+, the rate constant of the reverse reaction, is fixed at 1 × 10
+−7
+s
+–1
+. The simulation confirmed that the reverse reaction occurred in 1% of the H
+2
+concentration under the
+R
+and
+k
+r
+values used in our study. On the other hand, the reverse reaction does not occur in air; therefore,
+R
+= 0 in air. The two boundary conditions—H
+2
+generation in the hydrogel region and the open-boundary condition—are expressed as follows:
+$$\frac{{\partial c}}{{\partial t}} = D\nabla ^2c + R_{\mathrm{gen}},\,R_{\mathrm{gen}} = 0.04\,{\mathrm{mmol}}\,{\mathrm{h}}^{-1}\,{\mathrm{in}}\,{\mathrm{the}}\,{\mathrm{hydrogel}}\,{\mathrm{region}},$$
+(2)
+$${{{\mathbf{n}}}} \cdot D\nabla c = 0\,{\mathrm{at}}\,{\mathrm{the}}\,{\mathrm{boundary}}\,{\mathrm{of}}\,{\mathrm{interest}}.$$
+(3)
+In Equation (
+3
+),
+n
+indicates the unit outward normal vector at the boundary of interest. The simulation domain is discretized into ~6,000 elements for lab scale, ~100,000 elements for 1 m scale and ~4,000,000 elements for 10-m scale using commercial COMSOL Multiphysics 5.4 software. In addition, the conservation equation is numerically solved based on the finite element method solver in COMSOL. A workstation with two octa-core processors (Intel Xeon E5-2687W CPUs at 3.1 GHz) and 192 GB of memory is used for the numerical calculation.
+Fabrication of floatable photocatalytic nanocomposites in a scalable size
+To fabricate the photocatalytic layer, 16 ml of the HPU solution (HPU in water, 50.0 wt%) was prepared and EtOH was added to set the concentration of HPU to 10.5 wt%. NaCl was added to the HPU solution (concentration of NaCl, 0.032 g ml
+–1
+), and 230 mg Pt/TiO
+2
+cryoaerogel was added to the solution. After vigorous stirring, PPG was added to the HPU solution with a volume ratio of 1:2 (PPG:HPU). A mixed sol–gel state was formed after the addition of PPG, and the gel phase was separated after 1 day. After being moulded into an 11.5 × 11.5 cm
+2
+square, the gel phase was dried at 60 °C for 2 days to remove EtOH and water, and reswollen in water to remove the NaCl granules in the HPU–PPG elastomer–hydrogel nanocomposite. The separated gel phase (photocatalytic layer) was fully swollen in water, and hydrophobic silica aerogel was added to the top surface of the photocatalytic layer. The fabrication of a supporting layer follows the same procedures, except starting with 90 ml HPU solution (HPU in water, 50 wt%) and skipping the addition of Pt/TiO
+2
+cryoaerogel. The bilayer system of the nanocomposite was fabricated by integrating the photocatalytic layer and supporting layer with the aid of EtOH. EtOH was added dropwise on the top surface of a supporting layer, and a photocatalytic layer was attached to the supporting layer. The bilayer system was dried at 60 °C for 1 day to remove EtOH and reswollen in water.
+Fabrication of arrayed nanocomposites in an area of 1 m
+2
+The nanocomposites in an area of 1 m
+2
+were fabricated by arraying 16 units of bilayer systems with dimensions of 25 × 25 cm
+2
+. To fabricate the photocatalytic layer of a single unit, 90 ml of the HPU solution (HPU in water, 50.0 wt%) was prepared and EtOH was added to set the concentration of HPU as 10.5 wt%. NaCl was added to the HPU solution (concentration of NaCl, 0.032 g ml
+–1
+), and 90 mg of Cu-SA/TiO
+2
+NPs was added to the solution. After vigorous stirring, PPG was added to the HPU solution with a volume ratio of 1:2 (PPG:HPU). A mixed sol–gel state was formed after the addition of PPG, and the gel phase was separated after 1 day. After being moulded into a 25 × 25 cm
+2
+square, the gel phase was dried at 60 °C for 2 days to remove EtOH and water, and reswollen in water to remove NaCl granules in the HPU–PPG elastomer–hydrogel nanocomposite. The separated gel phase (photocatalytic layer) was fully swollen in water, and hydrophobic silica aerogel was added to the top surface of the photocatalytic layer. The fabrication of a supporting layer of a single unit follows the same procedures, except starting with 350 ml of the HPU solution (HPU in water, 50 wt%) and skipping the addition of Cu-SA/TiO
+2
+NPs. The bilayer system of the nanocomposite was fabricated by integrating the photocatalytic layer and supporting layer with the aid of EtOH. EtOH was added dropwise on the top surface of a supporting layer, and a photocatalytic layer was attached to the supporting layer. The bilayer system was dried at 60 °C for 1 day to remove EtOH and reswollen in water.
+Statistics
+The experimental results such as the porosity, catalyst leaching, elastic modulus, swelling ratio, contact angle and H
+2
+evolution rate were compared and evaluated using the independent-sample
+t
+-test.
+Data availability
+Source data
+are provided with this paper. All other data that support this study are available from the corresponding authors upon reasonable request.
+References
+Schultz, D. M. & Yoon, T. P. Solar synthesis: prospects in visible light photocatalysis.
+Science
+343
+, 1239176 (2014).
+Google Scholar
+Lee, B.-H. et al. Reversible and cooperative photoactivation of single-atom Cu/TiO
+2
+photocatalysts.
+Nat. Mater.
+18
+, 620–626 (2019).
+CAS
+Google Scholar
+Wang, L. et al. Surface strategies for catalytic CO
+2
+reduction: from two-dimensional materials to nanoclusters to single atoms.
+Chem. Soc. Rev.
+48
+, 5310–5349 (2019).
+CAS
+Google Scholar
+Mitchell, S., Qin, R., Zheng, N. & Pérez-Ramírez, J. Nanoscale engineering of catalytic materials for sustainable technologies.
+Nat. Nanotechnol.
+16
+, 129–139 (2021).
+CAS
+Google Scholar
+Lee, B.-H. et al. Electronic interaction between transition metal single-atoms and anatase TiO
+2
+boosts CO
+2
+photoreduction with H
+2
+O.
+Energy Environ. Sci.
+15
+, 601–609 (2022).
+CAS
+Google Scholar
+Hoffmann, M. R. et al. Environmental applications of semiconductor photocatalysis.
+Chem. Rev.
+95
+, 69–96 (1995).
+CAS
+Google Scholar
+Liu, X. et al. Noble metal-metal oxide nanohybrids with tailored nanostructures for efficient solar energy conversion, photocatalysis and environmental remediation.
+Energy Environ. Sci.
+10
+, 402–434 (2017).
+CAS
+Google Scholar
+Kunz, L. Y. et al. Artificial inflation of apparent photocatalytic activity induced by catalyst-mass-normalization and a method to fairly compare heterojunction systems.
+Energy Environ. Sci.
+12
+, 1657–1667 (2019).
+CAS
+Google Scholar
+Guo, C., Ran, J., Vasileff, A. & Qiao, S.-Z. Rational design of electrocatalysts and photo(electro)catalysts for nitrogen reduction to ammonia (NH
+3
+) under ambient conditions.
+Energy Environ. Sci.
+11
+, 45–56 (2018).
+CAS
+Google Scholar
+Rahman, M. Z., Kwong, C. W., Davey, K. & Qiao, S.-Z. 2D phosphorene as a water splitting photocatalyst: fundamentals to applications.
+Energy Environ. Sci.
+9
+, 709–728 (2016).
+CAS
+Google Scholar
+Chen, S., Takata, T. & Domen, K. Particulate photocatalysts for overall water splitting.
+Nat. Rev. Mater.
+2
+, 17050 (2017).
+CAS
+Google Scholar
+Cargnello, M. et al. Engineering titania nanostructure to tune and improve its photocatalytic activity.
+Proc. Natl Acad. Sci. USA
+113
+, 3966–3971 (2016).
+CAS
+Google Scholar
+Zhao, D. et al. Boron-doped nitrogen-deficient carbon nitride-based Z-scheme heterostructures for photocatalytic overall water splitting.
+Nat. Energy
+6
+, 388–397 (2021).
+CAS
+Google Scholar
+Ning, C. et al. Bandgap engineering in semiconductor alloy nanomaterials with widely tunable compositions.
+Nat. Rev. Mater.
+2
+, 17070 (2017).
+CAS
+Google Scholar
+Gao, C. et al. A photoresponsive rutile TiO
+2
+heterojunction with enhanced electron–hole separation for high-performance hydrogen evolution.
+Adv. Mater.
+31
+, 1806596 (2019).
+Google Scholar
+Kim, J. H. et al. Toward practical solar hydrogen production—an artificial photosynthetic leaf-to-farm challenge.
+Chem. Soc. Rev.
+48
+, 1908–1971 (2019).
+CAS
+Google Scholar
+Gordon, T. R. et al. Nonaqueous synthesis of TiO
+2
+nanocrystals using TiF
+4
+to engineer morphology, oxygen vacancy concentration, and photocatalytic activity.
+J. Am. Chem. Soc.
+134
+, 6751–6761 (2012).
+CAS
+Google Scholar
+Chen, X. et al. Increasing solar absorption for photocatalysis with black hydrogenated titanium dioxide nanocrystals.
+Science
+331
+, 746–750 (2011).
+CAS
+Google Scholar
+Wang, Y. et al. Current understanding and challenges of solar-driven hydrogen generation using polymeric photocatalysts.
+Nat. Energy
+4
+, 746–760 (2019).
+CAS
+Google Scholar
+Zhou, L. et al. Light-driven methane dry reforming with single atomic site antenna-reactor plasmonic photocatalysts.
+Nat. Energy
+5
+, 61–70 (2020).
+CAS
+Google Scholar
+Cestellos-Blanco, S. et al. Photosynthetic semiconductor biohybrids for solar-driven biocatalysis.
+Nat. Catal.
+3
+, 245–255 (2020).
+CAS
+Google Scholar
+Zhang, H. et al. Bacteria photosensitized by intracellular gold nanoclusters for solar fuel production.
+Nat. Nanotechnol.
+13
+, 900–905 (2018).
+CAS
+Google Scholar
+Ghosh, I. et al. Organic semiconductor photocatalyst can bifunctionalize arenes and heteroarenes.
+Science
+365
+, 360–366 (2019).
+CAS
+Google Scholar
+Lang, X., Chen, X. & Zhao, J. Heterogeneous visible light photocatalysis for selective organic transformations.
+Chem. Soc. Rev.
+43
+, 473–486 (2014).
+CAS
+Google Scholar
+Zhou, L. et al. Quantifying hot carrier and thermal contributions in plasmonic photocatalysis.
+Science
+364
+, 69–72 (2019).
+Google Scholar
+Choi, K. M. et al. Plasmon-enhanced photocatalytic CO
+2
+conversion within metal–organic frameworks under visible light.
+J. Am. Chem. Soc.
+139
+, 356–362 (2017).
+CAS
+Google Scholar
+Ghosh, S. et al. Conducting polymer nanostructures for photocatalysis under visible light.
+Nat. Mater.
+14
+, 505–511 (2015).
+CAS
+Google Scholar
+Simon, T. et al. Redox shuttle mechanism enhances photocatalytic H
+2
+generation on Ni-decorated CdS nanorods.
+Nat. Mater.
+13
+, 1013–1018 (2014).
+CAS
+Google Scholar
+Hisatomi, T. & Domen, K. Reaction systems for solar hydrogen production via water splitting with particulate semiconductor photocatalysts.
+Nat. Catal.
+2
+, 387–399 (2019).
+CAS
+Google Scholar
+Wang, Q. et al. Scalable water splitting on particulate photocatalyst sheets with a solar-to-hydrogen energy conversion efficiency exceeding 1%.
+Nat. Mater.
+15
+, 611–615 (2016).
+CAS
+Google Scholar
+Tan, B. et al. Immobilized covalent triazine frameworks films as effective photocatalysts for hydrogen evolution reaction.
+Nat. Commun.
+12
+, 6596 (2021).
+Google Scholar
+Nishiyama, H. et al. Photocatalytic solar hydrogen production from water on a 100-m
+2
+scale.
+Nature
+598
+, 304–307 (2021).
+CAS
+Google Scholar
+Pan, L. et al. Hierarchical nanostructured conducting polymer hydrogel with high electrochemical activity.
+Proc. Natl Acad. Sci. USA
+109
+, 9287–9292 (2012).
+CAS
+Google Scholar
+Wu, H. et al. Stable li-ion battery anodes by in-situ polymerization of conducting hydrogel to conformally coat silicon nanoparticles.
+Nat. Commun.
+4
+, 1943 (2013).
+Google Scholar
+Plumeré, N. et al. A redox hydrogel protects hydrogenase from high-potential deactivation and oxygen damage.
+Nat. Chem.
+6
+, 822–827 (2014).
+Google Scholar
+Weingarten, A. S. et al. Self-assembling hydrogel scaffolds for photocatalytic hydrogen production.
+Nat. Chem.
+6
+, 964–970 (2014).
+CAS
+Google Scholar
+Yuk, H., Lu, B. & Zhao, X. Hydrogel bioelectronics.
+Chem. Soc. Rev.
+48
+, 1642–1667 (2019).
+CAS
+Google Scholar
+Huebsch, N. et al. Matrix elasticity of void-forming hydrogels controls transplanted-stem-cell-mediated bone formation.
+Nat. Mater.
+14
+, 1269–1277 (2015).
+CAS
+Google Scholar
+Lin, Y. T., Lai, S. N. & Wu, J. M. Simultaneous piezoelectrocatalytic hydrogen-evolution and degradation of water pollutants by quartz microrods@few-layered MoS
+2
+hierarchical heterostructures.
+Adv. Mater.
+32
+, 2002875 (2020).
+CAS
+Google Scholar
+Jung, D. et al. Highly conductive and elastic nanomembrane for skin electronics.
+Science
+373
+, 1022–1026 (2021).
+CAS
+Google Scholar
+Li, C. H. et al. A highly stretchable autonomous self-healing elastomer.
+Nat. Chem.
+8
+, 618–624 (2016).
+CAS
+Google Scholar
+Choi, S. et al. Highly conductive, stretchable and biocompatible Ag–Au core–sheath nanowire composite for wearable and implantable bioelectronics.
+Nat. Nanotechnol.
+13
+, 1048–1056 (2018).
+CAS
+Google Scholar
+Wolff, C. M. et al. All-in-one visible-light-driven water splitting by combining nanoparticulate and molecular co-catalysts on CdS nanorods.
+Nat. Energy
+3
+, 862–869 (2018).
+CAS
+Google Scholar
+Freytag, A. et al. Tailoring composition and material distribution in multicomponent cryoaerogel for application in photocatalysis.
+ACS Appl. Nano Mater.
+1
+, 6123–6130 (2018).
+CAS
+Google Scholar
+Chang, F. M., Sheng, Y. J. & Tsao, H. K. Superhydrophobic floatability of a hydrophilic object driven by edge effect.
+Appl. Phys. Lett.
+95
+, 73–76 (2009).
+Google Scholar
+Hu, Z. & Chen, G. Novel nanocomposite hydrogels consisting of layered double hydroxide with ultrahigh tensibility and hierarchical porous structure at low inorganic content.
+Adv. Mater.
+26
+, 5950–5956 (2014).
+CAS
+Google Scholar
+Uekert, T., Pichler, C. M., Schubert, T. & Reisner, E. Solar-driven reforming of solid waste for a sustainable future.
+Nat. Sustain.
+4
+, 383–391 (2021).
+Google Scholar
+Zhao, X. & Jin, H. Investigation of hydrogen diffusion in supercritical water: a molecular dynamics simulation study.
+Int. J. Heat Mass Transf.
+133
+, 718–728 (2019).
+CAS
+Google Scholar
+Matsunaga, N., Hori, M. & Nagashima, A. Measurement of mutual diffusion coefficients of gases by the Taylor method: measurements on H
+2
+–air, H
+2
+–N
+2
+, and H
+2
+–O
+2
+systems.
+Heat. Trans. Asian Res.
+31
+, 182–193 (2002).
+Google Scholar
+Download references
+Acknowledgements
+This research was supported by the Institute for Basic Science under grant numbers IBS-R006-A1 (W.H.L., G.D.C., H.P., S.-H.S. and D.-H.K.) and IBS-R006-D1 (C.W.L., B.-H.L., J.H., M.S.B., J.H.K. and T.H.).
+Author information
+Author notes
+These authors contributed equally: Wang Hee Lee, Chan Woo Lee, Gi Doo Cha.
+Authors and Affiliations
+Center for Nanoparticle Research, Institute for Basic Science (IBS), Seoul, Republic of Korea
+Wang Hee Lee, Chan Woo Lee, Gi Doo Cha, Byoung-Hoon Lee, Hyunseo Park, Junhyeok Heo, Megalamane S. Bootharaju, Sung-Hyuk Sunwoo, Jeong Hyun Kim, Dae-Hyeong Kim & Taeghwan Hyeon
+School of Chemical and Biological Engineering, and Institute of Chemical Processes, Seoul National University, Seoul, Republic of Korea
+Wang Hee Lee, Chan Woo Lee, Gi Doo Cha, Byoung-Hoon Lee, Jae Hwan Jeong, Hyunseo Park, Junhyeok Heo, Megalamane S. Bootharaju, Sung-Hyuk Sunwoo, Kyung Hyun Ahn, Dae-Hyeong Kim & Taeghwan Hyeon
+Department of Materials Science and Engineering, Seoul National University, Seoul, Republic of Korea
+Dae-Hyeong Kim
+Authors
+Wang Hee Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chan Woo Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Gi Doo Cha
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Byoung-Hoon Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jae Hwan Jeong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hyunseo Park
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Junhyeok Heo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Megalamane S. Bootharaju
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sung-Hyuk Sunwoo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jeong Hyun Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kyung Hyun Ahn
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dae-Hyeong Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Taeghwan Hyeon
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+W.H.L., C.W.L., G.D.C., D.-H.K. and T.H. conceived the ideas, designed the experiments and wrote the paper. W.H.L., C.W.L., G.D.C., B.-H.L., H.P., J.H., M.S.B., S.-H.S., J.H.K., D.-H.K. and T.H. performed the experiments and data analysis. J.H.J. and K.H.A. performed the computer simulations.
+Corresponding authors
+Correspondence to
+Dae-Hyeong Kim
+or
+Taeghwan Hyeon
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Nanotechnology
+thanks Mingshan Zhu and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data
+Extended Data Fig. 1 Characterization of backbone polymers and bonding process.
+a
+, Chemical structures of hydrophilic polyurethane (HPU; left) and poly(propylene glycol) (PPG; right). Functional groups for hydrogen bonding, which is a driving force in the formation of the elastomer-hydrogel composite, are marked with blue boxes. The hard segment and hydrophilic soft segments of HPU are marked with purple and green boxes, respectively.
+b
+,
+c
+, The molecular weight distribution (
+b
+) and the cumulative percent curve (
+c
+) of HPU reveal that the average molecular weight of HPU is ~ 474,000 g/mol.
+d
+, A calibration curve of the GPC measurement.
+e
+, HPU-PPG elastomer-hydrogel composites were dyed with Rhodamine B (orange) and Evans Blue (dark blue). Two dyed samples were bonded together with ethanol (EtOH).
+f
+-
+i
+, Firm bonding of the HPU-PPG composites could be made, which was maintained despite various deformations, such as (
+f
+) bending, (
+g
+) stretching, and (
+h
+) twisting.
+i
+, Scanning electron microscopy (SEM) image that shows the interface between two HPU-PPG nanocomposites bonded to each other. Seamless integration of a photocatalytic layer and a supporting layer can be observed.
+Extended Data Fig. 2 Characterization of photocatalysts.
+a
+, Schematic illustrations of the fabrication process of Pt/TiO
+2
+cryoaerogel including the (i) flash-freezing and (ii) freeze-drying steps. In detail, first, Pt and TiO
+2
+NPs in an as-prepared colloidal solution are assembled into a Pt-TiO
+2
+network through the flash-freezing technique. The ice crystals serve as a template for the final structure of the cryoaerogel. The subsequent freeze-drying step produces the Pt/TiO
+2
+cryoaerogel, which has a porous and voluminous structure composed of interconnected thin sheets.
+b
+, Optical image of Pt/TiO
+2
+cryoaerogel.
+c
+, Transmission electron microscopy (TEM) image of a Pt nanoparticle (NP) (left), TiO
+2
+NPs (middle), and Pt/TiO
+2
+cryoaerogel (right).
+d
+, Transmission electron microscopy (TEM) images and energy-dispersive X-ray spectroscopy (EDS) mapping data (insets) of Pt NP (left), TiO
+2
+NP (middle), and Pt/TiO
+2
+cryoaerogel (right).
+e
+, The absorption spectrum of Pt/TiO
+2
+cryoaerogel.
+f
+, X-ray photoelectron spectroscopy (XPS) spectrum of Pt 4 f of Pt/TiO
+2
+cryoaerogel.
+g
+, Brunaeur-Emmett-Teller (BET) surface area data of Pt/TiO
+2
+cryoaerogel.
+h
+, Optical image of Cu-SA/TiO
+2
+NPs.
+i
+, TEM image (left) and EDS mapping data (other frames) of Cu-SA/TiO
+2
+NPs.
+j
+,
+k
+, (
+j
+) X-ray absorption near edge structure (XANES) and (
+k
+) extended X-ray absorption fine structure (EXAFS) data of Cu-SA/TiO
+2
+NPs.
+Extended Data Fig. 3 Material characterization of the elastomer-hydrogel nanocomposites.
+a
+, Contact angle measurement (n = 3 for each group) at various locations of the hydrogel nanocomposite: the top surface (Photo. top) and the bottom surface (Photo. bottom) of the photocatalytic layer and the bottom surface of the supporting layer (Support. bottom).
+b
+, Schematic illustration for the measurement of the equilibrium density. The equilibrium density was determined by the density of the acetonitrile solution at which the hydrogel nanocomposites sink. The solution density is controlled by adding acetonitrile to water.
+c
+, Optical images of the nanocomposites on which a twofold amount of silica aerogel is added. The equilibrium density of the nanocomposites is 0.885 mg/mL.
+d
+, The normalized absorbance spectrum of hydrogel nanocomposites with (red) and without (black) silica aerogel.
+e
+, The mass transfer rate of the hydrogel nanocomposite was evaluated by measuring the amount of remaining water after 36 hours of evaporation at 60 °C (bottom). The open system (middle) and closed system (top) correspond to the positive and negative control group, respectively.
+f
+, The ratio of remaining water of open (n = 3), closed (n = 4), and bilayer (n = 3) systems after 36 hours of evaporation at 60 °C.
+g
+, Optical images of photocatalytic/supporting bilayer (left) and supporting/supporting bilayer (right) that absorb water including dye (Rhodamine B). The dye reaches the top layer regardless of the components of the bilayers, corroborating the facile water transfer through the hydrogel nanocomposites. The insets show the photocatalytic/supporting bilayer (left) and supporting/supporting bilayer (right) before absorbing the dye solution.
+h
+, Leaching percentage of Pt/TiO
+2
+cryoaerogel (red, n = 4) and silica aerogel (blue, n = 4) from the HPU-PPG composite under harsh environments such as strong alkaline solutions and seawater with organic solvents.
+i
+, Swelling ratio (Q) of the supporting layer (Support., n = 8), photocatalytic layer (Photo., n = 4), bilayer elastomer-hydrogel nanocomposite (Bilayer, n = 4), and polyacrylamide (PAM) hydrogel. (NS;
+p
+> 0.05, ***
+p
+< 0.001 by independent samples t-test). All data in bar charts are presented as mean values plus standard deviation.
+Extended Data Fig. 4 Measurement of hydrogen production of the nanocomposites.
+a
+, Optical images of the nanocomposites in a quartz cell connected to a gas chromatography (GC) line before (left) and while (right) the light (122 mW/cm
+2
+) is illuminated on the nanocomposites. Insets show infrared camera images of the top surface of nanocomposites before (left) and after (right) one hour of simulated sunlight irradiation.
+b
+, GC peaks during photocatalytic HER on the floatable photocatalytic hydrogel nanocomposites.
+c
+, H
+2
+peaks detected by GC during photocatalytic HER on the floatable photocatalytic hydrogel nanocomposites.
+d
+-
+f
+, Captured images from Supplementary Movie
+1
+that show HER on the floatable photocatalytic hydrogel nanocomposites. (
+d
+) The hydrogel nanocomposites floated on a solution in a quartz cell connected to GC. (
+e)
+Light (122 mW/cm
+2
+) was illuminated on the top surface of the nanocomposites. (
+f
+) In a few minutes, H
+2
+bubbles were generated by the photocatalytic HER on the nanocomposites.
+g
+, Optical images of the nanocomposites in which 2 (top; left), 4 (top; right), 8 (bottom; left), and 17 (bottom; right) wt% Pt/TiO
+2
+cryoaerogel is embedded.
+h
+,
+i
+, (
+h
+) Time course and (
+i
+) evolution rate of H
+2
+of the nanocomposites (under 100 mW/cm
+2
+) in which 2 (blue), 4 (green), and 8 (red) wt% Pt/TiO
+2
+cryoaerogel is embedded.
+j
+, Time course of H
+2
+for the floatable (blue circle) and sunken (red circle) nanocomposites (both with 17 wt% Pt/TiO
+2
+) under different intensities of simulated sunlight.
+k
+, Light intensity decreases as the light travels deep into the water due to scattering and absorption.
+Extended Data Fig. 5 Computational simulation of the hydrogen production by the nanocomposites.
+a
+, Schematic illustration of the lab-scale simulation domain.
+b
+, Schematic illustration of the sunken nanocomposites at the bottom of 10 cm-deep water (Scale bar: 1 cm).
+c
+, The concentration distribution of H
+2
+during photocatalytic HER of the sunken nanocomposites at the bottom of 10 cm-deep water at various time points: 60, 400, 1000, and 1500 min (Scale bar: 1 cm).
+d
+, H
+2
+concentration as a function of depth (z) in water at various time points: 60 min (black), 400 min (purple), 1000 min (blue), and 1500 min (green) of the sunken nanocomposites.
+Extended Data Fig. 6 Floatable photocatalytic nanocomposites with Pt/g-C
+3
+N
+4
+and Cu-SA/TiO
+2
+photocatalysts.
+a
+, Optical image of Pt/g-C
+3
+N
+4
+NPs.
+b
+, The absorption spectrum of Pt/g-C
+3
+N
+4
+nanoparticles.
+c
+, Optical image of the HPU-PPG-Pt/g-C
+3
+N
+4
+NP elastomer-hydrogel nanocomposites in a quartz cell connected to GC while light (122 mW/cm
+2
+) is illuminated on the top surface of the nanocomposites.
+d
+, Time course of H
+2
+of the HPU-PPG-Pt/g-C
+3
+N
+4
+NP nanocomposites under photoirradiation.
+e
+, Optical images of the fabrication process of the HPU-PPG-Pt/g-C
+3
+N
+4
+NP elastomer-hydrogel nanocomposites. (i) Pt/g-C
+3
+N
+4
+NPs are embedded in the HPU-PPG-NaCl gel. (ii) Photocatalytic layer is formed after drying and swelling. (iii) Photocatalytic layer with a Janus structure is formed by adding silica aerogel. (iv) The bilayer nanocomposites with Pt/g-C
+3
+N
+4
+NPs is fabricated by the integration of a photocatalytic layer and a supporting layer with ethanol.
+f
+, Optical images showing the photoactivation cycle of the Cu-SA/TiO
+2
+nanocomposite. (i) Resting state: photo-excitation is implemented by irradiation of simulated sunlight on the nanocomposite in the resting state. (ii) Active state: the colour of the photocatalytic layer changes from light yellow to grey by irradiation of simulated sunlight. (iii) Resting state: the colour of the photocatalytic layer returns to light yellow by exposure to O
+2
+.
+g
+, Time course of H
+2
+of the Cu-SA/TiO
+2
+nanocomposites measured at various time points (
+for example
+, day 0, day 7, and day 14) during the long-term HER measurements.
+Extended Data Fig. 7 Real seawater and waste reforming demonstrations.
+a
+, Optical image of the nanocomposites after swelling in seawater for 14 days.
+b
+,
+c
+, Optical images of the photocatalytic HER of (
+b
+) the sunken Pt/TiO
+2
+cryoaerogel and (
+c
+) the floatable Pt/TiO
+2
+cryoaerogel nanocomposites in orange and blue dye solutions, which are imitating turbid seawater.
+d
+, Optical image of the nanocomposites after swelling in 1 M KOH solution for 14 days.
+e
+, Optical images of the PET photo-reforming experiment using floatable nanocomposites without (left) and with (right) illumination (122 mW/cm
+2
+).
+Extended Data Fig. 8 Scalable hydrogen production of the nanocomposites.
+a
+–
+c
+, (
+a
+) Top view, (
+b
+) bottom view, and (
+c
+) side view of the nanocomposites with a length of 11.5 cm and a width of 11.5 cm.
+d
+, Optical image of the floatable nanocomposites from the top view (left) and under the solar simulator (AM 1.5 G illumination; right) of the device in a quartz cell for scalable solar H
+2
+production.
+e
+, Optical images that show the injection of the syringe into the quartz cell (left) and extraction of H
+2
+from the headspace of the quartz cell (right) during the scalable solar H
+2
+production demonstration.
+f
+, Time course of H
+2
+during the scalable solar H
+2
+production.
+Extended Data Fig. 9 Hydrogen production and computational simulation of the 1 m
+2
+-scale nanocomposites.
+a
+,
+b
+, (
+a
+) Top view and (
+b
+) side view of a single unit of the nanocomposites with a length of 25 cm and a width of 25 cm.
+c
+, Schematic illustration of the 1 m
+2
+-scale simulation domain.
+d
+,
+e
+, The H
+2
+concentration distribution of the (
+d
+) floatable and (
+e
+) sunken nanocomposites at various time points (
+for example
+, 100, 1000, 5000, 20000, 40000, and 80000 min) during the photocatalytic HER (Scale bar: 0.5 m).
+f
+,
+g
+, H
+2
+concentration as a function of depth (z) in water at various time points: 100 or 1000 min (black), 5000 min (purple), 20000 min (blue), 40000 min (green), and 80000 min (red) for the (
+f
+) floatable and (
+g
+) sunken nanocomposites.
+Extended Data Fig. 10 Computational simulation for hydrogen production by the nanocomposites with a total area of 100 m
+2
+.
+a
+,
+b
+, H
+2
+concentration as a function of depth (z) in water at various time points: 1000 min or day 70 (black), 4000 min or day 1400 (purple), day 7000 (blue), day 28000 (green), and day 70000 (red) for the (
+a
+) floatable and (
+b
+) sunken nanocomposites.
+Supplementary information
+Supplementary Video 1
+HER on the floatable photocatalytic hydrogel nanocomposites.
+Source data
+Source Data Fig. 2
+Material characterization of the nanocomposites.
+Source Data Fig. 3
+HER performance of the nanocomposites.
+Source Data Fig. 4
+Performance of the nanocomposites for practical applications.
+Source Data Fig. 5
+Large-scale performance of the nanocomposites.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Lee, W.H., Lee, C.W., Cha, G.D.
+et al.
+Floatable photocatalytic hydrogel nanocomposites for large-scale solar hydrogen production.
+Nat. Nanotechnol.
+18
+, 754–762 (2023). https://doi.org/10.1038/s41565-023-01385-4
+Download citation
+Received
+:
+10 September 2022
+Accepted
+:
+27 March 2023
+Published
+:
+27 April 2023
+Issue Date
+:
+July 2023
+DOI
+:
+https://doi.org/10.1038/s41565-023-01385-4
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Collection
+Progress towards the Sustainable Development Goals
+A floatable photocatalytic nanocomposite to facilitate scale-up of solar hydrogen production
+Nature Nanotechnology
+Research Briefing
+02 May 2023
+Floating solar hydrogen production
+Mingshan Zhu
+Zhi Li
+Nature Nanotechnology
+News & Views
+08 May 2023
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Advisory Panel
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Nanotechnology
+(
+Nat. Nanotechnol.
+)
+ISSN
+1748-3395
+(online)
+ISSN
+1748-3387
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

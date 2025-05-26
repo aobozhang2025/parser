@@ -1,0 +1,1886 @@
+Atomically dispersed Ni(i) as the active site for electrochemical CO2 reduction | Nature Energy
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature energy
+articles
+article
+Atomically dispersed Ni(
+i
+) as the active site for electrochemical CO
+2
+reduction
+Download PDF
+Article
+Published:
+05 February 2018
+Atomically dispersed Ni(
+i
+) as the active site for electrochemical CO
+2
+reduction
+Hong Bin Yang
+1
+,
+2
+,
+Sung-Fu Hung
+3
+,
+Song Liu
+1
+,
+4
+,
+Kaidi Yuan
+5
+,
+Shu Miao
+4
+,
+Liping Zhang
+1
+,
+Xiang Huang
+1
+,
+Hsin-Yi Wang
+1
+,
+Weizheng Cai
+1
+,
+Rong Chen
+1
+,
+Jiajian Gao
+1
+,
+Xiaofeng Yang
+4
+,
+Wei Chen
+5
+,
+Yanqiang Huang
+4
+,
+Hao Ming Chen
+3
+,
+Chang Ming Li
+ORCID:
+orcid.org/0000-0002-4041-2574
+2
+,
+Tao Zhang
+4
+&
+…
+Bin Liu
+1
+Show authors
+Nature Energy
+volume
+3
+,
+pages
+140–147 (
+2018
+)
+Cite this article
+47k
+Accesses
+22
+Altmetric
+Metrics
+details
+Subjects
+Carbon capture and storage
+Electrocatalysis
+Abstract
+Electrochemical reduction of CO
+2
+to chemical fuel offers a promising strategy for managing the global carbon balance, but presents challenges for chemistry due to the lack of effective electrocatalyst. Here we report atomically dispersed nickel on nitrogenated graphene as an efficient and durable electrocatalyst for CO
+2
+reduction. Based on operando X-ray absorption and photoelectron spectroscopy measurements, the monovalent Ni(
+i
+) atomic center with a
+d
+9
+electronic configuration was identified as the catalytically active site. The single-Ni-atom catalyst exhibits high intrinsic CO
+2
+reduction activity, reaching a specific current of 350 A g
+catalyst
+−1
+and turnover frequency of 14,800 h
+−1
+at a mild overpotential of 0.61 V for CO conversion with 97% Faradaic efficiency. The catalyst maintained 98% of its initial activity after 100 h of continuous reaction at CO formation current densities as high as 22 mA cm
+−2
+.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Asymmetric dinitrogen-coordinated nickel single-atomic sites for efficient CO
+2
+electroreduction
+Article
+Open access
+24 June 2023
+A metal-supported single-atom catalytic site enables carbon dioxide hydrogenation
+Article
+Open access
+10 February 2022
+Facilely synthesized nitrogen-doped reduced graphene oxide functionalized with copper ions as electrocatalyst for oxygen reduction
+Article
+Open access
+04 January 2021
+Main
+Electrochemical conversion of CO
+2
+to chemical fuel, the reverse reaction of combustion, offers a promising strategy for management of the global carbon balance
+1
+,
+2
+,
+3
+. A desirable CO
+2
+reduction catalyst would have a low overpotential to drive catalysis and a large turnover frequency (TOF), and simultaneously be highly selective and stable. Unfortunately, current electrocatalytic CO
+2
+reduction processes are still very inefficient, because of the extremely stable chemical bond in CO
+2
+(C=O, 806 kJ mol
+−1
+) and the competing water reduction reaction in the aqueous phase
+4
+,
+5
+. By comparing the figures of merit of several CO
+2
+reduction catalysts
+6
+, it was concluded that the reduction of CO
+2
+to CO or formic acid (CO
+2
++ 2H
++
++ 2e
+−
+→ CO + H
+2
+O, −0.11 V versus RHE or CO
+2
++ 2H
++
++ 2e
+−
+→ HCOOH, −0.19 V versus RHE) are the most practical because of their relatively higher selectivity and larger current densities compared with those of other CO
+2
+reduction pathways. Cu, Ag, Au and their alloys are currently the most active electrocatalysts for the reduction of CO
+2
+to CO in aqueous solution
+5
+,
+7
+,
+8
+,
+9
+. Development of improved catalysts with adequate activity and selectivity is still a long-term goal in order to realize their practical application. Single-atom catalysts with atomically distributed active metal centres have demonstrated maximum atom efficiency and excellent selectivity in several catalytic reactions because of the unique electronic properties of a single active site
+10
+,
+11
+,
+12
+, and thus are expected to have great potential to improve the performance of the CO
+2
+reduction reaction
+13
+. However, the construction of stable single-atom catalysts remains a grand challenge due to the high surface energy of single atoms. More importantly, the electronic structure of single-atom catalysts has remained elusive, and this impedes understanding of these catalysts and the further design of new single-atom catalysts for the CO
+2
+reduction reaction
+10
+,
+14
+,
+15
+.
+Here, we have developed a single-atom catalyst consisting of isolated, high-density, low-valent Ni(
+i
+) anchored on an N-doped graphene matrix as a robust and efficient electrocatalyst for CO
+2
+reduction. The single-Ni-atom catalyst exhibits high intrinsic CO
+2
+reduction activity and stability. CO
+2
+molecular activation and electrochemical reduction on low-valent Ni(
+i
+) were investigated by operando X-ray absorption spectroscopy (XAS), X-ray diffraction (XRD) and X-ray photoelectron spectroscopy (XPS) techniques. Our results demonstrate the delocalization of the unpaired electron in the Ni
+\(3{d}_{{x}^{2}-{y}^{2}}\)
+orbital and spontaneous charge transfer from Ni(
+i
+) to the carbon 2
+p
+orbital in CO
+2
+to form a CO
+2
+δ
+−
+species. These processes help to reduce the energy barrier for electrochemical CO
+2
+reduction.
+Structural characterization of single-Ni-atom catalyst
+The single-Ni-atom catalyst was prepared by pyrolysing a mixture of amino acid (
+l
+-alanine or
+l
+-cysteine), melamine and nickel acetate in argon (Supplementary Fig.
+2
+). The as-prepared catalyst has a two-dimensional (2D) structure with smooth surfaces (Fig.
+1a,b
+); this was confirmed by atomic force microscopy (AFM) measurements (Fig.
+1a
+(inset) and Supplementary Fig.
+3a,b
+). Figure
+1c
+compares the XRD patterns of the single-Ni-atom catalysts prepared without and with addition of a sulfur precursor (
+l
+-cysteine) (denoted A-Ni-NG and A-Ni-NSG, respectively). The metallic Ni diffraction peaks that were observed in N-doped graphene decorated with Ni nanoparticles (denoted Ni-NG, Supplementary Figs.
+3c, d
+), are absent in both patterns (Fig.
+1c
+), and only (002) and (004) carbon diffraction peaks at 26.2° and 44.0° are observed. The relatively weaker, broader peaks for A-Ni-NSG, compared with those for A-Ni-NG, indicate that the additional S doping results in a lower degree of crystallization and a defect-rich structure
+16
+. The specific surface area of A-Ni-NSG was around 406 m
+2
+g
+−1
+, which is much larger than those of A-Ni-NG (304 m
+2
+g
+−1
+) and Ni-NG (250 m
+2
+g
+−1
+) (Supplementary Fig.
+3g
+). All of the above results suggest that the Ni species are highly dispersed as tiny clusters or single atoms on the graphene sheets and these are undetectable by XRD, AFM, scanning electron microscopy (SEM) and high-resolution transmission electron microscopy (HRTEM). The dispersion of Ni atoms on the graphene was confirmed by aberration-corrected high-angle annular dark field scanning transmission electron microscopy (HAADF-STEM). As shown in Fig.
+1d
+and Supplementary Fig.
+3h–j
+, bright spots corresponding to single Ni atoms (sizes of the bright spots are ~0.2 nm) were homogeneously distributed across the entire carbon framework in both A-Ni-NG and A-Ni-NSG.
+Fig. 1: Structural characterization of single nickel atoms dispersed on nitrogenated graphene.
+a
+, SEM and AFM (inset) images, scale bars: 100 and 500 nm for the SEM and AFM images, respectively.
+b
+, Bright-field TEM image (inset shows the HRTEM image), scale bars: 200 and 10 nm for the TEM and HRTEM images, respectively.
+c
+, X-ray diffraction patterns. The JCPDS profiles of graphite (black) and metallic nickel (dark green) are displayed for reference.
+d
+, HAADF-STEM image of A-Ni-NG, scale bar: 5 nm.
+e
+, Elemental content of A-Ni-NG, obtained from XPS and ICP-AES measurements (inset shows the high-resolution XPS N 1
+s
+spectrum, which is deconvoluted into five Voigt-type line-shaped peaks using the Shirley background).
+f
+, High-resolution XPS Ni 2
+p
+spectra, the binding energies of Ni 2
+p
+in A-Ni-NG and A-Ni-NSG are in a valence state, lower than +2 but higher than 0, highlighted by the dashed line.
+Full size image
+The chemical composition and elemental states of A-Ni-NG, A-Ni-NSG and Ni-NG were investigated by XPS (Supplementary Fig.
+3
+, Supplementary Table
+1
+). The high-resolution XPS N 1
+s
+spectrum deconvoluted into pyridinic (
+∼
+398.2 eV), Ni–N (
+∼
+399.5 eV), pyrrolic (
+∼
+400.5 eV), quaternary (
+∼
+401.3 eV) and oxidized (
+∼
+403.0 eV) N species (inset of Fig.
+1e
+)
+17
+. Compared with Ni-NG, A-Ni-NG and A-Ni-NSG have higher N contents (2.2 at% and 2.8 at% Ni–N species, respectively), and N is in the pyridinic form
+17
+,
+18
+. The high-resolution XPS S 2
+p
+spectrum of A-Ni-NSG displays a peak at 162 eV, which was assigned to the Ni–S bond
+19
+(Supplementary Fig.
+4c
+). The content of S bonded to Ni in A-Ni-NSG was around 0.07 at%. These results imply the formation of Ni–S–C in addition to Ni–N–C in A-Ni-NSG. The atomic concentrations of Ni in A-Ni-NG and A-Ni-NSG determined by XPS were 0.82 at% (4 wt%) and 0.47 at% (2.5 wt%), respectively, which are close to those obtained by inductively coupled plasma atomic emission spectroscopy (ICP-AES) (4.6 and 2.8 wt%, respectively). The binding energies of Ni 2
+p
+3/2
+in A-Ni-NG and A-Ni-NSG were 855.0 and 854.8 eV, respectively (Fig.
+1f
+), which are approximately 1.0 eV lower than that of Ni
+2+
+in nickel phthalocyanine (NiPc) (856.0 eV). In Ni-NG, Ni 2
+p
+3/2
+is dominated by the peak at 853.5 eV, which corresponds to metallic Ni
+0
+, and there is a minor peak at 855.8 eV, which is ascribed to Ni
+2+
+. Thus, the XPS results for Ni 2
+p
+suggest that the Ni atoms in A-Ni-NG and A-Ni-NSG are likely to be in a low-valent state.
+Electronic states of Ni atom in single-Ni-atom catalysts
+The oxidation states of the Ni atoms were further determined from the position of the rising edge of the Ni K-edge X-ray absorption near edge structure (XANES) (Fig.
+2a
+), which was determined by the inflection point of the second-derivative spectrum (Supplementary Fig.
+5a
+). From this, we concluded that the oxidation state of the Ni atoms in A-Ni-NG and A-Ni-NSG was +1 with a 3
+d
+9
+,
+S
+= 1/2 electronic configuration. This agrees with the L-edge XAS (Supplementary Fig.
+5b
+) and XPS results. The unpaired electron in Ni(
+i
+) was directly observed by electron paramagnetic resonance (EPR) spectroscopy (Fig.
+2b
+) and further verified by Bader charge analysis and the projected density of states (Supplementary Fig.
+5f,g
+). The
+g
+values of 2.215 and 2.285 at room temperature and 77 K, respectively, in the EPR spectra were assigned to the unpaired electron in the
+\(3{d}_{{x}^{2}-{y}^{2}}\)
+orbital of Ni(
+i
+)
+20
+,
+21
+. Monovalent Ni(
+i
+) atoms have been considered as the catalytically active sites in many important reactions
+22
+,
+23
+,
+24
+owing to the high reactivity of the partially occupied
+\(3{d}_{{x}^{2}-{y}^{2}}\)
+orbital. However, Ni(
+i
+) complexes are extremely thermally unstable and disproportionately form Ni(0) and Ni(
+ii
+) compounds
+24
+,
+25
+. The formation of Ni(
+i
+) atoms on A-Ni-NG and A-Ni-NSG is attributed to the lower electronegativity of pyridinic N and S relative to the pyrrolic N in Ni(
+ii
+)Pc.
+Fig. 2: Electronic states of Ni atom in the single-Ni-atom catalysts.
+a
+, Ni K-edge XANES spectra of A-Ni-NG, A-Ni-NSG and NiPc, where peak A represents 1
+s
+→ 3
+d
+transition, peak B represents 1
+s
+→ 4
+p
+z
+transition, C and D represent 1
+s
+→ 4
+p
+x
+,
+y
+transitions and multiple scattering processes, respectively (inset shows the expanded pre-edge region, which was fitted by Athena using Gaussian peak; the grey shaded areas show the intensity of the 1
+s
+→ 3
+d
+transition). The catalysts were dispersed on Kapton (polyimide) tape for fluorescence XAS measurements.
+b
+, EPR spectra of A-Ni-NG measured at room temperature (RT) and 77 K.
+c
+, Fourier transformation of the EXAFS spectra, in which the NiPc spectrum has been reduced in size.
+d
+, First-shell (Ni–N) fitting of Fourier transformations of EXAFS spectra for A-Ni-NG. Top and bottom traces are magnitude and imaginary part, respectively. EXAFS spectra were fitted using the FEFF 6.0 code (inset shows the structure of the nickel site in A-Ni-NG; the balls in grey, light blue and light green represent C, N and Ni atoms, respectively).
+Full size image
+The XAS spectra of A-Ni-NG and A-Ni-NSG contain similar characteristic features (labelled A–D in Fig.
+2a
+) to those of Ni(
+ii
+)Pc. The differences lie mainly in the relative intensities and edge positions, and this indicates that A-Ni-NG and A-Ni-NSG possess comparable
+D
+4
+h
+symmetry as Ni(
+ii
+)Pc (ref.
+26
+). The inset in Fig.
+2a
+highlights the pre-edge features of the XANES spectra; the peak at approximately 8,334 eV is assigned to the dipole-forbidden but quadrupole-allowed transition (1
+s
+→ 3
+d
+), which signals 3
+d
+and 4
+p
+orbital hybridization of the Ni central atoms
+27
+. The integrated pre-edge peak intensity of Ni(
+ii
+)Pc is very weak, which is expected from its high
+D
+4
+h
+centro-symmetry. The increases in the pre-edge peak intensity in A-Ni-NG and A-Ni-NSG are ascribed to increased dipole-allowed transitions (1
+s
+→ 4
+p
+), which occur through mixing of the 3
+d
+and 4
+p
+orbitals as a result of the distorted
+D
+4
+h
+symmetry
+27
+. Compared with that observed for Ni(
+ii
+)Pc, the intensities of the 1
+s
+→ 4
+p
+z
+transition (peak B) in A-Ni-NG and A-Ni-NSG are reduced. These transitions act as a fingerprint for square-planar M–N
+4
+moieties
+19
+,
+28
+, and this result thus further confirms the distorted
+D
+4
+h
+symmetry of the Ni atom in A-Ni-NG and A-Ni-NSG. Additionally, A-Ni-NG and A-Ni-NSG show considerably larger relative intensity ratios for peaks C and D (
+I
+C
+/
+I
+D
+) than Ni(
+ii
+)Pc. These two peaks are attributed to the 1
+s
+→ 4
+p
+x
+,
+y
+transitions and multiple scattering processes, respectively
+15
+,
+29
+. Increased
+I
+C
+/
+I
+D
+has been found to correlate well with enhanced oxygen reduction reaction activity
+15
+. A-Ni-NG and A-Ni-NSG are therefore expected to have good electrocatalytic activities. Figure
+2c
+displays the Fourier transform of the phase-uncorrected extended X-ray absorption fine structure (EXAFS) spectra. Peaks at 2.15 Å, which correspond to Ni–Ni interaction and appear in Ni-NG and Ni foil (Supplementary Fig.
+5c
+), were not observed in A-Ni-NG and A-Ni-NSG. This confirms the HAADF-STEM results and suggests the presence of isolated Ni atoms on the nitrogenated graphene. The main peak at approximately 1.45 Å is attributed to the scattering interaction between the Ni atoms and the first shell (Ni–N). An additional small peak appears at 1.81 Å for A-Ni-NSG; this is approximately 0.36 Å larger than the Ni–N distance, and is consistent with the longer Ni–S bond length
+30
+. Figure
+2d
+show that the Fourier transformations of the EXAFS spectra of A-Ni-NG fit well with the structure shown in the inset of Fig.
+2d
+(optimized by DFT), which confirms the Ni–N
+4
+structure of A-Ni-NG (Supplementary Fig.
+5d,e
+for A-Ni-NSG). Supplementary Table
+2
+summarizes the fitting results of the EXAFS spectra of A-Ni-NG and A-Ni-NSG.
+Electrochemical CO
+2
+reduction
+Inspired by the unique structural features of A-Ni-NG and A-Ni-NSG, we evaluated their activity in the electrochemical reduction of CO
+2
+on a rotating disc electrode by cyclic voltammetry (CV; Supplementary Figs.
+6a–d
+) and linear sweep voltammetry (LSV; Fig.
+3a
+). A cathodic peak at approximately −0.7 V (versus RHE) was observed in the CV curve, and the peak current was linearly dependent on the square root of the scan rate (Supplementary Fig.
+6e
+), which suggests that this peak originates from CO
+2
+mass transfer controlled processes
+31
+. The liquid and gaseous products were analysed by on-line gas chromatography and off-line high-performance liquid chromatography in an H-type electrochemical cell separated by a Nafion 117 membrane. Supplementary Fig.
+6k
+shows typical current profiles for the catalyst biased at different potentials in CO
+2
+-saturated 0.5-M KHCO
+3
+solution for analysis of the reduction products and Faradaic efficiency. CO, H
+2
+and CH
+4
+were detected in the gas phase, but no liquid products were detected in the potential range from 0 to −1.325 V (versus RHE) (Supplementary Fig.
+7a,b
+). Pristine N-doped graphene (NG) showed negligible CO
+2
+reduction activity (Fig.
+3a
+). Decoration of NG with metallic Ni nanoparticles (mean size: ~15 nm, Supplementary Fig.
+3c,d
+) resulted in improved activity and selectivity of Ni-NG towards CO
+2
+reduction. Further reducing the size of the Ni particles to single atoms in A-Ni-NG and A-Ni-NSG provided catalysts with improved performance in CO
+2
+to CO reduction. In the mass-transport-limited region, for example, at an applied potential of −1.0 V (versus RHE), the A-Ni-NSG electrode produced a large cathodic current density of 115 mA cm
+−2
+; this corresponds to a mass activity of 1,150 A g
+catalyst
+−1
+. The inset of Fig.
+3a
+highlights the LSV curves of various catalysts at a potential range from −0.1 to −0.7 V (versus RHE). These curves show that the CO
+2
+reduction onset potential of A-Ni-NSG is at least 100 mV lower than that of A-Ni-NG. As discussed earlier regarding the XANES spectra and Supplementary Table
+2
+, the geometry around Ni(
+i
+) in A-Ni-NSG is highly distorted owing to the non-centrosymmetric ligand strength, and this is expected to promote better adsorption of reactants and intermediates on the catalyst surface
+15
+, which was further verified by DFT calculations (Supplementary Fig.
+8a,b
+and Supplementary Tables
+3
+,
+4
+). Figure
+3b
+compares the Faradaic efficiency of CO formation for a number of catalysts; among these, A-Ni-NSG exhibits the lowest onset overpotential towards CO formation (
+∼
+70 mV, Supplementary Fig.
+7c
+), which is consistent with the overpotential determined from the LSV curves. Furthermore, the A-Ni-NSG electrode exhibits a maximum Faradaic efficiency (CO) of about 97% at around −0.5 V (versus RHE). Further reduction of CO to methane is completely suppressed (Supplementary Fig.
+7b
+) because of the weak binding of CO to the single Ni atom site. Notably, the two single-Ni-atom catalysts maintain greater than 80% selectivity towards CO formation, even at very negative applied potentials, and this selectivity is almost independent of the proton concentration (Supplementary Fig.
+7d
+). CO as the electrochemical CO
+2
+reduction product was confirmed by mass spectrometry using
+13
+CO
+2
+as the feedstock for the reaction (Supplementary Fig.
+6i
+). Tafel slopes of 108 and 114 mV decade
+−1
+were obtained for A-Ni-NG and A-Ni-NSG, respectively (Supplementary Fig.
+7e
+). This suggests that the first electron transfer, which generates surface adsorbed *COOH species, is the rate-determining step for CO evolution
+32
+. The exchange current density of A-Ni-NSG is approximately 10
+−3
+mA per cm
+geometry
+2
+, which is at least one order of magnitude larger than that of Ag nanoparticles
+33
+and implies a considerably higher intrinsic rate of electron transfer and faster catalytic kinetics for A-Ni-NSG.
+Fig. 3: CO
+2
+reduction in aqueous solution.
+a
+, LSV curves acquired in CO
+2
+-saturated 0.5 M KHCO
+3
+solution on a rotating disc electrode at a rotation speed of 1,600 r.p.m. and a scan rate of 5 mV s
+−1
+. Catalyst loading: 0.1 mg cm
+−2
+. Supplementary Fig.
+6g
+compares the LSV curves of electrodes with different catalyst loadings. The inset highlights the LSV curves in the potential range from −0.1 to −0.7 V (versus RHE). The dots on the curves show the specific CO formation current of 10 mA mg
+catalyst
+−1
+(Supplementary Fig.
+6j
+).
+b
+, CO Faradaic efficiency at various applied potentials.
+c
+, TOF of A-Ni-NSG compared with those of other state-of-the-art CO
+2
+to CO reduction catalysts, highlighted in the shaded region (Supplementary Table
+5
+and Supplementary Fig.
+7f
+for details of the 3 h average TOF).
+d
+, Current–time response of A-Ni-NSG on carbon fibre paper for CO
+2
+reduction at an overpotential of 0.61 V. All measurements were conducted under the same conditions: 0.5 M KHCO
+3
+(pH = 7.3), 1 atm CO
+2
+, room temperature.
+Full size image
+The calculated TOF of A-Ni-NSG reaches 14,800 h
+−1
+at an overpotential of 0.61 V; this is at least one order of magnitude larger than those of cobalt protoporphyrin and noble metal catalysts in aqueous solution (Fig.
+3c
+), which previously exhibited the highest TOFs of all reported CO
+2
+to CO reduction catalysts (Supplementary Table
+5
+). More importantly, the CO
+2
+to CO reduction performance of A-Ni-NSG is extremely stable, retaining 98% of the initial current for CO formation (
+∼
+22 mA cm
+−2
+) after 100 hours of continuous operation (Fig.
+3d
+). HAADF-STEM image and high-resolution XPS Ni 2
+p
+spectra (Supplementary Figs.
+7g-i
+), measured before and after 100 hours of electrochemical CO
+2
+reduction, show identical Ni 2
+p
+3/2
+bonding energies (
+∼
+854.5 eV) and well-dispersed single atoms, which indicate the excellent chemical stability of the Ni atoms in A-Ni-NSG.
+Molecular activation and reduction of CO
+2
+To clarify the details of the adsorption and activation of CO
+2
+on A-Ni-NG, Ni K-edge XANES and EXAFS spectra were performed under operando conditions. Figure
+4a,b
+displays the normalized operando Ni K-edge XANES spectra and the corresponding Fourier transforms of the EXAFS spectra. As shown in the inset of Fig.
+4a
+, there was a shift of the Ni K-edge to approximately 0.4 eV higher energy in CO
+2
+-saturated KHCO
+3
+solution under open-circuit voltage bias compared with that in Ar-saturated KHCO
+3
+solution. This indicates an increase in the Ni oxidation state, which probably results from delocalization of the unpaired electron in the
+\(3{d}_{{x}^{2}-{y}^{2}}\)
+orbital and spontaneous charge transfer from Ni(
+i
+) to the carbon 2
+p
+orbital in CO
+2
+to form a CO
+2
+δ
+−
+species
+34
+,
+35
+. During electrochemical CO
+2
+reduction, the Ni K-edge of A-Ni-NG shifted back to lower energy, which indicates the recovery of low-oxidation-state Ni after one cycle of CO
+2
+reduction (Ni(
+i
+)* + CO
+2
++ 2H
++
++ 2e
+−
+→ Ni(
+i
+)* + CO + H
+2
+O). The intensity of the main peak at approximately 1.45 Å in the Fourier transform of the EXAFS spectrum (Fig.
+4b
+) increased slightly; this was ascribed to a contribution from the Ni–C bond
+36
+that overlapped with the Ni–N bond. The main peak shifted (
+∼
+0.04 Å) to longer lengths during CO
+2
+reduction with the catalyst biased at −0.7 V versus RHE, compared with that under open-circuit voltage bias, which suggests expansion of the Ni–N bond. This is due to distortion of the Ni atoms out of the graphene plane, and results from redistribution of the electrons in the Ni 3
+d
+orbital between the four N ligands and the Ni–C bond (from adsorbed CO
+2
+).
+Fig. 4: Operando X-ray absorption spectroscopy and photoelectron spectroscopy.
+a
+, Normalized operando Ni K-edge XANES spectra for A-Ni-NG at various biases (applied voltage versus RHE) in 0.5 M KHCO
+3
+aqueous solution at room temperature in 1 atm of Ar or CO
+2
+. The inset shows the enlarged Ni K-edge XANES spectra.
+b
+, Fourier transform magnitudes of EXAFS spectra (without phase correction) of A-Ni-NG under open-circuit voltage bias in Ar (OCV-Ar) and CO
+2
+(OCV-CO
+2
+), and at −0.7 V (versus RHE), in which an expanded Ni–N bond was detected.
+c
+, Change in the XPS O 1
+s
+intensity induced by CO
+2
+adsorption for A-Ni-NG.
+d
+, Valence band spectra of A-Ni-NG before (black line) and after (red line) CO
+2
+gas exposure, and after desorption of CO
+2
+by thermal treatment at 500 °C for 20 min in vacuum (dark blue line). The blue line shows the variation in the valence band spectra of A-Ni-NG induced by CO
+2
+adsorption.
+e
+, Structural evolution of the active site in electrochemical CO
+2
+reduction.
+e
+, ΔD in shows the displacement of Ni atom out of plane resulting from electron transfer from Ni atom to CO
+2
+. The upper-right schematic shows the activation processes for CO
+2
+molecules on the Ni(
+i
+) site. A valence band structure, similar to metallic nickel, was used to simplify the schematic illustration. Detailed valence band structures were shown in Supplementary Figure
+9g
+. The red arrow represents the electron transfer from the Ni(
+i
+) to adsorbed CO
+2
+.
+E
+1
+F
+and
+E
+2
+F
+are Fermi levels of A-Ni-NG before and after formation of Ni-CO
+2
+δ
+−
+, respectively. 1
+π
+g
+and 2
+π
+u
+are CO
+2
+molecular orbitals
+38
+.
+Full size image
+The charge-transfer processes for CO
+2
+activation were further investigated by photoelectron spectroscopy techniques. Supplementary Fig.
+9a–c
+shows the change in the chemical states of A-Ni-NG before and after CO
+2
+adsorption. The differential XPS spectra of O 1
+s
+induced by CO
+2
+adsorption (Fig.
+4c
+) can be deconvoluted into two O species, the chemically adsorbed CO
+2
+δ
+–
+species (531.1 eV) and physically adsorbed CO
+2
+(533.5 eV)
+37
+. An increase in the work function of A-Ni-NG was determined from the shift in the second electron cutoff edge (~0.7 eV) to lower binding energy after exposure of the A-Ni-NG catalyst to CO
+2
+gas (Supplementary Fig.
+9e
+). This result confirms the charge transfer from the A-Ni-NG catalyst to the CO
+2
+molecule and the formation of the CO
+2
+δ
+–
+species on the surface of A-Ni-NG
+37
+,
+38
+. The change in the valence band of the A-Ni-NG catalyst caused by the formation of the CO
+2
+δ
+–
+species on the surface (Fig.
+4d
+) dramatically reduces the Ni 3
+d
+density of states and the down-shift of the valence band edge (Supplementary Fig.
+9f
+), and indicates charge transfer from the
+\(3{d}_{{x}^{2}-{y}^{2}}\)
+orbital of Ni(
+i
+) to the C 2
+π
+u
+orbital. DFT calculations indicate that the increase in the density of states around 3–6 eV below the Fermi level results from the 1
+π
+orbital of the bent CO
+2
+molecules adsorbed on Ni(
+i
+) and the delocalization of the Ni 3
+d
+orbital (Supplementary Fig.
+9g
+). On the basis of the above analyses, we propose the activation processes for CO
+2
+molecules on the Ni(
+i
+) active site and the structural evolution of the active site in the electrochemical CO
+2
+reduction (Fig.
+4e
+).
+Conclusions
+In summary, we have demonstrated atomically dispersed, low-valent Ni(
+i
+) centres with high intrinsic CO
+2
+reduction activity. The discovery of a single-atom low-valent Ni(
+i
+) heterogeneous catalyst not only demonstrates single-atom heterogeneous catalysis in electrochemical CO
+2
+reduction, but also offers a unique insight into the active site geometry and structural transitions during CO
+2
+reduction, which will be essential for the development of future CO
+2
+catalysts.
+Methods
+Chemicals
+All chemicals including melamine (99%),
+l
+-cysteine (98%),
+l
+-alanine (99%), nickel(
+ii
+) acetate tetrahydrate (99.998%), KHCO
+3
+(99.7%) and Nafion 117 solution (~5% in a mixture of lower aliphatic alcohols and water) were purchased from Sigma-Aldrich and used without further purification.
+Synthesis of atomically nickel-dispersed graphene catalysts
+In a typical synthesis of atomically nickel-dispersed nitrogenated graphene catalyst (A-Ni-NG and A-Ni-NSG), a mixture of melamine (C
+3
+H
+6
+N
+6
+) (12 g),
+l
+-alanine (C
+3
+H
+7
+NO
+2
+) (2.25 g) or
+l
+-cysteine (C
+3
+H
+7
+NO
+2
+S) (3 g) and nickel(
+ii
+) acetate tetrahydrate (Ni(CH
+3
+COO)
+2
+·
+4 H
+2
+O) (0.2 g) was first ground into a homogeneous precursor using zirconia ball in a nylon jar. Subsequently, the fine powder mixture underwent a two-stage pyrolysis and carbonization process (first stage: from 25 to 600 °C at a ramping rate of 3 °C min
+–1
+, maintain at 600 °C for 2 h; second stage: from 600 to 900 °C at a ramping rate of 2 °C min
+–1
+, maintain at 900 °C for 1 h) in a tubular furnace (Carbolite, UK) in argon atmosphere. After cooling down to room temperature, the product was successively leached at 80 °C in 1 M HCl for 12 h and 1 M HNO
+3
+for another 24 h to remove metal particles and unstable species. Afterwards, the sample was heated again at 850 °C in Ar for 1 h to recover the crystallinity of carbon.
+Nitrogen-doped graphene (NG) was prepared by pyrolyzing a mixture of graphene oxide (100 mg) and melamine (500 mg) at 1,000 °C for 2 h in a tube furnace under argon atmosphere. To prepare metallic Ni-nanoparticle-decorated nitrogen-doped graphene (Ni-NG), 100 mg of graphene oxide was first dispersed in 30 ml of deionized (DI) water by ultrasonication, followed by addition of 2.5 mg of nickel(
+ii
+) acetate tetrahydrate. The mixture was kept stirred over a water bath at 80 °C for 2 h, then freeze dried for 24 h to remove DI water. Subsequently, the dried product was ground with 500 mg of melamine into a homogeneous mixture, followed by a pyrolysis process at 900 °C for 2 h in argon atmosphere. The Ni-NG was obtained by cooling to room temperature.
+Characterization
+The crystal structure and morphology of the catalysts were examined by X-ray diffraction (XRD, Bruker AXS D8 Advance) with Cu Kα radiation (
+λ
+= 1.5406 Å), field-emission scanning electron microscopy (FESEM, JEOL JSM-6700F), and transmission electron microscopy (TEM, JEOL JEM-2100F). The thickness of the samples was measured by atomic force microscopy (Nanoman, Veeco, Santa Barbara, CA) using the tapping mode. Detailed chemical compositions were analysed by X-ray photoelectron spectroscopy (XPS) on an ESCALAB 250 photoelectron spectrometer (Thermo Fisher Scientific) using a monochromatic Al Kα X-ray beam (1,486.6 eV). All binding energies were referenced to the C 1
+s
+peak (284.6 eV). Specific surface area was measured based on a Brunauer–Emmett–Teller (BET) method using Autosorb 6B at liquid-nitrogen temperature. Sub-ångström-resolution high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) characterization was conducted on a JEOL JEMARM200F STEM/TEM with a guaranteed resolution of 0.08 nm. X-band electron paramagnetic resonance (EPR) spectra were acquired on a Bruker Elexsys 580 spectrometer at room temperature and 77 K. Microwave frequency was set at 9.86 GHz (X-band) with a power of 20 mW in an SHQE resonator.
+Computational framework
+The calculations of geometry optimization and electronic structure were carried out by density functional theory as implemented in the Vienna ab initio simulation package (VASP) with consideration of spin-polarization
+39
+, using projector augmented wave (PAW) pseudopotential for the core electrons
+40
+, a 480 eV cutoff energy for the valence electrons, and the generalized gradient approximation (GGA) in the form of Perdew–Burke–Ernzerhof (PBE) for the exchange-correlation potentials
+41
+.
+The single Ni atom dispersed graphene catalyst was simulated using a (6 × 6) graphene sheet (14.816 Å × 14.816 Å) with Ni bonding to four N atoms in double vacancy of graphene (A-Ni-NG). For the S-doped catalyst, we considered the configuration of one N atom of NiN
+4
+-graphene replaced by an S atom (A-Ni-NSG). The optimized configurations are shown in Supplementary Fig.
+5f
+. A vacuum space of ~11 Å along the
+Z
+direction was used to separate the interaction between the neighbouring slabs. The 6 × 6 × 1 gamma-centered
+k
+-mesh was chosen to sample the surface Brillouin-zone. The cluster model of Ni(
+ii
+)Pc was placed in a cubic box of 30 Å × 30 Å × 30 Å and performing gamma point calculations. For the calculation of density of states (DOS), the
+k
+-mesh was increased to 12 × 12 × 1. The adsorption configurations are fully relaxed until the force on each atom is smaller than 0.01 eV Å
+–1
+.
+The adsorption energy of reaction intermediates is defined as:
+$${E}_{{\rm{ads}}}={E}_{{\rm{Sub}}/{\rm{M}}}-{E}_{{\rm{Sub}}}-{E}_{{\rm{M}}}$$
+where
+E
+Sub/M
+,
+E
+Sub
+and
+E
+M
+denote the total energies of an adsorbed system, a clean substrate, and an adsorbate at free state, respectively, each of which can be obtained directly from DFT calculations. The adsorption energies are converted into Gibbs free energies through
+$$\Delta G={E}_{{\rm{ads}}}+\Delta {\rm{ZPE}}-T\Delta S+\Delta {G}_{{\rm{u}}}$$
+where ΔZPE,
+T
+Δ
+S
+, and Δ
+G
+u
+represent the change of zero point energy, change of entropy (
+T
+= 298.15 K), and the contribution of the electrode potential to Δ
+G
+, respectively. The zero point energy is calculated within the harmonic approximation using the finite difference method with displacements of ±0.015 Å. The entropy of the chemisorbed intermediates only takes the vibrational entropy into account. The entropy of the free gas is taken from the standard thermodynamic database
+42
+. For the reaction steps containing pairs of proton and electron transfer, the relative free energies are calculated based on the computational hydrogen electrode (SHE) model
+43
+, where the chemical potential of a pair of proton and electron (H
++
++ e
+−
+) is assumed to half that of H
+2
+gas, and Δ
+G
+is changed by −
+n
+e
+U
+, where
+n
+e
+is the number of electrons and
+U
+is the applied electrode potential. The details of the calculation for Δ
+G
+are listed in Supplementary Tables
+3
+,
+4
+.
+Electrochemical measurements
+All electrochemical measurements were carried out at ambient temperature and pressure on a rotating electrode system (Pine) with a CHI 660e potentiostat. A three-electrode cell configuration was employed with a working electrode of glassy carbon rotating disk electrode (RDE) of 5 mm diameter, a counter electrode of platinum foil (1 × 2 cm
+2
+), and a saturated calomel reference electrode (SCE). To prepare the catalyst ink, 5 mg of catalyst and 25 μl of 5% Nafion 117 solution, as conducting binder, were introduced into 975 μl of water–isopropanol solution with equal volumes of water and isopropanol and sonicated for 3 h. An aliquot of 4 μl of the catalyst ink was applied onto a glassy carbon RDE and allowed to dry in air, giving a catalyst loading of 0.1 mg cm
+−2
+. A CO
+2
+-saturated electrolyte was prepared by purging CO
+2
+(99.99%) into 0.5 M KHCO
+3
+aqueous solution for 30 min, and a flow of CO
+2
+was maintained over the electrolyte throughout the electrochemical measurements. For comparison, CV measurements were also performed in an Ar (99.99%)-saturated electrolyte. All potentials were calculated with respect to the reversible hydrogen electrode (RHE) scale according to the Nernst equation (
+E
+RHE
+=
+E
+SCE
++ 0.0591 × pH + 0.241 V, at 25 °C). The linear sweep voltammograms (LSVs) were collected at a scan rate of 5 mV s
+−1
+. The Tafel slope was calculated based on the Tafel equation (
+ƞ
+=
+b
+log
+(j
+CO
+/
+j
+o
+)
+), where
+ƞ
+is the overpotential,
+b
+is the Tafel slope,
+j
+CO
+is the current density for CO formation, and
+j
+o
+is the exchange current density. All LSV data were corrected for an ohmic drop (~22 Ω in CO
+2
+-saturated 0.5 M KHCO
+3
+). All current densities were normalized to the geometrical area of electrode. Roughness factor (RF) was calculated as the ratio of the electrochemically active surface area (ECSA) on the electrode to the geometric area of the disk electrode. Based on the definition: ECSA =
+C
+dl
+/
+C
+s
+(double layer capacitance/specific capacitance),
+C
+dl
+corresponds to the slope of the double-layer charging current versus the scan rate (
+ν
+) plot, we used a specific capacitance (
+C
+s
+) value of 20 μF cm
+−2
+.
+H-type electrochemical cell for CO
+2
+reduction
+The products and Faradic efficiency of CO
+2
+reduction were measured using chronoamperometry at each fixed potential in an H-type electrochemical cell separated by a Nafion 117 membrane (Supplementary Fig.
+1a
+). The area of the working electrode is fixed at 1 cm
+2
+. To prepare the working electrode, the catalyst ink (10 mg ml
+−1
+) was brush-painted directly onto a dry carbon fibre paper (CFP) (AvCarb P75T) at a temperature of 50 °C, giving a catalyst loading of 0.4 mg cm
+−2
+. The gaseous products (H
+2
+, CO and CH
+4
+) were quantified by a gas chromatograph (GC, Agilent 7890) equipped with a flame ionization detector (FID) for CO and CH
+4
+and a thermal conductivity detector (TCD) for H
+2
+quantification. Ultra pure helium (He, 99.9999%) was used as the carrier gas. The average flow rate of CO
+2
+was controlled at 10 cc min
+−1
+at the inlet of electrochemical cell by a standard series mass flow controller (Alicat Scientific mc-50 sccm) and measured by a flow meter (Thermo Scientific GFM Pro) at the exit of the electrochemical cell. GC was calibrated using standard gas mixtures (Singapore Oxygen Air Liquide Pte) under standard conditions (1 atm, 298 K). Supplementary Fig.
+1b–d
+displays the GC calibration curves for H
+2
+, CO and CH
+4
+. To confirm the origin of the as-produced CO, the isotopic
+13
+CO
+2
+as feedstock for the electrochemical reduction was conducted at room temperature in 0.2 M K
+2
+SO
+4
+aqueous solution with Ar as the carrying gas; the products were analysed by a gas analysis system (Hiden analytical, HPR-20 QIC).
+Faradic efficiency calculation
+Based on the definition of Faradic efficiency:
+$${{\rm{FE}}}_{i}=\frac{{Q}_{i}}{{Q}_{{\rm{total}}}}$$
+(1)
+where
+i
+represents CO, H
+2
+or CH
+4
+.
+Q
+i
+and
+Q
+total
+can be obtained from the following equations:
+$${Q}_{i}={Z}_{i}\times F\times {N}_{i}$$
+(2)
+$${Q}_{{\rm{total}}}=I\times t$$
+(3)
+Based on the GC data and ideal gas law:
+$${N}_{i}={N}_{{\rm{total}}}\times {V}_{i}$$
+(4)
+$${N}_{{\rm{total}}}=\frac{{P}_{{\rm{o}}}\times {V}_{{\rm{o}}}}{R\times {T}_{{\rm{o}}}}$$
+(5)
+$${V}_{{\rm{o}}}=G\times t$$
+(6)
+where
+G
+is the volumetric flow rate.
+So, equation (
+1
+) can be written as:
+\({\rm{FE}}=\frac{{z}_{i}\times {v}_{i}\times G\times F\times {P}_{{\rm{o}}}}{I\times R\times {T}_{{\rm{o}}}\times 60,000}\)
+where
+N
+i
+: moles of product
+i
+in the GC sampling loop;
+N
+total
+: moles of all gases in the GC sampling loop;
+V
+o
+: volume of the GC sampling loop;
+t
+: time for gas to fill the GC sampling loop;
+I
+: the average current in a period (
+t
+) of electrocatalysis:
+\(I=\frac{{\int }_{0}^{t}I\left(t\right){\rm{d}}t}{t}\)
+V
+i
+: the volume ratio of product
+i
+in the GC sampling loop;
+Z
+i
+: number of electrons required to produce an
+i
+molecule, which is 2, 2 and 8 for CO, H
+2
+and CH
+4
+, respectively;
+F
+: Faradaic constant (96,485.33289 C mol
+−1
+);
+P
+0
+: atmospheric pressure (1.013 × 10
+5
+Pa);
+T
+: reaction temperature (298 K);
+R
+: ideal gas constant (8.314 J mol
+–1
+K
+–1
+).
+Evaluation of turnover frequency
+TOFs (h
+–1
+) for the CO
+2
+reduction reaction (RR) were evaluated based on the 2-electron pathway.
+$$\begin{array}{cc}\\ {\rm{TOF}}= & \frac{{\rm{Turnover}}\,{\rm{number}}\,{\rm{for}}\,{\rm{CO}}\,{{\rm{formation}}}/{\rm{geometric}}\,{\rm{area}}}{{\rm{Number}}\,{\rm{of}}\,{\rm{active}}\,{{\rm{sites}}}/{\rm{geometric}}\,{\rm{area}}}\end{array}$$
+Turnover number for CO formation:
+$$\begin{array}{ll}{\rm{TON}}&=\frac{{\rm{Q}}\times {{\rm FE}_{\rm CO}}}{2F}= \frac{{J}\times t\times {{\rm FE}_{\rm CO}}\,}{2F}\\&=\left(\frac{35.5\times 10^{-3}\times 3600\times 0.965}{2\times 96485.3}\right) \times 6.02 \times 10^{23}\\&= 3.85 \times 10^{20}\,{\rm{cm}}^{-2}\mathrm{h}^{-1}\end{array}$$
+where
+Q
+is the total charge,
+J
+and FE
+CO
+are current density and Faradic efficiency of CO formation at the overpotential of 0.61 V, respectively.
+F=
+96485.3 C mol
+–1
+(Faraday constant).
+Catalyst loading on glassy carbon RDE is 0.1 mg cm
+–2
+. The content of Ni in A–Ni–NSG is 2.5 wt%.
+Number of active sites per cm
+2
+:
+\(\begin{array}{ll}N&={\mathrm{Avogadro}\ \mathrm{constant}} \times \left(\frac{{\rm{Weight}}\,{\rm{of}}\,{\rm{nickel}}\,{\rm{on}}\,{\rm{electrode}}}{{\rm{Molecular}}\,{\rm{weight}}\,{\rm{of}}\,{\rm{nickel}}}\right)\\&=6.02 \times 10^{23} \times \left( \frac{(1\times 10^{-4})\times(2.5 \times 10^{-2})}{58}\right)=2.6\times 10^{16}{\rm{cm}}^{-2}\\\end{array}\)
+Thus,
+\({\rm{TOF}}=\frac{{\rm{TON}}}{{N}}=\frac{3.85{\times} 10^{20}}{2.6{\times} 10^{16}}={14807}\,{\rm{h}}^{-1}\)
+where the current density for the CO
+2
+reduction reaction at an overpotential of 0.61 V deduced from the LSV curve is ~ 36 mA cm
+–2
+with a FE
+CO
+of 96.5%.
+X-ray absorption spectroscopy
+X-ray absorption spectroscopy (XAS) and operando XAS measurements were collected by employing synchrotron radiation light source at BL12B2 beam line of the National Synchrotron Radiation Research Center (NSRRC) in SPring 8 (Japan) at room temperature. Energy calibration was performed with a nickel foil standard by shifting all spectra to a glitch in the incident intensity. Fluorescence spectra were recorded using a seven-element Ge solid state detector. Extended X-ray absorption fine structure (EXAFS) spectra were fitted using the FEFF 6.0 code and the structure parameters of A-Ni-NG and A-Ni-NSG were obtained from the DFT calculation.
+A home-made cell was designed for the operando experiments, which were operated under identical conditions as the electrochemical measurements. For the operando measurements, the cell was filled with electrolyte (0.5 M aqueous KHCO
+3
+). SCE and Pt were used as the reference and counter electrode, respectively. The catalyst was hand-brushed on a carbon-fibre electrode (1 mg cm
+−2
+), followed by pressing the electrode between the electrolyte compartment of the cell and Kapton (polyimide) tape to seal the cell. Operando X-ray absorption near edge spectroscopy (XANES) spectra were recorded at three conditions: (1) under open-circuit potential in Ar saturated electrolyte; (2) under open-circuit potential in CO
+2
+saturated electrolyte; and (3) at applied potential of −0.7 V versus RHE in CO
+2
+saturated electrolyte. At each stage, the catalyst-loaded electrode was maintained under these conditions for 30 min before collecting the spectrum.
+Ni L-edge X-ray absorption spectra were measured in the total X-ray electron yield mode at room temperature using BL-20A beam line at the National Synchrotron Radiation Research Center (NSRRC, Hsinchu, Taiwan) in which the electron storage ring was operated at 1.5 GeV with a beam current of 300 mA. For Ni L-edge absorption, the data were collected at the 6 m high-energy spherical grating monochromator beamline with 10 × 10 µm opening slits, corresponding to
+∼
+0.08 eV energy resolution. Simultaneously, the signal from a gold grid located upstream in the X-ray path was recorded, and the spectra were normalized using the incident beam intensity,
+I
+0
+, keeping the area under the spectra fixed over an energy range of 840–880 eV for the Ni L-edge.
+Real-time X-ray and ultraviolet photoelectron spectroscopy investigations
+Real-time XPS experiments were carried out in a lab-based Specs Phoibos 150 near ambient pressure (NAP) system with a conventional Al/Mg twin X-ray source and helium-I source. The pass energy was set at 20 eV, and the full width at half maximum (FWHM) for C 1
+s
+was ~1.5 eV. All binding energies were referenced to the C 1
+s
+peak (284.6 eV). The UPS measurements were carried out in the same NAP-XPS system. A 300 μm nozzle was used and the sample was illuminated directly by the helium-I source (
+hν
+= 21.2 eV) using a VUV lamp (VG Microtech 232). The sample was earthed (no bias voltage) with an emission angle of ~40 °. The pass energy of the analyzer was set at 2 eV. The A-Ni-NG catalyst was dispersed in deionized water, and then drop-casted on a graphite sheet. UPS and XPS spectra were first collected from clean A-Ni-NG catalyst, which was thermally treated at 500 °C for 20 min in vacuum. Subsequently, the catalyst was exposed to high purity CO
+2
+gas (99.999%, CryoExpress Singapore) in the preparation chamber under 1 atm for 20 min.
+Data availability
+The data that support the plots within this paper and other findings of this study are available from the corresponding author upon reasonable request.
+References
+Turner, J. A. A realizable renewable energy future.
+Science
+285
+, 687–689 (1999).
+Article
+Google Scholar
+Graves, C., Ebbesen, S. D., Mogensen, M. & Lackner, K. S. Sustainable hydrocarbon fuels by recycling CO
+2
+and H
+2
+O with renewable or nuclear energy.
+Renew. Sustain. Energy Rev.
+15
+, 1–23 (2011).
+Article
+Google Scholar
+Gao, S. et al. Partially oxidized atomic cobalt layers for carbon dioxide electroreduction to liquid fuel.
+Nature
+529
+, 68–71 (2016).
+Article
+Google Scholar
+Zhang, Y.-J., Sethuraman, V., Michalsky, R. & Peterson, A. A. Competition between CO
+2
+reduction and H
+2
+evolution on transition-metal electrocatalysts.
+ACS Catal.
+4
+, 3742–3748 (2014).
+Article
+Google Scholar
+Kim, D., Resasco, J., Yu, Y., Asiri, A. M. & Yang, P. Synergistic geometric and electronic effects for electrochemical reduction of carbon dioxide using gold–copper bimetallic nanoparticles.
+Nat. Commun.
+5
+, 4948 (2014).
+Article
+Google Scholar
+Martin, A. J., Larrazabal, G. O. & Perez-Ramirez, J. Towards sustainable fuels and chemicals through the electrochemical reduction of CO
+2
+: lessons from water electrolysis.
+Green. Chem.
+17
+, 5114–5130 (2015).
+Article
+Google Scholar
+Liu, M. et al. Enhanced electrocatalytic CO
+2
+reduction via field-induced reagent concentration.
+Nature
+537
+, 382–386 (2016).
+Article
+Google Scholar
+Zhu, W. et al. Monodisperse Au nanoparticles for selective electrocatalytic reduction of CO
+2
+to CO.
+J. Am. Chem. Soc.
+135
+, 16833–16836 (2013).
+Article
+Google Scholar
+Li, C. W. & Kanan, M. W. CO
+2
+reduction at low overpotential on Cu electrodes resulting from the reduction of thick Cu
+2
+O films.
+J. Am. Chem. Soc.
+134
+, 7231–7234 (2012).
+Article
+Google Scholar
+Liu, J. Catalysis by supported single metal atoms.
+ACS Catal.
+7
+, 34–59 (2017).
+Article
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+Google Scholar
+Yang, M. et al. Catalytically active Au-O(OH)
+x
+species stabilized by alkali ions on zeolites and mesoporous oxides.
+Science
+346
+, 1498–1501 (2014).
+Article
+Google Scholar
+Back, S. et al. Single-atom catalysts for CO
+2
+electroreduction with significant activity and selectivity improvements.
+Chem. Sci.
+8
+, 1090–1096 (2017).
+Article
+Google Scholar
+Zhao, C. et al. Ionic exchange of metal-organic frameworks to access single nickel sites for efficient electroreduction of CO
+2
+.
+J. Am. Chem. Soc.
+139
+, 8078–8081 (2017).
+Article
+Google Scholar
+Jia, Q. et al. Experimental observation of redox-induced Fe–N switching behavior as a determinant role for oxygen reduction activity.
+ACS Nano
+9
+, 12496–12505 (2015).
+Article
+Google Scholar
+Yang, H. B. et al. Identification of catalytic sites for oxygen reduction and oxygen evolution in N-doped graphene materials: development of highly efficient metal-free bifunctional electrocatalyst.
+Sci. Adv
+.
+2
+, e1501122 (2016).
+Article
+Google Scholar
+Kabir, S., Artyushkova, K., Serov, A., Kiefer, B. & Atanassov, P. Binding energy shifts for nitrogen-containing graphene-based electrocatalysts—experiments and DFT calculations.
+Surf. Interface Anal.
+48
+, 293–300 (2016).
+Article
+Google Scholar
+Lin, Y.-C. et al. Structural and chemical dynamics of pyridinic-nitrogen defects in graphene.
+Nano Lett.
+15
+, 7408–7413 (2015).
+Article
+Google Scholar
+Colpas, G. J. et al. X-ray spectroscopic studies of nickel complexes, with application to the structure of nickel sites in hydrogenases.
+Inorg. Chem.
+30
+, 920–928 (1991).
+Article
+Google Scholar
+Wongnate, T. et al. The radical mechanism of biological methane synthesis by methyl-coenzyme M reductase.
+Science
+352
+, 953–958 (2016).
+Article
+Google Scholar
+Xu, S. et al. Dynamic structural changes of SiO
+2
+supported Pt–Ni bimetallic catalysts over redox treatments revealed by NMR and EPR.
+J. Phys. Chem. C.
+119
+, 21219–21226 (2015).
+Article
+Google Scholar
+Brazzolotto, D. et al. Nickel-centred proton reduction catalysis in a model of [NiFe] hydrogenase.
+Nat. Chem.
+8
+, 1054–1060 (2016).
+Article
+Google Scholar
+Ebner, S., Jaun, B., Goenrich, M., Thauer, R. K. & Harmer, J. Binding of coenzyme B induces a major conformational change in the active site of methyl-coenzyme M reductase.
+J. Am. Chem. Soc.
+132
+, 567–575 (2010).
+Article
+Google Scholar
+Matsubara, K. et al. Monomeric three-coordinate N-heterocyclic carbene nickel(I) complexes: synthesis, structures, and catalytic applications in cross-coupling reactions.
+Organometallics
+35
+, 3281–3287 (2016).
+Article
+Google Scholar
+Suh, M. P., Kim, H. K., Kim, M. J. & Oh, K. Y. Synthesis, properties, and X-ray structures of nickel(I) complexes of polyaza macrotricyclic ligands.
+Inorg. Chem.
+31
+, 3620–3625 (1992).
+Article
+Google Scholar
+Avakyan, L. A. et al. Atomic structure of nickel phthalocyanine probed by X-ray absorption spectroscopy and density functional simulations.
+Opt. Spectrosc.
+114
+, 347–352 (2013).
+Article
+Google Scholar
+Yamamoto, T. Assignment of pre-edge peaks in K-edge x-ray absorption spectra of 3d transition metal compounds: electric dipole or quadrupole?
+X-Ray Spectrom.
+37
+, 572–584 (2008).
+Article
+Google Scholar
+Douglas, C. D., Dias, A. V. & Zamble, D. B. The metal selectivity of a short peptide maquette imitating the high-affinity metal-binding site of
+E. coli
+HypB.
+Dalton Trans.
+41
+, 7876–7878 (2012).
+Article
+Google Scholar
+Rossi, G., d'Acapito, F., Amidani, L., Boscherini, F. & Pedio, M. Local environment of metal ions in phthalocyanines: K-edge X-ray absorption spectra.
+Phys. Chem. Chem. Phys.
+18
+, 23686–23694 (2016).
+Article
+Google Scholar
+Sarangi, R., Dey, M. & Ragsdale, S. W. Geometric and electronic structures of the Ni
+I
+and methyl−Ni
+III
+intermediates of methyl-coenzyme M reductase.
+Biochemistry
+48
+, 3146–3156 (2009).
+Article
+Google Scholar
+Marken, F., Neudeck, A. & Bond, A. M. in
+Electroanalytical Methods: Guide to Experiments and Applications
+(ed. Scholz, F.) 57–106 (Springer, Berlin, 2010).
+Gattrell, M., Gupta, N. & Co, A. A review of the aqueous electrochemical reduction of CO
+2
+to hydrocarbons at copper.
+J. Electroanal. Chem.
+594
+, 1–19 (2006).
+Article
+Google Scholar
+Kim, C. et al. Achieving selective and efficient electrocatalytic activity for CO
+2
+reduction using immobilized silver nanoparticles.
+J. Am. Chem. Soc.
+137
+, 13844–13850 (2015).
+Article
+Google Scholar
+Menges, F. S. et al. Capture of CO
+2
+by a cationic nickel(I) complex in the gas phase and characterization of the bound, activated CO
+2
+molecule by cryogenic ion vibrational predissociation spectroscopy.
+Angew. Chem. Int. Ed.
+55
+, 1282–1285 (2016).
+Article
+Google Scholar
+Fujita, E., Furenlid, L. R. & Renner, M. W. Direct XANES evidence for charge transfer in Co−CO
+2
+complexes.
+J. Am. Chem. Soc.
+119
+, 4549–4550 (1997).
+Article
+Google Scholar
+Sakaki, S. Can carbon dioxide coordinate to a nickel(I) complex? An ab initio MO/SD-CI study.
+J. Am. Chem. Soc.
+112
+, 7813–7814 (1990).
+Article
+Google Scholar
+Ding, X. et al. Interaction of carbon dioxide with Ni(110): A combined experimental and theoretical study.
+Phys. Rev. B
+76
+, 195425 (2007).
+Article
+Google Scholar
+Freund, H. J. & Roberts, M. W. Surface chemistry of carbon dioxide.
+Surf. Sci. Rep.
+25
+, 225–273 (1996).
+Article
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Google Scholar
+Dean, J. A.
+Lange’s Handbook of Chemistry
+Ch. 9 (McGraw-Hill, New York, 1979).
+Nørskov, J. K. et al. Origin of the overpotential for oxygen reduction at a fuel-cell cathode.
+J. Phys. Chem. B
+108
+, 17886–17892 (2004).
+Article
+Google Scholar
+Download references
+Acknowledgements
+We would like to acknowledge funding support from the National Key Projects for Fundamental Research and Development of China (2016YFA0202804), the Strategic Priority Research Programme of the Chinese Academy of Sciences (XDB17020400), Singapore Ministry of Education Academic Research Fund (AcRF) Tier 1: RG10/16 and RG111/15, Singapore A*Star Science and Engineering Research Council—Public Sector Funding (PSF): 1421200075, the National Research Foundation (NRF), Prime Minister’s Office, Singapore under its Campus for Research Excellence and Technological Enterprise (CREATE) programme.
+Author information
+Authors and Affiliations
+School of Chemical and Biomedical Engineering, Nanyang Technological University, Singapore, Singapore
+Hong Bin Yang, Song Liu, Liping Zhang, Xiang Huang, Hsin-Yi Wang, Weizheng Cai, Rong Chen, Jiajian Gao & Bin Liu
+Institute for Materials Science and Devices, Suzhou University of Science and Technology, Suzhou, China
+Hong Bin Yang & Chang Ming Li
+Department of Chemistry, National Taiwan University, Taipei, Taiwan
+Sung-Fu Hung & Hao Ming Chen
+State Key Laboratory of Catalysis, iChEM (Collaborative Innovation Center of Chemistry for Energy Materials), Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian, China
+Song Liu, Shu Miao, Xiaofeng Yang, Yanqiang Huang & Tao Zhang
+Department of Physics, National University of Singapore, Singapore, Singapore
+Kaidi Yuan & Wei Chen
+Authors
+Hong Bin Yang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sung-Fu Hung
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Song Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kaidi Yuan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shu Miao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Liping Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiang Huang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hsin-Yi Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Weizheng Cai
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Rong Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiajian Gao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaofeng Yang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wei Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yanqiang Huang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hao Ming Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chang Ming Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tao Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bin Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+H.B.Y., Y.H., T.Z. and B.L. conceived and designed the project. S.H., H.W. and H.M.C performed the X-ray absorption experiments. H.B.Y., S.L., J.G. and C.L. performed the electrochemical experiments and analyzed the electrochemical data. K.Y. and W.C. conducted the photoelectron spectroscopy measurements. S.M., L.Z. and R.C contributed to the structure characterizations. X.H., W.C. and X.Y. carried out the theoretical calculations. H.B.Y., Y.H., T.Z. and B.L. analyzed the experimental data and prepared the manuscript. All authors reviewed and contributed to the manuscript.
+Corresponding authors
+Correspondence to
+Yanqiang Huang
+,
+Tao Zhang
+or
+Bin Liu
+.
+Ethics declarations
+Competing interests
+The authors declare no competing financial interests.
+Additional information
+Publisher’s note:
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–9, Supplementary Tables 1–5 and Supplementary References
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Yang, H., Hung, SF., Liu, S.
+et al.
+Atomically dispersed Ni(
+i
+) as the active site for electrochemical CO
+2
+reduction.
+Nat Energy
+3
+, 140–147 (2018). https://doi.org/10.1038/s41560-017-0078-8
+Download citation
+Received
+:
+01 July 2017
+Accepted
+:
+14 December 2017
+Published
+:
+05 February 2018
+Issue Date
+:
+February 2018
+DOI
+:
+https://doi.org/10.1038/s41560-017-0078-8
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Isolated low-valent nickel
+Guido Mul
+Nature Energy
+News & Views
+05 Feb 2018
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Energy
+(
+Nat Energy
+)
+ISSN
+2058-7546
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

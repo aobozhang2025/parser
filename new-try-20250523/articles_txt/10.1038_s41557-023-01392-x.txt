@@ -1,0 +1,3524 @@
+Metastable gallium hydride mediates propane dehydrogenation on H2 co-feeding | Nature Chemistry
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature chemistry
+articles
+article
+Metastable gallium hydride mediates propane dehydrogenation on H
+2
+co-feeding
+Download PDF
+Article
+Published:
+02 January 2024
+Metastable gallium hydride mediates propane dehydrogenation on H
+2
+co-feeding
+Guodong Sun
+1
+,
+2
+,
+3
+,
+Zhi-Jian Zhao
+ORCID:
+orcid.org/0000-0002-8856-5078
+1
+,
+3
+,
+Lulu Li
+1
+,
+3
+,
+Chunlei Pei
+1
+,
+3
+,
+Xin Chang
+ORCID:
+orcid.org/0000-0003-0841-0322
+1
+,
+2
+,
+3
+,
+Sai Chen
+1
+,
+3
+,
+Tingting Zhang
+1
+,
+3
+,
+Kaige Tian
+1
+,
+3
+,
+Shijia Sun
+1
+,
+3
+,
+Lirong Zheng
+4
+&
+…
+Jinlong Gong
+ORCID:
+orcid.org/0000-0001-7263-318X
+1
+,
+2
+,
+3
+,
+5
+,
+6
+Show authors
+Nature Chemistry
+volume
+16
+,
+pages
+575–583 (
+2024
+)
+Cite this article
+9806
+Accesses
+10
+Altmetric
+Metrics
+details
+Subjects
+Catalytic mechanisms
+Chemical engineering
+Abstract
+In heterogeneous catalysis, the catalytic dehydrogenation reactions of hydrocarbons often exhibit a negative pressure dependence on hydrogen due to the competitive chemisorption of hydrocarbons and hydrogen. However, some catalysts show a positive pressure dependence for propane dehydrogenation, an important reaction for propylene production. Here we show that the positive activity dependence on H
+2
+partial pressure of gallium oxide-based catalysts arises from metastable hydride mediation. Through in situ spectroscopic, kinetic and computational analyses, we demonstrate that under reaction conditions with H
+2
+co-feeding, the dissociative adsorption of H
+2
+on a partially reduced gallium oxide surface produces H atoms chemically bonded to coordinatively unsaturated Ga atoms. These metastable gallium hydride species promote C–H bond activation while inhibiting deep dehydrogenation. We found that the surface coverage of gallium hydride determines the catalytic performance. Accordingly, benefiting from proper H
+2
+co-feeding, the alumina-supported, trace additive-modified gallium oxide catalyst GaO
+x
+–Ir–K/Al
+2
+O
+3
+exhibited high activity and selectivity at high propane concentrations.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Homolytic H
+2
+dissociation for enhanced hydrogenation catalysis on oxides
+Article
+Open access
+15 January 2024
+Highly selective hydrogenation of CO
+2
+to propane over GaZrO
+x
+/H-SSZ-13 composite
+Article
+17 November 2022
+Ambient-condition acetylene hydrogenation to ethylene over WS
+2
+-confined atomic Pd sites
+Article
+Open access
+01 November 2024
+Main
+Adsorbate-induced surface reconstruction of heterogeneous catalysts typically focuses on changes in the morphology
+1
+,
+2
+and surface composition
+3
+,
+4
+,
+5
+of nanocrystals and oxide encapsulation of metal nanoparticles
+6
+,
+7
+, resulting in fundamental changes in the coordination structure of the active site. Even if the type and number of coordination atoms remain the same, adsorbates interacting with the active site during reaction can cause local changes in geometry and electronic structure, as well as differences in the binding state of intermediates
+8
+,
+9
+. Thus, it is expected that adsorbates can be exploited to modulate the catalytic microenvironment and reaction mechanism to provide an energetically favourable pathway for product generation. However, the introduction of additional adsorbates into the reaction system often leads to reduced accessibility to the active site for the reactants due to competitive adsorption or even poisoning of the active site caused by unexpectedly strong adsorption
+10
+,
+11
+,
+12
+.
+Propane dehydrogenation (PDH) has rapidly developed as an on-purpose propylene production technology due to the large increase in the availability of propane resulting from the recent shale gas revolution
+13
+,
+14
+. Environmentally friendly catalysts based on Ga
+2
+O
+3
+are active towards PDH and synergistic interactions between gallium species and noble metals such as Pt have been found to improve catalytic performance
+15
+,
+16
+,
+17
+. However, they still suffer from relatively low intrinsic activity and propylene selectivity as well as rapid deactivation due to the deposition of carbon on the catalyst surface
+18
+. The perfect surface of unreduced Ga
+2
+O
+3
+commonly leads to the Lewis acidic Ga
+3+
+sites being identified as the active centres
+17
+,
+19
+,
+20
+. However, in the high-temperature reducing atmosphere required for PDH, Ga
+2
+O
+3
+may be reduced and defective surfaces formed
+21
+,
+22
+. Therefore, the unestablished structure–function relationship under the reaction conditions prevents further improvement of Ga
+2
+O
+3
+-based catalysts. Several studies by Bell and co-workers have shown that H
+2
+co-feeding has a positive effect on activity during alkane dehydrogenation over Pt-based catalysts
+23
+,
+24
+,
+25
+. This effect, caused by increased H coverage on Pt-based catalysts, is achieved by promoting propylene desorption while inhibiting deep dehydrogenation
+26
+,
+27
+, leading to higher propylene selectivity and a lower coverage of coke precursor
+28
+,
+29
+. H atoms adsorbed on Pt change neither the nature of the active site nor the reaction pathway. Previously, in a study of the synergistic effect of Pt and GaO
+x
+on PDH, we observed that the formation of gallium hydride in the presence of H
+2
+benefits PDH. This underscores the need for a comprehensive study of the nature and role of the gallium hydride formed in situ during catalysis
+15
+.
+Here we describe a metastable hydride-mediated catalysis in which, under reaction conditions with H
+2
+co-feeding, H atoms chemisorbed on coordinatively unsaturated Ga sites enhance their capability for C–H activation while inhibiting coke formation during PDH. Combining in situ spectroscopic, kinetic and theoretical analyses, we demonstrate that H
+2
+can induce the partial reduction of gallium oxide supported on alumina at high temperatures, accompanied by reversible and homolytic dissociative adsorption of H
+2
+on the defective surface, leading to H atoms chemisorbed on the coordinatively unsaturated Ga atoms adjacent to O vacancies. During PDH with H
+2
+co-feeding, the resulting metastable gallium hydride promotes C–H bond activation in propane by enhancing C–Ga bonding while inhibiting deep dehydrogenation. The partial pressure of H
+2
+in the reaction system determines the coverage of gallium hydride on the catalyst surface and thus the catalytic performance. Therefore, both propane conversion and propylene selectivity can be improved by proper H
+2
+co-feeding due to improved reaction kinetics, in contrast to other metal oxide catalysts based on CrO
+x
+(Extended Data Fig.
+1a–c
+), VO
+x
+(ref.
+30
+) and ZrO
+2
+(refs.
+31
+,
+32
+), allowing the rate of propylene formation on the optimized gallium oxide catalyst to exceed that on the commercial CrO
+x
+–K/Al
+2
+O
+3
+catalyst without H
+2
+co-feeding.
+Results and discussion
+Positive effect of H
+2
+co-feeding on PDH
+Alumina-supported gallium oxide (Ga
+2
+O
+3
+/Al
+2
+O
+3
+) catalysts were prepared by an incipient wetness impregnation method. Gallium oxide nanoparticles with a size of
+∼
+4 nm were well dispersed on the γ-alumina support, as evidenced by high-resolution transmission electron microscopy (HRTEM), high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) combined with energy-dispersive X-ray (EDX) spectroscopy and X-ray diffraction (XRD) analysis (Fig.
+1a
+and Supplementary Fig.
+1
+). As concluded from the Fourier-transformed
+k
+3
+-weighted extended X-ray absorption fine structure (EXAFS) spectrum of GaO
+x
+/Al
+2
+O
+3
+(Ga
+2
+O
+3
+/Al
+2
+O
+3
+after reduction; Fig.
+1a
+), the first and second shell scattering at 1.9 and 2.9 Å correspond to O and Ga neighbours, respectively, as in Ga
+2
+O
+3
+(Supplementary Fig.
+2
+and Supplementary Table
+1
+). Based on the average coordination numbers of 8.9 for Ga–O and 1.2 for Ga–Ga, GaO
+x
+/Al
+2
+O
+3
+should contain GaO
+x
+nanoparticles.
+Fig. 1: Catalytic performance of alumina-supported gallium oxide in PDH.
+a
+, Typical HRTEM image of Ga
+2
+O
+3
+/Al
+2
+O
+3
+. Inset: in situ Ga K-edge EXAFS spectrum of GaO
+x
+/Al
+2
+O
+3
+(Ga
+2
+O
+3
+/Al
+2
+O
+3
+after H
+2
+reduction) and ex situ Ga K-edge EXAFS spectra of Ga foil and Ga
+2
+O
+3
+. FT, Fourier transform. Scale bar, 2 nm.
+b
+, The initial (after 5 min of reaction) catalytic performance of Ga
+2
+O
+3
+/Al
+2
+O
+3
+and GaO
+x
+/Al
+2
+O
+3
+for different inlet H
+2
+/C
+3
+H
+8
+ratios (the dashed line represents the equilibrium conversion). The inlet H
+2
+/C
+3
+H
+8
+ratio was varied from 0 to 3.0 by keeping the propane and total flow rate constant while varying the flow rates of H
+2
+and N
+2
+. All of the propane conversions were controlled below 15%, which is less than the lowest equilibrium conversion (
+∼
+36%) calculated for the inlet H
+2
+/C
+3
+H
+8
+ratio of 3.0. For the H
+2
+co-feeding, Ga
+2
+O
+3
+/Al
+2
+O
+3
+was pretreated with a H
+2
+-rich (42 vol% H
+2
+) stream at 600 °C for 1 h to exclude the potential effects of different degrees of catalyst reduction on the catalytic performance due to different H
+2
+concentrations in the reaction system (Supplementary Fig.
+4
+). Catalytic testing conditions: 600 °C, atmospheric pressure, 50 mg catalyst, WHSV of propane = 16.7 h
+−1
+, 7 ml min
+−1
+C
+3
+H
+8
+, H
+2
+/C
+3
+H
+8
+= 0–3.0 and 50 ml min
+−1
+total flow rate balanced with N
+2
+. The data are presented as the mean ± standard deviation (s.d.) for
+n
+= 3 samples.
+c
+, Mass spectroscopy (MS) signals of C
+3
+H
+8
+, C
+3
+H
+6
+and H
+2
+(
+m
+/
+z
+= 41, 29 and 2, respectively) in TPSR tests with (top) or without (bottom) H
+2
+co-feeding over GaO
+x
+/Al
+2
+O
+3
+. The numbers after the formula represent signal amplification.
+d
+, Experimental Arrhenius plots for PDH using Ga
+2
+O
+3
+/Al
+2
+O
+3
+and GaO
+x
+/Al
+2
+O
+3
+with different inlet H
+2
+/C
+3
+H
+8
+ratios. Inset: The values of the apparent activation energy (
+E
+a
+) for Ga
+2
+O
+3
+/Al
+2
+O
+3
+and GaO
+x
+/Al
+2
+O
+3
+with different inlet H
+2
+/C
+3
+H
+8
+ratios. Catalytic testing conditions: 570–600 °C, atmospheric pressure, 25 mg catalyst, WHSV of propane = 33.4 h
+−1
+, 7 ml min
+−1
+C
+3
+H
+8
+, H
+2
+/C
+3
+H
+8
+= 0–2.0 and 50 ml min
+−1
+total flow rate balanced with N
+2
+.
+Source data
+Full size image
+The obtained catalysts were evaluated for PDH at 600 °C using various ratios of H
+2
+/C
+3
+H
+8
+. As shown in Fig.
+1b
+, the fresh catalyst without H
+2
+co-feeding exhibited both a relatively low initial (after 5 min reaction) rate of propylene formation of 26 mmol per g catalyst per h (26 mmol g
+cat
+−1
+h
+−1
+) and a propylene selectivity of 80%. On pre-reduction, the initial rate of propylene formation improved slightly to 29 mmol g
+cat
+−1
+h
+−1
+with the propylene selectivity increasing to 86%. Notably, H
+2
+co-feeding significantly affected the activity and selectivity of the pre-reduced catalyst during PDH. The initial rate of propylene formation first increased significantly and then decreased slightly as the inlet ratio of H
+2
+/C
+3
+H
+8
+was increased, reaching the maximum (53 mmol g
+cat
+−1
+h
+−1
+) at an inlet ratio of 2.0 with a high propylene selectivity of 92%. Moreover, the catalytic performance was investigated using a constant weight hourly space velocity (WHSV) and inlet H
+2
+/C
+3
+H
+8
+ratio but different inlet C
+3
+H
+8
+concentrations. With a simultaneous increase in the inlet concentrations of C
+3
+H
+8
+and H
+2
+, the initial rate of propylene formation increased despite a slight decrease in selectivity (Extended Data Fig.
+1d,e
+), verifying the positive effect of increasing H
+2
+partial pressure on the dehydrogenation activity of GaO
+x
+/Al
+2
+O
+3
+. To demonstrate the industrial relevance of this strategy, keeping a constant high inlet C
+3
+H
+8
+concentration of 40 vol% and gradually increasing the inlet H
+2
+concentration, the positive pressure dependence of PDH on H
+2
+was highly consistent with that at a low inlet C
+3
+H
+8
+concentration of 14 vol% (Fig.
+1b
+and Extended Data Fig.
+1f–i
+). As a result, the initial catalytic performance of GaO
+x
+/Al
+2
+O
+3
+with an inlet H
+2
+/C
+3
+H
+8
+ratio of 1.0 and an inlet C
+3
+H
+8
+concentration of 40 vol% was comparable to that of a commercial CrO
+x
+–K/Al
+2
+O
+3
+catalyst without H
+2
+co-feeding. The rate of propylene formation on GaO
+x
+/Al
+2
+O
+3
+, normalized to the catalyst mass, was
+∼
+61 mmol g
+cat
+−1
+h
+−1
+, slightly less than that on CrO
+x
+–K/Al
+2
+O
+3
+(
+∼
+76 mmol g
+cat
+−1
+h
+−1
+). In addition, the positive effect of H
+2
+co-feeding persisted in successive regeneration cycles, with the initial rate of propylene formation remaining almost constant after 55 dehydrogenation–oxidation–reduction cycles, decreasing slightly from
+∼
+61 mmol g
+cat
+−1
+h
+−1
+in the 1st cycle to
+∼
+59 mmol g
+cat
+−1
+h
+−1
+in the 56th cycle (Supplementary Fig.
+3
+).
+H
+2
+co-feeding could alter the intrinsic dehydrogenation activity of GaO
+x
+/Al
+2
+O
+3
+. In temperature-programmed surface reaction (TPSR) experiments, the fresh catalyst showed a higher onset temperature for PDH (400 °C) than the pre-reduced catalyst (Extended Data Fig.
+2a
+). The onset temperature for PDH for the pre-reduced catalyst was 375 °C, and this dropped further to 325 °C for the pre-reduced catalyst with H
+2
+co-feeding, indicating an improvement in the ability of the catalyst to activate the C–H bond in propane (Fig.
+1c
+). Moreover, we investigated the influence of H
+2
+co-feeding on the apparent activation energy (
+E
+a
+) of PDH. The value of
+E
+a
+decreased from
+∼
+140 to
+∼
+120 kJ mol
+−1
+on pre-reduction, and decreased still further to
+∼
+79 kJ mol
+−1
+for the pre-reduced catalyst on increasing the inlet ratio of H
+2
+/C
+3
+H
+8
+from 0 to 2.0 (Fig.
+1d
+). The strong dependence of
+E
+a
+on the concentration of H
+2
+in the reaction system implies a change in the reaction mechanism caused by H
+2
+co-feeding. Interestingly, the value of
+E
+a
+calculated from the increase in the rate of propylene formation due to H
+2
+co-feeding was as low as 44 ± 3 kJ mol
+−1
+and independent of H
+2
+concentration (Extended Data Fig.
+2b
+). This strongly suggests the existence of a new type of efficient PDH site induced by H
+2
+on the catalyst surface under the reaction conditions with H
+2
+co-feeding. To explore the potential of the H
+2
+-promoting effect for application in further reactions, we also examined the C–H activation of methane, which is the simplest probe molecule for establishing trends in C–H activation. The onset temperature in the TPSR of CH
+4
+was
+∼
+575 °C, significantly higher than that of CH
+4
+with D
+2
+co-feeding (
+∼
+350 °C; Extended Data Fig.
+2c,d
+), which suggests that H
+2
+co-feeding has a facilitating effect on reactions involving C–H bond activation on gallium oxide catalysts.
+H
+2
+-induced changes in surface structure
+To clarify the role of H
+2
+, we investigated the structural transformation of the catalyst induced by H
+2
+(Fig.
+2
+). The oxidation state of gallium was examined by in situ X-ray absorption near-edge spectroscopy (XANES) during successive treatment of the catalyst with different gases (Fig.
+2a
+). The Ga XANES spectrum of Ga
+2
+O
+3
+/Al
+2
+O
+3
+shows two distinct contributions from tetrahedral oxygen-coordinated Ga
+3+
+cations (Ga
+3+
+(t)) and octahedral oxygen-coordinated Ga
+3+
+(Ga
+3+
+(o))
+33
+,
+34
+. After H
+2
+reduction at 600 °C, the Ga K-edge XANES spectrum exhibited a decrease in white line intensity and a shift of the edge to a lower energy (about −0.6 eV). Two phenomena could induce the Ga K-edge XANES shift, namely, (1) the reduction of gallium oxides resulting in the loss of Ga–O bonds and (2) the formation of Ga–H bonds
+34
+,
+35
+. As gallium hydride cannot survive without H
+2
+(ref.
+36
+), He purging was expected to restore the negative shift due to Ga–H bond formation. As expected, He purging produced a positive shift of about 0.2 eV. In addition, switching back to H
+2
+led to a negative shift of around 0.2 eV, further confirming the formation of gallium hydride in H
+2
+. Consequently, it can be concluded that during H
+2
+reduction at 600 °C, gallium oxide undergoes a partial reduction of Ga
+3+
+(t) and/or Ga
+3+
+(o) cations to Ga
+δ
++
+O
+x
+species, resulting in an irreversible negative shift in edge energy, along with the generation of metastable gallium hydride, leading to a reversible shift to lower energy.
+Fig. 2: H
+2
+-induced formation of metastable gallium hydrides on defective gallium oxide.
+a
+, In situ XANES spectra of the Ga K edge under various treatment conditions and also of Ga foil and fresh Ga
+2
+O
+3
+/Al
+2
+O
+3
+. μ: X-ray absorption coefficient. Inset: First derivatives of μ(E) for each sample.
+b
+, In situ XPS spectra of Ga 2
+p
+3/2
+in Ga
+2
+O
+3
+/Al
+2
+O
+3
+after successive purging with Ar and H
+2
+/Ar. The vertical dash line represents the peak position. The arrow direction represents the order in which the spectra are acquired. The grey spectral line represents the fit sum. The orange and purple spectra represent the convoluted spectra.
+c
+–
+g
+, In situ DRIFTS spectra (
+c
+–
+f
+) and the corresponding relative intensities of the GaO–H and Ga–H bands (
+g
+) of the Ga
+2
+O
+3
+/Al
+2
+O
+3
+catalyst treated successively with H
+2
+/Ar (
+c
+), Ar (
+d
+), H
+2
+/Ar (
+e
+) and Ar (
+f
+) at 600 °C. KM: Kubelka-Munk. In
+b
+–
+g
+, Ar-1st, H
+2
+/Ar-1st, Ar-2nd and H
+2
+/Ar-2nd represent the first and second purging cycle with Ar and H
+2
+/Ar, respectively.
+Source data
+Full size image
+In situ X-ray photoelectron spectroscopy (XPS) was also performed to quantify the reduced gallium species (Fig.
+2b
+). The fresh catalyst in Ar exhibited a Ga 2
+p
+3/2
+peak centred at 1,118.8 eV, which can be ascribed to Ga
+3+
+species
+37
+. After H
+2
+reduction at 600 °C, the Ga 2
+p
+3/2
+peak became obviously asymmetric and presented a negative shift of about 0.3 eV due to the contribution of reduced gallium species (Ga
+δ
++
+, 0 <
+δ
+< 3), found at 1,117.4 eV after spectral deconvolution
+38
+. It was calculated that approximately 25% of the surface Ga existed as Ga
+δ
++
+in the reduced catalyst (Supplementary Table
+3
+). The Ga
+δ
++
+content did not change significantly after the second H
+2
+reduction, suggesting a maximum reduction of gallium oxide surface. The catalyst was purged with Ar between reductions.
+The evolution of adsorbed species on the catalyst surface during the reduction process was monitored by in situ diffuse reflectance infrared Fourier-transform spectroscopy (DRIFTS). After exposing the fresh catalyst to H
+2
+, a broad band appeared at
+∼
+3,530 cm
+−1
+(Fig.
+2c
+). This band can be attributed to the stretching mode of O–H bonded to a Ga atom (ʋ(GaO–H)), which is distinguishable from the hydroxyl bands of aluminium (Extended Data Fig.
+3a
+)
+39
+. The intensity of this GaO–H band decreased as the reduction progressed. This suggests the removal of surface O atoms by dehydroxylation
+22
+, leading to a decrease in the coordination number of Ga. The reduction process was completed within
+∼
+30 min, as the GaO–H band gradually disappeared (Fig.
+2c,g
+). It is worth noting that two bands emerged at 2,013 and 1,981 cm
+−1
+and increased as the GaO–H band weakened. These two bands were assigned to the stretching modes of H atoms bonded to coordinatively unsaturated Ga atoms adjacent to O vacancies (ʋ(Ga
+cus
+–H)) at tetrahedral and octahedral positions, respectively
+40
+. Replacing H
+2
+with D
+2
+resulted in two bands appearing at 1,441 and 1,424 cm
+−1
+(Extended Data Fig.
+3b,c
+). The experimental ʋ(Ga
+cus
+–H)/ʋ(Ga
+cus
+–D) ratios were 1.40 and 1.39, respectively, consistent with the theoretical value of 1.40 (ref.
+39
+). Moreover, the rapid disappearance of the Ga
+cus
+–H bands on Ar purging indicated that the Ga
+cus
+–H species cannot survive without H
+2
+(Fig.
+2d,f
+). On re-exposure to H
+2
+, the Ga
+cus
+–H bands recovered quickly and completely, while the GaO–H band remained weak (Fig.
+2e
+). Furthermore, a reaction order of H
+2
+of
+∼
+0.54, close to 0.5, was calculated from the plot of Ga
+cus
+–H band intensity versus the partial pressure of H
+2
+(Extended Data Fig.
+3d,e
+), demonstrating that H
+2
+mainly underwent reversible and homolytic dissociation at Ga
+cus
+–Ga
+cus
+sites (H
+2
++ 2Ga
+cus
+⇄
+2Ga
+cus
+–H), forming metastable gallium hydrides.
+These inferences were supported by in situ Raman spectroscopy (Extended Data Fig.
+3f
+). The initial dehydroxylation of the fresh catalyst in H
+2
+was verified by the decrease in the intensity of the band assigned to the GaO–H bending mode at 1,608 cm
+−1
+(ref.
+41
+), and the formation of gallium hydride was confirmed by the emergence of two bands at 2,030 and 2,000 cm
+−1
+, corresponding to the stretching modes of Ga
+cus
+–H at tetrahedral and octahedral positions, respectively. The replacement of H
+2
+by D
+2
+led to the appearance of two new bands at 1,464 and 1,442 cm
+−1
+, in agreement with the expected H–D isotope exchange.
+The surface structure of gallium oxide under flowing H
+2
+was simulated by means of density functional theory (DFT) calculations. The surface energy (Δ
+γ
+) was calculated to evaluate the relative stabilities of the various products possible from the reduction of Ga
+2
+O
+3
+(100) with a series of H
+2
+partial pressures at 600 °C through ab initio thermodynamics
+42
+. We optimized 792 surfaces with different coverages of surface O vacancy, OH and Ga hydride. The obtained phase diagram indicates that the adsorbed H atom appears at the Ga atom adjacent to the oxygen vacancies (Supplementary Fig.
+5a
+). Bader charge analysis of the Ga
+cus
+–H surface determined a statistical average charge of 1.84
+e
+and a valence state of +1.16 for the surface Ga atoms (Supplementary Table
+4
+). Furthermore, the formation of gallium hydride is kinetically feasible. The free-energy barrier for the homolytic dissociative adsorption of H
+2
+on Ga
+cus
+–Ga
+cus
+site was calculated to be only 1.38 and 1.58 eV on different reconstructed surfaces of gallium oxide, while the free-energy barrier for heterolytic dissociative adsorption across the Ga–O bond can reach 2.24 and 2.07 eV (Supplementary Fig.
+5b
+). Therefore, H
+2
+prefers to undergo reversible and homolytic dissociation over the defective surface of gallium oxide, which leads to the transient generation of gallium hydride.
+These results demonstrate the formation of metastable gallium hydride on the defective surface of alumina-supported gallium oxide on exposure to H
+2
+. We speculate that the resulting gallium hydride has a potentially positive effect on PDH catalysed by Lewis acidic Ga sites, based on recent advances in identifying the active site of Ga/H-ZSM-5 zeolite, a bifunctional catalyst for the dehydroaromatization of alkanes applied in the industrial Cyclar process
+18
+,
+43
+. Some studies have found that Ga
++
+cations adjacent to Brønsted acid sites catalyse dehydrogenation by forming [GaH]
+2+
+cations via the oxidative addition of H
++
+to Ga
++
+, which exhibit higher activity than Ga
++
+cations
+44
+,
+45
+. Meanwhile, despite questioning the presence of Ga
++
+cations, other studies proposed [GaH]
+2+
+as the active site for catalytic dehydrogenation
+34
+,
+46
+,
+47
+. Metastable gallium hydride is, therefore, expected to play a key role in improving the dehydrogenation activity of alumina-supported gallium oxide under reaction conditions with H
+2
+co-feeding.
+Performance dependent on gallium hydride coverage
+The existence of gallium hydride under the reaction conditions was examined by in situ DRIFTS. No Ga
+cus
+–H bands were observed in PDH without H
+2
+co-feeding (Fig.
+3a
+and Supplementary Fig.
+4c
+), whereas these bands grew rapidly and existed throughout the PDH process in the case of H
+2
+co-feeding with pre-reduced catalysts (Fig.
+3b–e
+). As expected, purging with Ar led to the rapid disappearance of the Ga
+cus
+–H bands (Fig.
+3g–j
+). These results clearly indicate the formation of metastable gallium hydride in PDH with H
+2
+co-feeding. In addition, no dehydroxylation was observed with the pre-reduced catalysts under the reaction conditions, indicating that the pre-reduction enables the catalyst to reach a higher degree of reduction (Fig.
+3a–e
+). The coverage of gallium hydride on the catalyst surface, represented by the intensity of the Ga
+cus
+–H band (
+I
+Ga–H
+), increased with increasing inlet H
+2
+/C
+3
+H
+8
+ratio, which is highly consistent with the observed increase in dehydrogenation activity, represented by the rate of propylene formation (Fig.
+3k,l
+and Supplementary Fig.
+6a
+). The linear relationship between dehydrogenation activity and
+I
+Ga–H
+3
+/
+\(P_{{\mathrm{H}}_2}\)
+(H
+2
+partial pressure,
+\({P}_{{\mathrm{H}}_2}\)
+) (see Supplementary Section
+3.4
+for details) suggests the involvement of gallium hydride in the more efficient PDH (Fig.
+3m
+). In addition, it is generally accepted that carbon deposition is the main reason for the deactivation of PDH catalysts
+16
+. DRIFTS bands centred at 1,560–1,545 cm
+−1
+appeared in the PDH reaction and remained stable on purging with Ar (Fig.
+3a–k
+), which can be attributed to coke formation on the catalyst surface
+48
+. The amount of coke decreased with increasing gallium hydride coverage (Fig.
+3a–k
+), consistent with thermogravimetric analysis (TGA) of spent catalysts (Supplementary Fig.
+6b
+). This suggests that gallium hydride improves catalyst coking resistance.
+Fig. 3: Dependence of PDH performance on metastable gallium hydride species.
+a
+–
+j,
+In situ DRIFTS spectra of the pre-reduced catalyst (GaO
+x
+/Al
+2
+O
+3
+) during PDH (
+a
+–
+e
+) and subsequent Ar purging (
+f
+–
+j
+) with different inlet H
+2
+/C
+3
+H
+8
+ratios (H
+2
+/C
+3
+H
+8
+= 0 (
+a
+,
+f
+), 0.5 (
+b
+,
+g
+), 1.0 (
+c
+,
+h
+), 1.5 (
+d
+,
+i
+) and 2.0 (
+e
+,
+j
+)) at 600 °C.
+k,
+In situ DRIFTS spectra of GaO
+x
+/Al
+2
+O
+3
+after reaction for 1 h (solid lines) and subsequent Ar purging for 15 min (dashed lines) with different inlet H
+2
+/C
+3
+H
+8
+ratios.
+l
+, Dependence of the rate of C
+3
+H
+6
+formation and Ga–H band intensity on the inlet H
+2
+/C
+3
+H
+8
+ratio after reaction for 1 h. The rate of C
+3
+H
+6
+formation data are presented as the mean ± s.d. for
+n
+= 2 samples.
+m
+, The linear relationship between dehydrogenation activity and
+I
+Ga–H
+3
+/
+\(P_{{\mathrm{H}}_2}\)
+after reaction for 1 h. The data are presented as the mean ± s.d. for
+n
+= 2 samples. The Ga
+cus
+–H band intensity (
+I
+Ga–H
+) reflects the coverage of Ga
+cus
+–H on the catalyst surface. Catalytic testing conditions for
+l
+and
+m
+: 600 °C, atmospheric pressure, 50 mg catalyst, WHSV of propane = 16.7 h
+−1
+, 7 ml min
+−1
+C
+3
+H
+8
+, H
+2
+/C
+3
+H
+8
+= 0, 0.5, 1.0, 1.5 and 2.0, and 50 ml min
+−1
+total flow rate balanced with N
+2
+.
+Source data
+Full size image
+Computational and kinetic analysis
+The nature of the gallium hydride in the catalytic dehydrogenation reaction was further investigated by DFT calculations. A stepwise sequential dehydrogenation mechanism occurs on both the pristine surface Ga
+2
+O
+3
+(100) and the defective surface GaO
+x
+(100) (Fig.
+4a
+and Supplementary Fig.
+7a,b
+)
+49
+. The free-energy barriers for the first dehydrogenation step on these two surfaces were calculated to be 3.22 and 2.85 eV, respectively, and this is the rate-determining step. However, on the defective surface covered with gallium hydride Ga
+cus
+–H/GaO
+x
+(100), the free-energy barrier for the first dehydrogenation mediated by gallium hydride dropped to 2.63 eV, demonstrating that both Ga
+cus
+–H and Ga
+cus
+are required for the first C–H bond activation (Fig.
+4a
+and Supplementary Fig.
+7c,d
+). In addition to the sequential dehydrogenation mechanism, in which H
+2
+is formed after two sequential dehydrogenation steps, another mechanism emerges over the Ga
+cus
+–H sites. Specifically, the H atom in Ga
+cus
+–H combines with the H atom extracted from the C
+3
+H
+8
+molecule in the first dehydrogenation step to produce H
+2
+. The consumed H atom in Ga
+cus
+–H is subsequently replenished in the second dehydrogenation step (Supplementary Fig.
+7d
+). Moreover, the lower energy barrier for the first dehydrogenation step can be attributed to the lower energy for the sequential adsorption of C
+3
+H
+7
+(Supplementary Fig.
+8a
+). The stronger adsorption of C
+3
+H
+7
+on the defective surface (+1.39 eV) compared with on the pristine surface (+1.69 eV) is due to the significant increase in the bonding strength of C–Ga, as indicated by the integrated crystal orbital Hamilton population (Supplementary Fig.
+8b
+)
+50
+. To explain the still lower adsorption energy of C
+3
+H
+7
+on the gallium hydride-covered defective surface (+1.30 eV), we performed a natural bond orbital (NBO) analysis
+51
+to calculate the antibonding orbital occupancy of the C–Ga bond on the defective surfaces with and without gallium hydride; values of 0.38 and 0.42, respectively, were determined (Fig.
+4f
+), showing a stronger bonding of C–Ga induced by gallium hydride. Furthermore, the barrier for the dehydrogenation of adsorbed C
+3
+H
+6
+on the gallium hydride-covered defective surface (2.01 eV) is much higher than on the pristine and defective surfaces (0.85 and 1.67 eV, respectively; Fig.
+4b
+and Supplementary Fig.
+9
+), which explains the improved propylene selectivity and coking resistance of the catalyst due to pre-reduction and H
+2
+co-feeding.
+Fig. 4: Metastable gallium hydride-mediated PDH revealed by DFT calculations and KIEs.
+a
+,
+b
+, Energy profiles for the dehydrogenation of C
+3
+H
+8
+to C
+3
+H
+6
+and H
+2
+(
+a
+) and C
+3
+H
+6
+adsorption and dehydrogenation (
+b
+) on pristine surface Ga
+2
+O
+3
+(100), defective surface GaO
+x
+(100) and gallium hydride-covered defective surface Ga
+cus
+–H/GaO
+x
+(100). Path 1: H
+2
+is formed after two sequential dehydrogenation steps. Path 2: H
+2
+is formed immediately after the first dehydrogenation step. The asterisk (*) indicates the adsorbed species.
+c
+–
+e
+, KIE measurements of PDH on GaO
+x
+/Al
+2
+O
+3
+: linear fits of the
+\(k_{{\mathrm{H}}_2}/k_{{\mathrm{D}}_2}\)
+KIE (
+c
+) and
+\(k_{{\mathrm{C}}_3{\mathrm{H}}_8}/k_{{\mathrm{C}}_3{\mathrm{D}}_8}\)
+KIE (
+d
+), and non-linear fits with equation (31) in Supplementary Table
+5
+(
+e
+). Catalytic test conditions in
+c
+and
+d
+: 600 °C, 1.1 bar, 30 mg catalyst, 5 ml min
+−1
+H
+2
+or D
+2
+, 2–8 ml min
+−1
+C
+3
+H
+8
+or C
+3
+D
+8
+, and 50 ml min
+−1
+total flow rate balanced with N
+2
+. Catalytic test conditions in
+e
+: 600 °C, 1.1 bar, 10 mg catalyst, 0–12.5 ml min
+−1
+H
+2
+or D
+2
+, 5 ml min
+−1
+C
+3
+H
+8
+and 50 ml min
+−1
+total flow rate balanced with N
+2
+.
+f
+, Occupancy of the antibonding orbital of the C
+3
+H
+7
+* C–Ga bond on defective surfaces covered (bottom) and not covered (top) with gallium hydride, calculated by NBO analysis.
+g
+, Schematic diagrams of the reaction mechanism on alumina-supported gallium oxide under reaction conditions with (bottom) or without (top) H
+2
+co-feeding.
+Source data
+Full size image
+Kinetic isotope experiments were also performed to further confirm the proposed metastable gallium hydride-mediated reaction mechanism. As proposed, for PDH with H
+2
+co-feeding, the dissociative adsorption of H
+2
+on the catalyst surface as a fast step leads to the formation of metastable gallium hydride, which lowers the energy barrier for C–H bond activation in propane, which is the rate-determining step. The results of the TPSR for H
+2
+/D
+2
+isotope scrambling showed a much lower onset temperature of H
+2
+dissociation (
+∼
+100 °C; Supplementary Fig.
+8c
+) than C–H bond activation in propane (
+∼
+325 °C; Fig.
+1c
+), indicating that the former is much easier than the latter and therefore a fast step. To further clarify whether C–H bond activation or H
+2
+desorption is the rate-determining step, deuterium kinetic isotope effects (KIEs) in H
+2
+and/or C
+3
+H
+8
+were measured, and the rate of propylene formation was found to be highly proportional to the partial pressure of propane in tests performed using different feeds, suggesting a first-order regime in propane that is independent of feed composition (Fig.
+4c–e
+and Supplementary Fig.
+10a,b
+). Co-feeding D
+2
+instead of H
+2
+led to an increase in the rate of C
+3
+H
+6
+formation, showing an inverse deuterium KIE (
+\(k_{{\mathrm{H}}_2}/k_{{\mathrm{D}}_2}\)
+;
+∼
+0.79 and
+∼
+0.76 in Fig.
+4c
+and Supplementary Fig.
+10a
+, respectively). Given that D binds more strongly to Ga
+cus
+than H, as evidenced by the higher desorption temperature for D
+2
+than for H
+2
+(Supplementary Fig.
+8d–h
+), if H
+2
+desorption were the rate-determining step, the rate of propylene formation would theoretically decrease when D
+2
+rather than H
+2
+was co-fed. Therefore, the inverse D KIE (
+\(k_{{\mathrm{H}}_2}/k_{{\mathrm{D}}_2}\)
+) excludes H
+2
+desorption as the rate-determining step. Moreover, replacing C
+3
+H
+8
+with C
+3
+D
+8
+resulted in a substantially reduced rate of propylene formation, with a primary deuterium KIE (
+\(k_{{\mathrm{C}}_3{\mathrm{H}}_8}/k_{{\mathrm{C}}_3{\mathrm{D}}_8}\)
+) of
+∼
+2.0 (Fig.
+4d
+). Combining the inverse D KIE (
+\(k_{{\mathrm{H}}_2}/k_{{\mathrm{D}}_2}\)
+) and the primary D KIE (
+\(k_{{\mathrm{C}}_3{\mathrm{H}}_8}/k_{{\mathrm{C}}_3{\mathrm{D}}_8}\)
+), it can be concluded that C–H bond activation is the rate-determining step.
+Nine kinetic models were developed for PDH on GaO
+x
+/Al
+2
+O
+3
+according to whether gallium hydride is involved in the first or second dehydrogenation and whether the rate-determining step is the first dehydrogenation, the second dehydrogenation or H
+2
+desorption (Supplementary Table
+5
+). The order of the rate of propylene formation with respect to H
+2
+is positive (>0) only if the first dehydrogenation mediated by gallium hydride is the rate-determining step, in agreement with the observed positive dependence of dehydrogenation activity on the H
+2
+partial pressure. Moreover, when H
+2
+is replaced by D
+2
+, the inverse D KIE (
+\(k_{{\mathrm{H}}_2}/k_{{\mathrm{D}}_2}\)
+) can be attributed to a higher proportion of the more efficient pathway for propylene formation (Supplementary Section
+3.2
+), which is confirmed by the almost identical energy profile of PDH mediated by Ga
+cus
+–H and Ga
+cus
+–D, but a higher surface coverage of D than H (Supplementary Fig.
+8e–i
+). This coverage effect also explains the strong dependence of
+E
+a
+on the partial pressure of H
+2
+(Fig.
+1d
+). According to the developed kinetic model (equation (31) in Supplementary Table
+5
+), two pathways for propylene formation (with or without the first dehydrogenation mediated by gallium hydride) exist simultaneously in PDH with H
+2
+co-feeding. The partial pressure of H
+2
+determines the coverage of gallium hydride, which in turn determines the proportion of each of the two pathways, resulting in different
+E
+a
+at different H
+2
+partial pressures (Supplementary Section
+3.3
+).
+H
+2
+co-feeding benefits extended
+Such promoting effects of H
+2
+can also be extended to other gallium oxide-based catalysts. For alumina-supported gallium oxide catalysts with trace additives (for example, 0.05 wt% Ir and 0.25 wt% K), H
+2
+co-feeding has an even more significantly positive effect on PDH. In situ DRIFTS under the reaction conditions with the same inlet H
+2
+/C
+3
+H
+8
+ratio (1.5) showed that the gallium hydride coverage increased in the order GaO
+x
+/Al
+2
+O
+3
+< GaO
+x
+–Ir/Al
+2
+O
+3
+< GaO
+x
+–Ir–K/Al
+2
+O
+3
+(Fig.
+5a,b
+). Correspondingly, the rate of propylene formation due to H
+2
+co-feeding increased in the same order (Fig.
+5c
+and Supplementary Fig.
+10c
+). It is noteworthy that this increase shows a good linear relationship with
+I
+Ga–H
+3
+/
+\(P_{{\mathrm{H}}_2}\)
+(Fig.
+5c
+), which agrees with the results derived from the kinetic model (see Supplementary Section
+3.4
+for details) and strongly supports the proposed reaction mechanism. Thus, proper H
+2
+co-feeding led to increases in propane conversion from
+∼
+26% to
+∼
+37%, propylene selectivity from
+∼
+91% to
+∼
+96% and the rate of propylene formation from
+∼
+63 to
+∼
+96 mmol g
+cat
+−1
+h
+−1
+for GaO
+x
+–Ir–K/Al
+2
+O
+3
+, exceeding the
+∼
+31% propane conversion,
+∼
+92% propylene selectivity and
+∼
+76 mmol g
+cat
+−1
+h
+−1
+rate of propylene formation achieved with the commercial CrO
+x
+–K/Al
+2
+O
+3
+catalyst (Fig.
+5d
+and Supplementary Fig.
+10d–i
+). Furthermore, GaO
+x
+–Ir–K/Al
+2
+O
+3
+exhibited higher on-stream stability than CrO
+x
+–K/Al
+2
+O
+3
+at 600 °C (Fig.
+5e
+).
+Fig. 5: Positive effects of H
+2
+co-feeding on other gallium oxide-based catalysts in PDH.
+a,b,
+In situ DRIFTS spectra (
+a
+) and the corresponding Ga–H band intensity (
+b
+) for GaO
+x
+/Al
+2
+O
+3
+, GaO
+x
+–Ir/Al
+2
+O
+3
+and GaO
+x
+–Ir–K/Al
+2
+O
+3
+under reaction conditions with an inlet H
+2
+/C
+3
+H
+8
+ratio of 1.5 at 600 °C.
+c
+, The linear relationship between the increase in the rate of C
+3
+H
+6
+formation (Δ
+r
+) due to H
+2
+co-feeding and
+I
+Ga–H
+3
+/
+\(P_{{\mathrm{H}}_2}\)
+after 1 h of reaction. Δ
+r
+=
+r
+(with H
+2
+co-feeding) −
+r
+(without H
+2
+co-feeding), presented as the mean ± s.d. for
+n
+= 2 samples.
+I
+Ga–H
+reflects the coverage of Ga
+cus
+–H bonds. Catalytic test conditions for GaO
+x
+–Ir/Al
+2
+O
+3
+and GaO
+x
+–Ir–K/Al
+2
+O
+3
+: 600 °C, atmospheric pressure, 10 mg catalyst, WHSV of propane = 83.3 h
+−1
+, 7 ml min
+−1
+C
+3
+H
+8
+, H
+2
+/C
+3
+H
+8
+= 1.5 and 50 ml min
+−1
+total flow rate balanced with N
+2
+.
+d
+, Catalytic performance of different catalysts in PDH with or without H
+2
+co-feeding after reaction for 5 min. The dashed vertical line indicates the rate of propylene formation for the CrO
+x
+–K/Al
+2
+O
+3
+catalyst without H
+2
+co-feeding. Catalytic test conditions: 600 °C, atmospheric pressure, 200 mg catalyst, WHSV of propane = 11.8 h
+−1
+, 40 vol% C
+3
+H
+8
+, 0 or 30 vol% H
+2
+and 50 ml min
+−1
+total flow rate balanced with N
+2
+.
+e
+, On-stream profiles of C
+3
+H
+8
+conversion (
+X
+), C
+3
+H
+6
+selectivity (
+S
+) and C
+3
+H
+6
+formation rate over GaO
+x
+–Ir–K/Al
+2
+O
+3
+and CrO
+x
+–K/Al
+2
+O
+3
+. Catalytic test conditions: (i) 600 °C and (ii) 550 °C, atmospheric pressure, 200 mg catalyst, WHSV of propane = 11.8 h
+−1
+, 40 vol% C
+3
+H
+8
+, 30 vol% H
+2
+and 50 ml min
+−1
+total flow rate balanced with N
+2
+. For GaO
+x
+–Ir–K/Al
+2
+O
+3
+, each cycle contains 4 h reaction at 600 °C or 12 h reaction at 550 °C, 0.5 h regeneration in flowing 2 vol% O
+2
+/N
+2
+(50 ml min
+−1
+) at 500 °C, and 1 h reduction in flowing 40 vol% H
+2
+/N
+2
+(50 ml min
+−1
+) at 600 °C. For CrO
+x
+–K/Al
+2
+O
+3
+, each cycle contains 4 h reaction at 600 °C, 1 h regeneration in flowing 2 vol% O
+2
+/N
+2
+(50 ml min
+−1
+) at 550 °C, and 1 h reduction in flowing 40 vol% H
+2
+/N
+2
+(50 ml min
+−1
+) at 600 °C.
+Source data
+Full size image
+Conclusion
+In summary, we have demonstrated that metastable gallium hydrides promote catalytic dehydrogenation. Metastable H atoms adsorbed on coordinatively unsaturated Ga atoms adjacent to O vacancies improve the catalytic properties of the Lewis acidic Ga
+δ
++
+sites on alumina-supported gallium oxide for PDH. Under reaction conditions with H
+2
+co-feeding, reversible and homolytic dissociative adsorption of H
+2
+on the defective surface of gallium oxide leads to the transient generation of gallium hydride, lowering the reaction barrier and making the production of propylene more efficient. This adsorbate-mediated catalysis provides inspiration for the regulation of active-site structures and reaction mechanisms in heterogeneous catalyst systems.
+Methods
+Synthesis
+The materials used for the synthesis of the catalysts are listed in Supplementary Section
+1
+. The Ga
+2
+O
+3
+/Al
+2
+O
+3
+, Ga
+2
+O
+3
+–Ir/Al
+2
+O
+3
+and Ga
+2
+O
+3
+–Ir–K/Al
+2
+O
+3
+catalysts were prepared by an incipient wetness impregnation method. Using Ga
+2
+O
+3
+–Ir–K/Al
+2
+O
+3
+as an example, Ga(NO
+3
+)
+3
+·9H
+2
+O, IrCl
+3
+·3H
+2
+O and KNO
+3
+were used as precursors and dissolved in deionized water. A γ-Al
+2
+O
+3
+support was impregnated with this solution at room temperature for 12 h, followed by drying at 100 °C overnight and calcination at 600 °C for 4 h. The Ga, Ir and K loadings were
+∼
+3,
+∼
+0.05 and
+∼
+0.25 wt%, respectively. A commercial CrO
+x
+–K/Al
+2
+O
+3
+catalyst was synthesized according to the Fridman method
+52
+. Briefly, the desired amounts of CrO
+3
+and KOH were separately dissolved in water. Then, the two solutions were mixed. Afterwards, γ-Al
+2
+O
+3
+was added to the mixture. The catalyst was collected after drying and calcination at 760 °C for 4 h. The Cr and K loadings were
+∼
+19.8 and
+∼
+0.98 wt%, respectively. The loadings of M (M = Ga, Cr) were determined by inductively coupled plasma optical emission spectroscopy (ICP-OES), based on the weight ratio of M to Al
+2
+O
+3
+.
+Catalytic testing
+The catalysts were tested in a quartz fixed-bed reactor (8 mm inner diameter and 24 cm length) under atmospheric pressure. A mixture (1 ml) of 30–200 mg catalyst and quartz sand (20–40 mesh size) was loaded into the tubular quartz reactor. The catalysts were first heated to 600 °C at a rate of 10 °C min
+−1
+in N
+2
+(50 ml min
+−1
+). Afterwards, a mixture of C
+3
+H
+8
+, H
+2
+and N
+2
+was fed into the reactor at a flow rate of 50 ml min
+−1
+. The inlet concentrations of C
+3
+H
+8
+and/or H
+2
+were varied from 0 to 40 vol% by changing the flow rate of C
+3
+H
+8
+, H
+2
+and N
+2
+while keeping the total flow rate constant. For the pre-reduction, after heating to 600 °C, the catalysts were treated in 42 vol% H
+2
+/N
+2
+(50 ml min
+−1
+) for 1 h and then purged in N
+2
+(50 ml min
+−1
+) for another 1 h. The gas products were analysed in an online gas chromatograph (GC-2060, Shanghai Ruimin Instrument Co. Ltd.) equipped with a flame ionization detector (Al
+2
+O
+3
+plot column) and a thermal conductivity detector (TDX-01 column). The conversion of C
+3
+H
+8
+(
+X
+(C
+3
+H
+8
+)), selectivity for C
+3
+H
+6
+, CH
+4
+, C
+2
+H
+6
+, C
+2
+H
+4
+(
+S
+(
+i
+)) and coke (
+S
+(coke)), and C
+3
+H
+6
+formation rate (
+r
+(C
+3
+H
+6
+)) were calculated using equations (
+1
+)–(
+4
+), respectively:
+$$X\left({\text{C}}_{3}{\text{H}}_{8}\right)=\frac{F_i^{\;\text{in}}-F_i^{\;\text{out}}}{F_i^{\;\text{in}}}$$
+(1)
+$$S\left(i\right)=\frac{n_i}{n_{{\text{C}}_{3}{\text{H}}_{8}}}\frac{F_i^{\;\text{out}}}{F_{{\text{C}}_{3}{\text{H}}_{8}}^{\;\text{in}}-F_{{\text{C}}_{3}{\text{H}}_{8}}^{\;\text{out}}}$$
+(2)
+$$S\left(\text{coke}\right)=1-{\sum }_iS(i)$$
+(3)
+$$r\left({\text{C}}_{3}{\text{H}}_{6}\right)=\frac{F_{{\text{C}}_{3}{\text{H}}_{6}}^{\;\text{out}}}{m_{\text{cat}}}$$
+(4)
+where
+\({F}_{i}^{\;{\rm{in}}}\)
+and
+\({F}_{i}^{\;{\rm{out}}}\)
+are the rates of flow of gas-phase components at the reactor inlet and outlet (mmol min
+−1
+), respectively,
+m
+cat
+is the mass of the catalyst, and
+\(n_{\mathrm{C}_3\mathrm{H}_8}\)
+and
+n
+i
+are the numbers of carbon atoms in propane and the product
+i
+(CH
+4
+, C
+2
+H
+6
+, C
+2
+H
+4
+and C
+3
+H
+6
+), respectively. A first-order deactivation model was used to evaluate the catalyst stability:
+$${k}_{{\rm{d}}}=\frac{\mathrm{ln}\left(\frac{1-{X}_{{\rm{Final}}}}{{X}_{{\rm{Final}}}}\right)-\,\mathrm{ln}\left(\frac{1-{X}_{{\rm{Initial}}}}{{X}_{{\rm{Initial}}}}\right)}{\tau }$$
+(5)
+where
+X
+Initial
+and
+X
+Final
+are the conversions of C
+3
+H
+8
+measured in the initial and final stages of the reaction, respectively,
+τ
+is the reaction time (h) and
+k
+d
+is the deactivation rate constant (h
+−1
+). High
+k
+d
+values indicate rapid deactivation, that is, low stability.
+Characterization
+The elemental composition of the catalysts was analysed by ICP-OES (VISTA-MPX, Varian). Before measurement, the catalysts were digested in a mixture of H
+3
+PO
+4
+and aqua regia.
+XRD measurements were performed on a Bruker D8 diffractometer operating at 200 mA and 40 kV with graphite-filtered Cu Kα as the radiation source. The data points were collected by step scanning at a rate of 6° min
+−1
+in the 2
+θ
+range of 10–80°.
+HRTEM images were collected using a JEM-2100F transmission electron microscope under a working voltage of 200 kV, equipped with a liquid nitrogen-cooled HAADF-STEM with EDX detector for elemental analysis. The sample powder was ultrasonically dispersed in deionized water and then deposited on a copper grid coated with an ultrathin holey carbon film.
+In situ X-ray absorption spectra (XAS) were obtained at the 1W1B beamline of the Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese Academy of Sciences. Measurements of samples treated with different gases were conducted in transmission mode. The samples were first heated at 600 °C in a flow of 40 vol% H
+2
+/He (50 ml min
+−1
+) for 1 h, then flushed with He (50 ml min
+−1
+) for 1 h, followed by treatment in a flow of 40 vol% H
+2
+/Ar for another 1 h. All of the data were analysed using the Athena software.
+In situ XPS spectra were recorded on a Thermo Fisher ESCALAB 250Xi X-ray photoelectron spectrometer equipped with a monochromated Al Kα X-ray source. In situ XPS measurements were performed using a Phoibos NAP-150 hemispherical analyser from Spec. Samples were treated with Ar or 10 vol% H
+2
+/Ar at 600 °C inside the XPS system. All spectra were calibrated to the Al 2
+p
+peak at 74.3 eV and further analysed using the CasaXPS software package.
+In situ DRIFTS experiments were carried out on a Nicolet IS50 spectrometer equipped with a Harrick Scientific DRIFTS cell with ZnSe windows. The experiments are described in detail below.
+In situ DRIFTS experiments were performed to record the evolution of surface species on Ga
+2
+O
+3
+/Al
+2
+O
+3
+during successive treatments with Ar and H
+2
+/Ar. Fresh catalyst (50 mg powdered sample) was loaded into the reactor and flushed with Ar (50 ml min
+−1
+) at 600 °C for 1 h to remove adsorbates. Background spectra (resolution of 8 cm
+−1
+, 64 scans) were then collected. Afterwards, the sample was treated with 42 vol% H
+2
+/Ar (50 ml min
+−1
+) for 1 h and then purged with Ar (50 ml min
+−1
+) for 1 h. Next, the sample was exposed to 42 vol% H
+2
+/Ar (50 ml min
+−1
+) for 1 h, followed by flushing with Ar (50 ml min
+−1
+) for 1 h. DRIFTS spectra were collected every 1 min.
+In situ DRIFTS experiments were performed to monitor the evolution of surface species on Ga
+2
+O
+3
+/Al
+2
+O
+3
+under the reaction conditions. Fresh catalyst (50 mg powdered sample) was loaded into the reactor and flushed with Ar (50 ml min
+−1
+) at 600 °C for 1 h. Background spectra (resolution of 8 cm
+−1
+, 64 scans) were then collected. Afterwards, C
+3
+H
+8
+/H
+2
+/Ar was introduced into the reactor at a flow rate of 50 ml min
+−1
+(7 ml min
+−1
+C
+3
+H
+8
+, 0–14 ml min
+−1
+H
+2
+and 29–43 ml min
+−1
+Ar) for 1 h, followed by purging with Ar (50 ml min
+−1
+) for 1 h. The inlet ratio of H
+2
+/C
+3
+H
+8
+was varied from 0 to 2 by keeping the C
+3
+H
+8
+and total flow rate constant while varying the H
+2
+and Ar flow rate. For the pre-reduction of fresh catalysts, samples were treated with 42 vol% H
+2
+/Ar (50 ml min
+−1
+) for 1 h, followed by purging with Ar (50 ml min
+−1
+) for 1 h before reaction. DRIFTS spectra were collected every 1 min.
+For the in situ DRIFTS measurements of fresh catalyst exposed to H
+2
+and D
+2
+at 600 °C, samples were flushed with Ar and treated with 42 vol% H
+2
+/Ar (or D
+2
+/Ar) at 600 °C. After purging with Ar again, background spectra (resolution of 8 cm
+−1
+, 64 scans) were collected. Afterwards, 10 vol% H
+2
+/Ar (or D
+2
+/Ar) was fed into the DRIFTS cell and spectra were collected.
+For the in situ DRIFTS measurements of pre-reduced catalyst with different partial pressures of H
+2
+at 600 °C, samples were flushed with Ar and treated with 42 vol% H
+2
+/Ar at 600 °C. After purging with Ar again, background spectra were collected. Afterwards, different concentrations of H
+2
+/Ar were fed into the DRIFTS cell and spectra were collected until there was no significant change in the intensity of the gallium hydride band.
+In situ Raman spectroscopy was performed using a Raman microscopy system (LabRAM HR Evolution, Horiba Jobin Yvon) with a 325 nm Ar ion laser beam. Powdered samples were loaded into the reactor and flushed with N
+2
+at 600 °C for 1 h. Afterwards, the samples were treated with H
+2
+(20 ml min
+−1
+) for 1 h and purged with N
+2
+(20 ml min
+−1
+) for another 1 h. Then D
+2
+(20 ml min
+−1
+) was fed into the reactor for 1 h. Raman spectra were collected roughly every 10 min.
+Temperature-programmed experiments were carried out on a Micromeritics AutoChem 2920 instrument equipped with a Hiden QIC-20 mass spectrometer. For the TPSR of C
+3
+H
+8
+over fresh catalyst, 100 mg of sample was treated at 600 °C for 1 h and then cooled to 80 °C in Ar (30 ml min
+−1
+). After switching to 5 vol% C
+3
+H
+8
+/He (20 ml min
+−1
+) for 30 min, the sample was heated to 600 °C at a rate of 10 °C min
+−1
+. For the TPSR of C
+3
+H
+8
+over pre-reduced catalyst, 100 mg of sample was first treated at 600 °C for 1 h in 10% H
+2
+/Ar (30 ml min
+−1
+), then purged with Ar (30 ml min
+−1
+) for 30 min and cooled to 80 °C. After switching to 5 vol% C
+3
+H
+8
+/He (20 ml min
+−1
+) for 30 min, the sample was heated to 600 °C at a rate of 10 °C min
+−1
+. For the TPSR of C
+3
+H
+8
+over the pre-reduced catalyst with H
+2
+co-feeding, 100 mg of sample was treated at 600 °C for 1 h and then cooled to 80 °C in 10 vol% H
+2
+/Ar (30 ml min
+−1
+). The sample was then exposed to 5/5/90 vol% C
+3
+H
+8
+/H
+2
+/He (20 ml min
+−1
+) for 30 min, followed by heating to 600 °C at a rate of 10 °C min
+−1
+. The output products (C
+3
+H
+8
+, C
+3
+H
+6
+and H
+2
+) were monitored by mass spectrometry (MS;
+m
+/
+z
+= 29, 41 and 2, respectively).
+For the TPSR of CH
+4
+over pre-reduced catalyst, 100 mg of sample was first treated at 600 °C for 1 h in 20% H
+2
+/Ar (30 ml min
+−1
+), then purged with Ar (30 ml min
+−1
+) for 30 min and cooled to 80 °C. After switching to 10 vol% CH
+4
+/Ar (25 ml min
+−1
+) for 30 min, the sample was heated to 900 °C at a rate of 10 °C min
+−1
+. The output products CH
+4
+and H
+2
+were monitored by MS (
+m
+/
+z
+= 16 and 2, respectively). For the TPSR of CH
+4
+over pre-reduced catalyst with D
+2
+co-feeding, 100 mg of sample was first treated at 600 °C for 1 h in 20% H
+2
+/Ar (30 ml min
+−1
+), then purged with Ar (30 ml min
+−1
+) for 30 min and cooled to 80 °C. After switching to a mixture of 10 vol% CH
+4
+/Ar (25 ml min
+−1
+) and D
+2
+(5 ml min
+−1
+) for 30 min, the sample was heated to 850 °C at a rate of 10 °C min
+−1
+. The output products CH
+4
+, H
+2
+, D
+2
+, HD, CH
+3
+D, CH
+2
+D
+2
+, CHD
+3
+and CD
+4
+were monitored by MS (
+m
+/
+z
+= 16, 2, 4, 3, 17, 18, 19 and 20, respectively) .
+For the TPSR of H
+2
+/D
+2
+scrambling over pre-reduced catalyst, 100 mg of sample was first treated at 600 °C for 1 h in 20 vol% H
+2
+/Ar (30 ml min
+−1
+), then purged with Ar (30 ml min
+−1
+) for 30 min and cooled to 80 °C. After switching to a mixture of 20 vol% H
+2
+/Ar (25 ml min
+−1
+) and D
+2
+(5 ml min
+−1
+) for 30 min, the sample was heated to 600 °C at a rate of 10 °C min
+−1
+. The output products H
+2
+, D
+2
+and HD were monitored by MS (
+m
+/
+z
+= 2, 4 and 3, respectively) .
+For the temperature-programmed desorption (TPD) of H
+2
+, 100 mg of sample was treated at 600 °C for 1 h and then cooled to 50 °C in H
+2
+(30 ml min
+−1
+). Afterwards, the sample was flushed with Ar (20 ml min
+−1
+) for 30 min and heated to 600 °C at a rate of 10 °C min
+−1
+. For the TPD of D
+2
+, the sample was treated in the same way, except that H
+2
+was replaced with D
+2
+. The MS signals of H
+2
+and D
+2
+(
+m
+/
+z
+= 2 and 4, respectively) were recorded and normalized. For the TPD of C
+3
+H
+6
+, 80 mg of sample was treated at 600 °C for 1 h and then cooled to 50 °C in Ar or 10 vol% H
+2
+/Ar (30 ml min
+−1
+). Afterwards, C
+3
+H
+6
+was adsorbed by introducing C
+3
+H
+6
+(20 ml min
+−1
+) into the reactor for 1 h, followed by purging with Ar (20 ml min
+−1
+) for 30 min. Then the sample was heated to 600 °C at a rate of 10 °C min
+−1
+. The MS signal of C
+3
+H
+6
+(
+m
+/
+z
+= 41) was recorded.
+TGA was carried out using a Netzsch STA449F3 thermal analyser to investigate the amount of coke deposited on the catalyst. Spent catalysts were dried in situ at 120 °C for 30 min before analysis. TGA curves were recorded from 50 to 800 °C in air (50 ml min
+−1
+) using a temperature ramp rate of 10 °C min
+−1
+.
+Theoretical calculations
+All of the theoretical calculations were carried out using the periodic DFT code in the Vienna Ab initio Simulation Package. Details of these are presented in the
+Supplementary Information
+.
+Data availability
+All relevant data are available within the paper and its
+Supporting Information
+. The raw data for the Supplementary Figures are available in
+Supplementary Data 1
+.
+Source data
+are provided with this paper.
+References
+Hansen, P. L. et al. Atom-resolved imaging of dynamic shape changes in supported copper nanocrystals.
+Science
+295
+, 2053–2055 (2002).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, M. et al. Small adsorbate-assisted shape control of Pd and Pt nanocrystals.
+Adv. Mater.
+24
+, 862–879 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Tao, F. et al. Reaction-driven restructuring of Rh–Pd and Pt–Pd core–shell nanoparticles.
+Science
+322
+, 932–934 (2008).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, X. et al. Reversible loss of core–shell structure for Ni–Au bimetallic nanoparticles during CO
+2
+hydrogenation.
+Nat. Catal.
+3
+, 411–417 (2020).
+Article
+CAS
+Google Scholar
+Wu, C. H. et al. Bimetallic synergy in cobalt–palladium nanocatalysts for CO oxidation.
+Nat. Catal.
+2
+, 78–85 (2018).
+Article
+Google Scholar
+Matsubu, J. C. et al. Adsorbate-mediated strong metal–support interactions in oxide-supported Rh catalysts.
+Nat. Chem.
+9
+, 120–127 (2016).
+Article
+PubMed
+Google Scholar
+Wang, H. et al. Strong metal–support interactions on gold nanoparticle catalysts achieved through Le Chatelier’s principle.
+Nat. Catal.
+4
+, 418–424 (2021).
+Article
+CAS
+Google Scholar
+Li, J. et al. Self-adaptive dual-metal-site pairs in metal–organic frameworks for selective CO
+2
+photoreduction to CH
+4
+.
+Nat. Catal.
+4
+, 719–729 (2021).
+Article
+CAS
+Google Scholar
+Zhang, Z. et al. Ensembles of metastable states govern heterogeneous catalysis on dynamic interfaces.
+Acc. Chem. Res.
+53
+, 447–458 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, J. et al. Tackling CO poisoning with single-atom alloy catalysts.
+J. Am. Chem. Soc.
+138
+, 6396–6399 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Jain, D. et al. Experimental and DFT investigation into chloride poisoning effects on nitrogen-coordinated iron–carbon (FeNC) catalysts for oxygen reduction reaction.
+J. Phys. Chem. C
+124
+, 10324–10335 (2020).
+Article
+CAS
+Google Scholar
+Ramasamy, K. K. et al. Conversion of biomass-derived small oxygenates over HZSM-5 and its deactivation mechanism.
+Green Chem.
+16
+, 748–760 (2014).
+Article
+CAS
+Google Scholar
+Ryoo, R. et al. Rare-earth–platinum alloy nanoparticles in mesoporous zeolite for catalysis.
+Nature
+585
+, 221–224 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Zhou, H. et al. Isolated boron in zeolite for oxidative dehydrogenation of propane.
+Science
+372
+, 76–80 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, T. et al. Synergistic mechanism of platinum–GaO
+x
+catalysts for propane dehydrogenation.
+Angew. Chem. Int. Ed.
+61
+, e202201453 (2022).
+Article
+CAS
+Google Scholar
+Sattler, J. J. et al. Platinum-promoted Ga/Al
+2
+O
+3
+as highly active, selective, and stable catalyst for the dehydrogenation of propane.
+Angew. Chem. Int. Ed.
+53
+, 9251–9256 (2014).
+Article
+CAS
+Google Scholar
+Castro-Fernández, P. et al. Propane dehydrogenation on Ga
+2
+O
+3
+-based catalysts: contrasting performance with coordination environment and acidity of surface sites.
+ACS Catal.
+11
+, 907–924 (2021).
+Article
+Google Scholar
+Sattler, J. J. H. B. et al. Catalytic dehydrogenation of light alkanes on metals and metal oxides.
+Chem. Rev.
+114
+, 10613–10653 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, Y. et al. Periodic density functional theory study of propane dehydrogenation over perfect Ga
+2
+O
+3
+(100) surface.
+J. Phys. Chem. C
+112
+, 20382–20392 (2008).
+Article
+CAS
+Google Scholar
+Chang, Q.-Y. et al. Rational design of single-atom-doped Ga
+2
+O
+3
+catalysts for propane dehydrogenation: breaking through volcano plot by Lewis acid–base interactions.
+ACS Catal.
+11
+, 5135–5147 (2021).
+Article
+CAS
+Google Scholar
+Jochum, W. et al. Hydrogen on polycrystalline β-Ga
+2
+O
+3
+: surface chemisorption, defect formation, and reactivity.
+J. Catal.
+256
+, 268–277 (2008).
+Article
+CAS
+Google Scholar
+Pan, Y.-X. et al. Hydrogen adsorption on Ga
+2
+O
+3
+surface: a combined experimental and computational study.
+J. Phys. Chem. C
+115
+, 10140–10146 (2011).
+Article
+CAS
+Google Scholar
+Galvita, V. et al. Ethane dehydrogenation on Pt/Mg(Al)O and PtSn/Mg(Al)O catalysts.
+J. Catal.
+271
+, 209–219 (2010).
+Article
+CAS
+Google Scholar
+Siddiqi, G. et al. Catalyst performance of novel Pt/Mg(Ga)(Al)O catalysts for alkane dehydrogenation.
+J. Catal.
+274
+, 200–206 (2010).
+Article
+CAS
+Google Scholar
+Wu, J. et al.
+n
+-Butane dehydrogenation over Pt/Mg(In)(Al)O.
+Appl. Catal. A
+470
+, 208–214 (2014).
+Article
+CAS
+Google Scholar
+Saerens, S. et al. The positive role of hydrogen on the dehydrogenation of propane on Pt(111).
+ACS Catal.
+7
+, 7495–7508 (2017).
+Article
+CAS
+Google Scholar
+Yang, M.-L. et al. Tuning selectivity and stability in propane dehydrogenation by shaping Pt particles: a combined experimental and DFT study.
+J. Mol. Catal. A
+395
+, 329–336 (2014).
+Article
+CAS
+Google Scholar
+Li, Q. et al. Kinetics of propane dehydrogenation over Pt–Sn/Al
+2
+O
+3
+catalyst.
+Appl. Catal. A
+398
+, 18–26 (2011).
+Article
+CAS
+Google Scholar
+Nykänen, L. et al. Selectivity in propene dehydrogenation on Pt and Pt
+3
+Sn surfaces from first principles.
+ACS Catal.
+3
+, 3026–3030 (2013).
+Article
+Google Scholar
+Dai, Y. et al. Recent progress in heterogeneous metal and metal oxide catalysts for direct dehydrogenation of ethane and propane.
+Chem. Soc. Rev.
+50
+, 5590–5630 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, Y. et al. Control of coordinatively unsaturated Zr sites in ZrO
+2
+for efficient C–H bond activation.
+Nat. Commun.
+9
+, 3794 (2018).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Otroshchenko, T. et al. Effect of hydrogen and supported metal on selectivity and on-stream stability of ZrO
+2
+-based catalysts in non-oxidative propane dehydrogenation.
+Catal. Commun.
+144
+, 106068 (2020).
+Article
+CAS
+Google Scholar
+Nishi, K. et al. Deconvolution analysis of Ga K-edge XANES for quantification of gallium coordinations in oxide environments.
+J. Phys. Chem. B
+102
+, 10190–10195 (1998).
+Article
+CAS
+Google Scholar
+Phadke, N. M. et al. Characterization of isolated Ga
+3+
+cations in Ga/H-MFI prepared by vapor-phase exchange of H-MFI zeolite with GaCl
+3
+.
+ACS Catal.
+8
+, 6106–6126 (2018).
+Article
+CAS
+Google Scholar
+Getsoian, A. et al. Organometallic model complexes elucidate the active gallium species in alkane dehydrogenation catalysts based on ligand effects in Ga K-edge XANES.
+Catal. Sci. Technol.
+6
+, 6339–6353 (2016).
+Article
+CAS
+Google Scholar
+Meitzner, G. D. et al. The chemical state of gallium in working alkane dehydrocyclodimerization catalysts. In situ gallium K-edge X-ray absorption spectroscopy.
+J. Catal.
+140
+, 209–225 (1993).
+Article
+CAS
+Google Scholar
+Serykh, A. I. et al. In situ X-ray photoelectron spectroscopy study of gallium-modified MFI zeolite.
+Surf. Sci.
+603
+, 2037–2041 (2009).
+Article
+CAS
+Google Scholar
+Cybulskis, V. J. et al. The nature of the isolated gallium active center for propane dehydrogenation on Ga/SiO
+2
+.
+Catal. Lett.
+147
+, 1252–1262 (2017).
+Article
+CAS
+Google Scholar
+Collins, S. et al. Gallium–hydrogen bond formation on gallium and gallium–palladium silica-supported catalysts.
+J. Catal.
+211
+, 252–264 (2002).
+Article
+CAS
+Google Scholar
+Collins, S. E. et al. Hydrogen chemisorption on gallium oxide polymorphs.
+Langmuir
+21
+, 962–970 (2005).
+Article
+CAS
+PubMed
+Google Scholar
+Zhao, Y. et al. Raman spectroscopy and characterisation of α-gallium oxyhydroxide and β-gallium oxide nanorods.
+J. Raman Spectrosc.
+39
+, 1494–1501 (2008).
+Article
+CAS
+Google Scholar
+Reuter, K. et al. First-principles atomistic thermodynamics for oxidation catalysis: surface phase diagrams and catalytically interesting regions.
+Phys. Rev. Lett.
+90
+, 046103 (2003).
+Article
+PubMed
+Google Scholar
+Otroshchenko, T. et al. Current status and perspectives in oxidative, non-oxidative and CO
+2
+-mediated dehydrogenation of propane and isobutane over metal oxide catalysts.
+Chem. Soc. Rev.
+50
+, 473–527 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Schreiber, M. W. et al. Lewis–Brønsted acid pairs in Ga/H-ZSM-5 to catalyze dehydrogenation of light alkanes.
+J. Am. Chem. Soc.
+140
+, 4849–4859 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Yuan, Y. et al. Ga speciation in Ga/H-ZSM-5 by in-situ transmission FTIR spectroscopy.
+J. Catal.
+393
+, 60–69 (2021).
+Article
+CAS
+Google Scholar
+Mansoor, E. et al. Computational modeling of the nature and role of Ga species for light alkane dehydrogenation catalyzed by Ga/H-MFI.
+ACS Catal.
+8
+, 6146–6162 (2018).
+Article
+CAS
+Google Scholar
+Phadke, N. M. et al. Mechanism and kinetics of propane dehydrogenation and cracking over Ga/H-MFI prepared via vapor-phase exchange of H-MFI with GaCl
+3
+.
+J. Am. Chem. Soc.
+141
+, 1614–1627 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Zhao, Z. J. et al. Hydroxyl-mediated non-oxidative propane dehydrogenation over VO
+x
+/γ-Al
+2
+O
+3
+catalysts with improved stability.
+Angew. Chem. Int. Ed.
+57
+, 6791–6795 (2018).
+Article
+CAS
+Google Scholar
+Fu, H. et al. Periodic density functional theory study of propane oxidative dehydrogenation over V
+2
+O
+5
+(001) surface.
+J. Am. Chem. Soc.
+128
+, 11114–11123 (2006).
+Article
+CAS
+PubMed
+Google Scholar
+Deringer, V. L. et al. Crystal orbital Hamilton population (COHP) analysis as projected from plane-wave basis sets.
+J. Phys. Chem. A
+115
+, 5461–5466 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Dunnington, B. D. & Schmidt, J. R. Generalization of natural bond orbital analysis to periodic systems: applications to solids and surfaces via plane-wave density functional theory.
+J. Chem. Theory Comput.
+8
+, 1902–1911 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Fridman, V. Catalyst for dehydrogenation of hydrocarbons. Sud-Chemie Inc. US patent 8101541B2 (2012).
+Download references
+Acknowledgements
+We acknowledge the National Key R&D Program of China (2021YFA1501302), the National Natural Science Foundation of China (22121004, U1862207, and 22122808), the Haihe Laboratory of Sustainable Chemical Transformations (CYZC202107, the Program of Introducing Talents of Discipline to Universities (BP0618007) and the XPLORER PRIZE for financial support. We also thank the staff at the 1W1B beamline of the Beijing Synchrotron Radiation Facility for help in characterization and computing resources at High Performance Computing Center of Tianjin University.
+Author information
+Authors and Affiliations
+Key Laboratory for Green Chemical Technology of Ministry of Education, School of Chemical Engineering and Technology, Tianjin University, Tianjin, China
+Guodong Sun, Zhi-Jian Zhao, Lulu Li, Chunlei Pei, Xin Chang, Sai Chen, Tingting Zhang, Kaige Tian, Shijia Sun & Jinlong Gong
+Joint School of National University of Singapore and Tianjin University, International Campus of Tianjin University, Fuzhou, China
+Guodong Sun, Xin Chang & Jinlong Gong
+Collaborative Innovation Center for Chemical Science and Engineering (Tianjin), Tianjin, China
+Guodong Sun, Zhi-Jian Zhao, Lulu Li, Chunlei Pei, Xin Chang, Sai Chen, Tingting Zhang, Kaige Tian, Shijia Sun & Jinlong Gong
+Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China
+Lirong Zheng
+Haihe Laboratory of Sustainable Chemical Transformations, Tianjin, China
+Jinlong Gong
+National Industry-Education Platform of Energy Storage, Tianjin University, Tianjin, China
+Jinlong Gong
+Authors
+Guodong Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhi-Jian Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lulu Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chunlei Pei
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xin Chang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sai Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tingting Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kaige Tian
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shijia Sun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lirong Zheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jinlong Gong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+J.G. conceived and supervised the research. G.S. contributed to catalyst synthesis and characterization. G.S., T.Z. and K.T. carried out catalytic performance tests. G.S., S.C. and L.Z. performed the XAS measurements and analysed the data. L.L. X.C., S.S. and Z.-J.Z. carried out DFT calculations. G.S., Z.-J.Z., C.P., S.C. and J.G. wrote the paper. All authors participated in the discussion of the research.
+Corresponding author
+Correspondence to
+Jinlong Gong
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Chemistry
+thanks Tzonka Mineva and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data
+Extended Data Fig. 1 Catalytic performance of CrO
+x
+-K/Al
+2
+O
+3
+and GaO
+x
+/Al
+2
+O
+3
+.
+a
+,
+b
+, Catalytic performance of CrO
+x
+-K/Al
+2
+O
+3
+with different inlet H
+2
+concentrations at an inlet C
+3
+H
+8
+concentration of 40 vol% (a) and the corresponding initial (after 5 min reaction) catalytic performance (b). Catalytic testing conditions: 600 °C, atmospheric pressure, 200 mg catalyst, WHSV of propane = 11.8 h
+−1
+, 40 vol% C
+3
+H
+8
+, 0–40 vol% H
+2
+, 50 ml min
+−1
+total flow rate balanced with N
+2
+.
+c
+, Comparison of the initial rate of propylene formation normalized by catalyst mass between GaO
+x
+/Al
+2
+O
+3
+at an inlet H
+2
+/C
+3
+H
+8
+ratio of 1.0 and a commercial CrO
+x
+-K/Al
+2
+O
+3
+analogue without co-feeding H
+2
+. Catalytic testing conditions: 600 °C, atmospheric pressure, 200 mg catalyst, WHSV of propane = 11.8 h
+−1
+, 40 vol% C
+3
+H
+8
+, 0 or 40 vol% H
+2
+, 50 ml min
+−1
+total flow rate balanced with N
+2
+.
+d
+,
+e
+, Catalytic performance of GaO
+x
+/Al
+2
+O
+3
+at different inlet C
+3
+H
+8
+concentrations with constant WHSV and inlet H
+2
+/C
+3
+H
+8
+ratios (d) and the corresponding initial catalytic performance (e). Catalytic testing conditions: 600 °C, atmospheric pressure, 50–200 mg catalyst, WHSV of propane = 11.8 h
+−1
+, 10–40 vol% C
+3
+H
+8
+, H
+2
+/C
+3
+H
+8
+= 1.0, 50 ml min
+−1
+total flow rate balanced with N
+2
+.
+f-i
+, Catalytic performance of Ga
+2
+O
+3
+/Al
+2
+O
+3
+and GaO
+x
+/Al
+2
+O
+3
+with different inlet H
+2
+concentrations (f) (h) and the corresponding initial catalytic performance (g) (i). Catalytic testing conditions: 600 °C, atmospheric pressure, 50 mg (f) (h) or 200 mg (g) (i) catalyst, WHSV of propane = 47.2 h
+−1
+(f) (h) or 11.8 h
+−1
+(g) (i), 40 vol% C
+3
+H
+8
+, 0–40 vol% H
+2
+, 50 ml min
+−1
+total flow rate balanced with N
+2
+.
+Source data
+Extended Data Fig. 2 C-H bond activation and apparent activation energy.
+a
+, Mass spectral (MS) signals of C
+3
+H
+8
+, C
+3
+H
+6
+and H
+2
+(m/z equals 41, 29 and 2, respectively) in TPSR experiments for the fresh (Ga
+2
+O
+3
+/Al
+2
+O
+3
+) and pre-reduced (GaO
+x
+/Al
+2
+O
+3
+) catalysts. During the pre-reduction, the fresh catalyst was first treated with 10% H
+2
+/Ar at 600 °C for 1 h and then purged with Ar.
+b
+, Experimental Arrhenius plots of GaO
+x
+/Al
+2
+O
+3
+with different inlet H
+2
+/C
+3
+H
+8
+ratios, based on the increase in rate of propylene formation due to H
+2
+co-feeding at the corresponding temperature. Δr = r(with H
+2
+co-feeding) - r(without H
+2
+co-feeding). Catalytic testing conditions: 570–600 °C, atmospheric pressure, 25 mg catalyst, WHSV of propane = 33.4 h
+−1
+, 7 ml min
+−1
+C
+3
+H
+8
+, H
+2
+/C
+3
+H
+8
+= 0.5, 1.0, 1.5, and 2.0, 50 ml·min
+−1
+total flow rate balanced with N
+2
+.
+c
+,
+d
+, CH
+4
+-TPSR results of GaO
+x
+/Al
+2
+O
+3
+with or without co-feeding D
+2
+. For CH
+4
+, H
+2
+, D
+2
+, HD, CH
+3
+D, CH
+2
+D
+2
+, CHD
+3
+and CD
+4
+, m/e equals 16, 2, 4, 3, 17, 18, 19 and 20, respectively.
+Source data
+Extended Data Fig. 3 Evolution of catalyst surface structure.
+a
+, In situ DRIFTS spectra of the alumina support treated with D
+2
+at 600 °C. The sample was first heated at 600 °C in Ar and then the background spectrum was collected. After that, D
+2
+was introduced into the DRIFTS cell. Upon treatment with D
+2
+, the negative bands at 3768–3678 cm
+−1
+and the positive bands at 2770–2707 cm
+−1
+appeared simultaneously, displaying the expected H-D isotopic exchange for the AlO-H bands.
+b
+,
+c
+, In situ DRIFTS spectra of GaO
+x
+/Al
+2
+O
+3
+exposed to H
+2
+(
+b
+) or D
+2
+(
+c
+) at 600 °C.
+d
+, In situ DRIFTS spectra of GaO
+x
+/Al
+2
+O
+3
+at 600 °C with different H
+2
+partial pressures.
+e
+, The dependence of the intensity of gallium hydride band on H
+2
+partial pressure.
+f
+, In situ Raman spectra of Ga
+2
+O
+3
+/Al
+2
+O
+3
+during successive treatments with different gases at 600 °C.
+g
+, Schematic representation of the evolution of surface structure of gallium oxide supported by alumina during treatment with different gases.
+Source data
+Supplementary information
+Supplementary Information
+Supplementary Discussion and Supplementary Figs. 1–12, and Tables 1–11.
+Supplementary Data 1
+Raw data for Supplementary Figures.
+Source data
+Source Data Fig. 1
+Statistical source data.
+Source Data Fig. 2
+Statistical source data.
+Source Data Fig. 3
+Statistical source data.
+Source Data Fig. 4
+Statistical source data.
+Source Data Fig. 5
+Statistical source data.
+Source Data Fig. 1a
+Unprocessed TEM image.
+Source Data Extended Data Fig 1
+Statistical source data.
+Source Data Extended Data Fig. 2
+Statistical source data.
+Source Data Extended Data Fig. 3
+Statistical source data.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Sun, G., Zhao, ZJ., Li, L.
+et al.
+Metastable gallium hydride mediates propane dehydrogenation on H
+2
+co-feeding.
+Nat. Chem.
+16
+, 575–583 (2024). https://doi.org/10.1038/s41557-023-01392-x
+Download citation
+Received
+:
+08 June 2023
+Accepted
+:
+03 November 2023
+Published
+:
+02 January 2024
+Issue Date
+:
+April 2024
+DOI
+:
+https://doi.org/10.1038/s41557-023-01392-x
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Chemistry
+(
+Nat. Chem.
+)
+ISSN
+1755-4349
+(online)
+ISSN
+1755-4330
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

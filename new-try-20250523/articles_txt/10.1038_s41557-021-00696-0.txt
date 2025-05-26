@@ -1,0 +1,1312 @@
+Platinum incorporation into titanate perovskites to deliver emergent active and stable platinum nanoparticles | Nature Chemistry
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature chemistry
+articles
+article
+Platinum incorporation into titanate perovskites to deliver emergent active and stable platinum nanoparticles
+Download PDF
+Article
+Published:
+24 May 2021
+Platinum incorporation into titanate perovskites to deliver emergent active and stable platinum nanoparticles
+Maadhav Kothari
+1
+na1
+,
+Yukwon Jeon
+1
+,
+2
+na1
+,
+David N. Miller
+1
+,
+Andrea Eva Pascui
+3
+,
+John Kilmartin
+3
+,
+David Wails
+3
+,
+Silvia Ramos
+ORCID:
+orcid.org/0000-0003-2725-7706
+4
+,
+Alan Chadwick
+ORCID:
+orcid.org/0000-0002-6485-9207
+4
+&
+…
+John T. S. Irvine
+ORCID:
+orcid.org/0000-0002-8394-3359
+1
+Show authors
+Nature Chemistry
+volume
+13
+,
+pages
+677–682 (
+2021
+)
+Cite this article
+8306
+Accesses
+19
+Altmetric
+Metrics
+details
+Subjects
+Heterogeneous catalysis
+Materials chemistry
+Nanoparticles
+Abstract
+Platinum functions exceptionally well as a nanoparticulate catalyst in many important fields, such as in the removal of atmospheric pollutants, but it is scarce, expensive and not always sufficiently durable. Here, we report a perovskite system in which 0.5 wt% Pt is integrated into the support and its subsequent conversion through exsolution to achieve a resilient catalyst. Owing to the instability of most Pt oxides at high temperatures, a thermally stable platinum oxide precursor, barium platinate, was used to preserve the platinum as an oxide during the solid-state synthesis in an approach akin to the Trojan horse legend. By tailoring the procedure, it is possible to produce a uniform equilibrated structure with active emergent Pt nanoparticles strongly embedded in the perovskite surface that display better CO oxidation activity and stability than those of conventionally prepared Pt catalysts. This catalyst was further evaluated for a variety of reactions under realistic test environments—CO and NO oxidation, diesel oxidation catalysis and ammonia slip reactions were investigated.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Templated encapsulation of platinum-based catalysts promotes high-temperature stability to 1,100 °C
+Article
+24 October 2022
+Synergistic growth of nickel and platinum nanoparticles via exsolution and surface reaction
+Article
+Open access
+13 May 2024
+Surface oxygenation of multicomponent nanoparticles toward active and stable oxidation catalysts
+Article
+Open access
+21 August 2020
+Main
+Platinum catalysts find widespread use in industry and society. Typically, these are dispersed on a porous support, such as γ-Al
+2
+O
+3
+, with a low loading of 0.5−2.0 wt% and, for example, have been extensively used in emission control technology applications in both light- and heavy-duty vehicles for the typical four process steps of diesel engines—diesel oxidation, particulate filtration, NO
+x
+reduction and NH
+3
+slip after treatment
+1
+,
+2
+. However, in automotive catalytic converters, the Pt nanoparticles (NPs) sinter over time due to Pt agglomeration and even sublimation at a high-temperature operation, which in turn reduces the catalytic activity
+2
+,
+3
+,
+4
+. This problem has wide-reaching effects as older vehicles often emit more particulate matter, CO, NO
+x
+, unburnt hydrocarbons and even the unreacted NH
+3
+by-product from NO
+x
+removal. Extending the catalytic converter lifetime eases cost concerns on fleet maintenance and minimizes the loss in performance on prolonged application, and so promotes the future environmental health of urban areas
+5
+.
+Among many candidates, perovskite materials have received considerable attention both as a supports for the platinum group metals and as catalysts themselves
+6
+,
+7
+. Previously, a regenerative concept whereby platinum group metal atoms can interchange between metallic NPs and the bulk perovskite matrix to reactivate catalytic activity was demonstrated by a stoichiometric perovskite system through a combustion method at a relatively low temperature
+8
+,
+9
+,
+10
+. However, the low structural-phase purity, time frame, movement, support interaction and sporadic dispersion of NPs rendered this ineffective for the rapid redox fluctuations common in vehicle engines, which resulted in controversy over the mechanism and claims made have raised questions about this approach
+11
+,
+12
+,
+13
+. Our findings certainly suggest that it is very difficult to homogeneously dissolve Pt into a perovskite structure due to the very limited stability range of Pt oxides, although an overall regenerative process to and/or from the perovskite matrix clearly occurs with some exchange between Pt and the sublattice.
+Here we designed a fully Pt-incorporated perovskite material from which the resultant emergent Pt NPs are well-dispersed and closely integrated with the perovskite surface, which results in excellent catalytic properties. This advance has been achieved by developing an approach based on the production of emergent first-row transition metal NPs from A-site-deficient perovskites. This relies on tailoring the stoichiometry of the initial perovskite structure so that the B-site dopant just emerges from the perovskite structure on reduction. This configuration remains at equilibrium with the support perovskite, which results in a finely balanced system during high-temperature synthesis and highly reducing conditions, to yield well-dispersed NPs on the perovskite surface with a strong support interaction that displays an enhanced catalytic performance and sintering resistance
+14
+,
+15
+,
+16
+. Importantly, these particles do not directly reincorporate into the lattice on reoxidation. Instead, stable, anchored oxide NPs are formed
+15
+.
+Previous attempts to incorporate Pt into a crystalline perovskite structure utilized low-temperature methods, such as combustion synthesis, which resulted in a low structural clarity and unstable mobile NPs that are more prone to the effects of ageing
+8
+,
+9
+,
+10
+,
+11
+,
+12
+,
+13
+,
+17
+. Here we opted for a high-temperature solid-state synthesis to give a better phase purity, which also affords well-characterized materials; however, Pt oxides are unstable, as they dissociate at low temperatures, ≥400 °C, and so are not compatible with solid-state synthesis, which usually requires a higher temperature
+18
+.
+Results and discussion
+To incorporate Pt into an oxide requires the metal to be stabilized in a high oxidation state, which is best achieved via the use of oxidizing atmospheres and especially in combination with highly basic oxides, such as Ba. Then, it is a matter of using this as a ‘Trojan horse’ precursor to deliver an oxide derivative of Pt and hence to achieve a targeted perovskite composition. Ba
+3
+Pt
+2
+O
+7
+, which is capable of withstanding the high temperatures required to form a perovskite phase, for example, up to 1,250 °C, was synthesized by solid-state synthesis
+19
+(Supplementary Fig.
+1a,b
+). By using such a precursor, it is possible to incorporate Pt ions into the perovskite crystal structure in an O
+2
+-rich environment without the inherent separation of Pt (Fig.
+1a
+). This introduces a small amount of Pt onto the B site and Ba onto the A site (Fig.
+1b
+). Two different A-site deficient perovskite compositions of La
+0.4
+(M)
+0.3925
+Ba
+0.0075
+Pt
+0.005
+Ti
+0.995
+O
+3
+, where M = Ca or Sr, were synthesized; both incorporated 0.5 wt% Pt into the crystal perovskite structure, denoted as Pt@LCT (La
+0.4
+Ca
+0.3925
+Ba
+0.0075
+Pt
+0.005
+Ti
+0.995
+O
+3
+) or Pt@LST (La
+0.4
+Sr
+0.3925
+Ba
+0.0075
+Pt
+0.005
+Ti
+0.995
+O
+3
+) (also see the Supplementary
+Glossary
+). Figure
+1c,d
+shows scanning electron microscopy (SEM) micrographs of both these surface structures after the perovskite formation. These clearly reveal clean surfaces with no NP decoration or morphological deformity of the crystal structure, similar to the Pt-free analogues (Supplementary Fig.
+1c,d
+), which indicates that Pt was fully incorporated into the crystal structure during the high-temperature solid-state synthesis.
+Fig. 1: Explanation of the Trojan horse concept and characterization of the Pt-doped perovskite materials, which confirms Pt incorporation into the perovskite lattice.
+a
+, Illustration of the synthesis process of full Pt incorporation into the perovskite structure by using a Trojan horse precursor (Ba
+3
+Pt
+2
+O
+7
+) and oxidative solid-state synthesis conditions.
+b
+, Indicative schematic of the resultant local crystal structure.
+V
+A
+, vacancy on A-site.
+c
+,
+d
+, SEM images for the perovskites of Pt@LCT (
+c
+) and Pt@LST (
+d
+).
+e
+, XRD patterns for the perovskites Pt@LCT and Pt@LST, with the Ca form showing tetragonal splitting, as expected from its analogues. Inset: magnification for 32–42°.
+f
+, XANES spectra of the Pt L
+III
+edge for Ba
+3
+Pt
+2
+O
+7
+, Pt@LCT, PtO
+2
+and Pt foil. Inset: EXAFS spectra of the Pt L
+III
+edge. FT, Fourier transform.
+Full size image
+Figure
+1e
+shows the X-ray powder diffraction (XRD) patterns of Pt@LCT and Pt@LST, which have highly crystalline patterns. No visible metallic Pt peak is observed at 38–39.8°, which further indicates the incorporation of Pt into the crystal structure
+3
+. The structures with or without Ba and Pt were refined using Rietveld analysis (Supplementary Fig.
+2
+and Supplementary Table
+1
+). From the perovskite peak shifts in Fig.
+1e
+and the refinement results, tetragonal Pt@LCT resides in an
+I
+4/
+mcm
+space group with a smaller primitive unit cell size than that of cubic Pt@LST (
+Pm
+\(\bar3\)
+m
+) due to the difference in cation size between Ca and Sr (Supplementary Fig.
+2e,f
+). The unit cell parameters show small increases, consistent with Pt incorporation (Supplementary Fig.
+2f
+and Supplementary Table
+1
+). X-ray absorption spectroscopy analysis of the Pt L
+III
+edge (Fig.
+1f
+) strongly confirms the incorporation of Pt into the perovskite oxide lattice, with the Pt-doped perovskites showing similar X-ray absorption near-edge structure (XANES) spectra to those of the Pt oxides, with a similar white-line shape and position as those of the PtO
+2
+and Ba
+3
+Pt
+2
+O
+7
+spectra, consistent with Pt
+4+
+and obviously different from the Pt metal. The extended X-ray absorption fine structure (EXAFS) spectra show that the Pt environment in the doped perovskite is very different from that in Pt metal, but close to that in Ba
+3
+Pt
+3
+O
+7
+, with Pt in a mainly six-fold coordination
+19
+, and differs from that of PtO
+2
+, in which Pt is in three-fold coordination
+20
+, which is very different from the coordination expected in a perovskite lattice. Analysis of the structure indicates Pt–O bonding in the oxides and Pt–Pt in the metal.
+The optimum conditions for Pt emergence were guided by thermogravimetric analysis in 5% H
+2
+/Ar. An initial mass step occurred at 700 °C with a total mass loss of 0.42% on heating to 1,000 °C and holding for 12 hours (Supplementary Fig.
+3
+). Pt emergence occurred after 700 °C, which indicates that all the Pt (0.5 wt%) was reduced. Further weight loss can be attributed to titanate reduction in the perovskite. Overall, more O
+2
+was lost (0.067 atoms per formula unit) than needed to reduce Pt
+4+
+, which indicates the full reduction and emergence of the Pt. Therefore, 700 °C was chosen as the reduction temperature, on the assumption that Pt emergence results mainly from the initial reduction step. Applying these conditions, 12 hours at 700 °C, produced well-dispersed Pt NPs decorated on the surface (Fig.
+2a
+) by Pt emergence from A-site deficient lanthanum calcium titanate Pt@LCT; the emerged NPs are denoted as Pt+LCT. Selected regions for both the Ca and Sr variants that arise from Pt@LCT and Pt@LST are shown in Fig.
+2b,c
+, respectively, and display morphologically distinct Pt NPs with an average size of 15 nm (5–25 nm) and 20 nm (5–35 nm) for Pt+LCT and Pt+LST, respectively (see also Supplementary Fig.
+4
+). Examination of the high-resolution transmission electron microscopy analysis of Pt+LCT (Fig.
+2d,e
+) reveals that the exposed NPs consist of Pt that seems to be embedded into the perovskite surface. From the XRD results (Supplementary Fig.
+5
+), metal Pt peaks are observed for both perovskites without a major change in their original perovskite structures, which indicates the emergence of Pt from the crystal structure. Interestingly, a notable aspect is the difference in the Pt emerging tendency between the Ca- and Sr-based perovskites. Although the emergent Pt NPs from Pt+LST show a pyramidal form with a localized dispersion, Pt+LCT shows well-dispersed spherical Pt NPs across the surface. The different morphological traits could be attributed to Sr enrichment near the surface, as previously observed for Ni-containing strontium titanates
+16
+. The greater dispersion at Pt+LCT is consistent with previous studies, which indicate a more facile emergence for calcium titanate systems
+21
+, probably due to less Ca segregation to the surface. For comparison, impregnated Pt materials were prepared with the same Pt loading of 0.5 wt% (Supplementary Fig.
+6
+). Notably, the impregnated Pt/LCT shows morphological variation and increased size (Supplementary Fig.
+6a,b
+).
+Fig. 2: Electron microscopy characterization of emergent Pt NPs from the tailored perovskite materials based on Pt@LCT.
+a
+, SEM image of the emerged Pt perovskites Pt+LCT from Pt@LCT and Pt+LST from Pt@LST. Inset: illustration of the proposed emergence mechanism.
+b
+,
+c
+, SEM images for Pt+LCT (
+b
+) and Pt+LST (
+c
+) with overlaid Pt NP size distributions, which illustrates the different coverages and morphologies.
+d
+,
+e
+, Transmission electron microscopy images with energy dispersive X-ray spot (
+d
+) and mapping (
+e
+) analyses of the emerged Pt perovskites in Pt+LCT.
+Full size image
+The Pt L
+III
+edge XANES spectra of the reduced Pt@LCT in Fig.
+3a
+confirms the metallic valence state of the emerged Pt NPs from the white-line shape and intensity, with a small difference in amplitude compared with that of Pt foil. This might be caused by a morphological effect or by positively charged Pt species from a
+d
+electron density decrease due to the charge transfer of Pt to the support, which may result in efficient catalytic properties
+2
+,
+3
+,
+4
+. The EXAFS analysis in Fig.
+3b
+also indicates metallic Pt species from the strong contribution of Pt–Pt bonding (~2.7 Å). Remarkably, close examination of the Pt–Pt shell for the emerged Pt on La
+0.4
+Ca
+0.4
+TiO
+3
+revealed a high reduction in the intensity compared with those of the impregnated Pt comparators. The reduced amplitude links to the reduction of the average coordination number of 12 for the Pt–Pt bonding in the Pt metal bulk. From the refined analysis (Supplementary Fig.
+7
+and Supplementary Table
+2
+), the Debye–Waller factor (
+σ
+2
+, the mean square deviation of interatomic distances) increases with a reduction of the interatomic distance (
+R
+), which suggests a strong structural disordering of the emerged Pt. Both observations are consistent with a strong interaction between the Pt NPs and perovskite bulk, which could contribute to the stabilization of the Pt NPs in sintering conditions.
+Fig. 3: X-ray absorption spectroscopic characterization of emergent Pt NPs from different treatments of Pt@LCT and comparison with relevant standards.
+a
+,
+b
+, XANES (
+a
+) and EXAFS (
+b
+) spectra of the Pt L
+III
+edge for the Pt@LCT, Pt+LCT, Pt/LCT, Pt/γ-Al
+2
+O
+3
+, PtO
+2
+and Pt foil.
+Full size image
+The catalytic performance of all the samples was initially tested for CO oxidation at lab-scale conditions, as shown in Fig.
+4a
+. Non-doped perovskite demonstrated almost no catalytic activity, whereas an increased activity was observed after Pt incorporation prior to reduction. As expected, a very large increase in catalytic performance was obtained after the emergence of Pt NPs in both samples. Although perovskites with Ca or Sr showed a difference in catalytic activity due to the difference in Pt NP morphology and distribution, the emergent Pt+LCT exhibited a superior performance with a light-off curve at 190 °C for a 100% CO conversion at a low Pt loading of 0.5 wt%, compared with that of impregnated Pt/LCT (240 °C). Remarkably, the activity was even higher than that of the commercial Pt/γ-Al
+2
+O
+3
+(220 °C), with a 20% higher CO oxidation activity at 190 °C, despite a low surface area (1–2 m
+2
+g
+–1
+) compared with that of Pt/γ-Al
+2
+O
+3
+(112.7 m
+2
+g
+–1
+) (Supplementary Fig.
+6
+). Another interesting result was that Pt+LCT also retained a good oxidation activity in a partial O
+2
+environment (Supplementary Fig.
+8a
+), maintaining activity at a 50% oxygen partial pressure and outperforming Pt/γ-Al
+2
+O
+3
+at 1:1 CO:O
+2
+. O 1
+s
+X-ray photoelectron spectroscopy (Supplementary Fig.
+8b–d
+) shows that the perovskite surface possessed a large portion of active oxygen species (O
+D
+and O
+C
+)
+4
+,
+22
+, which resulted in oxygen sites that were more involved in oxidation reactions than the O
+L
+species. These further increased, especially O
+D
+, with the Pt emergence. These observations confirm an efficient oxidation mechanism (Fig.
+4a
+) at the uniquely active Pt species and the possession of active oxygens that are important factors for the outstanding catalytic performance.
+Fig. 4: Investigation of the catalytic functionality for CO oxidation at the perovskite catalysts with emergent Pt NPs and a comparison with relevant standards.
+a
+, Light-off curves for the initial CO oxidation for a feed mixture gas of 20,000 ppm CO, 10.0 vol% O
+2
+from air (21% O
+2
+and 79% N
+2
+) at N
+2
+balance with a total gas flow rate of 200 ml min
+–1
+(GHSV = 60,000 h
+–1
+) on the prepared samples. Inset: reaction mechanism of Pt+LCT.
+b
+, Light-off curves for CO oxidation before and after in situ ageing at 800 °C under an air gas flow of 50 ml min
+–1
+for over 2 weeks (350 h, see ageing 1 in Supplementary Table
+3
+) for emergent P+LCT, infiltrated Pt/LCT and Pt/γ-Al
+2
+O
+3
+.
+c
+, SEM image with the Pt NP distribution after the 350 h ageing test of Pt+LCT.
+Full size image
+To explore the stability of Pt+LCT, ageing tests were performed (Fig.
+4b
+) at 800 °C in air for more than 2 weeks (350 hours (ageing 1 in Supplementary Table
+3
+)). The reactivity of Pt+LCT did not change compared with that of the fresh catalyst, which satisfies the requirements of the general accelerated ageing set in diesel oxidation catalyst (DOC) conditions
+3
+,
+4
+,
+23
+. In contrast, impregnated Pt/LCT and Pt/γ-Al
+2
+O
+3
+showed a typical ageing behaviour, in which the activity drops by a large amount, and interestingly both followed the same shift in light-off conditions to a higher temperature. Severe Pt agglomerations of impregnated Pt/LCT and Pt/γ-Al
+2
+O
+3
+were observed with variations in morphology, size and shape (Supplementary Fig.
+9
+). Notably, Pt+LCT aged for 350 hours (Fig.
+4c
+) retained an average Pt NP size of 15 nm with an even distribution on the surface, which indicates a remarkable sintering resistance due to the embedded nature and strong metal–perovskite interaction despite some noticeable reordering of the perovskite surface itself. Ageing tests were carried on all these materials and reaction conditions, and Pt+LCT showed a superior catalytic activity after all the ageing protocols detailed in Supplementary Table
+3
+.
+The materials were further tested for a variety of reactions according to the appropriate industrial standards in accordance with an in-house prescreening process (operating conditions in Supplementary Table
+4
+) of novel catalysts for CO and NO removal (Supplementary Fig.
+10a
+), DOC conditions and an ammonia oxidation catalyst (AMOX) (Supplementary Fig.
+10b
+), to address slip, to demonstrate the capability for practical emission control technology applications in simulated real car exhaust environments (for example, the aged samples in Supplementary Fig.
+11
+). Particularly, the results of the NO removal reaction driven by CO were collected using feed streams of CO and NO with comparable stoichiometries and gas hourly space velocity (GHSV) to those observed in simulated car exhausts. It was found that the developed catalyst is highly effective for NO conversion driven by the presence of CO, as illustrated in Fig.
+5a
+(bottom). Even under high GHSV conditions, the CO reduction activity of the materials followed the same trend in the light-off plots as those observed in the initial CO oxidation tests supported by the perovskite’s oxygen storage capacity (Supplementary Figs.
+3
+and
+8
+). Interestingly, the NO conversion also reached a relatively high value of over 80% at 450 °C for the emergent Pt+LCT compared with those of the infiltrated Pt/LCT (35%) and Pt/γ-Al
+2
+O
+3
+(63%), which suggests a possible reaction scheme (Fig.
+5a
+, top) due to the synergistic effect of the highly distributed active Pt NPs and the available oxygens at the perovskite surfaces.
+Fig. 5: Investigation of catalyst performance when measured under simulated car exhaust environments.
+a
+, Schematic reaction mechanism of Pt+LCT (top) and results obtained for the simultaneous conversion in a mixture of 4,000 ppm CO and 4,000 ppm NO at stoichiometric conditions in feed streams at the GHSV level of real car exhausts, calculated from the raw data in Supplementary Fig.
+10a
+(bottom).
+b
+–
+d
+, Conversions obtained under DOC conditions for C
+3
+H
+6
+(
+b
+), CO (
+c
+) and NO (
+d
+) in the combined feed stream.
+e
+,
+f
+, Conversions obtained under AMOX conditions for NH
+3
+(
+e
+) and CO (
+f
+) combined feed streams. These tests were performed in the presence of O
+2
+(10%), H
+2
+O (5%) and CO
+2
+(4.5%) for the emergent Pt+LCT and Pt/γ-Al
+2
+O
+3
+, with the results calculated from the raw data in Supplementary Fig.
+10b
+.
+Full size image
+These properties are reflected well in the DOC (propylene (C
+3
+H
+6
+), CO and NO) and AMOX (NH
+3
+and CO) reaction tests that contained O
+2
+, H
+2
+O and CO
+2
+, with model automotive exhaust gas compositions; the stability is well-illustrated in Supplementary Fig.
+11
+. In modern diesel engine after-treatment systems, DOCs are functioned to oxidize the exhaust gases to harmless products, and also NO to support the performance of the diesel particulate filters and the selective catalytic reduction catalysts. From Fig.
+5b–d
+, Pt+LCT shows a strong ability to catalyse C
+3
+H
+6
+oxidation at a low temperature (260 °C) and simultaneous multiple oxidations are observed. The mixing of the feed gases marginally lowered the NO conversion, which suggests that CO and C
+3
+H
+6
+oxidations take place preferentially. However, when we compare each reaction with those of Pt/γ-Al
+2
+O
+3
+, all the results improved by at least 20% in each conversion. In the case of ammonia slip, there is an automotive industrial problem whereby the excess NH
+3
+from some NO
+x
+removal processes is emitted into the atmosphere. To mitigate the excess NH
+3
+, currently 0.5–1% Pt/γ-Al
+2
+O
+3
+catalysts are used within AMOX systems, so this is a useful comparator. As seen in Fig.
+5e,f
+, Pt+LCT shows a lower onset temperature (230 °C) for 100% NH
+3
+oxidation compared with that of Pt/γ-Al
+2
+O
+3
+(245 °C), and the accompanying CO oxidation also gives a 100% CO conversion. These both confirm the great catalytic ability of the emergent Pt+LCT catalyst for multiple oxidations for not only light gases, such as CO and NO, but also for harmful hydrocarbons and even excess NH
+3
+.
+In conclusion, we demonstrate a new approach that uses a Trojan horse precursor to synthesize a perovskite with an excellent integration of Pt into the oxide lattice via a high-temperature solid-state reaction, which can also be applied to other metals and alloys that are unstable as metal oxides at perovskite synthesis temperatures; in fact, these are often the most exciting candidate metal nanocatalysts. Catalytically active and robust emergent Pt NPs anchored on the surface were produced, and yielded a highly catalytically active configuration, which was immune to the typical effects of agglomeration through a strong interaction with the bulk perovskite structure and so demonstrates a great potential for use in a wide variety of industrially relevant catalytic reaction systems.
+Methods
+Precursors
+High-purity oxide and carbonate precursors, such as La
+2
+O
+3
+(Pi-Kem, >99.99%), TiO
+2
+(Alfa Aesar, >99.6%), BaCO
+3
+(Alfa Aesar, >99%), CaCO
+3
+(Fisher Chemical, >99%) and SrCO
+3
+(Aldrich, >99.9%) were dried at 300 °C (La
+2
+O
+3
+at 800 °C) to remove water-bound molecules from the precursors to obtain the correct stoichiometric nature of the perovskites. PtO
+2
+(Alfa Aesar, anhydrous) and Pt nitrate solution (Johnson Matthey, 16.17 wt% Pt) were used as the Pt precursors, and γ- Al
+2
+O
+3
+(Sasol, particle size ≤5 mm, Brunauer–Emmett–Teller specific surface area (
+S
+BET
+) 138−158 m
+2
+g
+–1
+) was purchased.
+Trojan horse co-precursor Ba
+3
+Pt
+2
+O
+7
+BaCO
+3
+and PtO
+2
+were weighed and mixed together in the correct stoichiometric amount in a Pt crucible, and then fired in air in a furnace with a ramp rate of 5 °C min
+–1
+to 1,000 °C for 12 h.
+Pt-doped perovskite synthesis
+A-site deficient perovskites Pt@LCT and Pt@LST were designed with 0.5 wt% Pt. Non-doped perovskites of La
+0.4
+Ca
+0.4
+TiO
+3
+, La
+0.4
+Sr
+0.4
+TiO
+3
+, La
+0.4
+Ca
+0.3925
+Ba
+0.0075
+TiO
+3
+and La
+0.4
+Sr
+0.3925
+Ba
+0.0075
+TiO
+3
+were prepared as references. Carefully calculated precursor quantities were quantitatively transferred to a glass beaker, and then acetone was added to the beaker with a copolymer dispersant (Hypermer KD-1, a polyester copolymer surfactant). The mixture was pulse sonicated using an ultrasonic probe (Heilscher UP200S) to homogenize and reduce the particle size of the precursors. After dispersion, acetone was evaporated from the homogeneous solution and the compositional mixture was then calcined in a muffle furnace at 1,000 °C for 12 h to partially form the perovskite phase for seeding crystallization. After calcination, the sample was ball milled with acetone at 300 r.p.m. for 2 h in a planetary ball mill, using 1 mm zirconia balls. Then, the sample was dried in an evaporator dish at room temperature.
+O
+2
+-rich sintering process
+Pellets were prepared by pressing the sample powders and then firing them under O
+2
+-rich sintering conditions to produce the pure perovskite phase at relatively low temperatures. Pellets were fired for 12 h at 1,200 °C with a ramp rate of 5 °C min
+–1
+in an O
+2
+-rich gas atmosphere of 100% O
+2
+at a rate of 100 ml min
+−1
+.
+In situ emergence process
+To emerge the Pt NPs onto the perovskite surface, samples were chemically reduced in a controlled atmosphere furnace at 700 °C for 12 h with heating and cooling rates of 5 °C min
+−1
+under a continuous flow of 5% H
+2
+/Ar (20 ml min
+−1
+) to produce the emerged Pt perovskites Pt+LCT and Pt+LST.
+Reference samples
+For comparison, Pt/LCT and Pt/γ-Al
+2
+O
+3
+catalysts are synthesized by the incipient wetness method. A constant Pt concentration of 0.5 wt% was impregnated into the supports by a Pt nitrate solution, then dried at 110 °C for 24 h and calcined at 550 °C for 3 h in air. The Pt/LCT and Pt/γ-Al
+2
+O
+3
+samples were reduced in a 5% H
+2
+/Ar flow for 12 h at 700 and 500 °C, respectively.
+X-ray powder diffraction
+XRD measurements were carried out at room temperature with an X-ray angle from 10 to 90° by using a PAN analytical Empyrean diffractometer with Cu Kα
+1
+radiation (1.54056 Å) and a Bragg–Brentanon geometry operated in reflection mode. STOE Win XPOW software was used to analyse the diffraction pattern and interoperate the crystal structure and cell parameter. GSAS open-source refinement software was applied to carry out the Rietveld refinement of the results to establish the original perovskite phase and structural changes. The structural information was then used to construct the crystal structure by using Crystal Maker for Windows software.
+X-ray absorption spectra
+XANES and EXAFS spectra of the Pt L
+III
+edge for selected samples were collected at ambient temperature on the B18 station at the Diamond Light Source National Synchrotron Facility. Measurements were carried out using a Si(111) monochromator at the Pt L
+III
+edge, with a Pt monometallic foil (10 μm) used as an energy calibrant. Samples were pressed into 13 mm pellets, and samples loaded with a high content of Pt were diluted using the appropriate amount of cellulose binder. Pt foil and PtO
+2
+were used as references for Pt
+0
+and Pt
+4+
+, respectively. X-ray absorption data analysis was carried out with the software of Athena and Artemis
+2
+.
+EXAFS fitting
+The EXAFS functions were Fourier transformed in the
+k
+range of 3–13.86 Å
+–1
+and multiplied by a Hanning window. The basic structural model was a face-centred cubic Pt metal core from the ICSD code of 243678. The structure refinement was carried out using ARTEMIS software (IFFEFIT)
+2
+. Moreover, the theoretical backscattering amplitudes and phases were calculated by FEFF 6.0. Then, the theoretical data that corresponded to the first Pt–Pt shell were adjusted to the experimental spectra by a least-squares method in R space from 1.8 to 3.12 Å. The amplitude reduction factors (
+S
+0
+2
+) were calculated using a Pt foil model, based on the coordination number of 12. The other fitting parameters were
+σ
+2
+,
+R
+(average interatomic distance,
+R
+eff
+= 2.77410 for Pt–Pt) and Δ
+E
+0
+(energy shifts, the inner potential correction between the samples and the FEFF calculation). The
+R
+factor represents the absolute misfit allowed for the data range fitted between theory and experiment. The number of independent points according to the Nyquist criterion was 8.86 and the number of fitting parameters was 4.
+Scanning electron microscopy and particle tracking
+An FEI Scios electron microscope equipped with secondary and backscattered electron detectors was used to acquire high-resolution images to investigate the surface morphology and phase homogeneity, especially the Pt NPs distributed on the sample surfaces. To track the Pt NPs, the number and size on the surfaces were calculated for particle size distribution histograms from the adequately magnified images using Image-Pro Plus software. The selected SEM images were converted into binary images in which particles are distinguished by the pixel contrast. Particle sizes were calculated by a calibration of the SEM image scale between pixels and nanometres, with the particles assumed to be a hemispheric.
+High-resolution transmission electron microscopy
+To analyse in more detail the morphological and elementary study of the Pt on the sample, high-resolution transmission electron microscopy imaging was carried out with an FEI Titan Themis instrument, using a 25 keV He
++
+beam with a 0.2 pA beam current. Energy dispersive X-ray spot and mapping analyses were also performed to distinguish the Pt NPs on the sample surface and the desired perovskite compositions (La, Ca, Ba, Pt, Ti and O).
+Thermogravimetric analysis
+Thermogravimetric analysis measurements were carried out on a NETZSCH STA 449C instrument using Proteus thermal analysis software. The initial weight of the sample was about 20 mg. The buoyancy effect was corrected using empty crucible blank runs under a corresponding chemical reduction gas atmosphere of flowing 5% H
+2
+/Ar (30 ml min
+–1
+). First, the sample was heated to 1,000 °C at a heating rate of 5 °C min
+-1
+. Second, the sample was heated to 700 °C at a heating rate of 5 °C min
+-1
+and kept for 15 h.
+N
+2
+isothermal analysis
+S
+BET
+, average pore volume and average pore size of the prepared samples were determined by the distribution graph of N
+2
+adsorption–desorption at 77 K using Micromeritics TRISTAR II 3020. Samples were outgassed at 150 °C under vacuum for 12 h using a Quantachrome Flovac degasser (Micromeritics VacPrep 061). The N
+2
+isothermal dataset was collected at −195 °C.
+S
+BET
+was calculated by the BET multiple point method in the partial pressure range from 0.05 to 0.3. The total pore volume was determined at
+P
+/
+P
+0
+= 0.99.
+X-ray photoelectron spectroscopy
+O 1
+s
+X-ray photoelectron spectra were collected with a Thermo Scientific K-alpha instrument equipped with a monochromatic Al X-ray source (Al Kα, 1486.6 eV) and a hemispherical energy analyser. The samples were fixed on carbon tape and all the binding energies were calibrated using C 1
+s
+(284.8 eV). The results were analysed and fitted using Fityk software by a linear-type background subtraction and appropriate curve shape fitting.
+Initial lab-scale tests on catalytic CO oxidation and stability ageing
+The catalytic performances of as-synthesized samples for CO oxidation were evaluated in a laboratory-scale fixed-bed quartz reactor (internal diameter, 8 mm) under atmospheric pressure. The temperature was controlled by the K-type thermocouple at the centre of the reaction zone and gas flows are controlled by electronic mass-flow controllers (ALICAT Scientific). Approximately 200 mg of the samples was ground and sieved through a 40–60 mesh to load into the reactor with quartz wool at each side. The samples were pretreated in situ with 5% H
+2
+/Ar at 300 °C for 1 h, and then purged with N
+2
+for 30 min to remove the residual H
+2
+. After cooling to 70 °C, a feed mixture gas of 20,000 ppm CO, 10.0 vol% O
+2
+from air (21% O
+2
+and 79% N
+2
+) at N
+2
+balance was introduced with a total gas flow rate of 200 ml min
+−1
+(GHSV = 60,000 h
+–1
+). The light-off experiments were measured in the range 70–300 °C with a ramp rate of 3 °C min
+−1
+, and sampling performed every 10 °C. At a fixed CO concentration and GHSV, the oxygen partial pressures for CO oxidation reaction were varied by 1, 5 and 10 vol% O
+2
+from air (21% O
+2
+and 79% N
+2
+). The composition of the effluent gas products was measured by on-line thermal conductivity detector gas chromatography (GC-2014, SHIMADZU) equipped with a molecular sieve 5 Å (60–80 mesh) column. The CO conversion was calculated by the change of the CO concentrations. In situ ageing tests for the initially tested catalysts were performed at 800 °C under an air gas flow of 50 ml min
+−1
+for over 2 weeks (around 350 h). The aged samples were then re-run through light-off experiments under the same reaction conditions. Postcharacterizations of the aged samples were carried out by SEM analysis and particle tracking.
+Simulated car exhaust conditions
+To evaluate the catalysts in realistic environments, CO + NO, diesel oxidation and ammonia slip reactions were tested. A CO + NO model reaction was designed to evaluate the materials for three-way catalytic converters. The tests were carried out in a temperature-programmed fixed-bed reactor by ramping up the temperature from 90 to 500 °C at a rate of 10 °C min
+–1
+and using 0.2 g of catalyst mixed with 0.2 g of cordierite. The inlet concentrations were fixed at 4,000 ppm CO and 4,000 ppm NO at a total flow of 12 l min
+–1
+at N
+2
+balance. A DOC model reaction was used to evaluate the use of the materials for real automotive catalytic converters. The tests were carried out in a steady-state temperature-programmed reactor in the temperature range 150–330 °C with a 10 min hold at each temperature stage. The total flow was 12 l min
+–1
+at N
+2
+balance with a gas composition of 1,450 ppm CO, 105 ppm C
+3
+H
+6
+, 125 ppm NO, 4.5% CO
+2
+, 10% O
+2
+and 5% H
+2
+O (steam). The ammonia slip model reaction evaluates the possibility for removing excess NH
+3
+from the non-catalysed NH
+3
+. A steady-state temperature-programmed reaction was carried out from 150 to 330 °C with a 10 min hold at each temperature stage. Inlet conditions were 550 ppm NH
+3
+, 220 ppm CO, 4.5% CO
+2
+, 10% O
+2
+and 5% H
+2
+O (steam) at a N
+2
+-balanced total flow of 12 l min
+–1
+. For the analysis of the gas products of each reaction, both inlet and outlet gases were measured by a MKS MG2000 multigas analyser using a Fourier-transform infrared detector. The conversions were calculated by the change of each gas concentration, and the light-off curves were plotted from the conversion values at each temperature stage.
+Data availability
+All underlying data is available on the St Andrews PURE website at
+https://doi.org/10.17630/3f58e258-5b0d-4e12-9742-e89bb844b062
+.
+References
+Farrauto, R. J. Low-temperature oxidation of methane.
+Science
+337
+, 659–660 (2012).
+Article
+CAS
+Google Scholar
+Zhang, Z. et al. Thermally single atom Pt/m-Al2O3 for selective hydrogenation and CO oxidation.
+Nat. Comm.
+8
+, 16100 (2017).
+Article
+CAS
+Google Scholar
+Jones, J. et al. Thermally single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+Google Scholar
+Nie, L. et al. Activation of surface lattice oxygen in single-atom Pt/CeO
+2
+for low-temperature CO oxidation.
+Science
+358
+, 1419–1423 (2017).
+Article
+CAS
+Google Scholar
+Winkler, S. L. et al. Vehicle criteria pollutant (PM, NO
+x
+, CO, HCs) emissions: how low should we go?
+npj Clim. Atmos. Sci.
+1
+, 26 (2018).
+Article
+Google Scholar
+Hwang, J. et al. Perovskites in catalysis and electrocatalysis.
+Science
+358
+, 751–756 (2017).
+Article
+CAS
+Google Scholar
+Kim, C. H., Qi, G., Dahlberg, K. & Li, W. Strontium-doped perovskites rival.
+Science
+327
+, 1624–1627 (2010).
+Article
+CAS
+Google Scholar
+Tanaka, H., Taniguchi, M., Uenishi, M., Kajita, N. & Tan, I. Self‐regenerating Rh‐ and Pt‐based perovskite catalysts for automotive‐emissions control.
+Angew. Chem.
+45
+, 5998–6002 (2006).
+Article
+CAS
+Google Scholar
+Jarrige, I. et al. Toward optimizing the performance of self-regenerating Pt-based perovskite catalysts.
+ACS Catal.
+5
+, 1112–1118 (2015).
+Article
+CAS
+Google Scholar
+Nishihata, Y. et al. Self-regeneration of a Pd-perovskite catalyst for automotive emissions control.
+Nature
+418
+, 164–167 (2002).
+Article
+CAS
+Google Scholar
+Zhang, S. et al. New atomic-scale insight into self-regeneration of Pt-CaTiO
+3
+catalysts: incipient redox-induced structures revealed by a small-angle tilting STEM technique.
+J. Phys. Chem. C
+121
+, 17348–17353 (2017).
+Article
+CAS
+Google Scholar
+Malamis, S. A. et al. Comparison of precious metal doped and impregnated perovskite oxides for TWC application.
+Catal. Today
+258
+, 535–542 (2015).
+Article
+CAS
+Google Scholar
+Katz, M. B. et al. Self-regeneration of Pd-LaFeO
+3
+catalysts: new insight from atomic-resolution electron microscopy.
+J. Am. Chem. Soc.
+133
+, 18090–18093 (2011).
+Article
+CAS
+Google Scholar
+Neagu, D., Tsekouras, G., Miller, D. N., Ménard, H. & Irvine, J. T. S. In situ growth of nanoparticles through control of non-stoichiometry.
+Nat. Chem.
+5
+, 916–923 (2013).
+Article
+CAS
+Google Scholar
+Neagu, D. et al. Demonstration of chemistry at a point through restructuring and catalytic activation at anchored nanoparticles.
+Nat. Commun.
+8
+, 1855 (2017).
+Article
+Google Scholar
+Neagu, D. et al. Nano-socketed nickel particles with enhanced coking resistance grown in situ by redox exsolution.
+Nat. Commun.
+6
+, 8120 (2015).
+Article
+Google Scholar
+Gao, Y., Wang, J., Lyu, Y.-Q., Lam, K. & Ciucci, F. In situ growth of Pt
+3
+Ni nanoparticles on an A-site deficient perovskite with enhanced activity for the oxygen reduction reaction.
+J. Mater. Chem. A
+5
+, 6399–6404 (2017).
+Article
+CAS
+Google Scholar
+Nur, A. S. M. et al. Phase-dependent formation of coherent interface structure between PtO
+2
+and TiO
+2
+and its impact on thermal decomposition behavior.
+J. Phys. Chem. C
+122
+, 662–669 (2018).
+Article
+CAS
+Google Scholar
+Haradem, P. S., Chamberland, B. L., Katz, L. & Gleizes, A. A structural model for barium platinum oxide, Ba
+3
+Pt
+2
+O
+7
+.
+J. Solid State Chem.
+21
+, 217–223 (1977).
+Article
+CAS
+Google Scholar
+Sakthivel, C., Keerthana, L. & Prabha, I. Current status of platinum based nanoparticles: physicochemical properties and selected applications—a review.
+Johnson Matthey Technol. Rev.
+63
+, 122–133 (2019).
+Article
+CAS
+Google Scholar
+Myung, J.-H., Neagu, D., Miller, D. N. & Irvine, J. T. S. Switching on electrocatalytic activity in solid oxide cells.
+Nature
+537
+, 528–531 (2016).
+Article
+CAS
+Google Scholar
+Jeon, Y. et al. Hollow fibers networked with perovskite nanoparticles for H
+2
+production from heavy oil.
+Sci. Rep.
+3
+, 2902 (2013).
+Article
+Google Scholar
+ACE Tech Team.
+Aftertreatment Protocols for Catalyst Characterization and Performance Evaluation: Low-Temperature Oxidation Catalyst Test Protocol
+(USDRIVE, 2015);
+https://cleers.org/wp-content/uploads/2015_LTAT-Oxidation-Catalyst-Characterization-Protocol.pdf
+Download references
+Acknowledgements
+We acknowledge useful discussions with M. Fowles and J. Fisher from Johnson Matthey. We thank the Diamond Light Source for the award of beam time as part of the Energy Materials Block Allocation Group SP14239. Funding was from Johnson Matthey, EPSRC for a CASE PhD studentship, EPSRC for a Critical Mass project EP/R023522/1 and electron microscopy provision EP/R023751/1 and EP/L017008/1. We dedicate this work to our esteemed co-author and colleague David Wails who tragically died in the attacks in Reading, UK, on 20 June 2020. David was a talented scientist who had dedicated his career to advancing sustainable catalysis and mentoring early career researchers.
+Author information
+Author notes
+These authors contributed equally: Maadhav Kothari, Yukwon Jeon.
+Authors and Affiliations
+School of Chemistry, University of St Andrews, St Andrews, UK
+Maadhav Kothari, Yukwon Jeon, David N. Miller & John T. S. Irvine
+Department of Environmental and Energy Engineering, Yonsei University, Wonju, Korea
+Yukwon Jeon
+Johnson Matthey Technology Centre, Sonning Common, Reading, UK
+Andrea Eva Pascui, John Kilmartin & David Wails
+School of Physical Sciences, University of Kent, Canterbury, UK
+Silvia Ramos & Alan Chadwick
+Authors
+Maadhav Kothari
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yukwon Jeon
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+David N. Miller
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Andrea Eva Pascui
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+John Kilmartin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+David Wails
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Silvia Ramos
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Alan Chadwick
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+John T. S. Irvine
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+M.K. and Y.J. designed and carried out the experiments, and wrote the manuscript. D.N.M. collected the TEM and energy dispersive X-ray data. S.R. and A.C. analysed the XANES/EXAFS results. A.E.P. and J.K. carried out the conventional catalyst tests at Johnson Matthey and D.W. and J.F. analysed the results. J.T.S.I. supervised the whole study and revised the manuscript. All the authors discussed the results and commented on the manuscript.
+Corresponding author
+Correspondence to
+John T. S. Irvine
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Chemistry
+thanks Abhaya Datye and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–11 and Tables 1–4.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Kothari, M., Jeon, Y., Miller, D.N.
+et al.
+Platinum incorporation into titanate perovskites to deliver emergent active and stable platinum nanoparticles.
+Nat. Chem.
+13
+, 677–682 (2021). https://doi.org/10.1038/s41557-021-00696-0
+Download citation
+Received
+:
+27 October 2020
+Accepted
+:
+08 April 2021
+Published
+:
+24 May 2021
+Issue Date
+:
+July 2021
+DOI
+:
+https://doi.org/10.1038/s41557-021-00696-0
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Chemistry
+(
+Nat. Chem.
+)
+ISSN
+1755-4349
+(online)
+ISSN
+1755-4330
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

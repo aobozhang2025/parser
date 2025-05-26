@@ -1,0 +1,1901 @@
+The role of surface hydroxyls in the entropy-driven adsorption and spillover of H2 on Au/TiO2 catalysts | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+The role of surface hydroxyls in the entropy-driven adsorption and spillover of H
+2
+on Au/TiO
+2
+catalysts
+Download PDF
+Article
+Published:
+10 August 2023
+The role of surface hydroxyls in the entropy-driven adsorption and spillover of H
+2
+on Au/TiO
+2
+catalysts
+Akbar Mahdavi-Shakib
+1
+na1
+,
+Todd N. Whittaker
+2
+,
+3
+na1
+,
+Tae Yong Yun
+ORCID:
+orcid.org/0000-0001-7654-7561
+1
+,
+K. B. Sravan Kumar
+4
+nAff7
+,
+Lauren C. Rich
+2
+,
+Shengguang Wang
+4
+,
+Robert M. Rioux
+ORCID:
+orcid.org/0000-0002-6019-0032
+1
+,
+5
+,
+Lars C. Grabow
+ORCID:
+orcid.org/0000-0002-7766-8856
+4
+,
+6
+&
+…
+Bert D. Chandler
+ORCID:
+orcid.org/0000-0002-8621-0361
+1
+,
+5
+Show authors
+Nature Catalysis
+volume
+6
+,
+pages
+710–719 (
+2023
+)
+Cite this article
+9256
+Accesses
+145
+Altmetric
+Metrics
+details
+Subjects
+Catalytic mechanisms
+Chemical engineering
+Heterogeneous catalysis
+Hydrogen fuel
+Porous materials
+Abstract
+Hydrogen spillover involves the migration of H atom equivalents from metal nanoparticles to a support. While well documented, H spillover is poorly understood and largely unquantified. Here we measure weak, reversible H
+2
+adsorption on Au/TiO
+2
+catalysts, and extract the surface concentration of spilled-over hydrogen. The spillover species (H*) is best described as a loosely coupled proton/electron pair distributed across the titania surface hydroxyls. In stark contrast to traditional gas adsorption systems, H* adsorption increases with temperature. This unexpected adsorption behaviour has two origins. First, entropically favourable adsorption results from high proton mobility and configurational surface entropy. Second, the number of spillover sites increases with temperature, due to increasing hydroxyl acid–base equilibrium constants. Increased H* adsorption correlates with the associated changes in titania surface zwitterion concentration. This study provides a quantitative assessment of how hydroxyl surface chemistry impacts spillover thermodynamics, and contributes to the general understanding of spillover phenomena.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Hydroxylated TiO
+2
+-induced high-density Ni clusters for breaking the activity-selectivity trade-off of CO
+2
+hydrogenation
+Article
+Open access
+27 September 2024
+Electronic modulation of metal-support interactions improves polypropylene hydrogenolysis over ruthenium catalysts
+Article
+Open access
+03 September 2022
+Alkali ions secure hydrides for catalytic hydrogenation
+Article
+13 July 2020
+Main
+Hydrogen spillover, which transfers hydrogen atom equivalents from a metal nanoparticle to an oxide support
+1
+,
+2
+,
+3
+, is a well-documented phenomenon that bridges heterogeneous catalysis, semiconductor surface chemistry and photo-/electro-catalytic hydrogen evolution
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+. It has broad technological impacts including H
+2
+production, utilization and storage systems; accordingly, spillover will likely be important in reducing CO
+2
+emissions. Various descriptions of spillover are invoked for a broad array of materials, including single-atom alloys
+9
+,
+10
+,
+11
+, high-entropy alloys
+12
+, metal–organic frameworks
+13
+and metal–semiconductor photoelectrodes
+14
+,
+15
+.
+For supported metal catalysts, spillover onto oxide supports is associated with support reducibility, as reducible supports show spillover effects over far larger distances than non-reducible supports
+1
+. In these systems, spillover originates at the metal–support interface (MSI), which participates in numerous catalytic reactions
+16
+,
+17
+,
+18
+. The MSI is especially important for supported Au catalysts
+19
+,
+20
+, which are highly active for multiple catalytic oxidations
+20
+,
+21
+,
+22
+,
+23
+and highly selective in organic synthesis
+24
+,
+25
+,
+26
+.
+Gold catalysts display a surprising dichotomy in reactions involving H
+2
+. Au/TiO
+2
+is highly active for formic acid dehydrogenation
+27
+, photocatalytic H
+2
+evolution
+4
+,
+5
+,
+6
+and water–gas shift chemistries
+28
+,
+29
+. Conversely, Au catalysts have only moderate activity in several important selective and partial hydrogenations, and are nearly inert in alkene hydrogenation
+30
+. This distinctive reactivity is associated with the relative inertness of Au surfaces and its consequence for H
+2
+activation. While most metals activate H
+2
+through strong dissociative chemisorption, H
+2
+adsorption on Au metal is thermodynamically unfavourable
+31
+,
+32
+,
+33
+. As a result, supported Au catalysts activate H
+2
+at the MSI via an entirely separate mechanism: heterolytic H
+2
+activation followed by fast Au–H deprotonation
+33
+,
+34
+,
+35
+.
+We recently showed the notoriously weak H
+2
+adsorption on Au/TiO
+2
+yields two H-atom equivalents (two protons and two electrons) localized on MSI hydroxyls: there are essentially no Au–H species on the catalyst
+32
+,
+33
+,
+34
+,
+35
+. Additionally, Au/TiO
+2
+catalysts continue to adsorb hydrogen long after the adsorption sites are saturated
+35
+. As we show conclusively below, the increased surface coverage is due to hydrogen spillover.
+Despite its technological importance, spillover remains poorly understood and largely unquantified, for two primary reasons
+3
+. First, it is difficult to distinguish spillover from weak H adsorption on active metal surfaces. Second, it is difficult to disentangle spillover from the effects of support reduction and the strong metal–support interaction. Indeed, spillover is often referred to interchangeably with support reduction, complicating their discussion in the literature
+2
+. While there is no universal definition of spillover, we defer to Prins’ distinction between spillover, which is highly mobile H-atom equivalents (H*), and reversible support reduction, which has the effect of storing spilled-over H within an oxide support. As Prins’ review details, these are related but fundamentally distinct processes.
+While support reduction can be quantified by several methods, the inability to quantify the mobile H* species that lead to support reduction has been a key limitation to studying spillover. In this Article, with essentially no H adsorption on Au, we rely on H
+2
+adsorption on Au/TiO
+2
+as an ideal platform to quantify these difficult to study species. We show that spillover results from several unexpected adsorption phenomena that break several traditional assumptions regarding gas-phase adsorption. These include the conclusion that spillover is an entropy-driven adsorption process in which the number of adsorption sites increases with temperature.
+Results
+Quantifying hydrogen spillover
+H
+2
+adsorption on Au/TiO
+2
+is both fast and reversible, with an activation barrier of ~20 kJ mol
+−1
+(refs.
+33
+,
+34
+,
+35
+). Reversible H
+2
+adsorption isotherms, measured directly with a combination of volumetric chemisorption and infra-red (IR) spectroscopy, show the quantity of adsorbed hydrogen roughly doubles as the adsorption temperature increases from 50 °C to 150 °C (Fig.
+1a
+). The adsorption isotherms are highly reproducible, and we collected similar data on more than a dozen separate batches of catalyst. Because this is weak, reversible adsorption, the anomalous temperature dependence cannot be attributed to activated adsorption, as is well known for N
+2
+adsorption in ammonia synthesis
+36
+. We also confirmed no surface species (that is, water) are released upon adsorption, as this can drive adsorption at higher temperatures (Supplementary Fig.
+3
+)
+37
+.
+Fig. 1: Temperature and particle size effects on H
+2
+adsorption.
+a
+, H
+2
+equilibrium adsorption isotherms on Au/TiO
+2
+as a function of temperature and
+P
+H2
+. Error bars show a 15% relative standard deviation, which is the determined uncertainty for six isotherm measurements at each temperature. The axes plot the amount of adsorbed H
+2
+(Ads. H
+2
+) vs. Hydrogen pressure in atmospheres (atm).
+b
+, Total H
+2
+adsorption normalized to the number of MSI sites as a function of Au particle size. At a constant Au wt. %, H
+2
+adsorption per adsorption site increases with Au particle size. Error bars show standard deviations from TEM data (
+x
+axis) and adsorption isotherm data (
+y
+axis). Particle size calculations are detailed in
+Supplementary Methods
+.
+Full size image
+The isotherms quantify the total amount of adsorbed H (H
+tot
+), so quantifying H* requires accounting for different adsorption sites. Previous work shows there is one reactive support hydroxyl (
+MSI
+TiOH) per perimeter Au atom (
+MSI
+Au). The
+MSI
+TiOHs (surface concentration 1.8 µmol per gram of catalyst) are the strongest H-atom binding sites on the catalyst; further, they are always occupied under H
+2
+(ref.
+33
+) and remain saturated with H
+2
+up to at least 120 °C (Supplementary Fig.
+5
+). Figure
+1b
+shows H
+tot
+far exceeds the number of adsorption sites; most of the adsorbed H
+2
+must therefore migrate either to the Au nanoparticle or the TiO
+2
+support.
+Hydrogen adsorption on extended Au surfaces is thermodynamically unfavourable
+31
+,
+32
+,
+33
+. Smaller Au particles are generally more reactive; the increase in H
+ads
+with Au particle size (Fig.
+1b
+) suggests the excess H is transferred to the support. To test this, we prepared catalysts with constant particle size (3 ± 0.2 nm) but varied Au loading. If the additional H
+ads
+is transferred to Au, the H/Au
+surf
+ratio should be constant for these catalysts. Figure
+2a
+shows the H/Au
+surf
+ratio changes by a factor of 3, ruling out H transfer to Au
+surf
+and confirming the additional H
+ads
+is H* on the support.
+Fig. 2: Au loading effects on H
+2
+adsorption and spillover.
+a
+, H
+2
+adsorption isotherms (90 °C) on catalysts with comparable Au particle size (~3 nm), but variable Au loading. Total H
+ads
+is normalized to the number of surface Au atoms; the ratio of H
+ads
+:Au
+surf
+changes with Au loading indicating H is not transferred to Au. Error bars show the standard deviation based on at least four isotherm measurements.
+b
+, H* adsorption isotherms; data from 2 A with adsorption attributable to the MSI sites subtracted.
+c
+,
+d
+, Temperature effects on H* adsorption; data from 1 A with adsorption attributable to the MSI sites subtracted plotted on linear (
+c
+) and logarithmic (
+d
+) axes. Lines are fits to two-site Langmuir models.
+Full size image
+These measurements are enabled by the unique properties of Au/TiO
+2
+. There is no H
+2
+chemisorption on Au and no measurable H
+2
+physisorption on TiO
+2
+(Fig.
+1a
+, grey data at bottom of the plot); thus, weak H
+2
+adsorption can be attributed to H
+MSI
+and H*. This is shown schematically in Fig.
+3
+. Because the MSI sites are always occupied in these experiments
+34
+, H* isotherms can be determined by subtracting H
+MSI
+from H
+tot
+at each equilibrium pressure, as described in section 5 of
+SuppIementary Information
+34
+. Figure
+2b
+shows the resulting isotherms are independent of the Au loading, further confirming spillover to the TiO
+2
+support. Similarly, Fig.
+2c
+shows the increase in H adsorption with temperature in Fig.
+1a
+is attributable to increases in H*. To our knowledge, these are the first reported isotherms for weakly adsorbed, mobile hydrogen spillover.
+Fig. 3: Schematic showing H
+2
+adsorption at the MSI.
+Beginning from the left of the figure, H
+2
+adsorbs at the Au/TiO
+2
+MSI. The species adsorbed at the interface (H
+MSI
+), is described as a proton interacting with a basic MSI hydroxyl group and an electron delocalized across the associated Ti–O antibonding orbital, nearby support atoms and the Au. Once the MSI hydroxyls are saturated with H
+MSI
+, H-atom equivalents (H*) are transferred to the support. The highly mobile H* species are similar to H
+MSI
+, consisting of a proton interacting with a surface TiOH and an electron in surface conduction band states delocalized across the TiOH and neighbouring support atoms.
+Full size image
+Langmuir analyses
+The H* adsorption isotherms do not fit a single Langmuir adsorption isotherm, indicating the free energy for adsorption (Δ
+G
+H*
+) changes substantially with surface concentration. The experimental data fit Freundlich isotherms, but these power-law fits have no physical basis and therefore provide limited utility for understanding the adsorption phenomenon.
+The H* isotherms are well described with multi-site Langmuir models. Fits to simple two-site Langmuir models are included in Fig.
+2c
+; further details are provided in
+Supplementary Discussion
+. We also used a progressive Langmuir analysis as shown in Fig.
+4a
+. This treatment plots adsorption data in a linearized form of the Langmuir equation. While the full dataset is not linear due to the coverage-dependent adsorption energy, the data is linear over small pressure ranges where changes in surface concentration are small. Under these conditions,
+K
+ads
+is relatively constant, and the Langmuir approximation is valid. This treatment generates two descriptive parameters for each pressure range, which include the adsorption equilibrium constant (
+\({K}_{P}^{* }\)
+, where
+P
+indicates the median pressure used) and a surface H* concentration (
+surf
+\({C}_{P}^{* }\)
+) that quantifies the adsorption capacity for the pressure range, that is, the number H* adsorbates with
+\({K}_{{{\mathrm{ads}}}}^{* }\)
+≥
+\({K}_{P}^{* }\)
+.
+Fig. 4: H* adsorption thermodynamics.
+a
+, Linearized Langmuir plot for H* on 2.8 nm–1% Au/TiO
+2
+at 90 °C. Langmuir parameters were extracted from sliding linear fits as shown.
+b
+, Extracted Langmuir parameters from
+a
+plotted as a function of
+P
+H2
+. Data show the adsorption equilibrium has a strong surface concentration dependence.
+c
+, ∆
+G
+H*
+values at 90 °C for three catalysts as a function of surface concentration.
+d
+, ∆
+G
+H*
+values for 2.8 nm–1% Au/TiO
+2
+at three temperatures.
+e
+, Data from
+c
+and
+d
+plotted versus
+P
+H2
+.
+f
+, Langmuir parameter temperature dependence. Parameters extracted at ~25 Torr H
+2
+; symbols average five data points measured over five different catalysts having different Au loadings and average particle sizes between 2.5 nm and 4 nm. Error bars show standard deviations for at least five determinations over five different catalysts with varying Au loading and particle size (minimum 15 measurements); error bars for
+\({K}_{25}^{* }\)
+values are smaller than the symbols (relative standard deviation (RSD) 12%).
+Full size image
+Both methods do a good job of describing individual isotherms. The two-site model condenses the coverage dependence into strong and weak adsorption sites, simplifying the description
+38
+. The progressive Langmuir analysis determines multiple adsorption parameters over consecutive small pressure ranges, and therefore describes the coverage dependence in greater detail. This allows us to examine changes to the adsorption equilibrium and adsorption energetics, as a function of the H* surface concentration. Treatment is similar to the Temkin isotherm, but without the restriction of a linear change in adsorption energy with coverage.
+This analysis (2.8 nm–1% Au/TiO
+2
+at 90 °C, Fig.
+4b
+) shows H* adsorption strength decreases substantially as H* surface concentration increases. Supplementary Tables
+3
+–
+6
+compile extracted adsorption parameters for five different catalysts and four adsorption temperatures. To facilitate comparisons, we discuss adsorption parameters determined at 25 Torr as representative of the broader trends. The
+\({K}_{25}^{* }\)
+and
+surf
+\({C}_{25}^{* }\)
+values are remarkably consistent across all catalysts, indicating the H* surface concentration is independent of Au particle size or loading. This further confirms H* is associated with the support.
+Adsorption energetics
+Figure
+4c
+shows Δ
+G
+H*
+values extracted from the isotherms in Fig.
+2b
+; Δ
+G
+H*
+values vary by ~20 kJ mol
+−1
+and are consistent with weak adsorption. Plots of Δ
+G
+H*
+versus H* surface concentration for these data are in Fig.
+4d
+. At any given surface concentration, Δ
+G
+H*
+becomes more favourable as temperature increases. However, when the same data are plotted as Δ
+G
+H*
+versus
+P
+H2
+(Fig.
+4e
+) adsorption energies show the same pressure dependence and are indistinguishable from the catalysts with different Au loadings. This is remarkable behaviour with little precedent in the adsorption literature. As we detail below, it is consistent with an increase in adsorption sites with increasing temperature.
+To examine this possibility, we plotted the extracted Langmuir parameters versus temperature, focusing on the data collected at 25 Torr to simplify quantitative comparisons. Figure
+4f
+shows
+\({K}_{25}^{* }\)
+is constant with temperature, consistent with Fig.
+4e
+. Simultaneously the ‘maximum’ surface concentration (
+surf
+\({C}_{25}^{* }\)
+) increases by ~50%, indicating the number of adsorption sites increases with increasing temperature. The data in Fig.
+4e
+largely represent the strong sites in the two-site Langmuir model; the weak sites show the same temperature dependence:
+K
+remains constant while the number of sites increases with temperature (
+Supplementary Information
+section 9). Van’t Hoff analysis (
+Supplementary Information
+section 5) yields a thermoneutral adsorption enthalpy (ΔH
+ads
+= 0 ± 2 kJ mol
+−1
+) and a favourable adsorption entropy (Δ
+S
+ads
+= +49 ± 6 J mol
+−1
+K
+−1
+). Thus, H* adsorption involves two properties distinct from traditional adsorption models: a temperature-dependent change in the number of accessible adsorption sites and entropy driven adsorption.
+Entropy-driven adsorption
+Adsorption entropies are of fundamental importance and increasing interest
+39
+,
+40
+,
+41
+,
+42
+,
+43
+, but their influences are often obscured by large enthalpic contributions to the adsorption free energy. The adsorption enthalpy for H
+2
+on Au/TiO
+2
+is approximately 0; additionally, H
+2
+does not reduce titania under these conditions. This is fortuitous as a thermoneutral adsorption process provides an ideal opportunity to experimentally study adsorption entropy. Other systems will need to account for measured adsorption enthalpy values and potentially deal with support reduction. We first address the entropic driving force, following Vannice’s two-step dissociative adsorption procedure for calculating ∆
+S
+ads
+(see ‘Entropy calculations’ in
+Supplementary Discussion
+)
+44
+. As Fig.
+5
+shows, we consider gas-phase H
+2
+dissociation (
+\(1,\,{\Delta S}_{{{\mathrm{dissoc}}}}^{^\circ }\)
+) followed by adsorption conceptualized as the loss of all gas-phase entropy (
+\(2,\,-{S}_{{\mathrm{H}}}^{^\circ }\)
+). The entropy of the adsorbed species (
+\(3,\,{S}_{{\mathrm{H}}* }\)
+) is added to determine the net adsorption entropy change (
+\({\Delta S}_{{\mathrm{H}}* }\)
+). Since dissociation doubles the number of species,
+\({S}_{{\mathrm{H}}* }\)
+need only exceed 64 J mol
+−1
+K
+−1
+for an entropically favourable process (∆
+S
+H*
+> 0).
+Fig. 5: Entropy diagram for H* adsorption at 25 °C.
+Energy diagram showing changes in standard entropy for H
+2
+dissociation and adsorption on a solid. The entropy loss due to H atom immobilization on the surface is balanced offset by the entropy gains due to H–H bond dissociation and H surface entropy (translational, configurational and vibrational entropy). When the standard surface entropy of the adsorbed H atoms exceeds 64 J mol
+−1
+K
+−1
+, H adsorption is entropically favourable.
+Full size image
+As Campbell et al.’s work succinctly articulates, adsorbate surface entropy is coverage dependent, composed of translational, configurational and vibrational components
+39
+,
+40
+. Based on the number or additional vibrational modes, the maximum vibrational entropy is 12 J mol
+−1
+K
+−1
+(details in
+Supplementary Information
+). This value is small relative to the observed changes and reasonable experimental uncertainty, so vibrational entropy effects are excluded from the following analysis. Both Vannice and Campbell quantify translational entropy (
+tr
+S
+) by treating the adsorbate as a 2D ideal gas with modified versions of the Sackur–Tetrode equation
+39
+,
+40
+. We use a slightly modified version of Vannice’s treatment, describing
+tr
+S
+with equation (
+1
+):
+$${S}_{{{\mathrm{tr}}}}=R\mathrm{ln}({aMT}\beta )$$
+(1)
+where
+M
+is molar mass,
+T
+is absolute temperature and
+α
+is the area available to each adsorbate, which is simply the inverse of the H* surface concentration. The
+β
+term is a collection of fundamental constants; for
+α
+values expressed in units of nm
+2
+per adsorbate,
+β
+has a value of 2.42328 mol g
+−1
+K
+−1
+nm
+−2
+(details in
+Supplementary Discussion
+). This equation is not specific to H* and can be used to determine the translational entropy of any adsorbate on any surface over which it can move, provided the adsorbate is a free translator, with diffusion barrier parallel to the surface <kT (the Boltzman’s constant x absolute temperature).
+The lines in Fig.
+6a
+are
+tr
+S
+H*
+values calculated at three temperatures. At any given temperature,
+tr
+S
+H*
+depends only on the surface concentration, reflecting the area over which each adsorbate can freely traverse; it is conceptually analogous to pressure of a 3D gas. At low surface concentrations, adsorbates move over large areas and
+tr
+S
+H*
+exceeds 100 J mol
+−1
+K
+−1
+. This is sufficient to drive H
+2
+adsorption. Conceptually, at the low surface densities H*, the loss of one gas-phase translational degree of freedom from H
+2
+is compensated by the doubling of adsorbed species and the large 2D translational area.
+Fig. 6: Entropic contributions to hydrogen spillover energetics.
+a
+, Experimentally determined (symbols) and calculated (lines)
+S
+H*
+values based only on translational entropy contributions (
+tr
+S
+H*
+). The horizontal line approximates the minimum
+S
+H*
+required for a net favourable adsorption entropy (∆
+S
+H*
+= 0) at 25 °C. The inset shows the same plot at experimentally relevant H* surface densities.
+b
+, Experimentally determined (symbols) and calculated (lines)
+S
+H*
+values including translational and configurational entropy contributions (
+(tr+config)
+S
+H*
+); for details, see
+Supplementary Discussion
+. The lines show the calculated
+S
+H*
+values at a specific temperature using a fitted number of adsorption sites (
+n
+s
+), which is required to determine the fractional coverage (equation (
+2
+)).
+Full size image
+Experimental Δ
+S
+H*
+(
+θ
+) values determined from the Δ
+G
+H*
+values (Fig.
+4d
+) show the same trend as calculated
+tr
+S
+H*
+(
+θ
+) values. Closer examination (Fig.
+6a
+inset) reveals the
+tr
+S
+values vary minimally with temperature. While translational entropy is sufficient to explain entropy-driven adsorption, it cannot account for the higher surface concentration (more H*) at higher temperatures. We therefore considered configurational entropy (
+config
+S
+H*
+), which is immaterial in a 3D gas, but arises from surface–adsorbate interactions. This is conceptually analogous to the difference between He and H
+2
+gas: the interaction between H atoms gives rise to vibrational and rotational entropies that are not present in He.
+Using Campbell’s hindered translator model
+39
+, configurational entropy is described by
+$${}_{{\mathrm{config}}}S=R\left[{\mathrm{ln}}\left(\frac{1-\theta }{\theta }\right)-\frac{{\mathrm{ln}}(1-\theta )}{\theta }\right]$$
+(2)
+Fractional coverage (
+θ
+) is required and conventionally defined as
+\(\theta =\frac{{n}_{{\mathrm{H}}* }}{{n}_{{\mathrm{s}}}}\)
+where
+n
+H*
+is the H* surface concentration and
+n
+s
+is the adsorption site density. Quantifying
+config
+S
+H*
+requires estimating the number of available adsorption sites. Figure
+6b
+shows
+(tr+config)
+S
+H*
+values fitted to reasonable
+n
+s
+values. The model only describes the experimental data if the adsorption site density (
+n
+s
+, sites nm
+−2
+) increases with temperature.
+Nature of spillover hydrogen
+Spillover is primarily associated with semiconducting supports, so we considered electronic explanations
+1
+,
+3
+. However, the population of surface conduction band states increases with temperature (
+Supplementary Discussion
+), which should inhibit H* adsorption. Previous density functional theory (DFT) calculations indicate H
+MSI
+can be described as
+MSI
+TiOH
+2
++
+, accompanied by an electron delocalized across
+MSI
+TiOH
+2
++
+, the Au nanorod, and nearby lattice O and Ti atoms
+33
+.
+IR spectroscopy shows hydrogen adsorption induces a broad background absorbance associated with electron transfer to the support
+33
+,
+34
+,
+35
+. Morris
+6
+and Zaera
+4
+independently described comparable spectroscopic signals arising from H interacting with TiO
+2
+photocatalysts
+6
+. The broad background absorbance signals associated with H
+MSI
+and H* are indistinguishable, indicating the two species are chemically similar. The interaction between
+MSI
+TiOH and the Au particles have allowed us to identify and assign IR signals to stretching and bending modes of TiOH
+2
++
+(ref.
+34
+); however, no comparable signals for H* are observable.
+DFT calculations on rutile (110) and anatase (001) at various coverages provide further insight into the nature of H*. Electron density difference plots at 0.1 H
++
+/e
+−
+per nm
+2
+(Fig.
+7a
+) show a proton coordinated to a basic surface hydroxyl (TiOH
+2
++
+). A concomitant lengthening of the Ti–O bond is observed, along with Bader charge analysis showing a net positive charge of ca. 2/3 |e
+−
+|, which is assigned to the OH
+2
+group. This suggests charge localization on the O atom only partially balances about 1/3 of the proton charge.
+Fig. 7: DFT model for H* adsorbed on rutile (110) and anatase (001).
+a
+–
+f
+, DFT calculations for H* adsorbed on fully hydroxylated rutile (110) at 0.1 H* nm
+−2
+(
+a
+and
+b
+), 2.5 H* nm
+−2
+(
+c
+and
+d
+) and anatase at 1.7 H* nm
+−2
+(
+e
+and
+f
+).
+a
+,
+c
+and
+e
+show changes in electron density;
+b
+,
+d
+and
+f
+show changes in electron spin density.
+Full size image
+Spin density difference analysis (Fig.
+7b
+) shows the remaining fraction of the accompanying electron is widely delocalized across multiple subsurface Ti atoms, even at the low surface concentrations comparable to experimental observations (rutile at 0.1 H
++
+/e
+−
+per nm
+2
+). With increasing surface concentrations (anatase with 1.7 H
++
+/e
+−
+and rutile with 2.5 H
++
+/e
+−
+per nm
+2
+), spin density difference analysis (Figs.
+7d,f
+) shows greater electron localization on terminal hydroxyl sites, changing their character from a formal Ti
+4+
+to Ti
+3+
+cation. This is similar to VandeVondele and co-workers’ conclusions for spillover calculations on Pt/TiO
+2
+(ref.
+45
+) and with our calculations for H
+MSI
+(ref.
+33
+).
+Accordingly, our data and calculations support the description of H* as a loosely coupled H
++
+/e
+−
+pair
+3
+, in which the adsorption sites are tied to both support electronic properties and surface proton transfer chemistry. The system is probably highly dynamic, consistent with rapid H/D exchange
+35
+. The broad electron delocalization at experimentally relevant surface concentrations suggests electron stabilization, while necessary, is of secondary importance. This is consistent with our kinetic observations for H
+2
+activation at the MSI, where electron transfer from Au to the support follows rate-determining proton transfer
+33
+. This paints a broadly consistent picture of the spillover phenomenon: dynamic adsorption sites are dominated by the ability to stabilize surface protons; associated electronic effects respond to and modify the adsorption sites.
+Surface hydroxyl autodissociation
+The surface hydroxyl density (~6 OH nm
+−2
+by termogravimetric analysis (TGA) is considerably larger than the H* adsorption site densities (<0.3 sites nm
+−2
+) required to describe the surface entropy (Fig.
+6
+). Given the importance of proton stabilization, a subset of the surface TiOH groups are good candidates for the H* adsorption sites. Titania surfaces are amphiprotic, containing weak acid (
+a
+TiOH) and weak base (
+b
+TiOH) sites. Proton transfer between these sites yields surface zwitterions, which are likely present in relatively low surface concentrations. Additionally, surface zwitterion generation is a dynamic equilibrium processes and therefore subject to potentially large temperature effects. These two criteria coincide with the two key criteria for H* adsorption sites.
+Surface zwitterion generation is conceptually equivalent to the well-known temperature effects on water autodissociation (
+K
+w
+). At 85 °C,
+K
+w
+= 6 × 10
+−13
+, yielding a neutral pH of 6.1. Thus, the H
+3
+O
++
+and OH
+−
+concentrations in water at 85 °C are nearly an order of magnitude higher than at 25 °C. Comparable chemistry between surface TiOH groups should increase surface zwitterion concentration with temperature, providing a plausible mechanism for increasing the H* site density.
+We tested this hypothesis using aqueous acid–base titrations of P-25 titania suspensions, determining the isoelectric point (IEP) and Brønsted acid–base parameters
+46
+. From 5 °C to 65 °C, the TiO
+2
+IEP shifts nearly a full pH unit (Fig.
+8a
+). Measured
+a
+TiOH and
+b
+TiOH site densities, are relatively constant (Fig.
+8b
+); the small changes are attributable to the temperature dependence of water density and dielectric constant
+47
+. Note the
+a
+TiOH and
+b
+TiOH site densities are measured with aqueous titrations, and are therefore subject to surface charging and counterion limitations. Thus, the number of proton exchange sites on highly hydroxylated surfaces is generally smaller than the total number of surface hydroxyls measured with TGA
+46
+.
+Fig. 8: Temperature dependence of TiO
+2
+surface hydroxyl chemistry.
+a
+, IEP measurements from 5 °C to 65 °C. The x-intercept indicates the point of zero charge (PZC).
+b
+, Surface proton donor (
+a
+TiOH) and acceptor (
+b
+TiOH) site densities determined from aqueous acid–base titrations. Error bars show the average standard deviation for all measurements in that series.
+c
+,
+K
+a
+and
+K
+b
+values for
+a
+TiOH and
+b
+TiOH sites in water, respectively.
+d
+, Plot of H* versus two parameters that scale with the surface zwitterion concentration (ZI).
+e
+, Schematic representation of temperature-induced changes in proton distribution across surface hydroxyls and impact on the number of accessible H* sites.
+Full size image
+Measured
+K
+a
+and
+K
+b
+values, on the other hand, increase by more than an order of magnitude from 5 °C to 65 °C (Fig.
+8c
+). While solvation energies complicate direct comparisons between aqueous and dry systems, Selloni’s work with thin layers of water on anatase
+8
+suggests trends in surface proton transfer chemistry are similar. In this context, H
+2
+adsorption can be described as a combination of three reactions: autoionization to form surface zwitterions, adsorption and spillover:
+$${\rm{autoionization}}\,{}_{{\rm{a}}}{{\rm{TiOH}}+}_{{\rm{b}}}{\rm{TiOH}}\rightleftharpoons {}_{{\rm{a}}}{\rm{T}}{{\rm{iO}}}^{-}{+}_{{\rm{b}}}{{{\rm{TiOH}}}_{2}}^{+}$$
+(3)
+$${\rm{adsorption}}\,1/2{{\rm{H}}}_{2}+{\rm{MSI}}-{\rm{OH}}\rightleftharpoons {{\rm{H}}}_{{\rm{MSI}}}$$
+(4)
+$${\rm{spillover}}\,{{\rm{H}}}_{{\rm{MSI}}}+{}_{{\rm{a}}}{\rm{T}}{{\rm{iO}}}^{-}\rightleftharpoons {}_{{\rm{a}}}{\rm{T}}{{\rm{iO}}}^{-}{{\rm{H}}}^{\ast }+{\rm{MSI}}-{\rm{OH}}$$
+(5)
+$${\rm{netreaction}}\,1/2{{\rm{H}}}_{2}+{\rm{2TiOH}}\rightleftharpoons {}_{{\rm{a}}}{\rm{T}}{{\rm{iO}}}^{-}{{\rm{H}}}^{\ast }+{}_{{\rm{b}}}{\rm{T}}{{{\rm{iOH}}}_{2}}^{+}$$
+(6)
+There is considerable debate regarding the nature of adsorbed water on TiO
+2
+, particularly if it is dissociated, forming
+a
+TiOH and
+b
+TiOH hydroxyls, or remains as intact (strongly bound to Ti sites). We treat the surface as generic TiOH (dissociated water) for simplicity and clarity; however, an autoionization reaction can be applied to either case. Further, the final state of the system (reaction D) is exactly the same regardless of which way the surface and reaction are conceptualized. The key concept is the role of proton transfer in increasing surface zwitterion concentration or stabilizing added protons from H*.
+Combined with the surface entropy discussion, this relatively simple model, shown schematically in Fig.
+8d
+), accounts for all our observations. The individual isotherm experiments shown in Figs.
+1
+,
+3
+and
+4
+probe reactions 4 and 5 only. In these experiments, the adsorption capacity at any given temperature is related to the total number of surface zwitterions present at that temperature. The van’t Hoff analysis (Fig.
+4f
+) quantifies the temperature effects on H* adsorption (reaction 6) and therefore includes increases in the surface zwitterion concentration with increasing temperature. The aqueous titration data can be used to estimate the surface zwitterion concentration (
+Supplementary Discussion
+); Fig.
+8e
+shows H* adsorption is highly correlated to this value. While the absolute value of the surface zwitterion concentration probably changes from aqueous to dry environments, the trends in surface proton transfer chemistry appear to be very similar and explain the increases in H* sites with temperature
+8
+.
+Van Bokhoven’s experiments showed reduction of FeO
+x
+via spillover hydrogen is orders of magnitude faster on TiO
+2
+relative to Al
+2
+O
+3
+(ref.
+1
+). However, spillover on alumina, which has a band gap of ~7 eV, was still observed. Our model also provides a framework for understanding reports of spillover on non-reducible oxides, such as in Van Bokhoven’s work. The H* translational entropy, which is the primary thermodynamic driving force for spillover, depends only on the H* surface concentration and is therefore independent of the metal oxide identity. This entropic driving force is balanced against enthalpic energies associated with stabilizing the proton and electron; for alumina, the large band gap coincides with a large and unfavorable adsorption enthalpy. While H* adsorption on TiO
+2
+is essentially thermoneutral, adsorption enthalpies are expected to vary widely with the support identity and must be accounted for to extend the model to other systems. However, Fig.
+6
+shows the translational entropy approaches infinity as the H* coverage approaches zero; consequently, large enthalpic barriers to H* adsorption may be overcome at exceedingly low coverages. Thus, this model provides a clear lens through which future results can be viewed.
+Spillover also occurs at higher temperatures on surfaces where few hydroxyl groups are available
+48
+. While the involvement of surface zwitterions requires the presence of surface hydroxyls, the broader entropic models should apply equally well to dehydroxylated surfaces at higher temperatures. The only real requirement for spillover in our model is that the surface must be able to accommodate both protons and electrons; so long as both of these species are stabilized, the basic conclusions regarding entropy should apply to most surfaces. We are now beginning to test this hypothesis.
+This provides similar insight into the high H
+2
+evolution activity of Au/TiO
+2
+, despite its being a generally poor hydrogenation catalyst. Zaera’s experiments suggested H
+2
+evolution proceeds through reduction of surface protons at metal or MSI sites on Au/TiO
+2
+and other doped titanias
+4
+. Similarly, Selloni showed surface protonation is required for hole transfer to the surface in photocatalytic methanol oxidation
+49
+. Building on their work, our model and DFT calculations show surface hydroxyls help localize electrons near the support surface, probably slowing electron–hole recombination. Surface proton and electron mobility similarly provide clear transport pathways to rapidly move both to catalytic sites at the MSI.
+Conclusions
+In summary, our experiments and models show entropy can drive adsorption processes when surface concentrations are low. This provides a robust description of both the nature of and driving force for hydrogen spillover on TiO
+2
+, which is fundamentally driven by large translational entropy at low H* coverage. In the specific case of metal oxide supports, where spillover is most prominent on reducible semiconductors, the ability to stabilize added electrons appears to be necessary, but not sufficient. Surface hydroxyls (and/or oxo groups) play a critical role in stabilizing spillover protons at surface zwitterion sites, while electrons are broadly delocalized. These thermodynamics are general drivers for spillover and therefore inform other systems, including single-atom alloys
+9
+,
+10
+,
+11
+, high-entropy alloys
+12
+, metal–organic frameworks
+13
+and metal–semiconductor photoelectrodes
+14
+. The adsorption enthalpies for spillover and surface reducibility may vary widely and will substantially impact the details spillover versus support reduction from one system to the next, requiring further study. However, this work shows spillover to be an entropy-driven adsorption phenomenon that is intimately tied to the support’s ability to stabilize both surface protons and subsurface electrons.
+Methods
+Chemicals
+Gases (H
+2
+and N
+2
+) were 5.0 grade supplied by Praxair. Water was purified to a resistivity of 20 MΩ with a Elga Purelab Ultra (Evoqua) system; no additional purification methods were employed. HAuCl
+4
+•3H
+2
+O (99.7%) was purchased from Sigma-Aldrich. NH
+4
+OH (29.3 w/w%) was purchased from Fisher Scientific. Urea (99.5%) was purchased from Acros Organics. Evonik P-25 TiO
+2
+was generously supplied by Evonik Industries.
+Catalyst preparation
+Au/TiO
+2
+catalysts were synthesized in a foil-wrapped flask via urea deposition–precipitation
+35
+. The desired amount of HAuCl
+4
+•3H
+2
+O and urea (2.52 g, 0.42 M) were added to 250 ml H
+2
+O with stirring. This yellow/orange solution was heated with stirring until the temperature was stable at 80 °C. TiO
+2
+powder (6 g) was then added, and the slurry was stirred at 80 °C for 4 h. After 4 h, the stirring was stopped and the solution was allowed to cool to room temperature, resulting in a yellow paste and clear solution. The solid was isolated via vacuum filtration and washed thoroughly with ~100 ml H
+2
+O followed by ~100 ml 0.1 M NH
+4
+OH, and then H
+2
+O until the filtrate was pH 7; the absence of Au and Cl
+−
+were confirmed with NaBH
+4
+and AgNO
+3
+tests, respectively. The washed solid was dried at room temperature under vacuum for 16 h and stored at 4 °C under air.
+The Au/TiO
+2
+catalysts were prepared by heating the supported precursors in flowing 50% v/v H
+2
+and N
+2
+. The material was loaded into a tube furnace, heated at 5 °C min
+−1
+to desired temperature (Supplementary Table
+1
+) and held at the reduction temperature for 1 h, cooled to room temperature and stored at 4 °C under air.
+Volumetric H
+2
+adsorption
+All volumetric adsorption experiments were performed on a Micromeritics ASAP 2020. Previously pre-treated catalysts (that is, previously reduced supported Au precursor) were used for H
+2
+adsorption studies. The sample (200–300 mg) was loaded into a U-tube, evacuated at 150 °C for 1 h and then reduced in flowing H
+2
+at 150 °C for 1 h to remove any adsorbed oxygen. Following the pre-treatment, the sample was evacuated, purged with helium for 30 min and cooled to the analysis temperature under an active vacuum. A series of two isotherm H
+2
+adsorption experiments were performed at 60, 90 and 120 °C; the sample was evacuated to at least 10 μm Hg for 1 h at the adsorption temperature between isotherms.
+We note any adsorbed oxygen in the system must be removed before reversible H
+2
+adsorption can be observed either via volumetric adsorption or with Fourier-transform infra-red spectroscopy (FTIR) spectroscopy. Once care is taken to remove adsorbed oxygen, the first and the second isotherms are essentially indistinguishable. Therefore, for all further volumetric adsorption measurements described hereafter, reported hydrogen uptakes were determined by averaging the first and second isotherms at each pressure point.
+FTIR spectroscopy
+IR spectra were collected on a Thermo Nicolet Nexus 470 FTIR spectrometer in a home-built heated (20–300 °C) transmission flow cell. Gas flow rates were controlled using rotameters calibrated with a bubble flowmeter. Water in the feed gases was minimized by passing the reactive gas through a dry ice–isopropanol moisture trap immediately before entering the IR cell. For H
+2
+adsorption experiments, ~40–50 mg of catalyst sample was pressed (3 tons of pressure for 10 s) into a 13 mm circular pellet, which was mounted in the flow cell. The sample pellet was pre-treated under 25 standard cubic centimetres per minute (SCCM) of N
+2
+at 300 °C for 1 h to eliminate surface carbonates, and then cooled to 50 °C. The vapour pressure of water at −78 °C is 0.5 mTorr (660 ppb). Even with the dry ice–isopropanol bath, sub-ppm levels of residual water from the gas stream adsorb on the surface at lower temperatures. We allowed the surface water coverage to equilibrate until the water bending band at 1,620 cm
+−1
+was stable before conducting further experiments. On the basis of our previous work and the absorbance of the
+δ
+HOH
+bending vibration, we estimate the surface water coverage to be around 2–3 H
+2
+O molecules nm
+−2
+(ref.
+21
+).
+After stabilization of the water bending mode, a mixture of 20 SCCM H
+2
+and 25 SCCM N
+2
+was flowed over the catalyst at 50 °C for 1 h to ensure no weakly adsorbed O
+2
+remained on the pellet. Catalysts were kept under N
+2
+flow to ensure the weakly adsorbed H
+2
+is removed. H
+2
+adsorption experiments were then performed at desired temperatures by flowing the desired ratio of H
+2
+and N
+2
+over the catalyst.
+Transmission electron microscopy
+Gold particle sizes were determined with transmission electron microscopy (TEM). Catalysts were imaged with scanning/transmission electron microscopy using an FEI Talos F200X microscope at an accelerating voltage of 200 kV. A small quantity of each sample was crushed in an agate mortar and dispersed in ethanol with sonication. A few drops of this suspension were placed on a Cu TEM grid (Ted Pella) and allowed to dry before inserting into the microscope for analysis. The number-averaged diameter for Au nanoparticles was determined with ImageJ from the measurement of >200 particles (Supplementary Fig.
+1
+). Supplementary Table
+1
+compiles TEM, and BET characterization data for the catalysts studied in this work. Error bars associated with the diameter represent the standard deviation of the distribution.
+Data availability
+Raw data are available through ScholarSphere, Penn State’s open access repository at
+https://scholarsphere.psu.edu/
+or available from the authors upon reasonable request. The atomic coordinates of the models in DFT calculations of charge density difference and spin density are provided in Supplementary Data
+1
+.
+References
+Karim, W. et al. Catalyst support effects on hydrogen spillover.
+Nature
+541
+, 68–71 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Hülsey, M. J., Fung, V., Hou, X., Wu, J. & Yan, N. Hydrogen spillover and its relation to hydrogenation: observations on structurally defined single-atom sites.
+Angew. Chem. Int. Ed.
+61
+, e202208237 (2022).
+Article
+Google Scholar
+Prins, R. Hydrogen spillover. Facts and fiction.
+Chem. Rev.
+112
+, 2714–2738 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Joo, J. B. et al. Promotion of atomic hydrogen recombination as an alternative to electron trapping for the role of metals in the photocatalytic production of H2.
+Proc. Natl Acad. Sci. USA
+111
+, 7942–7947 (2014).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Primo, A., Corma, A. & García, H. Titania supported gold nanoparticles as photocatalyst.
+Phys. Chem. Chem. Phys.
+13
+, 886–910 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Panayotov, D. A. & Morris, J. R. Surface chemistry of Au/TiO
+2
+: thermally and photolytically activated reactions.
+Surf. Sci. Rep.
+71
+, 77–271 (2016).
+Article
+CAS
+Google Scholar
+Chen, X., Liu, L., Yu, P. Y. & Mao, S. S. Increasing solar absorption for photocatalysis with black hydrogenated titanium dioxide nanocrystals.
+Science
+331
+, 746–750 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Lu, Y. et al. Self-hydrogenated shell promoting photocatalytic H
+2
+evolution on anatase TiO
+2
+.
+Nat. Commun.
+9
+, 2752 (2018).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Lucci, F. R. et al. Selective hydrogenation of 1,3-butadiene on platinum-copper alloys at the single-atom limit.
+Nat. Commun
+.
+https://doi.org/10.1038/ncomms9550
+(2015).
+Darby, M. T., Stamatakis, M., Michaelides, A. & Sykes, E. C. H. Lonely atoms with special gifts: breaking linear scaling relationships in heterogeneous catalysis with single-atom alloys.
+J. Phys. Chem. Lett.
+9
+, 5636–5646 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+O’Connor, C. R. et al. Facilitating hydrogen atom migration via a dense phase on palladium islands to a surrounding silver surface.
+Proc. Natl Acad. Sci. USA
+117
+, 22657–22664 (2020).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Mori, K. et al. Hydrogen spillover-driven synthesis of high-entropy alloy nanoparticles as a robust catalyst for CO
+2
+hydrogenation.
+Nat. Commun.
+12
+, 3884 (2021).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Li, Y. & Yang, R. T. Significantly enhanced hydrogen storage in metal–organic frameworks via spillover.
+J. Am. Chem. Soc.
+128
+, 726–727 (2006).
+Article
+CAS
+PubMed
+Google Scholar
+Esposito, D. V., Levin, I., Moffat, T. P. & Talin, A. A. H
+2
+evolution at Si-based metal–insulator–semiconductor photoelectrodes enhanced by inversion channel charge collection and H spillover.
+Nat. Mater.
+12
+, 562–568 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Kumaravel, V., Mathew, S., Bartlett, J. & Pillai, S. C. Photocatalytic hydrogen production using metal doped TiO
+2
+: a review of recent advances.
+Appl. Catal. B
+244
+, 1021–1064 (2019).
+Article
+CAS
+Google Scholar
+Sampath, A. et al. Spectroscopic evidence for the involvement of interfacial sites in O–O bond activation over gold catalysts.
+ACS Catal.
+12
+, 9549–9558 (2022).
+Article
+CAS
+Google Scholar
+Cargnello, M. et al. Control of metal nanocrystal size reveals metal–support interface role for ceria catalysts.
+Science
+341
+, 771–773 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Frey, H., Beck, A., Huang, X., Bokhoven, J. A. V. & Willinger, M. G. Dynamic interplay between metal nanoparticles and oxide support under redox conditions.
+Science
+376
+, 982–987 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Rolison, D. R. et al. Power of aerogel platforms to explore mesoscale transport in catalysis.
+ACS Appl. Mater. Interfaces
+12
+, 41277–41287 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Sankar, M. et al. Role of the support in gold-containing nanoparticles as heterogeneous catalysts.
+Chem. Rev.
+120
+, 3890–3938 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Saavedra, J., Doan, H. A., Pursell, C. J., Grabow, L. C. & Chandler, B. D. The critical role of water at the gold–titania interface in catalytic CO oxidation.
+Science
+345
+, 1599–1602 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Yuan, W. et al. In situ manipulation of the active Au–TiO
+2
+interface with atomic precision during CO oxidation.
+Science
+371
+, 517–521 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Green, I. X., Tang, W., Neurock, M. & Yates, J. T. Jr. Spectroscopic observation of dual catalytic sites during oxidation of CO on a Au/TiO
+2
+catalyst.
+Science
+333
+, 736–739 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Corma, A. & Garcia, H. Supported gold nanoparticles as catalysts for organic reactions.
+Chem. Soc. Rev.
+37
+, 2096–2126 (2008).
+Article
+CAS
+PubMed
+Google Scholar
+Hashmi, S. K. & Hutchings Graham, J. Gold catalysis.
+Angew. Chem. Int. Ed. Engl.
+45
+, 7896–7936 (2006).
+Article
+PubMed
+Google Scholar
+Zhang, Y., Cui, X., Shi, F. & Deng, Y. Nano-gold catalysis in fine chemical synthesis.
+Chem. Rev.
+112
+, 2467–2505 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Ojeda, M. & Iglesia, E. Formic acid dehydrogenation on Au-based catalysts at near-ambient temperatures.
+Angew. Chem. Int. Ed.
+48
+, 4800–4803 (2009).
+Article
+CAS
+Google Scholar
+Rodriguez, J. A. et al. Activity of CeO
+x
+and TiO
+x
+nanoparticles grown on Au(111) in the water–gas shift reaction.
+Science
+318
+, 1757–1760 (2007).
+Article
+CAS
+PubMed
+Google Scholar
+Shekhar, M. et al. Size and support effects for the water–gas shift catalysis over gold nanoparticles supported on model Al
+2
+O
+3
+and TiO
+2
+.
+J. Am. Chem. Soc.
+134
+, 4700–4708 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Mitsudome, T. & Kaneda, K. Gold nanoparticle catalysts for selective hydrogenations.
+Green. Chem.
+15
+, 2636–2654 (2013).
+Article
+CAS
+Google Scholar
+Sault, A. G., Madix, R. J. & Campbell, C. T. Adsorption of oxygen and hydrogen on gold(110)-(1 × 2).
+Surf. Sci.
+169
+, 347 (1986).
+Article
+CAS
+Google Scholar
+Whittaker, T. et al. H
+2
+oxidation over supported Au nanoparticle catalysts: evidence for heterolytic H
+2
+activation at the metal–support interface.
+J. Am. Chem. Soc.
+140
+, 16469–16487 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Sravan Kumar, K. B., Whittaker, T. N., Peterson, C., Grabow, L. C. & Chandler, B. D. Water poisons H
+2
+activation at the Au–TiO
+2
+interface by slowing proton and electron transfer between Au and titania.
+J. Am. Chem. Soc.
+142
+, 5760–5772 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Mahdavi-Shakib, A., Rich, L. C., Whittaker, T. N. & Chandler, B. D. Hydrogen adsorption at the Au/TiO
+2
+interface: quantitative determination and spectroscopic signature of the reactive interface hydroxyl groups at the active site.
+ACS Catal.
+11
+, 15194–15202 (2021).
+Article
+CAS
+Google Scholar
+Mahdavi-Shakib, A. et al. Kinetics of H
+2
+adsorption at the metal–support interface of Au/TiO
+2
+catalysts probed by broad background IR absorbance.
+Angew. Chem. Int. Ed.
+60
+, 7735–7743 (2021).
+Article
+CAS
+Google Scholar
+Honkala, K. et al. Ammonia synthesis from first-principles calculations.
+Science
+307
+, 555–558 (2005).
+Article
+CAS
+PubMed
+Google Scholar
+Rekharsky, M., Inoue, Y., Tobey, S., Metzger, A. & Anslyn, E. Ion-pairing molecular recognition in water: aggregation at low concentrations that is entropy-driven.
+J. Am. Chem. Soc.
+124
+, 14959–14967 (2002).
+Article
+CAS
+PubMed
+Google Scholar
+Hartshorn, H., Pursell, C. J. & Chandler, B. D. Adsorption of CO on supported gold nanoparticle catalysts: a comparative study.
+J. Phys. Chem. C
+113
+, 10718–10725 (2009).
+Article
+CAS
+Google Scholar
+Campbell, C. T., Sprowl, L. H. & Árnadóttir, L. Equilibrium constants and rate constants for adsorbates: two-dimensional (2D) ideal gas, 2D ideal lattice gas, and ideal hindered translator models.
+J. Phys. Chem. C
+120
+, 10283–10297 (2016).
+Article
+CAS
+Google Scholar
+Campbell, C. T. & Sellers, J. R. V. The entropies of adsorbed molecules.
+J. Am. Chem. Soc.
+134
+, 18109–18115 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Campbell, C. T. & Sellers, J. R. V. Enthalpies and entropies of adsorption on well-defined oxide surfaces: experimental measurements.
+Chem. Rev.
+113
+, 4106–4135 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Savara, A., Schmidt, C. M., Geiger, F. M. & Weitz, E. Adsorption entropies and enthalpies and their implications for adsorbate dynamics.
+J. Phys. Chem. C
+113
+, 2806–2815 (2009).
+Article
+CAS
+Google Scholar
+Collinge, G. et al. Effect of collective dynamics and anharmonicity on entropy in heterogeneous catalysis: building the case for advanced molecular simulations.
+ACS Catal.
+10
+, 9236–9260 (2020).
+Article
+CAS
+Google Scholar
+Vannice, M. A., Hyun, S. H., Kalpakci, B. & Liauh, W. C. Entropies of adsorption in heterogeneous catalytic reactions.
+J. Catal.
+56
+, 358–362 (1979).
+Article
+CAS
+Google Scholar
+Spreafico, C., Karim, W., Ekinci, Y., van Bokhoven, J. A. & VandeVondele, J. Hydrogen adsorption on nanosized platinum and dynamics of spillover onto alumina and titania.
+J. Phys. Chem. C
+121
+, 17862–17872 (2017).
+Article
+CAS
+Google Scholar
+Yun, T. Y. & Chandler, B. D. Surface hydroxyl chemistry of titania- and alumina-based supports: quantitative titration and temperature dependence of surface Brønsted acid–base parameters.
+ACS Appl. Mater. Interfaces
+15
+, 6868–6876 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Luetzenkirchen, J. & Finck, N. Treatment of temperature dependence of interfacial speciation by speciation codes and temperature congruence of oxide surface charge.
+Appl. Geochem.
+102
+, 26–33 (2019).
+Article
+CAS
+Google Scholar
+Beaumont, S. K., Alayoglu, S., Specht, C., Kruse, N. & Somorjai, G. A. A nanoscale demonstration of hydrogen atom spillover and surface diffusion across silica using the kinetics of CO
+2
+methanation catalyzed on spatially separate Pt and Co nanoparticles.
+Nano Lett.
+14
+, 4792–4796 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Setvin, M. et al. Methanol on anatase TiO
+2
+(101): mechanistic insights into photocatalysis.
+ACS Catal.
+7
+, 7081–7091 (2017).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Download references
+Acknowledgements
+The authors gratefully acknowledge the Department of Energy Basic Energy Sciences Program (DE-SC0022053 and DE-SC0016192) for primary support of this work. Preliminary experiments were supported by the National Science Foundation (CBET-1803769, 1803808 and 2102430) and the Research Corporation for Science Advancement. The computational work was completed with resources provided by the Research Computing Data Core at the University of Houston. We thank M. Janik at Penn State for invaluable discussions and T. Xie for his assistance in collecting TEM data.
+Author information
+Author notes
+K. B. Sravan Kumar
+Present address: Umicore AG & Co. KG, Hanau, Germany
+These authors contributed equally: Akbar Mahdavi-Shakib, Todd N. Whittaker.
+Authors and Affiliations
+Department of Chemical Engineering, The Pennsylvania State University, University Park, PA, USA
+Akbar Mahdavi-Shakib, Tae Yong Yun, Robert M. Rioux & Bert D. Chandler
+Department of Chemistry, Trinity University, San Antonio, TX, USA
+Todd N. Whittaker & Lauren C. Rich
+Department of Chemical and Biological Engineering, The University of Colorado, Boulder, CO, USA
+Todd N. Whittaker
+Department of Chemical and Biomolecular Engineering, University of Houston, Houston, TX, USA
+K. B. Sravan Kumar, Shengguang Wang & Lars C. Grabow
+Department of Chemistry, The Pennsylvania State University, University Park, PA, USA
+Robert M. Rioux & Bert D. Chandler
+Texas Center for Superconductivity at the University of Houston (TcSUH), University of Houston, Houston, TX, USA
+Lars C. Grabow
+Authors
+Akbar Mahdavi-Shakib
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Todd N. Whittaker
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tae Yong Yun
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+K. B. Sravan Kumar
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lauren C. Rich
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shengguang Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Robert M. Rioux
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lars C. Grabow
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bert D. Chandler
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Conceptualization: B.D.C., T.N.W. and A.M.-S. Formal analysis: A.M.-S., T.N.W., T.Y.Y., S.W., K.B.S.K. and L.C.R. Funding acquisition: B.D.C., L.C.G. and R.M.R. Investigation: A.M.-S., T.N.W., T.Y.Y., L.C.R., S.W. and K.B.S.K. Methodology: A.M.-S., T.N.W., T.Y.Y. and S.G. Project administration: B.D.C. Supervision: B.D.C., A.M.-S. and L.C.G. Visualization: A.M.-S., T.N.W., T.Y.Y. and S.W. Writing—original draft: B.D.C. and A.M.-S. Writing—review and editing: T.N.W., R.M.R., L.C.G., S.W. and K.B.S.K.
+Corresponding author
+Correspondence to
+Bert D. Chandler
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks Charles Campbell, Shuai Wang and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Methods, Discussion, Figs. 1–19, Tables 1–7 and References.
+Supplementary Data 1
+This document contains the atomic coordinates of the models in DFT calculations of charge density difference and spin density.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Mahdavi-Shakib, A., Whittaker, T.N., Yun, T.Y.
+et al.
+The role of surface hydroxyls in the entropy-driven adsorption and spillover of H
+2
+on Au/TiO
+2
+catalysts.
+Nat Catal
+6
+, 710–719 (2023). https://doi.org/10.1038/s41929-023-00996-3
+Download citation
+Received
+:
+17 January 2023
+Accepted
+:
+05 July 2023
+Published
+:
+10 August 2023
+Issue Date
+:
+August 2023
+DOI
+:
+https://doi.org/10.1038/s41929-023-00996-3
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Collection
+Chemical Engineering Distilled
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

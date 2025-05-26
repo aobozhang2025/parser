@@ -1,0 +1,1562 @@
+A heterogeneous iridium single-atom-site catalyst for highly regioselective carbenoid O–H bond insertion | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+A heterogeneous iridium single-atom-site catalyst for highly regioselective carbenoid O–H bond insertion
+Download PDF
+Article
+Published:
+21 June 2021
+A heterogeneous iridium single-atom-site catalyst for highly regioselective carbenoid O–H bond insertion
+Jie Zhao
+ORCID:
+orcid.org/0000-0002-0451-0919
+1
+na1
+,
+Shufang Ji
+2
+na1
+,
+Chenxi Guo
+3
+na1
+,
+Haijing Li
+4
+,
+Juncai Dong
+ORCID:
+orcid.org/0000-0001-8860-093X
+4
+,
+Ping Guo
+1
+,
+Dingsheng Wang
+ORCID:
+orcid.org/0000-0003-0074-7633
+2
+,
+Yadong Li
+ORCID:
+orcid.org/0000-0003-1544-1127
+2
+&
+…
+F. Dean Toste
+ORCID:
+orcid.org/0000-0001-8018-2198
+5
+,
+6
+Show authors
+Nature Catalysis
+volume
+4
+,
+pages
+523–531 (
+2021
+)
+Cite this article
+10k
+Accesses
+19
+Altmetric
+Metrics
+details
+Subjects
+Catalyst synthesis
+Catalytic mechanisms
+Heterogeneous catalysis
+Homogeneous catalysis
+Abstract
+Transition-metal-catalysed carbenoid insertion of hydroxyl groups represents a robust and versatile method to forge C–O bonds. Achieving site-selective functionalization of alcohols using this transformation has undoubted synthetic value but remains challenging. Here we report a strategy for selective carbenoid O–H insertion that exploits an engineered heterogeneous iridium single-atom catalyst, thus providing opportunities for organic transformations by merging material science and catalysis. This catalytic protocol delivers excellent selectivities (up to 99:1) for the functionalization of aliphatic over phenolic O–H bonds, whereas the analogous homogeneous catalyst, Ir(ttp)COCl (ttp = 5,10,15,20-tetra-
+p
+-tolylporphyrinato), provided modest preferences. Density-functional-theory calculations suggest that the site-selectivity derives from the lower oxidation state of the iridium metal centre in the heterogeneous catalyst and its impact on the absorption energies of the reactants. These results showcase an example of a heterogeneous single-atom catalyst providing superior site-selectivity and provide a complementary strategy to address challenges in catalysis for organic synthesis.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Congested C(
+sp
+3
+)-rich architectures enabled by iron-catalysed conjunctive alkylation
+Article
+23 February 2024
+Allylic C(
+sp
+3
+)–H arylation of olefins via ternary catalysis
+Article
+12 January 2022
+Unlocking carbene reactivity by metallaphotoredox α-elimination
+Article
+06 June 2024
+Main
+Transition-metal-catalysed carbenoid insertion reactions have emerged as a powerful route in the construction of carbon–carbon and carbon–heteroatom bonds
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+. This elegant methodology most commonly employs diazo reagents to access the crucial metal carbene species, which participate in a wide range of reactivity modes
+9
+,
+10
+,
+11
+,
+12
+,
+13
+,
+14
+,
+15
+. For example, these metal carbene intermediates engage in dipolar cycloaddition reactions to rapidly construct biologically important heterocycles and macrocyclic molecules
+16
+,
+17
+, react with carbon–carbon
+π
+bonds to form highly substituted cyclopropanes
+7
+,
+18
+and have been employed in transition-metal-catalysed construction of stereogenic quaternary carbons
+19
+. Moreover, direct functionalization of carbon–hydrogen and heteroatom–hydrogen bonds via carbenoid insertion has gained much attention over the last decades
+2
+,
+3
+,
+20
+,
+21
+,
+22
+,
+23
+. The combination of a diverse set of transition metals and ligands is often the key to controlling the range of reactivity afforded by these intermediates and to leveraging their potential in the syntheses of pharmaceuticals and natural products.
+Along with these advances, enantioselective carbenoid insertion of O–H bonds
+4
+has also been well-established. In contrast, only a few methods to realize site-selective O–H insertion among various hydroxyl groups have been reported
+24
+,
+25
+. This challenge plausibly arises from the reactivity of the electron-withdrawing group typically present in the carbene intermediates, which further enhances the high electrophilicity of these species and renders control of site-selective insertion of a nucleophilic hydroxyl group difficult
+3
+. Notably, a selective O–H insertion of glycosides has been reported by Tang and co-workers; however, density-functional theory (DFT) calculations suggest that site selectivity and stereoselectivity are induced by the axial substituent adjacent to the reactive O–H moiety
+25
+. Encouraged by the high synthetic values of carbenoid insertion, we sought to explore single-atom-site (SAS) catalysts to promote and control these reactions with the goal of assessing this catalytic system as an opportunity to address the aforementioned challenge of selectivity.
+SAS catalysts have emerged as a versatile class of materials and are gaining attention in catalysis applications. Chemical modulation of the SAS support is often essential to achieve high catalytic reactivity
+26
+,
+27
+,
+28
+,
+29
+,
+30
+,
+31
+,
+32
+,
+33
+. Notably, in comparison to traditional heterogeneous catalysts based on metal clusters and nanoparticles, this unique class of SAS catalysts features atomically dispersed metal atoms immobilized on the supports
+34
+,
+35
+,
+36
+,
+37
+. Benefiting from maximized atom-utilization efficiency and fully exposed active sites, SAS catalysts exhibit excellent catalytic performance in a spectrum of organic transformations, as recently reported by our group and others
+38
+,
+39
+,
+40
+,
+41
+,
+42
+,
+43
+,
+44
+. The well-defined structure and coordination environment of the transition metal, in SAS catalysts, can lead to alternative modes of reactivity and provide opportunities to achieve chemo- and regioselective reactions. Moreover, in some cases, these features enable the identification of active sites and, as result, the study of catalytic mechanisms at the atomic level
+40
+,
+45
+,
+46
+,
+47
+,
+48
+,
+49
+,
+50
+,
+51
+,
+52
+,
+53
+,
+54
+,
+55
+.
+The vast majority of effort in this area has focused on the identification of potential SAS catalysts that give better reactivity than the corresponding transition metal nanoparticle- or cluster-based catalysts
+28
+,
+35
+. In contrast, studies aimed at discerning the selectivity differences between SAS and analogous homogeneous catalysts are rare
+56
+. In this respect, we were encouraged to evaluate the potential of SAS materials as a platform for the development of heterogenized homogeneous catalysts with the potential to access distinct selectivity in organic transformation. More specifically, in this article we describe the development of a designed iridium single-atom (Ir-SA) heterogeneous catalyst and compare its performance with its analogous homogeneous catalyst in carbenoid O–H insertions. Our SAS catalyst delivered excellent selectivities for carbenoid insertion into aliphatic O–H bonds, and the origin of this site selectivity was investigated by kinetic studies and DFT calculations.
+Results
+Synthesis and characterization of Ir-SA
+The fabrication process for the Ir-SA catalyst is schematically presented in Fig.
+1a
+. Zeolite imidazolate framework-8 (ZIF-8), dispersed uniformly in methanol solution, was introduced into a solution containing iridium(
+iv
+) chloride and the monomer poly(cyclotriphospazene-co-4,4′-sulfonyldiphenol) (PZS). Subsequently, trimethylamine-initiated polymerization of the poly(cyclotriphospazene-co-4,4′-sulfonyldiphenol) and iridium(
+iv
+) precursors on the surface of ZIF-8 produced the ZIF-8/Ir@PZS composites. As depicted in Supplementary Fig.
+1
+, the ZIF-8/Ir@PZS structure with a polyhedral morphology was obtained. Finally, the Ir-SA catalyst was supported on heteroatom-doped carbon by pyrolysis of ZIF-8/Ir@PZS at 950 °C under an argon atmosphere.
+Fig. 1: Synthesis and structural characterizations.
+a
+, Illustration of the fabrication process of Ir-SA catalyst. Zn, green tetrahedron; imidazole group, grey tetrahedron; Ir, purple; C, grey; N, blue; S, yellow; P, green.
+b
+, TEM image of Ir-SA catalyst.
+c
+, HAADF-STEM image of Ir-SA catalyst.
+d
+, HAADF-STEM image and element maps.
+e
+, AC HAADF-STEM image of Ir-SA catalyst.
+f
+, Enlarged AC HAADF-STEM image of Ir-SA catalyst.
+g
+, Intensity profiles of Ir-SA catalyst obtained in the blue rectangle in panel
+e
+.
+Full size image
+The sharp contrast between the edge and the centre in transmission electron microscopy (TEM) and high-angle annular dark-field scanning TEM (HAADF-STEM) images of this Ir-SA catalyst provided direct insight into the hollow interior (Fig.
+1b,c
+and Supplementary Fig.
+2
+) and support for the fact that the morphology of Ir-SA catalyst remains uniformly hollow. HAADF-STEM shows that no obvious metallic Ir nanoparticles were formed during the synthesis of the supported Ir-SA catalyst. Consistent with the HAADF-STEM results, the powder X-ray diffraction pattern of Ir-SA catalyst showed one broad peak located at about 25°, consistent with graphitic carbon, and no detectable metallic Ir nanoparticle signals (Supplementary Fig.
+3
+). The Ir content of the Ir-SA catalyst was found to be 2.20 wt% by inductively coupled plasma optical emission spectrometry. The energy-dispersive spectroscopy images of Ir-SA catalyst established that Ir, N, P, S and C were evenly dispersed throughout the hollow layer (Fig.
+1d
+). Moreover, aberration-corrected (AC) HAADF-STEM analysis revealed the dispersion state of iridium species at the atomic scale. As illustrated in Fig.
+1e,f
+, some individual bright dots, labelled with yellow circles, were clearly distinguished from the heteroatom-doped carbon support without any agglomeration, consistent with the existence of single Ir atoms in the Ir-SA catalyst. The atomic dispersion of iridium species in Ir-SA catalyst was confirmed by the analysis of intensity profiles (Fig.
+1g
+). In addition, the Brunauer–Emmett–Teller surface area (604.0 m
+2
+g
+-1
+) and pore size distribution (~0.5 nm) of the Ir-SA catalyst were calculated (Supplementary Fig.
+13
+), indicating that heterogeneous Ir-SA possesses a porous structure with a large surface area that provides access to the Ir-SA active sites.
+To further establish the chemical state of C, N, P and S in Ir-SA catalyst, X-ray photoelectron spectroscopy (XPS) analysis was performed. As shown in Supplementary Fig.
+4
+, four peaks at binding energies of 284.8 eV (C=C), 288.1 eV (C–N), 285.7 eV (C–P) and 284.6 eV (C–S) for the C 1
+s
+spectrum were fitted. The N 1
+s
+spectrum displays four peaks located at 398.6, 400.6, 401.2 and 403.8 eV, attributed to pyridinic N, pyrrolic N, graphitic N and pyridinic N
++
+–O
+−
+, respectively (Supplementary Fig.
+5
+). The presence of two peaks at binding energies of 132.5 and 133.8 eV in the P 2
+p
+spectrum indicate the existence of P–C and P–O, respectively (Supplementary Fig.
+6
+). As shown in the XPS spectrum of the S 2
+p
+spectrum, three peaks at 168.4, 165.4 and 163.9 eV, associated with 2
+p
+3/2
+, 2
+p
+1/2
+splitting of the S 2
+p
+spin orbital (–C–S–C–) and oxidized S 2
+p
+3/2
+, respectively, were simulated (Supplementary Fig.
+7
+). Taken together, these results are most consistent with the conclusion that N, P and S species were doped into the hollow carbon substrate.
+Atomic structure analysis of Ir-SA
+X-ray absorption fine structure (XAFS) measurements were carried out to examine the atomic dispersion and geometric configuration of the Ir-SA catalyst. As shown in Fig.
+2a
+, only one intensity maximum peak located at approximately 1.6 Å was examined in the Fourier transform (FT) extended X-ray absorption fine structure (EXAFS) curve for Ir-SA. This signal was attributed to the contribution of Ir–N coordination. Comparison with the Ir powder, which displayed a main peak at approximately 2.5 Å assigned to the Ir–Ir bond, found that this metallic interaction was not present in the synthesized Ir-SAs, consistent with the existence of single Ir atoms. Further, wavelet transform (WT) analysis, a powerful tool for discriminating backscattering atoms with high resolution in both
+k
+and
+R
+space, was performed to investigate the atomic dispersion of Ir. For Ir powder, one intensity maximum was detected at about 8.3 Å
+−1
+due to Ir–Ir coordination (Fig.
+2b
+). The WT plots of Ir-SA exhibited only one intensity maximum at 4.0 Å
+−
+1
+, without any other signals similar to those in the WT plots of iridium powder (Fig.
+2b
+). The above results further support the conclusion that the catalyst is primarily composed of single Ir atoms. The white-line peak, located between those of Ir and IrO
+2
+in the Ir L
+3
+-edge X-ray absorption near-edge structure (XANES) curve (Fig.
+2c
+) of the Ir-SA catalyst suggests that the Ir single atoms in Ir-SA carry an average oxidation state. As shown in Supplementary Fig.
+15
+, a more reliable quantitative analysis on the valence state was established from the integrated area of the white line peak. The resulting average oxidation state of Ir in Ir-SA is approximately 2.1, which is lower than the previously reported formal oxidation state of the Ir(
+iii
+) homogeneous catalyst
+57
+,
+58
+. A least-squares EXAFS fitting was carried out to obtain quantitative structural parameters of the Ir atoms in the Ir-SA catalyst. The EXAFS fitting parameters are listed in Supplementary Table
+1
+and the fitting curves are depicted in Fig.
+2d
+and Supplementary Figs.
+8
+–
+12
+. The main peak of the Ir-SA at approximately 1.6 Å originates from the first shell of Ir-SA–N scattering. Together with further analysis (Supplementary Fig.
+14
+–
+16
+and Tables
+2
+and
+3
+) and DFT modelling (Supplementary Figs.
+17
+and
+39
+), the optimized geometric configuration of the Ir-SA catalyst (inset of Fig.
+2d
+) was determined to possess a Ir single atom anchored to the heteroatom-doped carbon support through fourfold coordinated N atoms.
+Fig. 2: Atomic structural analysis of the Ir-SA catalyst.
+a
+, Ir L
+3
+-edge
+k
+3
+-weighted FT spectra of the Ir-SA, Ir powder and IrO
+2
+samples.
+b
+, WT of the Ir-SA and Ir powder samples. The colour in the contour figure indicates the moduli of the Morlet wavelet transform. The alpha (α) is one of the backscattering phase shift.
+c
+, Ir L
+3
+-edge XANES spectra of the Ir-SA, Ir powder and IrO
+2
+samples.
+d
+, The corresponding EXAFS R
+-
+space fitting curves. Inset: schematic model of Ir-SA (Ir, purple; C, grey; N, blue; S, yellow; P, green).
+Full size image
+Reaction scope and selectivity
+Having established the composition and structure of a synthesized heterogeneous Ir-SA catalyst, this material was studied as a catalyst for a reaction typically associated with homogeneous transition metal catalysis. First, heterogeneous Ir-SA-catalysed carbenoid insertion of alcohol
+2a
+with diazo ester
+1a
+was examined (Fig.
+3a
+). Ir-SA with only 1 mol% catalyst loading exhibited excellent reactivity, affording
+3aa
+in 90% yield. Next, the scope of both the diazo reagents and the coupling nucleophilic partners in the Ir-SA-catalysed carbenoid insertion was examined. Notably, various electronically different substituents at the aryl groups of diazo (
+1b
+–
+1d
+) were well tolerated, affording the corresponding O–H insertion products (
+3ba
+–
+3da
+) in good to excellent yields. Alcohols bearing aryl moieties and aliphatic substituents such as cyclohexyl, trifluoromethyl, chloro or silyl ether functional groups were also amenable (
+3ab
+–
+3aj
+), demonstrating the synthetic potential of this heterogeneous catalytic system. In addition, carbenoid insertion reactions into the N–H bond of aniline and the C–H bond of 4-methylindole, respectively, were also tested and generated
+3ak
+and
+3al
+in excellent yields.
+Fig. 3: Performance of Ir-SA-catalysed O–H carbenoid insertion.
+a
+, Scope of alcohols and diazo esters. Reaction conditions:
+1X
+(0.075 mmol),
+2Y
+(0.05 mmol),
+Ir-SA
+(1 mol%), 1,2-dichloroethene as solvent (0.50 ml, concentration = 0.10 M) under nitrogen, 60 °C, 20 h.
+b
+, Comparisons of selectivities in carbenoid insertion using
+Ir-SA
+(0.50 mol%) and
+Ir(ttp)COCl
+(0.50 mol%), respectively. Reaction conditions:
+1a
+(0.10 mmol),
+2Y
+(0.05 mmol),
+Ir-SA
+(0.50 mol%) or
+Ir(ttp)COCl
+(0.50 mol%), 1,2-dichloroethene as solvent (0.50 ml, concentration = 0.10 M) under nitrogen, 60 °C, 20 h.
+Full size image
+Given both the structural and electronic similarity between our engineered Ir-SA catalyst and the porphyrin-based homogeneous complex Ir(ttp)COCl (ttp = tetra-(
+p
+-tolyl)-porphyrin), a direct comparison of the selectivity in O–H carbenoid insertion reactions catalysed by these two catalysts was sought (Fig.
+3b
+). In this context, carbenoid insertion of 4-(hydroxymethyl)phenol
+2m
+, bearing phenolic C(
+sp
+2
+)O–H and aliphatic C(
+sp
+3
+)O–H, with diazo
+1a
+was chosen as the model reaction (Supplementary Fig.
+21
+). Interestingly, homogeneous Ir(ttp)COCl gave an unselective mixture (~50:50) of both mono and bis insertion products (
+3am
+and
+3am″
+, respectively), whereas heterogeneous Ir-SA provided extraordinary selectivity (99%) towards mono insertion of C(
+sp
+3
+)-OH. Similarly, other substrates bearing two hydroxyl group (
+2n
+–
+2r
+) also showed high selectivities (up to 99%) towards either the benzylic or less hindered hydroxyl group. In addition, the heterogeneous Ir-SA-catalysed carbenoid insertion of
+2s
+, bearing N–H and O–H functional groups, gave the product with excellent selectivity (99%) in favour of the insertion into the N–H moiety.
+To evaluate the potential of this catalyst platform for reuse, the structure of the catalyst reisolated after the reaction was complete was analysed by TEM, HAADF-STEM and X-ray absorption spectroscopy (EXAFS and XANES). The electron microscopy experiments showed isolated Ir atoms (bright points) and no obvious nanoparticle aggregation was detected, suggesting that the atomic dispersion of iridium species was still preserved after the catalytic reaction (Supplementary Fig.
+19
+). Moreover, the L
+3
+-edge
+k
+3
+-weighted FT spectra of the used Ir-SA and fresh Ir-SA showed a single major peak in the EXAFS spectra at ~1.80 Å and ~1.60 Å, respectively (Supplementary Fig.
+20
+and Table
+4
+). No Ir–Ir signals were observed in either the freshly prepared Ir-SA or used Ir-SA catalysts. These observations further support the conclusion that the atomic dispersion of the iridium is maintained during the catalytic reaction. Finally, the Ir L
+3
+-edge XANES curve suggests that the average oxidation state of the Ir atoms in the used Ir-SA catalyst is only slightly higher than the average oxidation state of the Ir atoms in the original Ir-SA catalyst (Supplementary Fig.
+20a
+).
+Taken together, these observations suggest that the Ir-SA catalyst maintains its structure and can be recovered and reused. In the event, recycled catalyst lost some activity (from 99% to 67% conversion over 16 h). Given that the TEM and XAFS studies suggest that the Ir atoms in the reused catalyst retain nearly identical structure to the fresh catalyst, a hot filtration test was performed to examine whether leaching of the Ir-SA catalyst led to the observed decrease in activity (Supplementary Fig.
+18
+). After conducting catalysis with both model substrates
+1a
+and
+2m
+over 1 h, the Ir-SA catalyst was removed by filtration. The resulting clear filtrate was stirred further for 11 h, yielding (from 1% to 10%) the double insertion adduct
+3am″
+without formation of additional
+3am
+(Supplementary Fig.
+18
+). These results are consistent with the leaching of small amounts of iridium, which catalysed the unselective reaction. Moreover, inductively coupled plasma analysis of fresh Ir-SA and used Ir-SA showed a small decrease in iridium content from 2.20 to 2.01 wt%, further supporting that leaching of iridium from the catalyst is limited. Nevertheless, the high selectivity of the reaction observed prior to filtration supports the hypothesis that the majority of the reaction occurred at the single-atom sites of the heterogeneous Ir-SA catalyst.
+Mechanistic studies
+DFT calculations, assessing both reaction energies and activation barriers, were performed to gain insight into the origin of the selectivity difference between heterogeneous Ir-SA and homogeneous Ir(ttp)COCl. A series of elementary steps, including formation of iridium carbene (C=Ir) intermediate (see Supplementary Figs.
+40
+and
+41
+for further details) and subsequent O–H insertion, have been taken into account. To simplify the DFT analysis, Ir–porphyrin, which has only a slight difference (0.07 eV) in carbene (C
+6
+H
+5
+CCOOCH
+3
+) adsorption energy compared with Ir(ttp)COCl, was chosen for these studies (Supplementary Fig.
+33
+and Table
+5
+). At the outset of calculation, both concerted and stepwise paths for the carbenoid O–H insertion reaction were examined. The concerted mechanism showed lower activation barriers for both the homogeneous and heterogeneous catalyst systems (Supplementary Fig.
+36
+). Next, the free energy landscape for the reaction catalysed by the heterogeneous Ir-SA catalyst, created by decomposition of diazo
+1a
+to form C=Ir carbene intermediate followed by selective O–H insertion, was examined (Fig.
+4a
+; see Supplementary Fig.
+34
+for further details). Notably, the difference in the activation barriers for the insertion of C(
+sp
+3
+)O–H (0.21 eV) and C(
+sp
+2
+)O–H (0.65 eV) into the C=Ir intermediate is consistent with the selective formation of
+3am
+over
+3am′
+. Moreover, the second insertion into C(
+sp
+2
+)O–H of
+3am
+was calculated to proceed through a transition state with even higher energy (0.74 eV), thus impeding the production of
+3am″
+(Supplementary Fig.
+34
+). With respect to the homogeneous reaction catalysed by Ir–porphyrin (Fig.
+4b
+; see Supplementary Fig.
+35
+for further details), a lower activation barrier for C(
+sp
+3
+)O–H insertion (1.28 eV) compared with C(
+sp
+2
+)O–H insertion (1.62 eV) was found, suggesting that
+3am
+is initially formed. However, an even lower activation barrier for the subsequent C(
+sp
+2
+)O–H insertion of
+3am
+(1.01 eV) was calculated in this homogeneous system, consistent with the formation of an unselective mixture of mono insertion
+3am
+and bis insertion
+3am″
+(Supplementary Fig.
+35
+).
+Fig. 4: Mechanistic studies by DFT calculations.
+a
+, Free-energy diagram for selective O–H bond insertion over heterogeneous Ir-SA catalyst.
+b
+, Free energy diagram for selective O–H insertion over homogeneous Ir(ttp)COCl catalyst. TS, transition state. The blue line represents the TS for the C(
+sp
+2
+)O–H insertion. The green and red lines represent the TSs for first and secondary C(
+sp
+3
+)O–H insertion, respectively. All the energies were corrected to free energy at 333 K. Details of optimized structures are given in the
+Supplementary Information
+.
+Full size image
+The microscopic origin of the aforementioned distinct activation barriers in homogeneous and heterogeneous systems was examined. Although both catalysts possess a planar four-coordinate structure, the chemical potential of the iridium carbene intermediate is expected to be influenced by the oxidation states of the catalytically active metal centre (Supplementary Fig.
+15
+). Analysis of the projected density of states of Ir-SA and Ir(ttp)COCl showed that the increased cationic charge character of the Ir in Ir(ttp)COCl results in stronger bonding and adsorption energies of the carbene fragment, C
+6
+H
+5
+CCOOCH
+3
+, to Ir(ttp)COCl (−1.35 eV) compared with Ir-SA (−0.37 eV) (Supplementary Fig.
+37
+). Correlation of the activation barriers with the adsorption energies of C
+6
+H
+5
+CCOOCH
+3
+as a descriptor established the activity and selectivity trend (Supplementary Fig.
+38
+). Thus, the rate-determining step is expected to be the metal carbene formation for Ir-SA rather than the first C(
+sp
+2
+)O–H. Experimentally, an absence of dependence on alcohol concentration (Supplementary Figs.
+24
+–
+27
+) and a dependence of the reaction on diazo concentration (Supplementary Figs.
+28
+–
+31
+) strongly supports turnover-limited formation of the iridium carbene intermediate
+59
+. Combined with these observations, the activity and selectivity analysis suggests that the ideal binding energy (
+E
+ad
+= −0.55 eV) requires an iridium oxidation state between that of Ir-SA and Ir(ttp)COCl. Therefore, the loss of selectivity that results from generation of bis insertion
+3am″
+probably arises due to the further strengthening of the binding energies (
+E
+ad
+< −1.04 eV) found in the higher oxidation states of metal carbene in the homogeneous catalyst (Supplementary Fig.
+38
+).
+Conclusions
+We have elaborated a two-step pyrolysis protocol for the synthesis of an Ir-SA catalyst supported by a hollow carbon polyhedron co-doped with N, P and S. Having synthesized this catalyst, its use for carbene insertion of methyl phenyl diazoacetate with various alcohols, aniline and
+N
+-protected indole was examined. High compatibility with a range of functional groups was observed in these Ir-SA-catalysed reactions. Moreover, the heterogeneous Ir-SA catalyst displayed a notable improvement in turnover number (1,456) compared with its homogeneous counterpart (turnover number, 462). The Ir-SA heterogeneous catalyst provided excellent control of selectivities (up to 99%) favouring C(
+sp
+3
+)O–H carbene insertion over reaction with phenolic O–H bonds. On the basis of DFT calculation and experimental studies, the origin of the improved selectivity observed with the Ir-SA catalyst is posited to be correlated to the absorption energy of the metal carbene intermediate which results in the modulation of the activation barrier for the insertion reactions. Finally, given the potential for structural diversity in SAS catalysts, this work highlights the opportunity to develop selective transformations through merging of material science with application in organic synthesis.
+Methods
+Catalyst preparation
+A solution of Zn(NO
+3
+)
+2
+·6H
+2
+O (5.58 g) in 150 ml methanol was added to a solution of 2-methylimidazole (6.16 g) in 150 ml methanol. After stirring at room temperature for 24 h, the obtained ZIF-8 precipitates were collected by centrifugation and dried in vacuum at 80 °C. Subsequently, the obtained ZIF-8 (600 mg) powder was dispersed in 100 ml methanol to which was added a methanol solution of iridium(
+iv
+) chloride (1 mg ml
+−1
+, 7.08 ml). To this iridium-containing solution was added a mixture of 4,4′-sulfonyldiphenol (800 mg) and phosphonitrilic chloride trimer (375 mg) in 250 ml methanol. After vigorous stirring for 15 min, 3 ml triethylamine was added. The resulting mixture was stirred for 15 h, and the as-obtained ZIF-8/Ir@PZS precipitates were separated by centrifugation and dried in vacuum at 80 °C. The as-obtained ZIF-8/Ir@PZS was placed in a quartz boat and then maintained at 950 °C for 3 h in a tube furnace with a heating rate of 5 °C min
+−1
+under a flowing argon atmosphere. After allowing it to cool to room temperature, the as-prepared sample of Ir-SA was collected and used without further treatment.
+XAFS data analysis details
+The acquired EXAFS data were processed according to the standard procedure using the ATHENA module implemented in the IIRFFIT software packages. The EXAFS spectra were collected by subtracting the post-edge background from the overall absorption and then normalizing with respect to the edge-jump step. Then, the
+χ
+(
+k
+) data of the Ir L
+3
+-edge were Fourier transformed to real (R) space using a Hanning window (
+dk
+= 1.0 Å
+−1
+) to separate the EXAFS contributions from different coordination shells. To obtain the quantitative structural parameters around central atoms
+60
+, we performed least-squares curve parameter fitting by using the ARTEMIS module of the IIRFFIT software packages. The following EXAFS equation was used:
+$$\begin{array}{l}\chi \left( k \right) = \mathop {\sum}\limits_j {\frac{{N_jS_0^2F_j\left( k \right)}}{{k\,R_j^2}}} \exp \left[ { - 2\,k^2\sigma _j^2} \right]\exp \left[ {\frac{{ - 2\,R_j}}{{\lambda \left( k \right)}}} \right]\\ \sin \left[ {2k\,R_j + \phi _j\left( k \right)} \right]\end{array}$$
+(1)
+In equation (
+1
+)
+\(S_0^2\)
+is the amplitude reduction factor,
+F
+j
+(
+k
+)
+is
+the effective curved-wave backscattering amplitude,
+N
+j
+is the number of neighbours in the
+j
+th atomic shell,
+R
+j
+is the distance between the X-ray absorbing central atom and the atoms in the
+j
+th atomic shell (backscatterer),
+λ
+is the mean free path in Å,
+σ
+j
+is the Debye–Waller parameter of the
+j
+th atomic shell (variation of distances around the average
+R
+j
+) and
+ϕ
+j
+(
+k
+) is the phase shift (including the phase shift for each shell and the total central atom phase shift). The functions
+F
+j
+(
+k
+),
+λ
+and
+ϕ
+j
+(
+k
+) were calculated with the ab initio code FEFF8.2
+61
+.
+General procedure for selective O–H carbenoid insertion
+In a glovebox, diazo ester
+1X
+(0.10 mmol, 2.0 equiv.) and alcohol
+2Y
+(0.05 mmol, 1.0 equiv.) were added sequentially to a suspension of Ir-SA (0.50 mol%) in 1,2-dichloroethane (0.50 ml) in a two-dram vial. The reaction vial was sealed and stirred at 60 °C for 20 h. After cooling to room temperature, the volatiles were removed by rotary evaporation and the obtained crude mixture was purified by silica gel flash chromatography using petroleum ether and EtOAc as eluents. The molar ratio of products was determined by
+1
+H-NMR spectroscopy.
+Computational methods
+DFT calculations were conducted using the Vienna Ab initio Simulation Package with the revised Perdew–Burke–Ernzerhof
+62
+performing the generalized gradient approximation. A 8 × 8 single-layer graphene with 15 Å vacuum space was built to describe the model of Ir-SA, where the Ir atom was stabilized by four N atoms and the surface was also doped with S and P atoms (Supplementary Fig.
+32a
+). A Monkhorst–Pack
+k
+-point 2 × 2 × 1 was used in all the calculations for Ir-SA. The reaction over Ir(ttp)COCl catalyst was calculated in a large supercell with a lattice of 20 × 20 × 20 Å
+3
+to avoid interactions in the periodic calculations, where a Monkhorst–Pack
+k
+-point 1 × 1 × 1 was used (Supplementary Fig.
+32b
+). Ir–porphyrin (Supplementary Fig.
+33a
+) was employed in DFT studies of the catalytic reaction using Ir(ttp)COCl (Supplementary Fig.
+33b
+) due to the large computational costs. The calculated adsorption energy of carbene (C
+6
+H
+5
+CCOOCH
+3
+) to these two structures displayed only a small difference (0.07 eV), which supports the reliability of the model constructed using Ir–porphyrin (Supplementary Table
+5
+). A 400 eV cut-off energy was set for the plane-wave basis set. Structure optimizations were performed with the convergence force of 0.05 eV Å
+−1
+, and all the transition states were obtained using the climbing image nudged elastic band method
+63
+with the convergence force smaller than 0.1 eV Å
+−
+1
+.
+Free energy corrections
+Free energy corrections were conducted in this work to simulate the reaction conditions at 333 K (ref.
+64
+). Standard free energy corrections were performed by the equation:
+$${\Delta}{{G = }}{\Delta}{{E}}_{{\mathrm{DFT}}} + {\Delta}{{E}}_{{\mathrm{ZPE}}} + {\Delta}{{E}}_{\mathrm{U}} - {{T}}{\Delta}{{S}}$$
+(2)
+where Δ
+E
+DFT
+refers to the electronic energy from DFT calculations. Δ
+E
+ZPE
+, Δ
+E
+U
+and Δ
+S
+are the corrections for zero-point energy, inner energy and entropy, respectively. Only vibrational motion was considered for adsorbates on the surface of catalysts, while translational, rotational and vibrational motions were all considered for gas molecules. The detail of the correction, including adsorbates, transition states and gas molecules, is displayed in Supplementary Table
+6
+.
+Data availability
+Data relating to the characterization data of materials (TEM, STEM, XANES, EXAFS, XPS, X-ray diffraction), general methods, experimental procedures, mechanistic studies, DFT computational studies, mass spectrometry and NMR spectra are available in the
+Supplementary Information
+or from the corresponding authors upon reasonable reuqest.
+References
+Doyle, M. P. Catalytic methods for metal carbene transformations.
+Chem. Rev.
+86
+, 919–939 (1986).
+Article
+CAS
+Google Scholar
+Gillingham, D. & Fei, N. Catalytic X–H insertion reactions based on carbenoids.
+Chem. Soc. Rev.
+42
+, 4918–4931 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Davies, H. M. L. & Manning, J. R. Catalytic C–H functionalization by metal carbenoid and nitrenoid insertion.
+Nature
+451
+, 417–424 (2008).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zhu, S. F. & Zhou, Q. L. Transition-metal-catalyzed enantioselective heteroatom–hydrogen bond insertion reactions.
+Acc. Chem. Res.
+45
+, 1365–1377 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Davies, H. M. L. & Denton, J. R. Application of donor/acceptor-carbenoids to the synthesis of natural products.
+Chem. Soc. Rev.
+38
+, 3061–3071 (2009).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Davies, H. M. L. & Hedley, S. J. Intermolecular reactions of electron-rich heterocycles with copper and rhodium carbenoids.
+Chem. Soc. Rev.
+36
+, 1109–1119 (2007).
+Article
+CAS
+PubMed
+Google Scholar
+Qian, D. & Zhang, J. Gold-catalyzed cyclopropanation reactions using a carbenoid precursor toolbox.
+Chem. Soc. Rev.
+44
+, 677–698 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Xia, Y., Qiu, D. & Wang, J. Transition-metal-catalyzed cross-couplings through carbene migratory insertion.
+Chem. Rev.
+117
+, 13810–13889 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Xiang, Y., Wang, C., Ding, Q. & Peng, Y. Diazo compounds: versatile synthons for the synthesis of nitrogen heterocycles via transition metal-catalyzed cascade C–H activation/carbene insertion/annulation reactions.
+Curr. Org. Synth.
+361
+, 919–944 (2019).
+CAS
+Google Scholar
+Gois, P. M. P. & Afonso, C. A. M. Stereo- and regiocontrol in the formation of lactams by rhodium–carbenoid C–H insertion of α-diazoacetamides.
+Eur. J. Org. Chem.
+18
+, 3773–3788 (2004).
+Article
+Google Scholar
+Wee, A. G. H. Rhodium (
+ii
+)-catalyzed reaction of diazocompounds in the service of organic synthesis of natural and non-natural products.
+Curr. Org. Synth.
+3
+, 499–555 (2006).
+Article
+CAS
+Google Scholar
+Maas, G. Ruthenium-catalysed carbenoid cyclopropanation reactions with diazo compounds.
+Chem. Soc. Rev.
+33
+, 183–190 (2004).
+Article
+CAS
+PubMed
+Google Scholar
+Ye, T. & McKervey, M. A. Organic synthesis with α-diazo carbonyl compounds.
+Chem. Rev.
+94
+, 1091–1160 (1994).
+Article
+CAS
+Google Scholar
+DeAngelis, A., Panish, R. & Fox, J. M. Rh-catalyzed intermolecular reactions of α-alkyl-α-diazo carbonyl compounds with selectivity over β-hydride migration.
+Acc. Chem. Res.
+49
+, 115–127 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Xiao, Q., Zhang, Y. & Wang, J. B. Diazo compounds and
+N
+-tosylhydrazones: novel cross-coupling partners in transition-metal-catalyzed reactions.
+Acc. Chem. Res.
+46
+, 236–247 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Padwa, A., Krumpe, K. E., Gareau, Y. & Chiacchio, U. Rhodium (
+ii
+)-catalyzed cyclization reactions of alkynyl-substituted α-diazo ketones.
+J. Org. Chem.
+56
+, 2523–2530 (1991).
+Article
+CAS
+Google Scholar
+Padwa, A., Cheng, B. & Zou, Y. Natural product synthesis via the rhodium carbenoid-mediated cyclization of α-diazo carbonyl compounds.
+Aust. J. Chem.
+67
+, 343–353 (2014).
+Article
+CAS
+Google Scholar
+Doyle, M. P. Chiral catalysts for enantioselective carbenoid cyclopropanation reactions.
+Rec. Trav. Chim. Pays-Bas
+110
+, 305–316 (1991).
+Article
+CAS
+Google Scholar
+DeAngelis, A., Dmitrenko, O. & Fox, J. M. Rh-catalyzed intermolecular reactions of cyclic α-diazocarbonyl compounds with selectivity over tertiary C−H bond migration.
+J. Am. Chem. Soc.
+134
+, 11035–11043 (2012).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Che, J., Niu, L., Jia, S., Xing, D. & Hu, W. Enantioselective three-component aminomethylation of α-diazo ketones with alcohols and 1,3,5-triazines.
+Nat. Commun.
+11
+, 1511 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Yang, J., Ke, C., Zhang, D., Liu, X. & Feng, X. Enantioselective synthesis of 2,2,3-trisubstituted indolines via bimetallic relay catalysis of α-diazoketones with enones.
+Org. Lett.
+20
+, 4536–4539 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Li, M.-L., Yu, J.-H., Li, Y.-H., Zhu, S.-F. & Zhou, Q.-L. Highly enantioselective carbene insertion into N–H bonds of aliphatic amines.
+Science
+366
+, 990–994 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Garlets, Z. J. et al. Enantioselective C–H functionalization of bicyclo[1.1.1]pentanes.
+Nat. Catal.
+3
+, 351–357 (2020).
+Article
+CAS
+Google Scholar
+Chamni, S. et al. Diazo reagents with small steric footprints for simultaneous arming/SAR studies of alcohol-containing natural products via O–H insertion.
+ACS Chem. Biol.
+6
+, 1175–1181 (2011).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wu, J. et al. Site-selective and stereoselective
+O
+‑alkylation of glycosides by Rh (
+ii
+)-catalyzed carbenoid insertion.
+J. Am. Chem. Soc.
+141
+, 19902–19910 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Liu, L. & Corma, A. Metal catalysts for heterogeneous catalysis: from single atoms to nanoclusters and nanoparticles.
+Chem. Rev.
+118
+, 4981–5079 (2018).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wang, A., Li, J. & Zhang, T. Heterogeneous single-atom catalysis.
+Nat. Rev. Chem.
+2
+, 65–81 (2018).
+Article
+CAS
+Google Scholar
+Cui, X., Li, W., Ryabchuk, P., Junge, K. & Beller, M. Bridging homogeneous and heterogeneous catalysis by heterogeneous single-metal-site catalysts.
+Nat. Catal.
+1
+, 385–397 (2018).
+Article
+CAS
+Google Scholar
+Yang, X. et al. Single-atom catalysts: a new frontier in heterogeneous catalysis.
+Acc. Chem. Res.
+46
+, 1740–1748 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Zhu, W. & Chen, C. Reaction: open up the era of atomically precise catalysis.
+Chem
+5
+, 2737–2739 (2019).
+Article
+CAS
+Google Scholar
+Guo, X. et al. Direct, nonoxidative conversion of methane to ethylene, aromatics, and hydrogen.
+Science
+344
+, 616–619 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Hwang, K. C. & Sagadevan, A. One-pot room-temperature conversion of cyclohexane to adipic acid by ozone and UV light.
+Science
+346
+, 1495–1498 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, P. et al. Photochemical route for synthesizing atomically dispersed palladium catalysts.
+Science
+352
+, 797–801 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Ji, S. et al. Rare-earth single erbium atoms for enhanced photocatalytic CO
+2
+reduction.
+Angew. Chem. Int. Ed.
+59
+, 10651–10657 (2020).
+Article
+CAS
+Google Scholar
+Tian, S. et al. Single-atom Fe with Fe
+1
+N
+3
+structure showing superior performances for both hydrogenation and transfer hydrogenation of nitrobenzene.
+Sci. China Mater.
+64
+, 642–650 (2020).
+Article
+Google Scholar
+Ji, S. et al. Chemical synthesis of single atomic site catalysts.
+Chem. Rev.
+120
+, 11900–11955 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Lin, L. et al. Low-temperature hydrogen production from water and methanol using Pt/α-MoC catalysts.
+Nature
+544
+, 80–83 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Malta, G. et al. Identification of single-site gold catalysis in acetylene hydrochlorination.
+Science
+355
+, 1399–1403 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Li, X., Rong, H., Zhang, J., Wang, D. & Li, Y. Modulating the local coordination environment of single-atom catalysts for enhanced catalytic performance.
+Nano Res.
+13
+, 1842–1855 (2020).
+Article
+CAS
+Google Scholar
+Fernández, E. et al. Base-controlled Heck, Suzuki, and Sonogashira reactions catalyzed by ligand-free platinum or palladium single atom and sub-nanometer clusters.
+J. Am. Chem. Soc.
+141
+, 1928–1940 (2019).
+Article
+PubMed
+Google Scholar
+Sun, T., Xu, L., Wang, D. & Li, Y. Metal organic frameworks derived single atom catalysts for electrocatalytic energy conversion.
+Nano Res.
+12
+, 2067–2080 (2019).
+Article
+CAS
+Google Scholar
+Beniya, A. & Higashi, S. Towards dense single-atom catalysts for future automotive applications.
+Nat. Catal.
+2
+, 590–602 (2019).
+Article
+Google Scholar
+Xu, Q. et al. Coordination structure dominated performance of single-atomic Pt catalyst for anti-Markovnikov hydroboration of alkenes.
+Sci. China Mater.
+63
+, 972–981 (2020).
+Article
+CAS
+Google Scholar
+Daelman, N., Capdevila-Cortada, M. & Lopez, N. Dynamic charge and oxidation state of Pt/CeO
+2
+single-atom catalysts.
+Nat. Mater.
+18
+, 1215–1221 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+DeRita, L. et al. Structural evolution of atomically dispersed Pt catalysts dictates reactivity.
+Nat. Mater.
+18
+, 746–751 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Lu, Y. et al. Identification of the active complex for CO oxidation over single-atom Ir-on-MgAl
+2
+O
+4
+catalysts.
+Nat. Catal.
+2
+, 149–156 (2018).
+Article
+Google Scholar
+Zhuang, Z., Kang, Q., Wang, D. & Li, Y. Single-atom catalysis enables long-life, high-energy lithium-sulfur batteries.
+Nano Res.
+13
+, 1856–1866 (2020).
+Article
+CAS
+Google Scholar
+Shang, H. et al. Engineering isolated Mn–N
+2
+C
+2
+atomic interface sites for efficient bifunctional oxygen reduction and evolution reaction.
+Nano Lett.
+20
+, 5443–5450 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Lee, B.-H. et al. Reversible and cooperative photoactivation of single-atom Cu/TiO
+2
+photocatalysts.
+Nat. Mater.
+18
+, 620–626 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Mao, J. et al. Isolated Ni atoms dispersed on Ru nanosheets: high-performance electrocatalysts toward hydrogen oxidation reaction.
+Nano Lett.
+20
+, 3442–3448 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Cao, L. et al. Identification of single-atom active sites in carbon-based cobalt catalysts during electrocatalytic hydrogen evolution.
+Nat. Catal.
+2
+, 134–141 (2019).
+Article
+CAS
+Google Scholar
+Chung, H. T. et al. Direct atomic-level insight into the active sites of a high-performance PGM-free ORR catalyst.
+Science
+357
+, 479–484 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Gu, J., Hsu, C. S., Bai, L., Chen, H. M. & Hu, X. Atomically dispersed Fe
+3+
+sites catalyze efficient CO
+2
+electroreduction to CO.
+Science
+364
+, 1091–1094 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, Z. et al. A heterogeneous single-atom palladium catalyst surpassing homogeneous systems for Suzuki coupling.
+Nat. Nanotechnol.
+13
+, 702–707 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Xiao, M. et al. A single-atom iridium heterogeneous catalyst in oxygen reduction reaction.
+Angew. Chem. Int. Ed.
+58
+, 9640–9645 (2019).
+Article
+CAS
+Google Scholar
+Cui, H. et al. A stable and porous iridium(
+iii
+)–porphyrin metal–organic framework: synthesis, structure and catalysis.
+CrystEngComm
+18
+, 2203–2209 (2016).
+Article
+CAS
+Google Scholar
+Anding, B. J., Dairo, T. O. & Woo, L. K. Reactivity comparison of primary aromatic amines and thiols in E–H insertion reactions with diazoacetates catalyzed by iridium(
+iii
+) tetratolylporphyrin.
+Organometallics
+36
+, 1842–1847 (2017).
+Article
+CAS
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+Article
+CAS
+PubMed
+Google Scholar
+Ankudinov, A. L., Ravel, B. & Rehr, S. D. Real-space multiple-scattering calculation and interpretation of X-ray-absorption near-edge structure.
+Phys. Rev. B
+58
+, 7565–7576 (1998).
+Article
+CAS
+Google Scholar
+Zhang, Y. K. & Yang, W. Comment on ‘Generalized gradient approximation made simple’.
+Phys. Rev. Lett.
+80
+, 890 (1998).
+Article
+CAS
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Hannes, J. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+Article
+CAS
+Google Scholar
+Cao, X. M., Burch, R., Hardacre, C. & Hu, P. An understanding of chemoselective hydrogenation on crotonaldehyde over Pt(111) in the free energy landscape: the microkinetics study based on first-principles calculations.
+Catal. Today
+165
+, 71–79 (2011).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+J.Z. acknowledges support from the Shanghai Municipal Science and Technology Major Project (2018SHZDZX03) and the Program of Introducing Talents of Discipline to Universities (B16017). S.J., D.W. and Y L. acknowledge the National Key R&D Program of China (2018YFA0702003) and the National Natural Science Foundation of China (21890383). They thank the BL14W1 station in Shanghai Synchrotron Radiation Facility (SSRF). J.D. acknowledges the Youth Innovation Promotion Association of Chinese Academy of Sciences (2018017). F.D.T. acknowledges support by the Director, Office of Science, Office of Basic Energy Science and the Division of Chemical Sciences, Geosciences, and Bioscience of the US Department of Energy at Lawrence Berkeley National Laboratory (grant DE-AC0205CH1123). We thank B. Ye from ShanghaiTech University for helpful discussions.
+Author information
+Author notes
+These authors contributed equally: J. Zhao, S. Ji, C. Guo
+Authors and Affiliations
+Key Laboratory for Advanced Materials and Joint International Research Laboratory of Precision Chemistry and Molecular Engineering, Feringa Nobel Prize Scientist Joint Research Center, Frontiers Science Center for Materiobiology and Dynamic Chemistry, School of Chemistry and Molecular Engineering, East China University of Science and Technology, Shanghai, China
+Jie Zhao & Ping Guo
+Department of Chemistry, Tsinghua University, Beijing, China
+Shufang Ji, Dingsheng Wang & Yadong Li
+State Key Laboratory of Catalysis, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian, China
+Chenxi Guo
+Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China
+Haijing Li & Juncai Dong
+Chemical Science Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
+F. Dean Toste
+Department of Chemistry, University of California, Berkeley, Berkeley, CA, USA
+F. Dean Toste
+Authors
+Jie Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shufang Ji
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chenxi Guo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Haijing Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Juncai Dong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ping Guo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dingsheng Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yadong Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+F. Dean Toste
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+J.Z., S.J. and P.G. performed most of the experiments, analysed the experimental data and co-wrote the paper. C.G. performed computational studies, analysed the computational data and co-wrote the paper. H.L. and J.D. helped to collect and analyse the XAFS data. J.Z., D.W., Y.L. and F.D.T. designed and guided the research, and co-wrote the paper. All the authors discussed the results and contributed to writing the manuscript.
+Corresponding authors
+Correspondence to
+Jie Zhao
+,
+Dingsheng Wang
+or
+F. Dean Toste
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Catalysis
+thanks T. Shishido, J. Wang and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–41, Tables 1–6, methods, discussions, NMR spectra, references.
+Supplementary Data
+DFT coordinates for optimized structures
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Zhao, J., Ji, S., Guo, C.
+et al.
+A heterogeneous iridium single-atom-site catalyst for highly regioselective carbenoid O–H bond insertion.
+Nat Catal
+4
+, 523–531 (2021). https://doi.org/10.1038/s41929-021-00637-7
+Download citation
+Received
+:
+08 August 2020
+Accepted
+:
+14 May 2021
+Published
+:
+21 June 2021
+Issue Date
+:
+June 2021
+DOI
+:
+https://doi.org/10.1038/s41929-021-00637-7
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

@@ -1,0 +1,2240 @@
+Simultaneous oxidative and reductive reactions in one system by atomic design | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Simultaneous oxidative and reductive reactions in one system by atomic design
+Download PDF
+Article
+Published:
+21 January 2021
+Simultaneous oxidative and reductive reactions in one system by atomic design
+Yafei Zhao
+ORCID:
+orcid.org/0000-0001-5098-7753
+1
+na1
+,
+Huang Zhou
+1
+na1
+,
+Xiaorong Zhu
+ORCID:
+orcid.org/0000-0001-8007-3047
+2
+na1
+,
+Yunteng Qu
+1
+,
+Can Xiong
+1
+,
+Zhenggang Xue
+1
+,
+Qingwei Zhang
+ORCID:
+orcid.org/0000-0002-8577-6304
+1
+,
+Xiaokang Liu
+3
+,
+Fangyao Zhou
+1
+,
+Xiaoming Mou
+4
+,
+Wenyu Wang
+1
+,
+Min Chen
+1
+,
+Ya Xiong
+5
+,
+Xingen Lin
+1
+,
+Yue Lin
+ORCID:
+orcid.org/0000-0001-5333-511X
+1
+,
+Wenxing Chen
+6
+,
+Hui-Juan Wang
+7
+,
+Zheng Jiang
+ORCID:
+orcid.org/0000-0003-4297-464X
+8
+,
+Lirong Zheng
+9
+,
+Tao Yao
+ORCID:
+orcid.org/0000-0001-8699-8294
+3
+,
+Juncai Dong
+ORCID:
+orcid.org/0000-0001-8860-093X
+9
+,
+Shiqiang Wei
+ORCID:
+orcid.org/0000-0002-2052-1132
+3
+,
+Weixin Huang
+ORCID:
+orcid.org/0000-0002-5025-3124
+1
+,
+Lin Gu
+ORCID:
+orcid.org/0000-0002-7504-031X
+10
+,
+Jun Luo
+ORCID:
+orcid.org/0000-0001-5084-2087
+11
+,
+Yafei Li
+ORCID:
+orcid.org/0000-0002-6136-863X
+2
+&
+…
+Yuen Wu
+ORCID:
+orcid.org/0000-0001-9524-2843
+1
+Show authors
+Nature Catalysis
+volume
+4
+,
+pages
+134–143 (
+2021
+)
+Cite this article
+15k
+Accesses
+1
+Altmetric
+Metrics
+details
+Subjects
+Heterogeneous catalysis
+Synthetic chemistry methodology
+Abstract
+Single-atom catalysts often exhibit unexpected catalytic activity for many important chemical and biological reactions with respect to their bulk counterparts, and have been recognized as potential substitutes for natural enzymes. Here we report a biomimetic composite, yolk–shell Pd
+1
+@Fe
+1
+, that features two compatible single-atom systems with atomically dispersed Fe
+1
+sites in a N-doped carbon shell and Pd
+1
+sites in a yolk derived from a metal–organic framework. Directly utilizing the O
+2
+and H
+2
+sources generated on-site from the electrocatalytic overall water splitting, the as-synthesized yolk–shell Pd
+1
+@Fe
+1
+could simultaneously catalyse nitroaromatic hydrogenation and alkene epoxidation reactions and lead to a cascade synthesis of amino alcohols. Our findings provide a versatile strategy to integrate different single metal sites within one system to allow the continuous and easy synthesis of complex compounds for various challenging reactions.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Harnessing strong metal–support interactions via a reverse route
+Article
+Open access
+16 June 2020
+Unlocking synergy in bimetallic catalysts by core–shell design
+Article
+06 May 2021
+Design, fabrication and characterization of mesoporous yolk–shell nanocomposites as a sustainable heterogeneous nanocatalyst for synthesis of ortho-aminocarbonitrile tetrahydronaphthalenes
+Article
+Open access
+18 December 2023
+Main
+Nature carefully selects specific metal ions (Fe, Ni, Mn and so on) as active sites to incorporate into protein frameworks as metalloenzymes, which can catalyse a wide range of challenging biological transformations, which range from C–H functionalization to N
+2
+reduction under mild aqueous conditions
+1
+,
+2
+,
+3
+,
+4
+. Furthermore, natural systems composed of different metalloenzymes can catalyse oxidation and reduction reactions, which seems incompatible, but both occur in one cell-like system without degrading their efficiency and selectivity
+5
+. For example, in natural photosynthesis, solar energy is captured from the sunlight by the photosensitizers (for example, chlorophyll) to produce carbohydrate from building-block molecules of CO
+2
+and H
+2
+O (CO
+2
++ H
+2
+O + solar energy → carbohydrate + O
+2
+) (ref.
+6
+). In the above-mentioned multicomponent charge-transfer converting system, light reactions feature an efficient water oxidation to yield O
+2
+and protons (H
++
+) via releasing electronics. After a dark reaction, the H
++
+derived from water oxidation react with CO
+2
+to generate a carbohydrate or other organic molecules via a reduction process. This means that two classes of incompatible oxidative and reductive reactions could operate in one system under mild conditions, which may be attributed to a highly separated spatial distribution of different metalloenzyme sites and corresponding non-interfering reaction pathways.
+The reconstitution of the [Fe]-hydrogenase apoenzyme with a single-site Mn(
+i
+) has proved to be more effective for the activation of H
+2
+compared with that of the native [Fe]-hydrogenase
+7
+. Additionally, for the oxidative biochemistry process, the isolated Fe site in a biosynthetic model of haem–copper oxidase in myoglobin (Fe
+B
+Mb) shows a 30-fold enhancement in the O
+2
+activation with respect to that of Zn-bound mimics
+8
+. These atomically dispersed metal sites could serve as active centres to mimic the natural enzyme involved in the biological reaction
+9
+. To simulate the more realistic biological system, what is more difficult is how to incorporate different reactions into one system rather than replace the natural enzyme with an artificial single-atom nanozyme by mimicking the local structure of enzymatic active centres. To date, separated catalytic oxidations or reductions achieved from single-atom catalysts have been proved
+10
+,
+11
+,
+12
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+. However, utilizing single-atom catalysts to simultaneously perform seemingly incompatible oxidation and reduction reactions in one system still remains a great challenge.
+Here we report a biomimetic composite that features two compatible single-atom systems (CSAS) with atomically dispersed Fe
+1
+sites in a N-doped carbon shell and Pd
+1
+sites in a metal–organic framework (MOF)-derived yolk. Their atomistic structures were revealed by spherical aberration correction electron microscopy, X-ray absorption fine structure (XFAS) analysis and first-principles calculations. Directly utilizing the O
+2
+and H
+2
+sources generated on-site from the electrocatalytic overall water splitting, the as-synthesized yolk–shell Pd
+1
+@Fe
+1
+could simultaneously catalyse nitroaromatics hydrogenation and alkene epoxidation reactions leading to a cascade synthesis of amino alcohols.
+Results
+Preparation and characterization of yolk–shell Pd
+1
+@Fe
+1
+A mechanism that illustrates the fabrication process of the sophisticatedly engineered yolk–shell Pd
+1
+@Fe
+1
+is summarized in Fig.
+1a
+. We chose Zr
+6
+-based UiO-66-NH
+2
+, which features [Zr
+6
+(μ
+3
+-O)
+4
+(μ
+3
+-OH)
+4
+]
+12+
+nodes linked to 12 carboxylates of 2-aminoterephthalate ligands
+18
+, as the host to encapsulate PdCl
+2
+via a stable PdCl
+2
+/NH
+2
+coordination configuration
+19
+(denoted as PdCl
+2
+/UiO-66-NH
+2
+) (Supplementary Fig.
+1
+). Compared with the initial UiO-66-NH
+2
+, PdCl
+2
+/UiO-66-NH
+2
+displayed a similar narrow size distribution (300–400 nm; Supplementary Fig.
+2
+) and almost unaltered X-ray diffraction (XRD) diffraction patterns (Supplementary Fig.
+3
+), which indicates that the introduction of PdCl
+2
+does not change the geometric structure and crystal structure of UiO-66-NH
+2
+. Then, an inert SiO
+2
+layer was coated on the surface of PdCl
+2
+/UiO-66-NH
+2
+, to give the core–shell PdCl
+2
+/UiO-66-NH
+2
+@SiO
+2
+(Supplementary Fig.
+4
+). The Fe-TiPP (TiPP, 5,10,15,20-tetra(4-(imidazol-1-yl)phenyl)porphyrindine) polymerization was subsequently conducted on the surface of PdCl
+2
+/UiO-66-NH
+2
+@SiO
+2
+to yield PdCl
+2
+/UiO-66-NH
+2
+@SiO
+2
+@Fe-TiPP via a quaternization mechanism (Supplementary Figs.
+5
+and
+6
+). The as-obtained PdCl
+2
+/UiO-66-NH
+2
+@SiO
+2
+@Fe-TiPP was directly pyrolysed at 700 °C (N
+2
+, three hours) to reduce Pd and Fe cations into separate Pd
+1
+and Fe
+1
+sites, respectively. Finally, NaOH was used to remove the SiO
+2
+template to yield a yolk–shell Pd
+1
+@Fe
+1
+(Fig.
+1b
+).
+Fig. 1: Synthesis and characterization of yolk–shell Pd
+1
+@Fe
+1
+.
+a
+, Schematic of the preparation strategy for yolk–shell Pd
+1
+@Fe
+1
+.
+b
+,
+c
+, Bright-field transmission electron microscopy (TEM) image (
+b
+) and HAADF-STEM image (
+c
+) of the yolk–shell Pd
+1
+@Fe
+1
+.
+d
+,
+e
+, Aberration-corrected HAADF-STEM images of the Fe
+1
+(
+d
+) and Pd
+1
+(
+e
+) sites in
+c
+(yellow and white boxes, respectively).
+f
+, Energy-dispersive X-ray spectroscopy images of Pd
+1
+@Fe
+1
+.
+g
+, Schematic sketch of the yolk–shell nanostructure of Pd
+1
+@Fe
+1
+.
+h
+, Brunauer−Emmett−Teller analysis of yolk–shell Pd
+1
+@Fe
+1
+shows a high surface area (825 m
+2
+g
+–1
+).
+Source data
+Full size image
+A colour evolution from yellow to grey can be observed between UiO-66-NH
+2
+and PdCl
+2
+/UiO-66-NH
+2
+, which suggests a strong electrostatic adsorption
+20
+between Pd
+2+
+ions and the electron-rich –NH
+2
+species (Supplementary Fig.
+7
+). During the pyrolysis process, the isolated Pd sites and Fe sites were anchored by the nitrogen-doped carbon (NC) derived from 2-aminoterephthalic acid (H
+2
+BDC-NH
+2
+) linkers and TiPP, respectively. High-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) images reveal that the as-prepared yolk–shell Pd
+1
+@Fe
+1
+possesses an ultrathin N-doped carbon shell (~10 nm) and a MOF-derived octahedral yolk (Fig.
+1c
+). To elucidate the form of the metal species after pyrolysis, we next carried out aberration-corrected HAADF-STEM measurements with sub-ångström resolution; the contrast is proportional to the atomic number
+21
+,
+22
+,
+23
+,
+24
+,
+25
+,
+26
+,
+27
+. Figure
+1d,e
+, extracted from the yellow and white squares in Fig.
+1c
+, reveals the existence of Fe and Pd species, respectively. As shown in Fig.
+1d
+, porous NC shell domains are covered with individual Fe
+1
+sites. The atomically dispersed Pd
+1
+sites at the edge of the octahedral MOF-derived yolk are circled (Fig.
+1e
+and Supplementary Fig.
+8
+). Energy-dispersive X-ray spectroscopy (Fig.
+1f
+) and line scan profiles (Supplementary Fig.
+9
+) further confirmed that the Pd and Fe atoms are present in a yolk–shell-like distribution. The actual loading of Pd and Fe in three-dimensional (3D) yolk–shell Pd
+1
+@Fe
+1
+determined by inductively coupled plasma optical emission spectroscopy is 1.409 × 10
+−5
+mol g
+−1
+and 5.734 × 10
+−5
+mol g
+–1
+(Supplementary Table
+1
+), respectively.
+The pyrolysis process may enhance the rigidity and stability of the as-prepared 3D yolk–shell Pd
+1
+@Fe
+1
+(Supplementary Fig.
+10
+). After pyrolysis, the yolk–shell Pd
+1
+@Fe
+1
+shows a higher
+I
+D
+/
+I
+G
+value (I
+D
+/I
+G
+= 1.03) compared with that of the PdCl
+2
+/UIO-66-NH
+2
+@SiO
+2
+@Fe-TiPP in the Raman measurement (Supplementary Fig.
+11
+). The G peak is attributed to the E
+2g
+phonon of C
+sp
+2
+atoms, whereas the D peak is a breathing mode of the k-point phonons of A
+1g
+symmetry
+28
+. The increased
+I
+D
+/
+I
+G
+reveals a diminution in the average size of the
+sp
+2
+domains, which manifests that the defect sites increased. Moreover, in the N K-edge soft X-ray absorption spectrum of yolk–shell Pd
+1
+@Fe
+1
+there appears two new peaks located at 398.7 and 408.5 eV (Supplementary Fig.
+12
+), which could be assigned to pyridinic N (
+π
+* transitions) and C–N moieties (
+σ
+* excitation), respectively. The result further demonstrates that both H
+2
+BDC-NH
+2
+linkers and TiPP were destroyed and converted into defective NC under the high temperatures. Meanwhile, the emerging N defects, especially for pyridinic N (refs
+29
+,
+30
+,
+31
+), may provide abundant coordination sites for the stabilization of the atomic Pd and Fe species during pyrolysis. After the removal of SiO
+2
+(Supplementary Figs.
+13
+−
+16
+), a morphology evolution from three-layer core–shell–shell Pd
+1
+@SiO
+2
+@Fe
+1
+to a yolk–shell Pd
+1
+@Fe
+1
+structure was observed, which helps to expose more metal active sites and increase the surface area-to-volume (Fig.
+1g
+). As verified by Brunauer−Emmett−Teller (BET) measurements (Fig.
+1h
+), yolk–shell Pd
+1
+@Fe
+1
+inherited a high surface area (~825 m
+2
+g
+–1
+) and showed a dual mesopore characteristic of pore sizes 2.4 and 3.6 nm. The smaller pore at 2.4 nm may be attributed to the ordered mesopores of the MOF-derived yolk
+32
+and the larger pore at 3.6 nm could be assigned to the radial mesopore channels of the TiPP-derived NC shell. This unique 3D yolk–shell configuration may be conducive to the exposure of catalytic sites and beneficial for an enhanced mass transport during organic synthesis reactions.
+Atomic structure characterization and analysis of yolk–shell Pd
+1
+@Fe
+1
+No obvious crystalline peaks of Pd or Fe were detected based on the XRD analysis, which demonstrates the absence of Pd and Fe nanoparticles (Fig.
+2a
+). Figure
+2b
+shows the
+57
+Fe Mössbauer spectrum of the yolk–shell Pd
+1
+@Fe
+1
+, which can be well fitted with three doublets (D1, D2 and D3). D1, which possesses large values of isomer shift and quadrupole splitting in the yolk–shell Pd
+1
+@Fe
+1
+, can be ascribed to iron(
+ii
+) phthalocyanine-like Fe
+ii
+N
+4
+species
+33
+. D2 can be attributed to ferric X−Fe
+iii
+N
+4
+−Y high-spin species (X and Y refer to a C or N ligand), in which the Fe atom is slightly pulled out of the N
+4
+plane, which results in a deformed octahedral structure. D3 can be assigned to the N−(Fe
+iii
+N
+4
+)−N low-spin structure, in which the central Fe atom is strongly coordinated with four nitrogen atoms in graphitic layers. Additionally, the absence of sextets and singlets indicates the absence of Fe–Fe bonds, which further confirms the atomically dispersed distribution of Fe species. X-ray absorption fine structure (XAFS) is a powerful tool to investigate the chemical state and coordination environment of metal species
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+. As shown in Fig.
+2c
+, the absorption threshold of the Fe atoms (left blue shaded area) and Pd atoms (right blue shaded area), both situated between those of the corresponding metal foil and metallic oxide, show partially positive valence states. In addition, the oxidation state of the cationic Fe
+1
+sites and Pd
+1
+sites could also be verified by X-ray photoelectron spectroscopy measurements (Supplementary Fig.
+17
+). From the
+R
+-space spectrum of the extended XAFS (EXAFS) shown in Fig.
+2d
+, only one dominant coordination peak around 1.5 Å can be assigned to the M
+1
+–C or M
+1
+–N (M = Pd or Fe) bond. The corresponding fitting results (Supplementary Figs.
+18
+and
+19
+and Supplementary Table
+2
+) reveal that both Pd and Fe display the same coordination number of four. There are various possible structures for a given metal atom with four coordination atoms (M
+1
+–C
+x
+N
+4–
+x
+(
+x
+= 0–4), M = Pd or Fe).
+Fig. 2: Chemical state and coordination information of the yolk–shell Pd
+1
+@Fe
+1
+.
+a
+, XRD patterns of PdCl
+2
+/UiO-66-NH
+2
+, PdCl
+2
+/UiO-66-NH
+2
+@SiO
+2
+@Fe-TiPP, core–shell–shell Pd
+1
+@SiO
+2
+@Fe
+1
+and yolk–shell Pd
+1
+@Fe
+1
+.
+b
+,
+57
+Fe Mössbauer spectra of yolk–shell Pd
+1
+@Fe
+1
+.
+c
+,
+d
+, X-ray absorption near-edge structure (
+c
+) and the corresponding Fourier transform EXAFS spectra (
+d
+) of yolk–shell Pd
+1
+@Fe
+1
+and reference materials.
+e
+, The Bader charge of the Fe
+1
+–C
+x
+N
+4–
+x
+(0 ≤
+x
+≤ 4) (blue line) and Pd
+1
+–C
+y
+N
+4–
+y
+(0 ≤
+y
+≤ 4) (red line) structures.
+f
+,
+g
+, Charge density difference between Fe
+1
+–N
+4
+(
+f
+) and Pd
+1
+–N
+4
+(
+g
+). The cyan and yellow regions represent the charge depletion and accumulation, respectively. The isosurface value was set to be 0.02 electrons Bohr
+–3
+. a.u., arbitrary units.
+Source data
+Full size image
+However, it is difficult to discern the exact coordination environment of Pd or Fe sites by XAFS characterizations due to the almost identical bond distances of M–N and M–C (M = Pd or Fe). To explore what kind of the chemical environment is the most stable for anchoring single metal sites on carbon-based materials, we next performed first-principles calculations. The isolated metal atom sites can be anchored on the C or N defects. The interaction between the non-defective carbon layer and either Fe or Pd is weak. However, once the N atom with a strong electronegativity is introduced into the non-defective carbon layer, it would withdraw electrons from the adjacent transition metal atoms and make these isolated central atoms positively charged. Therefore, different C/N ratios were adopted to adjust the electronic structure of central metal atoms, to attach the most stable configuration. First, we performed the Bader charge analysis in different models to give a quantitative comparison of the charge transfer between the central Pd
+1
+and Fe
+1
+sites with various C and N coordinated heteroatoms (Supplementary Table
+3
+). As shown in Fig.
+2e
+, a strong correlation between the amount of positive charge on the Pd
+1
+or Fe
+1
+atom and the number of N atoms occurred. Pd
+1
+–N
+4
+and Fe
+1
+–N
+4
+were demonstrated to be the most stable structures for these metal atoms with various C/N ratios. An intuitive picture of the charge redistribution can be observed in both systems; the larger charge difference between the central Fe and neighbouring N atoms demonstrates a stronger stability of Fe
+1
+–N
+4
+compared with that of Pd
+1
+–N
+4
+. Also, compared with the inert noble metal Pd, Fe more actively loses outer electrons. The interaction between Fe and its neighbouring C and/or N atoms was calculated to be more pronounced than that of Pd. Such a result correlates with the deformation charge density analysis performed on Fe
+1
+–N
+4
+(Fig.
+2f
+) and Pd
+1
+–N
+4
+(Fig.
+2g
+). The improved structure stability induced by N can be further explained by the partial density of states. From Supplementary Fig.
+20a
+, the relative free-standing Fe in the FeC
+4
+structural motif shows electronic states around the Fermi level (0 eV). When N is introduced to the system, the electron density decreases and moves to a deeper energy level, which indicates that more electron transfer occurs from isolated Fe sites to neighbouring C and/or N atoms. The same phenomenon can be observed in the Pd
+1
+–N
+4
+structural motif (Supplementary Fig.
+20b
+). Additionally, possible oxygen-bearing moieties (–O, –O
+2
+and –OH), derived from air exposure or the support itself, could also be excluded around Fe
+1
+sites (Supplementary Fig.
+21
+) via simulated Fe K-edge spectra of the X-ray absorption near-edge structure
+40
+. According to the above analysis, Pd
+1
+–N
+4
+or Fe
+1
+–N
+4
+may be the dominating structural motifs in the as-prepared yolk–shell Pd
+1
+@Fe
+1
+. Furthermore, wavelet transform of Pd K-edge EXAFS shows only one intensity maximum at 4.6 Å
+−1
+, which corresponds to the Pd
+1
+–C or Pd
+1
+–N coordination, and further indicates atomically dispersed Pd sites in yolk–shell Pd
+1
+@Fe
+1
+(Supplementary Fig.
+22
+).
+Catalytic evaluation of yolk–shell Pd
+1
+@Fe
+1
+Spatial compartmentalization of isolated single-atom Pd and Fe sites within one system could be given a random or orderly distribution via precise chemical modulating. A rational and spatial construction of single-atom Pd and Fe sites may act as an ideal multifunctional catalyst to separately activate hydrogen and oxygen molecules through non-interfering reaction pathways (Fig.
+3a
+). We used the as-prepared yolk–shell Pd
+1
+@Fe
+1
+under a hydrogen and oxygen atmosphere for the direct synthesis of amino alcohols by a cascade reaction that follows the simultaneous hydrogenation of nitroaromatics and alkene epoxidation reactions. As shown in Fig.
+3b
+, styrene and nitrobenzene were continuously and selectively attacked by activated O
+2
+on the Fe
+1
+–C
+x
+N
+4–
+x
+(0 ≤
+x
+≤ 4) sites and H
+2
+on the Pd
+1
+–C
+y
+N
+4–
+y
+(0 ≤
+y
+≤ 4) sites. Furthermore, the obtained styrene oxide and aniline spontaneously reacted in the void space of the CSAS, and eventually afforded the 1-phenyl-2-(phenylamino)ethanol product with an excellent conversion (≥99%) and selectivity (85%). A scheme that illustrates the catalytic pathway is shown in Fig.
+3c
+. In the first step, nitrobenzene and styrene diffuse to the Fe
+1
+-rich N-doped carbon shell, during which the epoxidation of styrene takes place to yield styrene oxide and leave the nitrobenzene inert. Nitrobenzene sequentially permeates through the internal void and is catalysed by the Pd
+1
+-rich yolk to yield aniline. Once aniline is formed on isolated Pd
+1
+sites, it spontaneously condenses with styrene oxide to yield the target product via a ring-opening reaction. This unique 3D nanostructure effectively modulates the spatial distribution of the separated Pd
+1
+and Fe
+1
+sites in one yolk–shell nanoconfiguration, specifically for the simultaneous activation of molecular oxygen and hydrogen without compromising each other in the catalytic cycles.
+Fig. 3: Illustration of the active site compartmentalization and reaction scheme.
+a
+, Rational site interface configuration of CSAS.
+b
+, Conversion and selectivity of the yolk–shell Pd
+1
+@Fe
+1
+to afford the target product (1-phenyl-2-(phenylamino)ethanol). Error bars correspond to the standard deviation of three independent measurements.
+c
+, Illustration of the proposed reaction scheme for a continuous epoxide ring-opening amination reaction.
+Source data
+Full size image
+In a further exploration, an integrated catalytic system device was designed and fabricated by integrating an overall water-splitting set-up and the yolk–shell Pd
+1
+@Fe
+1
+. The water electrolyser was utilized to supply H
+2
+and O
+2
+for the direct synthesis of the amino alcohol (1-phenyl-2-(phenylamino)ethanol) (Fig.
+4a
+). An atomically dispersed Fe-embedded carbon nanotube sponge (Fe-CNTS, the synthesis and characterization are provided in Supplementary Figs.
+23
+–
+25
+) could act as a bifunctional electrocatalyst for overall water splitting to generate H
+2
+and O
+2
+. As shown in Supplementary Fig.
+26a,b
+, the electrolyser based on the Fe-embedded carbon nanotube sponge only needs a bias voltage of 1.65 V to reach a current density of 10 mA cm
+−2
+, which may be ascribed to the stable graphitized porous carbon and atomically dispersed Fe species (Supplementary Figs.
+27
+–
+30
+and Supplementary Note
+1
+). In the electrochemical process, O
+2
+and H
+2
+could be generated on-site in a small-scale production under ambient conditions, and consumed in real time for the organic synthesis reactions, which substantially lowers the potential risk of explosion. As displayed in Fig.
+4b
+, the produced H
+2
+and O
+2
+flowed into the right container through the middle gas-guide tube. Then, the O
+2
+and H
+2
+were activated by the Fe
+1
+–N/Fe
+1
+–C and Pd
+1
+–N/Pd
+1
+–C interfaces, respectively, which reacted with styrene and nitrobenzene to directly yield 1-phenyl-2-(phenylamino)ethanol. The catalytic behaviours (Fig.
+4c,d
+) of core–shell Pd
+1
+@Fe
+1
+(Supplementary Fig.
+31
+), yolk–shell Fe
+1
+@Pd
+1
+(Supplementary Fig.
+32
+), yolk–shell Pd
+1
+@CN (Supplementary Fig.
+33a
+), yolk–shell CN@Fe
+1
+(Supplementary Fig.
+33c
+), core–shell–shell Pd
+1
+@SiO
+2
+@Fe
+1
+(Supplementary Fig.
+34
+), hollow Pd
+1
+&Fe
+1
+(Supplementary Figs.
+35
+and
+36
+), hollow Pd
+1
+@Fe
+1
+(Supplementary Fig.
+37
+) and yolk–shell Pd
+1
+@Fe
+1
+were tested in the homemade device (Supplementary Fig.
+38
+). Note that these materials delivered different products with a high conversion (≥99%) in 60 minutes (Supplementary Table
+4
+). Specially, phenylethane and aniline were the main products for yolk–shell Pd
+1
+@CN, which indicates that the single Pd sites promote hydrogenation for both styrene and nitrobenzene. The Pd-free yolk–shell CN@Fe
+1
+shows an efficient epoxidation of styrene (≥99%) and negligible activity towards nitrobenzene. This conforms to the remarkable styrene epoxidation activity, which stems from the single Fe sites rather than the single Pd sites. An 83% chemoselectivity and 90.7% yield of 1-phenyl-2-(phenylamino)ethanol was obtained only by yolk–shell Pd
+1
+@Fe
+1
+. Phenylethane was rarely detected among the resulting products, which can be attributed to the unique yolk–shell structure. The outside Fe sites in yolk–shell Pd
+1
+@Fe
+1
+catalyse styrene to styrene oxide, which greatly hinders the contact between styrene and the inner Pd sites, and thus avoids the formation of phenylethane. On the whole, the unique spatial structure, the kind of metal sites and the distributive sequence of metal sites are vital to control the selectivity of products in this reaction system. For example, the void-free core–shell Pd
+1
+@Fe
+1
+(21%), yolk–shell Fe
+1
+@Pd
+1
+(4.9%) and hollow Pd
+1
+&Fe
+1
+(28%) exhibit weak chemoselectivity for 1-phenyl-2-(phenylamino)ethanol, which indicates that the void and distributive sequence of the Pd and Fe sites can synergistically accelerate the subsequent epoxide ring-opening amination reaction of intermediate products. Hollow Pd
+1
+@Fe
+1
+with an analogous yolk–shell structure also delivered a 65% yield and 46.4% selectivity in 60 minutes. The Pd sites were almost shielded by the SiO
+2
+layer in the Pd
+1
+@SiO
+2
+@Fe
+1
+, which resulted in a ≥99% yield of styrene oxide. In the absence of catalyst, a blank experiment showed poor activity, which further suggests that the catalytic performance is strongly dependent on the atomic metal sites. Next, we conducted a continuous recycling test to verify the stability of yolk–shell Pd
+1
+@Fe
+1
+. As shown in Fig.
+4e
+, no obvious change in specific productivity and selectivity was observed throughout a reaction of ten hours. After switching off the electrocatalytic water-splitting set-up, the prestored H
+2
+and O
+2
+in the balloon could still perform the reaction for three hours without reducing the reaction kinetics and selectivity, which avoids energy waste. In addition, a hot filtration test after 30 minutes of reaction revealed no further conversion after the removal of the yolk–shell Pd
+1
+@Fe
+1
+, which certifies the heterogeneous nature of the catalyst (Supplementary Fig.
+39a
+)
+41
+,
+42
+. Also, no leaching of either Pd or Fe was detected in this case (Supplementary Fig.
+39b
+), which may be assigned to a strong M
+1
+–C and/or M
+1
+–N (M = Pd or Fe) coordination contribution (Supplementary Fig.
+40
+). Additionally, the yolk–shell Pd
+1
+@Fe
+1
+catalyst could be easily recycled by centrifugation from the solution and reused at least ten times without distinct loss of conversion and selectivity (Supplementary Fig.
+41a
+). High-resolution transmission electron microscopy analysis of the recycled sample revealed that the yolk–shell morphology and isolated Pd
+1
+and Fe
+1
+sites were maintained to a large extent after the durability test (Supplementary Fig.
+41b–d
+). Furthermore, the Fourier transform EXAFS spectra (Supplementary Fig.
+42
+) show that Pd and Fe atoms could keep their initial M
+1
+–C
+x
+N
+4–
+x
+(
+x
+= 0–4, M = Pd or Fe) structural motifs after the reaction, which further demonstrates the stability of the yolk–shell Pd
+1
+@Fe
+1
+catalyst. The traditional synthesis strategy for the preparation of amino alcohols usually requires multiple homogeneous catalytic reactions and repetitive purification processes in different reaction systems (Supplementary Fig.
+43a
+). In this work, the as-designed CSAS can directly produce the target amino alcohol (Supplementary Fig.
+43b
+) in one system with a rational atomic design.
+Fig. 4: Production of 1-phenyl-2-(phenylamino)ethanol using CSAS in a homemade device.
+a
+, The proposed integrated catalytic system coupled with an electrocatalytic water-splitting set-up for the simultaneous hydrogenation and epoxidation to yield the target product.
+b
+, Schematic diagram of the homemade device of an integrated catalytic system.
+c
+, The selectivity of the various as-prepared catalysts.
+d
+, Yields of the target product 1-phenyl-2-(phenylamino)ethanol. Inset: schematic diagram of the ordered combination of Pd
+1
+and Fe
+1
+sites in yolk–shell Pd
+1
+@Fe
+1
+.
+e
+, The specific productivity (top) and selectivity (bottom) for a continuous recycled testing.
+Source data
+Full size image
+Substrate scope
+Having established the highly active and selective catalytic system, we then expanded the substrate scope to nitrobenzene derivatives to synthesize the corresponding amino alcohol. As shown in Fig.
+5a
+, a broad range of nitrobenzene derivatives, which includes 1-nitro-4-chlorobenzene and 2,4,6-trimethylnitrobenzene, was tested in our CSAS. Remarkably, we could acquire the target amino alcohol in 78.5 and 72% yields, respectively. Further, cyclohexene reacted with various nitrobenzene derivatives to produce the corresponding amino alcohol (the third row in Fig.
+5
+) in 78 and 86.3% yields, respectively. Note that ethylene, an important industrial building block molecule, could also be catalysed in our system, with an excellent yield of 84.1% for 2-(phenylamino)ethanol. To prove the utility, S-containing substrates were further explored. Diphenyl disulfide and its derivatives (−R
+3
+= Me, OMe, Ph, Br and Cl) delivered yields between 58.5 and 81.8% for the final coupling products (Fig.
+5b
+), which further verifies the system’s practicality.
+Fig. 5: Substrate scope.
+a
+, The yields of reaction between nitrobenzene and its derivatives with ethylene, styrene and cyclohexene.
+b
+, The yields of reaction between diphenyl disulfide and its derivatives with styrene in CSAS. Reaction conditions: nitrobenzene and its derivatives (0.005 mmol ml
+–1
+), diphenyl disulfide and its derivatives (0.0025 mmol ml
+–1
+), 40 ml of dimethylformamide (DMF), temperature = 80 °C. Yields were determined by gas chromatography.
+Source data
+Full size image
+Conclusions
+In summary, we report a biomimetic construction of CSAS with two different single metal sites, Fe
+1
+sites in a N-doped carbon shell and Pd
+1
+sites in a MOF-derived yolk, to simultaneously catalyse nitroaromatics hydrogenation and alkene epoxidation reactions, which leads to a cascade synthesis of amino alcohols. Our findings provide an enabling and versatile strategy to integrate single-atom catalysts within one system, which is critically important for the continuous and multistep synthesis of compounds from easily accessible building block molecules for various challenging reactions.
+Methods
+Materials
+All the chemicals were used as received without further purification. H
+2
+BDC-NH
+2
+, NaOH, ethanol, formaldehyde, ZrCl
+4
+, ammonia aqueous solution (28%), glacial acetic acid and 40% hydrofluoric acid solution were purchased from Shanghai Chemical Reagents. TiPP, tetraethyl orthosilicate (TEOS), 1,2,4,5-tetrakis(bromomethyl)benzene, cetyltrimethyl ammonium bromide, 3-aminophenol, palladium chloride, iron(
+ii
+) phthalocyanine, nitrobenzene, styrene and FeCl
+3
+were purchased from Aladdin Company. Deionized water was used throughout this study.
+Preparation of UiO-66-NH
+2
+In a typical procedure, a mixture of ZrCl
+4
+(315 mg) and H
+2
+BDC-NH
+2
+(245 mg) was dissolved in 300 ml of DMF that contained 40 ml of glacial acetic acid into a 500 ml round-bottomed flask. The mixture was treated with ultrasound for 0.5 h to form a homogeneous transparent solution. Then, the mixture was heated at 120 °C for 3 h and cooled to room temperature. The as-obtained products were centrifuged at 7,000 r.p.m. for 3 min and washed with methanol and DMF (1/4 v/v) three times. Finally, the as-prepared UiO-66-NH
+2
+was dried under vacuum at 65 °C for further use.
+Preparation of PdCl
+2
+/UiO-66-NH
+2
+The Pd precursor (PdCl
+2
+) was adsorbed through unsaturated dangling –NH
+2
+groups by wet impregnation. Briefly, a mixed precursor of ZrCl
+4
+(315 mg) and PdCl
+2
+/H
+2
+BDC-NH
+2
+(5.6 mg/245 mg) was dissolved in 300 ml of DMF that contained 36 ml of glacial acetic acid in a 500 ml round-bottomed flask. The mixture was treated with ultrasound for 0.5 h to form a homogeneous transparent solution. Then, the mixture was heated at 120 °C for 3 h and then cooled to room temperature. The as-obtained products were centrifuged at 7,000 r.p.m. for 3 min and washed with methanol and DMF (1/4 v/v) three times. Finally, the as-prepared PdCl
+2
+/UiO-66-NH
+2
+was dried in vacuum at 65 °C overnight.
+Preparation of core–shells PdCl
+2
+/UiO-66-NH
+2
+@SiO
+2
+and UiO-66-NH
+2
+@SiO
+2
+The as-prepared PdCl
+2
+/UiO-66-NH
+2
+(60 ml, 1 mg ml
+−1
+) was first dissolved in a mixed solution that contained ethyl alcohol (6 ml), cetyltrimethyl ammonium bromide (160 mg) and NaOH solution (0.3 ml, 2 M) under ultrasonication for 0.5 h. Then, TEOS (0.4 ml) was added to this suspension and stirred for 2 h at 60 °C. The as-synthesized core–shell PdCl
+2
+/UiO-66-NH
+2
+@SiO
+2
+was collected and washed three times with ethyl alcohol. The synthetic procedure for UiO-66-NH
+2
+@SiO
+2
+was same as that for PdCl
+2
+/UiO-66-NH
+2
+@SiO
+2
+, except UiO-66-NH
+2
+was used instead of PdCl
+2
+/UiO-66-NH
+2
+.
+Preparation of PdCl
+2
+/UiO-66-NH
+2
+@Fe-TiPP and yolk–shells Pd
+1
+@Fe, Fe
+1
+@Pd
+1
+, Pd
+1
+@CN and CN@Fe
+1
+First, α,α′-dibromo-
+p
+-xylene (18 mg) was dissolved in 20 ml of DMF to form a clear solution, which was subsequently added into 40 ml of DMF that contained the as-prepared Fe-TiPP (10 mg), TiPP (20 mg) and PdCl
+2
+/UiO-66-NH
+2
+@SiO
+2
+(60 mg) under robust stirring at room temperature. The mixed suspension was then transferred into a 100 ml round-bottomed flask kept at 110 °C for 24 h. The obtained product was separated by centrifugation and washed subsequently with DMF three times and ethanol twice, and finally dried at 70 °C under vacuum overnight. Next, the collected solid powder (core–shell–shell PdCl
+2
+/UiO-66-NH
+2
+@Fe-TiPP) was placed in a tube furnace and heated to 700 °C for 3 h at a heating rate of 5 °C min
+–1
+under flowing N
+2
+gas and then naturally cooled to room temperature to obtain the representative samples. The obtained samples were etched in a 1 M NaOH aqueous solution at room temperature for 24 h to remove the SiO
+2
+template to give the final yolk–shell Pd
+1
+@Fe
+1
+catalyst. The same procedure was utilized for the synthesis of yolk–shell Fe
+1
+@Pd
+1
+via reversing the order of addition of Pd and Fe. The PdCl
+2
+/UiO-66-NH
+2
+@SiO
+2
+@TiPP was prepared by coating the pure TiPP polymer, followed by heat treatment and removal of the SiO
+2
+template to generate yolk–shell Pd
+1
+@CN. The UiO-66-NH
+2
+@SiO
+2
+@Fe-TiPP was utilized for the synthesis of yolk–shell CN@Fe
+1
+via heat treatment and removal of the SiO
+2
+template. The core–shell Pd
+1
+@Fe
+1
+catalyst was directly prepared by the pyrolysis of PdCl
+2
+/UiO-66-NH
+2
+@Fe-TiPP.
+Preparation of hollow Pd
+1
+&Fe
+1
+To synthesize hollow Pd
+1
+&Fe
+1
+, the SiO
+2
+spheres was first prepared via the classical Stöber method. Absolute ethanol (300 ml), deionized water (100 ml) and 28% NH
+3
+·H
+2
+O (15 ml) were mixed and stirred. A total of 12 ml of TEOS was quickly added to the mixture. After a reaction time of about 60 min, the silica spheres were isolated by centrifugation. Then, α,α′-dibromo-
+p
+-xylene (40 mg) was dissolved in 20 ml of DMF to form a clear solution, which was subsequently added to 20 ml of DMF that contained the as-prepared Fe-TiPP (14 mg), Pd-TiPP (14 mg) and SiO
+2
+(40 mg) under robust stirring at room temperature. The mixed suspension was then transferred into a 100 ml round-bottomed flask and kept at 110 °C for 24 h. The obtained product was separated by centrifugation and washed subsequently with DMF three times and ethanol twice, and finally dried at 70 °C under vacuum overnight. Finally, the collected solid powder was placed in a tube furnace and heated to 700 °C for 3 h at a heating rate of 5 °C min
+–1
+under flowing N
+2
+gas and then naturally cooled to room temperature. Then, the obtained samples were etched in a 1 M NaOH aqueous solution at room temperature for 24 h to remove the SiO
+2
+spheres to obtain the hollow Pd
+1
+&Fe
+1
+catalyst.
+Preparation of hollow Pd
+1
+@Fe
+1
+For the synthesis of the hollow Pd
+1
+@Fe
+1
+catalyst, α,α′-dibromo-
+p
+-xylene (40 mg) was dissolved in 20 ml of DMF to form a clear solution, which was subsequently added to 20 ml of DMF that contained the as-prepared TiPP (14 mg), Pd-TiPP (14 mg) and SiO
+2
+(40 mg) under robust stirring at room temperature. The mixed suspension was then transferred into a 100 ml round-bottomed flask at 110 °C for 24 h. The obtained SiO
+2
+@Pd-TiPP was separated by centrifugation and washed subsequently with DMF three times and ethanol twice, and finally dried at 70 °C under vacuum overnight. Then, the as-prepared SiO
+2
+@Pd-TiPP (60 ml, 1 mg ml
+−1
+) was dissolved in a mixed solution that contained ethyl alcohol (6 ml), cetyltrimethyl ammonium bromide (160 mg) and NaOH solution (0.5 ml) under ultrasonication for 0.5 h. Then, TEOS (0.4 ml) was added to this suspension and stirred for 2 h at 60 °C. The three-layer core–shell–shell SiO
+2
+@Pd-TiPP@SiO
+2
+was collected and washed three times with ethyl alcohol, after which the core–shell–shell SiO
+2
+@Pd-TiPP@SiO
+2
+(50 mg) was further dissolved in 20 ml of DMF that contained TiPP (20 mg) and Fe-TiPP (20 mg) to form a homogeneous solution. Then, α,α′-dibromo-
+p
+-xylene (60 ml, 1 mg ml
+−1
+) was added to the above suspension and stirred for 24 h at 110 °C. Finally, the collected solid powder was placed in a tube furnace and heated to 700 °C for 3 h at a heating rate of 5 °C min
+–1
+under flowing N
+2
+gas and then naturally cooled to room temperature. Then obtained samples were etched in 1 M NaOH aqueous solution at room temperature for 24 h to remove the SiO
+2
+template to obtain the hollow Pd
+1
+@Fe
+1
+catalyst.
+Catalytic evaluation
+The reaction was carried out in a 50 ml glass electrolytic cell with a magnetic stirrer. In a typical experiment, a DMF (40 ml) solution that contained nitrobenzene (0.005 mmol ml
+–1
+), styrene (0.005 mmol ml
+–1
+) and different catalysts (yolk–shell Pd
+1
+@Fe
+1
+(30 mg), yolk–shell Fe
+1
+@Pd
+1
+(26.5 mg), yolk–shell Pd
+1
+@CN (28 mg), yolk–shell CN@Fe
+1
+(28 mg), core–shell–shell Pd
+1
+@SiO
+2
+@Fe
+1
+(22 mg), core–shell Pd
+1
+@Fe
+1
+(30 mg), hollow Pd
+1
+&Fe
+1
+(12 mg) and hollow Pd
+1
+@Fe
+1
+(24 mg)) was loaded into the reactor. The reactor was sealed and linked with a conduit to combine with the water-splitting electrolytic cell. Then, the reactor was heated to 80 °C and stirring with a speed fixed at 450 r.p.m. to ensure the diffusion effect was eliminated. Mesitylene (1 mmol), used as the internal standard, was added at the beginning of the reaction with stirring at 80 °C in an oil bath. The product was identified by gas chromatography–mass spectrometry (TXQ Quantum XLS, column TG-WAXMS, 30 m × 0.25 mm × 0.25 μm, Thermo Fisher Scientific), and quantitatively analysed by gas chromatography (Shimadzu, GC-2010 Plus equipped with a flame ionization detector) and a 30 m × 0.25 mm × 0.25 μm KB-WAX capillary column (Kromat Corporation) using mesitylene as an internal standard. The selectivity and yield were calculated using equations (
+1
+) and (
+2
+), respectively:
+$$\begin{array}{l}{\mathrm{Selectivity}}\,{(\%)} =\\ \frac{{{\mathrm{produced}}\,{\mathrm{1}} {\hbox{-}} {\mathrm{phenyl}} {\hbox{-}} 2 {\hbox{-}} ({\mathrm{phenylamino}}){\mathrm{ethanol}}\,({\mathrm{mmol}})}}{{{\mathrm{1}} {\hbox{-}} {\mathrm{phenyl}} {\hbox{-}} 2 {\hbox{-}} ({\mathrm{phenylamino}}){\mathrm{ethanol}}\,({\mathrm{mmol}})\,+ \,{\mathrm{aniline}}({\mathrm{mmol}}) \,+ \,{\mathrm{phenylethane}}\,({\mathrm{mmol}}) \,+ \,{\mathrm{styrene}}\,{\mathrm{oxide}}\,({\mathrm{mmol}})}}\\ \times 100\end{array}$$
+(1)
+$${\mathrm{Yield}}\,{\mathrm{{(\%)} }} = \frac{{{\mathrm{produced}}\,1 {\hbox{-}} {\mathrm{phenyl}} {\hbox{-}} 2 {\hbox{-}} ({\mathrm{phenylamino}}){\mathrm{ethanol}}\,{\mathrm{(mmol)}}}}{{{\mathrm{conversion}}\,{\mathrm{of}}\,{\mathrm{styrene}}\,{\mathrm{(mmol)}}}} \times 100$$
+(2)
+To generate the results of specific productivity shown in Fig.
+4e
+, for each cycle the system was reacted at 80 °C for 1 h. When the reaction time reached 1 h, 50 μl of the solution was extracted with a miniature syringe from the glass electrolytic cell and analysed by gas chromatography. Meanwhile, we reinjected the system quickly with new reactants (nitrobenzene (0.2 mmol) and styrene (0.2 mmol)) to let the system start the next cycle for another hour. A total of 13 cycles were conducted, and the yields of each cycle were recorded by gas chromatography. We could calculate the yields of each cycle test by the same method as above and the specific productivity was calculated using equation (
+3
+):
+$$\begin{array}{l}{\mathrm{Specific}}\,{\mathrm{productivity}}\left( {{\mathrm{mmol}} \, {\mathrm{ml}}^{ - {\mathrm{1}}} \, {\mathrm{h}}^{ - {\mathrm{1}}}} \right)\\ = \frac{{{\mathrm{produced}}\,{\mathrm{1}} {\hbox{-}} {\mathrm{phenyl}} {\hbox{-}} 2 {\hbox{-}} ({\mathrm{phenylamino}}){\mathrm{ethanol}}\,({\mathrm{mmol}})}}{{{\mathrm{volume}}\,{\mathrm{of}}\,{\mathrm{the}}\,{\mathrm{solvent}}\,({\mathrm{ml}})\ \times\ {\mathrm{reaction}}\,{\mathrm{time}} \ ({\mathrm{h}})}}\end{array}$$
+(3)
+Characterization
+XRD measurements were performed on a Rigaku Miniflex-600 operated at 40 kV voltage and 15 mA current using a Cu Kα radiation (
+λ
+= 0.15406 nm). The step size was 0.02° and the scanning speed was 8° min
+−1
+. TEM images were recorded on a Hitachi-7650 worked at 100 kV. The high-resolution TEM and HAADF-STEM images, and the corresponding electron energy-loss spectroscopy, were recorded on a FEI Tecnai G2 F20 S-Twin high-resolution transmission electron microscope worked at 200 kV and a JEOL JEM-ARM200F TEM/STEM with a spherical aberration corrector worked at 300 kV. Through-focal HAADF series were acquired at nanometre intervals, with the first image underfocused (beyond the beam exit surface) and the final image overfocused (before the beam entrance surface). The images were then manually aligned to remove the sample drift effects. Elemental analysis of Pd in the solid samples was detected by inductively coupled plasma atomic emission spectrometry (Optima 7300 DV). For the hard XAFS measurement and data analysis, XAFS spectra at the Pd and Fe K-edges were recorded at the XAS station (BL14W1) of the Shanghai Synchrotron Radiation Facility. The Pd and Fe K-edge X-ray absorption near-edge structure data were recorded in the fluorescence mode. The storage ring worked at an energy of 3.5 GeV. The hard X-ray was monochromatized with Si(111) double crystals. The acquired EXAFS data were extracted and processed according to standard procedures using the ATHENA module implemented in IFEFFIT software packages. The k
+3
+-weighted EXAFS spectra were obtained by subtracting the postedge background from the overall absorption and then normalizing with respect to the edge-jump step. Subsequently, k
+3
+-weighted
+χ
+(k) data in the k-space were Fourier transformed to real (
+R
+) space using a Hanning windows (
+d
+K
+= 3.00–12.173 Å
+−1
+) to separate the EXAFS contributions from different coordination shells. To obtain the quantitative structural parameters around the central atoms, least-squares curve parameter fitting was performed using the ARTEMIS module of IFEFFIT software packages. The following EXAFS equation was used:
+$$\chi \left( k \right) = \mathop {\sum}\limits_j {\frac{{N_jS_o^2F_j\left( k \right)}}{{kR_j^2}}} \exp \left( { - 2k^2\sigma _j^2} \right)\exp \left[ {\frac{{ - 2R_j}}{{\lambda \left( k \right)}}} \right]\sin [2kR_j + \phi _j\left( k \right)]$$
+(4)
+where
+S
+0
+2
+is the amplitude reduction factor,
+F
+j
+(
+k
+) the effective curved-wave back-scattering amplitude,
+N
+j
+the number of neighbours in the
+j
+atomic shell,
+R
+j
+the distance between the X-ray absorbing central atom and the atoms in the
+j
+atomic shell (back scatter),
+λ
+the mean free path (Å),
+ϕ
+j
+(
+k
+) the phase shift (including the phase shift for each shell and the total central atom phase shift) and
+σ
+j
+the Debye–Waller parameter of the
+j
+atomic shell (variation of distances around the average
+R
+j
+). The functions
+F
+j
+(
+k
+),
+λ
+and
+ϕ
+j
+(
+k
+) were calculated with the ab initio code FEFF8.2.
+Data availability
+The data that support the findings of this study are available from the corresponding author upon reasonable request.
+Source data
+are provided with this paper.
+References
+Lubitz, W., Ogata, H., Rudiger, O. & Reijerse, E. Hydrogenases.
+Chem. Rev.
+114
+, 4081–4148 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Schwizer, F. et al. Artificial metalloenzymes: reaction scope and optimization strategies.
+Chem. Rev.
+118
+, 142–231 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Wodrich, M. D. & Hu, X. Natural inspirations for metal–ligand cooperative catalysis.
+Nat. Rev. Chem.
+2
+, 0099 (2017).
+Article
+CAS
+Google Scholar
+Suryanto, B. H. R. et al. Challenges and prospects in the catalysis of electroreduction of nitrogen to ammonia.
+Nat. Catal.
+2
+, 290–296 (2019).
+Article
+CAS
+Google Scholar
+Barber, J. Photosynthetic energy conversion: natural and artificial.
+Chem. Soc. Rev.
+38
+, 185–196 (2009).
+Article
+CAS
+PubMed
+Google Scholar
+Kumaravel, V. et al. Photoelectrochemical conversion of carbon dioxide (CO
+2
+) into fuels and value-added products.
+ACS Energy Lett.
+5
+, 486–519 (2020).
+Article
+CAS
+Google Scholar
+Pan, H.-J. et al. A catalytically active [Mn]-hydrogenase incorporating a non-native metal cofactor.
+Nat. Chem.
+11
+, 669–675 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Bhagidamodaran, A. et al. Why copper is preferred over iron for oxygen activation and reduction in haem–copper oxidases.
+Nat. Chem.
+9
+, 257–263 (2017).
+Article
+CAS
+Google Scholar
+Huang, L. et al. Single-atom nanozymes.
+Sci. Adv.
+5
+, eaav5490 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Yang, X. F. et al. Single-atom catalysts: a new frontier in heterogeneous catalysis.
+Acc. Chem. Res.
+46
+, 1740–1748 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, Y. et al. Single-atom catalysts: synthetic strategies and electrochemical applications.
+Joule
+2
+, 1242–1264 (2018).
+Article
+CAS
+Google Scholar
+Liu, J. Catalysis by supported single metal atoms.
+ACS Catal.
+7
+, 34–59 (2017).
+Article
+CAS
+Google Scholar
+Liu, P. et al. Photochemical route for synthesizing atomically dispersed palladium catalysts.
+Science
+352
+, 797–800 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, L. et al. Atomic-level insights in optimizing reaction paths for hydroformylation reaction over Rh/CoO single-atom catalyst.
+Nat. Commun.
+7
+, 14036 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zitolo, A. et al. Identification of catalytic sites in cobalt–nitrogen–carbon materials for the oxygen reduction reaction.
+Nat. Commun.
+8
+, 957 (2017).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Kunwar, D. et al. Stabilizing high metal loadings of thermally stable platinum single atoms on an industrial catalyst support.
+ACS Catal.
+9
+, 3978–3990 (2019).
+Article
+CAS
+Google Scholar
+Cavka, J. H. et al. A new zirconium inorganic building brick forming metal organic frameworks with exceptional stability.
+J. Am. Chem. Soc.
+130
+, 13850–13851 (2008).
+Article
+PubMed
+CAS
+Google Scholar
+Zhao, Y. et al. Two-step carbothermal welding to access atomically dispersed Pd
+1
+on three-dimensional zirconia nanonet for direct indole synthesis.
+J. Am. Chem. Soc.
+141
+, 10590–10594 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Wong, A. et al. Synthesis of ultrasmall, homogeneously alloyed, bimetallic nanoparticles on silica supports.
+Science
+358
+, 1427–1430 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Wu, H. et al. Highly doped and exposed Cu(
+i
+)–N active sites within graphene towards efficient oxygen reduction for zinc–air batteries.
+Energy Environ. Sci.
+9
+, 3736–3745 (2016).
+Article
+CAS
+Google Scholar
+Gao, G., Jiao, Y., Waclawik, E. R. & Du, A. Single atom (Pd/Pt) supported on graphitic carbon nitride as an efficient photocatalyst for visible-light reduction of carbon dioxide.
+J. Am. Chem. Soc.
+138
+, 6292–6297 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, W. et al. Single-site active cobalt-based photocatalyst with a long carrier lifetime for spontaneous overall water splitting.
+Angew. Chem. Int. Ed.
+56
+, 9312–9317 (2017).
+Article
+CAS
+Google Scholar
+Wei, S. et al. Direct observation of noble metal nanoparticles transforming to thermally stable single atoms.
+Nat. Nanotechnol.
+13
+, 856–861 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, W. et al. Single-atom dispersed Co–N–C catalyst: structure identification and performance for hydrogenative coupling of nitroarenes.
+Chem. Sci.
+7
+, 5758–5764 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Fei, H. et al. General synthesis and definitive structural identification of MN
+4
+C
+4
+single-atom catalysts with tunable electrocatalytic activities.
+Nat. Catal.
+1
+, 63–72 (2018).
+Article
+CAS
+Google Scholar
+Suenaga, K. et al. Radially modulated nitrogen distribution in CN
+x
+canotubular structures prepared by CVD using Ni phthalocyanine.
+Chem. Phys. Lett.
+316
+, 365–372 (2000).
+Article
+CAS
+Google Scholar
+Li, Z. et al. Iridium single-atom catalyst on nitrogen-doped carbon for formic acid oxidation synthesized using a general host−guest strategy.
+Nat. Chem.
+12
+, 764–772 (2020).
+Article
+PubMed
+CAS
+Google Scholar
+Gu, J. et al. Atomically dispersed Fe
+3+
+sites catalyze efficient CO
+2
+electroreduction to CO.
+Science
+364
+, 1091–1094 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, Z. et al. The simplest construction of single-site catalysts by the synergism of micropore trapping and nitrogen anchoring.
+Nat. Commun.
+10
+, 1657 (2019).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Wang, X. et al. Uncoordinated amine groups of metal–organic frameworks to anchor single Ru sites as chemoselective catalysts toward the hydrogenation of quinoline.
+J. Am. Chem. Soc.
+139
+, 9419–9422 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, J. et al. Design of N-coordinated dual-metal sites: a stable and active Pt-free catalyst for acidic oxygen reduction reaction.
+J. Am. Chem. Soc.
+139
+, 17281–17284 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Lin, L. et al. Low-temperature hydrogen production from water and methanol using Pt/α-MoC catalysts.
+Nature
+544
+, 80–83 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Corma, A. et al. Exceptional oxidation activity with size-controlled supported gold clusters of low atomicity.
+Nat. Chem.
+5
+, 775–781 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Yao, Y. et al. High temperature shockwave stabilized single atoms.
+Nat. Nanotechnol.
+14
+, 851–445 857 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, Z. et al. A heterogeneous single-atom palladium catalyst surpassing homogeneous systems for Suzuki coupling.
+Nat. Nanotechnol.
+13
+, 702–707 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, L. et al. Graphene defects trap atomic Ni species for hydrogen and oxygen evolution reactions.
+Chem
+4
+, 285–297 (2018).
+Article
+CAS
+Google Scholar
+Zhang, Z. et al. Thermally stable single atom Pt/m-Al
+2
+O
+3
+for selective hydrogenation and CO oxidation.
+Nat. Commun.
+8
+, 16100 (2017).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Genovese, C. et al. Operando spectroscopy study of the carbon dioxide electro-reduction by iron species on nitrogen-doped carbon.
+Nat. Commun.
+9
+, 935 (2018).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Sabater, S. et al. Catalyst enhancement and recyclability by immobilization of metal complexes onto graphene surface by noncovalent interactions.
+ACS Catal.
+4
+, 2038–2047 (2014).
+Article
+CAS
+Google Scholar
+Feng, X. et al. Engineering a highly defective stable UiO-66 with tunable Lewis–Brønsted acidity: the role of the hemilabile linker.
+J. Am. Chem. Soc.
+142
+, 3174–3183 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Download references
+Acknowledgements
+This work was supported by the National Key R&D Program of China 2017YFA (0208300 and 0700104), the National Natural Science Foundation of China (21522107, 21671180, 21521091, U1463202 and 21873050). We thank the photoemission endstations BL1W1B at the Beijing Synchrotron Radiation Facility (BSRF), BL14W1 at the Shanghai Synchrotron Radiation Facility (SSRF) and BL10B and BL11U in the National Synchrotron Radiation Laboratory (NSRL) for help in the characterizations.
+Author information
+Author notes
+These authors contributed equally: Yafei Zhao, Huang Zhou, Xiaorong Zhu.
+Authors and Affiliations
+Hefei National Laboratory for Physical Sciences at the Microscale, Collaborative Innovation Center of Chemistry for Energy Materials (iChEM), School of Chemistry and Materials Science, and National Synchrotron Radiation Laboratory, University of Science and Technology of China, Hefei, China
+Yafei Zhao, Huang Zhou, Yunteng Qu, Can Xiong, Zhenggang Xue, Qingwei Zhang, Fangyao Zhou, Wenyu Wang, Min Chen, Xingen Lin, Yue Lin, Weixin Huang & Yuen Wu
+Jiangsu Collaborative Innovation Centre of Biomedical Functional Materials, School of Chemistry and Materials Science, Nanjing Normal University, Nanjing, China
+Xiaorong Zhu & Yafei Li
+National Synchrotron Radiation Laboratory, University of Science and Technology of China, Hefei, China
+Xiaokang Liu, Tao Yao & Shiqiang Wei
+College of Chemistry and Molecular Engineering, Qingdao University of Science and Technology, Qingdao, China
+Xiaoming Mou
+Department of Materials Science and Engineering, China University of Petroleum, Qingdao, China
+Ya Xiong
+Beijing Key Laboratory of Construction Tailorable Advanced Functional Materials and Green Applications, School of Materials Science and Engineering, Beijing Institute of Technology, Beijing, China
+Wenxing Chen
+Experimental Center of Engineering and Material Science, University of Science and Technology of China, Hefei, China
+Hui-Juan Wang
+Shanghai Synchrotron Radiation Facilities, Shanghai Institute of Applied Physics, Chinese Academy of Science, Shanghai, China
+Zheng Jiang
+Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing, China
+Lirong Zheng & Juncai Dong
+Institute of Physics, Chinese Academy of Sciences, Beijing, China
+Lin Gu
+Center for Electron Microscopy and Tianjin Key Lab of Advanced Functional Porous Materials, Institute for New Energy Materials and Low-Carbon Technologies, School of Materials, Tianjin University of Technology, Tianjin, China
+Jun Luo
+Authors
+Yafei Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Huang Zhou
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaorong Zhu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yunteng Qu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Can Xiong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhenggang Xue
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qingwei Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaokang Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Fangyao Zhou
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaoming Mou
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wenyu Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Min Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ya Xiong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xingen Lin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yue Lin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wenxing Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hui-Juan Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zheng Jiang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lirong Zheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tao Yao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Juncai Dong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shiqiang Wei
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Weixin Huang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lin Gu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jun Luo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yafei Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yuen Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Y.W. developed the idea and designed experiments. Y.Z. and H.Z. conceived and performed most of the experiments. Y.Q., C.X., Z.X., Q.Z., F.Z., X.M., W.W., M.C., Y.X., X. Lin, H.W. and W.H. participated in some of the experimental work. X.Z. and Y. Li performed the theoretical calculations. L.G., J.L. and Y. Lin performed the aberration-corrected STEM characterizations. X. Liu, W.C., Z.J., L.Z., T.Y., J.D. and S.W. carried out the XFAS characterizations. All the authors discussed the results and commented on the manuscript.
+Corresponding authors
+Correspondence to
+Yafei Li
+or
+Yuen Wu
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Catalysis
+thanks the anonymous reviewers for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–43, notes and Tables 1–4.
+Source data
+Source Data Fig. 1
+XRD data for Fig. 2a.
+Source Data Fig. 2
+57
+Fe Mössbauer spectra of yolk–shell Pd
+1
+@Fe
+1
+.
+Source Data Fig. 3
+EXAFS of single-atom Pd
+1
+sites and Fe
+1
+sites.
+Source Data Fig. 4
+FT-EXAFS spectra for Fig.2d.
+Source Data Fig. 5
+The Bader charge of Fe
+1
+-C
+x
+N
+4–
+x
+(0 ≤
+x
+≤ 4) and Pd
+1
+-C
+y
+N
+4–
+y
+(0 ≤
+y
+≤ 4) structures.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Zhao, Y., Zhou, H., Zhu, X.
+et al.
+Simultaneous oxidative and reductive reactions in one system by atomic design.
+Nat Catal
+4
+, 134–143 (2021). https://doi.org/10.1038/s41929-020-00563-0
+Download citation
+Received
+:
+08 June 2020
+Accepted
+:
+28 November 2020
+Published
+:
+21 January 2021
+Issue Date
+:
+February 2021
+DOI
+:
+https://doi.org/10.1038/s41929-020-00563-0
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

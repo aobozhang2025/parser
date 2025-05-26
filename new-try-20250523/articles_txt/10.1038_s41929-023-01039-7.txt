@@ -1,0 +1,1997 @@
+Unravelling the complex causality behind Fe–N–C degradation in fuel cells | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Unravelling the complex causality behind Fe–N–C degradation in fuel cells
+Download PDF
+Article
+Published:
+28 September 2023
+Unravelling the complex causality behind Fe–N–C degradation in fuel cells
+Geunsu Bae
+ORCID:
+orcid.org/0000-0002-6714-1647
+1
+na1
+,
+Minho M. Kim
+ORCID:
+orcid.org/0000-0002-3960-8908
+2
+na1
+,
+Man Ho Han
+ORCID:
+orcid.org/0000-0001-9363-5563
+3
+na1
+,
+Junsic Cho
+ORCID:
+orcid.org/0000-0002-4875-0287
+1
+,
+Dong Hyun Kim
+ORCID:
+orcid.org/0000-0002-3364-4991
+1
+,
+Moulay-Tahar Sougrati
+ORCID:
+orcid.org/0000-0003-3740-2807
+4
+,
+Jinjong Kim
+ORCID:
+orcid.org/0000-0002-8424-3688
+5
+,
+Kug-Seung Lee
+ORCID:
+orcid.org/0000-0002-7570-8404
+6
+,
+Sang Hoon Joo
+ORCID:
+orcid.org/0000-0002-8941-9662
+5
+,
+William A. Goddard III
+ORCID:
+orcid.org/0000-0003-0097-5716
+7
+,
+Hyung-Suk Oh
+ORCID:
+orcid.org/0000-0002-0310-6666
+3
+,
+8
+,
+Hyungjun Kim
+ORCID:
+orcid.org/0000-0001-8261-9381
+2
+,
+Frédéric Jaouen
+ORCID:
+orcid.org/0000-0001-9836-3261
+4
+&
+…
+Chang Hyuck Choi
+ORCID:
+orcid.org/0000-0002-2231-6116
+1
+,
+9
+Show authors
+Nature Catalysis
+volume
+6
+,
+pages
+1140–1150 (
+2023
+)
+Cite this article
+8646
+Accesses
+Metrics
+details
+Subjects
+Electrocatalysis
+Fuel cells
+Abstract
+Beyond great advances in initial activity, Fe–N–C catalysts face the next challenge of stability issue in acidic medium that must be overcome to replace Pt in fuel cell cathode. However, the complex phenomena in fuel cells and consequential difficulty in understanding deactivation mechanisms of Fe–N–C cathodes impede solutions for prolonged stability. Here we show time-resolved changes in active site density and turnover frequency of Fe–N–C along with concurrent decrease in oxygen reduction reaction current in a temperature/gas controllable gas-diffusion electrode flow cell. Operando diagnosis of Fe leaching identifies a strong dependence of site density changes on operating parameters and draws a lifetime-dependent stability diagram that reveals a shift in the prime degradation mechanism during operation. A proof-of-concept strategy with site-isolated Pt ions as a non-catalytic stabilizer, supported by theoretical calculations, demonstrates enhanced fuel cell stability with reduced Fe dissolution, offering design principles for durable Fe–N–C catalysts.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Identification of durable and non-durable FeN
+x
+sites in Fe–N–C materials for proton exchange membrane fuel cells
+Article
+07 December 2020
+Tuning the thermal activation atmosphere breaks the activity–stability trade-off of Fe–N–C oxygen reduction fuel cell catalysts
+Article
+05 December 2023
+Quantifying the electrochemical active site density of precious metal-free catalysts in situ in fuel cells
+Article
+24 February 2022
+Main
+On the way to the hydrogen economy, proton-exchange membrane fuel cell (PEMFC) technologies offer a promising solution for generating clean electricity with reduced pollutants and greenhouse gas emissions. Although PEMFCs have now been successfully commercialized for automobile applications with highly active and durable Pt-group metal (PGM) catalysts
+1
+, their cost competitiveness and sustainability issues require the replacement of PGM-based with PGM-free catalysts
+2
+. Especially, efforts have primarily focused on the cathode, where the sluggish oxygen reduction reaction (ORR) occurs. Among a few candidates in acidic environments, Fe–N–C catalysts comprising isolated Fe ions coordinated with nitrogen functionalities (that is, Fe–N
+4
+) are most appealing owing to their promising initial performance
+3
+,
+4
+,
+5
+. However, their stability in PEMFCs is poor and typically shows over 40–50% of performance loss within the first tens of hours of operation at 0.5–0.6 V (refs.
+6
+,
+7
+,
+8
+). Previously, several degradation paths of Fe–N–C catalysts in an acidic medium have been proposed such as Fe demetallation or agglomeration
+9
+,
+10
+,
+11
+, carbon corrosion
+9
+,
+12
+and surface modifications induced either by protonation of nitrogen functionalities or by reactive oxygen species (ROS)
+13
+,
+14
+.
+Although all the above mechanisms may operate to varying degrees depending on the PEMFC conditions, the primary degradation path exacerbating the prolonged PEMFC operation remains unknown. Although the degradation paths have been widely investigated on an ideal thin-film electrode in a rotating disk electrode (RDE) setup, it is worth noting that Fe–N–C cathodes in PEMFCs experience a more complex reaction venue of the triple-phase boundary, where ORR occurs at higher current density, temperature and oxygen activity, compared with that of conventional RDE experiments. These differences may result in different nature or relative importance of degradation mechanisms, ultimately leading to considerable uncertainty in unravelling the fundamental origin of Fe–N–C deactivation in PEMFCs, as highlighted in Ehelebe’s recent review
+15
+.
+To address this issue, many efforts have been made to unveil the main degradation mechanism of Fe–N–C catalysts in PEMFC devices in recent years. For instance, Dodelet group observed serious demetallation of active Fe–N
+4
+moieties during the PEMFC operations using neutron activation and post-mortem
+57
+Fe Mössbauer spectroscopy
+7
+. Using similar analytical methods, Jaouen group identified a specific type of Fe–N
+4
+site that quickly transforms into less active (or inactive) Fe
+2
+O
+3
+nanoclusters
+16
+. More recently, Elbaz group precisely quantified the change in number of Fe–N
+4
+sites in situ through a Fourier-transform alternating current voltammetry in PEMFCs
+17
+. All these cornerstone works, in which the amount of remaining active Fe moieties (and their chemical nature for the
+57
+Fe Mössbauer spectroscopy studies) were intermittently measured after a certain duration of PEMFC operations, corroborated each other indicating the loss of active Fe as the main cause of activity decay of Fe–N–C cathodes.
+However, it is worth mentioning that the PEMFC performance loss observed with Fe–N–C cathodes is rather intense during the early stages of its operation, particularly during the first few hours
+7
+. Although the previous diagnostic methods successfully revealed the degradation of Fe–N–C catalysts at the macroscopic level after tens of hours of PEMFC operation, they unfortunately provide intermittent information primarily because of the low temporal resolution of such end-of-test characterization approaches (Supplementary Note
+1
+and Supplementary Table
+1
+). Although mathematical models have been recently developed to overcome such experimental limitations, there remains a controversy in accounting for the possible degradation pathways of Fe–N–C (refs.
+6
+,
+8
+). Hence, its degradation under realistic PEMFC conditions, particularly at the beginning of PEMFC operation, has not yet been clearly understood or practically surmounted. At the initial stage of PEMFC operation, multiple phenomena and substantial physicochemical changes in Fe–N–C catalyst layer are expected at different rates and timescales. Therefore, it is pivotal to investigate the activity loss and deconvolute it into time-resolved modification in active site density (SD) and turnover frequency (TOF). Subsequently, such methodology would be applicable to study in detail the improved stability of Fe–N–C that can be obtained with rational approaches, accelerating the development of highly stable PGM-free cathodes
+18
+,
+19
+.
+In this Article, we unveil a time- and potential-resolved mechanistic picture behind the rapid performance loss of Fe–N–C catalysts at the early stage of their operation. Resolving this long-standing question is achieved by operando monitoring of Fe dissolution from active Fe–N
+4
+sites using an online inductively coupled plasma–mass spectrometry (ICP–MS) connected to a gas-diffusion electrode (GDE)-type electrochemical flow cell (EFC). This advanced analytical platform can better mimic PEMFC environments than a conventional RDE setup. The real-time diagnosis of SD and TOF modifications under various operating conditions identifies temperature and potential as the most critical parameters triggering Fe dissolution, whereas the ultimate fate of Fe ions released by Fe–N
+4
+sites is strongly affected by the nature of the gas atmosphere. To mitigate the initial rapid deactivation of Fe–N–C catalyst in PEMFC, dominated by the loss of Fe–N
+4
+sites, we suggest that the strengthened ligation of the central Fe ion to N moieties, covalently linked to the supporting carbon network, could be a promising approach. Confirmed by density functional theory (DFT) calculation, this intuition is also experimentally corroborated with one case study catalyst that incorporates non-catalytic Pt ions as a stabilizer of the Fe–N bond and shows prolonged PEMFC operations compared with the unmodified Fe–N–C.
+Results
+Effects of temperature on Fe dissolution of Fe–N–C
+The Fe–N–C catalyst (labelled Fe
+0.5
+NC) was synthesized by pyrolysis of powdery precursor mixture, homogenized by ball-milling of Fe
+II
+acetate, 1,10-phenanthroline (phen) and Zn
+II
+zeolitic imidazolate framework (ZIF-8). As well identified in our previous studies
+20
+,
+21
+, Fe
+0.5
+NC is solely composed of atomically dispersed Fe–N
+4
+moieties, the main active sites of Fe–N–C catalysts
+4
+,
+5
+, without noticeable amounts of bulk Fe clusters or particles. Detailed physicochemical characterizations of Fe
+0.5
+NC and their discussion have been provided in Supplementary Note
+2
+(Supplementary Fig.
+1
+and Supplementary Table
+2
+). For the real-time diagnosis of SD and TOF modifications during electrochemical operations, we introduced an online ICP–MS combined with a GDE-based EFC (online GDE/EFC/ICP–MS), offering a great platform that simulates more realistic PEMFC environments than an RDE setup with controllable temperature, potential and gas atmosphere (Fig.
+1a
+). A detailed description of the online GDE/EFC/ICP–MS system has been provided in Supplementary Note
+3
+(Supplementary Figs.
+2
+–
+5
+).
+Fig. 1: Effects of temperature on Fe dissolution of Fe
+0.5
+NC.
+a
+, Scheme of online GDE/EFC/ICP–MS. An electrolyte de-aerated by the degasser continuously flowed into the EFC, which was composed of the counter and reference electrodes (CE and RE, respectively) and the vacuum trap. PTFE-treated GDE, on which Fe
+0.5
+NC was deposited, was used as the working electrode. The electrolyte outlet was connected to ICP–MS.
+b
+, Real-time Fe dissolution of Fe
+0.5
+NC/GDE obtained by online GDE/EFC/ICP–MS during the three CVs in a potential range of 1.0–0.0 V
+RHE
+under Ar flow at various temperatures (that is, 298, 313, 333 and 353 K). The electrolyte was de-aerated 0.1 M HClO
+4
+.
+c
+, Correlation between the cumulative amounts of dissolved Fe and the ORR activity loss obtained after the three CVs at various temperatures. The activity loss was recorded at 0.8 V
+RHE
+after the CVs (Supplementary Figs.
+6
+and
+7
+).
+Full size image
+We first studied the effect of temperature on the Fe dissolution of Fe
+0.5
+NC (Fig.
+1b
+). The Fe dissolution was analysed with three cyclic voltammograms (CVs) in a potential range of 1.0–0.0 V versus reversible hydrogen electrode (RHE) with 5 ml min
+−1
+Ar flow to prevent introduction of O
+2
+in the system
+12
+,
+14
+,
+16
+. The electrolyte was de-aerated 0.1 M HClO
+4
+, which continuously flowed into the EFC at 200 μl min
+−1
+before introduction into ICP–MS.
+At 298 K, no discernable Fe dissolution was detected, suggesting the high stability of Fe–N
+4
+sites at ambient temperature. This conclusion aligns with our previous findings using EFC/ICP–MS with an RDE, which reported the unexpectedly high stability of Fe–N
+4
+moieties in acidic environments at room temperature and attributed the measured Fe dissolution to bulk Fe particles present in another ZIF-8-derived Fe–N–C catalyst with approximately twice as much Fe content
+9
+,
+10
+. However, we observed non-negligible dissolution of active Fe–N
+4
+sites at 313 K, and the dissolution rate increased with increasing temperature. Quantitatively, the cumulative amount of dissolved Fe ions was close to zero at 298 K, but it increased to 192, 842 and 993 μg
+Fe
+g
+catal
+−1
+at 313, 333 and 353 K, respectively. These values were greatly correlated with ORR activity loss (Fig.
+1c
+and Supplementary Figs.
+6
+and
+7
+). No considerable morphological changes were observed in their transmission electron microscopy (TEM) images (Supplementary Fig.
+8
+) after the CVs (Supplementary Fig.
+9
+). These results pinpoint that the Fe demetallation of Fe
+0.5
+NC is primarily attributed to a loss of active Fe–N
+4
+moieties, not an artefact from imperceptible bulk Fe species or unexpected Fe impurities in the online GDE/EFC/ICP–MS system. This conclusion is also in line with our previous report that identified non-negligible ORR activity loss of Fe–N–C catalyst after load cycling between 0.6 and 0.9 V
+RHE
+at 323 and 343 K (ref.
+9
+).
+Despite the decisive role of temperature in activating Fe demetallation from Fe
+0.5
+NC, the underlying dissolution mechanism seems unmodified with temperature (Fig.
+1b
+). During the potential sweep starting from 1.0 V
+RHE
+, Fe demetallation initiates at ~0.8 V
+RHE
+and its rate reaches a maximum at ~0.4 V
+RHE
+, independent of temperature. No obvious Fe dissolution was observed above 0.8 V
+RHE
+. Although the high operating temperature may promote carbon corrosion and consequent Fe loss when the local carbon network around Fe–N
+4
+site is destroyed (that is, indirect Fe dissolution)
+22
+, the enhanced Fe dissolution with decreasing potential is opposite to the potential-dependent carbon corrosion trend, which is promoted with increasing potential
+9
+. In addition, the potential windows triggering Fe dissolution (<0.8 V
+RHE
+) and carbon corrosion (>0.9 V
+RHE
+) are not identical. The results thus rule out the indirect path as the primary origin of the Fe dissolution.
+To understand the Fe dissolution mechanism in more detail, we additionally carried out the potentiodynamic GDE/EFC/ICP–MS measurements at various electrolyte pHs (that is, 0.2, 1.0, 1.5 or 2.0) under Ar flow at 353 K (Supplementary Fig.
+10
+). While no discernible Fe dissolution was detected at pH 2.0, it became magnified with decreasing electrolyte pH. The cumulative amount of dissolved Fe ions was close to zero at pH 2.0, but it increased to 329, 759 and 1,237 μg
+Fe
+g
+catal
+−1
+at pH 1.5, 1.0 and 0.2, respectively, indicating a critical role of electrolyte pH on the Fe dissolution rate. This finding corroborates previous reports that the Fe dissolution from Fe–N
+4
+moieties is accompanied by the protonation of N coordination
+23
+,
+24
+. In addition, since the Fe dissolution from Fe–N
+4
+sites is expected to be dominated upon Fe
+II
+after one-electron reduction of Fe
+III
+(as supported by Fig.
+1b
+), we further investigated the Fe
+II/III
+redox transition of Fe
+0.5
+NC at various pHs (Supplementary Fig.
+11
+). A superimposition of Fe
+II/III
+redox potential for an RHE potential scale (that is, ~0.82 V
+RHE
+) was identified, indicating that the redox reaction involves a proton transfer in the investigated pH ranges (that is, 0.2–2.0) (ref.
+25
+).
+Effects of gas atmosphere on Fe dissolution of Fe–N–C
+After taking the above mechanistic picture under chemically inert Ar conditions, we then studied the Fe dissolution under concurrent ORR electrocatalysis on Fe
+0.5
+NC by flowing O
+2
+into the GDE/EFC/ICP–MS system at 353 K (Fig.
+2a
+). Notably, under O
+2
+flow, the Fe dissolution rate reduces considerably. The cumulated amount is only 294 μg
+Fe
+g
+catal
+−1
+after three CVs, which is approximately three times lower than that under Ar (993 μg
+Fe
+g
+catal
+−1
+). The same conclusion was made at different temperatures (Supplementary Fig.
+12
+). This contrasts with the Fe dissolution from Fe phthalocyanine that undergoes demetallation in the presence of O
+2
+at 298 K (ref.
+23
+), not in Ar, implying different Fe dissolution behaviour between the molecular Fe complexes and pyrolysed Fe–N–C catalysts.
+Fig. 2: Effects of Ar and O
+2
+gases on Fe dissolution of Fe
+0.5
+NC.
+a
+, Real-time Fe dissolution of Fe
+0.5
+NC/GDE obtained by online GDE/EFC/ICP–MS during the three CVs in a potential range of 1.0–0.0 V
+RHE
+under Ar or O
+2
+flow at 353 K. The electrolyte was de-aerated 0.1 M HClO
+4
+.
+b
+, Cumulative amounts of dissolved Fe and ORR activity loss obtained after the three CVs under Ar or O
+2
+flow. The activity loss was recorded at 0.8 V
+RHE
+after the CVs (Supplementary Figs.
+13
+and
+14
+). Error bars (standard deviation) are calculated on the basis of three independent experiments.
+c
+, Real-time Fe dissolution of Fe
+0.5
+NC/GDE obtained by online GDE/EFC/ICP–MS during the potential hold at 0.6 V
+RHE
+under Ar or O
+2
+flow at 353 K for 2 h. The electrolyte was de-aerated 0.1 M HClO
+4
+. The relative change in ORR current density is also shown.
+d
+, A proposed mechanism for Fe demetallation from Fe
+0.5
+NC.
+e
+, Relative loss of
+j
+, SD and TOF values as a function of operation time obtained during the potential hold at 0.6 V
+RHE
+and 353 K under O
+2
+(dot) or Ar flow (line). SD loss under O
+2
+flow was derived from the sum of cumulative Fe–N
+4
+dissolution (measured by GDE/EFC/ICP–MS) and Fe oxides amounts (measured by post-leaching), whereas that under Ar flow was directly derived from the cumulative Fe–N
+4
+dissolution only owing to lack of the Fe oxides formation (Supplementary Fig.
+25
+).
+f
+, SD value of pristine or degraded Fe
+0.5
+NC measured by nitrite-stripping assuming a three-electron transferred reduction of nitrosyl ligand or NO (that is, NO to NH
+2
+OH) (ref.
+21
+).
+Full size image
+Surprisingly, despite the much larger Fe leaching detected by ICP–MS under Ar than under O
+2
+, the ORR activity drops measured after the CVs are comparable in both cases, or even slightly larger for O
+2
+than Ar (Fig.
+2b
+and Supplementary Figs.
+13
+and
+14
+). Similar results can also be found during a potentiostatic hold at 0.6 V
+RHE
+and 353 K (Fig.
+2c
+), typical conditions used for evaluating long-term stability of ORR catalysts
+6
+,
+7
+,
+8
+. In both Ar and O
+2
+flows, Fe ion starts to dissolve immediately after applying a reductive potential of 0.6 V
+RHE
+and the dissolution signal converges to the background level after operation for 1 h. However, Fe dissolution amount was different and much higher under Ar flow (1,285 μg
+Fe
+g
+catal
+−1
+for 1 h operation) than that under O
+2
+(325 μg
+Fe
+g
+catal
+−1
+), despite considerable ORR current loss under the O
+2
+flow (
+~
+60% decay during 2 h, which will be discussed later in detail). Consistent conclusions were reached for other Fe–N–C catalysts beyond those derived from ZIF (Supplementary Note
+4
+and Supplementary Figs.
+15
+–
+19
+).
+Subsequently, post-mortem TEM and energy dispersive spectroscopy analyses of the degraded Fe
+0.5
+NC catalyst, collected from the GDE after 2 h potentiostatic hold at 0.6 V
+RHE
+, were performed to investigate morphological changes (Supplementary Figs.
+20
+and
+21
+). These microscopic and spectroscopic approaches provide a decisive clue for explaining the much lower Fe leaching, as detected by ICP–MS under O
+2
+than that of Ar. We found precipitation of Fe oxide nanoparticles in the GDE only after testing with O
+2
+, explaining the lower amount of Fe ions detected by GDE/EFC/ICP–MS analysis in this case. The Fe oxides can stand in our operating (and even PEMFCs) conditions because of the slow dissolution kinetics and widened stable region in the Pourbaix diagram at increased temperature
+26
+,
+27
+. This result agrees well with Jaouen group’s previous finding that discovered the formation of Fe oxides during 5–50 h of PEMFC operation using
+57
+Fe Mössbauer spectroscopy and X-ray computed tomography
+16
+, not only validates the successful reflection of our GDE/EFC/ICP–MS platform to PEMFC conditions but also highlights that such degradation path is highly intensive at an early stage of Fe
+0.5
+NC polarization, only within 2 h in the present study.
+Finally, based on the above findings from the GDE/EFC/ICP–MS studies with varying potential, electrolyte pH and gas atmosphere, we can propose a Fe demetallation mechanism of Fe–N
+4
+sites (Fig.
+2d
+): the proton-coupled reduction of Fe
+III
+–N
+4
+to Fe
+II
+–N
+4
+, the dissolution of Fe
+II
+cations into the acidic electrolyte, and the protonation of N coordination, resulting in the formation of the N–H group, as supported by the DFT energetics (vide infra)
+24
+. In the next step, the dissolved ferrous cations can either precipitate into Fe oxides if the local O
+2
+concentration is favourable, or be removed as free cations from the electrode.
+Real-time diagnosis of SD and TOF changes
+Stemming from the considerable ORR current drops after the CV and potential hold studies performed with O
+2
+flow (Fig.
+2a–c
+), our concern was oriented towards determining the number of Fe–N
+4
+sites that transform to Fe oxide nanoparticles during the ORR catalysis in GDE/EFC/ICP–MS. We anticipated that quantifying the formed Fe oxide nanoparticles would be the key to resolving the prime origin of the rapid catalytic loss of Fe–N–C in PEMFC, which is possible with deconvolution of SD and TOF contributions from the overall apparent activity loss. To achieve this purpose, we optimized acid leaching conditions for selective dissolution of Fe oxide nanoparticles from aged Fe
+0.5
+NC/GDE without undesirable Fe-N
+4
+loss (see details in Supplementary Fig.
+22
+), and after that, the amount of Fe oxide nanoparticles generated during the potential hold at 0.6 V
+RHE
+was quantified after 30, 60, 90 or 120 min of operation at 353 K (Supplementary Figs.
+23
+and
+24
+). As can be seen in Fig.
+2c
+and Supplementary Fig.
+25
+, the sum of cumulative amount of dissolved Fe measured by GDE/EFC/ICP–MS under O
+2
+flow and Fe oxide post-leaching is comparable to the cumulative amount of dissolved Fe measured under Ar flow. This suggests that the same number of Fe–N
+4
+sites were lost during 2 h at 0.6 V
+RHE
+under Ar and O
+2
+flow conditions, indicating that the demetallation rate from Fe–N
+4
+site is quantitatively independent of the gas atmosphere used, although the underlying mechanism can be altered. This finding indicates that ROS-induced carbon corrosion is not a primary origin for Fe dissolution under the conditions we investigated.
+With the SD value for pristine Fe
+0.5
+NC, that is, 3–4 × 10
+19
+sites g
+−1
+(corresponding to ~20% surface utilization of Fe–N
+4
+) that was previously measured with cyanide and nitrite probes
+28
+, we finally traced time-resolved modifications of SD and TOF values in operando from the apparent current drop during ORR catalysis (Fig.
+2e
+and Supplementary Note
+5
+). The ORR current density (
+j
+) decay at 0.6 V
+RHE
+reaches −60% after 2 h operation at 0.6 V
+RHE
+and 353 K. It can be classified into two zones: the first (<1 h) and second (>1 h) zones with current decay rates of 6.3 × 10
+−2
+and 1.2 × 10
+−2
+mA cm
+−2
+min
+−1
+, respectively (Fig.
+2e
+and Supplementary Fig.
+26
+)—continuous removal of dissolved Fe ions by electrolyte flow induces a faster activity decay in the GDE/EFC/ICP–MS system than that in PEMFC (see details in Supplementary Note
+6
+and Supplementary Figs.
+27
+–
+30
+). The relative SD decrease was estimated by normalizing the total number of Fe–N
+4
+site lost to the initial SD value of unreacted Fe
+0.5
+NC. The GDE/EFC/ICP–MS measurement estimated 41 ± 2% SD loss during a 2 h potentiostatic hold at 0.6 V
+RHE
+(Fig.
+2e
+)
+,
+and this value is comparable to that measured by nitrite-stripping on pristine and aged Fe
+0.5
+NC/GDE (that is, 36% SD loss; Fig.
+2f
+and Supplementary Fig.
+31
+)
+28
+,
+29
+, corroborating again that Fe dissolution and consequent activity loss is primarily due to the loss of active Fe–N
+4
+sites. It is worth mentioning that, even after ~40% loss of surface Fe–N
+4
+sites, the remaining ORR activity can still be assigned to Fe–N
+4
+sites that survived the operating conditions, not pristine or deactivated metal-free NC sites (Supplementary Fig.
+32
+).
+The relative TOF modifications were then derived from the corresponding relative changes in
+j
+and SD values. Plotting the relative loss of
+j
+, SD and TOF values with operating time yields a lifetime-dependent stability diagram of Fe–N
+4
+site, which shows a rapid decrease in SD in the first zone, but it becomes considerably alleviated in the second zone (Fig.
+2e
+). In contrast, the TOF continuously decreases during the overall operating period. Therefore, this diagram successfully draws the fundamental origin of Fe
+0.5
+NC deactivation as a function of the operation time, that is, rapid initial activity loss triggered by Fe leaching from Fe–N
+4
+sites, followed by gradual deactivation that mainly results from TOF decrements. The latter is probably induced by chemical oxidation of carbon surface by operando formed ROS (Supplementary Fig.
+33
+)
+14
+. Similar conclusions can be made from a stability diagram obtained with a potentiostatic hold at 0.4 V
+RHE
+, but the initial decay for
+j
+and SD is faster than that obtained at 0.6 V
+RHE
+owing to the enhanced Fe dissolution at decreased potential (Supplementary Fig.
+34a–d
+). In addition, with a potentiostatic hold at 0.8 V
+RHE
+, almost negligible SD loss results in a superimposition of the curves for
+j
+and TOF losses, leading to a continuous TOF loss throughout the operations (Supplementary Fig.
+34e,f
+).
+Improving Fe–N–C stability using non-catalytic stabilizer
+The time-resolved deconvolution of the loss of
+j
+into SD and TOF values leads us to conclude that the key to securing Fe–N–C stability is minimizing the rapid demetallation of active Fe–N
+4
+sites at an early stage of PEMFC operation. Although TOF modification is non-negligible and of increasing importance at longer operating times
+14
+, several synthetic strategies for mitigating ROS formation, which have already been proven for commercialized PEMFC with Pt/C cathodes
+30
+,
+31
+, bring hope for securing the TOF of Fe–N–C catalysts as recently validated by introducing specific radical scavengers onto Fe–N–C cathodes in PEMFCs
+18
+,
+32
+.
+Consequently, the next issue is to find a way to mitigate or prevent the demetallation of active Fe–N
+4
+sites. Previously, Mechler and co-workers achieved prolonged PEMFC operation with Fe–N–C cathode by introducing tiny amounts of Pt nanoparticles
+33
+. Similarly, Shao group also reported improved Fe–N–C stability after hybridization with Pt–Fe alloy nanoparticles and Pt single atoms
+34
+. Both previous studies attributed the improved stability to Pt nanoparticles which reduced the production of undesirable H
+2
+O
+2
+and consequently minimized ROS formation. However, the possible presence and effect of Pt single atoms instead of Pt nanoparticles on the improved stability of Fe–N–C have to be considered. The presence of Pt single atoms can be reasonably suspected in the former work from the non-zero valence oxidation state of Pt in X-ray photoelectron spectroscopy (XPS) study and was verified in the latter work by high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM).
+Additionally, our DFT calculations suggest that the presence of a Pt–N
+4
+site adjacent to the Fe–N
+4
+site can mitigate the Fe dissolution by increasing the energy cost required for the Fe
+II
+detachment step (Fe
+II
+–N
+4
+→ Fe
+II
++ N
+4
+; Fig.
+3a,b
+, Supplementary Figs.
+35
+–
+38
+and Supplementary Table
+3
+). Although protons are not directly involved in this step, our calculations predicted that the pH dependence of Fe dissolution rate could be attributed to variations in surface charge density, while this explanation needs further investigation (see details in Supplementary Fig.
+38
+). On the basis of these calculations, we functionalized Fe
+0.5
+NC with isolated Pt ions via conventional wet impregnation and H
+2
+reduction at 523 K (labelled Fe
+0.5
+NC–Pt). The Pt loading on Fe
+0.5
+NC was limited to only 0.5 wt%. X-ray diffraction (XRD) and Raman spectroscopy results show that the carbon structure remained almost unmodified after Pt decoration (Supplementary Fig.
+39
+). Meanwhile, in Pt L
+3
+-edge Fourier-transformed extended X-ray absorption fine structure (FT-EXAFS), Fe
+0.5
+NC–Pt shows a Pt–N backscattering signal at 1.9 Å without Pt–Pt interaction at 2.9 Å (Fig.
+3c
+). In addition, the wavelet-transformed EXAFS (WT-EXAFS) contour map showed an intense peak at
+R
+~ 1.9 Å and
+k
+~ 6.8 Å
+–1
+for the Pt–N first shell (Fig.
+3d
+). A less intense signal at
+R
+~ 3.1 Å and
+k
+~ 9.3 Å
+–1
+, which is also visible for Fe
+0.5
+NC (Supplementary Fig.
+1e
+), is assigned to the Pt–(N)–C second shell. No signal was detected from a Pt–Pt first shell (
+R
+~ 3.0 Å and
+k
+~ 11.6 Å
+–1
+, Fig.
+3d
+). The Pt–N coordination number is close to 4 (Supplementary Table
+4
+). Pt
+4f
+XPS identified the II and IV oxidation states, and HAADF-STEM further visualized the atomic dispersion of Pt (Fig.
+3e,f
+). Hence, these results indicated the presence of isolated Pt ions in Fe
+0.5
+NC–Pt without appreciable amount of crystalline Pt species. Moreover, the introduction of Pt atoms did not alter the electronic structure of Fe and N compared with Fe
+0.5
+NC, as shown by Fe K-edge X-ray absorption near edge structure (XANES),
+57
+Fe Mössbauer spectroscopy and N
+1s
+XPS (Supplementary Fig.
+40
+and Supplementary Table
+2
+). This finding is consistent with our DFT models, as the calculated local magnetic moment and Bader partial charge of the Fe
+II
+centres remain unchanged at 1.89 μ
+B
+(indicating the
+S
+= 1 state) and 1.10 e, respectively, even when the Pt–N
+4
+site is included in close proximity (Supplementary Fig.
+35
+).
+Fig. 3: Physical and electrochemical characterizations of Fe
+0.5
+NC–Pt.
+a
+,
+b
+, DFT reaction free energy profiles of the Fe dissolution process (equation 2 in Fig.
+2d
+) of Fe–N
+4
+system with/without Pt–N
+4
+site (
+a
+), and corresponding DFT-optimized structures (
+b
+). Reaction energy barriers are schematically shown. With the Pt–N
+4
+site, DFT energetics predict less favourable energetics of the Fe dissolution. White, grey, blue, purple and green represent the H, C, N, Fe and Pt atoms, respectively.
+c
+,
+d
+,
+k
+3
+-weighted Pt L
+3
+-edge FT-EXAFS (
+c
+) and WT-EXAFS (
+d
+) spectra of Fe
+0.5
+NC–Pt and Pt foil.
+e
+, XPS-Pt
+4f
+spectrum.
+f
+, HAADF-STEM image of Fe
+0.5
+NC–Pt. Scale bar, 5 nm.
+g
+,
+h
+, ORR (
+g
+) and PRR (
+h
+) polarization curves of Fe
+0.5
+NC–Pt measured with RDE in a 0.1 M HClO
+4
+electrolyte at 900 rpm. For comparison, those for Fe
+0.5
+NC or Pt/C are also shown.
+Full size image
+Despite those microscopic and spectroscopic evidence, the insufficient detection limit of the characterization techniques leaves uncertainty in the possible existence of minute amounts of Pt nanoparticles in Fe
+0.5
+NC–Pt. Thus, we additionally investigated its electrocatalytic properties towards ORR, hydrogen peroxide reduction reaction (PRR), formic acid oxidation reaction and methanol oxidation reaction. It is of note that these reactions are accelerated on Pt nanoparticles with Pt ensemble sites, and not on isolated Pt ions
+35
+,
+36
+,
+37
+. The results show that the polarization curves of Fe
+0.5
+NC–Pt are superimposed on those of Fe
+0.5
+NC for all these reactions, and are entirely deviate from those of Pt/C (Fig.
+3g,h
+and Supplementary Fig.
+41
+). Similarly, when Pt is functionalized on Fe-free NC (labelled NC–Pt), its electrocatalytic features are similar to those of NC (Supplementary Fig.
+42
+). Therefore, the electrocatalytic results for a broad set of reactions support the absence of crystalline Pt structures in Fe
+0.5
+NC–Pt, and further infer that the isolated Pt site is inactive (or at least much less active than both Pt nanoparticles and Fe–N
+4
+sites) towards all the probe reactions.
+After confirming the successful synthesis of Fe
+0.5
+NC–Pt, we studied its stability using online GDE/EFC/ICP–MS at 0.6 V
+RHE
+and 353 K under O
+2
+flow. Notably, despite its similar initial ORR activity with Fe
+0.5
+NC, the Fe
+0.5
+NC–Pt reveals much better retention of ORR activity during a 2 h potentiostatic hold (−35% and −60% for Fe
+0.5
+NC–Pt and Fe
+0.5
+NC, respectively; Fig.
+4a
+). The GDE/EFC/ICP–MS results measured under Ar flow show ~3 times less Fe leaching from Fe
+0.5
+NC–Pt than Fe
+0.5
+NC (that is, 465 and 1,285 μg
+Fe
+g
+catal
+−1
+, respectively; Fig.
+4b
+), without discernable Pt dissolution (Supplementary Fig.
+43
+). Unlike Fe
+0.5
+NC (Fig.
+2e
+), the lifetime-dependent stability diagram of Fe
+0.5
+NC–Pt shows a close interrelation of
+j
+loss with a decrease in TOF, rather than a decrease in SD (Supplementary Fig.
+44
+). Thus, these results imply that the enhanced stability of Fe
+0.5
+NC–Pt may result from the stabilization of Fe–N
+4
+sites against demetallation as a consequence of the introduction of isolated Pt sites in the carbon matrix.
+Fig. 4: Proof-of-concept strategy with isolated Pt ion as a stabilizer of Fe–N
+4
+sites.
+a
+,
+b
+, ORR current density (
+a
+) and real-time Fe dissolution under Ar flow (
+b
+) of Fe
+0.5
+NC/GDE and Fe
+0.5
+NC–Pt/GDE obtained by online GDE/EFC/ICP–MS during 2 h potential hold at 0.6 V
+RHE
+and 353 K. The electrolyte was de-aerated 0.1 M HClO
+4
+.
+c,
+iR
+-corrected H
+2
+/O
+2
+fuel cell polarization curves and corresponding power density curves before and after 50 h operation at 0.5 V.
+d
+, Normalized current density versus time obtained during 50 h operation at 0.5 V.
+e
+, HAADF-STEM image of Fe
+0.5
+NC–Pt obtained after 50 h operation at 0.5 V. Scale bar, 2 nm.
+f
+,
+k
+3
+-weighted Pt L
+3
+-edge WT-EXFAS plots of Fe
+0.5
+NC–Pt before and after 50 h operation at 0.5 V.
+g
+, PRR polarization curves of Fe
+0.5
+NC and Fe
+0.5
+NC–Pt before and after 50 h operation at 0.5 V measured with RDE in an Ar-saturated 0.1 M HClO
+4
+electrolyte at 900 rpm. For comparison, the initial PRR polarization curve of Pt/C is also shown.
+Full size image
+We further found that the enhanced stability, concluded from the GDE/EFC/ICP–MS system, was also transferred to the PEMFC. At the beginning of operation, the Fe
+0.5
+NC–Pt cathode showed similar PEMFC performance to that of the Fe
+0.5
+NC cathode. However, PEMFC with Fe
+0.5
+NC–Pt cathode exhibited much superior stability during 50 h of operation at 0.5 V (Fig.
+4c,d
+; the cell voltage corresponds to the cathode potential of ~0.6 V
+RHE
+considering the anodic overpotential and Ohmic loss in PEMFC
+38
+). To identify whether the enhanced stability is attributed to a possible artefact originating from the operando agglomeration of isolated Pt sites into ORR-active particles, the Fe
+0.5
+NC–Pt cathode was separated from the membrane–electrode assembly (MEA) after the test and post-mortem characterized. In the HAADF-STEM image, no discernible changes were observed in the atomic distribution of the Pt species after 50 h of PEMFC operation (Fig.
+4e
+). In addition, the FT- and WT-EXAFS plots for the aged Fe
+0.5
+NC–Pt revealed a dominant Pt–N interaction, without a perceptible signal from Pt–Pt interaction (Fig.
+4f
+and Supplementary Fig.
+45
+), almost identical to that for the pristine Fe
+0.5
+NC–Pt. More evidently, the aged Fe
+0.5
+NC–Pt recorded a PRR onset potential of 0.81 V
+RHE,
+which is much lower than that of Pt/C (0.92 V
+RHE
+) and pristine Fe
+0.5
+NC–Pt and Fe
+0.5
+NC (0.83 V
+RHE
+), and similar to that of aged Fe
+0.5
+NC (0.81 V
+RHE
+; Fig.
+4g
+). The results therefore indicated no formation of highly active Pt nanoclusters and particles during PEMFC operation. In addition, it can be safely ruled out that Pt single atoms could lead to improved stability by acting as peroxide scavengers (Supplementary Note
+7
+and Supplementary Fig.
+46
+). Therefore, the fundamental origin of the enhanced stability of PEMFC with Fe
+0.5
+NC–Pt cathode is unveiled as isolated Pt-induced stabilization of catalytic Fe–N
+4
+sites against demetallation. Finally, even though a noble element Pt is used and the Pt-modified catalyst is not optimized in the present study, this proof-of-concept study validates that various synthetic approaches can be established to avoid Fe demetallation of active Fe–N
+4
+sites, a critical degradation path dominating a rapid performance drop during the initial PEMFC operation.
+Conclusions
+In this work, we quantitatively resolve the two key phenomena behind the rapid performance loss of Fe–N–C cathodes at an early stage of PEMFC operation. A time- and potential-resolved diagnosis, enabled by the online GDE/EFC/ICP–MS system, elucidates the strong dependence of Fe leaching from active Fe–N
+4
+moieties on operating variables, such as temperature and gas atmosphere. The former triggers Fe dissolution and determines its total amount, whereas the latter yields different fates of dissolved Fe ions. In addition, this operando study further enables differentiation of a real-time modification of SD and TOF values from the apparent ORR activity drop, a lifetime-dependent stability diagram that presents a clear shift of a prime deactivation path from SD loss to TOF decrease under realistic PEMFC operating conditions. Finally, we conclude that Fe demetallation is a crucial phenomenon responsible for the rapid performance drop observed during the first few hours of PEMFC operation. We show that prohibiting undesirable Fe demetallation and consequently enhancing PEMFC stability are synthetically available by introducing site-isolated Pt ions onto the Fe–N–C catalyst, the concept inspired by previous works and our DFT calculations. Therefore, this understanding suggests that the development of synthetic routes involving non-PGM stabilizers of Fe–N
+4
+sites could bring hope for the future reality of Fe–N–C catalysts for commercial PEMFCs.
+Methods
+Catalyst synthesis
+Fe
+0.5
+NC catalyst was prepared from Fe
+II
+acetate (98%, Sigma-Aldrich), 1,10-phenanthroline (phen; ≥99%, Sigma-Aldrich) and Zn
+II
+zeolitic imidazolate framework (ZIF-8, Basolite Z1200, BASF). One gram of the precursor mixture containing 0.5 wt% Fe and a mass ratio of phen/ZIF-8 of 20/80 were mixed using dry ball-milling for four cycles of 30 min at 400 rpm. A ZrO
+2
+crucible with 100 ZrO
+2
+balls of 5 mm diameter was used in this procedure. The resulting precursors were pyrolysed at 1,323 K under Ar flow for 1 h. Fe
+0.5
+NC contained Fe content of ca. 1.5 wt%, as confirmed by inductively coupled plasma-optical emission spectroscopy (ICP–OES). For the synthesis of Fe
+0.5
+NC–Pt, 0.5 wt% Pt was impregnated on Fe
+0.5
+NC by conventional wet impregnation and subsequent H
+2
+reduction. 0.1 g Fe
+0.5
+NC was dissolved and dispersed in 100 ml of de-ionized water containing 1.3 mg of H
+2
+PtCl
+6
+·6H
+2
+O (≥37.5%, Pt basis, Merck), and then the solvent was evaporated at 353 K. The resultant powder sample was dried at 353 K under vacuum overnight and reduced at 523 K for 3 h under H
+2
+flow (5%, 200 ml min
+−1
+). Commercial Pt nanoparticle (HiSPEC 3000, 20 wt% Pt) was purchased from Thermo Fisher Scientific. For the synthesis of Fe
+2
+O
+3
+/NC, the NC catalyst was first prepared identically to Fe
+0.5
+NC, except for the addition of Fe
+II
+acetate during the ball-milling step. Note that owing to the presence of trace amounts of Fe impurities in the commercial ZIF-8 (>100 ppm) (ref.
+39
+), Fe-free ZIF-8 was used for the synthesis of NC, which was prepared by mixing 2-methylimidazole (2-MeIm; 99%, Sigma-Aldrich) and Zn nitrate hexahydrate (Zn salt; 98%, Sigma-Aldrich) in aqueous solution (Zn salt/2-MeIm/water molar ratio of 1/60/2228) (ref.
+40
+). Afterwards, Fe
+2
+O
+3
+/NC was synthesized by a dry ball-milling of 98 mg NC and 2 mg commercial Fe
+2
+O
+3
+(96%, Sigma-Aldrich) for four cycles of 30 min at 400 rpm without heat treatment. The Fe content in Fe
+2
+O
+3
+/NC was ca. 1.3 wt%, as confirmed by ICP–OES. Commercial Fe–N–C catalyst (no. PMF-0110904, Pajarito Powder) was purchased from Pajarito Powder Inc, which is synthesized via hard templating with fumed silica. The carbon nanotube (CNT)-supported Fe-N-C catalyst (FeNC/CNT) was synthesized using a silica-protective-layer-assisted approach
+41
+. Then 100 mg of nitric acid-treated CNTs (Carbon Nanomaterial Technology) were mixed with 200 mg of Fe
+III
+TMPPCl (Porphyrin Systems) in an agate mortar for 5 min. The mixture was heated in a quartz-tube furnace, starting from room temperature to 673 K, at a ramping rate of 275 K min
+−1
+and kept at that temperature for 3 h under N
+2
+gas (99.999%) flowing at a rate of 1 l min
+−1
+. Afterwards, the heat-treated CNT/Fe
+III
+TMPPCl composite was mixed with 0.5 ml of TEOS in a mortar, followed by mixing with 0.5 ml of formic acid. The resulting mixture was transferred to an alumina crucible and dried in a 333 K oven for 3 h. Subsequently, the composite was heated to 1,073 K at a ramping rate of 275 K min
+−1
+and maintained at that temperature for 3 h under N
+2
+gas flowing at a rate of 1 l min
+−1
+. To etch the silica, the resulting composite was mixed with 2:1 (v/v) solution of ethanol and 10% aqueous HF, and stirred for 30 min. The mixture was then filtered and washed with ethanol multiple times. The HF etching process was repeated following the same procedure, and the resulting sample was dried at 333 K to obtain FeNC/CNT samples.
+Physicochemical characterization
+XRD patterns were obtained using a high-resolution X-ray diffractometer (X’Pert PRO MPD, PANalytical) equipped with a Cu
+K
+α
+X-ray source. The XRD patterns were measured at an accelerating voltage of 60 kV and current of 55 mA, with scan rate of 10° min
+−1
+and step size of 0.02°. Raman spectra were obtained using a NRS-5000 series Raman spectrometer (JASCO) with 633 nm laser excitation. XPS measurements were performed using
+K
+-Alpha
++
+(Thermo Scientific) instrument equipped with a micro-focused monochromator X-ray source. The binding energy used for the peak deconvolution of the XPS-Pt spectra (for 4f
+7/2
+) was 72.4 and 73.8 eV for Pt
+II
+and Pt
+IV
+, respectively, and the spin-orbit splitting for 4f
+5/2
+and 4f
+7/2
+peaks was 3.33 eV (ref.
+42
+). ICP–OES analysis was performed using Optima 4300 DV (PerkinElmer) for determining Fe contents. Fe K-edge or Pt L
+3
+-edge X-ray absorption spectroscopy (XAS) signals were collected in the transmission mode at the Pohang Accelerator Laboratory (8C, Nano XAFS). To compensate any energy shift during data acquisition, the XAS energy scale was calibrated using each metal foil before the measurements. The XANES and EXAFS analyses were conducted using Athena and Artemis implemented in the Demeter program package. The EXAFS data in
+k
+space was Fourier-transformed with the Hanning window function (d
+k
+= 0.5 Å
+–1
+) after
+k
+3
+-weighting. Curve fitting of the FT-EXAFS of Fe
+0.5
+NC–Pt was carried out in the
+R
+range of 1.1–2.3 Å with phase correction by including Pt–N and Pt–Cl scattering paths. The amplitude reduction factor (
+S
+0
+2
+) for Pt was determined to be 0.83 from the curve fitting of the EXAFS of the Pt foil. The wavelet transform of
+k
+3
+-weighted EXAFS data was analysed with phase correction using the HAMA Fortran code. A Morlet function was used for the mother wavelet function (
+η
+= 10,
+σ
+= 1). The
+57
+Fe Mössbauer spectrum was acquired using a
+57
+Co source in Rh. The measurement was performed by keeping both the source and absorber at 7 K. The spectrometer was operated with a triangular velocity waveform, and a NaI scintillation detector was used to detect γ-rays. TEM, energy dispersive spectroscopy and HAADF-STEM analyses were performed using TECNAI G2 F30 S-Twin (FEI), TECNAI F20 UT (FEI) and Titan 80–300 (FEI), respectively.
+Electrochemical measurements
+The electrochemical properties were investigated using a VMP-300 potentiostat (Bio-Logic) in a three-electrode cell equipped with a graphite rod counter electrode and saturated Ag/AgCl reference electrode (RE-1A, EC-Frontier). A 0.1 M HClO
+4
+electrolyte was prepared using ultrapure water (>18 MΩ, Sartorious) and concentrated HClO
+4
+(70%, Sigma-Aldrich). The reference electrode was calibrated against a Pt electrode in an H
+2
+-saturated electrolyte at various temperatures to convert the potentials to the RHE scale correctly. To prevent any undesirable changes in the equilibrium potential of the reference electrode, we maintained its temperature at room temperature during experiments (Supplementary Fig.
+2
+). The catalyst ink was prepared by dispersing 10 mg of the catalyst in an aqueous solution (868 μl de-ionized water, 7 μl isopropanol and 80 μl 5 wt% Nafion solution). After ultrasonication of the above suspension for 30 min, the working electrodes were prepared by dropping 15 μl of catalyst ink onto a glassy carbon disk (0.196 cm
+2
+) of the RDE (01169, ALS). The catalyst loadings were set to 800 μg cm
+−2
+for Fe
+0.5
+NC or Fe
+0.5
+NC–Pt, and 10 μg
+Pt
+cm
+−2
+for Pt nanoparticles. The ORR polarization curves were recorded with a scan rate of 10 mV s
+−1
+and rotation speed of 900 rpm in an O
+2
+-saturated 0.1 M HClO
+4
+electrolyte. ORR Faradaic currents were obtained by subtracting the polarization curves measured in an Ar-saturated electrolyte. The PRR polarization curves were measured with a scan rate of 1 mV s
+−1
+and a rotation speed of 900 rpm in an Ar-saturated 0.1 M HClO
+4
+electrolyte containing 1.3 mM H
+2
+O
+2
+. Nitrite stripping experiment was conducted on the Fe
+0.5
+NC catalysts collected from the Fe
+0.5
+NC/GDE before and after a 2 h potentiostatic hold at 0.6 V
+RHE
+and 353 K under Ar flow. The catalyst ink was prepared by dispersing the catalyst in an aqueous solution (267 μl de-ionized water, 25 μl isopropanol and 2 μl 5 wt% Nafion solution). After ultrasonication of the above suspension for 30 min, the working electrodes were prepared by dropping 75 μl of catalyst ink onto a glassy carbon disk (0.196 cm
+2
+) of the RDE (01169, ALS). The catalyst loading was set to 50 μg cm
+−2
+.
+Online GDE/EFC/ICP–MS measurements
+The GDE was fabricated by spraying catalyst ink onto a mesoporous layer (MPL) deposited on carbon paper. On a carbon paper with a 20 wt% polytetrafluoroethylene (PTFE) content (2 × 2 cm
+2
+, TGP-H-090, Toray), highly hydrophobic carbon MPL was first fabricated by spraying an ink emulsion containing 100 mg Ketjen Black EC-300J, 400 mg PTFE (60 wt%, Sigma-Aldrich) and 20 ml isopropyl alcohol (99.5%, Sigma-Aldrich), followed by heat treatment at 513 and 613 K under Ar atmosphere for 30 min each. The resulting MPL had a Ketjen Black EC-300J loading of 2 mg cm
+−2
+. Thereafter, catalyst ink (25 mg catalyst + 10 ml isopropanol + 250 μl 5 wt% Nafion solution) was sprayed onto the MPL to reach target catalyst loadings of 400 μg cm
+−2
+. The active catalyst area of the GDE was 0.096 cm
+2
+. Fe dissolution was monitored using ICP–MS (7500ce, Agilent) coupled with a GDE-based EFC. The EFC is equipped with a U-shaped channel with a diameter of 1 mm and an opening for contact with the GDE. A graphite tube counter electrode (inner diameter 1 mm) was placed at the inlet, and an Ag/AgCl reference electrode was connected to the outlet of EFC. A 0.1 M HClO
+4
+electrolyte, de-aerated using a degasser (AG-32-01, FLOM Corp.), was flowed into the EFC at a flow rate of 200 μl min
+−1
+. The electrolyte was mixed with 0.2 M HNO
+3
+containing 5 ppb
+187
+Re as an internal standard using a Y-connector (mixing ratio 1:1). Ar or O
+2
+gases flowed into the graphite serpentine gas channel at a rate of 5 ml min
+−1
+. GDE was pre-treated with 200 fast CV cycles (200 mV s
+−1
+) in the potential range of 1.0–0.0 V
+RHE
+at 298 K before the electrochemical measurement. After stabilization at the desired temperature for ca. 10 min, Fe dissolution was analysed under potentiodynamic or potentiostatic conditions. Fe dissolution under potentiodynamic conditions was analysed with three slow CV cycles (5 mV s
+−1
+) in the potential range of 1.0–0.0 V
+RHE
+at various temperatures (298, 313, 333 and 353 K) under Ar or O
+2
+flow. Fe dissolution under potentiostatic conditions was analysed by holding 0.4, 0.6 or 0.8 V
+RHE
+at 353 K under Ar or O
+2
+flow. ORR polarization curves were recorded with a scan rate of 5 mV s
+−1
+at 298 K. A manual
+iR
+compensation (MIR) program was used to compensate 85% of ohmic drop during the electrochemical measurements and 15% post-corrected. The uncompensated resistance was measured using electrochemical impedance spectroscopy at open circuit potential (Supplementary Fig.
+47
+).
+Computational details
+Spin-polarized DFT calculations were conducted by using the Vienna ab initio Simulation Package (VASP) 5.4.4 (ref.
+43
+). The projector-augmented wave pseudopotential and Perdew–Burke–Ernzerhof exchange-correlation functional were applied for all calculations
+44
+,
+45
+. For the plane-wave basis, the kinetic energy cut-off was set as 520 eV. The first order of the Methfessel–Paxton method was used with a smearing width of 0.05 eV (ref.
+46
+). A (5 × 5 × 1)
+\(\Gamma\)
+-centred
+k
+-point grid was used to sample the reciprocal space. The convergence criterion was set as 1 × 10
+−5
+eV for the electronic step, and 0.01 eV Å
+−1
+for the ionic relaxation step. Atomic partial charges were calculated using the Bader charge analysis
+47
+.
+For accurate calculations of the slab geometry, an additional vacuum region was included with a dipole correction to eliminate electrostatic interactions between periodic images along the surface normal direction. The (6 × 6) surface unit cell of graphene served as the base structure for investigating eight different Fe–N
+4
+system structures, wherein the locations of the Pt–N
+4
+site were varied. Additionally, three additional structures were explored by varying the intersite distance between Fe–N
+4
+and Pt–N
+4
+, using the base structure of an (8 × 8) surface unit cell of graphene (Supplementary Figs.
+35
+and
+36
+). For the formation energy calculations, the reference states of H, C, N, Fe and Pt were chosen as H
+2
+, graphite, N
+2
+, α-phase of Fe solid and face-centred-cubic Pt solid, respectively.
+For the calculation of energy profiles concerning the Fe dissolution reaction at electrified (or charged) interfaces, the VASPsol package employing the implicit solvation method was utilized. The Debye length was set at 0.304 nm
+−1
+, and the dielectric constant was set at 78.4. In our slab model of the Fe–N
+4
+system, a surface charge density of 17.50 μC cm
+−2
+was applied, resulting in an electrochemical potential of 0.40 V
+RHE
+, which closely corresponds to the experimental conditions. pH 1.0 is assumed to calculate the RHE potential from theoretical SHE potential. To investigate the energetics of non-electrochemical reactions, the system charge was then adjusted on the basis of the charge states of reactants and products; specifically, the system charge was decreased by 2 for the removal of Fe
+II
+and increased by 1 for each added proton. Three possible reaction paths were investigated; the most plausible reaction mechanism is shown in Fig.
+3a,b
+, while the others are presented in Supplementary Fig.
+37
+. For the most plausible reaction mechanism, the reaction free energies of Fe
+II
+detachment step at various pH conditions were further calculated (Supplementary Fig.
+38
+). The energy state of Fe
+II
+(aq) was calculated by evaluating the ionization energy of Fe and the solvation-free energy of Fe
+II
+using Jaguar 10.9 software
+48
+(B3LYP functional
+49
+with LANL2DZ basis set
+50
+) as coupled with the Poisson–Boltzmann implicit solvation model
+51
+(Supplementary Note
+8
+).
+PEMFC operation
+MEA was prepared by a catalyst-coated membrane method via spray coating to compare the single-cell performance of Fe
+0.5
+NC and Fe
+0.5
+NC-Pt as cathode catalysts with all the Pt/C-based anodes. The cathode slurries were prepared by ultrasonically mixing 50 mg of catalysts (Fe
+0.5
+NC and Fe
+0.5
+NC-Pt) in a solution containing 10 ml of isopropanol, and 334 mg of 5 wt% Nafion solution (Sigma-Aldrich). The anode slurries were prepared by ultrasonically mixing 10 mg of catalysts (37.7 wt% Pt/C, TANAKA Precious Metals) in a solution containing 3 ml of isopropanol, and 66.7 mg of the Nafion solution. Each slurry was coated onto a Nafion 211 membrane. The prepared MEA was pressed at 375 lbf and 557 K for 2.5 min. After cooling for 10 min
+via
+the cooling press, we successfully obtained MEA with an active area of 5.0 cm
+2
+. The catalyst contents of the cathode and anode electrodes were controlled at approximately 4.0 and 0.25 mg cm
+−2
+, respectively. The cell performance of MEA was evaluated using a PEMFC test station (CNL Energy). The single-cell includes the MEA, gas diffusion layers (Sigracet 39BB, SGL Carbon), bipolar plates constituting serpentine channels of graphite, and current collector plates made of gold-coated blocks. Before evaluating the cell performance, a break-in process was conducted in the following steps: H
+2
+and O
+2
+with 200 and 300 ml min
+−1
+flow rates with the condition of 100% relative humidity at 353 K were provided for the anode and cathode, respectively. Thereafter, a 0.1 V per step was applied for 30 s in the cycling range of 0.3–0.7 V until the performance of MEA at 0.6 V was stabilized. To evaluate the cell performance, polarization curves were obtained during a potential sweep from 0.94 to 0.2 V with 1 bar of back pressure.
+Data availability
+The data generated in this study have been deposited in the Zenodo repository database without accession code (
+https://doi.org/10.5281/zenodo.8287921
+)
+52
+. The DFT data generated in this study have been deposited in the Zenodo repository database without accession code (
+https://doi.org/10.5281/zenodo.8287952
+)
+53
+. Additional data supporting the findings of this study are available from the corresponding author upon reasonable request.
+References
+Yoshida, T. & Kojima, K. Toyota MIRAI fuel cell vehicle and progress toward a future hydrogen society.
+Electrochem. Soc. Interface
+24
+, 45–49 (2015).
+CAS
+Google Scholar
+Thompson, S. T. & Papageorgopoulos, D. Platinum group metal-free catalysts boost cost competitiveness of fuel cell vehicles.
+Nat. Catal.
+2
+, 558–561 (2019).
+CAS
+Google Scholar
+Proietti, E. et al. Iron-based cathode catalyst with enhanced power density in polymer electrolyte membrane fuel cells.
+Nat. Commun.
+2
+, 416 (2011).
+PubMed
+Google Scholar
+Chung, H. T. et al. Direct atomic-level insight into the active sites of a high-performance PGM-free ORR catalyst.
+Science
+357
+, 479–484 (2017).
+CAS
+PubMed
+Google Scholar
+Lefèvre, M., Proietti, E., Jaouen, F. & Dodelet, J.-P. Iron-based catalysts with improved oxygen reduction activity in polymer electrolyte fuel cells.
+Science
+324
+, 71–74 (2009).
+PubMed
+Google Scholar
+Yin, X. & Zelenay, P. (Invited) Kinetic models for the degradation mechanisms of PGM-free ORR catalysts.
+ECS Trans.
+85
+, 1239–1250 (2018).
+CAS
+Google Scholar
+Chenitz, R. et al. A specific demetalation of Fe–N
+4
+catalytic sites in the micropores of NC_Ar + NH
+3
+is at the origin of the initial activity loss of the highly active Fe/N/C catalyst used for the reduction of oxygen in PEM fuel cells.
+Energy Environ. Sci.
+11
+, 365–382 (2018).
+CAS
+Google Scholar
+Zhang, G. et al. Non-PGM electrocatalysts for PEM fuel cells: effect of fluorination on the activity and stability of a highly active NC_Ar + NH
+3
+catalyst.
+Energy Environ. Sci.
+12
+, 3015–3037 (2019).
+CAS
+Google Scholar
+Choi, C. H. et al. Stability of Fe–N–C catalysts in acidic medium studied by operando spectroscopy.
+Angew. Chem. Int. Ed.
+54
+, 12753–12757 (2015).
+CAS
+Google Scholar
+Choi, C. H. et al. Minimizing operando demetallation of Fe–N–C electrocatalysts in acidic medium.
+ACS Catal.
+6
+, 3136–3146 (2016).
+CAS
+Google Scholar
+Kumar, K. et al. Fe–N–C electrocatalysts’ durability: effects of single atoms’ mobility and clustering.
+ACS Catal.
+11
+, 484–494 (2021).
+CAS
+Google Scholar
+Kumar, K. et al. On the influence of oxygen on the degradation of Fe–N–C catalysts.
+Angew. Chem. Int. Ed.
+59
+, 3235–3243 (2020).
+CAS
+Google Scholar
+Herranz, J. et al. Unveiling N-protonation and anion-binding effects on Fe/N/C catalysts for O
+2
+reduction in proton-exchange-membrane fuel cells.
+J. Phys. Chem. C
+115
+, 16087–16097 (2011).
+CAS
+Google Scholar
+Choi, C. H. et al. The Achilles’ heel of iron-based catalysts during oxygen reduction in an acidic medium.
+Energy Environ. Sci.
+11
+, 3176–3182 (2018).
+CAS
+Google Scholar
+Ehelebe, K., Escalera-López, D. & Cherevko, S. Limitations of aqueous model systems in the stability assessment of electrocatalysts for oxygen reactions in fuel cell and electrolyzers.
+Curr. Opin. Electrochem.
+29
+, 100832 (2021).
+CAS
+Google Scholar
+Li, J. et al. Identification of durable and non-durable FeN
+x
+sites in Fe–N–C materials for proton exchange membrane fuel cells.
+Nat. Catal.
+4
+, 10–19 (2021).
+Google Scholar
+Snitkoff-Sol, R. Z. et al. Quantifying the electrochemical active site density of precious metal-free catalysts in situ in fuel cells.
+Nat. Catal.
+5
+, 163–170 (2022).
+CAS
+Google Scholar
+Xie, H. et al. Ta–TiO
+x
+nanoparticles as radical scavengers to improve the durability of Fe–N–C oxygen reduction catalysts.
+Nat. Energy
+7
+, 281–289 (2022).
+CAS
+Google Scholar
+Liu, S. et al. Atomically dispersed iron sites with a nitrogen–carbon coating as highly active and durable oxygen reduction catalysts for fuel cells.
+Nat. Energy
+7
+, 652–663 (2022).
+CAS
+Google Scholar
+Zitolo, A. et al. Identification of catalytic sites for oxygen reduction in iron- and nitrogen-doped graphene materials.
+Nat. Mater.
+14
+, 937–942 (2015).
+CAS
+PubMed
+Google Scholar
+Kim, D. H. et al. Selective electrochemical reduction of nitric oxide to hydroxylamine by atomically dispersed iron catalyst.
+Nat. Commun.
+12
+, 1856 (2021).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Goellner, V. et al. Degradation of Fe/N/C catalysts upon high polarization in acid medium.
+Phys. Chem. Chem. Phys.
+16
+, 18454–18462 (2014).
+CAS
+PubMed
+Google Scholar
+Chen, Z. et al. Operando characterization of iron phthalocyanine deactivation during oxygen reduction reaction using electrochemical tip-enhanced Raman spectroscopy.
+J. Am. Chem. Soc.
+141
+, 15684–15692 (2019).
+CAS
+PubMed
+Google Scholar
+Holby, E. F., Wang, G. & Zelenay, P. Acid stability and demetalation of PGM-free ORR electrocatalyst structures from density functional theory: a model for ‘single-atom catalyst’ dissolution.
+ACS Catal.
+10
+, 14527–14539 (2020).
+CAS
+Google Scholar
+Jia, Q. et al. Spectroscopic insights into the nature of active sites in iron–nitrogen–carbon electrocatalysts for oxygen reduction in acid.
+Nano Energy
+29
+, 65–82 (2016).
+CAS
+Google Scholar
+Beverskog, B. & Puigdomenech, I. Revised pourbaix diagrams for iron at 25–300 °C.
+Corros. Sci.
+38
+, 2121–2135 (1996).
+CAS
+Google Scholar
+Parida, K. M. & Das, N. N. Reductive dissolution of hematite in hydrochloric acid medium by some inorganic and organic reductants: a comparative study.
+Indian J. Eng. Mater. Sci.
+3
+, 243 (1996).
+CAS
+Google Scholar
+Bae, G. et al. Quantification of active site density and turnover frequency: from single-atom metal to nanoparticle electrocatalysts.
+JACS Au
+1
+, 586–597 (2021).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Malko, D., Kucernak, A. & Lopes, T. In situ electrochemical quantification of active sites in Fe–N/C non-precious metal catalysts.
+Nat. Commun.
+7
+, 13285 (2016).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Lei, M. et al. CeO
+2
+nanocubes-graphene oxide as durable and highly active catalyst support for proton exchange membrane fuel cell.
+Sci. Rep.
+4
+, 7415 (2014).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wang, L., Advani, S. G. & Prasad, A. K. Degradation reduction of polymer electrolyte membranes using CeO
+2
+as a free-radical scavenger in catalyst layer.
+Electrochim. Acta
+109
+, 775–780 (2013).
+CAS
+Google Scholar
+Bae, G., Chung, M. W., Ji, S. G., Jaouen, F. & Choi, C. H. pH effect on the H
+2
+O
+2
+-induced deactivation of Fe–N–C catalysts.
+ACS Catal.
+10
+, 8485–8495 (2020).
+CAS
+Google Scholar
+Mechler, A. K. et al. Stabilization of iron-based fuel cell catalysts by non-catalytic platinum.
+J. Electrochem. Soc.
+165
+, F1084–F1091 (2018).
+CAS
+Google Scholar
+Xiao, F. et al. Atomically dispersed Pt and Fe sites and Pt–Fe nanoparticles for durable proton exchange membrane fuel cells.
+Nat. Catal.
+5
+, 503–512 (2022).
+CAS
+Google Scholar
+Choi, C. H. et al. Hydrogen peroxide synthesis via enhanced two-electron oxygen reduction pathway on carbon-coated Pt surface.
+J. Phys. Chem. C
+118
+, 30063–30070 (2014).
+CAS
+Google Scholar
+Ferre-Vilaplana, A., Perales-Rondón, J. V., Buso-Rogero, C., Feliu, J. M. & Herrero, E. Formic acid oxidation on platinum electrodes: a detailed mechanism supported by experiments and calculations on well-defined surfaces.
+J. Mater. Chem. A
+5
+, 21773–21784 (2017).
+CAS
+Google Scholar
+Chung, D. Y., Lee, K.-J. & Sung, Y.-E. Methanol electro-oxidation on the Pt surface: revisiting the cyclic voltammetry interpretation.
+J. Phys. Chem. C
+120
+, 9028–9035 (2016).
+CAS
+Google Scholar
+Neyerlin, K. C. et al. A. Study of the exchange current density for the hydrogen oxidation and evolution reactions.
+J. Electrochem. Soc.
+154
+, B631–B635 (2007).
+CAS
+Google Scholar
+Zhang, G. et al. Is iron involved in the lack of stability of Fe/N/C electrocatalysts used to reduce oxygen at the cathode of PEM fuel cells?
+Nano Energy
+29
+, 111–125 (2016).
+Kida, K., Okita, M., Fujita, K., Tanaka, S. & Miyake, Y. Formation of high crystalline ZIF-8 in an aqueous solution.
+Cryst. Eng. Comm.
+15
+, 1794–1801 (2013).
+CAS
+Google Scholar
+Sa, Y. J. et al. A general approach to preferential formation of active Fe–N
+x
+sites in Fe–N/C electrocatalysts for efficient oxygen reduction reaction.
+J. Am. Chem. Soc.
+138
+, 15046–15056 (2016).
+CAS
+PubMed
+Google Scholar
+Badam, R. et al. Sacrificial reducing agent free photo-generation of platinum nano particle over carbon/TiO
+2
+for highly efficient oxygen reduction reaction.
+Sci. Rep.
+6
+, 37006 (2016).
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169 (1996).
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865 (1996).
+Methfessel, M. & Paxton, A. T. High-precision sampling for Brillouin-zone integration in metals.
+Phys. Rev. B
+40
+, 3616 (1989).
+Henkelman, G., Arnaldsson, A. & Jónsson, H. A fast and robust algorithm for Bader decomposition of charge density.
+Comput. Mater. Sci.
+36
+, 354–360 (2006).
+Google Scholar
+Becke, A. D. Density‐functional thermochemistry. III. The role of exact exchange.
+J. Chem. Phys.
+98
+, 5648–5652 (1993).
+CAS
+Google Scholar
+Hay, P. J. & Wadt, W. R. Ab initio effective core potentials for molecular calculations. Potentials for the transition metal atoms Sc to Hg.
+J. Chem. Phys.
+82
+, 270–283 (1985).
+CAS
+Google Scholar
+Bochevarov, A. D. et al. Jaguar: A high-performance quantum chemistry software program with strengths in life and materials sciences.
+Int. J. Quantum Chem.
+113
+, 2110–2142 (2013).
+CAS
+Google Scholar
+Friedrichs, M., Zhou, R., Edinger, S. R. & Friesner, R. A. Poisson–Boltzmann analytical gradients for molecular modeling calculations.
+J. Phys. Chem. B
+103
+, 3057–3061 (1999).
+CAS
+Google Scholar
+Bae, G. et al. Unraveling the complex causality behind Fe–N–C degradation in fuel cells.
+Zenodo
+https://doi.org/10.5281/zenodo.8287921
+(2023).
+Bae, G. et al. Unraveling the complex causality behind Fe–N–C degradation in fuel cells.
+Zenodo
+https://doi.org/10.5281/zenodo.8287952
+(2023).
+Article
+Google Scholar
+Download references
+Acknowledgements
+This research was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (nos. 2019M3D1A1079309, 2021R1A5A1030054 and 2023R1A2C2005278 to C.H.C.) and by the KIST Institutional Program. We acknowledge the Pohang Accelerator Laboratory (PAL) for beamline use (8C, PLS-II). We are grateful to M. H. Seo and S. Jin for helpful discussions on this paper.
+Author information
+Author notes
+These authors contributed equally: Geunsu Bae, Minho M. Kim, Man Ho Han.
+Authors and Affiliations
+Department of Chemistry, Pohang University of Science and Technology, Pohang, Republic of Korea
+Geunsu Bae, Junsic Cho, Dong Hyun Kim & Chang Hyuck Choi
+Department of Chemistry, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea
+Minho M. Kim & Hyungjun Kim
+Clean Energy Research Center, Korea Institute of Science and Technology, Seoul, Republic of Korea
+Man Ho Han & Hyung-Suk Oh
+ICGM, University of Montpellier, CNRS, ENSCM, Montpellier, France
+Moulay-Tahar Sougrati & Frédéric Jaouen
+Department of Chemistry, Seoul National University, Seoul, Republic of Korea
+Jinjong Kim & Sang Hoon Joo
+Beamline Department, Pohang Accelerator Laboratory, Pohang University of Science and Technology, Pohang, Republic of Korea
+Kug-Seung Lee
+Materials and Process Simulation Center, California Institute of Technology, Pasadena, CA, USA
+William A. Goddard III
+KIST-SKKU Carbon-Neutral Research Center, Sungkyunkwan University, Suwon, Republic of Korea
+Hyung-Suk Oh
+Institute for Convergence Research and Education in Advanced Technology (I–CREATE), Yonsei University, Seoul, Republic of Korea
+Chang Hyuck Choi
+Authors
+Geunsu Bae
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Minho M. Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Man Ho Han
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Junsic Cho
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dong Hyun Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Moulay-Tahar Sougrati
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jinjong Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kug-Seung Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sang Hoon Joo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+William A. Goddard III
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hyung-Suk Oh
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hyungjun Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Frédéric Jaouen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chang Hyuck Choi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+C.H.C., F.J., H.K. and H.-S.O. conceived and supervised the project. G.B. conducted most of the experimental analyses. M.M.K. conducted DFT calculations. M.H.H. conducted fuel cell experiment. J.C. and D.H.K. contributed to the part of electrochemical analyses. M.-T.S. contributed to
+57
+Fe Mössbauer spectroscopy measurement. K.-S.L contributed to XAS measurement. J.K. and S.H.J. contributed to part of the catalyst synthesis. W.A.G. contributed to DFT calculations. The paper was written through the contributions of all authors.
+Corresponding authors
+Correspondence to
+Hyung-Suk Oh
+,
+Hyungjun Kim
+,
+Frédéric Jaouen
+or
+Chang Hyuck Choi
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interest.
+Peer review
+Peer review information
+Nature Catalysis
+thanks Lior Elbaz, Michael Bron and Zheng Wang for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Notes 1–8, Figs. 1–47, Tables 1–4 and references.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Bae, G., Kim, M.M., Han, M.H.
+et al.
+Unravelling the complex causality behind Fe–N–C degradation in fuel cells.
+Nat Catal
+6
+, 1140–1150 (2023). https://doi.org/10.1038/s41929-023-01039-7
+Download citation
+Received
+:
+04 October 2022
+Accepted
+:
+06 September 2023
+Published
+:
+28 September 2023
+Issue Date
+:
+December 2023
+DOI
+:
+https://doi.org/10.1038/s41929-023-01039-7
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

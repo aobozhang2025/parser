@@ -1,0 +1,2894 @@
+Ternary platinum–cobalt–indium nanoalloy on ceria as a highly efficient catalyst for the oxidative dehydrogenation of propane using CO2 | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Ternary platinum–cobalt–indium nanoalloy on ceria as a highly efficient catalyst for the oxidative dehydrogenation of propane using CO
+2
+Download PDF
+Article
+Published:
+27 January 2022
+Ternary platinum–cobalt–indium nanoalloy on ceria as a highly efficient catalyst for the oxidative dehydrogenation of propane using CO
+2
+Feilong Xing
+ORCID:
+orcid.org/0000-0002-1799-8829
+1
+,
+Yuki Nakaya
+ORCID:
+orcid.org/0000-0001-8457-1369
+1
+,
+Shunsaku Yasumura
+ORCID:
+orcid.org/0000-0002-4951-186X
+1
+,
+Ken-ichi Shimizu
+1
+,
+2
+&
+…
+Shinya Furukawa
+ORCID:
+orcid.org/0000-0002-2621-6139
+1
+,
+2
+,
+3
+Show authors
+Nature Catalysis
+volume
+5
+,
+pages
+55–65 (
+2022
+)
+Cite this article
+13k
+Accesses
+168
+Altmetric
+Metrics
+details
+Subjects
+Density functional theory
+Heterogeneous catalysis
+Nanoparticles
+Abstract
+The oxidative dehydrogenation of propane using CO
+2
+(CO
+2
+-ODP) is a promising technique for high-yield propylene production and CO
+2
+utilization. Unfortunately the efficiency of existing catalysts is limited, and therefore, developing a highly efficient catalyst for CO
+2
+-ODP is of great importance for the chemical industry. Here we report a Pt–Co–In ternary nanoalloy on CeO
+2
+that has a (Pt
+1−
+x
+Co
+x
+)
+2
+In
+3
+pseudo-binary alloy structure and exhibits very high catalytic activity, C
+3
+H
+6
+selectivity, stability and CO
+2
+utilization efficiency at 550 °C. Alloying platinum with indium and cobalt significantly improves the C
+3
+H
+6
+selectivity and CO
+2
+reduction ability, respectively. The cobalt species provide a high density of states near the Fermi level, which lowers the energy barrier of CO
+2
+reduction. The stability of the catalyst is greatly enhanced by combining the strong CO
+2
+activation ability of the alloy with the oxygen releasing ability of the CeO
+2
+support, which facilitates Mars–van Krevelen-type coke combustion.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+High-entropy intermetallics on ceria as efficient catalysts for the oxidative dehydrogenation of propane using CO
+2
+Article
+Open access
+29 August 2022
+Constructing matched sub-nanometric cobalt clusters with multiple oxidation and metallic states for efficient propane dehydrogenation
+Article
+Open access
+08 October 2024
+A nickel phosphide nanoalloy catalyst for the C-3 alkylation of oxindoles with alcohols
+Article
+Open access
+21 May 2021
+Main
+Propylene is a very important raw material for the production of a variety of petrochemicals in several industries
+1
+. The recent shift in the feedstock for steam crackers from oil-based naphtha to shale-based ethane has resulted in a significant gap between the limited supply of propylene and its increasing demand globally
+2
+. Therefore, the development of highly efficient technologies to meet the rising global demand for propylene is greatly desired
+3
+. Although the direct dehydrogenation of propane (DDP) has been studied and industrialized for this purpose, high reaction temperatures (typically ≥650 °C) are required to obtain a sufficiently high propylene yield due to the process’s endothermicity
+4
+. Furthermore, the harsh conditions inevitably induce severe catalyst deactivation and the thermal decomposition of propylene, limiting the applicability of the approach. The oxidative dehydrogenation of propane using CO
+2
+as a mild oxidant (CO
+2
+-ODP: C
+3
+H
+8
++ CO
+2
+→ C
+3
+H
+6
++ CO + H
+2
+O) is a promising strategy for solving such issues
+5
+,
+6
+. The equilibrium conversion of propane increases when dry reforming of C
+3
+H
+8
+proceeds in parallel (C
+3
+H
+8
++ 3CO
+2
+→ 6CO + 4H
+2
+)
+7
+,
+8
+,
+9
+, which can decrease the reaction temperature required to achieve a high propane conversion
+7
+. Moreover, CO
+2
+can remove the coke deposited on the catalyst surface via the Boudouard reaction (CO
+2
++ C → 2CO)
+10
+. Unlike strong oxidants such as O
+2
+, CO
+2
+suppresses the overoxidation of propylene and the catalyst itself, thus potentially providing an efficient catalytic system for propylene production. Moreover, the catalytic conversion of CO
+2
+into a value-added chemical is beneficial for carbon recycling and greenhouse gas reduction
+11
+,
+12
+.
+Previous studies on the CO
+2
+-ODP focused predominantly on early transition or typical metal oxides (Cr
+2
+O
+3
+, V
+2
+O
+5
+, Ga
+2
+O
+3
+and In
+2
+O
+3
+)
+5
+,
+13
+,
+14
+,
+15
+,
+16
+and late transition metals (Pd and Fe
+3
+Ni)
+7
+,
+17
+as the main active species. Among these materials, chromium oxide species dispersed on mesoporous silica
+18
+,
+19
+showed the highest specific activity and good propylene selectivity (
+∼
+80%) at high propane conversion regions. However, these catalysts showed very low CO
+2
+conversion and rapid deactivation within a few hours. Although the transition-metal catalysts exhibited much longer catalytic life, the conversions of propane and CO
+2
+were quite low (typically <12%). In this context, no catalyst has yet been reported that simultaneously exhibits high catalytic activity, selectivity, stability and CO
+2
+utilization efficiency. The challenge is that the catalyst should simultaneously activate both propane and CO
+2
+without undesired side reactions and catalyst deactivation. A multifunctional active material that successfully meets these requirements could serve as an innovative catalyst for the CO
+2
+-ODP. Possible candidates are multimetallic alloys
+20
+,
+21
+,
+22
+. A highly efficient CO
+2
+-ODP may be realized based on an appropriate combination of elements that can facilitate C–H scission and CO
+2
+capture/activation, and inhibit undesired over-dehydrogenation and C–C scission.
+Motivated by this concept, we designed a ternary alloy catalyst consisting of three different classes of metals to achieve the aforementioned functions in catalysis. Platinum was chosen as the main active metal for the C–H scission because it is known to be highly active for C–H scission
+23
+,
+24
+, while it is minimally active for the C–C scission compared to other transition metals
+25
+. Late 3
+d
+transition metals such as cobalt, nickel and copper
+26
+,
+27
+, which are efficient catalysts for CO
+2
+reduction, were chosen to accelerate CO
+2
+capture and activation. Inert elements such as gallium, indium and tin were considered for their ability to enhance dehydrogenation selectivity, due to the ensemble effect when these are alloyed
+28
+. CeO
+2
+was used as the catalyst support to promote CO
+2
+capture and coke combustion due to its basicity and oxygen-releasing ability, respectively
+7
+,
+29
+. In particular, we show that the combination of platinum, cobalt, indium and CeO
+2
+can afford the multiple functions required to achieve a highly efficient CO
+2
+-ODP, that is, a remarkably active, selective and stable catalysis is achieved using a Pt–Co–In/CeO
+2
+nanoalloy.
+Results
+Characterization
+The Pt–Co–In/CeO
+2
+(Pt, 3 wt%; Pt:Co:In, 1:1:2) catalyst was prepared by a conventional impregnation method using CeO
+2
+as the support. Figure
+1a,b
+shows high-resolution high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) images of Pt–Co–In/CeO
+2
+. Small nanoparticles with diameters of 2–3 nm were mainly observed on the CeO
+2
+support. The mean diameter (
+\(\overline{\rm{d}}\)
+= 3.9 nm, Fig.
+1c
+) was slightly higher than the size of major species because of the presence of a small amount of relatively large particles (10–16 nm). Recent studies have demonstrated that the reverse water-gas shift reaction
+30
+and propane dehydrogenation
+31
+,
+32
+are structure sensitive (smaller particles afford higher activity), suggesting that large particles (>10 nm) may make little contribution to the overall reaction rate of the CO
+2
+-ODP. The elemental map acquired by energy-dispersive X-ray (EDX) analysis showed that the nanoparticles consisted of platinum, cobalt and indium, and some cobalt species were also present outside of the nanoparticles (Fig.
+1d–h
+). The Pt:Co:In atomic ratios of the nanoparticles (regions 1–4, designated by dashed yellow squares in Fig.
+1a,b
+) were approximately 1:0.5:2 (Fig.
+1i
+), where the cobalt content was lower than that supplied in the catalyst preparation (Pt:Co:In = 1:1:2).
+Fig. 1: Characterization of Pt–Co–In/CeO
+2
+.
+a
+,
+b
+HAADF-STEM images of Pt–Co–In/CeO
+2
+(Pt:Co:In, 1:1:2) showing several nanoparticles (
+a
+) and focusing on a single nanoparticle (
+b
+). Inset in
+b
+: the crystal structure of CeO
+2
+viewed along the [110] direction (light green: Ce; red: O).
+c
+, Particle-size distribution.
+d
+–
+h
+, Elemental maps of cerium (
+d
+), platinum (
+e
+), cobalt (
+f
+), indium (
+g
+) and oxygen (
+h
+) in
+a
+, acquired by EDX.
+i
+, Atomic ratios of platinum, cobalt and indium present in regions 1–4 designated by dashed yellow squares in
+a
+and
+b
+.
+j
+, HAADF-STEM image of a single nanoparticle on Pt–Co–In/CeO
+2
+.
+k
+, Crystal structure of the intermetallic Pt
+2
+In
+3
+viewed along the
+\([ {2\bar 21} ]\)
+direction.
+l
+, Model of the (Pt
+1-
+x
+Co
+x
+)
+2
+In
+3
+pseudo-binary alloy structure with the crystal structure unit.
+Full size image
+Therefore, some of the cobalt species appear not to be included in the nanoparticles and are highly dispersed on the CeO
+2
+support. Figure
+1j
+shows an HAADF-STEM image of a single Pt–Co–In nanoparticle, where a crystal structure with interplanar distances of 2.28 and 2.29 Å was observed. These values were close to those of the (110) and (102) planes of intermetallic Pt
+2
+In
+3
+(Fig.
+1j,k
+)
+33
+. Because the atomic ratio of (Pt + Co):In is close to 2:3 (2:2.7), the nanoparticles probably have a (Pt
+1−
+x
+Co
+x
+)
+2
+In
+3
+pseudo-binary alloy structure, where some platinum atoms in Pt
+2
+In
+3
+are substituted by cobalt (Fig.
+1l
+). We also performed an X-ray diffraction analysis of Pt–Co–In/CeO
+2
+, from which a diffraction pattern similar to that of Pt
+2
+In
+3
+was obtained, although the diffraction angles were slightly lower than those of pure Pt
+2
+In
+3
+(Supplementary Fig.
+1
+). This indicates lattice expansion of Pt
+2
+In
+3
+caused by cobalt doping and supports the formation of the (Pt
+1−
+x
+Co
+x
+)
+2
+In
+3
+pseudo-binary alloy structure. To obtain further structural information, X-ray absorption fine structure (XAFS) analysis was subsequently performed. The Pt–Co–In/CeO
+2
+sample was reduced in situ by a flow of hydrogen at 550 °C for 0.5 h. The Pt L
+III
+-edge, Co K-edge and In K-edge X-ray absorption near-edge spectra (XANES) of the pretreated Pt–Co–In/CeO
+2
+were similar to those of the corresponding foils, indicating that these metals are reduced mostly to a zero-valent state (Supplementary Fig.
+2
+). A small contribution of In
+2
+O
+3
+was observed in the In K-edge XANES (Supplementary Fig.
+2
+) and extended XAFS (EXAFS) spectra (Supplementary Fig.
+3
+; the Fourier transform of the EXAFS is shown in Supplementary Fig.
+4
+). This suggests that the residual indium species, which did not participate in the alloy formation, is present as an oxide on CeO
+2
+. EXAFS curve-fitting (Supplementary Fig.
+5
+and Supplementary Table
+1
+) suggested the presence of Pt–In (In–Pt) and Co–In (In–Co) scatterings. This result agrees with the formation of the (Pt
+1−
+x
+Co
+x
+)
+2
+In
+3
+pseudo-binary alloy structure and supports that cobalt was doped at the platinum sites of Pt
+2
+In
+3
+. For Co K-edge fitting, Co–Co scattering with an interatomic distance (
+R
+= 2.44 Å) close to that of cobalt foil (
+R
+= 2.49 Å) was also suggested. This indicates the presence of monometallic cobalt nanoparticles on CeO
+2
+and is consistent with the result of the HAADF-STEM-EDX analysis. In–O scattering was also derived for In K-edge fitting, indicating the presence of In
+2
+O
+3
+as observed for the XANES. Thus, the XAFS analysis demonstrated the formation of (Pt
+1−
+x
+Co
+x
+)
+2
+In
+3
+pseudo-binary alloy nanoparticles on CeO
+2
+. The residual cobalt and indium species, which did not participate in alloy formation, remained as monometallic cobalt and In
+2
+O
+3
+nanoparticles. In addition, we conducted X-ray photoelectron spectroscopy (XPS) analysis of the catalysts. Pt/CeO
+2
+and Pt–Co–In/CeO
+2
+showed similar Pt 4
+f
+7/2
+emissions at 71.6 and 71.4 eV, respectively, which are assigned to metallic platinum (Supplementary Fig.
+6a
+)
+34
+. The small negative shift indicates that platinum was slightly electron-enriched upon alloying with indium and cobalt. The indium 3
+d
+XPS spectrum showed that the surface indium species were mainly metallic. A small amount of indium was oxidized (Supplementary Fig.
+6b
+: In
+0
+, 443.5 eV; In
+3+
+, 444.5 eV)
+34
+, which can be attributed to the ternary alloy phase and residual In
+2
+O
+3
+, respectively, as suggested by the XAFS study.
+Catalytic reactions
+The Pt–Co–In/CeO
+2
+catalyst was then tested for the CO
+2
+-ODP at 550 °C. Some platinum-based binary alloy catalysts (Pt–M/CeO
+2
+; M = Co, In and Sn), in which the platinum dispersion is similar to that in Pt–Co–In/CeO
+2
+(Supplementary Table
+2
+), and monometallic Pt/CeO
+2
+were examined to understand the individual effect of each second metal. For all the catalysts, the products were CO, C
+3
+H
+6
+, C
+2
+H
+4
+, C
+2
+H
+6
+, CH
+4
+, H
+2
+O and H
+2
+. No other by-products such as oxygenates were detected in the outlet gas (Supplementary Fig.
+7
+). Figure
+2a–c
+shows the time course of C
+3
+H
+8
+conversion, C
+3
+H
+6
+selectivity in hydrocarbons (C
+x
+H
+y
+) and CO
+2
+conversion, respectively (see Supplementary Fig.
+8
+for details of equilibrium conversion). Although the Pt/CeO
+2
+and Pt–M/CeO
+2
+catalysts showed a high initial C
+3
+H
+8
+conversion (52–68%), rapid deactivation occurred within 5–10 h. Pt–Sn, which is known to be selective and stable for DDP
+28
+, was not effective for CO
+2
+-ODP.
+Fig. 2: Catalytic performance of Pt–Co–In/CeO
+2
+in the CO
+2
+-ODP.
+Reaction conditions: catalyst amount, 100 mg; gas feed, C
+3
+H
+8
+:CO
+2
+:He = 5:5:10 ml min
+−1
+; temperature, 550 °C.
+a
+–
+c
+, Time course of C
+3
+H
+8
+conversion (
+a
+), C
+3
+H
+6
+selectivity (
+b
+) and CO
+2
+conversion (
+c
+).
+d
+–
+f
+, Comparison of the catalytic performances with those of reported systems: specific activity versus expected catalyst life (
+d
+), C
+3
+H
+8
+conversion versus C
+3
+H
+6
+selectivity (
+e
+) and C
+3
+H
+6
+yield versus CO
+2
+conversion (
+f
+). Numbers correspond to the entries in Supplementary Tables
+4
+and
+5
+.
+g
+,
+h
+, Long-term stability test with catalyst regeneration: C
+3
+H
+8
+:CO
+2
+:He = 5:5:20 ml min
+−1
+. Time course of C
+3
+H
+8
+(
+g
+) and CO
+2
+conversions (
+h
+). Regeneration conditions: CO
+2
+:He = 5:20 ml min
+−1
+for 5 h, followed by H
+2
+:He = 10:20 ml min
+−1
+for 0.5 h at 550 °C.
+Full size image
+In contrast, Pt–Co–In/CeO
+2
+retained a high C
+3
+H
+8
+conversion (
+∼
+50%) for 20 h. Predictably, catalysts containing a typical metal (indium or tin) exhibited a high C
+3
+H
+6
+selectivity (82–95%), attributed to the ensemble effect by alloying, where the highest selectivity was obtained with Pt–Co–In (95%). Platinum and Pt–Co showed very low C
+3
+H
+6
+selectivities (35% and 27%, respectively) at the beginning of the reaction due to undesired side reactions generating C1 and C2 hydrocarbons (hydrogenolysis; Supplementary Fig.
+9
+). Platinum and Pt–Co catalysts also showed a significant deviation of material balance from unity (for example, for platinum, C
+x
+H
+y
+: 0.71 and CO
+x
+: 1.31; Supplementary Fig.
+10
+), which suggests that dry reforming of C
+3
+H
+8
+to CO also occurred to a large extent. Conversely, the carbon balances in C
+x
+H
+y
+and CO
+x
+were close to unity for Pt–Co–In, indicating a minor contribution of dry reforming on the ternary alloy catalyst (Supplementary Fig.
+10
+). The net C
+3
+H
+6
+selectivity and yield, which consider CO from C
+3
+H
+8
+as a by-product, were still high (86–97%, Supplementary Fig.
+11
+and 47–44%, Supplementary Fig.
+12
+, respectively). The hydrogen yield for Pt–Co–In was less than 5% (Supplementary Fig.
+13
+), indicating that a large part of the hydrogen derived from C
+3
+H
+8
+was consumed by the reverse water-gas shift reaction. This also suggests that the contribution of DDP versus CO
+2
+-ODP to the overall C
+3
+H
+6
+production, which is reflected roughly by the H
+2
+yield/C
+3
+H
+6
+yield ratio
+35
+, was very low (
+∼
+10%). Given that hydrogen can also be formed by dry reforming to a small extent, the actual contribution of DDP should be much lower than 10%. For the CO
+2
+conversion stability (Fig.
+2c
+), a similar trend to that of C
+3
+H
+8
+was observed: only Pt–Co–In showed good stability, while other mono- and bimetallic catalysts were deactivated within 10 h. Interestingly, the initial conversion of CO
+2
+differed depending on the metal component in the following order: Pt–Co > Pt, Pt–Sn, Pt–Co–In
+≫
+Pt–In. This result implies that cobalt promotes CO
+2
+capture and activation as expected, and that alloying with indium alone significantly reduces this ability. Therefore, alloying platinum with both cobalt and indium may neutralize the negative effect of indium, thereby promoting the CO
+2
+conversion, comparable to the level achieved with monometallic platinum. Next, monometallic Co/CeO
+2
+and In/CeO
+2
+catalysts were also tested for the CO
+2
+-ODP as control experiments (Supplementary Fig.
+14
+). Although Co/CeO
+2
+was active for both C
+3
+H
+8
+and CO
+2
+conversions at the beginning of the reaction, it rapidly deactivated within only 0.5 h (C
+3
+H
+8
+: 48% → 7%; CO
+2
+: 54% → 22%). After the deactivation, Co/CeO
+2
+retained the low CO
+2
+conversion (22%), which is probably due to the contribution of cobalt oxide species to CO
+2
+reduction
+36
+,
+37
+(Co/SiO
+2
+was not fully reduced by reduction at 600 °C; see H
+2
+-TPR, Supplementary Fig.
+15
+). In/CeO
+2
+was almost inactive for both reactions. Therefore, the residual metallic cobalt and indium oxide species in Pt–Co–In/CeO
+2
+are unlikely to contribute to the high catalytic performance. We performed further control experiments using physical mixtures of the binary and monometallic catalysts (Pt–Co/CeO
+2
++ In/CeO
+2
+, Pt–In/CeO
+2
++ Co/CeO
+2
+and Co–In/CeO
+2
++ Pt/CeO
+2
+) and Pt–In+Co/CeO
+2
+, where the cobalt cation was loaded on Pt–In/CeO
+2
+. Their catalytic activities and stabilities were much lower than those of Pt–Co–In/CeO
+2
+(Supplementary Figs.
+16
+–
+18
+), demonstrating that the ternary alloy structure with cobalt doped into Pt–In alloy is essential for a high catalytic performance. A temperature-programmed oxidation (TPO) (Supplementary Fig.
+19
+) and Raman analysis (Supplementary Fig.
+20
+) of the spent catalysts after the 20 h catalytic run showed almost no coke accumulation on Pt–Co–In/CeO
+2
+, unlike the case with other deactivated catalysts. The average coke selectivity was calculated at 10 h by dividing the moles of accumulated coke by the total moles of converted C
+3
+H
+8
+and the carbon number of C
+3
+H
+8
+, which was lower than 0.1% (Supplementary Table
+3
+).
+The obtained high catalytic performance of Pt–Co–In/CeO
+2
+was compared with a number of reported systems for the CO
+2
+-ODP, considering the activity, selectivity, stability and CO
+2
+utilization efficiency (see Supplementary Tables
+4
+–
+5
+and Supplementary Fig.
+21
+for details with references). For a better comparison, the catalytic performance of Pt–Co–In/CeO
+2
+at 600 °C (Supplementary Fig.
+22
+) was also included. For alkane dehydrogenation, high catalytic activity is often achieved at the expense of selectivity and stability via the triggering of undesired side reactions
+31
+. Therefore, plotting stability or selectivity versus activity can be a good indication of the overall performance. More specifically, the mean catalyst life as a reciprocal deactivation constant (
+\(\tau=k_{\mathrm{d}}^{-1}\)
+) versus specific activity
+\(\left( {{{{\mathrm{ml}}}}_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}\, {{{\mathrm{min}}}}^{ - 1}\, {\mathrm{g}}_{{{{\mathrm{cat}}}}}^{ - 1}} \right)\)
+and the conversion–selectivity relationship were considered (Fig.
+2d,e
+, respectively). The specific activity of our catalyst was approximately five times higher than typical values previously reported. This high catalytic activity is attributed to the use of platinum as the main active metal for the selective CO
+2
+-ODP. Moreover, the mean catalytic life of our catalyst at 550 °C was also higher than those previously reported. For the selectivity–conversion plot, we showed two selectivity descriptions for better comparison with reported systems, that is, we considered by-products other than C
+x
+H
+y
+such as CO (net C
+3
+H
+6
+selectivity) or not (C
+3
+H
+6
+selectivity in C
+x
+H
+y
+). Our catalyst exhibited very high C
+3
+H
+6
+selectivity (86% and 95% for open and filled circles, respectively) at a high C
+3
+H
+8
+conversion region (>50%) (Fig.
+2e
+), indicating its significant ability to suppress undesired side reactions. Figure
+2f
+shows the plot of the CO
+2
+conversion versus the C
+3
+H
+6
+yield, which reflects the CO
+2
+utilization efficiency. A high CO
+2
+conversion with C
+3
+H
+6
+production in 1:1 stoichiometry (upper right in Fig.
+2f
+) is preferred for a high CO
+2
+utilization efficiency (see equation (
+16
+) for the definition of CO
+2
+utilization efficiency). In this context, our catalyst exhibited high CO
+2
+conversion and C
+3
+H
+6
+yield with near 1:1 stoichiometry, which compares favourably with previous systems, and achieved CO
+2
+utilization efficiencies of 53% at 550 °C and 70% at 600 °C (Supplementary Fig.
+21c
+). We also examined the reusability and long-term stability of Pt–Co–In/CeO
+2
+by applying a regeneration process. The regeneration of deactivated catalysts typically uses oxygen or air to combust deposited carbon. In this study, CO
+2
+was used instead as a soft oxidant for the Boudouard reaction because of its relatively easy handling. To switch the catalytic run to the regeneration process, the supply of C
+3
+H
+8
+was cut off to feed CO
+2
+/He for 5 h, followed by H
+2
+reduction for 0.5 h at the same temperature. CO
+2
+conversion was fully recovered by this process, and no negative effect on the C
+3
+H
+8
+conversion was observed (Fig.
+2g,h
+; see Supplementary Fig.
+23
+for C
+3
+H
+6
+selectivity). Although a slight decrease in C
+3
+H
+8
+conversion was observed, the conversion reached a steady state after 70 h and retained 33% conversion at 96 h. Thus, the Pt–Co–In/CeO
+2
+catalyst displayed multiple properties of outstanding catalytic activity, excellent C
+3
+H
+6
+selectivity, high CO
+2
+utilization efficiency, long-term stability and reusability. In Fig.
+2g
+, C
+3
+H
+8
+conversion was not fully recovered under the regeneration condition, indicating that coke on the active site for C
+3
+H
+8
+dehydrogenation is harder to remove than that for CO
+2
+activation. We also performed a control experiment with a DDP-CO
+2
+cycle test on Pt–Co–In/CeO
+2
+, where the gas feed was switched from C
+3
+H
+8
+/He (2 h) to CO
+2
+/He (0.5 h). Although the C
+3
+H
+8
+conversion decreased to near zero within 2 h in the absence of CO
+2
+, it was recovered by the CO
+2
+treatment (Supplementary Fig.
+24
+). Thus, the Pt–Co–In/CeO
+2
+catalyst is highly capable of coke combustion by CO
+2
+, which enables continuous coke removal and long-term stability in CO
+2
+-ODP.
+Mechanistic study
+We also performed a mechanistic study to understand in depth the functions of cobalt, indium and CeO
+2
+in the catalysis. First, a kinetic analysis was conducted to understand the rate-determining step (RDS) of the CO
+2
+-ODP on Pt–Co–In/CeO
+2
+. The following reaction rate equation was considered for the CO
+2
+-ODP:
+\(r_x = kP_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^\alpha P_{{{{\mathrm{CO}}}}_2}^\beta\)
+, where
+r
+x
+is the consumption rate of
+x
+(
+x
+= C
+3
+H
+8
+or CO
+2
+), and
+\(P_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}\)
+and
+\(P_{{{{\mathrm{CO}}}}_2}\)
+are the pressures of C
+3
+H
+8
+and CO
+2
+, respectively. The experimental reaction orders were positive and could be higher than unity for
+\(P_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}\)
+, while they were negative for
+\(P_{{{{\mathrm{CO}}}}_2}\)
+(Table
+1
+; see Supplementary Fig.
+25
+for details). Here we considered a Langmuir–Hinshelwood mechanism involving the two-step dehydrogenation of C
+3
+H
+8
+to C
+3
+H
+6
+, CO
+2
+reduction to CO, and oxidation of the eliminated hydrogen to form water (Table
+1
+). We solved the rate equation of each step by applying the quasi-stationary approximation and site conservation conditions (see Supplementary Note
+1
+for details). The ranges of predicted reaction orders were fully consistent with the experimental orders only when the CO
+2
+activation to form CO and O was regarded as the RDS (step 6 in Table
+1
+). In addition, we conducted microkinetic modelling based on the transition state theory and steady-state approximation to estimate the forward and reverse reaction rates for each step (Supplementary Note
+1
+and Supplementary Table
+6
+). For this modelling, some parameters calculated using density functional theory (DFT), such as activation energy (to be described later) and vibrational frequency, were used. As shown in Table
+1
+(calculated reaction rate), step 6 showed the lowest rate. These results showed that the RDS of CO
+2
+-ODP on Pt–Co–In/CeO
+2
+was the CO
+2
+activation. Subsequently, the apparent activation energy (
+E
+A
+*) was estimated for Pt–In/CeO
+2
+and Pt–Co–In/CeO
+2
+by Arrhenius-type plots. The
+E
+A
+of CO
+2
+activation was significantly reduced (from 168.8 to 138.3 kJ mol
+−1
+) by the incorporation of cobalt into Pt–In (Table
+1
+and Supplementary Fig.
+26
+), which is consistent with the experimental trend of the CO
+2
+conversion and turnover frequency (TOF), as shown in Fig.
+2c
+and Supplementary Fig.
+27
+, respectively. We also simulated the dependences of the reaction rate on
+\(P_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}\)
+and temperature using the kinetic modelling, both of which were found to be consistent with the experimental trends (Supplementary Fig.
+28
+). This result strongly supports the validity of our kinetic model. Although the simulated values did not match exactly with the experimental ones, this may be due to insufficient accuracy in estimating the number of active sites. As suggested by the EXAFS study, small cobalt clusters are also present on CeO
+2
+, which complicates the interpretation of CO adsorption and the resulting metal dispersion (in this context, a more nuanced calibration of the number of active sites may improve the degree of agreement). Thus, the kinetic analysis revealed that alloying with cobalt kinetically promoted CO
+2
+activation, which is the RDS of the CO
+2
+-ODP. Compared with previously reported systems, Pt–Co–In/CeO
+2
+showed comparable
+E
+A
+* for C
+3
+H
+8
+dehydrogenation (WO
+x
+–VO
+x
+/SiO
+2
+, 127–145 kJ mol
+−1
+; Fe
+3
+Ni/CeO
+2
+, 115 kJ mol
+−1
+) and for CO
+2
+activation (Fe
+3
+Ni/CeO
+2
+, 135 kJ mol
+−1
+).
+Table 1 Summary of the kinetic study of the CO2-ODP
+Full size table
+We subsequently examined a series of Pt–Co–In catalysts using various supports, such as Al
+2
+O
+3
+, TiO
+2
+and ZrO
+2
+, to clarify the role of the CeO
+2
+support. Although these catalysts showed moderate initial conversions of C
+3
+H
+8
+and CO
+2
+, rapid deactivation occurred within 1–2 h (Fig.
+3a,b
+). This result strongly indicates that the role of CeO
+2
+is to significantly enhance the catalyst stability; this is probably attributed to its coke combustion ability, as mentioned above. To confirm this ability, temperature-programmed surface reactions (TPSRs) were conducted using the coked catalysts under helium and CO
+2
+flows. The coked Pt–Co–In/CeO
+2
+evolved CO from 500 °C even in the absence of CO
+2
+(He-TPSR, Fig.
+3c
+), whereas the coked Pt–Co–In/Al
+2
+O
+3
+showed almost no CO evolution up to 600 °C.
+Fig. 3: Effect of the catalyst support and TPSR on the coked catalysts.
+a
+,
+b
+, C
+3
+H
+8
+(
+a
+) and CO
+2
+(
+b
+) conversions in the CO
+2
+-ODP on the Pt–Co–In catalysts using various supports.
+c
+, He-TPSR on the coked Pt–Co–In/CeO
+2
+(used in the DDP for 2 h) and Pt–Co–In /Al
+2
+O
+3
+(used in the CO
+2
+-ODP for 2 h) catalysts.
+d
+, CO
+2
+-TPSR on the coked Pt/CeO
+2
+, Pt–In/CeO
+2
+(used in the CO
+2
+-ODP for 2 h) and Pt–Co–In/CeO
+2
+(used in the DDP for 2 h) catalysts. CO evolution was quantified by the mass intensity of
+m
+/
+z
+= 28.
+e
+, CO
+2
+-titration (TPO) experiment for the oxygen vacancy of CeO
+2
+using Pt/CeO
+2
+.
+Full size image
+The CO evolution from the coked Pt–Co–In/CeO
+2
+between 500 and 600 °C can be attributed to the coke combustion by the lattice oxygen of CeO
+2
+. Thus, CeO
+2
+can remove coke at the reaction temperature of the CO
+2
+-ODP (550 °C), whereas Al
+2
+O
+3
+cannot, which agrees with the stability trend in the CO
+2
+-ODP. Interestingly, intense CO evolution was observed from 600 °C for both catalysts, which might be due to the coke combustion by the oxygen atoms of the surface hydroxyl groups. When the TPSR experiment for the coked Pt–Co–In/CeO
+2
+was performed in the presence of CO
+2
+(CO
+2
+-TPSR, Fig.
+3d
+), a very large amount of CO (see the scale bars) was evolved starting at 500 °C, and the coke was completely combusted at 700 °C. This is clearly due to the continuous oxygen supply from CO
+2
+. The corresponding TPSR for the coked Pt/CeO
+2
+and Pt–In/CeO
+2
+showed similar CO evolutions at high temperatures (peak temperature: Pt–Co–In < Pt < Pt–In), although a low evolution was observed at 550 °C. These results are roughly consistent with the deactivation trend (Pt–Co–In < Pt, Pt–In) (Fig.
+2a
+) and the CO
+2
+-reducing ability (Pt–Co–In, Pt > Pt–In) (Fig.
+2c
+), which reflects the coke combustion abilities of these catalysts. Based on these results, we concluded that the coke combustion ability depended on the CO
+2
+-reducing ability of the metal nanoparticles and on the oxygen-releasing ability of CeO
+2
+. The concert of the ternary alloy and the specific character of the CeO
+2
+support enabled the continuous self-regeneration function and the remarkably high coke resistance. Furthermore, we verified the filling of oxygen vacancy after the lattice oxygen consumption of CeO
+2
+using a CO
+2
+-titration (TPO) technique and Pt/CeO
+2
+. As shown in Fig.
+3e
+, oxygen vacancies of CeO
+2
+were obtained by H
+2
+-TPR, followed by cooling and subsequent CO
+2
+-TPO. CO evolution was completed by 550 °C, indicating that CO
+2
+was divided into CO and O. The oxygen atoms were left on the catalyst. H
+2
+-TPR was repeated after CO
+2
+-TPO and cooling, where the reduction peak of CeO
+2
+appeared again (Fig.
+3e
+). These results strongly support that the oxygen atoms derived from CO
+2
+refill the oxygen vacancies of CeO
+2
+.
+Finally, we conducted DFT calculations to understand the role of the Pt–Co–In ternary alloy in the enhanced catalysis. As a model of the Pt–Co–In alloy surface, the stable (012) surface of intermetallic Pt
+2
+In
+3
+was considered and one of the surface platinum atoms was replaced with cobalt, hereafter denoted as Pt
+2
+In
+3
+(012)–Co. Unmodified Pt
+2
+In
+3
+(012) and monometallic Pt(111) surfaces were also considered for comparison. CO
+2
+reduction to CO, C
+3
+H
+8
+dehydrogenation to C
+3
+H
+6
+, H
+2
+O formation, and H
+2
+recombination were considered on these surfaces (see Supplementary Figs.
+29
+–
+37
+for detailed structures and Supplementary Fig.
+38
+for Gibbs free energy changes). Figure
+4a
+shows the energy diagram of CO
+2
+reduction, where CO
+2
+was first physisorbed, then chemisorbed with a bent
+sp
+2
+-like conformation, followed by C–O bond scission to form CO and O, and lastly, CO desorption. The chemisorption was endothermic and required moderate energy barriers of 55–57 kJ mol
+−1
+. For Pt
+2
+In
+3
+and Pt
+2
+In
+3
+–Co, the CO on a top site of Pt/Co and O at an In–In bridge site were more stable than those on Pt(111), probably due to the oxophilicity of indium. CO was considerably more stable on cobalt than on platinum; therefore, the direct desorption of CO from the cobalt site required a high amount of energy (182.3 kJ mol
+−1
+). Relatively low-energy desorption is still allowed when CO migrates to the neighbouring platinum site. However, the microkinetic modelling showed that the constant and reaction rate for the desorption of product molecules were very high (Table
+1
+and Supplementary Table
+6
+) due to the huge contribution of the translational partition function of gas-phase molecules at high temperatures. Thus, the direct desorption of CO from the cobalt site can occur smoothly even with the large energy barrier. Figure
+4b
+represents the energy diagram of C
+3
+H
+8
+dehydrogenation, where two hydrogen atoms of C
+3
+H
+8
+are subsequently eliminated and moved to infinity (opposite surface of the slab). The two C–H activations were endothermic on the Pt
+2
+In
+3
+-based surfaces, whereas they were slightly exothermic on Pt(111), which may be dependent on whether the eliminated hydrogen atoms were located on a less stable Pt–Pt(Co) bridge site or on a highly stable Pt
+3
+hollow site. The high energy of the unstable hydrogen can be released after each C–H scission using the subsequent oxidation reaction (H + O → OH, Δ
+E
+= −86 or −115 kJ mol
+−1
+) (Supplementary Fig.
+38a
+and Supplementary Tables
+7
+–
+9
+). Thus, the net energy barriers for the ‘oxidative dehydrogenation of C
+3
+H
+8
+(C
+3
+H
+8
++ O → C
+3
+H
+6
++ H
+2
+O)’ on Pt
+2
+In
+3
+-based surface is not higher than that of C–O scission (Supplementary Fig.
+39
+). Figure
+4c
+summarizes the major energy barriers on each surface. The Pt(111) surface was more active than the Pt
+2
+In
+3
+-based surfaces for C–H and CO
+2
+activations, while CO desorption showed the highest energy barrier. For Pt
+2
+In
+3
+(012), CO
+2
+activation required a high energy barrier of 169.1 kJ mol
+−1
+, which agreed well with the experimental
+E
+A
+* (168.8 kJ mol
+−1
+; Table
+1
+and Supplementary Fig.
+26
+) and with the low CO
+2
+conversion and TOF of Pt–In/CeO
+2
+(Fig.
+2c
+and Supplementary Fig.
+27
+). The
+E
+A
+of CO
+2
+activation was significantly decreased to 135.1 kJ mol
+−1
+on Pt
+2
+In
+3
+(012)–Co, which is also consistent with the experimental
+E
+A
+* (138.3 kJ mol
+−1
+; Table
+1
+) and the significantly improved CO
+2
+conversion/TOF (Fig.
+2c
+and Supplementary Fig.
+27
+), by cobalt substitution. Good agreements were also obtained between the theoretical and experimental
+E
+A
+* values for C–H activation (Table
+1
+), demonstrating the validity of our calculation. The CO
+2
+activation still provided the highest energy barrier on Pt
+2
+In
+3
+(012)–Co, which is consistent with the fact that this process is the RDS. The significant decrease in the energy barriers of C–H and CO
+2
+activations by cobalt substitution can be explained by the lowering of the final state energies (Fig.
+4b
+) in line with the Brønsted–Evans–Polanyi relationship
+38
+. The cobalt atom strongly captures the carbon and/or hydrogen atom of the adsorbate, thus stabilizing the adsorbate state. The stronger adsorption on Co can be rationalized by the
+d
+band structure of alloys, as shown in Fig.
+4d
+. Alloying platinum with indium decreased the
+d
+band width and the density of states near the Fermi level. This change weakens the metal–adsorbate bonding in accordance with the
+d
+band theory
+39
+,
+40
+. In contrast, Pt
+2
+In
+3
+(012)–Co has a high density of states derived from the cobalt 3
+d
+orbitals near the Fermi level, which recovers the adsorption strengths of carbon and hydrogen, hence promoting the conversion of CO
+2
+and C
+3
+H
+8
+. Thus, the DFT calculations well supported the experimental results and clarified the role of cobalt in the enhanced catalysis.
+Fig. 4: DFT calculations and reaction mechanism.
+a
+,
+b
+, Energy diagrams of CO
+2
+reduction to CO and O (
+a
+) and C
+3
+H
+8
+dehydrogenation to C
+3
+H
+6
+(
+b
+) on Pt(111), Pt
+2
+In
+3
+(012) and Pt
+2
+In
+3
+(012)–Co.
+c
+, Summary of the energy barriers on each surface. For Pt
+2
+In
+3
+(012)–Co, the energy barrier of CO migration was regarded as a desorption barrier.
+d
+, Density of states projected on the
+d
+orbitals of the surface atoms of Pt(111), Pt
+2
+In
+3
+(012) and Pt
+2
+In
+3
+(012)–Co slabs.
+e
+, Schematic illustration of the reaction mechanism of CO
+2
+-ODP on Pt–Co–In/CeO
+2
+with Mars–van Krevelen-type (MvK) decoking by CeO
+2
+.
+Full size image
+Overall, the reaction mechanism of the CO
+2
+-ODP on Pt–Co–In/CeO
+2
+and the roles of the ternary alloy phase and the CeO
+2
+support are summarized in Fig.
+4e
+. Both the C
+3
+H
+8
+dehydrogenation and CO
+2
+reduction smoothly proceed on the Pt–Co active site to form 2H and O, as well as the main products: C
+3
+H
+6
+and CO. Alloying with indium enhances the C
+3
+H
+6
+selectivity due to the ensemble effect and decreases the amount of coke that accumulates on the catalyst surface. The doped cobalt improves the adsorption strengths of the carbon and hydrogen species, which promotes the activation of C
+3
+H
+8
+and CO
+2
+. The oxygen atoms oxidize the eliminated hydrogen to form H
+2
+O or combust coke on the alloy surface or neighbouring CeO
+2
+sites. Note that coke combustion is allowed when CO
+2
+conversion is higher than C
+3
+H
+8
+conversion because of the stoichiometry of the CO
+2
+-ODP. Coke can be combusted also by the lattice oxygen of CeO
+2
+, where CeO
+2
+is partially reduced to form an oxygen vacancy. This oxygen vacancy is refilled by an oxygen atom derived from CO
+2
+activation, enabling continuous coke combustion through the redox of CeO
+2
+. Thus, CeO
+2
+can facilitate coke combustion via a Mars–van Krevelen-type mechanism
+17
+, which significantly enhances the coke resistance and catalyst stability. Further information on the reaction mechanism can be obtained from the results of the DDP over Pt–Co–In/CeO
+2
+shown in Supplementary Fig.
+24
+. It is worth noting that no CO
+x
+(CO and CO
+2
+) was formed at all during the DDP, indicating that lattice oxygen of CeO
+2
+does not combust C
+x
+H
+y
+. Thus, only carbonaceous species can be combusted by surface oxygen atom or lattice oxygen of CeO
+2
+. Moreover, C
+3
+H
+8
+conversion in the DDP at 550 °C was relatively high (30%) and close to the the equilibrium conversion (43%; Supplementary Fig.
+1
+) at the beginning of the reaction. This indicates that Pt–Co–In/CeO
+2
+possesses a high catalytic activity for C–H activation even in the absence of CO
+2
+, although it was immediately deactivated due to the lack of coke combustion. These results suggest that CO
+2
+does not drastically change the kinetics of the dehydrogenation step, but mainly shifts the equilibrium limitation. Thus, C
+3
+H
+8
+dehydrogenation and CO
+2
+conversion are parallel to each other and linked by the hydrogen oxidation processes, which is highly consistent with the mechanism proposed in this study.
+Discussion
+We designed and prepared a Pt–Co–In ternary alloy on CeO
+2
+as a highly efficient catalyst for the CO
+2
+-ODP. This material comprises small nanoparticles (2–3 nm) with a (Pt
+1−
+x
+Co
+x
+)
+2
+In
+3
+pseudo-binary alloy structure, where platinum, cobalt and indium are adjacent to each other on an atomic level. Pt–Co–In/CeO
+2
+exhibits outstanding catalytic activity, C
+3
+H
+6
+selectivity, long-term stability and CO
+2
+utilization efficiency. Alloying platinum with indium and cobalt significantly enhances the selectivity and activity, respectively, while the CeO
+2
+support drastically improves the catalyst stability by Mars–van Krevelen-type coke combustion. The results obtained in this study provide not only a highly efficient catalytic system for alkane dehydrogenation and CO
+2
+reduction, but also significant insights for material design based on multimetallic alloys.
+Methods
+Catalyst preparation
+Pt/CeO
+2
+, Pt–Co/CeO
+2,
+Pt–In/CeO
+2
+, Pt–Sn/CeO
+2
+and Pt–Co–In/CeO
+2
+(Pt, 3 wt%) were prepared by a conventional impregnation method using H
+2
+PtCl
+6
+(aqueous solution, Kojima Chemicals; Pt, 8.77 wt%), In(NO
+3
+)
+3
+·3H
+2
+O, Co(NO
+3
+)
+2
+·6H
+2
+O and SnCl
+2
+as metal precursors. The CeO
+2
+support (JRC-CEO-2,
+S
+BET
+= 123.1 m
+2
+g
+−1
+, where
+S
+BET
+is the Brunauer–Emmett–Teller specific surface area) was added to a vigorously stirred aqueous solution (50 ml H
+2
+O per gram of CeO
+2
+) containing platinum and the corresponding second and/or third metal precursor(s) (Pt:Co = 1:1, Pt:In = 1:1, Pt:Sn = 1:1 and Pt:Co:In = 1:1:2), followed by stirring for 3 h at room temperature. The mixture was dried under a reduced pressure at 50 °C using a rotary evaporator, followed by calcination under flowing air at 500 °C for 1 h and reduction under flowing hydrogen (50 ml min
+−1
+) at 600 °C for 1 h. Co/CeO
+2
+and In/CeO
+2
+were prepared by a similar method, where the amounts of cobalt and indium were adjusted to be equal to those included in Pt–Co–In/CeO
+2
+. A series of Pt–Co–In catalysts supported on various oxides other than CeO
+2
+(Pt–Co–In/MO
+x
+, where MO
+x
+= Al
+2
+O
+3
+(prepared by calcination of boehmite (γ-AlOOH, supplied by SASOL Chemicals) at 900 °C for 3 h, γ phase), TiO
+2
+(P25,
+S
+BET
+= 35–65 m
+2
+g
+−1
+, anatase + rutile) or ZrO
+2
+(JRC-ZRO-6,
+S
+BET
+= 279.3 m
+2
+g
+−1
+); Pt:Co:In = 1:1:2; Pt, 3 wt%) was also prepared by the same method mentioned above. Pt–In + Co/CeO
+2
+was prepared as a control catalyst having a Pt–In alloy phase and cationic cobalt by impregnating the reduced Pt–In/CeO
+2
+with an aqueous solution of Co(NO
+3
+)
+2
+·6H
+2
+O so that the final Pt:Co:In ratio became 1:1:2. Comparing the catalytic performances of Pt–Co–In/CeO
+2
+and Pt–In/CeO
+2
++ Co makes it possible to understand whether or not cobalt should be included in the alloy phase for enhanced catalysis.
+Characterization
+The crystal structure of the prepared catalyst was examined by powder X-ray diffraction using a Rigaku MiniFlex II/AP diffractometer with Cu Kα radiation. HAADF-STEM was carried out using a JEOL JEM-ARM200 M microscope equipped with an EDX analyser (EX24221M1G5T). STEM analysis was performed at an accelerating voltage of 200 kV. To prepare the TEM specimen, all samples were sonicated in ethanol and then dispersed on a molybdenum grid supported by an ultrathin carbon film. For the particle size distribution, we counted 126 particles with ten high-resolution STEM images.
+The TPO experiment was performed using BELCAT II (MicrotracBEL) to quantify the amount of coke deposited on the spent catalysts after 20 h of CO
+2
+-ODP at 550 °C (0.1 g of the catalyst with 0.9 g quartz sand). The spent catalyst placed in a quartz tube reactor was treated under flowing helium (30 ml min
+−1
+) at 150 °C for 30 min, followed by cooling to room temperature. Then, the catalyst bed temperature was increased (40–900 °C; ramping rate, 5 °C min
+−1
+) under flowing O
+2
+/He (50%, 40 ml min
+−1
+). The amount of CO
+2
+in the outlet gas was quantified by an online mass spectrometer. CO
+2
+- and He-TPSR experiments were performed for coked catalysts in a similar fashion using flows of CO
+2
+/He (10%, 30 ml min
+−1
+) and pure helium (30 ml min
+−1
+). The dispersion of platinum and cobalt in the catalysts (percentage of exposed Pt + Co to the total amount of Pt + Co) was measured by chemisorption of CO at room temperature. Before chemisorption, the catalyst (40 mg) was treated with 5% H
+2
+/Ar (30 ml min
+−1
+) at 550 °C for 0.5 h, followed by cooling to approximately −110 °C by liquid nitrogen with an helium purge (30 ml min
+−1
+). We then introduced a pulse of 10% CO/He into the reactor and quantified the CO passed through the catalyst bed using a thermal conductivity detector. This pulse measurement was repeated until no more CO was adsorbed. The dispersion was estimated assuming a 1:1 stoichiometry of CO adsorption on platinum and/or cobalt.
+Laser Raman spectroscopy experiments were carried out using a JEOL NRS-5100 spectrometer at room temperature to investigate the carbonaceous deposits over the spent catalysts, with 2 cm
+−1
+resolution of the apparatus and a 532 nm excitation source.
+XAFS spectra of the prepared catalysts were collected at the BL01B1 beamline of SPring-8, Japan Synchrotron Radiation Research Institute (JASRI) using Si(111) (for Co K-edges and Pt L
+III
+-edges) and Si(311) (for In K-edge) double-crystals as monochromators. Before the measurement, the catalyst was pelletized (
+∼
+150 mg with a diameter of 10 mm) and pretreated with H
+2
+/N
+2
+(20%, 40 ml min
+−1
+) at 550 °C for 0.5 h in an in situ quartz cell, followed by cooling to room temperature with nitrogen purge (32 ml min
+−1
+). The XAFS spectra were recorded in transmission (In K-edge) and fluorescence (Pt L
+III
+-edge and Co K-edge, using a 19-element germanium solid-state detector) modes at room temperature. Athena and Artemis softwares v.0.9.25 implemented in the Demeter package were used for the analysis of the obtained XAFS spectra. FEFF8 was used for the calculation of the back-scattering amplitude and phase-shift functions
+41
+. We defined the
+R
+factor (
+R
+2
+) for curve-fitting as follows:
+\(R^2 = {\Sigma}_i\left\{ {k^3\chi _i^{{\mathrm{exp}}}\left( k \right) - k^3\chi _i^{\mathrm{fit}}\left( k \right)} \right\}^2/{\Sigma}_i\left\{ {k^3\chi _i^{{\mathrm{exp}}}\left( k \right)} \right\}^2\)
+.
+XPS analysis for the catalysts was carried out using a JEOL JPS-9010MC (Mg Kα irradiation) spectrometer. The catalysts were reduced in a quartz tube reactor under flowing hydrogen (0.1 MPa, 20 ml min
+–1
+) at 550 °C for 30 min, then transferred into the spectrometer using a sealed vessel and an argon glovebox without exposing the samples to air. Binding energies were calibrated with the O 1
+s
+emission of CeO
+2
+as 529.9 eV.
+Catalytic test
+The CO
+2
+-ODP was performed in a quartz fixed-bed reactor with a 6 mm internal diameter under atmospheric pressure. The catalyst (0.10 g), diluted with sea sand (0.90 g, Miyazaki Chemical, 99.9%), was treated under flowing hydrogen (10 ml min
+–1
+) at 550 °C for 0.5 h before the catalytic reactions. Then, the catalysts were evaluated by feeding the reactant gas mixture (C
+3
+H
+8
+:CO
+2
+:He = 1:1:2; total flow rate, 20 ml min
+–1
+). The gas phase was analysed and quantified using an online thermal conductivity detection gas chromatograph (Shimadzu GC-8A; Gaskuropack 54 column) fitted downstream. For all the catalysts, C
+3
+H
+6
+, C
+2
+H
+4
+, C
+2
+H
+6
+, CH
+4
+, CO, CO
+2
+, H
+2
+O and H
+2
+were detected as reaction products in outlet gas. The C
+3
+H
+8
+and CO
+2
+conversions were defined as follows:
+$${{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8\;{{{\mathrm{conversion}}}}\!:X_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}\left( {{{\mathrm{\% }}}} \right) = \frac{{F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{in}} - F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{out}}}}{{F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{in}}}} \times 100$$
+(1)
+$${{{\mathrm{CO}}}}_2\;{{{\mathrm{conversion}}}}\!:X_{{{{\mathrm{CO}}}}_2}\left( {{{\mathrm{\% }}}} \right) = \frac{{F_{{{{\mathrm{CO}}}}_2}^{\mathrm{in}} - F_{{{{\mathrm{CO}}}}_2}^{\mathrm{out}}}}{{F_{{{{\mathrm{CO}}}}_2}^{\mathrm{in}}}} \times 100$$
+(2)
+where
+\(F_x^{\mathrm{in}}\)
+and
+\(F_x^{\mathrm{out}}\)
+indicate the inlet and outlet flow rates of
+x
+(ml min
+−1
+), respectively.
+In this reaction, CO can be formed from C
+x
+H
+y
+by dry reforming as well as from CO
+2
+via reverse water-gas shift reaction, which were distinguished as follows:
+$${{{\mathrm{CO}}}}\;{{{\mathrm{formed}}}}\;{{{\mathrm{from}}}}\;{{{\mathrm{CO}}}}_2\!:F_{{{{\mathrm{CO}}}}}^{{{{\mathrm{CO}}}}_2} = F_{{{{\mathrm{CO}}}}_2}^{\mathrm{in}} - F_{{{{\mathrm{CO}}}}_2}^{\mathrm{out}}\,({{{\mathrm{ml}}}}\,{{{\mathrm{min}}}}^{ - 1})$$
+(3)
+$${{{\mathrm{CO}}}}\;{{{\mathrm{formed}}}}\;{{{\mathrm{from}}}}\;{{{\mathrm{C}}}}_x{{{\mathrm{H}}}}_y\!:F_{{{{\mathrm{CO}}}}}^{{{{\mathrm{C}}}}_x{{{\mathrm{H}}}}_y} = F_{{{{\mathrm{CO}}}}}^{\mathrm{out}} - F_{{{{\mathrm{CO}}}}}^{{{{\mathrm{CO}}}}_2}\,({{{\mathrm{ml}}}} \, {{{\mathrm{min}}}}^{ - 1})$$
+(4)
+Two different expressions of C
+3
+H
+6
+selectivity and yield were then defined to compare with those reported in the literature:
+$$\begin{array}{l}{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6\;{{{\mathrm{selectivity}}}}\;{{{\mathrm{in}}}}\;{{{\mathrm{C}}}}_x{{{\mathrm{H}}}}_y\!:S_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}^{{{{\mathrm{C}}}}_x{{{\mathrm{H}}}}_y}\left( {{{\mathrm{\% }}}} \right)\\ = \frac{{F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}^{\mathrm{out}}}}{{F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}^{\mathrm{out}} + \frac{2}{3}F_{{{{\mathrm{C}}}}_2{{{\mathrm{H}}}}_6}^{\mathrm{out}} + \frac{2}{3}F_{{{{\mathrm{C}}}}_2{{{\mathrm{H}}}}_4}^{\mathrm{out}} + \frac{1}{3}F_{{{{\mathrm{CH}}}}_4}^{\mathrm{out}}}} \times 100\end{array}$$
+(5)
+$$\begin{array}{l}{{{\mathrm{Net}}}}\;{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6\;{{{\mathrm{selectivity}}}}\!:S_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}\left( {{{\mathrm{\% }}}} \right)\\ = \frac{{F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}^{\mathrm{out}}}}{{F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}^{\mathrm{out}} + \frac{2}{3}F_{{{{\mathrm{C}}}}_2{{{\mathrm{H}}}}_6}^{\mathrm{out}} + \frac{2}{3}F_{{{{\mathrm{C}}}}_2{{{\mathrm{H}}}}_4}^{\mathrm{out}} + \frac{1}{3}F_{{{{\mathrm{CH}}}}_4}^{\mathrm{out}} + \frac{1}{3}F_{{{{\mathrm{CO}}}}}^{{{{\mathrm{C}}}}_x{{{\mathrm{H}}}}_y}}} \times 100\end{array}$$
+(6)
+$${{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6\;{{{\mathrm{yield}}}}\;{{{\mathrm{in}}}}\;{{{\mathrm{C}}}}_x{{{\mathrm{H}}}}_y\!:Y_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}^{{{{\mathrm{C}}}}_x{{{\mathrm{H}}}}_y}\left( {{{\mathrm{\% }}}} \right) = \frac{{X_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8} \times S_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}^{{{{\mathrm{C}}}}_x{{{\mathrm{H}}}}_y}}}{{100}}$$
+(7)
+$${{{\mathrm{Net}}}}\;{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6\;{{{\mathrm{yield}}}}\!:Y_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}\left( {{{\mathrm{\% }}}} \right) = \frac{{X_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8} \times S_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}}}{{100}}$$
+(8)
+H
+2
+yield was defined as follows:
+$${{{\mathrm{H}}}}_2\;{{{\mathrm{yield}}}}\!:Y_{{{{\mathrm{H}}}}_2}\left( {{{\mathrm{\% }}}} \right) = \frac{{F_{{{{\mathrm{H}}}}_2}^{\mathrm{out}}}}{{F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{in}}}} \times 100$$
+(9)
+Material balance was considered using the following scales:
+$${{{\mathrm{Carbon}}}}\;{{{\mathrm{balance}}}}\;{{{\mathrm{in}}}}\;{{{\mathrm{C}}}}_x{{{\mathrm{H}}}}_y = \frac{{F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{out}} + F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}^{\mathrm{out}} + \frac{2}{3}F_{{{{\mathrm{C}}}}_2{{{\mathrm{H}}}}_6}^{\mathrm{out}} + \frac{2}{3}F_{{{{\mathrm{C}}}}_2{{{\mathrm{H}}}}_4}^{\mathrm{out}} + \frac{1}{3}F_{{{{\mathrm{CH}}}}_4}^{\mathrm{out}}}}{{F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{in}}}} \times 100$$
+(10)
+$${{{\mathrm{Carbon}}}}\;{{{\mathrm{balance}}}}\;{{{\mathrm{in}}}}\;{{{\mathrm{CO}}}}_x = \frac{{F_{{{{\mathrm{CO}}}}_2}^{\mathrm{out}} + F_{{{{\mathrm{CO}}}}}^{\mathrm{out}}}}{{F_{{{{\mathrm{CO}}}}_2}^{\mathrm{in}}}} \times 100$$
+(11)
+$$\begin{array}{l}{{{\mathrm{Total}}}}\;{{{\mathrm{carbon}}}}\;{{{\mathrm{balance}}}}\\ = \frac{{F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{out}} + F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}^{\mathrm{out}} + \frac{2}{3}F_{{{{\mathrm{C}}}}_2{{{\mathrm{H}}}}_6}^{\mathrm{out}} + \frac{2}{3}F_{{{{\mathrm{C}}}}_2{{{\mathrm{H}}}}_4}^{\mathrm{out}} + \frac{1}{3}F_{{{{\mathrm{CH}}}}_4}^{\mathrm{out}} + F_{{{{\mathrm{CO}}}}_2}^{\mathrm{out}} + \frac{1}{3}F_{{{{\mathrm{CO}}}}}^{{{{\mathrm{C}}}}_x{{{\mathrm{H}}}}_y} + F_{{{{\mathrm{CO}}}}}^{{{{\mathrm{CO}}}}_2}}}{{F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{in}} + F_{{{{\mathrm{CO}}}}_2}^{\mathrm{in}}}} \times 100\end{array}$$
+(12)
+$${{{\mathrm{Oxygen}}}}\;{{{\mathrm{balance}}}} = \frac{{2F_{{{{\mathrm{CO}}}}_2}^{\mathrm{out}} + F_{{{{\mathrm{CO}}}}}^{\mathrm{out}} + F_{{{{\mathrm{H}}}}_2{{{\mathrm{O}}}}}^{\mathrm{out}}}}{{2F_{{{{\mathrm{CO}}}}_2}^{\mathrm{in}}}} \times 100$$
+(13)
+Deactivation constant, mean catalyst life, CO
+2
+utilization efficiency, TOF, average coke selectivity and the turnover number of coke were defined as follows:
+$$\begin{array}{l}{{{\mathrm{Deactivation}}}}\;{{{\mathrm{constant}}}}\!:k_{{{\mathrm{d}}}}\\ = \left\{ {{{{\mathrm{ln}}}}\left( {\frac{{1 - X_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{f}}}}{{X_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{f}}}}} \right) - {{{\mathrm{ln}}}}\left( {\frac{{1 - X_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{i}}}}{{X_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{i}}}}} \right)} \right\}\left( {t^{\mathrm{f}} - t^{\mathrm{i}}} \right)^{ - 1}\end{array}$$
+(14)
+$${{{\mathrm{Mean}}}}\;{{{\mathrm{catalyst}}}}\;{{{\mathrm{life}}}}\!:\tau = \frac{1}{{k_{\mathrm{d}}}}$$
+(15)
+$${{{\mathrm{CO}}}}_{2}\;{{{\mathrm{utilization}}}}\;{{{\mathrm{efficiency}}}}\,({{{\mathrm{\% }}}}) = X_{\mathrm{{CO}_{2}}}\left( {1 - \frac{{\left| {X_{{{{\mathrm{CO}}}}_{2}} - Y_{{{{\mathrm{C}}}}_{3}{{{\mathrm{H}}}}_{6}}} \right|}}{{X_{{{{\mathrm{CO}}}}_{2}} + Y_{{{{\mathrm{C}}}}_{3}{{{\mathrm{H}}}}_{6}}}}} \right)$$
+(16)
+$${{{\mathrm{TOF}}}}_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8/{{{\mathrm{CO}}}}_2}\left( {{{{\mathrm{site}}}}^{ - 1}\,{{{\mathrm{min}}}}^{ - 1}} \right) = \frac{{M_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8/{{{\mathrm{CO}}}}_2}^{{\mathrm{in}}} \times X_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8/{{{\mathrm{CO}}}}_2}^{\mathrm{i}}}}{{n_{{{{\mathrm{Pt}}}} + {{{\mathrm{Co}}}}} \times D}}$$
+(17)
+$${{{\mathrm{Average}}}}\;{{{\mathrm{coke}}}}\;{{{\mathrm{selectivity}}}}\!:S_{{{\mathrm{C}}}}\left( {{{\mathrm{\% }}}} \right) = \frac{{\frac{1}{3}n_{{{\mathrm{C}}}}^t}}{{\mathop {\smallint }\nolimits_0^t \left( {F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{in}} - F_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{out}}} \right){\mathrm{d}}t}} \times 100$$
+(18)
+$${{{\mathrm{TON}}}}_{{{{\mathrm{coke}}}}}\left( {{{{\mathrm{site}}}}^{ - 1}} \right) = \frac{{n_{{{\mathrm{C}}}}^t}}{{n_{{{{\mathrm{Pt}}}} + {{{\mathrm{Co}}}}} \times D}}$$
+(19)
+where
+\(X_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{i}}\)
+and
+\(X_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}^{\mathrm{f}}\)
+indicate the initial (
+t
+i
+= 0.5 h) and final (
+t
+f
+= 2 h)
+\(X_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8}\)
+, respectively.
+\(M_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8/{{{\mathrm{CO}}}}_2}^{\mathrm{in}}\)
+and
+\(M_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_8/{{{\mathrm{CO}}}}_2}^{\mathrm{out}}\)
+are the inlet and outlet molar flow rates (mol min
+–1
+) of C
+3
+H
+8
+or CO
+2
+, respectively.
+n
+Pt+Co
+and
+D
+correspond to the moles of active metal in the catalyst and its dispersion estimated by CO chemisorption, respectively.
+\(n_{{{\mathrm{C}}}}^t\)
+indicates moles of coke accumulated at time on stream of
+t
+(
+x
+= C). The second term in the parenthesis of equation (
+16
+) represents the degree of deviation between
+\(X_{{{{\mathrm{CO}}}}_2}\)
+and
+\(Y_{{{{\mathrm{C}}}}_3{{{\mathrm{H}}}}_6}\)
+. We also used a flame ionization detection gas chromatograph (Shimadzu GC-14B; Porapak-Q column) equipped with a methanizer (Shimadzu MTN-1) to detect oxygenated products. All the catalytic tests for kinetic analysis were performed under differential conditions by adjusting the catalyst amount, where the reactant conversion was lower than 15% (typically 5–10%).
+Computational details
+Periodic DFT calculations were performed using the CASTEP code
+42
+with Vanderbilt-type ultrasoft pseudopotentials and the revised version of the Perdew−Burke−Ernzerhof exchange−correlation functional based on the generalized gradient approximation
+43
+. The plane-wave basis set was truncated at a kinetic energy of 360 eV. A Fermi smearing of 0.1 eV was utilized. Dispersion correlations were considered using the Tkatchenko–Scheffler method with a scaling coefficient of
+s
+R
+= 0.94 and a damping parameter of
+d
+= 20 (ref.
+44
+). The reciprocal space was sampled using a
+k
+-point mesh with a spacing of typically 0.04 Å
+−1
+, as generated by the Monkhorst−Pack scheme
+45
+. Geometry optimizations and transition state (TS) searches were performed on supercell structures using periodic boundary conditions. The surfaces were modelled using metallic slabs with a thickness of four atomic layers with 13 Å of vacuum spacing. We chose Pt
+2
+In
+3
+(012) as the most stable surface; this has the highest surface atom density and diffraction intensity
+46
+,
+47
+. Pt
+2
+In
+3
+(012)–Co was constructed as a model of the surface (Pt
+1−
+x
+Co
+x
+)
+2
+In
+3
+pseudo-binary alloy by replacing one of the surface platinum atoms of Pt
+2
+In
+3
+(012). The unit cells were (2 × 2) for Pt(111), (1 × 1) for C
+3
+H
+8
+dehydrogenation and H
+2
+formation on Pt
+2
+In
+3
+(012)(–Co), and (2 × 1) for CO
+2
+reduction and H
+2
+O formation on Pt
+2
+In
+3
+(012)(–Co). Geometry optimizations were performed using the Broyden–Fletcher–Goldfarb–Shanno (BFGS) algorithm
+48
+. The unit cell size of the bulk material (Pt and Pt
+2
+In
+3
+) was first optimized, followed by modelling the slab structure and surface relaxation with the size of the supercell fixed. The convergence criteria for structure optimization and energy calculation were set to (1) an SCF tolerance of 1.0 × 10
+−6
+eV per atom, (2) an energy tolerance of 1.0 × 10
+−5
+eV per atom, (3) a maximum force tolerance of 0.05 eV Å
+−1
+and (4) a maximum displacement tolerance of 1.0 × 10
+−3
+Å.
+The adsorption energy was defined as follows:
+E
+ad
+=
+E
+A-S
+– (
+E
+S
++
+E
+A
+), where
+E
+A-S
+is the energy of the slab together with the adsorbate,
+E
+A
+is the total energy of the free adsorbate and
+E
+S
+is the total energy of the bare slab. The adsorption energy for an oxygen-preadsorbed slab was calculated using
+E
+SH
+, which is the total energy of the oxygen-adsorbed slab, instead of using
+E
+S
+. The
+d
+band centre (
+ε
+d
+) was defined as the average energy of the occupied
+d
+band relative to the Fermi level as follows:
+$$\varepsilon _{{{\mathrm{d}}}} = {\int}_{ - \infty }^0 {E\rho _{{{\mathrm{d}}}}\left( E \right){{{\mathrm{d}}}}E} /{\int}_{ - \infty }^0 {\rho _{{{\mathrm{d}}}}\left( E \right){{{\mathrm{d}}}}E}$$
+(20)
+where
+ρ
+d
+is the density of states projected to
+d
+orbitals.
+The TS search was performed using the complete linear synchronous transit/quadratic synchronous transit (LST/QST) method
+49
+,
+50
+. Linear synchronous transit maximization was performed, followed by energy minimization in the directions conjugating to the reaction pathway. The approximated TS was used to perform QST maximization with conjugate gradient minimization refinements. This cycle was repeated until a stationary point was found. The convergence criterion for the TS calculations was set to the r.m.s. forces on an atom tolerance of 0.05 eV Å
+−1
+.
+The activation energy (
+E
+A
+) was determined as the largest energy barrier among all the focused steps: for CO
+2
+conversion this was CO
+2
+activation, and for C
+3
+H
+8
+conversion this was the first or second C–H activations. We also consider theoretical apparent activation energy,
+E
+A
+*, for comparison with the experimental values. This is identical to
+E
+A
+except when the initial state for
+E
+A
+is a weakly adsorbed state, such as physisorption, where the apparent activation energy should be expressed as
+E
+A
+* =
+E
+A
++
+E
+ad
+as often considered in the literature
+42
+. In this study, the first C–H activation on Pt
+2
+In
+3
+falls into this category:
+E
+A
+* =
+E
+A
+(153.3) + E
+ad
+(−13.2) = 140.1 kJ mol
+−1
+.
+Vibrational frequencies of the adsorbates were computed by phonon calculation based on harmonic approximation using the finite displacement method in CASTEP. Fractional positions of all the metal atoms were fixed so that only carbon, hydrogen and oxygen atoms were considered for phonon calculation. The contribution of solid surface to the vibrational terms, which is typically much lower than that of adsorbates, was ignored. The threshold for energy convergence for each iteration was set to 10
+−10
+eV per atom. The entropy (
+S
+), Gibbs free energy (
+G
+) and partition function (
+q
+) of each species were estimated at 550 °C using the calculated vibrational frequencies (
+ν
+n
+) as follows
+51
+:
+$$G\left( {T,P} \right) = E_{\mathrm{e}} + E_{\mathrm{trans}} + E_{\mathrm{rot}} + E_{\mathrm{vib}} + PV - T\left( {S_{\mathrm{trans}} + S_{\mathrm{rot}} + S_{\mathrm{vib}}} \right)$$
+(21)
+where
+E
+e
+is the electronic energy
+$$E_{\mathrm{trans}} = \frac{3}{2}RT$$
+(22)
+$$E_{\mathrm{rot}} = RT$$
+(23)
+(for a linear molecule)
+$$E_{\mathrm{rot}} = \frac{3}{2}RT$$
+(24)
+(for a nonlinear molecule)
+$$E_{\mathrm{vib}} = R\mathop {\sum}\nolimits_n {\frac{{h\nu _n}}{{k_{{{\mathrm{B}}}}}}\left( {\frac{1}{2} + \frac{1}{{{\mathrm{e}}^{h\nu _n/k_{{{\mathrm{B}}}}T} - 1}}} \right)}$$
+(25)
+$$S_{\mathrm{trans}} = R\left( {\ln q_{\mathrm{trans}} + \frac{5}{2}} \right)$$
+(26)
+where
+$$q_{\mathrm{trans}} = \left( {\frac{{2\uppi mk_{{{\mathrm{B}}}}T}}{{h^2}}} \right)^{3/2}\frac{{k_{{{\mathrm{B}}}}T}}{P}$$
+(27)
+$$S_{\mathrm{rot}} = R\left( {\ln q_{\mathrm{rot}} + 1} \right)$$
+(28)
+(for a linear molecule), where
+$$q_{\mathrm{rot}} = \frac{1}{\sigma }\left( {\frac{{8\uppi ^2k_{{{\mathrm{B}}}}T}}{{h^2}}} \right) \times I$$
+(29)
+$$S_{\mathrm{rot}} = R\left( {\ln q_{\mathrm{rot}} + \frac{3}{2}} \right)$$
+(30)
+(for a nonlinear molecule), where
+$$q_{\mathrm{rot}} = \frac{{\sqrt \uppi }}{\sigma }\left( {\frac{{8\uppi ^2k_{{{\mathrm{B}}}}T}}{{h^2}}} \right)^{3/2} \times \sqrt {I_xI_yI_z}$$
+(31)
+$$S_{\mathrm{vib}} = R\mathop {\sum }\limits_n \left( {\frac{{h\nu _n/k_{{{\mathrm{B}}}}}}{{{\mathrm{e}}^{h\nu _n/k_{{{\mathrm{B}}}}T} - 1}} - \ln \left( {1 - {\mathrm{e}}^{ - h\nu _n/k_{{{\mathrm{B}}}}T}} \right)} \right)$$
+(32)
+where
+I
+is the moment of inertia,
+σ
+is the rotational symmetry number,
+h
+is the Planck constant,
+k
+B
+is the Boltzmann constant and
+m
+is the mass of the molecule. For surface species, the rotational and translational contributions were converted into vibrational modes and the
+PV
+term was approximated to be negligible compared with the energetic terms; therefore, the Gibbs free energy for surface species was considered as follows:
+\(G\left( {T,P} \right) = E_{\mathrm{e}} + E_{\mathrm{vib}} - TS_{\mathrm{vib}}\)
+. Spurious frequencies lower than 100 cm
+−1
+were replaced with 50 cm
+−1
+for all the structures to provide consistent results as reported in the literature
+52
+. The properties of the reactant (C
+3
+H
+8
+and CO
+2
+) and product (C
+3
+H
+6
+, CO and H
+2
+O) molecules in the gas phase were calculated using an ideal gas approximation at 550 °C and their translational and rotational contributions were evaluated at relative pressures (
+P
+/
+P
+0
+) of 0.24 and 0.01, respectively.
+Data availability
+Atomic coordinates of the optimized computational models are provided as Supplementary Data
+1
+with this paper. Other data that support the findings of this study can be found in the article and the
+Supplementary Information
+; this information is also available from the corresponding author upon request.
+References
+Amghizar, I., Vandewalle, L. A., Van Geem, K. M. & Marin, G. B. New trends in olefin production.
+Engineering
+3
+, 171–178 (2017).
+Article
+CAS
+Google Scholar
+Sattler, J. J. H. B., Ruiz-Martinez, J., Santillan-Jimenez, E. & Weckhuysen, B. M. Catalytic dehydrogenation of light alkanes on metals and metal oxides.
+Chem. Rev.
+114
+, 10613–10653 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Bhasin, M. M., McCain, J. H., Vora, B. V., Imai, T. & Pujadó, P. R. Dehydrogenation and oxydehydrogenation of paraffins to olefins.
+Appl. Catal. A
+221
+, 397–419 (2001).
+Article
+CAS
+Google Scholar
+Wang, S. & Zhu, Z. H. Catalytic conversion of alkanes to olefins by carbon dioxide oxidative dehydrogenation—a review.
+Energy Fuels
+18
+, 1126–1139 (2004).
+Article
+CAS
+Google Scholar
+Atanga, M. A., Rezaei, F., Jawad, A., Fitch, M. & Rownaghi, A. A. Oxidative dehydrogenation of propane to propylene with carbon dioxide.
+Appl. Catal. B
+220
+, 429–445 (2018).
+Article
+CAS
+Google Scholar
+Ansari, M. B. & Park, S. E. Carbon dioxide utilization as a soft oxidant and promoter in catalysis.
+Energy Environ. Sci.
+5
+, 9419–9437 (2012).
+Article
+CAS
+Google Scholar
+Gomez, E. et al. Combining CO
+2
+reduction with propane oxidative dehydrogenation over bimetallic catalysts.
+Nat. Commun.
+9
+, 1398 (2018).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Ruthwik, N., Kavya, D., Shadab, A., Lingaiah, N. & Sumana, C. Thermodynamic analysis of chemical looping combustion integrated oxidative dehydrogenation of propane to propylene with CO
+2
+.
+Chem. Eng. Process.
+153
+, 107959 (2020).
+Article
+CAS
+Google Scholar
+Farnaz, T. Z., Abbas, T., Khodayer, G. & Saeed, S. Thermodynamic equilibrium analysis of propane dehydrogenation with carbon dioxide and side reactions.
+Chem. Eng. Commun.
+203
+, 557–565 (2016).
+Article
+Google Scholar
+Osaki, T. & Mori, T. Kinetics of the reverse-Boudouard reaction over supported nickel catalysts.
+React. Kinet. Catal. Lett.
+89
+, 333–339 (2006).
+Article
+CAS
+Google Scholar
+Jacobson, M. Z. Review of solutions to global warming, air pollution, and energy security.
+Energy Environ. Sci.
+2
+, 148–173 (2009).
+Article
+CAS
+Google Scholar
+Tollefson, J. World’s carbon emissions set to spike by 2% in 2017.
+Nature
+551
+, 283–283 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Shishido, T., Shimamura, K., Teramura, K. & Tanaka, T. Role of CO
+2
+in dehydrogenation of propane over Cr-based catalysts.
+Catal. Today
+185
+, 151–156 (2012).
+Article
+CAS
+Google Scholar
+Botavina, M. A. et al. Towards efficient catalysts for the oxidative dehydrogenation of propane in the presence of CO
+2
+: Cr/SiO
+2
+systems prepared by direct hydrothermal synthesis.
+Catal. Sci. Technol.
+6
+, 840–850 (2016).
+Article
+CAS
+Google Scholar
+Xu, B., Zheng, B., Hua, W., Yue, Y. & Gao, Z. Support effect in dehydrogenation of propane in the presence of CO
+2
+over supported gallium oxide catalysts.
+J. Catal.
+239
+, 470–477 (2006).
+Article
+CAS
+Google Scholar
+Chen, M. et al. Study in support effect of In
+2
+O
+3
+/MO
+x
+(M = Al, Si, Zr) catalysts for dehydrogenation of propane in the presence of CO
+2
+.
+Appl. Catal. A
+407
+, 20–28 (2011).
+Article
+CAS
+Google Scholar
+Nowicka, E. et al. Elucidating the role of CO
+2
+in the soft oxidative dehydrogenation of propane over ceria-based catalysts.
+ACS Catal.
+8
+, 3454–3468 (2018).
+Article
+CAS
+Google Scholar
+Baek, J., Yun, H. J., Yun, D., Choi, Y. & Yi, J. Preparation of highly dispersed chromium oxide catalysts supported on mesoporous silica for the oxidative dehydrogenation of propane using CO
+2
+: insight into the nature of catalytically active chromium sites.
+ACS Catal.
+2
+, 1893–1903 (2012).
+Article
+CAS
+Google Scholar
+Wang, H. M., Chen, Y., Yan, X., Lang, W. Z. & Guo, Y. J. Cr doped mesoporous silica spheres for propane dehydrogenation in the presence of CO
+2
+: effect of Cr adding time in sol–gel process.
+Microporous Mesoporous Mater.
+284
+, 69–77 (2019).
+Article
+CAS
+Google Scholar
+Jeon, J., Kon, K., Toyao, T., Shimizu, K. & Furukawa, S. Design of Pd-based pseudo-binary alloy catalysts for highly active and selective NO reduction.
+Chem. Sci.
+10
+, 4148–4162 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Nakaya, Y., Miyazaki, M., Yamazoe, S., Shimizu, K. & Furukawa, S. Active, Selective, and durable catalyst for alkane dehydrogenation based on a well-designed trimetallic alloy.
+ACS Catal.
+10
+, 5163–5172 (2020).
+Article
+CAS
+Google Scholar
+Nakaya, Y., Hirayama, J., Yamazoe, S., Shimizu, K. & Furukawa, S. Single-atom Pt in intermetallics as an ultrastable and selective catalyst for propane dehydrogenation.
+Nat. Commun.
+11
+, 2838 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Sun, G. et al. Breaking the scaling relationship via thermally stable Pt/Cu single atom alloys for catalytic dehydrogenation.
+Nat. Commun.
+9
+, 4454 (2018).
+Ryoo, R. et al. Rare-earth–platinum alloy nanoparticles in mesoporous zeolite for catalysis.
+Nature
+585
+, 221–224 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, B. & Greeley, J. Decomposition pathways of glycerol via C–H, O–H, and C–C bond scission on Pt(111): a density functional theory study.
+J. Phys. Chem. C
+115
+, 19702–19709 (2011).
+Article
+CAS
+Google Scholar
+Álvarez, A. et al. CO
+2
+activation over catalytic surfaces.
+ChemPhysChem
+18
+, 3135–3141 (2017).
+Article
+PubMed
+Google Scholar
+Studt, F. et al. Discovery of a Ni–Ga catalyst for carbon dioxide reduction to methanol.
+Nat. Chem.
+6
+, 320–324 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Furukawa, S. & Komatsu, T. Intermetallic compounds: promising inorganic materials for well-structured and electronically modified reaction environments for efficient catalysis.
+ACS Catal.
+7
+, 735–765 (2017).
+Article
+CAS
+Google Scholar
+Pakhare, D. & Spivey, J. A review of dry (CO
+2
+) reforming of methane over noble metal catalysts.
+Chem. Soc. Rev.
+43
+, 7813–7837 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Kopač, D., Likozar, B. & Huš, M. How size matters: electronic, cooperative, and geometric effect in perovskite-supported copper catalysts for CO
+2
+reduction.
+ACS Catal.
+10
+, 4092–4102 (2020).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Zhang, W. et al. Size dependence of Pt catalysts for propane dehydrogenation: from atomically dispersed to nanoparticles.
+ACS Catal.
+10
+, 12932–12942 (2020).
+Article
+CAS
+Google Scholar
+Zhu, J. et al. Size-dependent reaction mechanism and kinetics for propane dehydrogenation over Pt catalysts.
+ACS Catal.
+5
+, 6310–6319 (2015).
+Article
+CAS
+Google Scholar
+Lin, C. F., Mohney, S. E. & Chang, Y. A. Phase equilibria in the Pt–In–P system.
+J. Appl. Phys.
+74
+, 4398–4402 (1993).
+Barbosa, R. L. et al. Methanol steam reforming over indium-promoted Pt/Al
+2
+O
+3
+catalyst: nature of the active surface.
+J. Phys. Chem. C
+117
+, 6143–6150 (2013).
+Article
+CAS
+Google Scholar
+Nguyen, T. D., Zheng, W., Celik, F. E. & Tsilomelekis, G. T. CO
+2
+-assisted ethane oxidative dehydrogenation over MoO
+x
+catalysts supported on reducible CeO
+2
+–TiO
+2
+.
+Catal. Sci. Technol.
+11
+, 5791–5801 (2021).
+Melaet, G. et al. Evidence of highly active cobalt oxide catalyst for the Fischer–Tropsch synthesis and CO
+2
+hydrogenation.
+J. Am. Chem. Soc.
+136
+, 2260–2263 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, L., Liu, H., Chen, Y. & Yang, S. Reverse water–gas shift reaction over co-precipitated Co–CeO
+2
+catalysts: effect of Co content on selectivity and carbon formation.
+Int. J. Hydrog. Energy
+42
+, 3682–3689 (2017).
+Article
+CAS
+Google Scholar
+Wang, Y., Furukawa, S. & Yan, N. Identification of an active NiCu catalyst for nitrile synthesis from alcohol.
+ACS Catal.
+9
+, 6681–6691 (2019).
+Article
+Google Scholar
+Hammer, B. & Norskov, J. K. Why gold is the noblest of all the metals.
+Nature
+376
+, 238–240 (1995).
+Article
+CAS
+Google Scholar
+LiBretto, N. J., Yang, C., Ren, Y., Zhang, G. & Miller, J. T. Identification of surface structures in Pt
+3
+Cr intermetallic nanocatalysts.
+Chem. Mater.
+31
+, 1597–1609 (2019).
+Article
+CAS
+Google Scholar
+Ankudinov, A. & Ravel, B. Real-space multiple-scattering calculation and interpretation of X-ray-absorption near-edge structure.
+Phys. Rev. B
+58
+, 7565–7576 (1998).
+Article
+CAS
+Google Scholar
+Segall, M. D. et al. First-principles simulation: ideas, illustrations and the CASTEP code.
+J. Phys. Condens. Matter
+14
+, 2717–2744 (2002).
+Article
+CAS
+Google Scholar
+Hammer, B., Hansen, L. B. & Nørskov, J. K. Improved adsorption energetics within density-functional theory using revised Perdew–Burke–Ernzerhof functionals.
+Phys. Rev. B
+59
+, 7413–7421 (1999).
+Article
+Google Scholar
+Tkatchenko, A. & Scheffler, M. Accurate molecular van der Waals interactions from ground-state electron density and free-atom reference data.
+Phys. Rev. Lett.
+102
+, 6–9 (2009).
+Article
+Google Scholar
+Hu, K. et al. Boosting electrochemical water splitting: via ternary NiMoCo hybrid nanowire arrays.
+J. Mater. Chem. A
+7
+, 2156–2164 (2019).
+Article
+CAS
+Google Scholar
+Jana, R. & Peter, S. C. One-pot solvothermal synthesis of ordered intermetallic Pt
+2
+In
+3
+as stable and efficient electrocatalyst towards direct alcohol fuel cell application.
+J. Solid State Chem.
+242
+, 133–139 (2016).
+Article
+CAS
+Google Scholar
+Ye, J., Liu, C. & Ge, Q. A DFT study of methanol dehydrogenation on the PdIn(110) surface.
+Phys. Chem. Chem. Phys.
+14
+, 16660–16667 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Fischer, T. H. & Almlöf, J. General methods for geometry and wave function optimization.
+J. Phys. Chem.
+96
+, 9768–9774 (1992).
+Article
+CAS
+Google Scholar
+Govind, N., Petersen, M., Fitzgerald, G., King-Smith, D. & Andzelm, J. A generalized synchronous transit method for transition state location.
+Comput. Mater. Sci.
+28
+, 250–258 (2003).
+Article
+CAS
+Google Scholar
+Halgren, T. A. & Lipscomb, W. N. The synchronous-transit method for determining reaction pathways and locating molecular transition states.
+Chem. Phys. Lett.
+49
+, 225–232 (1977).
+Article
+CAS
+Google Scholar
+Wang, J. et al. A highly selective and stable ZnO–ZrO
+2
+solid solution catalyst for CO
+2
+hydrogenation to methanol.
+Sci. Adv.
+3
+, 1–11 (2017).
+Article
+Google Scholar
+Schoonheydt, R. A. & Weckhuysen, B. M. Physisorption and chemisorption of alkanes and alkenes in H-FAU: a combined ab initio–statistical thermodynamics study.
+Phys. Chem. Chem. Phys.
+11
+, 2794–2798 (2009).
+Article
+CAS
+PubMed
+Google Scholar
+Download references
+Acknowledgements
+This work was supported by JSPS KAKENHI (grant numbers 17H01341 to K.S., 17H04965 to S.F. and 20H02517 to S.F.), MEXT project Element Strategy Initiative (JPMXP0112101003 to K.S.), JST CREST (JPMJCR17J3 to K.S.), JST PRESTO (JPMJPR19T7 to S.F.) and the Collaborative Research Projects of Laboratory for Materials and Structures, Institute of Innovative Research, Tokyo Institute of Technology to S.F. The XAFS analysis was performed with the approval of JASRI (number 2019B1620 and 2019B1469 to S.F.). We thank the technical staff of the Research Institute for Electronic Science, Y. Nakasaka and K.W. Ting, Hokkaido University for help with HAADF-STEM, Raman and XPS analyses, respectively. Computation time was provided by the supercomputer systems in the Institute for Chemical Research, Kyoto University.
+Author information
+Authors and Affiliations
+Institute for Catalysis, Hokkaido University, Sapporo, Japan
+Feilong Xing, Yuki Nakaya, Shunsaku Yasumura, Ken-ichi Shimizu & Shinya Furukawa
+Elements Strategy Initiative for Catalysts and Batteries, Kyoto University, Kyoto, Japan
+Ken-ichi Shimizu & Shinya Furukawa
+Japan Science and Technology Agency, PRESTO, Tokyo, Japan
+Shinya Furukawa
+Authors
+Feilong Xing
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yuki Nakaya
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shunsaku Yasumura
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ken-ichi Shimizu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shinya Furukawa
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+S.F. and F.X. designed the research and co-wrote the manuscript in discussion. F.X. performed all the experimetal work. Y.N. contributed to the XAFS and XPS studies. S.F. conducted all the computational and kinetic studies. S.Y. contributed to the free-energy calculation. S.F., F.X., Y.N., S.Y. and K.S. discussed the data and commented on the manuscript.
+Corresponding author
+Correspondence to
+Shinya Furukawa
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks Feng-Shou Xiao and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–39, Tables 1–9 and Note 1.
+Supplementary Data 1
+Atomic coordinates of optimized computational models.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Xing, F., Nakaya, Y., Yasumura, S.
+et al.
+Ternary platinum–cobalt–indium nanoalloy on ceria as a highly efficient catalyst for the oxidative dehydrogenation of propane using CO
+2
+.
+Nat Catal
+5
+, 55–65 (2022). https://doi.org/10.1038/s41929-021-00730-x
+Download citation
+Received
+:
+05 December 2020
+Accepted
+:
+01 December 2021
+Published
+:
+27 January 2022
+Issue Date
+:
+January 2022
+DOI
+:
+https://doi.org/10.1038/s41929-021-00730-x
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

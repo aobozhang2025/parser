@@ -1,0 +1,2251 @@
+Switching of metal–oxygen hybridization for selective CO2 electrohydrogenation under mild temperature and pressure | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Switching of metal–oxygen hybridization for selective CO
+2
+electrohydrogenation under mild temperature and pressure
+Download PDF
+Article
+Published:
+08 April 2021
+Switching of metal–oxygen hybridization for selective CO
+2
+electrohydrogenation under mild temperature and pressure
+Meng Li
+ORCID:
+orcid.org/0000-0002-0336-9271
+1
+na1
+,
+Bin Hua
+ORCID:
+orcid.org/0000-0001-8329-5825
+1
+na1
+,
+Lu-Cun Wang
+ORCID:
+orcid.org/0000-0002-4930-8618
+1
+,
+Joshua D. Sugar
+2
+,
+Wei Wu
+ORCID:
+orcid.org/0000-0003-2067-7361
+1
+,
+Yong Ding
+3
+,
+Ju Li
+ORCID:
+orcid.org/0000-0002-7841-8058
+4
+&
+…
+Dong Ding
+ORCID:
+orcid.org/0000-0002-6921-4504
+1
+Show authors
+Nature Catalysis
+volume
+4
+,
+pages
+274–283 (
+2021
+)
+Cite this article
+9310
+Accesses
+14
+Altmetric
+Metrics
+details
+Subjects
+Chemical engineering
+Electrocatalysis
+Energy
+Heterogeneous catalysis
+A
+Publisher Correction
+to this article was published on 30 April 2021
+This article has been
+updated
+Abstract
+Artificial carbon fixation contributes to closing the anthropogenic carbon cycle. However, large-scale conversion of CO
+2
+into selective products remains a challenge. Coupled thermal–electrochemical catalysis could offer an attractive approach to upgrading CO
+2
+into value-added products if selective electrocatalysts and integrated devices were developed. Here we identify a mechanistic route to selectively producing either CO or CH
+4
+with high selectivity (>95%) using Ir–ceria-based catalysts in an intermediate-temperature (400 °C) CO
+2
+electrolyser that operates at low overpotential and ambient pressure. We show that tuning of the Ir–O hybridization by controlling the Ir speciation can alter the catalyst surface chemical environment, enabling the stabilization of specific transition states for the production of either CO or CH
+4
+during electrocatalysis. By achieving CO
+2
+electrohydrogenation in tandem with light-alkane electrodehydrogenation, we further demonstrate that such an advanced electrolyser could be extended to the upgrade of different carbon resources in one-step, significantly enhancing the techno-economic feasibilty of the process.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Oxygen induced promotion of electrochemical reduction of CO
+2
+via co-electrolysis
+Article
+Open access
+31 July 2020
+Efficient multicarbon formation in acidic CO
+2
+reduction via tandem electrocatalysis
+Article
+23 November 2023
+Cationic-group-functionalized electrocatalysts enable stable acidic CO
+2
+electrolysis
+Article
+21 August 2023
+Main
+Due to an escalating rate of fossil fuel combustion, the emission of CO
+2
+has reached unprecedented levels and continues to increase, causing significant concern about global climate change
+1
+,
+2
+,
+3
+. Chemical synthesis from the recycling of CO
+2
+with the assistance of H
+2
+is a promising approach to reducing atmospheric CO
+2
+levels and dependence on fossil fuels
+4
+,
+5
+,
+6
+. Despite tremendous efforts to develop the thermochemical conversion of CO
+2
+into C1 products (for example, CO and CH
+4
+), it has not yet been possible to exert an influence on excess CO
+2
+emission due to energy-intensive, inefficient operation
+7
+,
+8
+,
+9
+. Recent decades have witnessed remarkable progress on upgrading of CO
+2
+into valuable chemicals using electrocatalytic approaches powered by renewable energy
+10
+,
+11
+,
+12
+. The electrochemical process decouples the total reaction into two separate steps, followed by ionic recombination. This process can take place under ambient conditions for on-site CO
+2
+conversion and can potentially use various hydrogen sources (for example, diluted H
+2
+, water and hydrocarbons) through membranes that typically conduct protons
+13
+,
+14
+,
+15
+. Room temperature aqueous CO
+2
+electrolysers based on water-based electrolytes can maintain selectivity towards certain products over a broad range of conditions
+16
+,
+17
+,
+18
+, but the productivity is often restricted by the limited solubility and diffusion length of CO
+2
+molecules
+19
+,
+20
+,
+21
+. By contrast, an intermediate temperature (300~500 °C) protonic ceramic electrolyser (PCE) based on a solid electrolyte provides a way to achieve high-performance CO
+2
+reduction, because CO
+2
+gas molecules can diffuse directly to the active surface of the catalyst without collision or reaction with the surrounding environment. More importantly, PCE can potentially combine the thermal–electrochemical process for CO
+2
+reduction using high-energy carrier proton sources (for example, CH
+4
+and C
+2
+H
+6
+) and renewable heat at ambient pressure
+22
+,
+23
+,
+24
+.
+To date, there has been no report on selective electrohydrogenation (EH) of CO
+2
+in intermediate-temperature PCEs. The success of this will rely on rational catalyst design and integration, which facilitate CO
+2
+adsorption and selective hydrogenation-to-X via proton-coupled electron transfer steps, while constraining the competing hydrogen evolution reaction process. Supported metallic catalysts are the key functional component in various heterogeneous catalysis applications, including CO
+2
+hydrogenation
+25
+,
+26
+,
+27
+,
+28
+,
+29
+. Their physicochemical properties play an important role in determining their catalytic behaviour, but the precise control of the electronic and surface structure of the metals during the synthesis process is challenging. Enormous efforts have been devoted to the design and tailoring of their catalytic behaviour by changing the shape, composition and size of the metallic nanoparticles (NPs)
+25
+,
+30
+. Recently, single-atom (SA) catalysts, in which the metal atoms are isolated on the surface of the supports and are stabilized by the strong metal–support interaction, have received much attention
+30
+,
+31
+,
+32
+,
+33
+. Despite the progress, only a limited amount of recent research has addressed the selectivity of the supported metallic catalysts by tuning their surface chemical environments, which significantly impact their bonding features. The strong hybridization between the oxygen 2
+p
+orbitals and the metal
+d
+orbitals takes place because of their spatial overlap and energetically similar electronic states, leading to
+σ
+-bonding states with largely O characteristics and
+σ
+*-antibonding states with largely metal characteristics
+34
+,
+35
+. Such a phenomenon would have a direct effect on the electronic structures of the transition metal ions that are usually considered as the key functional component in catalysis.
+Here, by starting with ab initio calculations, we investigate a series of Sm
+2
+O
+3
+-doped-CeO
+2
+(SDC) supported Ir (SDC/Ir) catalysts with different size speciations. We find a mechanistic route to selective EH of CO
+2
+into CO or CH
+4
+through control of the Ir cluster size in order to tune the hybridization between Ir and O. We then demonstrate a complexing agent tailoring approach for creating SDC/Ir catalysts with controllable Ir cluster size and give the proof-of-concept results showing that metallic Ir is beneficial for CH
+4
+generation while ionic Ir is beneficial for CO production. Finally, we fabricate PCE devices with successful integration of SDC/Ir catalysts, achieving optimal outputs (controllable selectivity and reaction rate). Thus, we demonstrate the promise of these electrolysers for on-site CO
+2
+reduction as well as enhancing the techno-economic feasibility of the process.
+Results
+Evolution of electronic structure
+We start with model calculations to assist the rational design of metal–oxygen hybridization for selective catalysis, with a focus on the influence of metal cluster size on the hybridization between metal and oxygen orbitals. The strong hybridization between the O
+p
+orbitals and the Ir
+d
+orbitals has a significant effect on the electronic structure of the catalyst (Supplementary Fig.
+1
+and Supplementary Note
+1
+). Different from large metal particles on a support whose shape can be predicted from the Wulff–Kaichew construction
+36
+,
+37
+, the interactions between a metal NP, a metal nanocluster (NC), or a metal SA and a metal oxide support lack established theories for structure predictions. The system of small clusters on the support neglects the extra formation energy for edge and corner atoms, making small clusters wet the support more than large ones
+38
+, which could result in stronger interactions between the support and small clusters.
+We adopted density functional theory (DFT) calculations to investigate the interface of SDC and small Ir clusters
+39
+. SDC is a typical electrolyte material for an elevated-temperature electrolyser and is a better support material compared with the parent CeO
+2
+(Supplementary Fig.
+2
+). The SDC (110) and (111) terminated surfaces were chosen as the computational models as they are stable and experimentally available (Supplementary Fig.
+3
+and Supplementary Table
+1
+). Depending on the surface energy of SDC and the bond strength between Ir and O, the geometrical configuration of the SDC/Ir interface and the interfacial charge transfer change with the alteration of Ir size. This results in a transformation in the electronic structure and catalytic behaviour. The globally stable Ir
+n
+(
+n
+= 1, 5, 6, 11, and 15) clusters were explored (Supplementary Figs.
+4
+and
+5
+). The structural evolution and stability of small Ir clusters were investigated using an artificial bee colony algorithm and DFT. Accordingly, the most stable geometric arrangements of Ir
+n
+cluster were obtained (Supplementary Data
+1
+). The kinetic stability of SDC/Ir
+n
+configurations (Supplementary Figs.
+6
+and
+7
+) was then confirmed using ab inito molecular dynamics (AIMD) simulations at 400 °C (Supplementary Figs.
+8
+and
+9
+). There is bond stretching and atomic vibration at equilibrium. No Ir cluster decomposition or SDC/Ir interface reconstruction was observed on the AIMD timescale. These results suggest that the models used in the following calculations are valid.
+The charge redistribution along the interface of the SDC and Ir
+n
+cluster was studied and Bader analysis
+40
+,
+41
+,
+42
+,
+43
+was then used to examine electron changes on each Ir atom. The simulated structures show that the degree of partial wetting decreases with the increment of Ir size ((110)/Ir
+n
+(Fig.
+1a–e
+) and (111)/Ir
+n
+(Fig.
+1f–j
+)). Furthermore, the difference maps of the electron cloud distribution give a direct representation of electron accumulation (yellow) and depletion (cyan) on Ir and O atoms on introducing Ir
+n
+onto the SDC surface. As Ir
+n
+gets larger on both (110) and (111) surfaces, the total number of electrons transferring from Ir
+n
+to SDC changes a little, while the average electron loss on each Ir atom decreases remarkably (Supplementary Fig.
+10
+). The charge arrangement is seen to mainly result from the electron depletion of Ir atoms close to the SDC surface (see more details from Bader analysis in Supplementary Figs.
+11
+and
+12
+). To further understand the electronic properties at the SDC/Ir
+n
+interface, we employed the plane-averaged charge density difference along the
+z
+direction (Fig.
+1k
+and Supplementary Figs.
+13
+and
+14
+). Negative values correspond to depletion of electrons and positive values represent accumulation of electrons. One can clearly see that the charge transferring from Ir
+n
+to SDC is remarkably dependent on the size and spatial location of the Ir cluster. As Ir
+n
+size increases, the charge redistribution expands in the
+z
+direction. It is worth noting that interface depletions take place in all systems but the depletion regions vary from each other, indicating the rehybridization of the Ir 5
+d
+and O 2
+p
+orbitals is universal and diverse. Most importantly, such rehybridization is strongly associated with Ir size and can be predicted by DFT, offering us an opportunity for further functionalization of the supported metal catalyst.
+Fig. 1: Electronic interpretation of the interfaces of SDC and Ir
+n
+clusters.
+a–j
+, Charge density difference between the SDC surfaces and Ir
+n
+clusters (
+n
+= 1, 5, 6, 11 and 15): (110)/Ir
+n
+interfaces (
+a–e
+) and (111)/Ir
+n
+interfaces (
+f–j
+). Yellow and cyan isosurfaces show the accumulation and depletion of electron densities at the isovalue of 0.006
+e
+Bohr
+–3
+.
+k
+, An illustration of electron redistribution at the SDC/Ir interface.
+l
+, Schematic band diagrams of SDC/Ir
+n
+.
+m
+, Schematic projected density of states of Ir 5
+d
+from Ir
+1
+and Ir
+15
+clusters on SDC support, Ir metal (111) and IrO
+2
+(100) surfaces.
+Full size image
+In an attempt to gain a better understanding of this effect, we then performed projected density of states (PDOS) calculations to detail the evolution of electronic orbitals (Fig.
+1l,m
+and Supplementary Figs.
+15
+–
+18
+). This shows that
+p
+–
+d
+interaction between O 2
+p
+and Ir 5
+d
+orbitals pushes the band centre of O 2
+p
+(
+E
+O2p
+) to lower energies with increasing
+n
+(Fig.
+1l
+and Supplementary Table
+2
+). This might lead to a significant impact on the charge-transfer steps during catalysis as the highest occupied molecular orbitals are usually dominated by the O 2
+p
+orbitals. In many cases, the catalytic activity can be rationalized in line with the O 2
+p
+band centre relative to the Fermi level (
+E
+F
+) . A proportional relationship between the value of
+E
+O2
+p
+–
+E
+F
+and the catalytic activity towards oxygen-containing species has been reported, indicating that a low value of
+E
+O2p
+–
+E
+F
+is beneficial for CO generation
+44
+. As for Ir 5
+d
+orbitals, we calculated the PDOS of Ir atoms on Ir (111) and IrO
+2
+(100) surfaces for reference (Fig.
+1m
+and Supplementary Fig.
+19
+). Notably, the band centre energy of a single Ir atom on the SDC surface is quite close to that in the IrO
+2
+lattice (Supplementary Table
+3
+), indicating an ionic feature in SA Ir. On the other hand, the band centre of Ir
+15
+has been uplifted and gets closer to that in metal Ir, indicating a metallic feature in the larger Ir cluster. The PDOS results show that the electronic properties of the Ir cluster evolve from ionic to metallic character with increasing numbers of atoms and we can take full advantage of this to tune the catalytic behaviour.
+Mapping the reaction landscape
+To directly unveil how the charge redistribution on
+d
+states can impact the catalytic selectivity, finally we investigated both the catalytic and electrocatalytic properties of SDC/Ir
+n
+in the conversion of CO
+2
+into CO or CH
+4
+. The elementary reactions and Gibbs free energy calculation method involved, including zero-point energy and entropy corrections, can be found in the
+Supplementary Method
+and Supplementary Tables
+4
+and
+5
+. Possible reaction pathways and optimized surface structures with associated intermediates, depicted in Supplementary Figs.
+20
+and
+21
+, were obtained after evaluating competitive reactions and different adsorption sites (Supplementary Fig.
+22
+). *CO is a critical intermediate because the CO desorption energy determines the product. The bond strength between CO and Ir
+n
+increases with increasing numbers of atoms, making the CO desorption energy surpass the energy requirement for hydrogenation and hydrodeoxygenation of *CO. The applied bias potential could greatly facilitate charge associated reactions, while the induced electric field has a negligible effect on the binding strength of surface intermediates (Supplementary Fig.
+23
+). The potential-dependent free energies are summarized in Fig.
+2
+and Supplementary Figs.
+24
+and
+25
+. The reaction steps associated with charge transfer are greatly enhanced with reduced reaction barriers under a bias potential of –0.5 V. Using the (110)/Ir
+1
+surface as an example, the CO desorption energy (0.61 eV) is lower than the energy for *HCOH hydrogenation (0.72 eV), which results in the formation of CO instead of CH
+4
+on small Ir clusters. On the other hand, higher energy is required for the *CO desorption process with increasing Ir cluster size. When the catalyst is switched from (110)/Ir
+1
+to (110)/Ir
+11
+, the CO desorption energy (2.76 eV) is twice as big as the maximum free energy (1.46 eV) for *CO hydrogenation and hydrodeoxygenation reactions, so CH
+4
+is the major product of the CO
+2
+hydrogenation reaction. A similar free-energy profile is observed on the (111)/Ir
+11
+catalyst, which means that it also prefers to produce CH
+4
+in the CO
+2
+hydrogenation reaction. Although the same trends are present in the thermal catalysis (without external potentials) of CO
+2
+hydrogenation over SDC/Ir
+n
+catalysts (Supplementary Figs.
+26
+and
+27
+), the microkinetic analysis (Supplementary Fig.
+28
+) shows that external potentials could greatly facilitate CO
+2
+hydrogenation reactions in both CO and CH
+4
+formation pathways. The turnover frequency of (110)/Ir
+11
+for CH
+4
+formation is lower than that of (110)/Ir
+1
+for CO formation, which is in agreement with the higher energy requirement of CH
+4
+formation compared with CO formation. Therefore, we conclude that small size Ir (more Ir–O bonding characteristic) has the most favourable kinetics towards CO formation, while large size Ir (more Ir–Ir bonding characteristic) tends to trigger CH
+4
+formation under the operating conditions of the intermediate-temperature PCEs.
+Fig. 2: DFT calculations of the CO
+2
+conversion reactions.
+a–c
+, Gibbs free energies of elementary reactions on (110)/Ir
+1
+(
+a
+), (110)/Ir
+11
+(
+b
+) and (111)/Ir
+11
+(
+c
+), with applied bias potential at −0.5 V. Optimized structural configurations of the associated elementary steps are shown. The Gibbs free energies of rate-determining steps in the CO
+2
+and CH
+4
+production pathways are also shown.
+Source data
+Full size image
+Synthesis and characterization of SDC/Ir catalysts
+In the light of these findings, experiments were designed to introduce large cluster Ir (NP Ir) and small cluster Ir (atomic Ir, a mixture of SA Ir and NC Ir) on SDC surfaces to modulate the local configurations of Ir–Ir and Ir–O bonding characteristics, respectively, for selective CO
+2
+EH in PCEs. We used a facile one-pot sol–gel procedure that would enable metal precursors to be hydrolysed at a controlled rate, leading to atomic homogeneity (Fig.
+3a
+). We first dissolved the metal nitrates as well as a suitable amount of citric acid and ethylene glycol in water. These compounds were controllably hydrolysed to obtain a desired homogeneous gel. We anticipated this process could result in the spatial distribution of the Ir ions in a desired homogeneous manner. Followed by calcination in air, Ir atoms were incorporated into the SDC lattice at the atomic level, forming an ordered solid solution (SDCIr_SG). On reduction in H
+2
+, Ir cations were exsolved as NCs and as stabilized SAs on the SDC surface to produce the SDCIr–O catalyst that features largely Ir–O bonding character with remarkable Ir–O hybridization. On the other hand, because the hydrolysis rate of Ir
+4+
+is much lower than those of Sm
+3+
+and Ce
+3+
+, we used low concentrations of complexing agent to decrease the dispersity of Ir atoms. This resulted in a disordered solid solution (SDCIr), a strategy that we designed to synthesize the SDCIr–Ir catalyst that features Ir–Ir bonding character with a low level of Ir–O hybridization. We then performed a series of measurements to see if the obtained SDC/Ir catalysts would demonstrate similar properties to those predicted by the theoretical calculations.
+Fig. 3: Composition, crystal and electronic structure identification.
+a
+, Schematic illustration of the complexing agent tailoring approach for producing SDC/Ir catalysts with controllable Ir cluster size.
+b
+, XRD patterns and Rietveld refinements of SDC powder and precursors for SDC/Ir catalysts (SDCIr_SG and SDCIr are the precursors for SDCIr–O and SDCIr–Ir, respectively).
+c
+,
+d
+, HRSTEM–HAADF and STEM–EDX measurements for SDCIr–Ir (
+c
+) and SDCIr–O (
+d
+) catalysts. Scale bars, 5 nm. The Ir SAs, NCs and NPs are circled.
+e
+,
+f
+, HAADF line profiles of the rectangular areas marked in the HRSTEM–HAADF images of SDCIr–Ir (
+e
+) and SDCIr–O (
+f
+).
+g
+, XPS spectra of SDCIr–Ir and SDCIr–O, showing the Ir 4
+f
+structures.
+h
+, EELS spectra of SDCIr–Ir and SDCIr–O, showing the Ce M
+4,5
+edges.
+i
+, In situ CO DRIFTS of SDCIr–Ir and SDCIr–O and SDC samples.
+Source data
+Full size image
+X-ray diffraction (XRD) patterns and Rietveld refinements (Fig.
+3b
+) show that the diffraction peaks of SDCIr and SDCIr_SG are in good agreement with those of SDC and no peaks related to IrO
+2
+are detected, which confirms that the Ir atoms are inserted into the SDC lattice after annealing in air. On reduction, SDC fluorite structures are maintained in both catalysts, but Ir atoms are extracted from the host lattice (Supplementary Fig.
+29a
+). As a result of the exsolution of Ir, the diffraction peaks of SDCIr–Ir and SDCIr–O shift towards lower angles in comparison with those of SDCIr and SDCIr_SG, indicating an increase of the lattice parameters (Supplementary Table
+6
+). Although the exsolved Ir species are not directly identifiable by XRD due to their low concentration and extremely small size, the presence of Ir could be demonstrated by H
+2
+temperature-programmed reduction (H
+2
+-TPR) (Supplementary Fig.
+30
+). The reduction peaks at ~300 °C can be assigned to the exsolution of Ir from the fluorite SDC. To gain more insights, we used high-resolution scanning transmission electron microscopy (HRSTEM) to directly observe the features of SDCIr–O and SDCIr–Ir catalysts. The spatial positions and dimensions of Ir were determined by high-angle annular dark-field (HAADF) imaging and energy-dispersive X-ray spectroscopy (EDX) elemental mapping under HRSTEM mode. As shown in Fig.
+3c
+, Supplementary Figs.
+31a
+and
+32
+, Ir mainly exists as highly dispersed 1–2 nm diameter NPs (profile in Fig.
+3e
+) in the SDCIr–Ir catalyst. By contrast, HRSTEM–HAADF images and profiles of the SDCIr–O catalyst (Fig.
+3d,f
+and Supplementary Fig.
+31b
+) clearly show that it comprises Ir SAs and a trace amount of Ir NCs on SDC; no Ir NPs were found at lower magnifications. Furthermore, elemental mappings do not show any obvious spatial non-uniformities of the Ir distribution in the SDCIr–O catalyst. We suspect that the Ir species are mobile during the acquisition and do not stay in one place. This would explain why the Ir signal appears uniformly distributed (Fig.
+3d,f
+and Supplementary Fig.
+33
+). These results indicate the successful synthesis of Ir catalysts changing from atomic size to nanoparticle size. These are similar to the models predicted by the theoretical calculations.
+We then investigated the electronic structures of the catalysts by characterization with X-ray photoelectron spectroscopy (XPS) and electron energy loss spectroscopy (EELS) measurements to verify the projection of electronic structure from the theoretical calculations. XPS profiles show the existence of both ionic Ir and metallic Ir in SDCIr–Ir, but only ionic Ir is present in SDCIr–O (Fig.
+3g
+and Supplementary Fig.
+34
+). As we discussed in the theoretical studies, Ir SA and small Ir NCs would have remarkable interfacial charge-transfer effects with the SDC support, forming ionic Ir species. By contrast, Ir NPs can partially retain the metallic character that will further be enhanced with the increase in size. The electron energy loss near edge structures also gives support to this conclusion (Fig.
+3h
+and Supplementary Figs.
+35
+–
+37
+). We have shown from EELS that the valence of Ce (Ce
+3+
+/Ce
+4+
+= 0.3447) in SDCIr–O appears as a negative shift compared to that in SDCIr–Ir (Ce
+3+
+/Ce
+4+
+= 0.18646) (Supplementary Table
+7
+), as the SDC support in the SDCIr–O catalyst will accommodate more electrons from Ir due to the stronger interfacial charge-transfer effect. This is consistent with the DFT results of the charge redistribution that small Ir clusters lose more electrons than big ones. Therefore, more ionic Ir is present in the SDCIr–O catalyst compared with the SDCIr–Ir catalyst. Finally, we performed in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) to further investigate the Ir atomic arrangement using CO as a probe. According to the plots illustrated in Fig.
+3i
+, we confirm the presence of Ir NPs in SDCIr–Ir as there is a broad peak at ~1,870 cm
+−1
+associated with the bridged CO adsorption between neighbouring Ir atoms
+45
+. The Ir SA structures that yield characteristic peaks (linear adsorption of CO) between ~2,070 and ~2,080 cm
+−1
+can be easily seen. The peaks at ~1,990 cm
+−1
+can be assigned to the mixed peak of linear CO, bridged CO and hollow CO (ref.
+46
+). Evidence from these three complementary spectroscopic techniques strongly supports our expectation that Ir–O, with remarkable Ir–O hybridization, is the major arrangement in SDCIr–O, while Ir–Ir with a low level of Ir–O hybridization is the major arrangment in SDCIr–Ir.
+Electrocatalytic study for selective CO
+2
+hydrogenation
+The rational design of Ir–O hybridization for selective CO
+2
+hydrogenation is evidenced by the outstanding electrocatalytic performance. We compared the selectivity and activity of SDC/Ir catalysts by incorporating them into anode-supported PCEs (insets in Fig.
+4a
+and Supplementary Fig.
+38a
+), which consist of a Ni + BaZr
+0.1
+Ce
+0.7
+Y
+0.1
+Yb
+0.1
+O
+3–
+δ
+(Ni–BZCYYb) anode, a PrBaMn
+2
+O
+5+
+δ
++ BaZr
+0.7
+Y
+0.3
+O
+3–
+δ
+(PBM–BZY) cathode (Supplementary Fig.
+29b
+) and a modified BZCYYb electrolyte (Supplementary Fig.
+39
+). The electronic and oxygen-ionic conductive PBM was mixed with BZY to ensure the proton–oxygen–electron triple conductivity in our cathode scaffold
+47
+. SDC/Ir catalysts were introduced into the cathode by infiltration and annealing to ensure their high uniformity on the PBM–BZY scaffold. Specifically, the SDCIr–Ir infiltrated cathode is denoted as PBM–BZY/Ir–Ir and the SDCIr–O infiltrated cathode is denoted as PBM–BZY/Ir–O. To simplify the chemistry responsible for CO
+2
+EH, H
+2
+rather than more complex hydrogen sources (for example, CH
+4
+, C
+2
+H
+6
+and water) was used. During the electrolysis measurements, Ni–BZCYYb captures the protons from H
+2
+(H
+2
+− 2e
+−
+= 2H
++
+), while CO
+2
+is electrolysed and hydrogenated in the PBM–BZY/X cathode (CO
+2
++ 2e
+−
++ 2H
++
+= CO + H
+2
+O or CO
+2
++ 8e
+−
++ 8H
++
+= CH
+4
++ 2H
+2
+O, X represents the SDC/Ir catalyst). As the electrolysers share identical components except for infiltrated SDC/Ir catalysts, it is reasonable to attribute the difference in catalytic performance to the SDC/Ir catalysts. Thus, the catalytic behaviour of SDCIr–O and SDCIr–Ir is compared using these PCEs.
+Fig. 4: Electrocatalytic selectivity for CO
+2
+hydrogenation.
+a
+, Polarization curves obtained from the chronoamperometric measurements in 5% CO
+2
+at 400 °C. The inset is a cross-sectional scanning electron microscopy image of Ni–BZCYYb|BZCYYb|PBM–BZY/X. Scale bar, 20 μm.
+b
+, CO partial Faradaic efficiency (FE; histogram) and CO production rate (PR; markers) of PBM–BZY, PBM–BZY/Ir–Ir and PBM–BZY/Ir–O in 5% CO
+2
+at 400 °C.
+c
+, CH
+4
+partial Faradaic efficiency (histogram) and CH
+4
+production rate (markers) of PBM–BZY, PBM–BZY/Ir–Ir and PBM–BZY/I–O in 5% CO
+2
+at 400 °C.
+d
+, CH
+4
+and CO partial Faradaic efficiency of PBM–BZY, PBM–BZY/Ir–Ir and PBM–BZY/Ir–O in pure CO
+2
+at 400 °C (
+E
+bias
+= 0.5 V).
+e,f
+, Operando DRIFTS for SDCIr–O (
+e
+) and SDCIr–Ir (
+f
+) in H
+2
+/CO
+2
+(3:1) at 400 °C.
+g,h
+, Long-term stability tests of PBM–BZY/Ir–Ir (
+g
+) and PBM–BZY/Ir–O (
+h
+) in 5% CO
+2
+at 400 °C (
+E
+bias
+= 0.5 V).
+Source data
+Full size image
+Chronoamperometric measurements were conducted to acquire the polarization curves of each electrolyser towards CO
+2
+EH reaction (Supplementary Fig.
+40
+). During the electrochemical tests, flowing H
+2
+(10 ml min
+–1
+) and 5% CO
+2
+(50 ml min
+−1
+) were fed to the anode and cathode, respectively. Figure
+4a–c
+summarizes the bias potential–current density (
+E
+bias
+–
+J
+) profiles as well as the selectivity towards CO and CH
+4
+in three electrolysers at 400 °C (more results can be found in Supplementary Fig.
+41
+). Compared with PBM–BZY, the PCEs with the addition of SDC/Ir catalysts respond more aggressively towards the decomposition of hydrogen (Supplementary Figs.
+41
+and
+42
+). Unmodified PBM–BZY has a current density limited to less than 230 mA cm
+−2
+. By contrast, PBM–BZY/Ir–Ir and PBM–BZY/Ir–O deliver considerably larger current densities which peak more than 400 mA cm
+−2
+at the equal bias potential (Fig.
+4a
+), with very low (<2%) partial Faraday Faradaic efficiency (FE) for hydrogen production (Supplementary Fig.
+41c
+). Despite the remarkable difference in the metal–oxygen hybridization, both SDCIr–Ir and SDCIr–O catalysts can greatly enhance the partial FE for CO
+2
+EH, showing great promise for facilitating CO
+2
+conversion while suppressing the hydrogen evolution reaction.
+To assess whether tuning the metal–oxygen hybridization can help produce a single C1 product, we then used gas chromatography–mass spectrometry (GC–MS, Fig.
+4b,c
+and Supplementary Fig.
+41a,b
+) to study CO
+2
+reduction to different products. First, we investigated the PBM–BZY electrocatalyst for CO
+2
+EH and we found a CO
+2
+-to-CO partial FE of 56.32% and a CO
+2
+-to-CH
+4
+partial FE of 36.28% at 400 °C with an
+E
+bias
+of 0.5 V (Supplementary Fig.
+43
+). We also confirmed that increasing temperature benefits CO production and increasing the bias potential enhances CH
+4
+production. These trends are maintained across different samples, which is reasonable from the viewpoint of thermodynamics and chemical equilibrium. However, these operation conditions cannot significantly change the product selectivity; on the contrary, they bring down the partial FE for C1 products significantly (Supplementary Fig.
+43b
+). As for the PBM–BZY/Ir–Ir electrocatalyst, it exhibits notable increments of CO
+2
+-to-CH
+4
+partial FE (96.28% at 0.5 V) and CO
+2
+-to-CH
+4
+partial current density (130.94 mA cm
+−2
+at 0.5 V), as well as a very weak activity towards CO (partial FE for CO formation is less than 2.5% at 0.5 V) (Fig.
+4b,c
+and Supplementary Fig.
+41a
+). More importantly, these observations are the opposite for PBM–BZY/Ir–O and remarkable activity for CO
+2
+-to-CO conversion is attained (Fig.
+4b,c
+and Supplementary Fig.
+41b
+). For example, at 400 °C with an
+E
+bias
+of 0.5 V, the CO
+2
+-to-CO partial FE for PBM–BZY/Ir–O is 98.21% in 5% CO
+2
+(Fig.
+4b
+) and such high selectivity towards CO (FE = 98.76%) can be maintained in pure CO
+2
+(Fig.
+4d
+). Over a broad range of operation conditions (that is, temperature, bias potential and concentration of feed gas (Fig.
+4b,d
+)), SDCIr–Ir and SDCIr–O catalysts in the PCEs can maintain their high selectivity towards certain products, that is, CH
+4
+and CO, showing the promising universal applicability of the catalyst design strategy. Moreover, when integrated into the advanced PCE, such selective catalysts can significantly facilitate CO
+2
+conversion, boosting the CH
+4
+/CO production rate up to 100-fold higher than conventional thermal catalysis (Supplementary Fig.
+44
+).
+We carried out operando DRIFTS measurements under reaction conditions (CO
+2
+/H
+2
+, 400 °C and 1 bar, Fig.
+4e,f
+) to show the mechanism underlying potential interplay between surface chemical environments and proton-coupled electron transfer. DRIFTS spectra of SDCIr–Ir and SDCIr–O show several adsorbed surface intermediates: (1) CO
+3
+2−
+(1,500–1,600 cm
+−1
+), (2) HCOO
+−
+(~1,365 cm
+−1
+), (3) *OCO (1,400–1,450 cm
+−1
+), (4) *CO (2,000–2,100 cm
+−1
+) and (5) *CH (~2,850 and ~2,950 cm
+−1
+)
+48
+. Obviously, different distributions of adsorbed intermediate species are present on the surface of SDCIr–Ir and SDCIr–O, supporting our electrochemical results that the different bonding characters between Ir and O have different functions in the chemical conversion of CO
+2
+. Strong peaks (between 2,000 and 2,100 cm
+−1
+) related to CO species were seen on the surface of SDCIr–O, while no significant peaks representing CO species were seen in the SDCIr–Ir catalyst. The reaction free energy landscapes show *CO is a critical intermediate for CO production. Therefore, the strong *CO peaks indicate that SDCIr–O is more conducive to selective reduction of CO
+2
+into CO. On the other hand, the formation of the HCOO
+−
+intermediate, which is associated with the formation of hydrocarbons, is shown by peaks at ~1,365 cm
+−1
+. As such, the operando DRIFTS spectrum of SDCIr–Ir was extended to higher wavelength ranges to further highlight the formation of CH
+4
+-related species on the surface of SDCIr–Ir. Notably, absorbance peaks at ~2,850 and ~2,950cm
+−1
+confirm the existence of C–H bonds with the assistance of abundant Ir–Ir bonds. Therefore, the selective catalysis process, by tuning of the metal–oxygen hybridization, is directly observed. These results are in good agreement with theoretical predictions. The stabilization of specific transition states and controls of the transport of species to and from active sites can determine the selectivity of CO
+2
+products.
+Encouraged by the excellent electrochemical activity and selectivity, we continued to test the robustness of PBM–BZY/Ir–Ir and PBM–BZY/Ir–O in PCEs for selective CO
+2
+EH. The chronoamperometric technique was adopted to continuously measure the current responses. In addition, the compositions of the cathode effluents were analysed by GC–MS. The production rates and FEs were calculated accordingly. Figure
+4g,h
+shows the long-term performance of two PCEs under constant bias potentials of 0.5 V. The current densities were stabilized in the ranges 136–137 and 130–131 mA cm
+−2
+, respectively for PBM–BZY/Ir–Ir and PBM–BZY/Ir–O, showing negligible degradations during the ~100 h stability tests (the layered structure of the PCE was retained as shown in Supplementary Fig.
+45
+). More importantly, the CH
+4
+and CO selectivities were stabilized in the ranges 92–96% and 95–98%, respectively for PBM–BZY/Ir–Ir and PBM–BZY/Ir–O, implying that the SDC/Ir catalysts were fully capable of accomplishing selective CO
+2
+EH for a long time. Hence, tuning of the Ir–O hybridization also enables the conversion of CO
+2
+in a durable way. This is not an easy task in either aqueous electrolyser due to materials degradation, or thermochemical conversion due to carbon deposition on the metal catalysts. This indicates the formed metal–oxygen hybridization is stable—a key parameter for an effective catalyst.
+Electrohydrogenation in tandem with electrodehydrogenation
+We continued to demonstrate the universal applicability of our selective catalyst design strategy by introducing a highly efficient electrochemical process that couples CO
+2
+hydrogenation and alkane-to-alkene dehydrogenation (Fig.
+5a
+). This is a one-step green process that converts CO
+2
+in tandem with alkene production without using intensive energy input and complex procedures. The products from both electrodes can be used as fuel or as feedstock for various chemical syntheses. We carried out the thermodynamic calculation of the CO
+2
+EH in tandem with C
+2
+H
+6
+electrodehydrogenation (EDH) to determine the level of difficulty of the tandem electrochemical process, allowing the temperature to vary while assuming ambient pressure (Fig.
+5d
+and Supplementary Fig.
+46
+). During the calculation, we only considered the one-step processes (CO
+2
++ C
+2
+H
+6
+= CO + H
+2
+O + C
+2
+H
+4
+and CO
+2
++ 4C
+2
+H
+6
+= CH
+4
++ 2H
+2
+O + 4C
+2
+H
+4
+). Our thermodynamics calculation assumes that C
+2
+H
+6
+dehydrogenation can proceed at the same temperature that CO
+2
+hydrogenation occurs with reasonable electrical energy input. At 400 °C and 1 bar, the bias potentials are only ~0.223 V for coproduction of CO and C
+2
+H
+4
+and ~0.348 V for coproduction of CH
+4
+and C
+2
+H
+4
+, respectively. While direct utilization of H
+2
+as the proton source can greatly reduce the energy input and even produce a little electricity (Supplementary Fig.
+46
+), industrial H
+2
+production is an energy-intensive process and produces a lot of greenhouse gas emissions, so using the high energy carrier proton source is important both scientific research and industrial production. Moreover, the required energies calculated for the above reactions are even lower than those needed for water splitting and CO
+2
+splitting (both of them are above ~1 V at 400 °C and 1 bar). This suggests the potentials of obtaining valuable products from different carbon resources in one-step in PCEs.
+Fig. 5: CO
+2
+electrohydrogenation in tandem with C
+2
+H
+6
+electrodehydrogenation.
+a
+, Schematic illustration of CO
+2
+electrohydrogenation in tandem with C
+2
+H
+6
+electrodehydrogenation.
+b
+,
+c
+, CH
+4
+partial current density and partial Faradaic efficiency, production rate and short-term stability test at voltages varying from 0.2 to 1.0 V for PBM–BZY/Ir–Ir.
+d
+, Thermodynamic calculations of reversible voltages for the proposed process.
+e
+,
+f
+, CO partial current density and partial Faradaic efficiency, production rate and short-term stability test at voltages varying from 0.2 to 1.0 V for PBM–BZY/Ir–O.
+Source data
+Full size image
+Finally, we performed an electrocatalysis survey by using the PBM–BZY/Ir–Ir and PBM–BZY/Ir–O electrocatalysts to prove that our catalyst design strategy can be practically used in such a complex process. To avoid the carbon deposition of Ni-based electrodes in C
+2
+H
+6
+, we produced an alternative PBM–BaZr
+0.4
+Ce
+0.4
+Y
+0.1
+Yb
+0.1
+O
+3–
+δ
+(BZ
+4
+CYY)/Pt electrode, where the hybridization between Pt and O was switched to the metallic Pt using a complexing agent tailoring method in order to facilitate the C
+2
+H
+6
+EDH (Supplementary Fig.
+38b
+). Figure
+5b,c,e,f
+and Supplementary Fig.
+47
+show the results of these tandem electrochemical processes, aiming at the synthesis of CO/C
+2
+H
+4
+or CH
+4
+/C
+2
+H
+4
+. By applying electrical currents to the PCEs, CO
+2
+-to-CO FEs in PBM–BZY/Ir–O and CO
+2
+-to-CH
+4
+FEs in PBM–BZY/Ir–Ir can be maintained between 90–100% over a broad range of potential window (0.2–1.0 V) in the co-electrolysis mode (Fig.
+5b,e
+). While the electrolyte in this type of PCE is about fifteen times thicker than that in the previous section, the total current densities measured in the tandem electrochemical tests are greater than one-tenth of those in the previous tests, suggesting good electrochemical performance can be achieved in such a complex electrochemical process. More excitingly, the high catalytic activity and characteristic high selectivity towards CO and CH
+4
+observed in the initial tests can be maintained during the prolonged tests with
+E
+bias
+varying from 0.2 to 1.0 V (Fig.
+5c,f
+). The production rates for certain products and the responding total current densities do not change much during the 3 h short-term stability tests at the given bias potentials, so the PCE devices are quite stable for the chemical coproduction. The success of co-electrolysis has further confirmed that our concept can be generalized for the design of diverse catalytic and electrocatalytic reactions.
+Conclusions
+We have identified that, by tuning of the hybridization between Ir and O, aspects like the transport of species to and from the catalytically active sites and the stabilization of specific transitions states (for example, *+CO, *COH and *HCO) can be effectively controlled to optimize the catalytic selectivity. According to the theoretical discussion, we have developed a complexing agent tailoring method to synthesize the catalysts and have proved that ionic Ir species have the most favourable kinetics towards CO formation, while metallic Ir species tend to trigger the CH
+4
+formation. These findings not only highlight the importance of precise control of the chemical enviroments of the surfaces of the materials and rational integration to tailoring the performance in catalysis and electrocatalysis processes. They also deliver promising PCE devices, enabling on-site CO
+2
+reduction and enhancing the techno-economic feasibility of the process. The combination of well-established theoretical calculations with electrochemical techniques and materials characterization shown here can be modified into more universal approaches to the rational synthesis of materials for a broad range of applications.
+Methods
+Density functional theory calculations
+DFT was used to model the electronic structures of SDC/Ir
+n
+systems and their roles in determining the catalytic activity towards CO
+2
+transformation. All plane-wave based DFT calculations were performed using the Vienna Ab initio Simulation Package (VASP 5.4.4)
+49
+,
+50
+,
+51
+. Projector augmented wave
+52
+,
+53
+pseudopotentials and the Perdew–Burke–Ernzerhof functional of the generalized gradient approximation
+54
+were used to treat the electron exchange–correlation energies. Plane wave expansion with a kinetic energy cutoff of 550 eV was used. The Hubbard
+U
+approach was adopted to describe the localized distributions of 4
+f
+electronic structures in Ce. We chose an effective Coulomb parameter (
+U
+eff
+) value of 5 eV for Ce 4
+f
+states in this work
+55
+,
+56
+. The 4
+f
+electrons in Sm were treated as part of the core and hence no empirical
+U
+eff
+parameter for Sm was required. The SDC lattice structure with space group F
+m
+3
+m
+was constructed and its lattice parameters were optimized with a Gamma-centred
+k
+-point grid of 7 × 7 × 7. A (2 × 2) SDC slab with (110) termination was built based on the optimized lattice for studying the elementary steps of CO
+2
+conversion. The SDC (110) slab contained six atom layers and a 15 Å thick vacuum layer perpendicular to the surface, which was used to avoid the electronic interaction of periodic images. The atoms in the two bottom layers were fixed to imitate the bulk arrangements, while the atoms in the other four layers were fully relaxed until reaching the calculation criteria. A (2 × 2) SDC (111) slab was established and relaxed in an identical way. An Ir single atom and clusters with 5, 6, 11 and 15 atoms were created to investigate the influence of cluster size. The structural evolution and stability of small Ir clusters were investigated. The atomic coordinates of the most stable Ir clusters are provided in Supplementary Data
+1
+. (110)/Ir
+n
+and (111)/Ir
+n
+slabs were then constructed for further investigation of interface properties and CO
+2
+reactions (see the atomic coordinates of the optimized computational models in Supplementary Data
+2
+). The structural dynamics of these slabs were investigated using AIMD simulations. The initial and final configurations of the trajectories are provided in Supplementary Data
+3
+. Their surface structures with the adsorption of different adsorbates were fully relaxed and the corresponding free energies were obtained by performing self-consistent field calculations on the optimized structures. The transition states were determined using the climbing-image nudged elastic band method. The vibrational analysis was carried out for zero-point energy and entropy corrections by calculating a Hessian matrix with a finite difference approach with a step size of 0.02 Å. The Brillouin zone of all slabs was sampled with a 3 × 3 × 1 Gamma-centred
+k
+-point grid for geometry optimization and self-consistent field calculations and a 5 × 5 × 1 Gamma-centred
+k
+-point grid for the PDOS calculations. All DFT calculations were performed in a spin-polarized fashion. Dipole corrections were used to avoid the artificial electrostatic field in all slab computations
+57
+,
+58
+. We ensured electronic self-consistency up to a tolerance of <1 × 10
+−5
+eV and the Hellmann–Feynman forces on free atoms during ionic relaxation were optimized to be <0.02 eV Å
+–1
+.
+Chemicals
+We purchased Ba(NO
+3
+)
+2
+, Ce(NO
+3
+)
+3
+·6H
+2
+O, citric acid, ethylene glycol, Mn(NO
+3
+)
+2
+·4H
+2
+O, (NH
+3
+)
+4
+Pt(NO
+3
+)
+2
+, (NH
+4
+)
+2
+IrCl
+6
+, Pr(NO
+3
+)
+3
+·6H
+2
+O and Sm(NO
+3
+)
+3
+·6H
+2
+O for the synthesis of materials. NiO, BaZr
+0.1
+Ce
+0.7
+Y
+0.1
+Yb
+0.1
+O
+3–
+δ
+and BaZr
+0.4
+Ce
+0.4
+Y
+0.1
+Yb
+0.1
+O
+3–
+δ
+powder were bought for electrolyser preparation. Glass sealant, silver paste, silver meshes and wires were used in electrochemical measurements. All chemicals were used directly as purchased. The detailed information for these chemicals, including the manufacturers and purities, is listed in Supplementary Table
+8
+.
+Synthesis of materials
+Sol–gel, modified sol–gel and impregnation methods were used in this work for powder synthesis. SDC powder was synthesized using a typical sol–gel process. Samarium nitrate hexahydrate (Sm(NO
+3
+)
+3
+·6H
+2
+O) and cerium nitrate hexahydrate (Ce(NO
+3
+)
+3
+·6H
+2
+O) in a molar ratio of 1:3 were dissolved in distilled water. Then citric acid and ethylene glycol were added to the above solution forming a sol, which acted as a precursor for the following. The molar ratio of metallic ions/citric acid/ethylene glycol was 1:2:2. The sol was heated at 90 °C under stirring to gradually remove water from the system. It was noticed that the liquid system evolved towards the formation of a gel-like diphasic system containing both a solvent phase and continuous polymer networks. The remaining solvent was removed in a drying process at 300 °C, followed by thermal treatment in air at 600 °C for 5 h forming a pure SDC phase. SDCIr_SG was prepared by following the same procedure. The only difference was that ammonium hexachloroiridate ((NH
+4
+)
+2
+IrCl
+6
+) was added to the initial solution. The spatial distribution of the Ir ions in a desired homogeneous manner was achieved in the polymer networks, resulting in homogeneous distribution in the SDC lattice after reduction.
+The dispersity of Ir atoms greatly depends on the concentrations of complexing agents. Therefore, the distribution of Ir atoms could be easily altered by modifying the sol–gel process. When we decreased the ratio of the concentrations of citric acid and ethylene glycol until the molar ratio of metallic ions:citric acid:ethylene glycol reached 1:0.1:0.1, a disordered solid solution, denoted as SDCIr, was obtained after the final calcination. On reduction in H
+2
+at 400 °C for 0.5 h, SDC fluorite structures were maintained in both SDCIr_SG and SDCIr catalysts, but Ir atoms were extracted from the host lattices, forming SDCIr–O and SDCIr–Ir respectively. An alternative method used to synthesize SDC and the Ir compound was wet impregnation. A solution containing (NH
+4
+)
+2
+IrCl
+6
+was impregnated into the SDC powder to achieve the desired amount of Ir. After drying in an oven at 90 °C, the powder was calcined in air at 600 °C for 5 h. The obtained compound is denoted as impregnated SDC/Ir in this work. In all SDC and Ir compounds, the weight ratios of Ir were kept at 1%. All the labels associated with SDC/Ir catalysts are listed in Supplementary Table
+9
+.
+Double perovskite PrBaMn
+2
+O
+5+
+δ
+(PBM) as an electrode component was synthesized using the typical sol–gel process described above. Praseodymium nitrate hexahydrate (Pr(NO
+3
+)
+3
+·6H
+2
+O), barium nitrate (Ba(NO
+3
+)
+2
+), manganese nitrate tetrahydrate (Mn(NO
+3
+)
+2
+·4H
+2
+O), citric acid and ethylene glycol were used as raw materials. After thermal treatment in air at 950 °C for 5 h, a single perovskite Pr
+0.5
+Ba
+0.5
+MnO
+3−
+δ
+formed. During reduction in H
+2
+at 600 °C for 5 h, the single perovskite evolved into double perovskite PBM.
+Electrolyser preparation for CO
+2
+conversion
+Electrolysers with the structural configuration Ni–BZCYYb|BZCYYb|PBM–BZY/X, where X represents SDCIr–O or SDCIr–Ir catalyst, were fabricated for exploring the catalytic behaviours of SDCIr–O and SDCIr–Ir for CO
+2
+electrohydrogenation. BZCYYb, PBM and BZY represent BaZr
+0.1
+Ce
+0.7
+Y
+0.1
+Yb
+0.1
+O
+3−
+δ
+, PrBaMn
+2
+O
+5+
+δ
+and BaZr
+0.7
+Y
+0.3
+O
+3−
+δ
+, respectively. Each electrolyser is an anode-supported structure with a thick Ni–BZCYYb layer prepared by tape casting. The anode-supported layer was laminated with a thin BZCYYb electrolyte layer, followed by co-sintering at 1,450 °C for 5 h to densify the BZCYYb electrolyte. To improve the chemical stability of the electrolyte in CO
+2
+, a heat treatment was performed on the anode/electrolyte bilayer at 1,300 °C for 4 h with a BZY pellet on the surface of the BZCYYb electrolyte. Elemental compositions on the surface were changed due to elemental diffusion at high temperatures, as shown in the secondary ion mass spectrometry (SIMS, IONTOF 5–300 Time-of-Flight SIMS system) results (Supplementary Fig.
+39
+). After the treatment, a PBM–BZY (weight ratio of 6:4) cathode scaffold was fabricated on the modified electrolyte by slurry painting and sintering in air at 950 °C for 5 h. Then the precursor solution of SDCIr_SG and SDCIr was infiltrated into the cathode, forming nanoparticles after heat treatment at 600 °C for 5 h. The SDCIr_SG and SDCIr nanoparticles in the cathode were reduced in situ into SDCIr–O and SDCIr–Ir catalysts, respectively, prior to the electrochemical measurements.
+To study the tandem catalytic approach for ethane dehydrogenation and CO
+2
+hydrogenation, electrolysers with the configuration of PBM–BZC
+4
+YYb/Pt|BZC
+4
+YYb|PBM–BZY/X were fabricated. These cells were supported by the BZC
+4
+YYb (BaZr
+0.4
+Ce
+0.4
+Y
+0.1
+Yb
+0.1
+O
+3–
+δ
+) electrolyte layer prepared by tape casting and high-temperature sintering (1,450 °C for 5 h). The above-described procedure for fabricating the PBM–BZY/X cathode was adopted here to prepare both electrodes.
+Electrochemical measurements
+For the electrochemical performance evaluation, the silver paste was painted on both electrodes of the prepared cells. Silver meshes and wires were attached to the silver paste, working as the current collectors and measuring leads, respectively. A Ceramabond (552) glass sealant was used to seal the cells onto a small alumina tube. The cathode side was in the chamber of the small alumina tube and the anode side was exposed to the chamber of a larger coaxial alumina tube. Prior to electrochemical measurements, both electrodes experienced a reduction process under H
+2
+flow (10 ml min
+–1
+) at 400 °C for 0.5 h.
+For investigating electrochemical performance on the Ni–BZCYYb|BZCYYb|PBM–BZY/X electrolysers, the gas fed to the cathode side was switched to CO
+2
+/Ar mixture (the molar ratio was 5:95, 50 ml min
+–1
+) or pure CO
+2
+after reduction. The anode was fed with H
+2
+at a flow rate of 10 ml min
+–1
+. After achieving a steady state, current density–voltage (
+J
+–
+E
+) curves, electrochemical impedance spectra, chronoamperometric measurements and potentiostatic current densities were obtained at 400 °C using Solartron 1400 and Solartron 1470 electrochemical working stations. The performance stability was measured at a bias voltage of 0.5 V and by simultaneously monitoring the currents. The cathode effluent was examined simultaneously by using an online GC–MS system (7890A-5975C, Agilent) featuring dual channel analysis. Channel 1 utilized multiple packed column (8’ × 1/8” HSD, 4’ × 1/8” molecular sieve 5A and 4’ × 1/8” HSN) separation and a helium thermal conductivity detector for the analysis of permanent gases (Ar, CH
+4
+, CO and CO
+2
+) and channel 2 utilized capillary column separation (CP7381, 25 m × 0.32 mm × 7 μm PoraBond U) and mass selective detector detection for the analysis of moisture.
+The explorations of the tandem catalytic approach for ethane dehydrogenation and CO
+2
+conversion were carried out on PBM–BZC
+4
+YYb/Pt|BZC
+4
+YYb|PBM–BZY/X electrolysers. After reduction in H
+2
+, C
+2
+H
+6
+/N
+2
+(the molar ratio was 10:90, 20 ml min
+–1
+) and CO
+2
+/Ar (the molar ratio was 5:95, 50 ml min
+–1
+) were fed to the anode and cathode, respectively.
+J
+–
+E
+curves, chronoamperometric measurements and potentiostatic current densities were measured at 400 °C. GC–MS analyses for the products on the cathode side were conducted simultaneously.
+Catalytic performance measurement
+The catalytic performance of CO
+2
+hydrogenation was evaluated using a fixed-bed tubular reactor at 400 °C and 1 bar. The inactive quartz wool was packed into a quartz tube and 100 mg SDCIr–Ir or SDCIr–O catalyst was loaded onto the quartz wool matrix. Prior to the tests, the catalyst was pre-treated in H
+2
+flow at 400 °C for 0.5 h. A flowing dry H
+2
+/CO
+2
+(volume ratio of 1:1) gas mixture with a flow rate of 20 ml min
+–1
+was fed into the reactor for the CO
+2
+hydrogenation test. The effluent was examined simultaneously using a GC–MS system (7890A-5975C, Agilent).
+H
+2
+-TPR
+H
+2
+-TPR tests of SDCIr_SG, SDCIr, impregnated SDC/Ir and SDC were conducted in a fixed-bed reactor connected to an online mass spectrometer (GSD 320 O1, OmniStar Gas analysis system, Pffeifer Vacuum Inc.). Prior to performing each H
+2
+-TPR test, 100 mg sample was placed in the reactor and pre-treated under flowing Ar (50 ml min
+–1
+) at 300 °C for 0.5 h to desorb any surface species. Then the sample was cooled down to room temperature, followed by the introduction of 3% H
+2
+/N
+2
+to reach a steady state. The reactor was heated to 400 °C with a ramping rate of 10° min
+–1
+and the effluent was monitored using a mass spectrometer in real-time.
+In situ CO probe molecule and operando DRIFTS
+In situ CO probe and operando DRIFTS measurements for SDCIr–O and SDCIr–Ir were carried out on a Nicolet iS50 Fourier transform infrared spectrometer (Thermo Fisher Scientific) with a mercury cadmium telluride detector cooled by liquid nitrogen. In a typical in situ CO probe molecule measurement, the Harrick high-temperature reaction chamber was loaded with a base of SiO
+2
+sand and then the powdered sample of SDCIr or SDCIr_SG was packed on top. SDCIr or SDCIr_SG were initially reduced under the flow of H
+2
+at 400 °C for 0.5 h, forming SDCIr–Ir or SDCIr–O. Then the sample was cooled to room temperature under the flow of He to desorb any remaining H
+2
+on the surface. After a steady background was achieved, the sample was exposed to 5% CO/He for 0.5 h for CO adsorption on the surface of the sample. After saturation, the gas was switched back to He to remove the physisorbed CO from the surface. The in situ spectrum with CO chemisorption was collected. As for the operando DRIFTS tests, the reactor temperature was maintained at 400 °C after the sample reduction process. H
+2
+was replaced by He to achieve a steady state. Then the sample was exposed to H
+2
+/CO
+2
+(3:1) mixture for 1 h with time-resolved spectra being recorded.
+Other characterizations
+XRD patterns were recorded on a Rigaku SmartLab X-ray diffractometer with Cu Kα radiation at a scan rate of 4° min
+–1
+. XPS was performed on an Axis Ultra DLD XPS spectrometer (Kratos). The Ce 3
+d
+, Ir 4
+f
+and O 2
+p
+spectra were collected from SDCIr–O and SDCIr–Ir to identify their electronic environments. All the spectra were referenced to the C1
+s
+binding energy of 284.6 eV and fitted using Gaussian–Lorentzian peak shapes and Shirley baselines. Scanning electron microscopy images were obtained using a JEOL JSM6610LV scanning electron microscope with a 10 kV accelerating voltage and a tungsten source. Scanning transmission electron microscopy, STEM–EDX and STEM–EELS were performed using a Tecnai G2 F30 S-TWIN transmission electron microscope equipped with an X-FEG gun at a 300 kV accelerating voltage, an FEI Titan G2 80-300 TEM equipped with a high-brightness Schottky-field emission electron source, a high-resolution Gatan imaging filter Tridiem energy-filter with 3rd order spectrometer aberration correctors and a Thermo Fisher probe-corrected monochromated X-FEG Titan Themis Z operated at 300 kV with a SuperX EDX detector and a GIF 969 equipped with both a standard CCD and a CMOS K2 Summit detector.
+Data availability
+Source data are provided with this paper. Any additional data are available upon request from the corresponding author. Additional methods and results are provided in the
+Supplementary Information
+.
+Change history
+30 April 2021
+A Correction to this paper has been published:
+https://doi.org/10.1038/s41929-021-00623-z
+References
+Mahaffy, P. G., Matlin, S. A., Holme, T. A. & MacKellar, J. Systems thinking for education about the molecular basis of sustainability.
+Nat. Sustain.
+2
+, 362–370 (2019).
+Article
+Google Scholar
+Jacobson, T. A. et al. Direct human health risks of increased atmospheric carbon dioxide.
+Nat. Sustain.
+2
+, 691–701 (2019).
+Article
+Google Scholar
+Jiang, M. et al. The fate of carbon in a mature forest under carbon dioxide enrichment.
+Nature
+580
+, 227–231 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Zimmerman, J. B., Anastas, P. T., Erythropel, H. C. & Leitner, W. Designing for a green chemistry future.
+Science
+367
+, 397–400 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Gomez, E., Yan, B., Kattel, S. & Chen, J. G. Carbon dioxide reduction in tandem with light-alkane dehydrogenation.
+Nat. Rev. Chem.
+3
+, 638–649 (2019).
+Article
+CAS
+Google Scholar
+Ye, R.-P. et al. CO
+2
+hydrogenation to high-value products via heterogeneous catalysis.
+Nat. Commun.
+10
+, 5698 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Field, C. B. & Mach, K. J. Rightsizing carbon dioxide removal.
+Science
+356
+, 706–707 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Patel, H. A., Byun, J. & Yavuz, C. T. Carbon dioxide capture adsorbents: chemistry and methods.
+ChemSusChem
+10
+, 1303–1317 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Roy, S., Cherevotan, A. & Peter, S. C. Thermochemical CO
+2
+hydrogenation to single carbon products: scientific and technological challenges.
+ACS Energy Lett.
+3
+, 1938–1966 (2018).
+Article
+CAS
+Google Scholar
+Stamenkovic, V. R., Strmcnik, D., Lopes, P. P. & Markovic, N. M. Energy and fuels from electrochemical interfaces.
+Nat. Mater.
+16
+, 57–69 (2017).
+Article
+CAS
+Google Scholar
+Wang, W.-H., Himeda, Y., Muckerman, J. T., Manbeck, G. F. & Fujita, E. CO
+2
+hydrogenation to formate and methanol as an alternative to photo- and electrochemical CO
+2
+reduction.
+Chem. Rev.
+115
+, 12936–12973 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Tackett, B. M., Sheng, W. & Chen, J. G. Opportunities and challenges in utilizing metal-modified transition metal carbides as low-cost electrocatalysts.
+Joule
+1
+, 253–263 (2017).
+Article
+CAS
+Google Scholar
+Fan, L. et al. Strategies in catalysts and electrolyzer design for electrochemical CO
+2
+reduction toward C
+2+
+products.
+Sci. Adv.
+6
+, eaay3111 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+De Luna, P. et al. What would it take for renewably powered electrosynthesis to displace petrochemical processes?
+Science
+364
+, eaav3506 (2019).
+Article
+PubMed
+Google Scholar
+Meng, Y. et al. Highly active oxygen evolution integrated with efficient CO
+2
+to CO electroreduction.
+Proc. Natl Acad. Sci. USA
+116
+, 23915–23922 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zheng, T., Jiang, K. & Wang, H. Recent advances in electrochemical CO
+2
+-to-CO conversion on heterogeneous catalysts.
+Adv. Mater.
+30
+, 1802066 (2018).
+Article
+Google Scholar
+Ma, M. et al. Insights into the carbon balance for CO
+2
+electroreduction on Cu using gas diffusion electrode reactor designs.
+Energy Environ. Sci.
+13
+, 977–985 (2020).
+Article
+CAS
+Google Scholar
+Ren, S. et al. Molecular electrocatalysts can mediate fast, selective CO
+2
+reduction in a flow cell.
+Science
+365
+, 367–369 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Dinh, C.-T. et al. CO
+2
+electroreduction to ethylene via hydroxide-mediated copper catalysis at an abrupt interface.
+Science
+360
+, 783–787 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Li, C. W., Ciston, J. & Kanan, M. W. Electroreduction of carbon monoxide to liquid fuel on oxide-derived nanocrystalline copper.
+Nature
+508
+, 504–507 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, Y., Li, C. W. & Kanan, M. W. Aqueous CO
+2
+reduction at very low overpotential on oxide-derived Au nanoparticles.
+J. Am. Chem. Soc.
+134
+, 19969–19972 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Ding, D. et al. A novel low-thermal-budget approach for the co-production of ethylene and hydrogen via the electrochemical non-oxidative deprotonation of ethane.
+Energy Environ. Sci.
+11
+, 1710–1716 (2018).
+Article
+CAS
+Google Scholar
+Zhang, X., Ye, L., Li, H., Chen, F. & Xie, K. Electrochemical dehydrogenation of ethane to ethylene in a solid oxide electrolyzer.
+ACS Catal.
+10
+, 3505–3513 (2020).
+Article
+CAS
+Google Scholar
+Duan, C. et al. Highly efficient reversible protonic ceramic electrochemical cells for power generation and fuel production.
+Nat. Energy
+4
+, 230–240 (2019).
+Article
+CAS
+Google Scholar
+Van Deelen, T. W., Hernández Mejía, C. & de Jong, K. P. Control of metal-support interactions in heterogeneous catalysts to enhance activity and selectivity.
+Nat. Catal.
+2
+, 955–970 (2019).
+Article
+Google Scholar
+Yang, X. et al. Low pressure CO
+2
+hydrogenation to methanol over gold nanoparticles activated on a CeO
+x
+/TiO
+2
+interface.
+J. Am. Chem. Soc.
+137
+, 10104–10107 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Hua, B. et al. A coupling for success: controlled growth of Co/CoO
+x
+nanoshoots on perovskite mesoporous nanofibres as high-performance trifunctional electrocatalysts in alkaline condition.
+Nano Energy
+32
+, 247–254 (2017).
+Article
+CAS
+Google Scholar
+Lam, E. et al. CO
+2
+hydrogenation on Cu/Al
+2
+O
+3
+: role of the metal/support interface in driving activity and selectivity of a bifunctional catalyst.
+Angew. Chem. Int. Ed.
+58
+, 13989–13996 (2019).
+Article
+CAS
+Google Scholar
+Li, M., Hua, B., Chen, J., Zhong, Y. & Luo, J.-L. Charge transfer dynamics in RuO
+2
+/perovskite nanohybrid for enhanced electrocatalysis in solid oxide electrolyzers.
+Nano Energy
+57
+, 186–194 (2019).
+Article
+CAS
+Google Scholar
+Zhang, L., Zhou, M., Wang, A. & Zhang, T. Selective hydrogenation over supported metal catalysts: from nanoparticles to single atoms.
+Chem. Rev.
+120
+, 683–733 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Jeong, H. et al. Highly durable metal ensemble catalysts with full dispersion for automotive applications beyond single-atom catalysts.
+Nat. Catal.
+3
+, 368–375 (2020).
+Article
+CAS
+Google Scholar
+Beniya, A. & Higashi, S. Towards dense single-atom catalysts for future automotive applications.
+Nat. Catal.
+2
+, 590–602 (2019).
+Article
+Google Scholar
+Lou, Y. et al. Pocketlike active site of Rh
+1
+/MoS
+2
+single-atom catalyst for selective crotonaldehyde hydrogenation.
+J. Am. Chem. Soc.
+141
+, 19289–19295 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Krewald, V., Neese, F. & Pantazis, D. A. Redox potential tuning by redox-inactive cations in nature’s water oxidizing catalyst and synthetic analogues.
+Phys. Chem. Chem. Phys.
+18
+, 10739–10750 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Hong, W. T. et al. Probing LaMO
+3
+metal and oxygen partial density of states using X-ray emission, absorption, and photoelectron spectroscopy.
+J. Phys. Chem. C
+119
+, 2063–2072 (2015).
+Article
+CAS
+Google Scholar
+Winterbottom, W. L. Equilibrium shape of a small particle in contact with a foreign substrate.
+Acta Metall.
+15
+, 303–310 (1967).
+Article
+CAS
+Google Scholar
+Wulff, G. X. X. V. Zur frage der geschwindigkeit des wachsthums und der auflösung der krystallflächen.
+Z. Kristallogr. Cryst. Mater.
+34
+, 449 (1901).
+Article
+CAS
+Google Scholar
+Molina, L. M. & Hammer, B. Active role of oxide support during CO oxidation at Au/MgO.
+Phys. Rev. Lett.
+90
+, 206102 (2003).
+Article
+CAS
+PubMed
+Google Scholar
+Du, J., Sun, X., Chen, J. & Jiang, G. A theoretical study on small iridium clusters: structural evolution, electronic and magnetic properties, and reactivity predictors.
+J. Phys. Chem. A
+114
+, 12825–12833 (2010).
+Article
+CAS
+PubMed
+Google Scholar
+Henkelman, G., Arnaldsson, A. & Jónsson, H. A fast and robust algorithm for Bader decomposition of charge density.
+Comput. Mater. Sci.
+36
+, 354–360 (2006).
+Article
+Google Scholar
+Sanville, E., Kenny, S. D., Smith, R. & Henkelman, G. Improved grid‐based algorithm for Bader charge allocation.
+J. Comput. Chem.
+28
+, 899–908 (2007).
+Article
+CAS
+PubMed
+Google Scholar
+Tang, W., Sanville, E. & Henkelman, G. A grid-based Bader analysis algorithm without lattice bias.
+J. Phys. Condens. Matter
+21
+, 084204 (2009).
+Article
+CAS
+PubMed
+Google Scholar
+Yu, M. & Trinkle, D. R. Accurate and efficient algorithm for Bader charge integration.
+J. Chem. Phys.
+134
+, 064111 (2011).
+Article
+PubMed
+Google Scholar
+Suntivich, J., May, K. J., Gasteiger, H. A., Goodenough, J. B. & Shao-Horn, Y. A perovskite oxide optimized for oxygen evolution catalysis from molecular orbital principles.
+Science
+334
+, 1383–1385 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Zhao, Y. et al. Stable iridium dinuclear heterogeneous catalysts supported on metal-oxide substrate for solar water oxidation.
+Proc. Natl Acad. Sci. USA
+115
+, 2902–2907 (2018).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zhao, Y. et al. End-on bound iridium dinuclear heterogeneous catalysts on WO
+3
+for solar water oxidation.
+ACS Cent. Sci.
+4
+, 1166–1172 (2018).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Sengodan, S. et al. Layered oxygen-deficient double perovskite as an efficient and stable anode for direct hydrocarbon solid oxide fuel cells.
+Nat. Mater.
+14
+, 205–209 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Bai, S. et al. Highly active and selective hydrogenation of CO
+2
+to ethanol by ordered Pd–Cu nanoparticles.
+J. Am. Chem. Soc.
+139
+, 6827–6830 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Dong, W., Kresse, G., Furthmüller, J. & Hafner, J. Chemisorption of H on Pd(111): An
+ab initio
+approach with ultrasoft pseudopotentials.
+Phys. Rev. B
+54
+, 2157–2166 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Hafner, J.
+Ab initio
+molecular dynamics for liquid metals.
+Phys. Rev. B
+47
+, 558–561 (1993).
+Article
+CAS
+Google Scholar
+Blöchl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953–17979 (1994).
+Article
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+PubMed
+Google Scholar
+Dholabhai, P. P., Adams, J. B., Crozier, P. & Sharma, R. Oxygen vacancy migration in ceria and Pr-doped ceria: a DFT +
+U
+study.
+J. Chem. Phys.
+132
+, 094104 (2010).
+Article
+PubMed
+Google Scholar
+Wang, W. et al. Enhanced carbon dioxide electrolysis at redox manipulated interfaces.
+Nat. Commun.
+10
+, 1550 (2019).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Makov, G. & Payne, M. C. Periodic boundary conditions in
+ab initio
+calculations.
+Phys. Rev. B
+51
+, 4014–4022 (1995).
+Article
+CAS
+Google Scholar
+Neugebauer, J. & Scheffler, M. Adsorbate-substrate and adsorbate-adsorbate interactions of Na and K adlayers on Al (111).
+Phys. Rev. B
+46
+, 16067 (1992).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This work was supported by the Idaho National Laboratory Laboratory Directed Research & Development Program under the Department of Energy Idaho Operations Office Contract DE-AC07-051D14517. This research made use of Idaho National Laboratory computing resources which are supported by the Office of Nuclear Energy of the U.S. Department of Energy and the Nuclear Science User Facilities under Contract No. DE-AC07-05ID14517. Sandia National Laboratories is a multimission laboratory managed and operated by National Technology & Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525.This paper describes objective technical results and analysis. Any subjective views or opinions that might be expressed in the paper do not necessarily represent the views of the U.S. Department of Energy or the United States Government.
+Author information
+Author notes
+These authors contributed equally: Meng Li, Bin Hua.
+Authors and Affiliations
+Energy and Environmental Science and Technology, Idaho National Laboratory, Idaho Falls, ID, USA
+Meng Li, Bin Hua, Lu-Cun Wang, Wei Wu & Dong Ding
+Sandia National Laboratories, Livermore, CA, USA
+Joshua D. Sugar
+School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, GA, USA
+Yong Ding
+Department of Nuclear Science and Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA
+Ju Li
+Authors
+Meng Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bin Hua
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lu-Cun Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Joshua D. Sugar
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wei Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yong Ding
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ju Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dong Ding
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+D.D. conceived, designed and supervised the project. M.L. performed the ab initio calculations and proposed the catalyst design concept. M.L. and B.H. developed the catalysts, integrated the electrolysers, performed the characterizations, conducted electrochemical tests and analysed the data. L.-C.W. helped with the GC–MS, H
+2
+-TPR and DRIFTS tests. W.W. helped with the cell fabrication. Y.D. and J.D.S. performed the scanning transmission electron microscopy imaging, STEM–EDX and STEM–EELS. J.L. helped with the theoretical calculations and the interpretation. M.L. and B.H. wrote the manuscript and all authors contributed to the revision.
+Corresponding author
+Correspondence to
+Dong Ding
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Catalysis
+thanks Michal Bajdich and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Methods, Tables 1–9, Figs. 1–47 and Note 1.
+Supplementary Data 1
+Atomic coordinates of the most stable Ir
+n
+clusters (
+n
+= 5, 6, 11, 15).
+Supplementary Data 2
+Atomic coordinates of SDC (110)/Ir
+n
+and (111)/Ir
+n
+(
+n
+= 1, 5, 6, 11, 15) models used in DFT calculations.
+Supplementary Data 3
+Atomic coordinates of the initial and final configurations of the trajectories in AIMD simulations.
+Source data
+Source Data Fig. 2
+Gibbs free energies for the CO
+2
+hydrogenation reaction calculated by DFT.
+Source Data Fig. 3
+Characterization data of XRD patterns, HAADF line profiles, XPS spectra and EELS spectra.
+Source Data Fig. 4
+Electrochemical measurement data and DRIFTS spectra.
+Source Data Fig. 5
+Electrochemical measurement data.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Li, M., Hua, B., Wang, LC.
+et al.
+Switching of metal–oxygen hybridization for selective CO
+2
+electrohydrogenation under mild temperature and pressure.
+Nat Catal
+4
+, 274–283 (2021). https://doi.org/10.1038/s41929-021-00590-5
+Download citation
+Received
+:
+06 May 2020
+Accepted
+:
+12 February 2021
+Published
+:
+08 April 2021
+Issue Date
+:
+April 2021
+DOI
+:
+https://doi.org/10.1038/s41929-021-00590-5
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Selective CO
+2
+electrohydrogenation
+Chuancheng Duan
+Nature Catalysis
+News & Views
+22 Apr 2021
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

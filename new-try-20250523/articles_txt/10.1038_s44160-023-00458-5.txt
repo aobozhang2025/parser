@@ -1,0 +1,2641 @@
+A triple tandem reaction for the upcycling of products from poorly selective CO2 photoreduction systems | Nature Synthesis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature synthesis
+articles
+article
+A triple tandem reaction for the upcycling of products from poorly selective CO
+2
+photoreduction systems
+Download PDF
+Article
+Published:
+04 January 2024
+A triple tandem reaction for the upcycling of products from poorly selective CO
+2
+photoreduction systems
+Yuan-Sheng Xia
+ORCID:
+orcid.org/0000-0003-3082-4652
+1
+,
+Lei Zhang
+1
+,
+Jia-Ni Lu
+2
+,
+Xin-Hui Zhao
+2
+,
+Long-Zhang Dong
+ORCID:
+orcid.org/0000-0002-9276-5101
+1
+,
+Jiang Liu
+ORCID:
+orcid.org/0000-0002-2596-4928
+1
+,
+2
+&
+…
+Ya-Qian Lan
+ORCID:
+orcid.org/0000-0002-2140-7980
+1
+,
+2
+Show authors
+Nature Synthesis
+volume
+3
+,
+pages
+406–418 (
+2024
+)
+Cite this article
+2737
+Accesses
+11
+Altmetric
+Metrics
+details
+Subjects
+Coordination chemistry
+Photocatalysis
+Abstract
+Low-selective CO
+2
+photoreduction systems are often overlooked in research, because the resulting mixed products are difficult to use in further reactions. In particular, the reutilization of gaseous hybrid products (such as CO and H
+2
+), which are often mixed with incompletely converted CO
+2
+, is difficult. Here we design and construct two highly active cluster-based catalysts,
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+, which can be utilized in an efficient triple tandem reaction composed of low-selective CO
+2
+photoreduction, alkyne semi-hydrogenation and carbonylation reactions. The triple tandem system can sequentially convert the H
+2
+and CO mixture into high-value olefins and carbonyls, with an atomic utilization efficiency of up to 94%. In situ one-pot coupling of low-selective CO
+2
+photoreduction with alkyne semi-hydrogenation promotes the overall photoconversion efficiency (up to 1,425.0 μmol g
+−1
+h
+−1
+), CO selectivity (from 50.8% to 80.0%) and alkyne-to-olefin transformation (conversion >86.0%, selectivity ~100.0%). Subsequently, the purified CO can be converted to different types of carbonylated product (CO conversion between 51% and 99%).
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Metallaphotoredox-enabled aminocarboxylation of alkenes with CO
+2
+Article
+21 September 2023
+Arylcarboxylation of unactivated alkenes with CO
+2
+via visible-light photoredox catalysis
+Article
+Open access
+14 June 2023
+Design of catalysts for selective CO
+2
+hydrogenation
+Article
+27 February 2025
+Main
+The solar energy-driven carbon dioxide reduction reaction (CO
+2
+RR), which directly converts CO
+2
+into useful chemicals, has emerged as a promising CO
+2
+recycling technology
+1
+,
+2
+,
+3
+. However, C
+1
+products (such as CO and HCOOH) are usually produced
+4
+,
+5
+,
+6
+, while higher value C
+2
+or C
+2+
+products are less common
+7
+,
+8
+. Additionally, the hydrogen evolution reaction (HER) is a common side reaction that further reduces the product selectivity of CO
+2
+photoreduction, therefore producing a mixture of hydrogen (H
+2
+) and carbon-based reduction products
+9
+,
+10
+. Gaseous products (such as unknown and variable mixtures of CO and H
+2
+), which are often mixed with unconverted CO
+2
+, must initially undergo complicated and expensive separation procedures before further utilization
+11
+,
+12
+,
+13
+. Therefore, the development of an upgrade utilization pathway for mixed products is an effective solution to rescue low-selective CO
+2
+photoreduction systems
+14
+.
+The hybrid products of low-selective CO
+2
+photoreduction systems typically involve low-concentrated H
+2
+, CO and HCOOH (ref.
+15
+). In terms of separation and application, gas–liquid mixture products are easy to separate, but gaseous mixture products (for example, CO and H
+2
+) are more difficult due to higher energy consumption and cost
+16
+,
+17
+,
+18
+. Although certain specific ratios of CO and H
+2
+mixture can be treated as syngas for industrial conversion
+19
+,
+20
+,
+21
+,
+22
+, the uncertain mixing ratio of CO, H
+2
+and remaining unconverted CO
+2
+in a low-selective CO
+2
+photoreduction system is not suitable for Fischer–Tropsch synthesis. Therefore, CO
+2
+photoreduction to syngas for conversion has been proposed as a conceptual work but not realized
+23
+. If a mild, efficient and highly atomic-economic tandem reaction is developed to reconvert CO and H
+2
+into high-value chemicals
+24
+,
+25
+and if the tandem reaction is unaffected by unreacted residual CO
+2
+, then low-selective CO
+2
+photoreduction could be a realistic utilization route. For instance, in such tandem reaction, H
+2
+by-products in low-selective CO
+2
+RR can be efficiently utilized by in situ cascades of specific organic reactions; then, the purified CO product
+26
+,
+27
+,
+28
+can be passed on to a second tandem reaction for further conversion (Fig.
+1
+). By this way, the mixed H
+2
+and CO are consecutively converted into high-value and easily separable fine chemicals through a multi-step tandem reaction, avoiding any waste of main products or by-products.
+Fig. 1: Schematic of triple tandem.
+a
+, Flow chart of low-selective photocatalytic CO
+2
+RR that produces difficult-to-separate mixed gaseous reduction products, CO and H
+2
+.
+b
+, Low-selective CO
+2
+photoreduction system coupled with semi-hydrogenation of alkynes improves CO selectivity along with a tandem carbonylation reaction to utilize the purified CO. The process can separate mixed CO
+2
+reduction products and convert them into high-value liquid fine chemicals (alkenes and carbonyl compounds) in sequence.
+Full size image
+In this Article, based on the above considerations, we designed and synthesized two highly active Ni-based cluster assemblies, Ni
+5
+(bzt)
+6
+(DMF)
+8
+(H
+2
+O)
+3
+[(W
+10
+O
+32
+)] (where DMF is dimethylformamide;
+Ni
+5
+W
+10
+, Hbzt = 1
+H
+-btz = 1
+H
+-benzotriazole) and Ni
+6
+(bpt)
+6
+(HCOO)
+2
+(H
+2
+O)
+8
+[(W
+10
+O
+32
+)] (
+Ni
+6
+W
+10
+, Hbpt = 3,5-bis(pyridin-2-yl)-1,2,4-triazole), both of which can trigger a benign and efficient triple tandem catalytic system composed of low-selective CO
+2
+photoreduction, alkyne semi-hydrogenation and carbonylation reactions to sequentially synthesize and upgrade the H
+2
+and CO mixture
+29
+,
+30
+. The in situ tandem semi-hydrogenation reaction was used to integrate the side reaction HER in the CO
+2
+photoreduction process to achieve a high value conversion of the by-product H
+2
+and purification of CO. Then, CO was converted by a tandem carbonylation reaction. Moreover, in situ coupling of CO
+2
+photoreduction reaction with alkyne semi-hydrogenation largely promotes the overall photoconversion efficiency (up to 1,425.0 μmol g
+−1
+h
+−1
+), CO product selectivity (from 50.8% to 80.0%) and alkyne-to-olefin transformation (conversion >86.0%, selectivity ~100.0%).
+The large number of protons originally used for HER was efficiently converted to high-value olefins in situ, thus enabling the application of H
+2
+isolated from gas mixtures (H
+2
+, CO and CO
+2
+residual). Density functional theory (DFT) calculations combined with substrate expansion experiments revealed that compared with
+Ni
+5
+W
+10
+(with traditionally independent active sites which experience the Volmer–Heyrovsky mechanism in the semi-hydrogenation reaction),
+Ni
+6
+W
+10
+with synergistic active regions could greatly reduce the energy barrier of the hydrogenation process through the Volmer–Tafel mechanism, resulting in higher catalytic activity. After the one-pot coupling, the purified CO was continuously reconverted to high-value carbonyls by a ‘second tandem chamber’ of carbonylation reaction, and the maximum atomic utilization of products (H
+2
++ CO) could be up to 94%. This work represents a solution to rescue the low-selective CO
+2
+photoreduction system and upcycle their hybrid products in a valuable and highly atomic-economic manner.
+Results
+Structure and characterization of catalysts
+Based on the above concept of tandem transformation, we first selected Ni
+5
+(bzt)
+6
+(NO
+3
+)
+4
+(H
+2
+O)
+4
+(Ni
+5
+) (Fig.
+2a
+) and decatungstate (Fig.
+2a
+) (W
+10
+O
+32
+4−
+, W
+10
+) (Supplementary Fig.
+1
+) clusters as precursors to construct a cluster-based assembly catalyst
+Ni
+5
+W
+10
+(Fig.
+2b
+)
+31
+,
+32
+,
+33
+. In this catalyst structure, the classical Ni
+5
+cluster exposed four independent active Ni sites at the vertex of the tetrahedral configuration, which can be used for the adsorption and catalytic conversion of CO
+2
+and organic molecules. The W
+10
+cluster, also known as ‘electron sponge’, has excellent charge transfer capabilities and can enhance visible light absorption due to the flexible valence transition (W
+VI
+(colourless)/W
+V
+(blue))
+34
+,
+35
+, resulting in catalysts with improved electron transport performance and electron-hole separation effects (Supplementary Tables
+1
+and
+2
+). Therefore, the direct bonding of these two cluster monomers (
+Ni
+5
+W
+10
+) is beneficial for possible photocatalytic tandem reactions. Single-crystal X-ray diffraction (SCXRD) (Supplementary Notes
+1
+and
+2
+) analysis revealed that
+Ni
+5
+W
+10
+assembly crystallizes in the triclinic space group
+P
+-1 (Supplementary Tables
+3
+and
+4
+) and consisted of complete Ni
+5
+and W
+10
+clusters arranged alternately. Each W
+10
+cluster linearly coordinates with two Ni atoms (Ni2 and Ni3) of two Ni
+5
+clusters through two O-bridging atoms (O1 and O43) to form a one-dimensional chain (Fig.
+2b
+and Supplementary Fig.
+2
+). All NO
+3
+−
+ions in the original Ni
+5
+cluster are replaced by solvent molecules (H
+2
+O or DMF) to balance the negative charge of W
+10
+. Furthermore, these coordinated solvent molecules are easily removed to expose more active metal sites for achieving efficient catalytic performance. Additionally, considering that the cascaded alkyne semi-hydrogenation reaction may involve synergistic interaction of catalytic sites, we further synthesized another assembly catalyst
+Ni
+6
+W
+10
+(Supplementary Note
+3
+). SCXRD results showed that
+Ni
+6
+W
+10
+crystallizes in the triclinic space group
+P
+-1 (Supplementary Tables
+5
+and
+6
+) and exhibited a similar one-dimensional chain structure consisting of alternating linkages of Ni
+6
+and W
+10
+clusters (Fig.
+2a,c
+). In
+Ni
+6
+W
+10
+, all six Ni atoms exhibit an octahedral coordination geometry and contain a readily dissociative solvent molecule (H
+2
+O). Thus, during the catalytic reaction, these exposed and adjacent Ni atoms (Ni1, Ni2 and Ni3) could form two apparently catalytically active regions (Fig.
+2a
+). These active regions could theoretically adsorb multiple substrates with specific sizes and configurations simultaneously to enable subsequent catalytic transformation. Notably,
+Ni
+5
+W
+10
+/
+Ni
+6
+W
+10
+catalysts were also easily reduced to heteropoly blue (reduced polyoxometalates) under illumination due to the characteristics of W
+10
+, thus changing the photoabsorption of the catalysts (Supplementary Fig.
+3
+). Meanwhile, the short O bridges between Ni
+5
+/Ni
+6
+and W
+10
+motifs in
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+providing rapid charge transfer during catalysis were demonstrated by cyclic voltammetry (Supplementary Fig.
+4
+and Supplementary Note
+4
+).
+Fig. 2: Assembly of cluster-based crystal structures.
+Crystal structures and simplified molecular models.
+a
+, Ni
+5
+cluster in tetrahedral configuration with the vertex as the active site, the W
+10
+O
+32
+4−
+polyoxometalate cluster with fast electron transfer ability and Ni
+6
+cluster with synergistic multiple active sites (active region).
+b
+, One-dimensional (1D) chain of
+Ni
+5
+W
+10
+with independently single active sites (red dashed line box) for catalytic reactions.
+c
+, 1D chain of
+Ni
+6
+W
+10
+with active region for catalytic reactions (red dashed line box).
+Full size image
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+crystals in different colours and sizes were obtained by the solvothermal synthesis method (Supplementary Fig.
+5
+). In view of the difference in the crystal colour, ultraviolet–visible–near-infrared diffuse reflectance spectroscopy was performed to determine their light absorption range and band structures. The ultraviolet–visible–near-infrared absorption spectra showed that both
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+have broad absorbance in the visible light region of 480–700 nm (Supplementary Fig.
+6
+). Meanwhile, the sharp transient photocurrent response (Supplementary Fig.
+7
+) also indicated that they have outstanding performance in photogenerated charge separation and transfer under visible light irradiation (Supplementary Note
+4
+). The band gaps of these two assemblies were estimated to be 2.73 eV and 2.89 eV, respectively, through Tauc plots (Supplementary Figs.
+8
+and
+9
+). Moreover, the highest occupied molecular orbital levels of
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+were calculated as −6.51 and −6.84 eV (versus vacuum level) (Supplementary Figs.
+10
+and
+11
+) by ultraviolet electron spectroscopy measurements. Then, the corresponding lowest unoccupied molecular orbital levels of the two assemblies were calculated as −3.78 and −3.95 eV (ref.
+36
+). These values were verified to be in close agreement with the Mott–Schottky measurements (Supplementary Figs.
+12
+and
+13
+, and Supplementary Note
+4
+). The lowest unoccupied molecular orbital levels of these two cluster-based assemblies are more negative than the reduction potential of CO
+2
+-to-CO conversion (−4.34 eV versus vacuum level) (Supplementary Figs.
+14
+and
+15
+). Therefore, both
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+can be used as effective photocatalysts to realize CO
+2
+RR thermodynamically.
+The photoreduction of CO
+2
+performance
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+were applied as photocatalysts in visible-light-driven CO
+2
+photoreduction with a photosensitizer ([Ru(bpy)
+3
+]Cl
+2
+·6H
+2
+O, bpy = 2′,2-bipyridine) and sacrificial agent (TEOA, triethanolamine) (Supplementary Figs.
+16
+–
+18
+and Supplementary Note
+5
+). The experimental results showed that
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+could photoreduce CO
+2
+to different proportions of hybrid products (CO and H
+2
+), respectively. Among them, the CO
+2
+-to-CO conversion rate of
+Ni
+5
+W
+10
+can reach up to 775.2 μmol g
+−1
+h
+−1
+(8 h) and effectively inhibit the generation of by-product H
+2
+(187.7 μmol g
+−1
+h
+−1
+)
+37
+, thereby exhibiting good CO selectivity (81.0%) (Supplementary Fig.
+19
+). By comparison,
+Ni
+6
+W
+10
+showed a relatively low CO selectivity (50.8%) and production rate (474.1 μmol g
+−1
+h
+−1
+) under identical photocatalytic conditions (Supplementary Fig.
+20
+). Therefore, it exhibited a higher by-product H
+2
+generation rate (459.7 μmol g
+−1
+h
+−1
+). In this context, we have discussed the elementary steps of CO
+2
+RR for
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+by means of DFT calculations with the computational hydrogen electrode model, where HER was used as a side reaction (Supplementary Note
+6
+). The free energy diagram shows that the process of
+*
+CO
+2
+forming
+*
+COOH via proton-coupled electron transfer (PCET) is the potential determining step (PDS) for reducing CO
+2
+to CO, the corresponding H
++
+binding electrons form
+*
+H as the PDS for HER. The PDS of CO
+2
+RR (Supplementary Fig.
+21
+) has a lower Gibbs free energy activation barrier (Δ
+G
+) compared with HER (Supplementary Fig.
+22
+), which is key for the photoreduction system with
+Ni
+5
+W
+10
+(Δ
+G
+*COOH
+= 0.15 < Δ
+G
+*H
+= 0.26 eV) (Supplementary Fig.
+23
+) as catalyst exhibited high CO selectivity
+38
+. Similarly, the thermodynamically lower PDS of HER results in a low CO selectivity of
+Ni
+6
+W
+10
+(Δ
+G
+*COOH
+= 0.59 > Δ
+G
+*H
+= 0.36 eV) (Supplementary Fig.
+24
+).
+To explore the transfer path of photogenerated electrons in the catalytic process, the linear Stern–Volmer photoluminescence (PL) quenching plots (Supplementary Note
+7
+, and Supplementary Figs.
+25
+and
+26
+) and decay of PL lifetime (Supplementary Fig.
+27
+and Supplementary Table
+7
+) of [Ru(bpy)
+3
+]
+2+
+solution in the presence of
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+indicated that the photogenerated electrons were firstly transferred from the light-excited [Ru(bpy)
+3
+]
+2+
+(PS
+*
+) to the catalysts to form PS
++
+; then, the PS
++
+was regenerated by the sacrificial agent TEOA (oxidative quenching mechanism)
+39
+,
+40
+. In addition, the heterogeneous catalyst
+Ni
+5
+W
+10
+not only exhibits similar photocatalytic CO
+2
+RR performance compared with the homogeneous catalyst Ni
+5
+(Supplementary Figs.
+28
+and
+29
+), but also has a different dynamic quenching rate for PS
+*
+(
+K
+(Ni
+5
+) = 0.326 l mg
+−1
+<
+K
+(
+Ni
+5
+W
+10
+) = 1.448 l mg
+−1
+,
+K
+: oxidative quenching constant) (Supplementary Fig.
+30
+). The above experiments also demonstrated that the introduction of W
+10
+improved the overall electron-transport performance of the catalyst, thus facilitating the transfer of photogenerated charges in the photoreduction system. Relevant comparative experiments (Supplementary Table
+8
+) and
+13
+C isotope trace experiments clearly verified that the two cluster-based assemblies are indeed active for CO
+2
+RR and the product CO came from CO
+2
+rather than the decomposition of other species (Supplementary Fig.
+31
+). In addition, the long-term catalytic stability tests showed that
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+could undergo at least three cycles (Supplementary Figs.
+32
+and
+33
+) and still maintained good catalytic performance. Importantly, the powder X-ray diffraction (Supplementary Figs.
+34
+and
+35
+), X-ray photoelectron spectroscopy (Supplementary Figs.
+36
+and
+37
+) and Fourier-transform infrared spectroscopy spectra (Supplementary Fig.
+38
+) before and after the photocatalytic reaction were almost unchanged, which proved that these heterogeneous catalysts still maintain good stability.
+One-pot tandem reaction
+Although the reported photocatalytic CO
+2
+RR system had a high photocatalytic CO
+2
+-to-CO generation rate, H
+2
+generation also exhibited a high rate, especially for
+Ni
+6
+W
+10
+. Therefore, the competitive HER not only reduced the selectivity of photoreduction products (CO), but also further increased the difficulty of subsequent reduction product (CO + H
+2
+) separation and utilization. In this case, we first coupled the semi-hydrogenation of alkynes with photocatalytic CO
+2
+RR via a one-pot method (chamber A). In chamber A, the H
++
+or adsorbed H (
+*
+H) generated in the system could be efficiently converted in situ to high-value olefinic compounds through the tandem alkyne semi-hydrogenation reaction, resulting in the effective suppression of the formation of H
+2
+by-product and improving the selectivity of the photoreduction product CO. On this basis, the purified CO can be further converted to higher-value fine chemicals by another tandem organocatalytic reaction (chamber B), as shown in Fig.
+1
+(Supplementary Fig.
+39
+). Furthermore, the solar energy and the proton source (H
++
+) in the reaction solution could provide the energy and hydrogen source for the semi-hydrogenation reaction, respectively, avoiding high energy expenditure and the explosion risk associated with directly utilizing large amounts of H
+2
+in conventional thermos-catalytic semi-hydrogenation reactions
+41
+,
+42
+.
+In the one-pot method, an important prerequisite for the successful conduct of the tandem reaction in chamber A is good compatibility between the semi-hydrogenation reaction and the photocatalytic CO
+2
+RR (Supplementary Note
+5
+). According to the above experimental design, we first added 0.1 mmol (11 μl) phenylacetylene as substrate to the low-selective (50.3%) CO
+2
+photoreduction system (
+Ni
+6
+W
+10
+) and for the same catalytic reaction time (8 h) (Fig.
+3a
+). Under visible-light irradiation and without Pd catalyst and additional H
+2
+gas as a hydrogen source,
+Ni
+6
+W
+10
+could successfully achieve selective hydrogenation of phenylacetylene to styrene with 81% conversion and olefin selectivity of up to 98% (Fig.
+3a
+and Supplementary Fig.
+40
+). The introduction of phenylacetylene notably reduced the production of H
+2
+in the tandem reaction system from original 459.7 μmol g
+−1
+h
+−1
+(Supplementary Fig.
+20
+) to 65.1 μmol g
+−1
+h
+−1
+, and successfully improved the CO selectivity from 50.1% to 77.4% (Fig.
+3a
+). At the same time, the rate of CO production was affected to some extent due to the presence of a higher concentration of phenylacetylene in the reaction system, which decreased from 474.1 μmol g
+−1
+h
+−1
+to 223.4 μmol g
+−1
+h
+−1
+(Fig.
+3a
+). For highly selective photocatalytic CO
+2
+RR (CO selectivity 80%) with
+Ni
+5
+W
+10
+(Supplementary Fig.
+19
+), the generation rate of the main product CO was reduced from 775.2 μmol g
+−1
+h
+−1
+to 253.7 μmol g
+−1
+h
+−1
+and by-product H
+2
+also decreased from 187.7 μmol g
+−1
+h
+−1
+to 37.2 μmol g
+−1
+h
+−1
+(Fig.
+3b
+and Supplementary Fig.
+41
+). Despite an increased in CO selectivity, high concentrations of phenylacetylene prevent the effective utilization of H
++
+in the CO
+2
+reduction pathway.
+Fig. 3: One-pot coupling of the semi-hydrogenation of alkynes and photocatalytic CO
+2
+RR.
+a
+,
+b
+, Effect of different input amounts of phenylacetylene on the product formation rates and selectivity of CO
+2
+photoreduction in a tandem reaction with
+Ni
+6
+W
+10
+(
+a
+) and
+Ni
+5
+W
+10
+(
+b
+).
+c
+, Yield and selectivity of CO
+2
+reduction products in the tandem reaction as a function of time of light irradiation in the presence of 5 μl phenylacetylene.
+d
+, Cycling experiments for one-pot tandem reaction. The cycle experiments of tandem reaction were performed for five cycles using 0.1 mmol phenylacetylene.
+e
+, GC–MS spectra of deuterium-labelling experiment to 4-bromophenylacetylene in tandem reaction using D
+2
+O and D
+3
+-TEOA instead of H
+2
+O and TEOA. The red and blue bars represent the difference in mass-to-charge ratio between the deuterated and general hydrogenation products in mass spectrometry analysis. The mass spectra on the right panels, connected by the red line, represent the split graph of a mixture of olefins with different degrees of deuteration in the left red bar; 1D, 2D and 3D represent semi-hydrogenation products with different deuterium atom numbers. Data are presented as mean values ± s.e.m. The error bars were obtained by repeating the reaction for three times (
+n
+= 3).
+Source data
+Full size image
+According to the above experimental results and a series of the proton-assisted multi-electron transfer process of CO
+2
+RR, both the photocatalytic reduction products (CO + H
+2
+) yield was decreased, which indicated that the hydrogen source for the semi-hydrogenation in the photocatalytic tandem system might originate from H
++
+. To further establish this fact, the one-pot tandem reaction was carried out under identical photocatalytic reaction conditions without TEOA and H
+2
+O as proton sources, and hydrogenation of alkynes could not occur with direct injection of H
+2
+(Supplementary Table
+9
+). This demonstrated that alkyne semi-hydrogenation in the photocatalytic CO
+2
+RR system was a process of hydrogenation by diffusion of H
++
+to the catalytically active site and then acquiring electrons for transferring to the alkyne substrate, rather than the process of generating H
+2
+and subsequent splitting into H
+*
+(excluding the Horiuti–Polanyi mechanism)
+43
+. More importantly, as a blank control, the selective hydrogenation reaction could not be conducted in the absence of catalysts (Supplementary Table
+9
+). Thus,
+Ni
+5
+W
+10
+and
+Ni
+6
+W
+10
+were used as multifunctional catalysts to drive the photocatalytic CO
+2
+RR and the semi-hydrogenation. Moreover, the decrease in the yield of CO and H
+2
+reduction products, as well as the same conversion efficiency of semi-hydrogenation under Ar conditions (HER only) (Supplementary Table
+9
+) indicated that the hydrogenation of alkynes as a competing reaction in this tandem catalytic system prioritized over HER and CO
+2
+RR. Therefore, the utilization of H
++
+by the semi-hydrogenation reaction not only effectively reduced the production of H
+2
+(H
++
++ e
+−
+\(\to\)
+H
+*
+, H
+*
++ H
+*
+\(\to\)
+H
+2
+), but also hampered the process of binding H
++
+in the photocatalytic CO
+2
+RR (H
++
++ CO
+2
++ e
+−
+\(\to\)
+COOH
+*
+, COOH
+*
++ H
++
++ e
+−
+\(\to\)
+CO + H
+2
+O), leading to a decrease in CO reduction products.
+To maintain the initial CO production rate, while improving CO selectivity, the concentration of phenylacetylene added to the tandem reaction was systematically regulated.
+Ni
+6
+W
+10
+was initially examined, and it was found that when only 1 μl (≈9 μmol) of phenylacetylene was included in the reaction (100% conversion) (Supplementary Fig.
+40
+), the H
+2
+yield of photocatalytic CO
+2
+RR increased to 572.8 μmol g
+−1
+h
+−1
+(Fig.
+3a
+). However, the CO
+2
+reduction performance remained almost constant, causing a decrease in CO selectivity to 45% (Fig.
+3a
+). Likewise,
+Ni
+5
+W
+10
+went through the same process noted above (1–3 μl, conversion >99%, alkene selectivity >77%) (Supplementary Fig.
+41
+), causing a decrease in selectivity from 81.0% to 64.2% (Fig.
+3b
+). On the above evidence, the addition of alkyne indeed accelerated the transfer of H
++
+in solution and photogenerated electrons to catalytically active sites. Fortunately, the limited utilization of H
++
+by low concentrations of phenylacetylene did not affect the process of binding protons in CO
+2
+RR, but the large amounts of H
++
+accumulating near the catalytic site that was not involved in the hydrogenation reaction could be further coupled to generate H
+2
+, thus accelerating overall HER and leading to an increase in overall conversion efficiency (original 935.0 μmol
+−1
+g
+−1
+h
+−1
+increased to 1,267.5 μmol
+−1
+g
+−1
+h
+−1
+) (Supplementary Table
+10
+). Afterward, when phenylacetylene was increased to 2–5 μl (Fig.
+3a
+) (conversion >85%, alkene selectivity >99%) (Supplementary Fig.
+40
+), in particular for 5 μl (≈45.5 μmol), the H
+2
+production rate declined dramatically to 90.0 μmol g
+−1
+h
+−1
+(Fig.
+3a
+), while the CO production maintained a good rate at 358.0 μmol g
+−1
+h
+−1
+that increased the selectivity of CO to 80% (Fig.
+3c
+). Overall photocatalytic efficiency raised to 1,425.0 μmol g
+−1
+h
+−1
+. Compared with
+Ni
+6
+W
+10
+,
+Ni
+5
+W
+10
+itself had good CO selectivity and H
++
+was used mainly in the CO
+2
+-to-CO conversion process. Therefore, the utilization of H
++
+by the hydrogenation of
+Ni
+5
+W
+10
+would severely hamper the highly selective photocatalytic CO
+2
+reduction process. That the yield of both the H
+2
+and CO decreased rapidly at the same time as the concentrations of phenylacetylene increased (5–11 μl, conversion >66%, alkene selectivity >92%) (Supplementary Fig.
+41
+) was also contrary to our tandem concept. Hence, this strategy of increasing the CO selectivity was more suitable for low-selective photocatalytic systems.
+Meanwhile, the yield–time curves for CO and H
+2
+were also tested in the presence of 5 μl phenylacetylene and the CO selectivity was found to always remain at around 70% (
+Ni
+5
+W
+10
+) (Supplementary Fig.
+42
+) and 80% (
+Ni
+6
+W
+10
+) (Fig.
+3c
+) throughout the 8 h photocatalytic process. The experimental results demonstrated that the semi-hydrogenation reaction has a priority, when the CO
+2
+RR and semi-hydrogenation reactions were conducted simultaneously in a one-pot tandem system. Furthermore, the selectivity and yield of semi-hydrogenation remained constant over at least three cycles in long-term use and recyclability tests, illustrating the good sustainability of the tandem catalytic system (Fig.
+3d
+and Supplementary Fig.
+43
+). It can be seen that CO selectivity could be raised in
+Ni
+6
+W
+10
+while maintaining a high CO
+2
+-to-CO photoreduction performance with the addition of 5 μl phenylacetylene, thus favouring the further application of CO
+2
+reduction products. The one-pot cascade reaction photoreduced CO
+2
+to CO, and the introduced alkyne semi-hydrogenation reaction could efficiently utilize H
++
+(conversion >86%) in the solution to regulate and improve the CO selectivity by controlling H
+2
+yield. Moreover, to explore the main sources of protons in hydrogenation reactions, and based on the applications of deuterated compounds in medicinal chemistry
+44
+, we performed deuteration reactions in different deuterated solvents with easily isolated 4-bromophenylacetylene as a substrate for one-pot tandem reaction (Fig.
+3e
+and Supplementary Fig.
+44
+). The system contains a partial source of H
++
+due to incomplete deuteration of the solvent, and deuterium (D) atoms have twice the mass number of H atoms, so H is much more reactive than D (ref.
+45
+) (Supplementary Fig.
+45
+). Consequently, the reaction produces a mixture of olefins with different degrees of deuteration (1D/2D/3D) in all-deuteration reaction solvent (Fig.
+3e
+). When only D
+2
+O or D
+3
+-TEOA was employed as the deuterated solvent (Supplementary Fig.
+46
+), the partially deuterated products could also be obtained. The deuterated experiment illustrated that H
++
+derived from H
+2
+O and TEOA in solution during the reaction. This one-pot tandem strategy successfully converts the H
+2
+by-product into high-valued alkene while improving the overall efficiency of photocatalysis as well as turnover number (TON), TON based on photosensitizer and turnover frequency (Supplementary Table
+10
+), and can also a safe and convenient method to achieve the precise synthesis of high-value-added deuterated alkenes from D
+2
+O at room temperature instead of the expensive D
+2
+.
+Exploration experiments of substrate scope
+Before evaluating the broader applicability of this tandem reaction, we first investigated the interaction between catalyst, photosensitizer and alkyne to determine the catalytic activity centre, using phenylacetylene as the model substrate. In this work, the fluorescence intensity and PL lifetime of [Ru(bpy)
+3
+]Cl
+2
+could not be quenched with the addition of phenylacetylene (Supplementary Figs.
+47
+and
+48
+), suggesting that the photogenerated electrons excited by Ru[(bpy)
+3
+]Cl
+2
+could not be transferred to phenylacetylene and there was no notable interaction between them. However, the PL intensity decreased notably with the addition of phenylacetylene to either
+Ni
+5
+W
+10
+or
+Ni
+6
+W
+10
+(Supplementary Figs.
+49
+and
+50
+) indicating that the fluorescence emission of the catalysts was efficiently quenched. In combination with the XPS spectra, the positive shift in Ni
+2p
+binding energy (≈0.17 eV or 0.33 eV) (Supplementary Figs.
+51
+and
+52
+, and Supplementary Note
+8
+) indicated a decrease in the charge density of the Ni atom, probably due to partial charge transfer from the Ni site to absorbed phenylacetylene
+46
+. The above measurements confirmed strong electron interaction between the catalyst and the organic substrate. Furthermore, comparative experiments showed that the independent Ni
+5
+cluster was still active for ‘one-pot’ tandem reaction, but W
+10
+cluster as a catalyst was unable to perform the semi-hydrogenation reaction under the same photocatalytic conditions (Supplementary Table
+9
+). Additionally, the infrared spectra (Supplementary Fig.
+53
+) of the adsorption experiments combined with DFT theoretical calculations (Supplementary Figs.
+54
+and
+55
+) revealed the peaks associated with C≡C (2,111.0 cm
+−1
+) were red-shifted on both
+Ni
+5
+W
+10
+(2,045.0 cm
+−1
+) and
+Ni
+6
+W
+10
+(2,072.9 cm
+−1
+) when the phenylacetylene interacted with the nickel cluster. From this, we identified that the Ni clusters (Ni
+5
+or Ni
+6
+), which could form interactions with organic substrates, were the active centres of the semi-hydrogenation reactions.
+Subsequently, we investigated the reaction substrate scope for alkynes under the tandem reaction conditions (Table
+1
+, Supplementary Table
+11
+, and Supplementary Notes
+9
+and
+10
+). Owing to the bare vertex of the tetrahedral configuration,
+Ni
+5
+W
+10
+has little steric hindrance as the catalytic active site, which favours the direct adsorption and activation of C≡C. All substrates presented in Table
+1
+would be hydrogenated to the corresponding alkenes, and the hydrogenation turnover rates of partial alkynes (Table
+1
+, and entries 11, 14 and 15) could be as high as 85–99%. Unexpectedly, it can be seen that photocatalysis using
+Ni
+5
+W
+10
+has a highly diastereoselective hydrogenation process, the hydrogenation products of all intramolecular alkynes were mainly
+cis
+-olefin compounds (
+Z
+:
+E
+= 75–99%)
+42
+,
+47
+. Under the same reaction conditions,
+Ni
+6
+W
+10
+also provided alkenes with good diastereoselective (
+Z
+:
+E
+= 70–99%), but cannot catalyse all intramolecular alkynes. Due to the large hindrance effect at the active site of
+Ni
+6
+W
+10
+, various organic compounds of different conformations could be selectively catalysed by different forces.
+Table 1 Substrate scope of semi-hydrogenation reaction
+Full size table
+For
+Ni
+6
+W
+10
+, it was found from the adsorption model that the organic molecules in a planar configuration (entries 1–4 in Table
+1
+and Supplementary Notes
+11
+–
+14
+) were adsorbed mainly by a strong π–π stacking interaction between the phenyl ring and the ligand (entries 1–4 in Supplementary Fig.
+56
+). The adsorption energies of entries 1–4 compounds on the catalysts were not obviously different
+48
+(Supplementary Fig.
+57
+). So, the different halogenated alkyne (F, Cl and Br) had little effect on the catalytic performance (conversion >80%, selectivity >98%). However, when the configuration of alkyne compounds (entries 5–9 in Supplementary Fig.
+56
+and Supplementary Notes
+15
+–
+19
+) was no longer planar or had a large spatial resistance (entries 10 and 11) (Supplementary Notes
+20
+and
+21
+), the π–π interactions disappeared and the binding of organic substrates to active sites was hindered (adsorption energy >−0.5 eV in Supplementary Fig.
+57
+), thus making it difficult for the hydrogenation reaction to proceed. The induction of electron-withdrawing groups enhanced the adsorption of organic substrates on the catalyst through coordination (entries 12, 13 and 15) or hydrogen bonding interactions (entry 14) (Supplementary Figs.
+56
+and
+57
+, and Supplementary Notes
+22
+–
+25
+), and facilitated the activation of the neighbouring alkyne group, leading to a 90% conversion to hydrogenation of some substrates. The above calculations and experimental results showed that
+Ni
+6
+W
+10
+can selectively adsorb organic molecules by different forces and perform catalytic semi-hydrogenation reactions, and the catalytic efficiency also depends on the adsorption of alkynes and the position of C≡C. Overall, the photocatalytic tandem system could convert alkyne compounds to the corresponding olefins with very high selectivity (>90%) and very high stereoselectivity (
+cis
+-selectivity) for the conversion of intramolecular alkynes (Supplementary Table
+11
+).
+DFT calculations of catalyst reaction mechanisms
+Based on the experimental results and precise crystal structures, we inferred a possible mechanism for the visible-light-driven selective reduction of alkyne to an alkene by both thermodynamic and dynamic analysis (Supplementary Note
+6
+). With phenylacetylene as a model substrate, the traditional single-site catalytic pathway of
+Ni
+5
+W
+10
+was first analysed. Although the exposed Ni active site can activate the substrate by adsorption of C≡C π-bonds to form an adsorbed state
+*
+PhC≡CH (
+*
+1) via an exothermic process, the semi-hydrogenation still needed to experience two transition states (TS1 and TS2) to obtain the final product, as shown in Fig.
+4
+. In the reaction solution, the alkyne adsorption sites tend towards saturation, while the formation of
+*
+PhCH=CH (
+*
+1-H) intermediates on them is thermodynamically more favourable than the formation of
+*
+H intermediates in HER. Consequently, the first hydrogenation step (TS1) can only form the semi-hydrogenated intermediate product
+*
+1-H using the Volmer mechanism of PCET (
+*
+PhC≡CH + H
++
++e
+−
+\(\to\)
+*
+PhCH=CH) to overcome 0.55 eV energy barrier
+49
+,
+50
+(Fig.
+4a
+). Catalysts with a single active site cannot synergistically perform hydrogenation. Despite this, the second step (TS2) can follow the Heyrovsky mechanism by coupling chemisorption of
+*
+1-H to another proton in solution (
+*
+PhCH=CH + H
++
++ e
+−
+\(\to\)
+PhCH=CH
+2
+), with an energy barrier of 0.94 eV. In this tandem reaction process, the semi-hydrogenation reaction of
+Ni
+5
+W
+10
+undergoes a Volmer–Heyrovsky mechanism (Fig.
+4a
+), which means that the hydrogenation is completed by two consecutive PCET steps after the activation of alkyne organics by
+Ni
+5
+W
+10
+(Supplementary Fig.
+58
+).
+Fig. 4: Mechanism of hydrogenation reaction at different catalytic sites.
+a
+, The energy profiles of intermediate products and transition states of the PhC≡CH semi-hydrogenation reaction process from DFT calculations. The above schematic diagram shows the PCET process in the hydrogenation reaction for
+Ni
+5
+W
+10
+(Volmer–Heyrovsky).
+b
+, The energy profiles of the utilization of
+*
+H in the hydrogenation reaction of
+Ni
+6
+W
+10
+through the synergy of the active region (Volmer–Tafel).
+Source data
+Full size image
+Ni
+6
+W
+10
+can achieve synergistic catalysis through the active region formed by adjacent metal active sites (Ni1, Ni2 and Ni3) (Fig.
+2c
+), and thus the source pathway of the H atom in the hydrogenation reaction is more abundant. DFT theoretical calculations indicate that the TS1 of
+Ni
+6
+W
+10
+is similar to
+Ni
+5
+W
+10
+(Fig.
+4
+). Furthermore, with the presence of the active region, a semi-hydrogenated intermediate can not only be carried out by the Heyrovsky mechanism, but also bind to
+*
+H on the neighbour site by the Tafel mechanism. However, the Heyrovsky pathway (0.73 eV) has a higher hydrogenation barrier than the Tafel pathway (0.45 eV) (Fig.
+4b
+). The synergistically active region in
+Ni
+6
+W
+10
+makes the hydrogenation reaction proceed easier through Tafel mechanism, which can greatly reduce the kinetic barriers of TS2 (ref.
+51
+). Therefore,
+Ni
+6
+W
+10
+is more suitable for the Volmer–Tafel mechanism, meaning that
+*
+1-H combines
+*
+H at adjacent active sites in a synergistic manner to obtain the olefin product. Similarly, the lower energy barrier makes the catalytic performance of phenylacetylene hydrogenation with
+Ni
+6
+W
+10
+(Δ
+G
+= 0.45 eV) (Fig.
+4b
+) superior to
+Ni
+5
+W
+10
+(Δ
+G
+= 0.94 eV), in agreement with the experimental results. We observed that in the tandem reaction, either
+Ni
+5
+W
+10
+or
+Ni
+6
+W
+10
+as catalyst, the longer bond length distance (>4.70 Å) between the Ni active site and the C=C of alkene products does not allow chemisorption. Hence, these adsorption models indicate that the final formation of olefins is easily desorbed from our catalyst. The further hydrogenation of alkenes to alkanes is thermodynamically unfavourable, leading to a catalyst exhibiting high selectivity in the semi-hydrogenation of alkynes (Supplementary Figs.
+59
+and
+60
+). Notably, the thermodynamic process of hydrogenation reaction of both is more advantageous relative to HER, which is the reason why the addition of phenylacetylene in the tandem reaction can effectively inhibit the H
+2
+generation and improve CO selectivity. In particular, the Volmer–Heyrovsky mechanism is two consecutive PCET steps, resulting in further competition with the PCET process of CO
+2
+RR, so that the H
+2
+and CO yields of
+Ni
+5
+W
+10
+simultaneously decline substantially during regulating selectivity in the tandem reaction. But the lower potential barrier Tafel mechanism is more likely to utilize
+*
+H in the active region, so the reduction of H
+2
+in the tandem reaction of
+Ni
+6
+W
+10
+is much greater than CO, making it easier to improve the selectivity of the reduced product CO. In conclusion, catalysts experiencing the Volmer–Tafel mechanism are more suitable for regulating CO
+2
+RR selectivity through employing semi-hydrogenation reactions in one-pot tandem reactions (Fig.
+5
+).
+Fig. 5: Mechanistic analysis for triple tandem reaction.
+Possible mechanistic pathway for the triple tandem reaction with
+Ni
+6
+W
+10
+as the catalyst. HER as the competitive reaction in CO
+2
+RR can be upgraded to a semi-hydrogenation process by a favourable kinetic and thermodynamic process in a one-pot tandem system. The purified CO was value-added by subsequent carbonylation reactions. In active region of
+Ni
+6
+W
+10
+, HER and semi-hydrogenation all experienced the Volmer–Tafel mechanism.
+Full size image
+Application of triple tandem reaction
+After completing the one-pot (chamber A) tandem catalysis process, the low-selectivity photocatalytic CO
+2
+RR successfully achieved re-upgrade of the use value of by-product H
+2
+, while improving the CO selectivity (or purification). Inspired by the previous work in the field
+52
+,
+53
+, we could utilize a two-chamber tandem reactor to reconvert the remaining low-value reduction product CO into a more valuable and easily separable fine chemical by carbonylation reaction. Through the above strategy, the photocatalytic CO
+2
+RR, the semi-hydrogenation of alkynes and the palladium-catalysed carbonylation reaction could be combined in series by the two-chamber (A–B) method. Through the triple tandem system, the low-selective CO
+2
+reduction system could simultaneously convert the low-value and difficult-to-isolate reduction products H
+2
+and CO into high-value alkenes (chamber A) and carbonyl (chamber B) compounds, respectively (Fig.
+5
+). This strategy effectively prevents the waste of by-products in the CO
+2
+RR, improves the atomic economy and provides a feasible pathway for future applications of low-selectivity photocatalytic CO
+2
+RR (Supplementary Note
+5
+).
+To evaluate the effectiveness of the triple tandem, we tried to cascade the reaction of chamber A with different carbonylation reactions to achieve CO reconversion (Fig.
+6
+and Supplementary Table
+12
+). The incompletely reacted terminal alkynes in the hydrogenation reaction could be separated and recycled; therefore, the Sonogashira reaction using terminal alkynes as raw material was first applied to this triple tandem reaction (Fig.
+6a
+). Under the reaction conditions of chamber B, phenylacetylene and aryl iodides could react with nearly 99% CO from chamber A to form corresponding carbonyl compounds involving the formation of C–C bonds
+54
+(Supplementary Note
+26
+). Thus, the triple tandem system successfully converted both reduction products CO and H
+2
+into valuable fine chemicals, achieving sequential separation of the gas phase products and an atomic utilization (Supplementary Note
+9
+) of 94% for the overall photocatalytic reduction product (Fig.
+6g
+). Classical carbonylative Suzuki coupling (Fig.
+6b,c
+and Supplementary Notes
+27
+and
+28
+) for the formation of C–C bonds was also investigated in the triple tandem system. Compared with the Sonogashira reaction, only about 52% of CO was converted indicating that the reaction was more sensitive to the CO concentration and the reaction activity decreases at relatively low CO concentrations, meaning the overall atomic efficiency of the triple tandem was only 81% (Fig.
+6g
+).
+Fig. 6: Triple tandem reactions to convert CO
+2
+reduction products.
+a
+–
+f
+, Synthesis of fine chemicals as well as pharmaceutical molecules using the photoreduction product CO in a triple tandem reaction. Sonogashira reaction (
+a
+), Carbonylative Suzuki coupling reaction (
+b
+,
+c
+) and amino-carbonylation reaction (
+d
+–
+f
+). Solv., reaction solution (see Supplementary Note
+5
+).
+g
+, The atom utilization efficiency of triple tandem reactions. Data are presented as mean values ± s.e.m. The error bars were obtained by repeating the reaction for three times (
+n
+= 3).
+h
+,
+13
+C isotope labelling experiments on the drug molecule moclobemide. The red and blue bars represent the difference in mass-to-charge ratio between the
+13
+C isotope-labelled and general products in mass spectrometry analysis; the red vertical dotted line is the main difference in mass number. The
+13
+C-product was confirmed by high-resolution mass spectrometry in Supplementary Fig.
+61
+.
+Source data
+Full size image
+In view of the important applications of amide compounds in drug synthesis and industrial production
+55
+, the successful implementation of the amino-carbonylation reaction has greatly expanded the application prospects of the triple tandem system. A conversion of 71% on the basis of CO-to-d was detected by gas chromatography–mass spectrometry (GC–MS) when
+n
+-butylamine (Fig.
+6d
+and Supplementary Note
+29
+) was employed as the amino source, and the overall reduction product had an atom utilization of 87% (Fig.
+6g
+). Importantly, the triple tandem strategy was used to synthesize commercially amide compounds such as the insecticide DEET (Fig.
+6e
+and Supplementary Note
+30
+) and the antidepressant drug molecule moclobemide (Fig.
+6f
+and Supplementary Note
+31
+) with high CO conversions of 87% and 81%, respectively, resulting in an atomic efficiency of nearly 90% for the entire triple tandem system (Fig.
+6g
+). At the same time, we also performed an isotopic tracing experiment (
+13
+CO
+2
+) of photocatalytic CO
+2
+RR in chamber A, and the reduction product
+13
+CO as reactant underwent a tandem amino-carbonylation reaction to successfully obtain the corresponding
+13
+C isotope-labelled moclobemide (Fig.
+6h
+and Supplementary Fig.
+61
+). The successful
+13
+C labelling of bioactive drug-like small molecules through a green and economical approach has shown potential for the application of tandem reactions in the field of metabolism. A techno-economic analysis shows that the triple tandem system offers cost savings and higher profitability compared with conventional separation strategies (Supplementary Note
+10
+). The triple tandem system successfully separated a mixture of low-concentration and difficult-to-separate photocatalytic CO
+2
+reduction products (CO + H
+2
+) in sequence (Supplementary Tables
+11
+and
+12
+), and converted them into high-value and easily separable fine chemicals (alkenes and carbonyl compounds).
+Conclusions
+Based on the design and synthesis of two distinct cluster-based assembly catalysts, we developed a mild and low-cost triple tandem system, which can achieve efficient separation of the mixed reduction products (H
+2
++ CO) of low-selective CO
+2
+photoreduction system and convert them into value-added olefin and carbonyl products, respectively. Among them, in a one-pot tandem reaction, the coupled semi-hydrogenation not only suppressed the generation of H
+2
+by-product and successfully improved the CO selectivity (from 50% to 80%), but also efficiently converted alkynes to olefin compounds by using H
++
+(conversion 86%, alkene selectivity >99%). Meanwhile, the purified CO was transformed to carbonyl fine chemicals through further cascade carbonylation reactions in the triple tandem process. Eventually, the utilization of the reduction products could be brought to a maximum of 94% atomic efficiency. We have also achieved the synthesis of deuterated olefins with a high deuterium incorporation rate and
+13
+C isotopically labelled bioactive molecules in a green and economical way. The tandem system with high atomic utilization offers great prospects for future practical applications of photocatalytic CO
+2
+RR with low product selectivity.
+Methods
+Synthesis of Ni
+5
+W
+10
+Synthesis methods of Ni
+5
+and W
+10
+are provided in Supplementary Note
+3
+. A solid mixture of fresh Ni
+5
+(50 mg) and W
+10
+(100 mg) was suspended in DMF-H
+2
+O (3:1, 4 ml) solution in a 10 ml vial. The sonication steps take approximately 5 min to obtain a solution. After the solution was heated at 100 °C for 24 h and cooled to room temperature, green crystals of
+Ni
+5
+W
+10
+were obtained, and the yield was 75% (based on Ni
+5
+). The CCDC number of
+Ni
+5
+W
+10
+is
+2215238
+. More details can be seen in Supplementary Note
+3
+.
+Synthesis of Ni
+6
+W
+10
+A solid mixture of fresh Ni(NO
+3
+)
+2
+·6H
+2
+O (0.21 mmol), W
+10
+(100 mg) and 3,5-bis(pyridin-2-yl)-1,2,4-triazole (Hbpt, 0.18 mmol) was suspended in DMF-H
+2
+O (2:1, 3.0 ml) solution in a 10 ml vial. Then, 50 μl nitric acid was added to the solution under stirring. The sonication steps take approximately 5 min to obtain a solution. After the solution was heated at 150 °C for 72 h and cooled to room temperature. Green crystals of
+Ni
+6
+W
+10
+were obtained, and the yield was 70% (based on Ni(NO
+3
+)
+2
+·6H
+2
+O). The CCDC number of
+Ni
+6
+W
+10
+is
+2215237
+. More details can be seen in Supplementary Note
+3
+.
+General procedure for photocatalytic CO
+2
+RR
+Photocatalytic CO
+2
+reduction experiment is provided in Supplementary Note
+5
+.
+Tandem selective hydrogenation reaction (one-pot method)
+One-pot tandem experiment is provided in Supplementary Note
+5
+.
+General procedure for triple tandem reaction experiments
+These experiments were performed in two-chamber system. Chamber A (25 ml, Schlenk tube) was used for tandem selective hydrogenation reaction according to the protocol above (substrate: 5 μl phenylacetylene). The reaction condition in chamber B (10 ml, Schlenk tube) was loaded with aryl iodide (0.1 mmol), Pd(PPh
+3
+)
+4
+(0.025 mmol), Et
+3
+N (139.0 μl, 1.0 mmol), and the corresponding terminal alkyne or amine or aryl boronic acid (0.2 mmol). Subsequently, anhydrous 1,4-dioxane (3 ml) was added to the reactor. The two chambers were chained together by a short linker, all joints were in a closed state. Subsequently, only the joint of B was opened, and the B chamber was then flash frozen at 77 K (liquid N
+2
+bath) and degassed by three freeze–pump–thaw cycles, and evacuated to an internal pressure of ~100 mTorr. Then, it was warmed to room temperature, and chamber A was placed under photocatalytic conditions and chamber B in an oil bath. After 8 h photocatalytic reaction, injection of 5.2 ml MeCN was performed in chamber A to increase the density of the gas in the container. Subsequently, chamber A’s joint was slowly opened and chamber B was stirred at 65 °C for 16 h in the oil bath. More details can be seen in Supplementary Note
+5
+.
+Data availability
+The data that support the findings of this study are available within the paper and its supplementary information files. The X-ray crystallographic coordinates for structures reported in this Article have been deposited at the Cambridge Crystallographic Data Centre (CCDC), under deposition numbers CCDC
+2215238
+(
+Ni
+5
+W
+10
+) and
+2215237
+(
+Ni
+6
+W
+10
+). These data can be obtained free of charge from the CCDC via
+www.ccdc.cam.ac.uk/data_request/cif
+.
+Source data
+are provided with this paper.
+References
+Jiao, X. et al. Fundamentals and challenges of ultrathin 2D photocatalysts in boosting CO
+2
+photoreduction.
+Chem. Soc. Rev.
+49
+, 6592–6604 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Yamazaki, Y., Miyaji, M. & Ishitani, O. Utilization of low-concentration CO
+2
+with molecular catalysts assisted by CO
+2
+-capturing ability of catalysts, additives, or reaction media.
+J. Am. Chem. Soc.
+144
+, 6640–6660 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Wagner, A., Sahm, C. D. & Reisner, E. Towards molecular understanding of local chemical environment effects in electro- and photocatalytic CO
+2
+reduction.
+Nat. Catal.
+3
+, 775–786 (2020).
+Article
+CAS
+Google Scholar
+Guo, Z. et al. Selectivity control of CO versus HCOO
+−
+production in the visible-light-driven catalytic reduction of CO
+2
+with two cooperative metal sites.
+Nat. Catal.
+2
+, 801–808 (2019).
+Article
+CAS
+Google Scholar
+Takeda, H., Cometto, C., Ishitani, O. & Robert, M. Electrons, photons, protons and earth-abundant metal complexes for molecular catalysis of CO
+2
+reduction.
+ACS Catal.
+7
+, 70–88 (2017).
+Article
+CAS
+Google Scholar
+Wang, Y. et al. Direct and indirect
+Z
+-scheme heterostructure-coupled photosystem enabling cooperation of CO
+2
+reduction and H
+2
+O oxidation.
+Nat. Commun.
+11
+, 3043 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Shi, H. et al. Atomically dispersed indium–copper dual-metal active sites promoting C–C coupling for CO
+2
+photoreduction to ethanol.
+Angew. Chem. Int. Ed
+.
+61
+, e202208904 (2022).
+Jia, G. et al. Asymmetric coupled dual-atom sites for selective photoreduction of carbon dioxide to acetic acid.
+Adv. Funct. Mater
+.
+32
+, 2206817 (2022).
+Fu, J., Jiang, K., Qiu, X., Yu, J. & Liu, M. Product selectivity of photocatalytic CO
+2
+reduction reactions.
+Mater. Today
+32
+, 222–243 (2020).
+Article
+CAS
+Google Scholar
+Bai, S. et al. VO
+4
+-modified layered double hydroxides nanosheets for highly selective photocatalytic CO
+2
+reduction to C1 products.
+Small.
+18
+, 2203787 (2022)
+Nakada, A. et al. Effects of interfacial electron transfer in metal complex–semiconductor hybrid photocatalysts on
+Z
+-scheme CO
+2
+reduction under visible light.
+ACS Catal.
+8
+, 9744–9754 (2018).
+Article
+CAS
+Google Scholar
+Zhang, H. et al. Isolated cobalt centers on W
+18
+O
+49
+nanowires perform as a reaction switch for efficient CO
+2
+photoreduction.
+J. Am. Chem. Soc.
+143
+, 2173–2177 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Pan, Y.-X. et al. Photocatalytic CO
+2
+reduction by carbon-coated indium-oxide nanobelts.
+J. Am. Chem. Soc.
+139
+, 4123–4129 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Xia, Y.-S. et al. Tandem utilization of CO
+2
+photoreduction products for the carbonylation of aryl iodides.
+Nat. Commun.
+13
+, 2964 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Luo, Y.-H., Dong, L.-Z., Liu, J., Li, S.-L. & Lan, Y.-Q. From molecular metal complex to metal–organic framework: the CO
+2
+reduction photocatalysts with clear and tunable structure.
+Coord. Chem. Rev.
+390
+, 86–126 (2019).
+Article
+CAS
+Google Scholar
+Stefanoiu, D., Culita, J. & Stanasila, O. N. HYRON—an installation to produce high purity hydrogen and soft iron powder from cellulose waste.
+Materials
+12
+, 1538 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Chen, K.-J. et al. Efficient CO
+2
+removal for ultra-pure CO production by two hybrid ultramicroporous materials.
+Angew. Chem. Int. Ed.
+57
+, 3332–3336 (2018).
+Article
+CAS
+Google Scholar
+Islamoglu, T. et al. Metal–organic frameworks against toxic chemicals.
+Chem. Rev.
+120
+, 8130–8160 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Zhong, H. et al. Publisher correction: synergistic electroreduction of carbon dioxide to carbon monoxide on bimetallic layered conjugated metal–organic frameworks.
+Nat. Commun.
+11
+, 1721 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Lee, J.-S. et al. Widely controllable syngas production by a dye-sensitized TiO
+2
+hybrid system with ReI and Co
+III
+catalysts under visible-light irradiation.
+Angew. Chem. Int. Ed.
+56
+, 976–980 (2017).
+Article
+CAS
+Google Scholar
+Li, L. et al. Steering catalytic activity and selectivity of CO
+2
+photoreduction to syngas with hydroxy-rich Cu
+2
+S@ROH-NiCo
+2
+O
+3
+double-shelled nanoboxes.
+Angew. Chem. Int. Ed.
+61
+, e202205839 (2022).
+Article
+CAS
+Google Scholar
+Andrei, V., Reuillard, B. & Reisner, E. Bias-free solar syngas production by integrating a molecular cobalt catalyst with perovskite–BiVO
+4
+tandems.
+Nat. Mater.
+19
+, 189–194 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Li, C. et al. Photoelectrochemical CO
+2
+reduction to adjustable syngas on grain-boundary-mediated a-Si/TiO
+2
+/Au photocathodes with low onset potentials.
+Energy Environ. Sci.
+12
+, 923–928 (2019).
+Article
+CAS
+Google Scholar
+Kang, J. et al. Single-pass transformation of syngas into ethanol with high selectivity by triple tandem catalysis.
+Nat. Commun.
+11
+, 827 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Pedersen, S. K. et al. Main element chemistry enables gas-cylinder-free hydroformylations.
+Nat. Catal.
+3
+, 843–850 (2020).
+Article
+CAS
+Google Scholar
+Xin, Z. K. et al. Reductive carbon–carbon coupling on metal sites regulates photocatalytic CO
+2
+reduction in water using ZnSe quantum dots.
+Angew. Chem. Int. Ed.
+61
+, e202207222 (2022).
+Article
+CAS
+Google Scholar
+Arcudi, F., Ðorđević, L., Schweitzer, N., Stupp, S. I. & Weiss, E. A. Selective visible-light photocatalysis of acetylene to ethylene using a cobalt molecular catalyst and water as a proton source.
+Nat. Chem.
+14
+, 1007–1012 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Li, M. et al. PdPt alloy nanocatalysts supported on TiO
+2
+: maneuvering metal–hydrogen interactions for light-driven and water-donating selective alkyne semihydrogenation.
+Small
+13
+, 1604173 (2017).
+Article
+Google Scholar
+Zhang, L., Zhou, M., Wang, A. & Zhang, T. Selective hydrogenation over supported metal catalysts: from nanoparticles to single atoms.
+Chem. Rev.
+120
+, 683–733 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Brennführer, A., Neumann, H. & Beller, M. Palladium-catalyzed carbonylation reactions of aryl halides and related compounds.
+Angew. Chem. Int. Ed.
+48
+, 4114–4133 (2009).
+Article
+Google Scholar
+Bai, Y.-L., Tao, J., Huang, R.-B. & Zheng, L.-S. The designed assembly of augmented diamond networks from predetermined pentanuclear tetrahedral units.
+Angew. Chem. Int. Ed.
+47
+, 5344–5347 (2008).
+Article
+CAS
+Google Scholar
+Zhang, L. et al. Molecular oxidation–reduction junctions for artificial photosynthetic overall reaction.
+Proc. Natl Acad. Sci. USA
+119
+, e2210550119 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Laudadio, G. et al. C(
+sp
+3
+)–H functionalizations of light hydrocarbons using decatungstate photocatalysis in flow.
+Science
+369
+, 92–96 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, H. et al. In operando X-ray absorption fine structure studies of polyoxometalate molecular cluster batteries: polyoxometalates as electron sponges.
+J. Am. Chem. Soc.
+134
+, 4918–4924 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Yamase, T., Takabayashi, N. & Kaji, M. Solution photochemistry of tetrakis(tetrabutylammonium) decatungstate(VI) and catalytic hydrogen evolution from alcohols.
+J. Chem. Soc. Dalton Trans
+. 793–799 (1984).
+Liu, J. et al. Metal-free efficient photocatalyst for stable visible water splitting via a two-electron pathway.
+Science
+347
+, 970–974 (2015).
+Wang, P. et al. Improving photosensitization for photochemical CO
+2
+-to-CO conversion.
+Natl Sci. Rev.
+7
+, 1459–1467 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wang, J.-W. et al. Facile electron delivery from graphene template to ultrathin metal–organic layers for boosting CO
+2
+photoreduction.
+Nat. Commun.
+12
+, 813 (2021).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Goldsmith, J. I., Hudson, W. R., Lowry, M. S., Anderson, T. H. & Bernhard, S. Discovery and high-throughput screening of heteroleptic iridium complexes for photoinduced hydrogen production.
+J. Am. Chem. Soc.
+127
+, 7502–7510 (2005).
+Article
+CAS
+PubMed
+Google Scholar
+Pellegrin, Y. & Odobel, F. Sacrificial electron donor reagents for solar fuel production.
+C. R. Chim.
+20
+, 283–295 (2017).
+Article
+CAS
+Google Scholar
+Kusy, R. & Grela, K. Ligand-free (
+Z
+)-selective transfer semihydrogenation of alkynes catalyzed by in situ generated oxidizable copper nanoparticles.
+Green Chem.
+23
+, 5494–5502 (2021).
+Article
+CAS
+Google Scholar
+Huang, Z., Wang, Y., Leng, X. & Huang, Z. An amine-assisted ionic monohydride mechanism enables selective alkyne
+cis
+-semihydrogenation with ethanol: from elementary steps to catalysis.
+J. Am. Chem. Soc.
+143
+, 4824–4836 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Albani, D. et al. Selective ensembles in supported palladium sulfide nanoparticles for alkyne semi-hydrogenation.
+Nat. Commun.
+9
+, 2634 (2018).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Kurimoto, A., Sherbo, R. S., Cao, Y., Loo, N. W. X. & Berlinguette, C. P. Electrolytic deuteration of unsaturated bonds without using D
+2
+.
+Nat. Catal.
+3
+, 719–726 (2020).
+Article
+CAS
+Google Scholar
+Jean, L., Lee, C. F., Hodder, P., Hawkins, N. & Vaux, D. J. Dynamics of the formation of a hydrogel by a pathogenic amyloid peptide: islet amyloid polypeptide.
+Sci. Rep.
+6
+, 32124 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Yu, J., Chen, W., He, F., Song, W. & Cao, C. Electronic oxide–support strong interactions in the graphdiyne-supported cuprous oxide nanocluster catalyst.
+J. Am. Chem. Soc.
+145
+, 1803–1810 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Kominami, H. et al. Copper-modified titanium dioxide: a simple photocatalyst for the chemoselective and diastereoselective hydrogenation of alkynes to alkenes under additive-free conditions.
+ChemCatChem.
+8
+, 2019–2022 (2016).
+Article
+CAS
+Google Scholar
+Zhao, E. et al. Transfer hydrogenation with a carbon-nitride-supported palladium single-atom photocatalyst and water as a proton source.
+Angew. Chem. Int. Ed.
+61
+, e202207410 (2022).
+Article
+CAS
+Google Scholar
+Zhu, K. et al. Unraveling the role of interfacial water structure in electrochemical semihydrogenation of alkynes.
+ACS Catal.
+12
+, 4840–4847 (2022).
+Article
+CAS
+Google Scholar
+He, Q. et al. Electrochemical hydrogen evolution at the interface of monolayer VS
+2
+and water from first-principles calculations.
+ACS Appl. Mater. Interfaces
+11
+, 2944–2949 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Zhao, X. et al. Thiol treatment creates selective palladium catalysts for semihydrogenation of internal alkynes.
+Chem.
+4
+, 1080–1091 (2018).
+Article
+CAS
+Google Scholar
+Nielsen, D. U., Hu, X.-M., Daasbjerg, K. & Skrydstrup, T. Chemically and electrochemically catalysed conversion of CO
+2
+to CO with follow-up utilization to value-added chemicals.
+Nat. Catal.
+1
+, 244–254 (2018).
+Article
+CAS
+Google Scholar
+Sang, R. et al. A practical concept for catalytic carbonylations using carbon dioxide.
+Nat. Commun.
+13
+, 4432 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wu, Y. et al. Electrochemical palladium-catalyzed oxidative sonogashira carbonylation of arylhydrazines and alkynes to ynones.
+J. Am. Chem. Soc.
+143
+, 12460–12466 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Hermange, P. et al. Ex situ generation of stoichiometric and substoichiometric
+12
+CO and
+13
+CO and its efficient incorporation in palladium catalyzed aminocarbonylations.
+J. Am. Chem. Soc.
+133
+, 6061–6071 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Download references
+Acknowledgements
+This work was financially supported by National Natural Science Foundation of China (No. 22225109 to Y.-Q.L., 22271104 to J.L., 22201082 to L.Z. and 92061101 to J.L.); the Excellent Youth Foundation of Jiangsu Scientific Committee (BK20211593 to J.L.); and the GuangDong Basic and Applied Basic Research Foundation (No. 2021A1515110429 to L.Z.).
+Author information
+Authors and Affiliations
+School of Chemistry, South China Normal University, Guangzhou, People’s Republic of China
+Yuan-Sheng Xia, Lei Zhang, Long-Zhang Dong, Jiang Liu & Ya-Qian Lan
+Jiangsu Collaborative Innovation Centre of Biomedical Functional Materials, Jiangsu Key Laboratory of New Power Batteries, School of Chemistry and Materials Science, Nanjing Normal University, Nanjing, People’s Republic of China
+Jia-Ni Lu, Xin-Hui Zhao, Jiang Liu & Ya-Qian Lan
+Authors
+Yuan-Sheng Xia
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Lei Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jia-Ni Lu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xin-Hui Zhao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Long-Zhang Dong
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiang Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ya-Qian Lan
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Y.-S.X., L.Z. and J.-N.L. contributed equally to this work. Y.-Q.L., J.L. and Y.-S.X. conceived and designed the idea. L.Z. and Y.-S.X. synthesized the Ni cluster-based catalysts. Y.-S.X. and X.-H.Z. conducted the characterizations and designed the tandem catalytic reaction experiments. Y.-S.X., L.Z. and L.-Z.D. assisted with dealing with the data of SCXRD. Y.-Q.L., J.L., J.-N.L. and Y.-S.X. discussed the result and prepared the manuscript. All the authors reviewed and contributed to this paper.
+Corresponding authors
+Correspondence to
+Jiang Liu
+or
+Ya-Qian Lan
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Synthesis
+thanks the anonymous reviewers for their contribution to the peer review of this work. Primary Handling Editor: Alexandra Groves, in collaboration with the
+Nature Synthesis
+team.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–61, Tables 1–12 and Notes 1–31, and NMR spectra.
+Supplementary Data 1
+Crystallographic data for
+Ni
+5
+W
+10
+, CCDC
+2215238
+.
+Supplementary Data 2
+Crystallographic data for
+Ni
+6
+W
+10
+, CCDC
+2215237
+.
+Supplementary Data 3
+DFT modelling of adsorption of different alkyne substrates on
+Ni
+6
+W
+10
+for Supplementary Fig. 56.
+Source data
+Source Data Fig. 3
+One-pot tandem reaction data.
+Source Data Table 1
+Semi-hydrogenation reaction data.
+Source Data Fig. 4
+Computational calculations.
+Source Data Fig. 6
+Triple tandem reaction data.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Xia, YS., Zhang, L., Lu, JN.
+et al.
+A triple tandem reaction for the upcycling of products from poorly selective CO
+2
+photoreduction systems.
+Nat. Synth
+3
+, 406–418 (2024). https://doi.org/10.1038/s44160-023-00458-5
+Download citation
+Received
+:
+16 December 2022
+Accepted
+:
+13 November 2023
+Published
+:
+04 January 2024
+Issue Date
+:
+March 2024
+DOI
+:
+https://doi.org/10.1038/s44160-023-00458-5
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+Our publishing models
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Synthesis
+(
+Nat. Synth
+)
+ISSN
+2731-0582
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

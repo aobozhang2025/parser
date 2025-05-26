@@ -1,0 +1,2265 @@
+Photochemical tuning of dynamic defects for high-performance atomically dispersed catalysts | Nature Materials
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature materials
+articles
+article
+Photochemical tuning of dynamic defects for high-performance atomically dispersed catalysts
+Download PDF
+Article
+Published:
+05 February 2024
+Photochemical tuning of dynamic defects for high-performance atomically dispersed catalysts
+Chan Woo Lee
+ORCID:
+orcid.org/0000-0002-9358-6893
+1
+,
+2
+na1
+,
+Byoung-Hoon Lee
+ORCID:
+orcid.org/0000-0002-0482-2859
+1
+,
+3
+na1
+,
+Sunghak Park
+4
+na1
+,
+Yoon Jung
+1
+,
+2
+,
+Jaebeom Han
+5
+,
+Junhyeok Heo
+1
+,
+2
+,
+Kangjae Lee
+1
+,
+2
+,
+Wonjae Ko
+ORCID:
+orcid.org/0000-0002-8806-6789
+1
+,
+2
+,
+Seungwoo Yoo
+1
+,
+2
+,
+Megalamane S. Bootharaju
+1
+,
+Jaeyune Ryu
+2
+,
+Ki Tae Nam
+ORCID:
+orcid.org/0000-0001-6353-8877
+4
+,
+Minho Kim
+ORCID:
+orcid.org/0000-0002-5886-2469
+5
+&
+…
+Taeghwan Hyeon
+ORCID:
+orcid.org/0000-0001-5959-6257
+1
+,
+2
+Show authors
+Nature Materials
+volume
+23
+,
+pages
+552–559 (
+2024
+)
+Cite this article
+13k
+Accesses
+12
+Altmetric
+Metrics
+details
+Subjects
+Materials for energy and catalysis
+Photocatalysis
+Abstract
+Developing active and stable atomically dispersed catalysts is challenging because of weak non-specific interactions between catalytically active metal atoms and supports. Here we demonstrate a general method for synthesizing atomically dispersed catalysts via photochemical defect tuning for controlling oxygen-vacancy dynamics, which can induce specific metal–support interactions. The developed synthesis method offers metal-dynamically stabilized atomic catalysts, and it can be applied to reducible metal oxides, including TiO
+2
+, ZnO and CeO
+2
+, containing various catalytically active transition metals, including Pt, Ir and Cu. The optimized Pt-DSA/TiO
+2
+shows unprecedentedly high photocatalytic hydrogen evolution activity, producing 164 mmol g
+−1
+h
+−1
+with a turnover frequency of 1.27 s
+−1
+. Furthermore, it generates 42.2 mmol g
+sub
+−1
+of hydrogen via a non-recyclable-plastic-photoreforming process, achieving a total conversion of 98%; this offers a promising solution for mitigating plastic waste and simultaneously producing valuable energy sources.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Site-specific electrodeposition enables self-terminating growth of atomically dispersed metal catalysts
+Article
+Open access
+11 September 2020
+Functional CeO
+x
+nanoglues for robust atomically dispersed catalysts
+Article
+26 October 2022
+Location-selective immobilisation of single-atom catalysts on the surface or within the interior of ionic nanocrystals using coordination chemistry
+Article
+Open access
+15 July 2023
+Main
+Atomically dispersed catalysts (ADCs) offer maximum atomic utilization efficiency and promise great potential in lowering the cost of industrial chemical processes. ADCs exhibit unique physicochemical properties underpinned by unusual local coordination environments of metal atom centres, which give rise to catalytic pathways distinct from those found in conventional nanoparticle counterparts
+1
+,
+2
+,
+3
+,
+4
+,
+5
+. Utilizing these features, ADCs can exhibit unparalleled catalytic performance in various reactions, including thermochemical
+6
+,
+7
+, electrochemical
+8
+,
+9
+,
+10
+,
+11
+and photochemical transformations
+12
+,
+13
+.
+Metal–support interactions at the interface of metals and oxides are key components that often determine the activity and stability of conventional heterogeneous catalysts. At the atomic limit, the local coordination environment of an atomic catalyst determines the interface with oxide support and the properties of this metal atom–support interaction. Therefore, the bonding nature in an atomic catalyst determines the unique properties (such as activity and stability) of ADCs
+14
+,
+15
+,
+16
+. Typically, ADCs are synthesized on oxide supports using their natural defect sites on the surface, such as vacancies, steps, grain boundaries and dislocations, to anchor catalytically active atoms
+17
+,
+18
+. However, this anchoring approach typically leads to the formation of inhomogeneous local configurations due to the non-specific stabilization of various types of surface defect site. Furthermore, these non-specific interactions between metals and supports often lead to undesired agglomeration under reaction conditions because atomic catalysts are weakly stabilized and mobile. To enhance the catalytic activity and stability of ADCs by promoting specific interactions between metals and supports, researchers have attempted to employ specific ligand scaffolds on the surface. However, this method often involves either a complicated bottom-up synthesis process or harsh high-temperature doping conditions, resulting in low synthesis controllability
+19
+,
+20
+,
+21
+,
+22
+. For these reasons, simultaneously achieving high stability and activity in ADCs, especially in industrially important supported catalysts, remains a great challenge.
+Defect dynamics of reducible oxides can be tuned for steering the metal–support interactions of ADCs
+23
+,
+24
+,
+25
+,
+26
+,
+27
+. This can be achieved through electrostatic or chemical stimulation, which affects the location and population of point defects in oxides such as TiO
+2
+, ZnO and CeO
+2
+. For example, by introducing excess negative charges to anatase TiO
+2
+, bulk oxygen vacancies (V
+O
+s) can migrate towards reactive centres on the surface
+28
+. Additionally, treating reducible oxides with hydrogen can shift the surface disorder with V
+O
+s and change their energetics
+29
+,
+30
+. Despite these findings, however, there is still a need for a general mechanistic framework to better control and optimize surface defects as well as associated metal–support interactions for simultaneously improving the activity and stability of ADCs.
+Here we report a photochemical-defect-tuning strategy for controlling V
+O
+dynamics, which can be used as a general method for the synthesis of high-performance ADCs. We show that light irradiation on reducible oxides leads to the accumulation of negative surface charges under the photocatalytic hydrogen evolution reaction (HER) condition, which induce the migration of bulk V
+O
+s to form reactive surface sites (namely, Ti
+3+
+–V
+O
+pairs), subsequently enabling the selective coordination and reductive deposition of metal atoms through specific interactions. The developed method for tuning photochemical surface defects can produce diverse dynamically stabilized atomic (DSA) catalysts with various supports, including various reducible oxides such as TiO
+2
+, ZnO and CeO
+2
+, and catalytically active transition metals including Pt, Ir and Cu. The utility of our synthesis method is further manifested by the optimized Pt atom catalyst on TiO
+2
+(Pt-DSA/TiO
+2
+), which exhibits unparalleled reactivity for the photocatalytic H
+2
+evolution of 164 mmol g
+−1
+h
+−1
+as well as the photoreforming of non-recyclable plastic (poly(ethylene terephthalate) (PET)) with an extraordinary total conversion of 98%.
+Computational study of Pt-DSA/TiO
+2
+formation process
+At the outset of this study, we examined the mechanistic feasibility of the photochemical-defect-tuning strategy. We chose anatase TiO
+2
+as a model oxide system and investigated its defect dynamics on the synthesis of corresponding ADCs using density functional theory (DFT) calculations (Fig.
+1
+). The computational results suggest that after light irradiation, the migration of bulk V
+O
+s to the surface is accompanied by a change in the oxidation states of adjacent Ti sites, which is expected to be thermodynamically favourable and kinetically competent (Fig.
+1a
+, left). The spin density calculation also predicts the generation of a four-coordinated Ti
+3+
+site (4cTi) next to the migrated V
+O
+s, featured by its high spin density with the corresponding magnetic moment (0.71
+μ
+B
+) (Fig.
+1a
+, middle). The induced 4cTi site can then function as a reactive centre for the adsorption of a Pt
+4+
+precursor followed by surface reconstruction (Fig.
+1a
+, right). The incorporation of Pt on the 4cTi site is expected to be highly favourable (−1.96 eV), showing its strong thermodynamic preference to other Pt incorporation events on different sites with the same surface V
+O
+s (Fig.
+1b
+). Considering the cohesion energy of a bulk Pt
+0
+state from a Pt
+4+
+ion (+1.52 eV), the formation of the Pt-DSA state on the 4cTi site should outcompete the agglomeration of Pt atoms. On the basis of these theoretical guideposts, we propose a simplified mechanistic scheme for the photoinduced synthesis of ADCs on TiO
+2
+. After light irradiation, excessive photoexcited electrons can be trapped at the surface sites under the photocatalytic HER condition, inducing the migration of bulk V
+O
+s to form surface Ti
+3+
+–V
+O
+pairs. These Ti
+3+
+–V
+O
+pairs would be highly reactive for the selective binding of metal atoms through specific metal atom–support interactions, where the localized electrons would drive surface reconstruction for formulating stable ADCs.
+Fig. 1: DFT simulation of Ti
+3+
+formation at V
+O
+.
+a
+, Thermodynamics of the migration of V
+O
+s to the surface and Pt adsorption by the reorganization of surface Ti ions (changes in Gibbs free energy from the leftmost structure, in electronvolts). The corresponding structures with spin density plots (yellow) and V
+O
+sites (blue circles) (bottom).
+b
+, Formation energy of Pt-DSA, namely,
+E
+f
+(Pt-DSA/TiO
+2
+), at various sites shown in the top, compared with bulk Pt
+0
+cohesion from precursor Pt
+4+
+ions. Three possible adsorption sites (bridge, hollow and 4cTi) are considered after the formation of surface V
+O
+s (the first structure, top). Methods provides more information on the calculation. Colour legends: blue, Ti; red, O; grey, Pt.
+Full size image
+EPR study and characterization of Pt-DSA/TiO
+2
+Our experimental observations show agreements with the suggested photoinduced mechanism for the synthesis of ADCs (Fig.
+2
+). Under deaerated conditions, anatase TiO
+2
+showed a distinct electron paramagnetic resonance (EPR) signal at
+g
+= 2.00, corresponding to native Ti
+3+
+states with electron-trapped O
+−
+species from bulk V
+O
+s
+31
+. Ultraviolet–visible (UV–vis) light irradiation gave rise to a new EPR signal at
+g
+= 1.97, which we attribute to the emergence of disparate Ti
+3+
+states and coupled V
+O
+s
+32
+. Importantly, the rise of the new signal arises at the expense of a decrease in the original signal (Fig.
+2a
+), which is in line with the proposed photoinduced migration of V
+O
+s (and coupled Ti
+3+
+states). We also noticed that the colour of the TiO
+2
+dispersion changed from white to blue on light illumination (Extended Data Fig.
+1
+), which is an indication of charge accumulation at the trap states
+33
+. When Pt precursors were added to the photoactivated TiO
+2
+, its blue colour got quickly quenched, whereas the photoinduced EPR signal concurrently disappeared with the restoration of the original signal but in reduced intensity. The introduction of O
+2
+to the photoactivated TiO
+2
+in the absence of metal precursors also quenched the photoinduced EPR signal and the original signal was retrieved with almost the same intensity as its initial state (Fig.
+2b
+). These results in aggregate—consistent with the above theoretical predictions—show the migration of bulk V
+O
+s to the surface with the aid of photogenerated electrons, which can serve as reactive interfacial sites for the atomistic deposition of metals.
+Fig. 2: Characterization of Pt-DSA/TiO
+2
+.
+a
+, EPR spectra to investigate Pt deposition on photochemically generated defects in TiO
+2
+.
+b
+, EPR spectra to investigate the air regeneration process of photoirradiated TiO
+2
+.
+c
+, Cs-STEM images of Pt-DSA/TiO
+2
+(bright dots represent Pt atoms).
+d
+, STEM-EDS elemental mapping of Pt-DSA/TiO
+2
+.
+e
+, Extended XAFS spectra of Pt-DSA/TiO
+2
+, Pt-NP/TiO
+2
+, PtO
+2
+and reference Pt foil.
+f
+, XPS spectrum of Pt-DSA/TiO
+2
+(pink line indicates Al2
+p
+, which originates from residual Al in commercial anatase TiO
+2
+(Supplementary Fig.
+1a
+)).
+g
+, X-ray absorption near-edge structure spectra of Pt-DSA/TiO
+2
+, PtO
+2
+and Pt foil. The Pt loading amount is 0.7 wt% for all the samples.
+Source data
+Full size image
+Additional characterization corroborates the successful atomic deposition of Pt on TiO
+2
+(Pt-DSA/TiO
+2
+), following the suggested photoinduced mechanism. Spherical-aberration-corrected scanning transmission electron microscopy (Cs-STEM) (Fig.
+2c
+) and energy-dispersive spectroscopy (EDS) elemental mapping analysis (Fig.
+2d
+) showed the uniform dispersion of atomic Pt on TiO
+2
+without the formation of Pt aggregates or nanoparticles, which is further substantiated by the X-ray diffraction (XRD) data, showing an absence of solid Pt phase within the sample (Extended Data Fig.
+6a
+). In particular, a severe aggregation of Pt was observed when the same light illumination was applied to a mixture of Pt precursor and TiO
+2
+(Extended Data Fig.
+2a
+), suggesting that the preinduction of surface V
+O
+s (and Ti
+3+
+) and electronic charge accumulation on TiO
+2
+are crucial for formulating stable Pt-single-atom-deposited TiO
+2
+. Extended X-ray absorption fine structure (XAFS), X-ray absorption near-edge structure and X-ray photoelectron spectroscopy (XPS) analyses further proved the atomic valence state of Pt within Pt-DSA/TiO
+2
+. The extended XAFS spectrum of Pt-DSA/TiO
+2
+appears completely disparate and exclusive from that of Pt foil and Pt nanoparticles on TiO
+2
+(Pt-NP/TiO
+2
+) and shows a distinctive peak at 1.67 Å, corresponding to the local coordination between Pt and O (Fig.
+2e
+). The XPS spectrum of Pt-DSA/TiO
+2
+shows Pt in the 2+ oxidation state (Fig.
+2f
+), which is in line with the X-ray absorption near-edge structure spectra, where the measured white-light intensity maximum of normalized absorption appears at ~11,568 eV (ref.
+34
+) and is placed between the Pt foil and PtO
+2
+(Fig.
+2g
+).
+To validate the advantages of our photochemical-defect-tuning strategy, we conducted a comparative analysis between Pt-DSA/TiO
+2
+and a single Pt atom deposited on hydrogenated TiO
+2
+(Pt-SA/hydrogenated TiO
+2
+) that was prepared by the conventional wet-impregnation method (Extended Data Fig.
+3
+)
+35
+,
+36
+. The hydrogen treatment at high temperatures is known to induce surface disorder or defects. When we subjected commercial TiO
+2
+to reduction at 500 °C in a 10% H
+2
+/Ar atmosphere, signals related only to bulk V
+O
+defects were observed (
+g
+= 2.00), and surface V
+O
+defects were not generated (Extended Data Fig.
+3a
+). On depositing Pt onto hydrogenated TiO
+2
+using the same precursor concentration and stabilization time as those used for Pt-DSA 0.7 wt%/TiO
+2
+, distinct EPR signals of Pt
+δ
++
+(Pt
++
+or Pt
+3+
+) appeared. These EPR signals were not present in Pt-DSA/TiO
+2
+, because our photochemical-defect-tuning synthesis process exclusively leads to the formation of EPR-silent Pt
+2+
+. Furthermore, scanning transmission electron microscopy (STEM) imaging, EDS elemental mapping and XPS data of Pt-SA/hydrogenated TiO
+2
+indicated that a certain portion of Pt atoms were severely agglomerated (Extended Data Fig.
+3b,c
+). In conclusion, the Pt deposition process in Pt-DSA/TiO
+2
+involves a specific interaction between the induced Pt atoms and reversible surface V
+O
+defects, which gives rise to the specific Pt
+2+
+state following dynamic surface reconstruction. On the other hand, Pt deposition on hydrogenated TiO
+2
+involves non-specific interactions with irreversible surface disorders, leading to a mixed Pt state and severe agglomeration (Extended Data Fig.
+3d
+).
+General application of the DSA synthesis method
+With the established synthesis method in hand (Fig.
+3a
+), we next examined its general applicability towards the synthesis of various ADCs. We applied the same photochemical protocol for the deposition of Pt on different reducible oxides, such as ZnO and CeO
+2
+(Fig.
+3
+). Although the EPR tracking analyses alone remain insufficient to reveal the detailed defect dynamics of ZnO and CeO
+2
+, we were able to qualitatively observe similar trends in the variation in their EPR traces on photoactivation and subsequent quenching with the addition of Pt precursors. ZnO showed a distinct EPR signal at
+g
+= 1.956 related to singly ionized bulk V
+O
+s inside ZnO (ref.
+37
+). These bulk V
+O
+s decreased after irradiation due to their migration to the surface, with surface V
+O
+s exhibiting a signal at a slightly higher
+g
+value at
+g
+= 1.96 (ref.
+38
+). Surface V
+O
+s quickly vanished with Pt atom deposition along with a partial recovery of bulk V
+O
+s (Fig.
+3b
+). The air exposure experiment conducted on irradiated ZnO indicated that the atomic deposition of Pt on ZnO, facilitated by the generation of surface V
+O
+s through photoirradiation (Extended Data Fig.
+4a
+), occurs similar to the deposition of Pt on TiO
+2
+(Pt-DSA/TiO
+2
+).
+Fig. 3: Generalization of the DSA synthesis method to other supports and metal atoms.
+a
+, Schematic of the formation of DSA catalysts by photochemical surface defect tuning with V
+O
+migration process.
+b
+,
+c
+, EPR spectra to investigate Pt deposition on photochemically generated defects in ZnO (
+b
+) and CeO
+2
+(
+c
+). The inset in
+b
+provides a closer look at the EPR peak before and after light irradiation on ZnO.
+d
+–
+f
+, Cs-STEM images and STEM-EDS elemental mapping images of M(Ir, Cu)-DSA/TiO
+2
+(
+d
+), M(Pt, Ir, Cu)-DSA/ZnO (
+e
+) and M(Ir, Cu)-DSA/CeO
+2
+(
+f
+).
+Source data
+Full size image
+In the case of CeO
+2
+, various distinctive EPR signals were observed. The signals corresponding to Ce
+3+
+(
+g
+= 1.87, 1.92, 2.09 and 2.15), Ce
+3+
+–O
+−
+–Ce
+4+
+surface defects (
+g
+= 1.96) and O
+2−
+(
+g
+= 2.03) appeared
+39
+,
+40
+. After photoirradiation, the Ce
+3+
+–O
+−
+–Ce
+4+
+surface defect signal disappeared along with an increase in Ce
+3+
+signals, indicating the formation of surface V
+O
+s on CeO
+2
+. The addition of Pt precursor to photoirradiated CeO
+2
+can instantly reduce Ce
+3+
+signals along with the deposition of Pt atoms. The restoration of surface V
+O
+s by air exposure confirmed that the defects were consumed by the deposition of Pt atoms on the surface (Fig.
+3c
+and Extended Data Fig.
+4b
+).
+Together with these observations, the atomic state of Pt and its uniform dispersity within the correspondingly prepared materials (Pt-DSA/ZnO and Pt-DSA/CeO
+2
+) (as confirmed by Cs-STEM with EDS mapping (Fig.
+3e,f
+) as well as XPS and XRD analyses (Extended Data Fig.
+6
+)) evince the operation of analogous photoinduced-defect-tuning mechanism for the synthesis of ADCs on these various supports. We also found that the same photochemical protocol generally works for the atomic deposition of Ir and Cu on TiO
+2
+, ZnO and CeO
+2
+(Fig.
+3d–f
+and Extended Data Fig.
+7
+), clearly manifesting its general applicability (Extended Data Fig.
+5
+).
+The conventional wet-impregnation method using hydrogenated supports cannot be expended to the deposition of metal atoms (Pt, Ir and Cu) on hydrogenated ZnO and CeO
+2
+. Following reduction in a H
+2
+/Ar atmosphere, the EPR signals associated with oxygen defects greatly diminished, and there was no decrease in surface defects on metal deposition. Moreover, inductively coupled plasma atomic emission spectroscopy and XPS data revealed that the loading amounts of metal atoms were relatively low and the oxidation states of metals were randomly mixed due to non-specific interactions, in contrast to the DSA catalysts (Supplementary Figs.
+4
+–
+9
+provide detailed explanations).
+Photocatalytic applications
+We next studied how the atomic state and specific metal–support interaction that our photoactivation process engendered affect the catalytic performance. As a model system, we selected Pt-DSA/TiO
+2
+to investigate photocatalytic HER in the presence of methanol as a hole scavenger. The HER activity of Pt-DSA/TiO
+2
+showed almost 1:1 correlation with the loaded amount of Pt (0.25–0.70 wt%) (Fig.
+4a,b
+). In particular, the recorded activity translates to constant turnover frequency (TOF) values within 1.2–1.3 s
+−1
+(Fig.
+4c
+), which supports the formation of homogeneous atomic Pt active sites across all the loading amounts. Furthermore, these TOF values are higher than any other reported TiO
+2
+-based photocatalysts with a co-catalyst loading of more than 0.1 wt%. The Pt-DSA (0.7 wt%) catalyst, with a TOF of 1.27 s
+−1
+, produced H
+2
+at a rate of 164 mmol g
+−1
+h
+−1
+, which is higher than the rates produced by other catalysts, including an atomic Pt catalyst on TiO
+2
+(Pt-SA/TiO
+2
+), Pt-SA/hydrogenated TiO
+2
+synthesized through a conventional wet-impregnation method, physisorbed Pt nanoparticles on TiO
+2
+(Pt-NP/TiO
+2
+) (Extended Data Fig.
+2b
+) and other recently reported state-of-the-art photocatalysts (Extended Data Table
+1
+). This exceptional catalytic activity manifests the beneficial role of the specific interaction between Pt atom and TiO
+2
+uniquely formulated by our photoinduced atomic deposition method. It is worth noting that the wet-impregnation method used to prepare Pt-SA/TiO
+2
+and Pt-SA/hydrogenated TiO
+2
+has a limited ability to improve their catalytic performance due to low and inconsistent metal loading (Fig.
+4d
+and Supplementary Figs.
+2
+and
+3
+)
+41
+. Moreover, the stability of the catalysts synthesized by the wet-impregnation method was poor because Pt atoms are deposited on irreversible surface disorders through non-specific interactions. Additionally, increasing the loading amount through the physisorption of nanoparticles led to a decrease in TOF (Fig.
+4c
+, inset), because it can lead to the agglomeration or change in the local coordination between the metal species and support. In contrast to these systems, our catalyst accommodates the optimized atomically dispersed Pt coordination sites as evinced by its excellent catalytic activity and stability (Fig.
+4d
+), highlighting the critical role of photoactivation in facilitating desirable atomic deposition through the formulation of active and robust interfacial sites.
+Fig. 4: Photocatalytic HER.
+a
+, Photocatalytic HER activity of Pt-DSA/TiO
+2
+at different Pt loading values.
+b
+, Photocatalytic HER activity of Pt-NP/TiO
+2
+and Pt-DSA/TiO
+2
+at different Pt loading values.
+c
+, HER TOF (s
+−1
+) of the catalysts shown in
+b
+. The inset provides a closer look at the major TOF (s
+−1
+) change in Pt-NP/TiO
+2
+with increasing Pt deposition amount.
+d
+, Four consecutive HER measurements with a 1 h interval were conducted using Pt-DSA/TiO
+2
+and Pt-SA/hydrogenated TiO
+2
+. Although the activity of Pt-DSA/TiO
+2
+remained consistent throughout the experiments, the activity of Pt-SA/hydrogenated TiO
+2
+decreased by more than 15%. The reactions were conducted under a light intensity of 100 mW cm
+–2
+.
+Source data
+Full size image
+To explore more practical possibilities of our Pt-DSA/TiO
+2
+catalyst, we conducted photocatalytic H
+2
+production with the photoreforming reaction of PET, which is known to be an ideal solution for reducing plastic waste and producing valuable energy resources and chemicals
+42
+,
+43
+. When we compared the initial H
+2
+generation activities of Pt-DSA/TiO
+2
+, Pt-SA/hydrogenated TiO
+2
+and Pt-NP/TiO
+2
+catalysts in the presence of PET as a hole scavenger (Fig.
+5a
+), the activity of Pt-DSA/TiO
+2
+(2.14 mmol g
+sub
+−1
+h
+−1
+) was found to be almost two-fold higher than that of Pt-SA/hydrogenated TiO
+2
+and Pt-NP/TiO
+2
+. Furthermore, we conducted a long-term photoreforming test, which showed 98% substrate conversion after 40 h of reaction (Fig.
+5c
+). The conversion was calculated based on the provided chemical reaction equations (Methods), and the generated hydrogen amounts agree with the stoichiometric amounts, which were calculated based on the consumed amounts of reactants measured by
+1
+H nuclear magnetic resonance (NMR) spectra (Fig.
+5e
+and Extended Data Fig.
+8
+). Additionally, the NMR data show that the Pt-DSA/TiO
+2
+catalyst utilizes terephthalic acid (TPA) as a reactant, along with ethylene glycol (EG) (Fig.
+5d
+), resulting in exceptionally high conversion in the photoreforming of PET (Table
+1
+). We note that the performance of Pt-DSA (2.14 mmol g
+sub
+−1
+h
+−1
+and 42.2 mmol g
+sub
+−1
+with a conversion of 98% over 40 h) in PET reforming is one of the highest activities among all the reported catalysts (Extended Data Table
+2
+), and closely approaches the required performance (4.00 mmol g
+sub
+−1
+h
+−1
+, 50% conversion per day) for practical-stage hydrogen production by photoreforming
+44
+. Finally, a cyclic measurement was conducted on a larger scale to evaluate the practicality and durability of the catalyst. As shown in Fig.
+5b
+, the reaction produced 22.4 ml H
+2
+(1 mmol H
+2
+) after an 8 h reaction on a 100 ml scale. The catalyst maintained more than 80% of its initial activity after three successive reaction cycles.
+Fig. 5: Hydrogen generation by PET photoreforming.
+a
+, Initial yield of hydrogen evolution through PET photoreforming using Pt-DSA/TiO
+2
+, Pt-SA/hydrogenated TiO
+2
+and Pt-NP/TiO
+2
+. Reaction conditions: catalyst, 50 mg; pretreated PET solution (10 g l
+–1
+in 2 M KOH), 2 ml; water, 8 ml.
+b
+, Scale-up and long-term cyclic PET-photoreforming measurement of Pt-DSA/TiO
+2
+. Reaction conditions: catalyst, 100 mg; pretreated PET solution, 20 ml; water, 80 ml.
+c
+, PET-to-hydrogen conversion during 40 h of photoreforming. Reaction conditions are the same as in
+a
+.
+d
+, Schematic of PET photoreforming using Pt-DSA/TiO
+2
+.
+e
+,
+1
+H NMR spectra before and after 40 h of the photoreforming reaction using Pt-DSA/TiO
+2
+. TPA was detected as a form of terephthalate in the
+1
+H NMR (D
+2
+O condition) data. All the photocatalytic reactions were conducted under a light intensity of 100 mW cm
+–2
+.
+Source data
+Full size image
+Table 1 Comparison between photocatalysts regarding hydrogen generation through PET photoreforming
+Full size table
+Conclusions
+To conclude, we present a comprehensive study on the development of a universal synthesis approach for ADCs with high activity and stability using the intentional photoinduced perturbation of defect dynamics. We showed a mechanistic framework that light irradiation on reducible oxides under the photocatalytic HER condition engenders surface V
+O
+s as active sites that enable the selective coordination of metal atoms through specific interactions. The developed method was generally applied to various reducible oxides (TiO
+2
+, ZnO and CeO
+2
+) to formulate DSA catalysts with different transition metals (Pt, Ir and Cu). The utility of our synthesis method is further manifested by the optimized Pt atom catalyst on TiO
+2
+(Pt-DSA/TiO
+2
+), which exhibits unparalleled activity for photocatalytic H
+2
+evolution as well as for the practical photoreforming of non-recyclable plastic—PET.
+Methods
+Materials
+TiO
+2
+(anatase, <25 nm, 99.70%, lot no. MKCN0838), ZnO (<50 nm, >97.00%, lot no. MKCN6233), CeO
+2
+(<25 nm, lot no. MKCK1143), chloroplatinic acid(
+iv
+) solution (H
+2
+PtCl
+6
+, 8 wt% in H
+2
+O), hydrogen hexachloroiridate(
+iv
+) hydrate (H
+2
+IrCl
+6
+, 99.90%), copper(
+ii
+) chloride dihydrate (CuCl
+2
+·2H
+2
+O, 99.00%), KOH (semiconductor grade, 99.99%), TPA (98.00%), 3-(trimethylsilyl)-1-propanesulfonic acid sodium salt (97.00%), dimethyl sulfoxide (99.90%) and deuterium oxide (D
+2
+O, 99.90 at.% D) were purchased from Sigma-Aldrich. Methanol (99.8%) was purchased from Samchun Chemical. PET powder was purchased from Goodfellow.
+Computational details
+DFT simulations were performed by using the Vienna ab initio simulation package v. 5.4.1 (ref.
+47
+) with pseudopotentials obtained using the projector augmented-wave method
+48
+. The Perdew–Burke–Ernzerhof functional
+49
+was employed for an exchange–correlation approximation. Kinetic-energy cutoff for a plane-wave basis set was 450 eV, and a Monkhorst–Pack 3 × 4 × 1
+k
+-grid was applied for a periodic slab model. The vacuum slab was set as 12 Å thick.
+Atom substitution energy
+50
+was calculated as
+$${E}^{{\rm{f}}}({\rm{Pt}}-{\rm{DSA}}/{{\rm{TiO}}}_{2})={E}_{{\rm{tot}}}({\rm{Pt}}-{\rm{DSA}}/{{\rm{TiO}}}_{2})-{E}_{{\rm{tot}}}({{\rm{TiO}}}_{2})+{\mu }_{{\rm{Ti}}}-{\mu }_{{\rm{Pt}}},$$
+where
+µ
+Ti
+=
+E
+(Ti
+hcp
+) + Δ
+µ
+Ti
+and
+µ
+Pt
+=
+E
+(Pt
+fcc
+) + Δ
+µ
+Pt
+. The total energies of metallic Ti and Pt, namely,
+E
+(Ti
+hcp
+) and
+E
+(Pt
+fcc
+), respectively, were referenced to the hexagonal closed-packed (hcp) Ti and face-centred cubic (fcc) Pt, respectively. Also, Δ
+µ
+Ti
+and Δ
+µ
+Pt
+stand for the difference in chemical potentials of Ti and Pt from their reference states, assuming the following Ti
+4+
+(anatase TiO
+2
+) and Pt
+4+
+(PtO
+2
+) states:
+$$\Delta {\mu }_{{\rm{Ti}}}+2\Delta {\mu }_{{\rm{O}}}=\Delta {H}_{{\rm{f}}}({{\rm{TiO}}}_{2}),$$
+$$\Delta {\mu }_{{\rm{Pt}}}+2\Delta {\mu }_{{\rm{O}}}=\Delta {H}_{{\rm{f}}}({{\rm{PtO}}}_{2}),$$
+where Δ
+µ
+O
+= 0 under O-rich conditions as referenced to an O
+2
+molecule, Δ
+µ
+Ti
+= Δ
+H
+f
+(TiO
+2
+) = –9.23 eV and Δ
+µ
+Pt
+= –1.52 eV.
+For comparison, the Pt cohesion energy was calculated with respect to the precursor state, namely, Pt
+4+
+. The Pt cohesion energy is defined as
+$$E({{\rm{Pt}}}_{{\rm{fcc}}})={E}_{{\rm{tot}}}({{\rm{Pt}}}_{{\rm{fcc}}})-{\mu }_{{\rm{Pt}}},$$
+where Δ
+µ
+Pt
+is referenced to atomic Pt for Pt cohesion from Pt atoms and to the Pt
+4+
+state under O-rich conditions.
+$$\Delta {\mu }_{{\rm{Pt}}}=\Delta {H}_{{\rm{f}}}({{\rm{Pt}}}_{{\rm{atom}}})=\Delta {H}_{{\rm{at}}}({{\rm{Pt}}}_{{\rm{fcc}}})({\rm{cohesion}}\,{\rm{from}}\,{\rm{Pt}}\,{\rm{atom}})$$
+$$\Delta {\mu }_{{\rm{Pt}}}+2\Delta {\mu }_{{\rm{O}}}=\Delta {H}_{{\rm{f}}}({{\rm{PtO}}}_{2})({\rm{cohesion}}\,{\rm{from}}\,{\rm{Pt}}^{4+}\,{\text{under O}}^{-}{\text{-rich conditions}})$$
+Therefore,
+E
+(Pt
+fcc
+) = –Δ
+H
+at
+(Pt
+fcc
+) = –5.85 eV for Pt cohesion from atomic Pt
+0
+, whereas
+E
+(Pt
+fcc
+) = –[Δ
+H
+f
+(PtO
+2
+) – 2Δ
+µ
+O
+] = +1.52 eV for Pt cohesion from ionic Pt
+4+
+(Fig.
+1a
+, last step).
+Synthesis of Pt-DSA/TiO
+2
+Here 50 mg of commercial anatase TiO
+2
+was dispersed in 10 ml of 20% methanol aqueous solution in a 20 ml gas-tight vial under sonication for 10 min. A fixed amount of H
+2
+PtCl
+6
+(50.0, 37.5, 25.0 and 12.5 μl for Pt-DSA and 0.70, 0.60, 0.50 and 0.25 wt% TiO
+2
+, respectively) are diluted with H
+2
+O to make 1 ml of aqueous Pt precursor solutions. The TiO
+2
+dispersion and Pt precursor solution were purged with Ar gas for 10 min. The TiO
+2
+dispersion was vigorously stirred and simultaneously irradiated with UV–vis light at an intensity of 100 mW cm
+–2
+using a xenon lamp light source (Newport). The light was irradiated for 20 min for each sample. After the TiO
+2
+dispersion turned bluish, 0.5 ml of the Pt precursor solution was injected into the TiO
+2
+dispersion and vigorously stirred. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. The product was dried in an electric oven at 50 °C overnight and used for photocatalytic reactions and/or characterizations.
+Synthesis of Pt-SA/hydrogenated TiO
+2
+The commercial anatase TiO
+2
+was reduced at 500 °C in a 10% H
+2
+/Ar atmosphere for 1 h. Then, 50 mg of the as-synthesized hydrogenated TiO
+2
+was dispersed in 10 ml of H
+2
+O in a 20 ml vial under sonication for 10 min. Furthermore, 50 μl of H
+2
+PtCl
+6
+was diluted with H
+2
+O to make 1.0 ml of an aqueous Pt precursor solution; 0.5 ml of the Pt precursor solution was injected into the TiO
+2
+dispersion and vigorously stirred. After 10 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. The product was dried in an electric oven at 50 °C overnight and used for photocatalytic reactions and/or characterizations.
+Synthesis of Pt-SA/TiO
+2
+Commercial anatase TiO
+2
+(50 mg) was dispersed in 10 ml H
+2
+O in a 20 ml vial under sonication for 10 min. Pt precursor solutions were prepared according to the same procedure as described in the Pt-DSA/TiO
+2
+part above. The Pt precursor solution was purged with Ar gas for 10 min; 0.5 ml of the Pt precursor solution was injected into the TiO
+2
+dispersion and vigorously stirred. After 20 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. The product was dried in an electric oven at 50 °C overnight and used for the photocatalytic HER reaction.
+Synthesis of Pt-NP/TiO
+2
+Pt precursor solutions were made using a definite amount of H
+2
+PtCl
+6
+(17.50, 15.00, 12.50 and 6.25 μl for Pt-NPs and 0.70, 0.60, 0.50 and 0.25 wt% for TiO
+2
+, respectively). Then, 0.5 ml of the Pt precursor solution was added into 10.0 ml of 20% methanol aqueous solution in a 20.0 ml gas-tight vial. The solution was purged with Ar gas for 10 min and irradiated with UV–vis light at an intensity of 100 mW cm
+–2
+and vigorously stirred. After 1 h of irradiation, the reaction solution was centrifuged and the precipitation was dissolved in 2 ml H
+2
+O. The resulting Pt-NP solution was mixed with 8 ml of aqueous TiO
+2
+dispersion, which contained 50 mg of commercial TiO
+2
+. After 20 min of stirring, the reaction solution was centrifuged and washed with water and ethanol. The product was dried in an electric oven at 50 °C overnight and used for photocatalytic reactions and/or characterizations.
+Synthesis of Ir- and Cu-DSA/TiO
+2
+In the case of Ir- and Cu-DSA/TiO
+2
+, basic synthesis procedures were similar to the method used for Pt-DSA/TiO
+2
+. The only different step was that definite amounts of H
+2
+IrCl
+6
+(2.2 mg) and CuCl
+2
+(5.4 mg) were added into 1 ml of H
+2
+O to make the Ir and Cu precursor solutions, respectively. The Ir and Cu precursor solutions were used instead of the Pt precursor solution to synthesize Ir- and Cu-DSA/TiO
+2
+, respectively.
+Synthesis of M(Pt, Ir, Cu)-DSA/(ZnO, CeO
+2
+)
+Basic synthesis procedures were similar to the method of metal-dynamically stabilized atom/TiO
+2
+. In this case, commercial ZnO or CeO
+2
+was used instead of commercial anatase TiO
+2
+. A fixed amount of H
+2
+PtCl
+6
+(50 μl), H
+2
+IrCl
+6
+(2.2 mg) and CuCl
+2
+(5.4 mg) were used to make 1 ml of H
+2
+O-diluted metal precursor solutions. The irradiation time of UV–vis light was fixed at 30 min.
+Synthesis of M(Pt, Ir, Cu)-SA/hydrogenated supports (ZnO, CeO
+2
+)
+Commercial ZnO and CeO
+2
+were reduced at 500 °C in a 10% H
+2
+/Ar atmosphere for 1 h. Then, 50 mg of each of the hydrogenated supports was dispersed in 10 ml of H
+2
+O in a 20 ml vial under sonication for 10 min. The metal precursor solutions with the same concentrations as those used for each of the metal-dynamically stabilized atom/supports were prepared. Furthermore, 0.5 ml of the metal precursor solution was injected into the hydrogenated support dispersion and vigorously stirred. After 20 min of injecting the metal precursor solution, the reaction solution was centrifuged, washed and dried.
+EPR experiments
+EPR experiments were carried out at a temperature of 150 K, employing an EMXmicro system (Bruker) operating at an X-band frequency of 9.42 GHz, with a magnetic-field modulation of 100 kHz and a modulation amplitude of 1.0 G. TiO
+2
+was dispersed in a concentrated manner in a 20% methanol aqueous solution and transferred to a gas-tight vial with argon purging. Equal amounts of aliquots were collected before, after 20 min of photoirradiation on the TiO
+2
+dispersion and after injecting the Pt precursor into the TiO
+2
+dispersion (Fig.
+2a,b
+). These aliquots were promptly transferred to EPR tubes purged with argon and rapidly frozen using liquid nitrogen for measurements. The reaction conditions were the same for ZnO and CeO
+2
+, except for the irradiation time, which was 30 min (Fig.
+3b,c
+and Extended Data Fig.
+4a,b
+). Furthermore, 40 mg of each catalyst was transferred to the EPR tubes and the EPR signals were measured at a temperature of 150 K (Extended Data Fig.
+3a
+and Supplementary Figs.
+4 and
+7
+).
+Atomic-resolution imaging on Cs-STEM and EDS mapping measurements
+Atomic-resolution imaging of M(Pt, Cu, Ir)-DSA/(TiO
+2
+, ZnO, CeO
+2
+) catalysts was conducted at 200 kV using a spherical-aberration-corrected JEM ARM-200F microscope (cold field-emission electron gun, JEOL), which is installed at the National Center for Inter-University Research Facilities (NCIRF). EDS measurements were performed in the STEM mode, utilizing a single drift detector (X-Max
+N
+, Oxford Instruments).
+STEM and EDS mapping measurements
+STEM images for Pt/TiO
+2
+catalyst, made by in situ light irradiation, Pt-NP/TiO
+2
+and Pt-SA/hydrogenated TiO
+2
+(Extended Data Figs.
+2
+and
+3
+) were acquired using a JEOL EM-2010 microscope operated at 200 kV. EDS measurements were performed by utilizing a single drift detector (X-Max
+N
+, Oxford Instruments).
+XPS measurements
+The K-Alpha
++
+XPS system (Thermo Fisher Scientific) at the Busan Center of the Korea Basic Science Institute was used to measure the XPS data for all the samples. The monochromated Al Kα radiation was used as the X-ray source.
+XAFS measurements
+XAFS data were measured at the 7D XAFS and 8C nano XAFS beamline (BL7D and BL8C) of Pohang Light Source (PLS-II) in the 3.0 GeV storage, with a ring current of 300 mA in the top-up mode. The Si(111) crystal was used as a monochromator and the beam intensity was reduced by 30% to eliminate high-order harmonics. Both transmission and fluorescence modes were used to obtain the XAFS spectra.
+XRD pattern measurements
+The crystal structures were examined using XRD analysis on a SmartLab system (Rigaku) with Cu Kα radiation at the NCIRF. The obtained data were then analysed using HighScore Plus software v3.0.5.
+Inductively coupled plasma mass spectrometry measurements
+The loading amounts of Pt on TiO
+2
+were checked by inductively coupled plasma mass spectrometry measurements on a NexION2000 system (PerkinElmer) at the Yonsei Center for Research Facilities.
+Inductively coupled plasma atomic emission spectroscopy measurements
+The loading amounts of metals on ZnO and CeO
+2
+were determined by inductively coupled plasma atomic emission spectroscopy measurements on an OPTIMA 8300 system (PerkinElmer) at the NCIRF.
+1
+H NMR measurements
+The
+1
+H NMR spectra were measured using a 600 MHz high-resolution NMR spectrometer (Avance 600 (Bruker)) at the National Instrumentation Center for Environment Management. Dimethyl sulfoxide and 3-(trimethylsilyl)-1-propanesulfonic acid sodium salt were employed as internal standards, and D
+2
+O was used as the solvent.
+Photocatalytic HER measurements
+The photocatalytic HER measurements were conducted in a gas-closed quartz cell reactor. Here 1 mg of Pt-DSA/TiO
+2
+, Pt-SA/hydrogenated TiO
+2
+or Pt-SA/TiO
+2
+catalysts were dispersed in 100 ml of 20% methanol aqueous solution. In the case of Pt-NP/TiO
+2
+catalysts, 5 mg was used because the gas chromatography system could not detect their activities, which showed values below the detection limit when 1 mg was used. The reaction solution was then transferred to a gas-closed quartz cell reactor and purged with Ar gas for 15 min. UV–vis light from a xenon lamp light source system (Newport) was irradiated on the quartz reactor at an intensity of 100 mW cm
+–2
+, which was measured by a power detector equipped with a thermophile sensor (919P-003-01, Newport). The reaction temperature was maintained at around room temperature by a cooling fan. The generated hydrogen was quantified using an iGC7200A system (DS Science) equipped with a thermal conductivity detector. The loading amounts of Pt (Fig.
+4d
+) were 0.7 wt% and 0.1 wt% for Pt-DSA/TiO
+2
+and Pt-SA/hydrogenated TiO
+2
+, respectively.
+Photoreforming of PET
+The PET stock solution was prepared by dissolving 4 g of ground PET in 400 ml of 2 M KOH solution for 2 weeks under stirring at room temperature.
+For the 10-ml-scale reactions (Fig.
+5a,c
+), 2 ml of the PET stock solution (10 g PET l
+–1
+in 2 M KOH) was added into 8 ml of water. The resulting solution was transferred to a quartz cell with a volume of 22 ml. Then, 50 mg of Pt-DSA 0.7 wt%/TiO
+2
+, Pt-SA/hydrogenated TiO
+2
+or Pt-NP 0.7 wt%/TiO
+2
+was added into the solution and dispersed under ultrasonication for 10 min. The reaction cell was then tightly sealed and purged with Ar gas for 15 min. UV–vis light at an intensity of 100 mW cm
+–2
+was irradiated on the reaction cell; the generated gas was extracted after a defined period by using a syringe and injected into the gas chromatography system.
+For the 100-ml-scale reaction (Fig.
+5b
+), 20 ml of the PET stock solution was added into 80 ml of water. Then, 100 mg of Pt-DSA 0.7 wt%/TiO
+2
+was added into the solution and dispersed under ultrasonication for 15 min. The resulting mixture was transferred to a gas-closed quartz cell reactor and purged with Ar gas for 20 min. UV–vis light at an intensity of 100 mW cm
+–2
+was irradiated on the reactor and the generated gas was quantified with the gas chromatography system. The reaction temperature was maintained at around room temperature by a cooling fan.
+Conversion calculation of photoreforming of PET
+PET-to-hydrogen conversion was calculated based on the following chemical reaction equations.
+$$\begin{array}{l}{{\rm{C}}}_{10}{{\rm{H}}}_{8}{{\rm{O}}}_{4}+2{{\rm{H}}}_{2}{\rm{O}}\to {{\rm{C}}}_{8}{{\rm{H}}}_{6}{{\rm{O}}}_{4}({\rm{TPA}})+{{\rm{C}}}_{2}{{\rm{H}}}_{6}{{\rm{O}}}_{2}({\rm{EG}})\\({\rm{pretreatment}}\,{\rm{of}}\,{\rm{PET}}\,{\rm{with}}\,{\rm{KOH}}\,{\rm{solution}})\\ {{\rm{C}}}_{8}{{\rm{H}}}_{6}{{\rm{O}}}_{4}({\rm{TPA}})+12{{\rm{H}}}_{2}{\rm{O}}\to 15{{\rm{H}}}_{2}+8{{\rm{CO}}}_{2}({\text{photo}}{\text{reforming}}\,{\text{reaction}}\,{\rm{of}}\,{\rm{TPA}})\\ {{\rm{C}}}_{2}{{\rm{H}}}_{6}{{\rm{O}}}_{2}({\rm{EG}})+2{{\rm{H}}}_{2}{\rm{O}}\to 5{{\rm{H}}}_{2}+2{{\rm{CO}}}_{2}({\rm{photo}}{\rm{reforming}}\,{\rm{reaction}}\,{\rm{of}}\,{\rm{EG}})\end{array}$$
+Here EG, ethylene glycol; TPA, terephthalic acid.
+The measured amount of hydrogen (Fig.
+5c
+) is 843 μmol. This value agrees with the calculated hydrogen amount, namely, 835 μmol, obtained from the reactants consumed, as measured by the NMR spectra (Fig.
+5e
+and Extended Data Fig.
+8
+) based on the chemical reaction equation provided.
+The conversion is calculated by dividing the measured amount of hydrogen by the estimated maximum amount of hydrogen, which is 863.0 μmol, assuming the complete consumption of initial reactants (111.0 μmol of EG and 20.6 μmol of TPA).
+Data availability
+All data that support the findings of this study are included in this Article. All other data that support the findings of this study are available from the corresponding authors upon reasonable request.
+Source data
+are provided with this paper.
+References
+Liu, P. et al. Photochemical route for synthesizing atomically dispersed palladium catalysts.
+Science
+352
+, 797–800 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Zhou, P., Luo, M. & Guo, S. Optimizing the semiconductor–metal-single-atom interaction for photocatalytic reactivity.
+Nat. Rev. Chem.
+6
+, 823–838 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, A., Li, J. & Zhang, T. Heterogeneous single-atom catalysis.
+Nat. Rev. Chem.
+2
+, 65–81 (2018).
+Article
+CAS
+Google Scholar
+DeRita, L. et al. Structural evolution of atomically dispersed Pt catalysts dictates reactivity.
+Nat. Mater.
+18
+, 746–751 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Nie, L. et al. Activation of surface lattice oxygen in single-atom Pt/CeO
+2
+for low-temperature CO oxidation.
+Science
+358
+, 1419–1423 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Cao, L. et al. Atomically dispersed iron hydroxide anchored on Pt for preferential oxidation of CO in H
+2
+.
+Nature
+565
+, 631–635 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Yang, H. B. et al. Atomically dispersed Ni (
+i
+) as the active site for electrochemical CO
+2
+reduction.
+Nat. Energy
+3
+, 140–147 (2018).
+Article
+CAS
+Google Scholar
+Jung, E. et al. Atomic-level tuning of Co–N–C catalyst for high-performance electrochemical H
+2
+O
+2
+production.
+Nat. Mater.
+19
+, 436–442 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Xu, H. et al. Highly selective electrocatalytic CO
+2
+reduction to ethanol by metallic clusters dynamically formed from atomically dispersed copper.
+Nat. Energy
+5
+, 623–632 (2020).
+Article
+CAS
+Google Scholar
+Shan, J. et al. Integrating interactive noble metal single-atom catalysts into transition metal oxide lattices.
+J. Am. Chem. Soc.
+144
+, 23214–23222 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Lee, B.-H. et al. Reversible and cooperative photoactivation of single-atom Cu/TiO
+2
+photocatalysts.
+Nat. Mater.
+18
+, 620–626 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Teng, Z. et al. Atomically dispersed antimony on carbon nitride for the artificial photosynthesis of hydrogen peroxide.
+Nat. Catal.
+4
+, 374–384 (2021).
+Article
+CAS
+Google Scholar
+Shan, J. et al. Metal-metal interactions in correlated single-atom catalysts.
+Sci. Adv.
+8
+, eabo0762 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Han, B. et al. Strong metal–support interactions between Pt single atoms and TiO
+2
+.
+Angew. Chem. Int. Ed.
+59
+, 11824–11829 (2020).
+Article
+CAS
+Google Scholar
+Wang, H. et al. High quantum efficiency of hydrogen production from methanol aqueous solution with PtCu–TiO
+2
+photocatalysts.
+Nat. Mater.
+22
+, 619–626 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, X. et al. A stable low-temperature H
+2
+-production catalyst by crowding Pt on α-MoC.
+Nature
+589
+, 396–401 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Li, X. et al. Functional CeO
+x
+nanoglues for robust atomically dispersed catalysts.
+Nature
+611
+, 284–288 (2022).
+Article
+CAS
+PubMed
+Google Scholar
+Wu, Z.-Y. et al. A general synthesis of single atom catalysts with controllable atomic and mesoporous structures.
+Nat. Synth.
+1
+, 658–667 (2022).
+Article
+Google Scholar
+Zhang, Y. et al. Single-atom Cu anchored catalysts for photocatalytic renewable H
+2
+production with a quantum efficiency of 56%.
+Nat. Commun.
+13
+, 58 (2022).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Lu, F. et al. Engineering platinum–oxygen dual catalytic sites via charge transfer towards highly efficient hydrogen evolution.
+Angew. Chem.
+132
+, 17865–17871 (2020).
+Article
+Google Scholar
+Chen, Y. et al. Engineering the atomic interface with single platinum atoms for enhanced photocatalytic hydrogen production.
+Angew. Chem.
+132
+, 1311–1317 (2020).
+Article
+Google Scholar
+Cargnello, M. et al. Control of metal nanocrystal size reveals metal-support interface role for ceria catalysts.
+Science
+341
+, 771–773 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Daelman, N., Capdevila-Cortada, M. & López, N. Dynamic charge and oxidation state of Pt/CeO
+2
+single-atom catalysts.
+Nat. Mater.
+18
+, 1215–1221 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Matsubu, J. C. et al. Adsorbate-mediated strong metal–support interactions in oxide-supported Rh catalysts.
+Nat. Chem.
+9
+, 120–127 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, K. et al. Strong metal-support interaction promoted scalable production of thermally stable single-atom catalysts.
+Nat. Commun.
+11
+, 1263 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Lee, B.-H. et al. Electronic interaction between transition metal single-atoms and anatase TiO
+2
+boosts CO
+2
+photoreduction with H
+2
+O.
+Energy Environ. Sci.
+15
+, 601–609 (2022).
+Article
+CAS
+Google Scholar
+Setvín, M. et al. Reaction of O
+2
+with subsurface oxygen vacancies on TiO
+2
+anatase (101).
+Science
+341
+, 988–991 (2013).
+Article
+PubMed
+Google Scholar
+Chen, X., Liu, L., Yu, P. Y. & Mao, S. S. Increasing solar absorption for photocatalysis with black hydrogenated titanium dioxide nanocrystals.
+Science
+331
+, 746–750 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Selcuk, S., Zhao, X. & Selloni, A. Structural evolution of titanium dioxide during reduction in high-pressure hydrogen.
+Nat. Mater.
+17
+, 923–928 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Howe, R. F. & Gratzel, M. EPR study of hydrated anatase under UV irradiation.
+J. Phys. Chem.
+91
+, 3906–3909 (1987).
+Article
+CAS
+Google Scholar
+Strunk, J., Vining, W. C. & Bell, A. T. A study of oxygen vacancy formation and annihilation in submonolayer coverages of TiO
+2
+dispersed on MCM-48.
+J. Phys. Chem. C
+114
+, 16937–16945 (2010).
+Article
+CAS
+Google Scholar
+Peper, J. L., Vinyard, D. J., Brudvig, G. W. & Mayer, J. M. Slow equilibration between spectroscopically distinct trap states in reduced TiO
+2
+nanoparticles.
+J. Am. Chem. Soc.
+139
+, 2868–2871 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Macino, M. et al. Tuning of catalytic sites in Pt/TiO
+2
+catalysts for the chemoselective hydrogenation of 3-nitrostyrene.
+Nat. Catal.
+2
+, 873–881 (2019).
+Article
+CAS
+Google Scholar
+Hejazi, S. et al. On the controlled loading of single platinum atoms as a Co‐catalyst on TiO
+2
+anatase for optimized photocatalytic H
+2
+generation.
+Adv. Mater.
+32
+, 1908505 (2020).
+Article
+CAS
+Google Scholar
+Wan, J. et al. Defect effects on TiO
+2
+nanosheets: stabilizing single atomic site Au and promoting catalytic properties.
+Adv. Mater.
+30
+, 1705369 (2018).
+Article
+Google Scholar
+Drouilly, C. et al. ZnO oxygen vacancies formation and filling followed by in situ photoluminescence and in situ EPR.
+J. Phys. Chem. C
+116
+, 21297–21307 (2012).
+Article
+CAS
+Google Scholar
+Kim, H. H., Lee, H., Kang, J. K. & Choi, W. K. Photoluminescence and electron paramagnetic resonance spectroscopy for revealing visible emission of ZnO quantum dots.
+Ann. Phys.
+534
+, 2100382 (2022).
+Article
+CAS
+Google Scholar
+Wang, L. et al. Oxygen vacancy clusters essential for the catalytic activity of CeO
+2
+nanocubes for
+o
+-xylene oxidation.
+Sci. Rep.
+7
+, 12845 (2017).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Murugan, B. & Ramaswamy, A. Defect-site promoted surface reorganization in nanocrystalline ceria for the low-temperature activation of ethylbenzene.
+J. Am. Chem. Soc.
+129
+, 3062–3063 (2007).
+Article
+CAS
+PubMed
+Google Scholar
+Ji, S. et al. Chemical synthesis of single atomic site catalysts.
+Chem. Rev.
+120
+, 11900–11955 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Uekert, T., Kuehnel, M. F., Wakerley, D. W. & Reisner, E. Plastic waste as a feedstock for solar-driven H
+2
+generation.
+Energy Environ. Sci.
+11
+, 2853–2857 (2018).
+Article
+CAS
+Google Scholar
+Lee, W. H. et al. Floatable photocatalytic hydrogel nanocomposites for large-scale solar hydrogen production.
+Nat. Nanotechnol.
+18
+, 754–762 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Uekert, T., Pichler, C. M., Schubert, T. & Reisner, E. Solar-driven reforming of solid waste for a sustainable future.
+Nat. Sustain.
+4
+, 383–391 (2021).
+Article
+Google Scholar
+Zhang, S. et al. Boosted photoreforming of plastic waste via defect-rich NiPS
+3
+nanosheets.
+J. Am. Chem. Soc.
+145
+, 6410–6419 (2023).
+Article
+CAS
+PubMed
+Google Scholar
+Uekert, T., Kasap, H. & Reisner, E. Photoreforming of nonrecyclable plastic waste over a carbon nitride/nickel phosphide catalyst.
+J. Am. Chem. Soc.
+141
+, 15201–15210 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758 (1999).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865 (1996).
+Article
+CAS
+PubMed
+Google Scholar
+Matsubara, M., Saniz, R., Partoens, B. & Lamoen, D. Doping anatase TiO
+2
+with group V-b and VI-b transition metal atoms: a hybrid functional first-principles study.
+Phys. Chem. Chem. Phys.
+19
+, 1945–1952 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Cargnello, M. et al. Engineering titania nanostructure to tune and improve its photocatalytic activity.
+Proc. Natl Acad. Sci. USA
+113
+, 3966–3971 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Ou, G. et al. Tuning defects in oxides at room temperature by lithium reduction.
+Nat. Commun.
+9
+, 1302 (2018).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Wei, T., Zhu, Y., Wu, Y., An, X. & Liu, L.-M. Effect of single-atom cocatalysts on the activity of faceted TiO
+2
+photocatalysts.
+Langmuir
+35
+, 391–397 (2018).
+Article
+Google Scholar
+Download references
+Acknowledgements
+This research was supported by the Institute for Basic Science (IBS-R006-D1) and the National Supercomputing Center with supercomputing resources (KSC-2022-CRE-0146).
+Author information
+Author notes
+These authors contributed equally: Chan Woo Lee, Byoung-Hoon Lee, Sunghak Park.
+Authors and Affiliations
+Center for Nanoparticle Research, Institute for Basic Science (IBS), Seoul, Republic of Korea
+Chan Woo Lee, Byoung-Hoon Lee, Yoon Jung, Junhyeok Heo, Kangjae Lee, Wonjae Ko, Seungwoo Yoo, Megalamane S. Bootharaju & Taeghwan Hyeon
+School of Chemical and Biological Engineering, and Institute of Chemical Processes, Seoul National University, Seoul, Republic of Korea
+Chan Woo Lee, Yoon Jung, Junhyeok Heo, Kangjae Lee, Wonjae Ko, Seungwoo Yoo, Jaeyune Ryu & Taeghwan Hyeon
+KU-KIST Graduate School of Converging Science and Technology, Korea University, Seoul, Republic of Korea
+Byoung-Hoon Lee
+Department of Materials Science and Engineering, Seoul National University, Seoul, Republic of Korea
+Sunghak Park & Ki Tae Nam
+Department of Applied Chemistry, Kyung Hee University, Yongin, Republic of Korea
+Jaebeom Han & Minho Kim
+Authors
+Chan Woo Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Byoung-Hoon Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sunghak Park
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yoon Jung
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jaebeom Han
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Junhyeok Heo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kangjae Lee
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wonjae Ko
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Seungwoo Yoo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Megalamane S. Bootharaju
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jaeyune Ryu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ki Tae Nam
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Minho Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Taeghwan Hyeon
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+C.W.L. and B.-H.L. conceived the idea and designed the research. C.W.L., B.-H.L. and S.P. designed the experiments. C.W.L. and S.P. conducted the photocatalytic measurements and analysis. J. Han and M.K. performed the DFT calculations and analysis. C.W.L., Y.J., J. Heo, K.L., W.K. and S.Y. conducted the data acquisition for material characterization and the subsequent analysis. C.W.L., B.-H.L., S.P. and M.K. wrote the original paper. M.S.B., J.R., K.T.N. and T.H. reviewed and edited the paper. T.H. supervised the research.
+Corresponding authors
+Correspondence to
+Byoung-Hoon Lee
+,
+Minho Kim
+or
+Taeghwan Hyeon
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Materials
+thanks the anonymous reviewers for their contribution to the peer review of this work
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Extended data
+Extended Data Fig. 1 Schematic illustration of synthesizing Pt-DSA/TiO
+2
+by photochemical defect tuning process.
+A schematic illustration with photographs for the synthesis of Pt-DSA/TiO
+2
+through the photochemical defect tuning process.
+Extended Data Fig. 2 STEM and STEM-EDS elemental mapping images of Pt/TiO
+2
+and Pt-NP/TiO
+2
+.
+a
+, The Pt/TiO
+2
+catalyst was produced through direct light irradiation on a mixture of Pt precursor (0.7 wt%) and anatase TiO
+2
+. In this particular case, Pt particles agglomerated severely, resulting in an irregular dispersion of Pt.
+b
+, The Pt-NP/TiO
+2
+catalyst was prepared by physisorption of pre-made Pt nanoparticle on anatase TiO
+2
+.
+Extended Data Fig. 3 Characterization of Pt-SA/hydrogenated TiO
+2
+.
+Pt deposition on hydrogenated TiO
+2
+, which is a conventional atomic metal deposition technique, was conducted and subsequently analyzed.
+a
+, EPR spectra of hydrogenated commercial anatase TiO
+2
+and Pt-SA/hydrogenated TiO
+2
+.
+b
+, STEM and STEM-EDS elemental mapping images of Pt-SA/hydrogenated TiO
+2
+.
+c
+, XPS spectra of Pt-SA/hydrogenated TiO
+2
+. In (
+b
+) and (
+c
+), agglomeration of Pt was detected.
+d
+, Schematic illustration of the deposition of Pt metals on TiO
+2
+through conventional wet-impregnation method on hydrogenated TiO
+2
+. The loading amount of Pt-SA/hydrogenated TiO
+2
+was 0.1 wt%, with identical concentrations of the Pt precursor solution and stabilization time as the conditions used for Pt-DSA 0.7 wt%/TiO
+2
+.
+Source data
+Extended Data Fig. 4 EPR spectra of air regeneration process of irradiated ZnO and CeO
+2
+.
+a, b
+, the EPR signal related to surface V
+O
+s vanished upon exposure to the air. This phenomenon suggests that photochemically induced surface V
+O
+s can naturally (
+a
+) revert back to bulk V
+O
+s for ZnO and (
+b
+) be refilled for CeO
+2
+, through the contact with oxygen in the air.
+Source data
+Extended Data Fig. 5 The pictures of synthesized M (Pt, Ir and Cu)-DSA/supports (TiO
+2
+, ZnO and CeO
+2
+) catalysts.
+a
+, The pictures of pristine TiO
+2
+(left) and Pt-DSA/TiO
+2
+(right).
+b
+,
+c
+,
+d
+, The samples in the left, middle and right side represent Pt, Ir and Cu-DSA/ (
+b
+) TiO
+2
+, (
+c
+) ZnO and (
+d
+) CeO
+2
+, respectively.
+Extended Data Fig. 6 XPS spectra and XRD patterns of Pt-DSA/TiO
+2
+, ZnO and CeO
+2
+.
+XPS spectrum of Pt-DSA/TiO
+2
+is provided in Fig.
+2f
+.
+a
+, The Pt-DSA/TiO
+2
+showed identical XRD patterns which corresponded with anatase TiO
+2
+(JCPDS card 96-720-6076).
+b
+,
+c
+, XPS spectra of the Pt-DSA/ (
+b
+) ZnO (a pink line is Al 2p signal which comes from residual Al in commercial ZnO (Supplementary Fig.
+1b
+)) and (
+c
+) CeO
+2
+.
+d
+,
+e
+, XRD patterns of Pt-DSA/ (
+d
+) ZnO and (
+e
+) CeO
+2
+showed identical patterns with bare ZnO (JCPDS card 96-900-4182) and CeO
+2
+(JCPDS card 96-900-9009), respectively.
+Source data
+Extended Data Fig. 7 XPS spectra and XRD patterns of M(Ir and Cu)-DSA/TiO
+2
+, ZnO and CeO
+2
+.
+a, b
+,
+c
+, XPS spectra of the Ir-DSA/ (
+a
+) TiO
+2
+(a pink line is Na 2 s signal which comes from residual Na in commercial anatase TiO
+2
+(Supplementary Fig.
+1c
+)), (
+b
+) ZnO and (
+c
+) CeO
+2
+. The resulting Ir peak occurred between the position of Ir
+4+
+and Ir
+0
+.
+d,e
+,
+f
+, XPS spectra of the Cu-DSA/ (
+d
+) TiO
+2
+, (
+e
+) ZnO and (
+f
+) CeO
+2
+(a pink line is signal which comes from residual elements in commercial CeO
+2
+(Supplementary Fig.
+1d
+)).
+g
+,
+h
+,
+i
+, XRD patterns of Ir and Cu-DSA/ (
+g
+) TiO
+2
+, (
+h
+) ZnO and (
+i
+) CeO
+2
+showed identical patterns with bare TiO
+2
+(JCPDS card 96-720-6076), ZnO (JCPDS card 96-900-4182) and CeO
+2
+(JCPDS card 96-900-9009), respectively.
+Source data
+Extended Data Fig. 8 Quantification of the consumed reactants before and after the photo-reforming of PET through the analysis of
+1
+H NMR spectra.
+The amount of EG and TPA consumed after 40 h of the reaction in Fig.
+5e
+was calculated using the calibration curves in (
+b
+) and (
+d
+). The calculated amounts of EG and TPA before the reaction were 111 μmol and 20.6 μmol, respectively. After 40 h of the reaction, 100% of EG (111 μmol) and 91% of TPA (18.7 μmol) were consumed.
+a
+,
+b
+,
+c
+,
+d
+, The calibration curves for (
+b
+) EG and (
+d
+) TPA were obtained based on
+1
+H NMR data from different concentrations of (
+a
+) EG and (
+c
+) TPA, respectively. The normalized areas of EG and TPA against DMSO (internal standard) were plotted depending on concentrations, and linear regression equations were obtained. TPA was detected as a form of terephthalate in the
+1
+H NMR (D
+2
+O condition) data.
+Source data
+Extended Data Table 1 Comparison between recent TiO
+2
+based photocatalysts on the photocatalytic HER activity
+51
+,
+52
+,
+53
+Full size table
+Extended Data Table 2 Comparison between recently reported photocatalysts on the hydrogen evolution activity through photo-reforming of non-recyclable plastics
+Full size table
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–9.
+Source data
+Source Data Fig. 2
+Statistical source data.
+Source Data Fig. 3
+Statistical source data.
+Source Data Fig. 4
+Statistical source data.
+Source Data Fig. 5
+Statistical source data.
+Source Data Extended Data Fig. 3
+Statistical source data.
+Source Data Extended Data Fig. 4
+Statistical source data.
+Source Data Extended Data Fig. 6
+Statistical source data.
+Source Data Extended Data Fig. 7
+Statistical source data.
+Source Data Extended Data Fig. 8
+Statistical source data.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Lee, C.W., Lee, BH., Park, S.
+et al.
+Photochemical tuning of dynamic defects for high-performance atomically dispersed catalysts.
+Nat. Mater.
+23
+, 552–559 (2024). https://doi.org/10.1038/s41563-024-01799-y
+Download citation
+Received
+:
+19 June 2023
+Accepted
+:
+06 January 2024
+Published
+:
+05 February 2024
+Issue Date
+:
+April 2024
+DOI
+:
+https://doi.org/10.1038/s41563-024-01799-y
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Subjects
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Our publishing models
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Materials
+(
+Nat. Mater.
+)
+ISSN
+1476-4660
+(online)
+ISSN
+1476-1122
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

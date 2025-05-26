@@ -1,0 +1,1782 @@
+Identification of single-atom active sites in carbon-based cobalt catalysts during electrocatalytic hydrogen evolution | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Identification of single-atom active sites in carbon-based cobalt catalysts during electrocatalytic hydrogen evolution
+Download PDF
+Article
+Published:
+31 December 2018
+Identification of single-atom active sites in carbon-based cobalt catalysts during electrocatalytic hydrogen evolution
+Linlin Cao
+1
+na1
+,
+Qiquan Luo
+ORCID:
+orcid.org/0000-0003-1450-2856
+2
+na1
+,
+Wei Liu
+1
+na1
+,
+Yue Lin
+ORCID:
+orcid.org/0000-0001-5333-511X
+2
+,
+Xiaokang Liu
+1
+,
+Yuanjie Cao
+1
+,
+Wei Zhang
+1
+,
+Yuen Wu
+ORCID:
+orcid.org/0000-0001-9524-2843
+3
+,
+Jinlong Yang
+2
+,
+Tao Yao
+ORCID:
+orcid.org/0000-0001-8699-8294
+1
+&
+…
+Shiqiang Wei
+ORCID:
+orcid.org/0000-0002-2052-1132
+1
+Show authors
+Nature Catalysis
+volume
+2
+,
+pages
+134–141 (
+2019
+)
+Cite this article
+21k
+Accesses
+15
+Altmetric
+Metrics
+details
+Subjects
+Electrocatalysis
+Energy
+Heterogeneous catalysis
+Abstract
+Monitoring atomic and electronic structure changes on active sites under realistic working conditions is crucial for the rational design of efficient electrocatalysts. Identification of the active structure during the alkaline hydrogen evolution reaction (HER), which is critical to industrial water–alkali electrolysers, remains elusive and is a field of intense research. Here, by virtue of operando X-ray absorption spectroscopy on a uniform cobalt single-site catalyst, we report the atomic-level identification of the dynamic structure of catalytically active sites under alkaline HER. Our results reveal the formation of a high-valence HO–Co
+1
+–N
+2
+moiety by the binding between isolated Co
+1
+–N
+4
+sites with electrolyte hydroxide, and further unravel the preferred water adsorption reaction intermediate H
+2
+O–(HO–Co
+1
+–N
+2
+). Theoretical simulations rationalize this structural evolution and demonstrate that the highly oxidized Co sites are responsible for the catalytic performance. These findings suggest the electrochemical susceptibility of active sites, providing a coordination-engineered strategy for the advance of single-site catalysis.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Size effects and active state formation of cobalt oxide nanoparticles during the oxygen evolution reaction
+Article
+Open access
+08 August 2022
+Probing the active site in single-atom oxygen reduction catalysts via operando X-ray and electrochemical spectroscopy
+Article
+Open access
+25 August 2020
+High-entropy single-atom activated carbon catalysts for sustainable oxygen electrocatalysis
+Article
+30 March 2023
+Main
+The hydrogen evolution reaction (HER) is an essential step in electrochemical water splitting, in which hydrogen, as the main product, is a promising alternative to fossil fuels for future energy needs
+1
+,
+2
+,
+3
+. In particular, the HER in alkaline media is currently a hot research topic because of the water–alkali and chlor–alkali electrolyser technology that is widely used in industry, and also because of the availability of low-cost oxygen evolution reaction (OER) counterparts in alkaline media
+4
+. The key aspect for scalable hydrogen production is developing high-efficiency yet low-cost electrocatalysts with lower overpotentials
+5
+. Although the activity and durability of catalysts have improved in recent years, HER kinetics in alkaline media are more sluggish and complex in relation to the well-documented acidic HER. A key question that remains to be answered is ‘What is the nature of the active site under alkaline HER conditions?’, which remains outstanding largely because of the structural complexity and probing difficulty
+6
+. Moreover, it has been reported generally that many catalysts would reconstruct under working conditions, possibly induced by several physical or chemical effects, such as reaction temperature, electrical potential or adsorbates
+7
+,
+8
+,
+9
+,
+10
+,
+11
+. These limitations hinder the atomic-level understanding and further rational design of new HER catalysts with tailored activities for alkaline electrolysers. Therefore, the identification of active-site structure under realistic operation conditions is required. It is also necessary to construct model catalysts that possess well-defined, single and homogeneously distributed active centres.
+Single atomic site (SAS) catalysts, which definitely contain isolated metal atoms as the primary active sites, have recently developed as a new class of exciting catalysts
+12
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+,
+18
+. Importantly, a significant advantage of SAS catalysts is that the structurally uniform and well-defined single atomic site is an ideal model system for providing atomic-level insight into active sites and the corresponding catalytic reaction mechanism
+19
+,
+20
+,
+21
+,
+22
+,
+23
+. Currently, ex situ electron microscopy, in conjunction with X-ray absorption spectroscopy, has been successfully used to illustrate the atomic and electronic structures of SAS catalysts, which have then been correlated with theoretical calculations for mechanistic interpretation
+24
+,
+25
+. For instance, the typical class of atomic transition-metal nitrogen moieties supported in carbon (M–N–Cs) has been intensively studied in the search for promising candidates for catalysing a wide range of electrochemical processes, including HER
+7
+,
+26
+,
+27
+,
+28
+,
+29
+,
+30
+. However, at present, direct insights into the atomic and electronic structure evolutions of SAS catalysts are rarely available under realistic reaction conditions. As a result, the fundamental study and overall comprehension of the active centres during the alkaline HER are very limited
+31
+. In situ techniques, particularly operando X-ray absorption fine structure (XAFS) analysis, provide a suitable means of investigation, with XAFS able to capture the dynamic electronic structure and local coordination environment of the catalyst during reaction
+32
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+. Therefore, the structural sensitivity of operando XAFS, coupled with the structural uniformity of SAS catalysts, is promising for gaining deep insight into the nature of the active site and its evolution under catalytic conditions.
+In this work, we identify, by using operando XAFS, the dynamic active-site structure of cobalt SAS catalysts during electrocatalytic alkaline HER. Figure
+1a
+presents a schematic of the operando XAFS set-up used for studying the single-site Co-catalysed HER reaction. To obtain the model catalyst we pyrolytically synthesized a single atomic Co site catalyst, where the atomically dispersed cobalt was immobilized by forming a structurally uniform Co
+1
+–N
+4
+moiety in the framework of phosphorized carbon nitride (PCN). The well-defined single Co site catalyst also shows outstanding HER performance with low overpotential and high intrinsic activity, comparable to the benchmark Pt/C arrangement. The operando XAFS measurements, in conjunction with other experiments such as Fourier transform infrared spectroscopy (FTIR) and theoretical simulations, allow us to distinguish the electronic and geometric structural changes occurring on the Co site, and to reveal the formation of the highly oxidized HO–Co
+1
+–N
+2
+followed by the preferred dynamic H
+2
+O adsorption as H
+2
+O–(HO–Co
+1
+–N
+2
+). We established that the evolved Co sites promote water dissociation in the critical Volmer step, thus accelerating H
+ad
+adsorption and concomitant H
+2
+production. Because the HER solely generates the desired hydrogen, the insights revealed in this model reaction system will be helpful in understanding other complex multi-electron catalytic processes.
+Fig. 1: Operando electrochemical measurement, microstructure and HER activities of the Co
+1
+/PCN electrocatalyst.
+a
+, Schematic of the operando electrochemical cell set-up for identifying the active site of the Co
+1
+/PCN electrocatalyst. CE, counterelectrode; WE, working electrode; RE, reference electrode.
+b
+, Atomic-resolution HAADF–STEM image of Co
+1
+/PCN, showing that only Co single atoms are present in Co
+1
+/PCN (marked by red circles).
+c
+, Intensity profiles along X–Y in the HAADF–STEM image in
+b
+.
+d
+, Elemental mapping of Co
+1
+/PCN.
+e
+, Electrocatalytic HER performances of the Co
+1
+/PCN, Co
+1
+/CN, PCN and Pt/C in 1.0 M KOH electrolyte.
+J
+, current density;
+E
+, energy.
+f
+, Tafel plots for Co
+1
+/PCN and Pt/C electrocatalysts.
+Full size image
+Results
+Structural and electrocatalytic HER characterization of catalyst
+Single atomic Co supported on PCN nanosheets was prepared by incipient wetness impregnation of the Co precursor, followed by a pyrolysis reaction (sample designated as Co
+1
+/PCN). The Co content was ~0.3 wt%, as determined from inductively coupled plasma optical emission spectrometry (ICP–OES) analysis. Aberration-corrected high-angle annular dark-field scanning transmission electron microscopy (HAADF–STEM), was used to discern the distribution of Co species. The STEM image shows that the heavy Co atoms (circled, sizes of the bright spots are ~0.2 nm) are predominantly in the single-atom form on the PCN nanosheets (Fig.
+1b
+and Supplementary Figs.
+1a
+and
+2
+). Electron energy-loss (EEL) spectra with single-atom resolution further confirmed that the bright dots correspond to Co atoms (Supplementary Fig.
+1
+). The intensity profiles along X–Y in the high-magnification HAADF–STEM image in Fig.
+1b
+show that the Co atoms are separated by at least 0.29 nm, significantly larger than the effective diameter of the Co atom (Fig.
+1c
+). The X-ray power diffraction (XRD) pattern of Co
+1
+/PCN is almost the same as that of pristine graphite (g)-C
+3
+N
+4
+nanosheets (Supplementary Fig.
+3
+), confirming the non-existence of Co-containing crystal particles. This is also consistent with the TEM images in Supplementary Fig.
+4
+, which show only an integrated, sheet-like PCN. The STEM-coupled energy-dispersive spectroscopy (EDS) element mapping shown in Fig.
+1d
+further corroborates the presence of C, N, P and Co elements, and the homogeneous distribution of Co atoms throughout the sample. It should be mentioned that the main effect of phosphorization on g-C
+3
+N
+4
+is to dope P atoms. P 2
+p
+X-ray photoelectron spectroscopy (XPS) spectra and
+31
+P solid-state NMR measurements clearly demonstrate the exchange of P for C atoms in the g-C
+3
+N
+4
+(Supplementary Figs.
+5b
+and
+6
+). Moreover, the phosphorization does not significantly affect the framework of g-C
+3
+N
+4
+, as confirmed by the N 1
+s
+and C 1
+s
+XPS spectra of PCN (Supplementary Fig.
+5c,d
+).
+We then evaluated the electrocatalytic HER activity of Co
+1
+/PCN by chronoamperometric measurements in N
+2
+-satured 1.0 M KOH electrolytes (Fig.
+1a
+). For comparison, the HER performances of pristine PCN and commercial Pt/C were also measured under the same conditions. Figure
+1e
+displays the HER polarization curves obtained from linear sweep voltammetry (LSV) measurements. Obviously, the pristine PCN and Co
+1
+/CN exhibit inferior HER activity and the overpotentials at a current density of 10 mA cm
+–2
+are 268 and 138 mV, respectively. On anchoring of the Co single atoms, the Co
+1
+/PCN exhibits superior HER catalytic activity with 36 mV onset potential (@0.5 mA cm
+–2
+) and delivers a current density of 10 mA cm
+−2
+at a small overpotential of 89 mV (Supplementary Figs.
+7
+–
+9
+). Moreover, the as-obtained Co
+1
+/PCN also exhibits high HER activity in N
+2
+-satured 0.5 M H
+2
+SO
+4
+electrolytes, with a low onset potential of 38 mV and a low overpotential of 151 mV (Supplementary Fig.
+10
+). Therefore, the enhanced HER activity of Co
+1
+/PCN could be mainly attributed to the single atomic Co sites. Remarkably, the Tafel slope of the Co
+1
+/PCN electrocatalyst is as low as 52 mV dec
+−1
+(Fig.
+1f
+), comparable with that for Pt/C (38 mV dec
+−1
+), suggesting the Volmer–Heyrovsky mechanism as the HER pathway on the Co
+1
+/PCN electrocatalyst
+40
+. Furthermore, electrochemical impedance spectroscopies indicate a faster HER kinetic process on the Co
+1
+/PCN than on the pristine PCN and Co
+1
+/CN (Supplementary Fig.
+11
+), suggesting an enhanced electrical conductivity by P doping. Therefore, these results point out that the prior sluggish Volmer step has been significantly accelerated. As summarized in Supplementary Table
+1
+, the HER performance of our Co
+1
+/PCN catalyst is superior to or comparable with other single-atom electrocatalysts reported in alkaline solution.
+To evaluate the intrinsic activity of Co
+1
+/PCN, we estimated the turnover frequency (TOF), which indicates the activity of a catalyst on a per-Co-active-site basis. The TOF of Co
+1
+/PCN reaches 0.22 and 5.98 H
+2
+s
+−1
+at overpotentials of 50 and 100 mV (Supplementary Fig.
+12
+); these values are higher than for commercial Pt/C and other recently reported non-metal catalysts
+30
+,
+41
+,
+42
+. Long-term stability is another important criterion for electrocatalysts. To investigate the durability of the Co
+1
+/PCN, a current–time (
+I
+–
+t
+) test at a constant bias of −0.13 V versus reversible hydrogen electrode (RHE) was performed. Co
+1
+/PCN exhibits excellent stability, with a negligible degradation of the current over 24 h operation (Supplementary Fig.
+13a
+). After 5,000 cyclic voltammetry cycles, only a slight negative shift of the HER polarization for the Co
+1
+/PCN catalyst (3% shift of the overpotential at 10 mA cm
+−2
+) was observed, which suggests the superior durability of Co
+1
+/PCN for HER (Supplementary Fig.
+13b
+). Recycled Co
+1
+/PCN after the HER test was also characterized by HAADF–STEM and element content analysis (Supplementary Fig.
+13c
+). It is found that most of the Co remains in the atomic dispersion, without forming obvious nanoparticles or clusters. The excellent stability of the single atomic Co sites in Co
+1
+/PCN can be attributed to the strong coordination between the isolated Co atoms and adjacent N/O atoms.
+Operando X-ray spectroscopy and surface characterization
+To unveil the nature of the Co active site under HER conditions, we used a home-built cell to perform operando XAFS measurements while following the reaction with a standard electrochemical workstation (Supplementary Fig.
+14
+). One challenge in using operando XAFS to acquire valuable information on the evolution of catalysts arises from its long attenuation length and average probing. We therefore used porous carbon cloths as the working electrode for loading catalysts, as shown by scanning electron microscopy in Supplementary Fig.
+15
+, so that the catalyst could distribute throughout the electrode, substantially in contact with the electrolyte. As a result, it could be ensured that all the Co sites probed by X-ray participated in the electrocatalytic reaction. During the measurements, the working electrode potential was decreased in steps from 0 V to −0.1 V versus RHE. The operando XAFS data were collected under the open-circuit condition (immersed in KOH electrolyte) and at two representative potentials (−0.04 and −0.1 V), near the onset potential and the overpotential at current densities of 0.5 and 10 mA cm
+–2
+, respectively.
+Figure
+2a
+presents the operando X-ray absorption near-edge structure (XANES) spectra at the Co K-edge of the Co
+1
+/PCN catalyst recorded at different applied potentials, along with the data for CoO, Co
+3
+O
+4
+and CoOOH as references. From the ex situ sample to that under the open-circuit condition, the absorption edge is shifted to the higher energy side by 0.5 eV, along with a broadening of the white line peak, meaning an increase of the Co oxidation state. The variation can be discerned more clearly from the difference curves of the XANES spectra (Fig.
+2b
+). Moreover, when cathodic potentials of −0.04 and −0.1 V versus RHE were applied, a further shift of the absorption edge towards higher energy by ~0.6 eV occurs in relation to the case under the open-circuit condition, implying a distinct increase in the Co valence state in Co
+1
+/PCN during the HER. Notably, the positions of the absorption edges for samples under ex situ and operando conditions are close to those of CoO and Co
+3
+O
+4
+, respectively, suggesting the valence state of Co cations increased from approximately +2 to a higher oxidation state under working conditions. To precisely determine the Co valence state, the fitted average oxidation states from the Co K-edge XANES analysis are shown in Fig.
+2c
+. It can be found that the Co average valence state for the ex situ sample is approximately +2.02 (close to +2.0), which is consistent with the Co 2
+p
+XPS result (Supplementary Fig.
+5e
+)
+26
+. However, the Co average valence state increase from +2.02 to +2.20 and +2.40 for the catalyst under the open-circuit condition and at −0.04 V, respectively.
+Fig. 2: Operando XAS measurements.
+a
+, Operando XANES spectra recorded at the Co K-edge of Co
+1
+/PCN, at different applied voltages from the open-circuit condition to −0.1 V during electrocatalytic HER, and the XANES data of the reference standards of CoO, Co
+3
+O
+4
+and CoOOH. Inset, Magnified pre-edge XANES region.
+b
+, Normalized difference spectra for Co K-edge XANES.
+c
+, The fitted average oxidation states of Co from XANES spectra. Error bars represent the standard deviation from at least three independent measurements.
+d
+, Corresponding
+k
+3
+-weighted Fourier transform (FT) spectra. The shaded region highlights the variations in the peak position and intensity.
+Full size image
+Furthermore, the local environment evolutions of the single Co site can be revealed by extended X-ray absorption fine structure (EXAFS) spectroscopy. Figure
+2d
+shows the corresponding Fourier-transformed
+k
+3
+-weighted EXAFS spectra for Co
+1
+/PCN at different applied potentials. At first sight, the Fourier transform curves of all samples exhibit only one dominant peak at 1.5–1.7 Å, assigned to the Co–O and/or Co–N coordination, without the appearance of Co–P coordination (Supplementary Fig.
+16
+). For the Co
+1
+/PCN catalyst under the operando condition, however, the EXAFS
+k
+3
+χ
+(
+k
+) functions display quite different oscillation frequencies in comparison with that of the ex situ sample (Supplementary Fig.
+17
+). This implies not only a change in the oxidation state of the Co moieties as reflected by the XANES results, but also a rearrangement in their local atomic structure. Correspondingly, the Co–O/N peaks in the Fourier transform curves of the working catalyst display an obvious low-
+R
+shift from 1.63 Å to 1.56 Å. Meanwhile, the Fourier transform peak’s intensity displays first a decrease then an increase for the sample under the open-circuit condition and applied potential (Fig.
+2d
+), respectively, demonstrating the varied coordination environment of the Co sites.
+Quantitatively, we carried out least-squares EXAFS curve-fitting analysis for the first coordination shell of Co by considering two backscattering paths, including Co–N and Co–O (Supplementary Figs.
+18
+–
+20
+). The best-fitting analyses in Fig.
+3a,b
+show clearly that the major peak originates from four Co–N coordinations for the ex situ sample, with two short (
+R
+= 2.06 Å) and two long (
+R
+= 2.18 Å) Co–N bonds (Supplementary Table
+2
+). Moreover, the Co–N coordination could be further identified by C and N K-edge soft X-ray absorption spectra, as well as Co 2
+p
+XPS spectra (Supplementary Figs.
+21
+and
+5e
+)
+43
+. For the sample under the open-circuit condition, the geometric configuration changed into two-fold Co–N coordinations (
+R
+= 2.01 Å) plus one Co–O coordination (
+R
+= 2.08 Å), arising from the possible adsorption of the oxo group from the electrolyte. As for the sample during HER, the most reasonable coordination environment is two-fold Co–N coordinations together with two-fold Co–O coordinations, one of which can be attributed to the adsorption of a water molecule in the Volmer step. The fitted structural parameters reveal the decreased mean bond length for the sample under the operando condition, which is possibly induced by chemical adsorption of the oxo group.
+Fig. 3: Structural analysis.
+a
+,
+b
+, First-shell fitting of EXAFS spectra (
+a
+) and corresponding Re(
+k
+3
+χ
+(
+k
+)) oscillations (
+b
+) of different fitting paths for the sample under ex situ and open-circuit conditions and at −0.04 V versus RHE. Black and red lines represent experimental and fitting curves, respectively. Insets in
+a
+: corresponding geometric configurations. H, purple; C, grey; N, blue; O, green; P, pink; Co, red.
+c
+, FTIR spectra of the ex situ sample, Co
+1
+/PCN and reference PCN under the open-circuit condition.
+ν
+, stretching vibration bending mode;
+δ
+, out-of-plane skeletal bending mode.
+d
+, Co L-edge XANES spectra of the ex situ catalyst and under the open-circuit condition. TEY, total electron yield model. In
+c
+and
+d
+, the shaded region highlights the increase in peak intensity.
+Full size image
+To further uncover the potential reasons for the above changes in the structures, we carried out FTIR analysis, which is an attractive technique for determining the key species in a catalytic reaction
+44
+. We focused on the state under the open-circuit condition, considering that the sample at this state is critical to the following catalytic reaction. As can be seen in Fig.
+3c
+, the broad peak at 3,000–3,500 cm
+−1
+is mainly ascribed to the stretching vibration of O–H (ref.
+45
+). In contrast to the FTIR spectra for the ex situ sample and reference PCN catalyst under the open-circuit condition, the O–H stretching peak becomes much stronger for Co
+1
+/PCN under the open-circuit condition, indicating considerable adsorption of hydroxyl species on the Co site. However, this enhanced infrared vibration peak can potentially be assigned to either the HO–Co or the H
+2
+O–Co groups from solution. To distinguish these two species, XANES measurements at the Co K-edge were performed for the Co
+1
+/PCN in neutral aqueous solution. It was found that the XANES spectrum is unchanged in relation to the ex situ XANES data, precluding adsorption of the H
+2
+O molecule (Supplementary Fig.
+22
+). Therefore, we consider that the Co site should chemically adsorb OH radicals under the open-circuit condition.
+Considering the difficulties in discriminating the C/O neighbours by EXAFS fittings, we resorted to a combination of density function theory (DFT) calculations and EXAFS to determine their optimized structures. The most stable configuration for the ex situ Co
+1
+/PCN is that the Co atom is embedded, bridged adjacent pyridinic-N atoms from two separate triazine units within an in-plane void of the PCN matrix, as suggested by its lowest relative energy (Supplementary Figs.
+23
+–
+25
+)
+46
+. Under the open-circuit condition, besides two Co–N coordinations, one OH
+−
+group chemically bonds to Co in an end-on configuration, forming the HO–Co
+1
+–N
+2
+moiety. This acts as the real active site for the subsequent HER (inset of Fig.
+3a
+). It should be noted that the Co atom is pulled up by the chemisorbed –OH group, resulting in a decrease in Co–N coordinations. Furthermore, H
+2
+O prefers to adsorb on Co to form the H
+2
+O–(HO–Co
+1
+–N
+2
+) intermediate, driven by the applied voltage. Owing to the strong electronegativity of OH
+−
+that could balance the reduction trend of the cathodic voltage, the oxidation state is further increased.
+From the electronic side we investigated the influence of OH adsorption on the Co using soft X-ray absorption spectroscopy, which is more surface sensitive. The Co L
+2,3
+-edge absorption arises from the transition of a 2
+p
+electron to the partially filled 3
+d
+shell, which is crucial to chemical activities, and thus maps the unoccupied Co 3
+d
+state
+47
+,
+48
+. As shown in Fig.
+3d
+, the Co L-edge near-edge X-ray absorption fine structure spectrum of Co
+1
+/PCN under the open-circuit condition possesses a more intense Co L
+3
+-edge peak at ~780 eV than the initial sample. This indicates that the OH adsorption induces a lower degree of electron density of the Co atom. Moreover, a higher energy shift by ~0.2 eV of the Co L
+3
+-edge peak for the catalyst under the open-circuit condition is observed, indicating an increase in Co oxidation state, in agreement with the Co K-edge XANES results.
+Overall, the operando studies provide clear evidence that the structures of SAS catalysts can drastically change under realistic catalytic conditions. The atomically disperse Co site is most susceptible to high valence induced by chemisorbed OH
+−
+under electrochemical conditions. The high-valence transition-metal oxide species possess a high reactivity towards water adsorption and oxygen-related reactions
+49
+. Therefore, the formation of a high-valence HO–Co
+1
+–N
+2
+site under working conditions is probably responsible for the high alkaline HER activity. Moreover, the operando techniques allow us to monitor the preferential H
+2
+O adsorption on Co sites during the HER.
+Theoretical investigations on HER activity
+To further understand the reaction mechanism, theoretical investigations were conducted based on DFT calculations. According to the above Tafel slope results, molecular hydrogen can be released through the Heyrovsky reaction on our catalyst. Therefore, we propose a catalytic cycle for alkaline HER over HO–Co
+1
+/PCN (Fig.
+4a
+). In alkaline HER, the catalytic cycle is initiated by adsorption of H
+2
+O onto Co (step I), then dissociation into adsorbed OH* and H* on the Co and nearby N, respectively (step II) (the asterisk denotes the adsorption site). Subsequently, another proton from an adjacent H
+2
+O molecule will react with the first H* to generate H
+2
+(steps III–V in Fig.
+4a
+). It is well known that in alkaline HER, the first sluggish Volmer step is catalytic dissociation of a water molecule with the generation of H* (H
+2
+O +
+e
+−
+= H* + OH
+−
+)
+50
+,
+51
+. Hence, we consider the H
+2
+O and H adsorption energies on the surface of HO–Co
+1
+/PCN. The as-built Pt slab with (111) facet model, which represents commercial Pt/C, was studied for comparison. The H
+2
+O molecule has a larger adsorption energy of 0.94 eV on HO–Co
+1
+/PCN than that on Pt(111) (0.46 eV), indicating a more favoured H
+2
+O adsorption (Fig.
+4b
+). The kinetics of water dissociation into OH* and H* corresponding to steps I and II in Fig.
+4a
+was also computed. Figure
+4c
+depicts the atomic configurations of one H
+2
+O molecule dissociation step. Obviously, the HO–Co
+1
+/PCN model exhibits a quite low barrier for the Volmer step with an energy barrier of 0.52 eV, and the process is exothermic by 0.52 eV. In contrast, the energy barrier is 0.96 eV and the process is endothermic by 0.81 eV on Pt(111). This indicates the much easier dissociation of H
+2
+O on the HO–Co
+1
+/PCN, leading to a faster proton supply, which could help to overcome the efficiency loss in the Volmer reaction
+50
+. Meanwhile, the H adsorption energy plays a very important role in HER. Pt exhibits the optimum adsorption energy, and it is at the centre of the volcano plot for HER electrocatalysts both in acidic and alkaline solutions
+41
+. The values of H adsorption energies on HO–Co
+1
+/PCN and Pt(111) are very close (0.36 versus 0.48 eV, respectively). These results overall indicate that HO–Co
+1
+/PCN and Pt have comparable HER ability, in agreement with our experimental findings.
+Fig. 4: Theoretical investigations.
+a
+, Alkaline HER mechanism on HO–Co
+1
+/PCN.
+b
+, Calculated adsorption energies of H
+2
+O and H on the surface of HO–Co
+1
+/PCN and Pt(111).
+c
+, Calculated energy diagram for H
+2
+O dissociation for the Volmer step. Insets: corresponding atomic configurations of the water dissociation step on the surface of HO–Co
+1
+/PCN and Pt(111), including H
+2
+O adsorption, the transition state and the final state of OH and H adsorption.
+d
+, Electron density difference plot of the OH adsorption structure for Co
+1
+/PCN. Yellow contours indicate electron accumulation and light green contours denote electron deletion. Colour code as in Fig.
+3
+.
+Full size image
+Furthermore, the charge density difference of HO–Co
+1
+/PCN with regard to Co
+1
+/PCN clearly reveals that the Co atom donates its electrons mainly to nearby N atoms and the OH
+−
+group through orbital hybridization (Fig.
+4d
+). The quantitative oxidation states of Co with and without the adsorbed OH
+−
+group were estimated by Bader charge calculation. The Co atom donates 0.89
+e
+and 1.23
+e
+in Co
+1
+/PCN and HO–Co
+1
+/PCN, respectively (where
+e
+is the elementary charge). The oxidation states of Co are also estimated by normalizing Bader charges to those of bulk compounds with known oxidation states (see ‘
+Computational methods
+’). The nominal oxidation states of 2.05 and 2.16 were obtained for ex situ Co
+1
+/PCN and open-circuit HO–Co
+1
+/PCN samples, respectively, in good agreement with the XANES analysis. These results also support the more positive oxidation state of Co atoms under working conditions. Accordingly, these results validate the strong charge transfer occurring on HO–Co
+1
+–N
+2
+, which hence would boost the sluggish water dissociation step, leading to enhanced catalytic activity. Therefore, combining the adsorption energy and the kinetic Volmer step leads us to a comprehensive understanding of the underlying mechanism of alkaline HER on an optimized HO–Co
+1
+/PCN electrocatalyst.
+Conclusions
+In summary, we have reported operando spectroscopic identification of the catalytically active structure of the single atomic Co site under alkaline HER conditions, by combining the advantages of a well-defined SAS catalyst with structure-sensitive XAFS measurements. Besides showing outstanding HER performance, we reveal that the coordination-unsaturated single Co sites are susceptible to the environment and undergo a structural and valence-state change into a high-oxidization HO–Co
+1
+–N
+2
+moiety upon hydroxyl adsorption. Theoretic calculations demonstrate that the optimized single atomic Co site substantially reduces the energy barrier for water dissociation, which is responsible for the outstanding HER activity. The results presented herein provide additional insight into other fundamental electrocatalytic reactions in alkaline media. Our findings suggest the possibility of engineering the coordination environment of catalytically active sites via adsorption design and pave the way for developing high-performance SAS catalysts.
+Methods
+Synthesis of Co
+1
+/PCN
+In a typical synthesis, g-C
+3
+N
+4
+precursors were prepared through a typical thermal polymerization procedure. Typically, 10 g of urea (Sigma-Aldrich, ≥99% purity) was heated to 600 °C for 2 h in a muffle furnace, and then naturally cooled to room temperature to obtain the flavescent powders. The as-prepared g-C
+3
+N
+4
+was sufficiently mixed with NaH
+2
+PO
+2
+·H
+2
+O (Sigma-Aldrich, ≥99% purity, 5:1) by grinding for 30 min, and heated at 300 °C for 2 h (2 °C min
+−1
+) in an Ar atmosphere to obtain PCN. To access Co
+1
+/PCN, 200 mg PCN was dispersed in 60 ml deionized water with sonication and transformed in an oil bath. Co(NO
+3
+)
+2
+(Sigma-Aldrich, ACS reagent, ≥98% purity) aqueous solution (2 mg ml
+−1
+) was dropped into the PCN (aqueous) and stirred at 70 °C for 6 h. The mixture was then dried and placed in a tube furnace and annealed at 400 °C for 2 h in an Ar atmosphere. Finally, the obtained compounds were ultrasonicated, washed several times and dried under vacuum overnight.
+Material characterizations
+The morphologies of the as-prepared sample were examined by scanning electron microscopy and TEM on FEI-30 ESEM and JEOL-2100F systems at an accelerating voltage of 200 kV. EDS spectra were obtained on a 26FEI Talos F200X device at 200 kV. HAADF–STEM, high-resolution TEM and EELS results were obtained on a JEM-ARM 200F instrument at 200 kV. Powder XRD patterns were collected on a Philips X’pert Pro Super diffractometer with Cu K
+α
+line (
+λ
+=
+1.5418 Å). The concentration of Co atoms was directly measured by ICP–OES (Optima 7300 DV, PerkinElmer). XPS measurements were carried out on an ESCALAB MKII instrument equipped with an Mg K
+α
+source (
+hν
+= 1,253.6 eV). The binding energy scale of all measurements was calibrated by referencing C 1
+s
+to 284.5 eV (ref.
+31
+). P solid-state NMR spectra were conducted on an AVANCE III 400WB instrument.
+FTIR spectra were collected using a Nicolet 8700 infrared spectrometer with a resolution of 4 cm
+−1
+. All samples were mixed with KBr (Sigma-Aldrich) by grinding before being pressed into pellets. The samples of PCN in KOH and Co
+1
+/PCN in KOH represent catalysts immersed in KOH solution and then vacuum-dried to remove solution. A total of 32 scans were collected for both the reference (pure KBr powders) and the samples.
+Electrochemical measurements
+All electrochemical measurements were carried out in a typical three-electrode system with an electrochemical workstation at room temperature, and using graphite rod as the counterelectrode and saturated Ag/AgCl as the reference electrode. To prepare the working electrode, 4 mg electrocatalyst and 20 μl Nafion solution (5 wt%) were ultrasonically dispersed in 1 ml water/ethanol (vol:vol, 3:1) solution to form a homogeneous ink. The electrocatalyst suspension (125 μl) was loaded onto Ni foam (1 cm
+2
+) as the working electrode. Commercial 20% Pt/C catalyst was from Shanghai River Sen Electric Co. The reference sample loading was determined to be ~0.5 mg cm
+−2
+. For HER, cathodic linear sweep voltammetry with a 5 mV s
+−1
+scan rate was performed in N
+2
+-saturated 1.0 M KOH (pH 13.6). Electrochemical impedance spectroscopy measurements were carried out by applying an a.c. voltage with 5 mV amplitude in a frequency range from 100 kHz to 100 MHz at an overpotential of 200 mV. All potentials were calibrated versus RHE using
+$$E\left( {{\mathrm{RHE}}} \right) = E\left( {{\mathrm{Ag/AgCl}}} \right){\mathrm{ + 0}}{{.197\,{\rm{V}} + 0}}{{.0592 \times {\rm{pH}}}}$$
+(1)
+Operando XAFS measurements
+The Co K-edge (7,709 eV) XAFS spectra were measured at the 1W1B beamline of Beijing Synchrotron Radiation Facility (BSRF), China. The storage ring of BSRF was operated at 2.5 GeV with a maximum electron current of 250 mA. The hard X-ray was monochromatized with a Si(111) double-crystal monochromator and detuned by 30% to remove harmonics. Operando XAFS measurements were performed with catalyst-coated carbon cloth using a home-built cell. The catalyst powders were dispersed in ethanol with 20 μl Nafion solution (5%, Sigma-Aldrich), and then sonicated for 30 min. The catalyst ink was dropcast onto carbon paper taped with Kapton film on the back as the working electrode (~1 cm × 1 cm) to ensure all of the electrocatalyst reacted with KOH electrolyte at a geometric metal loading of ~0.5 mg cm
+−2
+. The XAFS spectra were collected through the fluorescence mode. To monitor the changes during the HER process, cathodic voltages from −0.04 V to −0.1 V were applied for 5 min in 1 M KOH as the conditioning step.
+During XAFS measurements, we calibrated the position of the absorption edge (
+E
+0
+) using Co foil, and all the XAFS data were collected during one period of beam time. Each spectrum was measured three times to ensure the repeatability of the data (the positions of
+E
+0
+were almost the same during the multiple scans). The position of
+E
+0
+is defined as the point corresponding to the maximum value in the derivative curves of the XANES spectra.
+XAFS data analysis
+Acquired EXAFS data were processed according to standard procedures using the ATHENA module implemented in the IFEFFIT software packages
+52
+. The
+k
+3
+-weighted
+χ
+(
+k
+) data in the
+k
+-space ranging from 2.0 to 10.5 Å
+−1
+were Fourier-transformed to real (
+R
+) space using a hanning windows (d
+k
+= 1.0 Å
+−1
+) to separate the EXAFS contributions from different coordination shells. To obtain the detailed structural parameters around the Co atom in the as-prepared samples, quantitative curve fittings were carried out for the Fourier-transformed
+k
+3
+χ
+(
+k
+) in
+R
+-space using the ARTEMIS module of IFEFFIT
+53
+. Effective backscattering amplitudes
+F
+(
+k
+) and phase shifts
+Φ
+(
+k
+) of all fitting paths were calculated with the ab initio code FEFF8.0
+54
+. For the four Co
+1
+/PCN samples, a
+k
+-range of 2.0–10.5 Å
+-1
+was used and curve fittings were carried out in
+R
+-space within an
+R
+range of [1.0, 2.1] Å for
+k
+3
+-weighted
+χ
+(
+k
+) functions. The number of independent points is given by
+$$N_{{\mathrm{ipt}}} = 2\Delta k \times \Delta R/ \mathrm \pi = 2 \times \left( {10.5 - 2} \right) \times \left( {2.1 - 1.0} \right)/\mathrm \pi {\mathrm{ = }}6$$
+(2)
+As for the ex situ Co
+1
+/PCN sample, the Fourier-transformed curves showed a single prominent coordination peak at 1.63 Å assigned to the Co–N coordination with the N atoms from the PCN support. Two separate Co–N
+i
+and Co–N
+ii
+scattering paths were included to fit the data of the ex situ Co
+1
+/PCN sample, where N
+i
+denotes the nearest N atoms bridging the Co atom and the support, while N
+ii
+denotes the N atoms with greater separation on the support. Compared to the ex situ sample, the first coordination peak of the sample under the open-circuit condition exhibited an obvious lower-
+R
+shift to 1.56 Å. This shift was ascribed to the coexistence with Co–O coordination, as suggested by the obvious change in the FTIR spectra. Thus, a two-shell structure model of a Co–N and a Co–O shell was used to fit the EXAFS data of the sample under the open-circuit condition. When a cathodic potential was applied, the Fourier transform curves showed a coordination peak position of 1.56 Å comparable with that of the open-circuit sample, except for an increase in the peak intensity, which was assigned to the water adsorption at the active cobalt site under the HER working conditions. Another Co–O
+2
+shell therefore has to be included to fit the data of the −0.04 V and −0.1 V sample.
+During curve fittings, the Debye–Waller factors (
+σ
+2
+) and bond length (
+R
+) were treated as adjustable parameters. For the ex situ sample,
+N
+and
+R
+were treated as adjustable parameters for both Co-N
+i
+and Co-N
+ii
+shells, while the
+σ
+2
+and Δ
+E
+0
+of the Co–N
+i
+and Co–N
+ii
+shells were set equal in order to reduce the number of adjustable fitting parameters. The number of adjustable parameters for the ex situ sample was thus
+N
+para
+= 2 + 2 + 1 + 1 = 6, no more than
+N
+ipt
+= 6. For the open-circuit sample,
+N
+and ΔE
+0
+of the Co–-N
+i
+shell were set as the best-fit value of 2 and 5.5 eV from the ex situ sample, respectively. The
+σ
+2
+of the Co–O
+i
+shell was set equal to that of the Co–N
+i
+shell, while the
+N
+,
+R
+and Δ
+E
+0
+were all treated as free parameters. The number of adjustable parameters for the sample under the open-circuit condition was
+N
+para
+= 1 + 2 + 1 + 1 = 5. For the −0.04 V sample,
+N
+of the Co–N
+i
+and Co–O
+i
+shells and Δ
+E
+0
+of Co–N
+i
+, Co–O
+i
+and Co–O
+ii
+were set as the best-fit values from the open-circuit sample.
+R
+and
+σ
+2
+were treated as adjustable parameters, except for
+σ
+2
+of the Co–N
+i
+and Co–O
+i
+shells, which were set equal. The number of adjustable parameters for the −0.04 V sample was
+N
+para
+= 1 + 3 + 1 + 1 = 6. For the −0.1 V sample,
+N
+and Δ
+E
+0
+of the Co–N
+i
+, Co–O
+i
+and Co–O
+ii
+shells were set as the best-fit values of the −0.04 V sample. The number of adjustable parameters for the −0.1 V sample was
+N
+para
+= 3 + 2 = 5, also no more than
+N
+ipt
+= 6. Following the above fitting strategies, the obtained structural parameters are summarized in Supplementary Table
+1
+. All yielded
+R
+factors are not larger than 0.01, indicating the good fitting quality.
+Soft X-ray XANES measurements
+Co L-edge XANES measurements were performed at the photoemission endstation at BL10B and BL12B beamlines of the National Synchrotron Radiation Laboratory (NSRL), China. A bending magnet was connected to the beamline, which was equipped with three gratings covering photon energies from 100 to 1,000 eV with an energy resolution of ~0.2 eV. The data were recorded in the total electron yield mode by collecting the sample drain current. The resolving power of the grating was typically
+E
+/∆
+E
+= 1,000, and the photon flux was 1 × 10
+−10
+photons per second. The ex situ catalyst was dispersed in ethanol and dropped onto a conductive silicon wafer. For the catalyst in KOH solution (Co
+1
+/PCN in KOH), the ex situ catalyst coated on conductive silicon wafer was wetted in KOH aqueous solution, and then sealed in a sample cell with silicon nitride membrane window-incident soft X-ray photons to penetrate the cell. During the Co L-edge XANES measurement, the samples were solidly adhered onto the conductive substrate with conductive adhesive and with a random orientation, so there was no polarization dependence.
+Computational methods
+All calculations were performed using the plane-wave periodic DFT method in the Vienna ab initio simulation package
+55
+. The electron ion interaction was described with the projector augmented wave method
+56
+. The electron exchange and correlation energy were treated within the generalized gradient approximation (GGA) in the form of the Perdew–Burke–Ernzerhof function
+57
+. A cutoff energy of 500 eV, force convergence lower than 0.02 eV Å
+−1
+and Gaussian electron smearing method with
+σ
+= 0.1 eV were used. Brillouin zone sampling was employed using a Monkhorst–Pack grid
+58
+. The nudged elastic band method was used to locate the transition states of the reactions
+59
+. A single-layer periodic slab with (4 × 4) supercell g-C
+3
+N
+4
+was utilized, and all atoms were fully relaxed. The vacuum slab was set to 15 Å. PCN was modelled with a graphitic carbon atom of the pristine g-C
+3
+N
+4
+replaced by a phosphor atom (Supplementary Fig.
+12a
+). The Pt(111) surface was modelled using a four-layer slab with 15 Å vacuum slab and a (3 × 3) supercell (Supplementary Fig.
+12b
+). The bottom two layers were fixed at the bulk position and the top two layers were fully relaxed for the calculations.
+The oxidation states of Co atoms are estimated by evaluating the Bader charges and by normalizing them to the Bader charges of bulk compounds with known oxidation states. For example, for phthalocyanine cobalt(
+ii
+) (CoPc), where the Co is coordinated with four N atoms, and its coordination environment is close to Co
+1
+/PCN in our work, the Bader charge of Co is 0.87
+e
+. When normalizing to CoPc, the nominal oxidation state of 2.05 is obtained for the ex situ Co
+1
+/PCN sample. Similarly, for the cobalt(
+ii
+) hydroxo complex C
+30
+H
+53
+N
+6
+OBCo, the Co is coordinated with three N atoms and one hydroxyl group
+60
+, and its coordination environment is close to HO–Co
+1
+/PCN (open-circuit sample), the Bader charge of Co is 1.14
+e
+. When normalizing to C
+30
+H
+53
+N
+6
+OBCo, the nominal oxidation state of 2.16 is obtained for HO–Co
+1
+/PCN, confirming the more positive oxidation state of Co under open-circuit conditions. The Cartesian coordinates of the relaxed models are provided in Supplementary Data
+1
+–
+3
+.
+Data availability
+The data that support the plots within this paper and other findings of this study are available from the corresponding author upon reasonable request.
+References
+Dresselhaus, M. & Thomas, I. Alternative energy technologies.
+Nature
+414
+, 332–337 (2001).
+Article
+CAS
+Google Scholar
+Zou, X. & Zhang, Y. Noble metal-free hydrogen evolution catalysts for water splitting.
+Chem. Soc. Rev.
+44
+, 5148–5180 (2015).
+Article
+CAS
+Google Scholar
+Walter, M. G. et al. Solar water splitting cells.
+Chem. Rev.
+110
+, 6446–6473 (2010).
+Article
+CAS
+Google Scholar
+Subbaraman, R. et al. Trends in activity for the water electrolyser reactions on 3
+d
+M (Ni, Co, Fe, Mn) hydr(oxy)oxide catalysts.
+Nat. Mater.
+11
+, 550–557 (2012).
+Article
+CAS
+Google Scholar
+Seh, Z. W. et al. Combining theory and experiment in electrocatalysis: Insights into materials design.
+Science
+355
+, 146 (2017).
+Article
+Google Scholar
+Subbaraman, R. et al. Enhancing hydrogen evolution activity in water splitting by tailoring Li
++
+–Ni (OH)
+2
+–Pt interfaces.
+Science
+334
+, 1256–1260 (2011).
+Article
+CAS
+Google Scholar
+Weng, Z. et al. Active sites of copper-complex catalytic materials for electrochemical carbon dioxide reduction.
+Nat. Commun.
+9
+, 415 (2018).
+Article
+Google Scholar
+Ding, K. et al. Identification of active sites in CO oxidation and water-gas shift over supported Pt catalysts.
+Science
+350
+, 189–192 (2015).
+Article
+CAS
+Google Scholar
+Irvine, J. T. et al. Evolution of the electrochemical interface in high-temperature fuel cells and electrolysers.
+Nat. Energy
+1
+, 15014 (2016).
+Article
+CAS
+Google Scholar
+Weng, Z. et al. Self-cleaning catalyst electrodes for stabilized CO
+2
+reduction to hydrocarbons.
+Angew. Chem. Int. Ed.
+56
+, 13135–13139 (2017).
+Article
+CAS
+Google Scholar
+Malta, G. et al. Identification of single-site gold catalysis in acetylene hydrochlorination.
+Science
+355
+, 1399–1403 (2017).
+Article
+CAS
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+Google Scholar
+Liu, P. et al. Photochemical route for synthesizing atomically dispersed palladium catalysts.
+Science
+352
+, 797–801 (2016).
+Article
+CAS
+Google Scholar
+Zhang, H., Liu, G., Shi, L. & Ye, J. Single-atom catalysts: emerging multifunctional materials in heterogeneous catalysis.
+Adv. Energy Mater.
+8
+, 1701343 (2017).
+Article
+Google Scholar
+Therrien, A. J. et al. An atomic-scale view of single-site Pt catalysis for low-temperature CO oxidation.
+Nat. Catal.
+1
+, 192–198 (2018).
+Article
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+Google Scholar
+Li, H. et al. Synergetic interaction between neighbouring platinum monomers in CO
+2
+hydrogenation.
+Nat. Nanotech.
+13
+, 411–417 (2018).
+Article
+CAS
+Google Scholar
+Liu, W. et al. Single-site active cobalt-based photocatalyst with a long carrier lifetime for spontaneous overall water splitting.
+Angew. Chem. Int. Ed.
+56
+, 9312–9317 (2017).
+Article
+CAS
+Google Scholar
+Shan, J., Li, M., Allard, L. F., Lee, S. & Flytzani-Stephanopoulos, M. Mild oxidation of methane to methanol or acetic acid on supported isolated rhodium catalysts.
+Nature
+551
+, 605–608 (2017).
+Article
+CAS
+Google Scholar
+Nie, L. et al. Activation of surface lattice oxygen in single-atom Pt/CeO
+2
+for low-temperature CO oxidation.
+Science
+358
+, 1419–1423 (2017).
+Article
+CAS
+Google Scholar
+Tang, Y. et al. Single rhodium atoms anchored in micropores for efficient transformation of methane under mild conditions.
+Nat. Commun.
+9
+, 1231 (2018).
+Article
+Google Scholar
+Lin, L. et al. Low-temperature hydrogen production from water and methanol using Pt/α-MoC catalysts.
+Nature
+544
+, 80–83 (2017).
+Article
+CAS
+Google Scholar
+Cheng, N. et al. Platinum single-atom and cluster catalysis of the hydrogen evolution reaction.
+Nat. Commun.
+7
+, 13638 (2016).
+Article
+CAS
+Google Scholar
+Marković, N., Schmidt, T., Stamenković, V. & Ross, P. Oxygen reduction reaction on Pt and Pt bimetallic surfaces: a selective review.
+Fuel Cells
+1
+, 105–116 (2001).
+Article
+Google Scholar
+Jiao, Y., Zheng, Y., Jaroniec, M. & Qiao, S. Z. Design of electrocatalysts for oxygen-and hydrogen-involving energy conversion reactions.
+Chem. Soc. Rev.
+44
+, 2060–2086 (2015).
+Article
+CAS
+Google Scholar
+Liu, W. et al. Single-atom dispersed Co–N–C catalyst: structure identification and performance for hydrogenative coupling of nitroarenes.
+Chem. Sci.
+7
+, 5758–5764 (2016).
+Article
+CAS
+Google Scholar
+Cao, Y. et al. Atomic insight into optimizing hydrogen evolution pathway over a Co
+1
+–N
+4
+single-site photocatalyst.
+Angew. Chem. Int. Ed.
+56
+, 12191–12196 (2017).
+Article
+CAS
+Google Scholar
+Fei, H. et al. General synthesis and definitive structural identification of MN
+4
+C
+4
+single-atom catalysts with tunable electrocatalytic activities.
+Nat. Catal.
+1
+, 63–72 (2018).
+Article
+Google Scholar
+Zitolo, A. et al. Identification of catalytic sites in cobalt–nitrogen–carbon materials for the oxygen reduction reaction.
+Nat. Commun.
+8
+, 957 (2017).
+Article
+Google Scholar
+Chen, W. et al. Rational design of single molybdenum atoms anchored on N-doped carbon for effective hydrogen evolution reaction.
+Angew. Chem. Int. Ed.
+129
+, 16302–16306 (2017).
+Article
+Google Scholar
+Ledezma-Yanez, I. et al. Interfacial water reorganization as a pH-dependent descriptor of the hydrogen evolution rate on platinum electrodes.
+Nat. Energy
+2
+, 17031 (2017).
+Article
+CAS
+Google Scholar
+Dou, J. et al. Operando chemistry of catalyst surfaces during catalysis.
+Chem. Soc. Rev.
+46
+, 2001–2027 (2017).
+Article
+CAS
+Google Scholar
+Fabbri, E. et al. Dynamic surface self-reconstruction is the key of highly active perovskite nano-electrocatalysts for water splitting.
+Nat. Mater.
+16
+, 925–931 (2017).
+Article
+CAS
+Google Scholar
+Yao, T. et al. Insights into initial kinetic nucleation of gold nanocrystals.
+J. Am. Chem. Soc.
+132
+, 7696–7701 (2010).
+Article
+CAS
+Google Scholar
+Tao, F. F. & Salmeron, M. In situ studies of chemistry and structure of materials in reactive environments.
+Science
+331
+, 171–174 (2011).
+Article
+CAS
+Google Scholar
+Pastor, E. et al. Spectroelectrochemical analysis of the mechanism of (photo) electrochemical hydrogen evolution at a catalytic interface.
+Nat. Commun.
+8
+, 14280 (2017).
+Article
+CAS
+Google Scholar
+Marberger, A. et al. Time-resolved copper speciation during selective catalytic reduction of NO on Cu-SSZ-13.
+Nat. Catal.
+1
+, 221–227 (2018).
+Article
+Google Scholar
+Genovese, C. et al. Operando spectroscopy study of the carbon dioxide electro-reduction by iron species on nitrogen-doped carbon.
+Nat. Commun.
+9
+, 935 (2018).
+Article
+Google Scholar
+Sun, Z. H., Liu, Q. H., Yao, T., Yan, W. S. & Wei, S. Q. X-ray absorption fine structure spectroscopy in nanomaterials.
+Sci. China Mater.
+58
+, 313–341 (2015).
+Article
+CAS
+Google Scholar
+Jiao, Y., Zheng, Y., Davey, K. & Qiao, S.-Z. Activity origin and catalyst design principles for electrocatalytic hydrogen evolution on heteroatom-doped graphene.
+Nat. Energy
+1
+, 16130 (2016).
+Article
+CAS
+Google Scholar
+Mahmood, J. et al. An efficient and pH-universal ruthenium-based catalyst for the hydrogen evolution reaction.
+Nat. Nanotech.
+12
+, 441–446 (2017).
+Article
+CAS
+Google Scholar
+Zhang, J. et al. Interface engineering of MoS
+2
+/Ni
+3
+S
+2
+heterostructures for highly enhanced electrochemical overall-water-splitting activity.
+Angew. Chem. Int. Ed.
+128
+, 6814–6819 (2016).
+Article
+Google Scholar
+Yin, P. et al. Single cobalt atoms with precise N-coordination as superior oxygen reduction reaction catalysts.
+Angew. Chem. Int. Ed.
+55
+, 10800–10805 (2016).
+Article
+CAS
+Google Scholar
+Zandi, O. & Hamann, T. W. Determination of photoelectrochemical water oxidation intermediates on haematite electrode surfaces using operando infrared spectroscopy.
+Nat. Chem.
+8
+, 778–783 (2016).
+Article
+CAS
+Google Scholar
+Xing, T. et al. Observation of active sites for oxygen reduction reaction on nitrogen-doped multilayer graphene.
+ACS Nano
+8
+, 6856–6862 (2014).
+Article
+CAS
+Google Scholar
+Zheng, Y. et al. Molecule-level g-C
+3
+N
+4
+coordinated transition metals as a new class of electrocatalysts for oxygen electrode reactions.
+J. Am. Chem. Soc.
+139
+, 3336–3339 (2017).
+Article
+CAS
+Google Scholar
+Liang, Y. Y. et al. Co
+3
+O
+4
+nanocrystals on graphene as a synergistic catalyst for oxygen reduction reaction.
+Nat. Mater.
+10
+, 780–786 (2011).
+Article
+CAS
+Google Scholar
+Istomin, S. Y. et al. An unusual high-spin ground state of Co
+3+
+in octahedral coordination in brownmillerite-type cobalt oxide.
+Dalton Trans.
+44
+, 10708–10713 (2015).
+Article
+CAS
+Google Scholar
+Zheng, X. et al. Theory-driven design of high-valence metal sites for water oxidation confirmed using in situ soft X-ray absorption.
+Nat. Chem.
+10
+, 149–154 (2018).
+Article
+CAS
+Google Scholar
+Zheng, Y. et al. High electrocatalytic hydrogen evolution activity of an anomalous ruthenium catalyst.
+J. Am. Chem. Soc.
+138
+, 16174–16181 (2016).
+Article
+CAS
+Google Scholar
+Zhang, J. et al. Efficient hydrogen production on MoNi
+4
+electrocatalysts with fast water dissociation kinetics.
+Nat. Commun.
+8
+, 15437 (2017).
+Article
+CAS
+Google Scholar
+Newville, M. IFEFFIT: interactive XAFS analysis and FEFF fitting.
+J. Synchrot. Radiat.
+8
+, 322–324 (2001).
+Article
+CAS
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrot. Radiat.
+12
+, 537–541 (2005).
+Article
+CAS
+Google Scholar
+Ankudinov, A., Ravel, B., Rehr, J. & Conradson, S. Real-space multiple-scattering calculation and interpretation of X-ray-absorption near-edge structure.
+Phys. Rev. B
+58
+, 7565–7576 (1998).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phy. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+Google Scholar
+Monkhorst, H. J. & Pack, J. D. Special points for Brillouin-zone integrations.
+Phys. Rev. B
+13
+, 5188–5192 (1976).
+Article
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+Phy. Rev. Lett
+113
+, 9901 (2000).
+CAS
+Google Scholar
+Singh, U. P., Babbar, P., Tyagi, P. & Weyhermüller, T. A mononuclear cobalt(
+ii
+) hydroxo complex: synthesis, molecular structure, and reactivity studies.
+Transition Met. Chem.
+33
+, 931–940 (2008).
+Article
+CAS
+Google Scholar
+Download references
+Acknowledgements
+This work was supported by the China Ministry of Science and Technology under contracts nos. 2017YFA0402800 and 2017YFA0208300, the National Natural Science Foundation of China (grants nos. 21471143, 21533007, 11621063 and 21703222), the Fundamental Research Funds for the Central Universities (KY2310000020 and KY2310000019, and the Youth Innovation Promotion Association CAS (CX2310000091). The authors thank NSRL, BSRF and SSRF for synchrotron beam time. Calculations were conducted on the supercomputing system in the Supercomputing Center of USTC.
+Author information
+Author notes
+These authors contributed equally: Linlin Cao, Qiquan Luo, Wei Liu
+Authors and Affiliations
+National Synchrotron Radiation Laboratory, University of Science and Technology of China, Hefei, China
+Linlin Cao, Wei Liu, Xiaokang Liu, Yuanjie Cao, Wei Zhang, Tao Yao & Shiqiang Wei
+Hefei National Laboratory for Physical Sciences at the Microscale, University of Science and Technology of China, Hefei, China
+Qiquan Luo, Yue Lin & Jinlong Yang
+Department of Chemistry, Collaborative Innovation Center of Chemistry for Energy Materials, University of Science and Technology of China, Hefei, China
+Yuen Wu
+Authors
+Linlin Cao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Qiquan Luo
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wei Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yue Lin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiaokang Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yuanjie Cao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wei Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yuen Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jinlong Yang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Tao Yao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shiqiang Wei
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+T.Y. and S.W. developed the idea and designed experiments. L.C., X.L., Y.C., W.L. and W.Z. performed the catalyst synthesis and characterizations, XAFS measurements and electrochemical experiments. Q.L. and J.Y. conducted and discussed the theoretical calculations. L.C., Y.L. and Y.W. performed the aberration-corrected STEM characterization. L.C., T.Y. and S.W. co-wrote the paper. All authors discussed the results and commented on the manuscript.
+Corresponding authors
+Correspondence to
+Tao Yao
+or
+Shiqiang Wei
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note:
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figures 1–25, Supplementary Tables 1–2 and Supplementary References
+Supplementary Data 1
+Cartesian coordinates of the relaxed ex situ model
+Supplementary Data 2
+Cartesian coordinates of the relaxed open circuit model
+Supplementary Data 3
+Cartesian coordinates of the –0.04 V relaxed model
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Cao, L., Luo, Q., Liu, W.
+et al.
+Identification of single-atom active sites in carbon-based cobalt catalysts during electrocatalytic hydrogen evolution.
+Nat Catal
+2
+, 134–141 (2019). https://doi.org/10.1038/s41929-018-0203-5
+Download citation
+Received
+:
+30 May 2018
+Accepted
+:
+12 November 2018
+Published
+:
+31 December 2018
+Issue Date
+:
+February 2019
+DOI
+:
+https://doi.org/10.1038/s41929-018-0203-5
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

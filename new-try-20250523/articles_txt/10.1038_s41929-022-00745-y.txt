@@ -1,0 +1,2138 @@
+Modulating the dynamics of Brønsted acid sites on PtWOx inverse catalyst | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Modulating the dynamics of Brønsted acid sites on PtWO
+x
+inverse catalyst
+Download PDF
+Article
+Published:
+21 February 2022
+Modulating the dynamics of Brønsted acid sites on PtWO
+x
+inverse catalyst
+Jiayi Fu
+1
+,
+2
+na1
+,
+Shizhong Liu
+2
+na1
+,
+Weiqing Zheng
+2
+na1
+,
+Renjing Huang
+ORCID:
+orcid.org/0000-0003-2060-8630
+2
+,
+3
+,
+Cong Wang
+2
+,
+Ajibola Lawal
+ORCID:
+orcid.org/0000-0001-8726-6570
+2
+,
+4
+,
+Konstantinos Alexopoulos
+2
+,
+Sibao Liu
+ORCID:
+orcid.org/0000-0001-9735-3491
+5
+,
+Yunzhu Wang
+2
+,
+Kewei Yu
+1
+,
+2
+,
+J. Anibal Boscoboinik
+ORCID:
+orcid.org/0000-0002-5090-7079
+2
+,
+6
+,
+Yuefeng Liu
+ORCID:
+orcid.org/0000-0001-9823-3811
+7
+,
+Xi Liu
+ORCID:
+orcid.org/0000-0002-8654-0774
+8
+,
+Anatoly I. Frenkel
+ORCID:
+orcid.org/0000-0002-5451-1207
+2
+,
+9
+,
+10
+,
+Omar A. Abdelrahman
+ORCID:
+orcid.org/0000-0001-6023-857X
+2
+,
+4
+,
+Raymond J. Gorte
+2
+,
+3
+,
+Stavros Caratzoulas
+2
+&
+…
+Dionisios G. Vlachos
+ORCID:
+orcid.org/0000-0002-6795-8403
+1
+,
+2
+Show authors
+Nature Catalysis
+volume
+5
+,
+pages
+144–153 (
+2022
+)
+Cite this article
+8111
+Accesses
+59
+Altmetric
+Metrics
+details
+Subjects
+Density functional theory
+Heterogeneous catalysis
+Surface spectroscopy
+Abstract
+Brønsted acid sites on the oxide overlayers of metal–metal oxide inverse catalysts are often hypothesized to drive selective C–O bond activation. However, the Brønsted acid site nature and dynamics under working conditions remain poorly understood due to the functionalities of the constituent materials. Here we investigate the formation and the dynamics of Brønsted acid and redox sites on PtWO
+x
+/C under working conditions. Density functional theory-based thermodynamic calculations and microkinetic modelling reveal a complex interplay between Brønsted acid and redox sites and potentially fast catalyst dynamics at comparable timescales to the Brønsted acid catalysed dehydration chemistry. Combining in situ characterization and probe chemistry, we demonstrate that the density of Brønsted acid sites on the PtWO
+x
+/C inverse catalyst could be modulated by up to two orders of magnitude by altering the reaction parameters and by the chemistry itself. We elicit an order of magnitude increase in the acid-catalysed dehydration average reaction rate by periodic hydrogen pulsing.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Directing reaction pathways via in situ control of active site geometries in PdAu single-atom alloy catalysts
+Article
+Open access
+09 March 2021
+Inverse catalysts: tuning the composition and structure of oxide clusters through the metal support
+Article
+Open access
+10 January 2025
+Regulating the scaling relationship for high catalytic kinetics and selectivity of the oxygen reduction reaction
+Article
+Open access
+27 October 2022
+Main
+Metal–metal oxide (M–MO) catalysts are central to petrochemical, fine chemical, pharmaceutical and biomass upgrade reactions
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+,
+9
+,
+10
+owing to cooperative catalysis among multiple active sites. For example, synthesizing selectively high-value C
+3
+–C
+6
+terminal diols and aromatics over noble metal catalysts from biomass-derived polyols and furanics by hydrodeoxygenation is challenging. The former molecules require cleaving secondary C–O bonds instead of accessible primary hydroxyls
+2
+,
+3
+,
+6
+,
+10
+; the latter entail activating the primary C–O bonds without reducing the aromatic groups
+5
+,
+7
+,
+11
+,
+12
+that interact strongly with extended noble metal surfaces. Surprisingly, decorating the surface of supported noble metals (for example, Pt, Ir, Rh) with reducible oxides (WO
+x
+, MoO
+x
+, ReO
+x
+) enables the selective production of many chemicals, such as terminal diols, and also C–O bond scission in
+m
+-cresol while preserving aromaticity
+2
+,
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+,
+9
+and the ring-opening of tetrahydrofurfuryl alcohol
+5
+,
+6
+. These multifunctional catalysts consist of metal sites, redox sites and Brønsted and Lewis acid sites.
+It has been suggested that the Brønsted acid sites activate the secondary C–O bond and stabilize the cationic intermediates towards the formation of diols from biomass-derived substrates such as glycerol and tetrahydrofurfuryl alcohol
+2
+,
+3
+,
+6
+,
+8
+,
+13
+. Establishing structure–activity relationships is complicated by the intimate coupling of Brønsted acidity and catalyst reducibility. Specifically, in situ Brønsted acid formation is often accompanied by partial reduction of the oxide, leading to redox centres (vacancy formation)
+14
+. Such redox centres have been proposed to activate the primary hydroxyl groups in aromatic compounds
+5
+,
+15
+,
+16
+; others have attributed the activity to Brønsted acid sites on partially reduced WO
+x
+(ref.
+14
+). Therefore, it is crucial to understand the dynamics and coupling of acid and redox sites under various reaction environments. Aside from the ambiguity on the active sites of these materials, the active sites are taken to be stationary.
+In this Article, we investigate Brønsted acid site dynamics on the core–shell metal/metal oxide PtWO
+x
+/C inverse catalyst as a case study. The catalyst is synthesized by atomic layer deposition (ALD). Using density functional theory (DFT) calculations, microkinetic modelling (MKM) and experimental kinetics with probe molecules, we elucidate the structure of the WO
+x
+overlayer, the catalyst phase behaviour and the dynamics of the acid sites under various working conditions. Unlike the metal and the oxide that are not acidic under our conditions, we demonstrate Brønsted acid catalysis by the synergy of the elements and identify water dissociation, hydrogen spillover and oxide reduction as crucial contributors to the dynamics and density of Brønsted acid sites, leading to profound changes in the dehydration rate of probe reactions. While the acidity of these materials can be strong compared to microporous aluminosilicate zeolites, their site density is modulated by the chemistry, the operating conditions, the catalyst pretreatment and the longitudinal position in a reactor. The fundamental insights provide methods for modulating the sites in the selective C–O bond activation paving numerous routes to catalyst design. Using the dehydration of
+tert
+-butanol as a case study, we demonstrate that periodic pulsing of hydrogen allows the PtWO
+x
+/C catalyst to achieve alternate states with about one order of magnitude higher activity than under constant hydrogen feed.
+Results
+Morphology, coordination and oxidation state of WO
+x
+/Pt
+Establishing a representative structural model is important. Although tetrahedral WO
+x
+clusters on various oxide surfaces have been reported
+5
+, the structure of WO
+x
+on noble metals under reductive conditions has not been explored. We investigated three structural models: a monolayer on Pt(111) with W atoms coordinating to five oxygen atoms (Fig.
+1a
+), as previously reported
+17
+; a tetrahedral W
+3
+O
+9
+cluster with two terminal W centres and a bridge W centre
+5
+, representative of oligomeric clusters on Pt(111) (Fig.
+1b
+); and a W
+3
+O
+6
+trimer representing a reduced structure (Fig.
+1c
+). Figure
+1d
+shows simulated X-ray absorption near edge structure (XANES) spectra (W L
+1
+edge). The W
+3
+O
+9
+cluster model shows an intense pre-edge feature, characteristic of tetrahedral W(VI) centres—this feature is absent from the monolayer model
+18
+,
+19
+. Our experimental W L
+1
+XANES spectra display a similar intense pre-edge feature at 12,095 eV for PtWO
+x
+/C-1R and a smaller pre-edge peak for WO
+x
+/C-1R and WO
+3
+(Fig.
+1e
+), indicating more tetrahedrally coordinated W centres on Pt than on carbon or a bulk oxide. The smaller pre-edge peak is attributed to the distorted octahedral W centres. Reducing the W(VI) trimer to a W(IV) trimer decreases the calculated pre-edge feature, also seen in the experimental spectrum of the reduced PtWO
+x
+/C-1R (Fig.
+1e
+). The scanning transmission electron microscopy (STEM) characterization
+6
+and the XANES spectra suggest a sub-monolayer of WO
+x
+. Thereby, we conclude that the WO
+x
+overlayer in PtWO
+x
+/C-1R is distinct from WO
+6
+units in bulk WO
+3
+and WO
+2
+and is faithfully represented by a W
+3
+O
+9
+trimer on a Pt(111) slab (Fig.
+1b
+).
+Fig. 1: Model structures and XANES spectra.
+a
+, WO
+3
+monolayer on Pt(111).
+b
+, W
+3
+O
+9
+cluster on Pt(111).
+c
+, W
+3
+O
+6
+cluster on Pt(111). Colour code: blue, Pt; grey, W; red, O.
+d
+, Simulated W L
+1
+XANES spectra of model structures.
+μ
+(
+E
+), absorption coefficient;
+E
+, photon energy of the incident X-ray.
+e
+, Experimental W L
+1
+XANES spectra of WO
+3
+standard, WO
+x
+/C-1R and PtWO
+x
+/C-1R. Reduction at 400 °C. The scaled raw data without background removal are shown in Supplementary Fig.
+1
+. 1R indicates 1 ALD cycle.
+Full size image
+Formation mechanisms of Brønsted acid sites
+We have examined three formation mechanisms of Brønsted acid sites on the PtWO
+x
+catalyst, including H
+2
+dissociation on Pt followed by H diffusion and attachment to a terminal or bridge O of the WO
+x
+cluster (hereinafter referred to as the spillover mechanism), direct H
+2
+dissociation on WO
+x
+and direct H
+2
+O dissociation on WO
+x
+. The dissociative adsorption of H
+2
+on Pt has an enthalpy change of −0.95 eV and is non-activated. Upon dissociation, H diffusion from Pt onto the W
+3
+O
+9
+cluster and formation of an acidic terminal hydroxyl group (Supplementary Fig.
+2a
+) has an activation barrier of 0.15 eV and releases 0.08 eV of enthalpy (driving force for spillover). Various terminal sites for the OH group have been investigated; two examples are shown in Supplementary Fig.
+3a
+and Supplementary Fig.
+3b
+. Bridging W–OH–W sites (Supplementary Fig.
+3c
+) are energetically less favoured than terminal ones by 1.10 eV. The direct H
+2
+dissociation on the WO
+3
+monolayer has a prohibitively high barrier of 1.97 eV (transition state shown in Supplementary Fig.
+2b
+), consistent with experimental reports that hydrogen activation over WO
+x
+–C and WO
+x
+–ZrO
+2
+catalysts requires temperatures over 200 °C (refs.
+6
+,
+20
+). The transition state for proton formation by dissociative water adsorption is shown in Supplementary Fig.
+2c
+. The reaction is exothermic by −0.10 eV and requires only 0.27 eV of activation. H
+2
+O dissociation creates a proton on a terminal O site and a hydroxyl on a W site (the bridging OH is not energetically favoured).
+Pt-assisted self-inhibited catalyst dynamics
+Figure
+2a
+illustrates pathways encountered in the inverse-catalyst dynamics under various working conditions. As we show below, the extent of these surface reactions governs the active site densities. The facile Pt-assisted reduction of WO
+3
+on several oxides below 400 °C was demonstrated using temperature-programmed reduction (TPR) and X-ray photoelectron spectroscopy (XPS)
+21
+,
+22
+. By contrast, bulk WO
+3
+(without Pt) remains fully oxidized at the same conditions
+23
+. Figure
+2b
+depicts the reduction/oxidation cycle on the W
+3
+O
+9
+trimer, including H
+2
+activation, H spillover, WO
+x
+reduction, the reverse WO
+x
+hydration and the first-principles predicted energy profile of the cycle. Pt activates H
+2
+and protonates W
+3
+O
+x
+(Supplementary Fig.
+4
+). Additional H spillover can reduce W
+3
+O
+x
+by H
+2
+O elimination (Supplementary Fig.
+5
+), forming an oxygen vacancy. The reduction of W
+3
+O
+9
+to W
+3
+O
+8
+is thermodynamically downhill and requires minor activation (0.3 eV). The reverse process of W
+3
+O
+8
+oxidation entails H
+2
+O adsorption followed by the notably activated H
+2
+O dissociation (0.93 eV). In summary, catalyst re-oxidation is energetically harder than reduction.
+Fig. 2: Pathways, energy profiles of W
+3
+O
+x
+reduction and phase behaviour.
+a
+, Possible reactions on W
+3
+O
+x
+. Colour code: blue, Pt; grey, W; red, O; white, H.
+b
+, Energy profiles of Brønsted acid and redox site formation by H spillover to W
+3
+O
+9
+and W
+3
+O
+6
+and oxide reduction. TS, transition state.
+c
+, Ab initio phase diagram for the W
+3
+O
+x
+/Pt(111) model. Each square represents the most abundant state under the corresponding conditions. Colour code: black squares, W
+3
+O
+9
+; grey squares, W
+3
+O
+5
+; orange squares, W
+3
+O
+7
+H
+1
+; red squares, W
+3
+O
+7
+H
+3
+.
+d
+, Microkinetic heatmap of Brønsted acid site density (number of OHs per W) at equilibrium.
+e
+, Microkinetic heatmap of redox centre density (number of Ws with oxidation state ≤ +4 per W) at equilibrium. Larger clusters and heterogeneous distribution of cluster sizes provide a continuum spectrum of catalyst states. Water partial pressure is 0.1 bar.
+\(P_{{\rm{H}}_{2}}\)
+, hydrogen partial pressure.
+Full size image
+Notably, the kinetics of WO
+x
+reduction depends strongly on the oxidation state of WO
+x
+. Figure
+2b
+compares the electronic energies of reduction of W
+3
+O
+9
+and W
+3
+O
+6
+, chosen as representative examples. Reduction of W
+3
+O
+6
+is not as thermodynamically driven as that of W
+3
+O
+9
+. Desorption of H
+2
+O (the last step of the cycle) is energetically costly.
+Figure
+2b
+depicts the energy profiles for the first protonation. We conducted comprehensive DFT calculations for subsequent protonations on WO
+x
+from W
+3
+O
+4
+to W
+3
+O
+9
+(Supplementary Table
+1
+and Supplementary Fig.
+6
+present all reactions and models, respectively). The enthalpy change for the protonation of W
+3
+O
+9
+to W
+3
+O
+9
+H
+1
+is −0.08 eV; for the protonation of W
+3
+O
+9
+H
+2
+to W
+3
+O
+9
+H
+3
+it is 0.43 eV (reactions 64 and 67, respectively, Supplementary Table
+1
+). This trend holds for reduced clusters as well. For example, protonation of W
+3
+O
+5
+by H spillover becomes endothermic (reaction 5, Supplementary Table
+1
+); H prefers binding to Pt rather than W
+3
+O
+5
+. As a result, and depending on conditions, not all terminal oxygens are protonated. The protonation slows down as it proceeds, that is, it is self-inhibited.
+In summary, H spillover first protonates the terminal oxygens of the catalyst and eventually eliminates them in the form of water, creating redox centres, whereas water hydroxylates and re-oxidizes the catalyst. Interestingly, the protonation and reduction are self-inhibited; WO
+x
+does not become either fully reduced or fully protonated. Instead, it dynamically responds to the reaction conditions, controlling site identity and density, as discussed below. The protonation, reduction and oxidation kinetics depend on the degree of catalyst protonation and oxidation.
+Phase diagram and dynamic behaviour
+To examine the active sites under working conditions, we calculated the ab initio phase diagram (Fig.
+2c
+). In the absence of hydrogen, W
+3
+O
+9
+remains oxidized (the black region in Fig.
+2c
+) and does not possess either Brønsted acid or redox sites. With increasing hydrogen pressure, the catalyst is first partially reduced to W
+3
+O
+7
+H
+1
+over a broad temperature range, then protonated to W
+3
+O
+7
+H
+3
+at low temperatures or reduced to W
+3
+O
+5
+at high temperatures with a concomitant decrease in Brønsted acid density (Fig.
+2d
+) and an increase in redox centre density (Fig.
+2e
+). The degree of protonation and reduction is consistent with the DFT energy profiles (Fig.
+2b
+).
+To unravel the catalyst dynamics, we built a discrete state-based microkinetic model
+24
+to simulate the catalyst state when it is exposed to different conditions. When the catalyst is not trapped in a metastable state, the long-time kinetic behaviour (Fig.
+3a
+) coincides with the thermodynamic behaviour, as happens here (Fig.
+2c
+). High H
+2
+O partial pressure leads to more Brønsted acid sites at high temperatures because equilibrium favours the dissociative adsorption of H
+2
+O (Supplementary Fig.
+7
+).
+Fig. 3: Predicted dynamics of the catalyst state.
+a
+, Catalyst state versus time (W
+3
+O
+9
+at
+t
+= 0).
+b
+, Phase behaviour for W
+3
+O
+5
+at
+t
+= 0. Water partial pressure is 0.1 bar, surface-to-volume ratio = 10
+−20
+cm
+−1
+. Black, W
+3
+O
+9
+; grey, W
+3
+O
+5
+; light grey, W
+3
+O
+8
+; orange, W
+3
+O
+7
+H
+1
+; light orange, W
+3
+O
+8
+H
+1
+; red, W
+3
+O
+7
+H
+3
+.
+Full size image
+Figure
+3a
+shows the predicted predominant catalyst state as a function of time when the catalyst is exposed to different environments starting from the fully oxidized state, W
+3
+O
+9
+. At lower temperatures, Brønsted acid sites form quickly by hydrogen spillover and mild reduction occurs below 140 °C. Further catalyst reduction occurs slowly at 150–200 °C and accelerates above 200 °C, due to the higher energy barriers for the reduction of W
+3
+O
+7
+H
+1
+to W
+3
+O
+5
+. This analysis has several implications. First, the in situ formation of Brønsted acid sites is rapid. Second, a gradual increase in redox site density at the expense of Brønsted acidity is anticipated at 140–250 °C. Third, above 250 °C, a swift reduction of WO
+3
+leads to a significant loss of Brønsted acidity.
+Expectedly, the kinetic behaviour varies with the initial catalyst state. Figure
+3b
+depicts the dynamics starting from a reduced state, W
+3
+O
+5
+. Unlike W
+3
+O
+9
+, which suffers rapid reduction under high H
+2
+partial pressure, W
+3
+O
+5
+undergoes reduction at a slower rate. First, the W
+3
+O
+5
+domain is replaced with W
+3
+O
+7
+H
+1
+at 120–250 °C; below 120 °C the catalyst is oxidized to W
+3
+O
+7
+H
+3
+after 1,000 s. Up to this point, the kinetic catalyst state agrees with the thermodynamic one except when no H
+2
+is present. It takes 10
+6
+s to overcome the kinetic barriers and fully oxidize W
+3
+O
+8
+H
+x
+to W
+3
+O
+9
+. A slightly reduced catalyst would not become fully oxidized at relevant timescales.
+To better understand the catalyst dynamics upon exposure to H
+2
+and H
+2
+O, we plot the time-dependent Brønsted acid site density and oxidation state at three temperatures (Fig.
+4
+). Upon exposure to H
+2
+, the Brønsted acid density increases rapidly at short times owing to fast H spillover from Pt. Consistent with the phase diagram, the maximum Brønsted acid density is anticorrelated with temperature. Interestingly, after reaching a maximum, the Brønsted acid site density decreases due to the partial reduction of WO
+x
+(Fig.
+4b
+). When H
+2
+is turned off, the Brønsted acid site density decreases sharply at first and then gradually at lower temperatures (<125 °C). By contrast, at 175 °C, the Brønsted acid site density first increases, owing to the re-oxidation of the redox centres by H
+2
+O and eventually decreases via backward H spillover to Pt and H
+2
+desorption. Overall, the complex dynamic catalyst behaviour is found to be controlled by rapidly forming Brønsted acid sites, slower catalyst reduction by H
+2
+and even slower re-oxidation by H
+2
+O. As the amounts of H
+2
+and H
+2
+O change along the reactor, as well as with time and temperature, the catalyst protonation and oxidation state will change dynamically. Clearly, a static picture of acidity does not hold for these materials.
+Fig. 4: Predicted kinetic effect of H
+2
+starting from a fully oxidized W
+3
+O
+9
+state.
+a
+, Brønsted acid site density (number of OHs per W atom).
+b
+, Oxidation state. Initially, the catalyst is exposed to 0.1 bar H
+2
+and 0.1 bar H
+2
+O. H
+2
+is turned off at 10 s. The oxidation state of W is calculated from the number of W=O, W–O–W and W–OH bonds.
+Full size image
+In situ catalyst characterization under reducing conditions
+To assess the computational predictions, we investigated the stability and the electronic state of PtWO
+x
+/C-1R at various reduction temperatures and hydrogen partial pressures. CO chemisorption reveals that roughly 32% of the Pt surface is covered by WO
+x
+clusters (Supplementary Note
+1
+) and most of those clusters remain on Pt after reduction and annealing treatments at 400 °C. The W L
+3
+edge energy of PtWO
+x
+/C-1R is 10,209.8 eV (Fig.
+5a
+), close to that of WO
+3
+(10,209.4 eV). Mild reduction at 250 °C with 0.1 bar of H
+2
+leads to a white line intensity decrease and a slight edge energy reduction (0.2 eV), suggesting a W(VI) oxidation state (Fig.
+5a
+). Reduction at 400 °C further reduces WO
+x
+to a state between 4+ and 5+, estimated based on the W L
+3
+edge energy (Supplementary Fig.
+10
+). By contrast, WO
+x
+/C-1R is not reduced (Supplementary Fig.
+11
+). XANES at the Pt L
+2
+edge indicates a readily reduced Pt/C to metal at 250 °C and a slightly oxidized Pt on PtWO
+x
+/C-1R even at 400 °C, as indicated by the somewhat higher white line peak at 13,276.5 eV (Supplementary Fig.
+12
+). The results suggest charge transfer from Pt to the WO
+x
+overlayer with a stable, partially reduced WO
+x
+overlayer. Experimental results are qualitatively consistent with model predictions (Fig.
+2c,e
+).
+Fig. 5: In situ characterization of the W oxidation state.
+a
+, W L
+1
+XANES spectra of PtWO
+x
+/C-1R. Reduction in 0.1 bar of flowing hydrogen for 1 h. Pink (tiny) area, standard deviations of triplicates;
+T
+r
+, reduction temperature.
+b
+, W 4
+f
+XPS spectra of WO
+x
+/C-1R.
+c
+, W 4
+f
+XPS spectra of 10%PtWO
+x
+/C-15R. Sample heated under reduced presure at 250 °C for 1 h, cooled down to room temperature overnight and reduced for 1 h in 0.5 mbar of H
+2
+at temperatures indicated. Black line, experimental data; grey line, background; red line, XPS fitting curve; violet line, W(VI); blue line, W(V).
+Full size image
+In situ XPS was also conducted over WO
+x
+/C-1R, PtWO
+x
+/C-1R and 10%PtWO
+x
+/C-15R. Due to the high WO
+x
+loading of 10%PtWO
+x
+/C-15R, its W 4
+f
+signal was much stronger than that of PtWO
+x
+/C-1R, allowing a reliable fit of the spectra. Before reduction, all catalysts were treated under reduced pressure at 250 °C. At 250 °C, WO
+x
+/C-1R undergoes minimal changes (Fig.
+5b
+), whereas W(V) of 10%PtWO
+x
+/C-15R increases slightly (Fig.
+5c
+). At 400 °C, W(VI) doublets of the WO
+x
+/C-1R still dominate; by contrast, the W(V) doublet contribution of the 10%PtWO
+x
+/C-15R increases significantly. The spectrum of PtWO
+x
+/C-1R resembles that of 10%PtWO
+x
+/C-15R (Supplementary Fig.
+13
+). Noble-metal-promoted reduction of WO
+x
+to partially reduced 5+ and 4+ states above 400 °C was reported previously
+25
+,
+26
+and is supported by TPR results (Supplementary Fig.
+14
+). XPS results are qualitatively consistent with the X-ray absorption spectroscopy (XAS) data and demonstrate the importance of Pt in modulating the oxidation state of the WO
+x
+overlayer by facilitating partial reduction only.
+Exposing the dynamics of acidity using alcohol dehydration
+We have used the dehydration of 2-propanol to correlate the catalyst state with activity. All samples were pre-reduced at 250 °C for 1 h to remove any PtO
+x
+. Over the metallic sites of Pt/C, 2-propanol undergoes almost exclusively dehydrogenation to produce acetone (Fig.
+6a,b
+), consistent with previous work
+10
+. Pt and C show negligible dehydration activity. On the other hand, WO
+x
+dehydrates 2-propanol to propene (Fig.
+6b
+). PtWO
+x
+/C-1R exposes multifunctional behaviour: WO
+x
+Brønsted acid sites dehydrate 2-propanol; Pt dehydrogenates 2-propanol to acetone and H
+2
+and subsequently hydrogenates propene—with the produced H
+2
+—to propane. The substantially lower dehydrogenation activity compared to Pt reveals a large fraction of Pt sites covered with WO
+x
+, in agreement with energy dispersive X-ray spectroscopy (EDX) results (Supplementary Fig.
+15
+)
+6
+. Increasing the number of ALD cycles of W on Pt/C increases the dehydration activity at the expense of metal-catalysed 2-propanol dehydrogenation and propene hydrogenation.
+Fig. 6: Probing active sites with alcohols.
+a
+, Reaction schemes.
+b
+, Reaction of 2-propanol. Catalysts reduced in 0.1 bar H
+2
+at 250 °C for 1 h and purged with pure He before reaction. Reaction conditions: 4 mol% 2-propanol; 100 ml min
+−1
+N
+2
+/2-propanol mixture; 10 mg catalyst; reaction temperature, 250 °C.
+c
+, Reaction of
+tert
+-butanol. Catalysts reduced in 0.1 bar H
+2
+for 1 h. Carrier gas, 100 ml min
+−1
+N
+2
+/He (1:1) mixture.
+d
+, Modulating surface OHs with annealing and water. Annealing time, 1 h; steaming time, 1 h; water partial pressure, 0.1 bar; carrier gas, 100 ml min
+−1
+N
+2
+/He mixture or water/N
+2
+/He mixture.
+e
+, Effect of hydrogen partial pressure on the dehydration activity of fresh PtWO
+x
+/C-1R. Carrier gas, 100 ml min
+−1
+N
+2
+/He mixture or H
+2
+/N
+2
+/He mixture.
+f
+, Effect of oxidation state on the in situ formation of Brønsted acid sites by hydrogen. Pretreatment time, 1 h; reduction in 0.1 bar H
+2
+; carrier gas, 100 ml min
+−1
+N
+2
+/He mixture or H
+2
+/N
+2
+/He mixture. Reaction conditions for
+c
+–
+f
+: 140 °C, 4 mol%
+tert
+-butanol, 10 mg catalyst. The dehydration rate accounts for the sum of isobutene and isobutane. The initial dehydration rates are estimated by linearly extrapolating within 1 h on stream to zero reaction time. Error bars represent the standard deviation from triplicates.
+Full size image
+To eliminate the complication from the in situ
+-
+formed hydrogen (from 2-propanol dehydrogenation) causing online catalyst reduction, we investigated
+tert
+-butanol dehydration (Fig.
+6a
+). We compared the PtWO
+x
+/C-1R catalysts, reduced at 250 and 400 °C, with the untreated (fresh) catalyst. Figure
+6c
+depicts a monotonic decrease in dehydration rate with increasing reduction temperature by nearly eight times due to the reduction of W(VI) to W(V) and W(IV) (XANES data; Fig.
+5a
+) and the lowering of the Brønsted acid site density, consistent with the predicted phase behaviour (Fig.
+2c
+).
+To disentangle the interplay of redox and Brønsted acid sites, we annealed the catalyst at 400 °C in a mixture of N
+2
+and He. The annealed catalyst is less active than the fresh one (Fig.
+6d
+), due to the loss of OHs by dehydration, but more active than the reduced catalyst. The surface OH groups are partially regenerated by steaming the annealed catalyst in 0.1 bar steam at 400 °C (grey square in Fig.
+6d
+). The initial dehydration activities of the pretreated catalysts (Fig.
+6d
+) are in satisfactory agreement with the Brønsted acid site densities measured by reactive gas chromatography with
+tert
+-butylamine (Supplementary Fig.
+16
+). For PtWO
+x
+/C-1R, this acid quantification technique is preferred over Fourier transform infrared spectroscopy of adsorbed pyridine because of the low Brønsted acid site density of PtWO
+x
+/C-1R and the strong absorption of infrared by the carbon support. The adsorbed pyridine cannot be observed with Fourier transform infrared spectroscopy even after a tenfold dilution with KBr (Supplementary Fig.
+17
+). On the other hand, reactive gas chromatography is not affected by the opacity of the support, is Brønsted acid site specific and is capable of measuring Brønsted acid site density below 1 µmol H
++
+g
+catalyst
+−1
+(ref.
+27
+).
+Water co-feed experiments (Fig.
+6d
+) over the annealed catalyst at 140 °C indicate, counterintuitively, an increased initial dehydration rate, despite water product enhancing the reverse, equilibrium-limited dehydration reaction. The lack of an induction period suggests that water rapidly hydroxylates the WO
+x
+and regenerates OHs (Supplementary Fig.
+18
+). Increasing the steam partial pressure from 0.05 to 0.15 bar slightly decreases the initial dehydration activity due to either the competitive adsorption of water on the active sites or the reverse reaction. The inhibiting effect of steam is also illustrated by its removal after 8 h on stream (Supplementary Fig.
+18
+).
+The in situ formation of Brønsted acid sites by co-feeding hydrogen is illustrated in Fig.
+6e
+. While catalyst reduction adversely affects the activity, on the fresh catalyst, hydrogen generates Brønsted acid sites; its partial pressure correlates positively with the dehydration activity (Fig.
+6e
+). On the annealed catalyst, hydrogen increases the initial rate threefold (Fig.
+6f
+). By contrast, although annealed WO
+x
+/C-1R shows comparable dehydration activity (Supplementary Fig.
+19
+), hydrogen exposure has no promotional effect, confirming the pivotal role of Pt in forming Brønsted acid sites by hydrogen spillover. The reduced catalyst (Fig.
+6f
+) shows distinct dynamic behaviour under different environments. In hydrogen, Brønsted acid sites form at short times, but the catalyst is gradually reduced at longer times and becomes inactive when the hydrogen is turned off after 8 h (Supplementary Fig.
+20
+). Without hydrogen, the catalyst is initially less active but becomes more active with time on stream due to the in situ generated water via the reverse pathway shown in Fig.
+2b
+. These dynamic changes occur at longer timescales of hours.
+Tuning activity by periodic pulsing of H
+2
+The fundamental insights from pretreatment and co-feed studies are consistent with the dynamic behaviour of the WO
+x
+overlayer depicted in Fig.
+2b
+and Fig.
+3
+. Water hydroxylates the oxide and generates Brønsted acid sites, slowly oxidizes the reduced WO
+x
+overlayer at 140 °C and retards the dehydration reaction by promoting its reverse. Hydrogen generates Brønsted acid sites by spillover at shorter times but slowly reduces the catalyst at longer reaction times. This dynamic behaviour of WO
+x
+can be leveraged to increase the reaction rate by pulsing hydrogen (Fig.
+7a
+).
+Fig. 7: Impact of hydrogen pulsing on reaction rate.
+a
+, Schematic of periodic hydrogen pulse for sustaining high Brønsted acid site density.
+b
+, Time-on-stream data of the hydrogen pulse co-feed experiment. PtWO
+x
+/C-1R is pre-reduced at 400 °C in 0.1 bar H
+2
+for 1 h prior to reaction. Reaction conditions, 140 °C; 4 mol%
+tert
+-butanol; 10 mg catalyst; carrier gas, 100 ml min
+−1
+H
+2
+/N
+2
+/He mixture (0.1 bar H
+2
+) or N
+2
+/He mixture. Each oscillation cycle lasts for approximately 4 h. The dehydration rate is the sum of formation rates of isobutene and isobutane.
+c
+, Average dehydration rates from 10 h to 14 h.
+Full size image
+Figure
+7b
+shows time-on-stream data for the reduced PtWO
+x
+/C-1R. After an initial increase in the rate when exposed to hydrogen, the catalyst is deactivated in the first 2 h. When the hydrogen is switched off after 2 h, the activity of the catalyst decreases immediately but gradually increases due to re-oxidization by the in situ formed water. Since the oxidized WO
+x
+overlayer can sustain a higher Brønsted acid density from hydrogen spillover, the dehydration activity substantially increases when H
+2
+is re-introduced after 4 h. This trend repeats itself. Periodic hydrogen pulsing allows the catalyst to reach alternate states with a much higher acid site density that cannot be sustained at steady state. The average dehydration rate over the last 4 h is more than 8 times higher than that with constant co-fed hydrogen (Fig.
+7c
+). One may expect more than one order of magnitude increase in catalyst activity upon optimizing the frequency of periodic pulsing.
+Discussion
+Inverse catalysts have been demonstrated in many essential applications
+1
+,
+2
+,
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+,
+9
+,
+10
+, but their active sites and dynamics have remained elusive. While catalyst reduction by H
+2
+is typical, in many of these reactions, hydrogen and water are reactants and/or products and alter the mode of action of the catalyst. Computational modelling, in situ catalyst characterization and dehydration probe reactions reveal a complex interplay of water dissociation, hydrogen spillover and catalyst reduction in controlling the Brønsted acid and redox site density of PtWO
+x
+/C-1R, a prototypical inverse catalyst. The time-scales of various elementary steps are quite different, giving rise to complex dynamic behaviour with time-on-stream or location in a chemical reactor. Brønsted acid sites on PtWO
+x
+/C-1R are more active than the acid sites in microporous materials such as zeolites (Supplementary Fig.
+21
+). Different from typical Brønsted acid catalysts with localized protons near the oxygens adjacent to the metal atoms with charge imbalance, whose site density is constant, the site density here changes with reaction conditions and location in a reactor. Excitingly, the chemistry itself can regulate the active sites and change the rate and selectivity for various pathways.
+Unlike hydrogen or other reducing agents, in situ generated water or steaming creates Brønsted acid sites on the WO
+x
+overlayer by direct, modestly activated dissociation without lowering the oxidation state of W, as revealed by XPS (Supplementary Fig.
+22
+). Water can also slowly re-oxidize the catalyst, forming W–OH centres and thus increasing the acid density. Finally, it inhibits dehydration by promoting its backward reaction. Although direct hydrogen dissociative adsorption on WO
+x
+is unfavourable below 400 °C, Pt readily dissociates H
+2
+and facilitates the rapid formation of Brønsted acid sites by spillover. It can also dehydrogenate a substrate and form hydrogen in situ. Pt stabilizes the WO
+x
+overlayer inverse structure, by allowing partial but not complete reduction due to self-inhibition and enables charge transfer to WO
+x
+even at 400 °C, as shown by the EDX (ref.
+6
+) and Pt L
+2
+XANES spectra (Supplementary Fig.
+12b
+). Finally, hydrogen enables a slower reduction of WO
+x
+that increases the density of redox centres and decreases the Brønsted acid site density.
+The temperature has a dominant effect on the distribution of active sites. The in situ XANES (Fig.
+5a
+) and reduction studies (Fig.
+6c
+) show that reducing the catalyst at high temperatures lowers the oxidation state to W(V) and W(IV), preventing the generation of Brønsted acid sites by hydrogen spillover. High-temperature annealing in an inert atmosphere facilitates surface dehydroxylation, lowering the Brønsted acid density again without significantly reducing the oxide. At low temperatures, hydrogen spillover and hydroxylation by water (Fig.
+3d
+) significantly increase the number of Brønsted acid sites due to low energy barriers without significantly changing the oxidation state.
+At intermediate temperatures, slow reduction of PtWO
+x
+not only causes loss of protons but also lowers the activity of WO
+x
+by cleaving the W=O bond, which is essential for stabilizing and delocalizing the charge-compensating electron
+28
+. This slow reduction is observed using a time-dependent XANES study (Supplementary Note
+2
+). The state of MO
+x
+can easily be tuned by changing the ratio of metal to the metal oxide
+21
+,
+29
+,
+30
+, the dispersion of M, the surface density of MO
+x
+(refs.
+22
+,
+31
+), the distance between M and MO (Supplementary Note
+2
+), the support reducibility, the reaction temperature and the hydrogen pressure. In situ XPS characterization (Supplementary Fig.
+24
+) shows that reducible metal oxides, such as WO
+x
+, can easily be re-oxidized in air to restore the Brønsted acidity.
+The preferred Brønsted acid site formation pathway depends on operating conditions, such as the hydrogen and water partial pressures and the WO
+x
+coverage on Pt. As the coverage of WO
+x
+approaches one monolayer, Brønsted acid sites could form by water dissociation only, as the hydrogen dissociation will be hindered by unavailable Pt sites and its high activation energy barrier on the WO
+x
+overlayer. Our study demonstrates that the Brønsted acid site density can significantly be modulated by changing the pretreatment conditions (temperature, hydrogen pressure, steam pressure) and by periodic hydrogen pulsing, leading to a significant activity increase. The idea could in principle be extended to other biomass reactions producing high-value terminal diols and aromatics, where acid sites have been proposed to play a crucial role. The fundamental insights from this study could enable the development of more efficient inverse catalysts. While these catalysts are far from static and are inherently complex, simple ab initio thermodynamic and microkinetic models in conjunction with probe reactions and characterization form a blueprint for understanding and manipulating the Brønsted versus redox properties of the catalyst and the underlying chemistry.
+Methods
+DFT calculations
+Spin-polarized DFT calculations were performed using VASP (ref.
+32
+). Exchange and correlation effects were approximated with the Perdew–Burke–Ernzerhof (PBE) exchange–correlation energy functional
+33
+and the core electrons were calculated using the projector augmented wavefunction. For the W
+x
+O
+y
+cluster/Pt(111), we put a W
+3
+O
+x
+cluster on Pt(111) slabs of 4 layers. In order to eliminate periodic image interactions, we used a big Pt(111) slab (5 × 4) to support one trimer. For the (WO
+3
+)
+n
+monolayer/Pt (111), we used a (4 × 2) Pt(111) slab to support the (WO
+3
+)
+4
+2D monolayer structure (Fig.
+1a
+). For each calculation, the bottom two layers of the Pt slab were fixed at the bulk position while the top two layers with the supported oxide cluster and adsorbates were fully relaxed. We applied a Monkhorst–Pack mesh
+34
+. The
+k
+-points were (3 × 2 × 1) and (2 × 4 × 1) for the 5 × 4 slabs and the monolayer supercells, respectively. Transition state searches were carried out using the climbing-image VTST NEB method
+35
+. For geometry optimization calculations, the cut-off energy was set to 520 eV and the energy and force convergence criteria were set to 10
+−5
+eV and 0.01 eV Å
+−1
+, respectively. In the NEB calculations, the force criterion was set to 0.025 eV Å
+−1
+. We used pMuTT (ref.
+36
+), together with the DFT-calculated reaction energies and vibrational frequencies, to simulate a phase diagram.
+Simulated phase diagrams
+Thermodynamic phase diagrams were generated using the PhaseDiagram function in pMuTT (ref.
+36
+). DFT reaction energies and frequencies were used to calculate Gibbs free energies. The cluster model we used has a formula of W
+3
+O
+x
+H
+y
+·
+n
+H
+2
+O (
+x
+= 4 to 10,
+y
+= 0 to 5,
+n
+= 0 or 1) (Supplementary Table
+1
+). The PhaseDiagram function in pMuTT generates a graph of grids, where each grid represents the most stable state under a certain reaction condition.
+State-based MKM
+24
+was performed using the CHEMKIN package. A batch reactor was chosen to study the reduction kinetics of WO
+x
+/Pt using H
+2
+/H
+2
+O mixed gas at different temperatures. Two sites were considered in this model: the Pt(111) site and the WO
+x
+site. The Pt site is responsible for H
+2
+activation, while the tungsten oxides can be hydrogenated and hydrated to generate hydroxyl groups. H-spillover from Pt to WO
+x
+sites can also reduce the oxide by forming H
+2
+O. Due to the huge set of structures of all possible hydrogenated/hydrated tungsten oxides, we did not calculate all activation energies in the reaction network using DFT. Instead, we estimated them using Brønsted–Evans–Polanyi relationships developed herein from a smaller subset of DFT calculations (Supplementary Fig.
+25
+). To keep the chemical potential of H
+2
+and H
+2
+O constant during the reaction, we chose a small surface area to volume ratio of 10
+−20
+cm
+−1
+for the batch reactor. For the calculations starting with fully oxidized W
+3
+O
+9
+clusters, the reaction time for every condition in MKM was set to 36,000 s. For the re-oxidation of W
+3
+O
+5
+clusters, the MKM reaction times were set to 10
+6
+s. The Brønsted acid density heatmaps were generated by calculating the OH group coverages at each reaction condition at long times. The heatmaps were smoothed by interpolation.
+XANES simulation
+XANES simulation of W atoms was carried out using FDMNES (refs.
+37
+,
+38
+), where the convoluted L
+1
+edge spectra of all W atoms in each supercell were calculated using the muffin-tin approximation with a radius of 4.0 Å. To account for broadening effects (for example, core–hole lifetime), a Lorentzian energy-dependent convolution was applied to the calculated spectrum. The energy range was set to −20 to 80 eV relative to the Fermi level. The simulated spectra were aligned with the experimental spectra of W standards (WO
+3
+and WO
+2
+) using the first inflection point.
+Catalyst synthesis
+The 4 wt% Pt/C catalyst was prepared by the conventional incipient wetness impregnation method, as described previously
+5
+,
+12
+. First, 0.08 g Pt precursor (Pt(NH
+3
+)
+4
+(NO
+3
+)
+2
+, 99.99%, Alfa Aesar) was dissolved in an 8 g water/ethanol (mass ratio = 3:1) solution. Then, 0.96 g carbon black (225 m
+2
+g
+−1
+, Vulcan XC-72R) was added to the solution and it was kept at room temperature for 12 h. After drying the catalyst in an oven at 60 °C for 12 h, the resulting powder was reduced in a 7-mm-inner diameter quartz tube with 60 ml min
+−1
+He and 5 ml min
+−1
+H
+2
+at 500 °C for 2 h using a heating ramp of 3 °C min
+−1
+.
+The WO
+x
+overlayer was prepared by ALD using a home-built, static system, as described previously
+5
+,
+6
+,
+39
+. In a typical experiment, the tungsten precursor (W(CO)
+6
+, 99%, Strem) was first evacuated and then heated to 130 °C. The W(CO)
+6
+vapour was then introduced to approximately 0.3 g catalyst, which was evacuated and held at 200 °C before the deposition, for 1.5 min. Next, the catalyst chamber was evacuated for 5 min to remove excess precursors. The catalyst was then exposed to air for 6 min to oxidize the adsorbed W(CO)
+6
+precursor. After completing all ALD cycles, the catalyst was treated twice by rapid thermal annealing (400 °C, 1 min) to ensure the complete removal of ligands. Samples prepared using
+n
+ALD cycles are referred to here as PtWO
+x
+/C-
+n
+R.
+10%PtWO
+x
+/C-15R was prepared by the same procedure as PtWO
+x
+/C-
+n
+R using 0.2 g Pt precursor and 0.9 g carbon black. WO
+x
+/C-1R was prepared by the same procedure as PtWO
+x
+/C-
+n
+R except that the carbon black was impregnated with water/ethanol solution without the addition of Pt precursor. The carbon black samples, used as the reference for reaction and characterization, were prepared similarly by impregnation without salts, reduction and finally rapid thermal annealing. The actual Pt and W loadings were determined using inductively coupled plasma–atomic emission spectrometry (PerkinElmer, Optima 5300V) by Galbraith Laboratories.
+Kinetics experiments
+Kinetics experiments were performed using a fixed-bed reactor at near ambient pressure. The reactor was a quartz tube placed in the middle of a resistance furnace. For a typical experiment, the catalyst bed was fixed between two inert quartz beds. The catalyst bed was placed in the constant temperature zone of the furnace to minimize the axial temperature gradient. The temperature of the catalyst bed was measured using a thermocouple covered by a quartz sleeve. Three mass flow controllers were used to feed a mixture of nitrogen, hydrogen and helium at specified ratios. The typical flow rate of the gas mixture was 100 ml min
+−1
+at room temperature.
+The alcohol flow rate was adjusted by controlling the temperature of the bubbler and the flow rates of the carrier gas (nitrogen, 99.999% purity) and the balance gas (helium, 99.999% purity). All the pipelines containing alcohol and water were heated to above 150 °C to avoid condensation. The reactor outlet was connected to a gas chromatograph (Agilent, 7890A) equipped with a Plot-Q column and a flame ionization detector. For a typical experiment, the catalyst was pre-reduced with a 100 ml min
+−1
+H
+2
+–He mixture (10% H
+2
+) at 250 °C for 1 h with a ramping rate of 10 °C min
+−1
+. The reactor was then purged with He for 1 h before the reaction.
+In situ XAS
+XAS measurements were performed on beamline 5BM-D at the Advanced Photon Source, Argonne National Laboratory. Spectra collected in transmission mode were recorded using ionization chambers. Samples were pressed into pellets and loaded into a three-well sample holder. The sample holder was then placed in a tubular reactor with two Kapton windows at the ends for in situ reduction studies. After purging the reactor with a flowing hydrogen–helium mixture (10% hydrogen) and acquiring the spectra of the fresh samples, the reactor was heated to the desired reduction temperature. The XAS spectra of the reduced samples were collected in situ at the desired reduction temperatures under a flowing hydrogen–helium mixture after 1 h reduction. X-ray absorption near edge structure (XANES) spectra were recorded at the W L
+1
+edge, W L
+3
+edge and Pt L
+2
+edge and extended X-ray absorption fine structure (EXAFS) spectra were recorded at the W L
+3
+edge. The XAS spectra of PtWO
+x
+/C-1R were also collected before and after reduction at 250 °C in fluorescence mode. The measurements were performed using a Linkam cell and a Vortex-ME4 silicon drift detector. The time-dependent XANES spectra for PtWO
+x
+/C-1R at W L
+1
+and W L
+3
+edges were recorded on the Quick X-ray Absorption and Scattering (QAS) beamline at the National Synchrotron Light Source (NSLS) II, Brookhaven National Laboratory (BNL). Fluorescence spectra were measured using a passivated implanted planar silicon (PIPS) detector. The spectra of reference foils were measured using ionization chambers. XAS data processing was performed using the Athena (0.9.26) program following standard procedures
+40
+. The first maximum of the first derivative of the raw XAS data was selected to be the edge energy.
+In situ XPS
+The near-ambient pressure X-ray photoelectron spectroscopy (NAP-XPS) experiments were performed at the Center for Functional Nanomaterials (CFN), Brookhaven National Laboratory (BNL). Catalyst samples were scanned with a laboratory-based spectrometer (Phoibos NAP 150, SPECS Surface Nano Analysis). The instrument was equipped with a monochromated Al Kα (1,486.6 eV) photon source and a differentially pumped hemispherical analyser (SPECS Phoibos). Each powder sample was pressed to a cleaned thin Cu foil and transferred into the main chamber. Pt 4
+f
+, W 4
+f
+, O 1
+s
+and C 1
+s
+spectra were collected during all procedures. Each sample was heated to 250 °C under reduced pressure for 1 h to remove adsorbed surface species. During in situ reduction and the following oxidation studies, hydrogen or oxygen were introduced into the main chamber through a variable leak valve. The pressure of the main chamber was maintained at 0.5 mbar. XPS data analysis was performed using CasaXPS version 2.3.23. The peak model parameters are shown in Supplementary Table
+4
+.
+Brønsted acid site quantification
+The Brønsted acid site density of PtWO
+x
+/C-1R was measured under different gaseous environments using reactive gas chromatography
+27
+, equipped with H
+2
+or He to simulate reducing or annealing treatment environments, respectively. Initially, 20 mg of catalyst was sandwiched between two plugs of deactivated glass wool (Restek, 24324) and placed within a quartz inlet liner (Agilent, 5062-3587). The catalyst-containing liner was placed in the inlet of a gas chromatograph (Agilent, 7890B) equipped with an HP-PlotQ column (Agilent, 19091P-Q04) and a flame ionization detector. Unless otherwise noted, the catalyst was pre-treated in situ at 400 °C under a flow of H
+2
+, pure He or 10% H
+2
+O/He mixture to reduce, anneal or steam the catalyst, respectively. The pre-treated catalyst was then saturated at 140 °C with 10 consecutive 1 µl pulses of
+tert
+-butylamine, delivered at a rate of 1 µl min
+−1
+using an automated liquid sampler. The saturated catalyst was then purged in 1,000 sccm of He to remove any weakly bound
+tert
+-butylamine. The catalyst temperature was then ramped up to 400 °C at 10 °C min
+−1
+and held for 30 min, with the chromatography column held at 30 °C to trap desorbing butenes resulting from the Hofmann elimination of
+tert
+-butylamine adsorbed on Brønsted acid sites. The temperature of the chromatography column was then ramped to 270 °C eluting any trapped isobutene which was then quantified and taken as a direct measure of the Brønsted acid site density.
+Data availability
+The data to support the findings of this study are provided in the
+Supplementary Information
+and paper or from the corresponding author upon request. The atomic coordinates of the DFT-optimized W
+x
+O
+y
+/Pt(111) models and data that support the plots in this paper are available on Mendeley Data
+41
+.
+Code availability
+The code to convert ab initio data to microkinetic model inputs is available on Mendeley Data
+41
+. No specialized, home written software was used for this work.
+References
+Védrine, J. C. Heterogeneous catalysis on metal oxides.
+Catalysts
+7
+, 341 (2017).
+Article
+Google Scholar
+Tomishige, K., Nakagawa, Y. & Tamura, M. Selective hydrogenolysis and hydrogenation using metal catalysts directly modified with metal oxide species.
+Green Chem.
+19
+, 2876–2924 (2017).
+Article
+CAS
+Google Scholar
+Chia, M. et al. Selective hydrogenolysis of polyols and cyclic ethers over bifunctional surface sites on rhodium–rhenium catalysts.
+J. Am. Chem. Soc.
+133
+, 12675–12689 (2011).
+Article
+CAS
+Google Scholar
+Daniel, O. M. et al. X-ray absorption spectroscopy of bimetallic Pt–Re catalysts for hydrogenolysis of glycerol to propanediols.
+ChemCatChem
+2
+, 1107–1114 (2010).
+Article
+CAS
+Google Scholar
+Wang, C. et al. Mechanistic study of the direct hydrodeoxygenation of
+m
+-cresol over WO
+x
+-decorated Pt/C catalysts.
+ACS Catal.
+8
+, 7749–7759 (2018).
+Article
+CAS
+Google Scholar
+Wang, C. et al. A study of tetrahydrofurfuryl alcohol to 1,5-pentanediol over Pt–WO
+x
+/C.
+Catal. Letters
+148
+, 1047–1054 (2018).
+Article
+CAS
+Google Scholar
+Yang, F. et al. Enhancement of
+m
+-cresol hydrodeoxygenation selectivity on Ni catalysts by surface decoration of MoO
+x
+species.
+ACS Catal.
+9
+, 7791–7800 (2019).
+Article
+CAS
+Google Scholar
+Zhou, W. et al. Insight into the nature of Brönsted acidity of Pt-(WO
+x
+)
+n
+-H model catalysts in glycerol hydrogenolysis.
+J. Catal.
+388
+, 154–163 (2020).
+Article
+CAS
+Google Scholar
+Stephens, K. J. et al. A mechanistic study of polyol hydrodeoxygenation over a bifunctional Pt-WO
+x
+/TiO
+2
+catalyst.
+ACS Catal.
+10
+, 12996–13007 (2020).
+Article
+Google Scholar
+Lei, N. et al. Effective hydrogenolysis of glycerol to 1,3-propanediol over metal-acid concerted Pt/WO
+x
+/Al
+2
+O
+3
+catalysts.
+ChemCatChem
+11
+, 3903–3912 (2019).
+Article
+CAS
+Google Scholar
+Fu, J. et al. C–O bond activation using ultra-low loading noble metal catalysts on moderately reducible oxides.
+Nat. Catal.
+3
+, 446–453 (2020).
+Article
+CAS
+Google Scholar
+Luo, J. et al. Mechanisms for high selectivity in the hydrodeoxygenation of 5-hydroxymethylfurfural over PtCo nanocrystals.
+ACS Catal.
+6
+, 4095–4104 (2016).
+Article
+CAS
+Google Scholar
+Falcone, D. D. et al. Evidence for the bifunctional nature of Pt–Re catalysts for selective glycerol hydrogenolysis.
+ACS Catal.
+5
+, 5679–5695 (2015).
+Article
+CAS
+Google Scholar
+Rasmussen, M. J. & Medlin, J. W. Role of tungsten modifiers in bimetallic catalysts for enhanced hydrodeoxygenation activity and selectivity.
+Catal. Sci. Technol.
+10
+, 414–423 (2020).
+Article
+CAS
+Google Scholar
+Murugappan, K. et al. Operando NAP-XPS unveils differences in MoO
+3
+and Mo
+2
+C during hydrodeoxygenation.
+Nat. Catal.
+1
+, 960–967 (2018).
+Article
+CAS
+Google Scholar
+Deo, S., Medlin, W., Nikolla, E. & Janik, M. J. Reaction paths for hydrodeoxygenation of furfuryl alcohol at TiO
+2
+/Pd interfaces.
+J. Catal.
+377
+, 28–40 (2019).
+Article
+CAS
+Google Scholar
+Li, Z. et al. Growth of ordered ultrathin tungsten oxide films on Pt(111).
+J. Phys. Chem. C.
+115
+, 5773–5783 (2011).
+Article
+CAS
+Google Scholar
+Horsley, J. A., Wachs, I. E., Brown, J. M., Via, G. H. & Hardcastle, F. D. Structure of surface tungsten oxide species in the WO
+3
+/Al
+2
+O
+3
+supported oxide system from X-ray absorption near-edge spectroscopy and Raman spectroscopy.
+J. Phys. Chem.
+91
+, 4014–4020 (1987).
+Article
+CAS
+Google Scholar
+Yamazoe, S., Hitomi, Y., Shishido, T. & Tanaka, T. XAFS study of tungsten L
+1
+- and L
+3
+-edges: structural analysis of WO
+3
+species loaded on TiO
+2
+as a catalyst for photo-oxidation of NH
+3
+.
+J. Phys. Chem. C.
+112
+, 6869–6879 (2008).
+Article
+CAS
+Google Scholar
+Baertsch, C. D., Soled, S. L. & Iglesia, E. Isotopic and chemical titration of acid sites in tungsten oxide domains supported on zirconia.
+J. Phys. Chem. B
+105
+, 1320–1330 (2001).
+Article
+CAS
+Google Scholar
+He, J. et al. Synthesis of 1,6-hexanediol from cellulose derived tetrahydrofuran-dimethanol with Pt-WO
+x
+/TiO
+2
+catalysts.
+ACS Catal.
+8
+, 1427–1439 (2018).
+Article
+CAS
+Google Scholar
+Iglesia, E. et al. Selective isomerization of alkanes on supported tungsten oxide acids.
+Stud. Surf. Sci. Catal.
+101
+, 533–543 (1996).
+Article
+CAS
+Google Scholar
+Fouad, N. E., Attyia, K. M. E. & Zaki, M. I. Thermogravimetry of WO
+3
+reduction in hydrogen: kinetic characterization of autocatalytic effects.
+Powder Technol.
+74
+, 31–37 (1993).
+Article
+CAS
+Google Scholar
+Alexopoulos, K., Wang, Y. & Vlachos, D. G. First-principles kinetic and spectroscopic insights into single-atom catalysis.
+ACS Catal.
+9
+, 5002–5010 (2019).
+Article
+CAS
+Google Scholar
+Regalbuto, J. R., Fleisch, T. H. & Wolf, E. E. An integrated study of Pt/WO
+3
+/SiO
+2
+catalysts for the NO–CO reaction: i. catalyst characterization by XRD, chemisorption, and XPS.
+J. Catal.
+107
+, 114–128 (1987).
+Article
+CAS
+Google Scholar
+Kammert, J. D., Brezicki, G., Miyake, N., Stavitski, E. & Davis, R. J. Reduction of propanoic acid over Pd-promoted supported WO
+x
+catalysts.
+ChemCatChem
+12
+, 314–325 (2020).
+Article
+CAS
+Google Scholar
+Abdelrahman, O. A. et al. Simple quantification of zeolite acid site density by reactive gas chromatography.
+Catal. Sci. Technol.
+7
+, 3831–3841 (2017).
+Article
+CAS
+Google Scholar
+Bernholc, J., Horsley, J. A., Murrell, L. L., Sherman, L. G. & Soled, S. Brønsted acid sites in transition metal oxide catalysts: modeling of structure, acid strengths, and support effects.
+J. Phys. Chem.
+91
+, 1526–1530 (1987).
+Article
+CAS
+Google Scholar
+Liu, L. et al. Selective hydrogenolysis of glycerol to 1,3-propanediol over rhenium-oxide-modified iridium nanoparticles coating rutile titania support.
+ACS Catal.
+9
+, 10913–10930 (2019).
+Article
+CAS
+Google Scholar
+Liu, S., Amada, Y., Tamura, M., Nakagawa, Y. & Tomishige, K. One-pot selective conversion of furfural into 1,5-pentanediol over a Pd-added Ir-ReO
+x
+/SiO
+2
+bifunctional catalyst.
+Green Chem.
+16
+, 617–626 (2014).
+Article
+Google Scholar
+Shi, D. et al. WO
+x
+supported on ɣ-Al
+2
+O
+3
+with different morphologies as model catalysts for alkanol dehydration.
+J. Catal.
+363
+, 1–8 (2018).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+Google Scholar
+Pack, J. D. & Monkhorst, H. J. “Special points for Brillouin-zone integrations”—a reply.
+Phys. Rev. B
+16
+, 1748–1749 (1977).
+Article
+Google Scholar
+Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths.
+J. Chem. Phys.
+113
+, 9901–9904 (2000).
+Article
+CAS
+Google Scholar
+Lym, J., Wittreich, G. R. & Vlachos, D. G. A python multiscale thermochemistry toolbox (pMuTT) for thermochemical and kinetic parameter estimation.
+Comput. Phys. Commun.
+247
+, 106864 (2020).
+Article
+CAS
+Google Scholar
+Joly, Y. X-ray absorption near-edge structure calculations beyond the muffin-tin approximation.
+Phys. Rev. B
+63
+, 125120 (2001).
+Article
+Google Scholar
+Bunǎu, O. & Joly, Y. Self-consistent aspects of X-ray absorption calculations.
+J. Phys. Condens. Matter
+21
+, 345501 (2009).
+Article
+Google Scholar
+Onn, T. M. et al. Smart Pd catalyst with improved thermal stability supported on high-surface-area LaFeO
+3
+prepared by atomic layer deposition.
+J. Am. Chem. Soc.
+140
+, 4841–4848 (2018).
+Article
+CAS
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+Article
+CAS
+Google Scholar
+Fu, J. et al. Dataset for modulating the dynamics of Brønsted acid sites on PtWO
+x
+inverse catalyst.
+Mendeley Data
+https://doi.org/10.17632/hp45n9ykd6.1
+(2021).
+Download references
+Acknowledgements
+This work was financially supported primarily by the Catalysis Center for Energy Innovation, an Energy Frontier Research Center funded by the US Department of Energy, Office of Science, Office of Basic Energy Sciences under award number DESC0001004. Portions of this work were performed at the DuPont–Northwestern–Dow Collaborative Access Team (DND-CAT) located at Sector 5 of the Advanced Photon Source. DND-CAT is supported by Northwestern University, E.I. DuPont de Nemours and Co. and The Dow Chemical Company. This research used resources of the Advanced Photon Source, a US Department of Energy, Office of Science user facility operated for the Department of Energy, Office of Science by Argonne National Laboratory under contract no. DE-AC02-06CH11357. The research was carried out in part at the 7-BM (QAS) beamline of the National Synchrotron Light Source II at Brookhaven National Laboratory, which is supported by the Synchrotron Catalysis Consortium, US Department of Energy under grant no. DE-SC0012335 and at the Center for Functional Nanomaterials, Brookhaven National Laboratory, which is supported by the US Department of Energy, Office of Basic Energy Sciences under contract no. DE-SC0012704. Some of the XPS measurements were carried out using the Thermo Scientific K-Alpha+ XPS System at the University of Delaware surface analysis facility supported by NSF (no. 1428149). Y.L. acknowledges financial support from the Chinese Academy of Science Youth Innovation Promotion Association (no. 2018220) and LiaoNing Revitalization Talents Program (no. XLYC1907053), and X.L. acknowledges financial support from the National Natural Science Foundation of China (nos. 21872163, 22072090, 21991153 and 21991150) for the annular dark-field (ADF)-STEM analysis. The authors acknowledge H. Matsumoto for assistance with STEM data acquisition from a Hitachi HF5000 microscope. We acknowledge W. Wu for assisting with the XPS measurements, Q. Ma, S. Ehrlich, N. S. Marinkovic and L. Ma for helping with the XAS measurements and S. Prodinger for valuable discussions.
+Author information
+Author notes
+These authors contributed equally: Jiayi Fu, Shizhong Liu, Weiqing Zheng.
+Authors and Affiliations
+Department of Chemical and Biomolecular Engineering, University of Delaware, Newark, DE, USA
+Jiayi Fu, Kewei Yu & Dionisios G. Vlachos
+Catalysis Center for Energy Innovation, University of Delaware, Newark, DE, USA
+Jiayi Fu, Shizhong Liu, Weiqing Zheng, Renjing Huang, Cong Wang, Ajibola Lawal, Konstantinos Alexopoulos, Yunzhu Wang, Kewei Yu, J. Anibal Boscoboinik, Anatoly I. Frenkel, Omar A. Abdelrahman, Raymond J. Gorte, Stavros Caratzoulas & Dionisios G. Vlachos
+Department of Chemical and Biomolecular Engineering, University of Pennsylvania, Philadelphia, PA, USA
+Renjing Huang & Raymond J. Gorte
+Department of Chemical Engineering, University of Massachusetts Amherst, Amherst, MA, USA
+Ajibola Lawal & Omar A. Abdelrahman
+Key Laboratory for Green Chemical Technology of Ministry of Education, School of Chemical Engineering and Technology, Tianjin University, Tianjin, China
+Sibao Liu
+Center for Functional Nanomaterials, Brookhaven National Laboratory, Upton, NY, USA
+J. Anibal Boscoboinik
+Dalian National Laboratory for Clean Energy, Dalian Institute of Chemical Physics, Chinese Academy of Science, Dalian, China
+Yuefeng Liu
+In-situ Center for Physical Science, School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai, China
+Xi Liu
+Department of Material Science and Chemical Engineering, Stony Brook University, Stony Brook, NY, USA
+Anatoly I. Frenkel
+Division of Chemistry, Brookhaven National Laboratory, Upton, NY, USA
+Anatoly I. Frenkel
+Authors
+Jiayi Fu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shizhong Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Weiqing Zheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Renjing Huang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Cong Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ajibola Lawal
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Konstantinos Alexopoulos
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sibao Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yunzhu Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Kewei Yu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+J. Anibal Boscoboinik
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yuefeng Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xi Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Anatoly I. Frenkel
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Omar A. Abdelrahman
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Raymond J. Gorte
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Stavros Caratzoulas
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dionisios G. Vlachos
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+J.F. performed experimental kinetics, XAS and XPS analyses. S.L. carried out the DFT calculations, the XANES simulation and the microkinetic modelling. W.Z. performed XPS and XAS studies. R.H. and C.W. synthesized the catalysts. A.L. conducted reactive gas chromatography. K.A. provided guidance for XANES simulation. K.A. and S.L. assisted with XAS measurements. S.L., Y.W. and J.A.B. conducted the XPS measurements. K.Y. performed the TPR measurements. Y.L. and X.L. carried out the ADF-STEM analysis. A.I.F. provided guidance for the XAS data analysis. O.A.A. provided guidance for the acid site density measurements. R.J.G. provided insights into the experimental work. S.C. guided the DFT calculations. D.G.V. directed the project and provided guidance for the experimental and theoretical work. The manuscript was written by J.F., S.L. and D.G.V. with input from all authors.
+Corresponding author
+Correspondence to
+Dionisios G. Vlachos
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks Gianfranco Pacchioni and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Methods, Figs. 1–25, Tables 1–4 and Notes 1 and 2.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Fu, J., Liu, S., Zheng, W.
+et al.
+Modulating the dynamics of Brønsted acid sites on PtWO
+x
+inverse catalyst.
+Nat Catal
+5
+, 144–153 (2022). https://doi.org/10.1038/s41929-022-00745-y
+Download citation
+Received
+:
+23 March 2021
+Accepted
+:
+13 January 2022
+Published
+:
+21 February 2022
+Issue Date
+:
+February 2022
+DOI
+:
+https://doi.org/10.1038/s41929-022-00745-y
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

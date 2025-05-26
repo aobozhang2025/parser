@@ -1,0 +1,2069 @@
+Ti1–graphene single-atom material for improved energy level alignment in perovskite solar cells | Nature Energy
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature energy
+articles
+article
+Ti
+1
+–graphene single-atom material for improved energy level alignment in perovskite solar cells
+Download PDF
+Article
+Published:
+16 December 2021
+Ti
+1
+–graphene single-atom material for improved energy level alignment in perovskite solar cells
+Chunyang Zhang
+ORCID:
+orcid.org/0000-0001-6965-094X
+1
+,
+2
+na1
+,
+Suxia Liang
+3
+na1
+,
+Wei Liu
+1
+na1
+,
+Felix T. Eickemeyer
+ORCID:
+orcid.org/0000-0003-0855-9944
+2
+,
+Xiangbin Cai
+ORCID:
+orcid.org/0000-0002-8634-3834
+4
+,
+Ke Zhou
+5
+,
+Jiming Bian
+ORCID:
+orcid.org/0000-0002-4912-7606
+6
+,
+Hongwei Zhu
+2
+,
+Chao Zhu
+ORCID:
+orcid.org/0000-0001-6383-3665
+7
+,
+Ning Wang
+ORCID:
+orcid.org/0000-0002-4902-5589
+4
+,
+Zaiwei Wang
+ORCID:
+orcid.org/0000-0001-9725-0206
+8
+,
+Jiangwei Zhang
+ORCID:
+orcid.org/0000-0002-1221-3033
+3
+,
+Yudi Wang
+1
+,
+Jinwen Hu
+1
+,
+Hongru Ma
+1
+,
+Cuncun Xin
+1
+,
+Shaik Mohammed Zakeeruddin
+2
+,
+Michael Grätzel
+ORCID:
+orcid.org/0000-0002-0068-0195
+2
+&
+…
+Yantao Shi
+ORCID:
+orcid.org/0000-0002-7318-2963
+1
+Show authors
+Nature Energy
+volume
+6
+,
+pages
+1154–1163 (
+2021
+)
+Cite this article
+10k
+Accesses
+3
+Altmetric
+Metrics
+details
+Subjects
+Energy
+Materials for devices
+Nanoscale materials
+Solar cells
+Abstract
+Carbon-based perovskite solar cells (C-PSCs) are widely accepted as stable, cost-effective photovoltaics. However, C-PSCs have been suffering from relatively low power conversion efficiencies (PCEs) due to severe electrode-related energy loss. Herein, we report the application of a single-atom material (SAM) as the back electrode in C-PSCs. Our Ti
+1
+–rGO consists of single titanium (Ti) adatoms anchored on reduced graphene oxide (rGO) in a well-defined Ti
+1
+O
+4
+-OH configuration capable of tuning the electronic properties of rGO. The downshift of the Fermi level notably minimizes the series resistance of the carbon-based electrode. By combining with an advanced modular cell architecture, a steady-state PCE of up to 20.6% for C-PSCs is finally achieved. Furthermore, the devices without encapsulation retain 98% and 95% of their initial values for 1,300 h under 1 sun of illumination at 25°C and 60 °C, respectively.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+High-performance parallel tandem MoTe
+2
+/perovskite solar cell based on reduced graphene oxide as hole transport layer
+Article
+Open access
+28 November 2022
+Efficiency optimization of lead-free CH
+3
+NH
+3
+SnI
+3
+-based perovskite solar cells through material and structural modifications
+Article
+Open access
+16 April 2025
+Efficient and stable inverted perovskite solar cells enabled by homogenized PCBM with enhanced electron transport
+Article
+Open access
+23 October 2024
+Main
+Perovskite solar cells (PSCs) as the emerging third generation photovoltaics have experienced rapid development over the past 10 years and achieved a certificated high power conversion efficiencies (PCE) of 25.5% so far
+1
+. However, the stability issue remains the main obstacle slowing down the large-scale application of PSCs
+2
+,
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+. Studies in recent years have revealed that the most widely used Ag or Au back electrodes in traditional PSCs are one of the main sources leading to the deterioration of cell performance as they corrode easily, where the metallic bonds (Ag–Ag or Au–Au) are likely to be broken by the iodide from the perovskite layer underneath
+6
+,
+9
+,
+10
+. Replacing metal back electrodes with carbon-based ones has been validated to be a good strategy
+11
+,
+12
+,
+13
+. The hydrophobic nature as well as the stable covalent bond structure endows carbon-based back electrodes with excellent moisture resistance and chemical stability, avoiding the corrosion as mentioned above
+13
+. In general, the stability of Carbon-based perovskite solar cells (C-PSCs) is much better than that of traditional PSCs
+7
+,
+12
+,
+13
+,
+14
+. Despite being widely accepted as the stable, cost effective and large-scale processable photovoltaics, C-PSCs have been suffering from severe energy loss caused by the carbon electrode itself and the carbon–perovskite or carbon–spiro-OMeTAD interface
+14
+,
+15
+,
+16
+. As a consequence, the PCEs of C-PSCs are generally much lower than those of traditional PSCs
+12
+,
+13
+,
+14
+, mostly in a wide range between 10 and 18% as statistically summarized from relevant reports (Supplementary Fig.
+1
+and Supplementary Table
+1
+)
+17
+,
+18
+. The key to increase efficiencies to the same level as thermal evaporation metal-based PSC is to minimize the energy loss originating from the retarded rate of charge transport and transfer, which comes from the large sheet resistance of a carbon electrode, the poor interfacial contact and the mismatched band alignment between carbon electrode and adjacent functional layer
+15
+,
+19
+,
+20
+. For example, we have reported a type of C-PSC structure incorporating a highly conductive substrate (such as conductive glass or metal foil) as a charge collector that cooperated with a carbon electrode to jointly speed up charge transport, by which the energy loss related to horizontal transport was reduced notably
+14
+.
+As a unique two-dimensional (2D) carbon material, graphene has been regarded as a good back contact candidate for C-PSCs owing to its excellent electrical properties (such as high conductivity and tunable energy level)
+14
+,
+15
+,
+21
+. Over the past few years, back electrodes based on graphene or its composites have been intensively exploited for C-PSCs
+15
+,
+21
+,
+22
+,
+23
+. However, the PCEs of corresponding devices have only been around 10–12% in most previous reports (Supplementary Fig.
+2
+)
+15
+,
+16
+,
+21
+,
+22
+,
+23
+. Tuning the electrical properties of graphene, such as by heteroatom doping (such as N, O, S, P), has been applied to boost the PCE of C-PSCs
+16
+,
+24
+. An example reported by Zhu and coworkers in 2018 indicated that, owing to the increased charge-extraction efficiency and transport capability, the N-doped graphene framework as the back electrodes enabled the PCE of C-PSCs to be enhanced from 9.0% to 10.3% with respect to the undoped sample
+16
+. In recent years, the increasing theoretical prediction and experimental demonstration show that the electrical properties of graphene, for example, the work function, can be well regulated by the decoration of metal nanoparticles or metal salts
+25
+,
+26
+. However, the inhomogeneity of the distribution of metal species and their ambiguous bonding configurations with the graphene pose a serious obstacle to clearly identifying the precise structure at atomic level and to further establishing the structural correlation with electrical properties.
+Featuring atomically dispersed metal atoms and well-defined coordination structures on solid substrates, single-atom materials (SAMs) have emerged as an exciting class of materials with many appealing advantages for heterogeneous catalysis (in this field, they are usually termed single-atom catalysts)
+27
+,
+28
+,
+29
+,
+30
+,
+31
+. However, so far SAMs have scarcely been applied or investigated in the photoelectric field
+30
+,
+31
+.
+Herein, we report the application of SAM as the back contact in all solid-state solar cells. Our SAM of Ti
+1
+–rGO consists of single titanium (Ti) adatoms anchored by surface oxygen atoms on the reduced graphene oxide (rGO) in a well-defined configuration. Density functional theory (DFT) calculations indicate the evident charge transfer between rGO and Ti adatoms, which leads to notable variations in the electronic structure with regard to the bare rGO, consistent with the subsequent experimental validation. As a result, the downshift of Fermi level notably minimizes the series resistance of the carbon-based transport layer minimizing the energy loss. By combining with an advanced modular cell architecture in which fluorine-doped SnO
+2
+(FTO) is used as a charge collector, a high steady-state PCE up to 20.6% is finally achieved by our Ti
+1
+–rGO-based C-PSCs, evidently higher than that (17.5%) of the control device based on the bare rGO. Furthermore, the Ti
+1
+–rGO-based C-PSC without encapsulation cells retain 98% and 95% of their initial PCE values during light soaking with full solar intensity under maximum power point tracking for 1,300 h under nitrogen at 25 and 60 °C, respectively.
+Coordination structure of a Ti atom in Ti
+1
+–rGO
+The X-ray photoelectron spectroscopy (XPS) analysis shows that unlike the ideal graphene, the residual oxygen on rGO is still abundant (roughly 10 at.%) even after a thermal reduction treatment at 550 °C (Supplementary Fig.
+3a
+). The high-resolution XPS C 1 s spectrum (Supplementary Fig.
+3b
+) reveals that the residual oxygen exists in the form of mixed oxygen-containing species, such as hydroxyl (–OH), epoxide (C–O–C) and carboxyl (C–OO). These oxo species provide potential anchoring sites for Ti adatoms according to the strong interaction between Ti and O atoms. Accordingly, the Ti
+1
+–rGO SAM sample was prepared via a simple chemisorption route (Fig.
+1a
+).
+Fig. 1: Structural characterizations of Ti
+1
+–rGO.
+a
+, Schematic illustration of the synthesis of Ti
+1
+–rGO. rGO chemically adsorbs Ti atoms from Ti salts to form Ti
+1
+–rGO SAM.
+b
+,
+c
+, SEM (
+b
+) and TEM (
+c
+) images of Ti
+1
+–rGO. The inset in the TEM image is the selected area electron diffraction of Ti
+1
+–rGO. Scale bars, 1 μm.
+d
+, HAADF–STEM image of Ti
+1
+–rGO. Scale bar, 5 nm.
+e
+, HAADF image and EELS map of C, O and Ti elements of Ti
+1
+–rGO. Scale bar, 0.5 nm.
+f
+, EELS colour-coded map of C, O, Ti of Ti
+1
+–rGO, where the blue, red and green dots represent the distribution of C, O and Ti elements, respectively. The overlaid schematic represents a possible 2D structural model of Ti
+1
+–rGO (the rGO structure is represented in white) around a Ti atom (represented with a green ball) determined from EELS overlap mapping image analysis. Scale bar, 0.5 nm.
+e
+,
+f
+, The close-up of the area around a Ti atom in the HAADF image.
+Full size image
+Figure
+1b,c
+shows the scanning electron microscopy (SEM) and transmission electron microscopy (TEM) images of the as-synthesized Ti
+1
+–rGO samples. It can be clearly observed that the Ti
+1
+–rGO appears as an ultrathin, wrinkled and interlaced sheet, similar to the rGO sample (Supplementary Fig.
+4
+), which suggests that both Ti
+1
+–rGO and rGO samples retain the excellent flexibility of graphene
+14
+. The selected area electron diffraction pattern (the inset of Fig.
+1c
+) reveals that the Ti
+1
+–rGO sample mainly consists of layered graphene. In the TEM measurement, the energy-dispersive X-ray (EDX) mapping of Ti
+1
+–rGO was also performed on a small region. The EDX mapping of C, O and Ti confirms that these elements are uniformly distributed across the entire sample (Supplementary Fig.
+5
+). Subsequently, the dispersion of Ti atoms on the rGO was confirmed by the high-angle annular dark field–scanning TEM (HAADF–STEM). The bright spots in HAADF–STEM image (Fig.
+1d
+) correspond to Ti atoms and are homogeneously distributed throughout the entire Ti
+1
+–rGO sample. All the above analyses indicate the successful synthesis of rGO-supported single Ti atom material.
+To circumvent the limited discrimination ability of the HAADF signal, electron energy-loss spectroscopy (EELS) was used with simultaneous HAADF signal to investigate the local bonding of individual Ti atom
+32
+. The EELS mapping of Ti
+1
+–rGO was acquired on a region around the centre of one isolated Ti atom from the large-area HAADF image. As presented in Fig.
+1e
+, it is apparent that the position of Ti atom (as depicted by the red arrow in the Ti–L
+2,3
+EELS map) corresponds exactly to that of the carbon vacancy, which shows that the Ti adatom is anchored into a carbon-vacancy defect of Ti
+1
+–rGO SAM. Besides, O distribution in the EELS map appears slightly gathered around the Ti atom, which indicates that the Ti atom most probably coordinates with oxygen atoms on rGO directly. Furthermore, the respective EELS spectrum for C, O and Ti elements around the Ti atom centre demonstrates the presence of C and O signals, indicative of the formation of Ti–O–C bonding (Supplementary Fig.
+6
+).
+The synchrotron radiation-based X-ray absorption near-edge structure (XANES) and extended XAFS (EXAFS) spectroscopy are used to further identify the coordination structure concerning Ti atom in Ti
+1
+–rGO (ref.
+33
+). As presented in Fig.
+2a
+, the Ti K-edge XANES spectra show that the absorption edge energy of Ti
+1
+–rGO lies between that of TiC and TiO
+2
+, corroborating that the oxidation state of Ti species in Ti
+1
+–rGO is about +4, which is further supported by XPS and XANES analysis (Supplementary Note
+1
+, Supplementary Fig.
+7
+and Supplementary Table
+2
+). Using the established metal oxidation versus
+E
+0
+relationship, the Ti average valence state in the Ti
+1
+–rGO sample is estimated to be roughly +3.70 (Supplementary Fig.
+7d
+).
+Fig. 2: Coordination structure analysis of Ti atom in Ti
+1
+–rGO.
+a
+,
+b
+, Normalized Ti K-edge XANES spectra (
+a
+) and radial distance (
+R
+) space spectra (
+b
+) of Ti
+1
+–rGO and the Ti foil, TiC and TiO
+2
+as references, respectively.
+c
+,
+d
+, Ti K-edge EXAFS analysis of Ti
+1
+–rGO in
+k
+(
+c
+) and
+R
+(
+d
+) spaces. Curves from top to bottom are the Ti–C and Ti–O two-body backscattering signals
+χ
+2
+included in the fit and the total signal superimposed on the experimental signal (black line). The measured and calculated spectra show excellent agreement. The inset in
+d
+shows the structure of a Ti
+1
+–O
+5
+–C
+4
+moiety originating from the EXAFS result. The vertical dashed lines in
+d
+indicate the peaks ascribed to the Ti–C
+2
+or Ti–O/C
+1
+coordination.
+e
+, Comparison between the K-edge XANES experimental spectrum of Ti
+1
+–rGO and the theoretical spectrum calculated on the basis of Ti
+1
+–O
+4
+–OH moieties embedded in the graphene lattice. The inset in
+e
+shows the most possible configuration of Ti
+1
+–rGO the correspondence between the elements and different coloured spheres in inset also is applied to subsequent chemical structure models unless otherwise specified. The main features reproduced are highlighted at points A–D.
+f
+, The fitted average oxidation states of Ti in TiO
+3
+C
+2
+-1, TiO
+3
+C
+1
+-2, TiO
+2
+C
+2
+-2 and TiO
+4
+–OH (represented with spheres) structural models. Bader charges of Ti foil, TiO and TiO
+2
+(represented with square symbols) are linearly fitted with their oxidation states (the lines resulted from linear fitting are marked with dashed lines), which are known as 0, +2 and +4, respectively. The average oxidation state of Ti
+1
+–rGO is represented with a star symbol. a.u., arbitrary units.
+Source data
+Full size image
+Quantitative evidence on the bonding characteristics of the Ti atoms in Ti
+1
+–rGO can be further revealed by EXAFS spectroscopy analysis. The Fourier-transformed (FT)
+k
+2
+-weighted
+χ
+(
+k
+) EXAFS spectrum of Ti
+1
+–rGO in Fig.
+2b
+demonstrates that the main peak located at
+R
+≅
+1.44 Å is close to that of TiO
+2
+reference, which can be ascribed to the Ti–O/C coordination. Besides, the copresence of a well-separated FT peak at
+R
+≅
+2.42 Å much resembles those of pyridine or pyrrolic N atom-coordinated M–N
+4
+moiety in the previously reported M–N–C SAMs
+34
+,
+35
+. To interpret, we considered two separate Ti–O/C
+1
+and Ti–C
+2
+scattering paths. On the basis of the quantitative EXAFS curve-fitting analysis (Fig.
+2c,d
+and Supplementary Table
+2
+), the average Ti environment in Ti
+1
+–rGO comprises first-shell Ti–O (coordination number
+N
+= 4.9 ± 0.4,
+R
+= 1.94 ± 0.02 Å) and second shell Ti–C (
+N
+= 3.5 ± 0.6,
+R
+= 3.00 ± 0.04 Å). Considering the difficulties of EXAFS analysis in discriminating the C/O neighbours and the definite structural configuration, XANES simulations and DFT calculations on Bader charge analysis were further carried out to precisely interpret the definite atomic-site Ti
+1
+O
+x
+C
+y
+structure (Supplementary Note
+2
+, Supplementary Figs.
+8
+–
+10
+and Supplementary Table
+4
+). By contrast, the TiO
+4
+–OH can better reproduce the main features and give a relatively closer match with the experimental spectrum (Fig.
+2e
+), which is also supported by subsequent Bader charge analysis (Fig.
+2f
+).
+Specifically, the calculated Ti valence state (+3.82) of the proposed TiO
+4
+–OH is much closer to that (+3.70) derived from the XANES analyses. On the other hand, the coordination number
+N
+Ti-C
+= 3.5 at the second shell is slightly lower than that (
+N
+= 4.0) of the theoretically predicted structure, which could be due to the large structural disorder in our case or defects. As far as we concerned, this underestimation for
+N
+second-shell
+of the photo-absorber is also often encountered in EXAFS fitting analysis of SAMs
+34
+,
+36
+. By virtue of combined theoretical and experimental study, our findings nonetheless indicate that isolated TiO
+4
+–OH moiety species were dominantly formed on the rGO support. By consulting the aforementioned EELS results, we therefore propose the formation of such a specific moiety is because Ti adatoms can be anchored by oxygen atoms at the rGO vacancy defect.
+Electronic properties of Ti
+1
+–rGO electrode
+First, the influence of introducing atomic titanium on the electrical property of the rGO electrode was theoretically investigated by DFT calculation. As displayed in Fig.
+3a
+, the energy band structure based on a rGO structure model (inset of in Fig.
+3a
+) shows a band gap of 0.3 eV (energy bands are discontinuous near the Fermi level) leading to non-metallic behaviour, which is disadvantageous for conductivity. Fortunately, there is a shift of the Fermi level into the valence band for Ti
+1
+–rGO (Fig.
+3b
+) leading to a metallic behaviour and, concomitantly, to better conductivity. The electrostatic potential along the
+z
+axis and detailed parameter calculated for rGO and Ti
+1
+–rGO in Fig.
+3c,d
+and Supplementary Table
+5
+predict that the Ti single atom loaded on rGO will lead to a substantially increase in the work function (
+W
+F
+) from 4.04 eV (rGO) to 4.79 eV (Ti
+1
+–rGO).
+Fig. 3: Mechanistical insight into tuning the electric properties of Ti
+1
+–rGO electrode.
+a
+,
+b
+, The energy band structure obtained by DFT theoretical calculation based on the chemical structure model of rGO (
+a
+) and Ti
+1
+–rGO (
+b
+) in the corresponding insets, respectively.
+c
+,
+d
+, The electrostatic potential along the
+z
+axis for rGO (
+c
+) and Ti
+1
+–rGO (
+d
+), where
+W
+F
+represents the theoretical work function. The Fermi energy in
+a
+–
+d
+(represented with a horizontal dashed line) is set at 0 eV.
+e
+, UPS spectra of spiro-OMeTAD, rGO and Ti
+1
+–rGO, where
+W
+F
+,
+E
+F
+and
+E
+VBM
+represent work function, Fermi energy and valence band maximum of the material, respectively. UPS spectra in the valence band region (left) and He Iα (
+hν
+= 21.22 eV) spectra of secondary electron cut-off (right) are shown. The intercept of the tangent line in valence band region (marked with the dashed vertical line) indicates the distance of the
+E
+VBM
+with respect to
+E
+F
+, which was denoted
+E
+F
+–
+E
+VBM
+. The intercept of the tangent line in the secondary electron cut-off (marked with the dashed vertical line) shows 21.22
+−
+W
+F
+. The
+x
+axis is broken between 2 and 16 eV binding energy.
+f
+, The schematic band alignment of between spiro-OMeTAD and electrode materials (rGO and Ti
+1
+–rGO). In the inset, the conduction band and valence band in energy band structure are represented by two semi-ellipsoids up and down, respectively. The grey planes and horizontal dashed lines represent Fermi levels. The schematic of the rGO or Ti
+1
+–rGO structure is next to the corresponding schematic diagram of the band structure.
+Source data
+Full size image
+Based on the ultraviolet photoelectron spectrometer (UPS) in Fig.
+3e
+and detailed calculations of the
+W
+F
+provided in Supplementary Fig.
+11
+, the Fermi levels (
+E
+F
+) of rGO, Ti
+1
+–rGO and spiro-OMeTAD are estimated to be −4.05, −4.31 and −4.25 eV, respectively. As shown in Fig.
+3f
+, the Fermi levels of rGO and spiro-OMeTAD show an energy mis-alignment of 200 meV, which could result in a
+V
+oc
+loss whereas those of Ti
+1
+–rGO and spiro-OMeTAD are well aligned avoiding any significant voltage loss during interfacial hole transfer from spiro-OMeTAD to Ti
+1
+–rGO.
+Performance and stability of Ti
+1
+–rGO-based C-PSCs
+The various improved electrical properties of Ti
+1
+–rGO motivate us to scrutinize whether the improvement in basis properties of Ti
+1
+–rGO electrode material can be translated into performance enhancement of the entire C-PSCs device. To this end, we used rGO and Ti
+1
+–rGO as the electrode materials of modular C-PSC with advanced architecture, respectively, which were assembled by stacking a semicell A (FTO/electron extraction layer (ETL)/perovskite/spiro-OMeTAD/graphene) and charge collector B (FTO/graphene) with very a small mechanical pressure (around 4.7 kPa, Supplementary Figs.
+12
+and
+13
+). As schematically illustrated in Fig.
+4a
+, such an architecture has been proved to possess numerous advantages, such as being easily assembled, disassembled, repaired and upgraded and so on
+14
+. More importantly, the modular C-PSCs is more advantageous by virtue of using a highly conductive collector to accelerate horizontal charge transport as aforementioned
+14
+. In the present study, we aim to use SAM to further reduce the energy loss caused by mismatched band alignment between perovskite and carbon electrode.
+Fig. 4: Photovoltaic performance and operational stability.
+a
+, Schematic diagram of modular C-PSC structure, which is assembled by stacking semicell A (FTO/ETL/perovskite/spiro-OMeTAD/graphene) and charge collector B (FTO/graphene).
+b
+, The statistics of photoelectric performance parameters (
+V
+oc
+,
+J
+sc
+, fill factor (FF), PCE) distribution for 60 devices with the architecture FTO/c-TiO
+2
+/mp-TiO
+2
+/perovskite
+1
+/spiro-OMeTAD/rGO or Ti
+1
+–rGO (30 Ti
+1
+–rGO-based C-PSCs and 30 rGO-based C-PSCs). The box plot denotes median (centre line), 75th (top edge of the box), 25th (bottom edge of the box) percentiles. The solid dots represent original data. All these performance parameters were obtained on the reverse scan.
+c
+, IPCE spectrum and the integrated photocurrent density of the rGO-based C-PSC and Ti
+1
+–rGO-based C-PSC.
+d
+,
+JV
+curve (reverse sweep rate 125 mV s
+−1
+) of the rGO-based and Ti
+1
+–rGO-based C-PSC. The stars indicate the ss-MPP of the two devices.
+e
+, The steady-state PCE (ss-PCE) of rGO-based C-PSC and Ti
+1
+–rGO-based C-PSC, inset shows the ss-MPP parameters devices of rGO-based C-PSC and Ti
+1
+–rGO-based C-PSC.
+f
+, Steady-state
+J
+sc
+–
+V
+oc
+measurements (circles) and fit curves for the same devices as in
+d
+. The inset shows the
+J
+sc
+–
+V
+oc
+fit curves in a magnified scale along with the ss-MPP measurements (represented with star symbols).
+g
+, MPP ageing of Ti
+1
+–rGO-based C-PSC (25°C and 60 °C, respectively) and conventional thermal evaporation Au–PSC (25 °C) under an N
+2
+atmosphere, 1 sun continuous illumination.
+Source data
+Full size image
+First, we applied the rGO and Ti
+1
+–rGO contact layers to perovskite solar cell with the architecture using high-temperature processed TiO
+2
+as ETL and Cs
+0.05
+FA
+0.85
+MA
+0.10
+Pb(I
+0.97
+Br
+0.03
+)
+3
+as a perovskite layer (labelled as perovskite
+1
+)
+37
+. The performance parameter distribution statistics of devices with the architecture FTO/c-TiO
+2
+/mp-TiO
+2
+/perovskite
+1
+/spiro-OMeTAD/rGO or Ti
+1
+–rGO are shown in Fig.
+4b
+, and the average parameters of 60 devices are summarized in Table
+1
+. Evidently, the average PCE of the devices soars from 16.6% (rGO-based C-PSCs) to 20.8% on applying Ti
+1
+–rGO. Further, the Ti
+1
+–rGO-based C-PSC affords an encouragingly high
+J
+sc
+of up to 26.0 mA cm
+−
+2
+, which is in good agreement with the integrated current density (25.4 mA cm
+−
+2
+) originating from the incident photon-to-electron conversion efficiency (IPCE) spectra (Fig.
+4c
+). Meanwhile, the narrow PCE distribution for Ti
+1
+–rGO-based C-PSCs suggests a better reproducibility in comparison to control rGO-based C-PSCs.
+Table 1 Photovoltaic parameters of C-PSCs with the architecture FTO/c-TiO
+2
+/mp-TiO
+2
+/perovskite
+1
+/spiro-OMeTAD/rGO or Ti
+1
+–rGO
+Full size table
+Figure
+4d
+shows the
+IV
+curve of champion Ti
+1
+–rGO-based C-PSC with an open-circuit voltage (
+V
+oc
+) of 1.059 V, a short-circuit current density (
+J
+sc
+) of 26.0 mA cm
+−
+2
+, a fill factor of 78.5% and a PCE of 21.6%, which surpasses that of champion rGO-based C-PSC (17.7%) and is closer to the PCE (23.5%) of Au-PSCs (Supplementary Fig.
+14
+). Note that the Ti
+1
+–rGO-based C-PSC presents an elevated fill factor of up to 78.5%, in comparison to 69.3% for the control rGO-based C-PSC, as a result of the improved electrical properties of Ti
+1
+–rGO as we show further below. To exclude hysteresis effects in the PCE determination we measured the steady-state maximum power points (ss-MPPs), that is, a time-dependent MPP measurement, has been carried out until the MPP stabilized (Fig.
+4e
+). The detailed parameters of the ss-MPPs can be found in inset of Fig.
+4e
+. For the rGO device we obtained a stabilized PCE of 17.5% and for the Ti
+1
+–rGO device 20.6%. The latter is a high PCE for a C-PSC.
+To evaluate the reason behind the device performance difference of rGO and Ti
+1
+–rGO-based perovskite solar cells we performed
+J
+sc
+–
+V
+oc
+measurements, which have been used to determine the series resistance of solar cell devices
+38
+,
+39
+. Figure
+4f
+shows the
+J
+sc
+–
+V
+oc
+curves of the rGO and Ti
+1
+–rGO devices. The
+J
+sc
+–
+V
+oc
+curves of both devices are nearly the same, which indicates that the main performance difference between the two devices comes from a different series resistance. To illustrate this further, we depict the reverse sweep
+JV
+curves and the
+J
+sc
+–
+V
+oc
+curves (Supplementary Fig.
+15
+). For the rGO device the
+JV
+sweeps deviate significantly from the
+J
+sc
+–
+V
+oc
+traces whereas for Ti
+1
+–rGO they nearly overlap. To quantify this behaviour, we calculate the series resistance at MPP. With the voltage difference Δ
+V
+between V
+MPP
+and the
+J
+sc
+–
+V
+oc
+curve at
+J
+MPP
+(inset of Fig.
+4f
+) the series resistance at MPP is
+R
+s
+(MPP) = Δ
+V
+/
+J
+MPP
+. For the rGO device the series resistance is 7.0 Ω cm
+−
+2
+and for the Ti
+1
+–rGO device 1.3 Ω cm
+−
+2
+. This shows that the series resistance of the rGO layer is significantly larger than that of the Ti
+1
+–rGO layer and this is the main reason for the performance difference.
+To verify the universality of carbon electrode in different perovskite cell architectures, we also applied the rGO and Ti
+1
+–rGO contact layers to another perovskite solar cell architecture using low-temperature processed SnO
+2
+as ETL and classical Cs
+0.05
+((FAPbI
+3
+)
+0.85
+(MAPbBr
+3
+)
+0.15
+)
+0.95
+as perovskite layer (labelled as perovskite
+2
+)
+40
+. The device architecture is FTO/SnO
+2
+/perovskite
+2
+/spiro-OMeTAD/rGO or Ti
+1
+–rGO. A high PCE up to 19.8% is achieved by our Ti
+1
+–rGO-based device, evidently higher than that (16.8%) of the control device based on the bare rGO (Supplementary Note
+4
+, Supplementary Figs.
+16
+and
+17
+and Supplementary Table
+6
+). Those results are similar to that of the device with TiO
+2
+as ETL, which further demonstrates the wide application of Ti
+1
+–rGO as high-performance electrode materials.
+Here, an important fact worth noting is that the hole transport layer (HTL), such as spiro-OMeTAD used in our C-PSCs, is indispensable to minimize charge recombination. We fabricated Ti
+1
+–rGO-based and rGO-based HTL-free C-PSCs (see detailed results and analysis in Supplementary Fig.
+18
+, Supplementary Table
+7
+and Supplementary Note
+5
+). The PCEs of both Ti
+1
+–rGO-based and rGO-based HTL-free devices are evidently inferior to that of the one containing HTL due to a major loss in fill factor and
+V
+oc
+. This can be ascribed to the metallic nature of Ti
+1
+–rGO or rGO due to which the hole extraction is not as selective as that in the case using HTL, and the back-transfer of electron cannot be blocked effectively, in turn leading to serious charge recombination at the (Ti
+1
+–rGO)/perovskite or rGO/perovskite interface. Therefore, HTL is thought to be essential to achieve high efficiency C-PSCs. Meantime, the comparison between the highest PCEs of semicell A and a modular C-PSCs (8.6% versus 21.6%) provides very strong experimental support to validate the necessity of charge collector B (see detailed results and analysis in Supplementary Fig.
+19
+, Supplementary Table
+8
+and Supplementary Note
+6
+).
+In addition, as shown in Supplementary Fig.
+20
+, the device using cheap Al foil as a substrate in charge collector B still realized a high PCE up to 20.9%, providing many options in terms of the conductive substrate in charge collector B and being favourable to further reducing production cost.
+Furthermore, in terms of an exceptional electrode material, stability of Ti
+1
+–rGO is also our focus. The operational stability data obtained with Ti
+1
+–rGO-based C-PSCs and conventional thermal evaporation Au-based PSCs (Au-PSCs) at MPP under the same condition (1 sun irradiation and in N
+2
+atmosphere) were measured to reflect the stability of the electrode materials. As illustrated in Fig.
+4g
+and Supplementary Fig.
+21
+, the PCE at MPP of Au–PSC rapidly decayed from 21.8% to 14.3% after 1,100 h continuous irradiation at 25 °C, with only 65% of the initial value being retained. By contrast, the operational stability of Ti
+1
+–rGO-based C-PSC without encapsulation is excellent while its PCE at MPP can maintain 98% (20.2%) of its initial value (20.7%) after continuous irradiation for 1,300 h at 25 °C. Even at 60 °C, the PCE at MPP of Ti
+1
+–rGO-based C-PSC can maintain 95% (19.7%) of its initial value (20.6%) after continuous irradiation for 1,300 h, indicating that Ti
+1
+–rGO can well resolve the instability issue caused by the corrosion of the precious metal electrode. It can be seen that the efficiency and stability of modular C-PSCs have been simultaneously improved by comparison to our previous work
+14
+. More importantly, this study signifies that SAMs will be excellent candidates to serve as an electrode or interfacial layer in all solid-state photovoltaics, which will arouse wide attention in future studies.
+Conclusions
+In summary, we report the application of SAM with a well-defined structure as back contact for high-performance perovskite solar cells. DFT calculations indicate the evident charge transfer between rGO and Ti adatoms, which leads to a substantially improved conductivity of the Ti
+1
+–rGO charge transport material. As expected, by combination with an advanced modular cell architecture, a steady-state PCE of up to 20.6% is achieved based on this unique back contact material. Moreover, the Ti
+1
+–rGO-based C-PSC without encapsulation displays an excellent stability while its MPP tracking under in full sun still retain 98% and 95% of their initial values for 1,300 h (1 sun, in N
+2
+atmosphere) at 25°C and 60 °C, respectively. This work not only provides an avenue to engineer efficient and stable electrode materials for C-PSCs, but also deepens the understanding of the correlation between electronic device properties and chemical structure.
+Methods
+Materials
+FTO (7 Ω sq
+−1
+) was purchased from Yingkou OPV Tech New Energy Co., Ltd. CsI (99.999%), 4-tert-butylpyridine (TBP, 96%), bis(trifluoromethane)sulfonimide lithium salt (Li-TFSI, 99.95%), isopropanol (99.5%), dimethylsulfoxide (DMSO, 99.9%), dimethylformamide (DMF, 99.8%), acetonitrile (99.8%), chlorobenzene (99.8%), α,α,α-trifluorotoluene (≥99%), acetyl acetone, phenethylamine and titanium diisopropoxide bis(acetylacetonate), 75 weight% in isopropyl alcohol were obtained from Sigma Aldrich. SnCl
+2
+2H
+2
+O (98%) was provided from Alfa Aesar. CH
+3
+NH
+3
+Br (MABr) and CH(NH
+2
+)
+2
+I (FAI) were received from Xi’an Polymer Light Technology Corp. PbI
+2
+(99.99%), PbBr
+2
+(≥98.0%) were ordered from TCI. Spiro-OMeTAD (99.7%) was supplied by Lumtec. Ethanol and acetone were bought from Sinopharm Chemical Reagent Co., Ltd. Graphite oxide (SE2430) was purchased from The Sixth Element Materials Technology Co., Ltd.
+Preparation of Ti
+1
+–rGO and rGO
+The Ti
+1
+–rGO SAM sample was prepared via chemisorption route. First, 400 mg of graphite oxide was dispersed into 120 ml of isopropanol. Then, 20 μl of organic Ti salt (titanium diisopropoxide bis(acetylacetonate)) was added into the above solution with continuous magnetic stirring, followed by ultrasonic dispersion for 1 h and magnetic stirring for 20 h. Afterwards, the above dispersion solution was centrifuged and the resulting precipitation was dried at 85 °C in vacuum for 24 h. Thereafter, the obtained powder was calcinated at 550 °C for 2 h in a high-purity N
+2
+atmosphere. After cooling to room temperature, the fluffy black powder was Ti
+1
+–rGO SAM. Likewise, rGO could be obtained by the same steps without adding organic Ti salt.
+Fabrication of modular C-PSCs
+Here, 10 mg of carbon material (rGO or Ti
+1
+–rGO) was dispersed into 20 ml of isopropanol solution, followed by ball-milling for 12 h. The dispersion slurry for spraying was obtained. FTO glasses were etched with zinc powder and 4 M HCl, rinsed with cleaning fluid, deionized water, ethanol, acetone and isopropanol, respectively.
+Fabrication of architecture FTO/c-TiO
+2
+/mp-TiO
+2
+/perovskite
+1
+When the FTO glass was preheated to 450 °C, the compact TiO
+2
+layer was deposited on the FTO glass by a spray pyrolysis method (the carrier gas is O
+2
+). The precursor solution of the compact TiO
+2
+layer (c-TiO
+2
+) was diluted 600 μl of titanium diisopropoxide bis(acetylacetonate) and 400 μl of acetyl acetone with 9 ml of ethanol. After spray pyrolysis, the FTO/c-TiO
+2
+was sintered at 450 °C for 10 min before cooling down to room temperature. After that, mesoporous TiO
+2
+(mp-TiO
+2
+) was deposited on the c-TiO
+2
+layer by spin coating for 20 s at 4,000 r.p.m. The precursor solution of m-TiO
+2
+was diluted the commercial TiO
+2
+paste (30NRD, Dyesol) with ethanol at a weight ratio of 1:6. The FTO/c-TiO
+2
+/mp-TiO
+2
+was heated at 450 °C for 30 min under dry air flow. To deposit the perovskite layer, one-step spin-coating method was adopted to prepare the Cs
+0.05
+FA
+0.85
+MA
+0.10
+Pb(I
+0.97
+Br
+0.03
+)
+3
+perovskite layer with 5% excess of PbI
+2
+in 1 ml of mixed solvent of DMF and DMSO (4:1 volume ratio). Subsequently, 120 μl of perovskite solution was spin coated on the ETL via a two-step spin-coating programme with 2,000 r.p.m. for 10 s with an acceleration rate of 200 r.p.m. s
+−1
+and 6,000 r.p.m. for 30 s with an acceleration rate of 2,000 r.p.m. s
+−1
+, respectively. Then 300 μl of antisolvent (chlorobenzene) was dropped on the spinning substrates 15 s before the end of programme, followed by annealing at 120 °C for 20 min.
+Fabrication of architecture FTO/SnO
+2
+/perovskite
+2
+The 0.1 M SnCl
+2
+2H
+2
+O isopropanol solution was refluxed at 85 °C for 3 h to obtain the SnO
+2
+sol for the ETL of PSCs. The prepared precursor was spin coated on the FTO glass at 2,000 r.p.m. for 30 s, followed by thermal treatment at 80 °C for 1 h in the air. After that, the as-deposited SnO
+2
+ETL was treated with UV-Ozoneor 20 min. To deposit the perovskite layer, one-step spin-coating method was adopted to prepare the Cs
+0.05
+((FAPbI
+3
+)
+0.85
+(MAPbBr
+3
+)
+0.15
+)
+0.95
+perovskite layer. Typically, FAI (1 M), PbI
+2
+(1.1 M), MABr (0.2 M) and PbBr
+2
+(0.2 M) were dissolved in 1 ml of mixed solvent of DMF and DMSO (4:1 volume ratio), and then stirred at 60 °C for 2 h. Next, 1 M CsI DMSO solution was added to the above perovskite precursor solution with a volume ratio of 5:95. Subsequently, 120 μl of perovskite solution was spin coated on the ETL via a two-step spin-coating programme with 1,000 r.p.m. for 10 s and 6,000 rpm for 30 s, respectively. Then 300 μl of antisolvent (α,α,α-trifluorotoluene) was dropped on the spinning substrates 20 s before the end of programme, followed by annealing at 85 °C for 45 min.
+The spiro-OMeTAD precursor solution was obtained via adding 72.3 mg of spiro-OMeTAD powder, 29 μl of TBP, 17.5 μl of Li-TFSI acetonitrile solution (520 mg ml
+−1
+) into chlorobenzene (1 ml). Afterwards, 50 μl of the spiro-OMeTAD solution was spin coated on the above perovskite films at 3,000 r.p.m. for 30 s. The semicell was obtained successfully. Then 500 μl of carbon slurry based on rGO or Ti
+1
+–rGO was sprayed on the above semicells (FTO/ETL/perovskite/HTL) and FTO substrates on a hotplate at 85 °C to accelerate solvent evaporation. The obtained semicell A (FTO/ETL/perovskite/HTL/carbon) and charge collector B (FTO/carbon) were then assembled into modular C-PSC by being stacked together using retaining clips, and the overall thickness of graphene on two carbon electrodes was compressed to about 2 μm.
+Characterizations
+The STEM images of Ti
+1
+–rGO SAM sample were acquired using a STEM (JEOL ARM-200F) equipped with an aberration corrector (CEOS CESCOR) at the probe side, which was operated at the accelerating voltage of 80 kV. The dwell time per pixel was set to 10–16 μs. The morphologies of samples were characterized by SEM (SU8220) and STEM (F-20, FEI). A double Si(111)-crystal monochromator was adopted for energy selection. The energy was calibrated by the Ti foil.
+JV
+characteristics of modular C-PSCs were conducted on a digital source meter (Keithley 2450) at the scan speed of 100 mV s
+−
+1
+. The simulated AM 1.5G sunlight (irradiance equivalent to 100 mW cm
+−2
+) calibrated by standards Si reference cell (Si photodiode (FDS1010-CAL from Thorlabs) with a KG5 filter, calibrated by Newport) was generated by a solar simulator (Newport Sol 3A). We continuously verify our measurements with PV certification laboratories (Fraunhofer ISE). The modular C-PSCs were masked with a black metal mask with an aperture area of 0.09 cm
+2
+during
+JV
+measurement. The stable output of photocurrent and PCE were detected with a digital source meter (Keithley 2450) at a certain bias. The IPCE spectrometry was performed using a commercial apparatus (Aekeo-Ariadne, Cicci Research s.r.l.) with a 300-W Xenon lamp. Stability of the cells were recorded under a white light-emitting diode lamp with biologic MPG2 potentiostat and N
+2
+atmosphere. The spectral mismatch between AM 1.5G and the simulated sunlight was calibrated with a Schott K113 Tempax filter.
+STEM–EELS measurements and data analysis
+The Ti
+1
+–rGO powder was uniformly dispersed by sonication in high-purity ethanol, then the solution was dropped onto a 400-mesh lacey-carbon gold grid for the EELS mapping in the STEM mode (STEM–EELS). Before the STEM–EELS measurements, the grid was annealed at 100 °C in a high vacuum chamber of roughly 10
+−
+6
+mbar overnight to completely remove the ethanol residual as well as any adsorbed vapour. The JEOL JEM ARM-200F equipped with the cold field-emission gun and the ASCOR fifth-order probe-side corrector was applied for the STEM–EELS experiments under 60 kV of accelerating voltage to avoid sample damage. The 30-mrad convergence semi-angle and roughly 120-pA probe current were selected for the optimized information transfer and single-atom sensitivity
+41
+. An energy dispersion of 0.25 eV per channel and 91-mrad collection semi-angle in the Gatan Enfinium ER spectrometer were set up with corrected stigmatism up to the third order. Each STEM–EELS map was acquired using 1 ms dwell time (near 1,000 spectra per second) and 0.25 Å pixel size to maintain a relatively low electron dose. The zero-loss peak and core-loss edges were simultaneously recorded for the absolute energy scale. The simultaneous annular dark field signal was acquired using a 93-mrad inner collection semi-angle. The signal-to-noise ratio of the single-pixel spectrum in the STEM–EELS dataset under as-described experimental conditions is low but adequate to distinguish the Ti–L
+3
+and –L
+2
+edges (fine structures visible when averaged across the whole sampled region). The spectrum background was subtracted using the method of local background averaging and linear combination of two power laws to benefit from the redundant sampling
+42
+. Instead of the direct integration of the Ti edges, we carried out principal component analysis first to search for the reference spectrum of Ti
+1
+, then non-negative least-square fitting of the spectra dataset by the reference spectrum generated the Ti concentration map of enormously improved contrast.
+X-ray absorption fine structure (XAFS) measurements and data analysis
+The Ti K-edge XAFS spectra were collected at BL11B beamline in Shanghai Synchrotron Radiation Facility. Notably, here we adapted a common practice of multiple scans for the XAFS measurements of Ti
+1
+–rGO and the average of four scans were collected. Some details of the XAFS measurements and data analysis were as follows: the hard X-ray was monochromatized with Si(111) double-crystal monochromator and the harmonic rejection mirror was used to remove monochromator harmonics. The as-prepared Ti
+1
+–rGO sample was first pelletized as disc of 10 mm and the XAFS data were collected in fluorescence mode (Lytle detector) in the energy range from −200 below to 800 eV above the Ti K-edge. The acquired EXAFS data were processed according to the standard procedures using the ATHENA module implemented in the IFEFFIT software packages
+43
+. The
+k
+2
+χ
+(
+k
+) weighted data in the
+k
+-space ranging from 2.0 to 11.5 Å
+−
+1
+were FT to real (
+R
+) space using a Hanning window (d
+k
+= 1.0 Å
+−
+1
+) to separate the EXAFS contributions from different coordination shells. The EXAFS curve-fittings were performed using the ARTEMIS module of IFEFFIT
+44
+. Effective backscattering amplitudes
+F
+(
+k
+) and phase shifts Φ(
+k
+) of all fitting paths were calculated with the ab initio code FEFF8.0 (ref.
+45
+). Fittings were done in the
+R
+-space in the
+R
+-range of (1.0, 2.7) Å for
+k
+2
+-weighted
+χ
+(
+k
+) functions with Hanning windows (d
+k
+= 1.0 Å
+−
+1
+), and the number of independent points
+N
+ipt
+= 2Δ
+k
+Δ
+R
+/
+π
+= 2 × (11.5 − 2) × (2.7 − 1)/
+π
+= 10. During the curve-fitting analysis, the amplitude reduction factor S2 0 was fixed to the best-fit value of 0.73, which was determined from fitting the reference sample of TiO
+2
+bulk. For the Ti–O/C
+1
+and Ti–C
+2
+shells, each of the Debye–Waller factors (
+σ
+2
+), coordination numbers (
+N
+) and interatomic distances (
+R
+), energy shift (Δ
+E
+0
+) were all treated as adjustable parameters. Herein, the number of adjustable parameters for the Ti
+1
+–rGO sample is
+N
+para
+= 2 + 2 + 2 + 2 = 8 <
+N
+ipt
+= 10.
+Computational models and methods
+Ti
+1
+–rGO and rGO computational models were constructed based on 6 × 6 × 1 supercells of graphene, and the box size was 14.76 × 14.76 × 16.70 Å. Neighbouring slabs were separated through a vacuum of 15 Å to avoid interaction. The DFT calculations were performed with projector-augmented wave potentials and the Perdew–Burke–Ernzerhof functional was implemented by the Vienna Ab initio Simulation Package
+46
+,
+47
+. Relaxations were performed using a conjugate-gradient algorithm. The selected energy convergence was 1 × 10
+−4
+eV atom and force convergence was 0.05 eV Å. The cut-off energy was set to 400 eV. A Monkhorst–Pack point sampling of 4 × 4 × 1 was adopted. The occupancy of the one-electron states was revealed using Gaussian smearing (SIGMA, 0.05 eV).
+J
+sc
+–
+V
+oc
+measurement technique
+The starting point of the
+J
+sc
+–
+V
+oc
+technique is the single-diode approximation with negligible shunt resistance:
+$$J\left( {V,L,R_{\mathrm{s}}} \right) = J_0\left( {1 - {\mathrm{e}}^{\frac{{q(V + R_{\mathrm{s}}J)}}{{nk_{\mathrm{B}}T}}}} \right) + J_{{\mathrm{sc}}}(L)$$
+(1)
+Here,
+L
+is the light intensity of the simulated sunlight,
+J
+0
+the dark emission current,
+q
+the elementary charge,
+R
+s
+the series resistance,
+n
+the ideality factor,
+k
+B
+the Boltzmann constant and
+T
+the device temperature.
+J
+sc
+(
+L
+) and
+V
+oc
+(
+L
+) are measured for a series of light intensities
+L
+, which yields a pseudo
+JV
+curve
+\(J_{{\mathrm{s}}c}^ \ast (V)\)
+, where
+\(J_{{\mathrm{sc}}}^ \ast (V) \equiv J_{{\mathrm{sc}}}(L)\)
+with
+V
+=
+V
+oc
+(
+L
+). For
+R
+s
+= 0, from equation (
+1
+) the following relationships are derived:
+$$\begin{array}{l}J\left( {V_{{\mathrm{oc}}}\left( L \right),L,R_{\mathrm{s}} = 0} \right) = 0 \to J_{{\mathrm{sc}}}\left( L \right) = J_0\left( {e^{\frac{{qV_{{\mathrm{oc}}}(L)}}{{nk_{\mathrm{B}}T}}} - 1} \right)\\ J\left( {V,1{\mathrm{sun}},R_{\mathrm{s}} = 0} \right) = J_{{\mathrm{sc}}}\left( {1{\mathrm{sun}}} \right) - J_{{\mathrm{sc}}}^ \ast (V)\end{array}$$
+(2)
+J
+(
+V
+, 1 sun,
+R
+s
+= 0) is the
+JV
+curve of the device with zero series resistance. In this work we call
+J
+(
+V
+,1 sun,
+R
+s
+= 0) the
+J
+sc
+–
+V
+oc
+curve. At
+J
+MPP
+we have the following relationships for the
+JV
+and the
+J
+sc
+–
+V
+oc
+curves, where for the latter
+V
+0
+is by definition the voltage at
+J
+MPP
+:
+$$\begin{array}{l}J_{{\mathrm{MPP}}} = J\left( {V_{{\mathrm{MPP}}},1{\mathrm{sun}},R_{\mathrm{s}}} \right) = J_0\left( {1 - {\mathrm{e}}^{\frac{{q\left( {V_{{\mathrm{MPP}}} + R_{\mathrm{s}}J_{{\mathrm{MPP}}}} \right)}}{{nk_{\mathrm{B}}T}}}} \right) + J_{{\mathrm{sc}}}\left( {1{\mathrm{sun}}} \right)\\ J_{{\mathrm{MPP}}} = J\left( {V_0,1{\mathrm{sun}},R_{\mathrm{s}} = 0} \right) = J_0\left( {1 - {\mathrm{e}}^{\frac{{qV_0}}{{nk_{\mathrm{B}}T}}}} \right) + J_{{\mathrm{sc}}}\left( {1{\mathrm{sun}}} \right)\\ \to V_{{\mathrm{MPP}}} + R_{\mathrm{s}}J_{{\mathrm{MPP}}} = V_0 \to R_{\mathrm{s}} = (V_0 - V_{{\mathrm{MPP}}})/J_{{\mathrm{MPP}}}\end{array}$$
+To determine
+R
+s
+at MPP we have to determine the voltage difference Δ
+V
+=
+V
+o
+–
+V
+MPP
+of the real
+JV
+curve and the
+J
+sc
+–
+V
+oc
+curve at
+J
+MPP
+and divide it by
+J
+MPP
+.
+Note that this technique is not restricted to devices that follow the singe-diode characteristics. In fact, the
+J
+sc
+–
+V
+oc
+method can be used for any solar cell that follows a characteristics of the form
+J
+(
+V
+,
+L
+,
+R
+s
+) =
+J
+dark
+(
+V
+,
+R
+s
+) +
+J
+sc
+(
+L
+). One can also show that this method can even be applied if there is a non-negligible shunt resistance.
+Reporting Summary
+Further information on research design is available in the
+Nature Research Reporting Summary
+linked to this article.
+Data availability
+The datasets analysed and generated during the current study are included in the paper and its
+Supplementary Information
+.
+Source data
+are provided with this paper.
+References
+NREL. Best research cell efficiency chart.
+http://www.nrel.gov/pv/cell-efficiency.html
+(2021).
+Khenkin, M. V. et al. Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures.
+Nat. Energy
+5
+, 35–49 (2020).
+Article
+Google Scholar
+Zheng, X. et al. Managing grains and interfaces via ligand anchoring enables 22.3%-efficiency inverted perovskite solar cells.
+Nat. Energy
+5
+, 131–140 (2020).
+Article
+Google Scholar
+Tress, W. et al. Performance of perovskite solar cells under simulated temperature-illumination real-world operating conditions.
+Nat. Energy
+4
+, 568–574 (2019).
+Article
+Google Scholar
+Jiang, Y. et al. Reduction of lead leakage from damaged lead halide perovskite solar modules using self-healing polymer-based encapsulation.
+Nat. Energy
+4
+, 585–593 (2019).
+Article
+Google Scholar
+Guerrero, A. et al. Interfacial degradation of planar lead halide perovskite solar cells.
+ACS Nano
+10
+, 218–224 (2016).
+Article
+Google Scholar
+Rong, Y. et al. Challenges for commercializing perovskite solar cells.
+Science
+361
+, eaat8235 (2018).
+Article
+Google Scholar
+Wang, R. et al. A review of perovskites solar cell stability.
+Adv. Funct. Mater.
+29
+, 1808843 (2019).
+Article
+Google Scholar
+Domanski, K. et al. Not all that glitters is gold: metal-migration-induced degradation in perovskite solar cells.
+ACS Nano
+10
+, 6306–6314 (2016).
+Article
+Google Scholar
+Arora, N. et al. Perovskite solar cells with CuSCN hole extraction layers yield stabilized efficiencies greater than 20%.
+Science
+358
+, 768–771 (2017).
+Article
+Google Scholar
+Rong, Y. et al. Synergy of ammonium chloride and moisture on perovskite crystallization for efficient printable mesoscopic solar cells.
+Nat. Commun.
+8
+, 14555 (2017).
+Article
+Google Scholar
+Mei, A. et al. A hole-conductor-free, fully printable mesoscopic perovskite solar cell with high stability.
+Science
+345
+, 295–298 (2014).
+Article
+Google Scholar
+Zhang, H. Y. et al. Self-adhesive macroporous carbon electrodes for efficient and stable perovskite solar cells.
+Adv. Funct. Mater.
+28
+, 1802985 (2018).
+Article
+Google Scholar
+Zhang, C. et al. Efficient stable graphene-based perovskite solar cells with high flexibility in device assembling via modular architecture design.
+Energy Environ. Sci.
+12
+, 3585–3594 (2019).
+Article
+Google Scholar
+Yan, K. et al. High-performance graphene-based hole conductor-free perovskite solar cells: Schottky junction enhanced hole extraction and electron blocking.
+Small
+11
+, 2269–2274 (2015).
+Article
+Google Scholar
+Zhu, Y. et al. Facile synthesis of nitrogen-doped graphene frameworks for enhanced performance of hole transport material-free perovskite solar cells.
+J. Mater. Chem. C.
+6
+, 3097–3103 (2018).
+Article
+Google Scholar
+Hadadian, M., Smått, J.-H. & Correa-Baena, J.-P. The role of carbon-based materials in enhancing the stability of perovskite solar cells.
+Energy Environ. Sci
+.
+5
+, 1377–1407 (2020).
+Arora, N. et al. Low-cost and highly efficient carbon-based perovskite solar cells exhibiting excellent long-term operational and UV stability.
+Small
+15
+, 1904746 (2019).
+Article
+Google Scholar
+Zheng, X. et al. Boron doping of multiwalled carbon nanotubes significantly enhances hole extraction in carbon-based perovskite solar cells.
+Nano Lett.
+17
+, 2496–2505 (2017).
+Article
+Google Scholar
+Wu, Z. et al. Highly efficient and stable perovskite solar cells via modification of energy levels at the perovskite/carbon electrode interface.
+Adv. Mater
+.
+31
+, 1804284 (2019).
+You, P., Liu, Z., Tai, Q., Liu, S. & Yan, F. Efficient semitransparent perovskite solar cells with graphene electrodes.
+Adv. Mater.
+27
+, 3632–3638 (2015).
+Article
+Google Scholar
+Zhou, J. et al. Semi-transparent Cl-doped perovskite solar cells with graphene electrodes for tandem application.
+Mater. Lett.
+220
+, 82–85 (2018).
+Article
+Google Scholar
+Lang, F. et al. In situ graphene doping as a route toward efficient perovskite tandem solar cells.
+Phys. Status Solidi (A)
+213
+, 1989–1996 (2016).
+Article
+Google Scholar
+Chen, M. et al. Boron and phosphorus co-doped carbon counter electrode for efficient hole-conductor-free perovskite solar cell.
+Chem. Eng. J.
+313
+, 791–800 (2017).
+Article
+Google Scholar
+Chee, S. S. et al. Lowering the Schottky barrier height by graphene/Ag electrodes for high-mobility MoS
+2
+field-effect transistors.
+Adv. Mater.
+31
+, 1804422 (2019).
+Article
+Google Scholar
+Kwon, K. C., Choi, K. S. & Kim, S. Y. Increased work function in few-layer graphene sheets via metal chloride doping.
+Adv. Funct. Mater.
+22
+, 4724–4731 (2012).
+Article
+Google Scholar
+Zhou, S. et al. Pd single-atom catalysts on nitrogen-doped graphene for the highly selective photothermal hydrogenation of acetylene to ethylene.
+Adv. Mater.
+31
+, 1900509 (2019).
+Article
+Google Scholar
+Peng, P. et al. A pyrolysis-free path toward superiorly catalytic nitrogen-coordinated single atom.
+Sci. Adv.
+5
+, eaaw2322 (2019).
+Article
+Google Scholar
+Chen, G. et al. Zinc-mediated template synthesis of Fe-N-C electrocatalysts with densely accessible Fe-N
+x
+active sites for efficient oxygen reduction.
+Adv. Mater
+.
+32
+, 1907399 (2020).
+Jiao, L. & Jiang, H.-L. Metal-organic-framework-based single-atom catalysts for energy applications.
+Chem.
+5
+, 786–804 (2019).
+Xiang, H., Feng, W. & Chen, Y. Single-atom catalysts in catalytic biomedicine.
+Adv. Mater
+.
+32
+, 1905994 (2020).
+Samantaray, M. K. et al. The comparison between single atom catalysis and surface organometallic catalysis.
+Chem. Rev.
+120
+, 734–813 (2019).
+Huang, L., Chen, J., Gan, L., Wang, J. & Dong, S. Single-atom nanozymes.
+Sci. Adv.
+5
+, eaav5490 (2019).
+Article
+Google Scholar
+Guan, J. et al. Water oxidation on a mononuclear manganese heterogeneous catalyst.
+Nat. Catal.
+1
+, 870–877 (2018).
+Article
+Google Scholar
+Zhang, B. et al. Manganese acting as a high-performance heterogeneous electrocatalyst in carbon dioxide reduction.
+Nat. Commun.
+10
+, 2980 (2019).
+Article
+Google Scholar
+Gu, J., Hsu, C.-S., Bai, L., Chen, H. M. & Hu, X. Atomically dispersed Fe
+3+
+sites catalyze efficient CO
+2
+electroreduction to CO.
+Science
+364
+, 1091–1094 (2019).
+Article
+Google Scholar
+Zhu, H. et al. Tailored amphiphilic molecular mitigators for stable perovskite solar cells with 23.5% efficiency.
+Adv. Mater.
+32
+, 1907757 (2020).
+Article
+Google Scholar
+Wolf, M. & Rauschenbach, H. Series resistance effects on solar cell measurements.
+Adv. Energy Conv.
+3
+, 455–479 (1963).
+Article
+Google Scholar
+Mundhaas, N. et al. Series resistance measurements of perovskite solar cells using
+J
+sc
+-
+V
+oc
+measurements.
+Sol. RRL
+3
+, 1800378 (2019).
+Article
+Google Scholar
+Zhang, C. et al. Room-temperature solution-processed amorphous NbO
+x
+as an electron transport layer in high-efficiency photovoltaics.
+J. Mater. Chem. A.
+6
+, 17882–17888 (2018).
+Article
+Google Scholar
+Cai, X. et al. Revealing atomic structure and oxidation states of dopants in charge-ordered nanoparticles for migration-promoted oxygen-exchange capacity.
+Chem. Mater.
+31
+, 5769–5777 (2019).
+Article
+Google Scholar
+Cueva, P., Hovden, R., Mundy, J. A., Xin, H. L. & Muller, D. A. Data processing for atomic resolution electron energy loss spectroscopy.
+Microsc. Microanal.
+18
+, 667–675 (2012).
+Article
+Google Scholar
+Newville, M. IFEFFIT: interactive XAFS analysis and FEFF fitting.
+J. Synchrotron Radiat.
+8
+, 322–324 (2001).
+Article
+Google Scholar
+Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT.
+J. Synchrotron Radiat.
+12
+, 537–541 (2005).
+Article
+Google Scholar
+Ankudinov, A. L., Ravel, B., Rehr, J. & Conradson, S. Real-space multiple-scattering calculation and interpretation of x-ray-absorption near-edge structure.
+Phys. Rev. B.
+58
+, 7565 (1998).
+Article
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B.
+54
+, 11169 (1996).
+Article
+Google Scholar
+Download references
+Acknowledgements
+This work was financially supported by the National Natural Science Foundation of China (grant nos. 51872036, 51773025, 11504046), LiaoNing Revitalization Talents Program (grant nos. XLYC2007038, XLYC2008032), Dalian science and technology innovation fund (grant nos. 2018J12GX033, 2019J12GX032) and special funds for science and technology development under the guidance of the central government (grant no. 2021JH6/10500152). N.W. thanks the financial support from the Hong Kong Research Grants Council (project nos. 16306818 and N_HKUST624/19). C.Zhang thanks the Chinese Scholarship Council for their financial support to his in-split PhD study in Switzerland. M.G. thanks the financial support from the European Union’s Horizon 2020 research and innovation programme under grant agreement no. 881603.
+Author information
+Author notes
+These authors contributed equally: Chunyang Zhang, Suxia Liang, Wei Liu.
+Authors and Affiliations
+State Key Laboratory of Fine Chemicals, Department of Chemistry, School of Chemical Engineering, Dalian University of Technology, Dalian, China
+Chunyang Zhang, Wei Liu, Yudi Wang, Jinwen Hu, Hongru Ma, Cuncun Xin & Yantao Shi
+Laboratory of Photonics and Interfaces, Department of Chemistry and Chemical Engineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+Chunyang Zhang, Felix T. Eickemeyer, Hongwei Zhu, Shaik Mohammed Zakeeruddin & Michael Grätzel
+State Key Laboratory of Catalysis, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian, China
+Suxia Liang & Jiangwei Zhang
+Department of Physics, Hong Kong University of Science and Technology, Kowloon, China
+Xiangbin Cai & Ning Wang
+Department of Chemistry & College of Chemistry and Chemical Engineering, Xiamen University, Xiamen, China
+Ke Zhou
+Key Laboratory of Materials Modification by Laser, Ion and Electron Beams (Ministry of Education), School of Physics, Dalian University of Technology, Dalian, China
+Jiming Bian
+SEU-FEI Nano-Pico Center, Key Laboratory of MEMS of Ministry of Education, Collaborative Innovation Center for Micro/Nano Fabrication, Device and System, Southeast University, Nanjing, China
+Chao Zhu
+Laboratory of Photomolecular Science, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland
+Zaiwei Wang
+Authors
+Chunyang Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Suxia Liang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wei Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Felix T. Eickemeyer
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiangbin Cai
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ke Zhou
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiming Bian
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hongwei Zhu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chao Zhu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ning Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zaiwei Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jiangwei Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yudi Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jinwen Hu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hongru Ma
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Cuncun Xin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Shaik Mohammed Zakeeruddin
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Michael Grätzel
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yantao Shi
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Y.S. and C.Zhang proposed the idea, designed the project and organized the manuscript, C.Zhang carried out the experiments including material characterizations, device fabrication and measurements. M.G. supervised the experimental investigation and manuscript modification. C.Zhu contributed to material design, STEM characterization, structure analysis and manuscript preparation. W.L. conducted XANES and EXAFS measurements and analysed the chemical structure of Ti
+1
+–rGO. S.L. prepared Ti
+1
+–rGO and conducted DFT calculations. F.T.E. conducted and interpreted the
+J
+sc
+–
+V
+oc
+measurements. X.C. and N.W. conducted and interpreted the EELS characterization. S.M.Z. helped on manuscript organization and project coordination. K.Z. conducted the HTEM, EDX mapping characterizations and XAFS measurements. J.B. contributed to the analysis of the characterizations around interface. H.Z. helped on the device fabrication. Z.W. modified the manuscript. J.Z analysed the chemical structure of Ti
+1
+–rGO. Y.W. contributed to mechanical pressure measurement. J.H., C.X. and H.M. helped with material preparations and XPS/UPS characterizations. All authors contributed to results discussion and writing.
+Corresponding authors
+Correspondence to
+Chao Zhu
+,
+Michael Grätzel
+or
+Yantao Shi
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Energy
+thanks Andreas Hinsch and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–21, Notes 1–6 and Tables 1–8.
+Reporting Summary
+Source data
+Source Data Fig. 2
+Numerical data used to generate Fig. 2.
+Source Data Fig. 3
+Numerical data used to generate Fig. 3a–e.
+Source Data Fig. 4
+Numerical data used to generate Fig. 4b–g.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Zhang, C., Liang, S., Liu, W.
+et al.
+Ti
+1
+–graphene single-atom material for improved energy level alignment in perovskite solar cells.
+Nat Energy
+6
+, 1154–1163 (2021). https://doi.org/10.1038/s41560-021-00944-0
+Download citation
+Received
+:
+02 February 2021
+Accepted
+:
+21 October 2021
+Published
+:
+16 December 2021
+Issue Date
+:
+December 2021
+DOI
+:
+https://doi.org/10.1038/s41560-021-00944-0
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Energy
+(
+Nat Energy
+)
+ISSN
+2058-7546
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

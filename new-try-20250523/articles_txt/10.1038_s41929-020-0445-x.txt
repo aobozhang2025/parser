@@ -1,0 +1,1445 @@
+C–O bond activation using ultralow loading of noble metal catalysts on moderately reducible oxides | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+C–O bond activation using ultralow loading of noble metal catalysts on moderately reducible oxides
+Download PDF
+Article
+Published:
+23 March 2020
+C–O bond activation using ultralow loading of noble metal catalysts on moderately reducible oxides
+Jiayi Fu
+1
+,
+2
+na1
+,
+Jonathan Lym
+ORCID:
+orcid.org/0000-0003-1279-068X
+1
+,
+2
+na1
+,
+Weiqing Zheng
+1
+na1
+,
+Konstantinos Alexopoulos
+1
+,
+Alexander V.  Mironenko
+1
+,
+2
+,
+Na Li
+3
+,
+J. Anibal Boscoboinik
+ORCID:
+orcid.org/0000-0002-5090-7079
+1
+,
+3
+,
+Dong Su
+ORCID:
+orcid.org/0000-0002-1921-6683
+1
+,
+3
+,
+Ralph T. Weber
+4
+&
+…
+Dionisios G. Vlachos
+ORCID:
+orcid.org/0000-0002-6795-8403
+1
+,
+2
+Show authors
+Nature Catalysis
+volume
+3
+,
+pages
+446–453 (
+2020
+)
+Cite this article
+11k
+Accesses
+159
+Citations
+69
+Altmetric
+Metrics
+details
+Subjects
+Density functional theory
+Heterogeneous catalysis
+Surface spectroscopy
+Abstract
+Selective C–O activation of multifunctional molecules is essential for many important chemical processes. Although reducible metal oxides are active and selective towards reductive C–O bond scission via the reverse Mars–van Krevelen mechanism, the most active oxides undergo bulk reduction during reaction. Here, motivated by the enhanced oxide reducibility by metals, we report a strategy for C–O bond activation by doping the surface of moderately reducible oxides with an ultralow loading of noble metals. We demonstrate the principle using highly dispersed Pt anchored onto TiO
+2
+for furfuryl alcohol conversion to 2-methylfuran. A combination of density functional theory calculations, catalyst characterization (scanning transmission electron microscopy, electron paramagnetic resonance, Fourier-transform infrared spectroscopy and X-ray absorption spectroscopy), kinetic experiments and microkinetic modelling expose substantial C–O activation rate enhancement, without bulk catalyst reduction or unselective ring hydrogenation. A methodology is introduced to quantify various types of sites, revealing that the cationic redox Pt on the TiO
+2
+surface is more active than metallic sites for C–O bond activation.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Efficient iron single-atom catalysts for selective ammoxidation of alcohols to nitriles
+Article
+Open access
+06 April 2022
+C–C bond coupling with sp
+3
+C–H bond via active intermediates from CO
+2
+hydrogenation
+Article
+Open access
+02 January 2025
+Teaming up main group metals with metallic iron to boost hydrogenation catalysis
+Article
+Open access
+09 June 2022
+Main
+Selective C–O bond activation is important for many industrially relevant processes. For example, the hydrogenation of the carbonyl group of α,β-unsaturated aldehydes to alcohols without the simultaneous reduction of the olefin is crucial for producing fine chemicals and pharmaceuticals
+1
+,
+2
+. Yet, this reaction is difficult due to the lower energy barrier of C=C bond hydrogenation. The recent surge in CO
+2
+reduction to CO, methanol and other chemicals entails a similar challenging selectivity problem where the addition of hydrogen and the simultaneous partial removal of oxygen are critical
+3
+. In the same vein, selectively activating and cleaving specific C–O bonds of lignocellulosic biomass, a process known as hydrodeoxygenation (HDO), has emerged as a key reaction for a carbon-free economy
+4
+. Noble metal surfaces interact strongly with C=C bonds, furan and aromatic rings, which are ubiquitous in biomass-derived compounds, resulting in undesirable ring hydrogenation and ring opening (collectively called ring chemistry)
+5
+,
+6
+,
+7
+. Consequently, noble metal catalysts, while active, are not selective
+5
+. By sharp contrast, reducible metal oxides are active and selective in hydrogenating C=O groups and removing hydroxyls attached to rings without ring chemistry
+4
+,
+8
+,
+9
+.
+Mechanistic investigations have shown that surface oxygen vacancies, created by hydrogen, are active redox centres for selectively cleaving C–O bonds via the reverse Mars–van Krevelen mechanism. C–O bond scission regenerates the surface oxygen at the vacancy and the catalytic cycle continues. Oxide surfaces repel the unsaturated rings and minimize ring chemistry compared with noble metals
+4
+. The key to a successful catalyst is that the rates of C–O bond scission for oxygen regeneration and vacancy formation by H
+2
+—to produce H
+2
+O—have to balance. The emerging picture is that the more reducible a metal oxide is, the easier it is to form vacancies and enhance catalytic activity in the presence of hydrogen. However, the very same driving force renders the oxide less stable towards reduction. This competition between activity and bulk oxide reducibility gives rise to a volcano-type behaviour, with respect to the bulk free energy of oxide formation, which undermines the highest achievable activity
+10
+. This volcano curve underscores a need to further increase or sustain the activity, while maintaining the exceptional selectivity of oxide surfaces against ring chemistry, by imprinting the necessary stability against bulk reduction.
+We hypothesize that doping oxide surfaces with noble metals could increase surface activity, by promoting the formation of redox centres, without compromising bulk stability. Our rationale is motivated by temperature programmed reduction (TPR), where the addition of metals to metal oxides decreases the reduction temperature
+11
+, as well as by accumulated evidence demonstrating the synergy between noble metals and reducible metal oxides in enhancing activity and selectivity for the deoxygenation of various biomass-derived substrates and model compounds (furfural, anisole, guaiacol and acetic acid)
+9
+,
+12
+,
+13
+,
+14
+,
+15
+,
+16
+,
+17
+,
+18
+. Since noble metal nanoparticles activate ring chemistry
+19
+, we further hypothesize that the dopant must be highly dispersed to avoid—due to its small size—ring chemistry (the ensemble size effect)
+20
+. Recent breakthroughs in the catalysis of single atoms have greatly expanded the application of heterogeneous catalysis to the atomistic regime, owing to the high metal utilization and different performance of single-atom catalysts, compared with conventional supported metal catalysts
+21
+. Significant progress with these catalysts has typically been made for small C
+<3
+substrates
+22
+,
+23
+,
+24
+. A recent study demonstrates that a Co-doped MoS
+2
+nanosheet is highly active and stable for the HDO of 4-methylphenol
+7
+. Application of this concept to complex multifunctional molecules for selective tandem reactions, such as C–O bond scission followed by C hydrogenation, over oxides—a general class of catalysts—is still limited
+7
+,
+25
+.
+Here, we demonstrate a strategy for the activation of surface oxygen vacancies and selective C–O bond scission and C hydrogenation by surface doping moderately reducible anatase TiO
+2
+with an ultralow loading (single atoms and sub-nanometre clusters) of Pt. We demonstrate the concept using furfuryl alcohol (FA) conversion to 2-methylfuran (2MF) as a showcase. Through density functional theory (DFT) calculations, experimental kinetics and microkinetics, we show that surface-doped TiO
+2
+exhibits nearly two orders of magnitude higher activity than pure TiO
+2
+while retaining stability against bulk reduction. In stark contrast with prior studies on single-atom catalysis on small molecules, such as CO oxidation and ethylene/acetylene hydrogenation, and their emphasis on the single-atom activity, we highlight here how the sheer size of biomass derivatives leverages the ensemble effect to avoid the ring chemistry that occurs readily over Pt nanoparticles, and thus, to retain selectivity. Further, we exploit this ensemble effect to quantify the number and relative activity of redox and metallic sites.
+Results
+Surface doping of oxides for valorizing bio-based feedstocks
+The ability to generate vacancies on oxide surfaces and create active redox centres can drive high HDO turnover frequency. Simultaneously having stable, active and selective catalysts requires going beyond single-metal oxides. We propose surface doping as a way of achieving this and select Pt on anatase TiO
+2
+as a showcase material to demonstrate the concept. We select FA as a model compound to show the ability of Pt-doped TiO
+2
+to perform selective C–OH hydrogenation, because FA possesses both an aromatic ring and a hydroxyl group, which are ubiquitous in biomass-derived feedstocks. FA is a key intermediate for the HDO of furfural to 2MF
+4
+,
+26
+. Compared with the hydrogenation of α,β-unsaturated aldehyde in furfural, the cleavage of the C–OH bond in FA is more challenging due to the higher energy barrier
+4
+. The structural similarity between FA and 5-hydroxymethylfurfural (HMF) makes FA a good model compound for the valorization of sugar-derived furans. The generality of using redox sites for various substrates beyond FA and the role of molecule conjugation have been discussed in previous work
+10
+.
+DFT and microkinetic calculations
+To assess the effect of a single-Pt-atom dopant on vacancy formation energies, low-index anatase surfaces were generated (see Supplementary Fig.
+1
+). The hydrogen-assisted Gibbs vacancy formation energy for pure TiO
+2
+and for TiO
+2
+doped with Pt coordinated to five and six oxygens (Pt–O
+5
+and Pt–O
+6
+/TiO
+2
+) was calculated (Supplementary Equation
+1
+). We considered only Pt adjacent to doubly coordinated O sites since the effect of Pt on these sites is stronger and the vacancy formation energy of triply coordinated O sites is much higher (Supplementary Table
+1
+). Pt renders vacancy formation for all surfaces and dopant sites considerably exergonic compared with undoped surfaces (Table
+1
+).
+Table 1 Gibbs vacancy formation energy of pure and Pt-doped anatase TiO
+2
+surfaces
+Full size table
+Next, a catalytic cycle was generated where molecular hydrogen assists in vacancy formation, followed by FA adsorption, C–O bond scission with H back donation from the leaving OH to C and finally 2MF desorption. We consider only the (101) surface since the Wulff construction indicates this facet accounts for 97% of the exposed surface (Supplementary Table
+2
+). Similarly, we consider only the Pt-doped catalyst as opposed to the Pt-adsorbed catalyst as we find the former stabilizes the vacancy most effectively and therefore would catalyse HDO most effectively (Supplementary Note
+1
+). The catalytic cycle and reaction coordinate diagram are shown in Fig.
+1
+. Clearly, Pt sites lower the free energy of the intermediates and, consistent with Table
+1
+, intermediates preceding the vacancy formation on Pt–O
+5
+/TiO
+2
+sites are more stable than on Pt–O
+6
+/TiO
+2
+.
+Fig. 1: Catalytic cycle for FA upgrade on (101) TiO
+2
+anatase surface.
+Numbers and free energy profiles represent pure TiO
+2
+(black), Pt–O
+5
+/TiO
+2
+(blue) and Pt–O
+6
+/TiO
+2
+(orange). DFT-based Gibbs barriers, Δ
+G
+‡
+, (reaction energies, Δ
+G
+) in kcal mol
+–1
+. Gibbs energies are reported with respect to the energy of the pristine surface and H
+2
+and FA chemical potentials, computed at experimental conditions (Methods).
+Full size image
+Microkinetic modelling (Supplementary Fig.
+4
+) describes the experimental data at ultralow loadings well and predicts an exciting >30-fold enhancement in reaction rate over pristine TiO
+2
+. The model diverges somewhat from the experimental data at higher loadings; we believe this is due to the formation of nanoparticles whereas the model assumes only isolated Pt sites. A reaction path analysis and flux analysis of 2MF desorption off these sites indicate the Pt–O
+6
+/TiO
+2
+turnover frequency is orders of magnitude higher than at other sites (Supplementary Figs.
+5
+and
+6
+). Supplementary Fig.
+7
+reveals a shift in the sensitive reactions when Pt is introduced to TiO
+2
+. The enhancement in rate and the shift in rate-limiting steps reveal Pt’s ability to overcome the volcano curve imposed by the Gibbs formation energy of the bulk oxide by modifying the oxide surface rather than the bulk.
+Synthesis and characterization
+Following the promising computational results, we synthesized ultralow-loading Pt-doped TiO
+2
+nanoparticles. At 0.04 wt%, Pt single atoms, dimers, trimers and some small clusters are dominant (Fig.
+2
+and Supplementary Figs.
+8
+and
+9
+). By contrast, Pt nanoparticles (>0.5 nm) are only occasionally seen. Increasing the Pt loading to 1 wt% makes Pt nanoparticles prevalent (Fig.
+2b
+) due to aggregation of Pt during synthesis and pre-treatment.
+Fig. 2: Characterization results from HAADF-STEM, EXAFS and FTIR of CO sorption.
+a
+,
+b
+, HADDF-STEM images of 0.04% (
+a
+) and 1% (
+b
+) Pt/TiO
+2
+catalysts after reduction. Yellow arrows mark isolated Pt atoms (Pt
+iso
+).
+c
+, The k
+2
+-weighted EXAFS spectra of Pt/TiO
+2
+catalysts and Pt standards at the Pt L
+3
+edge. |
+χ
+(
+R
+)| denotes the magnitude of the Fourier-transformed EXAFS spectra. Identical parameters are used for background removal and forward Fourier transform: the frequency cut-off parameter
+R
+bkg
+= 1.1 Å,
+k
+range ∆
+k
+= 2–10 Å
+−1
+. Grey dashed lines indicate peaks corresponding to the Pt–Pt first coordination shell.
+d
+, FTIR-CO spectra of Pt/TiO
+2
+. The dark grey line indicates the position of the peak assigned to CO adsorbed on isolated Pt atoms, whereas the light grey line indicates a peak maximum at 2,089 cm
+−1
+for CO on 1% Pt/TiO
+2
+. NP, nanoparticle.
+Full size image
+Figure
+2c
+shows the k
+2
+-weighted extended in situ X-ray absorption fine structure (EXAFS) spectra of two reduced Pt/TiO
+2
+catalysts and Pt standards. The scattering from the nearest-neighbour Pt atoms in the Pt foil gives rise to two peaks at 2.3 and 2.9 Å, whereas the scattering from the first-shell O atoms leads to the peak at below 2 Å owing to the shorter Pt–O bond distance in α-PtO
+2
+. In addition to the first shell, the EXAFS spectrum of α-PtO
+2
+shows two additional peaks at 2.7 and 3.3 Å, which can be assigned to the nearest Pt and the second-shell O. The spectra of Pt/TiO
+2
+samples were collected after reducing the catalysts in situ at 250 °C, to ensure that all PtO
+x
+nanoparticles were reduced. The peak at 1.86 Å (Fig.
+2c
+) is assigned to the bonds between Pt atoms and the TiO
+2
+surface. The decreasing peak upon reduction (Supplementary Fig.
+10
+) suggests that the Pt–O coordination contributes at least partially to the peak. For the lowest loading, the absence of the first-shell Pt–Pt contribution and the second-shell Pt–O contribution at >2.3 Å in the R space of the spectrum further confirms the absence of Pt nanoparticles. The X-ray absorption near edge structure (XANES) spectrum (Supplementary Fig.
+11
+; Pt L
+3
+edge) shows an intense white-line peak, suggesting that the highly dispersed Pt is cationic. This was also supported by XPS findings that the Pt remains in the oxidized state at 1.5 torr H
+2
+and 250 °C (Supplementary Fig.
+13
+).
+Infrared (IR) spectroscopy of CO on supported metal catalysts has been used widely to identify specific surface metal sites
+27
+. Here we show that Fourier-transform IR spectroscopy (FTIR) with CO as a probe molecule can differentiate Pt single atoms and nanoparticles. The FTIR spectra of adsorbed CO on Pt/TiO
+2
+with different loadings exhibit two CO adsorption (on Pt) bands centred at 2,118 cm
+−1
+and 2,060 to 2,089 cm
+−1
+, as shown in Fig.
+2d
+. The peak at 2,118 cm
+−1
+is assigned to CO adsorbed on isolated Pt
+δ+
+atoms, according to previous works
+27
+,
+28
+. The bands below 2,100 cm
+−1
+are assigned to CO adsorbed on well-coordinated (~2,080 cm
+−1
+) and under-coordinated (2,060 cm
+−1
+) Pt
+0
+metal sites. The shift of the peak maximum from 2,089 cm
+−1
+to 2,118 cm
+−1
+(Fig.
+2d
+) suggests that isolated Pt atoms predominant on the 0.04% Pt/TiO
+2
+sample are in line with the scanning transmission electron microscopy (STEM) and EXAFS analyses.
+The weak signal of electron paramagnetic resonance (EPR) at proportionality factor (
+g
+) equal to 2.003 indicates a low oxygen vacancy concentration on TiO
+2
+(Supplementary Fig.
+14
+). While the actual number of oxygen vacancies present under reaction conditions is different owing to the distinct chemical environment, the EPR study clearly demonstrates the enhanced oxide surface reducibility upon Pt doping. DFT calculations suggest that the formation of oxygen vacancies in the vicinity of Pt dopants is much more energetically favourable and that these vacancy sites are also much more active than vacancies away from the Pt sites (on the bare support). Thus, ultralow-loading metal doping results in a considerable increase in the HDO rate, as predicted by the microkinetic model.
+Catalytic performance
+The promotional effect of the Pt dopant in enhancing HDO activity while maintaining selectivity and catalyst stability is investigated experimentally using FA as a model compound. The reaction network consists of two key parallel paths (Supplementary Fig.
+16
+): the HDO pathway shown in Fig.
+1
+and ring chemistry of the substrate and product over Pt nanoparticles
+5
+. To untangle the individual contribution of TiO
+2
+and Pt and create reference data, pure TiO
+2
+and 0.1% Pt/SiO
+2
+prepared by conventional impregnation were also tested. Pure TiO
+2
+shows low HDO activity but no ring chemistry (Fig.
+3b
+). This is expected for a moderately reducible oxide with a low surface oxygen vacancy concentration (EPR data, Fig.
+3a
+). Silica-supported Pt nanoparticles (~5 nm, Supplementary Fig.
+17
+) are unselective for HDO, consistent with prior work
+5
+,
+9
+,
+29
+; the dominant path entails FA ring hydrogenation, characteristic of (large) metal nanoparticles. Interestingly, 0.04 wt% Pt surface doping of TiO
+2
+substantially enhances the HDO rate over that on TiO
+2
+by 31-fold, in excellent agreement with the microkinetic model, indicating a strong synergy between TiO
+2
+and Pt. Given the modelling and characterization results (Supplementary Fig.
+4
+and Figs.
+2
+and
+3
+), we ascribe the enhanced HDO activity to the increased number of oxygen vacancies in the vicinity of Pt. Importantly, the doped catalyst does not promote ring chemistry, for example, to tetrahydrofurfuryl alcohol and 2-methyltetrahydrofuran. The absence of ring chemistry arises from the ability of TiO
+2
+to stabilize highly dispersed Pt, which prevents ring chemistry owing to the ensemble effect. In contrast with the most active reducible metal oxides, RuO
+2
+and IrO
+2
+, the bulk of the spent catalyst remains stable (X-ray diffraction, Supplementary Fig.
+18
+)
+10
+.
+Fig. 3: Promotional effect of Pt dopant on oxygen vacancy formation and selective C–O bond scission.
+a
+, Quantitative EPR analysis at room temperature. Data for the reduced samples were acquired under vacuum.
+b
+, HDO and ring saturation (RS) rates over Pt/TiO
+2
+(red squares and blue circles, respectively) and Pt/SiO
+2
+(green symbols). The RS rate is below detection for ≤0.06% Pt/TiO
+2
+.
+c
+, DMF hydrogenation rate at various Pt loadings. Reaction conditions: 0.088 M FA (or DMF), 20 ml 2-propanol, 100 mg catalyst, reaction temperature at 160 °C, 100 psi H
+2
+and 160 psi N
+2
+measured at room temperature. Error bars indicate standard errors for estimated initial rates (Supplementary Fig.
+15
+).
+Full size image
+The particle-size dependence is investigated by systematically increasing the Pt loading (Fig.
+3b
+). A theoretical line (linear scaling versus loading), assuming Pt single atoms and the rate at the lowest loading as a reference, demarcates the maximum expected rate had Pt remained in the dispersed (atomic) state. An increase in rate of nearly three orders of magnitude over that on TiO
+2
+may be achieved for typical high catalyst loadings had Pt remained highly dispersed. The experimental HDO rate at higher loadings is lower than the theoretical line, suggesting Pt agglomeration, evidenced by the characterization (Fig.
+2
+and Supplementary Fig.
+9
+) and ring-chemistry products (blue circles for >0.06% in Fig.
+3b
+), consistent with the literature
+5
+.
+The actual catalyst is heterogeneous (Fig.
+4a
+) and consists of HDO redox centres at the perimeter of nanoparticles and next to dispersed Pt and of metal centres on nanoparticles that perform ring chemistry and HDO simultaneously. Thus, developing a method to quantify each reaction pathway and the number of each type of site is desirable. Since oxides repel furan rings but extended Pt surfaces force them flat and saturate them under H
+2
+(ref.
+30
+; Supplementary Fig.
+19
+), we chose 2,5-dimethylfuran (DMF) as a probe molecule. Table
+2
+shows that DMF adsorption is weak on single atoms, dimers and trimers (see Supplementary Fig.
+2f–g
+for Pt
+2(ads)
+/TiO
+2
+and Pt
+3(ads)
+/TiO
+2
+structures) compared with Pt surfaces. Similarly, the furanic ring’s bond lengths are close to those in gaseous DMF when adsorbed on the single atoms and small clusters but are activated on an extended Pt surface. These results suggest ring chemistry is unlikely to occur over single atoms and small clusters, and DMF is a good candidate to quantify metallic sites.
+Fig. 4: Site quantification.
+a
+, The physical model correlates the particle diameter and number of three types of Pt sites: (1) redox Pt active centres that promote oxygen vacancies and drive C–O bond scission along the perimeter of nanoparticles and cationic sites in small clusters (<9 atoms) in direct contact with TiO
+2
+; (2) metallic surface (non-interfacial) Pt active centres on nanoparticles that promote HDO and ring hydrogenation; and (3) bulk nanoparticle Pt not exposed to reactants. Pt nanoparticles are modelled as half-cuboctahedrons with a (100) basal plane.
+b
+, Number of active Pt centres and fraction of interfacial redox sites as functions of Pt loading.
+c
+, TOFs of redox and metallic Pt centres obtained from the two-parameter kinetic model. Error bars indicate standard errors for TOFs.
+Full size image
+Table 2 Binding energy and change in bond length of DMF adsorbed onto different surfaces
+Full size table
+Consistent with our expectation, pure TiO
+2
+and catalysts with ultralow Pt doping show no activity towards DMF ring hydrogenation (Fig.
+3c
+). Clearly, cationic atoms and small clusters of Pt on TiO
+2
+are inactive for DMF ring chemistry due to the ensemble effect. A notable increase in DMF ring hydrogenation occurs at higher Pt loadings, which nearly coincide with the onset of selectivity loss in Fig.
+3b
+, in line with the coexistence of nanoparticles and dispersed Pt. Specifically, a detectable amount of ring-hydrogenation products was produced in 4 h over a 0.06% Pt/TiO
+2
+sample, whereas no ring-hydrogenation product was detected after 36 h over the 0.04% Pt catalyst (Supplementary Table
+6
+). Given that DMF is inactive towards HDO and ring chemistry over metal clusters, we propose DMF as asite titration probe.
+Quantification of multi-active catalyst centres
+Quantitative analysis of catalytic activity is plagued by the difficulty in counting multiple active sites under working conditions. This limitation becomes exaggerated for tandem reactions where different sites catalyse various pathways, and the same reaction path is catalysed by various types of sites. In this study, for instance, metallic sites can simultaneously carry on both hydrogenation and HDO chemistry, and extended metal and redox centres conduct HDO. Recent works have attempted to quantify active sites in simple overall reactions but require a narrow distribution of particle sizes
+31
+,
+32
+. For typical supported, heterogeneous catalysts containing cationic sites and nanoparticles, an alternative method is required, because small nanoparticles cannot accurately be counted due to either the resolution cut-off of STEM or the limitations of X-ray diffraction.
+We report a methodology for active-centre quantification by combining a physical model that correlates the number of interfacial, surface and bulk Pt atoms for a given nanoparticle size; STEM results, to account for the actual particle-size distribution and its change with loading (see schematics in Fig.
+4a
+and Supplementary Note
+2
+); and the measured differential kinetics of probe molecules that isolate different pathways and sites. We tacitly assume that all redox-active centres have the same activity, and the same for all metallic sites. For the 1% Pt/TiO
+2
+, we calculate the number of various nanoparticle sites, assuming the fraction of cationic sites is negligible. Using the DMF hydrogenation-probe chemistry, we estimate the turnover frequency (TOF) for ring chemistry from the measured rate divided by the number of metallic surface sites. Subsequently, we estimate the various nanoparticle sites versus loading and subtract them from the total metal atoms, estimated using an inductively coupled plasma (details in Supplementary Table
+3
+and Supplementary Note
+2
+) to determine the cationic sites.
+Figure
+4b
+shows the estimated number of redox and metallic sites at various Pt loadings and the fraction of redox centres that are interfacial nanoparticle sites, with the rest being cationic single atoms and clusters. At sufficiently low loadings, the redox-active centres are exclusively on cationic single atoms and clusters. Metallic sites are seen at ~0.4 wt% and become dominant over redox centres at 1 wt%. The fraction of redox centres present as interfacial sites also increases with the presence of Pt nanoparticles. The quantification results remain qualitatively the same when different shapes of nanoparticles are exploited and various assumptions are tested (Supplementary Notes
+2
+–
+6
+). Obviously, synthesis dictates the specific fractions of various active centres, yet the quantification methodology we introduce is general.
+With the number of active centres quantified, we construct a two-parameter kinetic model that correlates the overall C–O bond scission rate with the number of redox and metallic Pt centres (Supplementary Note
+4
+). We find that the redox Pt centres are 2.3 times more active than the metallic Pt centres in carrying out HDO chemistry (Fig.
+4c
+), in good agreement with the strong synergy of the Pt dopant and TiO
+2
+.
+It is obvious that both redox sites and metallic sites contribute to the overall HDO rate. At higher loadings, HDO dominates over metallic sites due to their large population. DFT studies and microkinetic modelling results suggest that it is not H
+2
+activation that is rate controlling; rather, FA HDO over metals proceeds via ring activation, C–O bond scission, hydrogen donation to the carbon and water formation
+4
+,
+33
+. Depending on the metal, either C–O bond scission (less oxophilic metals) or water removal (more oxophilic metals) is typically rate controlling. A previous study on Pt/C catalysts shows that furfural can readily be converted to 2MF, yet metallic sites are also very efficient for the subsequent ring chemistry, lowering 2MF selectivity
+5
+. In this regard, ultralow-loading catalysts with predominately redox Pt centres are more desirable.
+Discussion
+Metal oxides are potentially the most appealing class of catalysts for C–O bond scission via the reverse Mars–van Krevelen mechanism. Due to repelling aromatic and furanic rings, metal oxides retard ring chemistry and instead interact only with side groups, performing selective hydrogenolysis. A technical challenge in using metal oxides, though, is the relatively low rates compared with those on metal catalysts. More reducible oxides are more active but are reduced during reaction. Doping the surface of moderately reducible oxides with noble metals in a high dispersion is a promising approach for enhancing the number of surface vacancies and increasing the reaction rate of C–O bond scission while maintaining the catalyst stability against the reduction of the bulk. Unlike other studies on single-atom catalysis, the sheer size of the substrates does not require having exclusively single atoms; cationic sites in small clusters are also sufficient for HDO while suppressing side reactions. We find the local environment of Pt is key in its ability to form vacancies and carry out HDO, whereas our adsorption calculations indicate that single atoms, dimers and trimers do not activate the furanic ring as metal nanoparticles do. TiO
+2
+is considerably less active (by 2–2.5 orders of magnitude) than the most active oxides known for this chemistry, namely RuO
+2
+and IrO
+2
+(ref.
+10
+). The projected increase in reactivity (Fig.
+3b
+) puts this surface-doped catalyst on par with, if not more active than, the most active single-metal oxide catalysts. The estimated TOF for the cationic sites is comparable with the TOF of the interfacial sites reported for Pd nanoparticles encapsulated in porous TiO
+2
+, although the latter was evaluated in a flow system
+34
+. Showing that ring hydrogenation does not occur on the doped catalyst makes it reasonable to expect that the same catalyst can be used for the selective C–O bond scission of other biomass-derived furans while preventing ring-hydrogenation reactions. The generality of the approach for other aromatic substrates is demonstrated using 4-methylbenzyl alcohol (Supplementary Note
+6
+). Surface doping leads to a substantial enhancement in the HDO rate (×6) without over-reducing the aromatic ring. As a result, the proposed strategy opens fundamental and practical venues. Given the large number of oxides and metal dopants, the approach provides an essential knob to tune HDO activity by adjusting the vacancy formation energy. Using the computational framework presented to quickly screen and understand which pairs of materials are most effective, and the associated synergy, are obvious future research targets. Although it has been reported that Pt single atoms anchored on TiO
+2
+are stable under ambient pressure at 250 °C (ref.
+35
+), sufficiently low metal loading is necessary to prevent the Pt from agglomeration
+35
+,
+36
+. Furthermore, the stability of single atoms in the liquid phase and harsh reactive environments has not been fully explored. The evaluation and characterization (Supplementary Figs.
+27
+–
+30
+) of the spent 0.04% Pt/TiO
+2
+catalyst suggest some mobility and clustering of Pt under high H
+2
+pressure in solvent even at a lower temperature of 160 °C than that used in other works (Supplementary Note
+7
+). However, the spent catalyst still has a higher activity and selectivity than the fresh 1% Pt/TiO
+2
+catalyst (Supplementary Fig.
+28
+), suggesting that a fraction of sub-nanometre clusters should still be present in the spent catalyst. Additional factors that may govern the reactivity and selectivity of the spent 0.04% Pt/TiO
+2
+catalyst may be changes in the redox properties of the clusters, the local coordination of Pt species in response to the reaction environments in liquid and the surface properties of the formed Pt nanoparticles, as well as the partial blockage of the Pt surface with coke. However, these factors would be the object of further investigations. With significant effort devoted to single-atom catalysis, one may expect that the stability against sintering will rapidly improve to realize high loadings. This in turn will enable higher reaction rates than those achieved here, while maintaining selectivity. The active-centre quantification methodology introduced here applies to a range of metals and oxide supports and accounts for the heterogeneity of real catalysts.
+In conclusion, we introduced ultralow-loading surface-doped oxides, doped with noble metals, as a class of active and selective catalysts for tandem reactions entailing C–O cleavage and carbon hydrogenation. First-principles multiscale modelling, catalyst characterization and kinetics studies reveal that doping the surface of TiO
+2
+with Pt single atoms and sub-nanometre clusters substantially enhances the surface oxygen vacancy formation and the rate of C–O bond scission of the side –CH
+2
+OH group of FA without promoting undesired ring reactions or compromising the bulk oxide stability, something unattainable with single-metal oxide catalysts. A methodology is introduced to quantify the various types of active centres by combining probe chemistry, kinetics, modelling and characterization. Pt atoms in direct contact with the oxide support are the most active centres for the tandem reaction followed by metallic centres on nanoparticle surfaces. The latter are non-selective, however. The methodology is generalizable and applicable to a wide range of metals supported on active oxide catalysts. Establishing principles for the in silico prediction of suitable metal/metal-oxide pairs for various substrates and enhancing the loading of metals without agglomeration are obvious and exciting next targets.
+Methods
+DFT calculations
+Energetics were calculated using the Vienna ab initio simulation package (VASP, version 5.4.1)
+37
+,
+38
+,
+39
+,
+40
+aided by the Atomic Simulation Environment (ASE)
+41
+,
+42
+. The Perdew–Burke–Erzenhof exchange–correlation energy functional (PBE)
+43
+was used to model the valence electrons (3
+p
+, 4
+s
+and 3
+d
+electrons for Ti; 6
+s
+and 5
+d
+electrons for Pt; 2
+s
+and 2
+p
+electrons for O), and the core electrons were represented using the projector augmented wavefunction (PAW) method
+44
+,
+45
+.
+The bulk anatase structure was obtained from the American Mineralogical Crystal Structure Database
+46
+. The lattice constants were optimized using ASE’s StrainFilter class until forces were converged within 0.01 eV Å
+−1
+. The electron density at each ionic step was determined self-consistently with an energy tolerance of 10
+−4
+eV. A plane-wave basis set with an energy cut-off of 600 eV was used for the bulk structure optimization. The Brillouin zone was sampled using a Gamma-centred grid with a 5 × 5 × 2 k-point mesh along the reciprocal vector distances. The optimized cell parameters were
+a
+=
+b
+= 3.800 Å and
+c
+= 9.708 Å, similar to values in literature using the PBE functional
+47
+,
+48
+,
+49
+and in good agreement with experiments (
+a
+=
+b
+= 3.784 Å and
+c
+= 9.514 Å)
+50
+. The Pt bulk was optimized in a similar fashion using a 7 × 7 × 7 k-point mesh.
+The bulk anatase structure was cleaved along the (101), (100), (001) and (110) planes to calculate surface energies, vacancy formation energies and the electronic energy and vibrational frequencies along the catalytic cycle. For surface energy calculations, stoichiometric slabs were created with the middle layers frozen to the bulk positions, and periodic images were separated by 15 Å in the
+z
+direction. For the vacancy formation energy, electronic energy and vibration calculations, four stoichiometric layers were made with the bottom stoichiometric layer frozen to the bulk positions. The computational set-up of the slabs was similar to the bulk optimization except for the following: ionic forces were converged within 0.05 eV Å
+−1
+; a plane-wave basis set with an energy cut-off of 400 eV was used; dipole corrections were turned on; and dispersion forces were modelled using the D3 correction method of Grimme et al. (ref.
+51
+). The number of k-points was scaled to the lattice vectors to ensure all structures had a comparable k-point density. Transition states were calculated using VTST Tool’s implementation of the nudged elastic band (NEB), climbing-image NEB (CI-NEB) and dimer methods
+52
+,
+53
+. For the NEB and CI-NEB, the number of images was generated such that adjacent images were separated by <0.8 Å. Transition states’ ionic forces were converged within 0.1 eV Å
+−1
+and confirmed using vibrational analysis. Wulff constructions were calculated using VESTA
+54
+,
+55
+.
+First-principles-based microkinetic modelling
+We developed microkinetic models for oxygen vacancy formation and HDO on TiO
+2
+and Pt-doped TiO
+2
+anatase using our reactor code
+56
+,
+57
+. The ASPEN Plus implementation of the UNIQUAC model was used to calculate the chemical potentials of species in 2-propanol solvent
+10
+. A site in our model is defined as a coordinatively unsaturated Lewis-acidic metal atom and a bridging oxygen atom. Three types of sites exist: Ti
+cus
+O
+br
+/TiO
+2
+, Pt–O
+5
+/TiO
+2
+and Pt–O
+6
+/TiO
+2
+. This approach allows us to model the different local environments of oxygen, which possess different thermodynamic and kinetic properties based on the presence and coordination of Pt. The change in electronic energy between Pt coordinations
+\(\left( {\Delta {E}_{{\mathrm{Pt}} - {\mathrm{O}}_5 \to {\mathrm{Pt}} - {\mathrm{O}}_6} = - 0.27\,{\mathrm{eV}}} \right)\)
+and a Boltzmann distribution were used to calculate the ratio of Pt–O
+5
+/TiO
+2
+to Pt–O
+6
+/TiO
+2
+sites (1:18.7). Atomic hydrogen diffusion was modelled with an Arrhenius form to facilitate movement between Pt-containing sites and TiO
+2
+. Pt sites were assumed to be far apart. A summary of considered adsorbates and transition states, and their electronic energies and vibrational frequencies (at the low-coverage limit) is in Supplementary Table
+7
+. Ab initio data of surface species were referenced using a procedure from previous work
+10
+and converted to NASA polynomials using the Python Multiscale Thermochemistry Toolbox (version 1.2.12)
+58
+using the harmonic approximation. Reaction conditions (temperature, pressure, time and composition) parallel experimental conditions.
+Catalyst synthesis
+For the synthesis, 2 g of anatase TiO
+2
+(5 nm nanoparticles from US Research Nanomaterials, stock no. US3838) was suspended in 200 ml aqueous solution at a pH of 2 (buffered by 1 M HCl). Then 100 ml H
+2
+PtCl
+6
+aqueous solution (pH of 2) was slowly added into the suspended TiO
+2
+solution. After 1 h of ageing and filtration, the solid paste was dried in a vacuum furnace at room temperature overnight and further dried in an air oven at 110 °C overnight. The catalyst was further calcined in a quartz tubular reactor at 250 °C with flowing air, and then reduced at 250 °C with 10% H
+2
+–He mixture.
+Catalyst characterization
+The bright-field transmission electron microscopy (TEM) images were obtained with a JEOL (JEM‐2010F) transmission electron microscope equipped with a field emission gun emitter at 200 kV. The high-resolution high-angle annular dark-field (HAADF) images were obtained using a Hitachi HD2700C STEM operated at 200 kV and equipped with a probe aberration corrector (spatial resolution ~1 Å) at the Center for Nanomaterials, Brookhaven National Laboratory. The conversion angle for HAADF-STEM imaging was measured as 22 mrad, and its collection angle was 64–342 mrad. The contrast of the images is proportional to the atomic number of sample (Z-contrast). All samples were prepared by depositing a drop of diluted nanoparticle dispersion on lacy carbon-coated copper grids.
+FTIR of CO adsorption was done at 25 °C in a customized in situ cell. Catalysts were grounded and pressed into a pellet with less than 0.3 mm thickness. The catalyst was reduced in flowing 5% H
+2
+–He mixture at 250 °C for 2 h, followed by holding at 250 °C in vacuum for 1 h. After cooling down to 25 °C in vacuum, the background spectrum was collected. Multiple CO doses were carried out at 25 °C until full saturation was achieved.
+Kinetics experiments
+Catalyst performance was evaluated in a 50 ml Parr stainless steel batch reactor; 173 mg of FA (Sigma-Aldrich) and 100 mg of catalyst were added to 20 ml of anhydrous 2-propanol (Sigma-Aldrich). A Teflon liner was used. The reactor was flushed three times with nitrogen before being pressurized to 100 psi hydrogen. An additional 160 psi of nitrogen was added. The reactor was heated to 160 °C. After reaction, 2 ml of liquid products were purified with a syringe filter for gas chromatography (GC) analysis, and the used catalysts were separated by filtration under reduced pressure.
+Product analysis
+Liquid samples were analysed with an Agilent 7890B GC system equipped with an HP-INNOWAX-19091N-133l column and a flame ionization detector. Products were identified using a SHIMADZU gas chromatography mass spectrometry (GCMS) QP2010 Plus system. Initial rates were calculated by regressing the total concentration of relevant products versus time at short times (differential conditions; conversion <15%) after the reaction temperature was reached.
+Data availability
+The data that support the findings of this paper are available from the corresponding author upon reasonable request. The microkinetic models and the data that support the plots in this paper are available on Mendeley Data
+59
+.
+Code availability
+The code to convert ab initio data to microkinetic model inputs are available on Mendeley Data
+59
+.
+References
+Gallezot, P. & Richard, D. Selective hydrogenation of α,β-unsaturated aldehydes.
+Catal. Rev. Sci. Eng.
+40
+, 81–126 (1998).
+CAS
+Google Scholar
+Murillo, L. E., Goda, A. M. & Chen, J. G. Selective hydrogenation of the C=O bond in acrolein through the architecture of bimetallic surface structures.
+J. Am. Chem. Soc.
+129
+, 7101–7105 (2007).
+CAS
+PubMed
+Google Scholar
+Su, X. et al. Catalytic carbon dioxide hydrogenation to methane: a review of recent studies.
+J. Energy Chem.
+25
+, 553–565 (2016).
+Google Scholar
+Mironenko, A. V. & Vlachos, D. G. Conjugation-driven ‘reverse Mars-van Krevelen’-type radical mechanism for low-temperature C-O bond activation.
+J. Am. Chem. Soc.
+138
+, 8104–8113 (2016).
+CAS
+PubMed
+Google Scholar
+Luo, J. et al. The H
+2
+pressure dependence of hydrodeoxygenation selectivities for furfural over Pt/C Catalysts.
+Catal. Lett.
+146
+, 711–717 (2016).
+CAS
+Google Scholar
+Zacharopoulou, V., Vasiliadou, E. S. & Lemonidou, A. A. Exploring the reaction pathways of bioglycerol hydrodeoxygenation to propene over molybdena-based catalysts.
+ChemSusChem
+11
+, 264–275 (2018).
+CAS
+PubMed
+Google Scholar
+Liu, G. et al. MoS
+2
+monolayer catalyst doped with isolated Co atoms for the hydrodeoxygenation reaction.
+Nat. Chem.
+9
+, 810–816 (2017).
+CAS
+PubMed
+Google Scholar
+Murugappan, K. et al. Operando NAP-XPS unveils differences in MoO
+3
+and Mo
+2
+C during hydrodeoxygenation.
+Nat. Catal.
+1
+, 960–967 (2018).
+CAS
+Google Scholar
+Wang, C. et al. Mechanistic study of the direct hydrodeoxygenation of m-cresol over WO
+x
+-decorated Pt/C catalysts.
+ACS Catal.
+8
+, 7749–7759 (2018).
+CAS
+Google Scholar
+Goulas, K. A., Mironenko, A. V., Jenness, G. R., Mazal, T. & Vlachos, D. G. Fundamentals of C–O bond activation on metal oxide catalysts.
+Nat. Catal.
+2
+, 269–276 (2019).
+CAS
+Google Scholar
+Zhang, C., He, H. & Tanaka, K. Catalytic performance and mechanism of a Pt/TiO
+2
+catalyst for the oxidation of formaldehyde at room temperature.
+Appl. Catal. B
+65
+, 37–43 (2006).
+CAS
+Google Scholar
+Briggs, N. M. et al. Identification of active sites on supported metal catalysts with carbon nanotube hydrogen highways.
+Nat. Commun.
+9
+, 3872 (2018).
+Google Scholar
+Boonyasuwat, S., Omotoso, T., Resasco, D. E. & Crossley, S. P. Conversion of guaiacol over supported Ru catalysts.
+Catal. Lett.
+143
+, 783–791 (2013).
+CAS
+Google Scholar
+Griffin, M. B. et al. Role of the support and reaction conditions on the vapor-phase deoxygenation of m-cresol over Pt/C and Pt/TiO
+2
+catalysts.
+ACS Catal.
+6
+, 2715–2727 (2016).
+CAS
+Google Scholar
+Pham, T. N., Shi, D., Sooknoi, T. & Resasco, D. E. Aqueous-phase ketonization of acetic acid over Ru/TiO
+2
+/carbon catalysts.
+J. Catal.
+295
+, 169–178 (2012).
+CAS
+Google Scholar
+Pham, T. N., Shi, D. & Resasco, D. E. Kinetics and mechanism of ketonization of acetic acid on Ru/TiO
+2
+catalyst.
+Top. Catal.
+57
+, 706–714 (2014).
+CAS
+Google Scholar
+Pacchioni, G. Ketonization of carboxylic acids in biomass conversion over TiO
+2
+and ZrO
+2
+surfaces: a DFT perspective.
+ACS Catal.
+4
+, 2874–2888 (2014).
+CAS
+Google Scholar
+Tosoni, S. & Pacchioni, G. Acetic acid ketonization on tetragonal zirconia: role of surface reduction.
+J. Catal.
+344
+, 465–473 (2016).
+CAS
+Google Scholar
+Merat, N., Godawa, C. & Gaset, A. High selective production of tetrahydrofurfuryl alcohol: catalytic hydrogenation of furfural and furfuryl alcohol.
+J. Chem. Technol. Biotechnol.
+48
+, 145–159 (1990).
+CAS
+Google Scholar
+Iglesia, E. & Boudart, M. Structure-sensitivity and ensemble effects in reactions of strongly adsorbed intermediates. Catalytic dehydrogenation and dehydration of formic acid on nickel.
+J. Phys. Chem.
+95
+, 7011–7016 (1991).
+CAS
+Google Scholar
+Liu, L. & Corma, A. Metal catalysts for heterogeneous catalysis: from single atoms to nanoclusters and nanoparticles.
+Chem. Rev.
+118
+, 4981–5079 (2018).
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+CAS
+PubMed
+Google Scholar
+Lin, J. et al. Remarkable performance of Ir
+1
+/FeO
+x
+single-atom catalyst in water gas shift reaction.
+J. Am. Chem. Soc.
+135
+, 15314–15317 (2013).
+CAS
+PubMed
+Google Scholar
+Yang, M., Allard, L. F. & Flytzani-Stephanopoulos, M. Atomically dispersed Au-(OH)
+x
+species bound on titania catalyze the low-temperature water-gas shift reaction.
+J. Am. Chem. Soc.
+135
+, 3768–3771 (2013).
+CAS
+PubMed
+Google Scholar
+Zhang, L., Ren, Y., Liu, W., Wang, A. & Zhang, T. Single-atom catalyst: a rising star for green synthesis of fine chemicals.
+Natl Sci. Rev.
+5
+, 653–672 (2018).
+CAS
+Google Scholar
+Sitthisa, S., An, W. & Resasco, D. E. Selective conversion of furfural to methylfuran over silica-supported NiFe bimetallic catalysts.
+J. Catal.
+284
+, 90–101 (2011).
+CAS
+Google Scholar
+DeRita, L. et al. Catalyst architecture for stable single atom dispersion enables site-specific spectroscopic and reactivity measurements of CO adsorbed to Pt atoms, oxidized Pt clusters, and metallic Pt clusters on TiO
+2
+.
+J. Am. Chem. Soc.
+139
+, 14150–14165 (2017).
+CAS
+PubMed
+Google Scholar
+Ding, K. et al. Identification of active sites in CO oxidation and water-gas shift over supported Pt catalysts.
+Science
+350
+, 189–192 (2015).
+CAS
+PubMed
+Google Scholar
+Luo, J. et al. Mechanisms for high selectivity in the hydrodeoxygenation of 5-hydroxymethylfurfural over PtCo nanocrystals.
+ACS Catal.
+6
+, 4095–4104 (2016).
+CAS
+Google Scholar
+Gilkey, M. J. et al. Mechanistic insights into metal Lewis acid-mediated catalytic transfer hydrogenation of furfural to 2-methylfuran.
+ACS Catal.
+5
+, 3988–3994 (2015).
+CAS
+Google Scholar
+Cargnello, M. et al. Control of metal nanocrystal size reveals metal-support interface role for ceria catalysts.
+Science
+341
+, 771–773 (2013).
+CAS
+PubMed
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+CAS
+PubMed
+Google Scholar
+Vorotnikov, V., Mpourmpakis, G. & Vlachos, D. G. DFT study of furfural conversion to furan, furfuryl alcohol, and 2-methylfuran on Pd(111).
+ACS Catal.
+2
+, 2496–2504 (2012).
+CAS
+Google Scholar
+Zhang, J., Wang, B., Nikolla, E. & Medlin, J. W. Heterogeneous catalysis directing reaction pathways through controlled reactant binding at Pd-TiO
+2
+interfaces.
+Angew. Chem.
+129
+, 6694–6698 (2017).
+Google Scholar
+DeRita, L. et al. Structural evolution of atomically dispersed Pt catalysts dictates reactivity.
+Nat. Mater.
+18
+, 746–751 (2019).
+CAS
+PubMed
+Google Scholar
+Kuo, C.-T., Lu, Y., Kovarik, L., Engelhard, M. & Karim, A. M. Structure sensitivity of acetylene semi-hydrogenation on Pt single atoms and subnanometer clusters.
+ACS Catal.
+9
+, 11030–11041 (2019).
+CAS
+Google Scholar
+Kresse, G. & Hafner, J. Ab initio molecular dynamics for liquid metals.
+Phys. Rev. B
+47
+, 558–561 (1993).
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for
+ab initio
+total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+CAS
+Google Scholar
+Kresse, G. & Hafner, J.
+Ab initio
+molecular-dynamics simulation of the liquid-metal–amorphous-semiconductor transition in germanium.
+Phys. Rev. B
+49
+, 14251–14269 (1994).
+CAS
+Google Scholar
+Bahn, S. R. & Jacobsen, K. W. An object-oriented scripting interface to a legacy electronic structure code.
+Comput. Sci. Eng.
+4
+, 56–66 (2002).
+CAS
+Google Scholar
+Larsen, A. H. et al. The atomic simulation environment – a python library for working with atoms.
+J. Phys. Condens. Matter
+29
+, 273002 (2017).
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+CAS
+PubMed
+Google Scholar
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method.
+Phys. Rev. B
+59
+, 1758–1775 (1999).
+CAS
+Google Scholar
+Blöchl, P. E. Projector augmented-wave method.
+Phys. Rev. B
+50
+, 17953–17979 (1994).
+Google Scholar
+Downs, R. T. & Hall-Wallace, M. The American mineralogist crystal structure database.
+Am. Mineral.
+88
+, 247–250 (2003).
+CAS
+Google Scholar
+Islam, M. M., Calatayud, M. & Pacchioni, G. Hydrogen adsorption and diffusion on the anatase TiO
+2
+(101) surface: a first-principles investigation.
+J. Phys. Chem. C
+115
+, 6809–6814 (2011).
+CAS
+Google Scholar
+Huang, W. F., Raghunath, P. & Lin, M. C. Computational study of the reactions of H
+2
+O
+2
+on TiO
+2
+anatase (101) and rutile (110) surfaces.
+J. Comput. Chem.
+32
+, 1065–1081 (2011).
+CAS
+PubMed
+Google Scholar
+Esch, T. R., Gadaczek, I. & Bredow, T. Surface structures and thermodynamics of low-index of rutile, brookite and anatase – a comparative DFT study.
+Appl. Surf. Sci.
+288
+, 275–287 (2014).
+CAS
+Google Scholar
+Howard, C. J., Sabine, T. M. & Dickson, F. Structural and thermal parameters for rutile and anatase.
+Acta Crystallogr. B
+47
+, 462–468 (1991).
+Google Scholar
+Grimme, S., Antony, J., Ehrlich, S. & Krieg, H. A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu.
+J. Chem. Phys.
+132
+, 154104 (2010).
+PubMed
+Google Scholar
+Sheppard, D., Terrell, R. & Henkelman, G. Optimization methods for finding minimum energy paths.
+J. Chem. Phys.
+128
+, 134106 (2008).
+PubMed
+Google Scholar
+Sheppard, D., Xiao, P., Chemelewski, W., Johnson, D. D. & Henkelman, G. A generalized solid-state nudged elastic band method.
+J. Chem. Phys.
+136
+, 074103 (2012).
+PubMed
+Google Scholar
+Momma, K. & Izumi, F. VESTA 3 for three-dimentional visualization of crystal, volumetric and morphology data.
+J. Appl. Crystallogr.
+44
+, 1272–1276 (2011).
+CAS
+Google Scholar
+Momma, K. & Izumi, F. VESTA: a three-dimensional visualization system for electronic and structural analysis.
+J. Appl. Crystallogr.
+41
+, 653–658 (2008).
+CAS
+Google Scholar
+Coltrin, M. E., Kee, R. J. & Rupley, F. M.
+SURFACE CHEMKIN: A Fortran Package for Analyzing Heterogeneous Chemical Kinetics at a Solid-Surface– Gas-Phase Interface
+Sandia Report SAND90-2003B 3–91 (Sandia National Laboratories, 1991).
+Kee, R. J., Rupley, F. M., Meeks, E. & Miller, J. A.
+CHEMKIN-III: A Fortran Package for the Analysis of Gas-Phase Chemical and Plasma Kinetics
+Sandia Report SAND96-8216 3–164 (Sandia National Laboratories, 1996).
+Lym, J., Wittreich, G. R. & Vlachos, D. G. A Python Multiscale Thermochemistry Toolbox (pMuTT) for thermochemical and kinetic parameter estimation.
+Comput. Phys. Commun.
+247
+, 106864 (2019).
+Google Scholar
+Fu, J. et al. Dataset for C–O bond activation using ultra-low loading noble metal catalysts on moderately reducible oxides
+.
+Mendeley Data
+https://doi.org/10.17632/pgmcmfb243.1
+(2020).
+Download references
+Acknowledgements
+This work was financially supported by the Catalysis Center for Energy Innovation, an Energy Frontier Research Center funded by the US Department of Energy, Office of Science, Office of Basic Energy Sciences under award number DESC0001004. Portions of this work were performed at the DuPont–Northwestern–Dow Collaborative Access Team (DND-CAT) located at Sector 5 of the Advanced Photon Source. DND-CAT is supported by Northwestern University, E.I. DuPont de Nemours and Co., and The Dow Chemical Company. This research used resources of the Advanced Photon Source, a US Department of Energy, Office of Science user facility operated for the Department of Energy, Office of Science by Argonne National Laboratory under contract no. DE-AC02-06CH11357. The research is carried out in part at the Center for Functional Nanomaterials, the 23-ID-2 (IOS) beamline of the National Synchrotron Light Source II at Brookhaven National Laboratory, which is supported by the US Department of Energy, Office of Basic Energy Sciences under contract no. DE-SC0012704 and at the beamline 7-BM (QAS), which is supported by the Synchrotron Catalysis Consortium, US Department of Energy under grant no. DE-SC0012335. We acknowledge the groups of Jingguang Chen, Anatoly Frenkel and Raymond Gorte for valuable discussions, Konstantinos Goulas and Qing Ma for X-ray absorption spectroscopy (XAS) measurements, Sibao Liu for assisting with XPS measurements and Sooyeon Hwang for some of the HAADF-STEM images. We thank Lan Wang for assisting in EPR sample preparation. W.Z. gratefully acknowledges the support of NVIDIA Corporation with the donation of the Titan Xp GPU used for this research.
+Author information
+Author notes
+These authors contributed equally: Jiayi Fu, Jonathan Lym, Weiqing Zheng.
+Authors and Affiliations
+Catalysis Center for Energy Innovation, University of Delaware, Newark, DE, USA
+Jiayi Fu, Jonathan Lym, Weiqing Zheng, Konstantinos Alexopoulos, Alexander V.  Mironenko, J. Anibal Boscoboinik, Dong Su & Dionisios G. Vlachos
+Department of Chemical and Biomolecular Engineering, University of Delaware, Newark, DE, USA
+Jiayi Fu, Jonathan Lym, Alexander V.  Mironenko & Dionisios G. Vlachos
+Center for Functional Nanomaterials, Brookhaven National Laboratory, Upton, NY, USA
+Na Li, J. Anibal Boscoboinik & Dong Su
+Bruker BioSpin Corporation, Billerica, MA, USA
+Ralph T. Weber
+Authors
+Jiayi Fu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jonathan Lym
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Weiqing Zheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Konstantinos Alexopoulos
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Alexander V.  Mironenko
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Na Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+J. Anibal Boscoboinik
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dong Su
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ralph T. Weber
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dionisios G. Vlachos
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+J.F. performed experimental kinetic studies, XAS analysis and active site quantification. J.L. carried out DFT calculations and microkinetic modelling. W.Z. performed catalyst synthesis and XPS, IR and TEM analyses. J.A.B. conducted the XPS experiments. N.L. and D.S. carried out the HAADF-STEM analysis. R.T.W. carried out the EPR analysis. A.V.M. and K.A. provided insights into DFT calculations. D.G.V. directed the project and provided guidance for the experimental and theoretical work. The manuscript was written by J.F., J.L., W.Z. and D.G.V. with input from all the authors.
+Corresponding author
+Correspondence to
+Dionisios G. Vlachos
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary methods, Figs. 1–30, Tables 1–10, Notes 1–7.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Fu, J., Lym, J., Zheng, W.
+et al.
+C–O bond activation using ultralow loading of noble metal catalysts on moderately reducible oxides.
+Nat Catal
+3
+, 446–453 (2020). https://doi.org/10.1038/s41929-020-0445-x
+Download citation
+Received
+:
+23 May 2019
+Accepted
+:
+25 February 2020
+Published
+:
+23 March 2020
+Issue Date
+:
+May 2020
+DOI
+:
+https://doi.org/10.1038/s41929-020-0445-x
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

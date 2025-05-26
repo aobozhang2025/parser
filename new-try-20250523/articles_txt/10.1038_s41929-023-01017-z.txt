@@ -1,0 +1,2394 @@
+Atomic metal–non-metal catalytic pair drives efficient hydrogen oxidation catalysis in fuel cells | Nature Catalysis
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature catalysis
+articles
+article
+Atomic metal–non-metal catalytic pair drives efficient hydrogen oxidation catalysis in fuel cells
+Download PDF
+Article
+Published:
+31 August 2023
+Atomic metal–non-metal catalytic pair drives efficient hydrogen oxidation catalysis in fuel cells
+Qilun Wang
+ORCID:
+orcid.org/0000-0002-8866-2986
+1
+,
+2
+na1
+,
+Huawei Wang
+ORCID:
+orcid.org/0009-0009-5936-251X
+3
+na1
+,
+Hao Cao
+ORCID:
+orcid.org/0000-0001-9597-0488
+4
+na1
+,
+Ching-Wei Tung
+5
+,
+6
+,
+Wei Liu
+ORCID:
+orcid.org/0000-0002-4403-737X
+7
+,
+Sung-Fu Hung
+ORCID:
+orcid.org/0000-0002-7423-2723
+8
+,
+Weijue Wang
+7
+,
+Chun Zhu
+4
+,
+9
+,
+Zihou Zhang
+3
+,
+Weizheng Cai
+2
+,
+Yaqi Cheng
+10
+,
+Hua Bing Tao
+ORCID:
+orcid.org/0000-0002-3269-3812
+11
+,
+Hao Ming Chen
+ORCID:
+orcid.org/0000-0002-7480-9940
+5
+,
+Yang-Gang Wang
+ORCID:
+orcid.org/0000-0002-0582-0855
+4
+,
+Yujing Li
+ORCID:
+orcid.org/0000-0001-5440-5343
+3
+,
+Hong Bin Yang
+ORCID:
+orcid.org/0000-0002-7834-4706
+12
+,
+Yanqiang Huang
+ORCID:
+orcid.org/0000-0002-7556-317X
+7
+,
+Jun Li
+ORCID:
+orcid.org/0000-0002-8456-3980
+4
+,
+13
+&
+…
+Bin Liu
+ORCID:
+orcid.org/0000-0002-4685-2052
+1
+Show authors
+Nature Catalysis
+volume
+6
+,
+pages
+916–926 (
+2023
+)
+Cite this article
+10k
+Accesses
+Metrics
+details
+Subjects
+Catalytic mechanisms
+Electrocatalysis
+Fuel cells
+Heterogeneous catalysis
+Materials for energy and catalysis
+Abstract
+Rational design of efficient hydrogen oxidation reaction (HOR) electrocatalysts with maximum utilization of platinum-group metal sites is critical to hydrogen fuel cells, but remains a major challenge due to the formidable potential-dependent energy barrier for hydrogen intermediate (H*) desorption on single metal centres. Here we report atomically dispersed iridium–phosphorus (Ir–P) catalytic pairs with strong electronic coupling that integratively facilitate HOR kinetics, in which the reactive hydroxyl species adsorbed on the more oxophilic P site induces an alternative thermodynamic pathway to facilely combine with H* on the adjacent Ir atom, whereas isolated single-atom Ir catalysts are inactive. In H
+2
+–O
+2
+fuel cells, this catalyst enables a peak power density of 1.93 W cm
+−2
+and an anodic mass activity as high as 17.11 A mg
+Ir
+−1
+at 0.9 V
+iR-free
+, significantly outperforming commercial Pt/C. This work not only advances the development of anodic catalysts for fuel cells, but also provides a precise and universal active-site design principle for multi-intermediate catalysis.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+An integrated platinum-nanocarbon electrocatalyst for efficient oxygen reduction
+Article
+Open access
+07 November 2022
+Tuning the apparent hydrogen binding energy to achieve high-performance Ni-based hydrogen oxidation reaction catalyst
+Article
+Open access
+07 February 2024
+Ternary nickel–tungsten–copper alloy rivals platinum for catalyzing alkaline hydrogen oxidation
+Article
+Open access
+11 May 2021
+Main
+Hydrogen fuel cells operating on H
+2
+–O
+2
+/air gas feeds, including proton exchange membrane fuel cells (PEMFCs) and anion exchange membrane fuel cells (AEMFCs), offer a promising sustainable energy conversion technology to transform chemical energy into electrical power with higher efficiencies up to 60% and no air pollutant emissions as compared to conventional combustion engines
+1
+,
+2
+,
+3
+. However, the commercial deployment of fuel cell technology is currently hindered by the reliance on platinum-group metal (PGM)-based electrocatalysts for both the anodic hydrogen oxidation reaction (HOR) and the cathodic oxygen reduction reaction (ORR)
+4
+,
+5
+,
+6
+. Although the ORR has witnessed enormous progress in improving the atomic efficiency of PT and pursuit of alternative PGM-free electrocatalysts over the past decades
+7
+,
+8
+, limited studies have demonstrated the possibility of replacing Pt/C for HOR in practical fuel cells
+9
+. Indeed, the rational design and controllable syntheses of efficient HOR electrocatalysts are still impeded by an incomplete understanding of the mechanism, in particular whether adsorbed hydroxyl species (OH*) is a second descriptor, a mere spectator or even an inhibitor blocking active sites in the reaction, due to the structural complexities of the studied materials and probing difficulties
+10
+,
+11
+,
+12
+.
+In this study, we present structurally uniform catalytic pairs (CPs) consisting of coupled single iridium and phosphorus atoms with strong electronic interaction decorated on N,P-co-doped graphitic carbon (denoted as Ir
+1
+–P
+1
+/NPG) as an efficient and durable electrocatalyst for HOR in hydrogen fuel cells. The as-developed Ir
+1
+–P
+1
+/NPG catalyst exhibits an outstanding HOR activity with an exchange current density of 3.05 mA cm
+−2
+and a mass activity of 428.5 mA mg
+Ir
+−1
+at an overpotential of 50 mV, whereas the single-atom Ir on N-doped graphitic carbon (Ir
+1
+/NG) counterpart is completely inert. A series of control experiments in conjunction with spectroscopic measurements and density functional theory (DFT) calculations unambiguously reveal that the reactive OH* adsorbed on the oxophilic P atomic site is dynamically followed by the preferred formation of H
+2
+O with H* bonded to the adjacent Ir atom, which effectively lowers the energy barrier for the H* desorption and thus accelerates both the alkaline and acidic HOR kinetics. The Ir
+1
+–P
+1
+/NPG catalyst with ultralow PGM content (4.5 μg
+Ir
+cm
+−2
+) displays superb performance when applied as an anode in a PEMFC under 1.0 bar H
+2
+–O
+2
+, achieving a peak power density (
+P
+max
+) of 1.93 W cm
+−2
+. Meanwhile, the current density at 0.9 V
+iR-free
+(where iR-free indicates that the internal resistance is corrected) also reaches 77 mA cm
+−2
+, fulfilling the US Department of Energy (DOE) 2025 target.
+Results
+Structural characterization of Ir
+1
+–P
+1
+/NPG
+The Ir
+1
+–P
+1
+/NPG and Ir
+1
+/NG catalysts were prepared by high-temperature pyrolysis of self-assembled precursors, including a mixture of melamine, small organic molecules (glyphosate or
+l
+-alanine) and iridium(III) chloride under an argon atmosphere
+13
+. Both scanning electron microscopy (SEM) images and N
+2
+adsorption–desorption isotherms reveal a three-dimensional (3D) interconnected, mesoporous and entangled sheet-like architecture with a high Brunauer–Emmett–Teller (BET) specific surface area of around 1,402 m
+2
+g
+−1
+for Ir
+1
+–P
+1
+/NPG, much larger than that for Ir
+1
+/NG (327 m
+2
+g
+−1
+) and commercial Ir/C (170 m
+2
+g
+−1
+) (Supplementary Figs.
+1
+–
+3
+). As displayed in the powder X-ray diffraction (XRD) patterns of Ir
+1
+/NG and Ir
+1
+–P
+1
+/NPG, similar (101) carbon diffraction peaks at 44.4° indicate their layered planar structure, while the relatively weaker and broader (002) peak at 26.2° for Ir
+1
+–P
+1
+/NPG suggests that additional P doping results in a lower degree of graphitic crystallinity and richer defects of the carbon matrix, which is further confirmed by its broader D and G bands at 1,315 and 1,598 cm
+−1
+as well as higher D band to G band intensity ratio (
+I
+D
+/
+I
+G
+) in the Raman spectrum (Fig.
+1a
+and Supplementary Fig.
+4
+)
+14
+,
+15
+,
+16
+. Moreover, the metallic Ir diffraction peaks are absent in both Ir
+1
+/NG and Ir
+1
+–P
+1
+/NPG, suggesting the absence of crystalline metallic Ir particles, which is further verified by high-resolution transmission electron microscopy (HRTEM) (Fig.
+1b
+and Supplementary Figs.
+5
+−
+7
+). Indeed, Ir sites are atomically anchored and paired with substantially dispersed P atoms in Ir
+1
+–P
+1
+/NPG. The distributions of Ir and P species in Ir
+1
+–P
+1
+/NPG are discerned by aberration-corrected high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM). Fig.
+1c
+illustrates that Ir
+1
+–P
+1
+/NPG predominantly exhibits dimer-like motifs composed of two different individual atoms as evidenced by their distinguishable contrast, which can be assigned to heavier Ir atoms (the brighter spots are ~0.17 nm in diameter; Supplementary Fig.
+8a
+) and lighter P atoms (the darker spots are ~0.13 nm in diameter; Supplementary Figs.
+8b
+and
+9
+)
+17
+. In addition, the intensity profiles along the X-Y lines in Fig.
+1c
+are consistent with the relative intensity of Ir and P atoms predicted by quantitative STEM (QSTEM) simulation and show that the distances of coupled Ir and P atoms are about 0.23 nm, within the effective length of the Ir–P bond, implying their possible coordination interaction (Fig.
+1d
+and Supplementary Fig.
+10
+). Energy-dispersive X-ray spectroscopy (EDX) elemental mappings further corroborate the decoration and homogeneous distribution of Ir, N and P elements throughout the Ir
+1
+–P
+1
+/NPG (Fig.
+1e
+). Meanwhile, as a comparison, it is worth noting that only bright spots corresponding to isolated single Ir atoms are uniformly dispersed across the entire carbon framework in Ir
+1
+/NG (Fig.
+1f
+and Supplementary Figs.
+11
+and
+12
+), inversely demonstrating the successful synthesis of the Ir
+1
+–P
+1
+paired structure in Ir
+1
+–P
+1
+/NPG.
+Fig. 1: Structural characterization of Ir
+1
+–P
+1
+pairs dispersed on N,P-co-doped graphitic carbon.
+a
+, XRD patterns of Ir
+1
+–P
+1
+/NPG and Ir
+1
+/NG. The JCPDS profiles of graphite and metallic iridium are displayed for reference.
+b
+, Bright-field HRTEM image of Ir
+1
+–P
+1
+/NPG.
+c
+, HAADF-STEM image of Ir
+1
+–P
+1
+/NPG, indicating the presence of atomic Ir–P pairs with divergent contrast.
+d
+, The corresponding intensity profiles along X-Y lines as shown in
+c
+.
+e
+, Dark-field STEM image and the EDX elemental mappings for Ir
+1
+–P
+1
+/NPG.
+f
+, HAADF-STEM image of Ir
+1
+/NG, revealing that only Ir single atoms are present. Inset: corresponding intensity profile along the X-Y line.
+g
+, High-resolution P 2
+p
+XPS spectra for Ir
+1
+–P
+1
+/NPG and NPG. The P 2
+p
+peak of Ir
+1
+–P
+1
+/NPG is centred at 133.5 eV, which is 0.2 eV negatively shifted versus that of NPG. The P 2
+p
+XPS spectra of both Ir
+1
+–P
+1
+/NPG and NPG can be deconvoluted into two P species with different P oxidation states, at ~133 and ~134 eV, belonging to C
+3
+-PO and C-PO
+3
+/C
+2
+-PO
+2
+, respectively. Specifically, Ir
+1
+–P
+1
+/NPG displays one more peak at ~132.5 eV, which can be assigned to the Ir–P bond.
+h
+, Normalized XANES spectra at the Ir L
+3
+-edge for Ir
+1
+–P
+1
+/NPG and Ir
+1
+/NG with references of Ir foil and IrO
+2
+. Inset: the respective integrated white line (WL) intensities as a function of 5
+d
+-band holes (Δ
+d
+), indicating that the oxidation state of Ir in Ir
+1
+–P
+1
+/NPG is slightly higher than that in Ir
+1
+/NG.
+i
+,
+k
+3
+-weighted Fourier transformation of phase-uncorrected EXAFS spectra at the Ir L
+3
+-edge for Ir
+1
+–P
+1
+/NPG, Ir
+1
+/NG and Ir foil, indicating the coexistence of Ir–N and Ir–P interactions in Ir
+1
+–P
+1
+/NPG, but without Ir–Ir interaction. The dotted lines represent the first-shell fitting results. The fitted distance of the Ir–P scattering path is in the range of the observed separation of Ir
+1
+–P
+1
+dual-atom pairs in HAADF-STEM.
+Source data
+Full size image
+To investigate the elemental states and electronic interaction between Ir and N/P, we performed X-ray photoelectron spectroscopy (XPS), X-ray absorption near edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) characterizations on Ir
+1
+/NG and Ir
+1
+–P
+1
+/NPG. The content of Ir in Ir
+1
+–P
+1
+/NPG determined from XPS is ~0.11 at.% (1.60 wt%), close to that obtained from inductively coupled plasma mass spectrometry (ICP-MS) measurement (~1.44 wt%) (Supplementary Fig.
+13a
+and Supplementary Table
+1
+). Compared with pristine NPG (with 2.8 at.% N and 0.9 at.% P), the higher N (4.7 at.%) and P contents (2.4 at.%) together with negative shifts of the characteristic peaks as well as the emerging Ir–N and Ir–P species in the high-resolution N 1
+s
+and P 2
+p
+XPS spectra of Ir
+1
+–P
+1
+/NPG suggest that Ir and N/P may stabilize each other in the carbon matrix by forming Ir–N–C and Ir–P–C coordination in Ir
+1
+–P
+1
+/NPG (Supplementary Fig.
+13b,c
+and Fig.
+1g
+)
+18
+,
+19
+. Contrarily, the XPS results of Ir
+1
+/NG (with a similar Ir content, ~0.10 at.%, to Ir
+1
+–P
+1
+/NPG) suggest that single Ir atoms are immobilized through only the Ir–N–C in Ir
+1
+/NG (Supplementary Fig.
+14
+). As shown in the core level Ir 4
+f
+spectra, the binding energies of Ir 4
+f
+5/2
+and 4
+f
+7/2
+for both Ir
+1
+/NG and Ir
+1
+–P
+1
+/NPG are lower than those for IrO
+2
+but higher than those for Ir/C, indicating partially oxidized Ir atoms in Ir
+1
+/NG and Ir
+1
+–P
+1
+/NPG (Supplementary Fig.
+15
+). This result is consistent with the Ir L
+3
+-edge XANES data, in which the integrated white line intensities of Ir
+1
+/NG and Ir
+1
+–P
+1
+/NPG are in-between those of Ir foil (5
+d
+7
+6
+s
+2
+) and IrO
+2
+(5
+d
+5
+6
+s
+0
+) (Fig.
+1h
+and Supplementary Fig.
+16
+)
+20
+. In the Fourier-transformed EXAFS spectrum, a dominant peak at
+∼
+1.62 Å is observed in Ir
+1
+–P
+1
+/NPG, which is a little longer than the Ir–N peak observed at ~1.54 Å in Ir
+1
+/NG and can be associated with a mixture of Ir–N and Ir–P scattering paths due to the relatively longer Ir–P bond length (Fig.
+1i
+)
+21
+. In addition, the Ir–Ir peak at about 2.52 Å that appears in Ir foil standard is not detected in Ir
+1
+/NG and Ir
+1
+–P
+1
+/NPG, confirming the atomic dispersion of Ir. To further discriminate the coordination atoms in Ir
+1
+–P
+1
+/NPG, 2D EXAFS wavelet transform analysis was conducted (Supplementary Fig.
+17
+). The only one observed intensity maximum shows up at ~7.8 Å
+−1
+for Ir
+1
+–P
+1
+/NPG, markedly distinct from that for Ir foil (~10.2 Å
+−1
+), indicating that the Ir species exist as mononuclear centres in Ir
+1
+–P
+1
+/NPG. Moreover, the corresponding wavenumber (
+k
+) for peak intensity is slightly higher than that in Ir
+1
+/NG (~7.0 Å
+−1
+), also validating the assignment of the scattering contribution from another heavier element (P) as the Ir–P pair besides the Ir–N in Ir
+1
+–P
+1
+/NPG. Then, the quantitative structural parameters for the first coordination sphere of Ir in Ir
+1
+/NG and Ir
+1
+–P
+1
+/NPG were extracted by least-squares EXAFS curve-fittings, manifesting three-coordinate Ir centres (Ir
+1
+–N
+3
+) with a mean Ir–N bond length of ~2.0 Å for Ir
+1
+/NG, while an Ir
+1
+–N
+2
+P
+1
+coordination configuration for Ir
+1
+–P
+1
+/NPG with interatomic distances for Ir–N and Ir–P paths of ~2.0 and ~2.2 Å, respectively, agreeing fairly well with the structural parameters predicted by DFT (Fig.
+1i
+, Supplementary Figs.
+18
+and
+19
+, and Supplementary Table
+2
+). Notably, the charge density difference and projected density of states (PDOS) analyses of Ir
+1
+–P
+1
+/NPG further identify strong orbital interaction for the Ir–P bonding, evidenced by the obvious charge accumulation around Ir and P atoms as well as the large overlap between the energy levels of Ir 5
+d
+xz
+and P 3
+p
+orbitals (Supplementary Fig.
+20
+).
+HOR performance
+The HOR performance of Ir
+1
+–P
+1
+/NPG was first evaluated in H
+2
+-saturated aqueous 0.1 M HClO
+4
+at a scan rate of 1 mV s
+−1
+on a rotating disk electrode (RDE) together with Ir
+1
+/NG and commercial Pt/C (20 wt%) as references. As shown in Fig.
+2a
+, similar HOR polarization curves with constant diffusion-limited currents are observed for Ir
+1
+–P
+1
+/NPG and Pt/C, whereas Ir
+1
+/NG exhibits negligible HOR activity. Moreover, to circumvent the effect of mass transport limitation and fast reaction kinetics in acid, the intrinsic HOR activity of Ir
+1
+–P
+1
+/NPG was further critically quantified in H
+2
+-saturated aqueous 0.1 M KOH
+22
+. It can be found that the overpotential at 1 mA cm
+−2
+and limiting current density of Ir
+1
+–P
+1
+/NPG, which are nearly the same as those of benchmark Pt/C catalyst, is lower by ~16 mV and much higher than that of commercial Ir/C (20 wt%), respectively, implying a good HOR activity for Ir
+1
+–P
+1
+/NPG (Supplementary Fig.
+21
+). As a single-metal-site catalyst, to underscore the advantage of atomic efficiency for Ir
+1
+–P
+1
+/NPG, we further recorded the HOR profiles of these catalysts with the same loading amount of metals (Fig.
+2b
+). Control measurements conducted in Ar-saturated electrolyte confirm that HOR is indeed the only source of anodic current across the whole potential range (Supplementary Fig.
+22
+). As the HOR is severely controlled by both reaction kinetics and H
+2
+diffusion, to extract the kinetic current densities, linear sweep voltammetry (LSV) curves were recorded at different rotating speeds (Supplementary Fig.
+23
+)
+23
+. Then the exchange current density of Ir
+1
+–P
+1
+/NPG is determined to be 3.05 mA cm
+−2
+by fitting the kinetic current densities using the Butler–Volmer equation (Fig.
+2c
+and Supplementary Table
+3
+), which is not only about three times and one order of magnitude greater than that for Pt/C (1.06 mA cm
+−2
+) and Ir/C (0.12 mA cm
+−2
+) with the same PGM loading amount, respectively, but also ranks among the best of the state-of-the-art HOR catalysts that have been reported so far (Supplementary Table
+4
+). The calculated mass-normalized kinetic current density at an overpotential of 50 mV for Ir
+1
+–P
+1
+/NPG is
+\(1.71\,{\mathrm{mA}}\,\upmu{\mathrm{g}}_{\mathrm{PGM}}^{-1}\)
+, which is ~3 and 48 times larger than that for Pt/C (
+\(0.58\,{\mathrm{mA}}\,\upmu{\mathrm{g}}_{\mathrm{PGM}}^{-1}\)
+) and Ir/C (
+\(0.036\,{\mathrm{mA}}\,\upmu{\mathrm{g}}_{\mathrm{PGM}}^{-1}\)
+), respectively (Fig.
+2d
+). The HOR stability of Ir
+1
+–P
+1
+/NPG was examined by an accelerated durability test (ADT) as depicted in Supplementary Fig.
+24
+. After 1,000, 3,000 and 5,000 cyclic voltammetry (CV) cycles, the overpotential at 1 mA cm
+−2
+increases by only about 0, 4 and 7 mV, respectively, compared to the initial value, evidently outperforming the Pt/C control (Supplementary Fig.
+25
+). HAADF-STEM measurements of Ir
+1
+–P
+1
+/NPG after the ADTs show that the Ir and P species have retained their atomic distributions as Ir
+1
+–P
+1
+pairs (Supplementary Fig.
+24c,d
+). Additionally, CO-stripping experiments and chronoamperometric tests by feeding 1,000 ppm CO into H
+2
+-saturated electrolytes were conducted to assess the CO resistance of Ir
+1
+–P
+1
+/NPG (Supplementary Figs.
+26
+and
+27
+). A steep peak resulting from oxidation of adsorbed CO (CO*) appears at 0.85 V (versus reversible hydrogen electrode (RHE)) on Ir/C, but not on Ir
+1
+–P
+1
+/NPG, illustrating the very weak CO adsorption on single Ir atoms, in good agreement with its superior CO-tolerant performance
+24
+.
+Fig. 2: Electrocatalytic HOR performance.
+a
+, Polarization curves acquired in H
+2
+-saturated 0.1 M HClO
+4
+at a sweep rate of 1 mV s
+−1
+and a rotation speed of 1,600 r.p.m. Catalyst loading, 0.3 mg cm
+−2
+.
+b
+, Polarization curves acquired with the same loading amount of metals in H
+2
+-saturated 0.1 M KOH. Catalyst loading, 4.32 μg
+PGM
+cm
+−2
+. Pt/C and Ir/C catalysts were diluted with blank carbon powder (Vulcan XC72) to ensure good catalyst dispersion on electrode
+49
+,
+50
+,
+51
+.
+c
+, The corresponding HOR Tafel plots of kinetic current densities for Ir
+1
+–P
+1
+/NPG, Pt/C and Ir/C derived from
+b
+. The scatters in the graph represent the experimental data while the solid lines are the fitting results from the Butler–Volmer equation.
+d
+, Comparison of HOR activities on measured and kinetic current densities at an overpotential (
+η
+) of 50 mV (
+j
+and
+j
+k
+, respectively), exchange current densities (
+j
+0
+) as well as mass-normalized
+j
+k
+among Ir
+1
+–P
+1
+/NPG, Pt/C and Ir/C. All data were collected with iR correction.
+Source data
+Full size image
+Identification of active sites and HOR mechanism
+To dig out what underlies the outstanding HOR performance on Ir
+1
+–P
+1
+/NPG, in sharp contrast to Ir
+1
+/NG, NPG and NG (Supplementary Fig.
+28
+), a series of chemical poisoning experiments with cyanate ion (CN
+−
+) and sulfur (S) powder, which selectively quench Ir and P sites, respectively, were performed
+25
+,
+26
+. First, separate introduction of CN
+−
+and S powder significantly suppressed the alkaline and acidic HOR activities of Ir
+1
+–P
+1
+/NPG, revealing the indispensable role of both Ir and P in the HOR (Supplementary Figs.
+29
+and
+30
+, and Fig.
+3a
+). To further deconvolute the individual contributions of Ir and P sites, control experiments were conducted for the hydrogen evolution reaction (HER) in acidic electrolyte, which is a two-electron transfer reaction involving only one reaction intermediate of H* (Fig.
+3b
+)
+27
+. It is interesting to find that the acidic HER performance of Ir
+1
+–P
+1
+/NPG is greatly inhibited by CN
+−
+, but not altered by selectively poisoning P atoms, indicating that Ir atoms independently determine the hydrogen adsorption. All of these results rationally speculate a pH-independent bifunctional mechanism involving two separate intermediates for HOR, rather than being entirely controlled by just the hydrogen binding energy (HBE) as the case in acidic HER.
+Fig. 3: Identification of reactive intermediates and HOR mechanism.
+a
+, Comparison of HOR polarization curves recorded in 0.1 M KOH for Ir
+1
+–P
+1
+/NPG with and without poisoning P sites.
+b
+, HER polarization curves recorded in 0.1 M HClO
+4
+for Ir
+1
+/NG and for Ir
+1
+–P
+1
+/NPG with and without poisoning Ir/P sites. The superior HER activity of Ir
+1
+–P
+1
+/NPG compared with that of Ir
+1
+/NG infers that the electronic structure of the Ir sites in Ir
+1
+–P
+1
+/NPG induces an optimum HBE.
+c
+, Quasi in situ high-resolution O 1
+s
+XPS spectra before and after HOR in 0.1 M KOH. The differential spectrum can be divided into P=O (~530.8 eV) and P–OH (~533.2 eV).
+d
+, Quasi in situ high-resolution P 2
+p
+XPS spectra before and after the HOR in 0.1 M KOH. The differential spectrum can be divided into P–OH and P=O at ~133.5 and ~136.4 eV, respectively. Data in
+c
+and
+d
+are presented as mean values ± s.d. The error bars indicate the standard deviations of three independent measurements for each sample.
+e
+, CVs of Ir/NPG with P sites poisoned recorded before and after CO stripping in 0.1 M KOH.
+f
+, CVs of Ir/NPG with P sites poisoned recorded before and after CO stripping in 0.1 M HClO
+4
+.
+Source data
+Full size image
+To gain more insights into the exact role of P atoms, quasi in situ XPS spectra were collected to scrutinize the elemental evolution over Ir
+1
+–P
+1
+/NPG during the HOR. A new peak in the O 1
+s
+XPS spectrum is found emerging after the HOR and the corresponding differential spectrum can be divided into two contributions from coordinated oxygen and adsorbed hydroxyl, which coincide with the positive shift and increase in intensity at the high-binding-energy side observed in the differential P 2
+p
+XPS spectrum before and after the HOR (Fig.
+3c,d
+and Supplementary Fig.
+31a,b
+). On the other hand, no noticeable changes of both the Ir 4
+f
+and N 1
+s
+XPS spectra between the two states are observed, doubly confirming that the hydroxyl species are bonded to the P atoms (Supplementary Figs.
+31c,d
+and
+32
+). To determine whether OH* adsorbed on P sites could participate in the electrochemical reaction, a CO stripping test, in which adsorbed OH* species is generally considered as the oxidative reactant, was performed as an explicit probing reaction
+28
+. Considering the very weak adsorption of CO on single Ir atoms, Ir nanoclusters embedded on N,P-co-doped graphitic carbon (Ir/NPG) with similar Ir–P paired sites at the shell were synthesized (Supplementary Figs.
+33
+–
+38
+). The Ir/NPG catalyst exhibits similar electrocatalytic trends but inferior specific and mass HOR activities as compared to Ir
+1
+–P
+1
+/NPG because of its less exposed Ir–P CPs (Supplementary Fig.
+39
+), whereas a sharp CO oxidation peak is observed in the CO stripping curves, attributed to a stronger CO* chemisorption on Ir nanoclusters (Supplementary Fig.
+40
+). Compared with Ir/C, the CO oxidation peak on Ir/NPG completely disappears when its P sites are quenched by S, suggesting that it is the OH* adsorbed on P sites that oxidatively reacts with CO* during CO stripping (Supplementary Fig.
+41
+and Fig.
+3e,f
+). Therefore, it is believed that the HOR also occurs on Ir
+1
+–P
+1
+/NPG through dissociative adsorption of H
+2
+on Ir sites followed by oxidative combination with the reactive OH* adsorbed on the neighbouring P sites regardless of the reaction environment (Supplementary Fig.
+42
+).
+To further elucidate the reaction mechanism of the HOR on Ir
+1
+–P
+1
+/NPG, DFT calculations were performed (Fig.
+4a,b
+and Supplementary Figs.
+43
+and
+44
+). The free energy profiles demonstrate that adsorption of both H* on the single Ir atom and OH* on the adjacent P site are thermodynamically favourable with an exothermic reaction energy of −0.84 and −0.27 eV, respectively. Meanwhile, the results of ab initio molecular dynamics (AIMD) simulation further indicate that the dissociation of H
+2
+on the single Ir atom is also a kinetically spontaneous process (Supplementary Fig.
+45
+). In consideration of the OH* origin under acidic condition, AIMD simulation combined with an explicit solvation model was performed to precisely describe the dynamic catalyst–water interface. As shown in Fig.
+4c
+, during the period of 6–8 ps, the P–OH distance obviously decreases from ~3 to 1.65 Å while simultaneously the H–OH distance increases from 1 to 1.5 Å, indicating a rapid dissociation of physically adsorbed H
+2
+O and formation of OH* on the P site. The kinetically facile H
+2
+O dissociative adsorption on the P site is actually a proton-coupled electron transfer step since the catalyst surface presents an accumulation of −0.7|e| during this process, according to the Mulliken charge analysis (Fig.
+4d
+). It is also interesting to note that the adsorption free energy of H* can be decreased by
+∼
+0.1 eV in the presence of OH* (Supplementary Fig.
+46
+). More importantly, in the OH*-participated HOR route, the explicit electron transfer step occurs on the oxidative adsorption of OH* rather than the desorption of H*. Indeed, the formation of H
+2
+O from OH* and H* on adjacent P and Ir atoms is not a potential-determining step, but a thermodynamic process, the free energy change of which varies from 0.1 to 0.8 eV (considering the possible oxidation of P sites at positive potentials during the HOR; Supplementary Fig.
+47
+) and can easily be overcome under the operative temperature without the additional requirement of applied overpotential
+29
+. On the other hand, if there is no nearby OH* species, the potential-determining step is transformed into the combination of H* with solution-phase OH
+−
+(H* + OH
+−
+→ H
+2
+O + * + e
+−
+) in base or direct desorption of H* as hydronium ion (H
+3
+O
++
+) (H* + H
+2
+O → H
+3
+O
++
++ * + e
+−
+) in acid accompanied by charge transfer, involving a high potential-dependent free energy change of 0.53 eV. Overall, the presence of reactive OH* on adjacent P sites can not only optimize the adsorption of H*, but also shift the electrochemical step from potential-determining direct hydrogen oxidation to the facile adsorption of OH*, contributing to the superior HOR kinetics of Ir
+1
+–P
+1
+/NPG compared to Ir
+1
+/NG and Pt/C (Supplementary Figs.
+48
+and
+49
+).
+Fig. 4: Theoretical calculations for the overall HOR process on Ir
+1
+–P
+1
+/NPG.
+a
+, Free energy profiles of alkaline HOR via solution-phase OH
+−
+and adsorbed OH* involved routes on Ir
+1
+–P
+1
+/NPG without an applied potential.
+b
+, Optimized configurations of intermediates in the two possible HOR routes as well as the corresponding free energy in each step.
+c
+, The evolution of the P–OH and H–OH bond distance with time from AIMD simulation, indicating that dissociation of H
+2
+O and adsorption of OH* take place at the same time. Specifically, the purple ball represents the transferred hydrogen atom.
+d
+, The evolution of net Mulliken charge on the catalyst surface. Inset: illustration of the charge-transfer process during dissociative adsorption of H
+2
+O on the P site, where the dotted circle represents the transferred hydrogen atom.
+Source data
+Full size image
+PEMFC measurements
+To corroborate the excellent HOR performance in PEMFCs, Ir
+1
+–P
+1
+/NPG catalyst with a loading of 0.0045 mg
+Ir
+cm
+−2
+was incorporated in the anode of the membrane electrode assembly (MEA) for a single-cell test under 1.0 bar H
+2
+–O
+2
+feeding condition (Supplementary Fig.
+50
+)
+30
+. Good reproducibility of the fuel cell performance has been demonstrated through repeated experiments (Supplementary Fig.
+51
+). Compared to commercial Pt/C catalyst, the PEMFC with Ir
+1
+–P
+1
+/NPG catalyst exhibits higher open-circuit voltage (OCV) and current densities across the entire polarization scan, even at less than 5% of the anodic PGM loading (Fig.
+5a
+). The remarkable
+P
+max
+of 1.93 W cm
+−2
+also indicates a combined merits of reaction kinetics, internal resistance and mass transport for Ir
+1
+–P
+1
+/NPG
+31
+. Moreover, as displayed in the mass specific Tafel plots, Ir
+1
+–P
+1
+/NPG reaches a record-high anodic mass activity of
+\(17.11\,{\mathrm{A}}\,{\mathrm{mg}}_{\mathrm{Ir}}^{-1}\)
+at 0.9 V
+iR-free
+, which represents an order of magnitude improvement compared to the benchmark Pt/C catalyst and exceeds the US DOE 2025 target of
+\(2.20\,{\mathrm{A}}\,{\mathrm{mg}}_{\mathrm{PGM}}^{-1}\)
+by approximately 8 times (Fig.
+5b
+)
+32
+. The durability of the MEA with the Ir
+1
+–P
+1
+/NPG anode was further evaluated at a constant current density of 1.0 A cm
+−2
+, and showed a slight voltage drop of only ~30 mV after a 35 h continuous operation, which is comparable to that of the MEA with commercial Pt/C anode (Supplementary Fig.
+52
+)
+33
+. In addition, it is worth noting that Ir
+1
+–P
+1
+/NPG possesses good tolerance to hydrogen starvation, manifested by the much slower decay of power densities with gradually reducing H
+2
+flow rate as compared to Pt/C, which shall not only benefit fuel utilization, but also mitigate MEA degradation at the start-up/shut-down conditions (Fig.
+5c
+)
+34
+.
+Fig. 5: PEMFC performance.
+a
+, H
+2
+–O
+2
+fuel cell polarization and power density curves recorded under 1.0 bar gas pressure with anode PGM loadings of 0.0045 mg
+Ir
+cm
+−2
+for Ir
+1
+–P
+1
+/NPG and 0.1 mg
+Pt
+cm
+−2
+for commercial Pt/C.
+b
+, Anodic mass activity Tafel plots derived from MEA measurements at 0.9 V
+iR-free
+with the brown star marking the US DOE 2025 target (equivalent to overall mass activity target of
+\(0.44\,{\mathrm{A}}\,{\mathrm{mg}}_{\mathrm{PGM}}^{-1}\)
+at 0.125 mg
+PGM
+cm
+−2
+, which contains anodic loading of 0.025 mg
+PGM
+cm
+−2
+).
+c
+, Relationships between the power density at 0.67 V with flow rate of H
+2
+, showing that Ir
+1
+–P
+1
+/NPG possesses higher rated power density and hydrogen starvation resistance as compared to Pt/C. Data are presented as mean values ± s.d. The error bars correspond to the standard deviations in 5 independent measurements for each datum.
+d
+, H
+2
+–air fuel cell performances with the same MEAs of Ir
+1
+–P
+1
+/NPG and commercial Pt/C under 1.0 bar gas pressure. Conditions for all the fuel cell tests: commercial Pt/C cathode catalyst with a loading of 0.3 mg
+Pt
+cm
+−2
+, Gore-Select M820.15 membrane, 80 °C, 100% relative humidity, absolute pressure of 150 kPa, H
+2
+, O
+2
+and air at high stoichiometries with flow rates of 1.5, 2.0 and 2.0 l min
+−1
+, respectively, unless otherwise stated.
+Source data
+Full size image
+The potential of Ir
+1
+–P
+1
+/NPG for automobile applications was further assessed with air as the cathodic gas feed, which achieves a
+P
+max
+of 1.06 W cm
+−2
+with a current density of 318 mA cm
+−2
+at 0.8 V; both surpass those of the commercial MEA (0.92 W cm
+−2
+and 81 mA cm
+−2
+, respectively) and meet the target set by the DOE, which can be attributed to the efficient reaction kinetics and exceptionally high accessible density of Ir
+1
+–P
+1
+CPs (Fig.
+5d
+). More importantly, the proposed pyrolysis strategy and pH-independent bifunctional catalytic mechanism can be readily generalized to other
+d
+-block active elements, such as Pt. By simply replacing the precursor of iridium(III) chloride with platinum(II) chloride, Pt
+1
+–P
+1
+/NPG and Pt
+1
+/NG could be obtained using similar synthetic procedures as described above. Systematic characterizations by XRD, TEM, XPS and EXAFS confirm the sole presence of atomically dispersed Pt
+1
+–P
+1
+pairs in the as-prepared Pt
+1
+–P
+1
+/NPG (Supplementary Figs.
+53
+–
+57
+). Like the HOR performance of the Ir-based catalysts, typical electrochemical performance was reproduced on Pt
+1
+–P
+1
+/NPG, while Pt
+1
+/NG showed negligible HOR activity, verifying the synergistic interaction between integrative single metal and phosphorus CPs (Supplementary Fig.
+58
+). Furthermore, PEMFC tests give a
+P
+max
+of 1.51 and 0.95 W cm
+−2
+with current densities of 360 and 358 mA cm
+−2
+at 0.8 V under H
+2
+–O
+2
+and H
+2
+–air conditions, respectively, which are promising given the ultralow Pt loading (0.0042 mg
+Pt
+cm
+−2
+) (Supplementary Fig.
+59
+)
+35
+.
+Conclusions
+We report an efficient HOR electrocatalyst composed of coupled metal and non metal atoms, which act as catalytic pairs for binding different reaction intermediates. Comprehensive experiments and theoretical simulations have identified the critical role of the P atom in the Ir
+1
+–P
+1
+CPs for the HOR. Distinct from the inactive Ir
+1
+/NG catalyst, the OH* adsorbed on the P sites in Ir
+1
+–P
+1
+CPs over Ir
+1
+–P
+1
+/NPG greatly promotes the oxidative hydrogen desorption, thus expeditiously driving both the acidic and alkaline HOR. Moreover, we also demonstrate the potential of Ir
+1
+–P
+1
+/NPG as an anode catalyst in PEMFCs: it achieves an excellent anodic mass activity of 17.11 A mg
+Ir
+−1
+at 0.9 V
+iR-free
+, nearly eight times higher than the DOE 2025 target. We anticipate this work can guide the rational design of integrative catalytic pairs (ICPs) with the aim of driving desired chemical reactions involving multi-intermediates.
+Methods
+Chemicals
+Melamine (99%, CAS number 108-78-1),
+l
+-alanine (≥98%, CAS number 56-41-7), iridium(III) chloride hydrate (99.9% trace metals basis, CAS number 14996-61-3), platinum(II) chloride (99.9% trace metals basis, CAS number 10025-65-7), iridium (foil, 99.9%, CAS number 7439-88-5), iridium(IV) oxide (99.9% trace metals basis, CAS number 12030-49-8), platinum (foil, 99.99%, CAS number 7440-06-4), platinum(IV) oxide (≥99.9%, CAS number 52785-06-5), hydrochloric acid (37%, CAS number 7647-01-0), ethanol (anhydrous, CAS number 64-17-5), isopropanol (99.5%, CAS number 67-63-0), potassium hydroxide (pellets, 99.99% trace metals basis, CAS number 1310-58-3), potassium cyanate (96%, CAS number 590-28-3), sulfur (powder, 99.98% trace metals basis, CAS number 7704-34-9) and perchloric acid (70%, CAS number 7601-90-3) were purchased from Sigma-Aldrich. Glyphosate (98%, CAS number 1071-83-6) was purchased from Mayer. Other chemicals were purchased from The Fuel Cell Store, including Vulcan XC72 carbon black, platinum on Vulcan XC72 powder (20 wt%), iridium on Vulcan XC72 powder (20 wt%) and nafion 117 solution (~5% in a mixture of lower aliphatic alcohols and water). All of the chemicals were used without further purification. Deionized (DI) water (15 MΩ cm
+−1
+), produced with a Millipore Q water purification system, was used in all experiments.
+Synthesis of catalysts
+Carbon-based single-metal-site or nanocluster catalysts were prepared by high-temperature pyrolysis of self-assembled precursors, according to a method previously developed by our group
+13
+,
+18
+. In a typical synthesis of Ir
+1
+–P
+1
+/NPG and Ir
+1
+/NG, 8 g melamine (C
+3
+H
+6
+N
+6
+), 1.5 g glyphosate (C
+3
+H
+8
+NO
+5
+P) or
+l
+-alanine (C
+3
+H
+7
+NO
+2
+) and 7.5 mg iridium(III) chloride hydrate (IrCl
+3
+·
+x
+H
+2
+O) were first ground into a homogeneous precursor using ball-milling in a nylon jar for 1 h. Subsequently, 12 ml hydrochloric acid and 3 ml ethanol were added and the formed slurry was milled in a fume hood until all ethanol was evaporated. Then the resultant solid was dried in an oven at 60 °C overnight and ball-milled again for 30 min. Afterwards, the fine powder mixture was subjected to a two-stage pyrolysis in a tubular furnace (Carbolite) under an argon (Ar) atmosphere. The first stage was from 25 to 600 °C at a ramping rate of 2.5 °C min
+−1
+and maintained at 600 °C for 2 h, while the second stage was from 600 to 900 °C at a ramping rate of 2.0 °C min
+−1
+and maintained at 900 °C for 1.5 h. Finally, after cooling to room temperature, the product was washed thoroughly with DI water and ethanol and dried at 60 °C in an electric oven overnight. Ir/NPG was prepared by the same procedure except for the weight of IrCl
+3
+·
+x
+H
+2
+O (37.5 mg).
+Pt
+1
+–P
+1
+/NPG and Pt
+1
+/NG were prepared by replacing IrCl
+3
+·
+x
+H
+2
+O with platinum(II) chloride (PtCl
+2
+) that had the same weight of metal and following the same synthesis procedure as Ir
+1
+–P
+1
+/NPG and Ir
+1
+/NG.
+Characterization
+Morphological information was collected by field-emission SEM (JEOL JSM-6700F) and TEM (JEOL JEM-2100F). Specific surface area was measured based on a N
+2
+adsorption–desorption method using a Micromeritics 3Flex analyser (Micromeritics Instrument Corporation) at 77 K. Sub-ångström-resolution HAADF-STEM characterization was performed on a JEM ARM200F STEM/TEM with a probe spherical aberration (
+Cs
+) corrector working at 200 kV. For the HAADF imaging, a convergence angle of ~23 mrad and a collection angle range of 68–174 mrad were adapted for the incoherent atomic number imaging. Elemental analysis was studied on a microscope equipped with an energy-dispersive X-ray analyser (EX-230 100 m
+2
+detector). The crystal structure was examined by XRD (Bruker AXS D8 Advance) using Cu Kα radiation (λ = 1.5406 Å) with a LYNXEYE detector at 30 kV and 10 mA.
+The mass contents of metals were quantified by inductively coupled plasma atomic emission spectroscopy (ICP-AES) (PerkinElmer) and ICP-MS (PerkinElmer). Detailed chemical compositions were examined by XPS on an ESCALAB 250 photoelectron spectrometer (Thermo Fisher Scientific) using a monochromatic Al Kα X-ray beam (1,486.6 eV). During the quasi in situ XPS measurements, catalysts were first treated at OCV or 0.1 V (versus RHE) in a H
+2
+-saturated electrolyte for 30 min. Then, the samples were transferred from the electrochemical system to the vacuum chamber of the spectrometer using a transfer bin under the protection of the Ar atmosphere in the glovebox. All the procedures were repeated at least three times in parallel to eliminate test errors. All binding energies were calibrated to the C 1
+s
+peak (284.6 eV) arising from the adventitious carbon-containing species. X-ray absorption fine structure (XAFS) spectroscopy measurements including XANES and EXAFS of Ir L
+3
+-edge were performed by employing a synchrotron radiation light source at the BL-12B2 beamline of the Japan Synchrotron Radiation Research Institute (JARSI) in SPring 8 (Japan), in which the electron storage ring was operated at 8.0 GeV and ambient conditions. Pt L
+3
+-edge XAFS was measured in the total X-ray electron yield mode at room temperature using the BL-17C beamline at the National Synchrotron Radiation Research Center (NSRRC, Hsinchu, Taiwan), in which the electron storage ring was operated at 1.5 GeV with a beam current of 300 mA. Energy calibration was performed with an iridium or platinum foil standard by shifting all spectra to a glitch in the incident intensity. The EXAFS spectra were fitted using the FEFF 6.0 code.
+Electrochemical measurements
+All electrochemical measurements were carried out at ambient temperature and pressure on a CHI 760e potentiostat. Glass cells were utilized in acidic media, while in alkaline media, all cell components were plastic to prevent contaminations such as from Fe leaching. To mitigate impurities from previous experiments, cells and other glassware were thoroughly cleaned by soaking in aqua regia when not in use and rinsed with DI water and the corresponding electrolyte reagent several times prior to use. The 0.1 M HClO
+4
+and 0.1 M KOH electrolyte solutions were prepared from appropriate 70 wt% double-distilled HClO
+4
+and KOH pellets with DI water, respectively. In particular, for all HOR and HER tests, the electrolytes were saturated with H
+2
+or Ar (99.99%), respectively, by purging gas into the aqueous solutions for 30 min, and then maintaining the gas flow throughout the entire electrochemical measurements. Electrocatalyst inks were prepared by dispersing 5 mg of catalyst into a solution containing 25 μl of 5% Nafion 117 solution (as conducting binder) and 975 μl of DI water–isopropanol solution with equal volumes, followed by ultrasonication for 3 h. A three-electrode cell configuration was employed with a working electrode of glassy carbon RDE with 5 mm diameter, a counter electrode of graphite rod and a saturated calomel electrode (SCE) as the reference electrode, the tip of the reference electrode was placed close to the working electrode to minimize solution resistance. Before each experiment, the glassy carbon electrode was polished to mirror shine with 0.05 μm alumina and cycled ~50 times from −0.2 to 1.5 V (versus RHE) at a sweep rate of 300 mV s
+−1
+in 0.5 M H
+2
+SO
+4
+. Then an aliquot with specified volume of the catalyst ink was drop-cast on the glassy carbon electrode and allowed to dry in air. To ensure the accuracy of the RHE, we calibrated the reference electrode in H
+2
+-saturated 0.1 M HClO
+4
+and 0.1 M KOH electrolytes periodically before conducting experiments. A reversible HOR/HER was performed using two Pt plates as both the working electrode and counter electrode (cleaned in aqua regia before each use) with H
+2
+bubble over the working electrode during the period. To operate the calibration, the clean Pt electrode was cycled at a slow sweep rate of 10 mV s
+−1
+around the expected value for the RHE in each electrolyte to be used for the catalyst testing until the CV curve reached constant. Then the RHE potentials in the two electrolytes were determined from the corresponding open-circuit potentials (for example, Supplementary Fig.
+60
+). All electrode potentials reported herein were converted to the RHE scale. The overpotential
+η
+was calculated by
+η
+= |
+E
+(versus RHE)|V for both the HOR and HER. Additionally, for all the
+I
+–
+E
+curves reported in this study, the solution resistance
+R
+was measured via iR compensation command by applying the test potential, step amplitude, compensation level and overshoot level as 0 V, 0.05 V, 100% and 2%, respectively, which was subsequently used to correct the solution ohmic loss by
+E
+=
+E
+measured
+− iR. The reported current densities were either normalized to the geometric area of electrode (mA cm
+−2
+) or the amount of the metal in the catalyst (
+\({\mathrm{mA}}\,{\mathrm{mg}}_{\mathrm{PGM}}^{-1}\)
+).
+Several fast CV scans (200 mV s
+−1
+) between −0.09 and 0.4 V (versus RHE, without iR correction) were applied to remove the surface contaminants to achieve an unperturbedly stable performance before each RDE measurement. In cases where we aimed to assess the activity from polarization curves, we performed LSV measurements at a rotating speed of 1,600 r.p.m. and a low scan rate of 1 mV s
+−1
+to obtain steady polarization curves. All the measurements were repeated three times to ensure reproducibility. As the HOR is dominated by the mass transport of H
+2
+to the electrode surface due to its limited solubility in electrolyte (<1 mmol l
+−1
+at room temperature), the limiting current density follows the Levich equation
+36
+as:
+$${j}_{\mathrm{l}}=0.62{{nFD}}^{2/3}{v}^{{\rm{-}}1/6}{c}_{0}{\omega }^{1/2}=B{c}_{0}{\omega }^{1/2}$$
+(1)
+where
+j
+l
+is the limiting current,
+n
+is the number of electrons transferred in the HOR (
+n
+= 2),
+F
+is the Faraday constant (96,485 A s mol
+−1
+),
+D
+is the diffusivity of H
+2
+in electrolyte,
+ν
+is the kinematic viscosity of the electrolyte,
+c
+0
+is the solubility of H
+2
+in electrolyte and
+ω
+is the rotation speed.
+B
+represents 0.62
+nFD
+2/3
+ν
+−1/6
+. Since HOR/HER is highly reversible and controlled by both reaction kinetics and H
+2
+diffusion, a reversible Koutecky–Levich equation should be applied to extract the accurate kinetic current density for thin-film electrodes as follows
+22
+:
+$$1/j=1/{j}_{{\rm{k}}}+{j}_{{\rm{d}}}$$
+(2)
+where
+j, j
+k
+and
+j
+d
+represent the measured current density, kinetic current density and diffusion-limited current density, respectively. According to the definition,
+j
+d
+is proportional to
+j
+l
+at a given potential and shares the same rotation speed dependence
+37
+:
+$${j}_{{\rm{d}}}={j}_{1}\left(1{\rm{-}}{{\exp }}\left({\rm{-}}2F\eta /{RT}\right)\right)$$
+(3)
+where
+η
+is the overpotential,
+R
+is the universal gas constant (8,314 J mol
+−1
+K
+−1
+) and
+T
+is the temperature in Kelvin. Then, the exchange current density (
+j
+0
+) and transfer coefficient
+α
+, which is related to the Tafel slope (TS) by TS = 2.303
+RT
+/
+αF
+, can be determined by fitting the
+j
+k
+with the Butler–Volmer equation
+23
+:
+$${j}_{{\rm{k}}}={j}_{0}({{\exp }}(\alpha F\eta /{RT}\,){\rm{-}}{{\exp }}((\alpha -1)F\eta /{RT}\,))$$
+(4)
+When conducting CO stripping experiments, the catalyst-modified glassy carbon electrodes were immersed in CO (99.99%)-saturated 0.1 M KOH and 0.1 M HClO
+4
+electrolyte and kept at OCV for 15 min to poison the metal sites sufficiently, followed by purging H
+2
+for another 10 min to remove any excess CO from the solution and then collected the first two or five/ten cycles of CV curves at a scan rate of 50 mV s
+−1
+.
+Computational details
+The spin-polarized DFT calculations with D3 van der Waals correction were performed with the Vienna Ab-initio Simulation Package (VASP) program
+38
+,
+39
+,
+40
+,
+41
+,
+42
+. The exchange-correlation energy was described by the generalized-gradient approximation (GGA) with spin-polarized Perdew–Burke–Ernzerhof (PBE) functional
+43
+. The valence states of all atoms were expanded in a plane-wave (PW) basis set with a cut-off energy of 500 eV. The
+k
+-point grid of 3 × 3 × 1 was chosen to sample the reciprocal space. The self-consistent electron density loop was converged to 10
+−6
+eV, and the structures were relaxed until all forces were below 0.02 eV Å
+−1
+. The single-iridium-atom catalyst was modelled by a layer of graphitic carbon (6 × 4 supercell) with Ir
+1
+–P
+1
+–N
+2
+(Ir
+1
+–P
+1
+/NPG) or Ir
+1
+–N
+3
+(Ir
+1
+/NG) embedded in the centre as shown in Supplementary Fig.
+19
+. The vacuum layer was set as 20 Å.
+The computational hydrogen electrode (CHE) model was employed for the reaction free energy (Δ
+G
+) calculations
+44
+. In this method, the chemical potential of (H
++
++
+e
+−
+) was equal to that of 1/2H
+2
+and the Δ
+G
+of each step was derived by
+$$\Delta G=\Delta E{\rm{-}}T\Delta S+{\rm{ZPE}}-{\rm{|}}e{\rm{|}}U$$
+(5)
+where Δ
+E
+is the reaction energy of each step in the HOR from DFT calculations,
+T
+Δ
+S
+is the entropy contribution to the free energy, ZPE refers to the zero-point energy correction and
+U
+is the applied potential.
+AIMD simulation for the catalyst–water interface was performed by employing the CP2K package
+45
+. The model contained 87 explicit H
+2
+O molecules (~3 layers), which were filled in the vacuum layer (Supplementary Fig.
+61
+). The simulation was sampled by the canonical (NVT) ensemble using Nosé–Hoover thermostats with a target temperature of 300 K, and the time step of 1.0 fs was chosen
+46
+,
+47
+. Core electrons were modelled by Goedecker–Teter–Hutter (GTH) pseudopotentials with 17, 5, 5, 6 and 1 valence electrons for Ir, P, N, O and H atoms, respectively, and the plane waves were expanded with a cut-off energy of 400 Ry (ref.
+48
+). The (DFT + D3) method was also considered for the van der Waals correction.
+The atomic coordinates of the optimized models, and the initial and final configurations in molecular dynamics simulations are provided in Supplementary Data
+1
+.
+MEA preparation and PEMFC tests
+Anode catalyst inks were prepared by dispersing Ir
+1
+–P
+1
+/NPG, Pt/C (20 wt%, Johnson Matthey) or Pt
+1
+–P
+1
+/NPG catalyst in a solvent mixture of isopropanol and water (1:1 v/v) with D2020 perfluorosulfonic acid (PFSA) ionomer (DuPont) at an ionomer to carbon ratio of 0.4–1.2, by ultrasonicating for 2 h and stirring for 30 min. Then the obtained ink was evenly sprayed onto a Gore-Select M820.15 membrane with an active area of 5 cm
+2
+using an airbrush, followed by drying under vacuum until complete evaporation of the solvents and formation of catalyst-coated membranes (CCMs) with loadings of 0.0045 mg
+Ir
+cm
+−2
+, and 0.1 and 0.0042 mg
+Pt
+cm
+−2
+for Ir
+1
+–P
+1
+/NPG, Pt/C and Pt
+1
+–P
+1
+/NPG, respectively. Similar steps were applied to prepare Pt/C (60 wt%, Johnson Matthey) cathodes with a final Pt loading of 0.3 mg
+Pt
+cm
+−2
+onto the opposite sides of the membranes. The fabricated CCM together with two gas diffusion layers (GDLs) (Sigracet 29 BC) were hot-pressed at 130 °C and 0.14 MPa for 2 min to complete the final MEA.
+H
+2
+–O
+2
+and H
+2
+–air single cell tests were carried out in a fuel cell test station (Hephas 330) in sequence. The cell temperature was maintained at 80 °C, and fully humidified H
+2
+and O
+2
+or air were supplied to the anode and cathode, respectively. The back pressure was set at absolute pressure of 150 kPa, ensuring that the net pressure of gas was kept at 1.0 bar. The flow rate was fixed at 1.5 l min
+−1
+for H
+2
+and at 2.0 l min
+−1
+for the cathodic reactant gas during the polarization scan. Prior to the data collection, an activation was applied by keeping the fuel cell voltage at 0.4 V for about 4 h until the current density reached a steady value. PGM-based anodic mass activities were determined using polarization curves with iR-corrected voltage against the current densities in the H
+2
+–O
+2
+fuel cells. The internal resistances were measured by sweeping frequencies over the range of 1 MHz–100 mHz with 10 points per decade, while the amplitude of the a.c. current was always kept at 5% of the d.c. current.
+To evaluate the resistance to hydrogen starvation for Ir
+1
+–P
+1
+/NPG and Pt/C anode catalysts, the rated power densities at 0.67 V with gradually reduced H
+2
+flow rate from 1,500 to 50 ml min
+−1
+were measured. The interval of the gas flow rate was 100 between 1,500 and 1,000 ml min
+−1
+while 50 from 1,000 to 50 ml min
+−1
+.
+Data availability
+The data that support the findings of this study are available from the corresponding authors upon reasonable request.
+Source data
+are provided with this paper.
+References
+Chong, L. et al. Ultralow-loading platinum–cobalt fuel cell catalysts derived from imidazolate frameworks.
+Science
+362
+, 1276–1281 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, J. et al. Poly(aryl piperidinium) membranes and ionomers for hydroxide exchange membrane fuel cells.
+Nat. Energy
+4
+, 392–398 (2019).
+Article
+CAS
+Google Scholar
+Stamenkovic, V. R., Strmcnik, D., Lopes, P. P. & Markovic, N. M. Energy and fuels from electrochemical interfaces.
+Nat. Mater.
+16
+, 57–69 (2017).
+Article
+CAS
+Google Scholar
+Debe, M. K. Electrocatalyst approaches and challenges for automotive fuel cells.
+Nature
+486
+, 43–51 (2012).
+Article
+CAS
+PubMed
+Google Scholar
+Yang, Y. et al. Octahedral spinel electrocatalysts for alkaline fuel cells.
+Proc. Natl Acad. Sci. USA
+116
+, 24425–24432 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Luo, F. et al. P-block single-metal-site tin/nitrogen-doped carbon fuel cell cathode catalyst for oxygen reduction reaction.
+Nat. Mater.
+19
+, 1215–1223 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Gao, R. et al. Pt/Fe
+2
+O
+3
+with Pt–Fe pair sites as a catalyst for oxygen reduction with ultralow Pt loading.
+Nat. Energy
+6
+, 614–623 (2021).
+Article
+CAS
+Google Scholar
+Wan, X. et al. Fe–N–C electrocatalyst with dense active sites and efficient mass transport for high-performance proton exchange membrane fuel cells.
+Nat. Catal.
+2
+, 259–268 (2019).
+Article
+CAS
+Google Scholar
+Ni, W. et al. Ni
+3
+N as an active hydrogen oxidation reaction catalyst in alkaline medium.
+Angew. Chem. Int. Ed.
+58
+, 7445–7449 (2019).
+Article
+CAS
+Google Scholar
+Strmcnik, D. et al. Improving the hydrogen oxidation reaction rate by promotion of hydroxyl adsorption.
+Nat. Chem.
+5
+, 300–306 (2013).
+Article
+CAS
+PubMed
+Google Scholar
+Durst, J. et al. New insights into the electrochemical hydrogen oxidation and evolution reaction mechanism.
+Energy Environ. Sci.
+7
+, 2255–2260 (2014).
+Article
+CAS
+Google Scholar
+Wang, H. & Abruña, H. D. IrPdRu/C as H
+2
+oxidation catalysts for alkaline fuel cells.
+J. Am. Chem. Soc.
+139
+, 6807–6810 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Wang, Q. et al. Coordination engineering of iridium nanocluster bifunctional electrocatalyst for highly efficient and pH-universal overall water splitting.
+Nat. Commun.
+11
+, 4246 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Ferrari, A. C. Raman spectroscopy of graphene and graphite: disorder, electron–phonon coupling, doping and nonadiabatic effects.
+Solid State Commun.
+143
+, 47–57 (2007).
+Article
+CAS
+Google Scholar
+Malard, L. M., Pimenta, M. A., Dresselhaus, G. & Dresselhaus, M. S. Raman spectroscopy in graphene.
+Phys. Rep.
+473
+, 51–87 (2009).
+Article
+CAS
+Google Scholar
+Yang, H. B. et al. Identification of catalytic sites for oxygen reduction and oxygen evolution in N-doped graphene materials: development of highly efficient metal-free bifunctional electrocatalyst.
+Sci. Adv.
+2
+, e1501122 (2016).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Zhang, L. et al. Atomic layer deposited Pt–Ru dual-metal dimers and identifying their active sites for hydrogen evolution reaction.
+Nat. Commun.
+10
+, 4936 (2019).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Yang, H. B. et al. Atomically dispersed Ni(i) as the active site for electrochemical CO
+2
+reduction.
+Nat. Energy
+3
+, 140–147 (2018).
+Article
+CAS
+Google Scholar
+Long, X. et al. Graphitic phosphorus coordinated single Fe atoms for hydrogenative transformations.
+Nat. Commun.
+11
+, 4074 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Clancy, J. P. et al. Spin-orbit coupling in iridium-based 5
+d
+compounds probed by X-ray absorption spectroscopy.
+Phys. Rev. B
+86
+, 195131 (2012).
+Article
+Google Scholar
+Yuan, K. et al. Boosting oxygen reduction of single iron active sites via geometric and electronic engineering: nitrogen and phosphorus dual coordination.
+J. Am. Chem. Soc.
+142
+, 2404–2412 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Zheng, J., Yan, Y. & Xu, B. Correcting the hydrogen diffusion limitation in rotating disk electrode measurements of hydrogen evolution reaction kinetics.
+J. Electrochem. Soc.
+162
+, F1470–F1481 (2015).
+Article
+CAS
+Google Scholar
+Sheng, W., Gasteiger, H. A. & Shao-Horn, Y. Hydrogen oxidation and evolution reaction kinetics on platinum: acid vs alkaline electrolytes.
+J. Electrochem. Soc.
+157
+, B1529 (2010).
+Article
+CAS
+Google Scholar
+Xiong, Y. et al. Single-atom Rh/N-doped carbon electrocatalyst for formic acid oxidation.
+Nat. Nanotechnol.
+15
+, 390–397 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Mahmood, J. et al. An efficient and pH-universal ruthenium-based catalyst for the hydrogen evolution reaction.
+Nat. Nanotechnol.
+12
+, 441–446 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Wu, B., Santra, M. & Yoshikai, N. A highly modular one-pot multicomponent approach to functionalized benzo[b]phosphole derivatives.
+Angew. Chem. Int. Ed.
+53
+, 7543–7546 (2014).
+Article
+CAS
+Google Scholar
+Koper, M. T. M. Thermodynamic theory of multi-electron transfer reactions: Implications for electrocatalysis.
+J. Electroanal. Chem.
+660
+, 254–260 (2011).
+Article
+CAS
+Google Scholar
+Zhuang, L., Jin, J. & Abruña, H. D. Direct observation of electrocatalytic synergy.
+J. Am. Chem. Soc.
+129
+, 11033–11035 (2007).
+Article
+CAS
+PubMed
+Google Scholar
+Young, D.
+Computational Chemistry: A Practical Guide for Applying Techniques to Real World Problems
+(Wiley, 2001).
+Lazaridis, T., Stühmeier, B. M., Gasteiger, H. A. & El-Sayed, H. A. Capabilities and limitations of rotating disk electrodes versus membrane electrode assemblies in the investigation of electrocatalysts.
+Nat. Catal.
+5
+, 363–373 (2022).
+Article
+CAS
+Google Scholar
+Proietti, E. et al. Iron-based cathode catalyst with enhanced power density in polymer electrolyte membrane fuel cells.
+Nat. Commun.
+2
+, 416 (2011).
+Article
+PubMed
+Google Scholar
+Yang, C.-L. et al. Sulfur-anchoring synthesis of platinum intermetallic nanoparticle catalysts for fuel cells.
+Science
+374
+, 459–464 (2021).
+Article
+CAS
+PubMed
+Google Scholar
+Gasteiger, H. A., Kocha, S. S., Sompalli, B. & Wagner, F. T. Activity benchmarks and requirements for Pt, Pt-alloy, and non-Pt oxygen reduction catalysts for PEMFCs.
+Appl. Catal. B
+56
+, 9–35 (2005).
+Article
+CAS
+Google Scholar
+Labi, T. et al. Increasing fuel cell durability during prolonged and intermittent fuel starvation using supported IrO
+x
+.
+J. Power Sources
+490
+, 229568 (2021).
+Article
+CAS
+Google Scholar
+Hu, Y. et al. Coplanar Pt/C nanomeshes with ultrastable oxygen reduction performance in fuel cells.
+Angew. Chem. Int. Ed.
+60
+, 6533–6538 (2021).
+Article
+CAS
+Google Scholar
+Galus, Z., Olson, C., Lee, H. Y. & Adams, R. N. Rotating disk electrodes.
+Anal. Chem.
+34
+, 164–166 (1962).
+Article
+CAS
+Google Scholar
+Sheng, W. et al. Correlating hydrogen oxidation and evolution activity on platinum at different pH with measured hydrogen binding energy.
+Nat. Commun.
+6
+, 5848 (2015).
+Article
+CAS
+PubMed
+Google Scholar
+Kohn, W. & Sham, L. J. Self-consistent equations including exchange and correlation effects.
+Phys. Rev.
+140
+, A1133–A1138 (1965).
+Article
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set.
+Phys. Rev. B
+54
+, 11169–11186 (1996).
+Article
+CAS
+Google Scholar
+Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set.
+Comput. Mater. Sci.
+6
+, 15–50 (1996).
+Article
+CAS
+Google Scholar
+Grimme, S., Ehrlich, S. & Goerigk, L. Effect of the damping function in dispersion corrected density functional theory.
+J. Comput. Chem.
+32
+, 1456–1465 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Grimme, S., Antony, J., Ehrlich, S. & Krieg, H. A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H–Pu.
+J. Chem. Phys.
+132
+, 154104 (2010).
+Article
+PubMed
+Google Scholar
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple.
+Phys. Rev. Lett.
+77
+, 3865–3868 (1996).
+Article
+CAS
+PubMed
+Google Scholar
+Nørskov, J. K. et al. Origin of the overpotential for oxygen reduction at a fuel-cell cathode.
+J. Phys. Chem. B
+108
+, 17886–17892 (2004).
+Article
+Google Scholar
+VandeVondele, J. et al. QUICKSTEP: fast and accurate density functional calculations using a mixed Gaussian and plane waves approach.
+Comput. Phys. Commun.
+167
+, 103–128 (2005).
+Article
+CAS
+Google Scholar
+Hoover, W. G. Canonical dynamics: equilibrium phase-space distributions.
+Phys. Rev. A
+31
+, 1695–1697 (1985).
+Article
+CAS
+Google Scholar
+Martyna, G. J., Klein, M. L. & Tuckerman, M. Nosé–Hoover chains: the canonical ensemble via continuous dynamics.
+J. Chem. Phys.
+97
+, 2635–2643 (1992).
+Article
+Google Scholar
+VandeVondele, J. & Hutter, J. Gaussian basis sets for accurate calculations on molecular systems in gas and condensed phases.
+J. Chem. Phys.
+127
+, 114105 (2007).
+Article
+PubMed
+Google Scholar
+Sun, Y., Lu, J. & Zhuang, L. Rational determination of exchange current density for hydrogen electrode reactions at carbon-supported Pt catalysts.
+Electrochim. Acta
+55
+, 844–850 (2010).
+Article
+CAS
+Google Scholar
+Wang, Y. et al. Pt–Ru catalyzed hydrogen oxidation in alkaline media: oxophilic effect or electronic effect?
+Energy Environ. Sci.
+8
+, 177–181 (2015).
+Article
+CAS
+Google Scholar
+Hansen, J. N. et al. Is there anything better than Pt for HER?
+ACS Energy Lett.
+6
+, 1175–1180 (2021).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Download references
+Acknowledgements
+This work was financially supported by the City University of Hong Kong start up fund and the Singapore Agency for Science, Technology and Research (AME IRG A20E5c0080). H.B.Y. acknowledges support from the National Natural Science Foundation of China (grant number 22075195). Y.L. acknowledges support from the National Natural Science Foundation of China (grant number 52171199). S.-F.H. acknowledges financial support from the National Science and Technology Council, Taiwan (contract number NSTC 111-2628-M-A49-007). Part of this work was also financially supported by the National Key R&D Program of China (number 2022YFA1503102), the NSFC (numbers 22022504, 22033005 and 92261111), the Science, Technology and Innovation Commission of Shenzhen Municipality (number JCYJ20210324103608023), the Guangdong ‘Pearl River’ Talent Plan (number 2019QN01L353) and the Guangdong Provincial Key Laboratory of Catalysis (number 2020B121201002). Computational resources are supported by the Center for Computational Science and Engineering at SUSTech and the CHEM high-performance supercomputer cluster (CHEM-HPC) located in the Department of Chemistry, SUSTech.
+Author information
+Author notes
+These authors contributed equally: Qilun Wang, Huawei Wang, Hao Cao.
+Authors and Affiliations
+Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong SAR, China
+Qilun Wang & Bin Liu
+School of Chemistry, Chemical Engineering and Biotechnology, Nanyang Technological University, Singapore, Singapore
+Qilun Wang & Weizheng Cai
+School of Materials Science and Engineering, Beijing Institute of Technology, Beijing, China
+Huawei Wang, Zihou Zhang & Yujing Li
+Department of Chemistry and Guangdong Provincial Key Laboratory of Catalytic Chemistry, Southern University of Science and Technology, Shenzhen, China
+Hao Cao, Chun Zhu, Yang-Gang Wang & Jun Li
+Department of Chemistry, National Taiwan University, Taipei, Taiwan
+Ching-Wei Tung & Hao Ming Chen
+Department of Materials Engineering, Ming Chi University of Technology, New Taipei City, Taiwan
+Ching-Wei Tung
+Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian, China
+Wei Liu, Weijue Wang & Yanqiang Huang
+Department of Applied Chemistry, National Yang Ming Chiao Tung University, Hsinchu, Taiwan
+Sung-Fu Hung
+Key Laboratory of Macrocyclic and Supramolecular Chemistry of Guizhou Province, Guizhou University, Guiyang, China
+Chun Zhu
+Department of Materials Science and Engineering, National University of Singapore, Singapore, Singapore
+Yaqi Cheng
+College of Chemistry and Chemical Engineering, Xiamen University, Xiamen, China
+Hua Bing Tao
+School of Materials Science and Engineering, Suzhou University of Science and Technology, Suzhou, China
+Hong Bin Yang
+Department of Chemistry and Engineering Research Center of Advanced Rare-Earth Materials of Ministry of Education, Tsinghua University, Beijing, China
+Jun Li
+Authors
+Qilun Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Huawei Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hao Cao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Ching-Wei Tung
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Wei Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Sung-Fu Hung
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Weijue Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Chun Zhu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zihou Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Weizheng Cai
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yaqi Cheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hua Bing Tao
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hao Ming Chen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yang-Gang Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yujing Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Hong Bin Yang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yanqiang Huang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jun Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Bin Liu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+Q.W., H.B.Y. and B.L. conceived and designed the project. Q.W., Y.C. and H.B.Y. performed the catalyst synthesis, structural characterizations and electrochemical measurements. W.L., W.W. and Y.H. obtained the TEM images. C.-W.T., S.-F.H., W.C. and H.M.C acquired the X-ray absorption spectroscopies and provided expertise for data analysis. H.W., Z.Z., H.B.T. and Y.L. conducted the fuel cell tests. H.C., C.Z., Y.-G.W. and J.L. carried out the theoretical calculations. Q.W., H.B.Y. and B.L. discussed the results and drafted the article. All the authors reviewed and contributed to this paper.
+Corresponding authors
+Correspondence to
+Hua Bing Tao
+,
+Yang-Gang Wang
+,
+Yujing Li
+,
+Hong Bin Yang
+or
+Bin Liu
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Catalysis
+thanks Lin Zhuang and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional information
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Table of Contents, Supplementary Figs. 1–61, Tables 1–4 and References.
+Supplementary Data 1
+Atomic coordinates of the optimized computational models, initial and final configurations in molecular dynamics simulations.
+Source data
+Source Data Fig. 1
+Source Data Fig. 1.
+Source Data Fig. 2
+Source Data Fig. 2.
+Source Data Fig. 3
+Source Data Fig. 3.
+Source Data Fig. 4
+Source Data Fig. 4.
+Source Data Fig. 5
+Source Data Fig. 5.
+Rights and permissions
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+Reprints and permissions
+About this article
+Cite this article
+Wang, Q., Wang, H., Cao, H.
+et al.
+Atomic metal–non-metal catalytic pair drives efficient hydrogen oxidation catalysis in fuel cells.
+Nat Catal
+6
+, 916–926 (2023). https://doi.org/10.1038/s41929-023-01017-z
+Download citation
+Received
+:
+12 April 2022
+Accepted
+:
+28 July 2023
+Published
+:
+31 August 2023
+Issue Date
+:
+October 2023
+DOI
+:
+https://doi.org/10.1038/s41929-023-01017-z
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Videos
+Current issue
+Collections
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Our publishing models
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Catalysis
+(
+Nat Catal
+)
+ISSN
+2520-1158
+(online)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

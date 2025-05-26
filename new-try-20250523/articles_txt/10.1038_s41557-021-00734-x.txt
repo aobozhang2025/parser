@@ -1,0 +1,1508 @@
+General synthesis of single-atom catalysts with high metal loading using graphene quantum dots | Nature Chemistry
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+Advertisement
+View all journals
+Search
+Log in
+Explore
+content
+About
+the journal
+Publish
+with us
+Sign up for alerts
+RSS feed
+nature
+nature chemistry
+articles
+article
+General synthesis of single-atom catalysts with high metal loading using graphene quantum dots
+Download PDF
+Article
+Published:
+24 June 2021
+General synthesis of single-atom catalysts with high metal loading using graphene quantum dots
+Chuan Xia
+ORCID:
+orcid.org/0000-0003-4526-159X
+1
+,
+2
+,
+3
+,
+Yunrui Qiu
+1
+,
+Yang Xia
+1
+,
+Peng Zhu
+ORCID:
+orcid.org/0000-0002-8855-0335
+1
+,
+Graham King
+ORCID:
+orcid.org/0000-0003-1886-7254
+4
+,
+Xiao Zhang
+1
+,
+Zhenyu Wu
+ORCID:
+orcid.org/0000-0001-9198-003X
+1
+,
+Jung Yoon (Timothy) Kim
+ORCID:
+orcid.org/0000-0002-6812-2763
+1
+,
+David A. Cullen
+ORCID:
+orcid.org/0000-0002-2593-7866
+5
+,
+Dongxing Zheng
+6
+,
+Peng Li
+6
+,
+Mohsen Shakouri
+ORCID:
+orcid.org/0000-0002-8449-9763
+4
+,
+Emilio Heredia
+4
+,
+Peixin Cui
+ORCID:
+orcid.org/0000-0002-9887-2784
+7
+,
+Husam N. Alshareef
+ORCID:
+orcid.org/0000-0001-5029-2142
+6
+,
+Yongfeng Hu
+ORCID:
+orcid.org/0000-0002-7510-9444
+4
+&
+…
+Haotian Wang
+ORCID:
+orcid.org/0000-0002-3552-8978
+1
+,
+8
+,
+9
+,
+10
+Show authors
+Nature Chemistry
+volume
+13
+,
+pages
+887–894 (
+2021
+)
+Cite this article
+40k
+Accesses
+89
+Altmetric
+Metrics
+details
+Subjects
+Catalyst synthesis
+Synthesis and processing
+Abstract
+Transition-metal single-atom catalysts present extraordinary activity per metal atomic site, but suffer from low metal-atom densities (typically less than 5 wt% or 1 at.%), which limits their overall catalytic performance. Here we report a general method for the synthesis of single-atom catalysts with high transition-metal-atom loadings of up to 40 wt% or 3.8 at.%, representing several-fold improvements compared to benchmarks in the literature. Graphene quantum dots, later interweaved into a carbon matrix, were used as a support, providing numerous anchoring sites and thus facilitating the generation of high densities of transition-metal atoms with sufficient spacing between the metal atoms to avoid aggregation. A significant increase in activity in electrochemical CO
+2
+reduction (used as a representative reaction) was demonstrated on a Ni single-atom catalyst with increased Ni loading.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+A metal-supported single-atom catalytic site enables carbon dioxide hydrogenation
+Article
+Open access
+10 February 2022
+Workflow-driven catalytic modulation from single-atom catalysts to Au–alloy clusters on graphene
+Article
+Open access
+14 January 2025
+Effect of hetero-atom doping on the electrocatalytic properties of graphene quantum dots for oxygen reduction reaction
+Article
+Open access
+30 March 2023
+Main
+Like the transformative changes brought to the catalysis field by making bulk metal materials into nanosized particles, further shrinking the size all the way down to isolated single atoms, embedded in a supporting matrix, is reshaping both the design of catalysts and the understanding of reaction mechanisms
+1
+,
+2
+,
+3
+,
+4
+,
+5
+. Due to their unique atomic structures and electronic properties, atomically dispersed transition-metal (TM) catalysts have been demonstrated to (1) maximize the atom utilization, particularly for high-cost noble metals
+1
+,
+2
+,
+5
+,
+6
+,
+7
+,
+8
+, and (2) more importantly present unconventional catalytic activities compared to their bulk or nanosized counterparts
+9
+,
+10
+,
+11
+,
+12
+,
+13
+,
+14
+,
+15
+. These exciting features have sparked the development of general synthesis methods of single-atom catalysts for different applications. Strong interactions between metal atoms and the solid support are critical to confine those isolated atoms and prevent aggregation
+16
+,
+17
+, especially under high-temperature conditions. The most commonly used support matrix is carbon, mainly due to its strong affinity with TM atoms by forming stable chemical bonds, as well as its high tunability in allowing different dopants, high stability and good electrical conductivity
+18
+,
+19
+. A few general synthesis strategies have been reported to obtain various single-atom coordinations on carbon supports
+2
+,
+20
+,
+21
+,
+22
+,
+23
+,
+24
+,
+25
+,
+26
+, with a general form of TM–X–C (TM = Fe, Ni, Ir, Pt and so on; X = N, S, P and so on). However, their metal-atom loadings, especially for noble metals, are typically limited within one atomic percent (at.%) or a few weight percent (wt%), which are significantly lower than commercial benchmark catalysts (for example, 20 wt% Ir/C or Pt/C) and thus result in limited overall catalytic activity. Therefore, a general synthesis strategy to dramatically improve the metal-atom densities in single-atom catalysts, with metal loadings close to or even beyond their commercial benchmark counterparts, will play a critical role in this field, but still remains as an open challenge.
+There are two general strategies, ‘top down’ (Fig.
+1a
+) and ‘bottom up’ (Fig.
+1b
+), that have been widely reported in synthesizing TM single atoms on carbon supports
+4
+,
+5
+. The ‘top-down’ synthesis strategies typically start with existing carbon supports such as graphene sheets or carbon nanotubes, followed by creating carbon vacancies to allow physical confinement of TM atoms
+27
+,
+28
+. However, as the size of carbon vacancies cannot be uniformly controlled and could range from one to tens of atoms, the total number of vacant sites is dramatically limited. As a result, clusters will be easily formed in large vacancies under a high metal loading (Fig.
+1a
+). On the other hand, the ‘bottom-up’ strategies start with metal and organic precursors
+13
+,
+21
+, such as metal–organic frameworks, metal–porphyrin molecules or small organic molecules, followed by a high-temperature carbonization process to form the carbon matrix with metal atoms embedded (Fig.
+1b
+). However, due to the excessive number of metal atoms and the lack of spacing between them, they tend to aggregate into clusters or nanoparticles during the annealing process, resulting in significantly decreased single-atom metal loadings. A strategy with a different synthesis mechanism is needed to overcome these metal loading limitations in single-atom catalysts.
+Fig. 1: Schematic illustration of the synthesis process of single-atom catalysts using different strategies.
+a
+, The ‘top-down’ synthesis strategy, which typically starts with existing carbon supports such as graphene sheets or carbon nanotubes, followed by creating carbon vacancies to trap TM atoms.
+b
+, The ‘bottom-up’ approach, which starts with metal and organic precursors.
+c
+, The proposed method, which is based on the crosslinking and self-assembly of GQDs.
+Full size image
+Here we report a general synthesis of single-atom catalysts with high TM-atom densities of up to 41.6 wt% or 3.84 at.% (in the case of iridium, Ir), representing a several-fold improvement compared to benchmarks in the literature (Table
+1
+). Multi-scale characterization evidence ranging from subnanometres to millimetres was integrated to exclude the existence of clusters or nanoparticles. Other noble or non-noble TM single-atom catalysts with similarly high loadings were also obtained, suggesting the generality of our strategy. We first use Ir as the representative metal centre, confined in N-doped carbon, which has been most widely used to stabilize TM single atoms
+29
+,
+30
+,
+31
+, to demonstrate our synthetic strategy. In contrast with traditional ‘top-down’ or ‘bottom-up’ methods, our strategy (Fig.
+1c
+) starts from surface-functionalized graphene quantum dots (GQDs) based on the following motivations: (1) GQDs are small enough, compared to the carbon supports in ‘top-down’ methods, to supply numerous surface anchoring sites for large loadings of isolated metal atoms. (2) On the other hand, compared to the organic precursors in ‘bottom-up’ methods, GQDs as the intermediate carbon support do not undergo significant structural evolution during pyrolysis, providing a stable and large spacing between TM atoms to avoid aggregation. Specifically, when functionalized with amine groups (GQDs–NH
+2
+) and mixed with TM salts in solutions, GQDs can stably and uniformly spread and confine TM cations on their surfaces (Fig.
+1c
+) due to the strong chelation/complexation effect between metal cations and amine groups
+32
+. This strong interaction helped the quantum dots to interconnect with each other and self-assemble into a layered bulk structure during the freeze-drying process of the Ir
+3+
+/GQDs–NH
+2
+mixture
+33
+. Followed by a pyrolysis process under an ammonia-rich atmosphere, a dense Ir single-atom catalyst can be obtained.
+Table 1 Composition summary of as-prepared TM single-atom catalysts
+Full size table
+Results and discussion
+Synthesis of functionalized GQDs
+A modified molecular fusion route was employed to synthesize well-crystallized GQDs–NH
+2
+(
+Methods
+)
+34
+. Photoluminescence (PL) emission studies (Supplementary Fig.
+1
+) of the as-prepared carbon suspension presents an excitation-dependent PL, confirming the successful preparation of GQDs
+33
+. Transmission electron microscopy (TEM) images and X-ray diffraction suggest that the GQDs are well crystallized, with a uniform size of ~6–8 nm (Fig.
+2b
+and Supplementary Figs.
+2
+and
+3
+). Obviously, the GQDs with different particle sizes and functional groups could affect the metal loading of single-atom catalysts (details in Supplementary Figs.
+2
+and
+4
+). With the decreasing of the size of GQDs, the concentration of the surface functional group will be increased due to its enhanced surface/volume ratio and thus lead to a higher concentration of anchored single metal atoms. So, theoretically, the smaller it is, the better. However, if the size of GQDs is too small, effective steric hindrance cannot be provided to prevent the agglomeration of metal sites between different GQDs. The optimized size of the GQDs is within ~5–10 nm in our case. The X-ray photoelectron spectroscopy (XPS) analysis of the as-prepared GQDs shows a high nitrogen content of 10.8 at.% (Supplementary Fig.
+5
+). Further deconvolution of the high-resolution N 1
+s
+spectrum (Supplementary Fig.
+5
+) shows the contribution of the –NH
+2
+group, N–C bond and a trace amount of residual –NO
+2
+group at 399.2 eV, 400.3 eV and 405.4 eV, respectively
+34
+,
+35
+. The small size of the GQDs with high contents of surface and edge –NH
+2
+functional groups ensure the fixation of high metal-atom loadings.
+Fig. 2: Synthesis and characterization of atomically dispersed iridium catalyst with iridium content of approximately 41 wt% and 3.84 at.%.
+a
+, Digital photo of (from left to right) GQD precursor (Pre-GQDs), GQDs–NH
+2
+solution, freeze-dried Ir/GQDs–NH
+2
+assembly and Ir–N–C-7 catalyst.
+b
+, Typical TEM image of GQDs–NH
+2
+, showing its uniform lateral size of ~6–8 nm.
+c
+,
+d
+, SEM images of freeze-dried Ir/GQDs–NH
+2
+assembly (
+c
+) and Ir–N–C-7 catalyst (
+d
+). Scale bars: 5 nm (
+b
+), 300 nm (
+c
+) and 500 nm (
+d
+).
+e
+, X-ray diffraction patterns of as-prepared iridium-anchored carbon catalysts with different iridium loadings, demonstrating that no metallic iridium peaks could be detected until ~60 wt% iridium was loaded. 2
+θ
+represents the diffraction angle.
+f
+, Preliminary quantification of iridium loading using XPS analysis. The plot shows a quasi-linear iridium increase from the Ir–N–C-1 sample to the Ir–N–C-7 sample, implying the formation of uniformly dispersed iridium species onto the carbon support within these samples. The vertical dotted line represents the starting point of formation of Ir clusters/particles. Errors have not been estimated because multiple tests were not deemed necessary for the whole range. We repeated the XPS measurements on the Ir–N–C-7 sample and observed loadings of 37.6 wt% (Table
+1
+) and, on a different batch sample, 39.8 wt%.
+g
+, Deconvolution of the high-resolution iridium 4
+f
+spectra for Ir–N–C-6, Ir–N–C-7, Ir–N–C-8, Ir–N–C-10, Ir–N–C-12 and Ir–N–C-15 catalysts. The panel shows that metallic iridium clusters and/or nanoparticles become visible in XPS when iridium content is higher than that in Ir–N–C-7 (approximately 41 wt% and 3.84 at.%). B.E., binding energy.
+Source data
+Full size image
+Synthesis of Ir single-atom catalyst
+We then use the as-obtained GQDs–NH
+2
+solution to synthesize the Ir–N–C catalyst with varied iridium loadings (Fig.
+2a
+). Specifically, different volumes of IrCl
+3
+stock solution (5 milligrams per millilitre) were first added into 30 millilitres of GQDs–NH
+2
+solution (1 milligram per millilitre), henceforth referred to as Ir–N–C-
+x
+where
+x
+represents the IrCl
+3
+volume in millilitres, followed by freeze drying and pyrolysis. Figure
+2c
+and Supplementary Fig.
+6
+show the scanning electron microscope (SEM) images of the GQDs–NH
+2
+with 7 millilitres of IrCl
+3
+solution after freeze drying, indicating a crosslinking and self-assembly process from well-dispersed GQDs–NH
+2
+to layered bulk carbon structures, which agrees with previous reports
+33
+,
+36
+. This layered morphology was maintained after pyrolysis at 500 °C in argon, resulting in the Ir–N–C-7 final product (
+Methods
+, Fig.
+2d
+and Supplementary Fig.
+7
+). Cl ligands were completely removed during this pyrolysis step as confirmed by XPS (Supplementary Fig.
+8
+). The X-ray diffraction patterns of Ir–N–C catalysts with different iridium loadings show similar features of two broad peaks at approximately 19° and 38° (Fig.
+2e
+), suggesting the formation of amorphous bulk carbon from GQD assembly after pyrolysis. No metallic iridium peaks were observed in Ir–N–C catalysts until ~60 wt% iridium loading (Ir–N–C-15), implying that high-loading atomically dispersed iridium catalyst could be obtained. Iridium quantification from XPS (Fig.
+2f
+) reveals a quasi-linear increasing of iridium content from Ir–N–C-1 to Ir–N–C-7, followed by a nonlinear change of iridium content from Ir–N–C-8 to Ir–N–C-15 catalyst, which implies that uniform atomically dispersed iridium might be formed until the nominal iridium loading (
+Methods
+) of ~41 wt% (iridium content in Ir–N–C-7). This observation is consistent with the deconvolution of the high-resolution iridium 4
+f
+spectrum (Fig.
+2g
+). Only an oxidized iridium specie in the form of Ir
+δ
++
+(iridium 4
+f
+7/2
+peak at 61.9 eV) was detected until the Ir–N–C-7 catalyst, followed by the arising of metallic iridium (iridium 4
+f
+7/2
+peak at 60.8 eV) from Ir–N–C-8 to Ir–N–C-15 (ref.
+37
+). It is worthwhile to note that the oxidation state of iridium in Ir–N–C-7 catalyst is very close to that of IrO
+2
+(+4), where the iridium 4
+f
+7/2
+peak of IrO
+2
+is located at 61.6 eV (ref.
+38
+). According to the XPS results, our Ir–N–C-7 catalyst has an iridium loading of 37.6 wt% (3.84 at.%) and nitrogen content of 27.8 at.%, consistent with the nominal iridium loading of ~41 wt%.
+Aberration-corrected high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) was performed to investigate the distribution of iridium species at the atomic scale in Ir–N–C-7 catalyst. As illustrated in Fig.
+3a–d
+, densely while atomically dispersed iridium atoms on a highly porous carbon support were observed in Ir–N–C-7 catalyst, with no clusters observed. The homogeneously dispersed bright spots are ~0.2 nm in size, matching with the theoretical size of metal atoms. The simultaneous acquisition of electron energy loss spectroscopy (EELS) and energy-dispersive X-ray spectroscopy (EDS) results with the beam positioned on a bright atom, shown in Supplementary Fig.
+9
+, revealed Ir, N and C and suggested possible coordination of Ir–N–C. EDS mapping analysis further demonstrates the homogeneous distribution of iridium, nitrogen and carbon (Supplementary Fig.
+10
+) and gives an iridium content of 44.5 wt%. More importantly, a wide-range HAADF-STEM screening was performed to confirm that there are no iridium clusters or nanoparticles in high-loading Ir–N–C samples (Supplementary Figs.
+11
+and
+12
+). However, nanoparticles were observed when the iridium loading was further increased to Ir–N–C-8 (Supplementary Fig.
+13
+), agreeing well with the XPS analysis. Considering the limited solubility of iridium in corrosive aqua regia solution, we employed thermogravimetric analysis (TGA) to accurately obtain the iridium loading in Ir–N–C-7 catalyst of 41.6 ± 2.5 wt% (Supplementary Fig.
+14
+). This result is consistent with the estimations by XPS (37.6 wt%) and EDS (44.5 wt%) and the nominal calculation (~41.5 wt%).
+Fig. 3: Characterization of atomically dispersed iridium catalyst with iridium content of ~41 wt%.
+a
+–
+d
+, Aberration-corrected HAADF-STEM images of Ir–N–C-7 catalyst. Scale bars, 100 nm (
+a
+), 5 nm (
+b
+), 2 nm (
+c
+) and 1 nm (
+d
+).
+e
+, The EXAFS spectra of the Ir–N–C-7 sample. The data for commercial iridium foil and IrO
+2
+powder were included for comparison.
+f
+, Pair distribution function for Ir–N–C-7 catalyst. The simulated PDF for bulk iridium metal was used for comparison. The X-ray absorption spectroscopy and pair distribution function demonstrated that there is no iridium–iridium contribution in Ir–N–C-7 catalyst in the micrometre-scale and millimetre-scale ranges, respectively, confirming the formation of fully isolated iridium species in this sample.
+Full size image
+With the confirmation of the atomic distribution of Ir down to the subnanometre scale by STEM characterization, we next employed X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine structure (EXAFS) to study the electronic and coordination structures of iridium in high-loading Ir single-atom catalysts, such as the Ir–N–C-7 sample, at the micrometre scale. As shown in the Ir L
+3
+-edge XANES spectra (Supplementary Fig.
+15
+), the spectrum of Ir–N–C-7 was different from that of Ir foil and very similar to that of IrO
+2
+, indicating a higher oxidation state of iridium in Ir–N–C-7. The EXAFS spectra of Ir–N–C-7 catalyst (Fig.
+3e
+) presents a prominent peak at ~1.58 Å, which can be ascribed to the iridium–nitrogen/carbon coordination
+39
+. No high-order peaks, such as the iridium–iridium interaction in Ir foil (~2.6 Å) and Ir–O–Ir in IrO
+2
+, were observed, confirming that the iridium species in Ir–N–C-7 were dispersed as isolated single atoms. Further EXAFS fitting, as shown in Supplementary Fig.
+16
+and Supplementary Table
+1
+, suggested a possible relative uniform Ir–N
+4
+configuration for the Ir sites of Ir–N–C-7 catalyst. Synchrotron-based pair distribution function (PDF) analysis was performed to further demonstrate the homogeneity of Ir–N–C-7 catalyst in the millimetre-scale range. The Ir–N–C-7 powders were loaded into 0.9-millilitre-inner-diameter Kapton capillaries for PDF measurement using an X-ray radiation of wavelength 0.21062 Å. Figure
+3f
+and Supplementary Fig.
+17
+show the PDF spectra of Ir–N–C-7, suggesting a highly amorphous material with a structural correlation up to only 7 Å. The peaks located at 1.35 and 2.02 Å represent the C–C/N bonds and the Ir–C/N bonds, respectively. No iridium–iridium interaction, which is expected at 2.7 Å, was observed in Ir–N–C-7 catalyst, indicating the atomic dispersion of iridium across the whole range of Ir–N–C-7 single-atom catalyst. The above discussed multi-scale characterization results, taken together, lead to a solid conclusion that Ir single-atom catalyst with a high loading of up to ~40 wt% was successfully synthesized.
+To monitor the synthesis transition of the GQDs–NH
+2
+/Ir
+3+
+mixture to the single-atom Ir–N–C-7 catalyst, we first examined the sample using ex-situ X-ray diffraction under different temperatures, which represent different synthesis phases. As shown in Supplementary Fig.
+18
+, the GQDs started to get fused at 300 °C to form an amorphous bulk carbon, indicated by the emerging of a broad peak at around 19° as well as the decreasing of the intensity of the GQD (002) peak. The amorphization transition might be due to the heavy incorporation of nitrogen and iridium atoms into the GQD lattice under high temperature. With the temperature further increased, the (002) peak of the GQDs completely disappeared, and two broad peaks at approximately 19° and 38° (Supplementary Fig.
+18
+) emerged, suggesting the full formation of amorphous bulk carbon from GQD assembly after pyrolysis. No metallic iridium peaks were observed in Ir–N–C-7 catalysts. Ex-situ XPS study (Supplementary Fig.
+18
+) reveals that the oxidation state of Ir gradually increases from 300 °C to 500 °C, which also implies that the Ir
+3+
+stabilized by the amine functional group in the GQDs–NH
+2
+/Ir
+3+
+mixture gradually coordinated with the lattice nitrogen and carbon to form more stable Ir–N
+a
+–C motif. A scheme (Supplementary Fig.
+18
+) was employed to illustrate the synthesis of high-loading Ir–N–C-7 catalyst. Initially, the Ir
+3+
+atoms were stably absorbed on the GQDs–NH
+2
+surface by the strong chelation/complexation effect between metal cations and amine groups. With the temperature continuing to increase, the small GQDs started to interconnect and then to form a three-dimensional bulk carbon that can be directly used for practical applications. Simultaneously, the surface nitrogen will be in-situ doped into the GQD lattice under high temperature, and thus help to trap the isolated Ir atoms to form the Ir–N
+a
+–C coordination. As a result, the oxidation state of Ir will increase after the formation of the Ir–N
+a
+–C motif. The thermal stability of the GQDs is the key point to avoid the formation of Ir nanoclusters or particles. While the heavy incorporation of nitrogen and iridium atoms leads to less lattice periodicity of GQDs, they do not undergo a complete deconstruction during pyrolysis, which was demonstrated by the TEM study under different temperatures (Supplementary Fig.
+18
+). Thus, it can provide a stable and large spacing between TM atoms to avoid aggregation.
+We further demonstrated that another carbon substrate with similar high nitrogen dopants cannot deliver the same products. Specifically, we first synthesized nitrogen-doped graphene using graphene oxide (GO) as the starting material (Supplementary Fig.
+19
+). The as-synthesized nitrogen-doped carbon (GO–NH
+2
+) shows a very high nitrogen content of ~20 at.% (Supplementary Fig.
+19
+). The GO–NH
+2
+was used as the support to synthesize the Ir single-atom catalyst, following the same process as for Ir–N–C-7 synthesis. However, we found that even if the loading of Ir is less than 10 wt%, nanoparticles will be formed (Supplementary Fig.
+19
+), showing obvious metallic Ir X-ray diffraction peaks. This observation reveals that a high-loading Ir single-atom catalyst could not be obtained using the carbon support with only a high level of nitrogen dopant, demonstrating the unique role of the GQDs. While GO–NH
+2
+is as stable as GQDs during pyrolysis, it shows a very low surface-to-volume ratio, providing limited anchor sites. As the intermediate carbon support, GQDs are unique since they can supply numerous surface anchoring sites for large loadings of isolated metal atoms, and they are stable enough during pyrolysis to prevent the isolated atom aggregation.
+Synthesis of other single-atom catalysts
+To validate if our GQD-assisted synthesis method can be extended to synthesize other TM single-atom catalysts with high metal loadings, we first replaced the iridium precursor with platinum to prepare Pt–N–C single-atom catalysts. Figure
+4a
+and Supplementary Fig.
+20
+exhibit the HAADF-STEM images of Pt–N–C-6 catalyst with a nominal platinum content of ~32.3 wt% (
+Methods
+). Densely dispersed Pt single atoms were observed without any nanoclusters or particles, suggesting the successful extension from iridium to different noble metal centres. The EDS elemental mapping shows the uniform distribution of platinum, nitrogen and carbon in Pt–N–C-6 (Supplementary Fig.
+21
+). The EELS and EDS scans on a single platinum site (Supplementary Fig.
+22
+) further reveal the expected platinum, nitrogen and carbon signals in Pt–N–C-6. The deconvolution of platinum 4
+f
+spectra (Supplementary Fig.
+20
+) demonstrates that the isolated platinum in Pt–N–C-6 catalyst is in the oxidized valence state, with the Pt 4
+f
+7/2
+peak located at 72.5 eV, which is higher than that of metallic Pt (4
+f
+7/2
+at 71.1 eV)
+40
+. No metallic platinum signal was detected by XPS.
+Fig. 4: Generality of the GQD-assisted strategy for synthesizing atomically dispersed TM catalysts with high metal content.
+a
+, Aberration-corrected HAADF-STEM image of Pt–N–C-6 catalyst with a nominal platinum content of ~32.3 wt%, demonstrating the formation of isolated platinum species on a nitrogen-doped carbon support. Scale bar, 2 nm.
+b
+, Aberration-corrected HAADF-STEM image of Ni–N–C-3 catalyst with ~15 wt% Ni, demonstrating that isolated nickel atoms were uniformly immobilized onto the carbon support. Scale bar, 1 nm.
+c
+, STEM–EELS point spectrum of isolated nickel site (circled in red in the inset), suggesting the colocation of nickel and nitrogen on the carbon support. c.p.s., counts per second.
+d
+,
+e
+, Normalized XANES (
+d
+) and EXAFS (
+e
+) spectra for the Ni–N–C-3 sample. The data for commercial nickel foil and NiO powder were included for comparison.
+f
+, Pair distribution function for Ni–N–C-3 catalyst. The simulated PDF spectra for bulk nickel metal was included for comparison. The peak at ~1.41 Å is due to the C–C bonds in graphite. Two overlapped peaks at approximately 1.8 to 2.0 Å can be ascribed to the Ni–N and Ni–C contributions. Another prominent peak at ~2.5 Å originates from the second nearest neighbour C–C distances. The PDF clearly demonstrates that the nickel species are in isolated environments and coordinate with nitrogen in as-prepared 15 wt% Ni–N–C catalyst.
+g
+, The steady-state current densities (
+j
+) and the corresponding Faradaic efficiencies of CO (FE
+CO
+) of ~7.5 wt% Ni–N–C and ~15 wt% Ni–N–C catalyst in an anion membrane electrode assembly (MEA). The intrinsic CO
+2
+reduction reaction performance of Ni–N–C catalysts were performed and repeated in a standard three-electrode flow cell (Supplementary Fig.
+26
+).
+h
+, The corresponding CO partial current densities (
+j
+CO
+) of ~7.5 wt% Ni–N–C and ~15 wt% Ni–N–C catalyst at different applied voltages.
+Source data
+Full size image
+Other TM centres beyond noble metals, represented by nickel, were also prepared via the same synthesis method. As shown in Fig.
+4b
+, the as-synthesized Ni–N–C-3 catalyst presents atomically dispersed nickel without observable nickel clusters. The colocation of nickel and nitrogen on the carbon support was also demonstrated by the STEM–EELS point spectrum (Fig.
+4c
+). The highest nickel single-atom loading we can obtain is approximately 15 wt% (3.6 at.%; Supplementary Fig.
+23
+) in Ni–N–C-3, which is at least twofold higher than previously reported Ni single-atom catalysts (Table
+1
+). As the nickel species can be readily dissolved in aqua regia solution, we then used inductively coupled plasma optical emission spectrometry to double confirm the nickel atom loading. As a result, the inductively coupled plasma gives a nickel content of 15.4 ± 0.4 wt% for Ni–N–C-3, which is in good agreement with XPS and TGA estimations, confirming the high accuracy of the XPS and TGA methods for single-atom loading quantification. The Ni K-edge XANES spectra in Fig.
+4d
+show that the oxidation state of Ni in as-prepared Ni–N–C is located between 0 and +2, which is consistent with XPS analysis (Supplementary Fig.
+24
+). The EXAFS of 15 wt% Ni–N–C catalyst (Fig.
+4e
+) presented a notable Ni–N/C coordination peak at ~1.35 Å, without any observable Ni–Ni interactions at ~2.18 Å (Ni foil) and Ni–O–Ni (NiO). Synchrotron-based PDF (Fig.
+4f
+and Supplementary Fig.
+25
+) further confirms the nickel single-atom dispersion across the whole sample region. The above results confirm that tuning the metal active site is routinely achievable, demonstrating the generality of our synthetic strategy for high-loading TM single-atom catalysts.
+Electrochemical CO
+2
+reduction on Ni single-atom catalyst
+Ni single-atom catalysts have shown high selectivity in electrochemical CO
+2
+reduction to CO, but limited activity due to the low Ni density
+14
+,
+41
+,
+42
+,
+43
+. As a representative case study, we compare the CO
+2
+reduction performances on as-prepared Ni–N–C-1.5 (~7.5 wt% Ni) and Ni–N–C-3 (~15 wt% Ni) catalysts with the same catalyst mass loading but different nickel atom loadings. To overcome the CO
+2
+diffusion limitation in the H-cell reactor and the flooding issue of the gas diffusion electrode in the flow cell reactor, we utilized an anion-exchange membrane electrode assembly (
+Methods
+) to investigate the impact of Ni single-atom loading on CO
+2
+reduction performance
+14
+. As shown in Fig.
+4g
+and Supplementary Fig.
+26
+, while both ~7.5 wt% Ni–N–C-1.5 and ~15 wt% Ni–N–C-3 show an outstanding CO selectivity of over 90%, their activities differ dramatically. Specifically, under a cell voltage of ~2.55 V, ~15 wt% Ni–N–C-3 catalyst can deliver a CO partial current of 122 mA cm
+−2
+, which represents a 2.5-fold improvement from ~7.5 wt% Ni–N–C-1.5 (Fig.
+4h
+). In addition, we performed HADDF-STEM analysis on the postcatalysed Ni–N–C-3 catalyst (Supplementary Fig.
+27
+). We did not observe any agglomeration during the CO
+2
+reduction reaction, demonstrating the good stability of our high-loading single-atom catalysts. This result clearly demonstrates the advantage of high single-atom loadings in improving single-atom catalysis.
+Pushing the metal loading in single-atom catalysts to the limit will play a critical role in the catalysts’ practical applications. Our GQD-assisted synthesis strategy sets up a limit of TM single-atom density before the formation of clusters or nanoparticles. Fine tuning of the quantum dot functional group, TM coordination environment and TM centre will be future directions to further increase the single-atom loading and improve the catalytic performances of single-atom catalysts in different reaction applications.
+Methods
+GQDs–NH
+2
+synthesis
+A modified molecular fusion route was employed to synthesize well-crystallized GQDs–NH
+2
+34
+.
+Typically, 8 grams of pyrene (Sigma, purity >98%) was nitrated into trinitropyrene in 640 millilitres of concentrated HNO
+3
+(70%, Sigma) at 80 °C under refluxing and stirring for 12 h. After cooling to room temperature, the mixture was washed to neutral pH using deionized (DI) water (18.2 MΩ) by centrifuging. The resultant yellow 1,3,6-trinitropyrene was then dried under vacuum at room temperature. Next, 1.2 grams of dried 1,3,6-trinitropyrene powder were dispersed into a solution containing 220 millilitres of DI water and 20 millilitres of concentrated ammonia solution (30%, Sigma). The above mixture was ultrasonicated in ice water using a batch sonicator for 4 h. Sixty millilitres of the homogeneous suspension were transferred into a Teflon-lined autoclave (100 millilitres). The four autoclaves (total 240 millilitres mixture solution) were heated at 200 °C for 10 h. After natural cooling to room temperature, all the product-containing solution was filtered through a 0.22 μm microporous membrane to remove insoluble carbon product and further concentrated to ~90 millilitres by rotation drying. The concentrated solution was dialysed in a dialysis bag (retained molecular weight, ~12–14 kDa, Innovating Science) for two days to remove contamination and unfused small molecules. The concentration of purified GQDs–NH
+2
+solution was ~1 milligram per millilitre.
+Ir–N–C-
+x
+synthesis
+First, 1 gram of IrCl
+3
+∙
+x
+H
+2
+O (Alfa Aesar) was dissolved into 200 millilitres of DI water to prepare the IrCl
+3
+stock solution with a concentration of ~5 milligrams per millilitre. For the Ir–N–C-7 sample, 7 millilitres of IrCl
+3
+stock solution were added to ~30 millilitres of purified GQDs–NH
+2
+solution (~30 milligrams of GQDs–NH
+2
+). Then, the mixture solution was sonicated in ice water for 15 min, followed by being quickly frozen in liquid nitrogen. After freeze drying, the as-prepared aerogel-like powder was mixed with urea (VWR) with a mass ratio of 1 to 10 and further heated in a tube furnace to 500 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 1 h, and kept at the same temperature for another 2 h before cooling to room temperature. Finally, the Ir–N–C-7 powder was collected for further characterizations. For other Ir–N–C-
+x
+catalyst syntheses, only the volume of IrCl
+3
+stock solution was changed; for example 1 millilitre of IrCl
+3
+stock solution was used to prepared Ir–N–C-1 catalyst. The nominal Ir loading was defined using following equation:
+\(\frac{{{\mathrm{Mass}}_{{\mathrm{added}} - {\mathrm{Ir}}} \ ({\mathrm{mg}})}}{{{\mathrm{Mass}}_{{\mathrm{added}} - {\mathrm{Ir}}}\left( {\mathrm{mg}} \right) + {\mathrm{Mass}}_{\mathrm{GQDs}} \ ({\mathrm{mg}})}} \times 100{\mathrm{\% }}\)
+, where Mass
+added–Ir
+and Mass
+GQDs
+are the masses of the added Ir and the GQDs, respectively.
+Ir–GO–NH
+2
+-
+x
+synthesis
+First, to prepare the nitrogen-doped graphene support (GO–NH
+2
+), GO (purchased from CYG and used as received) was mixed with urea (VWR) with a mass ratio of 1 to 10, and further heated in a tube furnace to 500 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 1 h, and then kept at the same temperature for another 2 h before cooling to room temperature. Then, Ir–GO–NH
+2
+-
+x
+was synthesized by following the same process as for Ir–N–C-
+x
+catalyst using the GO–NH
+2
+as the support instead of GQDs–NH
+2
+.
+Pt–N–C-6 synthesis
+First, 1 gram of H
+2
+PtCl
+6
+(Sigma) was dissolved into 200 millilitres of DI water to prepare the H
+2
+PtCl
+6
+stock solution with a concentration of 5 milligrams per millilitre. Then, 6 millilitres of H
+2
+PtCl
+6
+stock solution was added to ~30 millilitres of purified GQDs–NH
+2
+solution (~30 milligrams of GQDs–NH
+2
+), followed by sonication in ice water for 15 min. The above solution was freeze dried and mixed with urea (VWR) with a mass ratio of 1 to 10, and further heated in a tube furnace to 500 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 2 h, and then kept at the same temperature for another 1 h before cooling to room temperature. Finally, the Pt–N–C-6 powder was collected for further characterization. The nominal Pt loading was defined using the following equation:
+\(\frac{{{\mathrm{Mass}}_{{\mathrm{added}} - {\mathrm{Pt}}} \ ({\mathrm{mg}})}}{{{\mathrm{Mass}}_{{\mathrm{added}} - {\mathrm{Pt}}}\left( {\mathrm{mg}} \right) + {\mathrm{Mass}}_{{\mathrm{GQDs}}} \ ({\mathrm{mg}})}} \times 100{\mathrm{\% }}\)
+, where Mass
+added–Pt
+is the mass of the added Pt.
+Ni–N–C-
+x
+synthesis
+First, 1 gram of Ni(NO
+3
+)
+2
+∙6H
+2
+O (Sigma) was dissolved into 200 millilitres of DI water to prepare the Ni(NO
+3
+)
+2
+stock solution with a concentration of ~5 milligrams per millilitre. Then, for the Ni–N–C sample with 15 wt% nickel, 3 millilitres of Ni(NO
+3
+)
+2
+stock solution was added to ~30 millilitres of purified GQDs–NH
+2
+solution (~30 milligrams of GQDs–NH
+2
+), followed by sonication in ice water for 15 min. The above solution was freeze dried and mixed with urea (VWR) with a mass ratio of 1 to 10 and further heated in a tube furnace to 750 °C under a gas flow of 100 sccm Ar (UHP, Airgas) within 1 h, and then kept at the same temperature for another 1 h before cooling to room temperature. Finally, the as-prepared powder was collected for further characterization. To synthesize the Ni–N–C-
+x
+catalysts for the electrochemical CO
+2
+reduction test, only 30 milligrams of GQDs–NH
+2
+was replaced using 30 milligrams of GQDs–OH. To prepare GQDs–OH, all the processes are the same as in the preparation of GQDs–NH
+2
+except 240 millilitres of 0.2 M NaOH solution was used to replace the previous ammonia solution (220 millilitres of DI plus 20 millilitres of concentrated ammonia). This is because the heavily nitrogen-doped carbon matrix will also promote the hydrogen evolution reaction. The as-prepared Ni–N–C-1.5 (~7.5 wt% Ni) and Ni–N–C-3 (~15 wt% Ni) single-atom catalysts from GQDs–OH were also verified using STEM.
+Characterization
+XPS was obtained with a PHI Quantera spectrometer, using a monochromatic Al Kα radiation (1,486.6 eV) and a low-energy flood gun as neutralizer. All XPS spectra were calibrated by shifting the detected carbon C 1
+s
+peak to 284.6 eV. X-ray diffraction was performed on a Rigaku SmartLab X-ray diffraction platform. Absorption and PL spectra were measured with Agilent Cary-60 ultraviolet–visible spectrometer and Cary Eclipse fluorometer, respectively. TGA was performed on a Q-600 Simultaneous TGA/DSC from TA Instruments. SEM was performed on an FEI Helios NanoLab 660 DualBeam system and an FEI Quanta 400 field emission scanning electron microscope. Inductively coupled plasma atomic emission spectroscopy results were collected using an Optima 8300 spectrometer. The images of the GQDs were taken on a JEOL 2100F TEM instrument. HAADF-STEM images and EELS point spectra of the Ni–N–C samples were acquired on a Nion Ultra STEM U100 operated at 60 keV and equipped with a Gatan Enfina spectrometer. Simultaneous EELS and EDS point spectra of Pt–N–C and Ir–N–C were acquired on a JEOL NEOARM operated at 60 kV and equipped with dual 100 mm
+2
+silicon drift detectors and a Gatan Quantum spectrometer. X-ray absorption spectroscopy spectra, including XANES and EXAFS of the Ni K edge and Ir L
+3
+edge, were acquired at the Soft X-ray Microcharacterization Beamline and BioXAS-Spectroscopy Beamline at Canadian Light Source. Total scattering data were collected at the Brockhouse High Energy Wiggler Beamline of the Canadian Light Source using wavelength
+λ
+= 0.21062 Å radiation. The samples were loaded into 0.9 mm Kapton capillaries. An empty Kapton tube was measured for background subtraction. Pair distribution functions were generated with GSAS-II software using a
+Q
+max
+of 21 Å
+−1
+, where
+Q
+max
+= 4
+π
+sin(
+θ
+)/
+λ
+).
+Electrochemical test
+All the electrochemical measurements were run at 25 °C. A BioLogic VMP3 workstation was employed to record the electrochemical response. Typically, 32 mg of as-prepared Ni–N–C-3 (or Ni–N–C-1.5) powder and 8 mg of carbon black (Vulcan XC-72, Fuel Cell Store) were mixed with 4 ml of isopropanol and 160 µl of alkaline ionomer binder solution (Dioxide Materials, 5%) and sonicated for 10 min to obtain a homogeneous ink. Then, all the ink was air-brushed onto the 5 × 5 cm
+2
+Sigracet 35 BC (Fuel Cell Store) gas diffusion layer electrode. Then 4 cm
+2
+of the catalyst-coated gas diffusion layer electrode was cut to be used as a CO
+2
+reduction reaction cathode with a catalyst loading of ~0.5 mg cm
+−2
+. An IrO
+2
+electrode (Dioxide Materials) was used as an oxygen evolution reaction anode. A polystyrene methyl methylimidazolium chloride anion-exchange membrane (PSMIM, Dioxide Materials) was sandwiched by the two gas diffusion layer electrodes to separate the chambers. On the cathode side, a titanium gas flow channel supplied 30 sccm humidified CO
+2
+while the anode was circulated with 0.5 M KOH electrolyte at 3 ml min
+−1
+flow rate. The cell voltages in Fig.
+4g
+and H were recorded with 85% iR-correction (current × resistance compensation).
+In order to quantify the gas products during electrolysis, CO
+2
+gas (Airgas, 99.995%) was delivered into the cathodic compartment at a rate of 30.0 sccm and vented into a gas chromatograph (Shimadzu GC-2014) equipped with a combination of molecular sieve 5A, HayeSep Q, HayeSep T and HayeSep N columns. A thermal conductivity detector was mainly used to quantify H
+2
+concentration, and a flame ionization detector with a methanizer was used to quantitatively analyse CO content and/or any other alkane species. The partial current density for a given product was calculated as follows:
+$$j_i = x_i \times v \times \frac{{n_i{F}p_{\mathrm{o}}}}{RT} \times ({\mathrm{electrode}}\,{\mathrm{area}})^{ - 1}$$
+where
+x
+i
+is the volume fraction of a certain product determined by online gas chromatograph referenced to calibration curves from the standard gas sample (Airgas),
+v
+is the flow rate of 30.0 sccm,
+n
+i
+is the number of electrons involved,
+p
+o
+= 101.3 kPa,
+F
+is the Faradaic constant, the temperature
+T
+= 298 K and
+R
+is the gas constant. The corresponding Faradaic efficiency at each potential is calculated by
+\({\mathrm{FE}} = \frac{{j_i}}{{j_{\mathrm{total}}}} \times 100\%\)
+, where
+j
+total
+is the total current density.
+Data availability
+The authors declare that all of the data supporting the findings of this study are available within the paper and the Supplementary Information, and also from the corresponding authors upon reasonable request.
+Source data
+are provided with this paper.
+References
+Qiao, B. et al. Single-atom catalysis of CO oxidation using Pt
+1
+/FeO
+x
+.
+Nat. Chem.
+3
+, 634–641 (2011).
+Article
+CAS
+PubMed
+Google Scholar
+Sun, X. et al. Facile synthesis of precious-metal single-site catalysts using organic solvents.
+Nat. Chem.
+12
+, 560–567 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Zhang, L., Ren, Y., Liu, W., Wang, A. & Zhang, T. Single-atom catalyst: a rising star for green synthesis of fine chemicals.
+Natl Sci. Rev.
+5
+, 653–672 (2018).
+Article
+CAS
+Google Scholar
+Ji, S. et al. Chemical synthesis of single atomic site catalysts.
+Chem. Rev.
+120
+, 11900–11955 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, Y. et al. Single-atom catalysts: synthetic strategies and electrochemical applications.
+Joule
+2
+, 1242–1264 (2018).
+Article
+CAS
+Google Scholar
+Liu, P. et al. Photochemical route for synthesizing atomically dispersed palladium catalysts.
+Science
+352
+, 797–800 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Lu, Y. et al. Identification of the active complex for CO oxidation over single-atom Ir-on-MgAl
+2
+O
+4
+catalysts.
+Nat. Catal.
+2
+, 149–156 (2019).
+Article
+CAS
+Google Scholar
+Jones, J. et al. Thermally stable single-atom platinum-on-ceria catalysts via atom trapping.
+Science
+353
+, 150–154 (2016).
+Article
+CAS
+PubMed
+Google Scholar
+Back, S., Lim, J., Kim, N.-Y., Kim, Y.-H. & Jung, Y. Single-atom catalysts for CO
+2
+electroreduction with significant activity and selectivity improvements.
+Chem. Sci.
+8
+, 1090–1096 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Darby, M. T., Stamatakis, M., Michaelides, A. & Sykes, E. C. H. Lonely atoms with special gifts: breaking linear scaling relationships in heterogeneous catalysis with single-atom alloys.
+J. Phys. Chem. Lett.
+9
+, 5636–5646 (2018).
+Article
+CAS
+PubMed
+Google Scholar
+Gani, T. Z. & Kulik, H. J. Understanding and breaking scaling relations in single-site catalysis: methane to methanol conversion by Fe
+IV
+═O.
+ACS Catal.
+8
+, 975–986 (2018).
+Article
+CAS
+Google Scholar
+Gu, J., Hsu, C.-S., Bai, L., Chen, H. M. & Hu, X. Atomically dispersed Fe
+3+
+sites catalyze efficient CO
+2
+electroreduction to CO.
+Science
+364
+, 1091–1094 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Xiong, Y. et al. Single-atom Rh/N-doped carbon electrocatalyst for formic acid oxidation.
+Nat. Nanotechnol.
+15
+, 390–397 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Zheng, T. et al. Large-scale and highly selective CO
+2
+electrocatalytic reduction on nickel single-atom catalyst.
+Joule
+3
+, 265–278 (2019).
+Article
+CAS
+Google Scholar
+Malta, G. et al. Identification of single-site gold catalysis in acetylene hydrochlorination.
+Science
+355
+, 1399–1403 (2017).
+Article
+CAS
+PubMed
+Google Scholar
+Wu, J., Xiong, L., Zhao, B., Liu, M. & Huang, L. Densely populated single atom catalysts.
+Small Methods
+4
+, 1900540 (2019).
+Article
+CAS
+Google Scholar
+Wang, L. et al. A sulfur-tethering synthesis strategy toward high-loading atomically dispersed noble metal catalysts.
+Sci. Adv.
+5
+, eaax6322 (2019).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Gawande, M. B., Fornasiero, P. & Zbořil, R. Carbon-based single-atom catalysts for advanced applications.
+ACS Catal.
+10
+, 2231–2259 (2020).
+Article
+CAS
+Google Scholar
+Bakandritsos, A. et al. Mixed-valence single-atom catalyst derived from functionalized graphene.
+Adv. Mater.
+31
+, 1900323 (2019).
+Article
+CAS
+Google Scholar
+Zhang, Z. et al. Electrochemical deposition as a universal route for fabricating single-atom catalysts.
+Nat. Commun.
+11
+, 1215 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+He, X. et al. A versatile route to fabricate single atom catalysts with high chemoselectivity and regioselectivity in hydrogenation.
+Nat. Commun.
+10
+, 3663 (2019).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Zhao, L. et al. Cascade anchoring strategy for general mass production of high-loading single-atomic metal-nitrogen catalysts.
+Nat. Commun.
+10
+, 1278 (2019).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Fei, H. et al. General synthesis and definitive structural identification of MN
+4
+C
+4
+single-atom catalysts with tunable electrocatalytic activities.
+Nat. Catal.
+1
+, 63–72 (2018).
+Article
+CAS
+Google Scholar
+Qu, Y. et al. Ambient synthesis of single-atom catalysts from bulk metal via trapping of atoms by surface dangling bonds.
+Adv. Mater.
+31
+, 1904496 (2019).
+Article
+CAS
+Google Scholar
+Liu, K. et al. Strong metal-support interaction promoted scalable production of thermally stable single-atom catalysts.
+Nat. Commun.
+11
+, 1263 (2020).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Zhu, Y. et al. A cocoon silk chemistry strategy to ultrathin N-doped carbon nanosheet with metal single-site catalysts.
+Nat. Commun.
+9
+, 3861 (2018).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Jiang, K. et al. Highly selective oxygen reduction to hydrogen peroxide on transition metal single atom coordination.
+Nat. Commun.
+10
+, 3997 (2019).
+Article
+PubMed
+PubMed Central
+CAS
+Google Scholar
+Du, Z. et al. Cobalt in nitrogen-doped graphene as single-atom catalyst for high-sulfur content lithium–sulfur batteries.
+J. Am. Chem. Soc.
+141
+, 3977–3985 (2019).
+Article
+CAS
+PubMed
+Google Scholar
+Deng, D. et al. A single iron site confined in a graphene matrix for the catalytic oxidation of benzene at room temperature.
+Sci. Adv.
+1
+, e1500462 (2015).
+Article
+PubMed
+PubMed Central
+Google Scholar
+Jung, E. et al. Atomic-level tuning of Co–N–C catalyst for high-performance electrochemical H
+2
+O
+2
+production.
+Nat. Mater.
+19
+, 436–442 (2020).
+Article
+CAS
+PubMed
+Google Scholar
+Liu, W. et al. Single-atom dispersed Co–N–C catalyst: structure identification and performance for hydrogenative coupling of nitroarenes.
+Chem. Sci.
+7
+, 5758–5764 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wang, J. et al. Amino-functionalized Fe
+3
+O
+4
+@SiO
+2
+core-shell magnetic nanomaterial as a novel adsorbent for aqueous heavy metals removal.
+J. Colloid Interface Sci.
+349
+, 293–299 (2010).
+Article
+CAS
+PubMed
+Google Scholar
+Chen, G. et al. Assembling carbon quantum dots to a layered carbon for high-density supercapacitor electrodes.
+Sci. Rep.
+6
+, 19028 (2016).
+Article
+CAS
+PubMed
+PubMed Central
+Google Scholar
+Wang, L. et al. Gram-scale synthesis of single-crystalline graphene quantum dots with superior optical properties.
+Nat. Commun.
+5
+, 5357 (2014).
+Article
+CAS
+PubMed
+Google Scholar
+Kumar, G. S. et al. Amino-functionalized graphene quantum dots: origin of tunable heterogeneous photoluminescence.
+Nanoscale
+6
+, 3384–3391 (2014).
+Article
+PubMed
+CAS
+Google Scholar
+Allahbakhsh, A. & Bahramian, A. R. Self-assembly of graphene quantum dots into hydrogels and cryogels: dynamic light scattering, UV–Vis spectroscopy and structural investigations.
+J. Mol. Liq.
+265
+, 172–180 (2018).
+Article
+CAS
+Google Scholar
+Gelfond, N. et al. An XPS study of the composition of iridium films obtained by MO CVD.
+Surf. Sci.
+275
+, 323–331 (1992).
+Article
+CAS
+Google Scholar
+Wang, G. et al. Selective growth of IrO
+2
+nanorods using metalorganic chemical vapor deposition.
+J. Mater. Chem.
+16
+, 780–786 (2006).
+Article
+CAS
+Google Scholar
+Xiao, M. et al. A single-atom iridium heterogeneous catalyst in oxygen reduction reaction.
+Angew. Chem. Int. Ed.
+131
+, 9742–9747 (2019).
+Article
+Google Scholar
+Hall, S. C., Subramanian, V., Teeter, G. & Rambabu, B. Influence of metal–support interaction in Pt/C on CO and methanol oxidation reactions.
+Solid State Ion.
+175
+, 809–813 (2004).
+Article
+CAS
+Google Scholar
+Yang, H. B. et al. Atomically dispersed Ni(
+i
+) as the active site for electrochemical CO
+2
+reduction.
+Nat. Energy
+3
+, 140–147 (2018).
+Article
+CAS
+Google Scholar
+Jiang, K. et al. Transition-metal single atoms in a graphene shell as active centers for highly efficient artificial photosynthesis.
+Chem
+3
+, 950–960 (2017).
+Article
+CAS
+Google Scholar
+Koshy, D. et al. Understanding the origin of highly selective CO
+2
+electroreduction to CO on Ni,N-doped carbon catalysts.
+Angew. Chem. Int. Ed.
+59
+, 4043–4050 (2020).
+Article
+CAS
+Google Scholar
+Zhang, G. et al. A general route
+via
+formamide condensation to prepare atomically dispersed metal–nitrogen–carbon electrocatalysts for energy technologies.
+Energy Environ. Sci.
+12
+, 1317–1325 (2019).
+Article
+CAS
+Google Scholar
+Liu, W. et al. A durable nickel single-atom catalyst for hydrogenation reactions and cellulose valorization under harsh conditions.
+Angew. Chem. Int. Ed.
+130
+, 7189–7193 (2018).
+Article
+Google Scholar
+Download references
+Acknowledgements
+This work was supported by Rice University and the Welch Foundation Research Grant C-2051-20200401. H.W. is a CIFAR Azrieli Global Scholar in the Bio-inspired Solar Energy Program. C.X. acknowledges support from a J. Evans Attwell-Welch Postdoctoral Fellowship. C.X. acknowledges the University of Electronic Science and Technology of China for startup funding (A1098531023601264). This work was performed in part at the Shared Equipment Authority at Rice University. H.N.A. acknowledges support from King Abdullah University of Science and Technology. XAS and PDF measurements were conducted at the Canadian Light Source, which is supported by the Natural Sciences and Engineering Research Council of Canada (NSERC), National Research Council Canada (NRC) and University of Saskatchewan. Electron microscopy was conducted at the Center for Nanophase Materials Sciences, which is a U.S. Department of Energy Office of Science User Facility.
+Author information
+Authors and Affiliations
+Department of Chemical and Biomolecular Engineering, Rice University, Houston, TX, USA
+Chuan Xia, Yunrui Qiu, Yang Xia, Peng Zhu, Xiao Zhang, Zhenyu Wu, Jung Yoon (Timothy) Kim & Haotian Wang
+Smalley-Curl Institute, Rice University, Houston, TX, USA
+Chuan Xia
+School of Materials and Energy, University of Electronic Science and Technology of China, Chengdu, P. R. China
+Chuan Xia
+Canadian Light Source, University of Saskatchewan, Saskatoon, Saskatchewan, Canada
+Graham King, Mohsen Shakouri, Emilio Heredia & Yongfeng Hu
+Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, Oak Ridge, TN, USA
+David A. Cullen
+Materials Science and Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia
+Dongxing Zheng, Peng Li & Husam N. Alshareef
+Key Laboratory of Soil Environment and Pollution Remediation, Institute of Soil Science, Chinese Academy of Sciences, Nanjing, P. R. China
+Peixin Cui
+Department of Materials Science and Nano-Engineering, Rice University, Houston, TX, USA
+Haotian Wang
+Department of Chemistry, Rice University, Houston, TX, USA
+Haotian Wang
+Azrieli Global Scholar, Canadian Institute for Advanced Research (CIFAR), Toronto, Ontario, Canada
+Haotian Wang
+Authors
+Chuan Xia
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yunrui Qiu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yang Xia
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Peng Zhu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Graham King
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Xiao Zhang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Zhenyu Wu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Jung Yoon (Timothy) Kim
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+David A. Cullen
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Dongxing Zheng
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Peng Li
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Mohsen Shakouri
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Emilio Heredia
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Peixin Cui
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Husam N. Alshareef
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Yongfeng Hu
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Haotian Wang
+View author publications
+You can also search for this author in
+PubMed
+Google Scholar
+Contributions
+The project was conceptualized by C.X. and H.W. and supervised by H.W. and Y.H. Catalysts were synthesized by C.X. with the help of Y.Q.; C.X., Y.Q. and P.Z. conducted the catalytic tests and the related data processing. Materials characterization and analysis were performed by C.X. with the help of P.Z., Y.X., X.Z., Z.W., D.Z., P.L., D.A.C. and J.Y.K. The XAS test and analysis was performed by M.S., E.H., P.C. and Y.H. PDF was performed by G.K.; H.N.A provided suggestions for this study. C.X. and H.W. wrote the manuscript with input from all the authors.
+Corresponding authors
+Correspondence to
+Chuan Xia
+,
+Yongfeng Hu
+or
+Haotian Wang
+.
+Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Peer review information
+Nature Chemistry
+thanks Aiqin Wang, Yuen Wu and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Supplementary Figs. 1–27, Table 1 and references.
+Source data
+Source Data Fig. 2
+Statistical source data.
+Source Data Fig. 4
+Statistical source data.
+Rights and permissions
+Reprints and permissions
+About this article
+Cite this article
+Xia, C., Qiu, Y., Xia, Y.
+et al.
+General synthesis of single-atom catalysts with high metal loading using graphene quantum dots.
+Nat. Chem.
+13
+, 887–894 (2021). https://doi.org/10.1038/s41557-021-00734-x
+Download citation
+Received
+:
+11 June 2020
+Accepted
+:
+17 May 2021
+Published
+:
+24 June 2021
+Issue Date
+:
+September 2021
+DOI
+:
+https://doi.org/10.1038/s41557-021-00734-x
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Associated content
+Collection
+Nobel Prize in Chemistry 2023
+Advertisement
+Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections
+Follow us on Facebook
+Follow us on Twitter
+Sign up for alerts
+RSS feed
+About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Web Feeds
+Contact
+Publish with us
+Submission Guidelines
+For Reviewers
+Language editing services
+Submit manuscript
+Search
+Search articles by subject, keyword or author
+Show results from
+All journals
+This journal
+Search
+Advanced search
+Quick links
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+Nature Chemistry
+(
+Nat. Chem.
+)
+ISSN
+1755-4349
+(online)
+ISSN
+1755-4330
+(print)
+nature.com sitemap
+About Nature Portfolio
+About us
+Press releases
+Press office
+Contact us
+Discover content
+Journals A-Z
+Articles by subject
+protocols.io
+Nature Index
+Publishing policies
+Nature portfolio policies
+Open access
+Author & Researcher services
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Research Solutions
+Libraries & institutions
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+Advertising & partnerships
+Advertising
+Partnerships & Services
+Media kits
+Branded
+                        content
+Professional development
+Nature Careers
+Nature
+Conferences
+Regional websites
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Middle East
+Privacy
+                Policy
+Use
+                of cookies
+Your privacy choices/Manage cookies
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+Your US state privacy rights
+© 2025 Springer Nature Limited
+Close banner
+Close
+Sign up for the
+Nature Briefing
+newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the
+Nature
+and Springer Nature Limited
+Privacy Policy
+.
+Close banner
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing
