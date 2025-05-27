@@ -1,5 +1,1145 @@
 DOI: 10.1038/s41563-022-01380-5
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-Methods Synthesis of catalysts In a typical procedure, 0.1721 g of RuCl 3 and 0.0656 g of NiCl 2 ·6H 2 O (that is, RuCl 3 and NiCl 2 at a molar ratio of 3:1) were mixed in 150 ml of 1 M HCl and sonicated for 2 h. Carbon black (0.4 g; Cabot, BP2000) was then added and dispersed by stirring for 18 h under room temperature to ensure uniform distribution. Next, the mixture was dried by using a rotary evaporator and the remaining powder was collected. The powder was annealed in a flowing Ar/H 2 (5% H 2 ) atmosphere at 900 °C for 2 h and then annealed in air at 250–550 °C (450 °C as the optimized temperature) for 3 h. After annealing, 50 mg of product was added to 20 ml of 1 M HCl and mixed at room temperature for 12 h to perform acid leaching, then centrifuged and washed with deionized water three times. Finally, the sample was dried at 80 °C in an oven for 12 h to obtain the Ni-RuO 2 catalyst. Ru a Ni b O x -AL samples with different amounts of Ni dopant were also prepared following the same procedure, except that the level of precursors was tuned in the first step. In addition, RuO 2 with no Ni incorporated was prepared in a similar method using RuCl 3 as precursor. M-RuO 2 (M=Fe, Co, Zn, Cu) samples with different metal dopants were also prepared using the same procedure, except that the precursors used in the first step were different—FeCl 3 , CoCl 2 , Zn(NO 3 ) 2 ·6H 2 O, and CuCl 2 ·2H 2 O. Of note, the weight ratio of total metal content in precursors to carbon black support was fixed at 1:4 in all catalyst synthesis.
+Methods
+and 
+). First, a wet impregnation of metal precursors was adopted on a carbon black support, which was followed by H
+
+/Ar annealing reduction to obtain Ru
+
+Ni nanoparticles supported on carbon black (Ru
+
+Ni/C; 
+and Supplementary Figs.
+1a
+and
+
+). The carbon support is important during this process in regard to the prevention of particle aggregation
+
+. Second, the obtained Ru
+
+Ni/C was annealed in air to convert Ru
+
+Ni nanoparticles to Ru
+
+NiO
+x
+and, meanwhile, to remove the carbon supports (Supplementary Figs.
+1b
+and
+
+). Finally, the obtained Ru
+
+NiO
+x
+underwent an acid-leaching process to remove unstable Ni species and yield the final catalyst—that is, Ni-RuO
+
+. The air-annealing and acid-leaching processes greatly enhanced acidic OER performance (Supplementary 
+), and the optimized air-annealing temperature was found to be 450 °C (Supplementary 
+). The choice of Ni incorporation over other transition metals (Supplementary 
+), and the Ru:Ni precursor molar ratio of 3:1 (Supplementary Figs.
+
+–
+
+), were determined after a rigorous performance optimization process.
+
+, Schematic illustrating the synthesis of Ni-RuO
+
+.
+b
+,
+c
+, TEM images of Ru
+
+Ni/C (
+b
+) and Ni-RuO
+
+(
+c
+), showing the very small size of Ru
+
+Ni and its derived Ni-RuO
+
+nanoparticles.
+d
+,
+e
+, HADDF–STEM images under different magnifications of Ni-RuO
+
+.
+d
+is a low-magnification HADDF–STEM image, and
+e
+is a high resolution HADDF–STEM image.
+f
+, Corresponding fast Fourier transform pattern of
+e
+.
+g
+, EDS mapping of the Ni-RuO
+
+catalyst. Nanoparticle sizes are ~1.73 nm for Ru
+
+Ni and ~4 nm for Ni-RuO
+
+, as shown in the insets of
+b
+,
+c
+, respectively. The distinct lattice in
+e
+suggests the high crystallinity of our Ni-RuO
+
+catalyst.
+Full size image
+The X-ray diffraction (XRD) pattern of Ni-RuO
+
+showed the characteristic peaks of rutile RuO
+
+(JCPDS 71-2273) with the dominant peak at 28.1° (Supplementary 
+), suggesting that incorporation of Ni did not affect the RuO
+
+lattice structure. Transmission electron microscopy (TEM) and high-angle annular dark-field scanning TEM (HAADF–STEM) images –e
+and Supplementary 
+) clearly showed that Ni-RuO
+
+nanoparticles were uniform in size, with an average diameter of ~4.0 nm 
+, inset). This ultrafine nanoparticle size inherited from its precursor (that is, Ru
+
+Ni/C), in which Ru
+
+Ni nanoparticles had an average size of only 1.7 nm 
+). High-magnification HAADF–STEM images clearly revealed that Ni-RuO
+
+nanoparticles exhibited high crystallinity, with distinct lattices observed 
+and Supplementary –d
+). By focusing on individual nanoparticles, we observed well-defined lattice fringes that can be ascribed to the {110} planes of RuO
+
+,f
+). Another TEM image also showed a series of RuO
+
+lattices, including and (Supplementary 
+). Successful incorporation of Ni was confirmed by energy-dispersive spectroscopic (EDS) elemental mapping 
+and Supplementary Figs.
+
+and
+
+). Ni distribution was uniform across the entire RuO
+
+matrix. We also synthesized RuO
+
+nanoparticles without incorporation of Ni (that is, RuO
+
+) as a control sample. The RuO
+
+catalyst showed morphology similar to that of Ni-RuO
+
+, with an average nanoparticle size of ~4.5 nm (Supplementary 
+), as well as high crystallinity, as confirmed by XRD (Supplementary 
+).
+Electronic properties of catalysts
+The X-ray photoelectron spectroscopy (XPS) survey spectrum (Supplementary 
+) revealed an Ni atomic ratio of 1.4 at.% (Ni:Ru ratio, ~1:21) in Ni-RuO
+
+. There were four peaks in the high-resolution Ni 2p XPS spectrum 
+): peaks at 856.0 and 873.9 eV were assigned to Ni 2p
+3/2
+and Ni 2p
+1/2
+of Ni
+2+
+, respectively, and those at 861.8 and 881.6 eV were ascribed to two accompanying satellites
+
+,
+
+. For high-resolution Ru 3d XPS spectra, two sets of doublet peaks were observed between 280 and 290 eV 
+), which could be attributed to the doublet peaks of Ru
+4+
+3d
+5/2
+, 3d
+3/2
+and their satellite peaks
+
+,
+
+. The binding energy of Ru 3d
+5/2
+and 3d
+3/2
+for Ni-RuO
+
+was positively shifted (~0.1 eV) compared with that of RuO
+
+, possibly suggesting that Ru in the Ni-RuO
+
+catalyst presented a slightly higher oxidation state than that in RuO
+
+(see the X-ray absorption near-edge spectroscopy (XANES) spectra below for additional evidence). Previous studies revealed that Ru species with a higher oxidation state could enhance their OER activity
+
+,
+
+. In high-resolution O 1 s XPS spectra (Supplementary 
+), peaks at 530.1, 531.3 and 532.9 eV were found to be Ru-O bonds, OH groups and H
+
+O, respectively
+
+,
+
+. Compared with RuO
+
+, the Ru-O bonds and OH groups in Ni-RuO
+
+were slightly negatively shifted.
+
+.
+a
+,
+b
+, High-resolution XPS spectra of Ni 2p (
+a
+) and Ru 3d (
+b
+).
+c
+,
+d
+, XANES (
+c
+) and EXAFS (
+d
+) spectra at the Ni K-edge of Ni-RuO
+
+, indicating incorporation of Ni into RuO
+
+nanocrystals.
+e
+,
+f
+, XANES (
+e
+) and EXAFS (
+f
+) spectra at the Ru K-edge, suggesting a well-defined RuO
+
+structure for Ni-RuO
+
+after incorporation of Ni.
+g
+–
+i
+, WT of the Ni K-edge for Ni foil (
+g
+), Ni-RuO
+
+(
+h
+) and NiO (
+i
+), demonstrating highly dispersed Ni dopants in the Ni-RuO
+
+catalyst. a.u., arbitrary units; Sta., satellite peak;
+R
+, bond length; FT, Fourier transform;
+k
+, wave vector.
+Full size image
+We then performed X-ray absorption spectroscopy (XAS) on both Ni-RuO
+
+and RuO
+
+–i
+). The Ni K-edge XANES suggested that the Ni oxidation state in Ni-RuO
+
+was very close to NiO of +2 
+). The corresponding extended X-ray absorption fine-structure (EXAFS) spectrum of Ni-RuO
+
+at the Ni K-edge showed a dominant peak at around 1.6 Å 
+), which was assigned to the Ni-O coordination. No obvious NiO or Ni metal nanoparticles were formed in Ni-RuO
+
+as suggested by the distinct EXAFS spectrum compared with the NiO or Ni reference, respectively, which indicates a high dispersion of Ni in the RuO
+
+lattice. This Ni-O coordination environment in Ni-RuO
+
+was further confirmed by wavelet transform (WT) of its Ni K-edge, where one strong peak intensity was observed –i
+). We also analysed the XANES and EXAFS spectra of Ni-RuO
+
+and RuO
+
+at the Ru K-edge. While these two Ru K-edges appeared to be very close 
+), a zoomed-in XANES spectrum revealed Ni-RuO
+
+showing a slightly higher near-edge absorption energy and white line peak than those in RuO
+
+(Supplementary 
+), suggesting a relatively higher Ru oxidation state in Ni-RuO
+
+, which agrees well with the XPS analysis. The Ru K-edge EXAFS spectrum of Ni-RuO
+
+is almost identical to that of RuO
+
+, suggesting the same coordination structures before and after the incorporation of Ni 
+and Supplementary 
+). The above characterizations clearly suggested that Ni dopants were uniformly distributed in the RuO
+
+lattice, in which Ru oxidation states were slightly shifted due to the incorporation of Ni atoms.
+Electrochemical characterization on a RDE in acidic electrolyte
+Following OER standard measurements
+
+,
+
+,
+
+,
+
+, we first evaluated OER activities of the Ni-RuO
+
+catalyst and control samples on a RDE set-up. The control samples were as-prepared RuO
+
+and commercial RuO
+
+nanoparticles (Com-RuO
+
+; see Supplementary Figs.
+17b
+and
+
+for characterizations). Linear sweep voltammetry (LSV) curves showed that our as-synthesized RuO
+
+presented better OER activity than Com-RuO
+
+, mainly due to particle size effects 
+and Supplementary 
+). The overpotential for Com-RuO
+
+to deliver 10 mA cm
+−2
+was 330 mV, consistent with previous reports
+
+,
+
+. Incorporation of Ni showed an obvious enhancement in the OER activity of RuO
+
+: the overpotential for Ni-RuO
+
+to reach 10 mA cm
+−2
+was 214 mV, lower than that of RuO
+
+(227 mV). This overpotential difference was quickly increased following delivery of higher current densities, due to the significantly improved Tafel slope of Ni-RuO
+
+(42.6 mV dec
+−1
+) compared with both RuO
+
+(52.9 mV dec
+−1
+) and Com-RuO
+
+(60.7 mV dec
+−1
+) 
+). Electrochemical impedance spectroscopy (EIS) of Ni-RuO
+
+at 1.45 V showed the lowest charge transfer resistance 
+), suggesting enhanced OER kinetics compared with RuO
+
+and Com-RuO
+
+,
+
+. The superior activity of Ni-RuO
+
+can be reliably repeated (Supplementary 
+), and is among the best compared with other reported acidic OER catalysts (Supplementary 
+).
+
+, LSV curves (
+a
+) and Tafel slopes (
+b
+) of Ni-RuO
+
+, RuO
+
+and Com-RuO
+
+.
+c
+, EIS plots of Ni-RuO
+
+, RuO
+
+and Com-RuO
+
+. X-axis (
+Z
+′), real part; Y-axis (–
+Z
+″), imaginary part.
+d
+,
+C
+dl
+plots derived from CV curves.
+e
+, ECSA-normalized LSVs of Ni-RuO
+
+, RuO
+
+and Com-RuO
+
+.
+f
+, Stability tests of Ni-RuO
+
+, RuO
+
+and Com-RuO
+
+.
+g
+, Comparison of the stability of our catalysts in acidic electrolyte with that of reported catalysts.
+j
+, current density;
+J
+, current.
+Full size image
+To better understand the origin of the high OER performance of Ni-RuO
+
+, we first tested electrochemical double-layer capacitance (
+C
+dl
+) to calculate the electrochemically active surface area (ECSA) and roughness factor (
+R
+f
+) for activity normalization 
+, Supplementary –c
+and Supplementary 
+). Our prepared Ni-RuO
+
+and RuO
+
+with ultrafine nanocrystal structures clearly showed higher
+C
+dl
+and ECSA than those of Com-RuO
+
+and Supplementary 
+). In particular, Ni-RuO
+
+had the highest
+C
+dl
+and ECSA, nearly twice those in RuO
+
+, suggesting that incorporation of Ni can significantly improve the density of active sites. Considering ECSA-normalized OER activity, specific activity still followed the order Ni-RuO
+
+> RuO
+
+> Com-RuO
+
+), suggesting intrinsically improved OER activity on the Ni-RuO
+
+catalyst due to incorporation of Ni.
+While achieving high OER activity is important, good stability may play an even more important role in practical water-splitting applications
+
+,
+
+. We investigated OER durability in acidic electrolyte at 10 mA cm
+−2
+on RDE 
+), a widely adapted benchmark criterion in literature
+
+,
+
+,
+
+. Although our synthesized RuO
+
+showed improved stability compared with Com-RuO
+
+, its performance still degraded at a rapid rate and lasted no longer than 40 h. This performance degradation was markedly mitigated by incorporation of Ni. Our Ni-RuO
+
+presented a negligible potential increase after 200 h of continuous operation, suggesting a much more stabilized structure compared with RuO
+
+under acidic OER conditions. This was also confirmed by cyclic voltammogram (CV) tests (Supplementary 
+). The excellent durability of Ni-RuO
+
+outperformed state-of-the-art, non-Ir-based acidic OER catalysts reported in RDE tests 
+and Supplementary 
+). We used inductively coupled plasma mass spectrometry (ICP–MS) to examine the electrolyte during chronopotentiometry stability testing of Ni-RuO
+
+(Supplementary 
+). This yielded only ~10 ppb of Ru and 1 ppb of Ni in the electrolyte after stability testing, representing ~3.3% of the total material. The stability number (
+S
+) was 7.4 × 10
+
+at 205 h for Ni-RuO
+
+(Supplementary 
+), which is comparable with rutile IrO
+
+(~10
+
+; Alfa-Aesar)
+
+and other reported IrO
+
+(~10
+
+; Sigma-Aldrich)
+
+, further demonstrating the excellent stability of Ni-RuO
+
+. No obvious changes were observed in either Ni and Ru K-edge of Ni-RuO
+
+under in situ XAS measurements (Supplementary Figs.
+
+–
+
+). Furthermore, we systematically characterized post-catalysis Ni-RuO
+
+, which suggested that both structures and properties of the catalyst were retained well (Supplementary Figs.
+
+–
+
+). The excellent OER durability of Ni-RuO
+
+compared with pristine RuO
+
+clearly indicates the critical role of Ni incorporation.
+Understanding the mechanism
+We performed DFT simulations to understand the effects of Ni dopants on OER performance, in particular the stability of the RuO
+
+catalyst. Consistent with our XRD observation (Supplementary 
+), RuO
+
+crystals were modelled to have a rutile lattice structure. Moreover, we chose to study the catalytic properties of the fully oxidized surface of RuO
+
+and Supplementary 
+) because that was predicted to be the most stable surface in our RuO
+
+catalyst annealed at 450 °C
+
+,
+
+,
+
+. In the outermost layer of the RuO
+
+ surface there are two types of Ru site: the coordinatively unsaturated site (CUS) and the fully coordinated bridge site (BRI). The Ru atom has five coordinated O atoms at a CUS Ru site but binds to six O atoms at a BRI site
+
+. Our DFT results indicate that it would be energetically favourable for a Ni dopant to replace the BRI Ru site rather than the CUS site (Supplementary 
+). Additionally, simulated EXAFS based on this proposed atomic structure agrees well with our experimental tests (Supplementary 
+). We thus adopted such a Ni-doped RuO
+
+ surface to examine the impacts of incorporation of Ni on the OER process 
+and Supplementary 
+).
+
+, Atomistic structures of the surfaces of RuO
+
+ (
+a
+) and Ni-RuO
+
+ (
+b
+).
+c
+, Schematic illustration of AEM and LOM for OER on the RuO
+
+ surface. Grey, blue, red and white balls represent Ru, Ni, O and H atoms, respectively.
+d
+, DEMS measurements. Top: CV cycle without iR compensation; middle: DEMS signals of
+
+O
+
+(
+
+O +
+
+O) and
+
+O
+
+(
+
+O +
+
+O) collected during the CV cycle; bottom: ratio of
+
+O
+
+:
+
+O
+
+, which remained unchanged with increase in potential, suggesting that
+
+O
+
+was derived from background
+
+O rather than from the lattice. Inset: schematic illustration of the DEMS device used.
+e
+, Computed free energy evolution of OER via AEM on surfaces of RuO
+
+ and Ni-RuO
+
+ under an electrode potential of 1.70 V.
+f
+, Calculated energies for structural degradation of surfaces of RuO
+
+ and Ni-RuO
+
+.
+Full size image
+As depicted schematically in 
+, a 4e
+–
+OER on RuO
+
+ is derived from H
+
+O adsorption at a CUS Ru site, followed by two sequential deprotonation steps to form *OH and then *O. Subsequently, the reaction pathway bifurcates into one of two possible mechanisms: lattice oxygen mechanism (LOM) or AEM
+
+,
+
+,
+
+,
+
+. Following LOM, surface-adsorbed *O further reacts with a lattice O to produce O
+
+whereas the generated O vacancy is refilled by another H
+
+O. Following AEM, the surface-adsorbed O further reacts with another H
+
+O in the electrolyte to form *OOH and then the final product of O
+
+. We note that hydrogen bonds between H and an adjacent O helped stabilize OOH adsorption at the CUS Ru site on the RuO
+
+ surface (Supplementary 
+)
+
+,
+
+. Supplementary 
+shows the DFT-predicted free energy evolution for OER via AEM on the RuO
+
+ surface. The OER limiting potential, defined as the lowest potential under which free energy evolution becomes downhill, is about 1.89 V on the RuO
+
+ surface. Additionally, the rate-determining step for OER on the RuO
+
+ surface was predicted to be the step of O transformation to OOH (Supplementary Note
+
+), consistent with a previous result
+
+,
+
+. In contrast, the limiting potential for OER via LOM was predicted to be 3.76 V (Supplementary 
+), which is 1.87 V higher than that of AEM. This result suggests the OER on the RuO
+
+ surface would be thermodynamically more favourable to follow the AEM mechanism rather than the LOM, consistent with a previous study
+
+.
+To experimentally confirm this AEM pathway, we conducted operando DEMS measurements via the isotope
+
+O-labelling method 
+and Supplementary 
+). First we ‘labelled’ RuO
+
+and Ni-RuO
+
+catalysts with
+
+O by performing OER under constant current density (
+
+Methods
+). If lattice oxygen is exchanged, the catalyst surface would be labelled by
+
+O. We then measured the isotope signal of evolved O
+
+during OER in H
+
+O/0.1 M HClO
+
+. With gradual increase in OER current 
+, top and Supplementary 
+), a corresponding increase in both
+
+O
+
+(
+
+O +
+
+O) and
+
+O
+
+(
+
+O +
+
+O) signal was detected 
+, middle and Supplementary 
+). The signal ratio of
+
+O
+
+:
+
+O
+
+within the OER potential range 
+, bottom and Supplementary 
+) remained relatively constant and is comparable to that of the natural abundance of
+
+O in deionized water within experimental uncertainty
+
+,
+
+, suggesting that the LOM mechanism did not occur over both RuO
+
+and Ni-RuO
+
+. The DEMS analysis, coupled with galvanostatic measurement, further confirmed this conclusion (Supplementary Figs.
+
+and
+
+), in which the constant
+
+O
+
+and
+
+O
+
+signals and
+
+O
+
+:
+
+O
+
+ratio were clearly observed. Our DEMS results are consistent with previous reports that also suggest the exclusivity of AEM over RuO
+
+-based OER catalysts
+
+,
+
+,
+
+.
+With the OER pathway determined on the RuO
+
+surface, the impacts of the incorporation of Ni on activity and stability could be evaluated via limiting potential and lattice stability calculations, respectively. First, the limiting potential of OER on the Ni-RuO
+
+ surface was predicted to be 1.70 V 
+), which is about 0.2 V lower than that of RuO
+
+and suggests improved OER activity. Regarding stability, we first evaluated enthalpy change for the surface Ru atom demetallation process from the surface of both RuO
+
+and Ni-RuO
+
+, because delamination of surface Ru atoms may contribute to the low stability of catalysts
+
+. The proposed demetallation process of Ru is presented in Supplementary Figs.
+
+and
+
+, in which Ru at the CUS Ru site moves away from the surface. We found that with incorporation of Ni into the lattice, the energy cost for Ru demetallation increased from 1.87 to 2.22 eV 
+, left), suggesting a more stable surface Ru in Ni-RuO
+
+than in RuO
+
+. Computational results of the demetallation process are further discussed in Supplementary Note
+
+and Supplementary 
+. To evaluate lattice oxygen stability, we calculated the enthalpy change of the subsurface oxygen loss process (Supplementary 
+)
+
+,
+
+. The enthalpy changes for subsurface oxygen loss were calculated to be 1.67 and 2.12 eV 
+, right) on the RuO
+
+and Ni-RuO
+
+ surface, respectively, clearly suggesting that the introduction of Ni dopants to the RuO
+
+lattice had also stabilized lattice oxygen during OER. Consequently, our DFT simulations show that incorporation of Ni improves the OER stability of RuO
+
+by hindering both surface Ru demetallation and lattice oxygen loss, supporting our experimental observations of significantly improved OER stability in the Ni-RuO
+
+catalyst.
+PEM–WE device performance
+Finally, to investigate the practical application potential of our Ni-RuO
+
+catalyst for water electrolysis, we constructed a PEM–WE electrolyser using Ni-RuO
+
+as the anode catalyst for OER, commercial Pt/C as the cathode catalyst for HER and a proton exchange membrane (Nafion 117; ,b
+). Pt/C was chosen due to its well-known properties of high durability and activity in HER. The current–voltage characteristic (I–V) curves (without iR compensation) in 
+clearly show that the Ni-RuO
+
+/PEM/Pt/C electrolyser had improved water electrolysis activity compared with the RuO
+
+and Com-RuO
+
+electrolysers. Specifically, the Ni-RuO
+
+-based electrolyser (at room temperature) required only 1.78, 1.95 and 2.10 V to reach a current density of 500, 1,000 and 1,500 mA cm
+−2
+, respectively 
+). Of note, due to the lack of specific expertise and equipment in the fabrication of an industrial-level quality membrane electrode with minimal ionic resistance between cathode and anode, our device still presents impedance of ~0.3 Ω cm
+−2
+, contributing ~300 mV of iR drop at 1 A cm
+−2
+. This, however, does not affect the evaluation of our catalyst’s intrinsic activity (as shown in our standard three-electrode set-up) or the following durability tests.
+
+,
+b
+, Schematic (
+a
+) and photograph (
+b
+) of the PEM–WE device.
+c
+, I–V curves of PEM–WE electrolysers using Ni-RuO
+
+, RuO
+
+or Com-RuO
+
+as anodic catalyst and commercial Pt/C as cathodic catalyst, at room temperature and ambient pressure. No cell voltages were iR compensated.
+d
+–
+f
+, Chronopotentiometry testing of Ni-RuO
+
+and RuO
+
+catalysts at 200 mA cm
+−2
+in the PEM–WE electrolyser using commercial Pt/C as the cathode catalyst, at room temperature and ambient pressure. The Ni-RuO
+
+catalyst coating in these stability tests was press-prepared under low pressure (<0.5 MPa) (
+d
+), medium pressure (~1.5 MPa) (
+e
+) and high pressure (~3.0 MPa) (
+f
+).
+Full size image
+Catalyst stability could play an even more important role than its activity in practical applications; we thus evaluated the stability of our Ni-RuO
+
+-based electrolyser, as well as pristine RuO
+
+for comparison, at 200 mA cm
+−2
+
+). The voltage of the RuO
+
+electrolyser was clearly increased following ~120 h of electrolysis, suggesting poor OER stability under practical operation conditions 
+). Remarkably, our Ni-RuO
+
+catalyst showed markedly improved PEM–WE durability: it was operated for 1,000 h with only a small cell voltage increase in our initial trial 
+). We suspected the slight degradation in cell performance observed from ~700 h was probably due to detachment of the Ni-RuO
+
+catalyst from the anode electrode during prolonged anolyte circulation and gas bubble evolution, because we observed the presence of some black material (most probably the catalyst) coated on the inner surface of the anolyte outlet tube after the stability test (Supplementary 
+). We thus used an improved and stronger coating method to further explore the durability of the Ni-RuO
+
+catalyst (
+
+Methods
+). The stability of two newly prepared anodes was further improved ,f
+): no obvious cell voltage increase was observed for these during 1,000 h stability tests. Additionally, much less black material was observed on the inner surface of the anolyte outlet tubes after stability tests compared with the initial trial (Supplementary 
+). RuO
+
+still showed much lower stability than Ni-RuO
+
+after electrode preparation optimization (Supplementary 
+). The faradaic efficiencies of O
+
+generated by the PEM–WE cell were measured as ~100% for Ni-RuO
+
+(Supplementary 
+). We monitored Ru dissolution from the Ni-RuO
+
+catalyst by ICP–MS during the 1,000 h stability test (Supplementary 
+). A rapid increase in Ru concentration was observed at the very beginning of the operation, which could be ascribed to the dissolution of unstable Ru species during the catalyst activation process. Ru dissolution was gradually stabilized within the first 500 h and remain nearly unchanged, at ~30 ppb, for the remainder of the stability test. Additionally, our Ni-RuO
+
+catalyst can also be stably operated under an elevated electrolyte temperature for >1,000 h without obvious performance degradation (Supplementary 
+). These stability results clearly demonstrate the great potential of our Ni-RuO
+
+catalyst for future practical applications.
+In summary, we developed a non-iridium-based acidic OER catalyst that can deliver at least 1,000 h of stability under a 200-mA cm
+–2
+water-splitting current in a PEM–WE device. The findings in this work not only provide an effective method and new understanding to improving catalytic performance of the RuO
+
+catalyst, but also demonstrate its great future potential for implementation in practical PEM cells for large-scale clean H
+
+generation. While there is still a gap between our Ni-RuO
+
+catalyst’s stability performance and the typical industrial requirement (delivering >1 A cm
+−2
+current for over 10 years of operation at 80 °C), this encouraging milestone stability that we achieved using a Ru-based catalyst clearly suggests the potential of replacing Ir-based catalysts in the future. More studies can be carried out in the future to further improve the stability of Ru-based catalysts, such as temperature effects, multi-element doping and so on.
+
+Synthesis of catalysts
+In a typical procedure, 0.1721 g of RuCl
+
+and 0.0656 g of NiCl
+
+·6H
+
+O (that is, RuCl
+
+and NiCl
+
+at a molar ratio of 3:1) were mixed in 150 ml of 1 M HCl and sonicated for 2 h. Carbon black (0.4 g; Cabot, BP2000) was then added and dispersed by stirring for 18 h under room temperature to ensure uniform distribution. Next, the mixture was dried by using a rotary evaporator and the remaining powder was collected. The powder was annealed in a flowing Ar/H
+
+(5% H
+
+) atmosphere at 900 °C for 2 h and then annealed in air at 250–550 °C (450 °C as the optimized temperature) for 3 h. After annealing, 50 mg of product was added to 20 ml of 1 M HCl and mixed at room temperature for 12 h to perform acid leaching, then centrifuged and washed with deionized water three times. Finally, the sample was dried at 80 °C in an oven for 12 h to obtain the Ni-RuO
+
+catalyst. Ru
+a
+Ni
+b
+O
+x
+-AL samples with different amounts of Ni dopant were also prepared following the same procedure, except that the level of precursors was tuned in the first step. In addition, RuO
+
+with no Ni incorporated was prepared in a similar method using RuCl
+
+as precursor. M-RuO
+
+(M=Fe, Co, Zn, Cu) samples with different metal dopants were also prepared using the same procedure, except that the precursors used in the first step were different—FeCl
+
+, CoCl
+
+, Zn(NO
+
+)
+
+·6H
+
+O, and CuCl
+
+·2H
+
+O. Of note, the weight ratio of total metal content in precursors to carbon black support was fixed at 1:4 in all catalyst synthesis.
+Characterization
+TEM, HADDF–STEM and EDS elemental mapping were performed on a Talos F200X transmission electron microscope (at an accelerating voltage of 200 kV) equipped with an energy-dispersive detector. HR–TEM and HR–HADDF–STEM images were captured using a JEM-ARM 200 F atomic resolution analytical microscope operating at an accelerating voltage of 200 kV. XPS data were obtained on an X-ray photoelectron spectrometer (ESCALab MKII) with an excitation source of Mg Kα radiation (1,253.6 eV). XRD data were collected on a Rigaku SmartLab X-ray diffractometer. XAS measurements were conducted at the Sector 20-BM beamline of the Advanced Photon Source at Argonne National Laboratory. All XAS measurements were carried out at room temperature under ambient pressure. Samples were measured simultaneously in fluorescence mode with metal foils as reference. Data processing and EXAFS fitting were performed using the Athena program. The XAS data of NiO and Ni references are from our previous work
+
+.
+Electrochemical measurements under a three-electrode system
+In a typical test, 5 mg of catalyst was added to 1 ml of isopropyl alcohol and 20 µl of Nafion-117-containing solution (5%; Sigma-Aldrich) and sonicated for 1 h to obtain a well-dispersed catalyst ink. For electrode preparation, 16 µl of catalyst ink was drop-cast on a 5.0-mm-diameter glassy carbon electrode (disk geometric area, 0.196 cm
+
+), resulting in a catalyst loading of 0.4 mg cm
+−2
+, and then vacuum dried at room temperature before usage. All RDE measurements were run at room temperature in a typical three-electrode cell in an O
+
+-saturated 0.1 M HClO
+
+electrolyte. A carbon rod (99.99%; Beantown Chemical) and a saturated calomel electrode (SCE, CH Instruments) were used as the counter and reference electrode, respectively. An RDE assembly (no. AFE4TQ050, Pine Instruments) with the prepared glassy carbon electrode were used as the working electrode, at a rotation rate of 2,500 r.p.m. In this work, all potentials measured against SCE were converted to the reversible hydrogen electrode (RHE) scale using:
+E
+(potential, versus RHE) =
+E
+(versus SCE) + 0.241 V + 0.0591 × pH. In 0.1 M HClO
+
+electrolyte, pH values are all equal to 1.0 in this work as determined by an Orion Star A111 pH meter (Thermo Scientific). Solution resistance (
+R
+s
+) was measured by potentiostatic electrochemical impedance spectroscopy at frequencies ranging from 0.1 Hz to 200 kHz. All measured potentials in RDE tests were 100% iR compensated unless otherwise specified. LSV tests were recorded at a scan rate of 5 mV s
+−1
+. Stability was examined by chronopotentiometry testing at 10 mA cm
+−2
+. EIS tests were performed at 1.45 V (versus RHE) from 0.1 Hz to 200 kHz, and the results are presented in the form of a Nyquist plot. The ECSA was determined by: ECSA =
+C
+dl
+/
+C
+s
+, where
+C
+dl
+is double-layer capacitance and
+C
+s
+the specific capacitance of the sample. In this study, a general specific capacitance of
+C
+s
+= 0.035 mF cm
+−2
+was used based on typical reported values
+
+.
+C
+dl
+was determined by the equation
+C
+dl
+=
+i
+c
+/
+ν
+, where
+i
+c
+is the charging current and
+v
+the scan rate. A series of CV tests in the non-faradaic potential region 1.18–1.28 V (versus RHE) under different scan rates (2.5, 5.0, 7.5, 10, 15 and 20 mV s
+−1
+) were performed. And by plotting measured
+i
+c
+versus
+ν
+,
+C
+dl
+was obtained from the slopes of the linear fitting. The roughness factor was calculated by dividing ECSA by the geometric area of the electrode, which was 0.196 cm
+−2
+in this study. The
+S
+-number
+
+was calculated using the following equation:
+S
+=
+\(\frac{{n_{{{{\mathrm{O}}}}_2}}}{{n_{{{{\mathrm{Ru(dissolved)}}}}}}}\)
+, where
+\(n_{{{{\mathrm{O}}}}_2}\)
+is the molar number of total oxygen evolved within a certain period of time (calculated from total charge) and
+\(n_{{{{\mathrm{Ru}}}}\left( {{{{\mathrm{dissolved}}}}} \right)}\)
+is total dissolved Ru as measured by ICP–MS.
+DEMS tests
+One milligram of catalyst was mixed with 10 wt% of Nafion in 0.5 ml of ethanol and then drop-cast onto the glassy carbon (0.5-mm diameter) working electrode. The electrode was dried at room temperature for at least 1 h before testing. Measurement was performed on a HPR-40 DEMS (Hiden Analytical) coupled to the flow cell illustrated in 
+, an Autolab potentiostat (no. PGSTAT204, Metrohm), an OER catalyst modified working electrode, an Ag/AgCl reference electrode and a Pt wire counter electrode. Electrolyte flow rate was controlled at 0.5 ml min
+−1
+. All electrochemical results were recorded versus the reference electrode and converted to RHE following the relationship
+E
+RHE
+=
+E
+Ag/AgCl
++ 0.197 + 0.0591 × pH. Catalysts were first labelled with
+
+O in 0.1 M HClO
+
+solution created with
+
+O-labelled water (97%
+
+O; Cambridge Isotope Laboratories) for 10 min at 10 mA cm
+−2
+. Electrodes and cell were then rinsed with
+
+O water for 20 min to remove any H
+
+O residual and scanned in a 0.1 M HClO
+
+solution of H
+
+O at 0.5 mV s
+−1
+from 1.1 V versus RHE until current density reached 50 mA cm
+−2
+. An electron energy of 70 eV was used for ionization of all species, with an emission current of 450 μA. All mass-selected product (
+m/z
+= 32 and 34) was detected by a secondary electron multiplier with a detector voltage of 1,200 V. Data were averaged every ten points to yield a smoother MS signal, and
+m/z
+34/32 signals were calculated with the fitting data. For DEMS measurements using the galvanostatic method, after labelling and rinsing (as mentioned above) the background was collected for 10 min before the application of 10 mA cm
+−2
+for 30 min to probe potential oxygen lattice exchange.
+PEM–WE tests
+For electrolyser tests, a self-made cell was used as the PEM–WE device and a cation exchange membrane (Nafion 117) as the membrane electrolyte. Around 0.65 mg cm
+−2
+commercial Pt/C with 20 wt.% Nafion 117 binder was air-brushed onto a carbon paper electrode as an HER cathode. In our initial trial 
+), ~3.1 mg cm
+−2
+OER catalyst with 20 wt.% polytetrafluoroethylene binder was drop-cast onto a platinized titanium fibre felt electrode. After drying, the electrode was pressed at room temperature under a low pressure of <0.5 MPa by a regular hot-press machine. The electrode was then annealed in air for 30 min at 350 °C and used as an OER anode, which was then circulated with 0.1 M HClO
+
+aqueous solution at 4 ml min
+−1
+. I–V curves were measured in galvanostatic mode at 50–2,200 mA cm
+−2
+at room temperature and ambient pressure. The stability test was carried out at 200 mA cm
+−2
+at room temperature and ambient pressure. To further improve the stability of the Ni-RuO
+
+-based PEM–WE device ,f
+), we optimized the electrode preparation process. The Ni-RuO
+
+catalyst was freshly annealed at 450 °C before use. We performed the same drop-casting process of Ni-RuO
+
+onto a platinized titanium fibre felt electrode. The Ni-RuO
+
+-coated electrode was then pressed under medium (~1.5 MPa) or high pressure (~3.0 MPa) by a hydraulic press machine at room temperature, followed by the same annealing process (350 °C for 30 min) to prepare the final OER anode. We then performed stability tests at 200 mA cm
+−2
+at room temperature and ambient pressure. Additionally, to reduce electrolyte flushing on the anode coating, we reduced the anolyte circulation flow rate from 4 ml min
+−1
+in our initial trial to 0.5 ml min
+−1
+for medium- and high-pressure-prepared anode-based electrolysers, at room temperature and ambient pressure. All cell voltages measured in PEM–WE electrolysers were reported without iR compensation. Please be aware here that the slight voltage difference between I–V curves and chronopotentiometry stability tests may have arisen from the different electrolyser activization processes or electrolyser resistances.
+Computational details
+First-principles DFT
+
+,
+
+calculations with a plane-wave basis set were performed using Vienna ab initio simulation package
+
+,
+
+software. The Perdew, Burke and Ernzernhof functionals of generalized gradient approximation
+
+were used to describe the terms of electronic exchange and correlation energy. The energy cut-off of the plane-wave basis was set at 500 eV for plane-wave expansion. Projector-augmented wave
+
+,
+
+pseudo-potential was used to describe the core electrons. Electronic energy was converged until the energy difference between iterations was <10
+−5
+eV. During structure optimization calculations, atomic positions were relaxed until the force on each ion was <0.01 eV Å
+−1
+. The lattice parameters of rutile RuO
+
+were determined as: a = 4.53 Å and c = 3.12 Å, in agreement with a previous computational prediction
+
+of a = 4.54 Å and c = 3.14 Å. A 2 × 2 × 1 RuO
+
+ model with 16 Ru atoms and 32 O atoms was used in our calculations. The slab model consisted of two atomic layers each of O and Ru; the top two layers (one each of O and Ru) were optimized during structure optimization calculations. A vacuum layer of 15 Å thickness was added perpendicularly to the surface to minimize the interaction between periodic images. To model the Ni-doped RuO
+
+surface, one Ru atom at a bridge site in the 2 × 2 × 1 RuO
+
+ model was substituted by a Ni atom, leading to a chemical composition of 2.1 at percentage Ni, 31.3 at percentage Ru and 66.6 at percentage O. The Brillouin zone was sampled using the Monkhorst
+
+scheme with 6 × 3 × 1 k-point mesh for RuO
+
+ and Ni-RuO
+
+. Due to the strong correlation of
+d
+electrons in Ni, a
+U–J
+value of 5.3 eV was adopted
+
+. Zero-point energy corrections, ZPE, were included in all adsorbate system calculations. These were calculated as
+\({{{\mathrm{ZPE}}}} = \mathop {\sum}\nolimits_i {\frac{1}{2}h\nu _i}\)
+, where
+h
+is Planck’s constant and
+v
+i
+is the frequency of the
+i
+th vibrational mode of binding molecules.
+Data availability
+The data that support the findings of this study are presented in the main text and the Supplementary Information, and are available from the corresponding authors upon reasonable request.

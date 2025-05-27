@@ -1,5 +1,76 @@
 DOI: 10.1038/s41929-019-0334-3
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-Catalyst preparation Supported Pt catalysts with different Pt loadings (0.05, 0.08, 0.2 and 0.5 wt%) were synthesized using the wet-impregnation method. The dried materials were then heat treated in a number of ways and tested for the chemoselective hydrogenation of 3-NS. For a typical catalyst preparation (2 g), the requisite amount of aqueous hydrogen hexachloroplatinic acid solution (9.6 mg Pt ml –1 , assay 30.21% H 2 PtCl 6 , Johnson Matthey) was diluted to 16 ml using deionized water, and heated in an oil bath to 60 °C with vigorous stirring (800 r.p.m.) before the addition of the requisite amount of support (TiO 2 , Evonik P25). The temperature was subsequently increased to 95 °C for 16 h to dry the slurry in air. The resultant material was then ground thoroughly (referred to as the ‘fresh dried-only’ sample). A portion (500 mg) of the dried-only sample was either calcined in static air or reduced under a steady flow of 5% H 2 /Ar. Heat treatments were carried out at 450 °C for 4 h with a heating rate of 10 °C min −1 . All of these materials were tested as catalysts without any further treatment unless stated otherwise. Hydrogenation of 3-NS Liquid phase chemoselective hydrogenation of 3-NS was performed in a 50 ml round-bottomed glass Colaver reactor. In a typical reaction, 3-NS (0.2 ml), toluene (8 ml) and catalyst (50 mg) were charged in the reactor that was then purged with N 2 to remove traces of air before being immersed in an oil bath set at 40 °C. After purging the reactor three times with 3 bar H 2 while stirring, the reaction was commenced. After a pre-determined reaction time, the reactor was cooled to <5 °C using ice, after which aliquots of the reaction mixture were collected and centrifuged to remove the solid catalyst. The liquid reaction mixture (1 ml) was added to a gas chromatography vial together with a fixed amount of external standard o -xylene (0.1 ml) for further quantitative analysis. The determination of the conversion was performed using a Varian 450-GC gas chromatograph equipped with a HP-5ms boiling-point column, a flame ionization detector and a CP8400 Autosampler. Conversion of the substrate and product selectivity were calculated using suitable calibration plots and response factors. Catalyst
+Catalyst preparation
+Supported Pt catalysts with different Pt loadings (0.05, 0.08, 0.2 and 0.5 wt%) were synthesized using the wet-impregnation method. The dried materials were then heat treated in a number of ways and tested for the chemoselective hydrogenation of 3-NS. For a typical catalyst preparation (2 g), the requisite amount of aqueous hydrogen hexachloroplatinic acid solution (9.6 mg Pt ml
+–1
+, assay 30.21% H
+
+PtCl
+
+, Johnson Matthey) was diluted to 16 ml using deionized water, and heated in an oil bath to 60 °C with vigorous stirring (800 r.p.m.) before the addition of the requisite amount of support (TiO
+
+, Evonik P25). The temperature was subsequently increased to 95 °C for 16 h to dry the slurry in air. The resultant material was then ground thoroughly (referred to as the ‘fresh dried-only’ sample). A portion (500 mg) of the dried-only sample was either calcined in static air or reduced under a steady flow of 5% H
+
+/Ar. Heat treatments were carried out at 450 °C for 4 h with a heating rate of 10 °C min
+−1
+. All of these materials were tested as catalysts without any further treatment unless stated otherwise.
+Hydrogenation of 3-NS
+Liquid phase chemoselective hydrogenation of 3-NS was performed in a 50 ml round-bottomed glass Colaver reactor. In a typical reaction, 3-NS (0.2 ml), toluene (8 ml) and catalyst (50 mg) were charged in the reactor that was then purged with N
+
+to remove traces of air before being immersed in an oil bath set at 40 °C. After purging the reactor three times with 3 bar H
+
+while stirring, the reaction was commenced. After a pre-determined reaction time, the reactor was cooled to <5 °C using ice, after which aliquots of the reaction mixture were collected and centrifuged to remove the solid catalyst. The liquid reaction mixture (1 ml) was added to a gas chromatography vial together with a fixed amount of external standard
+o
+-xylene (0.1 ml) for further quantitative analysis. The determination of the conversion was performed using a Varian 450-GC gas chromatograph equipped with a HP-5ms boiling-point column, a flame ionization detector and a CP8400 Autosampler. Conversion of the substrate and product selectivity were calculated using suitable calibration plots and response factors.
+Catalyst characterization
+XPS
+X-ray photoelectron spectroscopy was performed using two systems; the first was a Kratos Axis Ultra delay-line detector spectrometer using monochromatic Al Kα radiation (with a source power of 140 W). An analyser pass energy of 160 eV was used for survey scans, and 40 eV for detailed acquisition of individual elemental regions. The second system was a Thermo Scientific K-Alpha
++
+spectrometer that uses microsfocused monochromatic Al Kα radiation (with a source power of 72 W), with analyser pass energies of 40 and 150 eV. The data were analysed with computer-aided surface analysis for XPS, using escape depth-corrected sensitivity factors supplied by the instrument manufacturers.
+STEM
+Samples for examination by STEM were prepared by dry dispersion of the catalyst powder onto a holey carbon film that is supported by a 300 mesh copper TEM grid. Bright-field and HAADF–STEM images were taken using an aberration corrected JEM-ARM-200CF microscope operating at 200 kV. This instrument was also equipped with a Centurio silicon drift detector for X-ray energy-dispersive spectroscopy (JEOL). The particle size distribution analysis was performed from analysis of HAADF electron micrographs using the ImageJ v.1.52i software package
+
+.
+X-ray absorption spectroscopy
+XAFS spectroscopy measurements were performed on stations B18 and I20 at the Diamond Light Source (Oxon), operating at 3 GeV in multibunch mode with a current of 200 mA. Both stations are equipped with a Si double-crystal monochromator, ion chambers for measuring incident and transmitted beam intensities and/or a multi-element Ge (fluorescence) detector for recording X-ray absorption spectra. The measurements were carried out in air on self-supporting wafers (approximately 100 mg) at the Pt L
+
+-edge, and a 10-µm-thick Pt foil was used as a calibration sample for the monochromator. The measurements were performed at room temperature. To improve the signal-to-noise ratio, multiple scans were taken. All data were subjected to background correction using Athena
+
+(that is, an IFEFFIT software package for pre- and post-edge background subtraction and data normalization). The XAFS spectra were normalized from 30 to 150 eV above the edge energy, although the EXAFS spectra were normalized from 150 eV to the last data point using the Autobk algorithm. Normalization was performed between
+μ
+(
+E
+) and
+μ
+
+(
+E
+) by a line regression through the data in the region below the edge and subtracted from the data. A quadratic polynomial was then regressed to the data above the edge and extrapolated back to the threshold energy (
+E
+
+). The extrapolated value of the post-edge polynomial at
+E
+
+was used as the normalization constant;
+E
+
+is normally determined using either the maximum in the first derivative (approximately 50% of the rising absorption edge) or immediately after any pre-edge or shoulder features. The isolated EXAFS spectra were analysed using the DL-EXCURV
+
+. The data were analysed using a least-squares single- or dual shell-EXAFS fitting analysis that was performed on data that had been phase corrected using muffin-tin potentials. An amplitude reduction factor (
+S
+o
+
+) of 0.94 (obtained from fitting a Pt metal foil) was also used in the analysis.
+CO DRIFTS
+For the CO DRIFTS analysis, samples were loaded in a DRIFT Tensor 27 spectrometer and flushed with N
+
+for 30 min to record a baseline. The sample was then exposed to 20% CO/Ar until complete saturation of the Pt sites was achieved. The system was then flushed with pure N
+
+until there was no presence of atmospheric CO before the spectra were recorded.
+Data availability
+Information on the data supporting the results presented here, including how to access them, can be found in the Cardiff University data catalogue at
+https://doi.org/10.17035/d.2019.0079744472
+.
+Change history

@@ -1,5 +1,356 @@
 DOI: 10.1038/s41929-021-00705-y
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-Synthesis of CoPc/CNT CoPc/CNT was synthesized following an analogous protocol reported in the literature 73 . CoPc (1 mg) was mixed with 30 mg of a multiwall CNT in 30 ml dimethylformamide solution and stirred for 24 h. The suspension became transparent. The final suspension was washed using EtOH and H 2 O within a centrifuge to remove the dimethylformamide, and after that was freeze-dried to give the final catalyst. Electrode preparation Carbon paper (1 cm × 2.5 cm, Freudenberg C2H23) was sonicated in ethanol and deionized water for 15 min and dried as the electrode substrate. The catalyst ink was prepared using 4.0 mg of catalyst mixed with 60 μl of Nafion solution (5% in ethanol, Sigma-Aldrich), 200 μl of isopropanol and 200 μl of deionized water. After 15 min of sonification, the ink was deposited on the microporous layer of carbon paper to achieve an area of 1 cm 2 with catalyst loading of 1 mg cm –2 . Electrochemical measurement The electrochemical CO 2 R performance was measured in a regular three-electrode H-cell divided by a Nafion N117 membrane. The working electrode was the catalyst-coated carbon paper mentioned above, and a Pt mesh was deployed as the counter electrodes. A leak-free Ag/AgCl electrode was used as the reference. The current density was normalized to the working electrode’s geometrical area (1 cm 2 ). All the electrochemical experiments were performed in a CO 2 -purged electrolyte (CO 2 flow rate, 30 ml min –1 ). The pH value of each is presented in Supplementary Table 1 . Product analysis A Shimadzu 2014 on-line gas chromatograph was utilized for product quantification. The gas stream was separated by Hayesep Q + R columns and then analysed by a thermoconductivity detector and flame ionization detector. The thermoconductivity detector detects the volume percentage of the H 2 product, and the flame ionization detector measures the CO after methanization. On all the NiNC type catalysts, no liquid product was found after the electrolysis. Calculations of the production rate, partial current density and Faradaic efficiency are given in the Supplementary Methods . Data availability All computational data, which include the adsorption energies of CO 2 , COOH and CO, optimized atomic coordinates, data for plotting density of states and microkinetic analysis are available at https://doi.org/10.24435/materialscloud:ws-7t . Code availability Python analysis scripts to reproduce all the figures in the manuscript are available at https://github.com/CatTheoryDTU/kinetic-modelling-CO2R .
+We generally do not expect there to be only a single site motif present after the synthesis procedure for these materials
+,
+
+,
+
+,
+
+. Temperature-programmed desorption experiments (Supplementary 
+and Supplementary Note
+
+) show that FeNC, but not NiNC, have a peak above 300 K. This result suggests strong binding sites, such as those from SVs to be present on FeNC to a greater extent than on NiNC (
+). Note that doped SV sites, or other binding sites of similar binding strength that we have not considered, are not active sites for CO
+
+R, as they would be poisoned by CO.
+MNCs have a higher activity because they stabilize larger dipoles
+We now show that MNCs deviate from TM scaling because they stabilize large dipole moments on CO
+
+*. 
+shows charge density difference isosurfaces for CO
+
+* on NiN
+
+C, which shows a perturbation of the electron density near the surface on adsorption. This change in electron density is captured by the dipole moment, given by
+\(\mu = {\int} {\rho {\rm{d}}z}\)
+, where
+\(\rho\)
+is the charge density and
+z
+is the axis of integration, and is shown in 
+for and TM surfaces, as well as Fe- and Ni-doped MNC catalysts in both SVs and DVs of various N concentrations. The figure shows that the dipole moments for CO
+
+* are larger than those for other adsorbates, such as CO* and COOH*. Furthermore, the CO
+
+* dipoles are significantly higher on MNCs than on TMs. MNCs therefore have CO
+
+* adsorption energies that are stabilized more at reducing potentials, at which the surface is generally negatively charged. This electrostatic stabilization caused by the dipole-field interaction gives rise to the offset of MNCs from the TM scaling line shown in 
+.
+
+, Vacuum dipole moments for and TM surfaces (blue) and Fe and Ni MNCs (red). The MNCs (first index indicates the type of vacancy, 1 for single and 2 for double; second index indicates the number of substituting N atoms) have larger dipole moments as compared with those of the TMs.
+b
+, Charge density difference plot for CO
+
+adsorbed on NiN
+
+C.
+c
+, Density of states projected onto the
+s
+and
+p
+states of CO
+
+* (green) and the
+d
+states of TMs (purple) show that the adsorbate states are much narrower on MNCs than they are on TMs.
+Full size image
+We rationalize the differences in dipole moments with the PDOS on the
+s
+and
+p
+states of CO
+
+*. The strength of the adsorbate–surface interaction is determined by both the position and shape of the
+d
+states, and is reflected in the width of the
+s
+and/or
+p
+adsorbate states
+
+. As shown in 
+for a selected set of surfaces (in green), the width of the
+s
+and
+p
+states increases in the order FeN
+
+, NiN
+
+, Ag, Au, Pd and Pt.
+In FeN
+
+and NiN
+
+catalysts, the sharp
+s
+and/or
+p
+states of CO
+
+* mean they resemble those of their molecular counterpart, which indicates a weak interaction (poor hybridization) with the surface. A poor overlap between the
+s
+and or
+p
+states close to the Fermi level (±1 eV in either direction) of CO
+
+and the
+d
+states of the surface means that CO
+
+* retains a greater charge polarization between its two poles, that is a larger dipole (see Supplementary Note
+
+for an explanation of this effect through the Newns–Muscat model). The same effect is present to a lesser extent on the weakly binding metals, Ag and Au, which, in comparison with the strongly binding ones, have slightly narrower
+d
+states and correspondingly slightly larger dipoles. In the strongly binding Pt and Pd catalysts, the broadened states indicate a large interaction
+
+, and a lower charge polarization results from the mixing of adsorbate states with those of the surface and a lower resultant surface dipole. Overall, the trends in the width of the
+s
+and/or
+p
+PDOS of CO
+
+* are consistent with the larger dipole moments of MNC catalysts.
+TM alloys, in contrast to MNC catalysts, generally have wide
+d
+states, as with pure TMs
+
+. In view of the results, improvements in activity through alloying can be attributed not to the stabilization of larger dipoles, but to the tuning of the CO
+
+* binding strengths through the degree of hybridization with the surface.
+The activity volcano of 
+and electronic structure arguments of 
+give two simple design principles. As shown in the TOF of 
+, the ideal CO
+
+R catalyst has moderate
+\({{{\mathrm{{\Delta}}}}}G_{{{{\mathrm{CO}}}}_2}\)
+and Δ
+G
+COOH
+of 0.25–0.5 eV and Δ
+G
+CO
+> 0 eV (to prevent CO* poisoning). It must, additionally, be able to stabilize a large dipole moment of CO
+
+*, such that CO
+
+adsorption does not require a significant overpotential (and thereby deviate from the scaling of TMs in the direction of a higher activity, shown in 
+). These larger dipole moments are stabilized for MNC catalyst materials through their narrow
+d
+states. We suggest that other materials that have similar discrete and narrow
+d
+states, such as supported single atoms
+
+,
+
+, molecules and clusters
+
+,
+
+, as well as two-dimensional materials and ionic compounds
+
+,
+
+,
+
+, could also be active CO
+
+R catalysts, provided that hydrogen evolution is not competitive or suppressed through a decrease in water activity
+
+. This principle could also be relevant for other processes in which dipole -field interactions are decisive, such as in C
+
+product formation
+
+,
+
+.
+Conclusions
+In summary, we present a unified picture of CO
+
+R to CO on both TM and MNC catalysts that resolves the existing controversies on the identity and nature of the rate-limiting step. Considering the widths of the projected densities of states of an adsorbing CO
+
+, we showed that, as for TMs, the electron transfer to CO
+
+is not limiting in MNCs, and that CO
+
+adsorption is driven by adsorbate dipole-field interactions. With a combination of field-dependent DFT and pH-dependent activity measurements, we showed that CO
+
+* adsorption is limiting on TMs over relevant potentials, whereas either CO
+
+* adsorption or COOH* formation is rate limiting on MNCs. We present a unified kinetic activity volcano, based on critical COOH* and CO
+
+* binding as the descriptors, that accounts for the decisive adsorbate dipole-field interactions. The volcano shows that ideal catalysts should have both a moderate binding strength of COOH* and CO
+
+*, as well as large adsorbate dipoles on CO
+
+*. We furthermore showed that MNCs deviate favourably from TM scaling through the stabilization of large CO
+
+* dipoles, due to the localized narrow
+d
+states of these materials.
+These results suggest that MNCs or other materials with similarly narrow
+d
+states, such as supported single atoms, molecules and clusters, as well as two-dimensional materials and ionic compounds, can be optimized for large dipoles and correspondingly higher catalytic activity beyond TM scaling. This principle can be relevant for other processes in which adsorbate–field interactions are decisive. The presented kinetic activity volcano and catalyst design rules should be used as the basis for computation-guided catalyst development of CO
+
+R to CO catalysts.
+
+Methods
+Computational methods
+DFT calculations were carried out using the Vienna Ab Initio Software Package (VASP)
+
+. Core electrons were described using projector augmented wave potentials
+
+. Valence electrons were described with plane waves with a kinetic energy up to 500 eV. Gaussian smearing with a width of 0.1 eV was used. In the case of density of states plots, smearing was reduced to 0.05 eV. For relaxations, we applied the RPBE
+
+functional. Hybrid calculations with the HSE06
+
+,
+
+were performed for the density of states calculations in 
+. In the case of FeNC calculations, a Hubbard-U
+
+parameter of
+U
+= 2 eV was added to the
+d
+orbitals of iron, in line with previous benchmark calculations
+
+.
+TMs were modelled using a 3 × 3 × 3 slab, with the bottom two layers fixed. MNC systems were modelled using a 3 × 3 graphene layer. All the structures were prepared using the Atomic Simulation Environment
+
+. The lattice for all the TM and MNC catalysts were relaxed using a 12 × 12 × 1 Monkhorst–Pack
+
+k
+-point mesh. All the supercells were treated with a 4 × 4 × 1 Monkhorst–Pack
+k
+-point mesh. All the geometries were optimized until the forces were lower than 0.025 eV Å
+−1
+. TS geometries and energies were obtained using the climbing image nudged elastic band
+
+implemented within VASP. All the density of states plots used twice the
+k
+-point sampling used in the relaxation and/or TS calculations. DFT energies were converted into free energies at 298.15 K using vibrations obtained from VASP calculations using IBRION = 5. The ASE
+
+Thermochemistry class was used to determine the Helmholtz free energy from harmonic thermochemistry and the Gibbs free energy from ideal gas thermochemistry.
+Implicit solvation and continuum charge were added using VASPsol
+
+. A Debye screening length of 3 Å was chosen, as it corresponds to a bulk ion concentration of 1 M. The non-electrostatic parameter, TAU, was set to zero for purposes of convergence
+
+. Continuum charge was varied in increments of 0.25 e.
+The computational hydrogen electrode
+
+was used to determine the reaction energetics as a function of the potential with a proton–electron pair was in the reactant. The chemical potential of the proton can be related to that of H
+
+at 0 V versus the reversible hydrogen electrode:
+$$\mu _{{{{\mathrm{H}}}}^ + } + \mu _{{{{\mathrm{e}}}}^ - } = \frac{1}{2}\mu _{{{{\mathrm{H}}}}_2\left( {{{\mathrm{g}}}} \right)}$$
+
+The incorporation of the dipole-field interactions is described in detail in Supplementary Note
+
+.
+Microkinetic modelling was performed using CatMAP
+
+. The rate of a given elementary step was
+\({{{\mathrm{rate}}}} = k_ + {{{\mathrm{{\Pi}}}}}\theta _i{{{\mathrm{{\Pi}}}}}p_j - k_ - {{{\mathrm{{\Pi}}}}}\theta _i{{{\mathrm{{\Pi}}}}}p_j\)
+, where ‘+’ indicates the forward reaction and ‘−’ the reverse reaction. The rate constants are
+\(k_ + = \exp \left( { - \frac{{G_{a, + }}}{{k_{\rm{B}}T}}} \right)\)
+and
+\(k_ - = \exp \left( { - \frac{{G_{a, - }}}{{k_{\rm{B}}T}}} \right)\)
+, where
+G
+a
+,+
+and
+G
+a
+,–
+are the free energy barriers. In the absence of electrochemical barriers, the free energy is used, which is given as Δ
+G
+= Δ
+G
+° +
+neU
++ Δ
+G
+field
+, where Δ
+G
+° is the free energy for the reaction at the potential of zero charge,
+n
+is the number of proton–electron pairs transferred and Δ
+G
+field
+is the dipole-field contribution.
+A multiprecision Newton root-finding algorithm was used to determine the steady-state rates and coverages. A decimal precision of 100 along with a convergence tolerance value of 10
+−25
+were used.
+Synthesis
+The polyaniline-derived NiNC catalyst is identical to that reported in our previous studies
+
+,
+
+. Aniline (3 ml), NiCl
+
+·6H
+
+O (5 g) and ammonium persulfate (5 g) were added to 0.5 l of 1 M HCl and stirred for 1 h. This suspension was then mixed with 0.4 g of a dispersed activated Ketjen 600 carbon black support (washed in HCl for purification and HNO
+
+for oxygen doping), stirred for 48 h and then dried in the air at 95 °C for 24 h. The residual solid-state mixture was ball milled with Zr
+
+O
+
+balls for 20 min. We conducted the pyrolysis protocol in a furnace at 900 °C (ramp of 30 °C min
+–1
+) for 1 h under N
+
+conditions, followed by acid washing steps (2 M H
+
+SO
+
+at 90 °C overnight) to remove the excessive Ni particles. We performed heat treatment four times and acid washing three times and the catalyst was obtained after the fourth pyrolysis.
+
+Synthesis of CoPc/CNT
+CoPc/CNT was synthesized following an analogous protocol reported in the literature
+
+. CoPc (1 mg) was mixed with 30 mg of a multiwall CNT in 30 ml dimethylformamide solution and stirred for 24 h. The suspension became transparent. The final suspension was washed using EtOH and H
+
+O within a centrifuge to remove the dimethylformamide, and after that was freeze-dried to give the final catalyst.
+Electrode preparation
+Carbon paper (1 cm × 2.5 cm, Freudenberg C2H23) was sonicated in ethanol and deionized water for 15 min and dried as the electrode substrate. The catalyst ink was prepared using 4.0 mg of catalyst mixed with 60 μl of Nafion solution (5% in ethanol, Sigma-Aldrich), 200 μl of isopropanol and 200 μl of deionized water. After 15 min of sonification, the ink was deposited on the microporous layer of carbon paper to achieve an area of 1 cm
+
+with catalyst loading of 1 mg cm
+–2
+.
+Electrochemical measurement
+The electrochemical CO
+
+R performance was measured in a regular three-electrode H-cell divided by a Nafion N117 membrane. The working electrode was the catalyst-coated carbon paper mentioned above, and a Pt mesh was deployed as the counter electrodes. A leak-free Ag/AgCl electrode was used as the reference. The current density was normalized to the working electrode’s geometrical area (1 cm
+
+). All the electrochemical experiments were performed in a CO
+
+-purged electrolyte (CO
+
+flow rate, 30 ml min
+–1
+). The pH value of each is presented in Supplementary 
+.
+Product analysis
+A Shimadzu 2014 on-line gas chromatograph was utilized for product quantification. The gas stream was separated by Hayesep Q + R columns and then analysed by a thermoconductivity detector and flame ionization detector. The thermoconductivity detector detects the volume percentage of the H
+
+product, and the flame ionization detector measures the CO after methanization. On all the NiNC type catalysts, no liquid product was found after the electrolysis. Calculations of the production rate, partial current density and Faradaic efficiency are given in the
+Supplementary Methods
+.
+Data availability
+All computational data, which include the adsorption energies of CO
+
+, COOH and CO, optimized atomic coordinates, data for plotting density of states and microkinetic analysis are available at
+https://doi.org/10.24435/materialscloud:ws-7t
+.
+Code availability
+Python analysis scripts to reproduce all the figures in the manuscript are available at
+https://github.com/CatTheoryDTU/kinetic-modelling-CO2R
+.

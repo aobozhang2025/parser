@@ -1,5 +1,383 @@
 DOI: 10.1038/s41929-021-00729-4
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-Synthesis of Cu/Al 2 O 3 catalyst The Cu/Al 2 O 3 catalyst was prepared by a coprecipitation method with NaOH and Na 2 CO 3 as the precipitating agent 56 . Copper nitrate and aluminium nitrate were dissolved in deionized water, and the precipitating agent was added dropwise into the solution at 60 °C under vigorous stirring. The mixture was aged overnight and filtered, with the precipitate dried at 100 °C for 12 h. The catalyst powders were finally calcined in static air at 450 °C for 4 h. X-ray photoelectron spectroscopy surface analysis and inductively coupled plasma optical emission spectrometry confirmed the absence of residual Na in the catalyst.
+Methods
+Materials and chemicals
+The following chemical reagents were of analytical grade and used without further purification: methanol (CH
+
+OH (MeOH), 99.99%, Adamas-beta), copper(II) nitrate trihydrate (Cu(NO
+
+)
+
+·6H
+
+O, >99%, Adamas-beta), aluminium nitrate nonahydrate (Al(NO
+
+)
+
+·9H
+
+O, 99.99%, Adamas-beta), sodium hydroxide (NaOH, >98%, Adamas-beta) and sodium carbonate (Na
+
+CO
+
+, 99.95–100.05%, Adamas-beta). The commercial CuO/ZnO/Al
+
+O
+
+catalyst was purchased from Sichuan Shutai Chemical Technology. The N
+
+, Ar, N
+
+O, 10%-H
+
+/90%-N
+
+, 60%-H
+
+/40%-N
+
+, 60%-H
+
+/15%-CO
+
+/25%-N
+
+and 1%-O
+
+/Ar gases were purchased from Shanghai Air Liquide Compressed Gas.
+
+Synthesis of Cu/Al
+O
+
+catalyst
+The Cu/Al
+
+O
+
+catalyst was prepared by a coprecipitation method with NaOH and Na
+
+CO
+
+as the precipitating agent
+
+. Copper nitrate and aluminium nitrate were dissolved in deionized water, and the precipitating agent was added dropwise into the solution at 60 °C under vigorous stirring. The mixture was aged overnight and filtered, with the precipitate dried at 100 °C for 12 h. The catalyst powders were finally calcined in static air at 450 °C for 4 h. X-ray photoelectron spectroscopy surface analysis and inductively coupled plasma optical emission spectrometry confirmed the absence of residual Na in the catalyst.
+Characterizations
+N
+
+adsorption–desorption isotherms of the samples were measured at –196 °C on a BELSORP-MAX apparatus. The sample was outgassed under vacuum at 200 °C for 3 h before N
+
+adsorption. The total pore volume, average pore diameters and pore size distributions were obtained from the N
+
+adsorption branches of isotherms using the Barret–Joyner–Halenda method.
+The content of Cu was determined by inductively coupled plasma optical emission spectrometry (Agilent 725ES).
+Temperature-programmed reduction with hydrogen (H
+
+-TPR) was conducted on a TP5000 (Tianjin Xianquan) instrument with a thermal conductivity detector (TCD). The sample (~50 mg) was pretreated at 300 °C for 30 min in a N
+
+flow (Air Liquid, 99.99%) and then cooled to room temperature. The H
+
+-TPR curve was then recorded when the temperature was ramped in a 10%-H
+
+/N
+
+flow (30 ml min
+–1
+) from 30 to 600 °C at a rate of 10 °C min
+–1
+.
+The dispersion of Cu was determined by N
+
+O-RFC
+
+using the chemisorption instrument mentioned above. First, the unreduced CuO/ZnO/Al
+
+O
+
+catalyst (50 mg) was treated by a TPR process in a 10%-H
+
+/N
+
+flow within the range of 30–300 °C at a heating rate of 10 °C min
+–1
+. The corresponding hydrogen consumption was denoted as
+A
+
+. The activated catalyst was then cooled to 50 °C in N
+
+, and the gas was switched to N
+
+O for 30 min to mildly oxidize surface Cu atoms to Cu
+
+O. Afterwards, the sample was flushed by N
+
+for 30 min, and H
+
+-TPR measurement was performed by increasing the temperature from 50 to 300 °C at a rate of 10 °C min
+–1
+. The corresponding hydrogen consumption was denoted as
+A
+
+. Next, the Cu dispersion (
+D
+Cu
+) was calculated according to the equation
+D
+Cu
+(%) = 2
+A
+
+/
+A
+
+× 100%, and exposed Cu surface area (
+S
+Cu
+) was calculated according to the equation
+S
+Cu
+(m
+
+g
+–1
+) = (2
+A
+
+×
+N
+A
+)/(
+A
+
+×
+M
+Cu
+× 1.4 × 10
+
+×
+W
+Cu
+), where
+N
+A
+is Avogadro’s constant,
+M
+Cu
+is the molar mass of Cu,
+W
+Cu
+is the content of Cu and 1.4 × 10
+
+means number of copper atoms per square metre on average.
+Morphology and elemental distribution of the catalysts were analysed by aberration-corrected STEM operated on a ThermoFisher Themis Z transmission electron microscope equipped with two aberration correctors. High-angle annular dark-field STEM images were recorded using a convergence angle of 25 mrad and inner and outer collection angles of 59 and 200 mrad, respectively. EDS was carried out using four in-column Super-X detectors. EELS data were acquired using a Gatan Enfinium ER (model 977) EELS spectrometer with a dual EELS function. A pretreatment chamber was used for the catalyst activation treatments, and samples were prepared by dispersing the catalyst powder in ethanol, then adding it onto molybdenum grids supported with carbon films in a glove box under an Ar atmosphere. A vacuum transfer holder (Fischione Model 2550) was used to eliminate additional air exposure that might change the valence states of Cu and Zn.
+The in situ atmospheric STEM experiment was performed using a Climate S3 in situ transmission electron microscope holder (DENS Solutions Company), allowing for in situ STEM observation under atmospheric pressure and high temperature. The CuZnAl-U catalyst was dispersed in the nanoreactor of the in situ holder. The catalyst was in situ reduced under 60%-H
+
+/N
+
+at 300 °C for 1 h, and then the inlet gas was switched to a H
+
+/H
+
+O/CH
+
+OH/N
+
+mixture by bubbling 60%-H
+
+/N
+
+through a saturator filled with liquid methanol/water. The screen current was adjusted to 5.0–10.0 nA to avoid electron beam effects.
+In situ X-ray diffraction analysis was performed on a Bruker D8-Advance X-ray powder diffractometer with a Cu Kα ray source (wavelength,
+λ
+= 0.154 nm) at 40 kV and 40 mA. The catalyst was loaded into a customized in situ cell, heated up to 300 °C and activated in different conditions. The X-ray diffraction patterns were collected over a 2
+θ
+(angle between transmitted X-ray beam and reflected beam) range of 30–80° with a resolution of 0.02°.
+X-ray absorption spectroscopy measurements at the Zn K edge were performed at BL14W1 at the Shanghai Synchrotron Radiation Facility using a transmission mode for Zn foil and a fluorescence mode for the Cu/ZnO/Al
+
+O
+
+catalysts. The electron beam energy was 3.5 GeV, and the stored current was 230 mA (top-up). A 38-pole wiggler with a maximum magnetic field of 1.2 T inserted in the straight section of the storage ring was used. Extended X-ray absorption fine structure data were collected using a fixed-exit double-crystal Si monochromator. A Lytle detector was used to collect the fluorescence signal, and the energy was calibrated using Zn foil.
+Quasi in situ X-ray photoelectron spectra were collected using a Thermo ESCALAB 250Xi spectrometer equipped with a monochromatic Al Kα radiation source (1,486.6 eV; pass energy, 20.0 eV). A pretreatment chamber was used for the catalyst activation treatments. Afterwards, the chamber was evacuated, and the sample was directly transferred into the vacuum analysis chamber to avoid exposure to air.
+An in situ Fourier transform infrared spectrometer (PerkinElmer Frontier) equipped with a diffuse reflection cell (Harrick Praying Mantis) was used for in situ DRIFTS analysis. Spectra were collected with a spectral resolution of 4 cm
+–1
+, and each spectrum was the average of 32 scans. About 30 mg of the catalyst was placed into a customized reaction cell. The catalyst was first activated under different conditions at 300 °C. After cooling to 25 °C in an Ar atmosphere, the background was recorded. For in situ CO DRIFTS, 1.5 ml min
+–1
+of 1%-CO/Ar, diluted in 28.5 ml min
+–1
+of pure Ar, was fed to the cell for 30 min, and the spectrum was then collected. For in situ temperature-programmed DRIFTS, a mixture of methanol and water was introduced into the reactor by bubbling Ar through a saturator filled with liquid methanol/water. The samples were then heated to 250 °C at a rate of 5 °C min
+−1
+in flowing Ar, with the spectra collected every minute. Operando DRIFTS during activation was performed in the same apparatus, with the gas outlet connected to a mass spectrometer. The catalyst was reduced in 60%-H
+
+/N
+
+at 300 °C for 50 min and then exposed to different environmental conditions (H
+
+/H
+
+O/CH
+
+OH/Ar, H
+
+/CH
+
+OH/Ar and H
+
+/CO
+
+/N
+
+) at 300 °C for 10 min, with the spectra collected every 1 minute.
+In situ Raman spectra were collected with a Horiba LabRam-HR spectrometer equipped with a visible laser excitation at 514 nm generated by a He–Cd laser. The laser was focused on the sample with a confocal microscope equipped with a ×50 long working distance objective (Olympus BX-30-LWD). The scattered photons were directed and focused onto a single-stage monochromator measured with an ultraviolet-sensitive liquid-N
+
+-cooled CCD (charge-coupled device) detector (Horiba CCD-3000 V). The catalyst was reduced in 60-%H
+
+/N
+
+at 300 °C for 50 min and then exposed to different environmental conditions (H
+
+/H
+
+O/CH
+
+OH/Ar, H
+
+/CH
+
+OH/Ar and H
+
+/CO
+
+/N
+
+) at 300 °C for 10 min, with the spectra collected every 2 min.
+DFT calculations
+The Cu surface was modelled by a three-layer 6 × 6 unit cell. The ZnO–Cu interface was modelled by depositing a series of Zn
+
+O
+x
+H
+y
+clusters (
+x
+= 0–3,
+y
+= 0–
+x
+) on the Cu surface (details in Supplementary Data
+
+). The bottom layer in the Cu unit cell was fixed in the optimized bulk positions, while the others were allowed to relax. A 15 Å vacuum along the
+z
+direction was applied to prevent unexpected interactions between the periodically repeated images.
+The DFT calculation was performed using the Vienna Ab-initio Simulation Package
+
+,
+
+. The projector augmented-wave method
+
+with the generalized gradient approximation parameterized by the Perdew–Burke–Ernzerhof
+
+exchange–correlation functional with the kinetic cut-off energy of 450 eV was used. The Brillouin zone was sampled using the gamma-centred Monkhorst–Pack
+k
+points of 2 × 2 × 1 for all calculations, except that only the Γ point was used for preliminary structure optimization to determine the most stable structures of each Zn
+
+O
+x
+H
+y
+/Cu (
+x
+= 0–3,
+y
+= 0–
+x
+). The geometric optimization was performed using an iteration convergence with 1 × 10
+−5
+eV and 0.05 eV Å
+–1
+for total energy and residual forces, respectively. The transition state of a chemical reaction was located using the climbing image nudged elastic band method
+
+,
+
+implemented in the Vienna Ab-initio Simulation Package.
+The Gibbs free energy for each state was calculated by
+$$G\left( T \right) = E_{{{{\mathrm{DFT}}}}} + G_{{{{\mathrm{correct}}}}}\left( T \right) = E_{{{{\mathrm{DFT}}}}} + {{{\mathrm{ZPE}}}} - TS + {\Delta}U_{0 \to T}$$
+
+where
+G
+(
+T
+) is the Gibbs free energy at temperature
+T
+,
+E
+DFT
+is the DFT energy and
+G
+correct
+(
+T
+) is the thermal correction to the Gibbs free energy. ZPE,
+S
+and Δ
+U
+0→
+T
+are the zero-point energy, entropy and internal energy change induced by temperature, respectively. The
+G
+correct
+(
+T
+) was calculated using the VASPKIT tool
+
+. The energy barrier of a chemical reaction is defined as the free energy difference between the initial and transition states.
+Catalytic activity evaluation
+The MSR reaction measurements were conducted in a continuous plug flow fixed-bed reactor with a 4 mm inner diameter. Before the test, 100 mg of the catalyst with 60–80 mesh was activated in situ at 300 °C under different gas environments and then cooled to 225 °C in Ar (30 ml min
+–1
+). An aqueous methanol solution with a specific water/methanol ratio of 1.3 was injected into the heated chamber by a syringe pump (0.02 ml min
+–1
+, WHSV of MeOH = 6 h
+–1
+) to evaporate the liquid. The steam was then mixed with the desired amount of Ar (30 ml min
+–1
+) as the carrier gas and introduced into the catalyst bed for reaction. The reactor effluent was separated in a phase separator and analysed by online gas chromatography equipped with a methanizer and flame ionization detector and a thermal conductivity detector. Methanol conversion and the selectivity of products were calculated according to equations (
+
+) and (
+
+). TOF was calculated using equation (
+
+) at 225 °C and the WHSV of MeOH of 60 h
+–1
+, with methanol conversions below 10% (
+):
+$${{{\mathrm{Methanol}}}}\;{{{\mathrm{conversion,}}}}\;{{{{C}}}}_{{{{\mathrm{MeOH}}}}}\left( {{{\mathrm{\% }}}} \right){{{\mathrm{ = }}}}\left( {{\it{F}}_{{{{\mathrm{CO,}}}}\;{{{\mathrm{out}}}}}{{{\mathrm{ + }}}}{\it{F}}_{{{{\mathrm{CO2,}}}}\;{{{\mathrm{out}}}}}} \right){{{\mathrm{/F}}}}_{{{{\mathrm{MeOH,}}}}\;{{{\mathrm{in}}}}}{{{\mathrm{ \times 100\% }}}}$$
+
+$${{{\mathrm{CO}}}}\;{{{\mathrm{selectivity,}}}}\;{{{{S}}}}_{{{{\mathrm{CO}}}}}\left( {{{\mathrm{\% }}}} \right){{{\mathrm{ = }}}}{\it{F}}_{{{{\mathrm{CO,}}}}\;{{{\mathrm{out}}}}}{{{\mathrm{/}}}}\left( {{\it{F}}_{{{{\mathrm{CO,}}}}\;{{{\mathrm{out}}}}}{{{\mathrm{ + }}}}{\it{F}}_{{{{\mathrm{CO2,}}}}\;{{{\mathrm{out}}}}}} \right){{{\mathrm{ \times 100\% }}}}$$
+
+$$\begin{array}{l}{\mathrm{TOF}}\;{\mathrm{of}}\;{\mathrm{methanol,}}\;{\mathrm{TOF}}_{\mathrm{MeOH}}\left( {\mathrm{h}^{\mathrm{ - 1}}} \right)\\ = (M_{\mathrm{Cu}} \times {\mathrm{methanol}}\;{\mathrm{consumption}}\;{\mathrm{rate)/(}D}_{\mathrm{Cu}} \ \times W_{\mathrm{Cu}})\end{array}$$
+
+where
+F
+CO, out
+and
+F
+CO2, out
+are the CO and CO
+
+outlet molar flow rates, respectively;
+F
+MeOH, in
+is the inlet stream of methanol fed to the reactor;
+M
+Cu
+is the molar mass of Cu,
+D
+Cu
+is the dispersion of Cu and
+W
+Cu
+is the content of Cu.
+Data availability
+The data that support the findings of this study are available from the corresponding authors on reasonable request.
+Source data
+are provided with this paper.

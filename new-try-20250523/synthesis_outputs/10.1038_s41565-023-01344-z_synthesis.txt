@@ -1,0 +1,176 @@
+DOI: 10.1038/s41565-023-01344-z
+Source: main text file
+--------------------------------------------------
+
+Methods
+Computational methods and models
+The calculations were performed with the Vienna Ab initio Simulation Package
+
+using the projector augmented wave method
+
+and the generalized gradient approximation
+
+in the form of the Bayesian error estimation functional with van der Waals corrections
+
+. The planewave basis sets were converged at a kinetic energy cutoff of 400 eV for each slab model, of which the bottom two layers were fixed. The close-packed surfaces are chosen for calculation. For magnetic elements or alloys, spin-polarized DFT calculations were specially employed. An atomic force convergence criterion of 0.02 eV Å
+−1
+was used to identify optimized geometries. For PtM, a (2 × 2) supercell with five layers was used. A (5 × 3 × 1)
+k
+-point grid was applied to PtSc and PtZr. A (4 × 3 × 1)
+k
+-point grid was applied to PtY and PtHf. A (3 × 3 × 1)
+k
+-point grid was used for other IMAs. For PtMn, PtFe, PtCo, PtNi, PtAg and PtPd, a (2 × 3) supercell with five layers was used, along with a (3 × 3 × 1)
+k
+-point grid. For PtZn, a (2 × 3) supercell with five layers was used, along with a (4 × 4 × 1)
+k
+-point grid. For Pt
+
+M, a (4 × 4) supercell with four layers was used, along with a (3 × 3 × 1)
+k
+-point grid. For 5
+d
+metals, a (3 × 3 × 1)
+k
+-point grid was used. A (4 × 4) supercell with four layers was used for Hf, Re, Os, Ir, Pt and Au. A (3 × 2) supercell with five layers was used for Ta and W. For 4
+d
+metals, a (4 × 4) supercell with four layers, corresponding to a (3 × 3 × 1)
+k
+-point grid, was used, except for Nb, which used a (2 × 2) supercell with five layers and a (5 × 3 × 1)
+k
+-point grid. For 3
+d
+metals, Sc and Ti were modelled by a (3 × 3) supercell with six layers, corresponding to a (5 × 5 × 1)
+k
+-point grid. For V and Cr a (2 × 2) supercell was used, while a (2 × 3) supercell was used to model Fe. The thickness for these was five layers, and a (5 × 5 × 1)
+k
+-point grid was applied. A (4 × 4) supercell with four layers was used to model Mn, Co, Ni and Cu, corresponding to a (3 × 3 × 1)
+k
+-point grid. Transition states were determined with the climbing-image nudged elastic band method and the dimer method
+
+,
+
+. For all energy diagrams, the energy of C
+
+H
+
+in the gas phase is taken as reference and the energies of intermediates are corrected with H
+
+in the gas phase. The adsorption energy of C
+
+H
+
+is defined as (
+E
+total
+−
+E
+slab
+−
+E
+C3H6
+), where
+E
+total
+is the total energy of the slab with C
+
+H
+
+adsorbed and
+E
+slab
+is the energy of the clean slab, while
+E
+C3H6
+refers to the energy of C
+
+H
+
+in the gas phase. The alloy formation energy is evaluated using the bulk energy of the alloy and pure metal. Entropic contributions were calculated according to Campbell’s method
+
+, accompanied by the calculation of zero-point energy, to convert potential energy into Gibbs free energy. All the kinetic and thermodynamic analyses were carried out at 873 K with 0.28, 0.15 and 0.04 atm partial pressures for H
+
+, C
+
+H
+
+and C
+
+H
+
+, respectively. Atomic charges were computed using Bader charge analysis
+
+. COHP analysis was performed with the LOBSTER 3.2.0 package
+
+,
+
+. The periodic natural bond orbital formalism developed by Dunnington and Schmidt
+
+was applied using Vienna Ab Initio Simulation Package software to analyse surface chemical bonding via natural bond orbitals.
+Catalytic testing
+Catalytic tests were performed in a quartz fixed-bed reactor with 8 mm inner diameter and 24 cm length at atmospheric pressure. 250 mg catalyst with particle size of 20 to 40 meshes was packed inside the quartz tubular reactor. The sample was first heated to 600 °C at a rate of 10 °C min
+−1
+and maintained at 600 °C for 1.5 h in flowing 18 vol.% H
+
+/N
+
+. Afterwards, a mixture of C
+
+H
+
+, H
+
+and N
+
+(16:16:68 vol.%) was fed at a rate of 50 ml min
+−1
+. The WHSV of propane was around 4 h
+−1
+. The gas products were analysed using an online gas chromatograph equipped with a flame ionization detector (Chromosorb 102 column) and a thermal conductivity detector (Al
+
+O
+
+PLOT column). The propane conversion and selectivity for propylene were calculated from equations (
+
+) and (
+
+) respectively:
+$${\mathrm{Con.}}\left( \% \right) = 100 \times \left( {\left[ {{\mathrm{F}}_{\mathrm{C3H8}}} \right]_{\mathrm{inlet}} - \left[ {{\mathrm{F}}_{\mathrm{C3H8}}} \right]_{\mathrm{outlet}} }\right)/\left[ {{\mathrm{F}}_{\mathrm{C3H8}}} \right]_{\mathrm{inlet}}$$
+
+$${\mathrm{Sel.}}\left( \% \right) = 100 \times \left[ {{\mathrm{F}}_{\mathrm{C3H6}}} \right]_{\mathrm{outlet}}/\left( {\left[ {{\mathrm{F}}_{\mathrm{C3H8}}} \right]_{\mathrm{inlet}} - \left. {{\mathrm{F}}_{\mathrm{C3H8}}} \right]_{\mathrm{outlet}}} \right).$$
+
+Structural characterization
+The X-ray diffraction measurements were performed on a Bruker D8 diffractometer operating at 200 mA and 40 kV, employing graphite-filtered Cu Kα as the radiation source. The data points were collected by step scanning with a rate of 6° min
+−1
+from 2
+θ
+= 10 to 80°. The crystallite size (
+d
+) of copper was calculated with the X-ray broadening technique using the Scherrer equation:
+$$d = 0.89\lambda /\left( {B\,\cos \theta } \right).$$
+
+Here,
+λ
+is the wavelength of the radiation source (0.15418 nm),
+B
+is the half-width of the strongest diffraction peak in radians and
+θ
+is its diffraction angle.
+The AC-STEM images were characterized on a JEOL JEM-ARM200F at the School of Materials Science and Engineering at Tianjin University and an FEI Titan Cubed Themis G2 300 at Tianjin University of Technology. The sample powder was ultrasonically dispersed in deionized water and deposited on a cooper grid coated with an ultrathin holey carbon film.
+In situ X-ray photoelectron spectroscopy analysis was performed in a Thermo Fisher ESCALAB 250Xi photoelectron spectrometer using monochromated X-ray irradiation Al Kα (
+hν
+= 1,486.6 eV) and a 180° double focusing hemispherical analyser with a six-channel detector. The binding energy of the photoemission spectra was calibrated to the Si 2
+p
+peak with binding energy 103.5 eV. After this calibration the low-intensity adventitious carbon peak was in the range 284.0–284.8 eV. Reduction of samples was performed in an ultrahigh-vacuum-connected high-pressure gas cell. The samples were heated in 10% hydrogen diluted in Ar (5 ml min
+−1
+H
+
+and 45 ml min
+−1
+Ar, total pressure 1 bar) flow from room temperature to 600 °C with a change rate of 10 °C min
+−1
+and then left for 60 min for reduction. The photoelectron spectra were recorded after ultrahigh-vacuum transfer of the samples to an analyser chamber without contact with the atmosphere.
+Data availability
+The data that support the findings of this study are available within this Article and its Supplementary Information files or from the corresponding author upon reasonable request.
+Source data
+are provided with this paper.

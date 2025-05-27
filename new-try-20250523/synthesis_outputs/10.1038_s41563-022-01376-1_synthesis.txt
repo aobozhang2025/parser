@@ -1,5 +1,1150 @@
 DOI: 10.1038/s41563-022-01376-1
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-Methods Synthesis of Pt, Pd–Pt and Pd nanoparticles All chemicals were purchased from Sigma-Aldrich. Pt NPs were prepared by thermal decomposition of platinum(II) acetylacetonate (Pt(acac) 2 , 99.98%) by colloidal synthesis using standard Schlenk techniques following a previously reported procedure 2 . First, 10 ml trioctylamine (95%), 0.66 ml 1-oleylamine (70%) and 2.5 ml oleic acid (90%) were added to 79 mg Pt(acac) 2 in a three-necked flask. The reaction content was degassed (<2 torr) for 15 min at room temperature. Then, 220 μl trioctylphosphine (97%) was added to the reaction mixture. The flask was further degassed at 120 °C for 30 min, and then flushed with nitrogen, heated to 350 °C at a rate of ~20 °C min −1 and kept at this temperature for 15 min. After cooling to room temperature, the reaction content was split into two centrifuge tubes, and each was washed with a mixture of 10 ml isopropyl alcohol and 20 ml ethanol and recovered by centrifugation (8,586 g , 3 min). Finally, the NPs were suspended in hexanes. Pd NPs were synthesized using 77 mg Pd(acac) 2 , 4.5 ml of 1-octadecene (ODE), 5.5 ml tetradecene, 1.66 ml 1-oleylamine and 0.567 ml trioctylphosphine. The reaction content was degassed at 50 °C for 30 min, heated to 225 °C under nitrogen at a rate of ~20 °C min −1 and kept at this temperature for 30 min. For the Pd–Pt NP synthesis, 3.3 ml 1-oleylamine, 1.6 ml oleic acid and 40 ml 1-octadecene were added to 200.7 mg Pt(acac) 2 and 157 mg Pd(acac) 2 in a three-necked flask. The reaction content was degassed for 30 min at room temperature. Then, 550 μl trioctylphosphine was added to the reaction mixture. The flask was further degassed at 50 °C for 30 min, and then flushed with nitrogen, heated to 300 °C at a rate of ~20 °C min −1 and kept at this temperature for 15 min. The NPs were washed following the procedure described above. Synthesis of Pt@POF The POF was prepared using standard air-free Schlenk techniques following a previously reported procedure 19 . First, 9.3 g melamine (99%, Acros Organics) and 15 g terephthalaldehyde (99%, Acros Organics) were added to 495 ml dimethylsulfoxide (99.9%, Fisher) in a three-necked flask. The content was degassed at room temperature for 15 min, and then flushed with nitrogen, heated to 180 °C at a rate of ~20 °C min −1 and kept at this temperature for 72 h. The solid product was washed with acetone three times and dried under vacuum (~150 torr) at 80 °C for 24 h to give a yield of 64%. Then, 8 mg Pt NPs in hexanes was added dropwise to 400 mg POF dispersed in 10 ml of a 1:9 mixture of 2-methyltetrahydrofuran (99%, Sigma-Aldrich) and hexanes under vigorous stirring. The mixture was stirred for 20 min to allow the NPs to adsorb onto the support. The observation of colourless supernatants indicated the complete adsorption of the NPs. The solvents were then removed by centrifugation (8,586 g , 3 min) and the powder was dried at 80 °C for 3 h. Organic ligands were removed by calcination in air at 300 °C for 20 min. The NPs were then encapsulated by growing an additional POF layer around the preformed Pt/POF material: 0.75 g Pt/POF was added to 1.18 g melamine and 1.87 g terephthalaldehyde dissolved in 61 ml dimethylsulfoxide. The mixture was heated to 180 °C as above, but for 24 h. The final material was washed three times with acetone as described above to obtain Pt@POF in a yield of 64%. Synthesis of Pt@Al 2 O 3 First, 18 g Al(NO 3 ) 3 ·9H 2 O (>98%, Sigma-Aldrich) was dissolved in 100 ml ethanol. Next, 1.2 g Pt@POF was added to the solution. The mixture was sonicated for 10 min, then ethanol was slowly removed in a rotary evaporator at 60 °C (water bath temperature) at 900 mbar for 1 h and then at 150 mbar for 1 h. The material was then dried under vacuum (~150 torr) at 80 °C for 24 h. The final product was obtained by calcining the sample at 600 °C for 5 h at a ramp rate of 0.5 °C min −1 . This procedure resulted in purely mesoporous Al 2 O 3 . For the synthesis of a mix of micro- and mesoporous Al 2 O 3 , an ammonia solution in ethanol (24 ml ethanol mixed with 18 ml ammonia solution (2 M in ethanol, Sigma-Aldrich)) was added to the sample; ethanol was removed in the rotary evaporator, before removing the ammonia solution, again following the procedure described above. Synthesis of supported Pt and Pd–Pt The appropriate amount of Pt or Pd–Pt NPs was added to the alumina support dispersed in hexanes under vigorous stirring to achieve a nominal metal loading of 0.5 wt%. The mixtures were stirred for 20 min to allow the NPs to adsorb onto the support, and the catalysts were recovered by centrifugation (8,586 g , 3 min). The observation of colourless supernatants indicated the complete adsorption of the NPs for each solution. The powders were then dried at 80 °C for 3 h and sieved below a grain size of 180 µm. Organic ligands were removed by fast calcination of the catalysts at 700 °C for 30 s ( ). Catalyst characterization Bright-field TEM was performed on a FEI Tecnai microscope operating at 200 kV. HAADF-STEM images were acquired using a FEI/Thermo Fisher TitanX device operating at 300 kV at the National Center for Electron Microscopy (NCEM) facility of the Molecular Foundry at Lawrence Berkeley National Laboratory. To prepare powder samples for imaging, catalyst powder was shaken with lacey C/Cu grids. STEM tomography was performed at 300 kV using a FEI/Thermo Fisher TitanX device at NCEM with a 7 mrad convergence semi-angle and a beam current of ~3 pA. Images were acquired at tilt angles from −70° to +68° in steps of 2°. The tilt angle series was aligned using tomviz 1.9.0 ( www.tomviz.org ). The reconstruction was accomplished using the SART algorithm implemented in the Astra toolbox (version 1.9.0dev11) with 350 iterations. Visualization of the tomogram was accomplished using tomviz 1.9.0. STEM-EEL spectral data were collected at the Molecular Foundry on a TEAM I instrument, which is a double-corrected transmission electron microscope on the Thermo Fisher Titan platform with a Gatan Continuum GIF. Electron energy loss (EEL) spectra were recorded on a post-GIF K3 detector in electron counting mode with a dispersion of 0.18 eV per pixel. Sample thickness maps were acquired with 300 keV electrons with a 17.1 mrad convergence semi-angle and a 65 mrad collection semi-angle. Spectrum images were acquired using an 80 pA probe current, a 50 ms dwell time and 2 nm pixels with 16 × 16 sub-scanning of each STEM pixel. Sample thickness was estimated from the low-loss portion of the EEL spectrum image using the log-ratio method 32 . N 2 physisorption experiments were carried out on a Micromeritics 3Flex instrument. Powders were degassed under vacuum at 90 °C for 1 h and then at 300 °C for 5 h prior to N 2 adsorption at liquid nitrogen temperature. The micropore volume was calculated using non-local density functional theory (NLDFT) Advanced pore size distribution (PSD) using the slit geometry and carbon model. Thermogravimetric analysis was performed on a TA Instruments TGA-500 device. Pt NPs in hexanes were heated at a ramp rate of 10 °C min −1 under a flow of air of 45 ml min −1 . Powder catalysts were pretreated at 300 °C in air and then heated to 800 °C at a ramp rate of 10 °C min −1 . XPS measurements were carried out in a PHI VersaProbe I and III scanning XPS microprobe equipped with a hemispherical electron analyser with monochromatic Al Kα radiation (1,486.6 eV) and an argon ion sputter gun. All samples were deposited on conductive carbon tabs on an aluminium holder, outgassed at 10 −4 mbar, and then transferred to the ion-pumped analysis chamber. The pressure was kept below ~5 × 10 −7 Pa during data acquisition. The incident X-ray spot size was 100 µm, and an excitation of 100 W at 20 kV was used for the radiation source. The binding energies were referenced to the C 1 s peak (284.8 eV) to account for charging effects. Given the Al Kα radiation energy (1,486.6 eV) of the XPS source and a Pt 4 d binding energy of 315 eV, Pt 4 d photoelectrons were emitted with a kinetic energy of 1,171.6 eV. This corresponds to an escape depth of ~1–2 nm ( ). XRF fluorescence measurements were collected on a XEPOS X-ray spectrometer. The spectrometer was equipped with a solid-state detector and samples were analysed at four different energies. PXRD samples were ground to fine powders, placed on amorphous silicon wafers and pressed down into the holders with a thin film of silicon grease. The samples were then placed on a Miniflex 600 diffractometer with Bragg–Brentano geometry equipped with a one-dimensional solid-state detector. Samples were scanned for 1.5 h to achieve the desired signal-to-noise ratio. All NMR data were collected with a Varian Inova 600 spectrometer (14.1 T field, 156.25 MHz for 27 Al) using a Varian ‘T3’ probe with a 3.2 mm zirconia rotor spinning at 20 kHz. The background signal from the rotor was negligible. Spectra are referenced to 0.1 M aqueous Al(NO 3 ) 3 at 0 ppm. The radiofrequency power was ~100 kHz; single pulse acquisition was used with 0.2 μs pulses, corresponding to a radiofrequency tip angle of ~20° for solids with quadrupolar coupling. Relaxation delays of 1 s between pulses allowed averaging of typically 40,000 acquisitions, yielding very high signal-to-noise ratios. Data collected with delays of 10 and 60 s showed no or only minor increases in intensity. Differential relaxation among signals for different Al sites was generally negligible, except in several samples that seemed to contain large proportions of both the AlO 5 -rich amorphous phase and the AlO 5 -poor crystalline transition alumina, which relaxed slightly more slowly. The relative proportions of four-, five- and six-coordinated Al (AlO 4 , AlO 5 and AlO 6 ) were estimated by the fitting of ±1/2 to ±3/2 spinning sidebands, which are less affected by second-order quadrupolar broadening than central transition resonances. XAS spectra of the platinum catalysts were recorded at Stanford Synchrotron Radiation Lightsource (SSRL) at wiggler beamline 9-3 using a liquid nitrogen-cooled Si double-crystal monochromator with harmonic rejection and focusing optics. The storage ring was operated at 3 GeV with a ring current of 494–500 mA in top-off mode. A beam cross-section of 1 mm × 4 mm was used. X-ray absorption near-edge structure (XANES) and EXAFS spectra were recorded at the Pt L 3 -edge (11,564 eV) and Pd K-edge (24,350 eV) in fluorescence mode using a passivated implanted planar silicon (PIPS) diode. The transmission spectra of Pt and Pd reference foils were collected simultaneously for internal energy calibration using nitrogen- or argon-filled ion chambers. Samples typically consisted of 60 mg catalyst pressed into a 7-mm-diameter pellet and mounted at 45° to the incident beam. The sample mass was specifically calculated to minimize self-absorption during the fluorescence measurement. Ex situ EXAFS spectra were acquired at room temperature. The XAS spectra were energy-calibrated, merged and normalized, and the resulting EXAFS spectra were extracted using the Athena interface of the Demeter software package 36 . EXAFS modelling was performed using the Artemis interface of the Demeter software 36 . S 0 2 was determined to be 0.79 ± 0.06 for the Pt L 3 -edge from fitting the Pt foil. Models were fitted in R space using k 1 , k 2 and k 3 weightings. For the Pt catalyst samples, the EXAFS spectra were modelled with an R range of 1.9–4.9 Å and a k range of 3.6–14.3 Å −1 . The Pt–Pt scattering path was simulated using FEFF in Artemis based on a Pt foil cif input file (ICSD code 243678). The EXAFS data from all catalysts were modelled simultaneously to minimize errors. The fitting was conducted using symmetric expansion parameter α . The average size of Pt from the fitted EXAFS data was calculated using the Pt–Pt coordination numbers from the first scattering path and fitting parameters determined in previously published work 22 . The XAS spectra of the Pd–Pt catalysts were collected during a separate beam time shift at 9-3. The EXAFS data of the Pd–Pt catalysts were modelled using S 0 2 values of 0.78 and 0.81 for the Pt L 3 -edge and Pd K-edge, respectively, with R ranges of 1.2–3.0 Å (Pd) and 1.7–3.2 Å (Pt), and k ranges of 2.7–12.5 Å −1 (Pd) and 3.1–12.0 Å −1 (Pt). The Pd–O, Pd–Pd, Pd–Pt, Pt–Pd and Pt–Pt scattering paths were simulated using FEFF in Artemis based on the following cif input files: Pt foil (ICSD code 243678), Pd foil (ICSD code 77885) and PdO (ICSD code 24692). Pd–Pt alloys were prepared by substituting Pt for Pd in the bulk Pd structure for Pd–Pt coordination, and Pd for Pt in the bulk Pt structure for Pt–Pd coordination. For each catalyst, the EXAFS data from the two edges were modelled simultaneously to minimize errors. DRIFTS measurements were performed using a Thermo Fisher Nicolet iS50 FT infrared spectrometer with a liquid nitrogen-cooled mercury cadmium telluride detector. Powder samples were loaded into a Harrick Praying Mantis DRIFTS reaction cell. Measurements were carried out at room temperature, and 64 spectra were averaged for each spectrum to improve the signal-to-noise ratio. Before the measurements, catalysts were pretreated for 30 min under O 2 (20 vol.%)/He at 300 °C (ramp rate of 10 °C min −1 ), for 10 min under He and for 30min under H 2 (5 vol.%)/He.
+. The NP size remained the same throughout the synthesis procedure, as evidenced by particle size distribution analysis by transmission electron microscopy (TEM; –d
+). Finally, the Pt@POF sample was converted into Pt@Al
+
+O
+
+through the infiltration of an alumina precursor into the pores of the polymer and subsequent removal of the polymer by calcination
+
+to produce the Pt@Al
+
+O
+
+catalyst 
+). This calcination step at 600 °C did not result in any measurable sintering of the Pt NPs. High-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) showed the uniform dispersion of small Pt NPs throughout the porous alumina grains 
+and Supplementary Figs.
+
+and
+
+). The Pt weight loading was determined to be
+∼
+0.5 wt% by X-ray fluorescence (XRF) measurements 
+), and 0.76 wt% by energy-dispersive spectroscopy (EDS; Supplementary 
+). Thermogravimetric analysis of the material showed less than 3 wt% loss of the sample mass upon heating in air to 700 °C, likely due to the loss of adsorbates from storage in air (Extended Data 
+). Nitrogen physisorption experiments showed that the alumina was mesoporous with a Brunauer–Emmett–Teller surface area of 42 m
+
+g
+−1
+(Extended Data ,c
+).
+
+O
+
+.
+b
+–
+e
+, Representative TEM images with the corresponding NP size distributions of the starting Pt NPs (
+b
+), Pt NPs deposited on the POF (Pt/POF) (
+c
+), Pt NPs encapsulated in the POF (Pt@POF) (
+d
+) and Pt NPs encapsulated in Al
+
+O
+
+after calcination at 600 °C (Pt@Al
+
+O
+
+) (
+e
+). f, Representative HAADF-STEM image of Pt@Al
+
+O
+
+. Inset: a magnification of the image showing Pt NPs encapsulated within the alumina matrix.
+g
+–
+i
+, Three-dimensional HAADF-STEM tomographic reconstruction of a representative Pt@Al
+
+O
+
+grain:
+xy
+slice (top view) (
+g
+),
+xy
+slice (depth profiling) (
+h
+) and
+yz
+slice (
+i
+), where
+z
+is the beam direction. The slices are coloured according to the ‘magma’ colour map.
+j
+,
+k
+, XPS spectra of Al 2
+p
+(
+j
+) and Pt 4
+d
+(
+k
+) for the Pt@Al
+
+O
+
+sample .
+Full size image
+ Structural characterization data for the as-synthesized and 800 °C-aged Pt@Al
+
+O
+
+and Pt/Al
+
+O
+
+catalysts
+Full size table
+The NPs were not observed on the surface of the alumina in HAADF-STEM tomography three-dimensional reconstructed volumes 
+), and were only visible upon depth profiling through the alumina grains 
+). Orthogonal projection of the reconstructed volume confirmed that the NPs were present inside the alumina framework 
+).
+Given the surface sensitivity of X-ray photoelectron spectroscopy (XPS), the absence of Pt 4
+f
+5/2
+, 4
+f
+7/2
+, 4
+d
+3/2
+and 4
+d
+5/2
+signals by XPS ,k
+) corroborated the successful encapsulation of NPs in Al
+
+O
+
+(see
+
+Methods
+). For comparison, we prepared several control samples, namely Pt/Al
+
+O
+3,
+Pt/γ-Al
+
+O
+
+and Pt-free Al
+
+O
+
+(Supplementary 
+). The Pt/Al
+
+O
+
+sample was prepared using the same Pt NPs and alumina as for Pt@Al
+
+O
+
+, except that the NPs were deposited on the alumina surface, thus simulating a conventional supported catalyst (Extended Data ,b
+and 
+). The Pt/γ-Al
+
+O
+
+sample was prepared by depositing the same Pt NPs on a commercial γ-Al
+
+O
+
+support. Unlike the encapsulated sample, Pt/Al
+
+O
+
+showed intense Pt 4
+d
+5/2
+and 4
+d
+3/2
+XPS signals (Extended Data 
+) as well as Pt 4
+f
+7/2
+and 4
+f
+5/2
+signals overlapping with the Al 2
+p
+signal (Extended Data 
+), demonstrating the surface location of the particles. These Pt@Al
+
+O
+
+and Pt/Al
+
+O
+
+samples, therefore, represent catalysts with the same Pt NPs and textural support properties, but with different locations of the metal particles.
+Catalytic performance studies
+The catalytic activity and stability were assessed using the complete oxidation of propene as a model reaction for the combustion of residual hydrocarbons in emission control systems (Supplementary 
+). Hydrocarbons, including propene, are among the most abundant exhaust gases emitted into the atmosphere
+
+. In both of the as-prepared Pt@Al
+
+O
+
+and Pt/Al
+
+O
+
+catalysts, complete propene conversion was reached at ca. 215 °C in a reaction flow containing a low concentration (0.15 vol.%) of propene, 3 vol.% oxygen and 5 vol.% steam to simulate exhaust conditions 
+). After aging at 800 °C for 2 h in the reaction mixture, the two samples showed very different performances. The activity of the 800 °C-aged Pt@Al
+
+O
+
+(labelled Pt@Al
+
+O
+
+-800) was similar to that of the as-prepared catalyst, as evidenced by the <3 °C difference in the temperature required to reach complete propene conversion. By contrast, the aged Pt/Al
+
+O
+
+-800 sample showed a loss of activity, demonstrated by the shift in the light-off curve by 35 °C towards higher temperatures. The Pt-free alumina support was much less active (Extended Data 
+), thus demonstrating that the activity was due to the Pt phase. Replicate measurements showed that the reactivity data persisted during multiple runs (Supplementary 
+and Extended Data 
+).
+
+O
+
+and Pt/Al
+
+O
+
+catalysts, and after aging at 800 °C for 2 h in the reaction mixture (Pt@Al
+
+O
+
+-800 and Pt/Al
+
+O
+
+-800). Reaction mixture: 0.15 vol.% C
+
+H
+
+, 3 vol.% O
+
+and 5 vol.% steam, balance Ar (40 ml min
+–1
+total flow).
+b
+, PXRD patterns of the catalyst samples and the bare support. The symbols ^ and * represent diffraction peaks due to γ-Al
+
+O
+
+and quartz diluent, respectively. The highlighted region at 40° indicates overlapping γ-Al
+
+O
+
+and Pt diffraction peaks.
+c
+, Magnitude of the
+k
+
+-weighted Fourier transform (FT) EXAFS data for the four catalyst samples. The range in
+k
+(the wavenumber) used for the transform was 3.6–14.3 Å
+−1
+and the range in
+R
+(the interatomic distance) used for fitting was 1.9–4.9 Å.
+d
+–
+g
+, Representative HAADF-STEM images (top) and the corresponding particle size distributions (bottom) of fresh and aged Pt/Al
+
+O
+
+(
+d
+,
+e
+) and Pt@Al
+
+O
+
+(
+f
+,
+g
+), respectively.
+h
+,
+i
+, Schematics summarizing the sintering process occurring in the Pt/Al
+
+O
+
+sample after aging (
+h
+) and the stability of the Pt@Al
+
+O
+
+sample (
+i
+).
+Full size image
+We hypothesized that the loss of activity of Pt/Al
+
+O
+
+upon aging under oxidizing conditions was due to Pt sintering
+
+,
+
+,
+
+. HAADF-STEM characterization of the as-prepared and aged Pt/Al
+
+O
+
+catalysts showed an increase in the average Pt NP size from 3.8 to 17.2 nm ,e,h
+), with faceted particles of >100 nm clearly visible. This change is equivalent to a loss of 78% of the Pt surface area, which explains the large drop in Pt catalytic activity. In fact, the Pt/Al
+
+O
+
+catalyst had sintered even after calcination at 600 °C (the temperature used to prepare the Pt@Al
+
+O
+
+sample), with the resulting powder X-ray diffraction (PXRD) patterns showing intense peaks from Pt and the TEM images showing an increase in average particle size from 3.8 to 23.2 nm (Extended Data ,f
+). Unlike Pt/Al
+
+O
+
+, the Pt@Al
+
+O
+
+sample showed that small particles were still present throughout the catalyst after aging at 800 °C, with irrelevant changes in particle size distribution ,g,i
+and Supplementary Figs.
+
+and
+
+). The as-synthesized control catalyst Pt/γ-Al
+
+O
+
+(Supplementary 
+) was as active as the Pt/Al
+
+O
+
+and Pt@Al
+
+O
+
+samples (Extended Data 
+), but exhibited the same drastic decrease in activity as the Pt/Al
+
+O
+
+sample after aging, again due to sintering of the Pt NPs from 3.8 to 13.7 nm (Extended Data –e
+). These results confirm that neither the underlying support chemistry nor its crystallinity played any role in stabilizing the Pt NPs.
+PXRD analysis showed the absence of strong diffraction peaks in the as-prepared catalysts, suggesting that the alumina was amorphous 
+and Extended Data 
+)
+
+. The aging process led to the crystallization of alumina and the appearance of diffraction peaks attributable to the γ-Al
+
+O
+
+phase
+
+,
+
+. Although it was not possible to determine Pt particle size by PXRD due to overlapping γ-Al
+
+O
+
+and Pt diffraction peaks at 40° (refs.
+
+,
+
+), no increase in the intensity of this peak was observed for the Pt@Al
+
+O
+
+-800 sample when compared to the bare alumina support 
+and Extended Data 
+). By contrast, the intensity of the diffraction peak at 40° in the Pt/Al
+
+O
+
+-800 sample increased compared with the diffraction peak at 67°, which is due to alumina. These results corroborate the particle size increase observed by TEM.
+Best-fit extended X-ray absorption fine structure (EXAFS) models of the as-prepared and aged samples, collected ex situ, required only a metallic Pt–Pt scattering path 
+, 
+, Supplementary 
+and Extended Data –f
+). The Pt NP size was estimated from the Pt–Pt coordination number 
+and
+Supporting Information
+)
+
+. The EXAFS results, which represent the average of all the Pt in the sample, agreed with the characterization data reported above that indicated that the Pt@Al
+
+O
+
+-800 catalyst maintained a small Pt particle size, while the Pt NPs had sintered in the Pt/Al
+
+O
+
+-800 catalyst. The small discrepancies in the average particle sizes determined by EXAFS and TEM can be attributed to a change in the crystallinity and shape of the particles upon aging, and X-ray absorption spectroscopy (XAS) measuring the average coordination environment of the Pt NPs.
+Finally, XPS characterization of the aged Pt@Al
+
+O
+
+-800 did not show signals attributable to Pt, suggesting that the NPs remained encapsulated below the alumina surface, even after hydrothermal aging (Extended Data 
+).
+Kinetic rate measurements for propene combustion, normalized by the Pt mass, demonstrated the similar activity of the Pt@Al
+
+O
+
+and Pt/Al
+
+O
+
+catalysts (Extended Data 
+). The activation energies were 77 ± 6 and 57 ± 2 kJ mol
+−1
+for Pt@Al
+
+O
+
+and Pt/Al
+
+O
+
+, respectively, clearly suggesting that the larger number of active sites in the encapsulated sample compensates for the higher activation barrier. These results demonstrate that the encapsulation process leaves most of the metal available for reaction, in contrast to previous studies where partial coverage of the catalytically active metal surface led to suppressed activity
+
+,
+
+,
+
+.
+We then performed CO chemisorption and CO oxidation measurements to further characterize the catalysts. CO chemisorption yielded similar Pt dispersion values of 8 and 9% for the as-prepared Pt@Al
+
+O
+
+and Pt/Al
+
+O
+
+, respectively (Supplementary 
+), confirming that the encapsulation process did not lead to a loss of available surface area. These values are lower than expected for 3.8 nm Pt NPs, which may be attributed to their interaction with the amorphous alumina support. Other studies have also reported low CO adsorption by supported Pt NPs despite their high CO oxidation activity
+
+,
+
+. Remarkably, the dispersion of the aged Pt@Al
+
+O
+
+-800 sample (7.5%) remained similar to the fresh sample, whereas it decreased drastically to 0.3% for the aged Pt/Al
+
+O
+
+-800 sample (Supplementary 
+). Thus, the CO chemisorption data further corroborate the sintering-resistant properties of the encapsulated catalyst. Despite the lower CO chemisorption capacity than expected, both Pt@Al
+
+O
+
+and Pt/Al
+
+O
+
+were similarly active in CO oxidation (Extended Data 
+). Together, all these results demonstrate that the activity–stability trade-off can be overcome using our proposed templated encapsulation strategy.
+Investigation of the stability of the encapsulated system
+Diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) using CO as a probe molecule was used to characterize the metal surface. After exposure to CO, the Pt/Al
+
+O
+
+sample showed three convoluted vibrational contributions at ~2,083, 2,065 and 2,040 cm
+−1
+(Extended Data 
+). The first two features have been assigned to CO linearly bound to under-coordinated metallic Pt sites such as corners and edges, while the feature at 2,040 cm
+−1
+is attributed to CO linearly bound to metallic Pt terraces
+
+. In the case of Pt@Al
+
+O
+
+, the DRIFTS spectrum was dominated by this last feature. A similar effect was observed for Pd catalysts coated with layers of alumina by atomic layer deposition
+
+. Researchers concluded that alumina preferentially decorated under-coordinated sites on the metal surface. We suggest that the same occurs in our Pt@Al
+
+O
+
+sample (Extended Data 
+). Given that under-coordinated sites are more reactive towards oxygen, this characterization suggests that the alumina bonding in the Pt@Al
+
+O
+
+sample may reduce the emission of volatile PtO
+
+species
+
+,
+
+,
+
+.
+Previous reports have suggested that defect sites in alumina, such as pentacoordinated Al
+3+
+sites (AlO
+
+), are able to stabilize metals and prevent them from sintering
+
+. The solid-state
+
+Al NMR spectra of the as-prepared samples showed a large fraction of AlO
+
+sites and resembled previously published data on amorphous alumina (Extended Data 
+)
+
+. Although roughly half of the AlO
+
+sites were preserved, the NMR spectra of the aged Pt@Al
+
+O
+
+-800 and Pt/Al
+
+O
+
+-800 catalysts were similar. These results indicate that AlO
+
+or other specific alumina sites do not play a substantial role in stabilizing Pt against sintering.
+Density functional theory calculations and sintering simulations were then conducted to provide insights into the enhanced stability achieved through encapsulation. The particle size distributions were described by a normal distribution with the experimentally observed mean particle size and standard deviation values. Sintering by Ostwald ripening via volatile PtO
+
+(g) was simulated using a mean-field model
+
+,
+
+. The fraction of reactive surface collisions of PtO
+
+(g) with the particles is given by a sticking coefficient
+S
+, where
+S
+= 1 indicates that every collision leads to PtO
+
+sticking to the surface. For Pt/Al
+
+O
+
+, we expect
+S
+= 1, in accordance with the properties of clean Pt surfaces
+
+. The reduced adsorption and emission of PtO
+
+(g) in Pt@Al
+
+O
+
+, which effectively leads to fewer collisions with the encapsulated particles, is described by a reduced effective sticking coefficient, which we denote
+S
+eff
+. A more detailed explanation of the sintering kinetics is given in the
+Supporting Information
+and Extended Data 
+.
+
+shows sintering as a function of
+S
+eff
+. The surface energy of Pt was set to 110 meV Å
+−2
+to obtain a simulated final diameter of 16.6 nm for Pt/Al
+
+O
+
+after 2 h at 800 °C in 3 vol.% O
+
+, which is in line with the experimental value of 17.2 nm. In 10 vol.% O
+
+, the simulations predicted increased sintering, with a final Pt NP average diameter for Pt/Al
+
+O
+
+greater than 25 nm 
+), in line with the hypothesis of PtO
+
+(g) being the species responsible for sintering. At
+S
+eff
+= 1, the simulated sintering in the Pt@Al
+
+O
+
+catalyst was greatly reduced compared with the Pt/Al
+
+O
+
+sample due to increased adhesion between the Pt particles and the alumina in the encapsulated sample geometry. However, the predicted size of Pt@Al
+
+O
+
+after aging in 3 vol.% O
+
+matched the experimental results only for
+S
+eff
+< 0.1, indicating that further stabilization mechanisms are at play in this catalyst. To explore the effect of a higher oxygen concentration, we aged Pt@Al
+
+O
+
+in 10 vol.% O
+
+. The catalyst still maintained its activity 
+), in agreement with the computational model in which the encapsulation geometry leads to decreased PtO
+
+(g) vapour exchange, as expressed by a value of
+S
+eff
+of less than 0.01 in 10 vol.% O
+
+. The stability of the encapsulated Pt can therefore be explained by the combination of the higher adhesion energy and the lower rate of reactive surface collisions of PtO
+
+(g), which translate into slower sintering when Pt is embedded in the alumina framework. This result is also in line with the DRIFTS measurements, suggesting that the stabilization of under-coordinated Pt sites by alumina may reduce
+S
+eff
+, as reflected in the sintering simulations.
+
+final
+, as a function of the effective sticking coefficient,
+S
+eff
+, for Pt@Al
+
+O
+
+and Pt/Al
+
+O
+
+after aging at 800 °C for 2 h in 3 and 10 vol.% O
+
+. The grey and blue lines indicate the experimentally (exptl) observed final Pt diameters for Pt/Al
+
+O
+
+and Pt@Al
+
+O
+
+after aging in 3 vol.% O
+
+. Insets illustrate the particle shapes used to model Pt/Al
+
+O
+
+and Pt@Al
+
+O
+
+.
+b
+, Propene combustion activity for as-prepared and aged Pt@Al
+
+O
+
+. Pt@Al
+
+O
+
+-3%O
+
+denotes the catalyst aged at 800 °C for 2 h in 3 vol.% O
+
+and 5 vol.% steam, balance Ar (40 ml min
+–1
+total flow). Pt@Al
+
+O
+
+-10%O
+
+denotes the catalyst aged at 800 °C for 2 h in 10 vol.% O
+
+and 5 vol.% steam, balance Ar.
+Source data
+Full size image
+We also considered the effect of diffusion limitation for the migration of PtO
+
+species on the reactivity of Pt in propene oxidation. The calculations are described in detail in the
+Supplementary Information
+. Our conclusion is that diffusion limitation is important for PtO
+
+sintering, but does not affect the transport of propene and oxygen to the active sites and, therefore, the reactivity, mainly because of the difference in the partial pressures of the low concentration of PtO
+
+in the gas phase and the much higher concentrations of reactants and products.
+Extension to Pt–Pd systems for increased stability
+We sought to further increase the thermal stability of the encapsulated sample by the addition of Pd to the catalyst formulation, which is known to reduce PtO
+
+volatility (Supplementary 
+)
+
+. We prepared 3.5 nm Pd–Pt bimetallic NPs with a Pd/Pt atomic ratio of 1:1. HAADF-STEM characterization and EDS mapping confirmed the co-location of Pd and Pt in the encapsulated NPs –c
+and Supplementary Figs.
+
+–
+
+). The EDS quantification of 0.06 at.% for both Pd and Pt is in excellent agreement with the synthesis. Total weight loadings of the metals of 0.86 wt% (Supplementary 
+) and 0.33 wt% (Supplementary Figs.
+
+and
+
+) were quantified at two different locations by EDS. A higher metal loading than the overall loading of 0.5 wt% was due to the fact that bare alumina was also formed during the synthesis. The activity of the 800 °C-aged PdPt@Al
+
+O
+
+(labelled PdPt@Al
+
+O
+
+-800) was similar to that of the as-prepared catalyst (Supplementary 
+). We then aged the catalyst under more demanding conditions at 1,100 °C for 5 h in air (~21 vol.% O
+
+) and steam (10 vol.%; Supplementary 
+). The sample maintained its activity, as evidenced by the overlapping light-off curves in 
+. A control PdPt/Al
+
+O
+
+sample prepared by deposition of the same Pd–Pt NPs onto the alumina support was deactivated and drastically sintered after the severe aging treatment (Supplementary 
+). The pure Pt@Al
+
+O
+
+and Pd@Al
+
+O
+
+catalysts were also deactivated, demonstrating the importance of alloying (Extended Data 
+), in agreement with previous findings
+
+. The metal-free support was much less active after aging at 1,100 °C, again indicating that the metal phase was responsible for the performance (Extended Data 
+).
+
+, Representative HAADF-STEM image (
+a
+) and the corresponding EDS maps at the Pd K-edge (
+b
+) and Pt L
+
+-edge (
+c
+) of as-synthesized PdPt@Al
+
+O
+
+.
+d
+, Propene combustion activity on fresh PdPt@Al
+
+O
+
+and 1,100 °C-aged PdPt@Al
+
+O
+
+. Aging was performed at 1,100 °C for 5 h in air with 10 vol.% steam (40 ml min
+–1
+total flow).
+e
+,
+f
+, Magnitude of the FT of the Pd K-edge (
+e
+) and Pt L
+
+-edge (
+f
+) EXAFS spectra of the fresh (light-coloured traces) and 1,100 °C-aged (dark-coloured traces) catalysts.
+Full size image
+XPS characterization of the as-synthesized and 1,100 °C-aged PdPt@Al
+
+O
+
+did not show any observable Pd or Pt signals, confirming that the metals remained encapsulated even after aging (Extended Data 
+), and XRF confirmed that there was no metal loss (Extended Data 
+). Although it was not possible to image any discrete metal NPs by HAADF-STEM analysis of the 1,100 °C-aged catalyst, likely due to the increased alumina density after aging (Extended Data ,e
+), best-fit EXAFS models were consistent with the presence of metal NPs with direct interaction between Pt and Pd ,f
+, Supplementary Tables
+
+and
+
+, and Extended Data 
+). The coordination numbers indicate that the as-prepared catalyst comprises a core–shell metal geometry consisting of a platinum–palladium core surrounded by a palladium oxide shell that is transformed into bimetallic alloy NPs upon aging. EXAFS analysis of the supported PdPt/Al
+
+O
+
+catalyst also showed the transformation of core–shell structures into Pd–Pt bimetallic alloys with similar coordination numbers (Supplementary Figs.
+
+and
+
+and Supplementary Tables
+
+and
+
+). Furthermore, the PXRD and NMR data showed that the amorphous Al
+
+O
+
+crystallized in the α-phase after aging (Extended Data ,g
+). Using Vegard’s law, we calculated the bulk composition of the Pd–Pt alloy to be Pd
+0.58
+Pt
+0.42
+, in satisfactory agreement with the ratio of metals used in the synthesis and the EDS results. The thickness of the alumina layer, estimated from the low-loss portion of the scanning transmission electron microscopy electron energy loss (STEM-EEL) spectrum image using the log-ratio method
+
+, was 86 ± 32 nm (Supplementary 
+). We suggest that the HAADF signal from the metal particles in the aged catalyst was below the detection limit given the thick alumina background.
+We then further performed long-term aging experiments under alternating reducing and oxidizing conditions following accepted protocols (Supplementary 
+)
+
+. The sample was observed to maintain its activity (Supplementary 
+). Finally, we aged the Pd–Pt catalyst for 48 h at 800 °C in a mixture simulating diesel exhaust (Supplementary 
+). The goal was to match, as closely as possible, the aging conditions to those of accepted protocols
+
+, with minor differences due to technical limitations. The material again was stable (Supplementary 
+), further confirming the feasibility of our anti-sintering approach under practical conditions. We then attempted to model this result.
+The only effect we considered in the modelling was the lowering of the surface energy, which can be expected for a Pd-terminated surface. Our sintering simulation for PtPd@Al
+
+O
+
+using this condition showed greatly reduced sintering (Supplementary 
+). For example, for
+S
+= 0.01, an increase in the initial mean diameter from 3.8 to 5.1 nm was predicted for Pt, whereas the change in mean diameter was less than 0.1 nm for Pt–Pd. Furthermore, it is plausible that in the case of a mainly Pd-terminated surface, the sticking coefficient of PtO
+
+(g) will be lower, and that the formation (or decomposition) of adsorbed PtO
+
+, which involves the diffusion of Pt from (or to) the bulk, will also be slower. It is important to stress, however, that our simulations only considered sintering via PtO
+
+(g). Overall, the catalytic and characterization data demonstrate that the encapsulation prevents the NPs from sintering, thereby maintaining the same level of catalytic activity in the aged sample as in the fresh catalyst.
+The Pt-encapsulated alumina catalysts reported in this work demonstrate high stability under hydrothermal aging conditions, which is highly relevant for exhaust emission control. This catalyst design allows the preparation of active and stable catalysts for practical applications, with implications for reduced loadings of precious metals in catalytic converters. More broadly, this stabilization strategy can be extended to other formulations and areas of application, thus providing an opportunity to prepare stable supported catalysts with reduced metal loadings in systems where metal sintering is the main cause of catalyst deactivation.
+
+Synthesis of Pt, Pd–Pt and Pd nanoparticles
+All chemicals were purchased from Sigma-Aldrich. Pt NPs were prepared by thermal decomposition of platinum(II) acetylacetonate (Pt(acac)
+
+, 99.98%) by colloidal synthesis using standard Schlenk techniques following a previously reported procedure
+
+. First, 10 ml trioctylamine (95%), 0.66 ml 1-oleylamine (70%) and 2.5 ml oleic acid (90%) were added to 79 mg Pt(acac)
+
+in a three-necked flask. The reaction content was degassed (<2 torr) for 15 min at room temperature. Then, 220 μl trioctylphosphine (97%) was added to the reaction mixture. The flask was further degassed at 120 °C for 30 min, and then flushed with nitrogen, heated to 350 °C at a rate of ~20 °C min
+−1
+and kept at this temperature for 15 min. After cooling to room temperature, the reaction content was split into two centrifuge tubes, and each was washed with a mixture of 10 ml isopropyl alcohol and 20 ml ethanol and recovered by centrifugation (8,586
+g
+, 3 min). Finally, the NPs were suspended in hexanes. Pd NPs were synthesized using 77 mg Pd(acac)
+
+, 4.5 ml of 1-octadecene (ODE), 5.5 ml tetradecene, 1.66 ml 1-oleylamine and 0.567 ml trioctylphosphine. The reaction content was degassed at 50 °C for 30 min, heated to 225 °C under nitrogen at a rate of ~20 °C min
+−1
+and kept at this temperature for 30 min. For the Pd–Pt NP synthesis, 3.3 ml 1-oleylamine, 1.6 ml oleic acid and 40 ml 1-octadecene were added to 200.7 mg Pt(acac)
+
+and 157 mg Pd(acac)
+
+in a three-necked flask. The reaction content was degassed for 30 min at room temperature. Then, 550 μl trioctylphosphine was added to the reaction mixture. The flask was further degassed at 50 °C for 30 min, and then flushed with nitrogen, heated to 300 °C at a rate of ~20 °C min
+−1
+and kept at this temperature for 15 min. The NPs were washed following the procedure described above.
+
+Synthesis of Pt@POF
+The POF was prepared using standard air-free Schlenk techniques following a previously reported procedure
+
+. First, 9.3 g melamine (99%, Acros Organics) and 15 g terephthalaldehyde (99%, Acros Organics) were added to 495 ml dimethylsulfoxide (99.9%, Fisher) in a three-necked flask. The content was degassed at room temperature for 15 min, and then flushed with nitrogen, heated to 180 °C at a rate of ~20 °C min
+−1
+and kept at this temperature for 72 h. The solid product was washed with acetone three times and dried under vacuum (~150 torr) at 80 °C for 24 h to give a yield of 64%. Then, 8 mg Pt NPs in hexanes was added dropwise to 400 mg POF dispersed in 10 ml of a 1:9 mixture of 2-methyltetrahydrofuran (99%, Sigma-Aldrich) and hexanes under vigorous stirring. The mixture was stirred for 20 min to allow the NPs to adsorb onto the support. The observation of colourless supernatants indicated the complete adsorption of the NPs. The solvents were then removed by centrifugation (8,586
+g
+, 3 min) and the powder was dried at 80 °C for 3 h. Organic ligands were removed by calcination in air at 300 °C for 20 min. The NPs were then encapsulated by growing an additional POF layer around the preformed Pt/POF material: 0.75 g Pt/POF was added to 1.18 g melamine and 1.87 g terephthalaldehyde dissolved in 61 ml dimethylsulfoxide. The mixture was heated to 180 °C as above, but for 24 h. The final material was washed three times with acetone as described above to obtain Pt@POF in a yield of 64%.
+
+Synthesis of Pt@Al
+O
+
+First, 18 g Al(NO
+
+)
+
+·9H
+
+O (>98%, Sigma-Aldrich) was dissolved in 100 ml ethanol. Next, 1.2 g Pt@POF was added to the solution. The mixture was sonicated for 10 min, then ethanol was slowly removed in a rotary evaporator at 60 °C (water bath temperature) at 900 mbar for 1 h and then at 150 mbar for 1 h. The material was then dried under vacuum (~150 torr) at 80 °C for 24 h. The final product was obtained by calcining the sample at 600 °C for 5 h at a ramp rate of 0.5 °C min
+−1
+. This procedure resulted in purely mesoporous Al
+
+O
+
+. For the synthesis of a mix of micro- and mesoporous Al
+
+O
+
+, an ammonia solution in ethanol (24 ml ethanol mixed with 18 ml ammonia solution (2 M in ethanol, Sigma-Aldrich)) was added to the sample; ethanol was removed in the rotary evaporator, before removing the ammonia solution, again following the procedure described above.
+
+Synthesis of supported Pt and Pd–Pt
+The appropriate amount of Pt or Pd–Pt NPs was added to the alumina support dispersed in hexanes under vigorous stirring to achieve a nominal metal loading of 0.5 wt%. The mixtures were stirred for 20 min to allow the NPs to adsorb onto the support, and the catalysts were recovered by centrifugation (8,586
+g
+, 3 min). The observation of colourless supernatants indicated the complete adsorption of the NPs for each solution. The powders were then dried at 80 °C for 3 h and sieved below a grain size of 180 µm. Organic ligands were removed by fast calcination of the catalysts at 700 °C for 30 s (
+).
+Catalyst characterization
+Bright-field TEM was performed on a FEI Tecnai microscope operating at 200 kV.
+HAADF-STEM images were acquired using a FEI/Thermo Fisher TitanX device operating at 300 kV at the National Center for Electron Microscopy (NCEM) facility of the Molecular Foundry at Lawrence Berkeley National Laboratory. To prepare powder samples for imaging, catalyst powder was shaken with lacey C/Cu grids.
+STEM tomography was performed at 300 kV using a FEI/Thermo Fisher TitanX device at NCEM with a 7 mrad convergence semi-angle and a beam current of ~3 pA. Images were acquired at tilt angles from −70° to +68° in steps of 2°. The tilt angle series was aligned using tomviz 1.9.0 (
+www.tomviz.org
+). The reconstruction was accomplished using the SART algorithm implemented in the Astra toolbox (version 1.9.0dev11) with 350 iterations. Visualization of the tomogram was accomplished using tomviz 1.9.0.
+STEM-EEL spectral data were collected at the Molecular Foundry on a TEAM I instrument, which is a double-corrected transmission electron microscope on the Thermo Fisher Titan platform with a Gatan Continuum GIF. Electron energy loss (EEL) spectra were recorded on a post-GIF K3 detector in electron counting mode with a dispersion of 0.18 eV per pixel. Sample thickness maps were acquired with 300 keV electrons with a 17.1 mrad convergence semi-angle and a 65 mrad collection semi-angle. Spectrum images were acquired using an 80 pA probe current, a 50 ms dwell time and 2 nm pixels with 16 × 16 sub-scanning of each STEM pixel. Sample thickness was estimated from the low-loss portion of the EEL spectrum image using the log-ratio method
+
+.
+N
+
+physisorption experiments were carried out on a Micromeritics 3Flex instrument. Powders were degassed under vacuum at 90 °C for 1 h and then at 300 °C for 5 h prior to N
+
+adsorption at liquid nitrogen temperature. The micropore volume was calculated using non-local density functional theory (NLDFT) Advanced pore size distribution (PSD) using the slit geometry and carbon model.
+Thermogravimetric analysis was performed on a TA Instruments TGA-500 device. Pt NPs in hexanes were heated at a ramp rate of 10 °C min
+−1
+under a flow of air of 45 ml min
+−1
+. Powder catalysts were pretreated at 300 °C in air and then heated to 800 °C at a ramp rate of 10 °C min
+−1
+.
+XPS measurements were carried out in a PHI VersaProbe I and III scanning XPS microprobe equipped with a hemispherical electron analyser with monochromatic Al Kα radiation (1,486.6 eV) and an argon ion sputter gun. All samples were deposited on conductive carbon tabs on an aluminium holder, outgassed at 10
+−4
+mbar, and then transferred to the ion-pumped analysis chamber. The pressure was kept below ~5 × 10
+−7
+Pa during data acquisition. The incident X-ray spot size was 100 µm, and an excitation of 100 W at 20 kV was used for the radiation source. The binding energies were referenced to the C 1
+s
+peak (284.8 eV) to account for charging effects. Given the Al Kα radiation energy (1,486.6 eV) of the XPS source and a Pt 4
+d
+binding energy of 315 eV, Pt 4
+d
+photoelectrons were emitted with a kinetic energy of 1,171.6 eV. This corresponds to an escape depth of ~1–2 nm (
+).
+XRF fluorescence measurements were collected on a XEPOS X-ray spectrometer. The spectrometer was equipped with a solid-state detector and samples were analysed at four different energies.
+PXRD samples were ground to fine powders, placed on amorphous silicon wafers and pressed down into the holders with a thin film of silicon grease. The samples were then placed on a Miniflex 600 diffractometer with Bragg–Brentano geometry equipped with a one-dimensional solid-state detector. Samples were scanned for 1.5 h to achieve the desired signal-to-noise ratio.
+All NMR data were collected with a Varian Inova 600 spectrometer (14.1 T field, 156.25 MHz for
+
+Al) using a Varian ‘T3’ probe with a 3.2 mm zirconia rotor spinning at 20 kHz. The background signal from the rotor was negligible. Spectra are referenced to 0.1 M aqueous Al(NO
+
+)
+
+at 0 ppm. The radiofrequency power was ~100 kHz; single pulse acquisition was used with 0.2 μs pulses, corresponding to a radiofrequency tip angle of ~20° for solids with quadrupolar coupling. Relaxation delays of 1 s between pulses allowed averaging of typically 40,000 acquisitions, yielding very high signal-to-noise ratios. Data collected with delays of 10 and 60 s showed no or only minor increases in intensity. Differential relaxation among signals for different Al sites was generally negligible, except in several samples that seemed to contain large proportions of both the AlO
+
+-rich amorphous phase and the AlO
+
+-poor crystalline transition alumina, which relaxed slightly more slowly. The relative proportions of four-, five- and six-coordinated Al (AlO
+
+, AlO
+
+and AlO
+
+) were estimated by the fitting of ±1/2 to ±3/2 spinning sidebands, which are less affected by second-order quadrupolar broadening than central transition resonances.
+XAS spectra of the platinum catalysts were recorded at Stanford Synchrotron Radiation Lightsource (SSRL) at wiggler beamline 9-3 using a liquid nitrogen-cooled Si double-crystal monochromator with harmonic rejection and focusing optics. The storage ring was operated at 3 GeV with a ring current of 494–500 mA in top-off mode. A beam cross-section of 1 mm × 4 mm was used. X-ray absorption near-edge structure (XANES) and EXAFS spectra were recorded at the Pt L
+
+-edge (11,564 eV) and Pd K-edge (24,350 eV) in fluorescence mode using a passivated implanted planar silicon (PIPS) diode. The transmission spectra of Pt and Pd reference foils were collected simultaneously for internal energy calibration using nitrogen- or argon-filled ion chambers. Samples typically consisted of 60 mg catalyst pressed into a 7-mm-diameter pellet and mounted at 45° to the incident beam. The sample mass was specifically calculated to minimize self-absorption during the fluorescence measurement. Ex situ EXAFS spectra were acquired at room temperature. The XAS spectra were energy-calibrated, merged and normalized, and the resulting EXAFS spectra were extracted using the Athena interface of the Demeter software package
+
+. EXAFS modelling was performed using the Artemis interface of the Demeter software
+
+.
+S
+
+was determined to be 0.79 ± 0.06 for the Pt L
+
+-edge from fitting the Pt foil. Models were fitted in
+R
+space using
+k
+
+,
+k
+
+and
+k
+
+weightings. For the Pt catalyst samples, the EXAFS spectra were modelled with an
+R
+range of 1.9–4.9 Å and a
+k
+range of 3.6–14.3 Å
+−1
+. The Pt–Pt scattering path was simulated using FEFF in Artemis based on a Pt foil cif input file (ICSD code 243678). The EXAFS data from all catalysts were modelled simultaneously to minimize errors. The fitting was conducted using symmetric expansion parameter
+α
+. The average size of Pt from the fitted EXAFS data was calculated using the Pt–Pt coordination numbers from the first scattering path and fitting parameters determined in previously published work
+
+. The XAS spectra of the Pd–Pt catalysts were collected during a separate beam time shift at 9-3. The EXAFS data of the Pd–Pt catalysts were modelled using
+S
+
+values of 0.78 and 0.81 for the Pt L
+
+-edge and Pd K-edge, respectively, with
+R
+ranges of 1.2–3.0 Å (Pd) and 1.7–3.2 Å (Pt), and
+k
+ranges of 2.7–12.5 Å
+−1
+(Pd) and 3.1–12.0 Å
+−1
+(Pt). The Pd–O, Pd–Pd, Pd–Pt, Pt–Pd and Pt–Pt scattering paths were simulated using FEFF in Artemis based on the following cif input files: Pt foil (ICSD code 243678), Pd foil (ICSD code 77885) and PdO (ICSD code 24692). Pd–Pt alloys were prepared by substituting Pt for Pd in the bulk Pd structure for Pd–Pt coordination, and Pd for Pt in the bulk Pt structure for Pt–Pd coordination. For each catalyst, the EXAFS data from the two edges were modelled simultaneously to minimize errors.
+DRIFTS measurements were performed using a Thermo Fisher Nicolet iS50 FT infrared spectrometer with a liquid nitrogen-cooled mercury cadmium telluride detector. Powder samples were loaded into a Harrick Praying Mantis DRIFTS reaction cell. Measurements were carried out at room temperature, and 64 spectra were averaged for each spectrum to improve the signal-to-noise ratio. Before the measurements, catalysts were pretreated for 30 min under O
+
+(20 vol.%)/He at 300 °C (ramp rate of 10 °C min
+−1
+), for 10 min under He and for 30min under H
+
+(5 vol.%)/He.
+Evaluation of catalytic performance
+Catalytic light-off curve experiments were conducted under atmospheric pressure in a U-shaped quartz glass reactor with a 1-cm inner diameter using 150–200 mg of catalyst powder. The catalyst bed temperature was measured using a K-type thermocouple inserted into the middle of the reactor bed. The reaction mixture consisted of 0.15 vol.% C
+
+H
+
+, 3 vol.% O
+
+and 5 vol.% steam. The total flow rate was 40 ml min
+−1
+with argon used as balance. Platinum samples were aged in the reaction mixture with 3 or 10 vol.% O
+
+. Platinum, palladium–platinum and palladium catalysts were also aged either in the reaction mixture with 3 vol.% O
+
+and 5 vol.% steam or in air with 10 vol.% steam at 1,100 °C for 5 h. Additionally, the palladium–platinum samples were aged at 900 °C for 50 h under alternating reducing and oxidizing conditions (Supplementary 
+). Before testing the catalytic activity of the fresh materials, each catalyst was oxidized for 30 min under a 40 ml min
+−1
+flow of 5 vol.% O
+
+at 300 °C (ramp rate of 10 °C min
+−1
+), flushed with 40 ml min
+−1
+of Ar for 10 min and reduced in 40 ml min
+−1
+of 5 vol.% H
+
+. The performance of the aged catalysts was measured directly after aging without reduction. Kinetic experiments were conducted in a temperature range of 130–200 °C using ~25 mg of catalyst powder diluted with 200 mg of inert SiC and loaded into the reactor between two layers of acid-washed granular quartz. The gas-hourly space velocity was adjusted to maintain propene conversion below 5%.
+DFT calculations and sintering simulations
+All calculations were carried out using the projector augmented wave (PAW) method and the Vienna ab-initio simulation package (VASP) in version 5.4.1 (refs.
+
+,
+
+) with the Perdew-Burke-Ernzerhof exchange-correlation functional with dispersion corrections (PBE-D3) (refs.
+
+,
+
+), an energy cut-off of 400 eV and Gaussian smearing with a width of 0.1 eV. The interface between Pt particles and the Al
+
+O
+
+support was modelled using periodic Pt and Pt surfaces as well as the dehydroxylated surface of the commonly used γ-Al
+
+O
+
+model
+
+. The γ-Al
+
+O
+
+ surface has previously been used to model AlO
+
+sites
+
+. Supercells for Pt/γ-Al
+
+O
+
+ and Pt/γ-Al
+
+O
+
+ were constructed based on the unit cell of γ-Al
+
+O
+
+ (5.56 Å × 8.35 Å), resulting in a small lattice mismatch for Pt. A (2 × 3) Pt on (1 × 1) γ-Al
+
+O
+
+ supercell was used, giving a lattice mismatch of less than 0.5% and an adhesion energy of −76 meV Å
+−
+
+. For Pt, a (2 × 5
+\(\sqrt 3\)
+) Pt on (1 × 3) γ-Al
+
+O
+
+ supercell was used, giving a lattice mismatch of 5% and an adhesion energy of −66 meV Å
+−
+
+. Additionally, a (2 × 7
+\(\sqrt 3\)
+) Pt on (1 × 4) γ-Al
+
+O
+
+ supercell was used, giving a lattice mismatch of −0.5% and an adhesion energy of −69 meV Å
+–
+
+. A Γ-centred (6 × 4 × 1)
+k
+-point grid was used for Pt/γ-Al
+
+O
+
+, and (5 × 1 × 1) and (6 × 1 × 1)
+k
+-point grids for the two Pt/γ-Al
+
+O
+
+ interfaces. The final adhesion energy used in the sintering simulations was taken to be −71 meV Å
+−2
+, which is approximately the average of the computed values for Pt and Pt.
+The accessible surface area for the sintering of the spherical caps is the total surface area minus the interface area, while for the encapsulated spherical particles, the entire surface was assumed to be accessible. As we used the same radii, the two different particle shapes led to slightly different volumes and therefore slightly different numbers of atoms. We also conducted calculations using spherical caps with the same volume as the spheres, which increased their mean diameter from 3.8 to 4.1 nm. The sintering simulations performed using these particle size distributions gave very similar results, indicating that choosing either one of the two assumptions does not result in large differences. The PtO
+
+(g) pressure of bulk Pt was extrapolated using the formula based on experimental measurements by Schäfer and Tebben
+
+: log
+
+[
+p
+(PtO
+
+)/
+p
+(O
+
+)] = (0.374–8757 ×
+K
+/
+T
+), where
+p
+is the respective partial pressure and
+T
+is the temperature in Kelvin (
+K
+). The particle size distributions were described by a normal distribution with a mean diameter of 3.8 nm and
+σ
+= 0.5 nm, and were discretized using 10,000 bins; the simulations were run using an average time step of 1.39 s.
+Data availability
+Additional data that support the findings of this study are reported in the
+Supplementary Information
+. Any additional data are available from the corresponding author upon request.
+Source data
+are provided with this paper.

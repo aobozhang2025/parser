@@ -1,5 +1,389 @@
 DOI: 10.1038/s41929-023-01017-z
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of the Ir 1 –P 1 paired structure in Ir 1 –P 1 /NPG. : Structural
+Methods
+Chemicals
+Melamine (99%, CAS number 108-78-1),
+l
+-alanine (≥98%, CAS number 56-41-7), iridium(III) chloride hydrate (99.9% trace metals basis, CAS number 14996-61-3), platinum(II) chloride (99.9% trace metals basis, CAS number 10025-65-7), iridium (foil, 99.9%, CAS number 7439-88-5), iridium(IV) oxide (99.9% trace metals basis, CAS number 12030-49-8), platinum (foil, 99.99%, CAS number 7440-06-4), platinum(IV) oxide (≥99.9%, CAS number 52785-06-5), hydrochloric acid (37%, CAS number 7647-01-0), ethanol (anhydrous, CAS number 64-17-5), isopropanol (99.5%, CAS number 67-63-0), potassium hydroxide (pellets, 99.99% trace metals basis, CAS number 1310-58-3), potassium cyanate (96%, CAS number 590-28-3), sulfur (powder, 99.98% trace metals basis, CAS number 7704-34-9) and perchloric acid (70%, CAS number 7601-90-3) were purchased from Sigma-Aldrich. Glyphosate (98%, CAS number 1071-83-6) was purchased from Mayer. Other chemicals were purchased from The Fuel Cell Store, including Vulcan XC72 carbon black, platinum on Vulcan XC72 powder (20 wt%), iridium on Vulcan XC72 powder (20 wt%) and nafion 117 solution (~5% in a mixture of lower aliphatic alcohols and water). All of the chemicals were used without further purification. Deionized (DI) water (15 MΩ cm
+−1
+), produced with a Millipore Q water purification system, was used in all experiments.
+
+Synthesis of catalysts
+Carbon-based single-metal-site or nanocluster catalysts were prepared by high-temperature pyrolysis of self-assembled precursors, according to a method previously developed by our group
+
+,
+
+. In a typical synthesis of Ir
+
+–P
+
+/NPG and Ir
+
+/NG, 8 g melamine (C
+
+H
+
+N
+
+), 1.5 g glyphosate (C
+
+H
+
+NO
+
+P) or
+l
+-alanine (C
+
+H
+
+NO
+
+) and 7.5 mg iridium(III) chloride hydrate (IrCl
+
+·
+x
+H
+
+O) were first ground into a homogeneous precursor using ball-milling in a nylon jar for 1 h. Subsequently, 12 ml hydrochloric acid and 3 ml ethanol were added and the formed slurry was milled in a fume hood until all ethanol was evaporated. Then the resultant solid was dried in an oven at 60 °C overnight and ball-milled again for 30 min. Afterwards, the fine powder mixture was subjected to a two-stage pyrolysis in a tubular furnace (Carbolite) under an argon (Ar) atmosphere. The first stage was from 25 to 600 °C at a ramping rate of 2.5 °C min
+−1
+and maintained at 600 °C for 2 h, while the second stage was from 600 to 900 °C at a ramping rate of 2.0 °C min
+−1
+and maintained at 900 °C for 1.5 h. Finally, after cooling to room temperature, the product was washed thoroughly with DI water and ethanol and dried at 60 °C in an electric oven overnight. Ir/NPG was prepared by the same procedure except for the weight of IrCl
+
+·
+x
+H
+
+O (37.5 mg).
+Pt
+
+–P
+
+/NPG and Pt
+
+/NG were prepared by replacing IrCl
+
+·
+x
+H
+
+O with platinum(II) chloride (PtCl
+
+) that had the same weight of metal and following the same synthesis procedure as Ir
+–P
+
+/NPG and Ir
+
+/NG.
+Characterization
+Morphological information was collected by field-emission SEM (JEOL JSM-6700F) and TEM (JEOL JEM-2100F). Specific surface area was measured based on a N
+
+adsorption–desorption method using a Micromeritics 3Flex analyser (Micromeritics Instrument Corporation) at 77 K. Sub-ångström-resolution HAADF-STEM characterization was performed on a JEM ARM200F STEM/TEM with a probe spherical aberration (
+Cs
+) corrector working at 200 kV. For the HAADF imaging, a convergence angle of ~23 mrad and a collection angle range of 68–174 mrad were adapted for the incoherent atomic number imaging. Elemental analysis was studied on a microscope equipped with an energy-dispersive X-ray analyser (EX-230 100 m
+
+detector). The crystal structure was examined by XRD (Bruker AXS D8 Advance) using Cu Kα radiation (λ = 1.5406 Å) with a LYNXEYE detector at 30 kV and 10 mA.
+The mass contents of metals were quantified by inductively coupled plasma atomic emission spectroscopy (ICP-AES) (PerkinElmer) and ICP-MS (PerkinElmer). Detailed chemical compositions were examined by XPS on an ESCALAB 250 photoelectron spectrometer (Thermo Fisher Scientific) using a monochromatic Al Kα X-ray beam (1,486.6 eV). During the quasi in situ XPS measurements, catalysts were first treated at OCV or 0.1 V (versus RHE) in a H
+
+-saturated electrolyte for 30 min. Then, the samples were transferred from the electrochemical system to the vacuum chamber of the spectrometer using a transfer bin under the protection of the Ar atmosphere in the glovebox. All the procedures were repeated at least three times in parallel to eliminate test errors. All binding energies were calibrated to the C 1
+s
+peak (284.6 eV) arising from the adventitious carbon-containing species. X-ray absorption fine structure (XAFS) spectroscopy measurements including XANES and EXAFS of Ir L
+
+-edge were performed by employing a synchrotron radiation light source at the BL-12B2 beamline of the Japan Synchrotron Radiation Research Institute (JARSI) in SPring 8 (Japan), in which the electron storage ring was operated at 8.0 GeV and ambient conditions. Pt L
+
+-edge XAFS was measured in the total X-ray electron yield mode at room temperature using the BL-17C beamline at the National Synchrotron Radiation Research Center (NSRRC, Hsinchu, Taiwan), in which the electron storage ring was operated at 1.5 GeV with a beam current of 300 mA. Energy calibration was performed with an iridium or platinum foil standard by shifting all spectra to a glitch in the incident intensity. The EXAFS spectra were fitted using the FEFF 6.0 code.
+Electrochemical measurements
+All electrochemical measurements were carried out at ambient temperature and pressure on a CHI 760e potentiostat. Glass cells were utilized in acidic media, while in alkaline media, all cell components were plastic to prevent contaminations such as from Fe leaching. To mitigate impurities from previous experiments, cells and other glassware were thoroughly cleaned by soaking in aqua regia when not in use and rinsed with DI water and the corresponding electrolyte reagent several times prior to use. The 0.1 M HClO
+
+and 0.1 M KOH electrolyte solutions were prepared from appropriate 70 wt% double-distilled HClO
+
+and KOH pellets with DI water, respectively. In particular, for all HOR and HER tests, the electrolytes were saturated with H
+
+or Ar (99.99%), respectively, by purging gas into the aqueous solutions for 30 min, and then maintaining the gas flow throughout the entire electrochemical measurements. Electrocatalyst inks were prepared by dispersing 5 mg of catalyst into a solution containing 25 μl of 5% Nafion 117 solution (as conducting binder) and 975 μl of DI water–isopropanol solution with equal volumes, followed by ultrasonication for 3 h. A three-electrode cell configuration was employed with a working electrode of glassy carbon RDE with 5 mm diameter, a counter electrode of graphite rod and a saturated calomel electrode (SCE) as the reference electrode, the tip of the reference electrode was placed close to the working electrode to minimize solution resistance. Before each experiment, the glassy carbon electrode was polished to mirror shine with 0.05 μm alumina and cycled ~50 times from −0.2 to 1.5 V (versus RHE) at a sweep rate of 300 mV s
+−1
+in 0.5 M H
+
+SO
+
+. Then an aliquot with specified volume of the catalyst ink was drop-cast on the glassy carbon electrode and allowed to dry in air. To ensure the accuracy of the RHE, we calibrated the reference electrode in H
+
+-saturated 0.1 M HClO
+
+and 0.1 M KOH electrolytes periodically before conducting experiments. A reversible HOR/HER was performed using two Pt plates as both the working electrode and counter electrode (cleaned in aqua regia before each use) with H
+
+bubble over the working electrode during the period. To operate the calibration, the clean Pt electrode was cycled at a slow sweep rate of 10 mV s
+−1
+around the expected value for the RHE in each electrolyte to be used for the catalyst testing until the CV curve reached constant. Then the RHE potentials in the two electrolytes were determined from the corresponding open-circuit potentials (for example, Supplementary 
+). All electrode potentials reported herein were converted to the RHE scale. The overpotential
+η
+was calculated by
+η
+= |
+E
+(versus RHE)|V for both the HOR and HER. Additionally, for all the
+I
+–
+E
+curves reported in this study, the solution resistance
+R
+was measured via iR compensation command by applying the test potential, step amplitude, compensation level and overshoot level as 0 V, 0.05 V, 100% and 2%, respectively, which was subsequently used to correct the solution ohmic loss by
+E
+=
+E
+measured
+− iR. The reported current densities were either normalized to the geometric area of electrode (mA cm
+−2
+) or the amount of the metal in the catalyst (
+\({\mathrm{mA}}\,{\mathrm{mg}}_{\mathrm{PGM}}^{-1}\)
+).
+Several fast CV scans (200 mV s
+−1
+) between −0.09 and 0.4 V (versus RHE, without iR correction) were applied to remove the surface contaminants to achieve an unperturbedly stable performance before each RDE measurement. In cases where we aimed to assess the activity from polarization curves, we performed LSV measurements at a rotating speed of 1,600 r.p.m. and a low scan rate of 1 mV s
+−1
+to obtain steady polarization curves. All the measurements were repeated three times to ensure reproducibility. As the HOR is dominated by the mass transport of H
+
+to the electrode surface due to its limited solubility in electrolyte (<1 mmol l
+−1
+at room temperature), the limiting current density follows the Levich equation
+
+as:
+$${j}_{\mathrm{l}}=0.62{{nFD}}^{2/3}{v}^{{\rm{-}}1/6}{c}_{0}{\omega }^{1/2}=B{c}_{0}{\omega }^{1/2}$$
+
+where
+j
+l
+is the limiting current,
+n
+is the number of electrons transferred in the HOR (
+n
+= 2),
+F
+is the Faraday constant (96,485 A s mol
+−1
+),
+D
+is the diffusivity of H
+
+in electrolyte,
+ν
+is the kinematic viscosity of the electrolyte,
+c
+
+is the solubility of H
+
+in electrolyte and
+ω
+is the rotation speed.
+B
+represents 0.62
+nFD
+2/3
+ν
+−1/6
+. Since HOR/HER is highly reversible and controlled by both reaction kinetics and H
+
+diffusion, a reversible Koutecky–Levich equation should be applied to extract the accurate kinetic current density for thin-film electrodes as follows
+
+:
+$$1/j=1/{j}_{{\rm{k}}}+{j}_{{\rm{d}}}$$
+
+where
+j, j
+k
+and
+j
+d
+represent the measured current density, kinetic current density and diffusion-limited current density, respectively. According to the definition,
+j
+d
+is proportional to
+j
+l
+at a given potential and shares the same rotation speed dependence
+
+:
+$${j}_{{\rm{d}}}={j}_{1}\left(1{\rm{-}}{{\exp }}\left({\rm{-}}2F\eta /{RT}\right)\right)$$
+
+where
+η
+is the overpotential,
+R
+is the universal gas constant (8,314 J mol
+−1
+K
+−1
+) and
+T
+is the temperature in Kelvin. Then, the exchange current density (
+j
+
+) and transfer coefficient
+α
+, which is related to the Tafel slope (TS) by TS = 2.303
+RT
+/
+αF
+, can be determined by fitting the
+j
+k
+with the Butler–Volmer equation
+
+:
+$${j}_{{\rm{k}}}={j}_{0}({{\exp }}(\alpha F\eta /{RT}\,){\rm{-}}{{\exp }}((\alpha -1)F\eta /{RT}\,))$$
+
+When conducting CO stripping experiments, the catalyst-modified glassy carbon electrodes were immersed in CO (99.99%)-saturated 0.1 M KOH and 0.1 M HClO
+
+electrolyte and kept at OCV for 15 min to poison the metal sites sufficiently, followed by purging H
+
+for another 10 min to remove any excess CO from the solution and then collected the first two or five/ten cycles of CV curves at a scan rate of 50 mV s
+−1
+.
+Computational details
+The spin-polarized DFT calculations with D3 van der Waals correction were performed with the Vienna Ab-initio Simulation Package (VASP) program
+
+,
+
+,
+
+,
+
+,
+
+. The exchange-correlation energy was described by the generalized-gradient approximation (GGA) with spin-polarized Perdew–Burke–Ernzerhof (PBE) functional
+
+. The valence states of all atoms were expanded in a plane-wave (PW) basis set with a cut-off energy of 500 eV. The
+k
+-point grid of 3 × 3 × 1 was chosen to sample the reciprocal space. The self-consistent electron density loop was converged to 10
+−6
+eV, and the structures were relaxed until all forces were below 0.02 eV Å
+−1
+. The single-iridium-atom catalyst was modelled by a layer of graphitic carbon (6 × 4 supercell) with Ir
+
+–P
+
+–N
+
+(Ir
+
+–P
+
+/NPG) or Ir
+
+–N
+
+(Ir
+
+/NG) embedded in the centre as shown in Supplementary 
+. The vacuum layer was set as 20 Å.
+The computational hydrogen electrode (CHE) model was employed for the reaction free energy (Δ
+G
+) calculations
+
+. In this method, the chemical potential of (H
++
++
+e
+−
+) was equal to that of 1/2H
+
+and the Δ
+G
+of each step was derived by
+$$\Delta G=\Delta E{\rm{-}}T\Delta S+{\rm{ZPE}}-{\rm{|}}e{\rm{|}}U$$
+
+where Δ
+E
+is the reaction energy of each step in the HOR from DFT calculations,
+T
+Δ
+S
+is the entropy contribution to the free energy, ZPE refers to the zero-point energy correction and
+U
+is the applied potential.
+AIMD simulation for the catalyst–water interface was performed by employing the CP2K package
+
+. The model contained 87 explicit H
+
+O molecules (~3 layers), which were filled in the vacuum layer (Supplementary 
+). The simulation was sampled by the canonical (NVT) ensemble using Nosé–Hoover thermostats with a target temperature of 300 K, and the time step of 1.0 fs was chosen
+
+,
+
+. Core electrons were modelled by Goedecker–Teter–Hutter (GTH) pseudopotentials with 17, 5, 5, 6 and 1 valence electrons for Ir, P, N, O and H atoms, respectively, and the plane waves were expanded with a cut-off energy of 400 Ry (
+). The (DFT + D3) method was also considered for the van der Waals correction.
+The atomic coordinates of the optimized models, and the initial and final configurations in molecular dynamics simulations are provided in Supplementary Data
+
+.
+MEA preparation and PEMFC tests
+Anode catalyst inks were prepared by dispersing Ir
+
+–P
+
+/NPG, Pt/C (20 wt%, Johnson Matthey) or Pt
+
+–P
+
+/NPG catalyst in a solvent mixture of isopropanol and water (1:1 v/v) with D2020 perfluorosulfonic acid (PFSA) ionomer (DuPont) at an ionomer to carbon ratio of 0.4–1.2, by ultrasonicating for 2 h and stirring for 30 min. Then the obtained ink was evenly sprayed onto a Gore-Select M820.15 membrane with an active area of 5 cm
+
+using an airbrush, followed by drying under vacuum until complete evaporation of the solvents and formation of catalyst-coated membranes (CCMs) with loadings of 0.0045 mg
+Ir
+cm
+−2
+, and 0.1 and 0.0042 mg
+Pt
+cm
+−2
+for Ir
+
+–P
+
+/NPG, Pt/C and Pt
+
+–P
+
+/NPG, respectively. Similar steps were applied to prepare Pt/C (60 wt%, Johnson Matthey) cathodes with a final Pt loading of 0.3 mg
+Pt
+cm
+−2
+onto the opposite sides of the membranes. The fabricated CCM together with two gas diffusion layers (GDLs) (Sigracet 29 BC) were hot-pressed at 130 °C and 0.14 MPa for 2 min to complete the final MEA.
+H
+
+–O
+
+and H
+
+–air single cell tests were carried out in a fuel cell test station (Hephas 330) in sequence. The cell temperature was maintained at 80 °C, and fully humidified H
+
+and O
+
+or air were supplied to the anode and cathode, respectively. The back pressure was set at absolute pressure of 150 kPa, ensuring that the net pressure of gas was kept at 1.0 bar. The flow rate was fixed at 1.5 l min
+−1
+for H
+
+and at 2.0 l min
+−1
+for the cathodic reactant gas during the polarization scan. Prior to the data collection, an activation was applied by keeping the fuel cell voltage at 0.4 V for about 4 h until the current density reached a steady value. PGM-based anodic mass activities were determined using polarization curves with iR-corrected voltage against the current densities in the H
+
+–O
+
+fuel cells. The internal resistances were measured by sweeping frequencies over the range of 1 MHz–100 mHz with 10 points per decade, while the amplitude of the a.c. current was always kept at 5% of the d.c. current.
+To evaluate the resistance to hydrogen starvation for Ir
+
+–P
+
+/NPG and Pt/C anode catalysts, the rated power densities at 0.67 V with gradually reduced H
+
+flow rate from 1,500 to 50 ml min
+−1
+were measured. The interval of the gas flow rate was 100 between 1,500 and 1,000 ml min
+−1
+while 50 from 1,000 to 50 ml min
+−1
+.
+Data availability
+The data that support the findings of this study are available from the corresponding authors upon reasonable request.
+Source data
+are provided with this paper.

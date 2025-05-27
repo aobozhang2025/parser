@@ -1,5 +1,884 @@
 DOI: 10.1038/s41586-023-06060-1
-Source: supplementary
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of n-propanol from carbon monoxide using a Ag–Ru–Cu catalyst. Nature Energy 7, 170-176, doi:10.1038/s41560-021-00967-7 . 4 Shin, H., Hansen, K. U. & Jiao, F. Techno-economic assessment of low-temperature carbon dioxide electrolysis. Nature Sustainability 4, 911-919, doi:10.1038/s41893-021-00739-x . 5 Eisaman, M. D., Alvarado, L., Larner, D., Wang, P. & Littau, K. A. CO2 desorption using high-pressure bipolar membrane electrodialysis. Energy & Environmental Science 4, 4031-4037, doi:10.1039/C1EE01336J . 6 Eisaman, M. D. et al. CO2 separation using bipolar membrane electrodialysis. Energy & Environmental Science 4, 1319-1328, doi:10.1039/C0EE00303D . 7 Wang, M., Herzog, H. J. & Hatton, T. A. CO2 Capture Using Electrochemically Mediated Amine Regeneration. Industrial & Engineering Chemistry Research 59, 7087-7096, doi:10.1021/acs.iecr.9b05307 . 8 Wang, M., Hariharan, S., Shaw, R. A. & Hatton, T. A. Energetics of electrochemically mediated amine regeneration process for flue gas CO2 capture. International Journal of Greenhouse Gas Control 82, 48-58, doi:https://doi.org/10.1016/j.ijggc.2018.12.028 . 9 Vo s k i a n , S . & H a t t o n , T. A . F a r a d a i c e l e c t r o-swing reactive adsorption for CO2 capture. Energy & Environmental Science 12, 3530-3547, doi:10.1039/C9EE02412C . 10 Liu, Y ., Ye, H.-Z., Diederichsen, K. M., Van V oorhis, T. & Hatton, T. A. Electrochemically mediated carbon dioxide separation with quinone chemistry in salt-concentrated aqueous media. Nature Communications 11, 2278, doi:10.1038/s41467-020-16150-7 . 11 Diederichsen, K. M., Liu, Y ., Ozbek, N., Seo, H. & Hatton, T. A. Toward solvent-free continuous-flow electrochemically mediated carbon capture with high-concentration liquid quinone chemistry. Joule 6, 221-239, doi:10.1016/j.joule.2021.12.001 . 12 Li, X., Zhao, X., Liu, Y ., Hatton, T. A. & Liu, Y . Redox-tunable Lewis bases for electrochemical carbon dioxide capture. Nature Energy 7, 1065-1075, doi:10.1038/s41560-022-01137-z . 13 Jin, S., Wu, M., Gordon, R. G., Aziz, M. J. & Kwabi, D. G. pH swing cycle for CO2 capture electrochemically driven through proton-coupled electron transfer. Energy & Environmental Science 13, 3706-3722, doi:10.1039/D0EE01834A . 14 Jin, S., Wu, M., Jing, Y ., Gordon, R. G. & Aziz, M. J. Low energy carbon capture via electrochemically induced pH swing with electrochemical rebalancing. Nature Communications 13, 2140, doi:10.1038/s41467-022-29791-7 . 15 Lin, Y .-J. & Rochelle, G. T. Approaching a reversible stripping process for CO2 capture. Chemical Engineering Journal 283, 1033-1043, doi:https://doi.org/10.1016/j.cej.2015.08.086 . 16 Lin, Y .-J., Chen, E. & Rochelle, G. T. Pilot plant test of the advanced flash stripper for CO2 capture. Faraday Discussions 192, 37-58, doi:10.1039/C6FD00029K . 17 Sjostrom, S., Krutka, H., Starns, T. & Campbell, T. Pilot test results of post-combustion CO2 capture using solid sorbents. Energy Procedia 4, 1584-1592, doi:https://doi.org/10.1016/j.egypro.2011.02.028 . 18 Zhang, W. et al. Parametric study on the regeneration heat requirement of an amine-based solid adsorbent process for post-combustion carbon capture. Applied Energy 168, 394-405, doi:https://doi.org/10.1016/j.apenergy.2016.01.049 . 19 Lyu, H., Li, H., Hanikel, N., Wang, K. & Yaghi, O. M. Covalent Organic Frameworks for Carbon Dioxide Capture from Air. Journal of the American Chemical Society 144, 12989-12995, doi:10.1021/jacs.2c05382 . 20 McDonald, T. M. et al. Cooperative insertion of CO2 in diamine-appended metal-organic frameworks. Nature 519, 303-308, doi:10.1038/nature14327 . 21 Keith, D. W., Holmes, G., St. Angelo, D. & Heidel, K. A Process for Capturing CO2 from the Atmosphere. Joule 2, 1573-1594, doi:10.1016/j.joule.2018.05.006 . 22 Eisaman, M. D. et al. Energy-efficient electrochemical CO2 capture from the atmosphere. Technical Proceedings of the 2009 Clean Technology Conference and Trade Show. 2009. 23 Cao, L. et al. Identification of single-atom active sites in carbon-based cobalt catalysts during electrocatalytic hydrogen evolution. Nature Catalysis 2, 134-141, doi:10.1038/s41929-018-0203-5 . 24 Wu, Z.-Y. et al. A general synthesis of single atom catalysts with controllable atomic and mesoporous structures. Nature Synthesis 1, 658-667, doi:10.1038/s44160-022-00129-x . 25 Zheng, T. et al. Large-Scale and Highly Selective CO2 Electrocatalytic Reduction on Nickel Single-Atom Catalyst. Joule 3, 265-278, doi:https://doi.org/10.1016/j.joule.2018.10.015 . 26 Yang, H. B. et al. Atomically dispersed Ni(i) as the active site for electrochemical CO2 reduction. Nature Catalysis 3, 140-147, doi:10.1038/s41560-017-0078-8 .
+Methods
+and Supplementary Figs.
+
+and
+
+). As shown in 
+, the ORR/OER
+I
+–
+V
+curves under different CO
+
+concentrations were similar, suggesting that the O
+
+concentration instead of the CO
+
+concentration determines the cell activity. The onset potential (under 0.5 mA cm
+−2
+) is around 0.8 V, including OER and ORR overpotentials (around 200–300 mV each), ohmic drops and pH overpotentials during electrolysis
+
+. Under high current density, at which O
+
+mass diffusion starts to affect ORR activity, the
+I
+–
+V
+curve (without
+iR
+compensations; Supplementary 
+) of 4.6% CO
+
+showed slightly better cell voltage than that of 8.6% or 13.9% owing to its higher O
+
+partial pressure.
+
+, The
+I
+–
+V
+curves of ORR/OER electrolysis under different CO
+
+concentrations in a mixture with O
+
+. The O
+
++ 4.6% CO
+
+showed slightly better cell voltage than that of 8.6% or 13.9% CO
+
+under high current densities owing to its higher O
+
+partial pressure.
+b
+–
+d
+, The carbon-capture rate and FE
+carbonate
+as a function of cell current density under different CO
+
+concentrations. The dashed theoretical guideline assumes a 100% carbonate crossover efficiency.
+e
+,
+f
+, Carbon-capture performance comparisons between O
+
+and air carrier gas suggest negligible differences.
+g
+,
+h
+, The carbon-capture performance of our solid-electrolyte device under low CO
+
+concentrations. The FE can still reach more than 90% under small carbon-capture rates when CO
+
+mass diffusion limits are not yet heavily weighed.
+i
+, CO poisoning effects on Pt/C catalyst. The cell voltage showed an immediate increase with the injection of CO gas. The CO injection gas consists of 13.9% CO
+
+, 4% CO and 82.1% O
+
+. The error bars represent at least three independent tests.
+Full size image
+Under a constant ORR/OER electrolysis current, we can obtain the CO
+
+-capture rate, which is equivalent to the CO
+
+crossover rate, by measuring the CO
+
+flow rate out of the PSE layer using water-displacement and titration methods for both the gas-phase and dissolved CO
+
+(
+
+Methods
+and Supplementary Figs.
+
+–
+
+). This CO
+
+dissolution can be avoided in practical operations by continuously recycling the deionized water stream. The CO
+
+bubble formation within the PSE layer was found to have little impact on the middle-layer pressure or the device operational stability (Supplementary 
+). Furthermore, the recovered gas product was confirmed to be high-purity CO
+
+through gas chromatography analysis (up to 99.7% without considering water vapour; Supplementary 
+), allowing for direct integration with downstream utilization or storage processes without the typical energy-intensive secondary purification processes. No CO
+
+reduction gas or liquid products were detected during this carbon-capture process (Supplementary 
+). As shown in 
+, with 13.9% CO
+
+concentration, the CO
+
+-capture rate increased almost linearly with the ORR current density ranging from 10 to 500 mA cm
+−2
+. By estimating the slope of the CO
+
+-capture (or crossover) rate as a function of the ORR current, we found that, for every two-electron transfer during which two OH
+−
+ions were generated, there was one CO
+
+molecule captured, suggesting that the CO
+
+crossover is mainly through the carbonate ion instead of bicarbonate because of the high local interfacial pH. This conclusion is supported by the well-matched CO
+
+-capture rates with the theoretical guideline, which assumes 100% carbonate crossover and is consistent with observations reported in previous studies
+
+,
+
+,
+
+,
+
+. Therefore, here we defined the carbonate Faradaic efficiency (FE
+carbonate
+) to better evaluate the carbon-capture efficiencies under different reaction conditions (
+
+Methods
+). The FE
+carbonate
+was maintained over 90% across a wide range of cell currents under 13.9% CO
+
+, suggesting a high utilization efficiency of generated OH
+−
+ions. However, at high current densities, FE
+carbonate
+showed a slight decrease owing to the competition between the rate of carbonate formation and OH
+−
+migration. There were sufficient CO
+
+molecules around the catalyst–membrane interface at low current densities to react rapidly with the generated OH
+−
+ions before they were transported across the membrane by means of carbonate ions form. For high ORR currents, a large number of OH
+−
+ions were generated, depleting the surrounding CO
+
+molecules at a fast rate. This limits the mass diffusion of CO
+
+and allows some OH
+−
+ions to move directly across the AEM without reacting with CO
+
+molecules, resulting in lowered FEs. Even with lower FE
+carbonate
+, our solid-electrolyte reactor delivered an impressive carbon-capture rate of 3.34 ml min
+−1
+cm
+−2
+(or 0.137 mmol
+CO2
+min
+−1
+cm
+−2
+) at 500 mA cm
+−2
+, which is equivalent to a rate of about 86.7 kg CO
+
+day
+−1
+m
+−2
+. According to the reaction mechanism discussed above, we can anticipate that the maximal current density required to maintain high FEs would decrease with decreasing CO
+
+concentrations in the input gas owing to limited mass diffusion. This was confirmed by the 8.6% and 4.6% CO
+
+tests, in which the maximal operation current to maintain over 80% FE
+carbonate
+decreased to 400 mA cm
+−2
+and 200 mA cm
+−2
+, respectively ,d
+). Please note that the choice of ion conduction in the solid electrolyte plays a critical role in determining the cell voltage, particularly under high current density (Supplementary 
+).
+In principle, because ORR catalysis and CO
+
+capture are independent processes, the O
+
+partial pressure should only affect the cell activity and not its carbon-capture rates or FEs
+
+,
+
+. As shown by the
+I
+–
+V
+curve comparison in 
+, the solid-electrolyte reactor with air + 13.9% CO
+
+presented similar ORR/OER electrolysis activities to that of O
+
++ 13.9% CO
+
+at low currents, but required higher voltages at higher currents owing to its lower O
+
+partial pressure. However, this cell-voltage difference did not affect the current efficiencies or CO
+
+-capture rates 
+and Supplementary Figs.
+
+and
+
+). To further test the carbon-capture capability and adaptability of our solid-electrolyte device, we lowered the feed CO
+
+levels to 6,200 and 2,950 ppm while evaluating the cell performance (Supplementary 
+). At low CO
+
+concentrations, the main limitation to the carbon-capture rate is the mass transport of CO
+
+from the inlet flow to the catalyst–membrane interface, which is a common challenge for scaling up of all carbon-capture methods. As shown in 
+, the CO
+
+-capture efficiency was maintained above 80% within the current range 1–10 mA cm
+−2
+but rapidly decreased to around 50–60% when reaching 20–30 mA cm
+−2
+. This FE decrease is because of the mass-transfer limit of CO
+
+gas under this low-concentration condition, which became more prominent when the input CO
+
+concentration was further reduced to 2,950 ppm 
+). In this case, the FE
+carbonate
+decreased to about 55% under 10 mA cm
+−2
+current compared with 90% in the case of 6,200 ppm. The observed FE trends imply that the operational current of the carbon-capture cell can be adjusted to suit different application scenarios, depending on the input CO
+
+concentrations, while still maintaining high electron efficiencies.
+In practical scenarios, CO impurities are widely present in industrial flue gas owing to incomplete combustion of hydrocarbon fuels, which could greatly affect the catalytic performance of the Pt catalyst because of poisoning effects
+
+,
+
+. As shown in 
+, the cell voltage under a fixed current of 100 mA cm
+−2
+showed an immediate increase when a CO stream was mixed with the cathode gas input and continuously rose by about 300 mV within 10 h operation, suggesting a fast degradation of Pt/C ORR activity. The impurity poisoning effects on the Pt catalyst, as well as Pt scarcity and high cost, could limit the practical application of our solid-electrolyte carbon-capture device.
+The impacts of different ORR catalysts
+One unique advantage of our carbon-capture device is the flexibility in using different ORR and OER catalysts. Replacing the expensive Pt/C noble-metal catalyst with earth-abundant ORR catalysts can substantially reduce the materials cost; alternative ORR catalysts with different material properties could help mitigate the CO poisoning effect observed on Pt/C. One promising candidate is the recently developed transition-metal single-atom catalyst (SAC), such as Fe or Co single-atomic sites coordinated in N-doped carbon
+
+,
+
+. These SACs presented similar ORR performance to commercial Pt/C with high resistance to CO poisoning owing to the weak interaction between CO and the transition-metal centre
+
+. Here we used Co-SAC as a representative ORR catalyst to investigate these possible advantages compared with Pt/C. Our Co-SAC was synthesized on the basis of a hard-template method developed in our previous study, which guarantees high porosity and uniform distribution of metal single-atomic sites on the carbon matrix
+
+(
+
+Methods
+). Transmission electron microscopy (TEM) and other characterization tools suggest an interconnected 3D porous structure of Co-SAC reversely templating from the SiO
+
+nanoparticle templates 
+and Supplementary Figs.
+
+–
+
+). X-ray absorption spectroscopy (XAS) confirmed the atomic dispersion of Co as shown in ,c
+, in which only the Co–N coordination (located at around 1.4 Å) was observed in the spectrum and no Co–Co interactions (about 2.15 Å)
+
+.
+
+,
+c
+, X-ray absorption near-edge structure (XANES) and EXAFS spectra of the Co K-edge in Co-SAC. The oxidation state of Co in Co-SAC sits between Co metal and Co
+
+O
+
+. The dominant peak at around 1.4 Å in
+c
+is assigned to the Co–N coordination, suggesting the atomic dispersion of Co atoms on the carbon support. a.u., arbitrary units.
+d
+,
+e
+, The carbon-capture performance of Co-SAC under 13.9% (
+d
+) and 6,200 ppm (
+e
+) CO
+
+concentration. It showed a large improvement compared with Pt/C under low-CO
+
+-concentration regions.
+f
+, The CO poisoning test on our Co-SAC catalysts suggests a high poisoning resistance. The cell voltage remained stable after the injection of CO gas.
+g
+, Stability test of Co-SAC catalyst under a fixed current of 100 mA cm
+−2
+. There were no apparent changes to the cell voltage or FE during this 3-day continuous carbon-capture operation.
+h
+, Schematic of the tandem reactor system for high carbon-removal efficiency and FE. The two cells are operated under two stages of current densities (100 and 20 mA cm
+−2
+) for optimized efficiencies. The simulated flue gas consists of 13.9% CO
+
+, 7.8% O
+
+, 76.3% N
+
+and 2.0% H
+
+O.
+i
+, The CO
+
+concentration of the tail gas using a CO
+
+meter during the capture process. The CO
+
+concentration decreased from 13.9% of the input to around 3,000 ppm of output under a gas flow rate of 5 sccm, suggesting a 98% carbon-removal efficiency. The error bars represent at least three independent tests.
+Full size image
+We first evaluated the carbon-capture performance of our Co-SAC under a standard 13.9% CO
+
+concentration. The
+I
+–
+V
+curve showed a similar catalytic activity and FE
+carbonate
+compared with Pt/C catalyst 
+and Supplementary Figs.
+
+–
+
+), suggesting the feasibility of replacing Pt/C noble-metal catalyst with earth-abundant materials. Differences became evident when we tuned the CO
+
+concentration to 6,200 ppm, at which mass transport plays a more critical role in determining carbon-capture performance. As shown in 
+, the Co-SAC maintained a high FE of more than 80% until 20 mA cm
+−2
+, under which the Pt/C counterpart only achieved roughly 60% FE. The carbon-capture rate of Co-SAC was 0.12 ml min
+−1
+cm
+−2
+under 20 mA cm
+−2
+, suggesting a more than 30% improvement compared with Pt/C (about 0.09 ml min
+−1
+cm
+−2
+). The improvement ratio was further enhanced to around 50% under 30 mA cm
+−2
+. Our Co-SAC can deliver 40 mA m
+−2
+current density with 60% FE and a carbon-capture rate of 0.18 ml min
+−1
+cm
+−2
+or 4.8 kg
+CO2
+day
+−1
+m
+−2
+, suggesting a highly efficient carbon capture considering this low-CO
+
+-concentration source. Different from Pt/C catalyst with the active sites densely packed on the surface of Pt nanoparticles, Co-SAC has uniformly dispersed active sites across the whole carbon matrix, which enables a more uniform generation of OH
+−
+ions for a more efficient CO
+
+capture, especially when the CO
+
+mass diffusion is limited (Supplementary 
+). We further explored our Co-SAC and PSE device carbon-capture limit by testing its direct air capture (DAC) performance (400 ppm CO
+
+;
+
+Methods
+). As expected, the ORR current density to maintain high FE
+carbonate
+was decreased because of the limited carbon mass diffusions under DAC conditions (Supplementary 
+). Our reactor delivered almost 100% FE
+carbonate
+under a 0.5 mA cm
+−2
+ORR current. This represents a carbon-capture rate of 1.14 mg m
+−2
+s
+−1
+, comparable with the state-of-the-art DAC demonstration of about 1 mg m
+−2
+s
+−1
+(
+). Future improvements, including lower-cost catalysts, electrodes and ion-exchange membranes, are needed to justify the scalability of our PSE reactor for DAC application when compared with decoupled electrochemical/chemical reactions, in which electrolysis could be operated under high current densities. Our mass-transport simulation model and further DAC experiments on the impacts of pressure and catalyst-layer thickness lay the groundwork for different tuning knobs to enhance the device performance in the future (Supplementary Discussion
+
+, Supplementary 
+and Supplementary Figs.
+
+and
+
+).
+The CO injection experiment shown in 
+suggests the high resistance of our Co-SAC to CO poisoning resulting from the weak interactions between the metal single-atomic sites and CO molecules
+
+. No notable changes were observed in the cell voltage and FEs (>90%) when CO or other toxic gas (such as NO and SO
+
+) was injected into the input gas stream (Supplementary 
+). The potential for practical carbon-capture application was further demonstrated by the high stability of Co-SAC in our solid-electrolyte device 
+and Supplementary Figs.
+
+and
+
+), in which the cell voltage and FE remained unchanged during the 72-h continuous carbon-capture operation under a fixed current density of 100 mA cm
+−2
+.
+To make our study more practical, instead of using the above CO
+
+–O
+
+or CO
+
+–air mixtures, we prepared simulated flue gas (13.9% CO
+
+, 7.8% O
+
+, 76.3% N
+
+and 2.0% H
+
+O) as the gas input to our solid-electrolyte device. A tandem reactor system, with two identical solid-electrolyte cells but operated under two-stage current densities, was designed to deliver both high carbon-removal efficiencies and high FEs 
+). To avoid the depletion of O
+
+in flue gas owing to its relatively low concentration, we recirculated the O
+
+stream generated through OER at the anode, which is the same amount of consumed O
+
+through ORR at the cathode, back to the flue gas stream. By holding the cell currents constant but gradually decreasing the flue gas input flow rate, the carbon-removal efficiency continued to increase. At an input flow rate of 5 ml min
+−1
+, the remaining CO
+
+concentration in the tail gas decreased to only 3,000 ppm, representing a 98% carbon-removal efficiency while maintaining an impressive overall FE
+carbonate
+of 75% 
+and Supplementary Figs.
+
+and
+
+).
+Approaches to improving capture efficiency
+Previous electrochemical CO
+
+-capture studies sometimes reported carbon-capture energy efficiencies based on half-cell reaction performance without considering ohmic drops in practical devices, ideal scenarios with certain assumptions (such as assuming full conversion of alkaline solutions into bicarbonate during CO
+
+absorption) or without considering energy uses associated with steps other than electrochemistry (such as gas–alkaline contact)
+
+,
+
+,
+
+. This may result in substantially underestimated energy consumption, especially under industrially relevant capture rates or low CO
+
+concentrations. The performance of our solid-electrolyte device can reflect more practical values of energy consumption for future carbon-capture implementation, as it was evaluated in a full-cell device and included the entire carbon-capture process (CO
+
+absorption and release) without making assumptions. Our carbon-capture energy consumption starts from about 150 kJ per mol
+CO2
+(0.8 V onset voltage) and gradually increases with increased carbon-capture rates (Supplementary 
+). We believe that there is still plenty of room to further improve the carbon-capture energy effectiveness 
+) and several potential strategies are presented as examples for future improvements. First, the thickness of the solid-electrolyte layer has not yet been optimized for smaller ohmic drops and better cell voltages. By decreasing the electrolyte-layer thickness from 2.5 mm to 1.5 mm, we were able to reduce cell impedance and conserve approximately 200 mV of cell voltage under 100 mA cm
+−2
+current while maintaining similar carbon-capture FEs ,c
+). The thickness of the middle layer can be further reduced using more advanced machining tools or 3D printing technologies for better cell voltages and higher energy efficiencies. We would like to emphasize that the PSE is an indispensable part of our carbon-capture device even with an ultrathin middle layer (Supplementary 
+).
+
+-capture electrolyser with possible improvement strategies, including decreasing the thickness of the PSE layer to reduce the ohmic drop, using facile redox couples for better reaction kinetics and different ion crossover for better electron efficiencies.
+b
+,
+I
+–
+V
+curves of solid-electrolyte reactor with different PSE layer thicknesses (1.5 mm versus 2.5 mm). The inset shows the improved cell resistance after thickness reduction.
+c
+, The carbon-capture rates were not affected when the PSE layer thickness was reduced.
+d
+, Reaction mechanism of improved electron efficiency with the co-generation of H
+
+O
+2.
+e
+, The FEs of H
+
+O
+
+on Ni-SAC during carbon capture in our solid-electrolyte reactor.
+f
+, The corresponding CO
+
+-capture performance on Ni-SAC showed a marked improvement compared with 4e
+−
+-ORR catalysts (averaged value from Pt/C and Co-SAC), suggesting a different carbon-crossover mechanism.
+g
+,  A linear relationship between the FE of H
+
+O
+
+and electron efficiency further confirms the proposed carbon-crossover mechanism as indicated by the theoretical line.
+h
+, Techno-economic assessment of carbon-capture cost based on the current reactor performance, enhanced ohmic drop and electron efficiency, and future improvements, such as more facile redox couples, thinner PSE layers and so on. The error bars represent at least three independent tests.
+Full size image
+Second, the carbon-crossover efficiencies can be improved by means of the formation of different types of anion. As discussed above, we believe that the carbon crossover is through the carbonate ions, which require two-electron transfer per captured CO
+
+molecule (0.5 CO
+
+per e
+−
+). One possible alternative to improving the electron efficiency is establishing the CO
+
+–H
+
+O
+
+equilibrium
+
+. Similar to the CO
+
+–OH
+−
+reaction in the water system, CO
+
+can readily react with the HO
+
+−
+anion from H
+
+O
+
+to form percarbonate (HCO
+
+−
+)
+
+. If we replace the 4e
+−
+-ORR catalyst in our solid-electrolyte reactor with a 2e
+−
+-ORR catalyst
+
+, we may obtain a maximal 50% increase in electron efficiencies. With every two-electron transfer, one OH
+−
+and one HO
+
+−
+could form, which can transport 1.5 CO
+
+gas molecules across the AEM (0.75 CO
+
+per e
+−
+; 
+). To validate this hypothesis, we used the Ni-SAC with a reasonable H
+
+O
+
+selectivity in our solid-electrolyte reactor for carbon-capture tests 
+and Supplementary Figs.
+
+–
+
+). As shown in 
+, the carbon-capture rates on Ni-SAC suggested a notable increase compared with 4e
+−
+-ORR catalysts demonstrated above. Under 100 mA cm
+−2
+current density, the 4e
+−
+-ORR catalyst presented a carbon-capture rate of around 0.7 ml min
+−1
+cm
+−2
+, whereas the Ni-SAC delivered a rate of 1.05 ml min
+−1
+cm
+−2
+. The increased carbon-capture rates were carefully confirmed by excluding the possibility of O
+
+gas bubbles from H
+
+O
+
+self-decomposition in the PSE layer or any impacts of H
+
+O
+
+on titrations (Supplementary Discussion
+
+and Supplementary Figs.
+
+and
+
+). By calculating the number of CO
+
+molecules captured per electron transferred, instead of using the above-defined FE
+carbonate
+resulting from the multianion crossover mechanism involved, a promising 0.71 CO
+
+per e
+−
+was achieved under 100 mA cm
+−2
+, compared with 0.47 CO
+
+per e
+−
+in the case of 4e
+−
+-ORR 
+). Using other 2e
+−
+-ORR catalysts, including oxidized carbon black (OCB) and Fe-SAC (Supplementary Figs.
+
+and
+
+), we showed that the carbon-capture electron efficiency linearly scales with H
+
+O
+
+selectivity under the same current density, further demonstrating the improvement of HO
+
+−
+ions in transporting CO
+
+molecules 
+). We can also exclude the possibility of bicarbonate crossover in the case of H
+
+O
+
+, which could also improve the electron efficiencies (Supplementary Discussion
+
+).
+The improvements in cell voltages and electron efficiencies discussed above can further reduce the carbon-capture cost of our device. A techno-economic analysis based on previously reported models and the performance of our device (Figs.
+
+and
+
+) suggests a base cost of about $83 per ton of captured CO
+
+(refs.
+
+,
+
+) 
+, Supplementary 
+, Supplementary Discussion
+
+and Supplementary 
+). By taking into consideration the demonstrated improvements, including a thinner PSE layer 
+) and higher electron efficiencies 
+), the estimated cost can be reduced to about $58 per ton and can be more attractive if the value of generated H
+
+O
+
+was included. Considering this very initial study with each component to be further improved and optimized in future research, our solid-electrolyte carbon-capture reactor represents a competitive, promising and sustainable strategy for carbon management. For example, we can switch to other facile redox couples in different application scenarios, such as hydrogen evolution reaction/hydrogen oxidation reaction (HER/HOR) or organic and inorganic molecular redox couples, to further reduce the overpotentials. Further improvements of the ohmic drops of the reactor can be expected with a thinner middle layer and more conductive solid-electrolyte particles. Other operation parameters, such as temperature for better reaction kinetics and pressure for better mass transport, could also be implemented for different application scenarios (Supplementary Figs.
+
+and
+
+). The mentioned improvements could bring the carbon-capture cost down to about $33 per ton.
+Conclusion
+Given various electrochemical redox reactions available with proton–electron coupling processes (HER/HOR, quinone redox couples, flow battery redox couples and so on), our solid-electrolyte reactor sets up a versatile carbon-capture platform that could be implemented in many practical scenarios in the future. It is worth noting that many electrochemical redox couples, such as HER/HOR, present much better reaction kinetics and lower overpotentials than the OER/ORR couple we demonstrated in this work, which can substantially reduce the cell-operation voltage and improve the carbon-capture efficiencies. Various cell and operation parameters, such as the thickness of the solid-electrolyte layer, operation temperature and pressure, redox couple catalyst improvements and reaction pathway tuning, can be further optimized as future research directions to improve the carbon-capture energy efficiencies and costs for practical deployments.
+
+Synthesis of SACs
+The method used for synthesizing Co-SAC is based on our previously reported method, with some modifications
+
+. First, 1.0 g of
+o
+-phenylenediamine, 0.44 g of CoCl
+
+and 2.0 g of SiO
+
+nanoparticles (10–20 nm, Aldrich) templates were mixed together by using 20 ml 1.0 M HCl solution. Then, the mixed solution was sonicated for 0.5 h and stirred for another 0.5 h. Subsequently, 12 ml of 1.0 M HCl solution, which contains 3.0 g of ammonium peroxydisulfate, that is, (NH
+
+)
+
+S
+
+O
+
+, was added dropwise into the above mixed solution with vigorous stirring. After polymerization in an ice bath for nearly one day, the mixture was dried using a rotary evaporator. Then, the dried powder was annealed under Ar atmosphere at 800 °C for 2 h. Finally, the product was treated by alkaline (2.0 M NaOH) and acid (2.0 M H
+
+SO
+
+) leaching successively to remove SiO
+
+nanoparticles templates and unstable Co-based species, respectively, to obtain the Co-SAC. We used the same method to prepare Ni-SAC. The only difference is that 0.405 g NiCl
+
+·6H
+
+O and 1.0 g SiO
+
+were used to synthesize Ni-SAC. Fe-SAC was obtained on the basis of our previous paper.
+
+Synthesis of OCB catalysts
+OCB is synthesized on the basis of our previously reported method
+
+,
+
+. 2 g of commercially available XC-72 carbon (Vulcan XC-72, Fuel Cell Store) was added into a three-neck flask with 460 ml 70% HNO
+
+solution and 140 ml deionized water. The mixture was well stirred and refluxed at 80 °C for 24 h. The resulting slurry was washed with water and ethanol after natural cooling until the solution pH reached neutral, and the precipitate obtained was dried overnight at 80 °C in an oven.
+
+Preparation of electrode
+For preparation of cathode electrode, typically, 40 mg of as-prepared catalysts, 4 ml of 2-propanol (Sigma-Aldrich) and 160 µl of Nafion binder solution (Sigma, 5%) were mixed together to form a catalyst ink with around 10.0 mg ml
+−1
+. The ink was sonicated for about 30 min to obtain a homogeneous ink and then spray coated onto the 5 × 5 cm
+
+Sigracet 28 BC gas-diffusion layer (GDL; Fuel Cell Store) electrodes. The Pt/C (Fuel Cell Store) used in this work followed the same procedure to prepare the cathode electrode. The IrO
+
+electrode purchased from Dioxide Materials was used for the anode electrode during the electrochemical process.
+Electrochemical CO
+
+capture
+Electrochemical measurements were all conducted using a BioLogic VMP3 workstation. The PSE reactor used respective catalysts Pt/C, Co-SAC, loaded on 1.0 cm
+
+GDL as the cathode electrode. This geometric area of the electrodes was fixed unless otherwise noted. A 0.015-inch-thick polytetrafluoroethylene gasket with 1.0 cm
+
+window and Sustainion AEM membrane was placed between the cathode electrode and the solid-electrolyte layer. The middle-layer solid-electrolyte compartment comprises 2.5 mm Delrin plastic (1.5 mm for thinner middle-layer plate) and is packed with Dowex 50W X8 hydrogen-form solid electrolyte to ensure ionic conductivity. Nafion 117 film (Fuel Cell Store) with a second polytetrafluoroethylene gasket was placed on the anode and IrO
+
+(Dioxide Materials) was used as the anode for the OER. For the standard tests, the cathode was supplied with humidified CO
+
+(Airgas, 99.999%) and 200 standard cubic centimetres per minute (sccm) O
+
+(Airgas, 99.999%) or air (Airgas, zero grade) mixtures by precisely tuning the gas flow rates using digital mass flow controllers (Alicat), followed by a concentration calibration (13.9%, 8.6% and 4.6% CO
+
+) using a CO
+
+meter (CO2Meter) for all tests. For the poisoning-effect test, further toxic gas, including CO (Airgas, 99.999%), SO
+
+(Airgas, 1,800 ppm balanced with N
+
+) or NO (Airgas, 5,000 ppm balanced with N
+
+), was injected and diluted to the required concentration with a fixed 13.9% CO
+
+concentration. To avoid insufficient CO
+
+supply impeding the evaluation of the intrinsic performance, the input gas mixture flow rate was adjusted to guarantee more than 80% CO
+
+left over in the tail gas (less than 20% crossover). Therefore, for the 6,200 ppm and 2,950 ppm CO
+
+tests, the flow rate of inlet O
+
+was increased to 300 sccm to minimize the FE measurement error associated with CO
+
+stream flow rate change. For direct air-capture tests, we used 400 ppm CO
+
+(Airgas) as the input source and increased the total air gas flow to 1,000 sccm to ensure sufficient CO
+
+. At the same time, we also used a 6-cm
+
+electrode to increase the total carbon-capture current for minimized measurement errors in carbon-capture rates. For the flue gas capture, a simulated flue gas (13.9% CO
+
+, 7.8% O
+
+, 76.3% N
+
+and 2.0% H
+
+O) was prepared as the gas input to a tandem reactor system. The O
+
+generated from the first reactor was further recycled to increase the O
+
+concentration during the capture process. All gas flow rates were precisely controlled by the mass flow controller (Alicat) and the concentration of the mixture was measured and recorded by a CO
+
+meter (CO2Meter). The middle solid-electrolyte layer was continuously flowed with 1.1 ml min
+−1
+(0.5 ml min
+−1
+for DAC and low-current-density tests) of deionized water to bring out dissolved CO
+
+and CO
+
+gas, and the anode side was circulated with 2.0 ml min
+−1
+of deionized water or 0.1 M H
+
+SO
+
+(>300 mA cm
+−2
+). For the long-term stability test, the anolyte was replaced with 2.0 ml min
+−1
+of deionized water, while everything else was conducted with the same parameters.
+All cell resistance was measured by potentiostatic electrochemical impedance spectroscopy and all the whole-cell voltage was reported without any
+iR
+compensation except for Supplementary 
+.
+Middle-layer gas and liquid analysis
+Water-displacement measurement was used to measure the gaseous CO
+
+flow rate (Supplementary 
+). CO
+
+-saturated 0.01 M H
+
+SO
+
+was used during the water-displacement measurement to measure the CO
+
+bubble flow rate. It was pre-saturated with CO
+
+to minimize the gas dissolution and the acid was used to further suppress the CO
+
+gas solubility during the bubble flow rate measuring process. This water displacement showed high measurement accuracy.
+To avoid introducing any CO
+
+contamination from external sources into our PSE layer, the deionized water flow we used to push out the captured CO
+
+gas was pre-saturated with Ar but not CO
+
+. As a result, a fraction of captured CO
+
+will be dissolved into our deionized water stream, which needs to be titrated (Supplementary Figs.
+
+and
+
+). In practical carbon-capture applications, we can always recycle the deionized water flow so that captured CO
+
+will be continuously pushed out in its gas phase after the stream is saturated. The middle-layer output stream containing dissolved CO
+
+was collected directly in 200–500 µl of 1 M NaOH. By collecting it into the alkaline solution, the loss of dissolved CO
+
+to air was minimized and a full range of titration could be conducted. 4 ml of this collected liquid was then titrated using 0.1 M HCl and pH meter (Orion Star A111). The volume difference between two equivalence points on the titration curve determines how many moles of carbonate species exist inside the liquid samples. The dissolved carbon dioxide concentration was then calculated as:
+$${Q}_{1}=\frac{\Delta V\times {C}_{1}\times 24.4\,({\rm{l}}\,{{\rm{m}}{\rm{o}}{\rm{l}}}^{-1})}{V}\times q$$
+in which
+Q
+
+is the CO
+
+flow rate equivalent to dissolved carbon concentration, Δ
+V
+is the volume of HCl between two equivalence points on the titration curve,
+C
+
+is the concentration of the HCl solution used, 24.4 (l mol
+−1
+) is the molar volume of an ideal gas at 1 atmosphere of pressure and room temperature,
+V
+is the volume of the sample titrated (minus the added alkaline volume) and
+q
+is the flow rate of the collected liquid output.
+The partial current density for a given gas product was calculated as:
+$${j}_{i}=\frac{{Q}_{1}+{Q}_{2}}{24.4\,({\rm{l}}\,{{\rm{m}}{\rm{o}}{\rm{l}}}^{-1})}\times {n}_{i}F\times {({\rm{e}}{\rm{l}}{\rm{e}}{\rm{c}}{\rm{t}}{\rm{r}}{\rm{o}}{\rm{d}}{\rm{e}}{\rm{a}}{\rm{r}}{\rm{e}}{\rm{a}})}^{-1}$$
+in which
+Q
+
+and
+Q
+
+is the volumetric flow rate of liquid and gaseous CO
+
+determined by titration and water-displacement methods, respectively,
+n
+i
+is the number of electrons involved, which is 2 for FE
+carbonate
+, and
+F
+is the Faradaic constant.
+Characterizations
+Scanning electron microscopy images were obtained from an FEI Quanta 400 field-emission scanning electron microscope. TEM characterizations and energy-dispersive X-ray spectroscopy elemental mapping images for SACs were carried out using an FEI Titan Themis aberration-corrected transmission electron microscope at 300 kV. X-ray photoelectron spectroscopy data were collected on a PHI Quantera spectrometer, using monochromatic Al Kα radiation (1,486.6 eV) and a low-energy flood gun as a neutralizer. All X-ray photoelectron spectroscopy spectra were calibrated by shifting the detected carbon C 1s peak to 284.6 eV. N
+
+adsorption–desorption isotherms were recorded on a Quantachrome Autosorb-iQ3-MP instrument at 77 K using Barrett–Emmett–Teller calculations for the surface area.
+XAS measurement and data analysis
+XAS measurements were performed at the Soft X-ray Microcharacterization Beamline (SXRMB) of the Canadian Light Source. Metal foils and metal oxides were used as references. The acquired extended X-ray absorption fine structure (EXAFS) data were extracted and processed according to the standard procedures using the Athena module implemented in the IFEFFIT software package.
+Data availability
+The data that support the plots in this paper and other findings of this study are available from the corresponding author on request.

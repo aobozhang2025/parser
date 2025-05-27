@@ -1,5 +1,356 @@
 DOI: 10.1038/s41929-021-00609-x
-Source: main
-==================================================
+Source: supplementary PDF
+--------------------------------------------------
 
-Catalyst preparation For the synthesis of ZIF-8, 2.879 g of Zn(NO 3 ) 2 ·6H 2 O and 3.080 g of 2-methylimidazole were each dissolved in 75 ml methanol. Subsequently, the two solutions were mixed with vigorous stirring for 5 min at room temperature. Then, the as-obtained mixed solution was transferred to a sealed container and placed into a constant-temperature oven at 35 °C for 2 h. Finally, the as-obtained ZIF-8 was centrifuged, washed with methanol and dried at 80 °C for 12 h. For the synthesis of Fe/ZIF-8@PZM, 160 mg of bis(4-aminophenyl) ether and 80 mg of phosphonitrilic chloride trimer were dissolved in 50 ml methanol. Then, 200 mg of the as-obtained ZIF-8 was dispersed in 10 ml of methanol, followed by mixing homogeneously with 1 ml of 10 mg ml –1 Fe(NO 3 ) 3 ·9H 2 O methanol solution. This was added to the above solution with stirring for 10 min. Subsequently, a mixture of 4 ml triethylamine and 25 ml methanol was slowly added into the above suspension, followed by stirring at 40 °C for 4 h. Finally, the as-obtained Fe/ZIF-8@PZM was collected, washed and dried. ZIF-8@PZM was prepared with the same synthesis procedure as for Fe/ZIF-8@PZM except that Fe(NO 3 ) 3 ·9H 2 O was not added. Fe/ZIF-8 was prepared with the same synthesis procedure as for Fe/ZIF-8@PZM except that bis(4-aminophenyl) ether, phosphonitrilic chloride trimer and triethylamine were not added. The as-obtained powder of Fe/ZIF-8@PZM was placed in a quartz boat and then kept at 950 °C for 3 h in a tube furnace with a heating rate of 5 °C min –1 under a flowing nitrogen atmosphere. The same treatment conditions were used for the Fe/ZIF-8 and ZIF-8@PZM powder samples. When these samples cooled to room temperature, the as-obtained FeN 3 P-SAzyme, FeN 4 -SAzyme and NP-C samples were each collected, without any treatment, for further use.
+of FeN P by our synthesis method, we further carried out the thermodynamic analysis
+of FeN P for comparison with FeN . The FeN P and FeN are obtained at high
+3 4 3 4
+temperature of 1223K. And the composition of FeN P and FeN site are different;
+3 4
+therefore, we cannot theoretically directly use totally energy to compare their stability.
+Herein, we use the ab initio thermodynamics analysis that popularized by Reuter and
+Scheffler3,4 to assess their formation energy at experiment temperature (1223 K).
+Consider FeN P and FeN to be formed as the following chemical equation:
+3 4
+Graphene (C56) + 3 H + Fe + 3/2 N + P → FeN P (C H FeN P) 
+2 2 3 56 6 3
+Graphene (C56) + 3 H + Fe + 2 N → FeN (C H FeN ) 
+2 2 4 56 6 4
+We can assess the stability of FeN P and FeN by measuring the Gibbs free energy
+3 4
+(ΔG and ΔG ) trend of reaction and . At 1223 K of pyrolysis temperature
+FeN3P FeN4
+in the synthesis process, P exists as atomic P while N and H as diatomic N and H . The
+2 2
+energy of Fe is referred to its bulk. ΔG and ΔG can be represented as:
+FeN3P FeN4
+ΔG = G – G – 3/2 G - G – 3 G – G 
+FeN3P FeN3P P N2 Fe H2 C56
+ΔG = G – 2 G - G – 3 G – G 
+FeN4 FeN4 N2 Fe H2 C56
+Where for a species:
+
+G = EDFT + ZPE + H – TS + RTIn(P / Po) 
+Finally, the stability between ΔG and ΔG can be compared as ΔG -
+FeN3P FeN4 FeN3P
+ΔG The Zero-point energy (ZPE), enthalpy and entropy (calculated by Shomate
+FeN4.
+equation with the data from NIST webbook5) are considered for gas-phase H , N , and
+2 2
+P. The partial pressure is set to be 0.01 atm. While the thermal corrections are omitted
+for solid graphene and Fe (less than 3% error6,7 and they mostly cancel each other when
+we apply a minus operation ΔG - ΔG ). It should be noted that the form of FeN P
+FeN3P FeN4 3
+and FeN are not solely determined by thermodynamics, the kinetic barriers and the
+
+preparation method can also influence the stability, which is beyond the scope of this
+discussion.
+With the DFT energy of all species in Supplementary Equation and and
+thermal correction data from the table (Supplementary , the ΔG - ΔG
+FeN3P FeN4
+are calculated to be – 2.22 eV, meaning ΔG is 2.22 eV lower than ΔG , which
+FeN3P FeN4
+proves the dominance of FeN P over FeN at the experimental environment.
+3 4
+Interestingly, we also find that when the temperature lowers down, the dominance
+of FeN P will be reduced since atomic P vapor is congregating into P molecules, thus
+3 2
+lowering the free energy and unfavorable for the forward reaction in . So,
+theoretically, a high temperature of 1223K is required in the synthesis to favor the
+production of FeN P, which is consistent with our experimental finding. We have
+
+confirmed the coordination structure of FeN P by the combination with AC HAADF-
+
+STEM, XPS and XAFS in our manuscript. All results indicate that the synthesis method
+at high temperature leads to the thermodynamically most stable structure of FeN P.
+
+Supplementary 
+Nanozymes [E/Fe] (M) K (mM) V k k /K Refs.
+m max cat cat m
+4.65×10-5 2.89×102 1.40×108
+(M min-1) (min-1) (M-1 min-1)
+FeN P-SAzyme 1.61×10-7 2.06×10-3 Our work
+
+7.75×10-7 4.81 2.34×106
+(M s-1) (s-1) (M-1 s-1)
+6.37×10-5 6.37×104 1.15×107
+(M min-1) (min-1) (M-1 min-1)
+HRP 1.00×10-9 5.55 Our work
+1.06×10-6 1.06×103 1.91×105
+(M s-1) (s-1) (M-1 s-1)
+Anal. Chim.
+7.638×10-8 5.894 1.78×104
+HRP 0.3296 Acta., 1126,
+(M s-1) (s-1) (M-1 s-1)
+106-113 .
+Angew. Chem.
+1.411×10-8 0.56×103 1.49×105 Int. Ed. 58,
+HRP 3.759
+(M s-1) (s-1) (M-1 s-1) 4911-4916
+.
+Electromagn.
+1.1×10-9 2.81×105
+HRP 0.343 96.5 Biol. Med., 35,
+(M s-1) (M-1 s-1)
+126-133 .
+Chem.
+0.69×10-9 3×103 2.90×105
+HRP 10.35 Commun., 53,
+(M s-1) (s-1) (M-1 s-1)
+424-427 .
+Fe single-atom 1.48×10-1 7.58×10-7 7.08×10-1 4.78×103 Sci. Adv. 5,
+
+nanozyme (M s-1) (s-1) (M-1s-1) 5490-5498
+.
+Anal. Chem. 92,
+Cu-N-C single- 20.07×10-8 0.075 3.8
+19.94 3373-3379
+atom nanozyme (M s-1) (s-1) (M-1s-1)
+.
+Anal. Chem. 91,
+Fe-N-C single- 1.16×10-6 0.78 2.17×102
+3.6 11994-11999
+atom nanozyme (M s-1) (s-1) (M-1s-1)
+.
+[E/Fe] is the molar concentration of Fe active sites in enzyme or nanozyme
+concentration, which was chosen to obtain the well-fitted Michaelis-Menten plots
+during the varied substrate concentrations. K is the Michaelis constant, V is the
+m max
+maximal reaction velocity and k is the catalytic constant, where k = V /[E/Fe] and
+cat cat max
+the k /K value indicates the catalytic efficiency of the enzyme or nanozymes.
+cat m
+
+Supplementary 
+Å). Furthermore, to be seen clearly, the search paths for the five TS labeled by bold format are shown in Supplementary -34 as well. In
+the structures, the Fe, C, N, P, O and H atoms are given in blue, gray, light blue, yellow, light red and white, respectively; while in order to make
+a distinction, the activity sites of Fe atom and the O atoms from H O are shown in pink and red.
+2 2
+imaginary
+d , d , d
+O…H O…O N…H
+Model Reaction E (eV) XYZ structures of TS frequency
+r
+(Å)
+(cm-1)
+H O →2OH 0.07 95.44 2.010
+2 2
+FeN P
+
+H O →OOH+H 0.79 937.60 1.271, 1.272
+2 2
+
+2OH→H O+O 0.49 526.44 1.280, 1.168
+
+OOH+H→H O+O 0.57 330.96 1.798, 1.536
+
+2OH+H→H O+OH 0.43 905.82 1.285, 1.253
+
+FeN H O →2OH 0.17 295.49 1.736
+4 2 2
+
+H O →OOH+H 0.78 1060.44 1.183, 1.431
+2 2
+2OH→H O+O 1.05 1003.29 1.164, 1.269
+
+OOH+H→H O+O 0.15 163.78 2.145, 1.525
+
+2OH+H→H O+OH 2.84 1294.96 1.538
+
+H O →2OH 0.10 400.29 1.576
+2 2
+H O →OOH+H 0.40 953.98 1.209, 1.2193
+2 2
+Fe O
+3 4
+2OH→H O+O 1.51 69.46 1.055, 1.531
+
+OOH+H→O +2H 1.20 869.13 1.424, 1.420
+
+2OH+H→H O+OH 0.11 520.77 1.876
+
+Supplementary 
+Phosphonitrilic chloride
+Alfa Aesar A18986
+trimer
+4,4-Diaminodiphenyl ether Alfa Aesar A16815
+Sinopharm Chemical reagent
+Iron (III) nitrate nonahydrate 80072718
+Beijing Co., Ltd
+Sinopharm Chemical reagent
+Triethylamine 80134318
+Beijing Co., Ltd
+Sinopharm Chemical reagent
+Methanol 10014108
+Beijing Co., Ltd
+Sodium acetate Sigma-Aldrich S7670
+Acetic acid Sigma-Aldrich S6283
+TMB Sigma-Aldrich T2885
+DMSO Sigma-Aldrich D2650
+H DCFDA Sigma-Aldrich D6883
+
+Sodium Pyruvate Gibco 11360088
+
+RPMI 1640 Medium Gibco 11875135
+Penicillin& streptomycin Gibco 15140122
+Dulbecon’s Modifined Eagle
+Gibco 11965092
+Medium (high glucose)
+CCK8 cell viability kit Dojindo Molecular Technologies CK04
+FITC fluorescent probe Sigma-Aldrich 46944
+DAPI Roche Applied Science 10236276001
+H O Abcam ab209384
+2 2
+DMPO Dojindo Molecular Technologies D048
+Glutaraldehyde Electron Microscopy China GS2607
+Ethanol Sigma-Aldrich 1009831011
+Acetone Sigma-Aldrich 650501
+Osmium Tetraoxide Electron Microscopy China GP8456
+SPI-PON812 Electron Microscopy China 1230517
+Lead Citrate Electron Microscopy China GA10701
+Uranyl Acetate Electron Microscopy China GS02624
+Benzyldimethylamine Electron Microscopy China 1170827
+Nadic Methyl Anhydride Electron Microscopy China 1230910
+Dodecenyl Succinic Electron Microscopy China 1210919
+
+Anhydride
+Nanoparticle tracking analysis Nanosight
+Malvern
+(NTA) system LM14
+clone H4A3
+Anti-Lamp1 mouse antibody Invitrogen
+(1:200)
+Inductively coupled plasma
+Thermo Scientific iCAP6300
+optical emission spectrometry
+Goat anti-mouse IgG(H+L) A-21422
+Invitrogen
+conjugated with Alexa-555 (1:500)
+Fe O (10 nm) Sigma-Aldrich 725358
+3 4
+HRP Sigma-Aldrich P8375
+EDC Sigma-Aldrich E6383
+NHS Sigma-Aldrich 56485
+Triton X-100 Sigma-Aldrich X-100
+PFA Sigma-Aldrich P6184
+OPD Amresco 0688
+DAB Amresco 0430
+
+Supplementary 
+6.07±0.81×106
+FeN P-SAzyme 7.641 ×10-14 2.65×10-14 1.61×10-7
+
+3.00±0.32×106
+FeN -SAzyme 1.183×10-13 6.14×10-14 1.84×10-7
+
+[C ] is the average mass concentration of nanozyme. [E] is the molar concentration of nanozyme. N is the number of Fe active sites in
+m Fe-nanozyme
+each nanozyme, which is expressed as average for independent three times (“±” means standard deviation). [E/Fe] is the molar concentration of
+Fe active sites.
+Supplementary Note 4. The molar concentration of nanozyme, the number of Fe active sites in each nanozyme and the molar concentration
+of Fe active sites. Taking the FeN
+
+P-SAzyme for example, firstly, we added 6.0 mg of the FeN
+
+P-SAzyme into 1 ml of deionized water, followed
+by dispersed it evenly by ultrasonic treatment, forming the aqueous dispersions of FeN P-SAzyme. Then we took 2.5 μL of the above FeN P-
+3 3
+SAzyme dispersion and diluted it to 1 mL with deionized water to obtain 15.0 μg/mL dilution dispersion (the concentration of 15.0 μg/mL was
+chosen according to the appropriate concentration of detection line range of nanosight instrument). Then, the molar concentration of 1 mL
+dispersion of 15.0 μg/mL for FeN P-SAzyme was tested by NTA system. The content of the FeN P-SAzyme is 6.9×108 (N ) in 1 mL of
+3 3 nanozyme
+FeN P-SAzyme dispersion (15.0 μg/mL), which was determined by a nanoparticle tracking analysis (NTA) system for three times to offer the
+
+average value, indicating that the number of nanozyme is 6.9×108 (N ) in the FeN P-SAzyme of 15.0 μg (m ). Next, according to
+nanozyme 3 nanozyme
+Supplementary Equation , the average mass concentration of FeN P-SAzyme was calculated to be 7.641×10-14 mol/mg (C ), which means that
+3 m
+the molar number of nanozyme is 7.641×10-14 mol in the FeN P-SAzyme of 1 mg. In our catalytic system of 2.2 mL (V .), 0.7632 μg of FeN P-
+3 cat 3
+
+SAzyme (m ) was used. According to Supplementary Equation , therefore, the molar concentration ([E]) of FeN P-SAzyme was
+nanozyme-cat. 3
+determined to be 2.65×10-14 mol/L. Moreover, the molar concentration of FeN -SAzyme was calculated with the same process and calculation
+
+method of FeN P-SAzyme. For FeN -SAzyme, we also took 2.5 μL of aqueous dispersions of FeN -SAzyme (5.6 mg/mL) and then diluted it to 1
+3 4 4
+mL with deionized water to obtain 14.0 μg/mL dilution dispersion. The content of the FeN -SAzyme is 9.97×108 in 1 mL of FeN -SAzyme
+4 4
+dispersion (14.0 μg/mL), which was determined by a nanoparticle tracking analysis (NTA) system for three times to offer the average value,
+indicating that the number of nanozyme is 9.97×108 (N ) in the FeN -SAzyme of 14.0 μg (m ). Next, according to Supplementary
+nanozyme 4 nanozyme
+Equation , the average mass concentration (C ) of FeN -SAzyme was determined to be 1.183×10-13 mol/mg, which means that the molar number
+m 4
+of nanozyme is 1.183×10-13 mol in the FeN -SAzyme of 1 mg. In our catalytic system of 2.2 mL (V .), 1.1428 μg of FeN -SAzyme (m )
+4 cat 4 nanozyme-cat.
+was used. According to Supplementary Equation , the molar concentration ([E]) of FeN -SAzyme was calculated to be 6.14×10-14 mol/L.
+
+In addition, we estimated the number of Fe active sites in each nanozyme based on the content of Fe in nanozymes, which was determined by
+inductively coupled plasma optical emission spectrometry (ICP-OES). The mass fraction content (ω ) of Fe in FeN P-SAzyme and FeN -SAzyme
+Fe 3 4
+are 2.59% and 1.98%, respectively. According to Supplementary Equation , the number of Fe active sites (N ) are 6.07×106 in each
+Fe-nanozyme
+FeN P-SAzyme and 3.00×106 in each FeN -SAzyme, respectively. According to Supplementary Equation , the molar concentration of Fe active
+3 4
+sites ([E/Fe]) are 1.61×10-7 mol/L for FeN P-SAzyme and 1.84×10-7 mol/L for FeN -SAzyme, respectively.
+3 4
+Herein, the molar concentration of nanozyme and the number of Fe active sites in each nanozyme can be estimated as:
+[C
+m
+] = N nanozyme/N
+A
+/m
+nanozyme
+
+[E] = ([C m ] * m nanozyme-cat. )/V cat. 
+N
+Fe-nanozyme
+= N
+Fe-sites-cat.
+/N
+nanozyme-cat.
+= (m
+Fe
+/M
+Fe
+) *N
+A
+/([E]*Vcat.*N
+A
+)
+
+= (m nanozyme-cat.*ω Fe /M Fe ) *N A /([E] *Vcat.*N A )= (m nanozyme-cat.*ω Fe /M Fe ) *N A /([C m ] * m nanozyme-cat.*N A )= (ω Fe /M Fe ) /[C m ] 
+[E/Fe]= (m
+Fe
+/M
+Fe
+) /Vcat. 
+Where C : average mass concentration of nanozyme (mol/mg); N : the number of the feed nanozyme in the nanoparticle tracking analysis
+m nanozyme
+(NTA) system; m : the mass of the feed nanozyme in the nanoparticle tracking analysis (NTA) system; m : the mass of the feed
+nanozyme nanozyme-cat.
+nanozyme in the catalysis system; V : volume of catalysis system (2.2 mL); N : the number of Fe active sites in each nanozyme; N
+cat. Fe-nanozyme Fe-
+: the number of Fe active sites of the feed nanozyme in the catalysis system; N : the number of the feed nanozyme in the catalysis
+sites-cat. nanozyme-cat.
+system; m : mass of Fe of the feed nanozyme in the catalysis system; M : the molar mass of Fe (55.8 g/mol); N : Avogadro's constant (6.02×1023
+Fe Fe A
+/mol); ω : Fe mass fraction content of nanozyme; [E/Fe] is the molar concentration of Fe active sites in the catalysis system.
+Fe
+
+Supplementary References
+1 Veitch, N. C. Horseradish peroxidase: A modern view of a classic enzyme. Phytochemistry 65, 249-259 .
+2 Henkelman, G., Arnaldsson, A. & Jónsson, H. A fast and robust algorithm for bader decomposition of charge density. Comput. Mater. Sci. 36,
+354-360 .
+3 Reuter, K. & Scheffler, M. Composition and structure of the RuO surface in an O and CO environment: Implications for the catalytic
+2 2
+formation of CO . Phys. Rev. B 68, 045407 .
+
+4 Reuter, K. & Scheffler, M. Composition, structure, and stability of RuO as a function of oxygen pressure. Phys. Rev. B 65, 035406 .
+
+5 https://webbook.nist.gov/chemistry/.
+6 Zhao, S. et al. Surface morphology of Hägg iron carbide (chi-Fe C ) from ab initio atomistic thermodynamics. J. Catal. 294, 47-53 .
+5 2
+7 Zhao, S. et al. Morphology control of K O promoter on hägg carbide (χ- Fe C ) under fischer–tropsch synthesis condition. Catal. Today, 93-100
+2 5 2
+.

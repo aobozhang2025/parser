@@ -2,20 +2,25 @@ import pandas as pd
 import os
 import re
 from pathlib import Path
-import PyPDF2
-from typing import Optional, List, Tuple
+import pdfplumber
+from typing import List, Optional, Tuple
+import logging
+
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
-class CatalystSynthesisParser:
+class CatalystSynthesisExtractor:
     def __init__(self, csv_file: str, supplementary_pdf_folder: str, main_text_folder: str, output_folder: str):
         """
-        Initialize the parser with folder paths and create output directory.
+        Initialize the extractor with folder paths
 
         Args:
             csv_file: Path to CSV file with DOI column
             supplementary_pdf_folder: Folder containing supplementary PDFs
-            main_text_folder: Folder containing main paper text files
-            output_folder: Folder to save parsed synthesis sections
+            main_text_folder: Folder containing main text files
+            output_folder: Output folder for synthesis files
         """
         self.csv_file = csv_file
         self.supplementary_pdf_folder = Path(supplementary_pdf_folder)
@@ -25,451 +30,321 @@ class CatalystSynthesisParser:
         # Create output folder if it doesn't exist
         self.output_folder.mkdir(exist_ok=True)
 
-        # Keywords to identify figure captions and references to exclude
-        self.exclude_patterns = [
-            r'fig\.\s*\d+',  # Fig. 1, fig. 2, etc.
-            r'figure\s*\d+',  # Figure 1, figure 2, etc.
-            r'ref\.\s*\d+',  # Ref. 1, ref. 2, etc.
-            r'reference\s*\d+',  # Reference 1, reference 2, etc.
-            r'\[\d+\]',  # [1], [2], etc.
-            r'\(\d+\)',  # (1), (2), etc. - be careful with this one
-            r'see\s+fig',  # "see fig", "see figure"
-            r'shown\s+in\s+fig',  # "shown in fig"
-            r'depicted\s+in\s+fig'  # "depicted in fig"
+        # Keywords to identify synthesis sections
+        self.synthesis_keywords = [
+            'catalyst preparation', 'catalyst synthesis', 'synthesis of catalyst',
+            'preparation of catalyst', 'materials synthesis', 'experimental section',
+            'materials and methods', 'synthesis procedure', 'preparation procedure',
+            'catalyst fabrication', 'sample preparation', 'synthesis method',
+            'catalysts preparation', 'catalysts synthesis', 'experimental methods',
+            'sample synthesis', 'material preparation'
+        ]
+
+        # Section headers that typically contain synthesis info
+        self.section_patterns = [
+            r'(?i)^\s*\d*\.?\s*(catalyst|material|sample)\s*(preparation|synthesis|fabrication)',
+            r'(?i)^\s*\d*\.?\s*(synthesis|preparation)\s*(of|procedure)',
+            r'(?i)^\s*\d*\.?\s*(experimental|materials)\s*(section|methods)',
+            r'(?i)^\s*\d*\.?\s*methods?\s*$',
+            r'(?i)^\s*\d*\.?\s*(sample|catalyst)\s*preparation\s*$'
         ]
 
     def clean_doi(self, doi: str) -> str:
-        """Clean DOI string to be filesystem-safe."""
-        if pd.isna(doi) or not doi:
+        """Clean DOI for use in filename"""
+        if pd.isna(doi):
             return ""
-        # Replace problematic characters for filenames
-        cleaned = str(doi).replace('/', '_').replace('\\', '_').replace(':', '_')
-        cleaned = re.sub(r'[<>:"|?*]', '_', cleaned)
-        return cleaned.strip()
+        # Remove common prefixes and clean for filename
+        doi = str(doi).replace('doi:', '').replace('DOI:', '').replace('https://doi.org/', '')
+        # Replace characters that can't be in filenames
+        doi = re.sub(r'[<>:"/\\|?*]', '_', doi)
+        return doi.strip()
 
     def extract_text_from_pdf(self, pdf_path: Path) -> str:
-        """Extract text from PDF file using PyPDF2."""
+        """Extract text from PDF file"""
         try:
             text = ""
-            with open(pdf_path, 'rb') as pdf_file:
-                pdf_reader = PyPDF2.PdfReader(pdf_file)
-
-                for page_num in range(len(pdf_reader.pages)):
-                    page = pdf_reader.pages[page_num]
+            with pdfplumber.open(pdf_path) as pdf:
+                for page in pdf.pages:
                     page_text = page.extract_text()
                     if page_text:
                         text += page_text + "\n"
             return text
         except Exception as e:
-            print(f"Error reading PDF {pdf_path}: {e}")
+            logger.error(f"Error extracting text from {pdf_path}: {e}")
             return ""
 
-    def read_text_file(self, file_path: Path) -> str:
-        """Read text from a text file."""
-        try:
-            with open(file_path, 'r', encoding='utf-8') as f:
-                return f.read()
-        except Exception as e:
-            print(f"Error reading text file {file_path}: {e}")
-            return ""
+    def clean_text_content(self, text: str) -> str:
+        """Remove figure captions, table captions, references, and table of contents"""
 
-    def clean_supplementary_pdf_content(self, text: str) -> str:
-        """
-        Clean supplementary PDF content by removing title, authors, contents, and table captions.
+        # Remove table of contents / list of contents sections
+        text = re.sub(r'(?i)^\s*(table\s+of\s+)?contents?\s*\.{2,}.*$', '', text, flags=re.MULTILINE)
+        text = re.sub(r'(?i)^\s*list\s+of\s+(figures?|tables?)\s*\.{2,}.*$', '', text, flags=re.MULTILINE)
+        text = re.sub(r'(?i)^\s*\d+\.?\s*(introduction|abstract|conclusion)\s*\.{2,}\s*\d+\s*$', '', text,
+                      flags=re.MULTILINE)
 
-        Args:
-            text: Raw text extracted from supplementary PDF
+        # Remove figure captions and references
+        text = re.sub(r'(?i)(figure|fig\.?)\s*\d+[a-z]?[.:]\s*[^\n]*(?:\n[^\n]*){0,3}', '', text)
+        text = re.sub(r'(?i)\(?(figure|fig\.?)\s*\d+[a-z]?\)?', '', text)
+        text = re.sub(r'(?i)(supplementary\s+)?(figure|fig\.?)\s*s?\d+[a-z]?', '', text)
 
-        Returns:
-            Cleaned text with unwanted sections removed
-        """
-        if not text:
-            return ""
+        # Remove table captions and references
+        text = re.sub(r'(?i)(table)\s*\d+[a-z]?[.:]\s*[^\n]*(?:\n[^\n]*){0,3}', '', text)
+        text = re.sub(r'(?i)\(?(table)\s*\d+[a-z]?\)?', '', text)
+        text = re.sub(r'(?i)(supplementary\s+)?(table)\s*s?\d+[a-z]?', '', text)
 
+        # Remove reference citations
+        text = re.sub(r'\[\d+(?:[-,]\d+)*\]', '', text)
+        text = re.sub(r'\(\d+(?:[-,]\d+)*\)', '', text)
+        text = re.sub(r'(?i)ref\.?\s*\d+', '', text)
+        text = re.sub(r'(?i)\(ref\.?\s*\d+\)', '', text)
+
+        # Remove reference sections entirely
+        # Look for "References" section and remove everything after it
+        ref_patterns = [
+            r'(?i)^\s*references?\s*$.*$',
+            r'(?i)^\s*bibliography\s*$.*$',
+            r'(?i)^\s*\d+\.?\s*references?\s*$.*$',
+            r'(?i)^\s*literature\s+cited\s*$.*$'
+        ]
+
+        for pattern in ref_patterns:
+            text = re.sub(pattern, '', text, flags=re.MULTILINE | re.DOTALL)
+
+        # Remove author information and affiliations typically found at the beginning
+        text = re.sub(r'(?i)^\s*\*?\s*corresponding\s+author.*$', '', text, flags=re.MULTILINE)
+        text = re.sub(r'(?i)^\s*e-?mail:.*$', '', text, flags=re.MULTILINE)
+        text = re.sub(r'(?i)^\s*received:.*$', '', text, flags=re.MULTILINE)
+        text = re.sub(r'(?i)^\s*accepted:.*$', '', text, flags=re.MULTILINE)
+        text = re.sub(r'(?i)^\s*published:.*$', '', text, flags=re.MULTILINE)
+
+        # Remove page numbers and headers/footers
+        text = re.sub(r'^\s*\d+\s*$', '', text, flags=re.MULTILINE)
+        text = re.sub(r'^\s*page\s+\d+\s*$', '', text, flags=re.MULTILINE)
+
+        # Remove excessive whitespace
+        text = re.sub(r'\n\s*\n\s*\n+', '\n\n', text)
+        text = re.sub(r'[ \t]+', ' ', text)
+
+        return text.strip()
+
+    def is_reference_section(self, text: str) -> bool:
+        """Check if a text block is likely a reference section"""
+        text_lower = text.lower()
+        ref_indicators = [
+            'doi:', 'http://', 'https://', 'journal', 'vol.', 'pp.',
+            'et al.', 'proceedings', 'conference', 'publisher'
+        ]
+
+        # If text has many reference indicators, it's likely a reference section
+        indicator_count = sum(1 for indicator in ref_indicators if indicator in text_lower)
+        return indicator_count >= 3
+
+    def find_synthesis_sections(self, text: str) -> List[str]:
+        """Find and extract synthesis-related sections from text"""
+        synthesis_sections = []
         lines = text.split('\n')
-        cleaned_lines = []
-        skip_section = False
 
-        # Patterns to identify sections to remove
-        title_patterns = [
-            r'^[A-Z\s]{10,}$',  # Long all-caps lines (likely titles)
-            r'supplementary\s+information',
-            r'supporting\s+information',
-            r'electronic\s+supplementary\s+material'
-        ]
-
-        author_patterns = [
-            r'^\s*[A-Z][a-z]+\s+[A-Z][a-z]+.*\d+[,\s]*$',  # Name with affiliation numbers
-            r'^\s*[A-Z][a-z]+\s+[A-Z]\.\s*[A-Z][a-z]+.*$',  # Name with middle initial
-            r'department\s+of',
-            r'university\s+of',
-            r'institute\s+of',
-            r'^\s*\d+\s*[A-Z][a-z]+.*university.*$'  # Affiliation lines
-        ]
-
-        contents_patterns = [
-            r'contents?\s*$',
-            r'table\s+of\s+contents',
-            r'supplementary\s+text',
-            r'supplementary\s+fig',
-            r'supplementary\s+table',
-            r'data:\s+figures?\s+and\s+tables?',
-            r'references:\s*$'
-        ]
-
-        caption_patterns = [
-            r'^\s*supplementary\s+fig',
-            r'^\s*supplementary\s+table',
-            r'^\s*fig\.\s*\d+',
-            r'^\s*figure\s+\d+',
-            r'^\s*table\s+\d+',
-            r'^\s*scheme\s+\d+',
-            r'^\s*chart\s+\d+'
-        ]
+        current_section = []
+        in_synthesis_section = False
+        section_title = ""
 
         for i, line in enumerate(lines):
-            line_lower = line.lower().strip()
+            line_stripped = line.strip()
 
-            # Skip empty lines
-            if not line_lower:
-                cleaned_lines.append(line)
+            # Skip if this looks like a reference section
+            if self.is_reference_section(line_stripped):
                 continue
 
-            # Check for title patterns (usually in first 20 lines)
-            if i < 20:
-                is_title = any(re.search(pattern, line_lower, re.IGNORECASE) for pattern in title_patterns)
-                if is_title:
-                    continue
-
-            # Check for author patterns (usually in first 30 lines)
-            if i < 30:
-                is_author = any(re.search(pattern, line_lower, re.IGNORECASE) for pattern in author_patterns)
-                if is_author:
-                    continue
-
-            # Check for contents section
-            is_contents_start = any(re.search(pattern, line_lower, re.IGNORECASE) for pattern in contents_patterns)
-            if is_contents_start:
-                skip_section = True
-                continue
-
-            # Stop skipping if we hit a clear section start (like "Methods" or "Materials")
-            if skip_section:
-                section_start_patterns = [
-                    r'materials\s+and\s+methods',
-                    r'experimental\s+section',
-                    r'methods',
-                    r'preparation\s+of',
-                    r'synthesis\s+of',
-                    r'catalyst\s+preparation'
-                ]
-                is_section_start = any(
-                    re.search(pattern, line_lower, re.IGNORECASE) for pattern in section_start_patterns)
-                if is_section_start:
-                    skip_section = False
-                    cleaned_lines.append(line)
-                    continue
-                else:
-                    continue
-
-            # Check for table/figure captions
-            is_caption = any(re.search(pattern, line_lower, re.IGNORECASE) for pattern in caption_patterns)
-            if is_caption:
-                continue
-
-            # Skip lines that are mostly page numbers or references
-            if re.match(r'^\s*\d+\s*$', line_lower) or re.match(r'^\s*page\s+\d+', line_lower):
-                continue
-
-            cleaned_lines.append(line)
-
-        return '\n'.join(cleaned_lines)
-
-    def extract_synthesis_section(self, content: str) -> Optional[str]:
-        """Extract the synthesis/preparation section from the text content."""
-        if not content:
-            return None
-
-        # Define patterns that might indicate the start of the synthesis section
-        synthesis_patterns = [
-            r'Methods\s*Preparation of catalysts',
-            r'Methods\s*Synthesis',
-            r'Preparation of catalysts',
-            r'Catalyst preparation',
-            r'Experimental section\s*Synthesis',
-            r'Synthesis of',
-            r'Preparation of',
-            r'Synthesis\s*Methods',
-            r'Materials and methods\s*Synthesis'
-        ]
-
-        # Try to find the start of the synthesis section using different patterns
-        start_index = -1
-        for pattern in synthesis_patterns:
-            match = re.search(pattern, content, re.IGNORECASE)
-            if match:
-                start_index = match.start()
-                break
-
-        if start_index == -1:
-            return None
-
-        # Look for the end of the section (typically before "Results" or "Characterization")
-        end_patterns = [
-            r'Evaluation of catalytic performance',
-            r'Characterization',
-            r'Results and discussion',
-            r'Catalytic tests',
-            r'Experimental results',
-            r'\nReferences\n',
-            r'\nAcknowledgements\n',
-            r'\nAuthor information\n',
-            r'\nAdditional information\n'
-        ]
-
-        end_index = len(content)
-        for pattern in end_patterns:
-            match = re.search(pattern, content[start_index:], re.IGNORECASE)
-            if match:
-                end_index = start_index + match.start()
-                break
-
-        # Extract the synthesis section
-        synthesis_section = content[start_index:end_index].strip()
-        return synthesis_section
-
-    def clean_synthesis_text(self, text: str) -> str:
-        """Remove figure captions and references from synthesis text."""
-        if not text:
-            return ""
-
-        cleaned_text = text
-
-        # Remove text matching exclude patterns
-        for pattern in self.exclude_patterns:
-            cleaned_text = re.sub(pattern, '', cleaned_text, flags=re.IGNORECASE)
-
-        # Remove lines that are likely figure captions (start with Fig or Figure)
-        lines = cleaned_text.split('\n')
-        filtered_lines = []
-
-        for line in lines:
-            line_lower = line.strip().lower()
-            # Skip lines that start with figure references
-            if (line_lower.startswith('fig.') or
-                    line_lower.startswith('figure') or
-                    line_lower.startswith('ref.') or
-                    line_lower.startswith('reference')):
-                continue
-            filtered_lines.append(line)
-
-        cleaned_text = '\n'.join(filtered_lines)
-
-        # Clean up extra whitespace
-        cleaned_text = re.sub(r'\n\s*\n', '\n\n', cleaned_text)
-        cleaned_text = re.sub(r'\s+', ' ', cleaned_text)
-
-        return cleaned_text.strip()
-
-    def save_synthesis_content(self, doi: str, content: str, source_type: str) -> bool:
-        """
-        Save synthesis content to a text file.
-
-        Args:
-            doi: DOI of the paper
-            content: Synthesis content to save
-            source_type: 'supplementary' or 'main' to determine filename format
-
-        Returns:
-            True if saved successfully, False otherwise
-        """
-        if not content.strip():
-            return False
-
-        cleaned_doi = self.clean_doi(doi)
-        if not cleaned_doi:
-            print(f"Invalid DOI: {doi}")
-            return False
-
-        # Different filename formats based on source
-        if source_type == 'supplementary':
-            filename = f"{cleaned_doi}_synthesis.txt"
-        else:  # main text
-            filename = f"{cleaned_doi}_synthesis.txt"
-
-        output_path = self.output_folder / filename
-
-        try:
-            with open(output_path, 'w', encoding='utf-8') as f:
-                f.write(f"DOI: {doi}\n")
-                f.write(f"Source: {source_type}\n")
-                f.write("=" * 50 + "\n\n")
-                f.write(content)
-
-            print(f"Saved synthesis content for DOI {doi} to {filename}")
-            return True
-
-        except Exception as e:
-            print(f"Error saving synthesis content for DOI {doi}: {e}")
-            return False
-
-    def process_single_doi(self, doi: str) -> bool:
-        """
-        Process a single DOI to extract synthesis information.
-
-        Args:
-            doi: DOI to process
-
-        Returns:
-            True if synthesis content was found and saved, False otherwise
-        """
-        if not doi or pd.isna(doi):
-            return False
-
-        cleaned_doi = self.clean_doi(doi)
-        if not cleaned_doi:
-            return False
-
-        print(f"Processing DOI: {doi}")
-
-        # Step 1: Look for supplementary PDF
-        supplementary_pdf_name = f"{cleaned_doi}_supplementary.pdf"
-        supplementary_pdf_path = self.supplementary_pdf_folder / supplementary_pdf_name
-
-        synthesis_content = ""
-        source_type = ""
-
-        if supplementary_pdf_path.exists():
-            print(f"  Found supplementary PDF: {supplementary_pdf_name}")
-            pdf_text = self.extract_text_from_pdf(supplementary_pdf_path)
-
-            if pdf_text:
-                # Clean the supplementary PDF content to remove title, authors, contents, and captions
-                cleaned_pdf_text = self.clean_supplementary_pdf_content(pdf_text)
-                synthesis_section = self.extract_synthesis_section(cleaned_pdf_text)
-                if synthesis_section:
-                    synthesis_content = synthesis_section
-                    source_type = 'supplementary'
-                    print(f"  Found synthesis content in supplementary PDF")
-
-        # Step 2: If no synthesis found in supplementary PDF, look in main text files
-        if not synthesis_content:
-            print(f"  No synthesis content in supplementary PDF, checking main text files...")
-
-            # Try different possible text file names
-            possible_names = [
-                f"{cleaned_doi}.txt",
-                f"{doi.replace('/', '_')}.txt",
-                f"{doi.replace('/', '-')}.txt"
-            ]
-
-            main_text_path = None
-            for name in possible_names:
-                potential_path = self.main_text_folder / name
-                if potential_path.exists():
-                    main_text_path = potential_path
+            # Check if line matches synthesis section patterns
+            is_synthesis_header = False
+            for pattern in self.section_patterns:
+                if re.match(pattern, line_stripped):
+                    is_synthesis_header = True
                     break
 
-            if main_text_path:
-                print(f"  Found main text file: {main_text_path.name}")
-                main_text = self.read_text_file(main_text_path)
+            # Also check for keywords in the line
+            if not is_synthesis_header:
+                line_lower = line_stripped.lower()
+                for keyword in self.synthesis_keywords:
+                    if keyword in line_lower and len(line_stripped) < 200:  # Likely a header
+                        is_synthesis_header = True
+                        break
 
-                if main_text:
-                    synthesis_section = self.extract_synthesis_section(main_text)
-                    if synthesis_section:
-                        synthesis_content = synthesis_section
-                        source_type = 'main'
-                        print(f"  Found synthesis content in main text file")
-            else:
-                print(f"  No main text file found for DOI {doi}")
+            if is_synthesis_header:
+                # Save previous section if it was a synthesis section
+                if in_synthesis_section and current_section:
+                    section_content = '\n'.join(current_section).strip()
+                    if section_content and not self.is_reference_section(section_content):
+                        synthesis_sections.append(f"{section_title}\n{section_content}")
 
-        # Step 3: Clean and save synthesis content
-        if synthesis_content:
-            cleaned_content = self.clean_synthesis_text(synthesis_content)
-            if cleaned_content:
-                return self.save_synthesis_content(doi, cleaned_content, source_type)
+                # Start new section
+                current_section = []
+                in_synthesis_section = True
+                section_title = line_stripped
 
-        print(f"  No synthesis content found for DOI {doi}")
-        return False
+            elif in_synthesis_section:
+                # Check if we've reached a new major section (likely end of synthesis)
+                if (re.match(r'^\d+\.?\s+[A-Z]', line_stripped) and
+                        len(line_stripped) < 100 and
+                        not any(keyword in line_stripped.lower() for keyword in self.synthesis_keywords)):
+                    # This looks like a new section header, end synthesis section
+                    if current_section:
+                        section_content = '\n'.join(current_section).strip()
+                        if section_content and not self.is_reference_section(section_content):
+                            synthesis_sections.append(f"{section_title}\n{section_content}")
+                    in_synthesis_section = False
+                    current_section = []
+                else:
+                    current_section.append(line)
 
-    def process_all_dois(self) -> Tuple[int, int]:
-        """
-        Process all DOIs from the CSV file.
+        # Don't forget the last section
+        if in_synthesis_section and current_section:
+            section_content = '\n'.join(current_section).strip()
+            if section_content and not self.is_reference_section(section_content):
+                synthesis_sections.append(f"{section_title}\n{section_content}")
 
-        Returns:
-            Tuple of (successful_count, total_count)
-        """
+        return synthesis_sections
+
+    def extract_synthesis_from_text(self, text: str) -> str:
+        """Extract synthesis information from text"""
+        # Clean text first (remove figures, tables, references, etc.)
+        clean_text = self.clean_text_content(text)
+
+        # Find synthesis sections
+        synthesis_sections = self.find_synthesis_sections(clean_text)
+
+        if synthesis_sections:
+            return '\n\n'.join(synthesis_sections)
+
+        # If no clear sections found, look for paragraphs containing synthesis keywords
+        paragraphs = clean_text.split('\n\n')
+        synthesis_paragraphs = []
+
+        for paragraph in paragraphs:
+            paragraph_lower = paragraph.lower()
+            # Skip if this looks like a reference
+            if self.is_reference_section(paragraph):
+                continue
+
+            if any(keyword in paragraph_lower for keyword in self.synthesis_keywords):
+                if len(paragraph.strip()) > 50:  # Avoid very short matches
+                    synthesis_paragraphs.append(paragraph.strip())
+
+        return '\n\n'.join(synthesis_paragraphs)
+
+    def process_single_doi(self, doi: str) -> bool:
+        """Process a single DOI and extract synthesis information"""
+        clean_doi = self.clean_doi(doi)
+        if not clean_doi:
+            logger.warning(f"Invalid DOI: {doi}")
+            return False
+
+        logger.info(f"Processing DOI: {doi}")
+
+        # First, try to find supplementary PDF
+        supplementary_pdf = self.supplementary_pdf_folder / f"{clean_doi}_supplementary.pdf"
+        synthesis_content = ""
+        source = ""
+
+        if supplementary_pdf.exists():
+            logger.info(f"Found supplementary PDF: {supplementary_pdf}")
+            pdf_text = self.extract_text_from_pdf(supplementary_pdf)
+            if pdf_text:
+                synthesis_content = self.extract_synthesis_from_text(pdf_text)
+                source = "supplementary PDF"
+
+        # If no synthesis found in supplementary or no supplementary PDF, try main text
+        if not synthesis_content:
+            # Try different possible main text file extensions and naming conventions
+            possible_main_files = [
+                f"{clean_doi}.txt",
+                f"{clean_doi}_main.txt",
+                f"{clean_doi}_fulltext.txt"
+            ]
+
+            main_text_file = None
+            for filename in possible_main_files:
+                potential_file = self.main_text_folder / filename
+                if potential_file.exists():
+                    main_text_file = potential_file
+                    break
+
+            if main_text_file and main_text_file.exists():
+                logger.info(f"Found main text file: {main_text_file}")
+                try:
+                    with open(main_text_file, 'r', encoding='utf-8', errors='ignore') as f:
+                        main_text = f.read()
+                    synthesis_content = self.extract_synthesis_from_text(main_text)
+                    source = "main text file"
+                except Exception as e:
+                    logger.error(f"Error reading main text file {main_text_file}: {e}")
+
+        # Save synthesis content if found
+        if synthesis_content.strip():
+            output_file = self.output_folder / f"{clean_doi}_synthesis.txt"
+            try:
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    f.write(f"DOI: {doi}\n")
+                    f.write(f"Source: {source}\n")
+                    f.write("-" * 50 + "\n\n")
+                    f.write(synthesis_content)
+                logger.info(f"Saved synthesis content to: {output_file}")
+                return True
+            except Exception as e:
+                logger.error(f"Error saving synthesis file {output_file}: {e}")
+                return False
+        else:
+            logger.warning(f"No synthesis content found for DOI: {doi}")
+            return False
+
+    def process_csv(self):
+        """Process all DOIs from the CSV file"""
         try:
             # Read CSV file
             df = pd.read_csv(self.csv_file)
 
             if 'DOI' not in df.columns:
-                print("Error: 'DOI' column not found in CSV file")
-                return 0, 0
+                logger.error("CSV file must contain a 'DOI' column")
+                return
 
             dois = df['DOI'].dropna().unique()
-            total_count = len(dois)
-            successful_count = 0
+            logger.info(f"Found {len(dois)} unique DOIs to process")
 
-            print(f"Processing {total_count} unique DOIs...")
+            successful = 0
+            failed = 0
 
             for doi in dois:
-                if self.process_single_doi(doi):
-                    successful_count += 1
+                try:
+                    if self.process_single_doi(doi):
+                        successful += 1
+                    else:
+                        failed += 1
+                except Exception as e:
+                    logger.error(f"Error processing DOI {doi}: {e}")
+                    failed += 1
 
-            print(f"\nCompleted processing:")
-            print(f"  Total DOIs: {total_count}")
-            print(f"  Successfully processed: {successful_count}")
-            print(f"  Failed: {total_count - successful_count}")
-            print(f"  Output folder: {self.output_folder}")
-
-            return successful_count, total_count
+            logger.info(f"Processing complete. Successful: {successful}, Failed: {failed}")
 
         except Exception as e:
-            print(f"Error processing CSV file: {e}")
-            return 0, 0
+            logger.error(f"Error reading CSV file: {e}")
 
 
 def main():
-    """
-    Main function to run the catalyst synthesis parser.
-    Modify the paths below according to your folder structure.
-    """
-
     # Configuration - UPDATE THESE PATHS
     csv_file = "D:\\pycharm-project\\parser\\single-atom-nature.csv"  # Your CSV file with DOI column
     supplementary_pdf_folder = "D:\\pycharm-project\\parser\\new-try-20250523\\supplementary_pdfs"  # Folder with supplementary PDFs
     main_text_folder = "D:\\pycharm-project\\parser\\new-try-20250523\\articles_txt"  # Folder with main paper text files
-    output_folder = "D:\\pycharm-project\\parser\\new-try-20250523\\synthesis_outputs"  # Output folder for synthesis sections
+    output_folder = "D:\\pycharm-project\\parser\\new-try-20250523\\synthesis_outputs_after"  # Output folder for synthesis sections
 
-    # Verify input paths exist
-    if not os.path.exists(csv_file):
-        print(f"Error: CSV file '{csv_file}' not found")
-        return
-
-    if not os.path.exists(supplementary_pdf_folder):
-        print(f"Error: Supplementary PDF folder '{supplementary_pdf_folder}' not found")
-        return
-
-    if not os.path.exists(main_text_folder):
-        print(f"Error: Main text folder '{main_text_folder}' not found")
-        return
-
-    # Initialize and run parser
-    parser = CatalystSynthesisParser(
+    # Create extractor and process
+    extractor = CatalystSynthesisExtractor(
         csv_file=csv_file,
         supplementary_pdf_folder=supplementary_pdf_folder,
         main_text_folder=main_text_folder,
         output_folder=output_folder
     )
 
-    successful, total = parser.process_all_dois()
-
-    if successful > 0:
-        print(f"\nSuccess! Extracted synthesis information for {successful}/{total} papers.")
-        print(f"Check the '{output_folder}' folder for the results.")
-    else:
-        print("\nNo synthesis information could be extracted from any papers.")
+    extractor.process_csv()
 
 
 if __name__ == "__main__":

@@ -1,5 +1,856 @@
 DOI: 10.1038/s41563-019-0349-9
-Source: supplementary
-==================================================
+Source: supplementary PDF
+--------------------------------------------------
 
-Catalyst Preparation Our analysis focuses on catalysts synthesized using strong electrostatic adsorption (SEA) principles to deposit 0.025% wt. Pt on 5 nm diameter anatase TiO2 crystals, described previously.1 This loading corresponds to ~0.4 Pt atoms/TiO2 particle, ensuring that Pt cluster (or even dimer) formation is minimized. In a typical synthesis of 0.025 wt % Pt catalyst, 1 g of TiO2 was crushed, sieved to a powder finer than 75 µm, and dried in a vacuum oven at 120 °C overnight prior to synthesis. Twenty-five milliliters of deionized water was mixed with 75 mL of NH4OH to suspend the TiO2 support, resulting in a solution pH of 12.2. Separately, 10 mg of TAPN was dissolved in 5 mL of deionized water from which 300 µL were taken and added to 25 mL of NH4OH to create a precursor solution with a pH of 12.2. The 25 mL TAPN solution was injected over 12.5 hours into the support solution while constantly stirring to achieve a final total solution volume of 125 mL with a surface loading of 2900 m2/L. Following the slow precursor addition, the final solution was heated to 70 °C until completely dried. The catalyst was calcined in a tube furnace at 450 °C for 4 hours in flowing air after ramping up to temperature at a rate of 10 °C/min. The high temperature and extended duration of the calcination ensured removal of all remaining amine or nitrate ligands from the TAPN precursor, which are completely decomposed under these conditions. To ensure consistency, results were verified across synthesis batches, and the same batch of catalyst exhibited consistent behavior over the course of months. ICP-OES ICP-OES measurements were performed to quantitatively determine the accuracy of the SEA model at predicting metal uptake. A series of Pt/TiO2 catalysts with a target weight loading of 0.75% were identically prepared and then pH adjusted. For each catalyst, 1.71 mg of TAPN (corresponding to a final concentration of 25 ppm) was added to 6 mL of water. Separately, 100 mg of anatase TiO2 was dispersed in approximately 24 mL of water with microliter additions of acid or base to achieve the targeted pH under continuous stirring. The precursor solutions and corresponding support solutions were separately and continuously stirred overnight. To compensate for buffering effects, just prior to mixing, the pH of each support solution was checked and adjusted as necessary (no pH adjustment was found necessary for the precursor solutions). After combining a precursor-support solution pair, the final solution was allowed to mix for 1 hour. The final solution was then vacuum filtered using a 0.45 µm mixed cellulose ester membrane filter (Grainger, 14A842), and the filtrate was collected for analysis of the Pt concentration using inductively coupled plasma optical emission spectroscopy (ICP-OES). The difference between the theoretical maximum Pt concentration, and the concentration of Pt collected in the filtrate must equal the amount of Pt taken up by the support. Thus, the concentration of the filtrate provides a direct means of measuring the Pt uptake. A 1000 ppm Pt standard (Sigma-Aldrich, 19078) was purchased and a calibration standard series of five Pt concentrations was prepared ranging from 0 to 200 ppm for ICP-OES spanning across the maximum Pt concentration of 25 ppm. For each of the filtrates, Pt concentrations were obtained at three Pt optical emission lines, 203.6, 214.4, and 265.9 nm and an average of the expected Pt concentration was measured. Catalyst
+Extended Materials and Methods
+Supplementary Text
+Figures S1-S18
+-S5
+
+Extended Materials and Methods
+Materials
+High purity (99.995%) tetraammineplatinum(II) nitrate (TAPN) was purchased from Sigma-
+Aldrich (no. 482293) and used as the Pt precursor. Five nanometer diameter anatase TiO
+
+(99.5%) crystals with high surface area (290 m2/g) were purchased from US Research
+Nanomaterials (Stock no. US3838) and used as the support in this study. Reagent grade NH OH
+
+(28−30% concentration) used in catalyst synthesis was obtained from Acros Organics (no.
+423300250). SiO gel (Davisil grade 62, pore size 150 Å, 60−200 mesh, part no. 243981, Sigma-
+
+Aldrich) and acid purified SiO (SigmaAldrich, no. 84880) were used for catalyst
+
+coimpregnation and catalyst dilution, respectively. For the IR and steady-state reactivity
+experiments, the following gases were used: 10% H /Ar (±2%, Airgas), He (UHP, 99.999%,
+
+Airgas), 10% O /He (±2%, Airgas), and 10% CO/ He (±2%, Airgas) in an Al tank to prevent
+
+metal carbonyls from entering reactant streams.
+
+Catalyst Preparation
+Our analysis focuses on catalysts synthesized using strong electrostatic adsorption (SEA)
+principles to deposit 0.025% wt. Pt on 5 nm diameter anatase TiO crystals, described
+
+previously.1 This loading corresponds to ~0.4 Pt atoms/TiO particle, ensuring that Pt cluster (or
+
+even dimer) formation is minimized.
+In a typical synthesis of 0.025 wt % Pt catalyst, 1 g of TiO was crushed, sieved to a powder
+
+finer than 75 µm, and dried in a vacuum oven at 120 °C overnight prior to synthesis. Twenty-five
+milliliters of deionized water was mixed with 75 mL of NH OH to suspend the TiO support,
+4 2
+resulting in a solution pH of 12.2. Separately, 10 mg of TAPN was dissolved in 5 mL of
+deionized water from which 300 µL were taken and added to 25 mL of NH OH to create a
+
+precursor solution with a pH of 12.2. The 25 mL TAPN solution was injected over 12.5 hours
+into the support solution while constantly stirring to achieve a final total solution volume of 125
+mL with a surface loading of 2900 m2/L. Following the slow precursor addition, the final
+solution was heated to 70 °C until completely dried.
+The catalyst was calcined in a tube furnace at 450 °C for 4 hours in flowing air after ramping up
+to temperature at a rate of 10 °C/min. The high temperature and extended duration of the
+calcination ensured removal of all remaining amine or nitrate ligands from the TAPN precursor,
+which are completely decomposed under these conditions. To ensure consistency, results were
+verified across synthesis batches, and the same batch of catalyst exhibited consistent behavior
+over the course of months.
+ICP-OES
+ICP-OES measurements were performed to quantitatively determine the accuracy of the SEA
+model at predicting metal uptake. A series of Pt/TiO catalysts with a target weight loading of
+
+0.75% were identically prepared and then pH adjusted. For each catalyst, 1.71 mg of TAPN
+(corresponding to a final concentration of 25 ppm) was added to 6 mL of water. Separately, 100
+mg of anatase TiO was dispersed in approximately 24 mL of water with microliter additions of
+
+acid or base to achieve the targeted pH under continuous stirring. The precursor solutions and
+corresponding support solutions were separately and continuously stirred overnight. To
+compensate for buffering effects, just prior to mixing, the pH of each support solution was
+checked and adjusted as necessary (no pH adjustment was found necessary for the precursor
+solutions). After combining a precursor-support solution pair, the final solution was allowed to
+mix for 1 hour. The final solution was then vacuum filtered using a 0.45 µm mixed cellulose
+ester membrane filter (Grainger, 14A842), and the filtrate was collected for analysis of the Pt
+concentration using inductively coupled plasma optical emission spectroscopy (ICP-OES). The
+difference between the theoretical maximum Pt concentration, and the concentration of Pt
+collected in the filtrate must equal the amount of Pt taken up by the support. Thus, the
+concentration of the filtrate provides a direct means of measuring the Pt uptake. A 1000 ppm Pt
+standard (Sigma-Aldrich, 19078) was purchased and a calibration standard series of five Pt
+concentrations was prepared ranging from 0 to 200 ppm for ICP-OES spanning across the
+maximum Pt concentration of 25 ppm. For each of the filtrates, Pt concentrations were obtained
+at three Pt optical emission lines, 203.6, 214.4, and 265.9 nm and an average of the expected Pt
+concentration was measured.
+Catalyst Characterization
+FTIR experiments were carried out in a diffuse reflectance reaction chamber (Harrick Scientific)
+equipped with ZnSe windows, mounted inside a Praying Mantis diffuse reflectance adapter
+(Harrick Scientific), and coupled to a Thermo Scientific Nicolet iS10 FTIR spectrometer with a
+liquid-nitrogen-cooled HgCdTe (MCT-A) detector. During measurements the FTIR and Praying
+Mantis diffuse reflection accessory were purged with dry N . In a typical experiment, the reactor
+
+was loaded with approximately 80 mg of pure α-Al O support, followed by 25 mg of calcined
+2 3
+catalyst packed on top of the inert support. The catalyst was pretreated in-situ in 50 sccm of a
+10% H /Ar at 250 °C (mild reduction), 450 °C (harsh reduction) or 100% O at 300 °C
+2 2
+(oxidation) for 1 hour prior to analysis. All feed gases were passed through a desiccant and liquid
+nitrogen cold trap to remove any humidity prior to the reaction chamber – this was critical for
+obtaining clean and consistent spectra.
+Upon completion of the pretreatment, once the catalyst had cooled to room temperature, the
+system was evacuated to ~ -85 kPa and cooled to -140 °C using liquid nitrogen. A background
+spectrum was then collected before introducing a flow of 10% CO in Ar for 10 minutes. The CO
+stretching intensity was found to saturate well before 10 minutes. At that point, CO flow was
+replaced by Ar under a mild vacuum. Under cryogenic temperatures, CO was also observed
+adsorbed to Ti cations, however this CO desorbed at temperatures significantly lower than the
+CO adsorbed to Pt . Sequential spectra were taken as the catalyst returned to ambient
+iso
+temperature during a linear temperature ramp.
+Redhead analysis was used to estimate the adsorption energy of CO on Pt catalysts. Assuming
+iso
+CO desorption is a first order process the activation energy for desorption is given by:
+𝑣𝑇
+!"#
+𝐸 = 𝑅𝑇 [ln −3.46]
+!"# !"# 𝛽
+Where 𝐸 is the activation energy of desorption, which is approximately equal to the
+!"#
+adsorption energy if adsorption is not activated, 𝑅 is the gas constant, 𝑇 is the peak maximum
+!"#
+temperature, 𝑣 is the pre-exponential factor, and 𝛽 is the heating rate 𝑑𝑇/𝑑𝑡. Temperature
+programmed desorption (TPD) experiments were performed using a relatively slow ramp rate,
+β= 10 °C/min, which enabled collection of high quality FTIR spectra at closely spaced
+temperatures. A numerical derivative of the change in intensity as a function of temperature was
+then taken. The local maxima of the numerical derivative is a measure of the rate at which CO
+desorption is highest and corresponds to the temperature of peak desorption. This is discussed in
+more detail in a recent paper from our group.2 A value of 1015 s-1 was used here for 𝑣 based on
+justification in previous studies.3,4
+CO adsorption energies estimated using this analysis on mildly and harshly reduced Pt /TiO
+iso 2
+were 84 kJ/mol and 115-145 kJ/mol, respectively, see . In the case of the oxidized
+catalyst, CO evolution was observed to occur simultaneously with CO desorption initiating at -
+
+110 ˚C, and thus a CO adsorption energy was not estimated, . It was observed that after
+CO evolution, no adsorption on CO on the Pt species could be observed, but that low
+2 iso
+temperature CO evolution could be regenerated by re-oxidation of the catalyst, .
+
+A temperature programmed reduction (TPR) experiment was performed separately to determine
+the effect of the pretreatment conditions on the anatase TiO support. In this experiment, 90 mg
+
+of a 1% Pt/TiO catalyst was degassed in Ar for 30 min at 150 °C and calcined for 1 hour at 450
+
+°C in pure O . The catalyst was then cooled to 50 °C and ramped to 450 °C in 10% H /Ar at a
+2 2
+ramp rate of 10 °C/min. The results are presented in , which shows a desorption feature
+at 150 °C corresponding to reduction of Pt and a second feature at ~350 °C corresponding to
+reduction and hydroxylation of the anatase TiO support after hydrogen spillover from the Pt,
+
+consistent with the changes observed by the in-situ microscopy between and 2C.
+Electron Microscopy
+Aberration-corrected scanning transmission electron microscopy (AC-STEM) was performed on
+a JEOL Grand ARM300CF microscope equipped with two spherical aberration correctors,
+operated at 200 kV. High angle annular dark field (HAADF)-STEM images were recorded using
+a convergence semi-angle of 22 mrad, and inner- and outer- collection angles of 83 and 165
+mrad, respectively. To minimize beam irradiation, a very small beam current (<10 pA) was used
+for imaging while the acquisition time was always controlled less than 12 second for each frame.
+The in situ STEM experiment was performed in a Protochips Atmosphere gas cell system, which
+allows for dynamic observation of nanomaterials heated under atmospheric pressure inside a
+transmission electron microscope.
+The thickness of TiO may vary due to the nanoparticle morphology. For example, in the
+
+HAADF-STEM image in , the thickness of TiO is increasing towards the top-right,
+
+which causes the maxima of Ti to increase. Since our aim is to emphasize that there is a local
+intensity maximum at the Pt atom, two additional intensity line scans, close to the Pt atom
+region, are added for a further confirmation, as shown in . In addition to the line scan #1
+mentioned in the manuscript, line scan #2 is now collected from a parallel direction from the
+TiO region adjacent to line #1. As shown in panel c, it is clear that the normalized intensity of
+
+Ti columns are consistent with the Ti sites in the result of line scan #1, and a very slight increase
+is due to the thickness increment of the TiO nanoparticle. Furthermore, another intensity line
+
+scan (#3) is collected from the perpendicular direction to line #1, as shown in panel d.
+Obviously, the Pt single atom can be directly visualized in the intensity profile, confirming the
+existence of the Pt single atom as highlighted in the yellow circle.
+X-ray Absorption Spectroscopy (XAS) Measurements
+XAS spectra were collected at beam line 9-3 at the Stanford Synchrotron Radiation Lightsource
+(SSRL) at SLAC National Laboratory. In the experiments, 16 mg of 0.025% Pt/TiO was diluted
+
+in mesoporous silica (MCM-41) loaded into 2.4 mm OD flow-through, quartz tube held placed at
+a 45° angle relative to the X-ray beam.5 Fluorescence XAS measurements were collected using a
+Canberra 100-element Ge detector orthogonal (90°) to the beam path with 4-layers of Al foil to
+filter Ti fluorescence lines, as well as lead shielding to minimize contributions of scattering from
+beamline optics. In-situ extended X-ray absorption fine structure (EXAFS) measurements
+consisted of 4-6 scans collected at 200 °C once the sample had reached steady state, following
+three pretreatment conditions (300 °C in 5% O /He, 250 °C in 5% H /He, and 450 °C in 5%
+2 2
+H /He) and in CO oxidation reaction conditions immediately following pretreatment also at 200
+
+°C (equimolar 1% CO, 1% O , balance He). Multiple scans at each condition allowed for
+
+averaging to improve signal-to-noise. A Pt foil reference was scanned simultaneously for energy
+calibration.
+The raw data were processed using the Athena interface of the Demeter software package.6 The
+spectra were energy-calibrated, merged and normalized. The EXAFS was extracted in k-space
+and Fourier-transformation was conducted on the k2-weighted EXAFS function (k = 3.0–12.0 Å-
+1) to amplify the oscillations at high k-values. Phase shifts and amplitudes for relevant back-
+scattering paths were calculated using FEFF6. EXAFS modeling was carried out on an R-range
+of 1.2-4.0 Å taking into account k , k , and k -weighting using the Artemis interface of the
+1 2 3
+Demeter software. S 2 was determined to be 0.78 ± 0.04 for the Pt L -edge from fitting Pt foil
+0 3
+(). According to the Nyquist criterion, a maximum of 16 parameters can be extracted
+from the EXAFS data in these ranges respectively. The EXAFS data from all the catalysts were
+modeled simultaneously to minimize errors.
+Kinetic Control and Reactivity Experimental Details
+The effect of catalyst pretreatment on the reactivity of Pt sites for CO oxidation was
+iso
+investigated through steady-state measurements executed under strict kinetic control. The
+catalysts were oxidized at 350 °C for 30 min, followed by reduction for 1 hour in 20 sccm of
+pure H at either 250 °C or 450 °C or oxidation at 300 °C. Then a feed of 1% CO, 1% O , and
+2 2
+98% He at 200 °C was flowed over the catalyst for 12 hours to reach steady-state reactivity,
+although steady state was reached much faster than this. Temperature dependent measurements
+were then taken with the same feed composition at temperatures between 150 °C and 200 °C, for
+2 hours at each temperature.
+As CO oxidation is an exothermic reaction, temperature and concentration gradients may
+develop during reactivity measurements. To ensure differences in catalytic behavior between
+materials after different pretreatments were due to kinetic effects, rather than differences in local
+temperature or reactant concentration at the catalyst surface, volumetric dilution studies were be
+performed. We used dilution studies after 450 °C reduction to demonstrate that the measured
+activity for this catalyst was not a result of heat or mass transport limitations. Dilution studies
+after mild reduction can be found in our previous work.1 CO oxidation rates were measured on
+0.025 wt % Pt/TiO catalysts reduced at 450 °C, diluted with SiO at varying mass ratios
+2 2
+(SiO :catalyst ratio 8-40). No systematic trend in reactivity was observed with varying dilution
+
+ratio, indicating that the rates measured here were taken under kinetic control, . The
+reactivity of all dilution ratios is significantly different than the observed activity after 250 °C
+reduction. These studies show that differences in activity between the catalysts are of kinetic
+origins, rather than a result of mass and heat transport limitations.
+Partial pressure dependent measurements were executed at 200 °C. The total flow rate for all
+partial pressure measurements was kept constant using a balance of He. The CO partial pressure
+dependence was run first, beginning with the highest CO feed ratio. A 1% O feed was used for
+
+all CO partial pressure measurements. At the start and end of each feed ratio, the reactants were
+flowed for 20 min bypassing the reactor to get a baseline signal in the mass spec. In between
+baseline measurements, reactants were flowed across the catalyst bed for a period of 2 hours to
+obtain a steady state signal. Immediately following the lowest CO feed composition, while still at
+200 °C, the O partial pressure dependent measurements began with the highest O feed ratio
+2 2
+following a 40 min bypass period. A 1% CO feed was used for all O partial pressure
+
+measurements. The alternating bypass/reactor cycle continued for steady state measurements
+with sequentially decreasing O feed composition and constant CO pressure.
+
+DFT Computational methods
+Spin polarized periodic density functional theory (DFT) calculations were performed using the
+Vienna Ab-initio Simulation Package (VASP).7 The Perdew-Burke-Ernzerhof (PBE) generalized
+gradient approximation (GGA) was used.8 The self-interaction error inherent in DFT calculations
+has been partly corrected using the DFT+U approach where the Hubbard’s U parameter is
+empirically set to 3 eV.9 The Projector Augmented Wave (PAW)10,11 method was used and the
+valence electrons explicitly treated are: Ti(3s2, 3p6, 3d2, 4s2), Pt (5p6, 5d9, 6s1), O (2s2, 2p4), C
+(2s2, 2p2) and H (1s1). We used plane wave basis set with cutoff energy of 400 eV and the
+calculation was done at the gamma point. The optimized structures were considered converged
+when the ionic forces are <0.01 eV/Å.
+We adopted the models of (3 × 1) and (2 × 1) supercell slabs including five-atomic layers for the
+anatase TiO or the stepped TiO surfaces, respectively. The corresponding formulas
+2 2
+are Ti O and Ti O . A vacuum of more than 15 Å is used to avoid the interaction between
+60 120 88 176
+slabs.12 The TiO surface terminates with two types of Ti cations, 5-fold coordinated Ti
+
+(Ti ) and 6-fold coordinated Ti (T ), located lower than Ti , and two types of O anions, 2-fold
+5c 6c 5c
+coordinated O sites (O ) and 3-fold coordinated O sites (O ).
+2c 3c
+The CO adsorption energies were calculated as the difference between isolated species and the
+adsorption complexes. Positive values indicate stable adsorbed species. The CO frequencies
+were computed within the harmonic approximation, in which CO and its first neighboring atoms
+were considered in the calculation. In gas phase, the CO bond length (1.144 Å) and stretching
+frequency (2125 cm-1) are obtained at the PBE level. A scaling factor α = 2143/2125 = 1.0085
+has been applied to all frequencies to take into account the difference with respect to the
+experimental CO frequency in gas phase (2143 cm-1). The effective charge of Pt atoms was
+evaluated by using Bader approach which is proposed by Henkelman et al.13–16
+A thorough description of DFT calculations for a Pt atom, (Pt) , a PtO unit, (PtO) , a PtO
+ads ads 2
+unit, (PtO ) , and a Pt atom substitutional to Ti, (Pt) , or to O, (Pt) , in the lattice of the a-
+2 ads subTi subO
+TiO and a-TiO can be found in our recent paper.2 In addition to the structures
+2 2
+reported in our previous study, various models of hydrogenated PtO complexes were used to
+x
+describe the Pt structure formed following harsh reduction, see -S16. CO adsorption
+iso
+properties were used as a tool to test the validity of proposed structures in comparison to
+experimental FTIR measurements, .
+Supplementary Text
+Modeling Pt Uptake
+In , a MATLAB code developed in-house based upon the RPA model17–20 was run to
+predict the expected Pt uptake as a function of pH for the 5 nm anatase TiO crystals used in this
+
+study (relatively neutral PZC value of pH = 6). The model is a measure of the potential felt by
+the Pt ion as it approaches the surface based on a Langmuir isotherm model where the
+equilibrium constant is calculated by solely using the Coulombic Gibbs free energy of the
+adsorption of the precious metal to the oxide support. From it is seen that for anatase
+TiO a relatively broad range of basic pH values should optimize Pt uptake. This was
+
+quantitatively corroborated by back calculating Pt uptake on the support by ICP-OES
+measurements of the filtrate concentrations (see ICP-OES methodology). The experimental and
+theoretical uptake curves show agreement and that basic solutions (pH = 8-12) are expected to be
+optimal for the production of highly dispersed Pt catalysts for 5 nm anatase TiO crystals.
+
+Description of reaction mechanism for CO oxidation on Pt/TiO catalysts
+
+The reaction orders measured were nearly identical following mild and harsh reduction, and are
+consistent with previous studies of CO oxidation on metal clusters on reducible supports.21–23
+The mechanism proposed for these materials is of the Mars-Van Krevlen type, involving
+activated O dissociation at the interface between the metal and the support. A probable sequence
+
+of elementary steps were combined to develop a microkinetic model that yielded a rate
+expression consistent with the observed zero order reaction order in CO and fractional (~0.5)
+dependence in oxygen, see . Note that while the O order appears to be ½ across the
+
+probed range, the functional form of the dependence is not strictly ½, see below.
+1. * + * -O ↔ * -O + *
+Pt Ti Pt Ti
+2. 2 [* -O + CO ↔ CO + * ]
+Pt (g) 2(g) Pt
+3. * +O ↔ * -O
+Ti 2(g) Ti 2
+4. * + * -O → * -O + * –O (Proposed Rate Limiting Step)
+Pt Ti 2 Ti Pt
+5. * +CO ↔ * -CO
+Pt (g) Pt
+Here, * is a vacant Pt site and * is an oxygen vacancy site in TiO . Applying the pseudo-
+Pt iso Ti 2
+steady state approximation in which all steps but the assumed rate-limiting step are quasi-
+equilibrated, site balances on Pt and the neighboring Ti atom were used to derive the following
+rate expression:
+𝟏 𝟏
+𝑹𝒂𝒕𝒆 = 𝒌 ∗ ∗
+𝟒 𝑷 𝟏 𝟏 𝑲 𝑲 𝑷 𝑷
+𝟏+ 𝑪𝑶𝟐 + 𝑲 𝑷 𝟏+ + 𝟑 𝟒 ∗ 𝑶𝟐 𝑪𝑶
+𝑷 𝑲 𝟓 𝑪𝑶 𝑲 𝑷 𝑲 𝑷
+𝑪𝑶 𝟐 𝟑 𝑶𝟐 𝟐 𝑪𝑶𝟐
+Two assumptions were made to simplify the rate expression. The first was that Pt sites were
+iso
+nearly bare, evidenced by the lack of CO stretch observed in-situ in IR. The second assumption
+was that the approach to equilibrium was small. This gave the following simplified rate
+expression:
+𝟏 𝟏
+𝑹𝒂𝒕𝒆 = 𝒌 ∗ ∝
+𝟒 𝟏 𝟏
+𝟏+ 𝑲 +
+𝑲 𝑷 𝟑 𝑷
+𝟑 𝑶𝟐 𝑶𝟐
+Kinetic studies were run over two orders of magnitude, which still showed a zero order
+dependence in CO and an apparent half order in oxygen when linearized. Plotting the rates over a
+larger range showed good agreement with the model and suggested the elementary steps
+proposed were reasonable (). We note that a more complete analysis of the relative kinetic
+contributions of individual elementary steps can be obtained through a degree of rate control
+analysis, and future work will investigate how changes to atomically dispersed catalyst structures
+and reaction conditions influence the degree of rate control of individual steps.24
+Effects of the electron beam on TEM imaging
+In order to minimize effects of the electron beam during STEM imaging, a very small probe
+current (<10 pA) was used for both ex situ or in situ STEM imaging. Typical probe currents for
+normal STEM imaging are between 50-100 pA.25,26 Meanwhile, the magnification was always
+kept below 6.0 M and the acquisition time was controlled less than 12 seconds to reduce the
+electron dose. Considering the imaging condition (a pixel dwell time of 12 µs/pixel and a pixel
+size of 0.08 Å2) of our STEM observation, the electron dose we used was less than 1×104 e/Å2,
+which is about 2 orders of magnitude lower than typical values for atomic-resolution STEM
+imaging. According to the experimental evidence, the Pt single atoms and the anatase TiO
+
+support were stable, and no obvious irradiation damage was found.
+For the in-situ STEM experiment, the electron beam was turned off except during image
+collection. Moreover, additional experiments were carried out to compare images of the same
+area before and after an exposure to electron beam during image acquisition. Here, is an
+image taken after the 30-min reducing treatment under 250 ˚C, showing the position of a Pt
+single atom on the TiO support, as indicated by the yellow circle. Then, one more image was
+
+taken at the time of 31 min during this process, using the same imaging condition, as shown in
+. Apparently, no obvious motion of this Pt atom was observed according to the
+comparison between Figs. S9a and S9b, confirming that the beam condition we used did not
+introduce the movement of Pt single atoms on the TiO surface. Furthermore, shows an
+
+image of the same area after an additional 30-min harsh reducing treatment under 450 ˚C, during
+which the electron beam was turned off. Clearly, the reducing treatment at a higher temperature
+caused motion of this Pt single atom. However, the Pt single atom remained stable in the next
+image (see ) taken at the time of 31 min of the harsh reducing treatment, demonstrating
+that electron beam irradiation (under our imaging condition) did not trigger the motion of Pt
+single atoms. Therefore, these results rule out the possible artifact from the electron beam effect,
+and the observed Pt atom motion in our in-situ experiment was indeed caused by the harsh
+reducing treatment.
+X-Ray Absorption Spectroscopy Characterization
+XANES spectra were calculated using FEFF9.9.127 on geometry-optimized Pt models from DFT
+calculations. Self-consistent field radii of around 3.5 Å, corresponding to 2 coordination shells
+and full multiple-scattering radii of around 9.5 Å were used with the final-state core-hole rule for
+the absorber. The COREHOLE NONE card was used.
+The stoichiometry of the atoms, which is critical for calculating the Fermi energy, was set to
+account for a Pt:TiO ratio of 1:9000 as expected in 0.025 wt.% Pt/TiO . The atoms of the
+2 2
+ligands and support in the vicinity of the Pt absorber (C and O of carbonyl group, O’s at distinct
+locations within ca. 2.3 Å of Pt) were assigned individual potentials and their stoichiometry
+adapted to that of the absorber. Ti and O further away from the absorber were assigned the 1:2
+stoichiometry of TiO and non-absorber Pt the lowest stoichiometry possible (0.001) to make
+
+their contribution negligible. Pt L -edge XANES spectra were calculated for all DFT-optimized
+
+Pt/TiO configurations described above and shown in 
+2 ads 2
+excellent agreement to observed characteristics for mildly reduced Pt /TiO . Agreement was
+iso 2
+found between vibrational frequencies (2121 cm-1 calculated, 2112 cm-1 experimentally
+observed), adsorption energy of CO (103 kJ/mol calculated, 84 kJ/mol measured), and structural
+features (Pt being in line with Ti cation columns when observed along the axis, ,
+and local coordination derived from EXAFS, Tables S1, S2). Good agreement was also found for
+calculated characteristics of (PtO ) at the TiO step site and experimental results,
+2 ads 2
+although with a weaker CO adsorption energy of 50 kJ/mol. As calculated CO binding energies
+are systematically overestimated, this structure agrees less well with the experiments than the
+(PtO ) on terrace sites, however, from the EXAFS fits, the coordination numbers for Pt-O and
+2 ads
+Pt-Ti seem to match better for the step site than the terrace.
+Calculations of CO adsorbing to Pt species replacing a Ti atom at the bottom of the step
+iso 6c
+edge, or on the terrace, both showed barrierless CO formation, in agreement with
+
+observations for the oxidized Pt /TiO ( and S5). The substituted position is vertically in
+iso 2
+line with (PtO ) at step and terrace locations, so both are consistent with the lack of lateral
+2 ads
+motion observed for Pt species between oxidation and mild reduction conditions via in-situ
+iso
+STEM. From the EXAFS fits (Tables S1, S2), the coordination numbers for Pt-O and Pt-Ti seem
+to match the step and terrace sites equally well, but the average experimental Pt-O bond distance
+of 1.99 Å matches the step site model (1.97-2.04 Å Pt-O bond distances) better than the terrace
+site model (2.02-2.08 Å Pt-O bond distances). We hypothesized based on these analyses that the
+Pt atom sits primarily at TiO step sites following oxidation and mild reduction pre-treatments.
+
+Determining the location of Pt atom following harsh reduction began with the (PtO ) complex
+2 ads
+as a starting point, as this structure was found to accurately represent the catalyst after mild
+reduction. The most stable structures identified following hydrogenation were a PtOH species,
+(PtOH) , and a Pt(OH) species, [Pt(OH) ] , although alternative possibilities were also
+ads 2 2 ads
+investigated. Each stable structure was considered on both terrace and stepped 
+anatase TiO sites, -16. Of the stable structures identified, the (PtOH) species, ads
+S13, S15, are most likely. Due to the breaking of a Pt-O bond from (PtO ) , this species is
+2 ads
+expected to be less strongly coordinated to the support and more mobile, consistent with the in-
+situ microscopy. The calculated CO binding strength to the (PtOH) complex is 184 kJ/mol
+ads
+(terrace) and 210 kJ/mol (step); stronger than the CO-Pt bond strength in (PtO ) , consistent
+2 ads
+with TPD measurements, whereas [Pt(OH) ] has similar (terrace) and much lower (step) CO
+2 ads
+E values ().
+ads
+The oxidation state of Pt is another clue: in (PtOH) , it is clearly lower than on (PtO ) ,
+ads 2 ads
+consistent with the reduced white line intensity in XANES measurements , but
+[Pt(OH) ] is predicted to have the same oxidation state as (PtO ) . The CO stretching
+2 ads 2 ads
+frequency is significantly red-shifted, with Δω , CO frequency shift with respect to the gas
+e
+phase, of -56 or -75 cm-1for the terrace and step (PtOH) structures compared to -22 cm-1 for
+ads
+(PtO ) identified as the structure under mild reduction conditions. These shifts correspond to a
+2 ads
+calculated vibrational frequency of 2087 cm-1(terrace) and 2068 cm-1 (step) in good agreement
+with the experimentally measured band positions following harsh reduction of 2077 cm-1 and
+2050 cm-1 for terrace and step sites respectively.
+From these analyses, the 6-fold coordinated Pt after oxidative pre-treatment, (PtO ) after
+subTi 2 ads
+mild reduction and (PtOH) ( and S15) after harsh reduction are the model structures
+ads
+with the best agreement to experimental measurements. Comparison of the experimental XANES
+spectra to the fits of these DFT-proposed structures for both terraces () and steps () showed the best agreement compared to the other structures. Because no evidence favors
+one site type for the (PtOH) species following harsh reduction, we defer to the broadness of
+ads
+the CO stretch in the IR and the existence of 2 clear bands to suggest the co-existence of
+(PtOH) at both terrace and steps, as depicted in 
+Theoretical methods are widely used to obtain electron density maps of materials, after which a
+variety of methods are used to partition electron density from these maps into an assignment of
+partial atomic charges. However, there is no unambiguous way to assign ionic charge in a solid
+and each method has its own limitations. One common approach is the Bader charge analysis,
+which identifies charge density minima surfaces as a way to separate atoms in a solid.29
+Similarly, assignments of formal oxidation state based on experimental techniques have limits
+based on the experimental method and material system. For example, ascribing a linear
+relationship between oxidation state and white line intensity based on XAS measurements is
+complicated by the fact that the absorption probability depends on the structure of the density of
+states above the metal Fermi level, and has been shown to be influenced by cluster size or choice
+of support for Pt materials of the nominally same oxidation state.30,31 Likewise, direct
+unambiguous assignment of oxidation state based on CO vibration frequency in probe molecule
+experiments in not possible, as frequencies have been shown to be impacted by other factors
+besides oxidation state, including metal local coordination.32 For these reasons, while exact
+values of charge state on Pt cations for different pretreatments depended on the experimental or
+computational method used for estimation, the observed relative trends in atomic charge on the
+Pt are in good agreement with a reduction in the cationic charge state observed following
+increasingly harsh reduction. Estimates of charge state on Pt following different pretreatments
+using white line intensity from XAS measurements, DFT derived Bader charge, and formal
+oxidation states are summarized in Tables S2 and S3.
+
+0 2 4 6 8 10 12 14
+.
+Experimental and theoretical Pt uptake on anatase TiO . In black, the experimentally determined
+
+Pt uptake on the support is shown, which was calculated from filtrate concentrations measured
+by ICP-OES. In red, the RPA model was run with the parameters for anatase TiO , including a
+
+PZC of 6.
+ekatpU
+tnecreP
+ICP-­‐OES Uptake
+RPA Model
+pH
+0.05
+0.04
+0.03
+0.02
+0.01
+0.00
+2250 2150 2050 1950
+.
+Temperature dependent spectral series of CO adsorbed to the Pt catalyst regenerated after
+iso
+harsh reduction by oxidative treatments. To demonstrate Pt /TiO catalysts remained atomically
+iso 2
+dispersed following the harsh reduction (1hr at 450 °C in 50sccm H ), the catalyst was
+
+regenerated. The regeneration procedure was a two-part oxidative treatment: first, an ex-situ
+calcination (4 hr at 450 °C in air following a 10 °C/min ramp), then an in-situ 30 min oxidation
+at 300 °C in 10% O /Ar) as identically performed for the freshly synthesized catalyst
+
+characterized following mild oxidation. The catalyst was probed by CO IR at -140 oC and the IR
+spectra were consistent with the freshly oxidized catalyst. The low temperature desorption of CO
+is unique to Pt compared to small Pt clusters, where oxidation induces the formation of Pt O
+iso x y
+structures that strongly adsorb CO (with desorption not occurring until > 200 oC).1 Absorption
+features at wavenumbers above 2150 cm-1 are due to CO adsorption on the TiO support.
+
+)u.a(
+ecnabrosbA
+2130 cm-­‐1 -­‐90°C
+2112 cm-­‐1
+-­‐70°C
+-­‐30°C
+-­‐5°C
+0°C
+15°C
+Wavenumber (cm-­‐1)
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+2150 2130 2110 2090 2070 2050 2030 2010
+.
+Temperature dependent IR spectra collected during temperature programmed desorption for each
+of the three pretreatments corresponding directly to 
+reduction showing lower relative intensity due to the broader CO stretches (i.e. Pt existing as 2
+iso
+less homogeneous, unique states).
+ecnabrosbA
+dezilamroN
+300°C 250°C 450°C -­‐100 °C
+Oxidation Reduction Reduction -­‐75 °C
+-­‐50 °C
+-­‐25 °C
+0 °C
+25 °C
+50 °C
+75 °C
+100 °C
+Wavenumber (cm-­‐1)
+0.40
+0.30
+0.20
+0.10
+0.00
+-­‐0.10
+2425 2350 2275 2200
+.
+Spontaneous CO evolution upon CO adsorption for oxidized Pt /TiO catalysts. (a) Following
+2 iso 2
+CO adsorption at -140 ˚C, for oxidized Pt /TiO , CO evolution is observed to occur at -110 ˚C.
+iso 2 2
+CO evolution is evidenced by an IR band at 2350 cm-1 for CO (g). (b) Simultaneously CO
+2 2
+desorption was observed initiating at the same temperature suggesting CO on the Pt atom is the
+origin of CO .
+
+)u.a(
+ecnabrosbA
+0.04
+(a) (b)
+-­‐110 °C
+-­‐100 °C
+2350 cm-­‐1 -­‐90 °C 2130 cm-­‐1
+-­‐80 °C 0.03
+-­‐70 °C
+-­‐65 °C
+-­‐50 °C
+-­‐45 °C
+0.02
+-­‐25 °C
+0.01
+0.00
+2250 2200 2150 2100 2050
+Wavenumber (cm-­‐1) Wavenumber (cm-­‐1)
+0.35 0.050
+0.25
+2130 cm-­‐1
+0.15 0.025
+0.05
+-­‐0.05 0.000
+2400 2300 2200 2250 2200 2150 2100
+Wavenumber (cm-­‐1)
+.
+Regeneration of oxidized Pt sites following CO evolution. Following an initial oxidizing
+iso 2
+pretreatment (green), CO evolution occurred simultaneously with CO desorption over Pt /TiO ,
+2 iso 2
+. After CO evolution, no adsorption of CO on the Pt species could be observed after
+2 iso
+cooling to cryogenic temperatures (red). Re-oxidation of the catalyst (blue) regenerated the
+initial state enabling CO adsorption and low temperature CO evolution was again observed.
+
+)u.a(
+ecnabrosbA
+(a) Initial Oxidation (b)
+2nd Cryo-­‐CO saturation
+Re-­‐Oxidation
+2350 cm-­‐1
+Wavenumber (cm-­‐1)
+.
+Dilution study for 450 °C reduced catalyst. CO oxidation rates measured on 0.025 wt % Pt/TiO
+
+catalysts reduced at 450 °C, diluted with SiO at varying mass ratios (SiO : catalyst ratio 8-40).
+2 2
+No trend in reactivity is observed with varying dilution ratio, indicating that the rates measured
+here were taken under kinetic control. The catalysts are indicated by the mass of active catalyst
+added to SiO gel during coimpregnation, which was further diluted with sand.
+
+.
+CO and O Partial Pressure Dependent Rate Data for Pt /TiO catalysts. Catalysts were
+2 iso 2
+prereduced at (a,b) 250 °C and (c,d) 450 °C.
+
+0.0001 0.001 0.01 0.1 1
+.
+Microkinetic model fitting of the rate data taken at 200 °C. Agreement between the average CO
+oxidation rate data plotted as a function of oxygen pressure over two orders of magnitude (black
+dots) and the microkinetic model fitting (solid red line) suggests the microkinetic model is valid.
+A comparison between the fitted equilibrium rate constant for O adsorption at an oxygen
+
+vacancy in TiO K3, suggests O adsorption is favored with an estimated heat of adsorption of -
+2, 2
+60 kJ/mol (the prefactor used to estimate this was derived from measurements of O adsorption
+
+on oxygen vacancies on rutile TiO ), in agreement with DFT calculations of O adsorption at
+2 2
+oxygen vacancies on anatase TiO , where the adsorption energy was calculated to be ~73
+
+kJ/mol.33 Experimental measurements of O adsorption to oxygen vacancies on rutile TiO
+2 2
+exhibit much stronger adsorption energies than on anatase TiO , -162 kJ/mol, and as a result the
+
+magnitude of the predicted equilibrium constant, K3, for rutile TiO would be significantly
+
+higher (14 orders of magnitude) than observed here or predicted for anatase TiO .4 In comparing
+
+with the rutile case, quantitative accuracy is not expected given: differences in the O
+
+adsorption at oxygen vacancies in rutile and anatase TiO , the known differences in surface
+
+versus bulk segregation in anatase and rutile TiO 33,34and the influence that a Pt atom next to
+2,
+an oxygen vacancy could have on the O adsorption process.
+
+)1-­‐
+g·∙1-­‐s·∙lom(
+etaR
+tP
+Fitted Rate Constants
+k4 (mol·∙s-­‐1·∙g -­‐1) 9.8E-­‐4
+Pt
+K3 (atm) 80
+O Pressure (atm)
+
+.
+In-situ STEM result showing negligible electron beam effect of image acquisition on the motion
+of the Pt species. (a,b) In-situ HAADF-STEM image of Pt /TiO after a reducing treatment
+iso iso 2
+under 250 ˚C. Yellow circles highlight the Pt single atoms. (c,d) In-situ HAADF-STEM images
+of Pt /TiO after a harsh reducing treatment at 450 ˚C.
+iso 2
+.
+EXAFS spectra in k-space of 0.025% Pt/TiO at 200°C after 3 pretreatments and during CO
+
+oxidation following the 3 pretreatments. Experimental data (black) and fits (red), corresponding
+to Fourier-transform EXAFS data in 
+for the normalization.
+.
+AC-STEM characterization of Pt /TiO along the zone axis. (a) Atomic-scale HAADF-
+iso 2
+STEM image of the Pt /TiO along the <001> zone axis. Yellow circles highlight the Pt single
+iso 2
+atoms with a higher Z-contrast. (b) Intensity profile taken from the line indicated by the yellow
+arrow in (a). (c) Atomic model of anatase TiO (left panel) and the projection along <001> zone
+
+axis only showing Ti sites (right panel).
+.
+(PtOH) (top) and CO adsorbed (bottom) on (PtOH) on terrace site of a-TiO surface
+ads ads 2
+with side view (left) and top view (right). Ti, O, Pt, C, H atoms are blue, red, white, gold and
+light-pink spheres, respectively.
+.
+(Pt(OH) ) (top) and CO adsorbed (bottom) on (Pt(OH) ) on terrace site of a-TiO 
+2 ads 2 ads 2
+surface with side view (left) and top view (right). Ti, O, Pt, C, H atoms are blue, red, white, gold
+and light-pink spheres, respectively.
+.
+(PtOH) and CO adsorbed (bottom) on (PtOH) on step site of a-TiO surface with side
+ads ads 2
+view (left) and top view (right). Ti, O, Pt, C, H atoms are blue, red, white, gold and light-pink
+spheres, respectively.
+.
+(Pt(OH) ) (top) and CO adsorbed (bottom) on (Pt(OH) ) on step site of a-TiO surface
+2 ads 2 ads 2
+with side view (left) and top view (right). Ti, O, Pt, C, H atoms are blue, red, white, gold and
+light-pink spheres, respectively.
+.
+FEFF9.9.1 calculations of the (a) experimental XANES spectra based on DFT predicted
+structures. The models used to simulate spectra for harsh reduction, mild reduction, and
+oxidation were (PtOH) , (PtO ) and Pt substitutionally replacing Ti on the (b) TiO 
+ads 2 ads 6c 2
+terrace and (c) TiO step. Qualitative trends between the predicted XANES spectra and the
+
+experimental ones are apparent.
+.
+TPR profile (β= 10 °C/min) of 1% Pt/TiO reveals structural changes (i.e. hydroxylation) to the
+
+support induced by hydrogen spillover between 250 °C and 450 °C. This effect is more
+pronounced on a higher loading catalyst where there are more total interfacial sites for hydrogen
+spillover and would have been more difficult to discern on the 0.025 %wt Pt catalyst by TPR.
+iso
+.
+EXAFS fits for Pt /TiO catalysts following different pretreatments. S 2 value was set to 0.8, σ2
+iso 2 0
+values were shared among back-scatterers of the same type. For spectra after reduction at 250°C,
+σ2 and ΔE were set.
+
+Pretreatment Path d [Å] 2 2 2 ΔE [eV] R-factor
+CN x S σ [Å ]
+
+0 [%]
+300°C Oxidation Pt-O 1.99 ± 0.09 6.0 ± 0.7 0.004 ± 0.001 7.5 ± 1.1 2.9
+Pt-Ti 3.05 ± 0.02 6.1 ± 2.4 0.016 ± 0.006
+Pt-Ti 3.89 ± 0.04 6.6 ± 3.4 0.016 ± 0.006
+250°C Reduction Pt-O 1.90 ± 0.05 1.2 ± 0.6 0.008 9 13
+Pt-O 2.10 ± 0.05 1.7 ± 0.7 0.008
+Pt-Ti 2.65 ± 0.02 2.9 ± 1.0 0.014
+Pt-Ti 3.00 ± 0.05 2.0 ± 1.4 0.014
+Pt-Ti 3.55 ± 0.08 1.4 ± 1.4 0.014
+450°C Reduction Pt-O 1.91 ± 0.03 1.6 ± 1.0 0.008 ± 0.007 7.9 ± 4.9 1.5
+Pt-O 2.16 ± 0.05 2.1 ± 1.9 0.008 ± 0.007
+Pt-Ti 2.65 ± 0.03 5.9 ± 4.4 0.014 ± 0.006
+Pt-Ti 2.97 ± 0.03 3.1 ± 3.2 0.014 ± 0.006
+Pt-Ti 3.59 ± 0.08 1.6 ± 1.0 0.014 ± 0.006
+.
+Formal Pt oxidation state, CO adsorption energy (E , eV), C-O bond length (R , Å), C-Pt
+ads CO
+distance (R , Å), Bader charge of Pt (Q |e|), scaled harmonic CO stretching frequency (ω ,cm-1)
+CPt e
+and frequency shift with respect to the gas-phase (cm-1) for CO adsorption on Pt moieties on a-
+TiO terrace sites and a-TiO step sites.
+2 2
+CO E (CO) R R Q ω Δω
+System ads CO CPt e e
+site (kJ/mol) (Å) (Å) (|e|) (cm-1) (cm-1)
+Terrace sites
+(Pt) (TiO ) a Pt0 286 1.164 1.811 +0.17 2064 -79
+ads 2 60
+(PtO) (TiO ) a PtI 295 1.157 1.824 +0.88 2102 -41
+ads 2 60
+(PtOH) (TiO ) b PtI 184 1.160 1.819 +0.85 2087 -56
+ads 2 60
+(PtO ) (TiO ) a PtII 103 1.152 1.858 +1.19 2121 -22
+2 ads 2 60
+[Pt(OH) ] (TiO ) b PtII 97 1.160 1.847 +0.77 2065 -78
+2 ads 2 60
+(Pt) (Ti O )a Pt-II 110 1.161 1.899 -0.51 2029 -114
+subO2c 60 119
+(Pt) (Ti O )a PtIV 167 1.146 1.876 +1.48 2148 +5
+subTi5c 59 120
+(Pt) (Ti O ) PtIV - - - +1.50 - -
+subTi6c 59 120
+Step sites
+(Pt) (TiO ) a Pt0 264 1.163 1.808 +0.08 2072 -71
+ads 2 88
+(PtO) (TiO ) a PtI 281 1.155 1.837 +0.82 2101 -42
+ads 2 88
+(PtOH) (TiO ) b PtI 210 1.162 1.821 +0.83 2068 -75
+ads 2 88
+(PtO ) (TiO ) a PtII 50 1.153 1.852 +1.32 2107 -36
+2 ads 2 88
+[Pt(OH) ] (TiO ) b PtII 9 1.148 2.707 +0.84 2090 -53
+2 ads 2 88
+(Pt) (Ti O )a PtIV 170 1.146 1.881 +1.43 2146 +3
+subTi5c 87 176
+(Pt) (Ti O )a PtIV 181 1.146 1.877 +1.43 2148 +5
+subTi5c 87 176
+(Pt) (Ti O ) PtIV - - - +1.55 - -
+subTi6c 87 176
+a()
+bThis work
+.
+Oxidation state estimation based on XAS white line intensities. Correspondence between white
+line intensity and oxidation state made based on reference compounds of known oxidation state.
+This relationship was used to estimate oxidation states for Pt /TiO following exposure to
+iso 2
+different pretreatment and reaction conditions.
+Reference compounds Normalized white line height Pt oxidation state
+H Pt(OH) 2.36 4
+2 6
+Pt(acac) 1.71 2
+
+Pt foil 1.24 0
+Pt /TiO Normalized white line height Estimated Pt oxidation state
+iso 2
+Oxidation 300°C 1.94 2.6
+Reduction 250°C 1.26 0.2
+(Reduction 450°C) (1.16) (-0.2)
+CO ox. after oxidation 300°C 1.77 2.0
+CO ox. after reduction 250°C 1.53 1.1
+CO ox. after reduction 450°C 1.25 0.2
+.
+Coordination numbers and bond distances from DFT predicted models of Pt/TiO structures.
+
+Model Path d [Å] CN
+Pt (terrace) Pt-O 2.02-2.08 6
+subTi6c
+Pt-Ti 2.88-3.20 4
+Pt (step) Pt-O 1.97-2.04 6
+subTi6c
+Pt-Ti 3.00-3.12 4
+PtO (terrace) Pt-O 1.82-1.87 3
+
+Pt-Ti 2.87-3.57 4
+Pt-O 2.88-3.23 3
+PtO (step) Pt-O 1.83-2.13 4
+
+Pt-Ti 2.88-3.27 2
+Pt-O 3.06-3.38 3
+PtOH (terrace) Pt-O 1.99-2.02 2
+Pt-O 2.34 1
+Pt-Ti 2.67-3.65 3
+Pt-O 2.87-3.67 3
+PtOH (step) Pt-O 2.02-2.15 3
+Pt-Ti 2.80-3.45 3
+Pt-O 3.06-3.68 4
+.
+EXAFS fitting parameters for the Pt foil.
+Sample Path d [Å] CN σ2 [Å2] ΔE [eV] R-factor
+
+[%]
+Pt foil Pt-Pt 2.77 ± 0.00 12 x (0.78 ± 0.04) 0.004 ± 0.000 8.1 ± 0.4 0.2
+References for Supporting Information

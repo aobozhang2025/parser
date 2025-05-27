@@ -1,5 +1,753 @@
 DOI: 10.1038/s41586-025-08684-x
-Source: supplementary
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of the nanosized CeAlO 3 phase We show below our approach to synthesize nanosized crystals of CeAlO 3 (~25 nm crystal size) starting with the 50% ceria/aumina support (CeAl50) that we have used in this work. By aging the sample in the presence of reactants at 900 °C, we did not observe the formation of CeAlO 3. However, treatment at 1,150 °C led to complete transformation of ceria into ~ 25nm CeAlO 3 crystals as evidenced by XRD and microscopy The fraction of Ce3+ and Ce4+ was determined by two different methods (described below). Note: CeO 2 has a very small pre -edge peak (5.719 keV) and 3 peaks at 5.7241, 5.7280 and 5.7352 keV (ChemPhysChem 2016, 17, 3494 – 3503); Ce3+ has a single peak at lower energy. Also, as an L 3 edge, the XANES shape and energy is dependent on the exact number of bonds and bond distance to the absorbing atom. Thus, determination of a Ce3+ XANES from this oxide is necessary to get a more precise XANES fit for the composition. Previously, many papers use Ce(NO 3)3 x H 2O for Ce3+ XANES fitting; however, these oxides likely have a different CN and R, thus, a better choice is a Ce3+ from the phase that is present. L3 Ce XANES from 5.68 -5.75 keV for Ce 4+ and Ce3+ CeA08 Oxides CeAl08 CeO 2 (Ce4+ as received) CeAl08 Ce 2O3 NOTE: The Ce3+ CA08 oxide was obtained by: 1) The fraction of Ce4+ (0.34) in the reactively 900 °C CeAl08 aged sample reduced in H 2 400 C was determined by the ratio of the height of the peak in both samples at 5.7352 keV where there is no peak in Ce3+ samples; 2) The XANES of the Ce4+ CeAl08 (as received) sample, was multiplied by 0.34 and subtracted from the C eAl08 aged sample reduced in H 2 400 C sample; and 3) The difference XANES spectrum, i.e., Ce3+ CeAl08 oxide, which represents 66% of the Ce in the sample, was normalized by dividing by 0.66. Note: CeO 2 has a very small pre -edge peak (5.719 keV) and 3 peaks at 5.7241, 5.7280 and 5.7352 keV (ChemPhysChem 2016, 17, 3494 – 3503); Ce3+ is a single peak at lower energy. 1. CA08 as is XANES energy shape, EXAFS and higher shells are identical to the CeO 2 Standard a. CeO 2 has a very small pre -edge peak (5.719 keV) and 3 peaks at 5.7241, 5.7280 and 5.7352 keV ( Physica Scripta 2005, T115, 802 –806; ChemPhysChem 2016, 17, 3494 – 3503) b. CeAl08 has the same 4 peaks as CeO 2 at the same energies; this is used at the Ce4+ XANES reference. c. Method 1: Ce3+ compounds do not have a XANES peak at 5.7352 keV (see reference literature compounds). The fraction of Ce4+ was determined from the height of this peak (above the normalized edge step) compared to that for CeO 2 (CeAl08). d. Method 2: A Ce3+ reference for this oxide was determine by determining the fraction of Ce4+ for sample C eAl08 aged reduced at 400 °C in H 2. The ratio of the heights (method 1) gave 34% Ce4+. The XANES of C eAl08 was multiplied by 0.34 and subtracted from CA08 aged reduced at 400 °C in H 2. The difference file gave no peak at 5.7352 keV indicating all the Ce4+ had been removed from the spectrum. The resulting XANES was due to 66% of the Ce in the sample. This Ce3+ XANES was normalized by dividing the spectrum by 0.66 and used as a C e3+ CeAl08 oxide to fit the other mixed valent state CA08 oxides. e. The fraction of Ce3+ in the other samples was determined by a linear combination of the Ce3+ and Ce4+ CA08 oxides. There is a n agreement between these two methods in estimating the relative fractions of Ce 3+ and Ce 4+ (the only two oxidation states of ceria in our samples) for various C eAl08 samples.
+Catalyst synthesis
+Heterogeneous catalysis
+Abstract
+Ceria nanoparticles supported on alumina are widely used in various catalytic reactions, particularly in conjunction with platinum group metals (PGMs)
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+. Here we found that treating these catalysts at temperatures between 750 and about 1,000 °C in the presence of CO and NO in steam (reactive treatment under reducing atmosphere) leads to the dispersion of ceria nanoparticles into high-density 2D (roughly one atomic layer thin) Ce
+x
+O
+y
+domains, as confirmed by microscopy, X-ray photoelectron spectroscopy (XPS), X-ray absorption spectroscopy (XAS), infrared spectroscopy and density functional theory (DFT) calculations. These domains, which densely cover the alumina, exhibit substantially enhanced oxygen mobility and storage capacity, facilitating easier extraction of oxygen and the formation of Ce
+3+
+sites and oxygen vacancies. As a result, these catalysts—whether with or without PGMs, such as Rh and Pt—show improved activity for several industrially important catalytic reactions, including NO and N
+
+O reduction, as well as CO and NO oxidation, even after exposure to harsh ageing conditions. This study shows a catalyst architecture with superior redox properties under conditions that typically cause sintering, offering a pathway to more efficient metal–ceria catalysts for enhanced general catalysis.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Partially sintered copper‒ceria as excellent catalyst for the high-temperature reverse water gas shift reaction
+Article
+Open access
+
+Methods
+Materials
+We purchased cerium nitrate hexahydrate with purity 99.999% from Sigma. Commercially available SBA-90 gamma alumina with surface area 90 m
+
+g
+−1
+was used for the synthesis of 5 wt% ceria/alumina sample. Commercial samples with nominal 8% and 50% ceria supported on gamma alumina were supplied by BASF. Commercial sample with about 25 wt% ceria–zirconia on alumina (zirconia to ceria weight ratio approximately 60:40) was supplied by BASF. Commercial pure gamma alumina powder with surface area about 180 m
+
+g
+−1
+was supplied by BASF.
+Polyhedral ceria nanoparticles were prepared by decomposing cerium nitrate in the muffle furnace at 650 °C (referred to as standard ceria nanoparticles).
+To prepare the loadings of Rh on supports of 0.1 wt% and 0.5 wt%, the desired amount of Rh precursor (rhodium nitrate hydrate; Sigma) was dissolved in the minimum amount of water (total volume approximately equivalent to the pore of support) and added with a micropipette to the desired amount of sample while continuously stirring with the spatula to ensure uniformity. The obtained powder was dried under N
+
+flow at 80 °C and then calcined at 600 °C for 1 h in a normal muffle furnace with a ramp rate of 5 °C min
+−1
+. The as-prepared Rh-containing catalysts were pressed, crushed and sieved to 60–80 mesh.
+
+The analogous synthesis method was used to prepare the desired amounts of Pt on supports: platinum tetramine nitrate (from Sigma) was used as a Pt precursor.
+Catalytic experiments
+Catalytic experiments were conducted in a plug-flow reactor system with powder samples (120 mg, 60–80 mesh) loaded in a quartz tube, using a synthetic gas mixture containing 460 ppm of NO and 1,750 ppm of CO balanced with N
+
+at a flow rate of 300 sccm (corresponding to gas hourly space velocity (GHSV) 150 l (g h)
+−1
+) in the presence of 2.6% water vapour. CO oxidation experiments were performed in the presence of 620 ppm CO, 14% O
+
+and 2.6% H
+
+O balanced with nitrogen. All of the gas lines were heated to more than 100 °C. Concentrations of reactants and products were measured by an online MKS MultiGas 2030 FTIR Gas Analyzer with a gas cell maintained at 191 °C. Two four-way valves were used for gas switching between the reactor and the bypass. The heating rate was 4 K min
+−1
+.
+We performed hydrothermal ageing with oxygen (HTA) at the desired temperature for 5 h (unless noted otherwise in the text) in a flow reactor with GHSV ≈ 150 l (g h)
+−1
+. The gas mix, used for HTA, contained air and 10% H
+
+O.
+We performed reactive HTA treatment at the desired temperature in the presence of CO, NO, nitrogen and 10% H
+
+O with GHSV ≈ 150 l (g h)
+−1
+for 5 h (unless noted otherwise in the text).
+We conducted CO and NO oxidation on 1 wt% Pt/CeAl08 using a gas mixture of about 250 ppm NO, about 650 ppm CO, 10% O
+
+, about 3% H
+
+O, balanced with N
+
+at GHSV ≈ 150 l (g h)
+−1
+. Treatments were performed at GHSV ≈ 150 l (g h)
+−1
+with a fresh catalyst for 1 h. Reactive HTA treatment at 800 °C was with 450 ppm NO, 2,000 ppm CO and 10% H
+
+O. HTA treatment at 800 °C was with 10% O
+
+/10% H
+
+O/N
+
+. A light-off curve was also obtained after exposing the catalyst to reducing treatment with CO at 375 °C (for 30 min), as it was previously shown to improve the CO oxidation reactivity of Pt/ceria catalysts. CO oxidation activity was the best for reactive-treated sample. NO oxidation activity was the best for reactive-treated sample.
+We performed N
+
+O reduction by CO activity of the 0.5 wt% Rh/CeAl08 sample after reactive HTA (800 °C) and HTA (800 °C) for 1 h for either high-temperature treatment. Concentrations: 500 ppm N
+
+O, about 2,000 ppm CO, about 3% H
+
+O, balanced with N
+
+. GHSV ≈ 150 l (g h)
+−1
+.
+Characterization
+We conducted Brunauer–Emmett–Teller (BET) surface-area analysis on a Micromeritics ASAP 2000 instrument with Ar as the adsorbate. Before analysis, the samples were dehydrated under vacuum for 3 h at 250 °C.
+Microscopy samples were dispersed in ethanol and mounted on holey carbon grids for examination in a JEOL NeoARM 200CF transmission electron microscope equipped with spherical aberration correction to allow atomic resolution imaging and an Oxford AZtec Energy Dispersive Spectroscopy system for elemental analysis (for microscopy imaging at the University of New Mexico). The microscope is equipped with two large-area JEOL EDS detectors for higher throughput in the acquisition of X-ray fluorescence signals. Images were recorded in annular dark field (ADF) mode and in annular bright field (ABF) mode.
+We performed microscopy analysis at Pacific Northwest National Laboratory (PNNL) with a FEI Titan 80-300 microscope operated at 300 kV. The instrument is equipped with a CEOS GmbH double-hexapole aberration corrector for the probe-forming lens, which allows for imaging with 0.1 nm resolution in STEM mode. HAADF-STEM images were acquired with a HAADF detector with inner collection angle set to 52 mrad.
+We performed XPS experiments using a Physical Electronics Quantera scanning X-ray microprobe. This system uses a focused monochromatic Al Kα X-ray (1,486.7 eV) source for excitation and a spherical section analyser. The instrument has a 32-element multichannel detection system. The 80-W X-ray beam focused to 100 μm diameter was rastered over a 1.1 × 0.1-mm rectangle on the sample. The X-ray beam was incident normal to the sample and the photoelectron detector was at 45° off-normal. High-energy-resolution spectra were collected using a pass energy of 69.0 eV with a step size of 0.125 eV. Note that the samples experienced variable amounts of charging. Low-energy electrons at about 1 eV, 20 μA and low-energy Ar
++
+ions were used to minimize this charging. The samples were loaded into the XPS cell after certain treatments in the flow-through reactor. After hydrothermal and reactive treatments, the samples were taken out of the reactor (exposed to ambient air) and then transferred to the XPS cell.
+We collected XRD patterns on a Rigaku SmartLab SE X-ray diffractometer using a Cu–Kα radiation of 0.154056 nm (40 kV and 44 mA) and a D/teX Ultra 250 1D detector. Data were collected from a powder sample holder in a 2
+θ
+range 2–100°, with a step size of 0.01° s
+−1
+. All measurements were performed under ambient conditions. Rietveld fitting was carried out using TOPAS (v6; Bruker AXS) with all atomic coordinates fixed. The contribution from Al
+
+O
+
+was modelled using the structure by Zhou and Snyder.
+We performed
+
+Al magic angle spinning (MAS) NMR spectroscopy using a 14.1-T Bruker NMR. At this field strength, the corresponding
+
+Al Larmor frequency is 156.375 MHz. Spectra were acquired using a MASDVT600W2 BL2.5 X/Y/H probe at room temperature. Spectra were acquired following a single direct excitation pulse, with a total collection of 512 transients and an acquisition time of 9.9 ms. A delay between transients of 0.5 s was used and the excitation pulse was a single, π/20 liquid-state pulse of 0.450-μs duration. The liquid-state pulse widths are referenced by nutation experiments performed on a 1 M Al(H
+
+O)
+
+3+
+solution, which was prepared by means of dissolution of aluminium chloride hexahydrate (AlCl
+
+·6H
+
+O, ≥99%;, Sigma-Aldrich) in H
+
+O. The chemical shifts of the
+
+Al MAS NMR spectra are also referenced to this 1 M
+\({{\rm{Al}}({{\rm{H}}}_{2}{\rm{O}})}_{6}^{3+}\)
+solution, for which the resonance of the reference solution was assigned to 0 ppm. The
+
+Al MAS NMR spectra were collected at a MAS spin rate of 20 kHz. The MAS NMR spectra were then processed in Mestrenova (version 14.01-23,559, released 2019-06-07; Mestrelab Research S.L.), in which the free induction decay was zero-filled once to 18.8 ms and then 5 Hz of exponential line broadening was applied.
+We conducted the in situ transmission infrared experiments in a home-built cell housed in the sample compartment of a Bruker VERTEX 80 spectrometer, equipped with a mercury cadmium telluride detector and operated at 4 cm
+−
+
+resolution. The powder sample was pressed onto a tungsten mesh, which—in turn—was mounted onto a copper heating assembly attached to a ceramic feedthrough. The sample could be resistively heated and the sample temperature was monitored by a thermocouple spot-welded onto the top centre of the W grid. The cold finger on the glass bulb containing CO was cooled with liquid nitrogen to eliminate any contamination originating from metal carbonyls, whereas NO was cleaned with several freeze–pump–thaw cycles. Before spectrum collection, a background with the sample in the infrared beam was collected. Each spectrum reported is obtained by averaging 64 scans.
+We conducted in situ XAS measurements in transmission mode at the 10-BM-B beamline at the Advanced Photon Source of Argonne National Laboratory at the Ce LIII edge (5.723 keV) to determine the Ce oxidation state and coordination environment. Data were collected at room temperature in He for the as-received samples and after heating in 5% H
+
+/He at 400 °C for 30 min and cooling to room temperature in He. Trace oxidants were removed from the He by an Oxy-Trap. All samples were ground into a fine powder, pressed into a six-shooter sample holder and sealed in a sample cell with Kapton end caps. Energy calibration was done using a Mn foil (K edge, 6.539 keV). XAS data were fit using WinXAS 3.1. Linear combination fitting from 5.68 to 5.75 keV of X-ray absorption near edge structure (XANES) was used to estimate the fraction of Ce
+3+
+and Ce
+4+
+, respectively, using CeO
+
+and Ce(NO
+
+)
+
+·6H
+
+O references. Fits of the EXAFS data were obtained on the isolated, k2-weighted EXAFS spectra. Least-squares regression of the Fourier transform data from 2.5 to 10.0 Å
+−
+
+in k-space was used to obtain the fitting parameters. All samples were fit using experimental Ce–O phases and amplitude functions using a CeO
+
+standard with eight Ce–O at 2.34 Å.
+Theoretical methods
+We performed periodic DFT + U calculations using the Perdew-Wang 1991 (PW91) functional
+
+,
+
+, as implemented in the Vienna Ab initio Simulation Package (VASP)
+
+,
+
+,
+
+,
+
+. The U parameter was set to 4.0 eV (refs.
+
+,
+
+). The valence wave functions were expanded to a plane-wave basis with energy cut-off of 415 eV. For the description of core–valence electron interactions, pseudopotentials within the projector augmented wave (PAW) approach were used
+
+. The Brillouin zone was sampled using the Γ point only
+
+. All structures that contain reduced ceria species and/or NO molecules were optimized in spin-polarized fashion.
+We used a crystal structure of bulk γ-Al
+
+O
+
+with space group P21/m and unit cell parameters:
+a
+= 5.587 Å,
+b
+= 8.413 Å,
+c
+= 8.068 Å and
+β
+= 90.59 Å, according to 
+. In our slab model surface, we used double unit cell size in all directions, as the bulk structure was cut perpendicular to direction
+a
+. The parameters of the optimized unit cell are
+a
+= 11.046 Å,
+b
+= 16.650 Å and
+c
+= 16.016 Å and contain a further 10-Å vacuum space in direction
+a
+. The slab model contains 64 Al
+
+O
+
+units (320 atoms).
+The binding energy (BE) per NO adsorbate was calculated as: BE = [−
+n
+× E(NO) − E(CeO
+
+/Al
+
+O
+
+) + E(
+n
+NO/CeO
+
+/Al
+
+O
+
+)]/
+n
+, in which E(NO) is the total energy of the NO adsorbate in the gas phase (ground state), E(CeO
+
+/Al
+
+O
+
+) is the total energy of the pristine substrate and E(
+n
+NO/CeO
+
+/Al
+
+O
+
+) is the total energy of the substrate together with the NO adsorbates in the optimized geometry. With the above definition, negative values of BE imply a favourable interaction. To address the experimental findings, we have modelled four CeO
+
+species located close to each other on Al
+
+O
+
+, Ce
+
+O
+
+. Notably, removal of O
+
+(creation of two O vacancies) from this structure and formation of Ce
+
+O
+
+/Al
+
+O
+
+ is exothermic by about 1 eV. We also modelled a Ce
+
+O
+
+cluster adsorbed on the Al
+
+O
+
+ and calculated the reaction energies of two formal reactions of its decomposition to fragments involving four cerium ions.
+With four Ce
+3+
+cations, model Ce
+
+O
+
+/Al
+
+O
+
+ (Supplementary 
+):
+$${{\rm{Ce}}}_{12}{{\rm{O}}}_{24}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}+2\times {{\rm{Al}}}_{2}{{\rm{O}}}_{3}\to {3{\rm{Ce}}}_{4}{{\rm{O}}}_{6}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}+{3{\rm{O}}}_{2}$$
+The process is strongly exothermic by 12.09 eV (about 1 eV per Ce
+3+
+cation).
+With two Ce
+3+
+and two Ce
+4+
+cations, model Ce
+
+O
+
+/Al
+
+O
+
+ (Supplementary 
+):
+$${{\rm{Ce}}}_{12}{{\rm{O}}}_{24}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}+2\times {{\rm{Al}}}_{2}{{\rm{O}}}_{3}\to {3{\rm{Ce}}}_{4}{{\rm{O}}}_{7}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}+{1.5{\rm{O}}}_{2}$$
+The process is exothermic by 17.52 eV (about 1.46 eV per cerium cation).
+Complexes with small amount of NO
+NO/Ce
+
+O
+
+complexes
+We also considered NO adsorption on Ce
+
+O
+
+/Al
+
+O
+
+, on which four Ce
+3+
+cations exist, and on Ce
+
+O
+
+/Al
+
+O
+
+ systems, on which two Ce
+3+
+and two Ce
+4+
+cations are present. The second system allows the possibility for NO oxidization to NO
++
+, which will be accompanied by the reduction of Ce
+4+
+to Ce
+3+
+. However, in none of the considered examples was such possibility realized. In both cases, when only one NO molecule is adsorbed, it interacts with three cerium cations (N interacts with two cerium cations, whereas O atom interacts with one). In NO/Ce
+
+O
+
+/Al
+
+O
+
+, these three cerium cations are in oxidation state +3, whereas the fourth cerium cation, which does not interact with the NO, is oxidized to Ce
+4+
+, which means that the NO molecule is reduced to NO
+−
+. The binding of NO in that complex is strong, BE(NO) = −1.98 eV. In NO/Ce
+
+O
+
+/Al
+
+O
+
+, NO interacts with two Ce
+4+
+and one Ce
+3+
+cations. This leads to lower binding energy of NO, −1.10 eV. The N–O vibrational frequencies in the two cases are 1,428 and 1,488 cm
+−
+
+(Supplementary 
+).
+2NO/Ce
+
+O
+
+complexes
+We considered five different complexes 2NO/Ce
+
+O
+
+, in which the two NO molecules are located close to the same cerium ion. In the most stable ones, there is a bond between the N atoms of the NO ligands, thus hyponitrite ONNO moiety is formed. Those complexes are considered as possible intermediates for N
+
+O formation during deNOx processes. There are two Ce
+3+
+and two Ce
+4+
+centres in these structures, thus hyponitrite should be dianions, [ONNO]
+2−
+. The BE values per NO molecule in the two most stable structures are high, −2.56 and −2.44 eV, and the bonding of the hyponitrite moiety is similar (Supplementary 
+). The highest calculated vibrational frequencies are at 1,342–1,318 and 1,014–1,001 cm
+−
+
+, which are close to the regions reported earlier for such types of hyponitrites on ceria
+
+.
+Complexes with large amount of NO
+12NO/Ce
+
+O
+
+/Al
+
+O
+
+ and 7NO/Ce
+
+O
+
+/Al
+
+O
+
+ complexes
+We also considered the Ce
+
+O
+
+/Al
+
+O
+
+ structure, on which initially three NO ligands per each Ce
+3+
+cation were adsorbed, for example, the 12NO/Ce
+
+O
+
+/Al
+
+O
+
+ model. After the geometry optimization, Ce
+3+
+(NO)
+
+, Ce
+4+
+(NO)
+
+and Ce
+3+
+(NO)
+
+complexes were formed, whereas nitrite species are found at the fourth Ce
+3+
+cation and, also, one of the NO ligands is very weakly interacting with it. To check the stability and oxidation state of cerium cations in the trinitrosyl and tetranitrosyl complexes, we also studied the 7NO/Ce
+
+O
+
+/Al
+
+O
+
+ structure, in which two of the cerium ions are in 3+ and the other two are in 4+ oxidation states (Supplementary 
+). Initially, the oxidation state of both cerium ions, at which the NO ligands were coordinated, was +3, but after optimization of the cation involved in the tetranitrosyl complex, it was oxidized to +4. Thus, Ce
+3+
+(NO)
+
+and Ce
+4+
+(NO)
+
+complexes are formed. The obtained dinitrosyl, trinitrosyl and tetranitrosyl complexes have N–O vibrational frequencies at 1,846, 1,797, 1,763, 1,727, 1,718, 1,675, 1,656, 1,648 and 1,638 cm
+−
+
+in the structure with 12 NO molecules and 1,889, 1,840, 1,799, 1,751, 1,716, 1,703 and 1,680 cm
+−
+
+in the structure with seven NO ligands. These frequencies cover the range of our experimental bands, 1,898–1,752 cm
+−
+
+(Supplementary 
+).
+The adsorption of four and 12 NO molecules on the structures Ce
+
+O
+
+/Al
+
+O
+
+ and Ce
+
+O
+
+/Al
+
+O
+
+, respectively, was also modelled (Supplementary 
+). We initially put one NO molecule per each Ce
+3+
+cation in the 4NO/Ce
+
+O
+
+/Al
+
+O
+
+ model; however, after the geometry optimization, one NO migrated to the neighbouring cerium cation and thus a dinitrosyl complex was formed. The following stretching frequencies for the NO ligands were calculated: 1,763, 1,718, 1,690 and 1,627 cm
+−
+
+.
+We considered several initial structures for the 12NO/Ce
+
+O
+
+/Al
+
+O
+
+ model, such as: one NO molecule per each Ce
+4+
+cation; one trinitrosyl complex and nine mononitrosyls; two trinitrosyl complexes and six mononitrosyls; one tetranitrosyl and eight mononitrosyls; six dinitrosyl complexes. However, during the geometry optimization, spontaneous desorption of some of the NO molecules was observed. Only in the case of six dinitrosyl complexes are all 12 NO molecules bound to the cerium cations, although part of the NO ligands interact more weakly with cerium cations with respect to the situation with the 4NO/Ce
+
+O
+
+/Al
+
+O
+
+ structure. For comparison, the Ce–N bond lengths in the 4NO/Ce
+
+O
+
+/Al
+
+O
+
+ model are 250–256 pm, whereas in the case of 12NO/Ce
+
+O
+
+/Al
+
+O
+
+, the corresponding values are 262–279 pm, as one bond is much longer (292 pm). The weaker adsorption could also be concluded from the substantial decrease of the average binding energy of the NO ligands from −1.02 eV to −0.57 eV for the 4NO/Ce
+
+O
+
+/Al
+
+O
+
+ and 12NO/Ce
+
+O
+
+/Al
+
+O
+
+ models, respectively. The calculated frequencies of the N–O stretching vibrations for the dinitrosyl complexes in the 12NO/Ce
+
+O
+
+/Al
+
+O
+
+ model are at 1,909, 1,876, 1,855, 1,850, 1,831, 1,809, 1,782, 1,758, 1,745, 1,742, 1,735 and 1,725 cm
+−
+
+(Supplementary 
+).
+To estimate the stability of the system with isolated nitrosyl complexes, Ce
+
+O
+
+/Al
+
+O
+
+, with respect to the NO adsorption on small ceria particles, we considered the following model reaction:
+$$12{\rm{NO}}/{{\rm{Ce}}}_{12}{{\rm{O}}}_{24}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}+2\times {{\rm{Al}}}_{2}{{\rm{O}}}_{3}\to 3\times 4{\rm{NO}}/{{\rm{Ce}}}_{4}{{\rm{O}}}_{6}/{{\rm{Al}}}_{2}{{\rm{O}}}_{3}+{3{\rm{O}}}_{2}$$
+Our calculations showed that the reaction is strongly exothermic by 17.48 eV, suggesting that isolated supported cerium nitrosyls are much more stable than ceria particles interacting with NO molecules.
+Calculation of 3d core-level energies for cerium cations
+The 3d core energies of the cerium cations in selected structures were calculated using different approximations for the excitation of the electrons
+
+(Supplementary 
+). In the structures Ce
+
+O
+
+/Al
+
+O
+
+ and Ce
+
+O
+
+/Al
+
+O
+
+, all Ce cations are in oxidation state 4+, whereas in Ce
+
+O
+
+/Al
+
+O
+
+, two are Ce
+4+
+and two are Ce
+3+
+. In bulk CeAlO
+
+and Ce
+
+O
+
+/Al
+
+O
+
+, all Ce cations are in oxidation state 3+. The results obtained through the initial state approximation show that the energies of the 3d core levels of Ce
+4+
+in the Ce
+
+O
+
+/Al
+
+O
+
+ model are lower than those of the Ce
+3+
+cations in structures Ce
+
+O
+
+/Al
+
+O
+
+ and Ce
+
+O
+
+/Al
+
+O
+
+ by about 5 eV. The 3d levels of Ce
+4+
+are within 0.3 eV for Ce
+
+O
+
+/Al
+
+O
+
+ and Ce
+
+O
+
+/Al
+
+O
+
+. Notably, when Ce
+3+
+cations are in a bulk system such as CeAlO
+
+, the 3d core levels are about 3.5 eV lower with respect to the corresponding values for the same cations in Ce
+
+O
+
+/Al
+
+O
+
+ and Ce
+
+O
+
+/Al
+
+O
+
+. Using the Janak–Slater (JS) approach in which a half-electron is excited to the LUMO, similar results to in the case of the initial state approximation were obtained. The 3d levels of Ce
+3+
+cations are calculated at higher energies by 1.65 еV with respect to Ce
+4+
+cations in the Ce
+
+O
+
+/Al
+
+O
+
+ system. This is not the case for the JS
+n
+approach, in which half an electron is removed from the system. The 3d levels of Ce
+3+
+cations in the Ce
+
+O
+
+/Al
+
+O
+
+ model appear at lower energies by 0.34 eV with respect to the 3d levels of Ce
+4+
+cations in the same structure. The calculated core-level binding energies by final state approaches, FS and FS
+n
+, are also higher for Ce
+4+
+cations compared with that obtained for Ce
+3+
+cations in the Ce
+
+O
+
+/Al
+
+O
+
+ model. In conclusion, the initial state and JS approximations show similar trends and, in both cases, the 3d core levels of the Ce
+4+
+cations have lower energies compared with Ce
+3+
+and could be easily distinguished from those for Ce
+3+
+cations, as the shift is large enough—around 5 еV and 1.7 eV, respectively.
+Data availability
+All data are available in the main text or the
+Supplementary Information
+and are also available from the corresponding authors on request. The structures from the DFT calculations are available at Zenodo:
+https://doi.org/10.5281/zenodo.14030546
+(
+).
+Source data
+are provided with this paper.

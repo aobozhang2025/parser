@@ -1,5 +1,943 @@
 DOI: 10.1038/s44286-024-00035-3
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-Methods Synthesis of the imidazolate-derived NiNC catalysts Synthesis of NiNC-IMI precursor The NiNC-IMI was synthesized following a prior literature approach 53 . Briefly, 8.72 g Ni(NO 3 ) 2 □6H 2 O (0.03 mol) and 24.0 g imidazole were mixed and stirred in 600 ml deionized (DI) water. Then, 1,200 ml 0.3 M NaOH was dropped into the aforementioned mixture with a titration speed of 60 ml min −1 . After 6 h of stirring, the mixture was vacuum filtered and washed until neutral pH. The residual yellow powder was freeze dried and named as NiNC-IMIdazolate precursor. Synthesis of imidazolate-derived NiNC The NiNC-IMI precursor was placed in a tube furnace and annealed at 800 °C for 3 h (ramping: 5.0 °C min −1 ) under a N 2 atmosphere (~80 ml min −1 ). The carbonized powder was dispersed in 200 ml H 2 SO 4 (ca. 1 M) at 80 °C and stirred for 10 h. The acid washed sample was collected and washed with DI water until neutral pH and freeze dried to the as-prepared catalyst. Synthesis of the reference NiNC catalyst The PANI-derived samples were prepared following our previous published approach. Briefly, 3 ml of aniline, 5 g NiCl 2 □6H 2 O and 5 g ammonium persulfate ((NH 4 ) 2 S 2 O 8 ) were mixed in 0.5 l of 1 M HCl and stirred for 1 h. The suspension was stirred for 48 h after adding 0.4 g of dispersed activated Ketjen 600 carbon. The liquid suspension was thereafter dried at 95 °C for 24 h, and the residual solid mixture was ball milled with Zr 2 O 3 balls for 20 min. The pyrolysis was carried out in a furnace with a ramp of 30 °C min −1 to 900 °C and kept at this temperature for 1 h in N 2 conditions. An acid washing step in 2 M H 2 SO 4 at 90 °C for overnight was performed to remove the excessive Ni particles. In this synthesis, four heat treatments and three acid washes were performed in turn, and the catalyst is obtained after the fourth pyrolysis (pyrolysis/acid washing, pyrolysis/acid washing, pyrolysis/acid washing and pyrolysis). Catalyst
+Electrocatalyst synthesis, characterization and GDE design
+A powder electrocatalyst characterized by nitrogen-coordinated single Ni atoms embedded in graphene layers (denoted as a ‘NiNC’ catalyst) was synthesized by pyrolysis of a Ni-imidazolate precursor 
+). This catalyst will henceforth be referred to as ‘NiNC-IMI’. A benchmark polyaniline-derived NiNC electrocatalyst, referred to as NiNC-PANI, served as a reference catalyst
+
+. To characterize the chemical state, composition, morphology, porosity and microstructure of the two catalysts, several analytical techniques (Supplementary Figs.
+
+–
+
+) involving powder X-ray diffraction, transmission electron microscopy (TEM) and N
+
+physisorption analysis were performed.
+
+,
+c
+, The chemical state and surface composition of the as-prepared catalysts using XPS. An XPS survey (relative intensity against binding energy (BE)) of both catalysts (
+b
+) and C1
+s
+spectra, N1
+s
+spectra and Ni2
+p
+3/2 spectra profiles (
+c
+).
+d
+,
+e
+, The partial CO current density as a function of the IR (where
+I
+is current and
+R
+is resistance)-corrected cathode potential against the reversible hydrogen electrode of NiNC-PANI (
+d
+) and NiNC-IMI (
+e
+). Catalyst loading is varied from 0.5 mg cm
+−2
+to 3 mg cm
+−2
+and all tests are performed in 0.5 M CO
+
+saturate KHCO
+
+solution.
+f
+,
+g
+, TEM images of the NiNC-PANI (
+f
+) and NiNC-IMI catalyst powder (
+g
+).
+h
+,
+i
+, High-resolution SEM images of the GDE catalyst layer of NiNC-PANI (
+h
+) and NiNC-IMI (
+i
+).
+j
+,
+k
+, Field emission gun–SEM cross-section images of the NiNC-PANI (
+j
+) and NiNC-IMI GDE (
+k
+).
+Source data
+Full size image
+The powder X-ray diffraction patterns (Supplementary 
+) reveal crystalline phases in the NiNC catalysts. Both NiNC-IMI and NiNC-PANI samples exhibit a pronounced diffraction peak at around 26°, assigned to the family of graphitic carbon planes. Additional Bragg peaks suggested the presence of a metallic Ni
+
+phase, associated with (carbon-encapsulated) Ni nanoparticles in the bulk of the catalyst. It is well documented that such Ni particles are chemically inert for CO
+
+reduction electrocatalysis
+
+,
+
+,
+
+,
+
+,
+
+. The chemical state and elemental composition of the catalyst surface were obtained from X-ray photoemission spectra (XPS) (the survey is shown in 
+), especially the core level regions of C1
+s
+, N1
+s
+and Ni2
+p
+3/2 
+). Carbon speciation is dominated by
+sp
+
+hybridized moieties, showing a high carbonization degree. Following earlier analyses of metal–nitrogen-doped carbon electrocatalysts, the N speciation was split into a few distinct fractions (Supplementary Note
+
+and Supplementary 
+). The Ni2
+p
+3/2 core level region 
+) revealed the Ni chemical state near the surface up to a depth of ~2–5 nm. Three different Ni chemical states (metallic Ni in embedded particles and Ni
+1+
+, Ni
+2+
+in NiN
+x
+site motifs) were identified (Supplementary 
+)
+
+,
+
+,
+
+,
+
+. In both NiNC-IMI and NiNC-PANI, Ni prevails in the chemical states of Ni
+2+
+and Ni
+1+
+. These two chemical Ni states are commonly found for the N-coordinated, catalytically active single Ni atom sites
+
+,
+
+. The overall elemental composition of either catalyst is very similar, with metallic Ni particles adding extra Ni at% for NiNC-IMI (Supplementary 
+). The TEM micrographs in Supplementary 
+revealed the catalyst microstructures. Notably, NiNC-IMI exhibits a fiber-like backbone structure with homogeneously distributed diameters (~20 nm). In addition, carbon layer-embedded metallic Ni particles and pores (due to particle leaching) with constant size (5~10 nm) could be observed (Supplementary –c
+). By contrast, the NiNC-PANI shows a densely compacted layer-like backbone structure, and the encapsulated Ni particles vary from 10 to 50 nm in diameter (Supplementary –f
+). However, no visible pores could be identified. These results are corroborated by the Brunauer–Emmett–Teller (BET) analysis. The NiNC-IMI showed a specific surface area of 220 m
+
+g
+−1
+with a large fraction of mesopores (~4–5 nm pore size). By contrast, NiNC-PANI provides a much higher surface area of 414 m
+
+g
+−1
+due to the dominant microporosity (Supplementary 
+). These distinct powder characteristics will, as shown below, translate into characteristic differences in their cathode layers and consequently in the respective electrolyzer cell performances, reflected in their carbon crossover diagnosis introduced below. By combining the BET surface area and the XPS near-surface fraction of Ni
+1+/2+
+species related to NiN
+x
+motifs, we estimated
+
+and compared the NiN
+x
+surface site density (SD) with other NiNC catalysts (Supplementary Note
+
+and Supplementary 
+). NiNC-PANI and NiNC-IMI catalysts showed the highest exposed SD of all considered benchmark catalysts.
+To explore the near-surface SD-normalized, intrinsic catalytic CO
+
+reduction kinetics of the single Ni atom catalysts and contrast their respective site accessibility, partial CO current densities and CO turnover frequencies were derived for different catalyst loadings. This was carried out in a conventional liquid electrolyte H-type cell and compared with a number of benchmark NiNC catalysts (Supplementary Figs.
+
+–
+
+). Our two NiNC electrocatalysts in focus showed a peak 85–90% FE
+CO
+at approximately −0.75 V
+RHE
+, where RHE is reversible hydrogen electrode (Supplementary 
+). The NiNC-IMI displayed the highest CO mass activity (exceeding 25 mA mg
+−1
+) due to its high active SD related to its mesoporous structure (Supplementary 
+), closely followed by NiNC-PANI. Normalization of the mass (or equally geometric area) activity data using the NiN
+x
+surface SD yielded almost identical intrinsic turnover frequency (TOF) versus cell potential (
+E
+cell
+) relations
+
+. This suggests the presence of similar active NiN
+x
+motifs in the various NiNC catalysts (Supplementary 
+), which is surprising given the vastly different chemical nature of the synthetic pathways. Yet this underscores the insensitivity of the emerging active site during pyrolysis to the chemical nature of the precursors. Supplementary 
+also reveals vastly different TOF–
+E
+cell
+trajectories for
+E
+cell
+< −0.75 V. This difference is not due to varying site densities, but rather varying site accessibility. Mesoporous catalysts (NiNC-IMI) offer enhanced site accessibility and suffer from local CO
+
+depletion resulting in plateauing TOF–
+E
+cell
+relations. For a more in-depth analysis of the NiNC catalysts, different geometric loadings were tested ,e
+, Supplementary Note
+
+and Supplementary Figs.
+
+and
+
+). The results in 
+show that both catalysts are influenced by the loading, but it seems that the lower loadings of NiNC-IMI outperform the NiNC-PANI especially in terms of CO mass activity (Supplementary Figs.
+6d
+and
+7d
+). Besides slightly higher activity, they show similar trends that the activity decreases with increasing loading. This can be explained by mass transport and porosity, adding more catalyst will increase the catalyst layer thickness and density, which hamper the CO
+
+diffusion especially in the smaller pores of NiNC-PANI. In addition, for further comparison, Supplementary ,b
+represents the results of Supplementary Figs.
+
+and
+
+as Tafel plots.
+Next, we moved to cast our NiNC-IMI and NINC-PANI catalysts into cathode layers of single-cell electrolyzers using spray coating of aqueous inks. To achieve comparable morphological cathode layer qualities, dynamic light scattering helped optimize the average agglomerated particle size and ink suspension stability (Supplementary Note
+
+).
+A TEM/scanning electron microscopy (SEM) analysis of the catalyst layer morphologies of NiNC-IMI and NiNC-PANI revealed important differences ,g
+). Larger-scale morphological differences of the two sprayed GDE layers became more obvious at higher-resolution SEM scales ,i
+) and cross-section SEM images ,k
+). Sponge-like channel structures with fine, dense and homogeneously distributed pores and channels (around 3 µm diameter) were revealed in the NiNC-IMI layer. By contrast, the NiNC-PANI catalyst layer showed larger but fewer channels (additional high-resolution SEM images are shown in Supplementary 
+). Moreover, other physical characterizations, such as catalyst layer thickness, hydrophobicity, TP and IP conductivity and gas permeability were conducted on the sprayed GDEs, and the corresponding data are listed in Supplementary 
+. All these parameters were measured with an uncompressed GDE and they both are comparable, only the NiNC-IMI is slightly thicker. However, these parameters cannot be correlated to the performance because we used a zero-gap cell, which means that the GDE is compressed to the thickness of the spacer/gasket (200 µm) and the parameters can change.
+CO
+
+-to-CO AEM electrolyzer design
+Spray-coated GDEs were tested in a single-pass zero-gap AEM flow electrolyzer cell incorporated in a customized test setup. The configuration of our electrolyzer (Supplementary 
+), testing platform (Supplementary 
+), mounting process (Supplementary 
+) and a schematic zoom in of the cell (Supplementary –e
+) are illustrated. Volumetric electrolyzer outlet flow rates were tracked using a N
+
+bleed (Supplementary 
+and Supplementary Equation
+
+) and used for subsequent reaction rate and carbon crossover diagnosis. NiNC-IMI and NiNC-PANI catalysts were tested at various geometric catalyst loadings. Before CO
+
+electrolysis, the electrochemical cell impedance (Supplementary ,b
+) revealed values of 0.21 (±0.01) Ohm, independent of the catalyst loading. The catalytic CO
+
+-to-CO cell performance was screened from −50 mA cm
+−2
+to −500 mA cm
+−2
+(at 50 and 100 mA cm
+−2
+increments). At the beginning of each break-in, a characteristic cathode potential overshoot up to −5.5 V appeared (Supplementary ,d
+). This potential overshoot increased with catalyst loading; we associate this with the ionic reinforcing and hydration process of the membrane electrode assembly (MEA) and the bipolar junction between ionomer and membrane.
+Key kinetic performance indicators (FE
+CO
+and partial CO current density,
+j
+geo,CO
+) of the NiNC-based CO
+
+-to-CO electrolyzers are shown in –d
+(NiNC-IMI in blue and NiNC-PANI in red). For NiNC-IMI, FE
+CO
+correlated inversely with the geometric catalyst loading, which will be investigated with our mass transfer analysis later. Other important electrolyzer cell performance parameters, rigorously defined in Extended Data 
+yet often unreported, were evaluated and compared in the radar plots of –g
+.
+
+,
+b
+, The FE (
+a
+) and CO partial current density (
+b
+) as a function of the total geometrical current of the NiNC-PANI catalyst with different loading.
+c
+,
+d
+, FE (
+c
+) and CO partial current density (
+d
+) as a function of the total geometrical current of a NiNC-IMI catalyst with different loading. The electrochemical performance was measured by holding each current density (0 to −500 mA cm
+−2
+) for 15 min with a GC injection after 14 min. Each data point represents the standard mean and error upon three to five measurements.
+e
+–
+g
+, The spider plots with relevant performance metrics as (−
+j
+geo, CO
+, FE, EE, SP,
+E
+cell
+and
+λ
+stoich
+) for the electrochemical reduction of CO
+
+to CO of our NiNC-IMI catalyst in comparison to the NiNC-PANI reference (
+e
+), currently reported NiNC catalysts
+
+,
+
+,
+
+(
+f
+) and silver catalysts (
+g
+)
+
+,
+
+,
+
+.
+Source data
+Full size image
+At 1.0 mg cm
+−2
+catalyst loading, the FE
+CO
+reached essentially 100% FE
+CO
+up to a current density of −200 mA cm
+−2
+. FE
+CO
+values of 90% and 85% FE
+CO
+were measured at −250 mA cm
+−2
+and −300 mA cm
+−2
+, respectively, at a cell voltage of just above 3 V. Noteworthy is the low operating value of the stoichiometric excess of CO
+
+,
+λ
+stoich
+, of about 1.2.
+λ
+stoich
+is defined as the ratio of the volumetric CO
+
+inflow and consumption rate,
+\({{\lambda }}_{\rm{stoich}}=\frac{{\dot{V}}_\mathrm{C{O}_{2},{in}}}{{\dot{V}}_\mathrm{C{O}_{2},{consumed}}}\,\)
+. This is why
+λ
+stoich
+controls the molar CO
+
+:CO ratio,
+r
+CO2
+, in the electrolyzer outlet. These low
+λ
+stoich
+result from a low flow rate and dilute the CO
+
+across the flow field due to the electrochemical conversion to CO and the nonelectrochemical conversion to (bi)carbonate. This dilution gives first insights in the potential use of diluted CO
+
+streams (from less pure direct air capture or flue gas). Given the experimental FE
+CO
+~100% and taking CO
+
+2−
+as the prevalent anion crossing the membrane,
+r
+CO2
+of the present NINC-IMI electrolyzer can be recast into
+\({r}_{{\mathrm{CO}}_{2}}=\frac{{\dot{V}}_{{\mathrm{CO}}_{2},\mathrm{out}}}{{\dot{V}}_{\mathrm{CO}}}=2({{\lambda }}_{\rm{stoich}}-1)\)
+(Extended Data 
+) and is around 0.4, implying that the outlet contains a CO-rich outlet stream of 70 mol% CO (balance CO
+
+). Also noteworthy is the overall EE of our NiNC-IMI cell of 40% at nearly 200 mA cm
+−2
+cell current.
+By contrast, using the NiNC-PANI reference catalysts, FE
+CO
+>90% was only achieved at low currents of −50 mA cm
+−2
+, with loading having a minor impact ,b
+). The polarization curve and
+j
+geo, CO
+are shown in Supplementary Figs.
+
+and
+
+. We measured double-layer currents at different scan rates (Supplementary ,b
+) and found that the interfacial capacitance does correlate with the NiNC-IMI loading yet does not for NiNC-PANI (Supplementary 
+), further evidence for limited microporous site accessibility.
+To better appreciate the overall performance of our CO
+
+-to-CO cell design, we contrast the set of kinetic NiNC-IMI GDE parameters to those of the reference NiNC-PANI GDE 
+), the best previously published NiNC GDEs 
+) and to state-of-the-art Ag-based catalyst GDEs 
+) (details in Supplementary 
+). The comparison attests to the present electrolyzer cell design as a favorable combination of performance indicators.
+The diagnostic CCC
+Here, we propose the concept of a CCC as an experimental diagnostic tool for CO
+
+electrolyzers. The CCC and its relation to FE
+CO
+values reveals the nature of the dominant anion transport across the membrane and point to origins of mass transfer limitations within and across the cathode. Thereby, the CCC diagnosis helps improve GDE designs.
+First, we recall that although the NiNC-IMI and NiNC-PANI catalysts delivered comparable apparent catalytic activities in the liquid electrolyte H-cell setup, their MEA current density–FE
+CO
+relations at varying catalyst loadings differed sharply. We attribute this to distinctly different final catalyst layer morphologies ,k
+). As a result of this, distinct CO
+
+transfer kinetics IP and across the catalyst layers ensued. Paired with the noncatalytic, acid–base CO
+
+consumption by catalytically generated OH
+−
+into HCO
+
+−
+and CO
+
+2−
+species inside the cathode 
+), complex carbon mass transfer and consumption patterns arise ,c
+).
+
+, A schematic drawing of GDE structure and proposed reaction and mass transfer pathways in relation to the CCC. For the derivation of CCC, see Supplementary Equations
+
+–
+
+. The theoretical exit flow rate versus applied current relations at varying CCC are shown in Supplementary 
+. CL, catalyst layer.
+b
+,
+c
+, Experimentally observed exit flow rates versus the applied geometric current for the NiNC-IMI (
+b
+) and NiNC-PANI (
+c
+) catalyst with model predictions (dashed lines) (Supplementary Note
+
+). For all different anions: black dashed line: 100% FE
+H2
+, CCC is 0; red dashed line: 100% FE
+H2
+, CCC is 1 or 100% FE
+CO
+, CCC is 0; green dashed line: 100% FE
+H2
+, CCC is 2 or 100% FE
+CO
+, CCC is 1; and blue dashed line: 100% FE
+CO
+, CCC is 2.
+d
+,
+e
+, The CCC value as a function of the applied geometric current density for NiNC-IMI (
+d
+) and NiNC-PANI (
+e
+) at different loadings.
+f
+,
+g
+, The stoichiometric CO
+
+excess,
+λ
+stoich
+(Extended Data 
+), versus the applied current for NiNC-IMI (
+f
+) and NiNC-PANI (
+g
+) catalyst with model predictions for different CCC and selectivities.
+Source data
+Full size image
+To better understand the carbon consumption mechanisms, we conceptually separate the carbon mass transfer inside the cathode into two. First, there is the IP carbon mass transfer to the active sites along the active MEA area that triggers the catalytic CO
+
+conversion and the noncatalytic acid–base CO
+
+consumption. Second, there is the TP carbon transfer (via
+\({\rm{C}}{{\rm{O}}}_{3}^{2-}\)
+or
+\({\rm{HC}}{{\rm{O}}}_{3}^{-}\)
+; 
+). The TP carbon transfer leads to a current- and efficiency-dependent gas volume (flow rate) depletion in the cell outlet
+
+,
+
+,
+
+. On this basis, we can formulate three limiting reaction transport scenarios associated with mathematical correlations between the applied cell current,
+I
+cell
+, the FE
+CO
+and FE
+H2
+values and the electrolyzer exit flow rate (
+\({\dot{V}}_{\mathrm{out}}\)
+) (Supplementary 
+):
+1.
+For pure OH
+−
+layer and membrane crossover, neither acid–base nor TP CO
+
+depletion occurs. Electrochemical CO
+
+-to-CO conversion maintains the volume and carbon balance in the cathodic chamber, while the hydrogen evolution reaction (HER) causes a current-controlled flow rate surplus (Supplementary 
+).
+2.
+In case of pure
+\({\rm{C}}{{\rm{O}}}_{3}^{2-}\)
+crossover, every catalytically generated CO or H
+
+molecule consumes one molecule of CO
+
+for TP transfer. Now, the catalytic CO
+
+-to-CO conversion causes a current-dependent CO
+
+and exit flow rate depletion due to the cogenerated alkalinity, with the HER helping to balance the gas volume (Supplementary 
+).
+3.
+In case of pure
+\({\rm{HC}}{{\rm{O}}}_{3}^{-}\)
+transfer, every catalytically generated CO or H
+
+molecule consumes two molecules of CO
+
+for TP transfer, causing the highest CO
+
+and exit gas volume depletion (Supplementary 
+).
+We now compare the three predicted limiting exit flow rate and current relations with the experimental data ,c
+). The dashed lines denote the limiting cases for perfect FEs according to Supplementary 
+. The symbols are the experimental values. At low loadings (1.0 mg cm
+−2
+and ~95% FE
+CO
+) NiNC-IMI displayed an almost ideal flow depletion pattern over a wide current range, matching well the predicted
+\({\rm{C}}{{\rm{O}}}_{3}^{2-}\)
+TP transfer at FE
+CO
+of 100%, 
+. By contrast, cells with higher catalyst loadings showed gradual volume surplus attributed to a rising FE
+H2
+and OH
+−
+crossover. Conversely, the impact of the NINC-PANI loading was minor, not following a limiting mass transfer case, and showed an increasing crossover of OH
+−
+over
+\({\rm{C}}{{\rm{O}}}_{3}^{2-}\)
+, 
+.
+To deconvolute the nature of the CO
+
+consumption further, we now explicitly take the catalytic production rates of CO (
+\({\dot{V}}_{\mathrm{CO}}\)
+) and H
+
+(
+\({\dot{V}}_{\mathrm{H}_{2}}\)
+) as well as the CO
+
+input feed (
+\({\dot{V}}_\mathrm{C{O}_{2},{in}}\)
+) and the exit flow rate (
+\({\dot{V}}_{\mathrm{out}}\)
+) into account. Starting from the gas volume and carbon balance (Supplementary Note
+
+and Supplementary Equations
+
+–
+
+), we derive and define the experimentally accessible CCC for the acid–base CO
+
+depletion as
+$${\rm{CCC}}=\frac{{\dot{V}}_{\mathrm{H}_{2}}+{\dot{V}}_\mathrm{C{O}_{2},{in}}-{\dot{V}}_{\mathrm{out}}}{{\dot{V}}_{\mathrm{CO}}+{\dot{V}}_{\mathrm{H}_{2}}}.$$
+
+The CCC value can be perceived as the ratio between the noncatalytic acid–base CO
+
+consumption rate and the rate of catalytic alkalinity production. It is experimentally accessible, independent of the faradaic value and reveals the nature of the prevalent anion crossing the membrane in an intuitive way: an experimental CCC value of 0 indicates pure OH
+−
+transfer, a CCC value of 1 indicates transport of pure
+\({\rm{C}}{{\rm{O}}}_{3}^{2-}\)
+and a CCC value of 2 suggests pure
+\(\mathrm{H}{\rm{C}}{{\rm{O}}}_{3}^{-}\)
+crossover. While these values are ideal values, experimentally observed CCC values may deviate from these depending on the detailed transport conditions in the catalyst layer and membrane. Noninteger CCC values indicate nonstoichiometric (bi)carbonate formation inside the catalyst layer coupled with mixed anion transport. This means that only a portion of the generated alkalinity (OH
+−
+) is converted into carbonate (CCC somewhat below 1). If carbonate is not transported away fast enough, it may undergo subsequent reaction with another CO
+
+molecule to form bicarbonate (CCC somewhat above 1). Such nonstoichiometric (bi)carbonate formation typically originates from transport barriers into or across the catalyst layer. Several kinetic electrolyzer performance parameters in Extended Data 
+can be expressed in terms of the CCC.
+The CCC value of NiNC-IMI electrolyzer cells at low loadings remained close to 1 
+) suggesting prevalent
+\({\rm{C}}{{\rm{O}}}_{3}^{2-}\)
+crossover. At higher NiNC-IMI catalyst loadings, the drop of the CCC value implies a gradual switch to OH
+−
+transfer, which we attribute to CO
+
+transfer limitations to the active sites. Indeed, as revealed by Galvano-electrochemical impedance spectra (GEIS) analysis, increased charge resistance (in low frequency region) emerges with high NiNC-IMI loadings (Supplementary 
+). By contrast, the NiNC-PANI loading showed minor impact on the CCC. The prevalent anion transport mechanism remained
+\({\rm{C}}{{\rm{O}}}_{3}^{2-}\)
+crossover at all currents 
+).
+Next, we relate the stoichiometric CO
+
+ratio,
+λ
+stoich
+(Extended Data 
+), to the FE and applied currents 
+,g
+) and express it in terms of the CCC to obtain
+$${{{\lambda }}}_{{\rm{stoich}}}=\frac{{\dot{V}}_\mathrm{C{O}_{2},{in}}}{\mathrm{CCC}({\dot{V}}_{\mathrm{CO}}+{\dot{V}}_{\mathrm{H}_{2}})+{\dot{V}}_{\mathrm{CO}}}.$$
+
+For 1 mg cm
+−2
+NiNC-IMI, the experimentally determined values of
+λ
+stoich
+followed the theoretical CCC of 1 line (green dashed) up to ca. 1.5 A, associated with pure
+\({\rm{C}}{{\rm{O}}}_{3}^{2-}\)
+transfer. With pure
+\({\rm{C}}{{\rm{O}}}_{3}^{2-}\)
+transfer, the maximum CO
+
+SP is limited to 50%, as two molecules CO
+
+are consumed for each produced CO. Under these conditions, the NiNC-IMI cell (1 mg cm
+−2
+) SP reaches the very high SP of 40% at −300 mA cm
+−2
+, at a previously unachieved low
+λ
+stoich
+= 1.2 
+). As a result, our NiNC-IMI electrolyzer design delivers a concentrated CO exit stream. Increasing the flow rate would increase the selectivity but decrease the SP and result in a larger
+λ
+stoich
+(
+).
+Using the
+λ
+stoich
+versus
+I
+plot, we can deepen the kinetic analysis further: the experimental values of
+λ
+stoich
+of the NiNC-PANI AEM electrolyzer cells at varying loadings dropped more slowly and remained above the ideal green dashed curve of an AEM electrolyzer. This was due to their low FE
+CO
+«100%, associated with CO
+
+being largely consumed for (bi)carbonate formation 
+). At higher catalyst loadings, the NiNC-IMI AEM electrolyzer cells displayed larger than ideal initial
+λ
+stoich
+values, in particular CCC of 0 at FE
+CO
+of 100% 
+, blue dashed line), implying OH
+−
+as the prevalent anion due to transport barriers for CO
+
+to enter the thick catalyst layers and to form stoichiometric amounts of carbonate inside the catalyst layer.
+To demonstrate the practical, heuristic diagnostic value of the CCC and
+λ
+stoich
+-based electrolyzer cell performance analysis, we consider the cell data in FE
+CO
+versus CCC plots 
+). We qualitatively distinguish distinct regions (green (III), yellow (II) and red (I)) that we associate with distinct IP and TP transport as well as distinct catalytic CO
+
+conversion.
+
+, FE
+CO
+versus CCC plots yield distinct operating reaction transport regimes (red (I), yellow (II) and green (III)) to diagnose the mass transfer limitations.
+b
+–
+d
+, Graphic illustration of controlling transport limitations in these three regions includes red (I): limited TP mass transport (higher loadings of NiNC-IMI, thicker layer) (
+b
+), yellow (II): good TP but inhibited IP mass transfer (NiNC-PANI) (
+c
+) and green (III): optimal mass transport region (lower loadings NiNC-IMI, thinner layer) showing optimal FEs (
+d
+). All points are single experimental data points, the two points in the upper left at 50 and 300 mA cm
+−2
+are interpreted as outliers, and all other data points associated with this measurement series are in the expected green (III) area.
+Source data
+Full size image
+Operating electrolyzer conditions at CCC ~1 and low FE
+CO
+<60% (yellow region (II) in ,c
+) suggest poor IP CO
+
+transfer to active sites and poor subsequent catalytic conversion, as seen for the NiNC-PANI electrolyzers: suboptimal microporous morphology caused poor site accessibility and flooded micropores result in low FE
+CO
+, as confirmed by the microscopic analysis of the sprayed layer structure and the loading-independent double-layer capacitance (Supplementary 
+). The loading-independent value of CCC ~1 is testament to sufficiently effective ionic TP channels in the catalyst layer. This regime calls for adjustment of the catalyst pore size at constant layer thickness.
+By contrast, operating electrolyzer conditions with CCC «1 and low FE
+CO
+, as seen for NiNC-IMI cells at high loadings (red region (I) in ,b
+), are characterized by poor IP and poor TP transport. Insufficient TP ion channels exist, which explains why ion transport is shifted toward OH
+−
+. Higher loadings should increase the thickness, but we used for all tests the same spacer/gasket, which means the compression of thicker GDEs is higher. This regime calls for adjustment of the spacer/gasket/catalyst loading (reducing the compression) or even bigger pores to create pathways for CO
+
+access and ion conductivity.
+Operating electrolyzer conditions with CCC ~1 and high FE
+CO
+, as seen for NiNC-IMI cells at 1 mg cm
+−2
+(green (III) region in ,d
+), attest to good site accessibility, layer thickness and good IP and TP transport. In our configuration, we have a positive tradeoff between layer thickness (loading), porosity and compression (spacer/gasket).
+Our analysis revealed that values decreased with increased NiNC-IMI loadings, while they remained constant for NiNC-PANI loadings. We speculate that NiNC layers do not compress in the same way as NiNC-PANI layers do. NiNC-PANI layers appear to remain accessible for CO
+
+, whereas thicker NiNC-IMI layers change their pores structure in a way that hinders CO
+
+access.
+Tracking the experimental CCC value provides a FE-independent, heuristic ‘early-warning’ indicator of the onset of undesired electrolyzer operating regimes due to unfavorable mass (CO
+
+and H
+
+O) and charge (ions) transport processes. If coupled to ex situ materials characteristics and operating parameters such as temperature and electrode pressures, the online CCC value helps pinpoint mechanistic origins of unfavorable operating regimes. Conversely, this helps optimize catalysts/catalyst layer/GDEs.
+Like catalytic materials and their noncatalytic precursor states, electrodes of the zero-gap electrolyzer show a complex relation among catalyst loading, layer thickness, porosity, compression and the resulting transport properties under operating conditions, which cannot be fully predicted from ex situ characterizations, as presented in Supplementary 
+.
+On the other hand, for electrolyzers operating under acidic conditions using Nafion membranes, a CCC of 0 will ensue as no anionic carbon species forms and crosses the cation exchange membrane. A CCC value of 2, which would suggest a pure HCO
+
+−
+transfer, is yet to be observed experimentally.
+During cell stability tests, our cell design has currently demonstrated 180 h stability at 100 mA cm
+−2
+with over 90% selectivity toward CO (Extended Data 
+) without the use of highly soluble Cs salts
+
+. Over the course of the stability tests, time-resolved galvanostatic impedance spectroscopy (Extended Data 
+) revealed only unspecific increases in charge transfer resistance over time. By contrast, with its heuristic character, the CCC value provides real-time qualitative diagnosis of potentially detrimental GDE operating regimes. Over time, the CCC trajectory showed periodic variations that we attribute to dynamic cell operation regimes with alternating salting/desalting events up to 110 h test time, followed by steady CCC values near 1.5 at stable cell operation (Extended Data 
+). Similar periodic fluctuations at smaller cells were correlated to salt precipitation and flooding
+
+; as we work on another cell level, larger electrodes, we may not see a direct response in the FE or potential. Deviations from the ideal CCC value of 1 in either direction indicate detrimental dynamic operating states of the AEM CO
+
+electrolyzer. The increase in CCC, as observed in Extended Data 
+, is probably associated with local flooding events inside the GDE. The flooded regions dissolve more CO
+
+and lead to a local acidification (CCC increase from 1 toward 2 as HCO
+
+−
+becomes the more dominant migrating ion) due to detrimental ion transport in the flooded region. On the other hand, a blocked GDE region, caused for instance by salting, hinders CO
+
+diffusional transport into the GDE as well as its transport in TP and IP directions, which would lead to lower FE
+CO
+and lower experimental CCC values.
+This contribution provides experimental guidance as to the design of optimal CO
+
+-to-CO electrolyzers at three different levels: guidance for the design of catalyst materials, guidance for the design of optimal cathode catalyst layers and guidance for the design/choice of optimal operational cell parameters, such as the stoichiometric CO2 ratio,
+λ
+stoich
+(Extended Data 
+), to maximize the volumetric (or molar) exit CO ratio and the CO (catalytic) SP.
+At the materials level , we propose mesoporous characteristics that offer favorable site accessibility when cast into a layer. At the layer level and cell operation level , the CCC serves as a guiding tool. The CCC is a diagnostic parameter to assess the quality of a prepared cathode layer concerning its transport properties 
+). It also serves as a diagnostic tool to recognize and analyze the onset of degradation regimes and failure modes (Supplementary 
+). We propose diagnostic cell performance analyses using experimental and theoretical (FE
+CO
+–CCC) plots and
+λ
+stoich
+–
+I
+plots. The former provide insight in limitations of TP (CCC) and IP (site accessibility) carbon transport. The latter provides the stoichiometric CO
+
+excess, the stoichiometric limiting current, the CO ratio in the exit flow and critical current where the cell is leaving the cardinal trajectories of constant CCC.
+Discussion
+We have presented a highly CO-selective, layered imidazolate framework-derived NiNC electrocatalyst (NiNC-IMI) for the efficient electrochemical CO
+
+reduction to CO in zero-gap single-cell electrolyzers. This catalyst exhibited a favorable geometric and mass-based CO activity in liquid electrolyte H
+−
+cells due to its high catalytic active NiN
+x
+SD and good site accessibility compared with a polyaniline-derived NiNC-PANI reference catalyst. We associate these favorable properties with its unique mesoporous structure over the microporous characteristics of the NiNC-PANI.
+The NiNC-IMI catalysts were cast into cathode layers of varying catalyst loadings, which were deployed into zero-gap AEM electrolyzer cells. Operated under neutral-pH anolyte conditions, the NiNC-IMI CO
+
+-to-CO electrolyzer design outperformed state-of-the-art Ag and previously reported NiNC cathodes. Under optimized catalyst loading and layer thickness, the experimental FE
+CO
+reached 100% up to a current density of −200 mA cm
+−2
+(
+E
+cell
+~ 3 V) and remained at 85% at −300 mA cm
+−2
+(
+E
+cell
+= 3.5 V). Beyond these popular performance metrics, we rigorously defined and experimentally considered several additional kinetic cell performance indicators, such as SP, stoichiometric CO
+
+excess,
+λ
+stoich
+, and total EE.
+Our present CO
+
+-to-CO electrolyzer design concomitantly displayed close to 80% CO
+
+utilization, 40% SP to CO, 40% total EE and a uniquely low
+λ
+stoich
+value of 1.2 that translated into molar CO ratio of 70% in the exit flow. Such CO-rich mixed feeds offer superior C
+2+
+production rates when coupled to a second CO
+
+conversion electrolyzer tandem cell
+
+.
+Beyond the cell design, we proposed and validated diagnostic tools for CO
+
+electrolyzers to deconvolute catalytic and noncatalytic CO
+
+consumption. We defined an experimentally accessible CCC as the ratio between noncatalytic CO
+
+consumption and generated alkalinity. The CCC values of 0, 1 and 2 were associated with the three physically limiting conditions of pure OH
+−
+, CO
+
+2−
+and HCO
+
+−
+transport. We also showed how CCC–FE
+CO
+maps define regions of distinct IP and TP transport regimes. Their diagnostic character reveals imperfections of CO
+
+cathode layers and thereby helps improve electrolyzer designs.
+
+Synthesis of NiNC-IMI precursor
+The NiNC-IMI was synthesized following a prior literature approach
+
+. Briefly, 8.72 g Ni(NO
+
+)
+
+□6H
+
+O (0.03 mol) and 24.0 g imidazole were mixed and stirred in 600 ml deionized (DI) water. Then, 1,200 ml 0.3 M NaOH was dropped into the aforementioned mixture with a titration speed of 60 ml min
+−1
+. After 6 h of stirring, the mixture was vacuum filtered and washed until neutral pH. The residual yellow powder was freeze dried and named as NiNC-IMIdazolate precursor.
+
+Synthesis of imidazolate-derived NiNC
+The NiNC-IMI precursor was placed in a tube furnace and annealed at 800 °C for 3 h (ramping: 5.0 °C min
+−1
+) under a N
+
+atmosphere (~80 ml min
+−1
+). The carbonized powder was dispersed in 200 ml H
+
+SO
+
+(ca. 1 M) at 80 °C and stirred for 10 h. The acid washed sample was collected and washed with DI water until neutral pH and freeze dried to the as-prepared catalyst.
+
+Synthesis of the reference NiNC catalyst
+The PANI-derived samples were prepared following our previous published approach. Briefly, 3 ml of aniline, 5 g NiCl
+
+□6H
+
+O and 5 g ammonium persulfate ((NH
+
+)
+
+S
+
+O
+
+) were mixed in 0.5 l of 1 M HCl and stirred for 1 h. The suspension was stirred for 48 h after adding 0.4 g of dispersed activated Ketjen 600 carbon. The liquid suspension was thereafter dried at 95 °C for 24 h, and the residual solid mixture was ball milled with Zr
+
+O
+
+balls for 20 min.
+The pyrolysis was carried out in a furnace with a ramp of 30 °C min
+−1
+to 900 °C and kept at this temperature for 1 h in N
+
+conditions. An acid washing step in 2 M H
+
+SO
+
+at 90 °C for overnight was performed to remove the excessive Ni particles. In this synthesis, four heat treatments and three acid washes were performed in turn, and the catalyst is obtained after the fourth pyrolysis (pyrolysis/acid washing, pyrolysis/acid washing, pyrolysis/acid washing and pyrolysis).
+Catalyst characterization by BET, SEM, TEM and XPS
+N
+
+sorption measurements were carried out using a Quantachrome Quadrasorb SI instrument with a degassing temperature of 200 °C for 6 h (carbon samples) and 120 °C for 12 h (NiNC-IMI samples) before the measurement. The specific surface areas were calculated using BET theory. The pore size distributions were obtained from the adsorption branch of isotherms by the nonlocalized density functional theory model. SEM images were measured using a Gemini SEM 500 low-vacuum high-resolution SEM. Cross-sectional SEM images were obtained with SEM/field emission gun Inspect F 50-FEI. TEM was performed using a FEI Tecnai G
+
+20 S-TWIN electron microscope with an operating voltage of 200 kV. The conductivity was measured with Yokogawa GS610 Sourcemeter unit in galvanostatic mode between −2 mA and +2 mA in 0.2 mA steps. XPS was conducted on a K-alpha X-ray photoelectron spectrometer system (Thermo Scientific) with a hemispheric 180° dual-focus analyzer with a 128 channel detector. The X-ray monochromator was micro-focused Al Kα radiation. The samples were pasted and pressed onto the sample holder using carbon taps for measurement.
+GDE preparation
+First, 85 mg as-prepared catalyst, 300 mg Nafion solution (Sigma-Aldrich, 5 wt% Nafion in ethanol (EtOH) solution), 100 μl DI water and 2,900 μl isopropanol were mixed and sonicated using a sonifier horn for 15 min. The prepared ink was spray coated onto the commercial gas diffusion layer (GDL) provided by DeNora (GDL2) on the microporous layer at 80 °C.
+MEA cell manufacture
+A MEA-type electrolyzer setup was deployed for the CO
+
+RR performance testing; the assembly procedure is illustrated in Supplementary 
+. The cathode GDE (5 cm
+
+), membrane (Sustainion membrane X37-50 RT, Dioxide Materials) and the standard anode material (5 cm
+
+, IrO2-GDE, Dioxide Materials) were layer-by-layer assembled in the electrolyzer. Both cathode and anode were located and stabilized in polytetrafluoroethylene gaskets (thickness 200 µm and window size 5 cm
+
+). After that, the cathode/membrane/anode layers were compressed within the electrolyzer plates (serving as flow fields and electron conductor) to ensure the reactor tightness, electrode charge conductivity and ionic conductivity in the MEA.
+MEA cell test station
+The MEA cell CO
+
+RR testing configuration is shown in Supplementary ,b
+. In the MEA cell testing protocol, no catholyte is applied. The humidified CO
+
+gas flow is driven by a mass flow controller (MFC, Bronkhorst; flow rate: 25 ml min
+−1
+) into the cathode flow field for the reaction. After the reaction, the product stream (out from the reactor) is purged through the condenser and drier, then mixed with a N
+
+bleeding (2.5 ml min
+−1
+) for gas chromatography (GC) analysis. In the anode chamber, KHCO
+
+solution is recycled at a 20 ml min
+−1
+flow rate.
+All the CO
+
+RR performance screening in this report is done at ambient temperature and pressure. The anode and cathode are connected with a potentiostat (Bio-Logic SP150 with a booster channel) to control the current densities. The reference electrode accompanies the anode for a two-electrode configuration and potentio-electrochemical impedance spectra and GEIS modules were carried out to measure the cell resistance. The CO
+
+RR performance was assessed at various current densities. Each current step was held for 15 min before moving on to the next current setting, and the gas stream was injected in the GC sample loop at 14.5 min of each current step.
+When driving the CO
+
+RR in the flow cell, especially at large current densities, substantial (bi-)carbonate crossover should be considered, which causes obvious flow rate depletion. Therefore, the N
+
+bleeding line implemented in our scheme with a defined flow rate (2.5 ml min
+−1
+) serves as an internal standard flow rate.
+Product analysis
+A Shimadzu 2014 online GC was utilized for product quantification. The gas stream is separated by the Hayesep Q + R columns and then analyzed by a thermo conductivity detector and flame ionization detector. The thermo conductivity detector detects the volume percentage (%
+vol
+) of the H
+
+product and the flame ionization detector measures the CO after being methanized. On all the NiNC-type catalysts, no liquid product was found after the electrolysis.
+Data availability
+The data that support the findings of this study are available in the main text and
+Supplementary Information
+.
+Source data
+are provided with this paper.

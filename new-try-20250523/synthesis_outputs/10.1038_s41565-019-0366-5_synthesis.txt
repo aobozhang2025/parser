@@ -1,5 +1,163 @@
 DOI: 10.1038/s41565-019-0366-5
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-Methods Preparation of catalysts For 0.25% Pt/α-MoC, samples with 0.25 wt% Pt loading were prepared using the wetness impregnation method with passivated α-MoC as support 21 . The slurry was stirred for 2 h under Ar protection. The liquid was removed using a rotary evaporator under vacuum at 35 °C. Finally, the powder was put in a frozen dryer overnight to remove the residual moisture. Ru/Al 2 O 3 and 0.5% Pt/TiO 2 were prepared using a similar method. For 0.5% Pt/C (reference catalyst), the 5% Pt/C commercial catalyst (Alfa-Aesar) was diluted using Vulcan XC-72. For 0.08% Pt 1 /FeO x , an aqueous solution of chloroplatinic acid and ferric nitrate (Fe(NO 3 ) 3 ·9H 2 O, 1 mol l −1 ) was co-precipitated, with the pH value of the resulting solution controlled at about 8 by sodium carbonate at 50 °C. The recovered solid was dried at 60 °C overnight and calcined at 400 °C for 5 h. Before characterization and reactivity testing, the samples were reduced in 10% H 2 /He at 250 °C for 0.5 h 18 , 27 . This catalyst was provided by B. Qiao as used in a previous study 18 .
+Preparation of catalysts
+For 0.25% Pt/α-MoC, samples with 0.25 wt% Pt loading were prepared using the wetness impregnation method with passivated α-MoC as support
+
+. The slurry was stirred for 2 h under Ar protection. The liquid was removed using a rotary evaporator under vacuum at 35 °C. Finally, the powder was put in a frozen dryer overnight to remove the residual moisture. Ru/Al
+
+O
+
+and 0.5% Pt/TiO
+
+were prepared using a similar method.
+For 0.5% Pt/C (reference catalyst), the 5% Pt/C commercial catalyst (Alfa-Aesar) was diluted using Vulcan XC-72.
+For 0.08% Pt
+
+/FeO
+x
+, an aqueous solution of chloroplatinic acid and ferric nitrate (Fe(NO
+
+)
+
+·9H
+
+O, 1 mol l
+−1
+) was co-precipitated, with the pH value of the resulting solution controlled at about 8 by sodium carbonate at 50 °C. The recovered solid was dried at 60 °C overnight and calcined at 400 °C for 5 h. Before characterization and reactivity testing, the samples were reduced in 10% H
+
+/He at 250 °C for 0.5 h
+
+,
+
+. This catalyst was provided by B. Qiao as used in a previous study
+
+.
+Evaluation of catalytic performance
+Before the catalytic performance evaluation, the 0.25% Pt/MoC catalyst was activated in a CH
+
+/H
+
+mixture (15/85 v/v). First, the temperature was kept at 300 °C for 1 h and then raised to 590 °C and held for 2 h. The Pt/oxide and Ru/oxide catalysts were activated in a H
+
+flow at 500 °C. After being cooled to room temperature, the activated samples were transferred into de-aerated solvent in an autoclave under the protection of Ar flow. The sealed autoclave was purged using the desired gas feed three times. The catalytic reactions were carried out at the designated temperature with a stirring speed of 1,000 r.p.m.
+When using organic solvent (cyclohexane), the liquid substrate was added directly to the autoclave containing the solvent and internal standard. Cyclohexane, as a non-proton solvent, was chosen for this study to eliminate the influence of solvents containing active O–H bonds in the hydrogenation reaction. We have previously demonstrated that the Pt/α-MoC catalyst is highly active in O–H activation
+
+. The solid reactants were dissolved first and then added to the solvent with the internal standard.
+When using an aqueous medium, the solid substrates were dissolved with organic solvents first and then added to water. Although the reactants in the solvent may have a low solubility in water, the reaction could still happen at the interface of the water–reactant, especially under fast stirring. Indeed, the aqueous-phase hydrogenation of benzene derivatives (which also have a low solubility in water) has been reported
+
+. Therefore, the low solubility of substrates should not be an influential factor.
+After reaction, the cyclohexane with internal standard was added to extract the residual substrate and products from water for 15 min. The extraction time was determined by optimization experiments in which 10-, 15- and 30-min extraction times were tested.
+For the product analysis, the liquid organic phase was first analysed using an Agilent 7890A-5975C GC–MS, equipped with a HP-5 column. An electron ionization mass spectrometer with a triple-axis detector was used as the detector. If no reactant and only one product was detected by GC–MS, the reaction result was denoted as 100%/>99.9% (conversion/selectivity). Otherwise, the products were further analysed using an Agilent 7820 gas chromatograph with a flame ionization detector to obtain precise quantification results. A calibration curve with five points of related products and substrates was established using an inlet standard method to determine the response factors. Most of the reported conversion and selectivity values are the average of at least two parallel experiments. The carbon balance of the reactions is around 92%.
+The experimental conditions of the GC–MS analysis are as follows: the initial temperature of the column was set at 120 °C for 2 min, then the temperature was raised to 230 °C at a rate of 10 °C min
+–1
+and held for 3 min. The total running time for each injection was 16 min.
+Structure characterization
+XAFS analysis
+Pt L
+
+edge (11564 eV) XAFS spectra were measured using the BL14W beamline at the Shanghai Synchrotron Radiation Facility in fluorescence mode, using the Lytle detector to collect the data. Pt foil and PtO
+
+(Adamas) were used as standards. Before measurement, the 0.25% Pt/α-MoC catalyst was activated in a mixture of CH
+
+and H
+
+(20/80 v/v) at 590 °C for 2 h. Then, the activated XAFS samples were sealed in a chamber with Kapton windows under Ar protection in a glovebox after activation.
+All XAFS spectra were processed using the IFEFFIT package
+
+. The EXAFS oscillations were fitted according to back-scattering equation, using the FEFF models generated from crystal structures of MoC (Fm-3m) and Pt (Fm-3m).
+XPS analysis
+The XPS spectra of the activated 0.25% Pt/α-MoC catalyst were collected using an Axis Ultra Imaging Photoelectron Spectrometer (Kratos Analytical). The passivated 0.25% Pt/α-MoC catalyst was made into a small pellet (7 mm in diameter), clamped on a copper sample holder, and transferred into the pretreatment chamber of the XPS spectrometer. The pellet of catalyst was activated in the pretreatment chamber under a 20 ml min
+–1
+flow of CH
+
+/H
+
+(15/85 v/v) mixture at 1 atm, 590 °C for 2 h. After pumping out the pretreatment chamber, the sample was then transferred directly into the ultrahigh vacuum chamber for XPS measurement at room temperature without exposure to air. The XPS spectra were processed using CasaXPS software.
+Electron microscopy
+STEM characterization was performed on an aberration-corrected scanning transmission electron microscope operated at 100 kV
+
+. The convergence angle was set to 30 mrad, while the inner angle of the annular dark-field detector was set to 86 mrad to obtain atomic number contrast (
+Z
+-contrast) in the images. The catalyst samples for STEM analysis were prepared by dry dispersing the catalyst powders directly onto TEM grids inside a glovebox under the protection of Ar and without vacuum baking. Thin samples were also prepared by first embedding the catalyst powers into resin and then slicing into electron-transparent TEM specimens using a microtome. The STEM results obtained from samples prepared by these two different methods are qualitatively the same.
+DFT calculations
+All spin polarization calculations were performed using the plane wave-based periodic DFT method as implemented in the Vienna Ab Initio Simulation Package
+
+,
+
+. The electron–ion interaction was described using the projector augmented wave method
+
+,
+
+. The electron exchange and correlation energies were treated within the generalized gradient approximation in the Perdew–Burke–Ernzerhof functional
+
+. The energy cut-off of the plane wave basis was set to 450 eV. An electron smearing width of
+σ
+= 0.2 eV was used via the Methfessel–Paxton technique to speed up the convergence of the metallic systems. All transition states were estimated using the climbing image nudged elastic band method
+
+, and we analysed the stretching frequencies to characterize whether a stationary point is a minimum state without imaginary frequency or a transition state with only one imaginary frequency.
+The adsorption energy was calculated according to
+E
+ads
+=
+E
+X/slab
+− [
+E
+slab
++
+E
+X
+], where E
+X/slab
+is the total energy of the slab with adsorbates in its equilibrium geometry,
+E
+slab
+is the total energy of the bare slab, and
+E
+X
+is the total energy of the free adsorbates in the gas phase. Therefore, the more negative the
+E
+ads
+, the stronger the adsorption. The barrier (
+E
+a
+) and reaction energy (∆
+E
+r
+) were calculated according to
+E
+a
+=
+E
+TS
+−
+E
+IS
+and ∆
+E
+r
+=
+E
+FS
+−
+E
+IS
+, where
+E
+IS
+,
+E
+FS
+and
+E
+TS
+are the total energies of the corresponding initial state (IS), final state (FS) and transition state (TS), respectively.
+The calculated lattice constant of a cubic MoC cell (fcc) is 4.3318 Å (experimental value is 4.270 Å), and the Mo–Mo bond length is 3.063 Å. In this work, the same unit cells p(4 × 4) for α-MoC and Pt
+
+/α-MoC surfaces were used to assess the elementary steps involved in chemoselective hydrogenation, and the 3 × 3 × 1 k-point sampling was set for them. In total, three Mo-atom layers and three C-atom layers overlaid in an alternate manner (16 atoms per layer) were used for α-MoC, and one Pt atom was adsorbed on α-MoC, forming the Pt
+
+/α-MoC. The Pt coverage was 1/16. During these simulations, the atoms in the bottom three layers of these two models were fixed, while the other atoms were allowed to move freely.
+Data Availability
+The data that support the plots within this paper and other findings of this study are available from the corresponding author, X.D.W., upon reasonable request.

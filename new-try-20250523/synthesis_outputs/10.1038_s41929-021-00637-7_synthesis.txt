@@ -1,5 +1,710 @@
 DOI: 10.1038/s41929-021-00637-7
-Source: supplementary
-==================================================
+Source: supplementary PDF
+--------------------------------------------------
 
-Synthesis of ZIF-8 A Zn(NO3)2·6H2O (5.58 g) in methanol was added to a solution of 2-methylimidazole (6.16 g) methanol in methanol with vigorous stirring at room temperature for 24 h. The precipitates were separated by centrifugation, washed with methanol and dried under vacuum at 80 °C. Synthesis of ZIF-8/Ir@PZS ZIF-8/Ir@PZS, 4,4′-sulfonyldiphenol (800 mg) and phosphonitrilic chloride trimer (375 mg) were dissolved in 250 mL of methanol. The obtained powder of ZIF-8 (600 mg) was dispersed in 100 mL of methanol, followed by injection of 7.08 mL of a methanol solution of iridium (IV) chloride (1 mg/mL) into the dispersion of ZIF-8. Subsequently, the dispersion was added into the initial methanol solution followed by vigorous stirred. 3 mL of triethylamine was introduced dropwise into the above-resulting dispersion and the obtain dispersion was stirred for 15 h. The as-obtained precipitates were separated by centrifugation, washed with methanol several times and finally dried in vacuum at 80 °C. Synthesis of Ir-SA The above-obtained powders of ZIF-8/Ir@PZS were placed in quartz boat and maintained at 950 °C for 3 h in a tube furnace with a heating rate of 5 °C min-1 under a flow of argon atmosphere. After cooling to room temperature, the as-prepared samples of Ir-SA were collected and used without further treatment. Preparation of homogeneous catalyst Ir(ttp)COCl [Ir(COD)Cl]2 (100 mg, 0.149 mmol) and H2TTP (70 mg, 0.104 mmol) were added into 100 mL round bottom flask with 40 mL xylene inside, the mixture was refluxed for 3 days. After cooling, the crude reaction solution was dried under vacuum, and the residue was purified by column. The Ir complex was obtained as purple solid, which was further recrystallized with EA/Hexane to give crystalized pure product. 1H-NMR (400 MHz, Chloroform-d) δ p.p.m. 8.94 (s, 8H), 8.16 (ddd, J = 25.5, 8.6, 1.9 Hz, 8H), 7.58 (d, J = 8.2 Hz, 8H), 2.72 (s, 12H). NNNNIrCOCl
+Preparation of homogeneous catalyst Ir(ttp)COCl
+Characterizations of Ir-SA catalyst
+XAFS measurements and data analysis details
+General catalysis Procedure
+DFT study information
+Supplementary Discussions
+Structural confirmation of heterogeneous Ir-SA
+Hot filtration experiments
+Comparison of Ir-SA and Ir\Rh\Cu homogeneous catalyst on selective insertions
+Selective O-H carbenoid insertions
+Kinetic studies
+Details of DFT studies
+Analytical data of carbenoid insertion products
+POSCAR files for optimized structures
+NMR Spectra
+Supplementary references
+Supplementary 
+Supplementary 
+Supplementary 
+Supplementary 
+symbols) and desorption (open symbols) isotherm for the Ir-SA catalyst at 77 K. b, Pore size
+distribution for FeN P-SAzyme. The pore size distribution is calculated by the Horvath–Kawazoe
+
+(HK) method.
+Supplementary 
+Ir-SA catalyst and the theoretical Ir-SA. (c) The structures of Ir-SA (left) and Ir(ttp)COCl (right).
+Supplementary 
+fitting analysis of Ir powder (a), IrO (b), Ir(ttp)COCl (c) and Ir-SA (d) for Ir L -edge XANES
+2 3
+spectra by arctangent function and a Gauss function with ATHENA module of the IFEFFIT software
+packages9-11. (e), The fitted average oxidation number of Ir in Ir powde, IrO , Ir(ttp)COCl and Ir-
+
+SA.
+Supplementary 
+Ir-4N (SP) Ir-4N
+1.948 Å
+1.945 Å
+1.948 Å
+1.999 Å
+2.011 Å 1.947 Å
+1.948 Å 1.949 Å
+Supplementary 
+HO 2 HO COOMe
+Ph O + + Ph O COOMe
+OH N2 O Ph
+OMe OH O Ph
+2m (1.0 equiv.) 3am 3am’ 3am’’
+O
+1a (2.0 equiv.)
+0.2
+0.18
+0.16
+0.14
+0.12
+0.1
+0.08
+0.06
+0.04
+0.02
+
+0 2 4 6 8 10 12 14
+Supplementary 
+tcudorP
+Hot filtration test
+Reaction time (h)
+Yield of 3am' Yield of 3am'' Yield of 3am
+Supplementary 
+Ir species is still preserved after catalytic cycles tests.
+Supplementary 
+L -edge XANES curve of the used Ir-SA catalyst is higher than that of the fresh Ir-SA, indicating
+
+that average oxidation state of the Ir single atoms in the used Ir-SA catalyst is higher than that of the
+fresh Ir-SA. (b) Ir L -edge k3-weighted Fourier transform (FT) spectra of the Ir-SA, used Ir-SA, Ir
+
+powder and IrO samples, respectively. Only a major peak is observed in EXAFS spectra for the
+
+used Ir-SA (at ~1.80 Å) and fresh Ir-SA (~1.60 Å), respectively. And no Ir-Ir signals in the the Ir-
+SA and used Ir-SA are observed. The results indicate that the atomic dispersion of Ir species is
+maintained after catalytic reaction. However, the bond length of Ir-N in the used Ir-SA is slightly
+longer than that of the fresh Ir-SA.
+catalyst (cid:11)(cid:19)(cid:17)(cid:24)(cid:19)(cid:3)(cid:80)(cid:82)(cid:79)(cid:8)(cid:12)
+1a (2.0 equiv.) COOMe COOMe
+HO 1,2-DCE, 60ºC, N2
+Ph O +
+HO COOMe
++ Ph O COOMe
+OH O Ph
+2m 3am OH 3am’ 3am’’ O Ph
+total yield; (3am : 3am’ : 3am’’)
+Ir-(cid:54)(cid:36)(cid:29) 99% yield; (99 : 0 : 1)
+Ir(ttp)COCl: 99% yield; (50 : 0 : 50)
+[Rh(OAc)2]2: 76% yield; (29 : 0 : 71)
+CuTc: 89% yield; (84 : 0 : 16)
+Supplementary 
+HO 1,2-DCE, 60ºC, N 2 HO COOMe
+Ph O + + Ph O COOMe
+OH O Ph
+2m 3am
+OH
+3am’ 3am’’
+O Ph
+
+0 100 200 300 400 500 600 700 800 900 1000
+Supplementary 
+Time(minutes)
+catalyst (0.50 mol%)
+1a (2.0 equiv.) COOMe COOMe
+HO 1,2-DCE, 60ºC, N 2 HO COOMe
+Ph O + + Ph O COOMe
+OH O Ph
+2m 3am
+OH
+3am’ 3am’’
+O Ph
+
+0 200 400 600 800 1000 1200 1400 1600
+Supplementary 
+Time(minutes)
+Supplementary 
+6.25 0.2119 0.2063 0.2038 0.207333333 0.00414769
+9.375 0.2094 0.2081 0.2088 0.208766667 0.00065064
+12.5 0.2063 0.215 0.2131 0.211466667 0.0045742
+Supplementary 
+0.18
+0.16
+0.14
+0.12
+0.1
+0.08 y = 0.0033x + 0.0369
+0.06 R² = 0.9884
+0.04
+0.02
+
+0 5 10 15 20 25 30 35 40
+Supplementary 
+Conc. of diazo 1a (mM) Rate (mM/min)-First Rate (mM/min)-Second Rate (mM/min)-Third Mean Rate (mM/min) STDEV
+12.5 0.0819 0.0805 0.0781 0.080166667 0.001921805
+25 0.1131 0.1138 0.115 0.113966667 0.000960902
+37.5 0.1563 0.1625 0.1494 0.156066667 0.006553116
+Supplementary 
+Ir-Porphyrin Ir(ttp)COCl
+Supplementary 
+transition states in the selective OH insertion over Ir-SA. Different elements were described as white
+(H), blue (N), gray (C), red (O) and pink (Ir). (d) Free energy diagram for the selective OH insertion
+over Ir-SA. The red and blue line shows the competitive insertion of C(sp2)O-H and C(sp3)O-H
+respectively. All the energies were corrected to free energy at 333 K.
+Supplementary 
+C(sp2)-O and C(sp3)-O respectively. All the energies were corrected to free energy at 333 K.
+1.8
+1.2
+0.6
+0.0
+-0.6
+Supplementary 
+Supplementary 
+eerF
+Ir-SA (TS-2)
+Concerted
+Stepwise 0.07 eV
+0.55 eV
+0.21 eV
+Reaction coordinate
+2.4
+1.4
+0.4
+-0.6
+-1.6
+)Ve(
+ygrene
+eerF
+3.0
+2.0
+1.0
+0.0
+-1.0
+Ir(ttp)COCl(TS-2)
+Concerted
+Stepwise
+0.17 eV
+1.36 eV
+1.28 eV
+Reaction coordinate
+)Ve(
+ygrene
+eerF
+Ir-SA (TS-3)
+Concerted
+Stepwise
+1.56 eV 0.01 eV
+0.74 eV
+Reaction coordinate
+2.4
+1.4
+0.4
+-0.6
+-1.6
+)Ve(
+ygrene
+eerF
+(a) (b)
+(c) (d)
+Ir(ttp)COCl(TS-3)
+Concerted
+Stepwise
+0.19 eV
+1.94 eV
+1.01 eV
+Reaction coordinate
+3.0
+2.0
+1.0
+0.0
+-1.0
+-2.0 -1.5 -1.0 -0.5 0.0
+Supplementary 
+Supplementary 
+noitavitcA
+Selective to 3am’’ Selective to 3am
+Ir(ttp)COCl
+Ir-SA
+Higher activity Higher activity
+E C H C(=Ir*)COOCH (eV)
+ad 6 5 3
+
+-20
+-40
+-60
+-80
+-100
+-120
+-140
+)Ve(
+ygrene
+noitamroF
+Ir-0N Ir-1N Ir-2N-1 Ir-2N-2 Ir-3N Ir-4N
+Ir-0N Ir-1N Ir-2N-1
+Ir-2N-2 Ir-3N Ir-4N
+Ir-SA Ir(ttp)COCl
+Supplementary 
+
+IrO and Ir-SA samples.a
+
+Sample path N R (Å) σ2 (×10-3 Å2) ΔE (eV) R, %
+
+Ir powerb Ir−Ir1 12 2.47 6.1 0.5 0.01
+Ir−O1 2 1.96 4.7
+IrO c 1.6 0.01
+
+Ir−O2 4 1.98 6.0
+Ir−C/N1 1.5 1.83 4.7
+Ir-SAd 9.6 0.1
+Ir−C/N2 2.7 2.05 5.0
+aN, coordination number; R, distance between absorber and backscatter atoms; σ2,
+Debye-Waller factor to account for both thermal and structural disorders; ΔE , inner
+
+potential correction; R factor (%) indicates the goodness of the fit. Error bounds
+(accuracies) that characterize the structural parameters obtained by EXAFS
+spectroscopy were estimated as N ± 20%; R ± 1%; σ2 ± 20%; ΔE ± 20%. S 2 was fixed
+0 0
+to 1.0. Bold numbers indicate fixed coordination number (N) according to the crystal
+structure. bFitting range: 3.0 ≤ k (/Å) ≤ 13.5 and 1.4 ≤ R (Å) ≤ 3.0. cFitting range: 2.0 ≤
+k (/Å) ≤ 12.5 and 1.0 ≤ R (Å) ≤ 2.0. dFitting range: 2.6 ≤ k (/Å) ≤ 10.0 and 1.0 ≤ R (Å)
+≤ 3.2.
+Supplementary 
+
+Å2)
+Ir-SAd Ir−C/N1 4.5 2.07 7.8 13.5 0.2
+aN, coordination number; R, distance between absorber and backscatter atoms; σ2,
+Debye-Waller factor to account for both thermal and structural disorders; ΔE , inner
+
+potential correction; R factor (%) indicates the goodness of the fit. Error bounds
+(accuracies) that characterize the structural parameters obtained by EXAFS
+spectroscopy were estimated as N ± 20%; R ± 1%; σ2 ± 20%; ΔE ± 20%. S 2 was fixed
+0 0
+to 1.0. Bold numbers indicate fixed coordination number (N) according to the crystal
+structure. dFitting range: 2.6 ≤ k (/Å) ≤ 10.0 and 1.0 ≤ R (Å) ≤ 3.2.
+Supplementary 
+Ir-N1 1.83 1.95 1.5 2
+Ir-N2 2.05 2.00 2.7 2
+Supplementary 
+Used Ir- Ir−C/N1 1.9 1.91 5.5
+10.0 0.1
+SAb Ir−C/N2 3.3 2.12 6.0
+aN, coordination number; R, distance between absorber and backscatter atoms; σ2,
+Debye-Waller factor to account for both thermal and structural disorders; ΔE , inner
+
+potential correction; R factor (%) indicates the goodness of the fit. Error bounds
+(accuracies) that characterize the structural parameters obtained by EXAFS
+spectroscopy were estimated as N ± 20%; R ± 1%; σ2 ± 20%; ΔE ± 20%. S 2 was fixed
+0 0
+to 1.0. Bold numbers indicate fixed coordination number (N) according to the crystal
+structure.bFitting range: 2.6 ≤ k (/Å) ≤ 10.0 and 1.0 ≤ R (Å) ≤ 3.2.
+Supplementary 
+Ir-Porphyrin -1.78
+Ir(ttp)COCl -1.85
+Supplementary 
+6 5 3
+TS-1 6.94 6.94
+TS-2 6.79 6.94
+TS-3 10.61 10.81
+TS-C H CN COOCH dissociation 3.67 3.64
+6 5 2 3
+Surface species (Stepwise mechanism) Ir-SA Ir(ttp)ClCO
+C H C(-Ir*)COOCH -O(H)CH C H OH 7.11 7.02
+6 5 3 2 6 4
+C H C(-Ir*)COOCH -O(H)C H CH O-C H CHCOOCH 10.76 10.59
+6 5 3 6 4 2 6 5 3
+TS-2 (C-O association) 6.98 6.93
+TS-2 (H transfer) 6.85 6.84
+TS-3 (C-O association) 10.65 10.61
+TS-3 (H transfer) 10.64 10.50
+Gas molecule
+C H CN COOCH 3.08
+6 5 2 3
+CH OHC H OH 2.68
+2 6 4
+C H CHCOOCH -CH OC H OH 6.31
+6 5 3 2 6 4
+C H CHCOOCH -OC H CH OH 6.34
+6 5 3 6 4 2
+C H CHCOOCH -CH OC H O-C H CHCOOCH 9.91
+6 5 3 2 6 4 6 5 3
+N -0.43
+
+Supplementary methods
+General information
+All catalytic reactions were carried out under nitrogen atmosphere in vials with
+magnetic stirring. Iridium(IV) chloride (Ir 56.5%, IrCl ), Zinc nitrate hexahydrate (98%,
+
+Zn(NO ) ·6H O), 4,4′-sulfonyldiphenol (99%), phosphonitrilic chloride trimer (98%)
+3 2 2
+and 2-methylimidazole (98%) were purchased from Alfa Aesar company.
+Triethylamine (analytical grade) and methanol (analytical grade, MeOH), were
+purchased from Sinopharm Chemical. All reagents were used without any further
+purification. All other reagents were used as obtained from the suppliers. Flash
+Chromatography was performed with Fluka silica gel 60 (0.040-0.063 µm grade).
+Compounds were visualized by UV-light at 254 nm and by dipping the plates in an
+ethanolic vanillin or an aqueous KMnO solution followed by heating. Proton nuclear
+
+magnetic resonance (1H-NMR) data were acquired on a Bruker AV400 (400 MHz),
+Bruker Avance500 (500 MHz). Chemical shifts are reported in delta (d) units, in parts
+per million (ppm) downfield from tetramethylsilane. Splitting patterns are designated
+as s, singlet; d, doublet; t, triplet; q, quartet; sept, septet; m, multiplet, br, broad. Proton
+decoupled Carbon-13 nuclear magnetic resonance (13C-NMR) data were acquired at
+
+Synthesis of ZIF-8
+A Zn(NO ) ·6H O (5.58 g) in methanol was added to a solution of 2-
+3 2 2
+methylimidazole (6.16 g) methanol in methanol with vigorous stirring at room
+temperature for 24 h. The precipitates were separated by centrifugation, washed with
+methanol and dried under vacuum at 80 °C.
+
+Synthesis of ZIF-8/Ir@PZS
+ZIF-8/Ir@PZS, 4,4′-sulfonyldiphenol (800 mg) and phosphonitrilic chloride trimer
+(375 mg) were dissolved in 250 mL of methanol. The obtained powder of ZIF-8 (600
+mg) was dispersed in 100 mL of methanol, followed by injection of 7.08 mL of a
+methanol solution of iridium (IV) chloride (1 mg/mL) into the dispersion of ZIF-8.
+Subsequently, the dispersion was added into the initial methanol solution followed by
+vigorous stirred. 3 mL of triethylamine was introduced dropwise into the above-
+resulting dispersion and the obtain dispersion was stirred for 15 h. The as-obtained
+precipitates were separated by centrifugation, washed with methanol several times and
+finally dried in vacuum at 80 °C.
+
+Synthesis of Ir-SA
+The above-obtained powders of ZIF-8/Ir@PZS were placed in quartz boat and
+maintained at 950 °C for 3 h in a tube furnace with a heating rate of 5 °C min-1 under a
+flow of argon atmosphere. After cooling to room temperature, the as-prepared samples
+of Ir-SA were collected and used without further treatment.
+
+Preparation of homogeneous catalyst Ir(ttp)COCl
+N CON
+Ir
+N Cl N
+[Ir(COD)Cl] (100 mg, 0.149 mmol) and H TTP (70 mg, 0.104 mmol) were added into
+2 2
+100 mL round bottom flask with 40 mL xylene inside, the mixture was refluxed for 3
+days. After cooling, the crude reaction solution was dried under vacuum, and the
+residue was purified by column. The Ir complex was obtained as purple solid, which
+was further recrystallized with EA/Hexane to give crystalized pure product. 1H-NMR
+(400 MHz, Chloroform-d) δ p.p.m. 8.94 (s, 8H), 8.16 (ddd, J = 25.5, 8.6, 1.9 Hz, 8H),
+7.58 (d, J = 8.2 Hz, 8H), 2.72 (s, 12H).
+Characterizations of Ir-SA catalyst
+Hitachi H-800 transmission electron microscope (TEM) was performed to confirm
+sizes and morphologies. The high-angle annular dark-field scanning transmission
+electron microscopy (HAADF-STEM) images and elemental mappings were collected
+on JEOL 200F transmission electron microscope operated at 200 keV, equipped with a
+probe spherical aberration corrector. Rigaku RU-200b X-ray powder diffractometer
+(XRD) with Cu Kα radiation (λ = 1.5406 Å) was used to record the crystalline structure
+and purity. X-ray photoelectron spectroscopy (XPS) experiments were performed by
+using a ULVAC PHI Quantera microscope. The metal Ir concentrations were measured
+by an Optima 7300 DV inductively coupled plasma optical emission spectrometer (ICP-
+OES).
+XAFS measurements and data analysis details
+The X-ray absorption find structure spectra data for Ir L -edge of samples were
+
+collected at 1W1B station in Beijing Synchrotron Radiation Facility (BSRF) and
+BL14W1 station in Shanghai Synchrotron Radiation Facility (SSRF). The XAFS data
+of Ir-SA samples were collected at room temperature in fluorescence excitation mode
+using a Lytle detector and all the references (Ir powder and IrO ) were recorded in
+
+transmission mode using ionization chamber.
+The acquired EXAFS data were processed according to the standard procedures using
+the ATHENA module implemented in the IIRFFIT software packages. The EXAFS
+spectra were obtained by subtracting the post-edge background from the overall
+absorption and then normalizing with respect to the edge-jump step. Subsequently, χ(k)
+data of Ir L -edge were Fourier transformed to real (R) space using a hanning windows
+
+(dk=1.0 Å-1) to separate the EXAFS contributions from different coordination shells.
+To obtain the quantitative structural parameters around central atoms, least-squares
+curve parameter fitting was performed using the ARTEMIS module of IIRFFIT
+software packages.
+The following EXAFS equation was used:
+N S2F (k) -2R (Supplementary Equation 1)
+c(k)=å j o j exp[-2k2s2]exp[ j]sin[2kR +f(k)]
+kR2 j l(k) j j
+j
+j
+In the equation, S 2, F(k), N, R, λ, σ and ϕ(k) respectively represent the amplitude
+0 j j j j j
+reduction factor, the effective curved-wave backscattering amplitude, the number of
+neighbors in the jth atomic shell, the distance between the X-ray absorbing central atom
+and the atoms in the jth atomic shell (backscatterer), the mean free path in Å, the Debye-
+Waller parameter of the jth atomic shell (variation of distances around the average R)
+j
+and the phase shift (including the phase shift for each shell and the total central atom
+phase shift). The functions F(k), λ and ϕ(k) were calculated with the ab initio code
+j j
+FEFF8.2.
+General Catalysis Procedure A (GPA)
+In a glovebox, diazo compound (0.075 mmol, 1.50 equiv.) and nucleophile (0.05 mmol,
+1.0 equiv.) were added sequentially to a suspension of iridium catalyst (1.0 mol%) in
+1,2-dichloroethane (0.50 mL) in a two-dram vial. The reaction vial was then sealed and
+stirred at 60 ºC over 20 hours. After cooling down to room temperature, volatiles were
+removed using a rotary evaporator and the obtained crude mixture was purified on silica
+gel by flash chromatography using petroleum ether and EtOAc as eluents.
+General Catalysis Procedure B (GPB)
+In a glovebox, diazo compound (0.10 mmol, 2.0 equiv.) and nucleophile (0.05 mmol,
+1.0 equiv.) were added sequentially to a suspension of iridium catalyst (0.50 mol%) in
+1,2-dichloroethane (0.50 mL) in a two-dram vial. The reaction vial was then sealed and
+stirred at 60 ºC over 20 hours. After cooling down to room temperature, volatiles were
+removed using a rotary evaporator and the obtained crude mixture was purified on silica
+gel by flash chromatography using petroleum ether and EtOAc as eluents.
+DFT calculations information
+DFT calculations were conducted using the Vienna Ab initio Simulation Package
+(VASP) with the revised Perdew-Burke-Ernzerhof (rPBE) performing the generalized
+gradient approximation (GGA). A 8×8 single-layer graphene with 15 Å vacuum space
+was built to describe the model of Ir-SA, where the Ir atom was stabilized by 4 N atoms
+and the surface was also doped by S and P atoms (Supplementary . A
+Monkhorst-Pack k-point 2×2×1 was used in all the calculations on Ir-SA. The reaction
+over Ir(ttp)COCl catalyst was calculated in a large supercell with the lattice of
+20×20×20 Å3 to avoid the interactions in the periodic calculations, where A Monkhorst-
+Pack k-point 1×1×1 was used (Supplementary . Ir-Porphyrin
+(Supplementary was employed in DFT studies of the catalytic reaction using
+Ir(ttp)COCl (Supplementary due to the large computational costs. The
+calculated adsorption energy of carbene (C H CCOOCH ) to these two structures
+6 5 3
+displayed only a small difference (0.07 eV), which supports the reliability of the model
+constructed using Ir-Porphyrin (Supplementary . A 400 eV cut-off energy was
+set for the plane-wave basis set. Structure optimizations were performed with the
+convergence force of 0.05 eV·Å-1, and all the transition states were obtained using the
+climbing image nudged elastic band (CI-NEB) method with the convergence force
+smaller than 0.1 eV·Å-1.
+Free energy corrections:
+The free energy corrections were conducted in this work to simulate the reaction
+condition at 333 K. Standard free energy corrections were performed by the equation:
+ΔG = ΔE + ΔE + ΔE – TΔS. (Supplementary equation 2)
+DFT ZPE U
+where ΔE refers to the electronic energy from DFT calculations. ΔE , ΔE and ΔS
+DFT ZPE U
+are the correction of zero-point energy, inner energy, and entropy, respectively. Only
+vibrational motion was considered for adsorbates on the surface of catalysts, while
+translational, rotational, and vibrational motions were all considered for gas molecules.
+The detail of the correction, including adsorbates, transition states and gas molecules,
+is displayed in Supplementary 
+Ir-SA, we have performed the XAFS test of homogeneous Ir(ttp)COCl catalyst as a
+reference sample (Supplementary . XANES was applied to better identify
+the active site structure due to the higher sensitivity to the three-dimensional
+arrangement of atoms around the photoabsorber. Supplementary , a shows
+the XANES profiles for the experimental spectra of Ir(ttp)COCl, the experimental
+spectra of Ir-SA and the theoretical Ir-SA. The absorption edge energy positions located
+at 11215 eV of Ir(ttp)COCl is consistent with that of Ir-SA catalyst. Moreover, the
+experimental XANES features of a, b and c in Ir(ttp)COCl show a good agreement with
+these of Ir-SA catalyst. When we performed theoretical simulation to produce the
+corresponding XANES spectra of Ir-SA based on the structural models, the
+theoretically simulated XANES spectra of Ir-SA match well with the experimental
+XANES spectra (Supplementary , a). As shown in (Supplementary , b), the FT-EXAFS curve of the Ir-SA catalyst demonstrates a main peak at about
+1.60 Å, which is also good agreement with the FT-EXAFS curve in standard
+Ir(ttp)COCl and the theoretically simulated spectra of Ir-SA, indicating that the first
+shell of Ir-SA is the planar four-coordinate structure.
+It is possible to apply the XANES white line intensity to roughly (qualitatively) define
+the oxidation state of transition metals; however, a more reliable quantitative analysis
+on the valence state should be based on the integrated area of the white line
+(Supplementary -11). According to this method, the following average oxidation
+state of Ir were determined: in Ir(ttp)COCl (+3), Ir-SA (close to +2), Ir powder and
+IrO (+4). (See details of XAFS test of homogeneous Ir(ttp)COCl complex catalyst in
+
+Supplementary .
+Furthermore, for fitting with two types of Ir-N bonds of Ir-SA, we have considered the
+types of Ir-C (Ir-N) bonds in XAFS analysis and the initial optimization structure of
+DFT calculations. Supplementary show the experimental FT-EXAFS
+spectra and fitting curve with only one types of Ir-N bonds in the Ir-SA catalyst. We
+find that fitting curve with only one types of Ir-N bonds in the Ir-SA catalyst is
+drastically different from the experimental spectrum of Ir-SA (Supplementary and Supplementary . When we chose two types of Ir-N bonds to fit the
+experimental FT-EXAFS spectra, good agreement is obtained . According to
+the fabrication process , EDS analysis and XPS analysis
+(Supplementary of Ir-SA, Ir, N, P, S and C elements existed in the Ir-SA
+catalyst. The P and S elements in the higher coordination shell have an effect on the
+types of Ir-N bonds in Ir-SA catalyst. In addition, we performed the DFT calculations
+to investigate the types of Ir-N bonds. Supplementary shows the structure
+models of the Ir-SA catalyst with or without the doped S and P in the higher
+coordination shell. The C-N bond length (R) and the coordination number (CN) was
+investigated. Two different kinds of Ir-N bond, displaying an average of bond length to
+be 1.95 and 2.00 Å, can be found in Ir-SA with doped S and P elements. The ratio of
+the coordination number was found to be around 1:1 from DFT calculations. Compared
+with the only kind of C-N bond in the Ir-SA catalyst without the doped S and P, the
+differentiation of C-N bonds is expected to be caused by the specific doping structure.
+These results are in accord with the FT EXAFS results (Supplementary .
+Hot filtration experiments
+In glovebox, 1a (0.1 mmol, 2 equiv.) and 2m (0.05 mmol, 1.0 equiv.), TMB as internal
+standard were added sequentially to a suspension of Ir-SA (1.0 mol%) in 1,2-
+dichloroethane (1.5 mL) in a two-dram vial. The reaction was stirred at 60 oC over 1
+hour, then filtration was done with commercial filter. The 1/3 of clear filtrate was tested
+immediately, and the left filtrate was heated under the same temperature, and tested
+separately after 3 h and 12 h. As depicted in Supplementary , the yield of 3am
+remained at 5%, however, the yield of 3am’’ raised from 1% to 10% in 11 h after
+filtration. (see Supplementary 
+Comparison of Ir-SA and Ir\Rh\Cu homogeneous catalyst on selective insertions
+In a glovebox, diazo 1a (0.10 mmol, 2.0 equiv.) and 2m (0.05 mmol, 1.0 equiv.) were
+added sequentially to a mixture of catalysts (0.50 mol%) in 1,2-dichloroethane (0.50
+mL) in a two-dram vial. The reaction vial was then sealed and stirred at 60 ºC over 20
+hours. After cooling down to room temperature, volatiles were removed rotary
+evaporator and the obtained crude mixture was purified on silica gel by flash
+chromatography using petroleum ether and EtOAc as eluents. The molar ratio of
+products (3am : 3am’ : 3am”) was determined by 1H-NMR spectroscopy. (see
+Supplementary 
+Selective O-H carbenoid insertion of 2m. (Procedure GPB)
+Ir-SA (0.50 mol%)
+1,2-DCE, 60ºC, N COOMe COOMe
+HO 2 HO COOMe
+Ph O + + Ph O COOMe
+OH N2 O Ph
+OMe OH O Ph
+2m (1.0 equiv.) 3am 3am’ 3am’’
+O
+1a (2.0 equiv.)
+1H-NMR spectrum of crude reaction mixture using Ir-SA as the catalyst (3am =
+*):
+7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0
+f1 (ppm)
+1H-NMR spectrum of crude reaction mixture using Ir(ttp)COCl as the catalyst
+(3am = *，3am’’ = &):
+54.0 40.1 03.2
+EA
+EA
+EA
+* *
+* *
+TMB *
+9.0 8.5 8.0 7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0
+f1 (ppm)
+06.0 45.0 90.1
+EA
+EA EA
+TMB &
+&*
+&
+*
+Selective O-H carbenoid insertion of 2p. (Procedure GPB)
+Ir-SA
+(0.50 mol%) COOMe
+1,2-DCE COOMe
+HO OH 60ºC N , 2 N 2 Ph O OH + HO O COOMe Ph + O O COOMe
+OMe Ph Ph
+2p (1.0 equiv.) O 3ap 3ap’ 3ap’’
+1a (2.0 equiv.)
+1H-NMR spectrum of crude reaction mixture using Ir-SA as the catalyst:
+8.5 8.0 7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0 -0.5 -1.0
+f1 (ppm)
+1H-NMR spectrum of crude reaction mixture using Ir(ttp)COCl as the catalyst:
+06.0 50.0 85.0
+TMB
+3ab
+3ab'
+9.0 8.5 8.0 7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0
+f1 (ppm)
+06.0 68.0 31.0
+TMB
+3ab''
+3ab
+Selective O-H carbenoid insertion of 2n. (Procedure GPB)
+Ir-SA
+(0.50 mol%)
+COOMe
+1,2-DCE COOMe
+O COOMe O COOMe
+HO OH 60ºC, N 2 Ph O OH + HO Ph + Ph O Ph
+N2
+OMe
+2n (1.0 equiv.) O 3an 3an’ 3an’’
+1a (2.0 equiv.)
+1H-NMR spectrum of crude reaction mixture using Ir-SA as the catalyst:
+8.0 7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0
+f1 (ppm)
+1H-NMR spectrum of crude reaction mixture using Ir(ttp)COCl as the catalyst:
+06.0 60.0 65 1008 ... 000
+9.0 8.5 8.0 7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0
+f1 (ppm)
+03.0 53.0 48.0
+3an
+TMB
+3an’
+3an
+TMB
+3an’
+Selective O-H carbenoid insertion of 2o. (Procedure GPB)
+Ir-SA
+(0.50 mol%)
+1,2-DCE
+HO 60ºC, N 2 HO Ph + Ph O + Ph O Ph
+OH
+N2
+OMe
+O CO2Me MeO2C OH MeO2C O COOMe
+2o (1.0 equiv.) O 3ao 3ao’ 3ao’’
+1a (2.0 equiv.)
+1H-NMR spectrum of crude reaction mixture using Ir-SA as the catalyst:
+8.5 8.0 7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0
+f1 (ppm)
+1H-NMR spectrum of crude reaction mixture using Ir(ttp)COCl as the catalyst:
+85.0 40.0 48.0
+8.5 8.0 7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0 -0.5
+f1 (ppm)
+03.0 94.0 88.0
+TMB
+3ao
+3ao’
+3ao’
+TMB
+3ao
+Selective O-H carbenoid insertion of 2q. (Procedure GPB)
+Ir-SA
+(0.50 mol%)
+CO Me CO Me
+1,2-DCE 2 2
+OH 60ºC, N 2 OH CO 2 Me + Ph O + Ph O CO 2 Me
+O Ph
+OH N 2 OH O Ph
+OMe
+2q (1.0 equiv.) 3aq 3aq’ 3aq’’
+O
+1a (2.0 equiv.)
+1H-NMR spectrum of crude reaction mixture using Ir-SA as the catalyst:
+8.5 8.0 7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0
+f1 (ppm)
+1H-NMR spectrum of crude reaction mixture using Ir(ttp)COCl as the catalyst:
+06.0 70.0 69.0
+5.2 5.1 5.0 4.9 4.8 4.7 4.6
+f1 (ppm)
+70.0 69.0
+8.5 8.0 7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0
+f1 (ppm)
+03.0 41.0 85.0
+5.2 5.1 5.0 4.9 4.8
+f1 (ppm)
+41.0 85.0
+3aq’’
+TMB
+3aq
+3aq’’
+TMB 3aq
+Selective O-H carbenoid insertion of 2r. (Procedure GPB)
+Ir-SA
+(0.50 mol%) CO Me
+CO Me 2
+1,2-DCE OH 2
+Ph OH OH 60ºC N , 2 N 2 Ph O Ph CO 2 Me + Ph Ph O OH + Ph Ph O O CO 2 Me
+OMe Ph
+2r (1.0 equiv.) 3ar 3ar’ 3ar’’
+O
+1a (2.0 equiv.)
+1H-NMR spectrum of crude reaction mixture using Ir-SA as the catalyst:
+7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0
+f1 (ppm)
+1H-NMR spectrum of crude reaction mixture using Ir(ttp)COCl as the catalyst:
+06.0 06.1
+8.5 8.0 7.5 7.0 6.5 6.0 5.5 5.0 4.5 4.0 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0 -0.5
+f1 (ppm)
+03.0 91.0 5843..00
+5.6 5.4 5.2 5.0 4.8 4.6 4.4
+f1 (ppm)
+91.0 83.0 54.0
+TMB
+3ar(2H)
+3ar’’(2 isomers) 3ar(1H)
+TMB
+Selective O-H carbenoid insertion of 2s. (Procedure GPB)
+Ir-SA
+(0.50 mol%) Ph COOMe Ph COOMe
+1,2-DCE OH
+O O
+HO 60ºC, N 2
+CO Me + +
+
+N 2 CO 2 Me
+NH 2 OMe N Ph
+H NH N Ph

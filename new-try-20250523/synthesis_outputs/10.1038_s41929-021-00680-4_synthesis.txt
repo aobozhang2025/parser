@@ -1,5 +1,248 @@
 DOI: 10.1038/s41929-021-00680-4
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-Catalyst preparation The initial experiments to investigate the role of atom-trapped Pt were performed with the commercial ceria (Solvay-Rhodia HS 5, also referred to as HSA ceria since it has a higher surface area than the ceria prepared by calcination of Ce(NO 3 ) 3 , which was used for the Pd–Pt catalysts). To prepare engineered CeO 2 , tetraamineplatinum nitrate solution was impregnated onto CeO 2 powder by conventional wet impregnation, followed by drying at 120 °C for 12 h. The powder was then calcined at 800 °C for 10 h in flowing air. The obtained materials were denoted as 1Pt@CeO 2 and 3Pt@CeO 2 , corresponding to the Pt loadings of 1 and 3 wt.%, respectively. The high temperature treatment causes a drop in BET surface area, from 135 m 2 g −1 for the as-received ceria to 60 m 2 g −1 for the pure ceria (PS ceria), 78 m 2 g −1 for 1Pt@CeO 2 and 100 m 2 g −1 for the 3Pt@CeO 2 sample. The Pt interacts strongly with the ceria surface, pinning defect sites and slowing the rate of ceria sintering 26 , 35 . The nucleation and growth of Pt on PS CeO 2 support (precalcined at 800 °C in air for 10 h) and the 1Pt@CeO 2 (subjected to a similar thermal treatment) helped identify the role of trapped Pt atoms during catalyst preparation. An appropriate amount of tetraamineplatinum nitrate (Pt(NH 3 ) 4 (NO 3 ) 2 ) was added to each support followed by drying at 120 °C for 12 h and calcination at 500 °C for 4 h in air. The total Pt loading for each catalyst was 3 wt.% Pt and the samples were denoted as 3 wt.%Pt/PS ceria and 2Pt/1Pt@CeO 2 . For the methane oxidation study, we used ceria powder prepared in the laboratory via decomposition of Ce(NO 3 ) 3 , as described in our previous work 26 . This ceria powder has a BET surface area of 85 m 2 g −1 as prepared. To prepare the engineered catalyst support, we used 2 wt.% Pt via impregnation, drying in air, calcination at 500 °C following by ageing in air at 800 °C for 10 h. This catalyst support is denoted as 2Pt@CeO 2 . Palladium nitrate (1.09 wt.% Pd) was deposited on the 2Pt@CeO 2 by wet impregnation, followed by drying at 120 °C for 12 h and calcining at 500 °C for 4 h in air. The catalyst was denoted as 1Pd/2Pt@CeO 2 . To provide a comparison, we also prepared two reference samples of 1Pd/CeO 2 (1.09 wt.%Pd) and (1Pd + 2Pt)/CeO 2 containing the same loading of metal as the 1Pd/2Pt@CeO 2 . For the reference (1Pd + 2Pt)/CeO 2 catalyst (BET surface area 64 m 2 g −1 ), the palladium(II) nitrate solution was impregnated onto the CeO 2 first, then dried at 120 °C in air for 12 h. After calcination at 500 °C in air for 4 h, tetraamineplatinum nitrate (2 wt.% Pt) was impregnated onto the material progressively, followed by drying at 120 °C for 12 h in air and calcining at 500 °C for 4 h in air. The Pd/CeO 2 (1.09 wt.%Pd) sample was prepared by impregnating appropriate amount of palladium(II) nitrate solution onto the CeO 2 . Then, the sample was obtained after drying at 120 °C in air for 12 h and calcining at 500 °C in air for 4 h. The morphological properties of this set of catalysts are shown in Supplementary Table 1 . Catalyst
+Catalyst synthesis
+Density functional theory
+Heterogeneous catalysis
+Nanoparticles
+Abstract
+The treatment of emissions from natural gas engines is an important area of research since methane is a potent greenhouse gas. The benchmark catalysts, based on Pd, still face challenges such as water poisoning and long-term stability. Here we report an approach for catalyst synthesis that relies on the trapping of metal single atoms on the support surface, in thermally stable form, to modify the nature of further deposited metal/metal oxide. By anchoring Pt ions on a catalyst support we can tailor the morphology of the deposited phase. In particular, two-dimensional (2D) rafts of PdO
+x
+are formed, resulting in higher reaction rates and improved water tolerance during methane oxidation. The results show that modifying the support by trapping single atoms could provide an important addition to the toolkit of catalyst designers for controlling the nucleation and growth of metal and metal oxide clusters in heterogeneous catalysts.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Robust palladium oxide nano-cluster catalysts using atomic ions and strong interactions for high-performance methane oxidation
+Article
+Open access
+
+Catalyst preparation
+The initial experiments to investigate the role of atom-trapped Pt were performed with the commercial ceria (Solvay-Rhodia HS 5, also referred to as HSA ceria since it has a higher surface area than the ceria prepared by calcination of Ce(NO
+
+)
+
+, which was used for the Pd–Pt catalysts). To prepare engineered CeO
+
+, tetraamineplatinum nitrate solution was impregnated onto CeO
+
+powder by conventional wet impregnation, followed by drying at 120 °C for 12 h. The powder was then calcined at 800 °C for 10 h in flowing air. The obtained materials were denoted as 1Pt@CeO
+
+and 3Pt@CeO
+
+, corresponding to the Pt loadings of 1 and 3 wt.%, respectively. The high temperature treatment causes a drop in BET surface area, from 135 m
+
+g
+−1
+for the as-received ceria to 60 m
+
+g
+−1
+for the pure ceria (PS ceria), 78 m
+
+g
+−1
+for 1Pt@CeO
+
+and 100 m
+
+g
+−1
+for the 3Pt@CeO
+
+sample. The Pt interacts strongly with the ceria surface, pinning defect sites and slowing the rate of ceria sintering
+
+,
+
+.
+The nucleation and growth of Pt on PS CeO
+
+support (precalcined at 800 °C in air for 10 h) and the 1Pt@CeO
+
+(subjected to a similar thermal treatment) helped identify the role of trapped Pt atoms during catalyst preparation. An appropriate amount of tetraamineplatinum nitrate (Pt(NH
+)
+
+(NO
+
+)
+
+) was added to each support followed by drying at 120 °C for 12 h and calcination at 500 °C for 4 h in air. The total Pt loading for each catalyst was 3 wt.% Pt and the samples were denoted as 3 wt.%Pt/PS ceria and 2Pt/1Pt@CeO
+
+.
+For the methane oxidation study, we used ceria powder prepared in the laboratory via decomposition of Ce(NO
+
+)
+
+, as described in our previous work
+
+. This ceria powder has a BET surface area of 85 m
+
+g
+−1
+as prepared. To prepare the engineered catalyst support, we used 2 wt.% Pt via impregnation, drying in air, calcination at 500 °C following by ageing in air at 800 °C for 10 h. This catalyst support is denoted as 2Pt@CeO
+
+. Palladium nitrate (1.09 wt.% Pd) was deposited on the 2Pt@CeO
+
+by wet impregnation, followed by drying at 120 °C for 12 h and calcining at 500 °C for 4 h in air. The catalyst was denoted as 1Pd/2Pt@CeO
+
+. To provide a comparison, we also prepared two reference samples of 1Pd/CeO
+
+(1.09 wt.%Pd) and (1Pd + 2Pt)/CeO
+
+containing the same loading of metal as the 1Pd/2Pt@CeO
+
+. For the reference (1Pd + 2Pt)/CeO
+
+catalyst (BET surface area 64 m
+
+g
+−1
+), the palladium(II) nitrate solution was impregnated onto the CeO
+
+first, then dried at 120 °C in air for 12 h. After calcination at 500 °C in air for 4 h, tetraamineplatinum nitrate (2 wt.% Pt) was impregnated onto the material progressively, followed by drying at 120 °C for 12 h in air and calcining at 500 °C for 4 h in air. The reference 1Pd/CeO
+
+(1.09 wt.%Pd) sample was prepared by impregnating appropriate amount of palladium(II) nitrate solution onto the CeO
+
+. Then, the sample was obtained after drying at 120 °C in air for 12 h and calcining at 500 °C in air for 4 h. The morphological properties of this set of catalysts are shown in Supplementary 
+.
+Catalyst characterization
+AC–STEM was carried out using a FEI Titan Themis transmission electron microscope equipped with the Gatan K2-IS camera. We also used a JEOL ARM200CF microscope for some of the samples. In each case, the sample powders were deposited on holey carbon films after being dispersed in ethanol. The Pt single atoms on CeO
+
+can be clearly seen in the AC–STEM dark field images. LEIS was used to quantify the concentration of Pt atoms on the catalyst surface. This technique selectively detects the topmost atoms and was carried out using an IONTOF Qtac100 instrument. The dedicated LEIS instrument was equipped with a double toroidal analyser for the energy analysis of the backscattered ions and the analyser has a large solid angle of acceptance (full 360° azimuth), while the scattering angle is fixed at 145°. In combination with parallel energy detection, this gives a high sensitivity while maintaining the mass resolution. He
++
+and Ne
++
+with ion energy 3 and 5 keV and current 5 and 2 nA, respectively, were used to analyse the surface concentration of Pt
+2+
+ions in the catalysts. The area scanned per sample by these two ions was 2 × 2 mm
+
+and the ion flux used was 1.4 × 10
+
+ions per cm
+
+and 2.8 × 10
+
+ions per cm
+
+, respectively. The spectra for the Pt reference were analysed within a 1.5 × 1.5 mm
+
+sputter crater over an area of 1 × 1 mm
+
+. The analysis time was adjusted such that the surface damage was the same as for the other spectra. Assuming a sputter coefficient of 0.1 for He and 1 for Ne, this will lead to a surface damage of 1 and 2% at the end of the analysis. XPS was performed using a Kratos Axis Ultra photoelectron spectrometer equipped with a monochromatic Al Kα source operating at 300 W. The base pressure was 2.7 × 10
+−8
+Pa and operating pressure was 2.7 × 10
+−7
+Pa. Analysis of the XPS spectra was performed using CASA XPS software. X-ray absorption spectroscopy was performed at the Materials Research Collaborative Access Team (MRCAT) bending magnet and insertion device lines at the Advanced Photon Source, Argonne National Laboratory. Measurements at the Pd K edge were performed in transmission mode using a set of three ion chambers that allowed for concurrent measurement of a Pd foil energy reference. Measurements at the Pt edge were performed in fluorescence mode using a Lytle detector with a zinc foil filter used to reduce background fluorescence. At both edges, sample wafers were pressed in a stainless-steel sample holder and measured at room temperature in air. We carried out data analysis using Artemis and Athena in the Demeter software suite
+
+with phase and amplitude functions generated by FEFF software using bulk references. At each edge, the amplitude reduction factor (S
+
+) was determined by fitting the first shell scattering of the respective metal foil. The obtained S
+
+was then fixed in catalyst samples. A spherical nanoparticle shape function was used in the modelling of 1Pd/2Pt@CeO
+
+at the Pd K edge
+
+. Full model and fit details are given in the Supplementary
+Information
+.
+Catalytic reactivity measurements
+CO oxidation was chosen as a probe reaction. The reaction rate measurements were performed using 0.6 cm (1/4 inch) diameter U-tube with 20 mg of sample. The gas flow rates for CO oxidation were the following: CO 1.5 ml min
+−1
+, O
+
+1 ml min
+−1
+and He 75 ml min
+−1
+and temperature ramp rate was at 2 °C min
+−1
+. The as-prepared, air-exposed catalyst was loaded into the reactor and temperature was increased to 300 °C under He. Once at 300 °C, a pretreatment with 10% O
+
+was performed for 30 min. The gas was then switched to He and the catalyst was cooled to the reaction temperature. Subsequently, CO oxidation kinetic measurements were performed. The total pressure during CO oxidation was 83.3 kPa, the atmospheric pressure in Albuquerque. The products were analysed by an Agilent Micro GC 490.
+Catalytic methane (CH
+
+) combustion for the as-synthesized 1Pd/2Pt@CeO
+
+and (1Pd + 2Pt)/CeO
+
+catalysts was performed using a fixed bed flow reactor under industrially relevant conditions. Then 60 mg of catalyst powder was diluted by 600 mg SiC to guarantee isothermal conditions. The catalyst bed was packed between two quartz wool plugs inside a 0.6 cm (1/4 inch) quartz tube. The reaction was performed at atmospheric pressure. The reaction gas consisted of 680 ppm CH
+
+, 14 vol% O
+
+and 5 vol% CO
+
+balanced with N
+
+with a total flow of 300 ml min
+−1
+(space velocity of 300 l g
+cat
+h
+−1
+). Different concentrations of steam (4 and 10% H
+
+O) were introduced by flowing the reaction gas through a temperature-controlled bubbler. During the measurements, the effluent gas was analysed by an online continuous FTIR MKS 2030 MultiGas Analyser equipped with a LN
+
+-cooled mercury-cadmium-telluride detector. For light-off measurements, the samples were heated from room temperature to 650 °C with a ramp of 5 °C min
+−1
+in reaction gas. After each light-off test, the system was cooled down in a O
+
+/N
+
+atmosphere. Stability under different dry or wet conditions was also evaluated by time-on-stream measurements at 300–500 °C. The 1Pd/2Pt@CeO
+
+catalyst is very stable for multiple light-off runs from room temperature to 650 °C. The reactivity and water tolerance of the catalysts at steady state were compared at 500 °C with or without the adding of water vapour because future emission regulations require low-temperature methane oxidation in exhaust catalysis, especially for NGVs where the exhaust temperature is typically below 500–550 °C (refs.
+
+,
+
+,
+
+). The reaction rate of the 1Pd/2Pt@CeO
+
+and (1Pd + 2Pt)/CeO
+
+catalysts were also tested in kinetic regime by controlling methane conversion below 10%.
+DFT calculations
+All spin-polarized DFT calculations were performed using the Vienna Ab initio Simulation Package (VASP)
+
+. The valence electrons were represented by plane waves with a cutoff energy of 400 eV, augmented with the projector-augmented wave pseudopotentials for the core electrons
+
+. A Hubbard-like term was added in the so-called DFT +
+U
+treatment with
+U
+= 4.5 eV applied to the Ce 4
+f
+states
+
+. For bulk surfaces, the atoms in the top five layers of PdO and the top two layers of Pd were fully relaxed. The reciprocal space was sampled with a
+k
+-point mesh of 3 × 3 × 1. For the Pd raft on the engineered Pt@CeO
+
+support via atom trapping, we modelled the slab with a roughly 0.9 × 0.8 nm Pd island on 6 CeO
+
+ layers, where the Pd island consists of 14 Pd atoms with the average Pd–Pd bond length of 2.69 Å (2.75 Å in Pd bulk) and the average distance between the island and the CeO
+
+ surface is 1.93 Å. The reciprocal space was sampled with a
+k
+-point mesh of 1 × 1 × 1. During geometry optimization, the atoms in the bottom three atomic layers were fixed while others were fully relaxed. The geometric parameters used: Pd–O and Pd–Pd bond lengths in the fixed layers in PdO and Pd models are 2.02 and 2.75 Å, respectively, while for the Pd island model, the Ce-O bond length in fixed layers is 2.29 Å. In these cases, the exchange-correlation potential was treated by the PW91 exchange-correlation functional
+
+. A vacuum space larger than 15 Å was set between periodic slabs to avoid the artificial interactions along the
+z
+direction. Electronic energy was converged below a threshold of 10
+−4
+eV, while the force acting on each atom was less than 0.05 eV Å
+−1
+. Climbing image nudged elastic band (CI-NEB) approach was used to determine the reaction pathway
+
+,
+
+.
+Data availability
+The data that support the findings of this study are included in the published article (and its Supplementary
+Information
+) or available from the corresponding author on reasonable request.
+Source data
+are provided with this paper.

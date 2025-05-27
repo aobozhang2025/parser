@@ -1,0 +1,92 @@
+DOI: 10.1038/s41557-021-00696-0
+Source: supplementary PDF
+--------------------------------------------------
+
+Materials and Methods
+Figs. S1 to S11
+Tables S1 to S4
+Glossary Schematic
+Schematic Figure of the comparison on Pt nanoparticle formation processes. (a) Emergent
+process and (b) Impregnation process.
+
+Materials and Methods
+Precursors.
+High purity oxide and carbonate precursors, such as La O (Pi-Kem, >99.99%) and TiO (Alfa
+2 3 2
+Aesar, >99.6%), BaCO (Alfa Aesar, >99%), CaCO (Fisher Chemical, >99%) and SrCO
+3 3 3
+(Aldrich, >99.9%), are dried at 300 oC (La O at 800 oC) in order to remove water bound
+2 3
+molecules from the precursors for a correct stoichiometric nature of the perovskites. PtO (Alfa
+
+Aesar, anhydrous) and Pt nitrate solution (Johnson Matthey, 16.17 wt% Pt) are used as Pt
+precursors, and γ−Al O (Sasol, Particle size ≤ 5 mm, S 138−158 m2/g) is purchased.
+2 3 BET
+Trojan horse co-precursor Ba Pt O .
+3 2 7
+BaCO and PtO are weighed and mixed together in the correct stoichiometric amount in a Pt
+3 2
+crucible, and then fired in air in a furnace with a ramp rate of 5 ºC/min to 1000°C for 12 hrs.
+Pt doped Perovskite synthesis.
+A-site deficient perovskites of La Ca Ba Pt Ti O (Pt@LCT) and
+0.4 0.3925 0.0075 0.005 0.995 3
+La Sr Ba Pt Ti O (Pt@LST) are designed by containing 0.5 wt% of Pt. Non-
+0.4 0.3925 0.0075 0.005 0.995 3
+doped perovskites of La Ca TiO , La Sr TiO , La Ca Ba TiO and
+0.4 0.4 3 0.4 0.4 3 0.4 0.3925 0.0075 3,
+La Sr Ba TiO are prepared as references. Carefully calculated precursor quantities are
+0.4 0.3925 0.0075 3
+quantitatively transferred to a glass beaker, then acetone is added to the beaker with a co-
+polymer dispersant (Hypermer KD-1, a polyester copolymer surfactant). The mixture is pulse
+sonicated using an ultrasonic probe (Heilscher UP200S) in order to homogenise and reduce the
+particle size of the precursors. Following dispersion, acetone is evaporated from the
+homogeneous solution and the compositional mixture is then calcined in a muffle furnace at
+1000 ºC for 12 hrs to partially form the perovskite phase for seeding crystallisation. Following
+calcination, the sample is ball milled with acetone at 300 rpm for 2 hrs in a planetary ball mill,
+using 1 mm zirconia balls. Then, the sample is dried in an evaporator dish at room temperature.
+O -rich sintering process.
+
+Pellets are prepared by pressing the sample powders and then firing them under O -rich sintering
+
+conditions to produce pure perovskite phase at the relatively low temperatures. Pellets are fired
+for 12 hrs at 1200 ºC with a ramp rate of 5 ºC/min in an O -rich gas atmosphere of 100% O and
+2 2
+100 ml·min−1.
+In-situ emergence process.
+To emerge the Pt NPs onto the perovskite surface, samples are chemically reduced in a
+controlled atmosphere furnace at 700 oC for 12 hrs with heating and cooling rates of 5 °C·min−1
+under continuous flow of 5% H /Ar (20 ml·min−1). The emerged Pt perovskites are denoted as
+
+Pt+LCT and Pt+LST.
+Reference samples.
+For a comparison, Pt impregnated LCT (Pt/LCT) and Pt/γ−Al O catalysts are synthesized by
+2 3
+the incipient wetness method. Constant Pt concentration of 0.5 wt% was impregnated to the
+supports by a Pt nitrate solution, then dried at 110 °C for 24 hrs and calcined at 550 °C for 3 hrs
+in air. The Pt/LCT and Pt/γ−Al O samples are reduced in 5% H /Ar flow for 12 hrs at 700 oC
+2 3 2
+and 500 oC, respectively.
+X-ray Powder Diffraction (XRD).
+
+XRD measurements are carried out at room temperature with an x-ray angle from 10-90o by
+using a PAN analytical Empyrean diffractometer with CuKα1 radiation (1.54056Å) and Bragg-
+Brentanon geometry operated in reflection mode. STOE Win XPOW software is used to analyze
+the diffraction pattern and interoperate the crystal structure and cell parameter. GSAS open
+source refinement software is applied for carrying out Rietveld refinement of the results to find
+out the original perovskite phase and structural changes. The structural information is then used
+to construct the crystal structure by using Crystal Maker for Windows software.
+X-ray absorption spectra (XAS).
+The X-ray absorption near edge structure (XANES) and extended X-ray absorption fine structure
+(EXAFS) of the Pt L -edge for selected samples are collected at ambient temperature, on the
+III
+B18 station at Diamond Light Source national synchrotron facility, UK. Measurements are
+carried out using a Si monochromator at Pt L -edge with a Pt monometallic foil (10 μm)
+III
+used as an energy calibrant. Samples are pressed into 13 mm pellets, and high Pt loaded samples
+are diluted using appropriate amount of cellulose binder. Pt foil and PtO are used as references
+
+for Pt0 and Pt4+, respectively. XAS data analysis was carried out with the software of Athena and
+Artemis .
+EXAFS fitting
+The EXAFS functions were Fourier transformed in the k range of 3–13.86 Å-1 and multiplied by
+a Hanning window. The basic structural model was a (fcc) Pt metal core from the ICSD code of

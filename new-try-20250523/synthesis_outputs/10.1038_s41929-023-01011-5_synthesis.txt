@@ -1,5 +1,1035 @@
 DOI: 10.1038/s41929-023-01011-5
-Source: supplementary
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of oxygenates via partial oxidation of methane in the presence of O 2 and H 2 over a combination of Fe -ZSM -5 and Pd supported on an acid - functionalized porous polymer. Appl. Catal. A: Gen. 602, 117711, .
+). Pd/CsPMA and PMA gave similar Raman spectra, suggesting the preservation of the anion structure during the catalyst synthesis
+). The actual Pd loading of Pd/CsPMA was determined to be 0.23 wt%, using inductively coupled plasma optical emission spectroscopy. The Pd species are distributed evenly on Pd/CsPMA, as shown in the high-angle annular dark-field (HAADF) imaging results under scanning transmission electron microscopy (STEM) mode 
+). X-ray photoelectron spectroscopy (XPS) analysis 
+) and in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) with nitric oxide (NO) as the probe molecule 
+) confirm that Pd exists as charged Pd cations that are probably situated at the four-fold hollow sites of PMA by replacing Cs
++
+, as indicated in previous studies on single-atom POM systems
+
+,
+
+.
+
+PMo
+
+O
+
+(PMA) and MoO
+
+. PDF, powder diffraction file.
+b
+, Atomic resolution iDPC-STEM image of Pd/CsPMA.
+c
+, Raman spectra of PMA, CsPMA, Pd/CsPMA and Pd/CsPMA-H-O.
+d
+, HAADF-STEM image of Pd/CsPMA.
+e
+, Experimental and fitting results of the Pd 3
+d
+XPS spectrum of Pd/CsPMA.
+f
+, In situ NO-DRIFTS spectra of CsPMA, Pd/CsPMA and commercially available 1 wt% Pd/Al
+
+O
+
+.
+g
+, The reversible reduction/oxidation of Pd/CsPMA at room temperature (RT).
+h
+, UV-visible absorption spectra of suspensions of Pd/CsPMA, Pd/CsPMA-H and Pd/CsPMA-H-O. The catalyst suspensions (10 mg/2.0 ml water) were diluted with degassed water at a ratio of 1/50 and 1/10 (shown in the inset) for the measurement.
+Full size image
+When Pd/CsPMA was exposed to a flow of forming gas (5% H
+
+in molecular nitrogen (N
+
+)) at room temperature (24 °C), a rapid colour change from yellow to dark blue was observed within twenty minutes. The in situ H
+
+-DRIFTS spectrum of Pd/CsPMA presents a notable peak at >3200 cm
+−1
+for Pd/CsPMA (Supplementary 
+), indicating the formation of a large amount of surface hydroxyl groups (–OH), which is not the case for CsPMA. This implies that Pd plays a crucial role in dissociating H
+
+into hydrogen atoms and transferring hydrogen species from the noble metal sites to the support
+
+,
+
+. The hydrogen atoms donate electrons to PMA and combine with PMA oxygen atoms to form hydroxyl groups on the surface. In situ NO-DRIFTS analysis confirms that the Pd species remain highly dispersed during H
+
+treatment at room temperature (Supplementary 
+). We then prepared the Pd/CsPMA-H material, by treating the unactivated Pd/CsPMA catalyst under H
+
+(4 bar) in water for 15 min. As shown in 
+, the colour of the catalyst also changed from yellow (Pd/CsPMA) to dark blue (Pd/CsPMA-H). Ultraviolet-visible (UV-visible) adsorption spectra of the Pd/CsPMA-H suspension showed a clear decrease in the Mo(VI) signal at 320–340 nm 
+) and an increase in Mo(V) and Mo(IV) in the range of 600–900 nm 
+inset), illustrating the reduction of Mo by hydrogen spillover
+
+,
+
+. As determined via redox titration using acidified FeCl
+
+solution (Supplementary 
+), each POM anion, on average, accepts 8.4 electrons after 15 min of H
+
+treatment, corroborating the UV-visible adsorption data that Mo(VI) was only partially reduced. Additional H
+
+treatment does not increase the degree of hydrogen spillover.
+The reduced Pd/CsPMA-H powder is readily re-oxidized when exposed to air at room temperature (represented as Pd/CsPMA-H-O), as judged from the recovered yellowish colour and the UV-visible absorption results ,h
+). This highlights that the reduced Pd/CsPMA catalyst can activate O
+
+at ambient temperature. Pd/CsPMA-H-O exhibits a similar morphology and crystalline structure as well as characteristic POM anion Raman peaks to those of pristine Pd/CsPMA (Supplementary Figs.
+
+and
+
+and ,c
+), which prove that the repeated reduction–oxidation steps do not change the structure of Pd/CsPMA, thus hinting at its potential as a catalyst in redox reactions.
+Catalytic performance in partial methane oxidation
+The methane oxidation reaction was carried out at room temperature in an aqueous solution with methane and O
+
+(
+). The unactivated Pd/CsPMA catalyst exhibited negligible methane conversion activity 
+, entry 1), and after the reaction the yellow colour of Pd/CsPMA was maintained, indicating an unchanged oxidative state of Mo (Supplementary 
+). To validate that adding electrons to the catalyst is conducive to the aerobic oxidation of methane, Pd/CsPMA was first treated with H
+
+in the liquid phase at room temperature to form the reduced catalyst Pd/CsPMA-H. When Pd/CsPMA-H was used for methane oxidation with O
+
+under identical conditions for 30 min, we observed the conversion of methane with methanol as the sole product (5.2 μmol g
+cat
+−1
+h
+−1
+; 
+, entry 2). Shortening the reaction to 5 min provided a proportionally increased methanol production rate (28.8 μmol g
+cat
+−1
+h
+−1
+), suggesting that Pd/CsPMA-H is only active in the initial stage of the reaction 
+, entry 3). By adjusting the partial pressures of methane and O
+
+, it was possible to improve the methanol productivity, with this metric rising to 67.4 μmol g
+cat
+−1
+h
+−1
+
+, entry 4). The colour of the spent catalyst changed to greenish yellow, suggesting that it was re-oxidized by O
+
+during the course of the reaction (Supplementary 
+). These results highlight two important findings. First, the H
+
+-reduced Pd/CsPMA catalyst selectively transforms methane and O
+
+into methanol at room temperature. Second, Pd/CsPMA-H does not maintain its reduced state under an oxidizing atmosphere, and thus quickly loses its initial activity. To quantitatively establish the relationship between the degree of reduction of Pd/CsPMA and the methane oxidation activity, we performed H
+
+treatments with varying durations and H
+
+pressures to produce reduced Pd/CsPMA samples with different degrees of reduction. These samples were then used for methane oxidation tests (CH
+
+(10 bar), O
+
+(0.3 bar), N
+
+(2.7 bar), 15 min reaction). The performance data indicate that a minimum reduction of five electrons per PMA molecule is necessary for Pd/CsPMA to be active (Supplementary 
+). Concurrently, we observed a sigmoid-like relationship between the accumulated methanol productivity and the initial degree of reduction, with a prominent increase in methanol yield for PMA samples pre-reduced with five or six electrons. Although each PMA molecule can be reduced by approximately nine electrons using H
+
+, further reduction with an electron number greater than seven does not lead to an increase in the methanol yield.
+ Oxidation of methane to methanol using the Pd/CsPMA catalyst
+Full size table
+Despite the encouraging outcomes, the oxidative atmosphere results in the rapid deactivation of active sites, which leads to a low ratio between the methanol produced (0.02 μmol) and the exposed PMA (0.55 μmol), of roughly 4%. To sustain a reduced catalyst state, we then carried out the methane oxidation reaction using a non-explosive gas mixture of H
+
+, O
+
+, methane and N
+
+so that H
+
+pretreatment was no longer applied. Under an optimized H
+
+/O
+
+ratio, Pd/CsPMA presents a methanol productivity of 28.5 μmol g
+cat
+−1
+h
+−1
+(corresponding to a noble metal specific productivity of 12.4 mmol g
+Pd
+−1
+h
+−1
+), again with methanol as the only liquid product detected together with negligible gas-phase product in a 30 min reaction 
+, entry 5). The activity and selectivity compare favourably with most reported noble-metal-containing catalysts for the thermal aerobic oxidation of methane to methanol at room temperature (Supplementary 
+). Interestingly, we observed that, in a typical 30 min reaction, the reaction proceeds at a higher rate during the second 15 min compared with the first, probably due to an induction period required to form the reduced catalyst that is active for methane oxidation (Supplementary 
+). The H
+
+/CH
+
+ratio remained almost constant during the reaction, suggesting that H
+
+is not preferentially consumed by O
+
+compared with methane (Supplementary 
+).
+The production of methanol did not show any further increase when the reaction time was extended from 30 to 60 min, probably due to the over-reduction of the catalyst (>7.5–8 electrons per PMA; Supplementary 
+). To maintain the catalyst activity for a longer duration, Pd/CsPMA was first partially reduced with H
+
+and then exposed to a mixture of methane, H
+
+and O
+
+, with the H
+
+/O
+
+ratio adjusted to stabilize the PMA at around a six-electron reduced state (Supplementary 
+). To our delight, methane was oxidized continuously to organic oxygenates for 8 h, resulting in a total methanol yield of 1.45 μmol and formic acid as the secondary product 
+, entry 6).
+Xiao and colleagues previously reported
+
+the selective oxidation of methane with H
+
+and O
+
+using AuPd alloy nanoparticles confined in a zeolite support. In that case, H
+
+O
+
+was produced locally, which then acted as the oxidant for methane oxidation. By contrast, H
+
+O
+
+is unlikely to be the key oxidant in our system since no H
+
+O
+
+was detected when supplying a mixture of H
+
+and O
+
+over the catalyst (detection limit, 0.5 ppm; Supplementary 
+). In addition, when external H
+
+O
+
+was added, no methanol was detected after 30 min despite 54% of the H
+
+O
+
+being decomposed 
+, entry 7, and Supplementary 
+). Methanol was produced only when H
+
+O
+
+was used together with H
+
+(Supplementary 
+), although the best activity (that is, 14.4 μmol g
+cat
+−1
+h
+−1
+) was still not as high as the case when H
+
+and O
+
+are supplied. Molecular oxygen works better as an oxidant than H
+
+O
+
+in our case, possibly because, as a weaker oxidant, O
+
+enables the catalyst to maintain the desired reduced state under H
+
+.
+Methane oxidation was carried out under various partial pressures (
+P
+) of methane, H
+
+and O
+
+. The reaction is first order with respect to methane in the range of 0–15 bar 
+), indicating that methane activation participates in the rate-determining step. By contrast, the methanol yield as a function of the H
+
+/O
+
+ratio follows a volcano-type curve, with the optimal pressure of H
+
+being 4 bar and that of O
+
+at 0.3 bar 
+). A threshold H
+
+partial pressure of 2 bar must be reached to create a state with a sufficient degree of Mo reduction for C–H bond activation. When O
+
+was eliminated from the reaction system, only a trace amount of methanol was detected (2.0 μmol g
+cat
+−1
+h
+−1
+), probably due to the residual O
+
+in water.
+
+(4 bar), O
+
+(0.3 bar), CH
+
+(10 bar) balanced with N
+
+(25.7 bar), room temperature, 30 min.
+a
+, Methanol productivity under various methane partial pressures using Pd/CsPMA.
+r
+
+, coefficient of determination.
+b
+, Methanol productivity under various partial pressures of H
+
+and O
+
+.
+c
+, Methanol productivity for different POM-based catalysts. The loading of noble metals on the supported catalysts is around 0.25 wt%. The insets label the states of the catalysts during the reaction. Only Pd/CsPMA presents hydrogen spillover with H
+
+(shown by a blue cluster), while the others stay in an oxidized state (shown by a yellow cluster).
+d
+, Methanol productivity using several traditional catalysts. For 1 wt% Pd/MoO
+
+-H and 1 wt% Pd/WO
+
+-H, the impregnated samples are treated with 5% H
+
+/N
+
+forming gas at 300 °C. For MoO
+
+, O
+
+(1 bar), CH
+
+(10 bar) and N
+
+(9 bar) were supplied without the addition of H
+
+.
+e
+, Poisoning tests using BzM to block the Pd sites (the reaction conditions are the same as annotated in 
+, entry 3). BzM dissolved in ethanol was added into the reaction mixture before (left bar) or after (right bar) H
+
+treatment (BzM:Pd = 2:1). For the control experiment without BzM (middle bar), the same amount of ethanol solvent was added after H
+
+pretreatment before methane conversion.
+f
+, Recyclability testing of Pd/CsPMA for methane oxidation with O
+
+and H
+
+(reaction conditions: H
+
+(2 bar), O
+
+(0.3 bar), CH
+
+(10 bar), 30 min).
+Full size image
+Several control catalyst samples were studied to confirm the critical role of reduced Mo species as catalytically active sites. CsPMA, Rh/CsPMA and Pt/CsPMA, which showed no reduction of PMA by H
+
+at room temperature, exhibited no methanol productivity 
+). Rh/CsPMA and Pt/CsPMA were then pretreated with H
+
+at elevated temperature (50 °C and 100 °C, respectively). After the pretreatment, both catalysts turned dark blue, signalling Mo reduction, and in the following step both catalysts produced methanol from methane and O
+
+at room temperature (Supplementary 
+). When PMA was replaced with phosphotungstate (PTA), Pd/CsPTA also did not show any methane activation under the same conditions 
+and Supplementary 
+). Furthermore, Rb
++
+and NH
+
++
+were also used to precipitate PMA alongside Cs
++
+, giving Pd/RbPMA and Pd/NPMA, respectively. The as-formed Pd/RbPMA and Pd/NPMA, after H
+
+reduction, presented similar methanol productivity values to Pd/CsPMA. This suggests that the cations in the catalysts do not largely affect the methane activation performance (Supplementary 
+). To explore whether or not our finding, that is, H
+
+-reduced Mo in Pd/CsPMA readily converts methane and O
+
+to methanol, is generalizable, 1 wt% Pd/MoO
+
+, 1 wt% Pd/WO
+
+and 10 wt% Pd/C were evaluated under our methane oxidation conditions 
+and Supplementary 
+). The H
+
+-pretreated 1 wt% Pd/MoO
+
+-H indeed exhibited a methanol productivity of 14.4 μmol g
+cat
+−1
+h
+−1
+for a 5 min reaction, whereas the other two catalysts were inactive. Interestingly, MoO
+
+, with Mo(IV) as the only Mo species, showed no methane activation properties with O
+
+. The above results indicate that Pd can be substituted by other metals such as Pt or Rh to facilitate PMA reduction with H
+
+, and partially reduced Mo species are critical for methane activation with O
+
+.
+Methanol formation pathway on reduced PMA: experimental evidence
+Since the radical mechanism is one of the mainstream mechanisms to activate the methane C–H bond in aqueous solution, electron paramagnetic resonance (EPR) experiments using 5,5-dimethyl-1-pyrroline
+N
+-oxide radical trapping agent were carried out to determine the presence of reactive oxygen species (Supplementary 
+)
+
+. The appearance of characteristic quadruple peaks (1:2:2:1) for an H
+
+O
+
+aqueous solution indicates trapped HO
+•
+radicals, and triplet peaks was observed for an aqueous suspension of pristine Pd/CsPMA, probably coming from the oxidative dimerization of 5,5-dimethyl-1-pyrroline N-oxide (
+). However, these are the cases for which no methanol productivity was observed. By contrast, for the H
+
+-pretreated Pd/CsPMA-H catalyst, no similar signals were detected. To provide further evidence that HO
+•
+radicals do not operate in our system, methane oxidation reactions were carried out over the Pd/CsPMA-H catalyst in the presence of HO
+•
+radical scavengers (that is, ascorbic acid or Na
+
+S) 
+, entries 8 and 9, respectively). For the reactions that included either ascorbic acid or Na
+
+S, the methanol productivity of the Pd/CsPMA-H catalyst did not decrease but instead increased to 42.2 and 48.0 μmol g
+cat
+−1
+h
+−1
+, respectively, compared with 28.8 μmol g
+cat
+−1
+h
+−1
+without the scavengers. This suggests that methane is not activated by free HO
+•
+intermediates. The increased productivity may be ascribed to the elongated lifetime for reduced PMA species under O
+
+, due to the reductive nature of the scavengers.
+To further rule out the role of Pd in C–H activation, selective poisoning tests were conducted by adding benzyl mercaptan (BzM). BzM binds strongly with Pd, thus preventing Pd–reactant interactions 
+and Supplementary 
+)
+
+. As expected, after introducing two equivalents of BzM (relative to Pd) to block Pd in Pd/CsPMA before H
+
+treatment, PMA was unable to be reduced to enable methane oxidation (BzM-H
+
+-CH
+
+/O
+
+in 
+). By contrast, when the same amount of BzM was added to pre-reduced Pd/CsPMA-H catalyst (H
+
+-BzM-CH
+
+/O
+
+in 
+), the methanol productivity mimicked the performance without BzM (H
+
+-CH
+
+/O
+
+in 
+). This experiment, together with the earlier presented fact that reduced Rh/CsPMA and Pt/CsPMA are also active in the oxidation of methane to methanol at room temperature, provide compelling evidence that methane activation proceeds not on Pd sites but on reduced PMA.
+
+, Experimental (exp) and simulated (sim) EPR spectra of the Pd/CsPMA-H solid under N
+
+. The simulated spectra of the individual species are presented (left) with the corresponding
+g
+values, weights and local structures (right). Atom colour code: O, red; H, light grey; Mo(VI), yellow; Mo(V), blue.
+r
+, Pearson correlation coefficient.
+c
+, Gas chromatography–mass spectrometry chromatograms of the extracted fragment ions (
+m
+/
+z
+= 29, 31 and 33) of methanol in a standard solution or produced from the partial oxidation of methane over Pd/CsPMA-H with
+
+O
+
++ H
+
+O,
+
+O
+
++ H
+
+O and
+
+O
+
++ H
+
+O, respectively. The highlighted region of 12.9–13.2 min indicates the retention time of methanol.
+Full size image
+The reduced catalyst Pd/CsPMA-H has considerable solubility in water, probably due to the strong interaction between spilt H-induced surface hydroxyl groups and water molecules
+
+,
+
+. This provides an opportunity to determine whether methanol formation requires an extended surface or individual PMA anions. Hence, a H
+
+-reduced Pd/CsPMA-H aqueous suspension was separated via ultrafiltration centrifugation (nominal molecular weight limit, 10 kDa) and evaluated in methane oxidation. The resulting solution and solid residue were both found to offer activity (Supplementary 
+), suggesting that H
+
+-reduced PMA provides the active sites for methane conversion, regardless of whether in solution or the solid phase.
+To enable catalyst recycling, the spent reaction solution was first re-oxidized using O
+
+(1 bar) at room temperature, followed by the addition of the Cs
++
+salt as a precipitation agent. Over 99% of the Pd/CsPMA catalyst can be regenerated (Supplementary 
+). A reductive atmosphere (H
+
+(2 bar), O
+
+(0.3 bar) and CH
+
+(10 bar) diluted with N
+
+to a total pressure of 40 bar) was used for the reaction sessions during successive recycling tests to ensure the sufficient activation of Mo in each cycle. No loss in methanol formation activity was observed over five successive reactions 
+); furthermore, the recovered catalyst (after five cycles) exhibited an identical X-ray diffraction pattern to the fresh catalyst (Supplementary 
+), indicating that the PMA structure remained intact during recycling.
+In view of the important role of reduced PMA on methane activation, we investigated the coordination structure around Mo before and after hydrogen reduction via pseudo in situ EPR. As expected, no signal was detected for Pd/CsPMA before H
+
+treatment since the Mo species exist predominantly as Mo(VI), which is EPR-inactive (Supplementary 
+)
+
+. When measured under a H
+
+atmosphere, Pd/CsPMA-H exhibits a broad, featureless EPR spectrum centred at a
+g
+value of approximately 1.93 
+), which can be ascribed to the emergence of Mo(V) species
+
+,
+
+,
+
+. The unresolved hyperfine splitting and the asymmetric lineshape, which almost resemble a broad isotropic line, point to a Mo(V) centre with six oxygen atoms at close bond lengths where free movement or rotation is relatively unhindered
+
+. Afterwards, the EPR tube containing Pd/CsPMA-H was vacuumized and purged with N
+
+(denoted as Pd/CsPMA-H
+
+-N
+
+). This treatment resulted in an anisotropic EPR spectrum with a much narrower lineshape and resolution of the splitting that arises from the hyperfine interaction of the unpaired electron in Mo(V) with the
+
+Mo and
+
+Mo nuclei, both with a nuclear spin of
+I
+= 5/2 and a combined natural abundance of 25.5%. This spectral change implies a large extent of anisotropic distortion of the MoO
+x
+polyhedra after reduction 
+). The spectrum of the reduced sample was further fitted with
+g
+and
+A
+eigenframes, which are considered collinear, on the basis of previous work and theoretical considerations
+
+,
+
+,
+
+,
+
+. Based on simulation results 
+, Supplementary 
+and Supplementary 
+), the spectrum consists of the signals of three Mo(V) components, with the dominant one containing an oxygen vacancy on the bridge site of two MoO
+x
+polyhedra, signified as
+F
+(
+g
+⟂
+= 1.954–1.955,
+g
+∥
+= 1.857, weight = 62%) (Supplementary 
+)
+
+,
+
+. The remaining signals originate from pentacoordinated Mo(V) without molybdenyl oxygen (structure
+C
+) and the hexacoordinated Mo(V) centre (structure
+A
+)
+
+,
+
+. Although the results cannot give information on EPR-silent, deep reduced Mo(IV) species, the insights about Mo(V) already provide knowledge on the largely weakened Mo–O bonds and the tendency for oxygen deficiency around Mo centres under the reduced state that may facilitate interactions with oxygen or methane molecules.
+When Pd/CsPMA-H was exposed to CH
+
+and then analysed via EPR 
+, pink trace), the spectrum exhibited a similar pattern to Pd/CsPMA-H
+
+-N
+
+(light blue trace), which illustrates that the reduced Mo does not coordinate directly with methane molecules. However, when Pd/CsPMA-H was exposed to air, the EPR signals disappeared rapidly (purple and orange traces). Fully consistent with the EPR data, in situ Raman experiments reveal that Mo–O
+b
+–Mo and Mo–O
+c
+–Mo are substantially weakened by H
+
+reduction, which is recovered after treatment with O
+
+(Supplementary 
+). On the basis of these results, we posit that the MoO
+x
+sites with oxygen vacancies first activate O
+
+, creating active surface oxygen to then enable C–H activation by abstracting a hydrogen atom from methane.
+To confirm that O
+
+fills the as-formed oxygen vacancies, we designed isotope labelling experiments using
+
+O
+
+and H
+
+O for methane oxidation reactions 
+). For the standard methanol solution (leftmost trace) and methanol produced from methane in the presence of H
+
+O and
+
+O
+
+(left-middle trace), two major peaks appear, at [CH
+
+O]
++
+(mass-to-charge ratio (
+m
+/
+z
+) = 31) and [CH
+
+O]
++
+(
+m
+/
+z
+= 29). When
+
+O
+
+was used as the oxidant (right-middle trace), the two peaks shifted to
+m
+/
+z
+= 33 and
+m
+/
+z
+= 31, respectively, confirming that
+
+O-labelled methanol (CH
+
+OH) is the predominant product. In the case where H
+
+O was used to replace normal water as the solvent (rightmost trace), no increase in the
+m
+/
+z
+value was observed, indicating that oxygen in water is not the source of oxygen for methanol formation. These results demonstrate that the oxygen in the methanol product comes from O
+
+, consistent with our proposed mechanism in which O
+
+fills the oxygen vacancies and is then incorporated into methane to form methanol, accompanied by O–O dissociation.
+Theoretical insights into the formation of methanol over Pd/CsPMA-H
+Density functional theory (DFT) calculations were performed to further verify the potential mechanisms for methane activation and methanol formation over the Pd/CsPMA-H catalyst 
+and Supplementary 
+). Considering that the donation of the electron by Cs is also similarly provided by spilled hydrogen and Cs
++
+does not directly participate in methane activation, the Pd/PMA cluster (
+I
+) was constructed as the computational model. For the creation of active sites, calculations show that H
+
+activation (
+II
+) occurs heterolytically over the Pd single-atom site with a relatively low barrier of 0.40 eV in terms of the enthalpy (
+H
+), resulting in a species with a hydroxyl group and PdH (intermediate
+III
+). Subsequently, hydrogen spillover to two neighbouring oxygen sites is thermodynamically favourable (intermediate
+IV
+), followed by H
+
+O generation with a slightly higher barrier of 0.50 eV (intermediate
+V
+). On formation, the H
+
+O species remains adsorbed, bridging two Mo sites, and subsequently desorbs to the gas phase to create an oxygen vacancy that is energetically uphill by 0.81 eV in
+H
+but 0.27 eV in terms of the Gibbs free energy (
+G
+) (intermediate
+VI
+). Bader charge extrapolation was carried out, with the results showing that the oxidation state of one of the Mo atoms adjacent to the bridge oxygen vacancy is EPR-active Mo(V), corresponding well with the EPR results (Supplementary 
+). The lattice oxygen vacancy in the bridging oxygen site is unreactive towards methane but can readily adsorb O
+
+from the gas phase, with an adsorption energy of −0.14 eV and 0.46 eV in terms of
+H
+and
+G
+, respectively (intermediate
+VII
+). In this adsorbed state, one oxygen atom from O
+
+is situated in the lattice oxygen position, while the second oxygen extends away from the surface and does not chemically bond with it. The O–O bond length of the adsorbed species is also elongated from the DFT gas-phase length of 1.23 Å to 1.32 Å, suggesting that the O
+
+has become highly activated and could be reactive to methane. In accordance with this expectation, C–H bond activation on the adsorbed O
+
+occurs with a barrier of 0.61 eV to form an O
+
+H species and a methyl radical (intermediates
+VIII
+and
+IX
+). Subsequently, the methyl radical can be captured by the same O
+
+H species via a rebound adsorption mechanism with a negligible barrier to form methanol, simultaneously cleaving the O–O bond and regenerating the lattice oxygen site (intermediate
+X
+). Considering the degree of reduction observed experimentally, we also mapped the reaction pathway with a POM containing eight adsorbed hydrogen species being reduced by eight electrons (Supplementary Figs.
+
+–
+
+and Supplementary Note
+
+). The profile shows that a reduced state of the POM favours H
+
+O desorption and O
+
+adsorption, that is, the formation of active sites, without noticeably elevating the C–H activation barrier, which explains the surge in the methane activation performance over a reduced POM.
+
+, The reaction intermediates (
+a
+) and the reaction profiles for both the enthalpy (
+H
+) and the Gibbs free energy (
+G
+) (
+b
+). The reaction proceeds initially via H
+
+activation and diffusion (intermediates
+I
+–
+IV
+), followed by vacancy formation and O
+
+adsorption (intermediates
+V
+–
+VII
+), then methane activation (intermediates
+VIII and IX
+) and methanol formation (intermediate
+X
+). Atom colour code: Mo, yellow; Pd, purple; O, red; C, dark grey; H, light grey. TS, transition state.
+Source data
+Full size image
+In this mechanism, methane activation is enabled by the formation of activated O
+
+species that result from hydrogen spillover and vacancy formation. The rate-limiting step is C–H activation, in agreement with the experimentally observed first-order kinetics for methane. We also find that this mechanism agrees with the volcano-type curve for the H
+
+/O
+
+ratio, as a balance must be struck to ensure the survival of the activated O
+
+species (intermediate
+VI
+). An overabundance of gaseous O
+
+will react with hydroxyl groups and prevent vacancy formation, whereas an overabundance of H
+
+will probably react with the adsorbed O
+
+before it can activate the methane. The mechanism was calculated on oxygen/vacancy sites that are non-adjacent to Pd, indicating that the presence of Pd was not required for methanol formation beyond the initial H
+
+activation step, in accordance with the poisoning studies. Alternative mechanisms were also considered but were found to be unfavourable or inconsistent with experimental observations (Supplementary Figs.
+
+–
+
+and Supplementary Note
+
+).
+Conclusions
+In summary, we report a Pd-immobilized CsPMA catalyst with H
+
+-reduced Mo sites for the aerobic oxidation of methane to methanol, with the entire process operated at ambient temperature. Under the optimum conditions the catalyst achieved a methanol productivity of 29.3 mmol g
+Pd
+−1
+h
+−1
+or 67.4 μmol g
+cat
+−1
+h
+−1
+with nearly 100% selectivity at room temperature. Partially reduced Mo on PMA bears oxygen vacancies at the bridge sites, which readily activate O
+
+via a refilling mechanism, creating active oxygen for hydrogen-atom abstraction from methane. Pd enables H
+
+activation and PMA reduction, but does not participate in methane conversion. These findings provide a system for the selective synthesis of methanol from methane using O
+
+as the oxidant and H
+
+as the activating agent at ambient temperature, without the use of an external energy source (for example, light or electricity). From a mechanistic perspective, the Mo centre in its partially reduced state is found to be critical for an oxidation reaction to generate active oxygen species from O
+
+, which extends our understanding of typical catalytic oxidation processes.
+
+Sample preparation
+Phosphomolybdic acid hydrate (PMA hydrate; H
+
+PMo
+
+O
+
+·
+x
+H
+
+O), phosphotungstic acid hydrate (PTA hydrate; H
+
+PW
+
+O
+
+·
+x
+H
+
+O), palladium(II) nitrate hydrate (Pd(NO
+
+)
+
+·
+x
+H
+
+O, ~40% Pd basis), rhodium(III) trinitrate hydrate (Rh(NO
+
+)
+
+·
+x
+H
+
+O, ~36% Rh basis), H
+
+O
+
+(35%) and dimethyl sulfoxide (DMSO; anhydrous, ≥99.9%) were obtained from Sigma-Aldrich. Platinum(IV) nitrate solution (15% Pt basis) was obtained from Alfa Aesar. Deuterium oxide (D
+
+O; D, 99.9%) was obtained from Cambridge Isotope Laboratories. All the chemicals were used without further treatment. A co-precipitation method was adopted for the synthesis of different samples. Taking Pd/CsPMA as an example, PMA hydrate (1.5 g) was dissolved in ultrapure water (30 ml) acidified with two drops of concentrated HNO
+
+(65–68%) to obtain the heteropoly acid solution. The cation stock solution was prepared by adding CsNO
+
+(390 mg) and Pd(NO
+
+)
+
+·
+x
+H
+
+O (28 mg) to ultrapure water (30 ml) with two drops of concentrated HNO
+
+. Afterwards, the cation solution containing Cs
++
+and Pd
+2+
+was added dropwise into the ice-bathed heteropoly acid solution (at 0 °C) at a rate of around 1 ml min
+−1
+under rigorous stirring, during which the yellow precipitate appeared gradually. Stirring of the mixed suspension was continued for another 5 h at 0 °C, followed by centrifugation to separate the solid. The solid was washed further with ultrapure water three times, dried using a freeze-dryer, and carefully ground for use. To obtain the POM without Pd, the cation solution contained only Cs
++
+for the precipitation of [PMo
+
+O
+
+]
+3−
+. As for Pd/CsPTA, PTA hydrate (2.16 g) was used as the POM precursor instead, while the amount of Pd(NO
+
+)
+
+hydrate was adjusted to 8.6 mg.
+Characterization
+A field-emission scanning electron microscope (Hitachi, SU8010) and a transmission electron microscope (Thermo Fisher Scientific, Talos F200S) were employed to observe the morphology and crystallinity of the catalyst. HAADF and iDPC imaging were carried out using an aberration-corrected scanning transmission electron microscope (AC-STEM; Thermo Fisher Scientific, Themis Z) to observe the atomic arrangement in the crystalline catalyst. An X-ray diffractometer (Rigaku, MiniFlex 600) with Cu Kα1 radiation was used to determine the phase structure. The surface area of the sample was determined using the Brunauer–Emmett–Teller method. Raman spectroscopy (Horiba, LabRAM HR Evolution) was performed with an excitation laser wavelength of 532 nm to reflect the structure of POM.
+XPS (Thermo Fisher Scientific, ESCALAB250Xi) was adopted to characterize the oxidation states of the elements. UV-visible absorption spectroscopy (Hitachi, UH5300) was used to probe the chemical state of Mo of the catalyst in water. EPR (Bruker, model A300) spectra were acquired at the X band for the detection of radicals and excited species in suspensions and paramagnetic metal species in powder samples (that is, Mo(V)). For pseudo in situ EPR, the quartz tube containing the sample was filled with a specific gas and sealed in a glove box, followed by spectral acquisition. To replace the atmosphere, the EPR tube was vacuumized and purged with the aim gas three times. The simulation of EPR spectra was carried out using the EasySpin toolbox running in Matlab R2020b (
+).
+DRIFTS experiments were carried out using an Fourier transform infrared spectrometer (Thermo Fisher Scientific, Nicolet iS50) with a mercury cadmium telluride detector working at liquid nitrogen temperature. The catalysts were loaded and smoothed in an in situ DRIFTS cell with a zinc selenide window. All spectra were recorded in terms of their absorbance at a resolution of 4 cm
+−1
+with 64 scans at room temperature and atmospheric pressure. The background was initially obtained under a flow of N
+
+at 40 ml min
+−1
+until the spectrum become steady. For in situ NO-DRIFTS experiments, 1% NO/Ar was subsequently introduced at a rate of 40 ml min
+−1
+for 10 min, while DRIFT spectra were collected in the meantime. For H
+
+-DRIFTS experiments, purified H
+
+was purged at a rate of 40 ml min
+−1
+for 10 min, followed by N
+
+sweeping for another 10 min before the stabilized spectra were recorded.
+Performance evaluation
+The performance of partial methane oxidation was tested using a stainless-steel autoclave equipped with a 10 ml glass vial liner. For a typical procedure, 10 mg of the catalyst was dispersed in D
+
+O (2.0 ml) in the glass vial. Then the catalyst suspension was exposed to a mixture of methane and O
+
+(where the partial pressures are 10 bar and 1 bar, respectively). The dispersed catalyst was first stirred at 800 revolutions per minute (r.p.m.) under H
+
+(4 bar) for 15 min to reach a sufficient hydrogen-spillover state. For running the methane oxidation reaction with a H
+
+cofeed, the autoclave was pressurized with the reactant gases (H
+
+, O
+
+and methane) balanced with inert gas (N
+
+and Ar). Then the liquid mixture was stirred at 800 r.p.m. at a specific temperature for 30 min. When H
+
+O
+
+was used as the oxidant, the solvent used was ultrapure water (2.0 ml) (with a specific amount of H
+
+O
+
+). The autoclave was then filled with methane (10 bar) without H
+
+and O
+
+. After the reaction, the gases in the autoclave were collected using a gas sampling bag and analysed using a gas chromatograph (Agilent, 7890B) with Porapak-Q and molecular sieve 5A columns and a thermal conductivity detector using helium as the carrier gas. The oxygenated products in the liquid solution were detected and quantified using
+
+H NMR spectroscopy (400 MHz, Bruker). For D
+
+O-based experiments, the sample (1.0 ml) was mixed with D
+
+O solution (50 μl) containing DMSO (0.50 μmol), which acts as the internal standard. For samples with H
+
+O as the solvent, the sample (1.0 ml), D
+
+O (0.15 ml) and the same DMSO solution (50 μl) were mixed thoroughly, placed in an NMR tube and then detected under water-suppression mode.
+For stability testing, Pd/CsPMA (10 mg) was dispersed in D
+
+O (2.0 ml) and first treated with H
+
+(1 bar) in the autoclave for 18 min, after which the catalyst was exposed to a mixture of H
+
+(1 bar), O
+
+(0.4 bar), N
+
+(28.6 bar) and CH
+
+(20 bar) and then stirred for 1–8 h for the reaction.
+For the recycling tests, Pd/CsPMA (10 mg) was dispersed in D
+
+O (2.0 ml) and exposed to the reaction atmosphere (H
+
+(2 bar), O
+
+(0.3 bar) and CH
+
+(10 bar) balanced with N
+
+(25.7 bar)) at room temperature for 30 min. Then a 200 μl aliquot of the reaction mixture was extracted, which was mixed with D
+
+O (400 μl) containing DMSO (0.25 μmol) for the
+
+H NMR test. The remaining suspension with the reduced catalyst was treated with a mixture of O
+
+(1 bar) and N
+
+(9 bar) for 30 min, followed by the addition of CsNO
+
+(5 mg) to fully precipitate the dissolved PMA. The solid was centrifuged to separate it from the liquid. Thereafter, a suitable amount of D
+
+O was added to maintain the same concentration of Pd/CsPMA in the solution as that of the first run. The mixture was then used for the methane oxidation reaction under the same reaction conditions, followed by the same recycling procedure.
+For the
+
+O isotope labelling experiments, Pd/CsPMA (10 mg) was dispersed in H
+
+O (2.0 ml) and first pretreated with H
+
+(1 bar) for 18 min, followed by purging with N
+
+three times. Then, H
+
+(1 bar),
+
+O
+
+or
+
+O
+
+(0.4 bar), N
+
+(18.6 bar) and CH
+
+(30 bar) were introduced and reacted for 1 h. Afterwards, the reaction mixture was purged further with N
+
+three times, after which
+
+O
+
+or
+
+O
+
+(0.2 bar) balanced with N
+
+was introduced and stirred for 30 min to reoxidize the catalyst, so that the catalyst can be separated from the solution. The supernatant was then analysed using off-line gas chromatography–mass spectrometry (Agilent 7890A/5975C GC/MSD system). An HP-INNOWax column was used for measuring the water-containing sample.
+DFT calculations
+DFT calculations were performed with using the Vienna ab initio simulation package
+
+,
+
+. The Perdew–Burke–Ernzerhof functional form of the generalized-gradient approximation for electron exchange and correlation energies was used
+
+. Spin polarization was considered for all calculations. The projector-augmented wave method was used to describe the electron–core interaction with a kinetic energy cutoff of 450 eV (refs.
+
+,
+
+). A cubic cell with cell lengths of 20 Å was used to ensure a sufficient distance between the images. Geometry optimizations were performed to a force convergence of 0.02 eV Å
+−1
+. Transition states were obtained using the nudged elastic band
+
+method using a force convergence criterion of 0.05 eV Å
+−1
+.
+Data availability
+All data are available from the authors upon reasonable request.
+Source data
+are provided with this paper.

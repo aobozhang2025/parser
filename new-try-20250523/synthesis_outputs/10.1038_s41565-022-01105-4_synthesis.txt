@@ -1,5 +1,170 @@
 DOI: 10.1038/s41565-022-01105-4
-Source: supplementary
-==================================================
+Source: supplementary PDF
+--------------------------------------------------
 
-Catalyst Preparation 4 (III) Catalyst
+(II) Catalyst Preparation 4
+(III) Catalyst Characterization 5
+(IV) Catalytic Evaluation 7
+(V) Assessment of Mass and Heat Transfer Limitations 8
+(VI) Transient Mechanistic and Kinetic Analyses 10
+(VII) Computational Methods 12
+Supplementary Tables 14
+Supplementary Figures 25
+Supplementary References 54
+
+(I) Platform of Nanostructured Catalysts
+To assess potential catalytic descriptors, a well-defined catalyst platform with systematically varied
+properties is central. Herein, the metal speciation and host functionalization are the factors of major
+interest, as they were previously identified to affect the overall catalytic performance for Au, Pt, and Ru-
+based catalysts. Hence, similar sensitivities can be expected for other active metals, including Rh, Ir, and
+Pd. To study both variables, we constructed a platform of M/C catalysts containing the six metals (M)
+with different nanostructure, varying from single atoms (SA) to nanoparticles (NP) of gradually increasing
+size at a fixed metal loading, supported on activated and N-doped carbon (AC, NC, . To this end,
+the carbon supports were impregnated with a solution of the metal chloride precursors, followed by
+thermal activation at distinct temperatures (T , for details on the sample nomenclature, see
+act
+Supplementary . By combining currently available state-of-the-art characterization techniques to
+analyse metal nuclearity and speciation in powder catalysts, including aberration corrected high-angle
+annular dark-field (AC-HAADF) STEM, X-ray diffraction (XRD), XAS, XPS, and DFT the evolution of
+the metal site as a function of the choice of metal, the thermal activation temperature, and the
+functionalization of the carbon support, was assessed. At T = 473 K, all metals are exclusively present as
+act
+single atoms, as visualized by STEM analysis , Supplementary Figs. 1, 2) and corroborated by
+the absence of respective metal reflections in the XRD patterns (Supplementary . XPS and
+extended X-ray absorption fine structure (EXAFS) fitting results indicate a positively charged metal center
+with ca. 2-4 chlorine neighboring atoms and the absence of metal-metal fingerprints in all cases ,
+Supplementary Figs. 4-9, Supplementary Tables 2-5). Notably, the partially or fully chlorinated state of
+the metals largely impairs their ability to adsorb common probe molecules, such as carbon monoxide, thus
+disqualifying probe molecule vibrational spectroscopy as a tool to further characterize the SACs reported
+in this work. Despite the common initial speciation patterns (i.e., isolated atoms), an increase in the
+thermal activation temperature triggers distinct behaviors for all metals, depending on the choice of carbon
+host. On AC, the population of metal chloride single atoms is systematically decreased with rising
+temperature due to gradual agglomeration into nanoparticles with small average particle sizes for Pt, Ru,
+
+Rh, and Ir (d = 3-5 nm at T = 1073 K) and larger sizes for Au and Pd (d = 7.1 nm for Au at
+p act p
+T = 523 K and d = 11.3 nm for Pd at T = 673 K, Supplementary . Based on XPS and EXAFS
+act p act
+analyses, the nature of the obtained nanoparticles was identified as mainly metallic, in the case of Au, Pt,
+and Pd, and oxidic for Ru, Rh, and Ir. Notably, on NC, the former group does not undergo agglomeration
+with increasing thermal activation up to 1073 K. Instead, a gradual change in the coordination
+environment from predominantly M-Cl single atoms to M-N single atoms occurs (i.e., coordinated to 4
+x 4
+nitrogen neighboring atoms). On the contrary, the agglomeration behavior of Ru, Rh, and Ir is hardly
+affected by the choice of the carbon host and small metal oxide particles are formed with increasing
+activation temperature.
+
+To rationalize the transformation of the metal speciation in the M/C catalysts during the catalyst synthesis,
+three aspects were considered: (i) the metal cohesive energy, E , indicating the stability of the bulk
+coh
+metal, (ii) the metal oxide formation energy, E (M-oxide), describing the stability of the metal oxide,
+form
+and (iii) the single-atom formation energies in their most stable configurations in chlorinated and non-
+chlorinated form, E (MCl) and E (SA), quantifying the interaction strength of single atoms to the
+form form
+surface defects of the carbon (N-defects on NC and O-defects on AC, respectively). Considering the
+former two, it is evident that E and E (M-oxide) are linearly dependent . This implies that the
+coh form
+origin of the diverging behavior of the Au (Au, Pt, Pd) and Ru (Ru, Rh, Ir) groups regarding their
+preferred formation of metallic or oxidic nanoparticles relates to their ability to form stable oxides. To
+assess the impact of the metal-host interactions in the M/C catalysts, DFT was employed. The model for
+the AC and NC supports was constructed from 16 distinct defects containing either N (pyrrolic, pyridinic,
+graphitic, oxo-pyridinic) or O (hydroxyl, epoxide, keto) heteroatoms (Supplementary , see
+Computational Methods for details) leading to 280 metal-carbon configurations. This thorough speciation
+analysis is based on stability of the single atoms, chlorinated single atoms, bulk metals and metal oxides
+(that identify thermodynamically stable configurations, Supplementary -15) coupled to matching
+the experimental characterization fingerprints, EXAFS (narrowing further the set of most likely models,
+Supplementary . Considering this extensive number of sites offering diverse coordination motifs,
+
+the interactions of a single-metal atom (MCl species) vary widely depending on the specific AC or NC
+defect , Supplementary . Remarkably, also the extent of this interaction, as averaged
+(arithmetic mean) formation energies of the non-chlorinated single atom M-SA and chlorinated
+MCl species, correlates with the metal oxide phase. Overall, this observation indicates a (linear)
+dependence between the metal, metal oxide, and metal SA (MCl) stability. Thereby, the metal oxide
+formation energy plays the key role in directing the speciation behavior. For example, on a representative
+bi-epoxidic AC defect, the stability of the SA species (with reference to the metal bulk) is sufficient to
+overcome the cohesive energy of all metals, if Cl is present in the coordination sphere (T = 473 K).
+act
+Upon increasing the activation temperature, the Cl content decreases, leading to the formation of less
+stable Cl-undercoordinated SA species. For Ru in the two epoxidic defects described above this leads to
+MO species attached to the surface via van der Waals (vdW) forces. These are then mobile and
+
+agglomerate into larger metal oxide particles. The stability of the Au group is also compromised by Cl
+removal. However, in contrast to the Ru group, the formation of MO species is not favorable, thus
+
+leaving the epoxidic defect intact and promoting sintering of the Au group .
+
+(II) Catalyst Preparation
+The N-doped carbon support (NC) was prepared in a two-step synthesis, consisting of the oxidative
+polymerization of aniline and a subsequent carbonization step.1 Aniline (50 mmol, Acros, 99.5%) was
+dissolved in deionized water (40 cm3, pH 0.4; adjusted by hydrochloric acid, 1.25 M, Sigma Aldrich,
+>37%), cooled to 277 K, and subsequently added to a precooled solution (277 K) of ammonium persulfate
+(50 mmol, Acros, 98%) in deionized water (20 cm3). After 5 min of vigorous stirring, the mixture was
+kept at room temperature for 24 h to complete the polymerization process. The formed polyaniline was
+thoroughly washed with deionized water for neutralization, dried in vacuum at 393 K for 12 h, and
+afterwards calcined at 1073 K (heating rate 5 K min−1, hold time 1 h, static N ). The obtained N-doped
+
+carbon was ground and sieved (particle size 0.4-0.6 mm). Commercial activated carbon (AC, Norit ROX
+0.8) was immersed in aqua regia at room temperature to remove metal impurities. After filtration and
+
+thorough washing with deionized water (750 cm3 g−1), the material was dried in static air at 393 K for 12 h
+and subsequently ground and sieved into 0.4-0.6 mm particles.
+All metal-based catalysts were prepared via an incipient wetness impregnation method with a nominal
+metal loading of 1 wt.%. The metal precursors, HAuCl ∙xH O (ABCR, 99.9%, 49.5 wt.% Au),
+4 2
+RuCl ∙xH O (ABCR, 99.9%, 40.0 wt.% Ru), H PtCl (ABCR, 99.9%, 40.0 wt.% Pt), IrCl ∙xH O (ABCR,
+3 2 2 6 3 2
+99.9%, 65 wt.% Ir), RhCl ∙xH O (ACROS Organics, 99.9%, 38 wt.% Rh), and PdCl (Sigma Aldrich,
+3 2 2
+99.9%, 60 wt.% Pd) were dissolved in aqua regia (1.5 cm3 g−1 Au, 5-8 cm3 g−1 for Ru, Ir, Rh), HCl
+(1.5 cm3 g−1 for Pd) or water (1.5 cm3 g−1 for Pt) and the obtained solutions were added dropwise, under
+magnetic stirring, to the carbon carriers. Subsequently, all samples were dried at 473 K (heating
+rate = 5 K min−1, hold time 12 h, static air) to yield the respective single-atom catalysts, denoted as
+M-SA/NC or M-SA/AC. In the case of Au, Pt, and Pd, single atoms with four-fold N-coordination (M-
+SA-N /NC) were obtained via thermal activation of the respective M-SA/NC samples (T = 1073 K,
+4 act
+heating rate = 5 K min−1, 16 h, flowing N ). Nanoparticle-based M/C catalysts with varying particle sizes
+
+were derived via thermal activation in the temperature range of T = 523-1073 K (heating
+act
+rate = 5 K min−1, hold time 12 h, flowing N ). For each metal, a representative nanoparticle-based sample
+
+(M-NP/NC for Ru, Rh, Ir or M-NP/AC for all metals) was selected (i.e., the system with the highest
+activity for Ru-, Ir-, Rh-, and Pd-based catalysts and a sample of comparable particle size for Au and Pt-
+based catalysts). Catalysts after use in acetylene hydrochlorination for x-h time-on-stream (tos) are labeled
+M/C-xh.
+(III) Catalyst Characterization
+Powder X-ray diffraction (XRD) was measured using a PANalytical X’Pert PRO-MPD diffractometer
+with Cu-K radiation ( = 1.54060 Å). The data was recorded in the 10-70° 2 range with an angular step
+size of 0.017° and a counting time of 0.26 s per step. Ar sorption isotherms were measured at 77 K in a
+Micromeritics 3Flex instrument, after degassing of the solids at 423 K for 12 h. Scanning transmission
+electron micrographs (STEM) with a high-angle annular dark-field (HAADF) detector were acquired on
+an aberration-corrected HD2700CS (Hitachi) microscope operated at 200 kV. Samples were prepared by
+
+dipping the copper grid supporting a holey carbon foil in a suspension of the solid in ethanol and drying in
+air. X-ray photoelectron spectra (XPS) were acquired on a Physical Electronics Quantum 2000 instrument
+using monochromatic Al-K radiation, generated from an electron beam operated at 15 kV, and equipped
+with a hemispherical capacitor electron-energy analyzer. The samples were analyzed at an electron take-
+off angle of 45° and a constant analyzer pass energy of 46.95 eV with a spectra resolution step width of
+0.2 eV. The spectrometer was calibrated for the Au 4f signal at 84.0 ± 0.1 eV. The Au 4f, Pt 4f, Pd 3d,
+7/2
+Ru 3p, Rh 3d, and Ir 4f spectra were fitted by mixed Gaussian-Lorentzian component profiles after Shirley
+background subtraction. The selected peak positions are based on literature reported data. X-ray
+absorption fine structure (XAFS) measurements were carried out at the SuperXAS beamline of the Swiss
+Light Source.2 The incident photon beam provided by a 2.9 T superbend magnet was selected by a Si
+channel-cut Quick-EXAFS monochromator.3 The rejection of higher harmonics and focusing were
+achieved with Rh-coated (for Ir-L , Pt-L , Au-L edges) and a Pt-coating (for Pd-K, Ru-K, and Rh-K
+3 3 3
+edges), respectively, at 2.5 mrad. The beamline was calibrated using the respective metal foils. The area of
+sample illuminated by the X-ray beam was 0.5 mm×0.2 mm. All spectra were recorded in transmission
+mode at room temperature. The extended X-ray absorption fine structure (EXAFS) spectra were acquired
+with a 1 Hz frequency (0.5 s per spectrum) and then averaged over 10 min. The resulting raw data were
+processed using the ProQEXAFS software package.4 The EXAFS spectra were analyzed using the
+Demeter software package.5 Volumetric chemisorption of acetylene at 473 K (W = 0.1 g) was performed
+cat
+in a Micromeritics 3Flex Chemi instrument to quantify the amount of acetylene chemisorbed (V ) at
+chem
+reaction temperature. Thermogravimetric analysis (TGA) was performed using a Linseis STA PT1600
+system coupled to a Pfeiffer Vacuum Thermo-Star GSD 320 T1 mass spectrometer. TGA of the as-
+prepared catalysts and after use in acetylene hydrochlorination was carried out in diluted oxygen
+(20 vol.% O /Ar, 100 cm3 min−1), heating the samples (amount fixed to 20 mg) from 298 to 1273 K at

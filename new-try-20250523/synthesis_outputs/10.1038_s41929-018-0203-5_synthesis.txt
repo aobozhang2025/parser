@@ -1,5 +1,329 @@
 DOI: 10.1038/s41929-018-0203-5
-Source: supplementary
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of P -doped g -C3N4 with the enhanced visible light photocatalytic activity. Appl. Surf. Sci. 430, 309 -315 . 4. Zhang, Y., Mori, T., Ye, J. & Antonietti, M. Phosphorus -doped carbon nitride solid: enhanced electrical conductivity and photocurrent generation. J. Am. Chem. Soc. 132, 6294 -6295 . 5. Guo, S. et al. Phosphorus -Doped Carbon Nitride Tubes with a Lay ered Micro -nanostructure for Enhanced Visible -Light Photocatalytic Hydrogen Evolution. Angew. Chem. Int. Ed. 128, 1862 -1866 . 6. Chen, W. et al. Rational Design of Single Molybdenum Atoms Anchored on N -Doped Carbon for Effective Hydrogen Evolution Re action. Angew. Chem. Int. Ed. 129, 16302 -16306 . 7. Mahmood, J. et al. An efficient and pH -universal ruthenium -based catalyst for the hydrogen evolution reaction. Nat. Nanotechnol . 12, 441 -446 . 8. Zhang, J. et al. Interface Engineering of MoS 2/Ni 3S2 Heterostructures for Highly Enhanced Electrochemical Overall -Water -Splitting Activity. Angew. Chem. Int. Ed. 128, 6814 -6819 . 9. Zheng, Y. et al. High electrocatalytic hydrogen evolution activity of an anomalous ruthenium catalyst. J. Am. Chem . Soc. 138, 16174 -16181 . 10. Lee, J. H. et al. Carbon dioxide mediated, reversible chemical hydrogen storage using a Pd nanocatalyst supported on mesoporous graphitic carbon nitride. J. Mater. Chem. A 2, 9490 -9495 . 11. Zhang, H. et al. Dynami c traction of lattice -confined platinum atoms into mesoporous carbon matrix for hydrogen evolution reaction. Sci. Adv. 4, eaao6657 . 12. Chen, W. et al. Rational Design of Single Molybdenum Atoms Anchored on N -Doped Carbon for Effective Hydrogen Evolution Reac tion. Angew. Chem. Int. Ed. 129, 16302 -16306 . 13. Zhang, L., Han, L., Liu, H., Liu, X. & Luo, J. Potential -Cycling Synthesis of Single Platinum Atoms for Efficient Hydrogen Evolution in Neutral Media. Angew. Chem. Int. Ed. 56, 13694 -13698 . 14. Liang, H. W. et al. Molecular metal -Nx centres in porous carbon for electrocatalytic hydrogen evolution. Nat. Commun. 6, 7992 . 15. Fei, H. et al. Atomic cobalt on nitrogen -doped graphene for hydrogen generation. Nat. Commun. 6, 8668 .
+Synthesis of Co
+/PCN
+In a typical synthesis, g-C
+
+N
+
+precursors were prepared through a typical thermal polymerization procedure. Typically, 10 g of urea (Sigma-Aldrich, ≥99% purity) was heated to 600 °C for 2 h in a muffle furnace, and then naturally cooled to room temperature to obtain the flavescent powders. The as-prepared g-C
+
+N
+
+was sufficiently mixed with NaH
+
+PO
+
+·H
+
+O (Sigma-Aldrich, ≥99% purity, 5:1) by grinding for 30 min, and heated at 300 °C for 2 h (2 °C min
+−1
+) in an Ar atmosphere to obtain PCN. To access Co
+
+/PCN, 200 mg PCN was dispersed in 60 ml deionized water with sonication and transformed in an oil bath. Co(NO
+
+)
+
+(Sigma-Aldrich, ACS reagent, ≥98% purity) aqueous solution (2 mg ml
+−1
+) was dropped into the PCN (aqueous) and stirred at 70 °C for 6 h. The mixture was then dried and placed in a tube furnace and annealed at 400 °C for 2 h in an Ar atmosphere. Finally, the obtained compounds were ultrasonicated, washed several times and dried under vacuum overnight.
+Material characterizations
+The morphologies of the as-prepared sample were examined by scanning electron microscopy and TEM on FEI-30 ESEM and JEOL-2100F systems at an accelerating voltage of 200 kV. EDS spectra were obtained on a 26FEI Talos F200X device at 200 kV. HAADF–STEM, high-resolution TEM and EELS results were obtained on a JEM-ARM 200F instrument at 200 kV. Powder XRD patterns were collected on a Philips X’pert Pro Super diffractometer with Cu K
+α
+line (
+λ
+=
+1.5418 Å). The concentration of Co atoms was directly measured by ICP–OES (Optima 7300 DV, PerkinElmer). XPS measurements were carried out on an ESCALAB MKII instrument equipped with an Mg K
+α
+source (
+hν
+= 1,253.6 eV). The binding energy scale of all measurements was calibrated by referencing C 1
+s
+to 284.5 eV (
+). P solid-state NMR spectra were conducted on an AVANCE III 400WB instrument.
+FTIR spectra were collected using a Nicolet 8700 infrared spectrometer with a resolution of 4 cm
+−1
+. All samples were mixed with KBr (Sigma-Aldrich) by grinding before being pressed into pellets. The samples of PCN in KOH and Co
+
+/PCN in KOH represent catalysts immersed in KOH solution and then vacuum-dried to remove solution. A total of 32 scans were collected for both the reference (pure KBr powders) and the samples.
+Electrochemical measurements
+All electrochemical measurements were carried out in a typical three-electrode system with an electrochemical workstation at room temperature, and using graphite rod as the counterelectrode and saturated Ag/AgCl as the reference electrode. To prepare the working electrode, 4 mg electrocatalyst and 20 μl Nafion solution (5 wt%) were ultrasonically dispersed in 1 ml water/ethanol (vol:vol, 3:1) solution to form a homogeneous ink. The electrocatalyst suspension (125 μl) was loaded onto Ni foam (1 cm
+
+) as the working electrode. Commercial 20% Pt/C catalyst was from Shanghai River Sen Electric Co. The reference sample loading was determined to be ~0.5 mg cm
+−2
+. For HER, cathodic linear sweep voltammetry with a 5 mV s
+−1
+scan rate was performed in N
+
+-saturated 1.0 M KOH (pH 13.6). Electrochemical impedance spectroscopy measurements were carried out by applying an a.c. voltage with 5 mV amplitude in a frequency range from 100 kHz to 100 MHz at an overpotential of 200 mV. All potentials were calibrated versus RHE using
+$$E\left( {{\mathrm{RHE}}} \right) = E\left( {{\mathrm{Ag/AgCl}}} \right){\mathrm{ + 0}}{{.197\,{\rm{V}} + 0}}{{.0592 \times {\rm{pH}}}}$$
+
+Operando XAFS measurements
+The Co K-edge (7,709 eV) XAFS spectra were measured at the 1W1B beamline of Beijing Synchrotron Radiation Facility (BSRF), China. The storage ring of BSRF was operated at 2.5 GeV with a maximum electron current of 250 mA. The hard X-ray was monochromatized with a Si double-crystal monochromator and detuned by 30% to remove harmonics. Operando XAFS measurements were performed with catalyst-coated carbon cloth using a home-built cell. The catalyst powders were dispersed in ethanol with 20 μl Nafion solution (5%, Sigma-Aldrich), and then sonicated for 30 min. The catalyst ink was dropcast onto carbon paper taped with Kapton film on the back as the working electrode (~1 cm × 1 cm) to ensure all of the electrocatalyst reacted with KOH electrolyte at a geometric metal loading of ~0.5 mg cm
+−2
+. The XAFS spectra were collected through the fluorescence mode. To monitor the changes during the HER process, cathodic voltages from −0.04 V to −0.1 V were applied for 5 min in 1 M KOH as the conditioning step.
+During XAFS measurements, we calibrated the position of the absorption edge (
+E
+
+) using Co foil, and all the XAFS data were collected during one period of beam time. Each spectrum was measured three times to ensure the repeatability of the data (the positions of
+E
+
+were almost the same during the multiple scans). The position of
+E
+
+is defined as the point corresponding to the maximum value in the derivative curves of the XANES spectra.
+XAFS data analysis
+Acquired EXAFS data were processed according to standard procedures using the ATHENA module implemented in the IFEFFIT software packages
+
+. The
+k
+
+-weighted
+χ
+(
+k
+) data in the
+k
+-space ranging from 2.0 to 10.5 Å
+−1
+were Fourier-transformed to real (
+R
+) space using a hanning windows (d
+k
+= 1.0 Å
+−1
+) to separate the EXAFS contributions from different coordination shells. To obtain the detailed structural parameters around the Co atom in the as-prepared samples, quantitative curve fittings were carried out for the Fourier-transformed
+k
+
+χ
+(
+k
+) in
+R
+-space using the ARTEMIS module of IFEFFIT
+
+. Effective backscattering amplitudes
+F
+(
+k
+) and phase shifts
+Φ
+(
+k
+) of all fitting paths were calculated with the ab initio code FEFF8.0
+
+. For the four Co
+
+/PCN samples, a
+k
+-range of 2.0–10.5 Å
+-1
+was used and curve fittings were carried out in
+R
+-space within an
+R
+range of [1.0, 2.1] Å for
+k
+
+-weighted
+χ
+(
+k
+) functions. The number of independent points is given by
+$$N_{{\mathrm{ipt}}} = 2\Delta k \times \Delta R/ \mathrm \pi = 2 \times \left( {10.5 - 2} \right) \times \left( {2.1 - 1.0} \right)/\mathrm \pi {\mathrm{ = }}6$$
+
+As for the ex situ Co
+
+/PCN sample, the Fourier-transformed curves showed a single prominent coordination peak at 1.63 Å assigned to the Co–N coordination with the N atoms from the PCN support. Two separate Co–N
+i
+and Co–N
+ii
+scattering paths were included to fit the data of the ex situ Co
+
+/PCN sample, where N
+i
+denotes the nearest N atoms bridging the Co atom and the support, while N
+ii
+denotes the N atoms with greater separation on the support. Compared to the ex situ sample, the first coordination peak of the sample under the open-circuit condition exhibited an obvious lower-
+R
+shift to 1.56 Å. This shift was ascribed to the coexistence with Co–O coordination, as suggested by the obvious change in the FTIR spectra. Thus, a two-shell structure model of a Co–N and a Co–O shell was used to fit the EXAFS data of the sample under the open-circuit condition. When a cathodic potential was applied, the Fourier transform curves showed a coordination peak position of 1.56 Å comparable with that of the open-circuit sample, except for an increase in the peak intensity, which was assigned to the water adsorption at the active cobalt site under the HER working conditions. Another Co–O
+
+shell therefore has to be included to fit the data of the −0.04 V and −0.1 V sample.
+During curve fittings, the Debye–Waller factors (
+σ
+
+) and bond length (
+R
+) were treated as adjustable parameters. For the ex situ sample,
+N
+and
+R
+were treated as adjustable parameters for both Co-N
+i
+and Co-N
+ii
+shells, while the
+σ
+
+and Δ
+E
+
+of the Co–N
+i
+and Co–N
+ii
+shells were set equal in order to reduce the number of adjustable fitting parameters. The number of adjustable parameters for the ex situ sample was thus
+N
+para
+= 2 + 2 + 1 + 1 = 6, no more than
+N
+ipt
+= 6. For the open-circuit sample,
+N
+and ΔE
+
+of the Co–-N
+i
+shell were set as the best-fit value of 2 and 5.5 eV from the ex situ sample, respectively. The
+σ
+
+of the Co–O
+i
+shell was set equal to that of the Co–N
+i
+shell, while the
+N
+,
+R
+and Δ
+E
+
+were all treated as free parameters. The number of adjustable parameters for the sample under the open-circuit condition was
+N
+para
+= 1 + 2 + 1 + 1 = 5. For the −0.04 V sample,
+N
+of the Co–N
+i
+and Co–O
+i
+shells and Δ
+E
+
+of Co–N
+i
+, Co–O
+i
+and Co–O
+ii
+were set as the best-fit values from the open-circuit sample.
+R
+and
+σ
+
+were treated as adjustable parameters, except for
+σ
+
+of the Co–N
+i
+and Co–O
+i
+shells, which were set equal. The number of adjustable parameters for the −0.04 V sample was
+N
+para
+= 1 + 3 + 1 + 1 = 6. For the −0.1 V sample,
+N
+and Δ
+E
+
+of the Co–N
+i
+, Co–O
+i
+and Co–O
+ii
+shells were set as the best-fit values of the −0.04 V sample. The number of adjustable parameters for the −0.1 V sample was
+N
+para
+= 3 + 2 = 5, also no more than
+N
+ipt
+= 6. Following the above fitting strategies, the obtained structural parameters are summarized in Supplementary 
+. All yielded
+R
+factors are not larger than 0.01, indicating the good fitting quality.
+Soft X-ray XANES measurements
+Co L-edge XANES measurements were performed at the photoemission endstation at BL10B and BL12B beamlines of the National Synchrotron Radiation Laboratory (NSRL), China. A bending magnet was connected to the beamline, which was equipped with three gratings covering photon energies from 100 to 1,000 eV with an energy resolution of ~0.2 eV. The data were recorded in the total electron yield mode by collecting the sample drain current. The resolving power of the grating was typically
+E
+/∆
+E
+= 1,000, and the photon flux was 1 × 10
+−10
+photons per second. The ex situ catalyst was dispersed in ethanol and dropped onto a conductive silicon wafer. For the catalyst in KOH solution (Co
+
+/PCN in KOH), the ex situ catalyst coated on conductive silicon wafer was wetted in KOH aqueous solution, and then sealed in a sample cell with silicon nitride membrane window-incident soft X-ray photons to penetrate the cell. During the Co L-edge XANES measurement, the samples were solidly adhered onto the conductive substrate with conductive adhesive and with a random orientation, so there was no polarization dependence.
+Computational methods
+All calculations were performed using the plane-wave periodic DFT method in the Vienna ab initio simulation package
+
+. The electron ion interaction was described with the projector augmented wave method
+
+. The electron exchange and correlation energy were treated within the generalized gradient approximation (GGA) in the form of the Perdew–Burke–Ernzerhof function
+
+. A cutoff energy of 500 eV, force convergence lower than 0.02 eV Å
+−1
+and Gaussian electron smearing method with
+σ
+= 0.1 eV were used. Brillouin zone sampling was employed using a Monkhorst–Pack grid
+
+. The nudged elastic band method was used to locate the transition states of the reactions
+
+. A single-layer periodic slab with (4 × 4) supercell g-C
+
+N
+
+was utilized, and all atoms were fully relaxed. The vacuum slab was set to 15 Å. PCN was modelled with a graphitic carbon atom of the pristine g-C
+
+N
+
+replaced by a phosphor atom (Supplementary 
+). The Pt surface was modelled using a four-layer slab with 15 Å vacuum slab and a (3 × 3) supercell (Supplementary 
+). The bottom two layers were fixed at the bulk position and the top two layers were fully relaxed for the calculations.
+The oxidation states of Co atoms are estimated by evaluating the Bader charges and by normalizing them to the Bader charges of bulk compounds with known oxidation states. For example, for phthalocyanine cobalt(
+ii
+) (CoPc), where the Co is coordinated with four N atoms, and its coordination environment is close to Co
+
+/PCN in our work, the Bader charge of Co is 0.87
+e
+. When normalizing to CoPc, the nominal oxidation state of 2.05 is obtained for the ex situ Co
+
+/PCN sample. Similarly, for the cobalt(
+ii
+) hydroxo complex C
+
+H
+
+N
+
+OBCo, the Co is coordinated with three N atoms and one hydroxyl group
+
+, and its coordination environment is close to HO–Co
+
+/PCN (open-circuit sample), the Bader charge of Co is 1.14
+e
+. When normalizing to C
+
+H
+
+N
+
+OBCo, the nominal oxidation state of 2.16 is obtained for HO–Co
+
+/PCN, confirming the more positive oxidation state of Co under open-circuit conditions. The Cartesian coordinates of the relaxed models are provided in Supplementary Data
+
+–
+
+.
+Data availability
+The data that support the plots within this paper and other findings of this study are available from the corresponding author upon reasonable request.

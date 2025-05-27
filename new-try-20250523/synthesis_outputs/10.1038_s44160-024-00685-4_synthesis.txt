@@ -1,5 +1,616 @@
 DOI: 10.1038/s44160-024-00685-4
-Source: supplementary
-==================================================
+Source: supplementary PDF
+--------------------------------------------------
 
-Synthesis of isolated Ru–O3 sites on hexagonal close-packed intermetallic penta- Experimental Section Chemicals . All chemicals used in this study were obtained from commercial suppliers and were directly used without postprocessing. For synthesis, Pd(acac) 2 (99%), Pt(acac) 2 (97%), Ru(acac) 3 (97%), Ir 4(CO) 12 (98%), Mo(CO) 6 (98%) and OAm (>70%) were purchased from Sigma -Aldrich while NH 4Br (99.0%) was obtained from Aladdin. For necessary references, Pt/C catalys t (20 wt.% of 3 nm - Pt nanoparticles on graphitized carbon) and Pd/C catalyst (10 wt.% of Pd on activated carbon) were bought from Sigma -Aldrich while 20% Ir on Vulcan XC -72 catalyst (Ir/C), Ru/C catalyst (5 wt.%), RuO 2 (Ru content >75%) and commercial PtRu /C catalyst ( ＜3.5 nm -PtRu nanoparticles with a Pt content of 19.65 -20.05% and a Ru content of 9.95 -10.35%) were obtained from Premetek, Shanghai Yuanye Biological Co. Ltd., Johnson Matthey and Hesen, respectively. For electrochemical testing, KOH (95%) wer e acquired from Aladdin and Nafion D -521 dispersion (5 wt.%) was bought from Alfa Aesar. Isopropanol, ethanol and cyclohexane were all supplied by Beijing Tongguang Fine Chemicals Company. All solutions were freshly prepared with ultrapure water (18.2 MΩ*c m).
+Synthesis of isolated Ru–O sites on
+hexagonal close-packed intermetallic penta-
+metallene for hydrogen oxidation
+electrocatalysis
+In the format provided by the
+authors and unedited
+Table of Contents
+
+Experimental Section ..................................................................................................................... 4
+Supplementary Figures ................................................................................................................. 5
+Supplementary 
+0.18
+. 7
+Supplementary 
+Supplementary 
+0.18
+. ................................................ 10
+Supplementary 
+0.18
+. .............................. 12
+Supplementary 
+Supplementary 
+for PMene-Ru
+0.18
+. ......................................................................................................................... 17
+Supplementary 
+Supplementary 
+Supplementary 
+. ..................... 23
+Supplementary 
+Supplementary 
+upd
+peak. 29
+Supplementary 
+. ................... 31
+Supplementary 
+0.18
+after ADT test. ................................ 33
+Supplementary 
+. ......................................................................................................................... 34
+Supplementary 
+0.4
+. .......... 36
+Supplementary 
+0.4
+. .......... 38
+Supplementary 
+Supplementary 
+Supplementary 
+oxygen (QI+O). ............................................................................................................................ 46
+Supplementary 
+Supplementary 
+Supplementary 
+edge EXAFS fitting (S
+
+2 = 0.822). ............................................................................................... 53
+
+Supplementary 
+Supplementary 
+Supplementary 
+Supplementary
+
+Experimental Section
+Chemicals. All chemicals used in this study were obtained from commercial suppliers and were
+directly used without postprocessing. For synthesis, Pd(acac) (99%), Pt(acac) (97%), Ru(acac)
+2 2 3
+(97%), Ir (CO) (98%), Mo(CO) (98%) and OAm (>70%) were purchased from Sigma-Aldrich while
+4 12 6
+NH Br (99.0%) was obtained from Aladdin. For necessary references, Pt/C catalyst (20 wt.% of 3 nm-
+
+Pt nanoparticles on graphitized carbon) and Pd/C catalyst (10 wt.% of Pd on activated carbon) were
+bought from Sigma-Aldrich while 20% Ir on Vulcan XC-72 catalyst (Ir/C), Ru/C catalyst (5 wt.%),
+RuO (Ru content >75%) and commercial PtRu/C catalyst (＜3.5 nm-PtRu nanoparticles with a Pt
+
+content of 19.65-20.05% and a Ru content of 9.95-10.35%) were obtained from Premetek, Shanghai
+Yuanye Biological Co. Ltd., Johnson Matthey and Hesen, respectively. For electrochemical testing,
+KOH (95%) were acquired from Aladdin and Nafion D-521 dispersion (5 wt.%) was bought from Alfa
+Aesar. Isopropanol, ethanol and cyclohexane were all supplied by Beijing Tongguang Fine Chemicals
+Company. All solutions were freshly prepared with ultrapure water (18.2 MΩ*cm).
+Characterizations. TEM was conducted on HITACHI HT7700 at an acceleration voltage of 100 kV.
+HAADF-STEM was done on aberration-corrected Hitachi HD2700C at 200 kV. EDS mapping was
+conducted at a lower voltage of 80 kV in order to minimize the damage to metallene and thus any
+possible interference of elemental analysis on JEOL ARM 200F equipped with a cold emission gun
+and an aberration corrector for the probe-forming lens system. AFM was measured by Bruker
+Dimension Icon. PXRD measurements were carried out on PANalytical X-ray diffractometer using
+Cu K source (λ=0.15406 nm). XPS and corresponding valence band measurements were completed
+α
+using Thermo Scientific K-Alpha spectrometer applying Al K radiation (1486.6 eV), and all measured
+α
+spectra were calibrated by C 1s peak (284.8 eV) before processing. EPR was carried out on Bruker
+EMX PLUS with frequency of 9.30 GHz. The element ratios and noble metal loadings of catalysts
+were determined by ICP-AES, Leeman Prodigy 7. Samples for ICP-AES tests were all pre-treated via
+microwave digestion system (MARS Xpress).
+
+Supplementary Figures
+a
+Pd, Ir& Mo Without Pt PdIrBMene Pd, Ir, Pt & Mo With Pt PdIrMoPtQMene
+precursors No auto-catalysis (Pd:Ir=51:49) precursors Auto-catalysis (Pd:Ir:Mo:Pt=61:29:4:6)
+PdIrMoPtRuPMene
+Pd, Ir, Ru & Mo Without Pt PdIrBMene Pd, Ir, Ru, Pt & Mo With Pt
+precursors No auto-catalysis (Pd:Ir=52:48) precursors Auto-catalysis (Pd:Ir:Mo:Pt:Ru=
+46:18:14:4:18)
+b
+Pt-induced
+Pd, Ru & Mo Without Ir PdRu auto-catalytic
+precursors Easier diffusion (Pd:Ru≈95:5) deposition of
+Ru and Mo
+VS
+PdRuMoPt
+Pd, Ru, Pt & Mo With Pt
+precursors Auto-catalysis (Pd:Ru:Mo:Pt≈ Ir-caused
+48:23:4:25) hard diffusion Pt + M s → M a + Pt2+
+c
+Pt auto-catalysis-induced Pd Ir Pt Ru Mo
+Ru & Mo deposition
+Pt deposition
+PdIrBMene Intermediate-1 Intermediate-2 fcc-PdIrRuMoPtalloy hcp-PdIrRuMoPt
+intermetallic PMene
+Supplementary 
+auto-catalysis. “M ” and “M ” represent metal atoms in solution and alloy, respectively. (c) Schematic
+s a
+illustration of synthetic mechanism of PMene-Ru .
+0.18
+Discussion
+As depicted by the grey flow chart in Supplementary , successful alloying of Ru can be realized
+without applying Ir precursors, indicating that the hard diffusion of Ru and Mo is attributed to the
+intrinsically high vacancy formation energy of original Ir atoms.
+In general, the synthetic mechanism was summarized as Supplementary Figs. 1b and 1c, where the
+formation of as-obtained PMene-Ru undergoes Pt-induced auto-catalysis process. Firstly, under the
+0.18
+strong adsorption of CO ligands, the earliest reduced Pd nuclei experiences confined growth and forms
+{111}-exposed two-dimensional (2D) nanocrystals, which alloy with Ir easily and thus produced the
+PdIr BMene. Then, Pt deposition happens at higher temperature and boosts the smooth diffusion of Ru
+and Mo atoms into lattice through galvanic-like reaction. Abundant vacancies derived from etched
+large-radius Pt atoms alleviate the diffusion impedance of Ru and thus help its under-temperature
+collaboration to form fcc PdIrRuMoPt alloy metallene, which turns out to be hcp intermetallic PMene-
+
+Ru at the end. Thanks to the auto-catalytic effect, Ru atoms are successfully introduced and
+0.18
+preferentially distribute on the surface of PMene-Ru .
+0.18
+
+Supplementary 
+AFM image of PMene-Ru with sub-nano thickness. (d) Corresponding representative height
+0.18
+profiles of PMene-Ru . (e) XPS survey spectrum of PMene-Ru . The inset presents the elemental
+0.18 0.18
+ratio, determined by ICP-AES.
+
+)s(
+stnuoC
+1 2 0 0
+P
+9 0B
+M
+0in
+e n
+d
+e
+in
+- R
+g
+u
+0 .1 8
+O 1 s
+R u 3 p
+6 0 0
+e n e r g
+P d
+y
+
+M
+(
+d
+o
+3e
+
+0V
+C
+d
+0)
+1 s
+P t 4
+Ir 4
+f
+f
+
+a b c
+1.04 nm
+0.88 nm
+~1 nm 0.98 nm
+1.07 nm
+200 nm 100 nm 400 nm
+d e
+Pt 4%
+Pd 46% Mo 14%
+Ru 18%
+Ir18%
+15 20 25 30 35 40
+D iam eter (nm
+
+)
+
+1.2
+0.6
+0.0
+-0.6
+0 20 40 60 80 100
+)mn(
+thgieH
+Distance (nm)
+1.2
+0.6
+0.0
+-0.6
+10 20 30 40 50 60
+)mn(
+thgieH
+Distance (nm)
+a b c
+
+0.86 nm
+0.98 nm
+0.95 nm
+0.89 nm 0.92 nm
+
+5 nm 5 nm 2 nm
+Supplementary 
+Supplementary 
+side view and (b) the magnified HRTEM image and its corresponding contrast-intensified mode image
+of selected region, with (ⅰ) as the contrast intensity profile. The scale bar in (b) is 1 nm.
+
+).u.a(
+ytisnetnI
+0 . 0 0 . 5
+D
+
+is
+. 0
+t a
+S
+n c
+ig
+e
+n a
+(
+ls
+
+n m
+. 5
+)
+B a c k g
+
+ro
+. 0
+u n d
+a b
+PMene-Ru
+0.18
+PMene-Ru
+0.18 1
+0. 94 nm 2
+
+(ⅰ) 4
+C background
+(ⅰ)
+
+2 3 4
+MCNTs
+0.94 nm
+d ≈0.23 nm
+5 nm
+a b c
+{110}+{210}
+5 nm 5 nm
+hcp
+d e f
+5 nm 5 nm
+g h i
+2 nm 2 nm
+Supplementary 
+Supplementary 
+
+Supplementary 
+P d
+o
+L
+L
+I
+P
+r M
+t L
+Supplementary 
+highlight the classic interior hcp atomic arrangement. (b, c, d) Magnified high-resolution HAADF-
+STEM images and correlative FFT patterns of typical areas on the edge of metallene with obvious
+fcc/hcp phase boundary structure. The scale bar of HAADF-STEM images is 0.5 nm.
+
+a
+c
+d
+0 .2
+
+n
+n
+m
+m
+b
+c
+d
+fc c
+h c p
+fc c
+h c p
+fc c
+h c p
+a
+3a 4r
+4r
+4r
+3a
+fccMetal-{111} hcpMetal-{111}/{0001} PdO-{111} RuO -{111}
+
+b
+Measured values for PMene-Ru (with the scale bar of 0.5 nm):
+0.18
+Supplementary 
+was calculated as: N= (1+10)*10/2+11*3*1/2+3*1/6 = 55 + 16.5 + 0.5 = 72.
+
+Supplementary 
+(d)XPS survey spectrum of QMene with an inset diagram of elemental ratio obtained from ICP-AES.
+The three grey dash lines index the binding energy of Ru 3p, Mo 3d and Pt 4f, respectively. Apparently,
+BMene possesses only Pd and Ir while QMene contains additional Pt and Mo. Neither two metallene
+samples involve Ru elements.
+
+a
+c
+
+30 35 40 45 50
+D ia m e te r (n m )
+2 0 0 n m
+30 35 40 45 50
+D ia m e te r (n m )
+2 0 0 n m
+
+b
+)s(
+stnuoC
+d
+)s(
+stnuoC
+
+P
+P
+d
+d
+
+B M e
+%
+9 0 0
+B in
+Q M e
+P t 6 %
+%
+9 0 0
+B in
+n
+d
+n
+d
+e
+in
+e
+M
+in
+Ir 4 9 %
+P
+O 1 s
+6 0 0
+g e n e r g
+o 4 %
+Ir 2 9 %
+O 1 s
+6 0 0
+g e n e r g
+d
+y
+P
+y
+3 d
+3 0
+( e V
+d 3 d
+M o 3
+3 0
+( e V
+C
+
+)
+C
+d
+0)
+1 s
+Ir 4 f
+1 s
+Ir 4
+P t 4 f
+f
+
+x
+z
+Supplementary 
+after optimization to convergence. The Ru atoms in the model (ⅴ) can be replaced by Mo and Pd atoms
+with random ratio. Similarly, the Ir atoms in the model (ⅴ) can be replaced by Pt atoms, without
+affecting the simulated XRD pattern. Through such atomic replacement, hcp intermetallics can be
+realized in pentabasic system, and the atomic model with mixed occupation was shown as 
+
+θ
+θ
+(
+(
+°
+°
+
+)
+
+)
+
+a b
+Pb
+1011 1210 (ⅰ) Pt
+
+Pd
+Ir
+
+y Ru
+hcp-PtPb
+(ⅱ)
+Inverse
+atomic
+occupation
+x Pt → Pb
+Pb → Pt
+y
+z
+(ⅲ)
+Element
+replacement
+Pt → Ir
+x
+Pb → Ru
+y
+z
+(ⅳ)
+Orderly
+introduction
+of Pd elements
+x
+y
+z
+1011/0111
+(ⅴ)
+ Adjusted
+lattice para-
+0110/1100
+0001 x meters toward
+fccphase
+
+y
+z
+s-hcp-RuIrPd(2:1:1)
+0 1 0 2 0
+2 θ ( °
+
+)
+0 4 0 5 0
+
+hcp-i-PtPb
+0 1 0 2 0
+2 θ ( °
+
+)
+0 4 0 5 0
+
+hcp-i-IrRu
+0 1 0 2 0
+2 θ ( °
+
+)
+0 4 0 5 0
+hcp-PtPb
+hcp-i-PtPb
+
+hcp-i-IrR0u110/1100
+0001 0002
+hcp-RuIrPd(2:1:1)
+hcp-RuIrPd (2:1:1)
+Measured XRD peaks
+s-hcp-RuIrPd (2:1:1)
+0 10 20 30 40 50
+2θ (°)
+Discussion
+As depicted in Supplementary , the XRD simulation was conducted for PMene-Ru , starting
+0.18
+with standard hcp-PtPb (model (ⅰ)). According to the alternated atomic arrangement observed in the
+HAADF-STEM images, one can deduce that heavy atoms occupy the Pb-type positions in PMene-
+Ru while light atoms situate at the Pt sites. Therefore, inverse atomic occupation of Pt and Pb was
+0.18
+adopted for model (ⅱ), while original Pt and Pb atoms were replaced with Ir and Ru atoms, respectively,
+to obtain model (ⅲ). Subsequently, note that the diffraction peak at around 15°-18° represents 
+facet of hcp phase whose d-spacing is equal to the cell parameter c, the emergence of this peak implies
+chemical short-range ordering (CSRO) at a distance of |c|, which means the two interior Ir atom rows
+are not identical. Hence, a Pd atomic row was then introduced in model (ⅳ), where the layered-ordering
+structure gets established. Moreover, the XRD peak at around 31° symbolic for facet shall have
+a d-spacing half of that of , however, actually its d-spacing is much smaller than this theoretical
+value, also indicating certain lattice contraction due to the replacement by smaller Pd atoms. Finally,
+according to XRD and FFT, a shrunk lattice for PMene-Ru was declared and a most stable structure
+0.18
+with fixed a and c based on the diffraction peaks at 15.0° and 39.5° was finally ensured as model (ⅴ).
+
+a
+(ⅵ) no Mo atoms on the surface (ⅶ) 1 Mo atom on the surface (ⅷ) 2 Mo atoms on the surface Pd
+Ir
+Ru
+x x x Mo
+Pt
+y y y
+z z z
+(ⅸ) interior Pt atoms based on model ⅷ b
+x
+y
+z
+Supplementary 
+Discussion
+Based on ICP-AES outcomes, the supercell model of PMene-Ru with 36 atoms in total contains 16
+0.18
+Pd atoms, 7 Ir atoms, 6 Ru atoms, 5 Mo atoms and 2 Pt atoms to approach the practical elemental ratio.
+Given that at least 1 Pd atom exists on the surface, no more than 2 Mo atoms can emerge at the outmost
+layer. Supplementary shows that with increasing Mo atoms showing on the surface layer, the
+energies of as-constructed models (from ⅵ to ⅷ) decrease generally since Mo is widely reckoned to
+distribute on the surface to be stable. Moreover, the position of Pt atoms in Ir-layer is found to have
+tiny influence on the energy of model (ⅸ). Till this step, a more stable model (ⅷ) based on model (ⅴ)
+with 2Mo atoms on the surface was obtained.
+
+)Ve(
+ygrenE
+-3
+-3
+-3 1 6
+-3 2 0
+2 7 .2
+2 7 .6
+N u m
+
+b
+m
+e
+o d
+r o
+e l v
+f M
+i
+o a
+
+to m
+m
+s
+o d
+o
+e
+n
+l v ii
+m o d e l ix
+m o d e l v iii
+
+th e s u rfa c e
+-327.0
+-327.5
+-328.0
+x xi xii xiii
+Supplementary 
+finally adopted for DFT calculations.
+
+)Ve(
+ygrenE
+a
+(ⅹ) (xi) (xii) Pd
+Ir
+Ru
+x x x
+Mo
+y y y Pt
+z z z
+b
+(xiii)
+x
+y
+z
+Supplementary 
+0.18
+from Pd to Ir while both Ir and Mo possess certain oxidation states.
+
+a
+).u.a(
+ytisnetnI
+3 4
+P
+
+d
+2+ P d
+3 d 3/2
+3 4 2
+B in d

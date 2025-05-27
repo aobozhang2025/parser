@@ -1,5 +1,612 @@
 DOI: 10.1038/s41557-023-01392-x
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-Methods Synthesis The materials used for the synthesis of the catalysts are listed in Supplementary Section 1 . The Ga 2 O 3 /Al 2 O 3 , Ga 2 O 3 –Ir/Al 2 O 3 and Ga 2 O 3 –Ir–K/Al 2 O 3 catalysts were prepared by an incipient wetness impregnation method. Using Ga 2 O 3 –Ir–K/Al 2 O 3 as an example, Ga(NO 3 ) 3 ·9H 2 O, IrCl 3 ·3H 2 O and KNO 3 were used as precursors and dissolved in deionized water. A γ-Al 2 O 3 support was impregnated with this solution at room temperature for 12 h, followed by drying at 100 °C overnight and calcination at 600 °C for 4 h. The Ga, Ir and K loadings were ∼ 3, ∼ 0.05 and ∼ 0.25 wt%, respectively. A commercial CrO x –K/Al 2 O 3 catalyst was synthesized according to the Fridman method 52 . Briefly, the desired amounts of CrO 3 and KOH were separately dissolved in water. Then, the two solutions were mixed. Afterwards, γ-Al 2 O 3 was added to the mixture. The catalyst was collected after drying and calcination at 760 °C for 4 h. The Cr and K loadings were ∼ 19.8 and ∼ 0.98 wt%, respectively. The loadings of M (M = Ga, Cr) were determined by inductively coupled plasma optical emission spectroscopy (ICP-OES), based on the weight ratio of M to Al 2 O 3 . Catalytic testing The catalysts were tested in a quartz fixed-bed reactor (8 mm inner diameter and 24 cm length) under atmospheric pressure. A mixture (1 ml) of 30–200 mg catalyst and quartz sand (20–40 mesh size) was loaded into the tubular quartz reactor. The catalysts were first heated to 600 °C at a rate of 10 °C min −1 in N 2 (50 ml min −1 ). Afterwards, a mixture of C 3 H 8 , H 2 and N 2 was fed into the reactor at a flow rate of 50 ml min −1 . The inlet concentrations of C 3 H 8 and/or H 2 were varied from 0 to 40 vol% by changing the flow rate of C 3 H 8 , H 2 and N 2 while keeping the total flow rate constant. For the pre-reduction, after heating to 600 °C, the catalysts were treated in 42 vol% H 2 /N 2 (50 ml min −1 ) for 1 h and then purged in N 2 (50 ml min −1 ) for another 1 h. The gas products were analysed in an online gas chromatograph (GC-2060, Shanghai Ruimin Instrument Co. Ltd.) equipped with a flame ionization detector (Al 2 O 3 plot column) and a thermal conductivity detector (TDX-01 column). The conversion of C 3 H 8 ( X (C 3 H 8 )), selectivity for C 3 H 6 , CH 4 , C 2 H 6 , C 2 H 4 ( S ( i )) and coke ( S (coke)), and C 3 H 6 formation rate ( r (C 3 H 6 )) were calculated using equations ( 1 )–( 4 ), respectively: $$X\left({\text{C}}_{3}{\text{H}}_{8}\right)=\frac{F_i^{\;\text{in}}-F_i^{\;\text{out}}}{F_i^{\;\text{in}}}$$ $$S\left(i\right)=\frac{n_i}{n_{{\text{C}}_{3}{\text{H}}_{8}}}\frac{F_i^{\;\text{out}}}{F_{{\text{C}}_{3}{\text{H}}_{8}}^{\;\text{in}}-F_{{\text{C}}_{3}{\text{H}}_{8}}^{\;\text{out}}}$$ $$S\left(\text{coke}\right)=1-{\sum }_iS(i)$$ $$r\left({\text{C}}_{3}{\text{H}}_{6}\right)=\frac{F_{{\text{C}}_{3}{\text{H}}_{6}}^{\;\text{out}}}{m_{\text{cat}}}$$ where \({F}_{i}^{\;{\rm{in}}}\) and \({F}_{i}^{\;{\rm{out}}}\) are the rates of flow of gas-phase components at the reactor inlet and outlet (mmol min −1 ), respectively, m cat is the mass of the catalyst, and \(n_{\mathrm{C}_3\mathrm{H}_8}\) and n i are the numbers of carbon atoms in propane and the product i (CH 4 , C 2 H 6 , C 2 H 4 and C 3 H 6 ), respectively. A first-order deactivation model was used to evaluate the catalyst stability: $${k}_{{\rm{d}}}=\frac{\mathrm{ln}\left(\frac{1-{X}_{{\rm{Final}}}}{{X}_{{\rm{Final}}}}\right)-\,\mathrm{ln}\left(\frac{1-{X}_{{\rm{Initial}}}}{{X}_{{\rm{Initial}}}}\right)}{\tau }$$ where X Initial and X Final are the conversions of C 3 H 8 measured in the initial and final stages of the reaction, respectively, τ is the reaction time (h) and k d is the deactivation rate constant (h −1 ). High k d values indicate rapid deactivation, that is, low stability.
+Methods
+Synthesis
+The materials used for the synthesis of the catalysts are listed in Supplementary Section
+
+. The Ga
+
+O
+
+/Al
+
+O
+
+, Ga
+
+O
+
+–Ir/Al
+
+O
+
+and Ga
+
+O
+
+–Ir–K/Al
+
+O
+
+catalysts were prepared by an incipient wetness impregnation method. Using Ga
+
+O
+
+–Ir–K/Al
+
+O
+
+as an example, Ga(NO
+
+)
+
+·9H
+
+O, IrCl
+
+·3H
+
+O and KNO
+
+were used as precursors and dissolved in deionized water. A γ-Al
+
+O
+
+support was impregnated with this solution at room temperature for 12 h, followed by drying at 100 °C overnight and calcination at 600 °C for 4 h. The Ga, Ir and K loadings were
+∼
+3,
+∼
+0.05 and
+∼
+0.25 wt%, respectively. A commercial CrO
+x
+–K/Al
+
+O
+
+catalyst was synthesized according to the Fridman method
+
+. Briefly, the desired amounts of CrO
+
+and KOH were separately dissolved in water. Then, the two solutions were mixed. Afterwards, γ-Al
+
+O
+
+was added to the mixture. The catalyst was collected after drying and calcination at 760 °C for 4 h. The Cr and K loadings were
+∼
+19.8 and
+∼
+0.98 wt%, respectively. The loadings of M (M = Ga, Cr) were determined by inductively coupled plasma optical emission spectroscopy (ICP-OES), based on the weight ratio of M to Al
+
+O
+
+.
+Catalytic testing
+The catalysts were tested in a quartz fixed-bed reactor (8 mm inner diameter and 24 cm length) under atmospheric pressure. A mixture (1 ml) of 30–200 mg catalyst and quartz sand (20–40 mesh size) was loaded into the tubular quartz reactor. The catalysts were first heated to 600 °C at a rate of 10 °C min
+−1
+in N
+
+(50 ml min
+−1
+). Afterwards, a mixture of C
+
+H
+
+, H
+
+and N
+
+was fed into the reactor at a flow rate of 50 ml min
+−1
+. The inlet concentrations of C
+
+H
+
+and/or H
+
+were varied from 0 to 40 vol% by changing the flow rate of C
+
+H
+
+, H
+
+and N
+
+while keeping the total flow rate constant. For the pre-reduction, after heating to 600 °C, the catalysts were treated in 42 vol% H
+
+/N
+
+(50 ml min
+−1
+) for 1 h and then purged in N
+
+(50 ml min
+−1
+) for another 1 h. The gas products were analysed in an online gas chromatograph (GC-2060, Shanghai Ruimin Instrument Co. Ltd.) equipped with a flame ionization detector (Al
+
+O
+
+plot column) and a thermal conductivity detector (TDX-01 column). The conversion of C
+
+H
+
+(
+X
+(C
+
+H
+
+)), selectivity for C
+
+H
+
+, CH
+
+, C
+
+H
+
+, C
+
+H
+
+(
+S
+(
+i
+)) and coke (
+S
+(coke)), and C
+
+H
+
+formation rate (
+r
+(C
+
+H
+
+)) were calculated using equations (
+
+)–(
+
+), respectively:
+$$X\left({\text{C}}_{3}{\text{H}}_{8}\right)=\frac{F_i^{\;\text{in}}-F_i^{\;\text{out}}}{F_i^{\;\text{in}}}$$
+
+$$S\left(i\right)=\frac{n_i}{n_{{\text{C}}_{3}{\text{H}}_{8}}}\frac{F_i^{\;\text{out}}}{F_{{\text{C}}_{3}{\text{H}}_{8}}^{\;\text{in}}-F_{{\text{C}}_{3}{\text{H}}_{8}}^{\;\text{out}}}$$
+
+$$S\left(\text{coke}\right)=1-{\sum }_iS(i)$$
+
+$$r\left({\text{C}}_{3}{\text{H}}_{6}\right)=\frac{F_{{\text{C}}_{3}{\text{H}}_{6}}^{\;\text{out}}}{m_{\text{cat}}}$$
+
+where
+\({F}_{i}^{\;{\rm{in}}}\)
+and
+\({F}_{i}^{\;{\rm{out}}}\)
+are the rates of flow of gas-phase components at the reactor inlet and outlet (mmol min
+−1
+), respectively,
+m
+cat
+is the mass of the catalyst, and
+\(n_{\mathrm{C}_3\mathrm{H}_8}\)
+and
+n
+i
+are the numbers of carbon atoms in propane and the product
+i
+(CH
+
+, C
+
+H
+
+, C
+
+H
+
+and C
+
+H
+
+), respectively. A first-order deactivation model was used to evaluate the catalyst stability:
+$${k}_{{\rm{d}}}=\frac{\mathrm{ln}\left(\frac{1-{X}_{{\rm{Final}}}}{{X}_{{\rm{Final}}}}\right)-\,\mathrm{ln}\left(\frac{1-{X}_{{\rm{Initial}}}}{{X}_{{\rm{Initial}}}}\right)}{\tau }$$
+
+where
+X
+Initial
+and
+X
+Final
+are the conversions of C
+
+H
+
+measured in the initial and final stages of the reaction, respectively,
+τ
+is the reaction time (h) and
+k
+d
+is the deactivation rate constant (h
+−1
+). High
+k
+d
+values indicate rapid deactivation, that is, low stability.
+Characterization
+The elemental composition of the catalysts was analysed by ICP-OES (VISTA-MPX, Varian). Before measurement, the catalysts were digested in a mixture of H
+
+PO
+
+and aqua regia.
+XRD measurements were performed on a Bruker D8 diffractometer operating at 200 mA and 40 kV with graphite-filtered Cu Kα as the radiation source. The data points were collected by step scanning at a rate of 6° min
+−1
+in the 2
+θ
+range of 10–80°.
+HRTEM images were collected using a JEM-2100F transmission electron microscope under a working voltage of 200 kV, equipped with a liquid nitrogen-cooled HAADF-STEM with EDX detector for elemental analysis. The sample powder was ultrasonically dispersed in deionized water and then deposited on a copper grid coated with an ultrathin holey carbon film.
+In situ X-ray absorption spectra (XAS) were obtained at the 1W1B beamline of the Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese Academy of Sciences. Measurements of samples treated with different gases were conducted in transmission mode. The samples were first heated at 600 °C in a flow of 40 vol% H
+
+/He (50 ml min
+−1
+) for 1 h, then flushed with He (50 ml min
+−1
+) for 1 h, followed by treatment in a flow of 40 vol% H
+
+/Ar for another 1 h. All of the data were analysed using the Athena software.
+In situ XPS spectra were recorded on a Thermo Fisher ESCALAB 250Xi X-ray photoelectron spectrometer equipped with a monochromated Al Kα X-ray source. In situ XPS measurements were performed using a Phoibos NAP-150 hemispherical analyser from Spec. Samples were treated with Ar or 10 vol% H
+
+/Ar at 600 °C inside the XPS system. All spectra were calibrated to the Al 2
+p
+peak at 74.3 eV and further analysed using the CasaXPS software package.
+In situ DRIFTS experiments were carried out on a Nicolet IS50 spectrometer equipped with a Harrick Scientific DRIFTS cell with ZnSe windows. The experiments are described in detail below.
+In situ DRIFTS experiments were performed to record the evolution of surface species on Ga
+
+O
+
+/Al
+
+O
+
+during successive treatments with Ar and H
+
+/Ar. Fresh catalyst (50 mg powdered sample) was loaded into the reactor and flushed with Ar (50 ml min
+−1
+) at 600 °C for 1 h to remove adsorbates. Background spectra (resolution of 8 cm
+−1
+, 64 scans) were then collected. Afterwards, the sample was treated with 42 vol% H
+
+/Ar (50 ml min
+−1
+) for 1 h and then purged with Ar (50 ml min
+−1
+) for 1 h. Next, the sample was exposed to 42 vol% H
+
+/Ar (50 ml min
+−1
+) for 1 h, followed by flushing with Ar (50 ml min
+−1
+) for 1 h. DRIFTS spectra were collected every 1 min.
+In situ DRIFTS experiments were performed to monitor the evolution of surface species on Ga
+
+O
+
+/Al
+
+O
+
+under the reaction conditions. Fresh catalyst (50 mg powdered sample) was loaded into the reactor and flushed with Ar (50 ml min
+−1
+) at 600 °C for 1 h. Background spectra (resolution of 8 cm
+−1
+, 64 scans) were then collected. Afterwards, C
+
+H
+
+/H
+
+/Ar was introduced into the reactor at a flow rate of 50 ml min
+−1
+(7 ml min
+−1
+C
+
+H
+
+, 0–14 ml min
+−1
+H
+
+and 29–43 ml min
+−1
+Ar) for 1 h, followed by purging with Ar (50 ml min
+−1
+) for 1 h. The inlet ratio of H
+
+/C
+
+H
+
+was varied from 0 to 2 by keeping the C
+
+H
+
+and total flow rate constant while varying the H
+
+and Ar flow rate. For the pre-reduction of fresh catalysts, samples were treated with 42 vol% H
+
+/Ar (50 ml min
+−1
+) for 1 h, followed by purging with Ar (50 ml min
+−1
+) for 1 h before reaction. DRIFTS spectra were collected every 1 min.
+For the in situ DRIFTS measurements of fresh catalyst exposed to H
+
+and D
+
+at 600 °C, samples were flushed with Ar and treated with 42 vol% H
+
+/Ar (or D
+
+/Ar) at 600 °C. After purging with Ar again, background spectra (resolution of 8 cm
+−1
+, 64 scans) were collected. Afterwards, 10 vol% H
+
+/Ar (or D
+
+/Ar) was fed into the DRIFTS cell and spectra were collected.
+For the in situ DRIFTS measurements of pre-reduced catalyst with different partial pressures of H
+
+at 600 °C, samples were flushed with Ar and treated with 42 vol% H
+
+/Ar at 600 °C. After purging with Ar again, background spectra were collected. Afterwards, different concentrations of H
+
+/Ar were fed into the DRIFTS cell and spectra were collected until there was no significant change in the intensity of the gallium hydride band.
+In situ Raman spectroscopy was performed using a Raman microscopy system (LabRAM HR Evolution, Horiba Jobin Yvon) with a 325 nm Ar ion laser beam. Powdered samples were loaded into the reactor and flushed with N
+
+at 600 °C for 1 h. Afterwards, the samples were treated with H
+
+(20 ml min
+−1
+) for 1 h and purged with N
+
+(20 ml min
+−1
+) for another 1 h. Then D
+
+(20 ml min
+−1
+) was fed into the reactor for 1 h. Raman spectra were collected roughly every 10 min.
+Temperature-programmed experiments were carried out on a Micromeritics AutoChem 2920 instrument equipped with a Hiden QIC-20 mass spectrometer. For the TPSR of C
+
+H
+
+over fresh catalyst, 100 mg of sample was treated at 600 °C for 1 h and then cooled to 80 °C in Ar (30 ml min
+−1
+). After switching to 5 vol% C
+
+H
+
+/He (20 ml min
+−1
+) for 30 min, the sample was heated to 600 °C at a rate of 10 °C min
+−1
+. For the TPSR of C
+
+H
+
+over pre-reduced catalyst, 100 mg of sample was first treated at 600 °C for 1 h in 10% H
+
+/Ar (30 ml min
+−1
+), then purged with Ar (30 ml min
+−1
+) for 30 min and cooled to 80 °C. After switching to 5 vol% C
+
+H
+
+/He (20 ml min
+−1
+) for 30 min, the sample was heated to 600 °C at a rate of 10 °C min
+−1
+. For the TPSR of C
+
+H
+
+over the pre-reduced catalyst with H
+
+co-feeding, 100 mg of sample was treated at 600 °C for 1 h and then cooled to 80 °C in 10 vol% H
+
+/Ar (30 ml min
+−1
+). The sample was then exposed to 5/5/90 vol% C
+
+H
+
+/H
+
+/He (20 ml min
+−1
+) for 30 min, followed by heating to 600 °C at a rate of 10 °C min
+−1
+. The output products (C
+
+H
+
+, C
+
+H
+
+and H
+
+) were monitored by mass spectrometry (MS;
+m
+/
+z
+= 29, 41 and 2, respectively).
+For the TPSR of CH
+
+over pre-reduced catalyst, 100 mg of sample was first treated at 600 °C for 1 h in 20% H
+
+/Ar (30 ml min
+−1
+), then purged with Ar (30 ml min
+−1
+) for 30 min and cooled to 80 °C. After switching to 10 vol% CH
+
+/Ar (25 ml min
+−1
+) for 30 min, the sample was heated to 900 °C at a rate of 10 °C min
+−1
+. The output products CH
+
+and H
+
+were monitored by MS (
+m
+/
+z
+= 16 and 2, respectively). For the TPSR of CH
+
+over pre-reduced catalyst with D
+
+co-feeding, 100 mg of sample was first treated at 600 °C for 1 h in 20% H
+
+/Ar (30 ml min
+−1
+), then purged with Ar (30 ml min
+−1
+) for 30 min and cooled to 80 °C. After switching to a mixture of 10 vol% CH
+
+/Ar (25 ml min
+−1
+) and D
+
+(5 ml min
+−1
+) for 30 min, the sample was heated to 850 °C at a rate of 10 °C min
+−1
+. The output products CH
+
+, H
+
+, D
+
+, HD, CH
+
+D, CH
+
+D
+
+, CHD
+
+and CD
+
+were monitored by MS (
+m
+/
+z
+= 16, 2, 4, 3, 17, 18, 19 and 20, respectively) .
+For the TPSR of H
+
+/D
+
+scrambling over pre-reduced catalyst, 100 mg of sample was first treated at 600 °C for 1 h in 20 vol% H
+
+/Ar (30 ml min
+−1
+), then purged with Ar (30 ml min
+−1
+) for 30 min and cooled to 80 °C. After switching to a mixture of 20 vol% H
+
+/Ar (25 ml min
+−1
+) and D
+
+(5 ml min
+−1
+) for 30 min, the sample was heated to 600 °C at a rate of 10 °C min
+−1
+. The output products H
+
+, D
+
+and HD were monitored by MS (
+m
+/
+z
+= 2, 4 and 3, respectively) .
+For the temperature-programmed desorption (TPD) of H
+
+, 100 mg of sample was treated at 600 °C for 1 h and then cooled to 50 °C in H
+
+(30 ml min
+−1
+). Afterwards, the sample was flushed with Ar (20 ml min
+−1
+) for 30 min and heated to 600 °C at a rate of 10 °C min
+−1
+. For the TPD of D
+
+, the sample was treated in the same way, except that H
+
+was replaced with D
+
+. The MS signals of H
+
+and D
+
+(
+m
+/
+z
+= 2 and 4, respectively) were recorded and normalized. For the TPD of C
+
+H
+
+, 80 mg of sample was treated at 600 °C for 1 h and then cooled to 50 °C in Ar or 10 vol% H
+
+/Ar (30 ml min
+−1
+). Afterwards, C
+
+H
+
+was adsorbed by introducing C
+
+H
+
+(20 ml min
+−1
+) into the reactor for 1 h, followed by purging with Ar (20 ml min
+−1
+) for 30 min. Then the sample was heated to 600 °C at a rate of 10 °C min
+−1
+. The MS signal of C
+
+H
+
+(
+m
+/
+z
+= 41) was recorded.
+TGA was carried out using a Netzsch STA449F3 thermal analyser to investigate the amount of coke deposited on the catalyst. Spent catalysts were dried in situ at 120 °C for 30 min before analysis. TGA curves were recorded from 50 to 800 °C in air (50 ml min
+−1
+) using a temperature ramp rate of 10 °C min
+−1
+.
+Theoretical calculations
+All of the theoretical calculations were carried out using the periodic DFT code in the Vienna Ab initio Simulation Package. Details of these are presented in the
+Supplementary Information
+.
+Data availability
+All relevant data are available within the paper and its
+Supporting Information
+. The raw data for the Supplementary Figures are available in
+Supplementary Data 1
+.
+Source data
+are provided with this paper.

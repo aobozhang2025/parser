@@ -1,5 +1,149 @@
 DOI: 10.1038/s44221-024-00241-6
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-preparation of highly porous carbonaceous supercapacitors. In this work, we report a chemical-free and green O 2 •− generation strategy with a rechargeable porous carbonaceous material (denoted hereafter as carbonaceous geosupercapacitors (CGs)), directly through O 2 activation in water (a ). This CG material was directly prepared by simply pyrolysing cattle bones under O 2 -free conditions at high temperatures followed by acid etching. Arsenite (As(III)), a widespread toxic metalloid in waters and aquifers 21 , was chosen as a representative pollutant and additional pollutants, including dyes (rhodamine B dye (RB), methyl orange (MO), methylene blue (MB)), tetracycline (TC), tetrabromobisphenol A (TBBPA) and Cr(VI), were used to verify the broad applicability of this technology. The reusability of developed CG for sustainable pollutant oxidation was further determined through electron recharging/refilling. The possibility of extending this O 2 •− producing system to obtain other potent ROS such as •OH radicals was also determined by a simple combination with iron oxides. A CG-embedded portable continuous-flow device was fabricated to demonstrate the potential value of this proposed system for water treatment. : Preparation and
+Preparation of CGs
+The chemical reagents were of analytical grade and are provided in Supplementary Text
+
+. A CG was prepared on the basis of the O
+
+-limited pyrolysis method according to our previous report
+
+. Cattle bones were selected since they consist of abundant Ca
+
+(PO
+
+)
+
+minerals which can serve as a natural template for top-down preparation of porous CGs. In brief, dried cattle bone powder was added to a tubular furnace and pyrolysed at 750–1,050 °C for 1 h under a flow of N
+
+gas. Subsequently, the obtained solid powders were washed with 3 M HCl and rinsed repeatedly with Milli-Q water (18.2 MΩ cm
+−1
+) to ensure the complete removal of salts. The resulting powders were dried at 60 °C overnight and then stored for further use. The prepared CG samples were denoted as CG
+x
+, where
+x
+refers to the pyrolysis temperature. Meanwhile, palm leaves were used to prepare biochar at 550 and 950 °C under an N
+
+atmosphere. Detailed characterization methods for the structural and physicochemical properties of CGs are given in Supplementary Text
+
+.
+Batch experiments
+Kinetics experiments related to As(III) oxidation by CG under oxic conditions were conducted in 50 ml centrifuge tubes at 25 ± 1 °C. An appropriate amount of As(III) stock solution was added to 20 ml of CG suspension (0.1 g l
+−1
+) solution to achieve an initial concentration of 5 mg l
+−1
+for As(III). The pH of the reaction solution was maintained at 5.5, 7.5 and 8.5 by boric acid buffer (5 mM). Then, the mixtures were immediately placed on a rotating shaker (200 rpm) at 25 ± 1 °C to initiate the oxidation reaction. At predetermined time intervals, the reaction suspension was sampled with a syringe membrane (pore size 0.22 µm) for As(III) and As(V) analysis. For comparison, a similar experimental procedure was performed under anoxic conditions in an anaerobic glove box (O
+
+< 0.1 mg dm
+−3
+). In addition, biochar, commercial activated carbon and carbon nanotubes were selected for comparison as counterparts for CG at pH 8.5. The effect of ions and natural organic matter on the As(III) oxidation by CG was investigated in the presence 10 mg l
+−1
+of Na
++
+, Mg
+2+
+, Ca
+2+
+, Cl
+−
+, SO
+
+2−
+, NO
+
+−
+, PO
+
+3−
+and humic acid.
+Quenching experiments
+To explore the potential ROS responsible for As(III) oxidation induced by CG950, different scavengers, including MT, IPA and BEQ, were used to selectively quench •OH and O
+
+•−
+(
+). The concentration of these scavengers was set to 500 times the initial As(III) concentration to ensure their complete reaction with the potential radicals. The solution pH was maintained at 7.5 by boric acid buffer (5 mM). After 5 h of reaction, the reaction suspension was filtered through a 0.22 µm filtration membrane for As(III) and As(V) concentration analysis.
+Charging/oxidation cycling experiments
+For the As(III) oxidation cycle experiments, we charged the reacted carbonaceous materials using an electrochemical workstation (CHI-920d) and then used them for As(III) oxidation again. In detail, the ET mediator Zwitterionic viologen 4,4′-bipyridinium-1,1′-bis(2-ethylsulfonate) (ZiV) was added to the reacted suspension, the working electrode was poised at −0.84 V and CG950 and biochar in the cells (0.1 M KCl, pH 8.5) was charged for 1 h under anaerobic conditions. After charging, an appropriate amount of As(III) stock solution was added to the reaction system, shaken (200 rpm) under aerobic conditions for 2 h and then sampled for As(III) and As(V) concentration analyses. The As(III) concentration and CG950 and biochar dosages were 10 mg l
+−1
+and 0.2 g l
+−1
+, respectively. The entire experiment was repeated five times.
+Electrochemical measurements
+The ET and capacitive properties of the carbonaceous materials were determined using a CHI-920d electrochemical workstation. A standard three-electrode configuration was used, which consists of working, platinum counter and reference electrodes (Ag/AgCl). The EAC and EDC of CG were determined in an anaerobic glove box (O
+
+< 0.1 mg dm
+−3
+) to ensure anaerobic conditions
+
+,
+
+. EDC was used to evaluate the electrons stored in the material. The working electrode potential was poised at −0.49 V and +0.61 V for the EAC and EDC measurements of carbonaceous materials, respectively. ZiV and ABTS were selected as ET mediators. When the working electrode was placed in 30 ml of electrolyte (0.1 M KCl; 0.1 M phosphate buffer, pH 7), the background current response stabilized. Subsequently, 1 ml of ZiV or ABTS solution (10 mM) was added to the electrolyte. After the background current was unchanged, 0.2 ml of CGs and biochar suspension (4 g l
+−1
+) was added to the electrolyte and a peak current occurred and then dropped to a steady state. The calculation of EAC and EDC was based on previous studies
+
+.
+For DPV measurements, CG750–1,050 and biochar were coated on the working electrodes. The DPV analysis of the carbonaceous materials was performed through a potential sweep from −1 to 1.2 V (potential step increment of 0.005 V, amplitude of 0.05 V and pulse period of 0.05 s). Different scan rates (50–400 mV s
+−1
+) from oxidation to reduction of CV were used to describe the ET kinetics of CG and biochar. The ferrocene derivative (dimethylaminomethyl) ferrocene (FcDMAM) had the fastest ET response and was selected as the direct ET probe
+
+. The electrolyte was 3 mM FcDMAM and KCl (0.1 M) in phosphate buffer at pH 7. The detailed calculation method of the direct ET rate constants (
+k
+
+) is provided in Supplementary Text
+
+(
+). For GCD experiments, the galvanostatic charge was set at 0.0001 A and cycled five times.
+Application experiments
+Three typical natural water samples, that is, lake water, river water and irrigation water were sampled from local sites for testing the performance of CG950 under real conditions and their water chemistry is provided in Supplementary 
+. To determine the potential interference of complex matrix, batch experiments were conducted by spiking proper amounts of As(III) into these water samples to achieve an initial As(III) concentration of 5 mg l
+−1
+before the addition of CG950. After reactions for 6 h, suspensions were filtrated and the production of As(V) was analysed by liquid chromatography coupled with atomic fluorescence spectroscopy (LC–AFS). For testing the performance of CG combing with Gt, Gt was initially prepared according to our previous work
+
+; and kinetics experiments with and without Gt (the dosage of Gt was 0.5 g l
+−1
+) were conducted for comparisons as the same condition in batch experiments. For testing CG to remove other organic and heavy metal pollutants, the same batch experiments as As(III) were performed by simply replacing As(III) with other organic pollutants and Cr(VI) as detailed in Supplementary Text
+
+. For testing the possibility of converting O
+
+•−
+to •OH radicals, DTPA-binding Fe(III) (200 μmol l
+−1
+) was introduced into the CG950 reaction systems and benzoic acid (the initial concentration was 100 μmol l
+−1
+) was used as a probe to quantify the concentration of the generated •OH radicals
+
+. Column experiments were performed by packing the CG950-embedded carbon fibre cloth in a glass column (10 mm in diameter × 100 mm in length), where CG950 (1 g) was coated onto a working electrode made of a carbon fibre cloth (55 mm width × 60 mm in length) using a 0.1% nafion solution (Supplementary ,b
+). The concentration of As(III) from inflow was 1 mg l
+−1
+and the flow rate was 2.2 ml min
+−1
+. Water samples from the effluents were collected at determined time intervals for As(V) analysis. After each cycle, the column was refilled with a KCl (0.1 M) electrolyte solution and the packed carbon fibre was directly recharged using a CHI-920d electrochemical workstation (CHI Instrument) (Supplementary 
+), before further continue-flow reactions.
+Analytical methods
+The concentrations of As(III)/As(V) after the reactions were analysed using Kylin S12 LC–AFS (Beijing Jitian Instrument Company). The potential O
+
+•−
+and •OH radicals generated in the CG950 reaction system were captured on an A300 EPR spectrometer (Bruker) after their reaction with DMPO as a spin-trapping reagent to form DMPO–O
+
+•−
+adducts. The 2,3-Bis(2-methoxy-4-nitro-5-sulfophenyl)-5-((phenylamino)carbonyl)-2H-tetrazolium sodium salt (XTT, 0.05 M) was selected as an indicator to quantify the concentration of O
+
+•−
+(
+). XTT was reduced to XTT-formazan and detected using ultraviolet-visible spectrometry (UV-3600plus, Shimadzu) at 475 nm, where the extinction coefficient of XTT-formazan is 23,800 M
+−1
+cm
+−1
+(
+).
+Statistical analysis
+A one-way analysis of variance (ANOVA) was performed using Statistical Product and Services Solutions software to analysis the differences between the groups. Significance differences are indicated by different letters (
+P
+< 0.05).
+Data availability
+All data are presented in the article and its
+Supplementary Information
+.
+Source data
+are provided with this paper.

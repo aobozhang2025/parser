@@ -1,5 +1,826 @@
 DOI: 10.1038/s44160-022-00129-x
-Source: supplementary
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of different combinations of multi-M-SACs. XPS results confirmed that the corresponding metal species existed in each multi -M-SACs
+Catalyst synthesis
+Electrocatalysis
+Abstract
+The control of single metal atomic sites has been extensively studied in the field of single atom catalysts. By contrast, the precise control of the mesoporous structure in the matrix material, which directly correlates with mass diffusions and may play a dominant role in delivering industrially relevant reaction rates, has been overlooked. Here we report a general method for the synthesis of a single atom catalyst with control of the atomic structure of the single atomic site as well as the mesoporous structure of the carbon support for optimized catalytic performance. Various combinations of metal centres (Ni, Co, Mn, Zn, Cu, Sc and Fe) and mass diffusion channels in two dimensions and three dimensions were achieved. Using CO
+
+reduction to CO as an example, our Ni single atom catalyst with three-dimensional diffusion channels delivered a practical current of 350 mA cm
+−2
+while maintaining a 93% CO Faradaic efficiency, representing a sixfold improvement in turnover frequency compared to two-dimensional counterparts.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+A single-atom library for guided monometallic and concentration-complex multimetallic designs
+Article
+
+. This wide range of applications relies on the development of controllable and precise synthesis methods for different SACs
+,
+
+,
+
+,
+
+.
+In general, the catalytic performance of SACs, including activity and selectivity, is mainly governed by two factors: the intrinsic nature of the single metal atomic sites, which is determined by the atomic structure of the isolated atom centres, and the accessibility of these active sites and the transport properties of catalysis-relevant species, which are determined by the microscopic structure of the support
+
+,
+
+,
+
+,
+
+,
+
+,
+
+. Various physical and chemical strategies, including wet impregnation, galvanic replacement and high-temperature pyrolysis, have been developed for the preparation of different SACs over the past few years
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+. Most of the synthetic methods of SACs reported up to now have focused on two points: one is the precise and general tuning of different metal centres and non-metal coordination
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+, and the other is substantially increasing the density of single atomic sites for higher activity
+
+,
+
+,
+
+,
+
+. Indeed, these two strategies are important in improving the catalytic performance of SACs. In particular, the tuning of atomic structures can boost activity and selectivity for some important catalytic reactions
+
+,
+
+,
+
+,
+
+. However, the mesoporous structure of SACs, which is beyond the atomic scale of the active sites, is often overlooked but could impact the catalytic performance, especially under practical operation conditions. Using SAC electrocatalysis as an example, within low current density regions, mass diffusions are usually not problematic, and the catalytic performance is dominated by the intrinsic activity of the single atomic site as well as its density
+
+,
+
+,
+
+,
+
+,
+
+. Once the reaction rates approach the industrially relevant range (>100 mA cm
+−2
+), the mass diffusion of reactants or products, which is usually determined by the microscale structures (nanopores or nanochannels) around the active site, could play an even more important role than the active site itself. While previous SAC synthesis methods have demonstrated excellent control in the single atomic site structure, very few studies have reported additional tunability in the microscopic structure surrounding the atomic sites for SACs.
+Here we report a general SAC synthesis method with flexible control in both the atomic structure of the single atomic site as well as the mesoporous structure of the carbon support for optimized catalytic performance. Assisted by different types of hard templates, we successfully fabricated a family of M-SACs (M = Ni, Co, Mn, Zn, Cu, Sc and Fe) as well as multi-M-SACs including binary, ternary, quaternary and up to seven different metal centres. More importantly, by tuning the mesoporous structure of the hard template, we were able to control the mass diffusions in the carbon matrix in a three-dimensional (3D) or two-dimensional (2D) manner, and thus gained a control in the catalyst’s reaction activity especially under large reaction rates. Using the electrochemical CO
+
+reduction reaction (CO
+
+RR) on the same Ni single atomic site as a representative reaction, we demonstrated the significant impacts of this microstructural control in Ni-SACs on their CO
+
+RR performances in delivering industrially relevant current densities. As a result, while the CO Faradaic efficiency (FE) values on different Ni-SACs are quite similar under low current densities (≤50 mA cm
+−2
+), our Ni-SAC with 3D diffusion channels maintains a more than 90% CO FE under a large current density of 350 mA cm
+−2
+, dramatically outperforming the other 2D mass diffusion Ni-SACs as well as previous reports. The difference in CO
+
+RR turnover frequency (TOF) values on the same Ni single atomic site can reach up to 6.6-fold, suggesting the importance of microstructure tuning in SACs for their industrial application in the future.
+Results
+
+Synthesis of Ni-SACs with different microscale structures
+We first took Ni-SAC as a typical example to demonstrate our strategy for synthesizing M-SACs with controllable mesoporous structures. The synthesis of Ni-SAC involved a three-step process 
+and
+
+Methods
+). First, different types of SiO
+
+hard templates (that is, SiO
+
+nanoparticles (SiO
+
+-NPs), Santa Barbara Amorphous-15 (SBA-15) or Mobil Composition of Matter no. 48 (MCM-48)) were added into an aqueous solution of NiCl
+
+and
+o
+-phenylenediamine (
+o
+PD). Then, ammonium peroxydisulphate, that is, (NH
+
+)
+
+S
+
+O
+
+, was used to fully polymerize
+o
+PD to obtain the Ni–P
+o
+PD–SiO
+
+composites. Finally, the composites underwent pyrolysis, NaOH etching and H
+
+SO
+
+etching to afford three types of Ni-SACs, including Ni-SAC/SiO
+
+-NPs, Ni-SAC/SBA-15 and Ni-SAC/MCM-48. We would expect similar Ni atomic structures, but different microscopic structures and mass diffusion behaviours resulted in our as-prepared Ni-SACs depending on the type of hard template used, as shown in ,c
+. We first examined the microstructures of different Ni-SACs by transmission electron microscopy (TEM) and high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM; –f
+and Supplementary Figs.
+
+–
+
+). An interconnected 3D vesicle-like structure with well-defined pores, a well-aligned unidirectional 2D array structure and a multidirectional 2D channel structure were observed for Ni-SAC/SiO
+
+-NPs, Ni-SAC/SBA-15 and Ni-SAC/MCM-48, respectively. We renamed these samples 3D-Ni-SAC, 2D-UD-Ni-SAC and 2D-MD-Ni-SAC, respectively, to better differentiate their mass diffusion channels in the following discussion of electrocatalysis. Secondary electron (SE), HAADF-STEM and TEM images of the same area further revealed the pore structure of typical Ni-SACs (Supplementary Figs.
+
+and
+
+). Electron tomography was performed on Ni-SAC/SBA-15 in order to better show the linear array of pores within the carbon structure (Supplementary 
+and Supplementary Video
+
+). Measurements performed on HAADF-STEM images taken at different tilts determined the pore array spacing of 5.1 ± 0.5 nm, with an average pore diameter of approximately 2.5 nm. These well-defined mesoporous structures originated from the structural characteristics of the hard templates being used, demonstrating that the mesoporous structure of SACs can be accurately controlled and tuned via the hard-template-assisted strategy. We also employed N
+
+adsorption–desorption isotherms to study the textural properties of as-obtained Ni-SACs. A remarkable hysteresis loop of type IV was observed for all three types of Ni-SACs, indicating the mesoporous structure of the Ni-SACs (Supplementary 
+). The mesopore size distribution was centred at 12.9, 3.5 and 3.9 nm for Ni-SAC/SiO
+
+-NPs, Ni-SAC/SBA-15 and Ni-SAC/MCM-48, respectively, suggesting that the 3D-Ni-SAC has a relatively larger pore size compared to the other 2D counterparts. The Brunauer–Emmett–Teller surface area and total pore volume of the 3D-Ni-SAC (325.2 m
+
+g
+−1
+and 0.62 cm
+
+g
+−1
+) also showed a clear improvement compared with the 2D counterparts (270.3 m
+
+g
+−1
+and 0.23 cm
+
+g
+−1
+for 2D-UD-Ni-SAC, and 269.1 m
+
+g
+−1
+and 0.21 cm
+
+g
+−1
+for 2D-MD-Ni-SAC; Supplementary 
+), which could dramatically improve mass diffusions during catalysis. Furthermore, the structure of Ni-SAC/SBA-15 was revealed by a small-angle X-ray diffraction pattern (Supplementary 
+).
+
+hard template were used for constructing M-SACs with different mesoporous structures.
+b
+, Proposed atomic structure of M-SACs. The synthesized M-SACs consisted of central single metal atoms and coordinated nitrogen atoms.
+c
+, Proposed schematic of different types of CO
+
+mass diffusion in M-SACs with different mesoporous structures, which were prepared by using the three types of SiO
+
+hard template.
+Full size image
+
+, TEM images. The insets are corresponding schematics of Ni-SACs.
+d
+–
+f
+, HAADF-STEM images.
+g
+–
+i
+, Aberration-corrected MAADF-STEM images.
+j
+–
+l
+, EDS mapping images. All sets of images show Ni-SAC/SiO
+
+-NPs, Ni-SAC/SBA-15 and Ni-SAC/MCM-48, respectively. The Ni-SACs showed different morphologies, which originated from the different SiO
+
+hard templates. The 3D and 2D mass diffusion channels were clearly observed. However, the three Ni-SACs had very similar compositions.
+Full size image
+While the microscopic structure of Ni-SACs can be flexibly controlled via different hard templates, their Ni single atomic site can be kept the same for fair comparisons, which was confirmed via systematic microscopic and spectroscopic characterizations. First, our TEM and HAADF-STEM characterizations confirmed the absence of nanoparticles or clusters in all the Ni-SAC samples –f
+and Supplementary Figs.
+
+–
+
+). By sharp contrast, embedded nanoparticles were still observed in Ni catalyst prepared without hard templates (Supplementary 
+and
+
+Methods
+), even though the same acid etching process was performed. Therefore, we believe that the hard templates helped to generate porous structures and avoid the formation of embedded nanoparticles in carbon matrix
+
+. The porous structures allowed acids to reach to and dissolve unembedded metal nanoparticles. Aberration-corrected medium-angle annular dark-field STEM (MAADF-STEM) characterization of Ni-SACs showed the uniform isolated distribution of Ni single atoms in the carbon matrix –i
+and Supplementary Figs.
+
+–
+
+). Energy-dispersive X-ray spectroscopy (EDS) mapping analysis indicated a homogeneous distribution of C, N and Ni on these Ni-SACs –l
+). The Ni metal loadings evaluated by inductively coupled plasma–atomic emission spectrometry data were 3.76, 5.19 and 4.32 wt% in Ni-SAC/SiO
+
+-NPs, Ni-SAC/SBA-15 and Ni-SAC/MCM-48, respectively (Supplementary 
+). While the Ni atom density in different samples was quite similar, the Ni-SAC/SiO
+
+-NPs sample presented the lowest Ni loading.
+Second, several spectroscopic characterization tools helped to reveal the local coordination structures and electronic properties of our Ni-SAC samples 
+). The X-ray diffraction patterns of Ni-SACs presented a broad peak centred around 25.6° 
+), corresponding to the plane of graphitic carbon. No Ni particle peaks were observed for all three Ni-SAC samples. The graphitic quality of the carbon support was very similar in different Ni-SACs as confirmed by Raman spectroscopy 
+), which agrees well with the high-resolution TEM images in Supplementary Figs.
+
+–
+
+. To better understand the electronic properties of our Ni-SACs, we first analysed their Ni and N oxidation states using X-ray photoelectron spectroscopy (XPS; ,d
+, Supplementary 
+and Supplementary 
+). The N 1
+s
+spectra 
+) suggested that there were four types of nitrogen dopants in Ni-SACs, including pyridinic N (~398.5 eV), pyrrolic N (~399.8 eV), graphitic N (~400.9 eV) and oxidized N (~402.5 eV)
+
+,
+
+,
+
+. The slight difference in the ratios of the four types of nitrogen among three Ni-SACs had a negligible effect on CO
+
+RR performances (Supplementary 
+and Supplementary Note
+
+). Besides, there was no obvious Si 2
+p
+XPS signal found, suggesting that the hard templates had been removed completely (Supplementary –e
+). The Ni 2
+p
+regions of all three samples displayed similar binding energies at ~855.2 eV (higher than Ni metal at 852.6 eV), indicating similar oxidation states of Ni single atoms 
+)
+
+. This result also agrees well with X-ray absorption near-edge structure (XANES) spectra where the Ni K edges of all three samples are similar and sit between Ni metal and NiO 
+). The local coordination property of Ni atoms was further revealed by extended X-ray absorption fine structure spectrometry (EXAFS), where the real space of all Ni-SACs exhibited the same dominant peak at around 1.4 Å. This coordination environment successfully excluded the existence of Ni metal particles or clusters (~2.2 Å) across the whole matrix and can be assigned to Ni–N coordination at the first shell 
+), consistent with our angstrom-resolution point analysis of electron energy loss spectroscopy (EELS) on a single Ni atomic site (Supplementary 
+). Furthermore, the EXAFS fitting results showed that the central Ni atom was coordinated by approximately four N atoms for all three Ni-SACs (Supplementary 
+and Supplementary 
+). The above characterization results strongly support our hypothesis that this hard-template synthesis method can help to precisely control similar single metal atomic sites while flexibly tuning the catalysts’ microscale structures.
+
+is the diffraction angle.
+b
+, Raman spectra.
+I
+D
+and
+I
+G
+are the intensity of D band and G band, respectively.
+c
+–
+f
+, High-resolution N 1
+s
+XPS spectra (
+c
+), Ni 2
+p
+XPS spectra (
+d
+), XANES (
+e
+) and EXAFS spectra at the Ni K edge (
+f
+). For (
+f
+), NiPc is Ni phthalocyanine;
+R
+is bond length; FT means Fourier transform. All images show Ni-SAC/SiO
+
+-NPs, Ni-SAC/SBA-15 and Ni-SAC/MCM-48. The three Ni-SACs showed very similar compositions and atomic structures.
+Full size image
+
+The versatility of the hard-template synthesis method
+We further demonstrated the easy adaptability of our hard-template synthesis method towards a wide range of unary transition metal single atom catalysts (M-SACs, M = Co, Mn, Zn, Cu, Sc and Fe) as well as a flexible combination of multi-metal SACs (multi-M-SACs) for possible future applications (Supplementary 
+). TEM images successfully confirmed that the mesoporous structures we observed in Ni-SACs could be well maintained when the Ni centre was changed to other metals (Supplementary Figs.
+
+–
+
+). X-ray diffraction patterns suggested no detectable metal particles in all the prepared M-SACs (Supplementary 
+). The atomic dispersion of different metals was further confirmed by STEM –h
+and Supplementary Figs.
+
+–
+
+) and EDS mapping (Supplementary Figs.
+
+–
+
+) images as well as EXAFS spectra (Supplementary 
+) with a loading ranging from 1.76 to 4.11 wt% (Supplementary 
+), suggesting the versatility of our hard-template method in synthesizing different single atomic sites without metal clusters or nanoparticles. All the metal centres showed an oxidation state between the metallic and oxide counterparts, as shown by the XANES spectra (Supplementary 
+), which can be explained by the M–N coordination environment confirmed by EELS point spectra (Supplementary Figs.
+
+–
+
+). It is believed that the principle governing the formation of SACs for different metal elements (M = Ni, Co, Mn, Zn, Cu, Sc and Fe) by our methods is as follows: Highly stable M–N bonds form during the pyrolysis of M-P
+o
+Pd templates, and some M-based nanoparticles also form due to excess metal precursors. Based on our previous simulations
+
+, using Ni as a representative example, the isolated Ni–N atomic sites are thermodynamically more stable than Ni metal particles. This is the case for many transition metals due to their strong M–N bonds. The hard templates help to create many mesopores but also avoid the formation of the structure of metal nanoparticles fully encapsulated into carbon. During the acid leaching process, all nanoparticles can be reached and dissolved by H
+
+SO
+
+, while stable M–N bonds survive during this process; thus, M-SACs are obtained by our method. In addition, the coordination atoms and compositions of carbon supports also can be tuned by using different molecular precursors, such as 2,2′-bithiophene, pyrrole and aniline (Supplementary Figs.
+
+–
+
+and Supplementary 
+). Greatly encouraged by the successful synthesis of various unary M-SACs, we further extended our hard-template synthesis strategy to different combinations of multi-M-SACs, represented by binary NiCo-SAC, ternary NiCoMn-SAC, quaternary NiCoMnZn-SAC, quinary NiCoMnZnCu-SAC, senary NiCoMnZnCuSc-SAC and up to septenary NiCoMnZnCuScFe-SAC. Different single metal atomic sites in one catalyst could help to promote multi-step catalytic reactions
+
+,
+
+. All characterizations including XPS, X-ray diffraction, STEM and EXAFS indicated successful synthesis of different combinations of multi-M-SACs (Supplementary Figs.
+
+–
+
+and Supplementary Note
+
+).
+
+, Aberration-corrected MAADF/HAADF-STEM of unary M-SACs. The active centres of M-SACs can be easily tuned by our hard-template synthesis method.
+Full size image
+Electrochemical CO
+
+RR on different Ni-SACs
+The above material characterizations clearly demonstrated that our hard-template synthesis method can flexibly control not only the atomic structure of metal sites for intrinsic activity but also the mesoporous structure of the carbon matrix for mass diffusions. While most reports on SACs focus on tuning the intrinsic activity of single atomic sites, the impact of a systematic control in mass diffusions on catalytic performance, especially under significant reaction rates, is often overlooked. Here we use electrocatalytic CO
+
+RR as a representative reaction for demonstration. Since CO
+
+RR occurs at the gas–liquid–solid triple-phase boundary, the accessibility of CO
+
+gas therefore plays a critical role in CO
+
+RR activity. In recent years, extensive studies employed a gas diffusion layer electrode in flow cell reactors to overcome the CO
+
+gas diffusion limitations in an H-type cell and dramatically improved CO
+
+RR activity
+
+,
+
+,
+
+. However, although the external mass transfer of CO
+
+gas from the CO
+
+stream to the catalyst layer can be greatly improved by a gas diffusion layer, the internal mass diffusion within the catalyst layer, which is strongly correlated with the catalyst’s mesoporous structure, has been rarely emphasized but could play an even more important role in delivering industrially relevant current densities. Our general hard-template synthesis strategy enables us to obtain M-SACs with different types of porous structures for a better control of internal mass diffusions. First, due to the generality of the hard-template-assisted method, we can easily compare the effect of the atomic structure of the single atomic site on CO
+
+RR performance. Among different M-SACs, our Ni-SAC showed the best CO
+
+-to-CO selectivity at 10 mA cm
+−2
+current in a standard three-electrode flow cell reactor (
+
+Methods
+), suggesting the best CO
+
+RR intrinsic activity on Ni single atoms 
+and Supplementary Figs.
+
+–
+
+)
+
+,
+
+,
+
+. Some recent theoretical studies have revealed that the weakest CO binding and highest hydrogen evolution reaction (HER) barrier on a Ni single atom could account for the most selective CO
+
+RR performance over Ni-SAC catalysts
+
+,
+
+. Additionally, nitrogen-doped carbon (NC/SBA-15) without single Ni atoms showed a very poor CO
+
+-to-CO selectivity at all tested potentials (Supplementary 
+), further indicating that the good CO
+
+-to-CO selectivity of Ni-SAC originated from the single Ni atoms. The three types of Ni-SACs we synthesized with the same single Ni atomic sites but different mass diffusion channels (3D, 2D-UD and 2D-MD) therefore become the best materials platform for us to study the impact of mass diffusions.
+
+electrolyte.
+a
+, The FE values of H
+
+and CO for various M-SAC/SBA-15 samples at 10 mA cm
+−2
+.
+b
+–
+e
+, The
+I
+–
+V
+curves (
+b
+), corresponding CO FE values (
+c
+), CO partial current densities (
+j
+CO
+;
+d
+) and TOF values (
+e
+) of 3D-Ni-SAC, 2D-UD-Ni-SAC and 2D-MD-Ni-SAC.
+f
+, Comparison of the CO
+
+RR performance of our 3D-Ni-SAC and 3D-Ni-SAC-MP with values from previous reports. Note that 3D-Ni-SAC, 2D-UD-Ni-SAC and 2D-MD-Ni-SAC refer to Ni-SAC/SiO
+
+-NPs, Ni-SAC/SBA-15 and Ni-SAC/MCM-48, respectively. The divide of the diffusion-limited and kinetics-limited regions in
+b
+–
+e
+is based on the tested CO
+
+RR performance for three Ni-SACs.
+Source data
+Full size image
+The
+I
+–
+V
+curves in 
+show that our three types of Ni-SACs present quite similar CO
+
+reduction onset potentials and catalytic activities between –0.43 to –0.63 V versus a reversible hydrogen electrode (versus RHE). As the current densities within this region are still small (≤20 mA cm
+−2
+), they were not yet impacted by the internal CO
+
+diffusions, suggesting that all the samples have similar intrinsic CO
+
+RR activities. However, this overlapping situation starts to change under more negative potentials and larger currents. While the two 2D channel mass diffusion catalysts, 2D-UD-Ni-SAC and 2D-MD-Ni-SAC, still have similar CO
+
+RR activities, the 3D-Ni-SAC presents significantly improved current densities under the same potentials. Specifically, our 3D-Ni-SAC could reach a large current density of 350 mA cm
+−2
+at –0.87 V versus RHE, which is 3.5 times higher compared to the 2D-Ni-SACs. Besides the activity, the CO selectivity of 3D-Ni-SAC was also greatly improved from its 2D counterparts even when operated under much larger current densities 
+). The CO selectivity of 2D-Ni-SACs reached a maximum of ~95% at 50 mA cm
+−2
+with potentials around –0.76 V, but decreased to only ~70% when they needed to sustain a 100 mA cm
+−2
+current at circa –0.87 V, which could be limited by their internal mass diffusions. By sharp contrast, our 3D-Ni-SAC delivered a 98.5% CO selectivity under 100 mA cm
+−2
+, and still maintained a 93% selectivity under 350 mA cm
+−2
+, which corresponds to a CO partial current of 325 mA cm
+−2
+
+). The density of single Ni atoms in 3D-Ni-SAC is lower than that of the 2D-Ni-SACs, excluding the possibility that the better activity originates from a higher density of active sites. The mass diffusion impact was further revealed when we calculated the TOF of our three Ni-SACs by normalizing the CO
+
+RR activity to the number of single Ni atomic sites 
+). The TOF values of the three samples are quite similar within the kinetics-limited region, again confirming their similar Ni active sites. Once in the diffusion-limited region, while the two 2D channel mass diffusion catalysts presented similar TOF values, our 3D-Ni-SAC showed an up to sixfold improvement compared to the 2D-Ni-SACs. It is clear that the low TOF values of our 2D-Ni-SACs are mainly due to the limited CO
+
+mass diffusions to the active sites under significant reaction rates. Additionally, the partial current density for CO production, normalized by the electrochemical active surface area, further confirmed the intrinsically higher activity of 3D-Ni-SAC compared with the 2D-Ni-SACs in the diffusion-limited region (Supplementary Figs.
+
+and
+
+). Therefore, these CO
+
+RR results clearly support our point that a precise control of the single atomic sites is important but still not adequate to push SACs towards practical application; in addition, one also needs flexible control of a SAC’s microscale structures to ensure efficient mass diffusions, which play a dominant role in delivering industrially relevant reaction rates. With 3D channels for fast CO
+
+diffusion, the CO
+
+-to-CO performance of our 3D-Ni-SAC is among the best compared to previous reports, including noble metal catalysts
+
+,
+
+,
+
+, metal porphyrins/phthalocyanines
+
+,
+
+,
+
+, SACs
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+and non-noble metal-based catalysts
+
+,
+
+,
+
+and Supplementary 
+). Furthermore, based on our understanding of the importance of pore structures, we optimized the pore structures of our 3D-Ni-SAC including mesopore sizes and the presence of micropores to further enhance its CO
+
+RR performance (Supplementary Figs.
+
+–
+
+and Supplementary Note
+
+). We found that 3D-Ni-SAC with small mesopore sizes and many micropores could further improve the CO
+
+RR performance. Particularly, 3D-Ni-SAC with many micropores (3D-Ni-SAC-MP) can deliver a CO partial current of circa 450 mA cm
+−2
+with a CO FE of 99.9% at −0.86 V 
+and Supplementary 
+).
+To circumvent the flooding issue of the gas diffusion layer electrode in a flow cell reactor and evaluate the CO
+
+RR stability of our 3D-Ni-SAC, an anion membrane electrode assembly (MEA) cell was constructed –c
+). The cathode side was continuously supplied with a humidified CO
+
+stream for CO
+
+RR, while the anode side was circulated with 0.1 M KHCO
+
+solution for the oxygen evolution reaction 
+). The CO
+
+conversion begins at ~2.2 V cell voltage, with a peak CO selectivity of 99% under a current density of 150 mA cm
+−2
+,c
+). The current density can be further increased to an industrially relevant level of 400 mA cm
+−2
+at ~3.5 V while maintaining ~92.5% CO selectivity ,c
+), representing one of the best CO production rate on SACs reported so far, to the best of our knowledge (Supplementary 
+). Besides the excellent CO
+
+-to-CO activities and selectivity, our 3D-Ni-SAC presented good stability. A 40-hour continuous operation of CO
+
+RR electrolysis was performed by holding a 100 mA cm
+−2
+current density in the MEA cell and showed negligible degradation in either selectivity or activity 
+).
+
+, Schematic of the anion MEA cell. GDL, gas diffusion layer; AEM, anion exchange membrane.
+b
+,
+c
+,
+I
+–
+V
+curve and the corresponding FE values of H
+
+and CO of 3D-Ni-SAC in our anion MEA cell.
+d
+, Stability test for 3D-Ni-SAC at 100 mA cm
+−2
+in the anion MEA cell. Note that 3D-Ni-SAC refers to Ni-SAC/SiO
+
+-NPs.
+Source data
+Full size image
+Conclusions
+We have developed a general hard-template-assisted strategy for synthesizing SACs with controllable atomic and microscopic structures. A family of M-SACs (M = Ni, Co, Mn, Zn, Cu, Sc and Fe) as well as multi-M-SACs including binary, ternary, quaternary and up to seven different metal centres have been synthesized. More importantly, the SACs can be finely tuned with different mesoporous structures, which controls different types of mass diffusion (3D and 2D) that play a dominant role in delivering industrially relevant reaction rates. The ability of this method to control the atomic and microscopic structures enables us to obtain a superior SAC (that is, 3D-Ni-SAC), which exhibited an excellent CO FE at an industrially relevant current for the CO
+
+Synthesis of Ni-SACs with different microscale structures
+Typically, 1.0 g
+o
+PD, 0.405 g NiCl
+
+·6H
+
+O and 1.0 g SiO
+
+hard template (that is, SiO
+
+-NPs, SBA-15 or MCM-48) were added into 20 ml 1.0 M HCl solution, sonicated for 10 min and then stirred for ~0.5 h. Then, 12 ml 1.0 M HCl solution containing 3.0 g (NH
+
+)
+
+S
+
+O
+
+was added dropwise with vigorous stirring. After polymerization of
+o
+PD in an ice bath for ~24 h, the mixture was dried using a rotary evaporator. Subsequently, the obtained dried powder was subjected to a pyrolysis process under flowing Ar at 800 °C for 2 h. Finally, the product underwent alkaline (2.0 M NaOH) and acidic (2.0 M H
+
+SO
+
+) leaching successively to remove the SiO
+
+template and unstable metallic species, respectively, to obtain the Ni-SAC samples.
+
+The synthesis method of various M-SACs is the same as that of Ni-SACs. However, 0.22 g CoCl
+, 0.456 g Mn(NO
+
+)
+
+·4H
+
+O, 0.457 g Zn(NO
+
+)
+
+·6H
+
+O, 0.27 g CuCl
+
+·4H
+
+O, 0.577 g ScCl
+
+·6H
+
+O and 0.29 g FeCl
+
+were used for preparing Co-, Mn-, Zn-, Cu-, Sc- and Fe-SAC, respectively.
+
+Synthesis of multi-M-SACs
+We also used the same synthesis processes to prepare multi-M-SACs, including binary NiCo-SAC/SBA-15, ternary NiCoMn-SAC/SBA-15, quaternary NiCoMnZn-SAC/SBA-15, quinary NiCoMnZnCu-SAC/SBA-15, senary NiCoMnZnCuSc-SAC/SBA-15 and septenary NiCoMnZnCuScFe-SAC/SiO
+
+, with the only difference being that the corresponding multiple metal salt precursors were simultaneously used for multi-M-SACs.
+
+Synthesis of Ni catalyst with embedded nanoparticles
+The Ni catalyst with embedded nanoparticles was prepared for comparison. Its synthesis process was similar to that of the various SACs. However, for synthesizing Ni catalyst with embedded nanoparticles, SiO
+
+hard templates were not used, and thus the step of alkaline leaching was omitted.
+Characterization
+TEM observations were carried out on a Talos F200X transmission electron microscope at an accelerating voltage of 200 kV equipped with an energy-dispersive detector. Aberration-corrected MAADF-STEM images and EELS point spectra were captured in a Nion UltraSTEM U100 operated at 60 keV and equipped with a Gatan Enfina electron energy loss spectrometer at Oak Ridge National Laboratory. HAADF-STEM and aberration-corrected HAADF-STEM images were performed using a JEM-ARM200F atomic resolution analytical microscope operating at an accelerating voltage of 200 kV. Elemental mapping images were collected on a Talos F200X transmission electron microscope and a Nion UltraSTEM U100. For tomographic analysis, Pt nanoparticles were first loaded onto samples to serve as fiducial markers for image alignment. Electron tomography datasets were acquired using a Hummingbird tomography holder with a tilt range from +75 to −75 degrees on a JEOL NEOARM operated at 200 kV. Simultaneous bright-field (BF), HAADF and low-angle annular dark-field (LAADF) images were acquired at 5 degree tilts with a pixel resolution of 0.19 nm and beam convergence angle of 7 mrad to provide a large depth of field. Image stacks were manually aligned using the TOMVIZ program. A model-based iterative reconstruction algorithm
+
+,
+
+was used to perform HAADF and bright-field reconstruction. The image shift and tilt alignments were fine tuned using a multi-scale grid search approach based on fiducial particles identified in the reconstruction. Further, a segmentation algorithm was developed to segment out the particles in the reconstruction to reduce artefacts and improve the reconstruction of the low contrast carbon support. All the developments were performed in Python. Segmentation and visualization of the reconstructions was performed in the Avizo software. XPS data were collected on a PHI Quantera spectrometer, using a monochromatic Al Kα radiation (1,486.6 eV) and a low energy flood gun as neutralizer. All XPS spectra were calibrated by shifting the detected carbon C 1
+s
+peak to 284.6 eV. X-ray diffraction data were obtained on a Rigaku SmartLab X-ray diffractometer. The N
+
+adsorption–desorption isotherms were recorded on an ASAP 2020 accelerated surface area and porosimetry instrument (Micromeritics), equipped with automated surface area, at 77 K using Brunauer–Emmett–Teller calculations for the surface area. The mesopore and micropore size distribution plots were obtained from the isotherm based on the Barrett–Joyner–Halenda model and non-local density functional theory model, respectively. Raman scattering spectra were obtained by using a Renishaw System 2000 spectrometer using the 514.5 nm line of an Ar
++
+laser for excitation. Inductively coupled plasma–atomic emission spectrometry data were recorded on an Optima 7300 DV instrument.
+X-ray absorption spectroscopy tests and data analysis
+X-ray absorption spectroscopy measurements were performed at the Soft X-ray Microcharacterization Beamline (SXRMB) of the Canadian Light Source and the beamline 1W1B station of the Beijing Synchrotron Radiation Facility in China. Metal foils, metal oxides and other standard samples as the references were from the beamlines or our previous work
+
+. The acquired EXAFS data were extracted and processed according to the standard procedures using the ATHENA module implemented in the IFEFFIT software packages. The k
+
+-weighted EXAFS spectra were obtained by subtracting the post-edge background from the overall absorption and then normalizing with respect to the edge-jump step. Subsequently, k
+
+-weighted
+χ
+(
+k
+) data in the k-space were Fourier transformed to real space using Hanning windows to separate the EXAFS contributions from different coordination shells. χ(k) is defined as a function of wave vector k.
+
+Preparation of the electrodes
+Typically, 40 mg catalyst, 4 ml of 2-proponal (Sigma Aldrich) and 160 µl of Nafion binder solution (Sigma, 5%) were mixed together and sonicated for 20 min to obtain a homogeneous ink. Then, the prepared ink was air-brushed onto 5 × 5 cm
+
+Sigracet 28 BC gas diffusion layer (Fuel Cell Store) electrodes until the desired catalyst loading was achieved.
+Electrochemical measurements
+The electrochemical measurements were run with a BioLogic VMP3 workstation. For electrochemical flow cell tests, the prepared electrode and Ni foam were cut into 1.5 × 2.5 cm
+
+pieces as the CO
+
+RR cathode and anode, respectively. The two electrodes were placed on opposite sides of two 0.5-cm-thick polytetrafluoroethylene plates with 0.5-cm-wide by 2.0-cm-long channels so that the catalyst layer interfaced with the flowing liquid electrolyte; a Nafion 117 film (Fuel Cell Store) was used for a cation exchange membrane. The geometric surface area of the catalyst was 1 cm
+
+. On the cathode side, a titanium gas flow chamber supplied 30 sccm CO
+
+(Airgas, 99.995%) by a gas flow controller while the anode was open to the atmosphere. The outlet gas flow of the cathode side was also calibrated with another gas flow controller to monitor the flow rate change during the electrocatalysis tests. We chose 1.0 M KHCO
+
+solution as the electrolyte and used a syringe pump to control the flow rate with 1 ml min
+−1
+for the cathode side and 3 ml min
+−1
+for the anode side. A saturated calomel electrode (CH Instruments) was connected to the cathode channel as the reference electrode. All potentials measured against the saturated calomel electrode were converted to the RHE scale using the equation
+E
+(electric potential, versus RHE) =
+E
+(versus saturated calomel electrode) + 0.244 V + 0.0591 × pH and corrected with
+iR
+(current-resistance) compensation using the equation
+E
+(
+iR
+-corrected versus RHE) =
+E
+(versus RHE) –
+R
+×
+I
+(amps of average current) × 0.85, where the solution resistance (
+R
+) was determined by potentiostatic electrochemical impedance spectroscopy at frequencies ranging from 0.1 Hz to 200 kHz.
+For the anion MEA cell, a PSMIM anion exchange membrane (Dioxide Materials) was used for the anion exchange membrane. A Sigracet 28 BC gas diffusion layer electrode loaded with 0.5 mg cm
+−2
+catalyst (4 cm
+
+electrode area) and a Ni foam electrode (Fuel Cell Store) were used as the cathode and anode, respectively. The cathode was supplied with 50 sccm CO
+
+gas, and the anode was circulated with 0.1 M KHCO
+
+aqueous solution at 5 ml min
+−1
+. The catalyst//anion exchange membrane//Ni foam cell was first stabilized for 10 min before gas product measurement. For the stability test, platinized titanium fibre felt was used as the anode, and 0.05 M KHCO
+
+aqueous solution was used as the electrolyte. All potentials measured were calibrated with
+iR
+compensation using
+E
+(
+iR
+-corrected versus RHE) =
+E
+(versus RHE) –
+R
+×
+I
+(amps of average current) × 0.85.
+CO
+
+RR product analysis
+During electrocatalysis tests, continuous CO
+
+flow with the gas reduction product were vented into a Shimadzu GC-2014 gas chromatograph. The H
+
+concentration was quantified by a thermal conductivity detector, while the CO concentration was analysed by a flame ionization detector. The partial current density for a given gas product was calculated as below:
+$$j_i = x_i \times v \times \frac{{n_iFp_0}}{{RT}} \times \left( {{\mathrm{electrode}}\,{\mathrm{area}}} \right)^{ - 1}$$
+where
+x
+i
+is the volume fraction of a certain product determined by online gas chromatograph, referenced to calibration curves from two standard gas samples (Scott and Airgas);
+v
+is the flow rate;
+n
+i
+is the number of electrons involved;
+p
+
+= 101.3 kPa;
+F
+is the Faradaic constant;
+T
+is the temperature; and
+R
+is the gas constant. The corresponding FE at each potential is calculated by
+\({\mathrm{FE}(\%)} = j_i/i_{{\mathrm{total}}} \times 100\%\)
+.
+One-dimensional
+
+H NMR spectra were collected on a Bruker AVIII 500 MHz NMR spectrometer with solvent (water) suppression to quantify the liquid products. Typically, 500 µl of electrolyte collected at each potential was mixed with 100 µl of D
+
+O and 0.05 μl dimethyl sulfoxide as an internal standard.
+Data availability
+The data supporting the findings of the study are available in the paper and its Supplementary
+Information
+. Source data are provided with this paper.

@@ -1,5 +1,1335 @@
 DOI: 10.1038/s41929-019-0368-6
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of the Ru/TiO 2 catalyst, RuCl 3 (0.03 mmol) was dissolved in deionized water (3 ml). The mixture was stirred for 1 h and then added dropwise to TiO 2 (0.24 g). In the wet-impregnation method for preparing the catalyst, the water volume used was larger than that needed to saturate the TiO 2 surface, so a suspension liquid (Supplementary ) rather than a glue-like sample was formed. The formation of the suspension liquid allowed the mixtures to be stirred vigorously for 2 h and then the sample was dried overnight in an oven at 120 °C and subsequently reduced in H 2 at a flow rate of 20 ml min –1 and a heating rate of 2 °C min –1 to 400 °C, with the target temperature held for 3 h. The sample was subsequently cooled to room temperature and protected under N 2 for 1 h prior to removal from the tube reactor for the catalytic reactions or other tests. The other ruthenium catalysts, including Ru/Al 2 O 3 and Ru/ZrO 2 , were synthesized according to similar recipes, except the support. RuCl 3 , Ru/C, TiO 2 , Al 2 O 3 and ZrO 2 were purchased from Sigma-Aldrich. High-angle annular dark-field scanning transmission electron microscopy An aberration-corrected JEOL ARM300 CF microscope operated at 300 kV in STEM mode was used for
+Methods
+and Supplementary 
+for preparation details). TiO
+
+was impregnated with an aqueous solution of RuCl
+
+with rapid stirring, followed by drying and reduction in H
+
+at 400 °C. The high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) images revealed that ruthenium particles are well dispersed on the TiO
+
+support ,b
+and Supplementary 
+) with an average diameter of 1.2 nm 
+). The composition of Ru/TiO
+
+was determined by energy-dispersive X-ray spectroscopy (EDS) analysis in STEM mode 
+), and the loading of ruthenium was determined to be 0.74 wt% by using inductively coupled plasma atomic emission spectroscopy (ICP-AES) analysis (Supplementary 
+). Powder X-ray diffraction (PXRD) analysis 
+) revealed a mixed rutile and anatase phase of TiO
+
+. There is no clear difference in the reflection at 2
+θ
+= 44° for the TiO
+
+and Ru/TiO
+
+samples. The predicted Bragg reflection of rutile TiO
+
+at 2
+θ
+= 44.054° coincides with the Bragg reflection for ruthenium at 2
+θ
+= 44.005° for . Therefore we conclude that this reflection contains very little contribution from ruthenium due to the small size of the metal nanoparticles, which agrees with the TEM results. The Lewis acidity of Ru/TiO
+
+was confirmed (Supplementary 
+), which is consistent with the deoxygenation ability TiO
+
+.
+
+,
+b
+, High-angle annular dark-field scanning transmission electron microscopy images of a representative region (
+a
+) and an individual particle (
+b
+) of the Ru/TiO
+
+catalyst corresponding to the arrow in
+a
+. Scale bars: 2 nm (
+a
+); 1 nm (
+b
+).
+c
+, Size distribution of the ruthenium particles.
+d
+, STEM-EDS elemental mapping results for Ru/TiO
+
+. Scale bars, 10 nm.
+e
+, Powder X-ray diffraction patterns of the Ru/TiO
+
+catalyst and TiO
+
+. The inset highlights the reflection at around 2
+θ
+= 44°.
+Full size image
+Catalytic performance of Ru/TiO
+
+in the presence of N
+
+The catalytic performance of Ru/TiO
+
+was evaluated for the HDO of
+p
+-cresol in a batch reactor (for details, see
+
+Methods
+). The results are presented in 
+along with the catalytic performances of state-of-the-art HDO catalysts for the conversion of
+p
+-cresol or other phenols into aromatics for comparison. Most of the HDO reactions with ruthenium-based catalysts reported in the literature
+
+,
+
+,
+
+were studied at a temperature higher than 200 °C (entries 1–3 in 
+). A higher activity was observed for isolated cobalt atoms doped into MoS
+
+monolayers
+
+(Co-
+S
+MoS
+
+, entry 4), but the H
+
+pressure required was 30 bar. Although extremely mild conditions were used for ruthenium catalysts modified by a C,N matrix (entry 5), alicyclic compounds rather than aromatics were the main products
+
+,
+
+. As seen in entry 6, our Ru/TiO
+
+catalyst showed similar toluene selectivity at a similar temperature and lower H
+
+pressure. Remarkably, if 6 bar N
+
+was added to the gas mixture as a complementary gas, the conversion increased as well as the toluene selectivity (entry 7). N
+
+was used as a complementary gas in a previous study (entry 2)
+
+, but its catalytic effect was not studied. Because N
+
+is widely considered to be inert in the HDO reaction, we have devoted considerable efforts to trying to unravel the origin of the N
+
+promoting effect.
+To identify catalytic trends inherent to the Ru/TiO
+
+catalyst, HDO of
+p
+-cresol was conducted under conditions that produce a low and constant conversion of 10% in a region free of external (Supplementary 
+) and internal (Supplementary Note
+
+) mass transport limitations. As shown in the left-hand columns in 
+(the data are presented in Supplementary 
+), a 1.5-fold higher toluene selectivity and 4.3-fold increase in HDO activity were observed in the presence of N
+
+. The promoting effect of N
+
+in the HDO reaction was also verified at a constant conversion of 21% (two right-hand columns in 
+). The production of toluene follows a direct deoxygenation pathway with the formation of methylcyclohexane as an over-hydrogenation product of toluene and 4-methylcyclohexanone and 4-methylcyclohexanol as hydrogenation products of
+p
+-cresol (Supplementary 
+), which is in agreement with a previous report
+
+.
+
+-cresol using the Ru/TiO
+
+catalyst.
+Comparison of the conversion and selectivity with or without N
+
+in the batch reaction.
+a
+, Comparison at two different conversions, reaction conditions:
+p
+-cresol (0.195 mmol), Ru/TiO
+
+catalyst (25, 10, 25 and 25 mg from left to right columns), decalin (8 ml), 160 °C, reaction time (1, 1, 4 and 1 hour from the left to right columns), system pressure of 1 bar H
+
+and 6 bar He (or 1 bar H
+
+and 6 bar N
+
+), mixture stirred at 600 r.p.m.
+b
+, Comparison at various H
+
+pressures, reaction conditions:
+p
+-cresol (0.195 mmol), Ru/TiO
+
+catalyst (25 mg), decalin (8 ml), 160 °C, 1 hour, system pressure of 1–6 bar H
+
+and 6 bar He (or 1–6 bar H
+
+and 6 bar N
+
+), mixture stirred at 600 r.p.m.
+c
+, Comparison at various N
+
+pressures, reaction conditions:
+p
+-cresol (0.195 mmol), Ru/TiO
+
+catalyst (25 mg), decalin (8 ml), 160 °C, 1 hour, system pressure of 1 bar H
+
+, 6 bar He and 0–6 bar N
+
+, mixture stirred at 600 r.p.m.
+d
+, Comparison of the conversion and selectivity with or without N
+
+in the fixed-bed reaction. Reaction conditions:
+p
+-cresol (concentration of 1.12 mg ml
+–1
+with decalin as solvent, flow rate of 0.2 ml min
+−1
+), Ru/TiO
+
+(100 mg), 180 °C, system pressure of 1 bar H
+
+and 6 bar He (or 1 bar H
+
+and 6 bar N
+
+), H
+
+flow rate of 5 cm
+
+(STP) min
+–1
+, N
+
+(or He) flow rate of 30 cm
+
+(STP) min
+–1
+, weight hourly space velocity (0.134 h
+–1
+).
+Full size image
+Catalytic HDO in the presence of N
+
+Surface oxygen might affect the reaction mechanism. In our work we observed that the ruthenium was oxidized before it was loaded into the batch reactor (Supplementary 
+), therefore ruthenium oxidation, its reducibility and the effect on HDO activity were considered worthy of further investigation. Ru/TiO
+
+catalyst unexposed to air was prepared (Supplementary 
+) and compared with the catalyst exposed to air (3 hours and 3 days) in the HDO of
+p
+-cresol. The catalytic results show that there is no obvious difference between the catalyst not exposed to air and that exposed to air (Supplementary 
+), suggesting that the oxidized ruthenium can be reduced at the reaction temperature, as demonstrated by temperature-programmed reduction (TPR, Supplementary 
+) and in situ X-ray photoelectron spectroscopy (XPS, Supplementary 
+)
+
+. Thus, these results suggest that the surface oxygen on ruthenium had an insignificant effect on the reaction mechanism during the reduction time. After the effect of ruthenium oxidation was excluded, the contribution of water was studied for its promoting effect in the HDO reaction
+
+. The catalytic reaction with different amounts of water showed no obvious difference (Supplementary 
+), which is probably due to the non-polar solvent (decalin) inhibiting the effect of water.
+The promoting effect of N
+
+in the HDO reaction was investigated under various H
+
+and N
+
+pressures. With increased H
+
+pressure, the toluene selectivity 
+) as well as its yield (Supplementary 
+) promoted by N
+
+became less pronounced. The reaction order for H
+
+over the Ru/TiO
+
+catalyst was measured to be –0.57 in the presence of 1–3 bar H
+
+(Supplementary 
+). The negative value could be attributed to hydrogen adatoms on the ruthenium surface from hydrogenolysis suppressing the adsorption of N
+
+and thus inhibiting the N
+
+promoting effect, which is consistent with the hydrogen poisoning effect observed in ammonia synthesis
+
+. The preferential adsorption of H
+
+was also confirmed by the observation of the higher selectivity for hydrogenation products under higher H
+
+pressure. With increased N
+
+pressure from 0 to 4 bar, the conversion increased gradually and the toluene selectivity increased from 66.0 to 88.1% 
+). It is known that the reaction order for N
+
+is between 0.8 and 1.0 for ammonia synthesis over conventional ruthenium-loaded catalysts and is smaller for a catalyst with stronger N
+
+dissociation ability
+
+. In this work, the HDO reaction order for N
+
+was estimated to be in the range of 0.38–0.98 (Supplementary 
+), although strictly it is inappropriate to call it the ‘HDO reaction order’ because nitrogen is not incorporated into the reaction products. This result implies that N
+
+is activated on Ru/TiO
+
+with the formation of active species that provide a lower activation barrier for the overall HDO reaction. The nature of the active species and proposed mechanism for the N
+
+activation is discussed later. Interestingly, the conversion and toluene selectivity started to decrease when the N
+
+pressure was further increased. The reaction rate is a function of the concentration of all surface species, which include N
+
+, H
+
+,
+p
+-cresol and toluene. So the decrease in rate could be due to a higher surface coverage of N
+
+compared with
+p
+-cresol.
+Besides the N
+
+promoting effect in the batch reaction, we also investigated the N
+
+promoting effect in a fixed-bed reaction. The reaction was carried out at constant total pressure (7 bar) and constant H
+
+partial pressure (1 bar), while the complementary gas was changed between 6 bar N
+
+and 6 bar He for three successive cycles. As shown in 
+, a higher toluene selectivity (1.2-fold higher for the first cycle) and conversion were observed in the presence of N
+
+, whereas the selectivity of the other products did not change significantly. The results of the fixed-bed reaction show the efficiency of N
+
+in promoting the HDO reaction. Although the catalytic results for the batch and fixed-bed reactions are difficult to compare directly, mainly due to a different contact time (Supplementary Note
+
+), both of the reaction systems show higher toluene selectivity in the HDO of
+p
+-cresol with N
+
+. The Ru/TiO
+
+retained its particle size after reaction, as revealed by STEM imaging (Supplementary 
+). The long-term stability of the N
+
+promoting effect still remains to be investigated from an industrial perspective.
+Understanding N
+
+promotion of the catalytic HDO reaction
+To clarify the origin of the N
+
+promoting effect in catalytic HDO, the kinetics of the HDO reaction with and without N
+
+were studied. The catalytic results were obtained at conversions below 20%; the observed product distribution at this low conversion level could fingerprint the intrinsic reaction kinetics. Arrhenius plots were obtained by least-squares linear fitting of ln(rate of toluene production) versus 1/
+RT
+
+). In the absence of N
+
+, Ru/TiO
+
+exhibited an apparent activation energy (
+E
+a
+) of ~0.97 eV for the HDO of
+p
+-cresol, in good agreement with the reported results
+
+. Remarkably, in the presence of N
+
+, the
+E
+a
+was reduced significantly to ~0.58 eV. This finding suggests that the adsorption of N
+
+with the formation of active species on Ru/TiO
+
+decreases the activation energy and thus promotes the catalytic activity for the HDO reaction.
+
+, Arrhenius plots of Ru/TiO
+
+with and without N
+
+. Reaction conditions for the batch reaction:
+p
+-cresol (0.195 mmol), Ru/TiO
+
+(10 mg), 160–190 °C, 1 bar H
+
+and 6 bar He (or 1 bar H
+
+and 6 bar N
+
+), 1 hour, decalin (8 ml), mixture stirred at 600 r.p.m. Error bars represent the standard deviation from three independent measurements.
+b
+, In situ N XANES spectra of Ru/TiO
+
+on exposure to N
+
+/H
+
+(v/v, 3:1) at 120, 180 and 240 °C.
+c
+,
+d
+, In situ FTIR spectra of the Ru/TiO
+
+catalyst in the presence of N
+
+and H
+
+recorded in the ranges (
+c
+) 3,800−3,000 cm
+−1
+and
+(d
+) 1,800−1,400 cm
+−1
+at a pressure of 7 bar with a stoichiometric N
+
+/H
+
+ratio of 6:1 at 160, 180 and 200 °C.
+e
+,
+f
+, In situ time-resolved FTIR spectra of the Ru/TiO
+
+catalyst on exposure to
+p
+-cresol at 160 °C at 7 bar recorded in the ranges (
+e
+) 3,750−2,750 cm
+−1
+and (
+f
+) 1,700−1,100 cm
+−1
+at a pressure of 7 bar with a stoichiometric N
+
+/H
+
+ratio of 6:1. From bottom to top, a−l: 0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300 and 330 s.
+Full size image
+To study the formation of active species associated with N
+
+adsorption, in situ X-ray absorption near edge structure (XANES) and in situ Fourier-transform infrared (FTIR) spectroscopy measurements were carried out and the results show that N
+x
+H
+y
+species (
+x
+= 1, 2,
+y
+= 1, 2) were formed on the surface of Ru/TiO
+
+under the reaction conditions. The in situ XANES results are shown in 
+. The existence of N
+x
+H
+y
+species on the surface of Ru/TiO
+
+under the reaction conditions is shown by the presence of absorptions (centred at 398.1 and 401.0 eV) arising from transitions from the K shell (N 1
+s
+) to the unoccupied
+π
+* orbital, and absorptions (centred at 405.5 and 413.0 eV) from transitions into the
+σ
+* orbital
+
+. The intensities of the absorption peaks centred at 401.0, 405.5 and 413.0 eV decrease with temperature, which is presumably associated with the desorption of molecular N
+
+at increased temperature. By contrast, the absorption peak at 398.1 eV, which can be ascribed to the =N– group in the N
+
+H
+x
+species, exhibits an intensity enhancement with temperature. This indicates a dominance of an asymmetric species such as N
+
+H
+
+, which is in good agreement with the density functional theory (DFT) calculations reported below, which showed that it is kinetically more favourable for N
+
+H
+
+to form on the Ru/TiO
+
+surface than a symmetric species such as N
+
+H
+
+.
+The in situ FTIR results are shown in –f
+. In the presence of N
+
+and H
+
+on Ru/TiO
+
+,d
+), the IR bands at 3,375 and 3,478 cm
+−1
+could be assigned to the ν(N–H) stretching vibrations of N
+x
+H
+y
+species, and the primary IR band at 1,623 cm
+−1
+could be tentatively attributed to the ν(N=N) stretching of N
+
+H
+x
+species
+
+, whereas no IR band was observed at atmosphere pressure (Supplementary 
+). Moreover, the intensity of the ν(N=N) IR band at 1,623 cm
+−1
+increased gradually with elevated temperature, which is consistent with the results from in situ nitrogen XANES measurements. It is generally accepted that the O−H deformation vibration of surface hydroxy groups is located at 1,630 to 1,660 cm
+−1
+. To exclude the possibility that the IR band at 1,623 cm
+−1
+originates from the vibration of O−H, a set of experiments were executed, including introducing only H
+
+(Supplementary 
+) into the reaction system, H
+
+O chemisorption (Supplementary 
+) and D
+
+O chemisorption (Supplementary 
+) over a fresh Ru/TiO
+
+catalyst, D
+
+isotope-exchange experiments (Supplementary 
+) and N
+
+isotope-exchange experiments (Supplementary 
+). According to the variation of vibrations associated with N
+x
+H
+y
+and O−H species, the results of the above experiments suggest that the IR vibration band at 1,623 cm
+−1
+does not derive from the deformation vibration of the O−H bond, but can probably be attributed to N
+
+H
+x
+species.
+To study the role of N
+
+H
+x
+species in the HDO reaction, in situ FTIR experiments were carried out on Ru/TiO
+
+in the presence of the catalytic reaction substrate (
+p
+-cresol). As shown in ,f
+, with the introduction of
+p
+-cresol vapour at 160 °C at 7 bar, three different types of variation were observed. The bands of surface hydrogenated nitrogen species (N
+
+H
+x
+) at
+∼
+1,623 cm
+−1
+disappeared and the IR band at
+∼
+3,614 cm
+−1
+showed a small change. A series of new bands were observed at
+∼
+3,020,
+∼
+2,919,
+∼
+2,862,
+∼
+1,431 and
+∼
+1,357 cm
+−1
+assigned to ν(C–H) of the phenyl ring, asymmetric ν
+as
+(CH
+
+) stretching vibration, symmetric ν
+s
+(CH
+
+) stretching vibration, asymmetric δ
+as
+(CH
+
+) and symmetric δ
+s
+(CH
+
+) bending vibration, respectively; moreover, ν(C–C) vibrations of the phenyl ring were also observed at
+∼
+1,611,
+∼
+1,598,
+∼
+1,507 and
+∼
+1,462 cm
+−1
+. The IR bands at
+∼
+3,279 and
+∼
+1,227 cm
+−1
+, which relate to the stretching vibration of the O–H and C–O bonds of
+p
+-cresol, respectively, were not detected 30 seconds after the introduction of
+p
+-cresol, indicating that only toluene was adsorbed on the surface of the Ru/TiO
+
+catalyst. Afterwards, the IR bands at 3,279 and 1,227 cm
+−1
+gradually increased, as shown in 
+(b–l),f(b–l), owing to the surface N
+
+H
+x
+species being consumed accompanied by the adsorption of
+p
+-cresol over the surface of the Ru/TiO
+
+catalyst with time. The above results suggest that the adsorbed N
+
+H
+x
+species on the surface of ruthenium react with
+p
+-cresol to produce toluene (the surface hydrogenated nitrogen species directly participate in the C–O hydrogenolysis reaction). Notably, the IR ν(Ti–OH) band at
+∼
+3,614 cm
+−1
+shows inconspicuous change, indicating that surface hydroxy groups do not react efficiently to form H
+
+O under the reaction conditions. Furthermore, in contrast to the small change in the IR band at
+∼
+3,614 cm
+−1
+, the IR band at
+∼
+1,623 cm
+−1
+disappeared after the introduction of
+p
+-cresol. This also demonstrates that the vibration at
+∼
+1,623 cm
+−1
+does not correspond to the deformation vibration of the O–H bond.
+In addition, it has been reported that small molecules with amine groups, such as ethylenediamine
+
+and 4-aminobenzylamine
+
+, adsorbed on metal catalyst surfaces could influence the electronic structure of the metal surface by electron donation and thus control the catalytic properties. To investigate whether the formation of N
+
+H
+x
+species changed the electron structure of the ruthenium surface, in situ XPS measurements were conducted (Supplementary 
+). The photoemission features of ruthenium showed no shift after the adsorption of N
+
+at elevated temperature. A previous study
+
+also revealed no change in the ruthenium chemical shifts following N
+
+adsorption. These studies indicate that the electronic structure of surface ruthenium is not influenced by the formation of N
+
+H
+x
+species. The experimental data suggest that the main role of N
+
+H
+x
+species in promoting HDO is not to tune the electron structure of Ru/TiO
+
+, but possibly to chemically interact with the reactants or intermediates during the HDO reaction.
+First-principle calculations
+DFT calculations were performed in an effort to illustrate the role of N
+
+and deduce the possible reaction mechanism. A Ru
+
+cluster on an anatase TiO
+
+ slab was adopted as the computational model (Supplementary Data
+
+). A Ru
+
+moiety was selected because it has two layers of atoms 0.8 nm in diameter (Supplementary 
+)
+
+, which is a good model to represent the structure of Ru/TiO
+
+observed in the TEM image. Anatase TiO
+
+ was selected on the basis of the structural results of the XRD analysis [
+shows the peak at 2
+θ
+= 25.3°] and the HAADF-STEM images, the structure of which was well studied
+
+. All the charge transfer from the Ru
+
+cluster to the TiO
+
+interface led to partial oxidation of the ruthenium atoms; the charge on the Ru
+
+cluster increased to +1.8 |
+e
+| on the basis of a Bader charge analysis, which promotes the π–
+d
+type adsorption of
+p
+-cresol to –1.61 eV upon charge transfer with a strong metal–support interaction. Previous work demonstrated that there is no so-called B5 site on the surface of small ruthenium clusters (<2 nm), which is where dissociative adsorption occurs
+
+. As shown in ,b
+, the N
+
+dissociative barrier is as high as 1.48 eV on the Ru
+
+cluster, but the barrier for associative hydrogenation of N
+
+to N
+
+H
+
+is only 0.79 eV, which is possible under the reaction conditions. This result agrees well with the
+
+N
+
+isotope results, which showed that dissociative adsorption of N
+
+was not favourable over Ru/TiO
+
+under the reaction conditions (Supplementary 
+). In addition, side-on adsorption is important to activate N
+
+by back donation of an electron from the 3
+d
+orbital of the metal to the
+π
+* orbital of N
+
+, which could reduce the bond order of the triple bond of N
+
+(
+). Further hydrogenation of N
+
+H
+
+to HNNH has a barrier of 1.21 eV with an endothermic energy of 0.20 eV. Such an endothermic process has also been observed in other hydrogenation reactions
+
+. The N–N bond length is elongated from 1.34 Å in N
+
+H
+
+to 1.39 Å in N
+
+H
+
+, and the net charge of dinitrogen decreases from –1.88 to –2.69 |
+e
+|. For comparison, the pathway for the hydrogenation of N
+
+H
+
+to NNH
+
+is more difficult, with a barrier of 1.91 eV. Further hydrogenation of N
+
+H
+
+to N
+
+H
+
+needs to overcome a barrier of 1.38 eV with an endothermic energy of 0.42 eV, which is more difficult under the HDO reaction conditions (Supplementary 
+). Thus, the calculations show that the reduction of N
+
+does not follow a dissociative pathway but an associative one, with the most probable product being N
+
+H
+
+.
+
+, Reaction energy profiles and the corresponding structures for N
+
+dissociation (red curve), hydrogenation on Ru
+
+/TiO
+
+to NNH
+
+(blue curve) or to HNNH (black curve).
+c
+, Illustration of the proposed reaction mechanism for N
+
+activation and the HDO reaction. Colour code of the spheres: Ru (light orange), Ti (light grey), O (red), N (blue), C (dark grey) and H (white).
+Full size image
+The formation of N–H bonds in N
+
+H
+x
+species provides a different reaction pathway for the HDO process in addition to simple hydrogenation with H
+
+. We therefore can compare the reaction mechanism with and without N
+
+H
+x
+species 
+and Supplementary 
+). Low-coordinated ruthenium atoms are plentiful at the corner sites of small ruthenium clusters, where
+p
+-cresol binds with the ruthenium atoms through π→
+d
+donation with an adsorption energy of around –1.61 eV. The dissociation barrier for a C
+aromatic
+–O bond is 0.88 eV with the OH group migrating to an adjacent ruthenium site. The energy change for this step is about –0.98 eV, so the formed OH group is relatively stable on the ruthenium cluster and it is difficult for the hydride (H
+δ
+–
+) atoms on ruthenium, which derive from H
+
+dissociative adsorption, to remove the OH group. The calculated barrier for the step OH + H → H
+
+O on the ruthenium cluster is as high as 1.63 eV because of unfavourable repulsion between the negatively charged OH groups (–1.52 |
+e
+|) and hydride (–0.26 |
+e
+|). For comparison, in the step involving removal of the OH group, when N
+
+H
+x
+is introduced into this system, it provides extra protic hydrogen (H
+δ
++
+, Bader charge of +1.00 |
+e
+|) to eliminate the OH groups from the ruthenium surface by overcoming a much lower barrier. The reaction between *OH and *NNH has a low barrier of 0.42 eV and an exothermic reaction energy of −0.04 eV, and the reaction between *OH and *HNNH also has a low barrier of 0.41 eV and an exothermic reaction energy of –0.16 eV. Finally, the C
+aromatics
+obtained by capture of another H from the ruthenium surface to form toluene has a barrier of 0.68 eV. The rate-determining step for the HDO process without N
+
+assistance is the hydrogenation of the OH group with a barrier of 1.63 eV, whereas with N
+
+assistance and N
+
+H
+
+formation, the barrier for OH hydrogenation is decreased significantly, leading to N
+
+hydrogenation as the rate-determining step. It is worth mentioning that the formed N
+
+H
+
+can reversibly convert into N
+
+and H
+
+on the ruthenium surface due to the low value of
+E
+a
+, with an equilibrium being established. In the presence of
+p
+-cresol, it is plausible that the produced N
+
+H
+
+could be largely consumed, which promotes N
+
+H
+
+formation. Note that at the Ru/TiO
+
+interface, H
+
+O and the OH group could also accelerate C–OH dissociation. The activation barrier is only 0.33 eV, but the regeneration of such interface H
+
+O is a strongly endothermic step of about 0.96 eV (Supplementary Table.
+
+), which is similar to the values reported previously
+
+. We also considered the migration of the OH group from ruthenium to TiO
+
+. The calculated barrier for the diffusion of OH from ruthenium to a bare Ti site at the interface is only about 0.60 eV, but the regeneration of the interface titanium site by H
+
+O formation needs to overcome a much higher barrier of about 1.41 eV (Supplementary 
+). The original catalytic activity without N
+
+could be attributed to interface reactions. The origin of the N
+
+promoting effect of the catalytic activity in the HDO reaction is proposed in 
+, in which N
+
+H
+x
+species are produced by N
+
+activation (left part in 
+), which provide protic hydrogen to hydrodeoxygenate
+p
+-cresol (right part in 
+).
+Discussion
+We have investigated whether the N
+
+promoting effect is a generalized phenomenon for other ruthenium-based catalysts with different supports (Ru/TiO
+
+, Ru/Al
+
+O
+
+, Ru/ZrO
+
+and Ru/C). All the catalysts were synthesized by the wet-impregnation method (see
+
+Methods
+) except Ru/C, which was supplied by Alfa Aesar. The loading of ruthenium was determined by ICP-AES analysis (Supplementary 
+) and the ruthenium particles were determined to be in the nano-size regime (Supplementary 
+). An increase in HDO activity in the presence of N
+
+was observed over these catalysts with various supports (Supplementary 
+), with TiO
+
+exhibiting a higher selectivity and conversion promoted by N
+
+.
+Our experimental and theoretical studies have shown that associative N
+
+reduction by reaction with H-containing species provide N
+
+H
+x
+species that help to promote the conversion of
+p
+-cresol into toluene over a series of ruthenium catalysts supported on various metal oxides or carbon. In our work, the proposed mechanism of N
+
+reduction is different from the mechanism of ammonia production over supported ruthenium nanoparticles, which has been widely studied. The optimal size of ruthenium (~2 nm) on MgAl
+
+O
+
+in a typical ammonia synthesis contains the maximum B5 site (3D step sites)
+
+. By contrast, the ruthenium (~1 nm) on TiO
+
+used for the HDO reaction of
+p
+-cresol in this work and the corresponding Ru
+
+cluster model, with a similar size, are apparently smaller, and contain no B5 sites
+
+. Larger particles with B5 sites may also exist in the catalyst, but their fraction is estimated to be low and thus they might exert an insignificant effect on the HDO reaction. In addition, we are not working on ammonia synthesis (typically performed at 400–500 °C), but the HDO of
+p
+-cresol at a considerably lower temperature (160 °C), thus the temperatures applied in this work are sufficiently low that little N
+
+dissociation occurs. Also, this work is confined to special ruthenium catalysts containing small ruthenium clusters tested at low temperature to give a lower barrier for N
+
+hydrogenation than for N
+
+dissociation on the surface of the ruthenium cluster to form N
+
+H
+x
+species for the HDO reaction. The associative reduction of N
+
+has also been demonstrated on other supported small metal clusters and is effective under mild conditions
+
+,
+
+. The activation of N
+
+by an associative pathway rather than by a dissociative one is reminiscent of the activation of O
+
+, in which the facile formation of OOH by an associative pathway plays a critical role
+
+,
+
+. This low-barrier associative pathway for N
+
+reduction may explain why the inert N
+
+can have such an unexpected promoting role. In addition, competition for the same ruthenium site between H, N
+
+,
+p
+-cresol and toluene may also exist under the reaction conditions and contribute to the activity enhancement in the presence of N
+
+. Hydrogen poisoning commonly takes place on ruthenium above 200 °C (
+), and any surface species, for example, N
+
+in our case, that can remove H and vacate the ruthenium site will facilitate faster adsorption of
+p
+-cresol and hence a higher rate.
+In conclusion, we have discovered an efficient strategy for promoting HDO activity over ruthenium-based catalysts by introducing N
+
+into the reaction. These experimental and theoretical studies suggest that N
+
+may be converted into N
+
+H
+x
+species, which provide protic hydrogen to assist the hydrogenation of the hydroxy group on
+p
+-cresol with a lower activation energy than direct deoxygenation by H
+
+. The key steps of the proposed mechanism are illustrated in 
+highlighting the combination of N
+
+activation and HDO reaction by using N
+
+as a hydrogen carrier. At the same time, N
+
+may remove H, vacate the ruthenium site and facilitate faster adsorption of
+p
+-cresol and hence a higher rate. Our data suggest that N
+
+should no longer be considered as a simple inert carrier gas.
+
+.
+N
+
+is converted into NNH and HNNH over Ru/TiO
+
+, offering protic hydrogen for converting
+p
+-cresol into toluene over the same catalyst. Colour code of the spheres: Ru (light orange), Ti (light grey), O (red), N (blue), C (dark grey) and H (white).
+Full size image
+
+Methods
+General information
+Unless otherwise noted, all chemicals were purchased and used without further purification.
+
+Sample preparation
+For the synthesis of the Ru/TiO
+
+catalyst, RuCl
+
+(0.03 mmol) was dissolved in deionized water (3 ml). The mixture was stirred for 1 h and then added dropwise to TiO
+
+(0.24 g). In the wet-impregnation method for preparing the catalyst, the water volume used was larger than that needed to saturate the TiO
+
+surface, so a suspension liquid (Supplementary 
+) rather than a glue-like sample was formed. The formation of the suspension liquid allowed the mixtures to be stirred vigorously for 2 h and then the sample was dried overnight in an oven at 120 °C and subsequently reduced in H
+
+at a flow rate of 20 ml min
+–1
+and a heating rate of 2 °C min
+–1
+to 400 °C, with the target temperature held for 3 h. The sample was subsequently cooled to room temperature and protected under N
+
+for 1 h prior to removal from the tube reactor for the catalytic reactions or other tests. The other ruthenium catalysts, including Ru/Al
+
+O
+
+and Ru/ZrO
+
+, were synthesized according to similar recipes, except the support. RuCl
+
+, Ru/C, TiO
+
+, Al
+
+O
+
+and ZrO
+
+were purchased from Sigma-Aldrich.
+High-angle annular dark-field scanning transmission electron microscopy
+An aberration-corrected JEOL ARM300 CF microscope operated at 300 kV in STEM mode was used for characterization of the microstructure. The convergence angle of the probe was 26 mrad (30 μm condenser aperture) with imaging performed at a camera length of 9 cm. The scattered electrons between 77 and 210 mrad [annular dark-field (ADF) signal] and between 13 and 28 mrad [annular bright field (ABF) signal] were collected by using this configuration. Energy-dispersive X-ray elemental maps and spectra were collected by using a windowless Oxford Instruments XMAX 100 TLE silicon drift detector. For STEM imaging, the probe current used was around 25 pA. The probe current was increased to around 500 pA for EDX elemental mapping.
+Powder X-ray diffraction
+Powder X-ray diffraction (PXRD) data were obtained on a PANAnalytical X’Pert Pro diffractometer in reflection mode at 40 kV and 40 mA by using Cu Kα radiation.
+Fourier-transform infrared spectra of pyridine adsorption
+FTIR spectra of pyridine adsorption were collected on a Bruker Tensor 27 spectrometer. A self-supporting pellet prepared with a 200 mg sample (20 wt% Ru/TiO
+
+was mixed with KBr) was placed in the flow cell and evacuated at 673 K for 2 h. After cooling the sample temperature to 150 °C, the background spectrum of the sample was recorded. Pyridine vapour was adsorbed on the sample for 30 min at 150 °C followed by desorption at 150, 175, 200 and 250 °C for 30 min, respectively, and the spectrum of the sample was recorded between each temperature ramp. The spectral bands at 1,605 and 1,450 cm
+−1
+were used to identify the Lewis acid site.
+Catalysis testing in the batch reaction
+Using the hydrodeoxygenation of
+p
+-cresol over Ru/TiO
+
+with the incorporation of N
+
+as an example,
+p
+-cresol (0.195 mmol) was loaded into a stainless-steel Parr autoclave (reactor volume, 50 ml) with decalin (8 ml) and Ru/TiO
+
+(2.5–50 mg). After the autoclave was sealed, it was cleaned with N
+
+three times and purged with 6 bar N
+
+and then 1 bar H
+
+at room temperature. The reaction was carried out at 60–240 °C for 1–24 h with stirring at 600 r.p.m. After completion of the reaction and cooling to room temperature, the products were collected and qualitatively analysed by gas chromatograph–mass spectrometry (GC–MS) and quantitatively analysed by a flame ionization detector (GC–FID) using an external standard method. The composition and pressure of the gases maybe changed depending on the reaction.
+Catalysis testing in the fixed-bed reaction
+The fixed-bed reactions were performed in a reactor in FlowCAT mode supplied by HEL (HEL is a company that specializes in research and pre-pilot scale chemical reactors and systems). The Ru/TiO
+
+catalyst (100 mg) was located in the middle of the tubular reactor with quartz wool plugs on both sides. The liquid feed (
+p
+-cresol dissolved in decalin at a concentration of 1.12 mg ml
+–1
+) was fed into the reactor by using a HPLC pump at a constant flow rate of 0.2 ml min
+−1
+. The N
+
+/H
+
+mixed gas and H
+
+gas were alternately passed through the reactor in the downward direction at a velocity controlled by mass-flow controllers, with N
+
+and H
+
+flow rates of 10 and 30 cm
+
+(STP) min
+–1
+, respectively, and a total pressure of 8 bar mixed gas (2 bar H
+
++ 6 bar N
+
+) or 2 bar H
+
+, respectively. The flow rates were calibrated by using a soap film bubble flowmeter. The weight hourly space velocity was maintained at 0.134 h
+–1
+. The reaction was carried out at 180 °C. The products were collected and qualitatively analysed by GC–MS and quantitatively analysed by GC–FID using an external standard method.
+Gas chromatograph analysis
+Gas chromatograph-mass spectrometry (GC–MS) and gas chromatograph-flame ionization detector (GC–FID) analyses were conducted simultaneously by using an Agilent gas chromatograph equipped with an Agilent 19091N-133 column of mode HP-INNOWax with high polarity, 30 m×250 μm×0.25 μm connected column splitter that connects to the mass spectrometer and FID. The GC oven was programmed as follows: hold at the initial temperature of 313 K for 5 min, ramp at 15 K min
+–1
+to 523 K and hold at 523 K for 5 min. The peaks were analysed by comparing the spectra with the corresponding spectra of the NIST 2011 MS library.
+X-ray photoelectron spectroscopy measurements
+XPS measurements for investigation of the degree of oxidation of Ru/TiO
+
+and its reduction ability at increased temperature were performed by using an Axis Ultra Imaging Photoelectron Spectrometer (Kratos). The Ru/TiO
+
+catalyst was made into a small tablet (6.0 mm diameter) and placed on the sample holder. The catalyst tablet was reduced in H
+
+in the pre-treatment chamber of the XPS spectrometer at 100, 160 and 220 °C, respectively, for 0.5 h. The sample was then introduced into the ultra-high vacuum chamber for XPS measurement at room temperature. XPS measurements for the study of the adsorption of the N
+
+/H
+
+gas mixture on Ru/TiO
+
+at increased temperature were performed at the photoemission end-station at beamline BL10B at the National Synchrotron Radiation Laboratory (NSRL) in Hefei, China. Briefly, the beamline is connected to a bending magnet and covers photon energies from 100 to 1,000 eV with a resolving power (
+E
+/Δ
+E
+) better than 1,000. The end-station is composed of four chambers, that is, the analysis chamber, preparation chamber, quick-sample load-lock chamber and high-pressure reactor. The analysis chamber, with a base pressure of <5 × 10
+−10
+torr, is connected to the beamline and equipped with a VG Scienta R3000 electron energy analyser and a twin anode X-ray source. The high-pressure reactor houses a reaction cell in which the samples can be treated with different gases up to 20 bar and simultaneously heated up to 650 °C. After sample treatment, the reactor can be pumped to high vacuum (<10
+–8
+torr) for sample transfer. In the current work, the sample was treated with H
+
+at 400 °C for 3 h in the high-pressure reactor and then treated with a gas mixture of N
+
+/H
+
+(v/v, 3:1) at 120, 180 and 240 °C for 1 h, respectively, after which it was transferred to the analysis chamber for XPS measurement without exposure to air.
+In situ X-ray absorption near edge structure measurements
+In situ nitrogen K-edge XANES spectra of the N
+
+/H
+
+mixed gas adsorption at increased temperature were measured at the photoemission end-station at beamline BL10B at the National Synchrotron Radiation Laboratory (NSRL) in Hefei, China. A bending magnet is connected to the beamline, which is equipped with three gratings covering photon energies from 100 to 1,000 eV. In this experiment, the samples were kept in total electron yield mode under an ultra-high vacuum of 5 × 10
+–10
+mbar. The resolving power of the grating was typically
+E
+/Δ
+E
+= 1000, and the photon flux was 1 × 10
+–10
+photons s
+–1
+. Spectra were collected at energies from 386.8 to 440.2 eV in steps of 0.2 eV.
+The sample was initially treated with H
+
+gas at 400 °C for 3 h, and then was treated with a mixed gas of N
+
+/H
+
+(v/v, 3:1) at 120, 180 and 240 °C for 1 h, respectively, after which it was transferred to the analysis chamber for XANES measurement (without being exposed to air). The raw XANES data were normalized by a procedure consisting of the following steps. The photon energy was calibrated using the 4
+f
+spectral peak of a freshly sputtered gold wafer, and then the spectra were normalized to yield an edge jump of one.
+In situ Fourier-transform infrared spectroscopy measurements
+In situ FTIR measurements were carried out in a modified in situ transmission reaction cell on a VERTEX 70 spectrometer equipped with a MCT narrow-band detector at a resolution of 4 cm
+−1
+. The experiments were carried out over the Ru/TiO
+
+catalyst with a stoichiometric N
+
+/H
+
+ratio of 6:1 at a flow rate of 30 ml min
+–1
+at different temperatures and pressures. In a typical process, a fresh powdered Ru/TiO
+
+sample (20 mg) was pressed into a sheet and activated in 10%H
+
+/He at 200 °C for 30 min. When the temperature had cooled to 160 °C, a mixed gas with a stoichiometric N
+
+/H
+
+ratio of 6:1 at a flow of 30 ml min
+–1
+was introduced into the reactor, and the pressure was increased to 7 bar. After allowing the reaction to attain equilibrium over 30 min, the in situ FTIR spectra were recorded in the ranges 3,800−3,000 cm
+−1
+and 1,800−1,400 cm
+−1
+. For the treatment H
+
+, after attaining the reaction equilibrium over 30 min, 10%H
+
+/He was introduced into the reactor at a flow rate of 30 ml min
+–1
+. For the H
+
+O chemisorption, after pre-reduction of the Ru/TiO
+
+catalyst in 10%H
+
+/He at 200 °C for 30 min followed by flushing with He for 30 min, water vapour was bubbled into the reactor with a flow of He at a rate of 30 ml min
+–1
+followed by flushing with He for 30 min. A similar experimental procedure was used for D
+
+O chemisorption. For the D
+
+isotope-exchange experiment, after achieving reaction equilibrium over 30 min, N
+
+and D
+
+were introduced into the reactor at a flow rate of 30 and 5 ml min
+–1
+, respectively. For the N
+
+isotope-exchange experiment, after attaining reaction equilibrium over 30 min,
+
+N
+
+and H
+
+were introduced into the reactor at a flow rate of 30 and 5 ml min
+–1
+, respectively.
+To explore the hydrodeoxygenation of
+p
+-cresol with N
+
+H
+x
+species, in situ FTIR measurements were carried out on Ru/TiO
+
+in the presence of the catalytic reaction substrate (
+p
+-cresol). In a typical process, a fresh powdered Ru/TiO
+
+sample (20 mg) was pressed into a sheet and activated in 10%H
+
+/He at 200 °C for 30 min. When the temperature had cooled to 160 °C, a mixed gas with a stoichiometric N
+
+/H
+
+ratio of 6:1 at a flow of 30 ml min
+–1
+was introduced into the reactor, and the pressure was increased to 7 bar. After allowing the reaction to attain equilibrium over 30 min, in situ FTIR spectra were recorded in the ranges 3,750−2,750 and 1,700−1,100 cm
+−1
+, as shown in 
+(a),f(a). Subsequently,
+p
+-cresol was introduced into the reactor system and in situ time-resolved FTIR spectra were recorded of the Ru/TiO
+
+catalyst on exposure to
+p
+-cresol at 160 °C at 7 bar, as shown in 
+(b−l),f(b−l). Notably, the
+p
+-cresol was placed in a high-pressure stainless-steel reactor and heated to 120 °C at 7.5 bar under a He atmosphere.
+Density functional theory parameters
+DFT was used to theoretically analyse the energetics and reaction mechanism. To account for the strong on-site coulombic interaction of localized
+d
+electrons, the DFT+U method was used with an additional Hubbard-like term (U) added to the DFT terms. All the DFT+U calculations were performed by using the spin-polarized Kohn–Sham formalism with the generalized gradient approximation (GGA) of Perdew–Burke–Ernzerhof (PBE), as implemented in the VASP 5.4.4 code
+
+,
+
+,
+
+. From previous works, the value of the intra-atomic coulomb term minus the exchange term (
+U
+−
+J
+) was chosen to be 4.0 eV to reproduce the correct strongly correlated systems
+
+,
+
+. The valence electronic states of all atoms were expanded in a plane-wave basis set with a cut-off energy of 400 eV, and gamma points were used for Brillouin zone integration. Atomic positions were optimized by using a conjugate gradient algorithm until the forces were less than 0.03 eV Å
+−1
+for all intermediates and transition states. Vibrational analysis was performed to test the imaginary frequency and vibration modes to confirm the climbing image-nudged elastic band (CI-NEB) results
+
+.
+Computational models
+The anatase TiO
+
+ slab was represented as a p(3×4) slab with two O–Ti–O layers with the bottom one fixed. It has been shown that such a large model is enough to accommodate a Ru
+
+cluster and reduce the interactions between neighbouring adsorbed ruthenium clusters
+
+. Ru
+
+is a size-matched multilayer ruthenium cluster that contains the
+hcp
+ facet, which would be the most abundant exposed surface for small ruthenium nanoparticles and accommodate N
+
+and H
+
+simultaneously. The adsorption energy of Ru
+
+on TiO
+
+ is as high as –5.88 eV according to the following equation:
+E
+ads
+=
+E
+(Ru
+
+/TiO
+
+) –
+E
+(TiO
+
+) –
+E
+(Ru
+
+). This indicates that Ru
+
+can be stably anchored. So we chose Ru
+
+/TiO
+
+to model the catalytic process. It should be noted that the Ru
+
+cluster was used as a model to simulate the ruthenium nanoparticles on TiO
+
+. However, the calculated values may be affected by this small flat cluster with a significant influence from the edge sites. The IDIPOL tag was set to three to switch on dipole corrections to the total energy along the
+z
+direction. All the supercell slabs were repeated periodically with a 15 Å vacuum layer between the images in the direction of the surface normal. All the atomic coordinates of the optimized computational models are provided in Supplementary Data
+
+.
+Data Availability
+The data that support the plots within this paper and other findings of this study are available from the corresponding author uon reasonable request.

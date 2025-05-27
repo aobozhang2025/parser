@@ -1,5 +1,280 @@
 DOI: 10.1038/s41563-022-01252-y
-Source: supplementary
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of SACs. The SACs synthesized by the method have high loa dings of SAs and high stability of single -atom sites. of SAs synthesized by the dissolution -and-carbonization and MOF methods. The bond length, coordination number, and valence state of the SACs obtained by the MOF method have trends similar to those by the dissolution -and-carbonization method, and only a few features such as the bond length of Y , the coordination number s of Co and Cu, as well as the oxidation state of Cu, deviate a little from the trends. Thus, the general principles obtained with the dissolution -and- carboniza tion method are not in full accord with those of other methods for the SAC systems with N-doped carbon but can be referred largely by the other methods. 70 / 95
+Catalyst synthesis
+Materials chemistry
+Materials for energy and catalysis
+Structural properties
+Abstract
+Atomically dispersed single-atom catalysts have the potential to bridge heterogeneous and homogeneous catalysis. Dozens of single-atom catalysts have been developed, and they exhibit notable catalytic activity and selectivity that are not achievable on metal surfaces. Although promising, there is limited knowledge about the boundaries for the monometallic single-atom phase space, not to mention multimetallic phase spaces. Here, single-atom catalysts based on 37 monometallic elements are synthesized using a dissolution-and-carbonization method, characterized and analysed to build the largest reported library of single-atom catalysts. In conjunction with in situ studies, we uncover unified principles on the oxidation state, coordination number, bond length, coordination element and metal loading of single atoms to guide the design of single-atom catalysts with atomically dispersed atoms anchored on N-doped carbon. We utilize the library to open up complex multimetallic phase spaces for single-atom catalysts and demonstrate that there is no fundamental limit on using single-atom anchor sites as structural units to assemble concentration-complex single-atom catalyst materials with up to 12 different elements. Our work offers a single-atom library spanning from monometallic to concentration-complex multimetallic materials for the rational design of single-atom catalysts.
+You have full access to this article via
+Tsinghua University
+.
+Download PDF
+Similar content being viewed by others
+Scalable two-step annealing method for preparing ultra-high-density single-atom catalyst libraries
+Article
+
+Synthesis of ultrahigh-metal-density single-atom catalysts via metal sulfide-mediated atomic trapping
+Article
+
+Methods
+and Supplementary 
+for details) deviate from those based on the XANES fitting with
+M
+N
+
+and
+M
+O
+
+from the more complicated temperature-dependent relationship between thermodynamics and kinetics during the non-equilibrium synthesis process (Supplementary 
+). It is worth noting that in most carbon-based SA systems oxygen quickly evaporates at 800 °C or above
+
+. If we had built the library at high temperatures, we would have been less likely to reveal the positive correlation between SA loading and oxygen. It is also important to note that correlation does not mean causality. Our in situ investigation does indeed suggest that oxygen plays an important role in anchoring SAs on carbon at low temperatures and that nitrogen replaces oxygen only at higher temperatures, as oxygen evaporates more easily than nitrogen
+
+.
+Concentration-complex multimetallic SACs
+On the basis of the synthesis of the 37 mono-element SACs, the library suggests that the dissolution-and-carbonization strategy enables the chelation of different metal centres on glucose and their separation by glucose backbones, and thus we infer that the strategy can facilitate the formation of concentration-complex multiple metallic-element SAs in one sample. Then, by controlling the species and concentrations of multiple metal precursors, multimetallic SAs, such as 2-, 8- and 12-metal SACs, are successfully achieved, with their atomic dispersions verified by aberration-corrected STEM imaging and XAFS measurement –f
+and Supplementary Figs.
+64–67
+). The 8- and 12-metal SACs with high metal loading are extremely difficult to synthesize because each metallic atom in the 8- and 12-metal SACs must overcome the aggregations with not only themselves but also any one of the other metallic atoms. However, we synthesized an eight-metal SAC containing V, Cr, Mn, Fe, Co, Ni, Cu and Zn (Supplementary 
+) and a 12-metal SAC with Sc, Mn, Fe, Co, Ni, Cu, Zn, Y, Zr, Pd, Hf and W 
+and Supplementary Figs.
+66–68
+). Atomic-resolution STEM images show that the SAs are all atomically and uniformly dispersed across the carbon support –d
+), which is further confirmed by the XAFS spectra in 
+and Supplementary 
+, as well as the EXAFS fitting results in Supplementary 
+and Supplementary 
+. The contents and valence states of the SAs were determined by ICP-MS and XPS, respectively, as shown in 
+, Supplementary 
+and Supplementary 
+. The total metal loading of the 12-metal SAC reaches 7.53 wt%, which is considered a high value. These results demonstrate that there is no fundamental limit on using SA anchor sites as structural units to assemble concentration-complex multimetallic SAC materials.
+
+, Close-up view of the boxed region in
+a
+.
+c
+, Pseudocolour surface plot of a randomly selected area in
+a
+, showing SAs with various contrasts in the matrix.
+d
+, HAADF-STEM image and energy-dispersive spectroscopy elemental maps.
+e
+, FT-EXAFS spectra for SAs (turquoise) and corresponding reference foils (orange). The
+y
+-axis values were normalized by the intensities of the main peaks for comparison.
+f
+, Content of each metallic element determined by ICP-MS.
+g
+, Linear sweep voltammetry curves of the 12-metal SAC, the 12 mixed monometallic SACs, the individual monometallic SACs, the C substrate and commercial IrO
+
+.
+j
+, current density. RHE, reversible hydrogen electrode.
+h
+, Chronopotentiometric curve obtained with the 12-metal SAC.
+Source data
+Full size image
+Notably, the 12 different elements in the 12-metal SAC, in contrast to the mechanically mixed 12 monometallic SA materials, are homogeneously affixed to the same matrix with atomic-level distribution. To explore their electrocatalysis, we performed electrocatalytic oxygen evolution reaction (OER) experiments on the 12-metal SAC, the corresponding mechanically mixed 12 monometallic SACs and the corresponding individual monometallic SACs. Representative OER currents of the samples were measured in 0.1 M KOH aqueous electrolyte at a scan rate of 10 mV s
+−1
+. The current density, mass activity and turnover frequency of the 12-metal SAC are higher than those of the mixed and individual monometallic SACs at the same potentials, indicating higher activity of the 12-metal SAC for OER 
+and Supplementary 
+). Also, the eight-metal SAC has a higher OER activity than its corresponding mixed monometallic SACs (Supplementary 
+). To explore the active species in the 12-metal SAC for OER, we tested OER activities based on Fe, Co and Ni groups that have been reported to have promising performances for OER
+
+,
+
+,
+
+,
+
+, such as Fe–Ni SAC, Fe–Co SAC, Co–Ni SAC, Fe–Co–Ni SAC, Fe–Co–W SAC, Fe–Co–Ni–Cu SAC and Fe–Co–Ni–Mn SAC. The results of OER activity in Supplementary 
+demonstrate the following OER activity order: Fe–Ni SAC < Fe–Co SAC < Co–Ni SAC; Fe–Co–W SAC < Fe–Co–Ni SAC; Fe–Co–Ni–Cu SAC < Fe–Co–Ni–Mn SAC; Co–Ni SAC < Fe–Co–Ni SAC < Fe–Co–Ni–Mn SAC. From the order, the OER activity of the quadmetallic Fe–Co–Ni–Mn SAC is better than that of the trimetallic Fe–Co–Ni SAC and far better than that of the bimetallic Co–Ni SAC. The activity of the 12-metal SAC is better than that of the quadmetallic Fe–Co–Ni–Mn SAC. Therefore, we conclude that the multi-element synergistic interaction in the 12-metal SAC can further enhance the OER activity. Moreover, we ran OER on the 12-metal SAC at a constant current of 10 mA cm
+−2
+continuously for 130 h. No appreciable increase in potential was observed in this time interval 
+), which indicates the high stability of the 12-metal SAC for OER. The stability of OER electrolysis can be assigned to the stable structure resulting from the strong bonding between the metals and the support
+
+.
+In summary, we have built a single-atom library ranging from monometallic to concentration-complex multimetallic materials. The big data analyses of the correlation of SAC properties in the library not only provide unified principles to understand the nature of active sites in different kinds of SAC, but also inspire a deeper insight into the SAC formation mechanism. This work may open up exponentially more complex multimetallic phase spaces for SACs and inspire new research areas for SAC discovery and optimization, where the elemental composition of SACs can be leveraged in controlling SAC synthesis and activity.
+
+Methods
+Synthesis
+The monometallic catalysts were synthesized by a dissolution-and-carbonization method. A schematic illustration of the synthetic process is shown in Supplementary 
+. Typically, 144 mg of glucose (C
+
+H
+
+O
+
+) was dissolved in 40 ml of ethanol. Meanwhile, the metal salt precursor (see details in Supplementary 
+) and 690 mg of hydroxylamine hydrochloride ((NH
+
+OH)Cl) were ultrasonically dissolved in 40 ml of deionized water. Subsequently, the ethanol and water solutions were mixed. The mixture was dried in a drying oven at 70 °C for 12 h. Afterwards, it was placed in a crucible, heated from room temperature to 600 °C with a ramp rate of 5 °C min
+−1
+under Ar atmosphere and kept there for 4 h for carbonization. The obtained product was milled into fine powder for further characterization. Exceptionally, since AgNO
+
+precursor can react with the Cl
+−
+in (NH
+
+OH)Cl to form AgCl precipitation (Supplementary 
+), the (NH
+
+OH)Cl was replaced by tripolycyanamide with the same molarity as the (NH
+
+OH)Cl for the synthesis of Ag SACs. For the synthesis of multimetallic SACs, the procedures are the same as for the monometallic catalysts except that multiple metal salt precursors instead of single ones were added, and the weight of each metal precursor was controlled according to Supplementary 
+.
+Moreover, the SACs by the MOF method were synthesized with reference to the reported research
+
+,
+
+. Specifically, 2.4 g of 2-methylimidazole was dissolved in 40 ml of methanol by sonication for 5 min. 1.07 g of Zn(NO
+
+)
+
+·6H
+
+O and the given amount of a metal precursor (see Supplementary 
+for details) were dissolved in 40 ml of methanol by sonication for 5 min. The two solutions were mixed by magnetic stirring for 12 h. The as-obtained precipitates were centrifuged, washed with methanol several times and dried in vacuum at 70 °C. The dried powder was placed in a tube furnace and then heated to the desired temperature (900 °C) for 3 h at the heating rate of 5 °C min
+−1
+under flowing Ar gas. Then, it was naturally cooled to room temperature and ground into fine powder to obtain the representative samples. The as-prepared products were directly used without any post-treatment.
+Characterization
+XRD patterns were collected using an X-ray diffractometer (Rigaku D/max 2500) at a scan rate of 10° min
+−1
+in the 2
+θ
+range of 10°–90°. Scanning electron microscopy images were taken on a Verios 460L operated at 20 kV. Atomic-resolution HAADF-STEM images and energy-dispersive spectroscopy mappings were taken using an FEI Titan Cubed Themis G2 300 S/TEM with a probe corrector operated at 200 keV and a JEOL JEM-ARM300F Grand ARM S/TEM with double correctors operated at 300 keV. The atomic-resolution HAADF-STEM images were processed by Richardson–Lucy deconvolution (four iterations)
+
+using the DeconvGUI app (
+https://sites.google.com/view/deepem/software-development
+). Ex situ XAFS measurements were carried out at beamline 7-BM of National Synchrotron Light Source II, Brookhaven National Laboratory, beamline TPS 44A of the National Synchrotron Radiation Research Center and beamline 20-BM-B of the Advanced Photon Source, Argonne National Laboratory. Soft XAS spectra were collected using both total electron yield and partial fluorescence yield modes at room temperature in an ultrahigh-vacuum chamber (base pressure about 10
+−9
+torr) at the IOS (23-ID-2) beamline of National Synchrotron Light Source II. Raman spectra were obtained using a HORIBA Evolution high-resolution confocal micro-Raman spectrometer. Ex situ XPS measurements were performed on a Kratos AXIS Ultra DLD system with Al Kα radiation as the X-ray source. Thermogravimetric analysis measurements were performed on a 209F3A NETZSCH thermal analyser with a ramp rate of 10 °C min
+−1
+under N
+
+atmosphere. Metal contents of SACs were analysed by ICP-MS (Thermo Fisher iCAP RQ ICP-MS).
+In situ XAFS experiments were performed at beamline 7-BM of National Synchrotron Light Source II. The precursor mixture of ammonium molybdate, hydroxylamine hydrochloride and glucose for the synthesis of the Mo SAC was pressed and mounted on a holder of a Nashner–Adler reaction cell. The mixture was heated under Ar protection and its XAFS spectra were recorded at given temperatures.
+In situ XPS experiments were performed using a system that counts with an X-ray electron detector (SPECS PHOIBOS 100MCD analyser) and an Al Kα X-ray source with a photon energy of 1,486.6 eV. The dried precursor mixture of ammonium molybdate or manganese nitrate, hydroxylamine hydrochloride and glucose for the synthesis of Mo SAC or Mn SAC was pressed on a Cu substrate, transferred to the XPS chamber and heated in ultrahigh vacuum. The XPS spectra were recorded at given temperatures.
+In situ soft XAS data were collected with total electron yield signal on the TLS-BL24A beamline, NSRRC. During the measurement, the samples were mounted on the non-oxygen copper plate and heated at given temperatures under high-vacuum conditions.
+EXAFS fitting optimization
+The EXAFS data were processed using the Athena and Artemis modules implemented in the IFEFFIT software packages
+
+. The raw data of the EXAFS spectra were first preprocessed using the Athena module. For each entire spectrum, the pre-edge background absorption was subtracted, and the post-edge was normalized to unity. The data were then transformed from the energy space into the photoelectron momentum vector
+k
+space, and a
+k
+
+-weighted method was employed to compensate for oscillatory decay. Finally, the
+R
+-space spectra were obtained by Fourier transformation of the
+k
+
+-weighted
+χ
+(
+k
+) function using a Hanning window. Afterwards, the Artemis module was utilized to extract the local structure information from the spectra by using the least-squares curve parameter fitting method. We performed an extremely large structure search for metal SAs and executed EXAFS fitting optimization on each of the potential structural models we found. The atomic distances between centre metal atoms and their scattering atoms were initially set to our DFT results and then optimized during the fitting process. Finally, the fitting results with the best EXAFS fitting quality (represented by
+R
+-factor, the smaller the better) along with the atomic structure models are shown in 
+and Supplementary 
+.
+XANES calculation methods
+In this work, we have performed the theoretical XANES calculations to explore the local structure of each single-atom metallic element within the FDMNES package in the framework of a real-space full multiple-scattering scheme with the muffin-tin approximation
+
+,
+
+. The energy-dependent exchange–correlation potential was calculated in the real Hedin–Lundqvist scheme, and then the XANES spectra were convoluted using a Lorentzian function with an energy-dependent width to account for the broadening from both the core-hole and final-state widths. A cluster of 7.0 Å radius containing ~70 atoms was used in the calculation, with satisfactory convergence being achieved. The structural models for XANES fitting were built on the basis of the EXAFS fitting results and were further optimized by DFT. Quantitative XANES fittings were carried out on each single-atom metallic element to approach the real local structure by optimizing the agreement between calculation and experiment. The fitting qualities were evaluated using the
+R
+-factor.
+DFT calculations of formation energy
+Spin-polarized DFT calculations using the projector-augmented wave method were performed with the Vienna ab initio simulation package
+
+,
+
+with the electron exchange and correlation described by the generalized-gradient approximation as parametrized by Perdew, Burke and Ernzerhof
+
+. Plane-wave cutoff energy of 520 eV and a 4 × 4 × 1 Γ-centred
+k
+-point grid generated by the Monkhorst–Pack scheme were used for all calculations. The cell shape and atomic positions in the supercells were fully relaxed until the Hellmann–Feynman force acting on each atom was less than 0.01 eV Å
+−1
+. The conjugate gradient algorithm
+
+was used for the electronic optimization, and the convergence was considered to be reached when the total energy difference was less than 10
+−5
+eV between iterations. For the examined SACs, each of the
+M
+O
+
+and
+M
+N
+
+centres was constructed by creating a double vacancy in a 5 × 5 graphene sheet. A vacuum thickness of more than 15 Å was added in the vertical direction to avoid interactions between periodic images. The atomic coordinates of the optimized models are provided in
+Supplementary Data
+.
+The formation energy (
+E
+f
+) of an
+M
+O
+
+or
+M
+N
+
+centre for SAC is defined as
+$${{E}}_{{{\mathrm{f}}}}{{ = E}}_{{{{\mathrm{tot}}}}}{{{\mathrm{ - }}}}\mathop {\sum}\nolimits_{{i}} {{\mu }}_{{i}}{{x}}_{{i}}$$
+
+where
+E
+tot
+is the total energy from DFT calculations, and
+μ
+i
+and
+x
+i
+are the chemical potential and quantity of element
+i
+in the corresponding SAC, respectively. The
+μ
+value for a metallic element is referenced to one metal atom in the corresponding bulk crystal, and the
+μ
+for C, N and O are taken from one atom in graphene, N
+
+and O
+
+, respectively. The correction energies of 0.359 and 0.113 eV per atom were used to correct the energies of O and N atoms, which were obtained by partially fitting the DFT-calculated formation energies to the Open Quantum Materials Database
+
+. The DFT-calculated
+E
+f
+of the
+M
+O
+
+and
+M
+N
+
+centres are shown in Supplementary 
+.
+Working electrode preparation
+The preparation of the working electrode was carried out as follows: a 6 mg catalyst was first dispersed in 500 µl of ethanol. Then, 500 µl of Nafion solution (0.5%) was added to the suspension, followed by sonication for 1 h to form the homogeneous ink. 200 µl of the ink was dropped onto a 1 × 1 cm
+−2
+carbon paper in four drops and dried at room temperature for electrochemical measurements.
+OER measurement
+OER measurements were performed in a three-electrode system (CHI760E, CH Instruments). A graphitic rod and a mercuric oxide electrode (Hg/HgO) were used as the counter- and the reference electrodes, respectively. Electrochemical measurements of the catalysts were measured in 0.1 M KOH solution after purging the electrolyte with N
+
+gas for 30 min. Polarization curves were obtained using linear sweep voltammetry with a scan rate of 10 mV s
+−1
+. The long-term stability test was carried out using chronopotentiometric measurements. All potentials measured were calibrated to the reversible hydrogen electrode using the following equation: potential (V versus reversible hydrogen electrode) = applied potential (V versus Hg/HgO) + 0.098 V + 0.059 × pH.
+Data availability
+The data that support the findings of this study are available within the paper and its Supplementary Information.
+Source data
+are provided with this paper. Any other data are available from the corresponding author on request.

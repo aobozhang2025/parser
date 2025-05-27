@@ -1,5 +1,310 @@
 DOI: 10.1038/s41929-023-01039-7
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of Fe 0.5 NC–Pt, we studied its stability using online GDE/EFC/ICP–MS at 0.6 V RHE and 353 K under O 2 flow. Notably, despite its similar initial ORR activity with Fe 0.5 NC, the Fe 0.5 NC–Pt reveals much better retention of ORR activity during a 2 h potentiostatic hold (−35% and −60% for Fe 0.5 NC–Pt and Fe 0.5 NC, respectively; a ). The GDE/EFC/ICP–MS results measured under Ar flow show ~3 times less Fe leaching from Fe 0.5 NC–Pt than Fe 0.5 NC (that is, 465 and 1,285 μg Fe g catal −1 , respectively; b ), without discernable Pt dissolution (Supplementary ). Unlike Fe 0.5 NC (e ), the lifetime-dependent stability diagram of Fe 0.5 NC–Pt shows a close interrelation of j loss with a decrease in TOF, rather than a decrease in SD (Supplementary ). Thus, these results imply that the enhanced stability of Fe 0.5 NC–Pt may result from the stabilization of Fe–N 4 sites against demetallation as a consequence of the introduction of isolated Pt sites in the carbon matrix. : Proof-of-concept strategy with isolated Pt ion as a stabilizer of Fe–N 4 sites. a , b , ORR current density ( a ) and real-time Fe dissolution under Ar flow ( b ) of Fe 0.5 NC/GDE and Fe 0.5 NC–Pt/GDE obtained by online GDE/EFC/ICP–MS during 2 h potential hold at 0.6 V RHE and 353 K. The electrolyte was de-aerated 0.1 M HClO 4 . c, iR -corrected H 2 /O 2 fuel cell polarization curves and corresponding power density curves before and after 50 h operation at 0.5 V. d , Normalized current density versus time obtained during 50 h operation at 0.5 V. e , HAADF-STEM image of Fe 0.5 NC–Pt obtained after 50 h operation at 0.5 V. Scale bar, 2 nm. f , k 3 -weighted Pt L 3 -edge WT-EXFAS plots of Fe 0.5 NC–Pt before and after 50 h operation at 0.5 V. g , PRR polarization curves of Fe 0.5 NC and Fe 0.5 NC–Pt before and after 50 h operation at 0.5 V measured with RDE in an Ar-saturated 0.1 M HClO 4 electrolyte at 900 rpm. For comparison, the initial PRR polarization curve of Pt/C is also shown. Full size image We further found that the enhanced stability, concluded from the GDE/EFC/ICP–MS system, was also transferred to the PEMFC. At the beginning of operation, the Fe 0.5 NC–Pt cathode showed similar PEMFC performance to that of the Fe 0.5 NC cathode. However, PEMFC with Fe 0.5 NC–Pt cathode exhibited much superior stability during 50 h of operation at 0.5 V (c,d ; the cell voltage corresponds to the cathode potential of ~0.6 V RHE considering the anodic overpotential and Ohmic loss in PEMFC 38 ). To identify whether the enhanced stability is attributed to a possible artefact originating from the operando agglomeration of isolated Pt sites into ORR-active particles, the Fe 0.5 NC–Pt cathode was separated from the membrane–electrode assembly (MEA) after the test and post-mortem characterized. In the HAADF-STEM image, no discernible changes were observed in the atomic distribution of the Pt species after 50 h of PEMFC operation (e ). In addition, the FT- and WT-EXAFS plots for the aged Fe 0.5 NC–Pt revealed a dominant Pt–N interaction, without a perceptible signal from Pt–Pt interaction (f and Supplementary ), almost identical to that for the pristine Fe 0.5 NC–Pt. More evidently, the aged Fe 0.5 NC–Pt recorded a PRR onset potential of 0.81 V RHE, which is much lower than that of Pt/C (0.92 V RHE ) and pristine Fe 0.5 NC–Pt and Fe 0.5 NC (0.83 V RHE ), and similar to that of aged Fe 0.5 NC (0.81 V RHE ; g ). The results therefore indicated no formation of highly active Pt nanoclusters and particles during PEMFC operation. In addition, it can be safely ruled out that Pt single atoms could lead to improved stability by acting as peroxide scavengers (Supplementary Note 7 and Supplementary ). Therefore, the fundamental origin of the enhanced stability of PEMFC with Fe 0.5 NC–Pt cathode is unveiled as isolated Pt-induced stabilization of catalytic Fe–N 4 sites against demetallation. Finally, even though a noble element Pt is used and the Pt-modified catalyst is not optimized in the present study, this proof-of-concept study validates that various synthetic approaches can be established to avoid Fe demetallation of active Fe–N 4 sites, a critical degradation path dominating a rapid performance drop during the initial PEMFC operation. Conclusions In this work, we quantitatively resolve the two key phenomena behind the rapid performance loss of Fe–N–C cathodes at an early stage of PEMFC operation. A time- and potential-resolved diagnosis, enabled by the online GDE/EFC/ICP–MS system, elucidates the strong dependence of Fe leaching from active Fe–N 4 moieties on operating variables, such as temperature and gas atmosphere. The former triggers Fe dissolution and determines its total amount, whereas the latter yields different fates of dissolved Fe ions. In addition, this operando study further enables differentiation of a real-time modification of SD and TOF values from the apparent ORR activity drop, a lifetime-dependent stability diagram that presents a clear shift of a prime deactivation path from SD loss to TOF decrease under realistic PEMFC operating conditions. Finally, we conclude that Fe demetallation is a crucial phenomenon responsible for the rapid performance drop observed during the first few hours of PEMFC operation. We show that prohibiting undesirable Fe demetallation and consequently enhancing PEMFC stability are synthetically available by introducing site-isolated Pt ions onto the Fe–N–C catalyst, the concept inspired by previous works and our DFT calculations. Therefore, this understanding suggests that the development of synthetic routes involving non-PGM stabilizers of Fe–N 4 sites could bring hope for the future reality of Fe–N–C catalysts for commercial PEMFCs. Methods Catalyst synthesis Fe 0.5 NC catalyst was prepared from Fe II acetate (98%, Sigma-Aldrich), 1,10-phenanthroline (phen; ≥99%, Sigma-Aldrich) and Zn II zeolitic imidazolate framework (ZIF-8, Basolite Z1200, BASF). One gram of the precursor mixture containing 0.5 wt% Fe and a mass ratio of phen/ZIF-8 of 20/80 were mixed using dry ball-milling for four cycles of 30 min at 400 rpm. A ZrO 2 crucible with 100 ZrO 2 balls of 5 mm diameter was used in this procedure. The resulting precursors were pyrolysed at 1,323 K under Ar flow for 1 h. Fe 0.5 NC contained Fe content of ca. 1.5 wt%, as confirmed by inductively coupled plasma-optical emission spectroscopy (ICP–OES). For the synthesis of Fe 0.5 NC–Pt, 0.5 wt% Pt was impregnated on Fe 0.5 NC by conventional wet impregnation and subsequent H 2 reduction. 0.1 g Fe 0.5 NC was dissolved and dispersed in 100 ml of de-ionized water containing 1.3 mg of H 2 PtCl 6 ·6H 2 O (≥37.5%, Pt basis, Merck), and then the solvent was evaporated at 353 K. The resultant powder sample was dried at 353 K under vacuum overnight and reduced at 523 K for 3 h under H 2 flow (5%, 200 ml min −1 ). Commercial Pt nanoparticle (HiSPEC 3000, 20 wt% Pt) was purchased from Thermo Fisher Scientific. For the synthesis of Fe 2 O 3 /NC, the NC catalyst was first prepared identically to Fe 0.5 NC, except for the addition of Fe II acetate during the ball-milling step. Note that owing to the presence of trace amounts of Fe impurities in the commercial ZIF-8 (>100 ppm) ( ), Fe-free ZIF-8 was used for the synthesis of NC, which was prepared by mixing 2-methylimidazole (2-MeIm; 99%, Sigma-Aldrich) and Zn nitrate hexahydrate (Zn salt; 98%, Sigma-Aldrich) in aqueous solution (Zn salt/2-MeIm/water molar ratio of 1/60/2228) ( ). Afterwards, Fe 2 O 3 /NC was synthesized by a dry ball-milling of 98 mg NC and 2 mg commercial Fe 2 O 3 (96%, Sigma-Aldrich) for four cycles of 30 min at 400 rpm without heat treatment. The Fe content in Fe 2 O 3 /NC was ca. 1.3 wt%, as confirmed by ICP–OES. Commercial Fe–N–C catalyst (no. PMF-0110904, Pajarito Powder) was purchased from Pajarito Powder Inc, which is synthesized via hard templating with fumed silica. The carbon nanotube (CNT)-supported Fe-N-C catalyst (FeNC/CNT) was synthesized using a silica-protective-layer-assisted approach 41 . Then 100 mg of nitric acid-treated CNTs (Carbon Nanomaterial Technology) were mixed with 200 mg of Fe III TMPPCl (Porphyrin Systems) in an agate mortar for 5 min. The mixture was heated in a quartz-tube furnace, starting from room temperature to 673 K, at a ramping rate of 275 K min −1 and kept at that temperature for 3 h under N 2 gas (99.999%) flowing at a rate of 1 l min −1 . Afterwards, the heat-treated CNT/Fe III TMPPCl composite was mixed with 0.5 ml of TEOS in a mortar, followed by mixing with 0.5 ml of formic acid. The resulting mixture was transferred to an alumina crucible and dried in a 333 K oven for 3 h. Subsequently, the composite was heated to 1,073 K at a ramping rate of 275 K min −1 and maintained at that temperature for 3 h under N 2 gas flowing at a rate of 1 l min −1 . To etch the silica, the resulting composite was mixed with 2:1 (v/v) solution of ethanol and 10% aqueous HF, and stirred for 30 min. The mixture was then filtered and washed with ethanol multiple times. The HF etching process was repeated following the same procedure, and the resulting sample was dried at 333 K to obtain FeNC/CNT samples. Physicochemical
+Catalyst synthesis
+Fe
+0.5
+NC catalyst was prepared from Fe
+II
+acetate (98%, Sigma-Aldrich), 1,10-phenanthroline (phen; ≥99%, Sigma-Aldrich) and Zn
+II
+zeolitic imidazolate framework (ZIF-8, Basolite Z1200, BASF). One gram of the precursor mixture containing 0.5 wt% Fe and a mass ratio of phen/ZIF-8 of 20/80 were mixed using dry ball-milling for four cycles of 30 min at 400 rpm. A ZrO
+
+crucible with 100 ZrO
+
+balls of 5 mm diameter was used in this procedure. The resulting precursors were pyrolysed at 1,323 K under Ar flow for 1 h. Fe
+0.5
+NC contained Fe content of ca. 1.5 wt%, as confirmed by inductively coupled plasma-optical emission spectroscopy (ICP–OES). For the synthesis of Fe
+0.5
+NC–Pt, 0.5 wt% Pt was impregnated on Fe
+0.5
+NC by conventional wet impregnation and subsequent H
+
+reduction. 0.1 g Fe
+0.5
+NC was dissolved and dispersed in 100 ml of de-ionized water containing 1.3 mg of H
+
+PtCl
+
+·6H
+
+O (≥37.5%, Pt basis, Merck), and then the solvent was evaporated at 353 K. The resultant powder sample was dried at 353 K under vacuum overnight and reduced at 523 K for 3 h under H
+
+flow (5%, 200 ml min
+−1
+). Commercial Pt nanoparticle (HiSPEC 3000, 20 wt% Pt) was purchased from Thermo Fisher Scientific. For the synthesis of Fe
+
+O
+
+/NC, the NC catalyst was first prepared identically to Fe
+0.5
+NC, except for the addition of Fe
+II
+acetate during the ball-milling step. Note that owing to the presence of trace amounts of Fe impurities in the commercial ZIF-8 (>100 ppm) (
+), Fe-free ZIF-8 was used for the synthesis of NC, which was prepared by mixing 2-methylimidazole (2-MeIm; 99%, Sigma-Aldrich) and Zn nitrate hexahydrate (Zn salt; 98%, Sigma-Aldrich) in aqueous solution (Zn salt/2-MeIm/water molar ratio of 1/60/2228) (
+). Afterwards, Fe
+
+O
+
+/NC was synthesized by a dry ball-milling of 98 mg NC and 2 mg commercial Fe
+
+O
+
+(96%, Sigma-Aldrich) for four cycles of 30 min at 400 rpm without heat treatment. The Fe content in Fe
+
+O
+
+/NC was ca. 1.3 wt%, as confirmed by ICP–OES. Commercial Fe–N–C catalyst (no. PMF-0110904, Pajarito Powder) was purchased from Pajarito Powder Inc, which is synthesized via hard templating with fumed silica. The carbon nanotube (CNT)-supported Fe-N-C catalyst (FeNC/CNT) was synthesized using a silica-protective-layer-assisted approach
+
+. Then 100 mg of nitric acid-treated CNTs (Carbon Nanomaterial Technology) were mixed with 200 mg of Fe
+III
+TMPPCl (Porphyrin Systems) in an agate mortar for 5 min. The mixture was heated in a quartz-tube furnace, starting from room temperature to 673 K, at a ramping rate of 275 K min
+−1
+and kept at that temperature for 3 h under N
+
+gas (99.999%) flowing at a rate of 1 l min
+−1
+. Afterwards, the heat-treated CNT/Fe
+III
+TMPPCl composite was mixed with 0.5 ml of TEOS in a mortar, followed by mixing with 0.5 ml of formic acid. The resulting mixture was transferred to an alumina crucible and dried in a 333 K oven for 3 h. Subsequently, the composite was heated to 1,073 K at a ramping rate of 275 K min
+−1
+and maintained at that temperature for 3 h under N
+
+gas flowing at a rate of 1 l min
+−1
+. To etch the silica, the resulting composite was mixed with 2:1 (v/v) solution of ethanol and 10% aqueous HF, and stirred for 30 min. The mixture was then filtered and washed with ethanol multiple times. The HF etching process was repeated following the same procedure, and the resulting sample was dried at 333 K to obtain FeNC/CNT samples.
+Physicochemical characterization
+XRD patterns were obtained using a high-resolution X-ray diffractometer (X’Pert PRO MPD, PANalytical) equipped with a Cu
+K
+α
+X-ray source. The XRD patterns were measured at an accelerating voltage of 60 kV and current of 55 mA, with scan rate of 10° min
+−1
+and step size of 0.02°. Raman spectra were obtained using a NRS-5000 series Raman spectrometer (JASCO) with 633 nm laser excitation. XPS measurements were performed using
+K
+-Alpha
++
+(Thermo Scientific) instrument equipped with a micro-focused monochromator X-ray source. The binding energy used for the peak deconvolution of the XPS-Pt spectra (for 4f
+7/2
+) was 72.4 and 73.8 eV for Pt
+II
+and Pt
+IV
+, respectively, and the spin-orbit splitting for 4f
+5/2
+and 4f
+7/2
+peaks was 3.33 eV (
+). ICP–OES analysis was performed using Optima 4300 DV (PerkinElmer) for determining Fe contents. Fe K-edge or Pt L
+
+-edge X-ray absorption spectroscopy (XAS) signals were collected in the transmission mode at the Pohang Accelerator Laboratory (8C, Nano XAFS). To compensate any energy shift during data acquisition, the XAS energy scale was calibrated using each metal foil before the measurements. The XANES and EXAFS analyses were conducted using Athena and Artemis implemented in the Demeter program package. The EXAFS data in
+k
+space was Fourier-transformed with the Hanning window function (d
+k
+= 0.5 Å
+–1
+) after
+k
+
+-weighting. Curve fitting of the FT-EXAFS of Fe
+0.5
+NC–Pt was carried out in the
+R
+range of 1.1–2.3 Å with phase correction by including Pt–N and Pt–Cl scattering paths. The amplitude reduction factor (
+S
+
+) for Pt was determined to be 0.83 from the curve fitting of the EXAFS of the Pt foil. The wavelet transform of
+k
+
+-weighted EXAFS data was analysed with phase correction using the HAMA Fortran code. A Morlet function was used for the mother wavelet function (
+η
+= 10,
+σ
+= 1). The
+
+Fe Mössbauer spectrum was acquired using a
+
+Co source in Rh. The measurement was performed by keeping both the source and absorber at 7 K. The spectrometer was operated with a triangular velocity waveform, and a NaI scintillation detector was used to detect γ-rays. TEM, energy dispersive spectroscopy and HAADF-STEM analyses were performed using TECNAI G2 F30 S-Twin (FEI), TECNAI F20 UT (FEI) and Titan 80–300 (FEI), respectively.
+Electrochemical measurements
+The electrochemical properties were investigated using a VMP-300 potentiostat (Bio-Logic) in a three-electrode cell equipped with a graphite rod counter electrode and saturated Ag/AgCl reference electrode (RE-1A, EC-Frontier). A 0.1 M HClO
+
+electrolyte was prepared using ultrapure water (>18 MΩ, Sartorious) and concentrated HClO
+
+(70%, Sigma-Aldrich). The reference electrode was calibrated against a Pt electrode in an H
+
+-saturated electrolyte at various temperatures to convert the potentials to the RHE scale correctly. To prevent any undesirable changes in the equilibrium potential of the reference electrode, we maintained its temperature at room temperature during experiments (Supplementary 
+). The catalyst ink was prepared by dispersing 10 mg of the catalyst in an aqueous solution (868 μl de-ionized water, 7 μl isopropanol and 80 μl 5 wt% Nafion solution). After ultrasonication of the above suspension for 30 min, the working electrodes were prepared by dropping 15 μl of catalyst ink onto a glassy carbon disk (0.196 cm
+
+) of the RDE (01169, ALS). The catalyst loadings were set to 800 μg cm
+−2
+for Fe
+0.5
+NC or Fe
+0.5
+NC–Pt, and 10 μg
+Pt
+cm
+−2
+for Pt nanoparticles. The ORR polarization curves were recorded with a scan rate of 10 mV s
+−1
+and rotation speed of 900 rpm in an O
+
+-saturated 0.1 M HClO
+
+electrolyte. ORR Faradaic currents were obtained by subtracting the polarization curves measured in an Ar-saturated electrolyte. The PRR polarization curves were measured with a scan rate of 1 mV s
+−1
+and a rotation speed of 900 rpm in an Ar-saturated 0.1 M HClO
+
+electrolyte containing 1.3 mM H
+
+O
+
+. Nitrite stripping experiment was conducted on the Fe
+0.5
+NC catalysts collected from the Fe
+0.5
+NC/GDE before and after a 2 h potentiostatic hold at 0.6 V
+RHE
+and 353 K under Ar flow. The catalyst ink was prepared by dispersing the catalyst in an aqueous solution (267 μl de-ionized water, 25 μl isopropanol and 2 μl 5 wt% Nafion solution). After ultrasonication of the above suspension for 30 min, the working electrodes were prepared by dropping 75 μl of catalyst ink onto a glassy carbon disk (0.196 cm
+
+) of the RDE (01169, ALS). The catalyst loading was set to 50 μg cm
+−2
+.
+Online GDE/EFC/ICP–MS measurements
+The GDE was fabricated by spraying catalyst ink onto a mesoporous layer (MPL) deposited on carbon paper. On a carbon paper with a 20 wt% polytetrafluoroethylene (PTFE) content (2 × 2 cm
+
+, TGP-H-090, Toray), highly hydrophobic carbon MPL was first fabricated by spraying an ink emulsion containing 100 mg Ketjen Black EC-300J, 400 mg PTFE (60 wt%, Sigma-Aldrich) and 20 ml isopropyl alcohol (99.5%, Sigma-Aldrich), followed by heat treatment at 513 and 613 K under Ar atmosphere for 30 min each. The resulting MPL had a Ketjen Black EC-300J loading of 2 mg cm
+−2
+. Thereafter, catalyst ink (25 mg catalyst + 10 ml isopropanol + 250 μl 5 wt% Nafion solution) was sprayed onto the MPL to reach target catalyst loadings of 400 μg cm
+−2
+. The active catalyst area of the GDE was 0.096 cm
+
+. Fe dissolution was monitored using ICP–MS (7500ce, Agilent) coupled with a GDE-based EFC. The EFC is equipped with a U-shaped channel with a diameter of 1 mm and an opening for contact with the GDE. A graphite tube counter electrode (inner diameter 1 mm) was placed at the inlet, and an Ag/AgCl reference electrode was connected to the outlet of EFC. A 0.1 M HClO
+
+electrolyte, de-aerated using a degasser (AG-32-01, FLOM Corp.), was flowed into the EFC at a flow rate of 200 μl min
+−1
+. The electrolyte was mixed with 0.2 M HNO
+
+containing 5 ppb
+
+Re as an internal standard using a Y-connector (mixing ratio 1:1). Ar or O
+
+gases flowed into the graphite serpentine gas channel at a rate of 5 ml min
+−1
+. GDE was pre-treated with 200 fast CV cycles (200 mV s
+−1
+) in the potential range of 1.0–0.0 V
+RHE
+at 298 K before the electrochemical measurement. After stabilization at the desired temperature for ca. 10 min, Fe dissolution was analysed under potentiodynamic or potentiostatic conditions. Fe dissolution under potentiodynamic conditions was analysed with three slow CV cycles (5 mV s
+−1
+) in the potential range of 1.0–0.0 V
+RHE
+at various temperatures (298, 313, 333 and 353 K) under Ar or O
+
+flow. Fe dissolution under potentiostatic conditions was analysed by holding 0.4, 0.6 or 0.8 V
+RHE
+at 353 K under Ar or O
+
+flow. ORR polarization curves were recorded with a scan rate of 5 mV s
+−1
+at 298 K. A manual
+iR
+compensation (MIR) program was used to compensate 85% of ohmic drop during the electrochemical measurements and 15% post-corrected. The uncompensated resistance was measured using electrochemical impedance spectroscopy at open circuit potential (Supplementary 
+).
+Computational details
+Spin-polarized DFT calculations were conducted by using the Vienna ab initio Simulation Package (VASP) 5.4.4 (
+). The projector-augmented wave pseudopotential and Perdew–Burke–Ernzerhof exchange-correlation functional were applied for all calculations
+
+,
+
+. For the plane-wave basis, the kinetic energy cut-off was set as 520 eV. The first order of the Methfessel–Paxton method was used with a smearing width of 0.05 eV (
+). A (5 × 5 × 1)
+\(\Gamma\)
+-centred
+k
+-point grid was used to sample the reciprocal space. The convergence criterion was set as 1 × 10
+−5
+eV for the electronic step, and 0.01 eV Å
+−1
+for the ionic relaxation step. Atomic partial charges were calculated using the Bader charge analysis
+
+.
+For accurate calculations of the slab geometry, an additional vacuum region was included with a dipole correction to eliminate electrostatic interactions between periodic images along the surface normal direction. The (6 × 6) surface unit cell of graphene served as the base structure for investigating eight different Fe–N
+
+system structures, wherein the locations of the Pt–N
+
+site were varied. Additionally, three additional structures were explored by varying the intersite distance between Fe–N
+
+and Pt–N
+
+, using the base structure of an (8 × 8) surface unit cell of graphene (Supplementary Figs.
+
+and
+
+). For the formation energy calculations, the reference states of H, C, N, Fe and Pt were chosen as H
+
+, graphite, N
+
+, α-phase of Fe solid and face-centred-cubic Pt solid, respectively.
+For the calculation of energy profiles concerning the Fe dissolution reaction at electrified (or charged) interfaces, the VASPsol package employing the implicit solvation method was utilized. The Debye length was set at 0.304 nm
+−1
+, and the dielectric constant was set at 78.4. In our slab model of the Fe–N
+
+system, a surface charge density of 17.50 μC cm
+−2
+was applied, resulting in an electrochemical potential of 0.40 V
+RHE
+, which closely corresponds to the experimental conditions. pH 1.0 is assumed to calculate the RHE potential from theoretical SHE potential. To investigate the energetics of non-electrochemical reactions, the system charge was then adjusted on the basis of the charge states of reactants and products; specifically, the system charge was decreased by 2 for the removal of Fe
+II
+and increased by 1 for each added proton. Three possible reaction paths were investigated; the most plausible reaction mechanism is shown in ,b
+, while the others are presented in Supplementary 
+. For the most plausible reaction mechanism, the reaction free energies of Fe
+II
+detachment step at various pH conditions were further calculated (Supplementary 
+). The energy state of Fe
+II
+(aq) was calculated by evaluating the ionization energy of Fe and the solvation-free energy of Fe
+II
+using Jaguar 10.9 software
+
+(B3LYP functional
+
+with LANL2DZ basis set
+
+) as coupled with the Poisson–Boltzmann implicit solvation model
+
+(Supplementary Note
+
+).
+PEMFC operation
+MEA was prepared by a catalyst-coated membrane method via spray coating to compare the single-cell performance of Fe
+0.5
+NC and Fe
+0.5
+NC-Pt as cathode catalysts with all the Pt/C-based anodes. The cathode slurries were prepared by ultrasonically mixing 50 mg of catalysts (Fe
+0.5
+NC and Fe
+0.5
+NC-Pt) in a solution containing 10 ml of isopropanol, and 334 mg of 5 wt% Nafion solution (Sigma-Aldrich). The anode slurries were prepared by ultrasonically mixing 10 mg of catalysts (37.7 wt% Pt/C, TANAKA Precious Metals) in a solution containing 3 ml of isopropanol, and 66.7 mg of the Nafion solution. Each slurry was coated onto a Nafion 211 membrane. The prepared MEA was pressed at 375 lbf and 557 K for 2.5 min. After cooling for 10 min
+via
+the cooling press, we successfully obtained MEA with an active area of 5.0 cm
+
+. The catalyst contents of the cathode and anode electrodes were controlled at approximately 4.0 and 0.25 mg cm
+−2
+, respectively. The cell performance of MEA was evaluated using a PEMFC test station (CNL Energy). The single-cell includes the MEA, gas diffusion layers (Sigracet 39BB, SGL Carbon), bipolar plates constituting serpentine channels of graphite, and current collector plates made of gold-coated blocks. Before evaluating the cell performance, a break-in process was conducted in the following steps: H
+
+and O
+
+with 200 and 300 ml min
+−1
+flow rates with the condition of 100% relative humidity at 353 K were provided for the anode and cathode, respectively. Thereafter, a 0.1 V per step was applied for 30 s in the cycling range of 0.3–0.7 V until the performance of MEA at 0.6 V was stabilized. To evaluate the cell performance, polarization curves were obtained during a potential sweep from 0.94 to 0.2 V with 1 bar of back pressure.
+Data availability
+The data generated in this study have been deposited in the Zenodo repository database without accession code (
+https://doi.org/10.5281/zenodo.8287921
+)
+
+. The DFT data generated in this study have been deposited in the Zenodo repository database without accession code (
+https://doi.org/10.5281/zenodo.8287952
+)
+
+. Additional data supporting the findings of this study are available from the corresponding author upon reasonable request.

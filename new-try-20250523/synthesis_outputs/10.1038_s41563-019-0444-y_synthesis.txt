@@ -1,0 +1,601 @@
+DOI: 10.1038/s41563-019-0444-y
+Source: main text file
+--------------------------------------------------
+
+Synthesis procedures can target different nanostructures with variable ratios of exposed , and surfaces
+,
+
+. On these ceria supports, Pt nanoparticles can be deposited and, by oxidizing them over an airflow, the volatile PtO
+
+units disperse out as single atoms
+
+,
+
+with loadings of up to 3 wt.%
+
+. Pt atoms have been found at grain boundaries
+
+and steps
+
+,
+
+, and atop very small (<3 nm) nanoparticles
+
+. All of these environments provide a -like, square-planar coordination.
+The Pt/CeO
+
+system has been proposed among the most promising candidates to meet the Department of Energy 150 °C challenge
+
+,
+
+,
+
+,
+
+(that is, achieving 90% conversion of all critical pollutants in exhaust emissions at 150 °C
+
+). The catalytic activity is believed to be related to well-dispersed single atoms or low-nuclearity clusters. We have gathered the following observations from the literature on this material: Pt disperses or agglomerates as a function of the environment
+
+,
+
+,
+
+,
+
+,
+
+,
+
+; isolated Pt atoms, as prepared, have been proposed and discarded as potential catalytic centres
+
+,
+
+; short-pulse treatments are needed to render the Pt catalyst active
+
+; and the nature of the active site remains unknown.
+Ceria presents low-energy electron transport mediated by polarons
+
+,
+
+. Therefore, the properties at the metal/ceria interface might depart from the static interpretations due to electron dynamics. In the present work, we have performed extensive first-principles molecular dynamics to unravel the role of charge transfer at the interface. We identify several metal oxidation and charge states, reachable at moderate temperatures, and show how they impact the reactivity and, in particular, how they meet the requirements for low-temperature (<150 °C) oxidation.
+The three lowest-energy surface facets of ceria are , and the polar . Platinum adsorption was tested on all of them using the Perdew–Burke–Ernzerhof functional together with the Hubbard
+U
+correction, PBE+U (Supplementary 
+). Our results agree with previous findings
+
+,
+
+,
+
+. The and surfaces cannot stabilize single-atom Pt, thus metal nanoparticles form instead. Only the surface can stabilize isolated Pt. Therefore, we focus on these slabs as models for local, nanostructured regions (for example, step or edge sites)
+
+. The low coordination of the surface oxygen atoms on the oxygen-terminated version increases their mobility
+
+. As such, restructures into various coexisting patterns at elevated temperatures encountered during pretreatment. Due to this collection of oxygen distributions, Pt adsorbs on the surface surrounded by a variable number of oxygen ligands (
+n
+) in the first coordination sphere, denoted as Pt–
+n
+O (
+n
+= 2, 3 or 4) –d
+).
+
+.
+a
+, Adsorption energy (
+E
+ads
+) of Pt on CeO
+
+, for the different oxidation states (mOSs) on the surfaces, with distributions stemming from the surface oxygen mobility
+
+.
+E
+ads
+(left
+y
+axis) is with respect to the resting 2O surface, while Δ
+E
+(right
+y
+axis) is with respect to the most stable Pt–
+n
+O configuration.
+b
+–
+d
+, Three Pt coordination environments (Pt–
+n
+O, where
+n
+is two (
+b
+), three (
+c
+) or four (
+d
+) O atoms acting as ligands) appear, where O, Ce and Pt are red, yellow and green, respectively. In
+a
+, mOSs are assigned employing Ce magnetization as a proxy
+
+. Each energy level corresponds to a local minima with a fixed Ce
+3+
+localization (see Supplementary 
+for examples). Pt–4O only resides in the Pt
+2+
+state. The horizontal lines present the thermodynamic stability with respect to the Pt bulk and 2-nm-diameter nanoparticle (Supplementary 
+). Benchmarks with different
+U
+values and HSE and RPA functionals are presented in Supplementary 
+and Supplementary Tables
+
+–
+
+, and discussed in the Methods.
+Full size image
+When the Pt atom is charged, it transfers one or more electrons to the surface, which can localize on any cerium atom. All possible electronic and coordination configurations were sampled via geometry relaxation and we retained only the stable local minima. Their adsorption energies are shown in 
+, grouped by coordination (Pt–
+n
+O) and oxidation state (Pt
+
+, Pt
++
+or Pt
+2+
+). To properly assign the nature of the adsorbed atom, we initially employed Bader charges, but they are a poor descriptor of oxidation states
+
+. The Pt magnetic moment (Supplementary Note
+
+and Supplementary 
+) and X-ray photoelectron spectroscopy (XPS) features (Supplementary 
+) also depend on the oxidation state. The latter can be mapped to the experimental XPS spectrum
+
+. The spectral shift from Pt
+
+to Pt
+2+
+matches the experimental one
+
+. Note that the peak in between is assigned there to an intermediate species, which we identify as Pt
++
+. However, the inhomogeneities and final state effects can make assignment difficult. Instead, for a most robust fingerprint identification, and considering that single-atom Pt is the sole possible source of electrons in these models, we can count the number of Ce
+3+
+. This corresponds to the number of electrons lost by the metal atom. Ce
+3+
+presents a magnetic moment of ~1
+μ
+B
+on the 4
+f
+orbitals (compared with 0
+μ
+B
+of Ce
+4+
+), which has already been employed in the literature
+
+. Therefore, this descriptor is used to trace the metal oxidation state (mOS) of the Pt atom.
+The Pt–4O structure encompasses the lowest energy states of all geometric and electronic configurations. Its mOS is always confined to Pt
+2+
+, with two surface Ce
+4+
+reduced. This behaviour coincides with the coordination rules in coordination chemistry
+
+. The multiple Ce
+3+
+configurations show a very fine energy distribution, with spacings of just a few meV (Supplementary 
+). Moreover, this structure is thermodynamically favourable compared with the cohesive energy of bulk Pt (horizontal orange line), thus the SAC is stable against agglomeration
+
+. This explains why Pt–4O species can be generated from the regular ceria 2O trenches that incorporate volatile PtO
+
+species
+
+, making for excellent precursors to the SAC.
+Pt–2O is next in energy, with Pt
++
+being the most stable mOS within the potential energy manifold associated with this geometry. Yet, all of these structures are only stable compared with the cohesive energy of a 2-nm-diameter Pt nanoparticle (Supplementary 
+). This means that isolated atoms are stable against the initial states of agglomeration, and even dimerization is unfavoured (Supplementary 
+). Comparing all three mOSs on Pt–2O, the (near-)degeneracy of the electron distributions overlap irrespective of the functional employed (see Methods, Supplementary 
+and Supplementary Tables
+
+–
+
+). Pt–3O exhibits even larger overlap, but the coordination as a whole is unstable with respect to agglomeration.
+The reason different electronic configurations coexist can be traced back to the interplay between the ionization potentials of the isolated gas-phase Pt atoms, surface reduction and distortion, and changes in electrostatic interactions. This is shown in the Born–Haber cycle (Supplementary Note
+
+and Supplementary 
+), which starts with an isolated Pt atom and the pristine CeO
+
+ surface. When Pt adsorbs as Pt
+
+on the regular 2O surface, the resulting covalent contribution is −1.93 eV, as calculated by the formation of two Pt–O bonds in Pt(H
+
+O)
+
+. In parallel, the gas-phase ionization of a Pt atom to Pt
++
+requires 8.96 eV
+
+. Assuming that the covalent contribution persists throughout the oxidation steps, the energy compensation needs to come either from the surface reduction
+
+and/or the changes in the electrostatic contributions. The Coulomb interaction
+
+between the Pt–O and Ce–O pairs stands out with a value of 9.73 eV. This term is calculated from the charges and the first neighbour distances of the Pt
+
+–2O and Pt
++
+–2O (Supplementary 
+). Adding up these contributions, the step from Pt
+
+to Pt
++
+on Pt–2O is slightly endothermic by 0.3 eV. Indeed, even this simple thermodynamic cycle highlights that the change in mOS is compensated for by the electrostatic contributions.
+To verify whether the charge transfer processes presented above are kinetically attainable, first-principles Born–Oppenheimer molecular dynamics (BOMD) were performed on all three Pt–
+n
+O structures, following an approach similar to that described in 
+
+, Supplementary 
+and Supplementary Videos
+
+–
+
+). BOMD simulations are computationally very demanding; thus, the Pt–
+n
+O structures were simulated in (2 × 2) supercells. Before that, it was assessed that the patterns in 
+are still properly represented in the smaller cell (Supplementary 
+). Vice versa, a short heating simulation of Pt–2O in the (3 × 3) slabs also confirmed the polaron-induced charge transfer for larger supercells (Supplementary Video
+
+).
+
+–
+c
+, Time evolution at 600 K of the atom-resolved oxidation states of the Pt and surface Ce atoms, for Pt–2O (
+a
+), Pt–3O (
+b
+) and Pt–4O (
+c
+). The assignment of Ce
+3+
+is discussed in Supplementary Note
+
+. In
+c
+, the oxidation states of Ce are summed together for the top layer
+\(\left( {{\sum} {{\mathrm{Ce}}^{{\mathrm{top}}}} } \right)\)
+and subsurface layer
+\({\sum} {{\mathrm{Ce}}^{{\mathrm{sub}}}}\)
+, respectively.
+d
+, Lifetime distribution of the various mOSs for the Pt–2O structures. The Pt–3O trajectory has been included after conversion to Pt–2O (occurring at ~486 K). Trajectories are shown in Supplementary Videos
+
+–
+
+.
+Full size image
+
+shows the oxidation state per atom, gathered for the Pt–2O system over a 27-ps time period after heating up to 600 K. The simulation exhibits an alternating number of Ce
+3+
+centres, confirming the dynamic nature of the mOS directly. A visualization of the trajectory is shown in Supplementary Video
+
+, where the smooth nature of the electron transfer events can be observed. An individual transfer is captured in Supplementary 
+, with the electron in
+\({\mathrm{Ce}}_{\mathrm{C}}^{{\mathrm{top}}}\)
+moving to
+\({\mathrm{Ce}}_{\mathrm{A}}^{{\mathrm{top}}}\)
+by temporarily crossing over Pt. In the case of Pt–3O 
+), the coordination shell starts opening at ~300 K during the heating process. On opening, the oxygen atoms adopt the regular row pattern of the Pt–2O configuration. This corroborates that Pt–3O is a metastable state, as found in 
+. Remarkably, Pt–3O does not reconstruct to the global minimum, namely Pt–4O. Finally, the Pt–4O system 
+) remains stable with respect to its coordination, and maintains the mOS in accordance with 
+repulsion.
+Considering that Pt–3O transforms into the Pt–2O coordination, their data can be analysed together to illustrate the persistence of different oxidation and charge states. The frequency histogram in 
+presents their lifetimes (that is, the time interval that Pt resides uninterruptedly in a single mOS (Supplementary Note
+
+)). Even though Pt
+
+and Pt
++
+take up almost equal portions of time (47 and 49%, respectively), Pt
+
+can vastly outlive Pt
++
+, with outliers of up to 5 and 12 ps. Therefore Pt
++
+—the most stable state at 0 K—is no longer the longest-living species at 600 K.
+To understand the origin of the Pt mOS dynamics on the CeO
+
+ surface, the density of states (DOS) of the full Pt–2O system is decomposed into the metal and oxide units at the geometries of the different lowest-energy mOSs 
+). The DOS diagram features the filled O(2
+p
+) valence band (red) and the empty Ce(4
+f
+) levels (orange) placed in the band gap. 
+shows the 2O-terminated CeO
+
+, while 
+corresponds to the isolated, gas-phase Pt atom in a
+d
+
+s
+
+electronic configuration in a structure where Pt is far away from the surface. All systems are aligned according to the 2
+s
+band centre of the central oxygen atoms in the slab. As in the Born–Haber cycle, the isolated Pt atom is first allowed to interact with two water molecules, forming Pt–(H
+
+O)
+
+in 
+. The Pt levels shift higher up to the Fermi level (green line) due to the covalent (antibonding) interaction. In the simulations for the Pt–2O system, we identified that the presence of Pt distorts the CeO
+
+surface to different extents depending on the mOS. Therefore, the electronic structure of the oxide in the geometry corresponding to the lowest energy configuration of each Pt-2O mOS occupies the panels shown in –d. Surface distortions push the ligand O(2
+p
+) levels up to higher energies. Concomitantly, the cation cavity increases, the repulsion with their O neighbours decreases, and the Ce(4
+f
+) states drop below the Fermi level of Pt–(H
+
+O)
+
+. This establishes the driving force for electron transfer from Pt to the oxide. Our results are robust compared with other functionals (Supplementary 
+and Supplementary Note
+
+). Therefore, electron transfer at the Pt–
+n
+O interface can be understood as a phonon-assisted metal-support interaction that can appear when: the metal levels lie either in the band gap or closely above the Fermi level of the reducible semiconductor; the surface is flexible enough to allow surface distortions; and empty cation states appear in the band gap within an energy range accessible as a consequence of the geometric distortion. To assess the scope of phonon-assisted metal-support interaction, we performed a scan (similar to 
+) for Ni on the same CeO
+
+surface or for the same metal on a different oxide rutile TiO
+
+. Supplementary 
+suggests the coexistence of multiple oxidation states for these systems as well.
+
+surface, showing the filled valence band (red) and empty Ce(4
+f
+) bands (orange).
+b
+–
+d
+, DOSs of 2O systems with oxide geometries of Pt
+
+–2O (
+b
+), Pt
++
+–2O (
+c
+) and Pt
+2+
+–2O (
+d
+). The lowering of the Ce(4
+f
+) levels allows electron injection from the higher Pt-filled states, as indicated by the Fermi level in
+e
+(green line).
+e
+,
+f
+, Gas-phase Pt levels when covalently interacting with water (
+e
+) or when isolated (
+f
+). The gas-phase systems are separated by more than 7 Å from any side of the slabs. All systems are aligned according to the 2
+s
+band centre of the central oxygen layer in the slab.
+g
+, Local coordination of the unrelaxed oxygen ligands around the Pt vacancy. Each coordination is aligned with its respective DOS panels. Tests with different functionals show no significant changes (see Supplementary 
+).
+Full size image
+The variable coordination and oxidation states affect the reactivity 
+). Pt
+2+
+–4O is the most robust state, in agreement with the ionic nature identified in experiments
+
+,
+
+, and breaking this coordination by removing an oxygen is very endothermic (~1.84 eV). Thus, Pt
+2+
+–4O is the resting state of the material under most conditions (in particular, under the oxidative preparation route from the metal nanoparticles that results in PtO
+
+volatilization and deposition). Under mild, reducing conditions and medium to high temperatures, like the pulses employed in catalytic activation, both H
+
+and CO can open up Pt–4O 
+(cycle 1) and Supplementary 
+). In 
+, molecular hydrogen has to overcome a relatively large activation barrier
+
+(1.35 eV) to split over Pt and O (−0.67 eV below reactants). Next, the hydrogen and hydroxyl group recombine to form a water molecule, which readily leaves the surface. H
+
+dissociates over the regular O-termination pristine CeO
+
+via a transition state at 0.82 eV, with the final state lying −3.00 eV below gas-phase reactants (see 
+). Alternatively, if Pt–4O is reduced by CO, the molecule adsorbs onto a lattice oxygen of this unit and evolves towards CO
+
+. The highest activation barrier in this path is ~1 eV and the final state is −1.23 eV below reactants. Therefore, the relative inertness of Pt SACs against H
+
+, and the low CO uptake in the temperature programmed desorption experiments, are related to the low pressures employed in ultra-high vacuum experiments
+
+,
+
+. The activation process, as described here, is reversible in an oxidizing environment. A deactivation switch is what sets this system apart from other catalysts, such as nanoclusters, which can be prepared using oxidizing airflow
+
+. After the CO or H
+
+treatment, the Pt–4O coordination is reduced to Pt–3O.
+
+, Reaction energy cycles (in eV) for surface reduction (cycle 1; black by CO; blue by H
+
+) and CO oxidation (cycle 2), with red spheres denoting the Pt coordination. The dagger represents the transition states. Oxygen exchange/diffusion processes are marked in red, and the boxes below the Pt–3O structures denote the ratio of surface oxygen atoms in the (3 × 3) supercell. The numerals in cycle 2 refer to the reaction path of CO oxidation on Pt–2O in
+b
+and
+c
+.
+b
+, Reaction profile of cycle 2 for each oxidation state of Pt. The mOS lifetimes are presented in the inset, as retrieved from BOMD 10.5-ps trajectories of the reaction intermediates. In step II, Pt
++
+and Pt
+2+
+collapse to the same energy level. The inset supports this by showing that both mOSs coexist and are dynamically connected.
+c
+, Side (top) and top (bottom) views of the reaction steps. Dark red denotes oxygen from the bulk phase (s) and bright red denotes oxygen from the gas phase (g).
+Full size image
+The Pt–3O system is labile with respect to oxygen diffusion, as shown by the molecular dynamics simulations, where it converts into Pt–2O in <0.5 ps at 300 K. Therefore, our results show that reducing atmospheres convert the resting Pt–4O state into Pt–2O species. This explains why recent experiments need short, reducing pulses at 250 °C to generate the active platinum species
+
+that we can now identify as Pt–2O. The barriers of ~1 eV explain why temperatures of at least 250 °C are required during activation, while higher exposure times to reducing atmospheres induce Pt agglomeration. However, the transient nature of Pt–2O makes it difficult to characterize it experimentally, even under operando conditions. Note that even single atoms have only recently been clearly identified in microscopy
+
+.
+The system then enters cycle 2 of ,b
+. Complementary data for the elementary steps, alternative routes and structures can be found in Supplementary 
+and Supplementary 
+. On Pt–2O state I in 
+, the three mOSs coexist and have been investigated separately for CO reduction. Overall, CO adsorption is relatively weak, but the gas-phase CO pressures are large under low-temperature (<150 °C) conditions and ionic Pt has the largest adsorption energies. Indeed, charge dependence for CO adsorption on SACs was also reported for Pt
+
+/TiO
+
+anatase
+
+. The CO vibrational shift for this state is around 60 cm
+−1
+, similar to the experimental value reported (75 cm
+−1
+)
+
+(see Supplementary 
+). The BOMD for this intermediate shows larger lifetimes for the ionic Pt configurations (with a 1:2 ratio between Pt
++
+and Pt
+2+
+). Then, O
+
+can adsorb, forming a percarbonate species with an O–O bond distance of 1.452 Å. In the BOMD, this state of the SAC corresponds to no electron transfer to the Ce
+4+
+centres. However, in this particular coordination, the formal oxidation state of the metal is Pt
+2+
+, regardless of its previous state. Hence, the O
+
+adsorption energy depends on the electronic state of configuration (II), and can be as large as −1.20 eV. From this configuration on, CO
+
+formation easily pushes the system to the low-lying Pt
+
+state. The barrier for this step is about 0.56 eV. To evolve to Pt
++
+, the energy required is much larger (namely, 1.11 eV). Therefore, during the CO oxidation cycle in the Pt–2O structure, the electronic structure of the material needs to be dynamic to allow both the adsorption of CO (occurring at ionic states) and oxidation (occurring at the neutral state) elementary steps in the mechanism. Separate BOMD runs were also performed on the reaction intermediates, showing that some of them exhibit dynamic electron transfer (see insets in 
+and Supplementary 
+). We have added the weights (percentage of lifetimes) of the different mOSs in the band below each structure, indicating that for some intermediates (CO) dynamic electron transfer occurs, while with others (percarbonate) a single electronic configuration is more likely.
+Regarding the stability of Pt–2O (and Pt–4O), Pt diffusion is impeded by 2.9 eV. Dimerization on the trenches is also endothermic, regardless of mOS (see Supplementary Note
+
+and Supplementary 
+). This reinforces the role of isolated Pt atoms in CO oxidation. If CO is adsorbed, the barriers slightly lower, but dimerization remains difficult in most cases. Volatilization of Pt as molecular PtO
+
+is also endothermic (by ~1 eV); thus, volatilization is negligible at the reaction temperatures employed in low-temperature CO oxidation, and only taking place in oxidizing conditions that lock Pt in the Pt–4O coordination.
+Therefore, the Pt/CeO
+
+behaviour can be summarized as follows: Pt
+
+–2O is the longest-lasting state in the molecular dynamics simulations, but its ability to trap CO is low. In turn, the short lifetime of the Pt
++
+species will impact the reactivity of the SAC. Addressing the microkinetics of the Pt/CeO
+
+system thus requires the use of accessible ensemble concepts
+
+. The overall CO oxidation reaction barrier is ~0.56 eV; this energy is compatible with the high activity observed at temperatures lower than the 150 °C requirement of the exhaust emission challenge.
+In summary, the common assignment of a fixed oxidation state in single-atom catalysts is exceedingly simple. Depending on the metal/oxide combination, a dynamic charge transfer between the metal and the oxide appears instead. The electron transfer is assisted by phonons and stems from the level alignment between the metal and the defect states in the oxide. As a result, several oxidation and charge states might coexist, enriching the chemistry of single atoms on oxide surfaces. We demonstrated how the reactivity is closely related to the dynamic behaviour. Our results explain the latest experimental observations that indicate the need for short pulses to redisperse Pt nanoparticles in order to be activated as single atoms to perform low-temperature oxidations (in the 150 °C challenge). We identify how the metal/oxide dynamic charge transfer is crucial to understanding the nature of the active site and the mechanism in these SACs. This newly gained degree of freedom, introduced by the presence of the reducible support, might break linear scaling relationships and thus open the path to more active and selective catalysts.
+
+Methods
+Slab preparation
+Bulk CeO
+
+has a fluorite crystal structure with an experimental lattice parameter of 5.497 Å. When optimized at the PBE +
+U
+level, the bulk yields a theoretical lattice parameter of 5.410 Å. Slabs were cleaved at the , and Miller indices. For the surface, half of the topmost oxygens were moved from the surface top layer to the bottom layer in order to reduce the polarity and render the system stoichiometric. Starting from this trench-like structure, two other low-energy reconstructions were investigated
+
+. Each of these reconstructions allows for a different coordination shell around single-atom Pt. To support these reconstructions, the slabs have to span at the least a (2 × 2) supercell. In this work, they were extended to (3 × 3) supercells ((2 × 3) in the case of ) to sample lower Pt loadings. Along the vertical axis, the slabs are nine atom layers thick, with the five top layers allowed to relax, and a 15 Å vacuum.
+Density functional theory computational methods
+All calculations were performed at density functional theory +
+U
+level, as implemented by the Vienna Ab initio Simulation Package (VASP; version 5.4.4)
+
+,
+
+,
+
+. The PBE functional
+
+was used together with a Hubbard
+U
+term to enforce charge localization at the atom centres following the approach of Dudarev et al.
+
+. For the cerium 4
+f
+orbitals,
+U
+= 4.5 eV was used, based on the work in 
+. Projector-augmented waves were employed to describe the core electrons, while the valence electrons were expanded in a plane-wave basis set with a cut-off energy of 500 eV. Unless stated otherwise, a gamma-centred
+k
+-mesh of (3 × 3 × 1) was used for (2 × 2) and (3 × 3) supercells alike. All of the systems considered are neutral. Spin polarization was accounted for where necessary. We assessed the influence of surface reduction on the mOS by either adsorbing a hydrogen atom as a surface hydroxyl group (one additional electron stored in the oxide) or generating a surface oxygen vacancy (two) (see Supplementary Note
+
+and Supplementary 
+). The latter would be akin to the surface state directly after the activation step. In all cases, different oxidation states for Pt exist and their variability depends on the nature of the surface modification. The electronic entropy contributions of the newly created Ce
+3+
+centres never exceed 1 meV K
+−1
+at 600 K when using 
+in 
+. To account for the role of dispersion in the binding energy of CO, the van der Waals contributions were modelled using the D3 model. When applied to the adsorption of CO, it was found to contribute less than 0.1 eV and was hence disregarded in the remainder of this work (Supplementary 
+). The 2-nm nanoparticle was built as a cuboctahedron with a final stoichiometry of Pt
+
+and was calculated in a cubic box with 35-Å edges (Supplementary 
+).
+Benchmarking
+We verified the robustness of our model with respect to different functionals, examining three routes: different Hubbard parameters (
+U
+= 3.5, 4.5 and 5.5 eV; Supplementary 
+); two hybrid functionals (namely, Heyd–Scuseria–Ernzerhof (HSE-06) and HSE03-13; Supplementary Tables
+
+and
+
+); and the random phase approximation for Pt–2O, starting from PBE +
+U
+(
+U
+= 4.5 eV) at the gamma point for the (3 × 3 × 1) supercell (Supplementary 
+). Overall, multiple coexisting mOSs are recovered using different functionals, although the relative order of the Ce
+3+
+distributions can change between functionals. In contrast with HSE, random phase approximation (RPA) favours a strongly ionic character (in this case, Pt
+2+
+; 
+), although the other mOSs would still be accessible at elevated temperatures. The hybrid DOSs are presented in Supplementary 
+.
+Modelling XPS data
+The core-level binding energies were computed for the Pt(4
+f
+) states, using the Janak–Slater approach with excitation to the vacuum level (ICORELEVEL = 2 and CLZ = 0.5). To prevent spurious electron transfer, the excited electron was removed from the system. Those core-level binding energies represent the spectral peaks of each electronic configuration, and were averaged over the coordination and oxidation states to obtain the peaks in Supplementary 
+.
+Ab initio molecular dynamics simulations
+Molecular dynamics simulations were performed within the canonical NVT ensemble (that is, constant number of particles, the system’s volume and the temperature) in a smaller (2 × 2) supercell with a
+k
+-mesh of (3 × 3 × 1). The trajectories can be found in Supplementary Videos
+
+–
+
+. The slabs were set up by first heating them from 0–300 K in 0.5 ps, then equilibrating for 1.5 ps, and subsequently further heating from 300–600 K in 0.5 ps. The time step remained 1 fs throughout the set-up. Finally, the data were collected at 600 K with a 3-fs time step. In the case of the (3 × 3) slab in Supplementary Video
+
+, the system was heated up from 0–600 K in one session of 0.5 ps. The
+k
+-mesh was reduced to a gamma point. In all cases, the electronic structures were well converged to 10
+−7
+eV. The temperature in the stable regions was regulated by the Nosé–Hoover thermostat
+
+. During the runs, the magnetizations were found to change gradually and continuously, ensuring that the transitions were not the result of any artefacts or poor convergence (Supplementary Figs.
+
+and
+
+). The BOMD runs for the intermediates in CO oxidation were shortened to 10.5 ps, but still managed to show that the dynamics depends on the particular intermediate. The lifetime histogram parameters and the magnetization cut-off were calibrated with a sensitivity test in Supplementary Note
+
+and Supplementary 
+.
+Data availability
+The datasets generated during the current study are available in the ioChem-BD database
+
+(
+https://doi.org/10.19061/iochem-bd-1-78
+).

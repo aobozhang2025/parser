@@ -1,5 +1,76 @@
 DOI: 10.1038/s41557-020-0446-z
-Source: supplementary
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of precious-metal single-site In the format provided by the authors and unedited. NATuRE CHEMiSTR y | www.nature.com/naturechemistry Facile synthesis of precious -metal single -site catalysts using organic solvents Xi Suna,b,†, Simon R. Dawsona,†, Tanja E. Parmentiera, Grazia Maltaa, Thomas E. Daviesa, Qian Hea, Li Luc, David J. Morgana, Nicholas Cartheyd, Peter Johnstone, Simon A. Kondrata,f, a Cardiff Catalysis Institute, School of Chemistry, Cardiff University, Main Building, Park Place, Cardiff, CF10 3AT, U.K. Bethlehem, PA 18015, USA. d Johnson Matthey Technology Centre, Blounts Court, Sonning Common, R G4 9NH, U.K. e Process Technologies, Johnson Matthey PLC, Billingham, TS23 1LB, U.K. 3TU, U.K. † These authors contributed equally to this work *Hutch@cf.ac.uk
+Catalyst preparation
+All carbon-supported gold catalysts were prepared by a previously reported wet impregnation method
+
+. Activated carbon was initially ground to obtain a powder (150–200 mesh). The gold precursor, H[AuCl
+
+]
+·
+3H
+
+O (Alfa Aesar, 20 mg, assay 49%), was dissolved in the required solvent (2.7 ml). The gold precursor solution was then added dropwise, with stirring, to the activated carbon (0.99 g) to obtain a catalyst with a final metal loading of 1 wt.%. The resulting powder was dried at a temperature 5–10 °C higher than the boiling point of the solvent used for 16 h under a flow of N
+
+. Wherever possible, extra dry solvents sealed under nitrogen were used. The Ru/C, Pt/C and Pd/C catalysts were prepared by the same wet impregnation procedure. In these cases, Ru(
+iii
+) acetylacetonate (Aldrich), Pd(
+ii
+) acetylacetonate (Aldrich) and Pt(
+ii
+) 2,4-pentanedionate (Alfa Aesar) were used as precursors.
+Catalyst testing
+The catalysts were tested for acetylene hydrochlorination in a fixed-bed polyimide (Kapton) microreactor (outer diameter 6 mm, length 20 cm) contained within a heating block powered by two heating cartridges inside the block. The temperature was controlled by a Eurotherm controller with a type K thermocouple positioned in the centre of the heating block. C
+
+H
+
+/Ar (5.01% balanced in Ar, BOC) and HCl/Ar (5.05% balanced in Ar, BOC) gases were dried, using moisture traps, prior to introduction into the reactor. In all cases, the reactor was purged with Ar (99.99% BIP, Air Products) prior to admitting the hydrochlorination reaction mixture. The reactor was heated to 200 °C at a ramp rate of 5 °C min
+−1
+and held at this temperature for 30 min, all under a flow of Ar (50 ml min
+−1
+). The reaction gas mixture of C
+
+H
+
+/Ar (23.56 ml min
+−1
+), HCl/Ar (23.76 ml min
+−1
+) and additional Ar (2.70 ml min
+−1
+) was introduced into the heated reactor chamber containing the catalyst (90 mg) at a total GHSV of ~17,600 h
+−1
+, keeping the C
+
+H
+
+/HCl ratio at a constant value of 1:1.02. Typical time-on-stream experiments were conducted for 240 min. The gas-phase products were analysed on-line using a Varian 450 GC equipped with a flame ionization detector (FID). Chromatographic separation and identification of the products were carried out using a Porapak N packed column (6 ft × 1/8″ stainless steel). A conversion of 100% C
+
+H
+
+gave a VCM productivity of 35.33 mol kg
+cat
+−1
+h
+−1
+under the reaction conditions used. The experimental error in acetylene conversion was ±1% for repeated tests.
+Catalyst characterization
+PXRD patterns were acquired using an X’Pert Pro PAN Analytical powder diffractometer employing a Cu Kα radiation source operating at 40 keV and 40 mA. The spectra were analysed using the X’Pert High Score Plus software. The mean crystallite sizes of metallic gold nanoparticles, where possible, were determined using the Scherrer equation assuming a spherical particle shape and a
+K
+factor of 0.89 at the reflection arising from the set of Au planes at 2
+θ
+= 38°. The diffractograms of the catalysts were compared with the following reference files from the Joint Committee on Powder Diffraction Standards: Pd , PdO , Pt , PtO and Au .
+XAS spectra of all the Au/C samples were recorded at the Au L
+
+absorption edge, in transmission mode, at the B18 beamline of Diamond Light Source, Harwell, UK. The measurements were performed using a quick-EXAFS set-up with a fast-scanning Si double crystal monochromator. The DEMETER software package (ATHENA and ARTEMIS) was used for XAFS data analysis of the Au/C absorption spectra in comparison with standards and relative to Au foil
+
+.
+Materials for examination by STEM were dry-dispersed onto a holey carbon TEM copper grids. Selected catalyst samples were examined using bright-field STEM and HAADF-STEM imaging modes in an aberration-corrected JEOL ARM-200CF microscope operating at 200 kV. This microscope was also equipped with a Centurio silicon drift detector system.
+XPS was carried out using a Thermo Scientific K-alpha photoelectron spectrometer with monochromatic Al Kα radiation. The resulting spectra were processed in CasaXPS and calibrated against the C 1
+s
+line at 284.7 eV.
+Data availability
+Data supporting the results presented here, including how to access them, can be found in the Cardiff University data catalogue at
+https://doi.org/10.17035/d.2020.0098831512
+.

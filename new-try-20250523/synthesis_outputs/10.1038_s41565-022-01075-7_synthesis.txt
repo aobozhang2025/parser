@@ -1,5 +1,335 @@
 DOI: 10.1038/s41565-022-01075-7
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of SACs from bulk metals, nitrogen gas (N 2 ) and graphite as precursors (c ). No synthetic chemicals or solvents (including water) are used in the preparation process and therefore no by-products or waste are generated. Because kinetic energy is the driving force of the reaction, the processing cost can be further reduced by directly using natural sources of kinetic energy, such as wind or hydro power. In some cases, mild thermal treatment can further enhance the ratio of single atoms (from 75% to 96% for the Fe–N–C system) and render the SACs more thermodynamically stable. Because one metal cluster equals tens of single atoms, these clusters are so scarce as to be very difficult to detect by morphological
+Methods
+for more information.
+Full size image
+The overall iron loading determined by inductively coupled plasma optical emission spectrometry (ICP-OES) was found to be
+∼
+1.10 ± 0.03 wt% (Supplementary 
+), but the surface of individual GNPs was found to be nearly fully covered with single atoms. The main reason is that single atoms are only distributed on the surface of GNPs because of atomization by top-down abrasion. Energy-dispersive X-ray spectroscopy (Supplementary 
+) confirmed the existence of iron.
+Powder X-ray diffraction patterns (Supplementary 
+) indicated that there were no peaks from particulate iron in all samples. Only the graphite and facets were present. However, clusters and/or amorphous iron phases cannot be detected by X-ray diffraction, and therefore we employed low-resolution HADDF-STEM (Supplementary 
+) to confirm that there were no visible iron particles on the surface of the GNPs.
+The characteristics of the single atoms were verified by extended X-ray absorption fine structure (EXAFS). The radial distribution function (RDF) derived from EXAFS results is shown in 
+. The main bonding of the original sample located at around 1.5 Å (refs.
+
+,
+
+,
+
+) is attributed to Fe–N/C. There is a small shoulder at 2.2 Å that corresponds to Fe–Fe bonding. This indicates that very small amounts of iron carbide clusters may be present in the sample. After carefully checking tens of HAADF-STEM images (Supplementary 
+), the clusters were found to have a typical size of less than 1 nm.
+The chemical state of the sample was determined by X-ray photoelectron spectroscopy (XPS) (Supplementary ,b
+). However, the Fe 2
+p
+signal did not provide any valuable information due to poor resolution. The Fe K-edge X-ray absorption near-edge structure (XANES) results confirmed that the chemical state of iron was a mixture of Fe
+II
+and Fe
+III
+(Supplementary 
+).
+We also performed Mössbauer spectroscopy, one of the most powerful techniques for characterizing iron with ultrahigh sensitivity 
+and Supplementary 
+). The Mössbauer spectroscopy deconvolution results indicated that the doublets D1, D2 and D3 can be attributed to low-, intermediate- and high-spin Fe
+II
+N
+
+(31%), respectively
+
+,
+
+,
+
+,
+
+. The doublets D4 and D5 can be attributed to low- and intermediate-spin Fe
+III
+N
+
+(44%)
+
+. The results indicated that after abrasion the single atoms constituted approximately 75% of the original sample, and the clusters were identified as a short-range-ordered Fe
+
+C (sextet S1, 25%).
+Role of heat treatment on Fe–N–C SAC
+We have found that additional heat treatment can be beneficial for improving thermal stability and increasing the fraction of SACs by transforming the occasionally formed metal clusters into single atoms. After heat treatment, the absence of iron-related peaks in the X-ray diffraction pattern (Supplementary 
+) indicates that the iron atoms still maintain the single-atom state and no aggregation occurs. The disappearance of the shoulder in the RDF 
+) implies that the Fe
+
+C clusters have been transformed into single atoms. This phenomenon of heating bulk metal into single atoms is consistent with recently reported works
+
+,
+
+,
+
+. Careful analysis of the Mössbauer spectroscopy 
+and Supplementary 
+) indicates only 4% untransformed clusters, which correspond to Fe
+
+C (the minor sextet S1) after phase transition. In addition to S1, the doublets D1 and D5 also decrease; however, the doublets D2, D3 and D4 increase. These changes are thought to be intimately related to the transformations and ordering arrangements after heat treatment.
+The chemical state is also slightly altered due to the heat treatment. The XPS and XANES (Supplementary , c
+) shift to higher energy due to the transformation from Fe
+
+C to single atoms. It is interesting to find that the atomic images of the samples after heat treatment are always clearer than those without heat treatment (Supplementary 
+). This phenomenon may be associated with easily adsorbing gas molecules of the samples without heat treatment.
+Abrasion kinetics
+The content and morphology of the iron can be facilely tuned by changing the input kinetic energy, graphite loading and ball-milling time. After dozens of experiments, some general rules were determined. It was established that the input kinetic energy and loading of graphite mainly influence the morphology of the iron. Lower input kinetic energy (using smaller iron balls and lower rotation speeds) and higher graphite loading are beneficial to the single-atom state. The ball-milling time mainly determines iron loading, but does not influence the morphology of the iron unless a critical value of loading is exceeded.
+A mathematical analysis (Supplementary –c
+) determined that the iron content (
+W
+) in Fe–N–C is proportional to the cube of the input kinetic energy, that is,
+W
+∝
+(
+mω
+
+)
+
+, where
+m
+and
+ω
+stand for mass and rotation speed, respectively. Graphite loading (
+L
+) can also influence
+W
+because graphite acts as a lubricant, which can reduce abrasion.
+W
+exponentially decreases as
+L
+increases (
+W
+∝
+e
+−
+L
+) (Supplementary ,e
+).
+W
+increases when the ball-milling time is prolonged, but the effect is not linear. Possible reasons are that
+W
+is influenced by nitrogen content and the state of the graphite (Supplementary 
+).
+Extension to cobalt, nickel, copper and brass
+We also extend our method to other metals (Supplementary 
+), which are not limited to cobalt, nickel and copper. All metals that can form a stable bond with supports should work. As shown in 
+, Supplementary 
+and Supplementary 
+, the RDFs demonstrate that cobalt, nickel and copper exist in the single-atom state. Their morphologies are shown in Supplementary 
+, further confirming the single-atom state.
+In addition to unary metal balls, alloy balls can also be used to fabricate bimetallic catalysts. We selected brass balls (66 wt% Cu + 34 wt% Zn) as an example (Supplementary ,b
+). HAADF-STEM images (Supplementary ,d
+) demonstrate the brass alloy has been transformed into single atoms. RDFs 
+and Supplementary ,f
+) further verify that the copper and zinc exist in single-atom states.
+Theoretical analysis
+In the samples without nitrogen, the N
+
+gas simply acts as a protective gas to prevent oxidation. However, the N
+
+plays an important role when the support is nitrogen-free graphite. We next designed a control experiment to investigate the role of N
+
+. Using samples with a similar iron loading (2.4 wt%), we replaced N
+
+with argon. The as-prepared Fe–C displayed a distinctly different morphology. The GNPs were fully decorated with small iron particles with a size of approximately 10 nm (Supplementary 
+). This result indicates that the nitrogen in the GNPs plays a pivotal role in the morphology of the prepared iron. The nitrogen might suppress the aggregation of single iron atoms into particles.
+The underlying physical nature of why single-atom iron is formed during the ball-milling process, and why the iron particles can be transformed into single atoms, has remained unclear. To unravel these questions, a DFT analysis was conducted (Supplementary 
+). It is known that repeated collisions of iron balls transform mechanical energy into structural disordering and induce surface defects
+
+. The activated iron surface not only acts as a catalyst for nitrogen dissociation
+
+, but also supplies iron to form the Fe–N–C. Compared with other metals, the adatoms on the iron balls are easily peeled off by the nitrogen-doped GNPs because of the high segregation energy (Δ
+E
+seg
+, −4.3 eV, 
+) due to the strong Fe–N bond. The α-Fe (Supplementary 
+) and Fe
+
+C (Supplementary 
+) particles are also capable of transforming into single-atom states due to exothermic processes with Δ
+E
+seg
+of −3.3 eV and −2.8 eV, respectively. The transformed iron atoms migrate away from the defects by a hopping mechanism
+
+,
+
+. The nitrogen atoms play a pivotal role by subsequently trapping the iron atoms. When the nitrogen atoms are lost at high temperature, the surface energy will dominate again and the iron particles will reform.
+
+, Theoretical analysis of the transformation of bulk iron into a single-atom model. The indicator is segregation energy (Δ
+E
+seg
+), which corresponds to the energy involved when N–C moieties capture iron atoms. Negative energy indicates released energy.
+Full size image
+Conclusions
+We report a facile, solvent-free, zero-waste and low-cost method to prepare SACs. As-prepared single-atom metal–N–C catalysts showed competitive oxygen reduction reaction performance relative to commercial Pt@C (Supplementary 
+). Our strategy is not only applicable for metal–N–C systems (in which the metal can be iron, cobalt, nickel, copper or their alloys), but can also be easily extended to other supports. To demonstrate this, we also successfully synthesized SACs on some typical supports used in heterogeneous catalysis, such as oxides (MgO, SiO
+
+and CeO
+
+; –d
+and Supplementary 
+–
+
+) and nitrides (C
+
+N
+
+; ,f
+and Supplementary 
+). These results confirm that our strategy could be employed as a general green method to prepare SACs.
+
+, Fe–CeO
+
+and Fe–C
+
+N
+
+.
+b
+, HAADF-STEM image of single-atom Fe–MgO. The white dots in the red circles are attributed to single iron atoms.
+c
+, Mössbauer spectroscopy of Fe–SiO
+
+. Doublet D6 is assignable to high-spin Fe
+II
+(74%), in which the single-atom iron is bonded with SiO
+
+with a ferrosilite-like structure on the surface of SiO
+
+. D7 is attributed to a non-stoichiometric FeO
+x
+nanocluster (26%).
+d
+, HAADF-STEM image of single-atom Fe–SiO
+
+. It was very difficult to obtain clear high-resolution STEM images due to the strong charging effect of SiO
+
+.
+e
+, Mössbauer spectroscopy of Fe–C
+
+N
+
+. All iron atoms are assignable to high-spin Fe
+II
+–N
+x
+species (100%).
+f
+, HAADF-STEM image of single-atom Fe–C
+
+N
+
+.
+Full size image
+
+Methods
+Preparation method for single-atom Fe–N–C
+A facile top-down method was used to synthesize single-atom Fe–N–C. The iron atomization, N
+
+fixation and graphite unzipping were simultaneously achieved on a planetary ball-milling machine (Pulverisette 6, Fritsch). In typical experiments, 500 g of iron balls (hardened steel with 99 wt% Fe; diameter, 5 mm), 8 bar N
+
+gas (KOSEM, ultrahigh purity, 99.999%, N50) and graphite (16.5 g, Alfa Aesar, 100 mesh, 99.9995%) were loaded into a hardened steel container (250 ml). Before charging with N
+
+gas, the air in the container was first purged with N
+
+gas at least five times with a vacuum pump. During ball-milling, the rotation was paused for 10 min after every 60 min milling to release the thermal heat. After ball-milling, the remnant N
+
+gas in the container was vented, first at ambient environment; then the samples were collected in the glovebox. In the optimized experiment, the ball-milling was conducted at a rotation speed of 450 r.p.m. for 30 h. Safety note: samples with high iron content, that is, prepared with less than 10 g graphite loading, or when ball-milling time is longer than 10 h, require special attention because they can spark violently during collection. The container must be opened in the glovebox.
+Studying the abrasion parameters
+Fe–N–C was selected as a representative example. The rotation speed was set at 350, 400, 450 or 500 r.p.m. The ball-milling time ranged from 3 to 40 h. When the ball-milling time was longer than 10 h, the N
+
+charging was performed several times, depending on the total ball-milling time, to ensure sufficient N
+
+gas. The graphite loading was 5, 10, 15, 16.5 or 20 g.
+Preparation method for single-atom Co–N–C
+In the optimized experiment, 500 g of cobalt balls (99.8 wt%; diameter, 5 mm), 8 bar N
+
+gas (KOSEM, 99.999%) and 16.5 g of graphite (Alfa Aesar, 100 mesh, 99.9995%) were loaded into a zirconium dioxide container (250 ml). The ball-milling was conducted at a rotation speed of 350 r.p.m. for 22 h. Finally, the as-prepared samples were heat-treated at 850 °C for 5 h.
+Preparation method for single-atom Ni–N–C
+In the optimized experiment, 540 g of nickel balls (99.95 wt%; diameter, 5 mm), 8 bar N
+
+gas (KOSEM, 99.999%) and 15.5 g of graphite (Alfa Aesar, 100 mesh, 99.9995%) were loaded into a zirconium dioxide container (250 ml). The ball-milling was conducted at a rotation speed of 350 r.p.m. for 15 h. Finally, the as-prepared samples were heat treated at 850 °C for 5 h.
+Preparation method for single-atom Cu–N–C
+In the optimized experiment, 570 g of copper balls (99.9 wt%; diameter, 3 mm, 570 g), 8 bar N
+
+gas (KOSEM, 99.999%) and 14.8 g of graphite (Alfa Aesar, 100 mesh, 99.9995%) were loaded into a zirconium dioxide container (250 ml). The ball-milling was conducted at a rotation speed of 340 r.p.m. for 12 h. Finally, the as-prepared samples were heat treated at 600 °C for 5 h.
+Preparation method for single-atom Cu,Zn–N–C
+In the optimized experimental condition, 55 g of brass balls (66 wt% Cu, 34 wt% Zn; diameter, 3 mm), 8 bar N
+
+gas (KOSEM, 99.999%) and 15.0 g of graphite (Alfa Aesar, 100 mesh, 99.9995%) were loaded into a zirconium dioxide container (250 ml). The ball-milling was conducted at a rotation speed of 400 r.p.m. for 15 h. Finally, the as-prepared samples were heat treated at 750 °C for 5 h.
+Preparation method for single-atom Fe–MgO
+In the optimized experiment, 500 g of iron balls (hardened steel with 99 wt% Fe; diameter, 5 mm), 8 bar N
+
+gas (KOSEM, 99.999%) and 35.0 g of MgO (Alfa Aesar, extra pure, 100 mesh, 98%) were loaded into a hardened steel container (250 ml). The ball-milling was conducted at a rotation speed of 200 r.p.m. for 13 h.
+Preparation method for single-atom Fe–SiO
+
+In the optimized experiment, 500 g of iron balls (hardened steel with 99 wt% Fe; diameter, 5 mm), 8 bar N
+
+gas (KOSEM, 99.999%) and 24.0 g of SiO
+
+(0.063–0.200 mm; EMD Millipore) were loaded into a hardened steel container (250 ml). The ball-milling was conducted at a rotation speed of 300 r.p.m. for 6 h.
+Preparation method for single-atom Fe–CeO
+
+In the optimized experiment, 500 g of iron balls (hardened steel with 99 wt% Fe; diameter, 5 mm), 8 bar N
+
+gas (KOSEM, 99.999%) and 45 g of CeO
+
+(Alfa Aesar, 99.5%) were loaded into a hardened steel container (250 ml). The ball-milling was conducted at a rotation speed of 350 r.p.m. for 8 h. Finally, as-prepared samples were heat treated at 850 °C for 5 h.
+Preparation method for single-atom Fe–C
+
+N
+
+In the optimized experiment, 500 g of iron balls (hardened steel with 99 wt% Fe; diameter, 5 mm), 8 bar N
+
+gas (KOSEM, 99.999%) and 15 g of C
+
+N
+
+(home-made) were loaded into a hardened steel container (250 ml). The C
+
+N
+
+was prepared by calcining dicyandiamide (Alfa Aesar, 99%) at 550 °C for 4 h in a muffle furnace. The ball-milling was conducted at a rotation speed of 550 r.p.m. for 30 h. Finally, the as-prepared samples were heat treated at 550 °C for 5 h.
+Characterizations
+Low-magnification morphology was obtained with field emission scanning electron microscopy (Nova NanoSEM, FEI) and normal transmission electron microscopy (JEM-2100, JEOL). High-resolution atomic morphology was obtained with spherical-aberration-corrected HAADF-STEM (Titan G2 60-300, FEI). Energy-dispersive spectroscopy was performed with an EDAX system (AMETEK) on a Nano230 field emission scanning electron microscope (FEI). X-ray diffraction patterns were measured on a D/max2500V (Rigaku) at a scan rate of 4° min
+−1
+, using Cu Kα radiation (
+λ
+= 1.5418 Å).
+Nitrogen contents in the carbon-based samples were determined by elemental analysis, performed on a TruSpec Micro CHNS (LECO). All data were the average value of at least three separate measurements. The metal content was determined by ICP-OES (700-ES, Varian). For the carbon-based samples, calcination was conducted before the ICP-OES analysis. Because some samples only had trace iron, to minimize measurement error, a significant number of samples were used for calcination analyses. The amount was determined based on the metal content when enough metal oxide products were obtained after calcination. Typically, the masses of the samples ranged from 200 to 1,500 mg. The chemical state was studied by XPS (K-alpha XPS spectrometer, Thermo Fisher).
+X-ray absorption spectroscopy was performed at the 6D UNIST-PAL beamline in the Pohang Accelerator Laboratory (PAL), South Korea. The data were analyzed by ATHENA
+
+. XANES spectra simulations were carried out based on the optimized models, considering the core–hole corrections. Mössbauer spectra were recorded with a Topologic 500A spectrometer (Topologic Systems) and a proportional counter at room temperature. A 50 mCi
+
+Co (Rh) was used as a γ-ray radioactive source in constant-acceleration mode. Isomer shifts were calibrated with respect to α-Fe at room temperature.
+Computational methods
+The CASTEP program in the Materials Studio package (Accelrys) was used to conduct the DFT calculations
+
+. A Perdew–Burke–Ernzerhof-type gradient-corrected exchange-correlation potential with ultrasoft pseudopotentials was employed. A cut-off energy of 400 eV was used for the plane-wave basis set. The atomic configurations were relaxed for residual forces smaller than 0.03 eV Å
+−1
+. To avoid interaction between periodic images, a vacuum thickness of around 15 Å was set along the
+z
+direction. Transition states were determined by a complete linear synchronous transit/quadratic synchronous transit (LST/QST) approach.
+The segregation energy Δ
+E
+seg
+is given by equation (
+
+):
+$${\Delta}E_{{{{\mathrm{seg}}}}} = E_{{{\mathrm{S}}}} - E_{{{{\mathrm{P}}}}\,{{{\mathrm{or}}}}\,{{{\mathrm{B}}}}}$$
+
+where
+E
+S
+is the energy of the atomic structure with one iron atom transformed into a single atom, while
+E
+P or B
+is the energy of the iron particle or of the bulk iron together with nitrogen-doped graphene.
+Data availability
+The data that support the findings of this study are presented in the main text and the Supplementary
+Information
+, and are available from the corresponding authors upon reasonable request.

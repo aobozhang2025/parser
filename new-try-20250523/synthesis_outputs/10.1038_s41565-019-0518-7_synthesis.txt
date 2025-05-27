@@ -1,5 +1,156 @@
 DOI: 10.1038/s41565-019-0518-7
-Source: supplementary
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of (a) Ru and (b) Co HT -SAs on CA -CNFs. Note that the single atom density for Co is much lower than Pt and Ru, which arises fro m the high vapor pressure of Co making it more volatile at high temperatures. (c) EANES profile of Co HT -SAs showing deviation from Co foil structure (Co -Co bond).
+Methods
+Materials and substrates
+All the salt precursors, H
+
+PtCl
+
+hydrate (99.995%), RuCl
+
+·
+x
+H
+
+O (>98%) and CoCl
+
+·6H
+
+O (98%), were purchased from Sigma-Aldrich without further purification. CNF substrates were derived from polyacrylonitrile (Sigma-Aldrich) by electrospinning an 8 wt% polyacrylonitrile in dimethylformamide (Sigma-Aldrich) solution at a voltage of 15–20 kV, a spinning distance of 10 cm and a feed rate of 1 ml h
+–1
+. The nanofibre mat was first stabilized in air at 533 K for 5 h and carbonized at 1,273 K for 2 h in Ar to create the CNF sample. The CNF material was then thermally annealed under a CO
+
+atmosphere (80 ml min
+–1
+) at 1,023 K for 3 h (CA-CNF). Reduced graphene oxide was synthesized according to a modified Hummer’s method
+
+and then thermally reduced at 300 °C for 2 h in an Ar-protected tube furnace. The C
+
+N
+
+powder substrate was synthesized by pyrolysis of melamine powder at 550 °C for 2 h in a muffle furnace. The TiO
+
+-coated CA-CNFs were fabricated using atomic layer deposition (Beneq TFS 500 ALD) of alternating a Ti precursor and H
+
+O for 50 cycles (estimated TiO
+
+thickness of 2.5 nm).
+Shockwave synthesis
+The salt precursors were dissolved in ethanol-based solutions at a dilute concentration (0.0001–0.0005 mol l
+–1
+), and the solutions were directly dropped onto the suspended CNF films with a loading of 20–100 μLcm
+–2
+(in total ~0.01 μmol cm
+–2
+) and left to dry (room temperature, 30 min). The precursor-loaded CNF films were then subjected to the shockwave synthesis in an Ar-filled glovebox using a programmable electrical pulse (Keithley 2425). The pulse temperature, duration and on–off ratio were easily adjusted by the programming in the Keithley 2425 system (the sweep function) or by an external control software. A high-power d.c. source (Volteq, 1,200 W) was also used when a high input power was needed. The programmable pulse heating o the high-power electric source was controlled by Keithely through a relay.
+To estimate the temperature evolution during the shockwave process, a homemade colour ratio pyrometer measurement was performed using a Vision Research Phantom Miro M110 high-speed camera. Detailed temperature calculations are given in a previous paper
+
+. MATLAB was used to extract the raw pixel values to calculate the temperatures. For the figures that show the temperature of a single sample as a function of time, only unsaturated pixels above the black level and within the error threshold were used to report the mean and median temperature of the frame for a contiguous area of at least ten acceptable pixels.
+Characterizations
+The microstructure was characterized by SEM (Hitachi SU-70 FEG-SEM at 10 kV) and TEM (JEOL 2100F FEG TEM and JEOL TEM/STEM ARM 200CF equipped with HAADF and annular bright-field detectors). The HAADF images were acquired using the JEOL ARM 200CF with a 90 mrad inner-detector angle. The in situ TEM thermal stability study was performed using a Protochips Fusing holder with the sample loading on the corresponding heating E-Chip. In situ ETEM observations were performed on a FEI Titan 80–300 ETEM using a HAADF detector. The water vapour pressure was controlled at ~10
+−3
+mbar by a lab-developed gas-delivery system. The sample was held in the controlled environment for 30 min at each measurement temperature; the electron beam was blanked during the heating intervals and was only opened instantaneously for imaging. Raman spectroscopy data were obtained on a Horiba Jobin-Yvon using a 532 nm laser and an integration time of 4 s (repeated four times). The surface area and pore size distribution were measured by a Tristar II 3020 gas-adsorption analyser (Micromeritics). The surface area and pore size distribution were measured by a Micromeritics ASAP 2020 Porosimeter Test Station (Micromeritics). The metal loading was performed by inductively coupled plasma mass spectroscopy (Thermo Scientific Element 2 ICP-MS) by first dissolving our samples in aqua regia and then diluting with 2% HCl.
+The X-ray absorption spectroscopy measurement at the Pt L
+
+edge (11,564 eV) was performed on the bending-magnet beamline of the X-ray Science Division (9-BM-B) at the Advanced Photon Source, Argonne National Laboratory. The radiation was monochromatized by a Si double-crystal monochromator. Harmonic rejection was accomplished with a rhodium-coated flat mirror. The energy was calibrated with Pt foil at the Pt L
+
+edge. All the spectra were collected in fluorescence mode by a four-element silicon drift detector (Vortex-ME4, SII NanoTechnology USA, Inc.). Standard procedures based on Athena and Artimas software were used to fit the X-ray absorption spectroscopy data. The EXAFS coordination parameters were obtained by a least-squares fit in
+k
+space of the
+k
+
+-weighted Fourier transform data from 3.0 to 12.0 Å
+−1
+, and the first shell fit of the magnitude and imaginary parts were performed between 1.2 and 2.0 Å.
+MD simulations
+We used the large-scale atomic/molecular massively parallel simulator to perform MD simulations
+
+. To consider the bond interactions between the Pt and C atoms, the ReaxFF potential was used to describe the interaction between atoms in the Pt/graphene system
+
+. The simulation was performed on a canonical ensemble (NVT) using the Nosé–Hoover thermostat with a 0.25 fs time step. We first equilibrated the Pt/graphene system at 300 K for 2.5 ps. Then, we performed repeated heating to 1,500 K for 25 ps and cooling to 300 K for 12.5 ps for a total of 50 times (which mimics the shockwave process). Finally, we slowly increased the temperature of the system to 1,500 K for 100 ps after the single Pt atoms formed to observe the stability of these atoms on the graphene sheet (which mimics the thermal annealing process). In the simulation, the graphene sheet was 10 nm × 10 nm in size, and the defects were created by removing C atoms randomly. Also, 80 Pt atoms on the graphene sheet were located randomly. The binding energy of the Pt atom to graphene was defined as:
+$${\it{E}}_{\rm{b}} = {\it{E}}_{{\rm{Pt/graphene}}} - {\it{E}}_{{\rm{Pt}}} - {\it{E}}_{{\rm{graphene}}}$$
+
+in which
+\({\it{E}}_{{\rm{Pt/graphene}}}\)
+,
+E
+Pt
+and
+E
+graphene
+are the average potential energies of the Pt/graphene system, isolated Pt atom and graphene sheet with a fixed geometry, respectively. Under this definition, a more-negative binding energy indicates a stronger interaction between the graphene and Pt. Before calculating the potential energies, the energy of the system was first minimized using the conjugate gradient algorithm until either the total energy change between successive iterations divided by the energy magnitude was less than or equal to 10
+−6
+or the total force was less than 10
+−6
+eV Å
+–1
+.
+The reaction energy barrier was calculated by:
+$${\mathrm{\Delta}} {\it{E}} = {\it{E}}_{{\rm{final}}} - {\it{E}}_{{\rm{initial}}}$$
+
+in which
+E
+final
+and
+E
+initial
+are the potential energies of the corresponding initial state and final state, respectively.
+\({\mathrm{\Delta}} {\it{E > }}0\)
+means the reaction is an endothermic reaction (not thermodynamically favourable) and
+\({\mathrm{\Delta}} {\it{E < }}0\)
+indicates that the reaction is an exothermic process and is thermodynamically favourable.
+DFT simulations
+DFT implemented in the Vienna ab initio simulation package
+
+,
+
+was performed to determine the atomic interaction between platium and graphene. The generalized gradient approximation of the Perdew–Burke–Ernzerhof functional
+
+was used for exchange and correlation interaction. The Brillouin zone was sampled by a 2 × 2 × 1 Monkhorst and Pack
+
+grid. The cutoff energy in our calculation was 400 eV. All the calculations were relaxed to minimize the total energy of the system until the atomic forces converged to 0.01 eV Å
+–1
+. Period boundary conditions were applied in both in-plane and interlayer directions. To eliminate the interaction between periodic images of atoms, a 12.75 Å × 12.49 Å cubic supercell was used to investigate the interaction of Pt atoms with graphene and a vacuum space of 15 Å perpendicular to the graphene plane. Given the existence of a suspending bond, all our calculations were added the spin polarization. For single-atom dispersion on C
+
+N
+
+and TiO
+
+, the simulation (boundary and convergent conditions) was set using similar but adaptive rules.
+Catalytic studies
+Catalytic CO conversion was conducted in a fixed-bed flow reactor at atmospheric pressure. Typically, 15 mg of catalyst (Pt HT-SAs on CA-CNFs) was loaded into a quartz tube reactor (7 mm inner diameter). Prior to the reaction, the catalyst was pretreated in He (50 ml min
+–1
+) for 2 h, and then cooled to 50 °C. At 50 °C, the gas flow was switched to the reactant gas feed (50 ml min
+–1
+), which contained 1% CO and 4% O
+
+, balanced by He. The reaction was then carried out at various temperatures, which were increased stepwise from 50 °C to 300 °C. We allowed the system to reach a steady state before product analysis. To determine the conversion of the reactants and the product yields, a Fourier transform infrared spectrometer (Nicolet 6700, Thermo Scientific) equipped with a long path (5 m) gas cell and an mercury–cadmium–telluride detector (with a resolution of 8 cm
+−1
+) was used to analyse CO (2,173 cm
+−1
+). The kinetic measurements were carried out below 200 °C and with gas hourly space velocity of 400 l g
+cat
+−1
+h
+−1
+to ensure that the reaction condition was within the kinetic zone. The long-term stability test was measured at 220 °C.
+The catalytic non-oxidative conversion of CH
+
+was conducted in a fixed-bed flow reactor at atmospheric pressure. Before the reaction, a pretreatment was applied: 50 mg of catalyst (Pt HT-SAs on an ALD CA-CNF) (40–60 mesh) was loaded into a microflow quartz reactor (7 mm inner diameter), heated to 110 °C at a rate of 5 °C min
+–1
+under He (50 m min
+–1
+) and held at 110 °C for 1 h. After pretreatment, the temperature was increased to 700 °C under He and the gas flow was then switched to 90% CH
+
+/He (20 ml min
+−1
+, space velocity = 24 l g
+cat
+–1
+h
+–1
+). The reaction temperature was kept at 700 °C and the reaction was run for 20 h. To determine the conversion of the reactants and the formation of products, a gas chromatograph (GC-2010 plus, Shimadzu) equipped with a SH-Rt-Q-BOND column and a BID detector were employed. All the lines between the reactor outlet and gas chromatograph sampling loop inlet were heat traced to 90 °C to prevent product condensation. The methane conversion, hydrocarbon product selectivity and coke deposition selectivity were calculated according to the mass balance.
+Data availability
+The data that support the plots within this paper and other findings of this study are available from the corresponding authors upon reasonable request.

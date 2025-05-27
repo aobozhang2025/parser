@@ -1,5 +1,716 @@
 DOI: 10.1038/s41929-025-01295-9
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of supported catalysts. Chem. Rev. 115 , 6687–6718 . Article CAS PubMed Google Scholar Koptyug, I. V., Khomichev, A. V., Lysova, A. A. & Sagdeev, R. Z. Spatially resolved NMR thermometry of an operating fixed-bed catalytic reactor. J. Am. Chem. Soc. 130 , 10452–10453 . Article CAS PubMed Google Scholar Cale, T. S. Nickel crystallite thermometry during ethane hydrogenolysis. J. Catal. 90 , 40–48 . Article CAS Google Scholar Van de Broek, B. et al. Temperature determination of resonantly excited plasmonic branched gold nanoparticles by X-ray absorption spectroscopy. Small 7 , 2498–2506 . Article PubMed Google Scholar Rosen, D. J., Yang, S., Marino, E., Jiang, Z. & Murray, C. B. In situ EXAFS-based nanothermometry of heterodimer nanocrystals under induction heating. J. Phys. Chem. C 126 , 3623–3634 . Article CAS Google Scholar Espinosa, A. et al. Photoactivated nanoscale temperature gradient detection using X-ray absorption spectroscopy as a direct nanothermometry method. Nano Lett. 21 , 769–777 . Article CAS PubMed Google Scholar Ano, T. et al. Probing the temperature of supported platinum nanoparticles under microwave irradiation by in situ and operando XAFS. Commun. Chem. 3 , 86 . Article CAS PubMed PubMed Central Google Scholar López-Méndez, R. et al. X-ray nanothermometry of nanoparticles in tumor-mimicking tissues under photothermia. Adv. Healthc. Mater. 12 , 2301863 . Article PubMed PubMed Central Google Scholar La Fontaine, C., Belin, S., Barthe, L., Roudenko, O. & Briois, V. ROCK: a beamline tailored for catalysis and energy-related materials from ms time resolution to μm spatial resolution. Synchrotron Radiat. News 33 , 20–25 . Article Google Scholar Koningsberger, D. C., Mojet, B. L., Van Dorssen, G. E. & Ramaker, D. E. XAFS spectroscopy; fundamental principles and data analysis. Top. Catal. 10 , 143–155 . Article CAS Google Scholar Rehr, J. J. Theoretical approaches to X-ray absorption fine structure. Rev. Mod. Phys. 72 , 621–654 . Article CAS Google Scholar Pinto, D., Hu, L. & Urakawa, A. Enabling complete conversion of CH 4 and CO 2 in dynamic coke-mediated dry reforming (DC-DRM) on Ni catalysts. Chem. Eng. J. 474 , 145641 . Article CAS Google Scholar Martín, A. J., Mitchell, S., Mondelli, C., Jaydev, S. & Pérez-Ramírez, J. Unifying views on catalyst deactivation. Nat. Catal. 5 , 854–866 . Article Google Scholar Filez, M. et al. Nanoscale chemical diversity of coke deposits on nanoprinted metal catalysts visualized by tip-enhanced Raman spectroscopy. Adv. Mater. 36 , 2305984 . Article CAS Google Scholar Duan, M. et al. Reconstruction of supported metal nanoparticles in reaction conditions. Angew. Chem. Int. Ed. 57 , 6464–6469 . Article CAS Google Scholar Chmielewski, A. et al. Reshaping dynamics of gold nanoparticles under H 2 and O 2 at atmospheric pressure. ACS Nano 13 , 2024–2033 . CAS PubMed Google Scholar Solano, E. et al. Metal nanocatalyst sintering interrogated at complementary length scales. Small 19 , 2205217 . Article CAS Google Scholar Dai, Y., Lu, P., Cao, Z., Campbell, C. T. & Xia, Y. The physical chemistry and materials science behind sinter-resistant catalysts. Chem. Soc. Rev. 47 , 4314–4331 . Article CAS PubMed Google Scholar Vogt, C. & Weckhuysen, B. M. The concept of active site in heterogeneous catalysis. Nat. Rev. Chem. 6 , 89–111 . Article PubMed Google Scholar Tian, Y. et al. Spatiotemporal heterogeneity of temperature and catalytic activation within individual catalyst particles. J. Am. Chem. Soc. 146 , 4958–4972 . Article CAS PubMed Google Scholar Taniike, T. & Takahashi, K. The value of negative results in data-driven catalysis research. Nat. Catal. 6 , 108–111 . Article Google Scholar Theofanidis, S. A., Galvita, V. V., Poelman, H. & Marin, G. B. Enhanced carbon-resistant dry reforming Fe–Ni catalyst: role of Fe. ACS Catal. 5 , 3028–3039 . Article CAS Google Scholar De Coster, V., Srinath, N. V., Yazdani, P., Poelman, H. & Galvita, V. V. Does CO 2 oxidize Ni catalysts? A quick X-ray absorption spectroscopy answer. J. Phys. Chem. Lett. 13 , 7947–7952 . Article PubMed Google Scholar Briois, V. et al. ROCK: the new Quick-EXAFS beamline at SOLEIL. J. Phys. Conf. Ser. 712 , 012149 . Article Google Scholar Stötzel, J., Lützenkirchen-Hecht, D. & Frahm, R. A new flexible monochromator setup for quick scanning X-ray absorption spectroscopy. Rev. Sci. Instrum. 81 , 073109 . Article PubMed Google Scholar Lesage, C. et al. High pressure cell for edge jumping X-ray absorption spectroscopy: applications to industrial liquid sulfidation of hydrotreatment catalysts. Catal. Today 336 , 63–73 . Article CAS Google Scholar Download references
+Methods
+). The Ni temperature is assumed equal to the thermocouple temperature (Supplementary Note
+
+). The H
+
+–He flow during TPR assures that prereduced metallic Ni remains unmodified while acquiring EXAFS at various temperatures.
+During TPR, the
+k
+
+-weighted EXAFS signals
+k
+
+χ
+(
+k
+) recorded from 60 °C 
+, blue) to 150 °C 
+, red) show a gradual damping of the EXAFS oscillations with increasing temperature, especially at high
+k
+values. This is caused by the Debye–Waller disorder factor
+σ
+
+, which dampens the EXAFS oscillations by a factor of
+\({{\rm{e}}}^{-{{{k}}}^{2}{\sigma }^{2}}\)
+(
+). The Debye–Waller factor scales to the width of the bond length distribution of the X-ray absorber–scatterer pairs 
+). Hence, when the temperature of a material rises, the level of structural disorder goes up, leading to a broader bond length distribution and an increased Debye–Waller factor, thus damping the EXAFS signal. More quantitatively, at higher temperatures, the Debye and Einstein models describe that
+σ
+
+(
+T
+) follows a quasi-linear relation with the temperature
+T
+
+)
+
+.
+Damping of the
+k
+
+χ
+(
+k
+) EXAFS signal translates in a global decrease of the
+R
+-space EXAFS signal, being the magnitude of the Fourier-transformed (FT) EXAFS signal (|FT[
+k
+
+χ
+(
+k
+)]| = |
+χ
+(
+R
+)|; 
+). The FT EXAFS signal relates to the radial distribution function around the X-ray absorber, in this case Ni, plotted as a function of the interatomic distance
+R
+.
+The EXAFS–temperature correlation is now extracted by plotting ln(|
+χ
+(
+R
+)|
+max
+) versus the Ni temperature 
+), where |
+χ
+(
+R
+)|
+max
+is the maximal magnitude of the first Ni coordination shell in the FT EXAFS signal (
+R
+max
+≈ 2 Å; 
+). ln(|
+χ
+(
+R
+)|
+max
+) is a negative linear function of the Ni temperature, with low scatter (
+R
+
+= 0.9976).
+To demonstrate the generality of the approach, the same methodology is adopted in a high-temperature range relevant to catalysis, that is 625–800 °C –i
+). The linear relationship between ln(|
+χ
+(
+R
+)|
+max
+) and the Ni temperature again demonstrates excellent agreement (
+R
+
+= 0.9985). This underscores that the Ni temperature can be accurately extracted from the EXAFS–temperature relation over a relatively wide temperature range (60–800 °C; Supplementary 
+), relevant to thermal catalytic processes. The 95% confidence interval for the temperature is calculated in the low- and high-temperature range and respectively corresponds to 2.7 °C and 4.0 °C (Supplementary 
+). Notably, this confidence interval could vary for catalysts with different composition (Supplementary Note
+
+).
+EXAFS thermometry during CO
+
+conversion to extract kinetics
+By instrumentalizing the EXAFS–temperature relation ,i
+), thermometry can now be applied to monitor the temperature of active nanoparticles during catalytic reaction. Therefore, a quartz capillary tube containing a catalyst bed with MgAl
+
+O
+
+-supported Ni nanoparticles (6.2 ± 2.2 nm; Supplementary 
+) is positioned in an oven for homogeneous heat distribution 
+). A thermocouple used for temperature control of the oven is positioned close to the end of the catalyst bed, within the quartz wool plug confining the bed. Operando QXAS is performed, yielding Ni K-edge spectra with 5 s time resolution. Two catalytic CO
+
+conversion processes are run at a setpoint temperature of 750 °C, each time using an identical Ni/MgAl
+
+O
+
+catalyst 
+and
+
+Methods
+): DRM (CO
+
++ CH
+
+= 2CO + 2H
+
+), where the CO
+
+:CH
+
+ratio is cycled between 2:1 and 1:1 in a period of 4 min, and the RWGS (CO
+
++ H
+
+= CO + H
+
+O), where the CO
+
+:H
+
+ratio is cycled between 1:1 and 0:1 in a period of 4 min. Both catalysts are operated under low-conversion conditions (<10%) and approach 100% CO selectivity. Before reaction cycling, the Ni catalyst is reduced by H
+
+TPR to 800 °C. The gas outlet is connected to a mass spectrometer for product analysis.
+
+O
+
+catalyst powder is inserted in an oven with a thermocouple positioned downstream of the catalyst bed. I
+
+and I
+T
+represent the incoming and transmitted X-ray intensity, respectively.
+b
+, Gas flow sequences for the DRM and RWGS reactions at a setpoint temperature of 750 °C, both preceded by a H
+
+prereduction treatment to reduce the Ni catalyst. For both reactions, gas cycling is applied where the CO
+
+:CH
+
+and CO
+
+:H
+
+ratio are varied. CO
+
+, CH
+
+and H
+
+are labelled in brown, orange and black, respectively.
+c
+,
+d
+, XANES (
+c
+) and FT EXAFS (
+d
+) spectral series during the DRM reaction, with the colour scale varying from red to blue over time (0–120 min).
+e
+, The Ni nanoparticle temperature, extracted via EXAFS thermometry, for both DRM (label 1, red-to-blue coloured line) and RWGS (label 2, green line) reactions. The dashed line indicates the start of the reaction.
+f
+,
+g
+, XANES (
+f
+) and FT EXAFS (
+g
+) spectral series during the RWGS reaction, with green colour scale over time. The colour scales in
+c
+,
+d
+,
+f
+and
+g
+are identical to the ones in
+e
+. The dashed spectrum in
+c
+and
+f
+corresponds to a NiO reference.
+Full size image
+For the DRM reaction, the time-resolved X-ray absorption near-edge structure (XANES) and FT EXAFS spectra are plotted in 
+and 
+, respectively, with colours evolving from red to blue over time (0–120 min). XANES spectra remain constant and show that the Ni nanoparticles do not undergo phase changes (for example, oxidation), which would make EXAFS thermometry more challenging. The FT EXAFS time series displays a gradual increase in the amplitude of the first Ni coordination shell with time-on-stream, pointing towards a decrease of the Debye–Waller factor and, hence, a decreasing Ni nanoparticle temperature.
+Three aspects certify that the FT EXAFS amplitude increase is caused by temperature-induced Debye–Waller factor changes and does not originate from coordination number changes, which could also induce FT EXAFS amplitude changes (Supplementary Note
+
+): the fitted Ni–Ni coordination number of the FT EXAFS signal before, during and after reaction does not change (Supplementary 
+, Supplementary Tables
+
+and
+
+and Supplementary Note
+
+), transmission electron microscopy analysis before and after reaction shows identical Ni nanoparticle size distributions (hence, no size changes; Supplementary 
+) and no Ni surface oxidation or reduction processes underlie the FT EXAFS amplitude changes (Supplementary Note
+
+).
+Quantitatively mapping the Ni nanoparticle temperature versus the time-on-stream during DRM shows a drastic temperature decrease of the Ni nanoparticles by 90 °C offset to the setpoint temperature of the process over a period of 120 min 
+, ). In addition, an oscillatory fine structure is superimposed upon the temperature decay, caused by the CO
+
+:CH
+
+ratio cycling (vide infra). Surprisingly, however, the Ni nanoparticle temperature during the RWGS reaction does not show a decrease over time-on-stream, as corroborated by the constant XANES and stable FT EXAFS ,g,e
+, ).
+These findings can be understood by linking these Ni nanoparticle temperature profiles to the DRM and RWGS reaction kinetics. Both DRM (Δ
+H
+
+= 250 kJ mol
+−1
+) and RWGS (Δ
+H
+
+= 42 kJ mol
+−1
+) are endothermic processes
+
+, implying that heat is absorbed from the Ni nanoparticles to execute the reaction. The total energy consumption during catalytic reaction equals the reaction enthalpy multiplied by the reaction rate. Hence, a combination of a highly endothermic reaction and a high activity clarifies the strong temperature decrease of Ni nanoparticles during DRM. For the RWGS reaction, the reaction enthalpy is one-fifth of the reaction enthalpy of DRM, but still well beyond 0 kJ mol
+−1
+and, hence, endothermic. A decrease of the Ni nanoparticle temperature would therefore be expected for high RWGS activities, which is not observed. Consequently, a relatively low activity can be held responsible for the stable Ni nanoparticle temperature during the RWGS reaction, as also suggested by mass spectrometry (Supplementary 
+). Differences in the gas composition between RWGS and DRM reaction could influence the nanoparticle temperature, but do not underlie the discrepancy in the temperature observations between the RWGS and DRM reaction in 
+(Supplementary Note
+
+). Therefore, these findings underpin that valuable information can be extracted indirectly on the chemical kinetics of catalysed reactions by monitoring the local temperature of the active phase.
+To demonstrate the applicability of EXAFS thermometry at intermediate temperatures, the Ni nanoparticle temperature is monitored during the CO
+
+methanation reaction (CO
+
++ 4H
+
+= CH
+
++ 2H
+
+O, Δ
+H
+
+= −165 kJ mol
+−1
+) at 350 °C (Supplementary Note
+
+, showcase I). The analysis shows a temperature increase of the Ni nanoparticle temperature—as opposed to the DRM and RWGS reactions—resulting from heat release during exothermic reactions. EXAFS thermometry is also applied on Pt
+
+Sn nanoparticles during RWGS reaction (Supplementary Note
+
+, showcase II), showing the applicability of the methods on more complex multimetallic catalysts.
+Temperature bookkeeping at the nanoparticle level
+Extracting the real-time temperature of Ni nanoparticles operando during catalytic reaction now enables one to understand the impact of reaction-induced heat effects on the energy balance of active nanoparticles. The Ni nanoparticle temperature of the DRM process displays an oscillatory fine structure, which is superimposed on a globally decaying temperature profile 
+). To interrogate the periodicity of these oscillations, the Fourier transform of the Ni nanoparticle temperature is depicted in 
+, showing multiple signal contributions. A broad intensity band is present around 0 Hz, which originates from the globally decaying temperature throughout the entire process (a small
+ω
+implies long timescales). In addition, sharp features at ~0.004 Hz and ~0.008 Hz originate from the periodic Ni temperature oscillations on the timescale of a full cycle (1/0.004 s ≈ 240 s or 4 min) and a half cycle (1/0.008 s ≈ 120 s or 2 min). A full cycle consists of a 2 min half cycle of CO
+
++ CH
+
+with CO
+
+:CH
+
+ratio 2:1, followed by a 2 min half cycle of CO
+
++ CH
+
+with CO
+
+:CH
+
+ratio 1:1. Therefore, the gas cycling frequency clearly correlates with the Ni nanoparticle temperature fluctuations.
+
+.
+b
+, Three-dimensional |
+χ
+(
+R
+,
+t
+)| surface displaying the FT EXAFS magnitude in
+R
+space as a function of time-on-stream from ~6 to 20 min.
+c
+, The Ni nanoparticle temperature extracted from
+b
+as well as the MS signal counts of the input gas feeds of CO
+
+and CH
+
+and reaction products CO and H
+
+. The colour code of the gases is identical to the one in 
+.
+d
+,
+e
+, Ni nanoparticle energy states, indicated by the black labels 1 and 2—linking to
+c
+—for different CO
+
+:CH
+
+ratios of 1:1 (
+d
+) and 2:1 (
+e
+), respectively. The blue symbols indicate reaction heat draining out of the nanoparticle to execute DRM reaction, while the red arrows indicate heat transport into the nanoparticle from the external environment, that is, the gas phase and the support.
+Full size image
+The FT EXAFS magnitude versus time-on-stream of the DRM process indeed shows alternating hills and valleys across the |
+χ
+(
+R
+,
+t
+)| landscape 
+). From this |
+χ
+(
+R
+,
+t
+)| surface, the Ni nanoparticle temperature is extracted 
+) and synchronized with the mass spectrometry (MS) counts of the CO
+
+and CH
+
+reactants and CO and H
+
+products. The vertical lines indicate the points in time where the CO
+
+:CH
+
+ratio is switched from 1:1 to 2:1 and back, displaying a periodically decreasing–increasing–decreasing Ni nanoparticle temperature.
+After switching the CO
+
+:CH
+
+ratio from 2:1 to 1:1 
+, label 1), the CO
+
+(CH
+
+) concentration in the gas flow gradually decreases (increases). Eventually, the gas feed evolves towards an equimolar, stoichiometric CO
+
+–CH
+
+mixture for the DRM reaction (CO
+
++ CH
+
+= 2CO + 2H
+
+), thus maximizing conversion into CO and H
+
+. Quite the opposite, switching back the CO
+
+:CH
+
+ratio from 1:1 to 2:1 by decreasing the CH
+
+flow leads to an excess of CO
+
+, label 2). This decreases the conversion compared with the CO
+
+:CH
+
+1:1 case, as evident from the decreasing H
+
+and CO MS signals.
+Due to gas mixing across the catalyst bed, the CO
+
+–CH
+
+gas feed composition transiently evolves over time, causing non-stationary feed conversion into CO and H
+
+). Consequently, the Ni nanoparticle temperature also dynamically evolves, because it is conversion dependent. To rationalize the trend in the Ni nanoparticle temperature, the nanoparticle’s energy state can be disentangled into two transient regimes (labelled 1 and 2 in 
+and 
+, respectively, connecting 
+). In the regime depicted in 
+, the CO
+
+:CH
+
+ratio evolves to 1:1, implying a stoichiometric gas feed that maximizes conversion. Given the endothermic nature of the DRM reaction, the reaction heat supplied by the Ni nanoparticle to execute the DRM reaction (blue arrows) exceeds the transfer rate to supply heat to keep the Ni nanoparticle temperature constant (red arrows). This causes a transient decrease in the Ni nanoparticle temperature. In the regime depicted in 
+, the CO
+
+:CH
+
+ratio evolves to 2:1, implying that CH
+
+is present in substoichiometric quantities. Therefore, only half of the DRM reactions can be executed compared with the regime in 
+, reducing the heat drain from the nanoparticle to the reaction. The heat supply rate from the environment to the nanoparticle now exceeds the consumption rate for reaction, thereby increasing the Ni nanoparticle temperature. By alternating between the CO
+
+:CH
+
+ratios of 1:1 and 2:1, the Ni nanoparticle temperature transiently evolves through both regimes.
+The cyclically evolving CO
+
+–CH
+
+gas feed composition can alter the thermal properties of the gas phase, thereby modulating the heat supply from the gas phase to the Ni nanoparticles, which might affect their temperature. In particular, more heat transfer to the Ni nanoparticles is expected under CO
+
+:CH
+
+ratios of 1:1 compared with 2:1, which would lead to a temperature rise under the former conditions (Supplementary Note
+
+). However, under CO
+
+:CH
+
+ratios of 1:1, the observations in 
+show that the Ni nanoparticle temperature still declines. Therefore, the more significant reaction-induced cooling under CO
+
+:CH
+
+ratios of 1:1 (due to more DRM reaction than under CO
+
+:CH
+
+= 2:1) still dominates the enhanced gas-induced heating 
+, red arrows), leading to a net decrease in the Ni nanoparticle temperature. It is possible, however, that enhanced gas-induced heating could dampen the oscillations in the Ni nanoparticle temperature.
+Discussion
+The observed temperature changes of active nanoparticles have wide implications. First, active nanoparticles can become a local heat sink or hotspot during endothermic and exothermic reaction. Such temperature deviations in the active phase, offset to the ideal process temperature, can lead to suboptimal
+
+,
+
+,
+
+or degrading
+
+,
+
+performance. Second, temperature deviations can induce structural modifications, such as nanoparticle shape
+
+,
+
+or size
+
+,
+
+changes, hence impacting the number and nature of active sites
+
+at the nanoparticle surface, again impacting performance.
+Today, EXAFS thermometry faces two main limitations. First, the technique requires nanoparticles with constant size, because size changes influence the FT EXAFS peak amplitude (Supplementary Note
+
+). However, multimodal approaches can fully alleviate this limitation by monitoring the nanoparticle size (for example, X-ray scattering) simultaneously with EXAFS thermometry, and correct for nanoparticle size changes. Second, EXAFS thermometry cannot probe the temperature of few-atom clusters or small nanoparticles, where the surface-to-volume ratio approaches 1. In such cases, most atoms of the nanoparticle reside at the surface, which can undergo structural changes during reaction by reactant or product binding, hence causing EXAFS thermometry to lose accuracy. Therefore, large phase-stable nanoparticles—oxides or metals—are desirable where the surface fraction becomes small.
+Despite these challenges, EXAFS thermometry stands out by several advantages compared with state-of-the-art catalysis thermometry methods. First, X-ray absorption spectroscopy (XAS) is element specific, enabling EXAFS thermometry selectively and flexibly at the phase of interest in a broad set of catalytic systems. This enables one to monitor the temperature of the catalytically active phase and the passive support separately to chart temperature discrepancies between different catalyst components. Second, X-rays have higher penetrative power through a material
+
+and achieve higher spatial resolution than visible–IR light in luminescence–IR thermometry
+
+. This endows EXAFS thermometry with the potential to map temperature heterogeneities within catalyst bodies with nanoscale resolution in an element-selective way. Ultimately, temperature bookkeeping can be achieved within complex catalyst bodies by mapping the temperature of individual catalyst components to chart intraparticle heat flows. By extension, temperature heterogeneities on the reactor scale can be mapped under different conditions (dilutions, bed packing strategies and flow rates). Finally, EXAFS thermometry can monitor the temperature of the catalyst as-is, without modification by luminescent sensors. While sophisticated, these sensors might degrade under harsh reaction conditions, are challenging to use when coke is formed or, at worst, participate in reaction. Also, heat transport limitations may arise between the active phase and a spatially remote luminescent sensor, potentially leading to perturbed interpretation.
+In summary, this analysis of EXAFS thermometry reveals its capability to selectively monitor the dynamic temperature variations within active Ni nanoparticles during catalytic CO
+
+conversion. This method demonstrates significant temperature fluctuations within the nanoparticles responsible for catalysis, indicating that reaction heat directly impacts the energy balance of the nanoparticles, consequently affecting their temperature. In addition, by temperature bookkeeping at the single nanoparticle level, we demonstrate that EXAFS thermometry can extract information on catalytic reaction kinetics. In fact, EXAFS thermometry is an a posteriori analysis approach following time-resolved XAS data collection. Hence, a treasure of temperature information resides in existing XAS datasets worldwide. Revisiting the analysis of these datasets—increasingly available in repositories
+
+—might shine light on reaction-induced temperature phenomena in heterogeneous catalysts and demystify their catalytic consequences.
+
+Catalyst synthesis
+The MgAl
+
+O
+
+support was synthesized through coprecipitation using an aqueous solution of Al(NO
+
+)
+
+·9H
+
+O (ACS reagent, ≥98%, Sigma-Aldrich) and Mg(NO
+
+)
+
+·6H
+
+O (≥99%, Sigma-Aldrich) in accordance with the method described by Theofanidis et al.
+
+. NH
+
+OH (ACS reagent, 28.0–30.0% NH
+
+basis, Sigma-Aldrich) served as precipitating agent to adjust the pH to 10 at 60 °C. After ageing the precipitate for 24 h, it was filtered, dried at 120 °C for 15 h and calcined under flowing air at 800 °C for 5.5 h with a heating rate of 2 °C min
+−1
+.
+Ni nanoparticles were deposited on MgAl
+
+O
+
+(MgAl
+
+O
+
+; sieved 100–150 μm fraction) via wet impregnation using an aqueous solution of Ni(NO
+
+)
+
+·6H
+
+O (99.999%, Sigma-Aldrich) to yield 10 wt% Ni, showing maximal stability in the DRM activity. The catalyst was dried at 120 °C for 3 h and subsequently calcined in air at 800 °C (3 °C min
+−1
+) for 1 h. The composition of the catalyst is characterized by inductively coupled plasma analysis and amounts to 9.99 wt% Ni, 13.8 wt% Mg, 30.5 wt% Al and 45.7 wt% O. The resulting Ni/MgAl
+
+O
+
+catalyst is well characterized in previous work
+
+, containing additional characterization data such as X-ray diffraction and the Brunauer–Emmett–Teller surface area of the sample termed WI-10Ni/MgAl
+
+O
+
+.
+QXAS experiments
+QXAS measurements were conducted in transmission mode at the ROCK beamline
+
+of the SOLEIL synchrotron (France). The storage ring operated at 2.75 GeV with a ring current of 500 mA in top-up mode. A Frahm monochromator
+
+, oscillating at 2 Hz and equipped with a Si monochromator, scanned the Ni K-edge (8,333 eV). This scanning covered both XANES and EXAFS regions in a single scan within the energy range of 8,150–8,970 eV. Calibration was ensured through the measurement of a Ni foil.
+In situ and operando QXAS measurements were conducted on the 10 wt% Ni/MgAl
+
+O
+
+catalyst and bulk NiO (≥99.995% trace metals basis, Sigma-Aldrich). To facilitate these measurements, both materials were ground into powders, sieved with a 100–150 µm mesh and diluted to 50% and 95% with boron nitride for 10 wt% Ni/MgAl
+
+O
+
+and NiO, respectively. A 5-mm-long catalyst bed was placed between two quartz wool plugs inside a quartz capillary reactor with a diameter of 1.2 mm (wall thickness 0.010 mm, length 115 mm, Hilgenberg). This capillary reactor was integrated into a dedicated frame, connected to gas feed lines through Swagelok fittings. The entire setup, including the capillary cell, was positioned within a custom-built radiative heating furnace
+
+to achieve the desired reaction temperatures 
+). The thermocouple for temperature control of the oven was positioned downstream to the catalyst bed, touching the end of the catalyst bed. The X-ray beam was systematically positioned 2 mm downstream to the start of the catalyst bed, and the catalyst bed was not repositioned with respect to the beam during X-ray experiments. Gas flow rates at the inlet were regulated using calibrated Brooks mass flow controllers, maintaining a total flow rate of 7 ml min
+−1
+for all experiments.
+To construct the EXAFS–temperature calibration curves shown in ,i
+, bulk NiO was first subjected to a H
+
+TPR treatment up to 800 °C in 5% H
+
+/He with a heating rate of 20 °C min
+−1
+. This H
+
+TPR was followed by a 30 min dwell time at 800 °C to ensure full reduction of NiO into metallic Ni. Subsequently, QXAS spectra were collected during temperature-programmed cooldown (20 °C min
+−1
+) of reduced Ni under a constant 5% H
+
+/He flow, yielding the eventual (FT) EXAFS data and associated EXAFS–temperature calibration curves shown in –i
+.
+To perform operando EXAFS thermometry, as shown in Figs.
+3c–g
+and
+4b,c
+, the Ni/MgAl
+
+O
+
+catalyst was first reduced during a H
+
+TPR in 5% H
+
+/He up to 800 °C, with a 10 °C min
+−1
+heating rate and dwelled at 800 °C. After reduction treatment, the cell temperature was set to 750 °C in 5% H
+
+/He to run the catalytic reaction. During DRM (CO
+
++ CH
+
+= 2CO + 2H
+
+), 2 min half cycles of 0.7 ml min
+−1
+CH
+
+and 1.4 ml min
+−1
+CO
+
+in 4.9 ml min
+−1
+He (CO
+
+:CH
+
+= 2:1, total flow rate 7 ml min
+−1
+) were alternated with 2 min half cycles of 1.4 ml min
+−1
+CH
+
+and 1.4 ml min
+−1
+CO
+
+in 4.2 ml min
+−1
+He (CO
+
+:CH
+
+= 1:1, total flow rate 7 ml min
+−1
+). A full cycle of DRM thus consisted of 4 min, which was repeated 30 times 
+). During RWGS (CO
+
++ H
+
+= CO + H
+
+O), 2 min half cycles of 0.5 ml min
+−1
+CO
+
+and 2.5 ml min
+−1
+20% H
+
+/He in 4 ml min
+−1
+He (CO
+
+:H
+
+= 1:1, total flow rate 7 ml min
+−1
+) were alternated with 2 min half cycles of 2.5 ml min
+−1
+20% H
+
+/He in 4.5 ml min
+−1
+He (CO
+
+:CH
+
+= 0:1, total flow rate 7 ml min
+−1
+). A full cycle of RWGS reaction thus consisted of 4 min, which was repeated 30 times 
+).
+All QXAS data were recorded with 2 Hz time resolution and averaged over ten spectra to optimize data quality, yielding a 5 s time resolution. All the averaged data were normalized and aligned using the Python normalization graphical user interface, as developed by Roudenko and collaborators
+
+.
+EXAFS thermometry method
+In-house MATLAB scripts were developed to process the normalized XAS spectra to ultimately yield the Ni nanoparticle temperature. Therefore, normalized XAS spectra in energy space were first transformed to
+k
+
+-weighted
+k
+-space EXAFS signals. These
+k
+-space EXAFS signals were then Fourier transformed to
+R
+space by using a Hanning window (Δ
+k
+= 2 Å
+−1
+width) from
+k
+= 3 Å
+−1
+to 11 Å
+−1
+. From the
+k
+
+-weighted FT EXAFS magnitude, the maximum intensity of the Ni–Ni single scattering peak around 2 Å (non-phase corrected) was evaluated as a function of time-on-stream. By using a calibration curve between the natural logarithm of this Ni–Ni maximum and the Ni temperature, the temperature could be extracted. In 
+, it is observed that a 15 °C difference in the Ni nanoparticle temperature is observed before the DRM (~745 °C) and RWGS (~760 °C) reaction, which is explained in Supplementary Note
+
+.
+Transmission electron microscopy
+Scanning transmission electron microscopy was used to examine the Ni nanoparticle size of the Ni/MgAl
+
+O
+
+catalyst (Supplementary 
+). The imaging was recorded using a Cs-corrected JEOL JEM-2200FS equipped with a Schottky-type field-emission gun and a JEOL JED-2300D Energy Dispersive X-ray Analysis detector, operating at 200 kV. The catalyst under investigation was deposited on a lacey carbon film mounted on a copper grid by immersing the grid into the catalyst powder.
+Mass spectrometry
+The gas outlet composition was measured using an online quadrupole mass spectrometer (Cirrus, MKS). CO
+
+, CO, H
+
+O, CH
+
+, He and H
+
+were calculated from the
+m
+/
+z
+signal collected for 44, 28, 18, 16, 4 and 2, respectively.
+Data availability
+All data are available from the corresponding authors upon reasonable request.
+Code availability
+Code to perform EXAFS thermometry is available via GitHub at
+https://github.com/matthiasfilez/EXAFS-thermometry
+.

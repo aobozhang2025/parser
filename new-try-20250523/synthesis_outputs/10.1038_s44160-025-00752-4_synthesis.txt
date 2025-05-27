@@ -1,5 +1,904 @@
 DOI: 10.1038/s44160-025-00752-4
-Source: supplementary
-==================================================
+Source: supplementary PDF
+--------------------------------------------------
 
-preparation of RE-Cu catalysts with similar heterostructures and can enhance the CO 2RR performance. Among them, the as-synthesized Pr-Cu catalyst exhibited unique structural features that significantly affected the product selectivity of CO 2RR. Supplementary Note 3. A brief discussion about the key intermediates during CO 2RR. In general, the pathway leading to both ethylene and ethanol generation remains identical until the formation of the OCHCH 2 intermediate, which is possibly adsorbed in two manners: one is the O-terminal adsorption (*OCHCH 2) and the other is the C- terminal adsorption (*CH 2CHO)4-9. Taking insights into these adsorption Cu catalysts using different synthesis methods with during CO 2RR in 1 M KOH at 700 mA cm-2. Data are presented as mean ± s.d. (n = 3), with the error bars representing the s.d. to ethanol by Cu 3Sn catalyst. Small Methods 6, e2101334 . . Wang, X. et al. Ag+-doped InSe nanosheets for membrane electrode assembly electrolyzer toward large-current electroreduction of CO ethanol. Angew. Chem. Int. Ed. 62, e202313646 . . Shayesteh Zeraati, A. et al. Carbon- and energy-efficient ethanol electrosynthesis via interfacial cation enrichment. Nat. Synth. . https://doi.org/10.1038/s44160-024-00662-x . Kim, J. Y. et al. Selective hydrocarbon or oxygenate production in CO2 electroreduction over metallurgical alloy catalysts. Nat. Synth. 3, 452–465 . . Abdinejad, M. et al. Eliminating redox-mediated electron transfer mechanisms on a supported molecular catalyst enables CO 2 conversion to ethanol. Nat. Catal. 7, 1109–1119 . . Ding, J. et al. A tin-based tandem electrocatalyst for CO 2 reduction to ethanol with 80% selectivity. Nat. Energy 8, 1386–1394 . . Xia, W. et al. Adjacent copper single atoms promote C-C coupling in electrochemical CO 2 reduction for the efficient conversion of ethanol. J. Am. Chem. Soc. 145, 17253–17264 .
+As depicted in and Supplementary Figs. 1 and 2, the catalyst synthesis
+methods employed in this study mainly consist of two branches, one is how to adjust
+the precipitation of Cu and Pr species, while the other focuses on optimizing the
+calcination process. When considering the effect of precipitation steps, we designed a
+co-precipitation (Supplementary and a stepwise precipitation step and
+Supplementary for comparison. It is evident that in a co-precipitation step
+(Supplementary , the (NH ) CO precipitant demonstrates favorable
+4 2 3
+precipitation efficacy towards Pr3+ ions, but exhibits inadequate precipitation ability for
+Cu2+ ions. Upon combination with CO 2-, the residual Cu2+ ions can precipitate as
+
+unstable CuCO , which is usually further hydrolyzed in the presence of H O to form
+3 2
+Cu (OH) (CO ) . This results in a non-uniform distribution of Pr and Cu precipitation
+x y 3 z
+during a co-precipitation step. In contrast, in the stepwise precipitation step and
+Supplementary , the separate addition of (NH ) CO and KOH allows in
+4 2 3
+combination of CO 2- with Pr3+ first to form stable Pr (CO ) precipitates, and then
+3 2 3 3
+KOH, as a secondary precipitant, effectively combined with Cu species to form
+Cu(OH) (major) and Cu (OH) (CO ) (minor) precipitates. This approach not only
+2 x y 3 z
+facilitates controlled precipitation of Pr and Cu species in desired ratios, but also allows
+manipulation of the stacking pattern of Pr and Cu precipitates by adjusting the addition
+strategy of these two precipitants to induce the formation of a homogeneous Pr-Cu
+structure.
+Decarbonation and dehydration of the Pr-Cu precursor and dispersion of the Cu
+species are achieved by calcination, which involve the application of a co-calcination
+(Supplementary and a stepwise calcination step and Supplementary
+. It is evident that in a co-calcination step (Supplementary , Pr and Cu
+are mutually dispersed at an atomic level as Pr(III)-O-Cu(II), weakening the
+coordination of Cu-Cu. Consequently, the insufficiently surrounded Pr(IV) hindered
+the migration of O2- near the Cu atoms, thus reducing the ability to form oxygen
+vacancies near the Pr(III)-O-Cu(II) sites. In contrast, the stepwise calcination method
+exhibits unique effects on the dispersion of the Cu species and Supplementary
+. In particular, the homogeneous Pr-Cu precursor obtained by co-precipitation
+can form the Pr O -Cu-CS catalyst with Cu atoms dispersed atomically in the Pr O
+6 11 6 11
+lattice; the heterogeneous Pr-Cu precursor obtained by stepwise precipitation can
+generate the Pr O -Cu-SS catalyst with abundant Pr-Cu heterointerfaces. It indicates
+6 11
+that the secondary calcination step further suppresses the formation of Pr-Cu composite
+oxide (such as Pr CuO and PrCuO ), especially at the heterointerface. This enables the
+2 4 2
+preservation of Cu-Cu synergy and enhances the polarity near the heterointerface to
+induce the formation of more O vacancy sites.
+Similar structural evolutions were observed in other RE-Cu catalysts during the
+same synthesis processes as Pr-Cu catalysts, wherein the precipitation and calcination
+behaviors significantly influenced the CO RR performance. Different Ce-Cu and Nd-
+
+Cu catalysts synthesized by the abovementioned methods were used as typical
+examples to compare their structures and their corresponding CO RR performances. In
+
+detail, the Ce-Cu catalysts synthesized by different methods exhibited nanostructures
+as atomically dispersed Cu in CeO (CeO -Cu-CS, Supplementary ,
+2 2
+polycrystalline CeO and CuO with a disordered distribution (CeO -Cu-SC,
+2 2
+Supplementary as well as coexisting CuO and CeO with heterointerfaces
+
+(CeO -Cu-SS, Supplementary . The Nd-Cu catalysts synthesized by different
+
+methods exhibited nanostructures as atomically dispersed Cu in Nd O (Nd O -Cu-CS,
+2 3 2 3
+Supplementary , coexisted Nd O and Nd CuO composite oxide (Nd O -
+2 3 2 4 2 3
+Cu-SC, Supplementary and coexisted CuO and Nd O with rich
+2 3
+heterointerfaces (Nd
+
+O
+
+-Cu-SS, Supplementary . Furthermore, as shown in
+Supplementary , the CO RR performance test revealed that the CeO -Cu-SS
+2 2
+and Nd O -Cu-SS catalysts synthesized by the stepwise precipitation and stepwise
+2 3
+calcination method achieved the highest efficiency for multi-carbon products (60.6%
+at 50.0%) compared to those synthesized by the other two methods. These results
+demonstrated that the stepwise precipitation-stepwise calcination strategy is universal
+for the preparation of RE-Cu catalysts with similar heterostructures and can enhance
+the CO RR performance. Among them, the as-synthesized Pr-Cu catalyst exhibited
+
+unique structural features that significantly affected the product selectivity of CO RR.
+
+Supplementary Note 3. A brief discussion about the key intermediates during CO RR.
+
+In general, the pathway leading to both ethylene and ethanol generation remains
+identical until the formation of the OCHCH intermediate, which is possibly adsorbed
+
+in two manners: one is the O-terminal adsorption (*OCHCH ) and the other is the C-
+
+terminal adsorption (*CH CHO)4-9. Taking insights into these adsorption
+
+configurations and corresponding reaction pathway (Supplementary , only the
+*OCHCH structure can lead to a combined production of ethanol and ethylene via the
+
+subsequent C=C double bond hydrogenation, while the reaction pathway involving the
+*CH CHO structure cannot efficiently deliver the ethylene production which is not
+
+consistent with the experimental results . Therefore, we focused on the O-
+terminal adsorption configuration of *OCHCH for the relevant DFT calculations.
+
+Typically, the production of C H OH and C H from CO follows the *OCHCH
+2 5 2 4 2 2
+intermediate, which undergoes symmetric hydrogenation to decompose directly into
+*O and C H , and subsequent transformation from *O to *OH and OH-. In contrast, the
+2 4
+pathway for C H OH production from *OCHCH requires multiple selective
+2 5 2
+hydrogenation steps to produce the intermediates *OCHCH , *OCH CH ,
+3 2 3
+*HOCH CH and C H OH.
+2 3 2 5
+
+Supplementary Note 4. A detailed discussion about the O formation energy analysis.
+vac
+Using the pure Pr O surface as a reference, we investigated the state of surface
+6 11
+O by calculating the O formation energy, as shown in ,i. For pure Pr O ,
+vac vac 6 11
+the holes formed by the surface Pr atoms are not fully covered by O atoms, resulting in
+the formation of intrinsic surface O sites. Therefore, the further generated O can
+vac vac
+be generally categorized into two kinds , including the O sites adjacent to
+vac
+the intrinsic O (O 1) and the O sites far from the intrinsic O (O 2), which
+vac vac vac vac vac
+exhibited O formation energies of -0.649 and -0.685 eV, respectively . The
+vac
+Pr O -O model exhibited an O formation energy of 0.321 eV, which is still low
+6 11 vac34 vac
+enough for continued O formation under mild experimental conditions. After Cu was
+vac
+loaded onto this model, the ideal Pr
+
+O
+
+-O
+vac34
+-Cu model showed an O
+vac
+formation
+energy of 0.765 eV, which is attributed to the formation of Cu-O bonds that stabilize
+the surface O atoms. Nevertheless, this increment is still relatively modest compared to
+energy barriers for chemical reactions at room temperature (0.75~1 eV), allowing for
+further formation of surface O
+vac
+. The O
+vac
+formation energies of Pr
+
+O
+
+-O
+vac52
+-Cu and
+Pr O -O -Cu with much higher O concentrations were 1.230 eV and 1.596 eV,
+6 11 vac62 vac
+respectively, which exceed those of the aforementioned models (>1 eV), suggesting
+that a high concentration of O could be formed and is relatively stable during the
+vac
+CO
+
+RR process.
+
+Supplementary Note 5. A detailed discussion about the Bader charge and PDOS
+analyses.
+As shown in , the Cu atoms loaded on the surface of Pr O exhibited
+6 11
+different properties from those at the interface. The surface Cu atoms showed almost
+no charge gain or loss (-0.017 and -0.036 e), approaching the property of metallic Cu,
+whereas the interface Cu atoms underwent a greater charge depletion compared to those
+on the surface. It suggests that the formation of Cu0/Cuδ+ structure is favored by the
+bonding between interface Cu atoms and surface O atoms of the Pr O -O substrate,
+6 11 vac
+which is consistent with the experimental findings (Figs. 3, 4 and Supplementary . Within the Cu0/Cuδ+ structure, the properties of interface Cu differed significantly
+from those of the surface Cu and changed with the O concentrations (0.178 e in
+vac
+Pr O -O -Cu and 0.138 e in Pr O -O -Cu). Therefore, it can be inferred that the
+6 11 vac52 6 11 vac62
+active region of the Pr
+
+O
+
+-Cu-SS catalyst is primarily located at the interface.
+The projected density of state (PDOS) distributions for pure Cu, Pr O -O -Cu
+6 11 vac52
+and Pr O -O -Cu were calculated and shown in Supplementary 
+6 11
+atoms exhibited a broader d-orbital energy distribution (a more delocalized d-orbital
+energy distribution) and possessed more states at the Fermi level. This observation
+aligned with the morphology and structure of the Pr O -Cu-SS catalyst (stab)
+6 11
+(Supplementary Figs. 37 and 41-44), indicating widespread existence of the interface,
+which served as an important catalytic site.
+
+Supplementary Figures
+Supplementary 
+6 11
+
+Supplementary 
+and 60 r min-1 for solvent flush (45 s). The radio frequency power is 1200 W.
+
+Supplementary 
+Pr O -Cu-SS (c) catalysts.
+6 11
+
+Supplementary 
+
+Supplementary 
+Supplementary 
+
+Supplementary 
+6 11 6 11
+KOH at electrochemical potentials from 0 to −1.5 V vs. RHE after iR-correction (scan
+rate, 20 mV s-1).
+
+Supplementary 
+
+Supplementary 
+Supplementary 
+Supplementary 
+Supplementary 
+Supplementary 
+
+-Cu-SS catalyst. Data are presented as
+mean ± s.d. (n = 3), with the error bars representing the s.d.
+
+Supplementary 
+Pr O -Cu-SS catalyst. Data are presented as mean ± s.d. (n = 3), with the error bars
+6 11
+representing the s.d.
+
+Supplementary 
+s.d.
+
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+Supplementary 
+Supplementary 
+Supplementary 
+x
+corresponding EDS mapping. (b) The high-resolution TEM (HRTEM) image of the
+PrO -Cu-1:9 catayst.
+x
+
+Supplementary 
+its references.
+
+Supplementary 
+700, 800 and 900 mA cm-2, respectively). The potential of a single chronopotentiometry
+experiment is the average of all the potentials measured during this experiment. Error
+bars represent the standard deviation of these potentials in three parallel measurements.
+
+Supplementary 
+6 11 6 11 6 11 6 11
+C values of different catalysts.
+dl
+
+Supplementary 
+6 11
+represents the average of potentials measured by three parallel chronopotentiometry
+experiments (under 100, 300, 500, 600, 700, 800 and 900 mA cm-2, respectively). The
+potential of a single chronopotentiometry experiment is the average of all the potentials
+measured during this experiment. Error bars represent the standard deviation of these
+potentials in three parallel measurements.
+
+Supplementary 
+CuO (b) catalysts.
+
+Supplementary. 
+
+Supplementary. 
+
+Supplementary. 
+mA cm-2. Data are presented as mean ± s.d. (n = 3), with the error bars representing the
+s.d.
+
+Supplementary 
+the 10-min reaction (500 μL), and the remaining portions (5/6, 35/36 and 71/72) were
+supplemented with 1M KOH to 500 μL, respectively.
+
+Supplementary 
+
+Supplementary 
+Supplementary 
+and O represent adsorbed O, defect O and lattice O, respectively.
+lat
+To analyze the contribution from Cu and Pr separately, the O was further
+lat
+deconvoluted to three peaks at 529.0, 529.7 and 530.6 eV, representing the O in Pr-O
+lat I
+(O -Pr-I), Cu-O (O -Cu) and Pr-O (O -Pr-II), respectively. The O -Pr-I peak
+lat lat II lat lat
+located at a lower energy region can be ascribed to O2- ions coordinated with Pr3+, while
+the O -Pr-II located at a higher energy region can be ascribed to O2- ions coordinated
+lat
+with Pr4+ sites and O- ions coordinated with Pr3+/4+ sites. Compared with Pr O , the
+6 11
+surface of Pr O -Cu-SS raw catalyst exhibited a decreased O -Pr-II content (from 35.8%
+6 11 lat
+to 10.5%) and an increased O content (from 34.1% to 52.2%), suggesting that
+vac
+formation of the Pr-Cu heterostructure facilitated the conversion of O -Pr-II to O -Cu
+lat lat
+and O (Supplementary . After a potential of -1.1 V vs. RHE was applied,
+vac
+the content of O -Cu and O -Pr-II decreased (from 10.8% to 5.2% and 10.5% to 5.3%,
+lat lat
+respectively) while the O content increased considerably (from 5.5% to 20.2%),
+ads
+attributing to the partial reduction of Pr4+ and Cu2+ species, as well as the adsorption of
+CO /CO 2- near O to form metastable Pr O (CO ) . In addition, the O -Pr-I peak
+2 3 vac x y 3 z lat
+shifted obviously towards lower energy, indicating a greater electron transfer from
+reduced Pr-Cu and adsorbed CO /CO 2- species on the surface of the Pr O -Cu-SS
+2 3 6 11
+(stab) catalyst.
+
+Supplementary 
+and lattice O, respectively.
+
+Supplementary 
+Er O -Cu (i). O , O and O represent adsorbed O, defect O and lattice O,
+2 3 ads vac lat
+respectively.
+
+Supplementary 
+(e,f) The HAADF-STEM image (e) and corresponding IDPC-STEM image (f) for the
+Cu and Pr O heterostructure. (g) The enlarged image of the selected area
+6 11
+in (f). (h) Intensity profiles for Lines 3 and 4 in (g). (i,j) The HAADF-STEM image (i)
+and corresponding IDPC-STEM image (j) for the Pr O and cross-sectional
+6 11
+Pr O crystal faces. (k) The enlarged image of the selected area in (j). (l)
+6 11
+Intensity profiles for Lines 3 and 4 in (k). (m-o) The HAADF-STEM image (m) and
+corresponding IDPC-STEM image (n) for the defect-rich Cu and Pr O 
+6 11
+heterostructure with the enlarged image of the selected area in (o).
+
+Supplementary 
+6 11
+(d) SEM images of Pr O -Cu-SS after the stability test. CL represents the catalyst layer
+6 11
+coating on the electrode.
+
+Supplementary 
+Supplementary 
+O and lattice O, respectively.
+
+Supplementary 
+single ICP-OES measurement.
+
+Supplementary 
+6 11
+Cu-SS catalyst under OCP (open circuit potential) and -1.1 V versus RHE. The fitting
+curve is derived from the relation between the oxidation states of references and the K-
+edge absorption energies (E ) of the XANES spectra in 
+6 11
+
+Supplementary. 
+
+Supplementary 
+Supplementary 
+Supplementary 
+Supplementary 
+6 11
+and red represent Pr and O, respectively.
+
+Supplementary 
+
+Supplementary 
+Supplementary 
+blue, yellow and red represent Cu, Pr and O, respectively.
+As shown in Supplementary Figs. 55-57, a Pr O -O model with a surface
+6 11 vac34
+O concentration of 34% by adjusting the topmost O atoms of the initial Pr O model
+vac 6 11
+was first constructed. Cu was then loaded onto the Pr O -O model to construct the
+6 11 vac34
+Pr O -O -Cu model (Supplementary , delivering a ideal heterostructure
+6 11 vac34
+
+of Pr O -Cu without obvious reconstructions for both Pr O and Cu sites. The
+6 11 6 11
+interfacial O concentration on Pr O -O -Cu was further increased to 52% and 62%
+vac 6 11 vac34
+to obtain the Pr O -O -Cu and Pr O -O -Cu models, corresponding to the
+6 11 vac52 6 11 vac62
+Pr O -Cu-SS structures at the early stage and stable stage of CO RR, respectively
+6 11 2
+(Supplementary ,d). In addition, another ideal Pr O -O -Cu model was
+6 11 vac4
+also established with the theoretically minimum interfacial O concentration of ~4%
+vac
+(Supplementary , which enabled the thorough investigation for structure-
+performance relationships.
+
+Supplementary 
+ethylene pathways. The *CH CHO represents a C-terminal adsorbed CH CHO
+2 2
+intermediate, while the *OCHCH represents a O-terminal adsorbed CH CHO
+2 2
+intermediate.
+
+Supplementary 
+Supplementary 
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+(b), Pr O -O -Cu (c) and Pr O -O -Cu (d) models.
+6 11 vac52 6 11 vac62
+
+Supplementary 
+
+Supplementary 
+and lattice O, respectively.
+
+Supplementary 
+Nd and O, respectively.
+.
+
+Supplementary 
+
+O -Cu and Nd O -O -Cu models was carried out to investigate whether stable
+vac41 2 3 vac32
+interfacial Cu0/Cuδ+ structures could be formed when Cu was loaded onto these two
+models. For the CeO system, the Bader charge of interfacial Cu in the CeO -O -Cu
+2 2 vac41
+model was 0.122 e, indicating the formation of interfacial Cu0/Cuδ+ structures. However,
+the XPS analysis revealed that the surface O concentration of CeO -Cu was lower
+vac 2
+than that of Pr O -Cu (Supplementary and Supplementary .
+6 11
+Consequently, although loading Cu on CeO can form a considerable Cu0/Cuδ+ active
+
+interface, the corresponding free energy curves indicated that the ethylene pathway was
+not effectively suppressed, resulting in a limited selectivity for ethanol production.
+Unlike CeO and Pr O , the O content in the perfect Nd O crystal is much lower
+2 6 11 2 3
+(Nd:O=2:3), and the interfacial O concentration of Nd O -Cu is not high
+vac 2 3
+(Supplementary and Supplementary , together resulting in less
+interfacial O sites. The Nd O system also lacked the capability of forming interfacial
+vac 2 3
+Cu0/Cuδ+ structures, as the Bader charge of Cu is -0.104 e at the interface and -0.115 e
+on the surface of the Nd O -O -Cu model. The combination of these two factors
+2 3 vac32
+ultimately resulted in poor efficiency and selectivity in ethanol production.
+
+Supplementary 
+U = 0 V (b), CeO -O -Cu at U = -1.08 V (c) and Nd O -O -Cu at U = -
+SHE 2 vac41 RHE 2 3 vac32 RHE
+1.08 V (d). The bold lines represent the RDS for different reaction pathways.
+In CeO -O -Cu, the RDS was identified as *OCH CH → *OHCH CH
+2 vac41 ethanol 2 3 2 3
+with an energy barrier of 1.626 eV, while a lower energy barrier of 1.308 eV was
+observed for the RDS (*O → *OH), indicating the preference for the ethylene
+ethylene
+pathway (Supplementary Figs. 76a, 77 and 78). In Nd O -O -Cu, the RDS
+2 3 vac32 ethanol
+was identified as *OCHCH → *OCH CH with an energy barrier of 1.319 eV, while
+3 2 3
+a similar energy barrier of 1.318 eV was observed for the RDS (*O → *OH),
+ethylene
+resulting in a similar selectivity towards ethanol and ethylene (Supplementary Figs.
+76b, 79 and 80).
+
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+
+Supplementary 
+
+Supplementary Tables
+Supplementary 
+
+(mmol) (mmol) (mmol) (mmol) (wt%) (wt%) (mol/mol)
+Pr O 4.0 0.0 10.0 0.0 83.1 0.0 -
+6 11
+Pr O -Cu-SS 4.0 1.0 3.0 10.0 77.1 8.8 4.0
+6 11
+Pr O -Cu-CS 4.0 1.0 3.0 10.0 77.8 8.2 4.3
+6 11
+Pr O -Cu-SC 4.0 1.0 3.0 10.0 69.0 8.2 3.8
+6 11
+Pr O -Cu-9:1 9.0 1.0 4.0 10.0 79.3 4.1 8.7
+x y
+Pr O -Cu-2:1 2.0 1.0 2.5 10.0 68.5 16.8 1.8
+x y
+Pr O -Cu-1:1 1.0 1.0 2.5 10.0 58.2 25.6 1.0
+x y
+Pr O -Cu-1:2 1.0 2.0 4.0 10.0 39.1 42.7 0.4
+x y
+Pr O -Cu-1:4 1.0 4.0 8.0 10.0 29.9 53.0 0.3
+x y
+Pr O -Cu-1:9 1.0 9.0 18.0 10.0 16.6 65.5 0.1
+x y
+CuO 0.0 4.0 0.0 8.0 0.0 77.4 -
+aPr3+: mole of Pr(OAc) ;
+
+bCu2+: mole of Cu(OAc) ;
+
+cPr/Cu: molar ratios of Pr to Cu in different catalysts.
+
+Supplementary 
+(mA cm-2) (%)
+H CO HCOO- CH CH COO- C H C H OH n-C H OH
+2 4 3 2 4 2 5 3 7
+23.29 37.70 21.90 N. D. N. D. 7.03 8.73 N. D.
+100 25.03 41.51 19.64 N. D. N. D. 5.70 7.25 N. D.
+26.40 38.60 20.26 N. D. N. D. 6.55 6.73 N. D.
+Average | S. D. 24.91 | 1.56 39.29 | 1.98 20.60 | 1.17 - - 6.43 | 0.67 7.57 | 1.04 -
+17.65 16.96 10.24 7.83 5.69 10.05 26.91 3.63
+300 16.09 18.11 8.54 7.65 6.22 10.89 25.85 4.82
+18.21 19.03 8.95 6.33 4.64 8.97 28.43 4.62
+Average | S. D. 17.32 | 1.10 18.03 | 1.04 9.24 | 0.89 7.27 | 0.82 5.52 | 0.80 9.97 | 0.96 27.06 | 1.30 4.36 | 0.64
+10.29 7.71 3.38 7.08 7.94 8.72 44.95 6.64
+500 11.78 9.19 4.68 5.54 6.04 7.81 46.72 5.16
+12.44 9.69 3.92 4.79 7.32 10.02 48.25 4.75
+Average | S. D. 11.50 | 1.10 8.86 | 1.03 3.99 | 0.65 5.80 | 1.17 7.10 | 0.97 8.85 | 1.11 46.60 | 1.65 5.52 | 0.99
+12.08 2.99 N. D. 2.42 2.27 6.14 67.39 5.98
+600 10.49 3.44 N. D. 3.07 2.86 7.45 65.77 6.62
+13.01 2.08 N. D. 3.98 3.98 8.37 63.28 4.51
+
+Average | S. D. 11.86 | 1.27 2.84 | 0.69 - 3.16 | 0.78 3.04 | 0.87 7.32 | 1.12 65.50 | 2.07 5.70 | 1.08
+13.61 1.20 N. D. 3.07 3.86 6.25 57.08 12.53
+700 11.79 2.12 N. D. 2.85 4.35 4.69 57.75 13.91
+13.35 0.98 N. D. 0.95 2.49 7.08 61.01 11.66
+Average | S. D. 12.92 | 0.98 1.43 | 0.60 - 2.29 | 1.17 3.57 | 0.96 6.00 | 1.21 58.61 | 2.10 12.70 | 1.13
+18.50 4.58 N. D. 9.98 3.93 8.71 41.56 12.33
+800 20.02 4.06 N. D. 9.46 2.52 10.44 40.68 13.02
+20.89 5.89 N. D. 7.93 2.49 8.55 43.81 11.23
+Average | S. D. 19.80 | 1.21 4.84 | 0.94 - 9.12 | 1.07 2.98 | 0.82 9.23 | 1.05 42.02 | 1.61 12.19 | 0.90
+25.46 7.65 N. D. 12.05 0.90 11.77 33.84 7.28
+900 24.25 8.77 N. D. 13.24 1.43 12.71 34.31 8.20
+26.47 6.89 N. D. 11.02 2.58 10.59 36.52 6.21
+Average | S. D. 25.39 | 1.11 7.77 | 0.95 - 12.10 | 1.11 1.64 | 0.86 11.69 | 1.06 34.89 | 1.43 7.23 | 1.00
+
+Supplementary 
+Catalyst R
+f
+(μF cm-2) (cm2) (cm2)
+Pr O -Cu-SS 726 18.2 1.0 18.2
+6 11
+Pr O -Cu-SC 431 10.8 1.0 10.8
+6 11
+Pr O -Cu-CS 384 9.6 1.0 9.6
+6 11
+Pr O 359 9.0 1.0 9.0
+6 11
+CuO 545 13.6 1.0 13.6
+
+Supplementary 
+aREn+ (mmol) bCu2+ (mmol) OH- (mmol)
+(mmol)
+La O -Cu 4.0 1.0 3.0 10.0
+2 3
+CeO -Cu 4.0 1.0 3.0 10.0
+
+Nd O -Cu 4.0 1.0 3.0 10.0
+2 3
+Sm O -Cu 4.0 1.0 3.0 10.0
+2 3
+Eu O -Cu 4.0 1.0 6.0 10.0
+2 3
+Tb O -Cu 4.0 1.0 6.0 10.0
+4 7
+Gd O -Cu 4.0 1.0 6.0 10.0
+2 3
+Er O -Cu 4.0 1.0 6.0 10.0
+2 3
+Sc O -Cu 4.0 1.0 6.0 10.0
+2 3
+Y O -Cu 4.0 1.0 6.0 10.0
+2 3
+aREn+: mole of La(OAc) , Ce(OAc) , Nd(OAc) , Sm(OAc) , Eu(NO ) , Tb(NO ) , Gd(NO ) ,
+3 3 3 3 3 3 3 3 3 3
+Er(NO ) , Sc(NO ) , Y(NO ) ;
+3 3 3 3 3 3
+bCu2+: mole of Cu(OAc) ;
+
+Supplementary 
+
+aNn+ (mmol) bCu2+ (mmol) OH- (mmol)
+(mmol)
+PdO-Cu 2.0 0.5 2.5 2.0+5.0
+Ag O-Cu 2.0 0.5 2.5 2.0+5.0
+
+Au O -Cu 2.0 0.5 2.5 2.0+5.0
+2 3
+aNn+: mole of Pd(NO ) , Ag(NO ) , HAuCl ;
+3 3 3 3 4
+bCu2+: mole of Cu(OAc) ;
+
+Supplementary 
+Potential j FE j FE j
+total C2+ alcohols C2+ alcohols ethanol ethanol
+Electrodes Electrolyte System Ref.
+(V vs. RHE) (mA·cm-2) (%) (mA·cm-2) (%) (mA·cm-2)
+-1.08 700 71.3 499.1 58.6 410.3 1M KOH Flow cell
+Pr O -Cu-SS This work
+6 11
+-1.02 600 71.2 427.2 65.5 393 1M KOH Flow cell
+Cu-Cl-Cs -1.34 4000 46.5 1860 45.4 1816 1M KOH Flow cell 12
+Cu Mg ~-0.84 600 76.2 457 76.2 457 1M KOH Flow cell 13
+
+K–F–Cu -0.53 800 56.3 450.4 52.9 423 1M KOH Flow cell 14
+wr-Cu -0.91 800 49.7 397.6 ~40 ~320 1M KOH Flow cell 15
+Li CuO -10 ~-3.3 2000 18.8 376 18.8 376 1M KOH Flow cell 16
+2–x 2
+Cu=N -0.82 ~804 ~49 ~394 45 362 1M KOH Flow cell 4
+Cu-CuI -1.0 895 33.4 299 ~23 ~206 1M KOH Flow cell 17
+BaO/Cu -0.80 400 61 244 ~50 ~200 1M KOH Flow cell 5
+3-shell HoMSs -0.88 667 ~35 ~233.5 ~30 ~200 0.5M KHCO Flow cell 18
+
+Cu-12C -1.2 400 58.1 232.4 53.7 214.8 1M KOH Flow cell 19
+Cu V Se -0.8 ~304 - - 68.3 207.9 1M KOH Flow cell 20
+1.22 0.19
+Cu-DMAP/P-H -0.67 400 ~52 ~208 47.3 189.2 1M KOH Flow cell 21
+
+Fluorine-modified -0.89 1600 13 208 12 192 1M KOH Flow cell 22
+Cu -SNC -0.9 ~300 - - 60.2 ~181 0.5M KHCO Flow cell 23
+2 3
+CO-Cu Zn ~-1.8 300 62.5 187.5 59.5 178.5 1M KOH Flow cell 24
+84 16
+N-C/Cu -0.68 300 53.7 161.1 52.3 156.9 1M KOH Flow cell 25
+NGQ/Cu-nr -0.9 282 52.4 147.8 ~45 ~127 1M KOH Flow cell 26
+Ce(OH) /Cu -0.7 300 43.2 129.6 42.6 127.8 1M KOH Flow cell 27
+x
+Cu S@Cu -0.92 400 31.6 126.4 24.7 98.8 1M KOH Flow cell 28
+
+FeTPP[Cl]/Cu -0.82 301 - - 41.2 124 1M KHCO Flow cell 29
+
+AEI-OD-Cu -0.78 800 18.7 149.6 18.1 144.8 1M KOH Flow cell 30
+Nanoporous Cu -0.67 653 21.1 137.8 16.6 108.4 1M KOH Flow cell 31
+Cu-D -0.68 400 25.2 100.8 23.7 94.8 1M KOH Flow cell 32
+multihollow Cu O -0.61 342 32.4 110.8 26.9 92.0 2M KOH Flow cell 33
+
+Hex-2Cu-O -0.66 276 31.5 87 ~24 66 1M KOH Flow cell 34
+Cu-DAT -0.69 ~275 30.8 ~85 27.3 ~75 1M KOH Flow cell 35
+CuAg wire -0.68 310.8 28.3 88.0 25.9 80.5 1M KOH Flow cell 36
+Cu-DS -0.95 100 67 67 52 52 1M KOH Flow cell 37
+-Rich Cu -0.67 ~578 12 ~69 10 ~58 7M KOH Flow cell 38
+N-modified Cu -0.69 400 6.8 27.2 3.6 14.4 1M KOH Flow cell 39
+
+100-cycle Cu -0.96 ~68 28.5 ~19 ~13 ~9 0.25M KHCO Flow cell 40
+
+Cu Sn - 900 - - 40.1 361 1M KOH MEA 41
+
+Ag In Se - ~272 - - 68.7 186.6 1M KOH MEA 42
+0.015 0.985 0.734
+Cu-Ag - 200 - - 45 90 0.02M H SO MEA 43
+2 4
+Dealloyed Cu-Ag -3.2 127.6 42.9 54.7 40.4 51.6 0.1M KHCO MEA 44
+
+Fe-TPP/Ni -0.3 31 - - 68 21.1 0.5M KHCO H-cell 45
+
+SnS /Sn -O3G -0.9 ~21.6 - - 82.5 17.8 0.5M KHCO H-cell 46
+2 1 3
+TWN-Cu-SACs -1.1 ~43.5 - - 81.9 35.6 0.5M CsHCO H-cell 47
+
+Supplementary 
+O /(O +O )
+vac vac lat
+O -RE-I O -Cu O -RE-II O O
+lat lat lat vac ads
+×100%a
+Pr O -Cu-SS (raw)b 10.5 10.8 23.9 49.3 5.5 52.2
+6 11
+Pr O -Cu-SS (stab)c 5.3 5.2 19.5 49.8 20.2 62.4
+6 11
+Pr O 35.8 0.0 24.8 31.3 8.1 34.1
+6 11
+CuO 0.0 67.6 0.0 24.1 8.3 26.3
+Pr O -Cu-1:1d 18.1 21.5 16.5 34.6 9.3 38.1
+x y
+Pr O -Cu-9:1e 26.5 15.1 11.8 41.2 5.4 43.5
+x y
+La O -Cuf 5.4 22.0 38.1 28.1 6.4 30.1
+2 3
+CeO -Cu 37.3 19.3 0.0 37.7 5.7 40.0
+
+CeO -Cu (stab)g 36.2 8.7 7.8 37.2 10.1 41.4
+
+Nd O -Cu 45.1 21.6 0.0 24.6 8.7 27.0
+2 3
+Nd O -Cu (stab) 27.5 13.3 20.4 29.0 9.9 32.2
+2 3
+Sm O -Cu 14.0 19.0 27.1 30.8 9.1 33.9
+2 3
+Gd O -Cu 30.2 38.9 0.0 23.1 7.8 25.0
+2 3
+
+Er O -Cu 17.5 28.9 0.0 42.5 11.1 47.8
+2 3
+aO /(O +O )×100%: O concentration without considering O .
+vac vac lat vac ads
+bPr O -Cu-SS (raw): the Pr O -Cu-SS raw catalyst.
+6 11 6 11
+cPr O -Cu-SS (stab): the Pr O -Cu-SS catalyst after electrolysis for 12 h.
+6 11 6 11
+dPrO -Cu-1:1: the Pr O -Cu catalyst with a Cu/Pr molar ratio of 1:1.
+x x y
+ePrO -Cu-9:1: the Pr O -Cu catalyst with a Cu/Pr molar ratio of 9:1.
+x x y
+fLa O -Cu: the La O -Cu catalyst with a Cu/La molar ratio of 1:4.
+2 3 2 3
+gCeO -Cu (stab): the CeO -Cu catalyst (Cu/Ce molar ratio of 1:4) after CO RR for 10 min.
+2 2 2
+
+Supplementary References
+. Chen, C. Khosrowabadi Kotyk, F. J. & Sheehan, S. W. Progress toward commercial
+application of electrochemical carbon dioxide reduction. Chem 4, 2571–2586
+.
+. Dinh, C. -T. et al. CO electroreduction to ethylene via hydroxide-mediated copper
+
+catalysis at an abrupt interface. Science 360, 783–787 .
+. Ye, K. et al. Resolving local reaction environment toward an optimized CO -to-CO
+
+conversion performance. Energy Environ. Sci. 15, 749–759 .
+. Liu, Z. et al. Switching CO electroreduction toward ethanol by delocalization
+
+state-tuned bond cleavage. J. Am. Chem. Soc. 146, 14260–14266 .
+. Xu, A. et al. Copper/alkaline earth metal oxide interfaces for electrochemical CO -
+
+to-alcohol conversion by selective hydrogenation. Nat. Catal. 5, 1081–1088 .
+. Karapinar, D. et al. Electrochemical CO reduction to ethanol with copper-based
+
+catalysts. ACS Energy Lett. 6, 694–706 .
+. Nitopi, S. et al. Progress and perspectives of electrochemical CO reduction on
+
+copper in aqueous electrolyte. Chem. Rev. 119, 7610–7672 .
+. Pablo-García, S. et al. Mechanistic routes toward C products in copper-catalysed
+
+CO electroreduction. Catal. Sci. Technol. 12, 409–417 .
+
+. Santatiwongchai, J., Faungnawakij, K. & Hirunsit, P. Comprehensive mechanism
+of CO electroreduction toward ethylene and ethanol: The solvent effect from
+
+explicit water-Cu interface models. ACS Catal. 11, 9688–9701 .
+. Sun, Y. et al. Boosting CO electroreduction to C H via unconventional
+2 2 4
+hybridization: High-order Ce4+ 4f and O 2p interaction in Ce-Cu O for stabilizing
+
+Cu+. ACS Nano 17, 13974–13984 .
+. Li, M. et al. Reinforcing Co-O covalency via Ce(4f)-O(2p)-Co(3d) gradient orbital
+coupling for high-efficiency oxygen evolution. Adv. Mater. 35, 2302462 .
+. Peng, C. et al. Over 2 A cm−2 CO -to-ethanol conversion by alkali-metal cation
+
+induced copper with dominant facets. Small 19, 2207374 .
+. Peng, C. et al. Facet-oriented Cu Mg intermetallic compound with Cu -Mg
+2 3
+sites for CO electroreduction to ethanol with industrial current density. Angew.
+
+Chem. Int. Ed. 63, e202316907 .
+. Peng, C. et al. Surface co-modification of halide anions and potassium cations
+promotes high-rate CO -to-ethanol electrosynthesis. Adv. Mater. 34, 2204476
+
+.
+. Li, P. et al. A crystal growth kinetics guided Cu aerogel for highly efficient CO
+
+electrolysis to C alcohols. Chem. Sci. 14, 310-316 .
+2+
+. Peng, C. et al. Lithium vacancy-tuned [CuO ] sites for selective CO
+4 2
+electroreduction to C products. Small 18, 2106433 .
+2+
+. Li, H. et al. High-rate CO electroreduction to C products over a copper-copper
+2 2+
+iodide catalyst. Angew. Chem. Int. Ed. 60, 14329-14333 .
+. Liu, C. et al. Nanoconfinement engineering over hollow multi-shell structured
+copper towards efficient electrocatalytical C−C coupling. Angew. Chem. Int. Ed.
+61, e202113498 .
+
+. Zhuang, T. et al. Tunable CO electroreduction to ethanol and ethylene with
+
+controllable interfacial wettability. Nat. Commun. 14, 3575 .
+. Sun, W. et al. V-doped Cu Se hierarchical nanotubes enabling flow-cell CO
+2 2
+electroreduction to ethanol with high efficiency and selectivity. Adv. Mater. 34,
+2207691 .
+. Zhao, Y. et al. Preserving molecular tuning for enhanced electrocatalytic CO -to-
+
+ethanol conversion. Angew. Chem. Int. Ed. 63, e202407992 .
+. Ma, W. et al. Electrocatalytic reduction of CO to ethylene and ethanol through
+
+hydrogen-assisted C-C coupling over fluorine-modified copper. Nat. Catal. 3, 478-
+487 .
+. Chen, C. et al. Asymmetrically coordinated Cu dual-atom-sites enables selective
+CO electroreduction to ethanol. Adv. Mater. 2409797 .
+
+. Du, J. et al. Electrochemical CO reduction to ethanol on Zn-coordinated Cu sites
+
+formed by atmosphere-induced surface reconstruction. Adv. Mater. 2410339
+.
+. Wang, X. et al. Efficient electrically powered CO -to-ethanol via suppression of
+
+deoxygenation. Nat. Energy 5, 478-486 .
+. Chen, C. et al. Highly efficient electroreduction of CO to C alcohols on
+2 2+
+heterogeneous dual active sites. Angew. Chem. Int. Ed. 59, 16459-16464 .
+. Luo, M. et al. Hydroxide promotes carbon dioxide electroreduction to ethanol on
+copper via tuning of adsorbed hydrogen. Nat. Commun. 10, 5814 .
+. Zhuang, T-T. et al. Steering post-C–C coupling selectivity enables high efficiency
+electroreduction of carbon dioxide to multi-carbon alcohols. Nat. Catal. 1, 421-
+428 .
+. Li, F. W. et al. Cooperative CO -to-ethanol conversion via enriched intermediates
+
+at molecule-metal catalyst interfaces. Nat. Catal. 3, 75-82 .
+. Zhao, Y. et al. Industrial-current-density CO -to-C electroreduction by anti-
+2 2+
+swelling anion-exchange ionomer-modified oxide-derived Cu nanosheets. J. Am.
+Chem. Soc. 144, 8011-8021 .
+. Lv, J. J. et al. A highly porous copper electrocatalyst for carbon dioxide reduction.
+Adv. Mater., 2018, 30, e1803111 .
+. Niu, Z. Z. et al. Hierarchical copper with inherent hydrophobicity mitigates
+electrode flooding for high-rate CO electroreduction to multicarbon products. J.
+
+Am. Chem. Soc. 143, 8011-8021 .
+. Yang, P. P. et al. Protecting copper oxidation state via intermediate confinement
+for selective CO electroreduction to C fuels. J. Am. Chem. Soc. 142, 6400-6408
+2 2+
+.
+. Yang, B. et al. Electrocatalytic CO reduction to alcohols by modulating the
+
+molecular geometry and Cu coordination in bicentric copper complexes. Nat.
+Commun. 13, 5122 .
+. Hoang, T. T. H., Ma, S. C., Gold, J. I., Kenis, P. J. A. & Gewirth, A. A. Nanoporous
+copper films by additive-controlled electrodeposition: CO reduction catalysis.
+
+ACS Catal. 7, 3313-3321 .
+
+. Hoang, T. T. H. et al. Nanoporous copper-silver alloys by additive-controlled
+electrodeposition for the selective electroreduction of CO to ethylene and ethanol.
+
+J. Am. Chem. Soc. 140, 5791-5797 .
+. Gu, Z. et al. Efficient electrocatalytic CO reduction to C alcohols at defect-site-
+2 2+
+rich Cu surface. Joule 5, 429-440 .
+
+. Wang, Y. H. et al. Catalyst synthesis under CO electroreduction favours faceting
+and promotes renewable fuels electrosynthesis. Nat. Catal. 3, 98-106 .
+. Kim, J. Y. et al. Quasi-graphitic carbon shell-induced Cu confinement promotes
+electrocatalytic CO reduction toward C products. Nat. Commun. 12, 3765 .
+2 2+
+. Jiang, K. et al. Metal ion cycling of Cu foil for selective C–C coupling in
+electrochemical CO reduction. Nat. Catal. 1, 111-119 .
+
+. Shang, L., Lv, X., Zhong, L., Li, S. & Zheng, G. Efficient CO electroreduction
+
+to ethanol by Cu Sn catalyst. Small Methods 6, e2101334 .
+
+. Wang, X. et al. Ag+-doped InSe nanosheets for membrane electrode assembly
+electrolyzer toward large-current electroreduction of CO ethanol. Angew. Chem.
+Int. Ed. 62, e202313646 .
+. Shayesteh Zeraati, A. et al. Carbon- and energy-efficient ethanol electrosynthesis
+via interfacial cation enrichment. Nat. Synth. .
+https://doi.org/10.1038/s44160-024-00662-x
+. Kim, J. Y. et al. Selective hydrocarbon or oxygenate production in
+CO electroreduction over metallurgical alloy catalysts. Nat. Synth. 3, 452–465
+
+.
+. Abdinejad, M. et al. Eliminating redox-mediated electron transfer mechanisms on
+a supported molecular catalyst enables CO conversion to ethanol. Nat. Catal. 7,
+
+1109–1119 .
+. Ding, J. et al. A tin-based tandem electrocatalyst for CO reduction to ethanol with
+
+80% selectivity. Nat. Energy 8, 1386–1394 .
+. Xia, W. et al. Adjacent copper single atoms promote C-C coupling in
+electrochemical CO reduction for the efficient conversion of ethanol. J. Am. Chem.
+
+Soc. 145, 17253–17264 .

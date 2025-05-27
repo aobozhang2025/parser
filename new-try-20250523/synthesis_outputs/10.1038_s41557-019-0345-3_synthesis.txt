@@ -1,5 +1,1156 @@
 DOI: 10.1038/s41557-019-0345-3
-Source: supplementary
-==================================================
+Source: supplementary PDF
+--------------------------------------------------
 
-catalyst preparation, the support powder was calcined in air at 400 oC for 10 h, then stored in dark vacuum. All other chemicals, including Au(OH) 3, HAuCl 4, NaOH pellets, and (NH 4)2CO 3, were supplied by Alfar Aesar. The Au/TiO 2 sample made by deposition precipitation (DP) was used as reference. Typically, 150 mL of HAuCl 4 aqueous solution was added into a 250 mL water suspension of 5 g titania. After stirring the slurry for 1 h, 1 mol/L of (NH 4)2CO 3 solution was slowly added to keep the pH around 8. The slurry was heated to 70 oC and aged for 1 h. The fresh samples were obtained by filtering the slurry, continuously washing with 70 oC water, then drying in vacuum at room temperature (RT) overnight. The obtained powder catalysts were calcined at 200 oC for 2 h (ramping rate: 2 oC/min) to obtain the 4.8 wt.% Au/TiO 2 (DP) sample. Inductively coupled plasma (ICP) spectroscopy confirmed the gold loading as 4.8 wt.%. The as prepared catalysts were stored in dark vacuum before any activity tests and
+Materials and Methods
+Supplementary Text
+Supplementary to 50
+Supplementary to 3
+References 01-52
+
+Contents
+
+Catalysts Preparation ................................................................................................................................................. 3
+Catalysts Characterization (BET, XRD, XPS, AC-HAADF-STEM, ICP, SEM, XAS, XPS, PDF, and DRIFTS) ... 4
+Activity Tests ............................................................................................................................................................. 5
+Density functional theory (DFT) ............................................................................................................................... 6
+Supplementary Text ....................................................................................................................................................... 7
+PDF, XRD, XPS and XANES/EXAFS investigations .............................................................................................. 7
+Aberration-corrected(AC)-HAADF-STEM ............................................................................................................... 9
+Activity Tests: Water-gas shift reaction .................................................................................................................. 10
+Activity Tests: Methanol conversion reactions ........................................................................................................ 11
+In situ DRIFTS—Methanol self-coupling reaction ................................................................................................. 12
+DFT and AIMD calculations – Model evolution towards identifying the nature of the active site under reaction
+conditions and reaction mechanism for MF formation ............................................................................................ 14
+AIMD simulations: methanol coupling on the evolved cluster models ................................................................... 15
+Hybrid functional corrections for energy and Au charge of the PW91-optimized geometries ................................ 18
+Calculated radial distribution functions and comparison to EXAFS and X-Ray Pair-Distribution Function. ......... 18
+Calculation of XPS shifts for Au -O -Na -(OH) .................................................................................................... 19
+1 3 9 9
+Data: figures and tables ........................................................................................................................................... 20
+References: .............................................................................................................................................................. 63
+
+Catalysts Preparation
+In this work, titanium dioxide in anatase form from Millennium (G5, 100 % anatase, ~270 m2/g) was used as the
+support for various gold/titania catalysts. γ-Al O was purchased from Inframat Advanced Materials with ~150 m2/g
+2 3
+surface area. CeO was purchased from US research nanomaterials with the surface area of 35-70 m2/g. Prior to each
+
+catalyst preparation, the support powder was calcined in air at 400 oC for 10 h, then stored in dark vacuum. All other
+chemicals, including Au(OH) , HAuCl , NaOH pellets, and (NH ) CO , were supplied by Alfar Aesar.
+3 4 4 2 3
+The Au/TiO sample made by deposition precipitation (DP) was used as reference. Typically, 150 mL of HAuCl
+2 4
+aqueous solution was added into a 250 mL water suspension of 5 g titania. After stirring the slurry for 1 h, 1 mol/L
+of (NH ) CO solution was slowly added to keep the pH around 8. The slurry was heated to 70 oC and aged for 1 h.
+4 2 3
+The fresh samples were obtained by filtering the slurry, continuously washing with 70 oC water, then drying in vacuum
+at room temperature (RT) overnight. The obtained powder catalysts were calcined at 200 oC for 2 h (ramping rate: 2
+oC/min) to obtain the 4.8 wt.% Au/TiO (DP) sample. Inductively coupled plasma (ICP) spectroscopy confirmed the
+
+gold loading as 4.8 wt.%. The as prepared catalysts were stored in dark vacuum before any activity tests and
+characterization.
+To prepare the Au -O -Na -(OH) solution, the proper amount of Au(OH) powder was suspended in 30 mL of H O
+1 x 9 y 3 2
+with O sparging and heated up to 80 oC. NaOH powder (atomic ratio of Au:Na=1:9) was added into the slurry at the
+
+same temperature. The mixture was refluxed at 80 oC overnight to get a transparent solution (colorless at lower
+concentrations – light yellow at higher concentrations). The atomic ratio of the Au:Na was set at 1:9 in order to have
+multi-coordinated Au –O -Na clusters to adequately stabilize the cationic gold atom, as determined experimentally
+1 x
+and by DFT calculations published recently1. The gold solution did not precipitate at 80 oC and was stable under
+constant stirring during two weeks of observation.
+The Au -O -Na -(OH) /TiO catalysts were prepared by IWI of the gold solution at room temperature (RT) in air. The
+1 x 9 y 2
+solution was concentrated by heating followed by drying at 200 °C with N protection, and then the sample was further
+
+dried in vacuum overnight at 80 °C. The powder samples were stored in dark vacuum before any activity tests and
+characterization. Au and Na are all in cationic form in the unsupported powder (Supplementary -2). The gold
+loading was checked by ICP as 0.5, 1.0, and 1.5 wt.% for the 0.5, 1.0, and 1.5 wt.% Au -O -Na -(OH) /TiO catalysts,
+1 x 9 y 2
+respectively. Supplementary shows the X-ray diffraction (XRD) patterns of the gold/titania catalysts prepared
+by the two methods (DP and IWI). Anatase is the only detectable phase for all three samples. The average particle
+sizes of the anatase determined by XRD in 4.8 wt.% Au/TiO (DP), 0.5 wt.% Au -O -Na -(OH) /TiO , and 1.0 wt.%
+2 1 x 9 y 2
+Au -O -Na -(OH) /TiO are 9.8, 10.1, and 9.7 nm respectively. Supplementary shows the X-ray photoelectron
+1 x 9 y 2
+spectroscopy (XPS) spectra of Ti2p for the samples made by DP and IWI. Irrespective of the methods employed, the
+TiIV as in anatase TiO is the only chemical state of the titanium observed. Therefore, we conclude that the different
+
+preparation methods do not introduce any significant modification to the support oxides.
+
+The important physical properties of the three key samples in this paper 4.8 wt.% Au/TiO (DP), 0.5 wt.% Au -O -
+2 1 x
+Na -(OH) /TiO , and 1.0 wt.% Au -O -Na -(OH) /TiO are summarized in Supplementary 
+PDF, and DRIFTS)
+The Brunauer-Emmett-Teller (BET) surface areas of the samples were measured by single-point N adsorption and
+
+desorption cycles in a Micromeritics Auto Chem II 2920 instrument. XRD analysis was performed on a PANalytical
+X’Pert Pro instrument. Cu Kα radiation was used with a power setting of 45 kV and 40 mA. Aberration-corrected
+high-angle annular dark-field (AC-HAADF) images for the Au catalysts were obtained at the Advanced Microscopy
+Laboratory at Oak Ridge National Laboratory, using a JEOL 2200FS instrument equipped with a hexapole corrector
+(CEOS GmbH, Heidelberg, Germany) on the illuminating lenses, for scanning transmission (STEM) imaging. The
+corrector permits imaging in HAADF mode at a nominal resolution of 0.07 nm, with a collection semi-angle of 26.5
+mr and a beam current of ~30 pA. To easily reveal single gold atoms on catalysts dispersed by dry-dipping onto holey-
+carbon-coated TEM grids, images were typically recorded at 10Mx direct magnification, at 512×512 px with a 32 or
+64 microsecond dwell time, to give 8.5 or 17 sec scan times. Because the nanoparticles and sub-nm species have
+almost equal chance to be imaged on the thin and flat support surfaces, the gold species (> 150 total counts) near the
+edge of the samples in different regions were counted and analyzed. Bulk elemental composition was determined by
+ICP and SEM/EDS. The supported Au/TiO catalysts were dissolved in concentrated HCl or aqua regia at 80 °C with
+
+reflux condensation and analyzed by ICP. Instrument- Zeiss Supra55VP FE-SEM was used for SEM. Imaging
+conditions are: 1.5 kV, 10-micron aperture, working distance of 4 mm, InLens and Everhart Thornley detectors. EDS
+conditions are: 20 kV, 120-micron aperture; working distance 8.5 mm, operated in low vacuum mode at chamber
+pressure of 30 Pa, EDAX Apollo 40 detector.
+The X-ray absorption spectroscopy (XAS) data were collected in the fluorescence mode with a 13-channel Ge detector
+at the12-BM APS beamline at Argonne National Laboratory. The X-ray absorption edge energy for Au LIII edge was
+calibrated to 11919 eV by a gold foil. For each collection point, three consecutive scans (each lasting ~ 30 min) were
+acquired after the sample was treated at the reaction conditions (10 mg sample, 15 mL/min flowrate) to reach steady-
+state as monitored by a mass spectrometer connected to the gas outlet, and cooled to liquid N temperature in He flow
+
+to freeze the structure and the charge of the gold. The reference spectra of AuIII and Au0 (i.e. Au(OH) , and gold foil)
+
+were collected at RT in static air. The Feff models of gold foil, Au O , NaAuO 2, AuTi 3, were used to fit the 1st shell
+2 3 2 3
+Au-Au, Au-O, and Au-Ti coordination in the extended X-ray absorption fine structure (EXAFS) data. XPS was
+performed on a Thermo Scientific Al Kα-XPS. The C1s peak was calibrated at 284.8 eV.
+High energy X-ray scattering data suitable for pair distribution function (PDF) analysis were collected at beamline
+11-ID-B of the Advanced Photon Source at Argonne National Laboratory using an X-ray wavelength of 0.2113 Å. X-
+ray PDFs were extracted within pdfgetX2 after calibrating and integrating the X-ray scattering images within gsas-ii.
+A bulk metallic Au impurity in the samples was modelled within pdfgui and subtracted from the measured PDF data
+
+to isolate the contribution from the Au catalyst species. Gaussian functions were fit to features of interest to evaluate
+the peak positions and areas.
+For in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS), a Nicolet iS50 FTIR spectrometer
+equipped with a DTGS KBr detector and a Harrick praying mantis HVC-DRP4 cell equipped with KBr windows.
+After each sample was placed in the cell, it was heated to 200 oC under pure He for 30 min and was then gradually
+cooled to RT. During cooling, background spectra were recorded at 160 °C and RT. Subsequently the flow was
+changed to the desired conditions and the respective spectra were recorded in two regions 3100-2650 cm-1 and 1800-
+1300 cm-1. Resolution was selected to 4 cm-1 and a number of 500 scans were recorded for each spectrum. After the
+aforementioned initial treatment and background collection, spectra were recorded after: (i) treatment with
+methanol-saturated He flow for 15 min at RT, (ii) subsequent purge with pure He flow for 15 min, (iii) treatment with
+methanol-saturated He flow for 30 min at reaction temperature (160 °C) after (b), (iv) cooling to room temperature
+under pure He flow after (iii), (v) subsequent purging with pure He flow at 160 °C for 0.5 h after (iv) and (vi) at 170
+°C for 2 h after (v).
+Activity Tests
+Kinetics measurements of the water-gas shift (WGS) reaction were conducted in a packed-bed flow microreactor,
+keeping the CO conversion below 20 % in order to obtain the reaction rates in the kinetics control region. The samples
+were first heated in He from RT to 100 °C, then the gas was switched to a reformate-type fuel gas (11 % CO- 26 %
+H O- 7% CO - 26 % H -bal. He), flow rate 207 ml/min. 100-200 mg sample was used to vary the contact time such
+2 2 2
+that the conversion remained <15 %). Testing began at the highest temperature and lasted for 4 h before cooling down
+to other temperatures to avoid deactivation during the kinetic measurements. The feed and product gas streams were
+analyzed by an HP-6890 GC equipped with a TCD detector. The kinetics measurement error was <10 %. The product-
+free WGS experiments were run in a Micromeritics AutoChem II 2920 instrument equipped with a mass spectrometer.
+The catalysts were stabilized in a 10 % CO- 3 % H O- He gas mixture for 30 min at 50 oC before being heated at 5
+
+oC/min (100 mg sample, 30 mL/min). CO-temperature programmed reduction (TPR) tests were run in the same
+Micromeritics AutoChem II 2920 instrument. For each experiment, the sample was purged in He at 100 °C to remove
+any physically adsorbed CO and H O. The sample was stabilized in 10 % CO-He for 20 min at 50 oC, then heated up
+2 2
+to 300 oC (5 oC/min). The regeneration of the surface –OH species is by rehydrating the catalysts with 3 % H O-He
+
+for 1h when ramping down to RT between consecutive cycles. The samples did not contact air at any temperature
+during the cyclic tests.
+The temperature-programmed and steady-state steam reforming of methanol (SRM) tests were carried out in a fixed-
+bed quartz microreactor (6mm OD, 4mm ID) at atmospheric pressure. A gaseous mixture of 2 % CH OH, 2.6 % H O
+3 2
+balanced in He was passed through the fixed-bed of 100 mg catalyst and 400 mg of inert quartz sand. The quartz sand
+was calcined in air at 800°C for 2 h prior to use. The total flow rate of the SRM-steady state reaction was set at 20
+mL/min. Reaction temperature was first increased to 300 °C at 5 °C/min, and was decreased down to 220 °C step by
+step with isothermal holding at each set temperature for 75 min to fully approach the steady state. The methanol
+conversion was limited to below 15-20 % in order to obtain the reaction rates in the kinetics control region. The total
+
+flow rate of the temperature-programmed SRM was set at 10 mL/min. Reaction temperature was increased from 30
+to 300 °C at 2 °C/min. The feed and the product gases were analyzed online by a residual gas analyzer (RGA, MKS
+model RS-1). The RGA was calibrated by monitoring a series of gases or vaporized liquids carried by ultra-high purity
+He at different concentrations. The calibrated compounds for SRM include: CH OH (m/z=31), H O (m/z=18), CO
+3 2
+(m/z=28), CO (m/z=44), H (m/z=2). The CO signal (m/z=28) was corrected for the contribution of CH OH and CO
+2 2 3 2
+at m/z=28. The outlet gas was analyzed by mass spectrometry and checked for H , CO, CO , He, H O, formaldehyde
+2 2 2
+(HCHO), formic acid (HCOOH), dimethyl ether (CH OCH ), and methyl formate (HC(=O)OCH ).
+3 3 3
+The dynamic temperature-programmed and the steady-state activity tests of the non-oxidative methanol
+dehydrogenation were carried out in a fixed-bed quartz microreactor (6 mm OD, 4 mm ID) at atmospheric pressure.
+10 vol.% CH OH balanced with He was used as reactant gas with 20 mL/min flow rate to pass through catalyst bed,
+
+which consisted of 200 mg catalyst and 400 mg quartz, with 5 °C/min ramping rate. For the kinetic study, conversion
+of methanol was controlled in the range of 10 -18 %. Since methyl formate has fragments of m/z=32, 31, 29 and 28,
+same as the cracking pattern of methanol in mass spectrometry, m/z=60 was used as the distinct signal of methyl
+formate.
+Density functional theory (DFT)
+DFT calculations were performed using the Vienna ab initio Simulation Package (VASP)4, 5, and employing the
+generalized gradient approximation (GGA-PW91)6 to describe the exchange-correlation functional, and the projector
+augmented wave potentials (PAW)7, 8 to describe electron-ion interactions, in the framework of ab initio molecular
+dynamics (AIMD)9. The wave function was expanded in a plane-waves basis set, truncated at a kinetic energy cutoff
+of 400 eV. All cluster models were enclosed in a 20×20×20 Å3 cubic cell, and calculations were performed with the
+Brillouin Zone sampled at the gamma point. The method described in was implemented to calculate Bader
+charges. All calculations were spin-polarized. Vibrational frequencies of translational, rotational, and vibrational
+modes were estimated assuming a harmonic oscillator, and using second-order numerical differentiation of forces
+using a step size of 0.015 Å. We use these methods to study the thermochemistry (based on total energies) of the
+methanol dehydrogenation reaction. Owing to the complexity of the structures of our single-atom clusters, we do not
+calculate the free energies of the elementary steps, given that this would require the calculation of the vibrational
+modes for all atoms in these clusters. Additionally, given the large number of adsorption sites available, and the
+flexibility of the structures involved, we do not attempt to identify minimum energy paths defining the transition states
+for such dehydrogenation steps. Doing this would be prohibitively expensive, and yet, inconclusive as to whether the
+minimum energy path is truly identified.
+
+Supplementary Text
+PDF, XRD, XPS and XANES/EXAFS investigations
+XPS experiments were conducted to identify the chemical state of the gold and sodium elements in the dried powder.
+As shown in Supplementary , the gold species were mainly AuIII. Supplementary shows the XPS binding
+energy in the Na1s region. The narrow featuring peak at ~1072.0 eV indicates that the sodium ions were distributed
+in the gold compound with a specific chemical composition. The value of this binding energy further corroborated
+that the sodium is stabilized through –O-Na linkages in this material, in agreement with our previous reports to create
+the Pt -O -Na and Au -O -Na linkages by more complex preparation methods1, 11, 12. The XPS of O1s in Au -O -Na -
+1 x 1 x 1 x 9
+(OH) can be deconvoluted into three different O species (Supplementary , the peak centered at around 531 eV
+y
+assigned as the O in OH bonded with metal atom13, the peak at 532.6 eV as O in NaOH14, and the peak at 530.2 eV as
+O in Au-O15.
+XRD analysis, Supplementary , clearly shows that the dried complex is not a physical mixture of NaOH and
+Au(OH) . Rather, it is a new inorganic compound with 14.3 and 17.2 -degree peaks (corresponding to 6.15 and 5.12
+
+Å d-spacing, respectively). The significant diffraction peaks in the XRD pattern of the gold-sodium powder indicate
+a highly crystalline structure. Thus, phase(s) different from NaOH and Au(OH) were formed in this compound. A
+
+thorough peak-search-match was performed on the XRD pattern of the Au -O -Na -(OH) with the standard patterns
+1 x 9 y
+of species that contain Na, O, H, C, Au and Si in the data base. But none of these standard patterns matched the
+diffraction pattern of Au -O -Na -(OH) powder. In order to check these results with another alkali metal, we also
+1 x 9 y
+synthesized Au -O -K-(OH) from Au(OH) and KOH by the same protocol. Au -O -K -(OH) displays very similar
+1 x z y 3 1 x 9 y
+diffraction pattern as that of Au -O -Na -(OH) . The characteristic peaks at 14.3 and 17.2 degrees do not match any
+1 x 9 y
+of the reported patterns in the database. These peaks correspond to d-spacing of 6.15 and 5.12 Å, respectively. This is
+in agreement with the reported unit cell sizes of Na Au(S O ) ·2H O and [Au(1,2,4-L)(PPh )] that are between 5 and
+3 2 3 2 2 3
+18 Å16, 17. No significant peak shift was observed in Au -O -K -(OH) compared to Au -O -Na -(OH) as the d-spacing
+1 x 9 y 1 x 9 y
+is much bigger than the difference between the size of Na+ and K+. There is no observable structural change of the
+TiO (Supplementary and Al O (Supplementary after Au -O -Na -(OH) were deposited, indicating
+2 2 3 1 x 9 y
+there is no destructive effect of Au -O -Na -(OH) solution. XPS analysis of the titania-supported gold catalysts finds
+1 x 9 y
+no observable change of chemical valence of Ti (Supplementary .
+The gold-oxo-sodium complex in solution and in its dried powder form was analyzed by X-ray absorption near edge
+structure (XANES) and by EXAFS. As illustrated by the Au L edge white lines in , the gold species clearly
+III
+has a cationic nature. While the R-space profiles for the gold-sodium solution were too noisy to be analyzed due to
+low concentration, we were able to conduct EXAFS analysis for the dried gold-sodium powder. Zero contributions
+from Au-Au coordination were found in this solid, while the gold is coordinated with the surrounding oxygen atoms
+as N = 3.0. It is noteworthy that even in “oxidized gold” crystal models such as Au O and NaAuO , due to the
+Au-O 2 3 2
+presence of long-distance organized unit cells, the contribution of Au-Au coordination can range from 1 to 2.
+Therefore, combining the PDF, XRD, XPS, and XAS data, we conclude that the new gold complexes are composed
+of a single gold cation stabilized by the –O-Na linkages, with abundant vicinal –OH species.
+
+Unsupported Au -O -Na -(OH) and Au -O -K -(OH) are investigated by PDF. The peak at 1.994/1.998Å
+1 x 9 y 1 x 6 y
+corresponds to the Au-O bond length. Two peaks at 3.3 and 3.6 Å, which are also observed in the EXAFS analysis,
+may be attributed to Au-Au or Au-Na/K distances. The features at ~2.97 Å and 4.04 Å that are not observed in the
+Au-edge EXAFS data can be attributed to non-Au containing Na/K-Na/K and Na/K-O distances. The larger difference
+in the intensity of these features between the Na and K analogues, supports this assignment.
+Peak positions and areas in the PDFs of unsupported Au -O -Na -(OH) and Au -O -K -(OH)
+1 x 9 y 1 x 6 y
+Na K
+Center (Å) Area (a.u.) Center (Å) Area (a.u.)
+1.994 3.00 1.998 5.55
+2.973 1.31 2.963 6.68
+3.290 9.69 3.320 9.70
+3.627 4.07 3.652 9.64
+4.030 4.36 4.046 8.50
+We noticed that the Au in the catalysts suffered from beam reduction during consecutive XANES scans
+(Supplementary . Liquid N was used and proved effective to mitigate Au reduction by the high-energy beam
+
+(Supplementary for the as-prepared Au -O -Na -(OH) /TiO sample. X-ray induced oxygen vacancy
+1 x 9 y 2
+formation of TiO is well-known18, which leads to reduction of cationic Au19 that can be mitigated by cooling to 113
+
+K. The chemical valence and bonding structure of the gold loaded on titania by the IWI and the standard DP methods
+are also indicated by the shape of the spectra in 
+the unsupported gold-sodium powder or solution, which is construed as clear evidence that the cluster structure of the
+single-atom gold stabilized by sodium ions through –O- linkages is not modified on the titania support. There is
+negligible contribution of Au-Ti coordination for both 0.5 wt.% Au -O -Na -(OH) /TiO and 1.0 wt.% Au -O -Na -
+1 x 9 y 2 1 x 9
+(OH) /TiO as expected when gold species are highly dispersed on the titania support. The cationic gold in the gold
+y 2
+complexes is stabilized by the surrounding –O, and has a low total coordination number, which is a strong indication
+that these gold sites can be catalytically active. In contrast, the 4.8 wt.% Au/TiO (DP) comprises metallic gold
+
+according to the XANES spectra, and the 1st shell EXAFS fitting results confirm the presence of metallic Au
+nanoparticles (NPs) having exclusively Au-Au bonding (N =9.4).
+Au-Au
+At Au:Na=1:9, a crystalline compound is retrieved on drying, see XRD data, Supplementary 
+precipitate collected when the ratio of Na and Au was 3:1 in Supplementary 
+methanol self-coupling reaction, the latter shown in Supplementary 
+catalyst for the methanol self-coupling reaction at 170 °C.
+CO-TPR and XPS were employed to determine the x and y values. CO-TPR was performed over the as-prepared
+Au -O -Na -(OH) to titrate the active OH groups (CO + OH → CO + ½ H ) by integrating the CO TPR curve
+1 x 9 y 2 2
+(Supplementary . The calculated amount of the surface OH groups (sampled by CO to 200 oC) is around
+9.3 times that of Au, which is very close to the ratio of Au and OH in the proposed structure. The rate reaches
+maximum value above a Na:Au atomic ratio of 9:1, Supplementary 
+y 2 1 x 9 9 2
+ and e, a set of AC-HAADF-STEM images at different areas and scales are shown in Supplementary -7.
+The contrast of the atomic species in AC-HAADF-STEM is approximately proportional to the square of the atomic
+numbers for various elements, and the sodium atoms are indeed too “light” relative to the average atomic numbers of
+the various supports to be shown in these materials. For each of the 1.0 wt.% Au -O -Na -(OH) /TiO samples, over
+1 x 9 y 2
+a hundred of AC-HAADF-STEM images were taken; no gold NPs were observed in these samples. Supplementary
+ and 7 show the AC-HAADF-STEM images of typical areas of the 0.5 wt. % and 1.0 wt. % Au -O -Na -
+1 x 9
+(OH) /TiO catalysts. The pseudo sub-nm clusters identified in the images with square contours appear to be a few
+y 2
+isolated gold atoms sitting close to each other. When AC-HAADF-STEM images were recorded with lower
+magnifications or slight defocus on these gold species due to the different heights of titania planes, these gold species
+tend to look similar to any true gold clusters, but the pseudo sub-nm clusters are composed of isolated (non-contiguous)
+atoms. In addition, according to the EXAFS analysis, the Au-Au coordination number was zero. This means that these
+slightly larger gold species captured in the 1.0 wt.% Au -O -Na -(OH) /TiO are still atomically dispersed gold
+1 x 9 y 2
+species; they are just in close proximity, but are not connected, hence we use the term “pseudo sub-nm clusters” to
+describe them. We and other groups have reported similar observations for single-atom platinum species, where a few
+seemingly platinum sub-nm clusters are actually composed of single atoms being located close to each other without
+direct metal-metal bonding12, 20.
+Different from the sodium ion-stabilized gold catalysts prepared by the IWI method, the 4.8 wt.% Au/TiO (DP) sample
+
+has abundant Au NPs, as is well established for this type preparation of gold on titania12. A set of typical AC-HAADF-
+STEM micrographs for the 4.8 wt.% Au/TiO (DP) sample is shown in Supplementary 
+
+to each other. The catalyst made by the DP method has an average Au NP size of 6.2 nm, consistent with the
+coordination number of Au-Au as 9.4 from EXAFS fittings reported for this type of catalyst21.
+Activity Tests: Water-gas shift reaction
+In the WGS and the other reactions examined in this work, no degassing or activation of the catalyst was necessary
+prior to reaction. Owing to the high amount of the atomically-dispersed gold in the 1.0 wt.% Au -O -Na -(OH) /TiO
+1 x 9 y 2
+sample, this catalyst shows high overall activity for low-temperature WGS reaction (Supplementary . We
+titrated the number of such –OH groups by CO-TPR, and found that the amount of regenerable –OH species in the
+0.5 wt.% Au -O -Na -(OH) /TiO catalyst is actually twice that of the 4.8 wt.% Au/TiO (DP) catalyst containing
+1 x 9 y 2 2
+almost 10 times more gold. The abundance of these -OH groups also translates into proportionally higher overall
+reaction rates (Supplementary . The 3rd consecutive cycle CO-TPR profiles for sodium ion-stabilized
+gold/titania catalysts are shown in Supplementary 
+stoichiometric reduction of –OH by CO molecules to produce CO and H simultaneously. The light-off temperature
+2 2
+for H matches well with the reaction onset around 60 oC in product-free conditions (10 % CO - 3 % H O- He, 30
+2 2
+ml/min, 100 mg sample, 5 oC/min) as shown in Supplementary and Supplementary 
+improved WGS catalytic activity. As long as the gold species are atomically dispersed, when the amount of single-
+gold atoms was doubled (from 0.5 wt.% Au -O -Na -(OH) /TiO to 1.0 wt.% Au -O -Na -(OH) /TiO ), the amount
+1 x 9 y 2 1 x 9 y 2
+of regenerable –OH and the low-temperature WGS reaction rate were also doubled (Supplementary -11). In
+agreement with our previous findings1, the –OH vicinal to the atomic gold centers initiate the low-temperature WGS
+reaction. Single Au atom catalysts synthesized by different methods from various precursors share very close turnover
+frequency (TOF) as shown in Supplementary , which indicates that [Au -O ] species is the intrinsic active site
+1 x
+for WGS. If the active species is formed, the supports do not have a direct role for WGS, which is corroborated by
+WGS temperature programmed surface reaction (TPSR) on unsupported Au -O -Na -(OH) (Supplementary .
+1 x 9 y
+The activity of the supported sodium ion-stabilized gold oxo-cluster WGS catalysts is stable up to 200 oC during two
+cycles of 10 h-each test with shutdown of the reaction in 3 % water vapor to RT (Supplementary . The catalyst
+is also stable under strong reducing atmosphere in the presence of CO and water vapor (see XPS analysis of as-
+
+prepared and used catalysts, and EXAFS of as-prepared catalysts, Supplementary Figs. 16 and17 and Supplementary
+.
+The chemical state of the gold in the catalysts was investigated before and after the WGS reaction (10 % CO - 3 %
+H O- He, 200 oC, 1 h at steady state, 100 mg sample). Using XPS, the gold is mainly AuIII in the fresh catalysts
+
+(Supplementary , which agrees with the XANES findings for both the supported and unsupported dried gold-
+sodium powder . The sodium-ion-stabilized catalysts are catalytically stable under the WGS reaction
+
+condition; the working catalyst is AuI (Supplementary . A slight contribution from metallic Au0 is seen,
+originating from a few agglomerated Au NPs (Supplementary . On the other hand, Au NPs dominate on the
+much less active 4.8 wt.% Au/TiO (DP) sample, with metallic gold found in both the fresh and used catalysts
+
+(Supplementary .
+XPS Na1s spectra were collected to identify the chemical state of the sodium in the Au-O -Na (OH) catalysts. In the
+x 9- y
+catalysts studied in this work, NaOH reacts with Au(OH) to create the –O-Na stabilized single-atom gold oxo-
+
+clusters; that is, a direct interaction between the gold and sodium ions via -O- has been established. Similar to the
+sodium-ion-stabilized platinum catalysts22, 23, the sodium element has a clear featuring peak at 1071.9 eV
+(Supplementary , which is a typical region (1071.5-1072.5 eV) for the direct Na-O- bond 24,25. This means that
+the -O- linkages that stabilize the gold atoms in the new catalysts are shared with -O-Na bonds. Therefore, mutual
+stabilization between the gold and sodium is established through the -O- linkages between the two elements. The small
+shoulder peak around 1067.0 eV is attributed to TiIV (TiO ) Auger peak24. The chemical environment of the sodium
+
+is stable during the WGS reaction up to 200 oC (~ 3 % CO generated in the gas stream). As shown in Supplementary
+
+, the Na1s peak shape change in the Au -O -Na -(OH) samples is minimal after the WGS reaction. Possible
+1 x 9 y
+emerging compositions that can be generated under CO rich stream, such as Na CO and NaHCO 26, in the 1071-
+2 2 3 3
+1071.5 eV range, were not observed indicating the mutual stabilization of the gold and sodium ions through the –O-
+bonds.
+Activity Tests: Methanol conversion reactions
+To investigate the role of water in methanol conversion reactions, (CH OH + H O)-TPSR was conducted on the three
+3 2
+representative catalyst samples (Supplementary . SRM on bare Na/TiO supports shows no activity in the
+
+temperature range of 30-300 °C, while on 4.8 wt.% Au/TiO (DP) and 0.5 wt.% Au -O -Na -(OH) /TiO SRM lighted
+2 1 x 9 y 2
+off at 225 and 200 °C, respectively, with simultaneous production of H and CO , which is directly attributed to the
+2 2
+gold species. No CO production was detected up to 300 °C, leaving a wide temperature window for both gold-
+containing samples to conduct CO-free methanol steam reforming. The generation of CO is proportional to the
+
+formation of H and the consumption of methanol, but a lag is observed, typical in this type of experiments. The set
+
+of data in Supplementary was collected in a system with a steel tube connection between the reactor and the
+mass spectrometer. H O and CH OH adhere to the wall of the tube and H is hard to pump into the chamber due to its
+2 3 2
+lower molecular weight compared to the other molecules. Therefore, both CH OH and H show a detection delay
+3 2
+during TPSR compared to CO . Superior activity was detected on Au -O -Na -(OH) /TiO catalysts when compared
+2 1 x 9 y 2
+to the 4.8 wt.% Au/TiO (DP) sample. The sample made by DP method shows much lower gold efficiency than the
+
+sodium-ion-stabilized samples, due to the abundance of Au NPs that do not contribute to the SRM reaction27. The
+sodium ion stabilized 0.5 wt.% Au -O -Na -(OH) /TiO and 1.0 wt.% Au -O -Na -(OH) /TiO catalysts, both having
+1 x 9 y 2 1 x 9 y 2
+exclusively single-atom gold preserved in the reaction, the TOF per gold atom is the same (Supplementary .
+Good stability was observed on 1.0 wt.% Au -O -Na -(OH) /TiO at 260 °C (Supplementary .
+1 x 9 y 2
+Au4f and Na1s XPS of the three gold-containing samples after 8 h on-stream in steady- state SRM tests in the range
+of 300 to 220 °C (Supplementary -22) was performed to investigate the oxidation state of Au and Na in the
+
+working catalysts. Primarily, the AuI state of gold was found on both Na-ion stabilized samples, while only metallic
+gold was detected on the DP sample. Correspondingly, the primary peak for Na was detected at ~1071.9 eV for the
+two Na-stabilized samples, indicating an -O-Na bond for sodium and gold ion mutual stabilization as discussed above.
+Preservation of the AuI cationic state through the mutual stabilization between gold and sodium leads to the stability
+of overall catalyst performance in cyclic SRM tests up to 260 °C (Supplementary . Three cycles of SRM on
+the 1.0 wt.% Au -O -Na -(OH) /TiO sample were performed by cooling the catalyst back to RT after 75 min holding
+1 x 9 y 2
+at 260 °C for each cycle. Similar methanol conversion (~26 %) was observed for the last two cycles as well as the
+initial one with CO as the only carbon product (data not shown here).
+
+Methanol-TPSR was performed over the Au -O -Na -(OH) /TiO catalysts and 100% selectivity towards methyl
+1 x 9 y 2
+formate (MF) was achieved at the temperature window (<180 °C) we are looking for . The 100% selectivity is
+retained after changing the gas hourly space velocity (GHSV) from 6000 mL· g-1 ·h-1 to 3000 mL· g-1 ·h-1. The
+cat cat
+molar ratio of MF and H in the product stream is 1:2 and the carbon balance (97-100%) was checked by the
+
+consumption rate of CH OH and the production rate of MF. The CH OH-TPSR was also performed on unsupported
+3 3
+complex powder showing that the complex itself catalyses the non-oxidative methanol self-coupling (Supplementary
+. XPS analysis indicates that AuI species are retained after both supported and unsupported catalysts had been
+used for the methanol self-coupling reaction (Supplementary . The Na1s and Ti2p of XPS of used supported
+catalyst 1.0 wt.% Au -O -Na -(OH) /TiO indicates that i) Na only coordinated with -O (Supplementary and
+1 x 9 x 2
+ii) Ti in the supported catalyst did not have observable change (Supplementary . The XRD of used catalysts
+shows only peaks of diffraction of anatase TiO and no peaks of Au NPs (Supplementary . The Na 1s of XPS
+
+of as-prepared and used unsupported Au -O -Na -(OH) are the same. Au-Au coordination is absent in as-prepared
+1 x 9 y
+supported and unsupported Au -O -Na -(OH) and used supportedAu -O -Na -(OH) , and the second shell scattering
+1 x 9 y 1 x 9 y
+Au-Na/K (Au-O-Na/K) can be observed between 3.3-3.7Å in R space (Supplementary and 29). The EXAFS
+is an average technique and the Au atom-centered complex proposed here has nine Na atoms around it, linked through
+-O, and the distances between Au and Na are not necessarily the same. The EXAFS fitting of unsupported Au -O -
+1 x
+Na -(OH) indicates that the distance of Au and Na is within the range of 3.3-3.7 Å (Supplementary .
+9 y
+In situ DRIFTS—Methanol self-coupling reaction
+The in situ DRIFT spectra of the 1.0 wt.% Au -O -Na -(OH) /TiO under various conditions are presented in 
+as 3 s 3 s 3 3
+TiO sites28-33. The respective methoxy species peaks on unsupported Au -O -Na -(OH) powder appear in
+2 1 x 9 y
+slightly different frequencies and with lower intensity. Moreover, in the low frequency region (1800-1000 cm-1) under
+methanol-saturated He flow at room temperature, a broad band is present at 1460 cm-1. In agreement with previous
+interpretations, this peak is attributed to methoxy species (δ (CH ) mode) adsorbed on Au sites 32, 34, 35. In the case of
+as 3
+unsupported Au -O -Na -(OH) powder , several peaks appear at 1570, 1367, ~1385 (shoulder) and 1324 cm-
+1 x 9 y
+1 which are assigned to formate species28, 30, 35-37. Furthermore, peaks at 1690 and 1190 cm-1 indicate the presence of
+MF adsorbed species on Au sites28, 30, 35-37.
+
+In the supported catalyst spectrum (ii)), after purging with He for 15 min, there is an obvious decrease in the
+intensity of gaseous methanol peaks at (2970, 2865 cm-1). On heating under CH OH (iii)), in addition to the
+
+reappearance of the gaseous methanol peaks, two new peaks can be observed in the low frequency region. The new
+peak located at 1609 cm-1 can be assigned to v (COO) mode of adsorbed formate species38. The peak observed at
+as
+1690 cm-1 is due to the presence of adsorbed methyl formate species formed from methoxy and formaldehyde coupling
+on the same Au cluster28, 30, 35, 37 as shown by the DFT calculations in the next sections. The assignment of the 1690
+cm-1 to methyl formate adsorbed species is also supported by separate methyl formate adsorption tests on the TiO
+
+(G5) support studied by DRIFTS (Supplementary , where the gaseous phase MF peak at ~1760 cm-1 is
+decreasing with He purging and after a purge time of 1.5 h the only remaining peak (1693 cm-1) is that of adsorbed
+MF. In an effort to “capture” the image of adsorbed species at room temperature, the sample was quickly cooled down
+under pure He flow. In the respective spectrum (iv)), accumulation of methyl formate on the catalytic surface
+was evident by the relatively higher intensity of 1690 cm-1 peak. As already mentioned in the main text, MF
+accumulation was a result of 1) reaction between surface methoxy and formaldehyde species and 2) low desorption
+rate at low temperatures. To check the stability of the adsorbed intermediate species, the sample was heated to 160 oC
+under pure He flow (v)). After 30 min on stream, the intensities of all adsorbed species namely, methoxy,
+formaldehyde, formate and MF peaks dropped slightly. These observations indicate that the transformation of surface
+methoxy species to formaldehyde and further to methyl formate takes place even after removal of methanol from the
+stream. On further treatment (2 h) of the sample under pure He at 170 oC, almost complete removal of all the adsorbed
+species was observed due to their transformation to MF and/or desorption from the surface.
+The in situ DRIFT spectra of methanol on the support (TiO ) under various conditions are shown in Supplementary
+
+in the low frequency region (1800-1000 cm-1) under methanol-saturated He flow at room temperature, a broad band
+is present at 1470 cm-1 and was also ascribed to surface methoxy δ (CH ) mode. After switching to reaction conditions,
+as 3
+the only change was the increase in the intensity of gaseous methanol peaks at 2970 and 2865 cm-1. In the low
+frequency region, there is absence of any new peaks from formaldehyde, formate or methyl formate adsorbed species.
+This is a strong indication that, although methoxy species are also adsorbed on the titania support surface, no reaction
+towards an intermediate (formaldehyde), spectator species (formate) or final product (methyl formate) is taking place.
+On cooling under pure He flow; a decrease of the gaseous phase methanol peaks was observed. Subsequently, the
+support was treated for 30 min at 160 oC under He flow (Supplementary and a slight decrease in adsorbed
+methoxy species was observed due to their partial desorption.
+The above observations and assignments of the adsorbed species are also listed in Supplementary , together
+with the corresponding calculated vibrational frequencies.
+
+DFT and AIMD calculations – Model evolution towards identifying the nature of the active
+site under reaction conditions and reaction mechanism for MF formation
+Given that the unsupported clusters were found active for methanol self-coupling (as well as WGS), we decided to
+model the clusters without considering any supports in the DFT model. In fact, the lack of support effects for such
+catalytic systems is well documented in the literature. As an example, Wittstock et al.39. have shown that methyl
+formate can be produced during the oxidative self-coupling of methanol on unsupported nanoporous Au prepared by
+dealloying AuAg alloys. The authors found that “the overall catalytic characteristics of nanoporous Au are in
+agreement with studies on Au single crystals”, thus concluding that “the selective surface chemistry of Au is unaltered
+but that O can be readily activated with this material”. In a perspective on this paper, written by Christensen and
+
+Nørskov40, it was argued that the number of low-coordinated gold atoms is the most decisive factor determining Au
+activity. The same argument is propagated in another paper by Lopez et al.41. In that work, the authors analyzed the
+CO oxidation rates over Au supported on different reducible and irreducible oxides, and combined this with DFT
+calculations of the effect of metal coordination numbers in comparison to the role of charge transfer, layer thickness,
+and interactions with the support to eventually attribute the highest importance to the effect of low coordination of Au
+over other effects, including support effects. We have shown that Au -O -Na -(OH) or Au -O -K -(OH) catalyse the
+1 x 9 y 1 x 9 y
+low temperature (<200 °C) WGS reaction independent of the choice of support (KLTL-zeolite or mesoporous MCM-
+41 silica)1. The intrinsic activity of the single-site gold species is the same on irreducible supports as on reducible
+ceria, iron oxide, and titania supports, apparently all sharing a common, similarly structured gold active site. This is
+indeed the same message communicated through Supplementary (for WGS) and Supplementary (for
+SRM), in which the same apparent activation energy was found for gold catalysts on a variety of supports. Given this
+discussion, we have decided to model the intrinsic active sites of these reactions; i.e. the support-independent gold-
+centric oxo-clusters.
+Using ab initio molecular dynamics (AIMD), four structures of the cluster Au -O -Na -(OH) were found in our recent
+1 x 9 y
+work1 to be suitable models for the WGS reaction. Here, we investigated these four clusters: Au -O -Na -(OH) , Au -
+1 2 9 9 1
+O -Na -(OH) , Au -O -Na -(OH) , and Au -O -Na -(OH) for methanol self-coupling, with the goal of studying the
+3 9 7 1 6 9 2 1 7 9 2
+catalytic cycle on these clusters, including the production of MF and 2H . However, instead of forming formaldehyde
+
+as the product of methanol dehydrogenation, dioxy-methylene species was formed, by bonding formaldehyde to an
+O/OH group of the cluster models, as depicted in Supplementary 
+
+reaction42. Therefore, HCOO formation on Au sites holds precedence in relevant reactions, irrespective of the support
+(or the lack thereof). This is problematic, since the dehydrogenation of this dioxy-methylene species to formate has
+been found to be exothermic on all clusters studied in this work. Therefore, dioxy-methylene species is a precursor of
+formate formation. Not only is formate not a direct reaction intermediate in methanol dehydrogenation, but it also
+significantly lowers the Bader charge on Au, turning Au anionic in the presence of two HCOO groups on Au -O -
+1 7
+Na -(OH) , and in the presence of a single HCOO group on all other three cluster models, (see Supplementary 2
+34). This defies experimental evidence, which determined Au to be cationic; namely, AuIII for the as-prepared catalyst
+
+and AuI for the used catalyst. Therefore, we conclude that none of these models accurately represent the nature of the
+active site.
+As done in our previous work1, we enriched the above Au-centric clusters with more electron-withdrawing –O groups
+either by directly adding O atoms or by removing H atoms, thus raising the Bader charge on Au in the process. We
+stopped adding O-groups when the Bader charge on Au became close to that of AuI (+0.41 e). This criterion provides
+a lower limit on the number of O atoms added or H atoms removed from the clusters. Importantly, the new clusters
+must favor the formation of formaldehyde, as opposed to dioxy-methylene species to avoid forming additional formate
+species, and thus reducing the Bader charge on Au below that of AuI. This latter criterion provided an upper bound on
+the number of –O groups on the evolved cluster models. If there were too many –O groups, the Bader Au charge
+would be too high to sustain a formaldehyde species, which would rather prefer to bond to an O/OH group instead of
+the Au center, thus forming the dioxy-methylene species. This was the case for the modifications (+O-H) and (+O-
+2H) of Au -O -Na -(OH) (see Supplementary , (+O), (+2O), (+O-H), (+2O-H), and (+O-2H) of Au -O -Na -
+1 2 9 9 1 3 9
+(OH) (see Supplementary , (+O), (+2O), (+O-H), (+O-2H), and (+2O-2H) of Au -O -Na -(OH) (see
+7 1 6 9 2
+Supplementary , and (+2O), (+2O-H), (+2O-2H), (+3O-2H), and (+4O) of Au -O -Na -(OH) (see
+1 7 9 2
+Supplementary . Only three modifications satisfied both criteria mentioned above: (+O) of Au -O -Na -(OH)
+1 2 9 9
+thus yielding Au -O -Na -(OH) (see Supplementary , (+2O-2H) of Au -O -Na -(OH) thus yielding Au -O -
+1 3 9 9 1 3 9 7 1 7
+Na -(OH) (see Supplementary , (+2O-H) of Au -O -Na -(OH) thus yielding Au -O -Na -(OH) (see
+9 5 1 6 9 2 1 9 9 1
+Supplementary . All these structures were optimized to arrive at their minimum-energy configurations.
+Subsequently, the Au Bader charge was calculated to verify that the afore-mentioned modifications – in their most-
+stable structures – pass our selection criteria. This screening process was performed using static DFT calculations for
+computational efficiency, while the computationally demanding AIMD were reserved to studying the methanol self-
+coupling reaction on the three selected clusters. Importantly, the identity (i.e. stoichiometry) of the resultant clusters
+from the above screening process will not have been different had AIMD been used during the screening process.
+Specifically, the rejected modifications above had conclusively violated our selection criteria (their Au Bader charges
+were considerably less than +0.41 e, and their preference to dioxy methylene species was decisive, as shown in
+Supplementary -38), and this violation will not have been flipped had AIMD been performed during the
+selection process. As for the selected clusters, they were re-optimized using AIMD, and then used for investigating
+the methanol self-coupling reaction using AIMD calculations, as explained in the following section.
+AIMD simulations: methanol coupling on the evolved cluster models
+We reserved the costly AIMD simulations to the elucidation of reaction energetics of methanol coupling with
+formaldehyde to methyl formate. The reaction network reported for the oxidative dehydrogenation (ODH) of methanol
+on O/Au43 involves the dehydrogenation of methanol (CH OH) to methoxy (CH O) and then formaldehyde
+3 3
+(CH O), followed by their coupling to first form (H COOCH ), and then MF (HC(=O)OCH ). Other gold catalysts
+2 2 3 3
+share the same mechanism, for example, ODH of CH OH on nanoporous gold (doped with Ag)44; and non-oxidative,
+
+and dry methanol reactions on supported Au/CeO 45; and Au/ZnO46, where methyl formate was the only product
+
+observed—no formate. This is corroborated by the in situ DRIFTS in this paper that shows formate as a
+spectator species in this chemistry. In our model, the resultant hydrogen atoms of the dehydrogenation steps are
+
+eliminated to the cluster, and therefore to regenerate the catalytic site, MF and 2 H
+
+molecules must be desorbed. The
+catalytic cycle is depicted in the potential energy diagram of Supplementary 
+E = E – E – E
+ads cluster+methanol cluster(g) methanol(g)
+where, E is the AIMD-calculated total energy of methanol/methoxy adsorbed on the cluster model, E
+cluster+methanol cluster(g)
+is the AIMD-calculated total energy of the cluster model without the methanol molecule being present, and E
+methanol(g)
+is the calculated total energy of a methanol molecule isolated at infinite separation from the cluster model. All energies
+used in this definition are those of the most stable configurations, which were found after an exhaustive search for the
+minimum-energy adsorption structures. Using this definition, more negative E means stronger adsorption. As shown
+ads
+in of main text and Supplementary -41, E is quite exothermic (i.e. negative) on all cluster models.
+ads
+Following this step is the dehydrogenation of adsorbed methanol/methoxy to dioxy-methylene species, which in turn
+dehydrogenates to formate (HCOO). This process is repeated twice (via the addition of a second methanol) on Au -
+
+O -Na -(OH) and Au -O -Na -(OH) , as presented in Supplementary and Supplementary , respectively.
+9 9 1 1 7 9 5
+Following this step, the catalytic cycle starts with the adsorption of methanol, its dehydrogenation to formaldehyde
+bonded to the cationic Au center, the coupling of formaldehyde and methoxy to H COOCH followed by its
+2 3
+dehydrogenation to MF, and its desorption together with 2 H molecules. This catalytic cycle is depicted in the
+
+potential energy diagram of Supplementary , which shows a prohibitively expensive desorption step, with
+thermochemical barriers of more than 2.50 eV. These large barriers are mainly attributed to the difficulty of stripping
+hydrogen atoms away in the –OH linkages. MF desorption energies are only 0.58 eV, 0.75 eV, and 0.75 eV for Au -
+
+O -Na -(OH) , Au -O -Na -(OH) , and Au -O -Na -(OH) , respectively.
+3 9 9 1 7 9 5 1 9 9 1
+We propose alternative pathways for Au -O -Na -(OH) and Au -O -Na -(OH) to circumvent this difficult desorption
+1 3 9 9 1 7 9 5
+step. The alternative path involves the addition of an additional methanol to the Au-centric clusters which remains
+adsorbed during the coupling step. For Au -O -Na -(OH) , the minimum energy pathway involves the desorption of
+1 3 9 9
+MF and 3/2 H , the dehydrogenation of CH O to CH O, and finally the desorption of ½ H to regenerate the active
+2 3 2 2
+site at the CH O-HCOO stage (see . For Au -O -Na -(OH) , the minimum energy pathway involves the
+2 1 7 9 5
+dehydrogenation of the additional methoxy to formaldehyde, followed by the desorption of MF + 2 H (see
+
+Supplementary . Importantly, desorption becomes easier after more dehydrogenation steps were allowed
+subsequent to the adsorption of an additional methanol. A common observation for most H abstraction steps on our
+clusters is that they are abstracted easier from water-like intermediates (formed by successively adding the resultant
+H from the prior dehydrogenation steps to –O/-OH groups) than from OH groups, which is understandable given the
+relative ease of cleaving the O-H bond in H O than in OH. Using this approach, the maximum thermochemical barriers
+
+encountered on Au -O -Na -(OH) and Au -O -Na -(OH) fall to 0.83 eV and 1.73 eV, respectively. As a result, Au -
+1 3 9 9 1 7 9 5 1
+O -Na -(OH) seems to be the most plausible candidate for representing the active site under reaction conditions. We
+3 9 9
+note that 0.83 eV (~80 kJ/mol) is close to the experimentally-determined apparent activation energy of ~95 kJ/mol.
+
+Finally, we kept track of the calculated Bader charge on Au at each structure, starting from the undecorated cluster,
+followed by its decoration by permanent HCOO spectators, and by the different stages of the catalytic cycle ,
+Supplementary -41). The undecorated clusters possess a high Au Bader charge close to AuIII of (+1.11 e). The
+decorated active sites have their Au Bader charge close to the AuI charge of (+0.41 e), as expected by their design (see
+previous section). This also could come as a direct result of the opening of the Au environment which becomes less
+coordinated with O, and thus, prone to binding formaldehyde, compared to the bare undecorated cluster where Au
+was coordinated with multiple O atoms. The decrease in Au-O coordination is captured by our EXAFS results as
+discussed above (see Supplementary . The Au charge varies during the catalytic cycle, turning anionic after
+the coupling steps, but not before. This indicates that cationic Au is responsible for the coupling reaction/step. Cationic
+Au is regenerated after desorption of products. While our alternative pathways do not deliver the clusters back to the
+AuI charge, we note that AuI was not the exclusive product of the XPS analysis (Supplementary .
+Deciphering the role of Na via charge density difference plots
+To determine the role of Na in bonding, we constructed charge density difference plots for Au -O -Na -(OH) , Au -
+1 3 9 9 1
+O -Na -(OH) , and Au -O -Na -(OH) , as shown in Supplementary Figs. 42-44. We constructed these plots for the
+7 9 5 1 9 9 1
+undecorated clusters (panel A of each figure), and the clusters decorated with appropriate number (as discussed earlier)
+of HCOO groups (panel B of each figure). For panel A of each figure, the charge density difference was calculated as
+the charge density of the full undecorated cluster minus the cluster without Na and minus Na atoms, keeping the
+configurations of the last two fixed (eq. 1). Panel B of each figure was constructed similarly, by visualizing the charge
+density difference between the full system and the cluster without formate and the formate group(s), keeping the last
+two fixed (eq. 2). All plots are displayed for charge difference isosurface of 0.01 Å-3. For clarity, the charge density
+difference (Δρ) is constructed as:
+Δρ[panel A] = ρ[full system] – ρ[system excluding Na|fixed] – ρ[Na|fixed] (eq. 1)
+Δρ[panel B] = ρ[full system] – ρ[system excluding HCOO|fixed] – ρ[HCOO|fixed] (eq. 2)
+The figures show that O/OH groups (being more electronegative) accumulate more of the charge density, while Au
+orbitals experience a mixture of accumulation and deficiency in their charges. In the presence of formate (panel B),
+most of the charge accumulates over the oxygen atoms of HCOO groups, while Au still experiences a mixture of
+accumulation and deficiency. It is important to note that such analysis is qualitative, and that Bader charge analysis
+(which is presented throughout the work) gives more accurate estimate of the actual charge on each ion/atom.
+Notably, however, all Na atoms lack any charge density difference cloud in their vicinity, indicating their lack of
+bonding to Au. To aid this point, we are presenting the shortest Au-Na distances in the captions of Supplementary
+Figs. 42-44. The long calculated distances (~3.1Å) corroborate the EXAFS spectra (Supplementary , and
+reveal the absence of a chemical bond between the two species. Also, Na does not affect the bond between O and H
+in the soft –OH ligands surrounding the Au center, with typical O-H bond lengths in the –OH groups in our cluster
+models around 0.968-0.971 Å, which closely match the O-H bond length (0.96 Å)47 in the free OH radical.
+
+To more directly tackle the question of the role of Na in the reaction, we note that Na does not activate any of the
+several dehydrogenation steps involved in the mechanism. That is, H atoms would bind to –O/-OH linkages or to the
+Au center (when enough of the –O/-OH linkages have been saturated), but it is quite unstable for H atoms to bind to
+Na instead. That said, it is important to note that several adsorbates bind to the Na sites, including active intermediates
+(e.g. CH O, HCOOCH ), as well as the spectator species HCOO (and its precursor, OCH O). We do not see, again,
+3 3 2
+any charge difference clouds around Na sites when adsorbates (e.g. HCOO) are present, as shown in Supplementary
+-44. Therefore, it seems that Na plays the role of an inert support that does not interfere chemically in the
+reaction mechanism. It only provides adsorption sites (e.g. three-fold hollow sites for OH groups).
+Hybrid functional corrections for energy and Au charge of the PW91-optimized geometries
+We provide an assessment of the accuracy of our level of theory (GGA-PW91) by comparing some of our results to
+the corresponding values obtained through a single-point calculation of the hybrid functional HSE0648 on the PW91
+optimized geometries (thereafter denoted as HSE//PW91). Although a fully accurate assessment would entail the
+optimization of the geometry using HSE06 (including the application of this functional to AIMD calculations), the
+single-point calculation offers a computationally feasible first approximation to estimating the GGA-PW91 accuracy
+in comparison to HSE06. Given the central role methanol adsorption plays in our reaction network, we compare PW91
+and HSE//PW91 results for the adsorption energies of all methanol molecules on all three clusters, as well as the
+associated Bader charges on Au for the resulting methanol-containing stages. This comparison is presented in
+Supplementary (for energies) and Supplementary (for charges). Except for the adsorption of the first
+methanol molecule, most other adsorption energies are fairly close (i.e. within 0.10 eV) when comparing PW91 to
+HSE//PW91, as is shown in Supplementary 
+1 7 9 5
+practically invariant through either functional: methanol adsorption is strongly favorable on all three clusters. The
+parallel picture with Au Bader charges is also practically invariant across functionals, given that the differences in the
+calculated Au Bader charge for all structures are within 0.10 e; see Supplementary 
+To provide additional evidence on the validity of our cluster models, we calculate the theoretical radial distribution
+functions (RDF) with respect to the Au atom for the three clusters we modeled and compare them to those obtained
+experimentally through EXAFS and the X-Ray pair distribution function (PDF, see Supplementary .
+Specifically, we seek to reproduce distances in the region of up to 4 Å (where ordering is observed in experimental
+measurements), through the RDFs of our individual cluster models.
+The three clusters contain different Au coordination; their local Au coordinations are shown in Supplementary A. To calculate the RDFs for the clusters at a reasonable computational cost, we performed AIMD in smaller unit
+cells (with dimensions of 15 Å x 15.5 Å x 15.2 Å) than our reactivity calculations. In our simulations the timestep was
+
+set to 1 fs, the sampling temperature was 300 K and was controlled by the Anderson thermostat (which performs better
+than Nosé-Hoover in modeling structural characteristics of 3D materials; e.g. zeolites49, 50). After equilibration of 2
+ps, for each cluster, 10 trajectories of at least 1.5 ps each were modeled, leading to a total sampling time of more than
+15 ps. Subsequently the nearest neighbor distances of the Au atom were extracted from the MD runs and the
+corresponding radial distribution functions are shown in Supplementary 
+to nearest neighbor peaks at 1.88 Å, 2.02 Å and 2.10 Å, respectively. Specifically, the Au-O bond distances calculated
+for the square planar geometry agree well with the experimentally determined values. At the same time, the
+experimentally measured coordination number (CN) of 3 implies that a superposition of linear (CN=2) and square
+planar structure (CN=4) might exist, which cannot be excluded based on the modeled RDF alone.
+Subsequently, we analyze the second coordination shell between Au and Na and find peaks at 2.86 Å and 3.10 Å for
+Au -O -Na -(OH) and Au -O -Na -(OH) , respectively. Both values significantly underestimate the experimentally
+1 9 9 1 1 7 9 5
+determined values of 3.30 Å/3.36 Å observed in EXAFS and PDF. The Au -O -Na -(OH) cluster, on the other hand,
+1 3 9 9
+shows a maximum at 3.40 Å, in good agreement with the experimentally measured distances and even the
+experimentally observed shoulder at 3.63 Å/3.67 Å is well reproduced.
+The comparison between theoretically modeled RDFs and experiments indicate that a mixture of the structures
+containing a square planar and linearly coordinated Au atom is possibly present. That structure may retain a similar
+second coordination shell as the Au -O -Na -(OH) cluster. The presence of Au -O -Na -(OH) supported by the RDF
+1 3 9 9 1 3 9 9
+analysis furthermore agrees well with CO-TPR result, where an Au:OH ratio of 1:9.3 is found.
+Calculation of XPS shifts for Au -O -Na -(OH)
+1 3 9 9
+To further explore the presence of the cluster model shown in we use VASP and the initial state approximation
+as described by Köhler and Kresse51 to calculate the shift in XPS binding energies of the 4f core electrons with respect
+to bulk Au. Calculations for the cluster were performed using the computational setup described above, and bulk Au
+was modeled with an optimized lattice constant of 4.16 Å and an 11x11x11 Monkhorst-Pack k-point. Using this
+approach, we calculated a shift in XPS binding energies of 1.62 eV for Au -O -Na -(OH) .
+1 3 9 9
+In a next step we compare the calculated shift in XPS binding energies to experimental results for the unsupported as-
+synthesized cluster displayed in Supplementary 
+Au atoms on a SiO support has been reported53. Therefore, theoretically-calculated shifts in XPS energies for Au -
+2 1
+O -Na -(OH) agree with experimental measurements of the dried unsupported Au -O -Na -(OH) powder shown in
+3 9 9 1 x 9 y
+Supplementary 
+Supplementary 
+prepared Au -O -Na -(OH) is III.
+1 x 9 y
+Supplementary 
+identified by peak fitting: -OH (66%); O-Au (24%); O-Na (10%). The result (a) indicates that Na bonds with
+O and (b) indicates that the catalyst has abundant OH species and the atomic ratio of O in O-Au and in
+O-H is about 1:3.
+
+Supplementary 
+TiO XRD featuring peaks are detected, indicating gold-oxo clusters are highly dispersed;
+
+(c) Bare Al O support and gold-containing catalyst as Au -O -Na -(OH) /Al O , made by IWI, the
+2 3 1 x 9 y 2 3
+absence of noticeable change to the Al O XRD peaks indicates the non-destructible change of the
+2 3
+support on the impregnation of Au -O -Na -(OH) .
+1 x 9 y
+
+Supplementary 
+anatase. Impregnating Au -O -Na -(OH) does not modify the surface binding environment of TiO .
+1 x 9 y 2
+Supplementary 
+by the decrease of white line;
+(b) as-prepared 0.5 wt.% Au -O -Na -(OH) /TiO with liquid N cooling (~113 K), the catalyst is s x 9 y 2 2
+under beam irradiation.
+
+Supplementary 
+contours are drawn around pseudo sub-nm clusters.
+
+Supplementary 
+square contours are drawn around pseudo sub-nm clusters. What appears as sub-nm clusters are poorly
+resolved gold atoms, close to one another, but not in contact. Single atoms are the majority species.
+
+Supplementary 
+
+Supplementary 
+from Supplementary 
+2 2 2
+the stoichiometry of the WGS reaction.
+Supplementary 
+TPR, linearly heated from 50-300 oC, at 5 oC/min, in 10 % CO- He). Rates were measured at 120 oC.
+
+Supplementary 
+TOF plot of the WGS reaction over various gold catalysts with stable atomically dispersed gold. The data
+for 1.16 wt.% Au/TiO UV-L are from , the data for 0.25 wt.% Au-K/KLTL are from , data for 0.5
+
+wt.% Au/CeO (DP) are from , and the data of Au/Fe O are from .
+2 2 3
+
+Supplementary 
+2 2
+shows good cyclic stability under WGS reaction.
+Supplementary 
+sample, 5 oC/min heating rate). The data shows that the Au -O -Na -(OH) can catalyse WGS reaction
+1 x 9 y
+without any support.
+
+Supplementary 
+mixture at 200 oC for 1 h. The oxidation state of Au changed from III in the as-prepared Au -O -Na -(OH)
+1 x 9 y
+/TiO catalyst to I in the used catalysts after the reaction. The Au is mainly in metallic state in the used 4.8
+
+wt.%/TiO (DP) catalyst after the reaction.
+
+Supplementary 
+not experience any noticeable changes for the supported Au -O -Na -(OH) catalysts after WGS reaction.
+1 x 9 y
+
+Supplementary 
+
+to 300 °C with 2 °C/min heating rate. Single Au atom, [Au -O ], is responsible for the low-temperature
+1 x
+SRM reaction.
+
+Supplementary 
+x
+(b) Au -O -Na -(OH) on different supports (made by IWI), the Au -O -Na -(OH) is equally active towards
+1 x 9 y 1 x 9 y
+SRM reaction regardless of support types.
+Supplementary 
+3 2
+catalyst loading; 7.5 h on-stream.
+
+Supplementary 
+3 2
+flow rate = 20 mL/min; 100 mg catalyst loading; 8 h on-stream.
+Supplementary 
+3 2
+mL/min; 100 mg catalyst loading; 8 h on-stream.
+
+Supplementary 
+powder; 800 mg sample loading; 10% CH OH, bal. He, 20 mL/min, 2 oC/min. Unsupported Au -O -Na -
+3 1 x 9
+(OH) can catalyse methanol self-coupling reaction.
+y
+
+Supplementary 
+(probably Au0) in used unsupported Au -O -Na -(OH) ; and 86% AuI and 14% Auδ+(probably Au0) in used
+1 x 9 y
+supported 1.0 wt.% Au -O -Na -(OH) /TiO .
+1 x 9 y 2
+
+Supplementary 
+x 9 y 2 1 x 9 y 1 x 9 y 2
+under reaction conditions (10 % CH OH- He for 1.0 hr at 150 °C (10 mg sample, 20 mL/min flow),
+
+protected by He and transferred to the cell with liquid N purging.); (d) as-prepared unsupported Au -O -
+2 1 x
+K -(OH) .
+9 y
+Supplementary 
+1 x 9 y 2
+% CH OH, bal. He, total flow rate=20 mL/min; 2 h on-stream.
+
+Supplementary 
+1 x 9 y 2
+170 °C. 10 % CH OH, bal. He, total flow rate=20 mL/min; 2 h on-stream.
+
+Supplementary 
+1 x 9 y
+phase of titania best matching the diffraction peaks. 1.0 wt.% Au -O -Na -(OH) was used steady-state
+1 x 9 y
+test of non-oxidative methanol self-coupling at 170 °C. 10 % CH OH, bal. He, total flow rate=20 mL/min;
+
+2 h on-stream.
+
+Supplementary 
+used 0.5 wt.%Au -O -Na -(OH) /TiO . The bond length of Au-O and Au-Au are from reference samples of
+1 x 9 y 2
+Au O and Au foil.
+2 3
+
+Supplementary 
+conditions;
+(b) Surface OH groups in µmol/g measured by CO-TPR up to 200 oC; and the corresponding non-
+cat
+oxidative methanol self-coupling reaction rate as a function of the Na:Au atomic ratio in Au -O -Na -(OH)
+1 x 9 y
+/TiO ;
+
+(c) CO-TPR over unsupported Au -O -Na -(OH) , 10 mg sample fine powder mixed with 1000 mg SiC
+1 x 9 y
+was pretreated under 100 oC with He flowing for 1h.
+
+Supplementary 
+4 keV, which includes NaK and AuM, making it possible to calculate the ratio of Au:Na. The method of
+EDAX ZAF Quantification (Standardless) was used to do quantification. The value of Au:Na was obtained
+by averaging the results of three different areas of the sample.
+Supplementary 
+min, He flow and (e) 150 min, He flow.
+
+Supplementary 
+CH OH at room temperature, (b) CH OH saturated He flow at 160 oC after (a), (c) pure He at RT after (b),
+3 3
+(d) 0.5 h pure He at 160 oC after (c).
+
+Supplementary 
+methylene species (in which formaldehyde is coordinated to an O atom, rather than the Au center) then
+finally to formate. This process takes place twice for Au -O -Na -(OH) for Bader charge on Au to be
+1 7 9 2
+negative, while only 1-HCOO group is enough to turn Au anionic on all other three cluster models. Some
+structures are cropped to focus the attention on the decorating species. The labels of these structures
+represent species decorating the cluster at each stage, with balance H atoms (relative to appropriate
+multiples of CH OH) not mentioned explicitly. Values above each structure give the calculated Bader charge
+
+on Au (in e), while values on the arrows in between structures represent calculated reaction energies (in
+eV) for the respective steps. Green arrows represent exothermic steps. For each structure, Au, Na, C, O,
+and H atoms are represented by yellow, purple, grey, red, and white spheres, respectively. Structures were
+visualized using Materials Studio 4.1.0.
+
+Supplementary 
+structure. Removing an H atom from this structure raises the Bader charge on Au to be positive (yellow
+bar), but lower than +0.41 e of AuI as represented by the vertical dotted line on the bar chart. Adding an O
+atom, adding an O atom and removing an H atom, or adding an O atom and removing 2H atoms raise the
+Bader charge on Au to or above +0.41 e, as represented by the green bars. Only the structure arising from
+adding a single O atom produces formaldehyde, while the other two modifications represented by green
+bars favor the formation of dioxy-methylene species, which exothermically dehydrogenates to formate, thus
+turning Au anionic again. The resulting structure is Au -O -Na -(OH) . Some structures are cropped to focus
+1 3 9 9
+the attention on the decorating species. The labels of these structures represent species decorating the
+cluster at each stage, with balance H atoms (relative to appropriate multiples of CH OH) not mentioned
+
+explicitly. Values above each structure represent calculated Bader charge on Au (in e), while values on the
+arrows in between structures represent calculated reaction energies (in eV). Green arrows represent
+exothermic steps. Each bar in the bar chart represents a single data point. For each structure, Au, Na, C,
+O, and H atoms are represented by yellow, purple, grey, red, and white spheres, respectively. Structures
+were visualized using Materials Studio 4.1.0, and the bar chart was plotted using Origin 9.1.0.
+
+Supplementary 
+structure. Removing an H atom from, or adding an O atom to this structure raises the Bader charge on Au
+to be positive (yellow bars), but lower than +0.41 e of AuI as represented by the vertical dotted line on the
+bar chart. Adding an O atom and removing an H atom, or adding an O atom and removing 2H atoms raise
+the Bader charge on Au above +0.41 e, as represented by the green bars. None of the resulting structures
+produce formaldehyde; all of them favor dioxy-methylene which exothermically dehydrogenates to formate,
+thus turning Au anionic again. At this stage, we added a second O atom to each of the resulting
+configurations, with only the configuration represented by the green hollow arrow producing a Bader Au
+charge around +0.41 e. This cluster model would later favor formaldehyde to dioxy-methylene as
+represented by the thick green arrow. The resulting structure is Au -O -Na -(OH) , made possible by adding
+1 7 9 5
+2 O atoms and removing 2 H atoms relative to the starting structure. Some structures are cropped to focus
+the attention on the decorating species. The labels of these structures represent species decorating the
+cluster at each stage, with balance H atoms (relative to appropriate multiples of CH OH) not mentioned
+
+explicitly. Values above each structure represent the calculated Bader charge on Au (in e), while values on
+the arrows in between structures represent calculated reaction energies (in eV). Green arrows represent
+exothermic steps. Each bar in the bar chart represents a single data point. For each structure, Au, Na, C,
+O, and H atoms are represented by yellow, purple, grey, red, and white spheres, respectively. Structures
+were visualized using Materials Studio 4.1.0, and the bar chart was plotted using Origin 9.1.0.
+
+Supplementary 
+structure. Removing an H atom from this structure raises the Bader charge on Au to be positive (yellow
+bar), but lower than +0.41 e of AuI as represented by the vertical dotted line on the bar chart. Adding an O
+atom, or adding an O atom and removing an H atom, or adding an O atom and removing 2H atoms raise
+the Bader charge on Au above +0.41 e, as represented by the green bars. None of the resulting structures
+produce formaldehyde; all of them favor dioxy-methylene which exothermically dehydrogenates to formate,
+thus lowering the Au charge below that of AuI or turning Au anionic again. At this stage, we added a second
+O atom to each of the resulting configurations, with only the configuration represented by the green hollow
+arrow producing a structure with Bader Au charge around +0.41 e, and would later favor formaldehyde to
+dioxy-methylene as represented by the thick green arrow. The resulting structure is Au -O -Na -(OH) ,
+1 9 9 1
+made possible by adding 2 O atoms and removing 1 H atom relative to the starting structure. On the other
+hand, the red thick arrow yields a structure with 2-HCOO groups and a dioxy-methylene species, which
+then dehydrogenates to a third HCOO group, turning Au anionic again. Some structures are cropped to
+focus the attention on the decorating species. The labels of these structures represent species decorating
+the cluster at each stage, with balance H atoms (relative to appropriate multiples of CH OH) not mentioned
+
+explicitly. Values above each structure represent the calculated Bader charge on Au (in e), while values on
+the arrows in between structures represent calculated reaction energies (in eV). Green arrows represent
+exothermic steps. Each bar in the bar chart represents a single data point. For each structure, Au, Na, C,
+O, and H atoms are represented by yellow, purple, grey, red, and white spheres, respectively. Structures
+were visualized using Materials Studio 4.1.0, and the bar chart was plotted using Origin 9.1.0.
+
+Supplementary 
+structure. Removing 2 H atoms, or adding an O atom, or adding an O atom and removing 2 H atoms from
+this structure raise the Bader charge on Au to be positive (yellow bars in the left bar chart), but lower than
++0.41e of AuI as represented by the vertical dotted line on the left bar chart. Adding 2 O atoms raises the
+Bader charge on Au above +0.41 e, as represented by the green bar on the left bar chart. The resulting
+structure favors dioxy-methylene which exothermically dehydrogenates to formate, thus turning Au
+anionic again as represented by the top red bar in the right bar chart. At this stage, removing an H atom
+raises the Bader charge on Au, but Au remains anionic as represented by the second-to-top red bar in the
+right bar chart. Removing 2 H atoms, or adding a third O atom raises the Bader charge on Au to be
+positive (yellow bars in the right bar chart), but lower than +0.41 e of AuI as represented by the vertical
+dotted line on the right bar chart. Adding a third O atom and removing 2H atoms, or adding 2 additional O
+atoms raise the Bader charge on Au above +0.41 e, as represented by the green bars in the right bar
+chart. Both resulting structures favor the formation of dioxy-methylene, followed by its exothermic
+dehydrogenation to formate, thus turning Au anionic again. Therefore, no resulting structures could be
+considered candidates for MF production. Some structures are cropped to focus the attention on the
+decorating species. The labels of these structures represent species decorating the cluster at each stage,
+with balance H atoms (relative to appropriate multiples of CH OH) not mentioned explicitly. Values above
+
+each structure represent the calculated Bader charge on Au (in e), while values on the arrows in between
+structures represent calculated reaction energies (in eV). Green arrows represent exothermic steps. Each
+bar in the bar chart represents a single data point. For each structure, Au, Na, C, O, and H atoms are
+represented by yellow, purple, grey, red, and white spheres, respectively. Structures were visualized
+using Materials Studio 4.1.0, and the bar charts were plotted using Origin 9.1.0.
+
+Supplementary 
+thermochemical barrier for the desorption of MF + 2 H . Au -O -Na -(OH) (blue line) and Au -O -Na -(OH)
+2 1 7 9 5 1 9 9 1
+(red line) are decorated with 2-HCOO groups, and experience 2.58 eV and 3.42 eV thermochemical barriers
+for the desorption of MF + 2 H , respectively. The major contribution to these barriers involves the
+
+desorption of hydrogen; MF desorption energy is 0.58 eV, 0.75 eV, and 0.75 eV for Au -O -Na -(OH) , Au -
+1 3 9 9 1
+O -Na -(OH) , and Au -O -Na -(OH) , respectively. Alternative pathways are described in and
+7 9 5 1 9 9 1
+Supplementary -41. This figure was plotted using Origin 9.1.0.
+
+Supplementary 
+cluster to form the working active site, and then the catalytic cycle.
+The energy of all stages is relative to the undecorated cluster + 4 CH OH molecules. Stages 2-4 are
+
+balanced with 3 CH OH, stages 5-7 are balanced with 2 CH OH, stages 8-9 are balanced with 1 CH OH,
+3 3 3
+and the last stage (nominally, stage 7 again) is balanced with MF + 2H . The last stage in the PED has
+
+the same cluster structure as that of stage 7, but is balanced with MF + 2H instead of 2 CH OH. The
+2 3
+desorption of MF+2H to arrive at the last stage from stage 12 is the most endothermic step in the PED.
+
+The dotted box encompasses the stages representing the catalytic cycle. The undecorated cluster is
+magnified in the left bottom corner. All other structures are cropped to emphasize the adspecies present.
+The labels of these structures represent species decorating the cluster at each stage, with balance H
+atoms (relative to appropriate multiples of CH OH) not mentioned explicitly. Circled numbers are a visual
+
+aid to guide the order of events taking place on the clusters, and they follow the order of stages in the
+PED. The bar chart shows the calculated Bader charge on Au for each structure. Each bar represents a
+single data point. Bars are colored with the same colors of the titles of the corresponding structures, as
+well as numbered according to the circled numbers of the corresponding structures. Au, Na, C, O, and H
+atoms are represented by yellow, purple, grey, red, and white spheres, respectively. The pink, orange,
+blue, and green spheres all represent oxygen atoms, specifically, the oxygen atoms of the first, second,
+third, and fourth CH OH, respectively. All these oxygen atoms are circled with black dashed circles, and
+
+the newly added methanol molecules (when applicable) have their oxygen atoms highlighted with a black
+arrow. Since the structures are cropped, the number of dashed circles surrounding the colored oxygen
+atoms could be less than the total number of C-species adsorbed. Structures were visualized using
+Materials Studio 4.1.0, and the PED and the bar chart were plotted using Origin 9.1.0.
+
+Supplementary 
+cluster to form the working active site, and then the catalytic cycle.
+The energy of all stages is relative to the undecorated cluster + 5 CH OH molecules. Stages 2-4 are
+
+balanced with 4 CH OH, stages 5-7 are balanced with 3 CH OH, stages 8-9 are balanced with 2 CH OH,
+3 3 3
+stage 10 is balanced with 1 CH OH, stages 14-15 are balanced with MF+3/2H and the last stage
+3 2
+(nominally, stage 9 again) is balanced with MF + 2H . The last stage in the PED has the same cluster
+
+structure as that of stage 9, but is balanced with MF + 2H instead of 2 CH OH. The desorption of MF+2H
+2 3 2
+to arrive at the last stage from stage 15 is the most endothermic step in the PED. The dotted box
+encompasses the stages representing the catalytic cycle. The undecorated cluster is magnified in the left
+bottom corner. All other structures are cropped to emphasize the adspecies present. The labels of these
+structures represent species decorating the cluster at each stage, with balance H atoms (relative to
+appropriate multiples of CH OH) not mentioned explicitly. Circled numbers are a visual aid to guide the
+
+order of events taking place on the clusters, and they follow the order of stages in the PED. The bar chart
+shows the calculated Bader charge on Au for each structure. Each bar represents a single data point. Bars
+are colored with the same colors of the titles of the corresponding structures, as well as numbered according
+to the circled numbers of the corresponding structures. Au, Na, C, O, and H atoms are represented by
+yellow, purple, grey, red, and white spheres, respectively. The pink, orange, blue, green, and black spheres
+all represent oxygen atoms, specifically, the oxygen atoms of the first, second, third, fourth, and fifth CH OH,
+
+respectively. All these oxygen atoms are circled with black dashed circles, and the newly added methanol
+molecules (when applicable) have their oxygen atoms highlighted with a black arrow. Since the structures
+are cropped, the number of dashed circles surrounding the colored oxygen atoms could be less than the
+total number of C-species adsorbed. Structures were visualized using Materials Studio 4.1.0, and the PED
+and the bar chart were plotted using Origin 9.1.0.
+
+Supplementary 
+cluster minus the cluster without Na and minus Na atoms, keeping the configurations of the last two fixed.
+For Panel b, the charge density difference was calculated as the charge density of the full system minus
+the cluster without formate and minus the formate group, keeping the last two fixed. Red regions represent
+charge accumulation, while green regions represent charge depletion. Charge density difference is shown
+at an isosurface of 0.01 Å-3. For reference, the undecorated cluster is shown in the ball-stick representation.
+The shortest Au-Na distance is 2.99 Å and 3.11 Å, for a) and b), respectively. Au, Na, C, O, and H are
+represented by yellow, purple, grey, red, and white spheres, respectively. The ball-stick structure was
+visualized using Materials Studio 4.1.0, and the charge density difference plots were visualized using
+VESTA 3.2.1.
+
+Supplementary 
+cluster minus the cluster without Na and minus Na atoms, keeping the configurations of the last two fixed.
+For Panel b, the charge density difference was calculated as the charge density of the full system minus
+the cluster without formate and minus the formate groups, keeping the last two fixed. Red regions represent
+charge accumulation, while green regions represent charge depletion. Charge density difference is shown
+at an isosurface of 0.01 Å-3. For reference, the undecorated cluster is shown in the ball-stick representation.
+The shortest Au-Na distance is 3.06 Å and 3.15 Å, for a) and b), respectively. Au, Na, C, O, and H are
+represented by yellow, purple, grey, red, and white spheres, respectively. The ball-stick structure was
+visualized using Materials Studio 4.1.0, and the charge density difference plots were visualized using
+VESTA 3.2.1.
+
+Supplementary 
+cluster minus the cluster without Na and minus Na atoms, keeping the configurations of the last two fixed.
+For Panel b, the charge density difference was calculated as the charge density of the full system minus
+the cluster without formate and minus the formate groups, keeping the last two fixed. Red regions
+represent charge accumulation, while green regions represent charge depletion. Charge density
+difference is shown at an isosurface of 0.01 Å-3. For reference, the undecorated cluster is shown in the
+ball-stick representation. The shortest Au-Na distance is 2.75 Å and 3.04 Å, for a) and b), respectively.
+Au, Na, C, O, and H are represented by yellow, purple, grey, red, and white spheres, respectively. The
+ball-stick structure was visualized using Materials Studio 4.1.0, and the charge density difference plots
+were visualized using VESTA 3.2.1.
+
+Supplementary 
+relative energies are positive, and the most stable structure has zero relative energy. The most stable
+structures (and not the other two structures for any stage) are used to construct our results of the reaction
+network and the discussion thereof). Au, Na, C, O, and H atoms are represented by yellow, purple,
+grey, red, and white spheres, respectively. The pink, orange, blue, and green spheres all represent oxygen
+atoms, specifically, the oxygen atoms of the first, second, third, and fourth CH OH, respectively. All these
+
+oxygen atoms are circled with black dashed circles, and the newly added methanol molecules (when
+applicable) have their oxygen atoms highlighted with a black arrow. Structures were visualized using
+Materials Studio 4.1.0.
+
+Supplementary 
+relative energies are positive, and the most stable structure has zero relative energy. The most stable
+structures (and not the other two structures for any stage) are used to construct our results of the reaction
+network ( and the discussion thereof). Au, Na, C, O, and H atoms are represented by yellow,
+purple, grey, red, and white spheres, respectively. The pink, orange, blue, green, and black spheres all
+represent oxygen atoms, specifically, the oxygen atoms of the first, second, third, fourth, and fifth CH OH,
+
+respectively. All these oxygen atoms are circled with black dashed circles, and the newly added methanol
+molecules (when applicable) have their oxygen atoms highlighted with a black arrow. Structures were
+visualized using Materials Studio 4.1.0.
+
+Supplementary 
+relative energies are positive, and the most stable structure has zero relative energy. The most stable
+structures (and not the other two structures for any stage) are used to construct our results of the reaction
+network ( and the discussion thereof). Au, Na, C, O, and H atoms are represented by yellow,
+purple, grey, red, and white spheres, respectively. The pink, orange, blue, and green spheres all represent
+oxygen atoms, specifically, the oxygen atoms of the first, second, third, and fourth CH OH, respectively. All
+
+these oxygen atoms are circled with black dashed circles, and the newly added methanol molecules (when
+applicable) have their oxygen atoms highlighted with a black arrow. Structures were visualized using
+Materials Studio 4.1.0.
+
+Supplementary

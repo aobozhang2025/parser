@@ -1,5 +1,576 @@
 DOI: 10.1038/s41929-019-0279-6
-Source: main
-==================================================
+Source: main text file
+--------------------------------------------------
 
-Methods Synthesis of PtNi alloy nanowires All chemicals were purchased from Sigma-Aldrich unless otherwise specified. In a typical synthesis, 20 mg Pt(acac) 2 and 40 mg Ni(acac) 2 were mixed with 130 mg glucose, 1.7 mg W(CO) 6 and 60 mg PVP-40 in a glass vial, with 5 ml of oleylamine and octadecene (3:2 volume ratio) as co-solvent. The mixture was heated to 140 °C for 6 h to form Pt–NiO core–shell nanowires. The resulting nanowires were collected via centrifuge at 7,000 r.p.m. for 20 min. After loading the nanowires on carbon black, the catalysts were then annealed under 450 °C in argon/hydrogen (97:3) atmosphere for 12 h to obtain the PtNi alloy nanowires supported on carbon black. Material
+Catalyst synthesis and characterizations
+A simple one-pot synthetic procedure followed by an annealing process in an argon/hydrogen mixture (Ar/H
+
+: 97/3) was used to produce the Ni-rich PtNi alloy nanowires (composition ~Pt
+
+Ni
+
+) with an average length of ~300 nm and diameter of ~4.5 nm (Supplementary 
+). The resulting PtNi nanowires were dispersed on a carbon support in ethanol to form the catalyst ink, which was then cast onto a glassy carbon rotating disk electrode (RDE, geometrical area = 0.196 cm
+
+) to form a homogeneous film. An electrochemical dealloying process was performed via cyclic voltammetry (CV) between 0.05 V and 1.10 V versus RHE in 0.1 M HClO
+
+to gradually remove nickel species. The ECSA gradually increased with increasing number of CV cycles and eventually saturated at ~112.9 ± 5.4 m
+
+g
+Pt
+−1
+after 200 cycles (Supplementary ,d
+), indicating completion of the dealloying process to obtain pure Pt nanowires (pure-PtNWs)
+
+. Such an ECSA evolution trend was also confirmed by acidic CO stripping experiments (Supplementary ,f
+). The average diameter was reduced from ~4.5 nm before to ~2.0 nm after the complete dealloying process (Supplementary 
+).
+To tailor nickel decoration in the resulting PtNWs, we interrupted the acidic CV dealloying process periodically to produce PtNWs with a different amount of nickel decorating species; the PtNWs were then transferred into nitrogen-saturated 1 M KOH for 100 additional CV cycles between 0.05 V and 1.6 V for further activation. The resulting dealloyed nanowires with selectively decorated Ni species were generally stable for the basic conditions under which their catalytic performance was evaluated. We initially used HER as a model reaction to evaluate the activity of the resulting PtNW catalysts with varying amount of nickel species (Supplementary 
+) and discovered that peak performance was achieved after 180 acidic dealloying CV cycles. Too much (<180 cycles) or too little (>180 cycles) nickel species reduced the overall HER activity (Supplementary 
+). The produced Ni species were stable under basic conditions. We thus focus our discussion on this optimum material produced with 180 dealloying CV cycles unless otherwise specifically mentioned.
+High-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) was used to probe the atomic structure of the resulting material. The HAADF-STEM results show an ultrafine one-dimensional (1D) crystalline configuration with rich surface defects, concave cavity sites and steps, as highlighted by white arrows in 
+. The HAADF-STEM image shows that the spacing is 0.225 nm 
+), ~2.2% smaller than that of crystalline Pt (0.230 nm). Compositional analysis by inductively coupled plasma atomic emission spectrometry (ICP-AES) revealed an overall Pt:Ni ratio of 92:8 for SANi-PtNWs, corresponding to 2.4 Ni atoms per square nanometre of surface area. Considering the Pt surface atom density of ~15 Pt nm
+−2
+, the surface Ni:Pt atom ratio is ~1:6. Electron energy loss spectroscopy (EELS) elemental mapping of Ni 
+) and a Ni overlaid on Pt HAADF contrast image 
+) reveals that the Ni atoms are sparsely distributed on the PtNWs.
+
+, Ni EELS mapping.
+c
+, Overlaid image of Ni-EELS mapping on Pt, with red representing Pt and green representing Ni.
+d
+,
+e
+, Pt EXAFS fitting result (
+d
+) and Ni EXAFS fitting result (
+e
+).
+Full size image
+We also conducted extended X-ray absorption fine structure (EXAFS) and X-ray absorption near-edge structure (XANES) measurements to probe the local atomistic and electronic structures. The oxidation state of Pt can be probed by the white line intensity at the Pt L
+
+-edge in XANES spectra
+
+. The Pt XANES result shows that the white line intensity of our sample (Supplementary 
+) is close to that of a Pt foil, indicating that the average oxidation state of Pt is mostly zero. The Pt extended XAFS (EXAFS) fitting result shows a main peak at ~2.74 Å 
+and Supplementary 
+), which is ~1.8% smaller than the Pt–Pt bond length in bulk Pt (2.79 Å in Pt foil), consistent with the TEM studies described above and in 
+.
+XANES for the Ni K-edge provides information on the oxidation state of Ni species based on the absorption threshold position and white line intensity (due to the allowed 1
+s
+→ 4
+p
+transition)
+
+. The Ni K-edge XANES in our optimum material closely resembles that of Ni(OH)
+
+with slightly lower intensity (Supplementary 
+), suggesting that the nickel species have an average oxidation state close to two, and primarily exists as a surface decorating species (an oxidation state of zero is expected for the buried Ni). Further X-ray photoelectron spectroscopy (XPS) studies also confirmed the 2+ oxidation state of the Ni species (Supplementary 
+). The Ni EXAFS results show a single peak at 1.6 Å 
+and Supplementary 
+), which can be attributed to the first shell Ni–O bond. There is no obvious peak at 2.1 Å (for Ni–Ni coordination in metallic Ni) or 2.7 Å (for Ni–O–Ni coordination in Ni(OH)
+
+) 
+), strongly confirming that the Ni species exist as single atomic species without long-range coordination to other Ni centres. The XANES and EXAFS hence demonstrate the successful creation of single-atom nickel-modified PtNWs (SANi-PtNWs) catalysts. The EXAFS fitting details are described in Supplementary Figs.
+
+and
+
+and Supplementary Tables
+
+and
+
+.
+HER measurements of the SANi-PtNWs
+The HER activity of the SANi-PtNWs was investigated by using the rotation disk electrode (RDE) test and compared against the fully dealloyed pure-PtNWs and commercial Pt/C (10 wt%). The CV studies of the SANi-PtNWs show two exclusive Ni
+2+
+/Ni
+3+
+redox peaks at 1.321 V (Ni
+3+
+→ Ni
+2+
+) and 1.388 V (Ni
+2+
+→ Ni
+3+
+) versus RHE, respectively 
+), which are absent in the pure-PtNWs. These redox peaks are widely recognized as the signature of nickel species
+
+,
+
+, which further confirm that the nickel species were successfully decorated on PtNWs. The integration of the hydrogen absorption–desorption region gives a high ECSA of 106.2 ± 4.5 m
+
+g
+Pt
+−1
+for SANi-PtNWs, nearly comparable to that of the pure-PtNWs, and considerably larger than those of the previously reported Pt-Ni(OH)
+
+-based nanocomposites (ECSA ≈ 20–60 m
+
+g
+Pt
+−1
+)
+
+,
+
+, highlighting that it is critical to precisely tune the number and structure of the decorating species to prevent undesired blockage of surface reactive sites and ensure high ECSA values.
+
+.
+b
+,
+c
+, ECSA normalized (
+b
+) and Pt mass loading normalized (
+c
+) HER LSV results with 95%
+i
+R compensation at a scan rate of 5 mV s
+−1
+.
+d
+, Pt mass normalized HER Tafel slope.
+e
+, Comparison of ECSA (black arrow, left axis), SA values (normalized by ECSA, green arrow, right axis) and MAs (normalized by Pt mass, purple arrow, right axis) for HER at −70 mV versus RHE for all tested materials.
+f
+, Comparison of HER MA of the SANi-PtNWs at −70 mV versus RHE with state-of-the-art values reported previously.
+a
+The material in 
+was tested in 0.1 M KOH. Error bars in
+e
+and
+f
+indicate the standard deviation of ten independent samples.
+Full size image
+The HER performance of SANi-PtNWs was further evaluated using linear sweep voltammetry (LSV) at room temperature in 1 M N
+
+-saturated KOH with a scan rate of 5 mV s
+−1
+and compared against commercial Pt/C and pure-PtNWs 
+). The SA values are 0.95, 6.11 ± 0.34 and 10.72 ± 0.41 mA cm
+−2
+at −70 mV versus RHE for the Pt/C, pure-PtNWs and SANi-PtNWs, respectively. It should be noted that the SAs reported here are normalized to the ECSA, in contrast to the electrode geometrical area used in some previous studies
+
+. Meanwhile, the LSV curves normalized by Pt mass give MA values of 0.71, 6.90 ± 0.36 and 11.80 ± 0.43 A mg
+Pt
+−1
+for Pt/C, pure-PtNWs and SANi-PtNWs at −70 mV versus RHE 
+). The Tafel diagrams give a Tafel slope of 60.3 mV dec
+−1
+for the SANi-PtNWs compared to 78.1 mV dec
+−1
+for the PtNWs and 133.4 mV dec
+−1
+for the Pt/C 
+), clearly demonstrating the considerably improved HER kinetics with the single-Ni-atom decorated catalysts.
+We further compared the ECSA, SA and MA values of the three different catalysts tested 
+). Both the pure-PtNWs and the SANi-PtNWs exhibit a similar ECSA, much higher than that of the Pt/C control. Importantly, the specific SA of the SANi-PtNWs is nearly twice that of the pure-PtNWs, clearly demonstrating that the SANi decoration considerably improves the HER kinetics. Together, with simultaneous achievement of high ECSA and high SA, the SANi-PtNWs deliver a clear leap in MA, achieving a value ~3–10 times higher than those of state-of-the-art HER catalysts 
+and 
+). Additionally, at −70 mV versus RHE, SANi-PtNWs showed a SA (normalized by ECSA) of 11.8 mA cm
+−2
+in 4 M KOH (Supplementary 
+) and 25.7 mA cm
+−2
+and 48 mA cm
+−2
+at elevated temperature (313 K and 333 K, Supplementary 
+), ~9–14 times higher than those of Pt/C. These results indicate that the promoted HER activity of SANi-PtNWs is maintained under harsher conditions.
+ Comparing the HER performance of SANi-PtNWs and pure-PtNWs versus the state of the art at −70 mV versus RHE
+Full size table
+We should also note that the preparation of SANi-PtNWs with the interrupted dealloying process is highly repeatable and the resulting materials show consistent performance in 10 independent batches (Supplementary 
+). Furthermore, a chronopotentiometry stability test shows negligible over-potential change for HER when operating at a constant current density of 5 A mg
+Pt
+−1
+in 1 M KOH after 4 h, suggesting such single-atom decoration is stable during the electrochemical processes (Supplementary 
+). The improved HER durability could be partly attributed to multipoint line contacts between the 1D nanowires and the carbon support, which prevents physical movement and aggregation (note that the movement and aggregation 0D nanoparticle catalysts contribute significantly to the degrading activities); additionally, the SANi-PtNWs can effectively reduce the reaction kinetic barrier, delivering a higher current density at the reduced over-potential, which could also contribute to the durability of the catalyst during long-time operation.
+DFT calculations of HER activity
+To further explore the impact of the SANi species on HER activity, we conducted DFT calculations, probing the hydrogen adsorption free energies on a series of model catalytic active sites
+
+. We first considered the fully dealloyed pure-PtNWs, which present a variety of defect sites including atoms with lower and higher metallic coordination than the regular Pt termination. To this end, we constructed representative models of the local surface environments in the form of steps or one-layer concave cavities
+
+. The local surface environment at these sites has been described using three models: models A 
+and Supplementary 
+) and B (Supplementary 
+) consist of differently sized concave cavities on the Pt surface, and model C (Supplementary ,d
+) consists of a Pt stepped surface.
+
+, Exchange current
+i
+
+for HER as a function of *H adsorption free energy for the locally stable adsorption sites in models A, B and C (the structures of models B and C are shown in Supplementary –d
+).
+c
+, Adsorption free energy of hydrogen on the model A Pt surface as a function of the applied potential
+U
+RHE
+at various coverage in pH 14 solution.
+d
+, Model D for SANi-decorated Pt surface, with the Ni atom being in the surface layer. The unit cell is 3 × 3, and the figure shows two unit cells.
+e
+, Volcano curve for adsorption sites on model D at low coverage (LC) and high coverage (HC) conditions.
+f
+, Adsorption free energy of hydrogen with model D as a function of
+U
+RHE
+at various coverage at pH 14.
+Full size image
+All the potential adsorption sites for hydrogen have been explored on these surfaces, and only the locally stable hydrogen structures were considered for evaluating HER activity. To determine which adsorption sites are accessible in the experimental conditions, we explored the occupied adsorption sites as a function of hydrogen coverage. The optimal hydrogen coverage was determined by first-principle atomistic thermodynamics. The HER activity for all locally stable sites was calculated using a volcano-type kinetic model, which expresses the exchange current
+i
+
+as a function of hydrogen adsorption free energy 
+)
+
+. The activity optimum appears for a site with hydrogen-binding energy 0.09 eV weaker than that on the hollow sites occupied on Pt
+
+. This model was first proposed for HER in acidic water, but then proven also to be valid for HER in alkaline water
+
+.
+The defective surface models of the dealloyed PtNWs show a large distribution of hydrogen-binding strengths with a rich population of active sites with binding energy near the optimum value 
+). Bridge sites on the ridges of the cavities are clearly more stable than hollow sites on Pt, but accordingly poorly active for HER. The fcc sites on the defective surface models are less stable than those on Pt by 0.03–0.1 eV and in the uppermost volcano region. Top sites are not stable on Pt (they diffuse to fcc hollow sites), but interestingly they become locally stable both inside the cavity and on the upper terrace close to the ridge on the defective models (see T1 and T2 on model A for example). These top sites show a weaker hydrogen-binding energy versus hollow sites on Pt and are placed in the highly active zone.
+When considering all sites together, the H atoms will first occupy the inactive bridge sites at low coverage, and then occupy the active top and fcc hollow sites with increasing coverage. It is hence crucial to determine the hydrogen coverage under realistic conditions. The total adsorption free energy at different hydrogen coverage is shown in 
+as a function of the electrode potential versus RHE (
+U
+RHE
+). For model A, in pH 14 solution, a low coverage (1/16 ML (monolayers)) is favoured for
+U
+RHE
+> 0.40 V, while below 0.25 V the hydrogen coverage strongly rises to 9/16 ML (occupation of three B1 sites and six B2 sites in 
+). For a potential below 0.10 V, sites that are more active than Pt begin to be populated (three F sites, three T2 sites and one T1 site). At the experimental potential of −70 mV versus RHE, a high coverage of 1 ML is reached, with occupation of both active (7/16 ML) and inactive (9/16 ML) sites. The significant density of highly active sites contributes to the high activity of the pure-PtNWs.
+In addition to the models of the defective surface, the influence of SANi on the surface (model D) was modelled by inserting single Ni atoms in the first layer of a Pt surface. In the considered basic conditions, two OH groups bind with the surface Ni atom 
+), in line with experimental data 
+and Supplementary 
+). 
+shows the HER activity predicted from the volcano curve for the stable adsorption sites at low and high hydrogen coverage conditions. DFT calculations demonstrate that such SANi species electronically modify the Pt atoms in their surroundings, decreasing their hydrogen-binding energy to the nearly optimal HER activity region. In the low coverage condition (≤5/9 ML), hydrogen adsorbs preferentially on Pt–Ni bridge site B1 
+) and then on the top Pt sites (T1–T4), while at high coverage (>5/9 ML), occupation of bridge sites B1 and B2 together with slightly less stable hollow sites F1–F5 becomes favoured over top site occupations (Supplementary 
+). Notably, all the sites in the SANi-decorated Pt surface, as shown in 
+, are more active than those without SANi decoration. Under experimental conditions (−70 mV versus RHE), the optimal coverage is 5/9 ML 
+), which means the B1 bridge site and T1–T4 top sites are occupied by hydrogen (black and red symbols in 
+).
+One should note that the OH ligands are crucial for the enhanced HER activity: a single bare Ni atom does not produce this favourable electronic modification (Supplementary 
+). All the additional DFT models and the adsorption free energies for all the models are shown in Supplementary Figs.
+8g–i
+and
+
+and Supplementary 
+, respectively. It is important to note that the SANi species only significantly enhances the nearest-neighbouring Pt sites. In this regard, surface decoration by the well-distributed SANi is indeed highly desired for generating the most activated Pt sites without unnecessarily blocking too many Pt sites to achieve an optimized MA. Larger clusters of nickel species would have much fewer neighbouring Pt sites and also block more surface Pt sites (Supplementary 
+).
+MOR and EOR activities of the SANi-PtNWs
+To further explore the SANi-PtNWs as multifunctional electrocatalysts, we evaluated their performance for MOR and EOR. The SANi-PtNWs were prepared in the same way as those described in the HER experiments. The MOR test was conducted in aqueous electrolyte with 1 M methanol and 1 M KOH. CV with a scan rate of 20 mV s
+−1
+was used to evaluate the catalytic properties of the SANi-PtNWs, and the results were compared with those for pure-PtNWs and the Pt/C under the same test conditions. Importantly, the Pt mass-normalized CV curve shows a peak current density of 7.93 ± 0.45 A mg
+Pt
+−1
+at 0.816 V versus RHE 
+), more than seven and two times those of the commercial Pt/C (1.04 A mg
+Pt
+−1
+) and the pure-PtNWs (3.87 A mg
+Pt
+−1
+), respectively. Additionally, a 144 mV decrease in the onset over-potential (defined as the over-potential required to reach a MA of 0.1 A mg
+Pt
+−1
+) is observed in the SANi-PtNWs when compared with Pt/C, suggesting the lower activation barrier of methanol oxidation on the SNAi-PtNWs surface 
+). Similarly, the EOR test in 1 M ethanol/1 M KOH solution shows a peak MA of 5.60 ± 0.27 A mg
+Pt
+−1
+at 0.785 V versus RHE for the SANi-PtNWs 
+), which is more than seven and three times higher than for the Pt/C and pure-PtNWs, respectively. A 61 mV decrease of the onset over-potential is also observed for the SANi-PtNWs versus the Pt/C reference.
+
+, where the concentration of methanol is 1 M.
+b
+, EOR CVs, with a sweeping rate of 20 mV s
+−1
+, where the concentration of ethanol is 1 M.
+c
+, Chronoamperometry MOR test at a potential of 0.65 V versus RHE.
+d
+,
+e
+, MOR (
+d
+) and EOR (
+e
+) peak MA comparison with recent state-of-the-art values. Error bars in
+d
+and
+e
+indicate the standard deviation of ten independent samples. *The material in 
+was tested in 0.5 M KOH and 2 M methanol, and that in 
+was tested in 0.5 M NaOH.
+f
+, Model D for a SANi-decorated Pt surface with different CO adsorption sites labelled as T1, T2, T3 and T4.
+Full size image
+Chronoamperometry tests were used to evaluate the stability of SANi-PtNWs, pure-PtNWs and Pt/C in MOR 
+). Apparently, the MOR activity of the Pt/C benchmark material shows a rather rapid decay to 0.056 A mg
+Pt
+−1
+after a 3,600 s chronoamperometry test at 0.650 V versus RHE. In contrast, the SANi-PtNWs show a relatively stable MA of 0.76 A mg
+Pt
+−1
+after a 3,600 s chronoamperometry test under the same conditions, clearly demonstrating the superior stability of SANi-PtNWs catalysts when compared to the Pt/C. The pure-PtNWs also show a faster activity decay to 0.26 A mg
+Pt
+−1
+after a 3,600 s chronoamperometry test (versus 0.76 A mg
+Pt
+−1
+for the SANi-PtNWs). These studies demonstrate that the SANi decoration not only boosts the activity, but also improves durability.
+We also conducted DFT calculations to probe the origin of activity/stability enhancement by SANi decoration. A major path for catalyst deactivation in MOR is poisoning by CO intermediates. For model D, consisting of a Ni(OH)
+
+-decorated Pt surface 
+), the DFT calculations clearly indicate that all steps in the reaction pathway are exothermic at the experimental potential (Supplementary 
+) and that CO adsorption on SANi-modified Pt top sites is 0.06–0.28 eV weaker than that on the Pt top sites (Supplementary 
+and 
+), hence facilitating the final step conversion from CO to CO
+
+. Furthermore, we conducted CO stripping experiments to probe the CO binding strength of different catalysts (Supplementary 
+). The CO stripping experiments show that the SANi-PtNWs exhibit a 52 mV and 88 mV decrease of the onset potential, and 8 mV and 38 mV decrease of CO oxidation peak potential compared to the cases of pure-PtNWs and Pt/C, respectively. These results are largely consistent with the DFT calculations and suggest that the enhanced activity and durability for MOR/EOR could be attributed at least partly to the change in CO binding strength upon SANi modification, hence effectively mitigating the catalyst poisoning issue. This understanding further demonstrates the exciting potential of the single-atom tailoring in modifying the kinetics of MOR or EOR.
+Compared with the state-of-the-art Pt or PtRu-based MOR catalysts tested under the same conductions, the SANi-PtNWs catalysts show the highest SA and MA reported so far, to the best of our knowledge, with the MA achieved in the SANi-PtNWs catalysts (~3–6 times the state-of-the-art values reported recently; 
+). When comparing all EOR catalysts reported so far, the SANi-PtNWs also show a considerable advantage in MA 
+) (~2–6 times the best values reported recently). Together, these studies clearly demonstrate that the use of SANi-tailored pure-PtNWs presents a major leap for both MOR and EOR, offering significant potential for future alkaline anion exchange membrane fuel cell development.
+Discussion
+We have designed an effective approach to tailor Pt nanocatalysts with single atomic nickel (SANi) species. By combining XANES and EXAFS analyses with atomic-scale STEM and EELS mapping studies, we verified that the PtNW surface was successfully modified with surface SANi. Electrocatalytic tests revealed that the resulting SANi-modified Pt nanocatalysts exhibit considerably improved HER performance when compared with state-of-the-art HER catalysts. DFT calculations demonstrate that the single Ni atoms, liganded by two hydroxyl groups, electronically promote the neighbouring Pt atoms and enhance their activity towards HER. Our studies suggest that an optimum decoration density (surface Ni:Pt ratio ~1:6) is critical for maximizing SA while retaining a high ECSA. This decoration density can be readily tuned, in a fully repeatable way, by our gradual dealloying process, but is difficult to achieve with other direct synthetic approaches. Additional MOR and EOR electrocatalytic studies further demonstrate greatly improved MA values for these reactions. It is important to note that the MAs achieved in SANi-PtNWs do not merely surpass previous works, but also represent a conceptual advance over the state of the art, with the Pt MAs for HER, MOR and EOR about 1.5–20, 3–6 and 2–6 times higher than state-of-the-art values reported recently.
+Our previous studies have shown that the fully dealloyed pure-PtNWs show high activity for ORR
+
+, which can be largely attributed to their defective surface featuring rich atomic vacancies and strain
+
+,
+
+,
+
+. As we demonstrated with pure-PtNWs both experimentally and theoretically, these surface features can also contribute to improved activity for HER, MOR and EOR when compared with the Pt/C reference. Taking a step further, the current study further explores single-atom decoration as a general strategy for tailoring the local electronic structure of Pt catalysts to achieve further enhanced specific SA for a series of technological relevant electrochemical reactions with little or no sacrifice of the surface area, and thus delivering optimized MA, which is critical for practical applications. The significant enhancement of MA for various electrocatalytic systems clearly demonstrates that the surface decoration with single atoms offers an effective and general strategy for tailoring precious metal catalysts for diverse reactions. This strategy of single-atom decoration, by interrupted dealloying, can be expected to be applicable to other dopant elements such as Fe, Co or Cu species.
+We should also note that the single-atom tailoring of Pt nanocatalysts is also conceptually distinct from typical single-atom catalysts intensively explored recently. In a typical single-atom catalyst, single metallic atoms are often dispersed on a host substrate with the single metal atoms functioning as the primary active sites
+
+,
+
+,
+
+,
+
+. In contrast, in our case, single metal atoms decorate the surface of precious metal Pt catalysts to modify the local atomic configuration and electronic structures of the surrounding Pt atoms, thus tailoring their catalytic activity for specific reactions. Here, single metal atoms are not the primary active sites but play a critical role as a promoter to enhance the activity of the Pt-based catalysts without significantly blocking the surface active sites, thus defining a general strategy for creating multifunctional electrocatalysts with optimized surface area, SA and MA at the same time.
+
+Synthesis of PtNi alloy nanowires
+All chemicals were purchased from Sigma-Aldrich unless otherwise specified. In a typical synthesis, 20 mg Pt(acac)
+
+and 40 mg Ni(acac)
+
+were mixed with 130 mg glucose, 1.7 mg W(CO)
+
+and 60 mg PVP-40 in a glass vial, with 5 ml of oleylamine and octadecene (3:2 volume ratio) as co-solvent. The mixture was heated to 140 °C for 6 h to form Pt–NiO core–shell nanowires. The resulting nanowires were collected via centrifuge at 7,000 r.p.m. for 20 min. After loading the nanowires on carbon black, the catalysts were then annealed under 450 °C in argon/hydrogen (97:3) atmosphere for 12 h to obtain the PtNi alloy nanowires supported on carbon black.
+Material characterizations
+High-spatial-resolution STEM-EELS experiments were conducted with a Nion UltraSTEM-200 system equipped with a C3/C5 corrector and high-energy-resolution monochromated EELS system. The instrument was operated at 60 kV with a convergence semi-angle of 30 mrad and a beam current of ~100 pA. HAADF-STEM imaging was performed using an inner and outer collection semi-angle of 70 and 210 mrad. EELS measurements were carried out using a dispersion of 0.26 eV per channel and a dwell time of 0.5 s per pixel. Background in each spectrum was removed by a power-law function in commercial software package Digital Micrograph.
+X-ray absorption data analysis
+The X-ray absorption fine structure spectra for Ni K-edge and Pt L-edge EXAFS data were recorded at microprobe beamline 10.3.2 of the Advanced Light Source (ALS), Lawrence Berkeley National Laboratory (LBNL). The storage ring was operated in top-off mode (1.9 GeV and 500 mA). Using a Si monochromator, the data collection was carried out in fluorescence mode for all samples under ambient conditions. The beam spot size was 15 × 3 μm
+
+for XANES and EXAFS measurements.
+The acquired EXAFS data were processed according to standard procedures using the ATHENA module implemented in the IFEFFIT software packages. The
+k
+
+-weighted EXAFS spectra were obtained by subtracting the post-edge background from the overall absorption and then normalizing with respect to the edge-jump step. Subsequently,
+k
+
+-weighted
+χ
+(
+k
+) data were Fourier-transformed to real (R) space using a hanning windows (d
+k
+= 1.0 Å
+−1
+) to separate the EXAFS contributions from different coordination shells. To obtain the quantitative structural parameters around central atoms, least-squares curve parameter fitting was performed using the ARTEMIS module of the IFEFFIT software packages.
+The following EXAFS equation was used:
+$$\chi \left( k \right) = \mathop {\sum}\limits_j {\frac{{N_jS_o^2F_j\left( k \right)}}{{kR_j^2}}} \exp \left[ { - 2k^2\sigma _j^2} \right]\exp \left[ {\frac{{ - 2R_j}}{{\lambda \left( k \right)}}} \right]\sin \left[ {2kR_j + \phi _j\left( k \right)} \right]$$
+
+where
+S
+
+is the amplitude reduction factor,
+F
+j
+(
+k
+) is the effective curved-wave backscattering amplitude,
+N
+j
+is the number of neighbours in the
+j
+th atomic shell,
+R
+j
+is the distance between the X-ray absorbing central atom and the atoms in the
+j
+th atomic shell (backscatterer),
+λ
+is the mean free path in Å,
+ϕ
+j
+(
+k
+) is the phase shift (including the phase shift for each shell and the total central atom phase shift),
+σ
+j
+is the Debye–Waller parameter of the
+j
+th atomic shell (variation of distances around the average
+R
+j
+). The functions
+F
+j
+(
+k
+),
+λ
+and
+ϕ
+j
+(
+k
+) were calculated with the ab initio code FEFF8.2.
+Electrochemical measurements for HER
+To prepare the SANi-PtNW catalyst ink, 2 mg catalyst (SANi-PtNWs on Vulcan 72 carbon black) was dispersed in 2 ml pure ethanol. A 20 µl volume of Nafion 117 solution was added to the ink as the binder, then 30 µl ink was drop-cast on the glassy carbon electrode (0.196 cm
+
+). For Pt/C, 2 mg Pt/C (10% Pt/C purchased from Alfa Aesar) was dispersed in 2 ml pure ethanol, with 20 µl Nafion 117 solution added as the binder. Pt/C ink (10 µl) was drop-cast on the glassy carbon electrode (0.196 cm
+
+). The Pt loading values on RDE for Pt/C, pure-PtNWs and SANi-PtNWs were 3.0 μg cm
+−2
+, 2.0 μg cm
+−2
+and 2.0 μg cm
+−2
+, respectively, for the RDE test. An alkaline mercury/mercury oxide electrode was used as the reference electrode, and graphite rod was used as the counter electrode. The reference electrode calibration was completed in H
+
+-saturated 1 M KOH at room temperature. A speed of rotation of 1,600 r.p.m. was applied on the working RDE to get rid of bubbles generated during the performance test. The ECSA was determined by
+H
+upd
+at 0.05–0.35 V versus RHE in 0.1 M HClO
+
+. The specific and mass current densities were normalized by ECSA and total Pt loading.
+Electrochemical measurements for MOR and EOR
+An alkaline/mercury oxide electrode was used as the reference electrode, and graphite rod was used as the counter electrode. The reference electrode calibration was completed in H
+
+-saturated 1 M KOH at room temperature. 1 M methanol and ethanol were added in to the electrolyte as the reactants for MOR and EOR, respectively. The Pt loadings on RDE for Pt/C, pure-PtNWs and SANi-PtNWs were 3.0 μg cm
+−2
+, 3.47 μg cm
+−2
+and 3.47 μg cm
+−2
+, respectively. The ECSA was determined by
+H
+upd
+at 0.05–0.35 V versus RHE in 0.1 M HClO
+
+. The specific and mass current densities were normalized by ECSA and total Pt loading.
+Electrochemical measurements for acidic CO stripping
+The CV dealloying cycles were interrupted at the 10th, 50th, 100th, 150th, 180th and 200th cycles. Before each CO stripping measurement, we first performed chronoamperometry experiments at 0.05 V versus RHE in CO-saturated electrolyte (0.1 M HClO
+
+) for 10 min, then performed chronoamperometry at 0.05 V versus RHE in N
+
+-saturated electrolyte (0.1 M HClO
+
+) for 10 min. The CO-stripping CV scan range was set as 0.05–1.1 V versus RHE with a positive-scan starting direction. The scan rate was set to 50 mV s
+−1
+. A Ag/AgCl electrode was used as the reference electrode, and graphite rod was used as the counter electrode.
+Electrochemical measurements for alkaline CO stripping
+For the alkaline CO stripping experiment we first performed chronoamperometry at 0.05 V versus RHE in CO-saturated electrolyte (1 M KOH) for 15 min. After the current reached a steady state, we performed chronoamperometry at 0.05 V versus RHE in N
+
+-saturated electrolyte (1 M KOH) for 10 min. The CO-stripping CV scan range was set between 0.05 V and 1.1 V versus RHE with a positive-scan starting direction. The scan rate was set to 25 mV s
+−1
+. An alkaline/mercury oxide electrode was used as the reference elctrode, and graphite rod was used as the counter electrode.
+Computational details
+All DFT calculations were carried out using VASP
+
+,
+
+with the PBE exchange correlation functional
+
+. The one-electron wavefunction was developed on a plane-wave basis set with a 450 eV energy cutoff. Reciprocal space was sampled using a 5 × 5 × 1 K-point grid for systems with a 4 × 4 or 5 × 5 unit cell, and 7 × 7 × 1 K-points for systems with a 3 × 3 unit cell. All model slabs contained five layers. For the models with cavities, the top three layers were fully relaxed, while for the models with Ni(OH)
+
+decoration, the top two layers were relaxed. The convergence threshold on atomic forces is 0.01 eV Å
+−1
+.
+Calculation of adsorption free energy
+The adsorption free energy of H
+
+is calculated using equation (
+
+):
+$${\mathrm{\Delta}} G_{n{\mathrm{H}}} = G\left( {{\mathrm{slab + }}n{\mathrm{H}}} \right) - G\left( {{\mathrm{slab}}} \right) - \frac{n}{2}G\left( {{\mathrm{H}}_2} \right)$$
+
+G
+is the Gibbs free energy and
+n
+is the number of adsorbed hydrogen atoms. We used the following equations to calculate the free energies:
+$$G\left( {{\mathrm{slab}} + n{\mathrm{H}}} \right) = E\left( {{\mathrm{slab}} + n{\mathrm{H}}} \right) + {\mathrm{ZPE}}\left( {n {^{\star}\mathrm{H}}} \right) + TS_{{\mathrm{vib}}}\left( {n {^{\star} \mathrm{H}}} \right)$$
+
+$$G\left( {{\mathrm{slab}}} \right) = E\left( {{\mathrm{slab}}} \right)$$
+
+$${\mathrm{G}}\left( {{\mathrm{H}}_2} \right) = {\mathrm{E}}\left( {{\mathrm{H}}_2} \right) + {\mathrm{ZPE}}\left( {{\mathrm{H}}_2} \right) + TS\left( {{\mathrm{H}}_2} \right)$$
+
+In equation (
+
+),
+E
+(slab +
+n
+H) is the electronic energy of the metal slab with adsorbed hydrogen atoms, *H means the adsorbed hydrogen atom,
+ZPE
+(
+n
+*H) means the zero point energy of
+n
+adsorbed hydrogen atoms,
+T
+is the temperature and
+S
+vib
+is the vibrational entropy. The latter two terms are calculated from the vibrational frequencies
+v
+i
+of the adsorbed hydrogen atoms by using equations (
+
+) and (
+
+):
+$${\mathrm{ZPE}}\left( {n ^{\star} {\mathrm{H}}} \right) = \mathop {\sum}\limits_{i = 1}^{3n} {\frac{{hv_{i}}}{2}}$$
+
+$$S_{\mathrm{vib}}\left( {n ^{\star} {\mathrm{H}}} \right) = \mathop {\sum}\limits_{i = 1}^{3n} {\left\{ {\frac{{hv_{i}{\mathrm{exp}} \left( { - hv_{i}/2k_{\mathrm{B}}T} \right)}}{{k_{\mathrm{B}}T\left[ {1 - {\mathrm{exp}} \left( { - hv_{i}/2k_{\mathrm{B}}T} \right)} \right]}} - {\mathrm{In}}\left[ {1 - {\mathrm{exp}} \left( { - hv_{i}/2k_{\mathrm{B}}T} \right)} \right]} \right\}}$$
+
+When calculating the vibrational frequencies of multiple adsorbed hydrogen atoms, the slab thickness was reduced by one layer to reduce the computational cost.
+The relative free energy with respect to Pt , ∆
+G
+H
+– ∆
+G
+H
+Pt 
+(ΔΔ
+G
+) were calculated using a five-layer Pt surface with a 4 × 4 unit cell.
+Calculation of adsorption free energy in solution with the effect of applied potential and pH
+We used equation (
+
+) to calculate the adsorption free energy with the impact of the reduction potential on the electrode, where the first three terms on the right side are the same as the terms in equation (
+
+), the term
+\(\mu _{{\mathrm{H}}^ + + {\mathrm{e}}^ - }\)
+is the chemical potential of the hydrogen ion and electron, which is calculated using equation (
+
+)
+
+.
+U
+SHE
+is the potential versus standard hydrogen electrode (SHE).
+$${\mathrm{\Delta}} G = G\left( {{\mathrm{slab + }}n{\mathrm{H}}} \right) - G\left( {{\mathrm{slab}}} \right) - \frac{n}{2}G\left( {{\mathrm{H}}_2} \right) - n\mu _{{\mathrm{H}}^ + + {\mathrm{e}}^ - }$$
+
+$$\mu _{{\mathrm{H}}^ + + {\mathrm{e}}^ - } = - eU_{\mathrm{SHE}} - 2.3kT{\mathrm{pH}}$$
+
+Structures
+The atomic coordinates of the optimized computational models are all provided as a text file in the
+Supplementary Data
+.
+Data availability
+The data that support the findings of this study are available from the corresponding authors on reasonable request.

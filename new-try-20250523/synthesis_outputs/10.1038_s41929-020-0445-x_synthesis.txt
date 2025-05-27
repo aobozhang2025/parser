@@ -1,5 +1,155 @@
 DOI: 10.1038/s41929-020-0445-x
-Source: supplementary
-==================================================
+Source: main text file
+--------------------------------------------------
 
-preparation of acetopropyl alcohol and 1,4 -pentanediol from methylfuran. J. Am. Chem. Soc. 69, 672 – 674 . 9. Liu, F. et al. Catalytic cascade conversion of furfural to 1,4 -pentane diol in a single reactor. Green Chem. 20, 1770 –1776 . 10. Tang, W. et al. Methane complete and partial oxidation catalyzed by Pt -doped CeO 2. J. Catal. 273, 125 –137 . 11. Dvořák, F. et al. Creating single -atom Pt -ceria catalysts by surface step decoration. Nat. Commun. 7, 10801 . 12. Tak, Y. J., Yang, S., Lee, H., Lim, D. H. & Soon, A. Examining the rudimentary steps of the oxygen reduction reaction on single -atomic Pt using Ti -based non -oxide supports. J. Ind. Eng. Chem. 58, 208 –215 . 13. Gu, X. K. et al. Supported single Pt 1/Au 1 atoms for methanol steam reforming. ACS Catal. 4, 3886 –3890 . 14. Ammal, S. C. & Heyden, A. Titania -supported single -atom platinum catalyst for water-gas shift reaction. Chemie Ing. Tech. 89, 1343 –1349 . 15. Wang, S. et al. Dopants adsorbed as single atoms prevent degradation of catalysts. Nat. Mater. 3, 143 –146 . 16. Qiao, B. et al. Single -atom catalysis of CO oxidation using Pt 1/FeO x. Nat. Chem. 3, 634 – 641 . 17. O’Connor, N. J., Jonayat, A. S. M., Janik, M. J. & Senftle, T. P. Interaction trends between single metal atoms and oxide supports identified with density functional theory and statistical learning. Nat. Catal. 1, 531 –539 . 18. Therrien, A. J. et al. An atomic -scale view of single -site Pt catalysis for low -temperature CO oxidation. Nat. Catal. 1, 192 –198 . 19. DeRita, L. et al. Structural evolution of atomically dispersed Pt catalysts dictates reactivity. Nat. Mater. 18, 746-751 . 20. Dael man, N., Capdevila -Cortada, M. & López, N. Dynamic charge and oxidation state of Pt/CeO 2 single -atom catalysts. Nat. Mater. 18, 1215 -1221 . 21. Teo, B. K. & Sloane, N. J. A. Magic numbers in polygonal and polyhedral clusters. Inorg. Chem. 24, 4545 –4558 . 22. Mironenko, A. V. & Vlachos, D. G. Conjugation -driven ‘reverse Mars -van Krevelen’ -type radical mechanism for low-temperature C -O bond activation. J. Am. Chem. Soc. 138, 8104 –8113 . 23. Vorotnikov, V., Mpourmpakis, G. & Vlachos, D . G. DFT study of furfural conversion to furan, furfuryl alcohol, and 2 -methylfuran on Pd. ACS Catal. 2, 2496 –2504 . 24. Feng, S. et al. In situ formation of mononuclear complexes by reaction -induced atomic dispersion of supported noble metal nanoparticles. Nat. Commun. 10, 5281
+Methods
+DFT calculations
+Energetics were calculated using the Vienna ab initio simulation package (VASP, version 5.4.1)
+
+,
+
+,
+
+,
+
+aided by the Atomic Simulation Environment (ASE)
+
+,
+
+. The Perdew–Burke–Erzenhof exchange–correlation energy functional (PBE)
+
+was used to model the valence electrons (3
+p
+, 4
+s
+and 3
+d
+electrons for Ti; 6
+s
+and 5
+d
+electrons for Pt; 2
+s
+and 2
+p
+electrons for O), and the core electrons were represented using the projector augmented wavefunction (PAW) method
+
+,
+
+.
+The bulk anatase structure was obtained from the American Mineralogical Crystal Structure Database
+
+. The lattice constants were optimized using ASE’s StrainFilter class until forces were converged within 0.01 eV Å
+−1
+. The electron density at each ionic step was determined self-consistently with an energy tolerance of 10
+−4
+eV. A plane-wave basis set with an energy cut-off of 600 eV was used for the bulk structure optimization. The Brillouin zone was sampled using a Gamma-centred grid with a 5 × 5 × 2 k-point mesh along the reciprocal vector distances. The optimized cell parameters were
+a
+=
+b
+= 3.800 Å and
+c
+= 9.708 Å, similar to values in literature using the PBE functional
+
+,
+
+,
+
+and in good agreement with experiments (
+a
+=
+b
+= 3.784 Å and
+c
+= 9.514 Å)
+
+. The Pt bulk was optimized in a similar fashion using a 7 × 7 × 7 k-point mesh.
+The bulk anatase structure was cleaved along the , , and planes to calculate surface energies, vacancy formation energies and the electronic energy and vibrational frequencies along the catalytic cycle. For surface energy calculations, stoichiometric slabs were created with the middle layers frozen to the bulk positions, and periodic images were separated by 15 Å in the
+z
+direction. For the vacancy formation energy, electronic energy and vibration calculations, four stoichiometric layers were made with the bottom stoichiometric layer frozen to the bulk positions. The computational set-up of the slabs was similar to the bulk optimization except for the following: ionic forces were converged within 0.05 eV Å
+−1
+; a plane-wave basis set with an energy cut-off of 400 eV was used; dipole corrections were turned on; and dispersion forces were modelled using the D3 correction method of Grimme et al. (
+). The number of k-points was scaled to the lattice vectors to ensure all structures had a comparable k-point density. Transition states were calculated using VTST Tool’s implementation of the nudged elastic band (NEB), climbing-image NEB (CI-NEB) and dimer methods
+
+,
+
+. For the NEB and CI-NEB, the number of images was generated such that adjacent images were separated by <0.8 Å. Transition states’ ionic forces were converged within 0.1 eV Å
+−1
+and confirmed using vibrational analysis. Wulff constructions were calculated using VESTA
+
+,
+
+.
+First-principles-based microkinetic modelling
+We developed microkinetic models for oxygen vacancy formation and HDO on TiO
+
+and Pt-doped TiO
+
+anatase using our reactor code
+
+,
+
+. The ASPEN Plus implementation of the UNIQUAC model was used to calculate the chemical potentials of species in 2-propanol solvent
+
+. A site in our model is defined as a coordinatively unsaturated Lewis-acidic metal atom and a bridging oxygen atom. Three types of sites exist: Ti
+cus
+O
+br
+/TiO
+
+, Pt–O
+
+/TiO
+
+and Pt–O
+
+/TiO
+
+. This approach allows us to model the different local environments of oxygen, which possess different thermodynamic and kinetic properties based on the presence and coordination of Pt. The change in electronic energy between Pt coordinations
+\(\left( {\Delta {E}_{{\mathrm{Pt}} - {\mathrm{O}}_5 \to {\mathrm{Pt}} - {\mathrm{O}}_6} = - 0.27\,{\mathrm{eV}}} \right)\)
+and a Boltzmann distribution were used to calculate the ratio of Pt–O
+
+/TiO
+
+to Pt–O
+
+/TiO
+
+sites (1:18.7). Atomic hydrogen diffusion was modelled with an Arrhenius form to facilitate movement between Pt-containing sites and TiO
+
+. Pt sites were assumed to be far apart. A summary of considered adsorbates and transition states, and their electronic energies and vibrational frequencies (at the low-coverage limit) is in Supplementary 
+. Ab initio data of surface species were referenced using a procedure from previous work
+
+and converted to NASA polynomials using the Python Multiscale Thermochemistry Toolbox (version 1.2.12)
+
+using the harmonic approximation. Reaction conditions (temperature, pressure, time and composition) parallel experimental conditions.
+
+Catalyst synthesis
+For the synthesis, 2 g of anatase TiO
+
+(5 nm nanoparticles from US Research Nanomaterials, stock no. US3838) was suspended in 200 ml aqueous solution at a pH of 2 (buffered by 1 M HCl). Then 100 ml H
+
+PtCl
+
+aqueous solution (pH of 2) was slowly added into the suspended TiO
+
+solution. After 1 h of ageing and filtration, the solid paste was dried in a vacuum furnace at room temperature overnight and further dried in an air oven at 110 °C overnight. The catalyst was further calcined in a quartz tubular reactor at 250 °C with flowing air, and then reduced at 250 °C with 10% H
+
+–He mixture.
+Catalyst characterization
+The bright-field transmission electron microscopy (TEM) images were obtained with a JEOL (JEM‐2010F) transmission electron microscope equipped with a field emission gun emitter at 200 kV. The high-resolution high-angle annular dark-field (HAADF) images were obtained using a Hitachi HD2700C STEM operated at 200 kV and equipped with a probe aberration corrector (spatial resolution ~1 Å) at the Center for Nanomaterials, Brookhaven National Laboratory. The conversion angle for HAADF-STEM imaging was measured as 22 mrad, and its collection angle was 64–342 mrad. The contrast of the images is proportional to the atomic number of sample (Z-contrast). All samples were prepared by depositing a drop of diluted nanoparticle dispersion on lacy carbon-coated copper grids.
+FTIR of CO adsorption was done at 25 °C in a customized in situ cell. Catalysts were grounded and pressed into a pellet with less than 0.3 mm thickness. The catalyst was reduced in flowing 5% H
+
+–He mixture at 250 °C for 2 h, followed by holding at 250 °C in vacuum for 1 h. After cooling down to 25 °C in vacuum, the background spectrum was collected. Multiple CO doses were carried out at 25 °C until full saturation was achieved.
+Kinetics experiments
+Catalyst performance was evaluated in a 50 ml Parr stainless steel batch reactor; 173 mg of FA (Sigma-Aldrich) and 100 mg of catalyst were added to 20 ml of anhydrous 2-propanol (Sigma-Aldrich). A Teflon liner was used. The reactor was flushed three times with nitrogen before being pressurized to 100 psi hydrogen. An additional 160 psi of nitrogen was added. The reactor was heated to 160 °C. After reaction, 2 ml of liquid products were purified with a syringe filter for gas chromatography (GC) analysis, and the used catalysts were separated by filtration under reduced pressure.
+Product analysis
+Liquid samples were analysed with an Agilent 7890B GC system equipped with an HP-INNOWAX-19091N-133l column and a flame ionization detector. Products were identified using a SHIMADZU gas chromatography mass spectrometry (GCMS) QP2010 Plus system. Initial rates were calculated by regressing the total concentration of relevant products versus time at short times (differential conditions; conversion <15%) after the reaction temperature was reached.
+Data availability
+The data that support the findings of this paper are available from the corresponding author upon reasonable request. The microkinetic models and the data that support the plots in this paper are available on Mendeley Data
+
+.
+Code availability
+The code to convert ab initio data to microkinetic model inputs are available on Mendeley Data
+
+.

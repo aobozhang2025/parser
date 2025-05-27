@@ -1,5 +1,384 @@
 DOI: 10.1038/s41929-022-00796-1
-Source: supplementary
-==================================================
+Source: main text file
+--------------------------------------------------
 
-synthesis of highly active and durable octahedral PtNi nanoparticle catalysts for proton exchange membrane fuel cell. Appl. Catal. B 225, 530–537 . 16 Ott, S. et al. Ionomer distribution control in porous carbon -supported catalyst layers for high -power and low Pt -loaded proton exchange membrane fuel cells. Nat. Mater. 19, 77–85 . 17 Dhanasekaran, P., Selvaganesh, S. V., Shukla, A., Nagaraju, N. & Bhat, S. D. Boosting Pt oxygen reduction reaction activity and durability by carbon semi -coated titania nanorods for proton exchange membrane fuel cells. Electrochim. Acta 263, 596–609 . 18 Chong, L. et al. Ultralow -loading platinum -cobalt fuel cell catalysts derived from imidazolate frameworks. Science 362, 1276–1281 . 19 Ao, X. et al. Atomically dispersed Fe –N–C decorated with Pt -alloy core –shell nanoparticles for improved activity and durability towards oxygen reduction. Energy Environ. Sci. 13, 3032–3040 . 20 Qiao, Z. et al. Atomically dispersed single iron sites for promoting Pt and Pt 3Co fuel cell catalysts: performance and durability improvements. Energy Environ. Sci. 14, 4948 -4960 . 21 Wang, X. X. et al. Ordered Pt 3Co Intermetallic Nanoparticles Der ived from Metal –Organic Frameworks for Oxygen Reduction. Nano Lett. 18, 4163–4171 . S46 22 Li, J. et al. Cross -linked multi -atom Pt catalyst for highly efficient oxygen reduction catalysis. Appl. Catal. B 284, 119728 . 23 Kuttiyiel, K. A. et al. Janus structured Pt –FeNC nanoparticles as a catalyst for the oxygen reduction reaction. ChemComm 53, 1660 -1663 . 24 Mechler, A. K. et al. Stabilization of Iron -Based Fuel Cell Catalysts by Non -Catalytic Platinum. J. Electrochem. Soc. 165, F1084 . 25 Park, J. -Y. et al. Enhanced oxygen reduction reaction of Pt deposited Fe/N -doped bimodal porous carbon nanostructure catalysts. J.Catal. 359, 46-54 . 26 Yang, X. et al. PGM -Free Fe/N/C and Ultralow Loading Pt/C Hybrid Cathode Catalysts with Enhan ced Stability and Activity in PEM Fuel Cells. ACS Appl. Mater. Interfaces 12, 13739 - 13749 . 27 Tran, T. -N. et al. Synergistic CoN -Decorated Pt Catalyst on Two -Dimensional Porous Co –N- Doped Carbon Nanosheet for Enhanced Oxygen Reduction Activity and D urability. ACS Appl. Energ. Mater. 3, 6310 -6322 . 28 Xie, T., Jung, W., Kim, T., Ganesan, P. & Popov, B. N. Development of Highly Active and Durable Hybrid Cathode Catalysts for Polymer Electrolyte Membrane Fuel Cells. J. Electrochem. Soc. 161, F1489 . 29 Calle -Vallejo, F. et al. Finding optimal surfac e sites on heterogeneous catalysts by counting nearest neighbors. Science 350, 185–189 .
+Methods
+Chemicals and reagents
+Zinc nitrate hexahydrate (Zn(NO
+
+)
+
+·6H
+
+O, Aladdin, 99.998% metals basis), ferrous sulfate heptahydrate (FeSO
+
+·7H
+
+O, Aladdin, 99.95% metals basis), 2-methylimidazole (C
+
+H
+
+N
+
+, Aladdin, 98%), 1,10-phenanthroline monohydrate (C
+
+H
+
+N
+
+, Aladdin, 99%), potassium ferricyanide (K
+
+Fe(CN)
+
+, Aladdin, 99.95% metals basis), potassium hydroxide (KOH, Aladdin, 99.99% metals basis), platinum(II) acetylacetonate (Pt(C
+
+H
+
+O
+
+)
+
+, Sigma-Aldrich, ≥99.98% trace metals basis), solution that contained isopropanol (C
+
+H
+
+O, Fisher, 99.8%) and Nafion 117 (Sigma-Aldrich, 5 wt% in a mixture of lower aliphatic alcohols and water), methanol (CH
+
+OH, Scharlau, 99.8%) and ethanol absolute (C
+
+H
+
+OH, VWR, 99.5%), perchloric acid (HClO
+
+, GFS chemicals, 70% veritas double distilled) were purchased and directly used without further purification. A D521 Nafion dispersion (EW1100, alcohol based), gas diffusion layer (GDL, Freudenberg H14C7, which consists of a 25 µm microporous layer) and Nafion HP membrane (CL-2019-50, 20 µm) were purchased from Fuel Cell Store (
+https://www.fuelcellstore.com
+). The commercial Pt/C catalyst (46.4 wt%, TEC10E50E) was from TKK.
+
+Catalyst synthesis
+Details of the synthesis of Fe-doped ZIF-8 can be found elsewhere
+
+,
+
+. In brief, 0.95 mM Zn(NO
+
+)
+
+·6H
+
+O and 0.05 mM FeSO
+
+·7H
+
+O as metal sources, and 8.21 g of 2-methylimidazole as the organic linker, were mixed with methanol to form Fe-doped ZIF-8. The excess organic linker and metal sources were removed by washing the product three times with absolute ethanol. After drying in a vacuum oven at 80 °C overnight, Fe-doped ZIF-8 precursor was directly heat-treated in Ar gas (99.99% purity) at 1,000 °C for 1 h to derive the final Fe–N–C catalyst. Atomically dispersed Fe atoms were uniformly distributed on the N–C framework without further acid washes. The weight of Fe loading in the final catalyst was around 2.0 wt%.
+According to our previous work, impregnation of Fe–N–C with an ultralow Pt loading could significantly promote the durability of Fe–N–C, but it did not present a noticeable activity improvement, especially in the kinetic region
+
+. In this follow-up work, ammonia heat treatment was designed to expose more active sites and tailor the properties of the carbon support and the coordination number of single atoms. Secondary Ar pyrolysis after ammonia treatment is designed to stabilize the carbon framework. Thus, Fe-doped ZIF-8 was used as the support for Pt impregnation in this work to simplify heat treatment protocols. Pt(II) acetylacetonate (10 mg) was homogeneously dispersed in 3 ml of ethanol via ultrasonication until the solvent became transparent. In the meantime, 110 mg of 1,10-phenanthroline monohydrate dissolved in 10 ml of ethanol was added to the Pt solution to provide a sufficient nitrogen source for Pt coordination. Around 400 mg of Fe-doped ZIF-8 was added to the above solution to form a uniform suspension. After drying at 60 °C in a vacuum oven overnight, the solid was collected and ball milled (ZrO
+
+ball, 350 revolutions per minute (r.p.m.), 4 h) to uniformly distribute Pt and N sources on the Fe-doped ZIF-8 support. The mixed precursors were first treated in NH
+
+gas at 900 °C for 15 min and then transferred to an Ar atmosphere at 1,000 °C for 1 h to remove Zn in the precursor and stabilize the whole carbon framework to produce the final catalyst, Pt-Fe-N-C. The Pt and Fe loadings were around 1.7 and 2.0 wt%, respectively.
+As a reference electrocatalyst, Pt–N–C was prepared from a ZIF-8 support, which was formed by mixing 1 mM Zn(NO
+
+)
+
+·6H
+
+O and 8.21 g of 2-methylimidazole in a methanol solvent and following the same collecting and drying protocols as for Fe-doped ZIF-8. Similarly, 10 mg of platinum(II) acetylacetonate was homogeneously dispersed in 3 ml of ethanol via ultrasonication until the solvent became transparent. In the meantime, 110 mg of 1,10-phenanthroline monohydrate dissolved in 10 ml of ethanol was added to the Pt solution to provide a sufficient nitrogen source for Pt coordination. Around 400 mg of ZIF-8 was added to this solution to form a uniform suspension. After drying at 60 °C in a vacuum oven overnight, the solid was collected and ball milled (ZrO
+
+ball, 350 r.p.m., 4 h) to uniformly distribute the Pt and N sources on the ZIF-8 support. The mixed precursors were also initially treated in NH
+
+gas at 900 °C for 15 min and then transferred into an Ar atmosphere at 1,000 °C for 1 h. The final catalyst, Pt–N–C, had a Pt loading of 2.3 wt%.
+Physical characterization
+The TEM results were collected with a double Cs-corrected FEI Themis G2 operating at 300 kV equipped with a Gatan Enfina EELS, the collection angle of HAADF detector was 60–200 mrad and the probe current was controlled at around 150 pA. The convergence semi-angle and collection semi-angle of EELS are 25 and 36.2 mrad, respectively. The acquisition time of EELS is limited to 0.1 s per pixel, so a Fischione 2550 Cryo Transfer Tomography Holder was used to minimize the jumping of single atoms. The structures of Pt-Fe-N-C were examined by an X-ray diffractometer (PANalytical, X’pert Pro) equipped with a graphite monochromator and a Cu Kα radiation source. Bulk and surface compositions were evaluated through inductively coupled plasma mass spectrometry (Agilent Technologies, Agilent 7900) and X-ray photoelectron spectroscopy (Kratos Analytical, Axis Ultra DLD), respectively. The surface area of the catalyst was measured by the Brunauer–Emmett–Teller method (Quantachrome Instruments, AUTOSORB-1). XAS characterizations, which included X-ray absorption near-edge structure spectroscopy and extended X-ray absorption fine structure spectroscopy, were performed at beamline 20-BM of the Advanced Photon Source at Argonne National Laboratory, using a Si monochromator. XAS data were processed with the ATHENA and ARTEMIS software packages. The
+
+Fe Mössbauer spectra of Fe–N–C and Pt-Fe-N-C were recorded on an SEE Co W304 Mössbauer spectrometer using a
+
+Co/Rh source in transmission geometry. The data were fitted by using the MOSSWINN 4.0 software. Micro-Raman spectroscopy (Renishaw, InVia) was used to probe the change in the carbon support before and after durability testing. Effluent water samples collected from the cathode gas outlet were analysed by ion chromatography (Metrohm 881 with an ultraviolet and conductivity detector) to evaluate the fluoride emissions.
+Electrochemical measurement
+To prepare the catalyst ink, 2.5 mg of catalyst was uniformly dispersed in 500 µl of a mixed solvent (water and isopropanol in a 4:1 volume ratio) and 10 µl of a 5 wt% Nafion 117 solution. The rotating-ring disk electrode (5.5 mm in diameter) was polished with Al
+
+O
+
+powder (50 nm). A certain amount of catalyst ink was dropped onto the electrode. After drying in air, the thin-film electrode was evaluated by an electrochemical workstation (CHI 760E). A carbon rod and Ag/AgCl were used as the counter and reference electrodes, respectively. All potentials are referred to the RHE. The potential of the Ag/AgCl electrode with reference to the RHE was calibrated before every activity test. During the calibration process, the Ag/AgCl electrode and a Pt foil were put into a H
+
+-saturated 0.1 M HClO
+
+electrolyte, and the voltage difference between these two electrodes was then recorded. The value of Ag/AgCl measured in this way was around 0.26–0.27 V
+RHE
+.
+Cyclic voltammograms (20 cycles) in the potential range 0–1.2 V at 100 mV s
+–1
+were applied to clean the thin film in an Ar-saturated 0.1 M HClO
+
+solution, followed by taking a stable cyclic voltammogram curve in the same potential range at 50 mV s
+–1
+. The ORR performance was measured in an O
+
+-saturated 0.1 M HClO
+
+solution with a 1,600 r.p.m. rotation rate at 5 mV s
+–1
+. A linear sweep voltammetry technique was applied during the activity evaluation and the polarization curves were all recorded from 0.125 to 1.0 V. In the durability testing, Pt-Fe-N-C and Pt/C were subjected to potential cycling between 0.6 and 1.0 V at 50 mV s
+–1
+in an O
+
+-saturated 0.1 M HClO
+
+electrolyte.
+The collection efficiency of the rotating-ring disk electrode was first determined in an Ar-saturated 10 mM K
+
+Fe(CN)
+
++ 1 M KOH solution. The electrode was rotated at 1,600 r.p.m. (which corresponds to the angular velocity applied during the measurement) and the amperometric
+i
+–
+t
+measurements were performed by setting the ring and disk voltages to 1.5 and 0.1 V, respectively.
+$${{{\mathrm{Disk}}}}{\!}:\;{{{\mathrm{Fe}}({\mathrm{CN}})}}_6{{{{\;}^{{3 - }}}}} + {{{\mathrm{e}}}}^ - \to {{{\mathrm{Fe}}({\mathrm{CN}})}}_6{{{{\;}^{{4 - }}}}}$$
+
+$${{{\mathrm{Ring}}{\!}:{\mathrm{Fe}}({\mathrm{CN}})}}_6{{{{\;}^{{4 - }}}}} \to {{{\mathrm{Fe}}({\mathrm{CN}})}}_6{{{{\;}^{{3 - }}}}} + {{{\mathrm{e}}}}^ -$$
+
+The disk (
+I
+d
+) and ring (
+I
+r
+) currents were recorded. The measurement was repeated once with a disconnected disk to obtain another ring current (
+I
+r0
+), which included all the currents (not from Fe(CN)
+
+4–
+) reduced on the disk. The collection efficiency could be calculated from:
+$${{N = }}\frac{{{{I}}_{{{\mathrm{r}}}}{{ - I}}_{{{{\mathrm{r0}}}}}}}{{{{I}}_{{{\mathrm{d}}}}}}$$
+
+The measured collection efficiency (
+N
+C
+) was 0.42 at 1,600 r.p.m. The H
+
+O
+
+% yield and electron transfer number (
+n
+) of the electrocatalysts were further determined in an O
+
+-saturated 0.1 M HClO
+
+solution at 1,600 r.p.m. A linear sweep voltammetry technique was applied to the disk to record the performance of the Fe−N–C and Pt-Fe-N-C electrodes at a scanning rate of 5 mV s
+–1
+from 0.125 to 1.0 V, while keeping the ring voltage at 1.2 V. Four-electron and two-electron ORRs may both occur on the disk to produce the
+i
+
+and
+i
+
+currents, respectively. H
+
+O
+
+produced on the disk diffused to the ring area and was captured and reduced to H
+
+O (
+i
+2r
+). The H
+
+O
+
+% and
+n
+calculation equations were derived from the following steps, where
+Q
+is the total charge passed and
+F
+is Faraday’s constant:
+$${{{\mathrm{Faraday}}{\mbox{'}}{\mathrm{s}}}}\;{{{\mathrm{law}}:Q = nFN}}$$
+
+$${{{\mathrm{Reaction}}}}\;{{{\mathrm{current}}:i = }}\frac{{{{\partial}Q}}}{{{{\partial}t}}}$$
+
+$${{{\mathrm{Moles}}}}\;{{{\mathrm{of}}}}\;{{{\mathrm{product}}:N = }}\frac{{{{i}} \times \Delta {{t}}}}{{{{nF}}}}$$
+
+$${{{\mathrm{Moles}}}}\;{{{\mathrm{of}}}}\;{{{\mathrm{oxygen}}}}\;{{{\mathrm{reduced}}:N}}_{{{{\mathrm{O}}}}_2} = \frac{{\Delta {{t}}}}{{{F}}} \times \left( {\frac{{{{i}}_1}}{4} + \frac{{{{i}}_2}}{2}} \right)$$
+
+$${{{\mathrm{The}}}}\;{{{\mathrm{total}}}}\;{{{\mathrm{number}}}}\;{{{\mathrm{of}}}}\;{{{\mathrm{electrons}}}}\;{{{\mathrm{transferred}}:n = }}\frac{{{{i}} \times \Delta {{t}}}}{{{{N}}_{{{{\mathrm{O}}}}_2} \times {{F}}}}$$
+
+$${{i = i}}_{{{\mathrm{d}}}}{{= i}}_{{{\mathrm{1}}}}{{+ i}}_{{{\mathrm{2}}}}{{+ i}}_{{{{\mathrm{2r}}}}}$$
+
+$${{n = 4}} \times \frac{{{{i}}_{{{\mathrm{1}}}}{{+ i}}_{{{\mathrm{2}}}}{{+ i}}_{{{{\mathrm{2r}}}}}}}{{{{i}}_{{{\mathrm{1}}}}{{+ i}}_{{{\mathrm{2}}}}}}$$
+
+$$\frac{{{{i}}_{{{\mathrm{r}}}}}}{{{{N}}_{{{\mathrm{C}}}}}}{{= i}}_{{{\mathrm{2}}}}{{- i}}_{{{{\mathrm{2r}}}}}$$
+
+$${{n = 4}} \times \frac{{{{i}}_{{{\mathrm{d}}}}}}{{{{i}}_{{{\mathrm{d}}}}{{{\mathrm{ + }}}}\frac{{{{i}}_{{{\mathrm{r}}}}}}{{{{N}}_{{{\mathrm{C}}}}}}}}$$
+
+$${{N}}_{{{{\mathrm{H}}}}_{{{\mathrm{2}}}}{{{\mathrm{O}}}}_{{{\mathrm{2}}}}}{{{\mathrm{ = }}}}\frac{{\Delta {{t}}}}{{{F}}} \times \left( {\frac{{{{i}}_{{{\mathrm{2}}}}}}{{{{\mathrm{2}}}}}{{{\mathrm{ - }}}}\frac{{{{i}}_{{{{\mathrm{2r}}}}}}}{{{{\mathrm{2}}}}}} \right)$$
+
+$${{{\mathrm{H}}}}_{{{\mathrm{2}}}}{{{\mathrm{O}}}}_{{{\mathrm{2}}}}\%{{{\mathrm{ = }}}}\frac{{{{N}}_{{{{\mathrm{H}}}}_{{{\mathrm{2}}}}{{{\mathrm{O}}}}_{{{\mathrm{2}}}}}}}{{{{N}}_{{{{\mathrm{O}}}}_{{{\mathrm{2}}}}}}}{{{\mathrm{ = 2}}}} \times \frac{{{{i}}_{{{\mathrm{2}}}}{{ - i}}_{{{{\mathrm{2,}}}}}}}{{{{i}}_{{{\mathrm{1}}}}{{+ 2i}}_{{{\mathrm{2}}}}}}{{{\mathrm{ = 2}}}} \times \frac{{\frac{{{{i}}_{{{\mathrm{r}}}}}}{{{{N}}_{{{\mathrm{C}}}}}}}}{{{{i}}_{{{\mathrm{d}}}}{{{\mathrm{ + }}}}\frac{{{{i}}_{{{\mathrm{r}}}}}}{{{{N}}_{{{\mathrm{C}}}}}}}}$$
+
+Fuel cell testing
+The Pt-Fe-N-C catalyst was dispersed in a mixture of isopropanol, water and a 5 wt% D521 Nafion dispersion at a weight ratio of 1:130:30:17. The ink was stirred for 2 days and sprayed on the GDL until the catalyst loading and corresponding Pt loading reached 0.88 and 0.015 mg
+Pt
+cm
+–2
+, respectively. A Fe−N–C cathode with a 3.5 mg cm
+–2
+catalyst loading and a Pt–N–C cathode with a 0.1 mg cm
+–2
+Pt loading were prepared using the same protocol. Commercial Pt/C-coated GDL with a 0.1 mg cm
+–2
+Pt loading was used as the anode. Two GDLs were pressed on the two sides of a Nafion HP membrane at 140 °C under 7 bar pressure for 5 min to make the membrane electrode assembly (MEA). Commercial Pt/C catalyst-coated membranes with a 0.1 mg cm
+–2
+Pt loading on both the cathode and anode were also prepared for comparison. The performance of the MEA with a 5 cm
+
+active area was measured using a fuel cell station (Fuel Cell Technologies). The temperature and relative humidity were kept at 80 °C and 100% during the performance testing. Prior to the performance measurement, an activation step was applied by holding the fuel cell voltage at 0.5 V in a H
+
+/air environment for 20 h for the Pt-Fe-N-C and Pt–N–C cathodes, as the current density gradually increased and reached a stable maximum value. The activation procedure for the Pt/C cathode included a potential hold at 0.5 V in a H
+
+/air environment for 5 h, two potential cycles and a subsequent voltage recovery step at low potentials
+
+. In the case of the Fe–N–C cathode, keeping the voltage at 0.3 V in H
+
+/air for 3 h is enough to activate the catalyst layer. The polarization curves were recorded at H
+
+and O
+
+/air flow rates of 300 and 300/520 ml min
+–1
+, respectively, and absolute pressures of 1.5 bar
+anode
+and 2.5 bar
+cathode
+. The Pt-Fe-N-C, Fe–N–C and Pt/C cathodes were subjected to two durability testing protocols. One consisted of square-wave potential cycling at 0.6 and 0.95 V with each potential applied for 3 s, following the DOE protocol for evaluating the durability of catalysts. The other was a chronoamperometric measurement at a discharge voltage of 0.6 V at H
+
+/air or H
+
+/O
+
+flow rates of 100/200 ml min
+–1
+. The durability testing was conducted at 1 bar absolute pressure for both the anode and cathode. The volume of effluent water produced in a certain time interval was recorded to measure the amount of fluoride emissions.
+In comparison with reported Pt-based and hybrid electrocatalysts, the Pt MA of Pt-Fe-N-C was calculated to an absolute H
+
+and O
+
+pressure of 1 bar based on the equation
+\(E_{\mathrm{c}}^{{{{{0}}}}{{{{.9}}}}\;{{{\mathrm{V}}}}}{{{{ = 10}}}}\;{{{\mathrm{kJ}}}}\;{{{\mathrm{mol}}}}^{{{{{ - 1}}}}}\)
+,
+\({p_{{\rm{O}}_2}}^{\!\ast} = {p_{{\rm{H}}_2}}^{\!\ast} = 1\)
+,
+T
+=
+T
+* = 273 K (
+):
+$${{i}}_{{{{\mathrm{s}}}}(p_{{{{\mathrm{H}}}}_{{{{2}}}}}{{,p}}_{{{{\mathrm{O}}}}_{{{{2}}}}}{{,T}})}^{{{{{0}}}}{{{{.9}}}}\;{{{\mathrm{V}}}}}{{ = i}}_{{{\mathrm{s}}}}^{ \ast \left( {{{{{0}}}}{{{{.9}}}}\;{{{\mathrm{V}}}}} \right)}{{{{ \times }}}}{\left( {\frac{p_{{\mathrm{O}}_2}}{{p_{{\mathrm{O}}_2}}^{\!\ast}}} \right)}^{{{{{0}}}}{{{{.75}}}}}{{{{ \times }}}}{\left( {\frac{p_{{\mathrm{H}}_2}}{{p_{{\mathrm{H}}_2}}^{\!\ast}}} \right)}^{\frac{{{{{1}}}}}{{{{{2}}}}}}{{{{ \times {\mathrm{exp}}}}}}\left[ {\frac{{{{- E}}_{{{\mathrm{c}}}}^{{{{{0}}}}{{{{.9}}}}\;{{{\mathrm{V}}}}}}}{{{{RT}}}}{{{{ \times }}}}\left( {{{{{1 - }}}}\frac{{{T}}}{{{{T}}^ \ast }}} \right)} \right]$$
+
+where
+\(i_{{\rm{s}}(p_{{\rm{H}}_2},p_{{\rm{O}}_2},T)}^{0.9\;V}\)
+and
+\(i_{\rm{s}}^{ \ast \left( {0.9\;V} \right)}\)
+are the current densities,
+E
+c
+0.9 V
+is the activation energy of the ORR at 0.9 V under practical measurement (
+\(p_{{\rm{O}}_2}\)
+,
+\(p_{{\rm{H}}_2}\)
+and
+T
+) and reference (
+\({p_{{\rm{O}}_2}}^ {\!\ast }= {p_{{\rm{H}}_2}}^{\! \ast }= 1\)
+,
+T
+=
+T
+* = 273 K) conditions, respectively.
+Theoretical calculations
+DFT calculations were performed to explore the ORR mechanisms of Pt-Fe-N-C hybrid electrocatalysts by using the VASP (Vienna Ab-Initio Simulation Package) code
+
+,
+
+. The projector augmented wave method
+
+,
+
+pseudopotentials with the revised Perdew–Burke–Ernzerhof generalized gradient approximation (GGA-RPBE)
+
+functional, which were provided in the VASP database, were used to describe the electron–ion interactions. The plane-wave cutoff energy was set to be 400 eV. The Gaussian smearing scheme was used with a width of 0.1 eV. For structure optimizations, the total energy convergence was set to be smaller than 1 × 10
+–5
+eV and the force convergence was set to be lower than 0.01 eV Å
+–1
+on the atoms. Dipole corrections were applied in all the slab simulations. Spin polarization was considered in our calculations. The DFT-D3 method of Grimme with zero damping
+
+was used to include the van der Waals corrections. A vacuum slab of 16 Å was added in the
+z
+direction to avoid spurious periodic interactions. For carbon-based models, the lattice parameters were 14.79 × 14.79 × 20 Å
+
+with a 6 × 6 supercell. For core–shell nanoparticles, a four-atomic-layer (2 × 2) surface unit cell was built with a Pt skin on top of PtFe at the substrate’s lattice constants (5.39 × 5.39 × 22.63 Å
+
+). During the geometry optimizations, the carbon-based models were fully relaxed, and the top two layers with adsorbates on metal slabs were optimized. For the Brillouin zone integrations, the Monkhorst–Pack
+
+grids of 3 × 3 × 1 and 5 × 5 × 1 were sampled for carbon-based models and core–shell slab models, respectively. The GGA+
+U
+(
+U
+= 3.29 eV) was used to describe the localized 3
+d
+orbital electrons for Fe atoms, considering the magnetic moment of Fe correctly
+
+,
+
+,
+
+.
+The calculation of Gibbs free energy for each elementary step was based on the computational hydrogen electrode scheme proposed by Norskov et al.
+
+, which is calculated at 298 K and 1 atmosphere according to the equation
+G
+=
+E
+total
++ ZPE – TS, where
+E
+total
+can be directly obtained from DFT calculations, and ZPE and TS are the zero-point vibrational energy correction and entropy correction, respectively. The ORR reaction pathway on various active sites was considered as follows (where * represents active sites):
+$${{{\mathrm{O}}}}_{{{\mathrm{2}}}}{{{\mathrm{ + }}}}\left( {{{{\mathrm{H}}}}^{{{\mathrm{ + }}}}{{{\mathrm{ + e}}}}^{{{\mathrm{ - }}}}} \right){{{\mathrm{ + }}}} \ast {{{\mathrm{ = }}}} \ast {{{\mathrm{OOH}}}}$$
+
+$$\ast {{{\mathrm{OOH + }}}}\left( {{{{\mathrm{H}}}}^{{{\mathrm{ + }}}}{{{\mathrm{ + e}}}}^{{{\mathrm{ - }}}}} \right){{{\mathrm{ = }}}} \ast {{{\mathrm{O + H}}}}_{{{\mathrm{2}}}}{{{\mathrm{O}}}}$$
+
+$$\ast {{{\mathrm{O + }}}}\left( {{{{\mathrm{H}}}}^{{{\mathrm{ + }}}}{{{\mathrm{ + e}}}}^{{{\mathrm{ - }}}}} \right){{{\mathrm{ = }}}} \ast {{{\mathrm{OH}}}}$$
+
+$$\ast {{{\mathrm{OH + }}}}\left( {{{{\mathrm{H}}}}^{{{\mathrm{ + }}}}{{{\mathrm{ + e}}}}^{{{\mathrm{ - }}}}} \right){{{\mathrm{ = }}}} \ast {{{\mathrm{ + H}}}}_{{{\mathrm{2}}}}{{{\mathrm{O}}}}$$
+
+Therefore, at
+U
+= 0 (versus RHE) and standard conditions, the free energy of the elementary steps can be calculated as:
+$$\Delta {{G_1 = G}}\left( { \ast {{{\mathrm{OOH}}}}} \right){{-G}}\left( \ast \right){{-G}}\left( {{{{\mathrm{O}}}}_{{{\mathrm{2}}}}} \right){{-1/2G}}\left( {{{{\mathrm{H}}}}_{{{\mathrm{2}}}}} \right)$$
+
+$$\Delta {{G_2 = G}}\left( { \ast {{{\mathrm{O}}}}} \right){{ + G}}\left( {{{{\mathrm{H}}}}_{{{\mathrm{2}}}}{{{\mathrm{O}}}}} \right){{-G}}\left( { \ast {{{\mathrm{OOH}}}}} \right){{-1/2G}}\left( {{{{\mathrm{H}}}}_{{{\mathrm{2}}}}} \right)$$
+
+$$\Delta {{G_3 = G}}\left( { \ast {{{\mathrm{OH}}}}} \right){{-G}}\left( { \ast {{{\mathrm{O}}}}} \right){{-1/2G}}\left( {{{{\mathrm{H}}}}_{{{\mathrm{2}}}}} \right)$$
+
+$$\Delta {{G_4 = G}}\left( \ast \right){{+ G}}\left( {{{{\mathrm{H}}}}_{{{\mathrm{2}}}}{{{\mathrm{O}}}}} \right){{-G}}\left( { \ast {{{\mathrm{OH}}}}} \right){{-1/2G}}\left( {{{{\mathrm{H}}}}_{{{\mathrm{2}}}}} \right)$$
+
+The bias effect is considered by shifting the energy state by Δ
+G
+U
+= −
+neU
+, where
+U
+is the electrode applied potential relative to the RHE,
+e
+is the transferred charge and
+n
+is the number of the transferred proton–electron pairs. The detailed results are summarized in Supplementary 
+.
+Data availability
+The data that support findings of this study are available within the article and its Supplementary Information files or from the corresponding author upon reasonable request. The atomic coordinates of the optimized models are provided in Supplementary Data
+
+.
+Source data
+are provided with this paper.
