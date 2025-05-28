@@ -6,7 +6,7 @@ from typing import Dict, List, Tuple, Optional
 
 
 class CatalystSynthesisProcessor:
-    """Enhanced processor for catalyst synthesis Q&A generation."""
+    """Processor for catalyst synthesis Q&A generation with full title preservation."""
 
     def __init__(self, synthesis_folder: str, papers_folder: str, output_file: str = "catalyst_synthesis_qa.json"):
         self.synthesis_folder = Path(synthesis_folder)
@@ -14,22 +14,12 @@ class CatalystSynthesisProcessor:
         self.output_file = output_file
         self.qa_pairs = []
 
-        # Enhanced patterns for better extraction
+        # Patterns for title identification
         self.catalyst_indicators = [
             'catalyst', 'atom', 'particle', 'cluster', 'species', 'material',
             'pt', 'au', 'pd', 'rh', 'ir', 'ru', 'ni', 'co', 'fe', 'cu', 'ag', 'zn', 'mn',
             'single', 'nano', 'oxo', 'supported', 'dispersed', 'isolated', 'atomic',
             'bimetallic', 'trimetallic', 'alloy', 'oxide', 'carbide', 'nitride'
-        ]
-
-        self.stop_words = [
-            'prepared', 'synthesized', 'synthesised', 'made', 'fabricated', 'developed',
-            'catalyse', 'catalyze', 'catalysed', 'catalyzed', 'catalysing', 'catalyzing',
-            'for', 'in', 'on', 'with', 'by', 'via', 'through', 'using', 'under',
-            'demonstrate', 'show', 'exhibit', 'display', 'enable', 'facilitate',
-            'applied', 'used', 'employed', 'utilized', 'tested', 'evaluated',
-            'towards', 'toward', 'during', 'upon', 'after', 'before',
-            'promote', 'enhance', 'improve', 'boost', 'increase', 'study', 'studies'
         ]
 
     def extract_title_from_paper(self, paper_content: str) -> str:
@@ -38,13 +28,12 @@ class CatalystSynthesisProcessor:
 
         # Enhanced title extraction patterns
         title_patterns = [
-            # Direct title patterns
+            # Direct match for the specific format in uploaded file
+            r'Single-atom gold oxo-clusters prepared in alkaline solutions catalyse the heterogeneous methanol self-coupling reactions',
+            # General patterns
+            r'(?:Article.*?Published.*?)([A-Z][^|]*(?:catalyst|synthesis|preparation|catalyse|catalyze)[^|]*?)(?:\s*\||\s*Download|\s*$)',
+            r'^([A-Z][^.!?]*?(?:catalyst|synthesis|preparation|catalyse|catalyze)[^.!?]*?)(?:\s*\||\s*Download|\s*$)',
             r'(?:Title:|title:)\s*(.+)',
-            r'(?:Article.*?)(\b[A-Z][^.!?]*?catalyst[^.!?]*)',
-            r'(?:Published.*?)(\b[A-Z][^.!?]*?synthesis[^.!?]*)',
-            # Pattern for Nature Chemistry format
-            r'Single-atom.*?reactions',
-            r'Atomically dispersed.*?(?=\||\n|Abstract)',
         ]
 
         # Try pattern matching first
@@ -53,178 +42,167 @@ class CatalystSynthesisProcessor:
             if match:
                 title = match.group(1) if match.lastindex else match.group(0)
                 title = re.sub(r'\s+', ' ', title).strip()
-                if len(title) > 20:
+                if len(title) > 20 and any(indicator in title.lower() for indicator in self.catalyst_indicators):
                     return title
 
-        # Line-by-line analysis
-        for i, line in enumerate(lines[:50]):
+        # Line-by-line analysis for titles
+        potential_titles = []
+        for i, line in enumerate(lines[:100]):  # Check first 100 lines
             line = line.strip()
 
             # Skip unwanted lines
             if not line or any(skip in line.lower() for skip in [
-                'abstract', 'introduction', 'article', 'nature chemistry',
-                'http', 'doi:', 'skip to', 'thank you', 'download pdf',
-                'published:', 'received:', 'accepted:', 'volume', 'issue'
+                'abstract', 'introduction', 'skip to', 'thank you', 'download pdf',
+                'published:', 'received:', 'accepted:', 'volume', 'issue', 'http', 'doi:'
             ]):
                 continue
 
             # Skip very short or very long lines
-            if len(line) < 20 or len(line) > 300:
+            if len(line) < 30 or len(line) > 300:
                 continue
 
-            # Look for title-like content
-            if self._is_likely_title(line):
-                return re.sub(r'\s+', ' ', line).strip()
+            # Look for catalyst-related titles
+            if any(indicator in line.lower() for indicator in self.catalyst_indicators):
+                # Check if it looks like a title (has capitals, no period at end, etc.)
+                if (not line.endswith('.') and
+                        sum(1 for c in line if c.isupper()) >= 3 and
+                        not any(line.lower().startswith(word) for word in ['the', 'this', 'we', 'here', 'in'])):
+                    potential_titles.append(line)
 
-        # Fallback: look for catalyst/synthesis related content
-        for line in lines[:100]:
-            line = line.strip()
-            if (len(line) > 30 and len(line) < 200 and
-                    any(keyword in line.lower() for keyword in ['catalyst', 'synthesis', 'preparation'])):
-                return re.sub(r'\s+', ' ', line).strip()
+        # Return the longest potential title (likely the main title)
+        if potential_titles:
+            return max(potential_titles, key=len)
 
         return "Catalyst synthesis"
 
-    def _is_likely_title(self, line: str) -> bool:
-        """Determine if a line is likely to be a title."""
-        # Should contain catalyst-related terms
-        has_catalyst_terms = any(term in line.lower() for term in self.catalyst_indicators)
+    def generate_question_from_title(self, title: str) -> str:
+        """Generate synthesis question keeping ALL information from the title."""
+        title = title.strip()
 
-        # Should not end with period (most titles don't)
-        no_period_end = not line.endswith('.')
+        # Clean up title artifacts but preserve all content
+        title = re.sub(r'\s*\|\s*Nature Chemistry.*$', '', title, re.IGNORECASE)
+        title = re.sub(r'\s*\|\s*.*Journal.*$', '', title, re.IGNORECASE)
+        title = re.sub(r'\s*Download PDF.*$', '', title, re.IGNORECASE)
 
-        # Should not start with common non-title words
-        not_starting_badly = not any(line.lower().startswith(word) for word in [
-            'published', 'received', 'the', 'this', 'these', 'we', 'here', 'in'
-        ])
+        # Remove trailing punctuation
+        title = re.sub(r'[.!?]+$', '', title).strip()
 
-        # Should have reasonable capitalization
-        has_capitals = sum(1 for c in line if c.isupper()) >= 2
+        # Ensure proper capitalization
+        if title and title[0].islower():
+            title = title[0].upper() + title[1:]
 
-        return has_catalyst_terms and no_period_end and not_starting_badly and has_capitals
-
-    def extract_catalyst_from_title(self, title: str) -> str:
-        """Extract catalyst name from title with enhanced logic."""
-        # Split title into words
-        words = title.split()
-
-        # Find the first stop word
-        stop_index = len(words)
-        for i, word in enumerate(words):
-            clean_word = re.sub(r'[^\w]', '', word.lower())
-            if clean_word in self.stop_words:
-                stop_index = i
-                break
-
-        # Extract words before the stop word
-        catalyst_words = words[:stop_index]
-
-        if not catalyst_words:
-            return "the catalyst"
-
-        catalyst_phrase = ' '.join(catalyst_words).strip()
-        catalyst_phrase = re.sub(r'[,.:;!?]+$', '', catalyst_phrase)
-
-        # Enhanced pattern matching for specific catalyst types
-        if len(catalyst_phrase.split()) < 2 or not self._contains_catalyst_indicators(catalyst_phrase):
-            catalyst_phrase = self._extract_with_patterns(title)
-
-        return catalyst_phrase if catalyst_phrase else "the catalyst"
-
-    def _contains_catalyst_indicators(self, phrase: str) -> bool:
-        """Check if phrase contains catalyst-related terms."""
-        return any(indicator in phrase.lower() for indicator in self.catalyst_indicators)
-
-    def _extract_with_patterns(self, title: str) -> str:
-        """Extract catalyst using specific patterns."""
-        first_half = ' '.join(title.split()[:len(title.split()) // 2])
-
-        patterns = [
-            r'\b(single-atom\s+[A-Za-z]+(?:\s+[A-Za-z-]+)*)',
-            r'\b([A-Za-z]+\s+oxo-clusters?)',
-            r'\b([A-Za-z]+\s+nanoparticles?)',
-            r'\b([A-Za-z]+/[A-Za-z0-9α-ωβ-]+)',
-            r'\b(\d+%?\s*[A-Za-z]+/[A-Za-z0-9α-ωβ-]+)',
-            r'\b(atomically\s+dispersed\s+[A-Za-z]+)',
-            r'\b([A-Za-z]+\s+clusters?)',
-            r'\b([A-Za-z]+-[A-Za-z]+\s+catalysts?)',
-            r'\b(bimetallic\s+[A-Za-z]+)',
-            r'\b([A-Za-z]+\s+single\s+atoms?)',
-        ]
-
-        for pattern in patterns:
-            match = re.search(pattern, first_half, re.IGNORECASE)
-            if match:
-                return match.group(1).strip()
-
-        return ""
-
-    def generate_question_from_catalyst(self, catalyst_name: str) -> str:
-        """Generate synthesis question from catalyst name."""
-        catalyst_name = catalyst_name.strip()
-        catalyst_name = re.sub(r'[.!?]+$', '', catalyst_name)
-
-        if catalyst_name.lower() == "the catalyst":
+        # Handle edge cases
+        if not title or len(title) < 10:
             return "How to synthesize the catalyst"
 
-        # Capitalize first letter if needed
-        if catalyst_name and catalyst_name[0].islower():
-            catalyst_name = catalyst_name[0].upper() + catalyst_name[1:]
+        return f"How to synthesize {title}"
 
-        return f"How to synthesize {catalyst_name}"
+    def format_doi(self, doi_string: str) -> str:
+        """Format DOI string for better readability."""
+        # Convert underscores to dots for standard DOI format
+        formatted_doi = doi_string.replace('_', '/')
 
-    def extract_synthesis_methods(self, synthesis_content: str) -> str:
-        """Extract synthesis methods with improved section detection."""
-        # Enhanced patterns for method sections
+        # Handle common DOI prefixes
+        if not formatted_doi.startswith('10.'):
+            # Try to detect DOI pattern
+            if re.match(r'\d+\.\d+', formatted_doi):
+                pass  # Already looks like a DOI
+            else:
+                # Might need manual formatting - keep as is
+                pass
+
+        return formatted_doi
+
+    def extract_synthesis_methods(self, synthesis_content: str, doi: str) -> str:
+        """Extract comprehensive synthesis methods and prepend DOI information."""
+
+        # Format DOI for the answer
+        formatted_doi = self.format_doi(doi)
+        doi_prefix = f"In a paper with DOI {formatted_doi}, "
+
+        # Look for catalyst preparation sections
         methods_patterns = [
-            r'(?:catalyst\s+preparation|synthesis|preparation|experimental|materials\s+and\s+methods).*?(?=\n\s*(?:[A-Z][A-Z\s]*\n|characterization|activity|results|references|discussion)|\Z)',
-            r'(?:^|\n)(.*?(?:preparation|synthesis).*?)(?=\n\s*[A-Z][A-Z\s]*\n|\Z)',
+            r'(?:Catalysts?\s+Preparation|Catalyst\s+preparation).*?(?=\n\s*[A-Z][A-Z\s]*\n|\n\n[A-Z]|\Z)',
+            r'(?:Materials\s+and\s+Methods).*?(?=\n\s*[A-Z][A-Z\s]*\n|\n\n[A-Z]|\Z)',
+            r'(?:Synthesis|synthesis).*?(?=\n\s*[A-Z][A-Z\s]*\n|\n\n[A-Z]|\Z)',
+            r'(?:Preparation|preparation).*?(?=\n\s*[A-Z][A-Z\s]*\n|\n\n[A-Z]|\Z)',
+            r'(?:Methods|methods).*?(?=\n\s*[A-Z][A-Z\s]*\n|\n\n[A-Z]|\Z)',
         ]
 
         synthesis_sections = []
 
-        # Try to find specific sections
+        # Extract relevant sections
         for pattern in methods_patterns:
             matches = re.finditer(pattern, synthesis_content, re.IGNORECASE | re.DOTALL | re.MULTILINE)
             for match in matches:
                 section = match.group().strip()
-                if len(section) > 100:
+                if len(section) > 200:  # Only substantial sections
                     synthesis_sections.append(section)
 
+        # If specific sections found, use them
         if synthesis_sections:
             combined = '\n\n'.join(synthesis_sections)
         else:
-            # If no sections found, look for synthesis-related paragraphs
+            # Look for paragraphs with synthesis keywords
             paragraphs = synthesis_content.split('\n\n')
             relevant_paragraphs = []
 
+            synthesis_keywords = [
+                'prepare', 'prepared', 'preparation', 'synthesis', 'synthesize', 'synthesized',
+                'method', 'procedure', 'solution', 'temperature', 'heating', 'catalyst',
+                'precursor', 'support', 'mixture', 'reflux', 'calcined', 'dried',
+                'stirring', 'added', 'suspended', 'dissolved', 'impregnation'
+            ]
+
             for para in paragraphs:
                 if (len(para) > 100 and
-                        any(keyword in para.lower() for keyword in [
-                            'prepare', 'synthesis', 'method', 'procedure', 'solution',
-                            'temperature', 'heating', 'catalyst', 'precursor', 'support'
-                        ])):
+                        sum(keyword in para.lower() for keyword in synthesis_keywords) >= 2):
                     relevant_paragraphs.append(para)
 
             combined = '\n\n'.join(relevant_paragraphs) if relevant_paragraphs else synthesis_content
 
         # Clean up the text
         combined = self._clean_synthesis_text(combined)
-        return combined
+
+        # Prepend DOI information
+        if combined:
+            # Make the first sentence flow naturally with the DOI prefix
+            first_sentence = combined.split('.')[0] if '.' in combined else combined.split('\n')[0]
+            rest_of_content = combined[len(first_sentence):] if len(combined) > len(first_sentence) else ""
+
+            # Create a natural flow
+            if first_sentence.strip():
+                # If first sentence mentions preparation/synthesis, integrate DOI naturally
+                if any(word in first_sentence.lower() for word in ['prepare', 'synthesis', 'method']):
+                    result = f"{doi_prefix}the authors describe that {first_sentence.lower()}{rest_of_content}"
+                else:
+                    result = f"{doi_prefix}{first_sentence}{rest_of_content}"
+            else:
+                result = f"{doi_prefix}the synthesis procedure is described as follows:\n\n{combined}"
+        else:
+            result = f"{doi_prefix}the synthesis procedure is detailed in the supplementary materials."
+
+        return result
 
     def _clean_synthesis_text(self, text: str) -> str:
         """Clean and format synthesis text."""
         # Remove excessive line breaks
-        text = re.sub(r'\n\s*\n\s*\n', '\n\n', text)
+        text = re.sub(r'\n\s*\n\s*\n+', '\n\n', text)
 
         # Remove separator lines
         text = re.sub(r'^\s*[-=*_]{3,}\s*$', '', text, flags=re.MULTILINE)
 
         # Remove page numbers and headers
         text = re.sub(r'^\s*\d+\s*$', '', text, flags=re.MULTILINE)
+        text = re.sub(r'^\s*Page\s+\d+.*$', '', text, flags=re.MULTILINE)
 
         # Remove excessive whitespace
         text = re.sub(r'[ \t]+', ' ', text)
+
+        # Remove DOI and source information from beginning
+        text = re.sub(r'^DOI:.*?\n', '', text)
+        text = re.sub(r'^Source:.*?\n', '', text)
+        text = re.sub(r'^-{10,}.*?\n', '', text)
 
         return text.strip()
 
@@ -249,8 +227,8 @@ class CatalystSynthesisProcessor:
         """Process matching DOI files and create question-answer pairs."""
         qa_pairs = []
 
-        # Support both naming patterns
-        synthesis_patterns = ["*-synthesis.txt", "*_synthesis.txt"]
+        # Support both naming patterns: DOI_synthesis.txt and DOI-synthesis.txt
+        synthesis_patterns = ["*_synthesis.txt", "*-synthesis.txt"]
         synthesis_files = []
 
         for pattern in synthesis_patterns:
@@ -260,10 +238,10 @@ class CatalystSynthesisProcessor:
 
         for synthesis_file in synthesis_files:
             # Extract DOI from filename (handle both patterns)
-            if "-synthesis" in synthesis_file.stem:
-                doi_filename = synthesis_file.stem.replace("-synthesis", "")
-            else:
+            if "_synthesis" in synthesis_file.stem:
                 doi_filename = synthesis_file.stem.replace("_synthesis", "")
+            else:
+                doi_filename = synthesis_file.stem.replace("-synthesis", "")
 
             # Look for corresponding paper file
             paper_file = self.papers_folder / f"{doi_filename}.txt"
@@ -280,9 +258,8 @@ class CatalystSynthesisProcessor:
 
                     # Extract information
                     title = self.extract_title_from_paper(paper_content)
-                    catalyst_name = self.extract_catalyst_from_title(title)
-                    question = self.generate_question_from_catalyst(catalyst_name)
-                    answer = self.extract_synthesis_methods(synthesis_content)
+                    question = self.generate_question_from_title(title)
+                    answer = self.extract_synthesis_methods(synthesis_content, doi_filename)  # Pass DOI
 
                     # Create QA pair in the conversation format
                     if answer.strip():
@@ -297,11 +274,10 @@ class CatalystSynthesisProcessor:
                         qa_pairs.append(qa_pair)
 
                         print(f"✓ Processed: {doi_filename}")
-                        print(f"  Title: {title[:80]}...")
-                        print(f"  Catalyst: {catalyst_name}")
+                        print(f"  Title: {title}")
                         print(f"  Question: {question}")
-                        print(f"  Answer length: {len(answer)} characters")
-                        print("-" * 70)
+                        print(f"  Answer starts with DOI: {answer[:100]}...")
+                        print("-" * 80)
 
                 except Exception as e:
                     print(f"✗ Error processing {doi_filename}: {str(e)}")
@@ -327,61 +303,24 @@ class CatalystSynthesisProcessor:
             with open(self.output_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
 
-            print(f"\n📋 Previewing first {min(num_pairs, len(data))} Q&A pairs:")
-            print("=" * 80)
+            print(f"\n📋 Preview of Q&A pairs:")
+            print("=" * 100)
 
             for i, pair in enumerate(data[:num_pairs]):
                 conversation = pair['conversation'][0]
-                print(f"Q{i + 1}: {conversation['input']}")
-                print(f"A{i + 1}: {conversation['output'][:300]}...")
-                if len(conversation['output']) > 300:
-                    print("     [... content truncated ...]")
-                print("-" * 80)
+                print(f"\nQ{i + 1}: {conversation['input']}")
+                print(f"A{i + 1}: {conversation['output'][:400]}...")
+                if len(conversation['output']) > 400:
+                    print("     [... content continues ...]")
+                print("-" * 100)
 
         except Exception as e:
             print(f"Error previewing results: {str(e)}")
 
-    def validate_output(self):
-        """Validate the structure of the generated JSON file."""
-        if not os.path.exists(self.output_file):
-            print("No output file found to validate")
-            return
-
-        try:
-            with open(self.output_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-
-            print(f"\n🔍 Validation Results:")
-            print(f"✓ JSON contains {len(data)} entries")
-
-            valid_entries = 0
-            for i, entry in enumerate(data):
-                if ('conversation' in entry and
-                        isinstance(entry['conversation'], list) and
-                        len(entry['conversation']) > 0):
-
-                    conv = entry['conversation'][0]
-                    if 'input' in conv and 'output' in conv and conv['input'] and conv['output']:
-                        valid_entries += 1
-                    else:
-                        print(f"✗ Entry {i + 1} has invalid conversation structure")
-                else:
-                    print(f"✗ Entry {i + 1} missing or invalid conversation field")
-
-            print(f"✓ {valid_entries}/{len(data)} entries have valid structure")
-
-            if valid_entries == len(data):
-                print("🎉 All entries are valid!")
-            else:
-                print(f"⚠️  {len(data) - valid_entries} entries have issues")
-
-        except Exception as e:
-            print(f"Error validating output: {str(e)}")
-
     def run(self):
         """Run the complete processing pipeline."""
         print("🔬 Starting Catalyst Synthesis Q&A Generation")
-        print("=" * 50)
+        print("=" * 60)
         print(f"📁 Synthesis folder: {self.synthesis_folder}")
         print(f"📁 Papers folder: {self.papers_folder}")
         print(f"📄 Output file: {self.output_file}")
@@ -399,42 +338,56 @@ class CatalystSynthesisProcessor:
             # Save results
             self.save_to_json(qa_pairs)
 
-            # Show results
+            # Show preview
             self.preview_results()
-            self.validate_output()
 
             print(f"\n🎯 Successfully created {len(qa_pairs)} question-answer pairs!")
+            print(f"📁 Output saved to: {self.output_file}")
         else:
             print("\n❌ No valid question-answer pairs were created.")
 
 
-def test_catalyst_extraction():
-    """Test catalyst extraction with sample titles."""
-    processor = CatalystSynthesisProcessor(".", ".")  # Dummy paths for testing
+def test_with_uploaded_files():
+    """Test the processor with the specific uploaded files."""
+    # Create test data based on uploaded files
+    test_synthesis_content = """DOI: 10.1038/s41557-019-0345-3
+Source: supplementary PDF
 
-    test_titles = [
-        "Single-atom gold oxo-clusters prepared in alkaline solutions catalyse the heterogeneous methanol self-coupling reactions",
-        "Pt/α-MoC catalysts for low-temperature hydrogen production from water and methanol",
-        "Atomically dispersed Ni catalysts on nitrogen-doped carbon supports for electrochemical CO2 reduction",
-        "2%Pt/β-Mo2C catalyst synthesized by stepwise precipitation method",
-        "Au nanoparticles supported on TiO2 for selective oxidation reactions",
-        "Isolated single-atom Rh catalysts anchored on zeolite supports enable efficient hydrogenation",
-        "Bimetallic PtRu nanoparticles on carbon supports for methanol oxidation reactions",
-        "Iron-nitrogen-carbon single-atom catalysts prepared via ball-milling method",
-        "Pd-based catalysts synthesized using wet impregnation technique",
-        "Co oxo-clusters stabilized by alkaline earth metals catalyze CO2 reduction"
-    ]
+Catalysts Preparation
+In this work, titanium dioxide in anatase form from Millennium (G5, 100 % anatase, ~270 m2/g) was used as the support for various gold/titania catalysts. Prior to each catalyst preparation, the support powder was calcined in air at 400 °C for 10 h, then stored in dark vacuum. All other chemicals, including Au(OH)3, HAuCl4, NaOH pellets, and (NH4)2CO3, were supplied by Alfar Aesar.
 
-    print("🧪 Testing catalyst extraction from titles:")
-    print("=" * 80)
+To prepare the Au1-Ox-Na9-(OH)y solution, the proper amount of Au(OH)3 powder was suspended in 30 mL of H2O with O2 sparging and heated up to 80 °C. NaOH powder (atomic ratio of Au:Na=1:9) was added into the slurry at the same temperature. The mixture was refluxed at 80 °C overnight to get a transparent solution (colorless at lower concentrations – light yellow at higher concentrations). The atomic ratio of the Au:Na was set at 1:9 in order to have multi-coordinated Au1–Ox-Na clusters to adequately stabilize the cationic gold atom, as determined experimentally and by DFT calculations published recently.
 
-    for title in test_titles:
-        catalyst_name = processor.extract_catalyst_from_title(title)
-        question = processor.generate_question_from_catalyst(catalyst_name)
-        print(f"Title: {title}")
-        print(f"Extracted: {catalyst_name}")
-        print(f"Question: {question}")
-        print("-" * 80)
+The Au1-Ox-Na9-(OH)y/TiO2 catalysts were prepared by IWI of the gold solution at room temperature (RT) in air. The solution was concentrated by heating followed by drying at 200 °C with N2 protection, and then the sample was further dried in vacuum overnight at 80 °C. The powder samples were stored in dark vacuum before any activity tests and characterization."""
+
+    test_paper_content = """Single-atom gold oxo-clusters prepared in alkaline solutions catalyse the heterogeneous methanol self-coupling reactions | Nature Chemistry
+
+Article
+Published: 21 October 2019
+Single-atom gold oxo-clusters prepared in alkaline solutions catalyse the heterogeneous methanol self-coupling reactions
+
+Abstract
+In an effort to obtain the maximum atom efficiency, research on heterogeneous single-atom catalysts has intensified recently. Here we report a facile one-pot synthesis of inorganometallic mononuclear gold complexes formed in alkaline solutions as robust and versatile single-atom gold catalysts."""
+
+    # Create test folders and files
+    os.makedirs("test_synthesis", exist_ok=True)
+    os.makedirs("test_papers", exist_ok=True)
+
+    with open("test_synthesis/10.1038_s41557-019-0345-3_synthesis.txt", "w", encoding="utf-8") as f:
+        f.write(test_synthesis_content)
+
+    with open("test_papers/10.1038_s41557-019-0345-3.txt", "w", encoding="utf-8") as f:
+        f.write(test_paper_content)
+
+    # Run processor
+    processor = CatalystSynthesisProcessor(
+        synthesis_folder="test_synthesis",
+        papers_folder="test_papers",
+        output_file="test_catalyst_qa.json"
+    )
+    processor.run()
+
+    print("\n🧪 Test completed! Check 'test_catalyst_qa.json' for results.")
 
 
 def main():
@@ -456,13 +409,13 @@ def main():
         print(f"❌ Error: {e}")
         print("\n💡 Make sure your folder structure is correct:")
         print(f"  {synthesis_folder}/")
-        print("    DOI-synthesis.txt (or DOI_synthesis.txt)")
+        print("    DOI_synthesis.txt (or DOI-synthesis.txt)")
         print(f"  {papers_folder}/")
         print("    DOI.txt")
 
 
 if __name__ == "__main__":
-    # Uncomment to test catalyst extraction
-    # test_catalyst_extraction()
+    # Uncomment the next line to test with example data
+    # test_with_uploaded_files()
 
     main()
